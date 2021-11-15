@@ -158,11 +158,21 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 
 (10) Any individual—
 
-  (A) 11 So in original. No subpar. (B) has been enacted. who—
+  (A) who—
 
     (i) was naturalized pursuant to section 2(1) of the Hmong Veterans’ Naturalization Act of 2000 (Public Law 106–207; [8 U.S.C. 1423](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1423&num=0&edition=prelim) note); and
 
-    (ii) at the time of the individual’s death resided in the United States.
+    (ii) at the time of the individual’s death resided in the United States; or
+
+  (B) who—
+
+    (i) the Secretary determines served honorably with a special guerrilla unit or irregular forces operating from a base in Laos in support of the Armed Forces at any time during the period beginning on February 28, 1961, and ending on May 7, 1975; and
+
+    (ii) at the time of the individual’s death—
+
+      (I) was a citizen of the United States or an alien lawfully admitted for permanent residence in the United States; and
+
+      (II) resided in the United States.
 
 **(b)** For purposes of subsection (a)(9) of this section:
 
@@ -179,6 +189,8 @@ Section 2(1) of the Hmong Veterans’ Naturalization Act of 2000, referred to in
 
 #### Amendments
 2021—Subsec. (a)(1). Pub. L. 116–283 substituted “air, or space service” for “or air service”.
+
+Subsec. (a)(10)(B). Pub. L. 117–81 added subpar. (B).
 
 2018—Subsec. (a)(5). Pub. L. 115–407 inserted “, and the spouse, minor child, and, in the discretion of the Secretary, unmarried adult child of a member of the Armed Forces serving on active duty under conditions other than dishonorable, as shown by a statement from a general court-martial convening authority, at the time of the spouse’s or child’s death if such death occurs before October 1, 2024” after “paragraph (7)”.
 
@@ -213,6 +225,9 @@ Pub. L. 102–40 substituted “6105” for “3505” in introductory provision
 1986—Pars. (2), (3). Pub. L. 99–576, § 701(54)(A), substituted “while such member” for “while he” wherever appearing.
 
 Par. (5). Pub. L. 99–576, § 701(54)(B), struck out “wife, husband,” before “surviving spouse”.
+
+#### Effective Date of 2021 Amendment
+Pub. L. 117–81, div. F, title LXVI, § 6601(b), Dec. 27, 2021, 135 Stat. 2438, provided that: “The amendments made by this section [amending this section] shall have effect as if included in the enactment of section 251(a) of title II of the Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2018 (division J of Public Law 115–141; 132 Stat. 824).”
 
 #### Effective Date of 2018 Amendment
 Pub. L. 115–141, div. J, title II, § 251(b), Mar. 23, 2018, 132 Stat. 825, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to an individual dying on or after the date of the enactment of this Act [Mar. 23, 2018].”
@@ -455,12 +470,12 @@ Subject to such restrictions as the Secretary may prescribe, the Secretary may a
 
 
 <a id="section-2408"></a>
-## § 2408. Aid to States for establishment, expansion, and improvement of veterans’ cemeteries
+## § 2408. Aid to States, counties, and tribal organizations for establishment, expansion, and improvement of veterans’ cemeteries
 **(a)**
 
-(1) Subject to subsection (b), the Secretary may make a grant to any State for the following purposes:
+(1) Subject to subsections (b), (c), (d), and (g), the Secretary may make a grant to any State or county for the following purposes:
 
-  (A) Establishing, expanding, or improving a veterans’ cemetery owned by the State.
+  (A) Establishing, expanding, or improving a veterans’ cemetery owned by the State or county.
 
   (B) Operating and maintaining such a cemetery.
 
@@ -474,9 +489,9 @@ Subject to such restrictions as the Secretary may prescribe, the Secretary may a
 
   (B) in the case of the expansion or improvement of an existing cemetery, the sum of: (i) the cost of improvements to be made on any land to be added to the cemetery; and (ii) the cost of any improvements to be made to the existing cemetery; and (iii) training costs described in subsection (c)(1).
 
-(2) If the amount of such a grant is less than the amount of costs referred to in subparagraph (A) or (B) of paragraph (1), the State receiving the grant shall contribute the excess of such costs over the grant.
+(2) If the amount of such a grant is less than the amount of costs referred to in subparagraph (A) or (B) of paragraph (1), the State or county receiving the grant shall contribute the excess of such costs over the grant.
 
-(3) If a State that has received such a grant to establish, expand, or improve a veterans’ cemetery ceases to own such cemetery, ceases to operate such cemetery as a veterans’ cemetery, or uses any part of the funds provided through such grant for a purpose other than that for which the grant was made, the United States shall be entitled to recover from such State the total of all grants made under this section to such State in connection with such cemetery.
+(3) If a State or county that has received such a grant to establish, expand, or improve a veterans’ cemetery ceases to own such cemetery, ceases to operate such cemetery as a veterans’ cemetery, or uses any part of the funds provided through such grant for a purpose other than that for which the grant was made, the United States shall be entitled to recover from such State or county the total of all grants made under this section to such State or county in connection with such cemetery.
 
 **(c)**
 
@@ -488,23 +503,23 @@ Subject to such restrictions as the Secretary may prescribe, the Secretary may a
 
 **(d)**
 
-(1) In addition to the conditions specified in subsection (b) of this section, any grant to a State under this section to assist such State in establishing a veterans’ cemetery shall be made on the condition that such cemetery shall conform to such standards and guidelines relating to site selection, planning, and construction as the Secretary may by regulation prescribe. In prescribing regulations for the purposes of the preceding sentence, the Secretary shall take into account the standards and guidelines for site selection, planning, and construction that are applicable to cemeteries under the control of the National Cemetery Administration, including those provided in subsections (b), (c), and (d) of [section 2404 of this title](./chapter-024-national-cemeteries-and-memorials.md#section-2404).
+(1) In addition to the conditions specified in subsection (b) of this section, any grant to a State or county under this section to assist such State or county in establishing a veterans’ cemetery shall be made on the condition that such cemetery shall conform to such standards and guidelines relating to site selection, planning, and construction as the Secretary may by regulation prescribe. In prescribing regulations for the purposes of the preceding sentence, the Secretary shall take into account the standards and guidelines for site selection, planning, and construction that are applicable to cemeteries under the control of the National Cemetery Administration, including those provided in subsections (b), (c), and (d) of [section 2404 of this title](./chapter-024-national-cemeteries-and-memorials.md#section-2404).
 
 (2) The Secretary may by regulation prescribe such additional terms and conditions for grants under this section as the Secretary considers appropriate.
 
 **(e)**
 
-(1) In addition to the conditions specified in subsections (b) and (c), any grant made to a State under this section shall be made subject to the condition specified in paragraph (2).
+(1) In addition to the conditions specified in subsections (b) and (c), any grant made to a State or county under this section shall be made subject to the condition specified in paragraph (2).
 
-(2) For purposes of paragraph (1), the condition described in this paragraph is that, after the date of the receipt of the grant, such State prohibit the interment or memorialization in that cemetery of a person described in [section 2411(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2411/b&num=0&edition=prelim), subject to the receipt of notice described in subsection (a)(2) of such section, except that for purposes of this subsection—
+(2) For purposes of paragraph (1), the condition described in this paragraph is that, after the date of the receipt of the grant, such State or county prohibit the interment or memorialization in that cemetery of a person described in [section 2411(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2411/b&num=0&edition=prelim), subject to the receipt of notice described in subsection (a)(2) of such section, except that for purposes of this subsection—
 
-  (A) such notice shall be furnished to an appropriate official of such State; and
+  (A) such notice shall be furnished to an appropriate official of such State or county; and
 
-  (B) a finding described in subsection (b)(3) of such section shall be made by an appropriate official of such State.
+  (B) a finding described in subsection (b)(3) of such section shall be made by an appropriate official of such State or county.
 
 **(f)**
 
-(1) Amounts appropriated to carry out this section shall remain available until expended. If all funds from a grant under this section have not been utilized by a State for the purpose for which the grant was made within three years after such grant is made, the United States shall be entitled to recover any such unused grant funds from such State.
+(1) Amounts appropriated to carry out this section shall remain available until expended. If all funds from a grant under this section have not been utilized by a State or county for the purpose for which the grant was made within three years after such grant is made, the United States shall be entitled to recover any such unused grant funds from such State or county.
 
 (2) In any fiscal year, the aggregate amount of grants awarded under this section for the purposes specified in subsection (a)(1)(B) may not exceed $10,000,000.
 
@@ -514,66 +529,51 @@ Subject to such restrictions as the Secretary may prescribe, the Secretary may a
 
 (2) Grants under this subsection shall be made in the same manner, and under the same conditions, as grants to States are made under the preceding provisions of this section.
 
-(3) For purposes of this subsection:
+**(h)**
 
-  (A) The term “tribal organization” has the meaning given that term in [section 3765(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3765/4&num=0&edition=prelim).
+(1) The Secretary may make a grant to a county under this section only if—
 
-  (B) The term “trust land” has the meaning given that term in [section 3765(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3765/1&num=0&edition=prelim).
+  (A)
+
+    (i) the State in which the county is located does not have a veterans’ cemetery owned by the State;
+
+    (ii) the State is not in receipt of a grant under this section for the construction of a new veterans’ cemetery to be owned by the State;
+
+    (iii) the State did not apply for a grant under this section during the previous year;
+
+    (iv) no tribal organization from the State in which the county is located has a veterans’ cemetery on trust land owned by, or held in trust for, the tribal organization;
+
+    (v) no such tribal organization is in receipt of a grant under this section for the construction of a new veterans’ cemetery to be located on such land; and
+
+    (vi) no such tribal organization applied for a grant under this section during the previous year; and
+
+  (B) the county demonstrates in the application under subsection (a)(2), to the satisfaction of the Secretary, that the county has the resources necessary to operate and maintain the veterans’ cemetery owned by the county.
+
+(2)
+
+  (A) If a county and the State in which the county is located both apply for a grant under this section for the same year, the Secretary shall give priority to the State.
+
+  (B) If a county and a tribal organization from the State in which the county is located both apply for a grant under this section for the same year, the Secretary shall give priority to the tribal organization.
+
+(3) The Secretary shall prescribe regulations to carry out this subsection.
+
+**(i)** For purposes of this section:
+
+(1) The term “tribal organization” has the meaning given that term in [section 3765(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3765/4&num=0&edition=prelim).
+
+(2) The term “trust land” has the meaning given that term in [section 3765(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3765/1&num=0&edition=prelim).
 
 ### Statutory Notes
 
-#### Amendment of Section
-Pub. L. 116–315, title II, §§ 2205(a), (b)(1), (c), Jan. 5, 2021, 134 Stat. 4986, 4987, provided that, effective on the date that is two years after Jan. 5, 2021, this section is amended as follows:
-
-(1) in section catchline, by inserting “, counties, and tribal (2)organizations” after “States”;
-
-(2) by inserting “or county” after “State” each place it appears;
-
-(3) in subsection (a)(1), in the matter preceding subparagraph (A), by striking “subsection (b)” and inserting “subsections (b), (c), (d), and (g)”;
-
-(4) in subsection (f), by redesignating paragraph (3) as subsection (h);
-
-(5) by adding the following new subsection:
-
-“(g)(1) The Secretary may make a grant to a county under this section only if—
-
-“(A)(i) the State in which the county is located does not have a veterans’ cemetery owned by the State;
-
-“(ii) the State is not in receipt of a grant under this section for the construction of a new veterans’ cemetery to be owned by the State;
-
-“(iii) the State did not apply for a grant under this section during the previous year;
-
-“(iv) no tribal organization from the State in which the county is located has a veterans’ cemetery on trust land owned by, or held in trust for, the tribal organization;
-
-“(v) no such tribal organization is in receipt of a grant under this section for the construction of a new veterans’ cemetery to be located on such land; and
-
-“(vi) no such tribal organization applied for a grant under this section during the previous year; and
-
-“(B) the county demonstrates in the application under subsection (a)(2), to the satisfaction of the Secretary, that the county has the resources necessary to operate and maintain the veterans’ cemetery owned by the county.
-
-“(2)(A) If a county and the State in which the county is located both apply for a grant under this section for the same year, the Secretary shall give priority to the State.
-
-“(B) If a county and a tribal organization from the State in which the county is located both apply for a grant under this section for the same year, the Secretary shall give priority to the tribal organization.
-
-“(3) The Secretary shall prescribe regulations to carry out this subsection.”; and
-
-(6) by moving subsection (h), as redesignated, to follow subsection (g), and amending it as follows:
-
-(A) by redesignating subparagraphs (A) and (B) as paragraphs (1) and (2), respectively; and
-
-(B) in the matter preceding paragraph (1), as so redesignated, by striking “this subsection” and inserting “this section”.
-
-See Codification note and 2021 Amendment notes below.
-
-#### Codification
-Section 2208(a)(2) of Pub. L. 116–315 redesignated subsecs. (f), (g), and (h) of this section as (g), (h), and (i), respectively, effective on Jan. 5, 2021. However, this section did not contain subsecs. (g) and (h) until their addition by section 2205(a)(3) and (4)(A) of Pub. L. 116–315, which was not effective until 2 years after Jan. 5, 2021. The redesignations of subsecs. (g) and (h) were executed to reflect the probable intent of Congress, notwithstanding that they were redesignated 2 years before they existed. By the same token, the amendment by section 2205(a)(4)(A), which redesignated subsec. (f)(3) as (h), was executed to subsec. (g)(3) as the probable intent of Congress because the redesignation of subsec. (f) as (g) by section 2208(a)(2) had already taken effect. See 2021 Amendment notes below.
+#### Applicability of 2021 Amendment
+Amendment of section by section 2205(a) and (b)(1) of Pub. L. 116–315 applicable with respect to grants applications submitted on or after the date that is two years after Jan. 5, 2021. See 2021 Amendment notes and Effective Date of 2021 Amendment; Applicability note below.
 
 #### Amendments
 2021—Pub. L. 116–315, § 2205(b)(1), inserted “, counties, and tribal organizations” after “States” in section catchline.
 
 Pub. L. 116–315, § 2205(a)(1), inserted “or county” after “State” wherever appearing.
 
-Subsec. (a)(1). Pub. L. 116–315, § 2205(a)(2), substituted “subsections (b), (c), (d), and (g)” for “subsection (b)”.
+Subsec. (a)(1). Pub. L. 116–315, § 2205(a)(2), substituted “subsections (b), (c), (d), and (g)” for “subsection (b)” in introductory provisions.
 
 Subsec. (b)(1)(A). Pub. L. 116–315, § 2208(a)(1)(A), substituted “(ii) the cost” for “and (ii) the cost” and inserted before semicolon “; and (iii) training costs described in subsection (c)(1)”.
 
@@ -587,19 +587,17 @@ Subsec. (e)(2). Pub. L. 116–315, § 2206, substituted “$10,000,000” for �
 
 Subsec. (f). Pub. L. 116–315, § 2208(a)(2), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 116–315, § 2208(a)(2), redesignated subsec. (f) as (g). Another subsec. (g), which was added by Pub. L. 116–315, § 2205(a)(3), was redesignated (h). See Codification note above.
+Subsec. (f)(3). Pub. L. 116–315, § 2205(a)(4)(A), (B), redesignated par. (3) as (h). Such subsec. (h) subsequently redesignated (i).
 
-Pub. L. 116–315, § 2205(a)(3), added subsec. (g), which had already been redesignated (h). See Codification note above.
+Subsec. (g). Pub. L. 116–315, § 2208(a)(2), redesignated subsec. (f) as (g). Another subsec. (g), which was added by Pub. L. 116–315, § 2205(a)(3), was redesignated (h).
 
-Subsec. (g)(3). Pub. L. 116–315, § 2205(a)(4)(A)–(C), redesignated par. (3) as (h) and subpars. (A) and (B) as pars. (1) and (2), respectively. Amendment was directed to subsec. (f)(3) but executed to (g)(3) to reflect the probable intent of Congress. See Codification note above.
+Pub. L. 116–315, § 2205(a)(3), added subsec. (g).
 
-Subsec. (h). Pub. L. 116–315, § 2208(a)(2), redesignated subsec. (g), as added by Pub. L. 116–315, § 2205(a)(3), as (h). Another subsec. (h), which was redesignated from (g)(3) (formerly (f)(3)) by Pub. L. 116–315, § 2205(a)(4)(A), was redesignated (i). See Codification note above.
+Subsec. (h). Pub. L. 116–315, § 2208(a)(2), redesignated subsec. (g), as added by Pub. L. 116–315, § 2205(a)(3), as (h). Another subsec. (h), which was redesignated from (f)(3) by Pub. L. 116–315, § 2205(a)(4)(A), was redesignated (i).
 
-Pub. L. 116–315, § 2205(a)(4)(A)–(C), redesignated subsec. (g)(3) as (h) (which had already been redesignated (i)) and subpars. (A) and (B) as pars. (1) and (2), respectively. Amendment was directed to subsec. (f)(3) but executed to (g)(3) to reflect the probable intent of Congress. See Codification note above.
+Pub. L. 116–315, § 2205(a)(4), redesignated subsec. (f)(3) as (h) and subpars. (A) and (B) as pars. (1) and (2), respectively, and substituted “this section” for “this subsection” in introductory provisions. Subsec. (h) subsequently redesignated (i).
 
-Subsec. (i). Pub. L. 116–315, § 2208(a)(2), redesignated subsec. (h), as redesignated by Pub. L. 116–315, § 2205(a)(4)(A), (B), as (i). See Codification note above.
-
-Pub. L. 116–315, § 2205(a)(4)(D), which directed amendment of subsec. (h) by substituting “this section” for “this subsection” in introductory provisions, was executed by making the substitution in subsec. (i) to reflect the probable intent of Congress and the redesignation of subsec. (h) as (i) by Pub. L. 116–315, § 2208(a)(2).
+Subsec. (i). Pub. L. 116–315, § 2208(a)(2), redesignated subsec. (h), as redesignated by Pub. L. 116–315, § 2205(a)(4)(A), (B), as (i).
 
 2007—Subsec. (a). Pub. L. 110–157, § 202(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Subject to subsection (b) of this section, the Secretary may make grants to any State to assist such State in establishing, expanding, or improving veterans’ cemeteries owned by such State. Any such grant may be made only upon submission of an application to the Secretary in such form and manner, and containing such information, as the Secretary may require.”
 
@@ -653,8 +651,8 @@ Subsec. (b)(3), (4). Pub. L. 100–322, § 343(2), redesignated par. (4) as (3).
 
 1984—Subsec. (a)(2). Pub. L. 98–223 inserted “, and such sums as may be necessary for fiscal year 1985 and for each of the four succeeding fiscal years,” after “fiscal years”.
 
-#### Effective Date of 2021 Amendment
-Pub. L. 116–315, title II, § 2205(c), Jan. 5, 2021, 134 Stat. 4987, provided that: “The amendments made by this section [amending this section] shall take on effect on the date that is two years after the date of the enactment of this Act [Jan. 5, 2021].”
+#### Effective Date of 2021 Amendment; Applicability
+Pub. L. 116–315, title II, § 2205(c), Jan. 5, 2021, 134 Stat. 4987, as amended by Pub. L. 117–16, § 7(b)(2), June 8, 2021, 135 Stat. 285, provided that: “The amendments made by this section [amending this section] shall take on [sic] effect on the date of the enactment of this Act [Jan. 5, 2021] and shall apply with respect to grants applications submitted on or after the date that is two years after the date of the enactment of this Act..[sic]”
 
 #### Effective Date of 1998 Amendment
 Pub. L. 105–368, title IV, § 404(a)(2), Nov. 11, 1998, 112 Stat. 3339, provided that: “The amendment made by paragraph (1) [amending this section] shall apply with respect to grants under [section 2408 of title 38](./chapter-024-national-cemeteries-and-memorials.md#section-2408), United States Code, made after the end of the 60-day period beginning on the date of the enactment of this Act [Nov. 11, 1998].”
@@ -742,6 +740,9 @@ Pub. L. 110–157, title II, § 202(b)(4), Dec. 26, 2007, 121 Stat. 1833, provid
 1991—Pub. L. 102–83 renumbered [section 1009 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1009&num=0&edition=prelim) as this section.
 
 1989—Subsec. (b). Pub. L. 101–237 inserted “of the Army” after “Secretary”.
+
+#### Updates and Preservation of Memorials to Chaplains at Arlington National Cemetery
+Pub. L. 117–81, div. A, title V, § 584, Dec. 27, 2021, 135 Stat. 1758, provided that: “(a) Updates and Preservation of Memorials.—“(1) Protestant chaplains memorial.—The Secretary of the Army may permit NCMAF—“(A) to modify the memorial to Protestant chaplains located on Chaplains Hill to include a granite, marble, or other stone base for the bronze plaque of the memorial; “(B) to provide an updated bronze plaque, described in subparagraph (A), including the name of each chaplain, verified as described in subsection (b), who died while serving on active duty in the Armed Forces after the date on which the original memorial was placed; and “(C) to make such other updates and corrections to the memorial that the Secretary determines necessary. “(2) Catholic and jewish chaplain memorials.—The Secretary of the Army may permit NCMAF to update and make corrections to the Catholic and Jewish chaplain memorials located on Chaplains Hill that the Secretary determines necessary. “(3) No cost to federal government.—The activities of NCMAF authorized by this subsection shall be carried out at no cost to the Federal Government. “(b) Verification of Names.—NCMAF may not include the name of a chaplain on a memorial on Chaplains Hill under subsection (a) unless that name has been verified by the Chief of Chaplains of the Army, Navy, or Air Force or the Chaplain of the United States Marine Corps, depending on the branch of the Armed Forces in which the chaplain served. “(c) Prohibition on Expansion of Memorials.—Except as provided in subsection (a)(1)(A), this section may not be construed as authorizing the expansion of any memorial that is located on Chaplains Hill as of the date of the enactment of this Act [Dec. 27, 2021]. “(d) Definitions.—In this section:“(1) The term ‘Chaplains Hill’ means the area in Arlington National Cemetery that, as of the date of the enactment of this Act, is generally identified and recognized as Chaplains Hill. “(2) The term ‘NCMAF’ means the National Conference on Ministry to the Armed Forces or any successor organization recognized in law for purposes of the operation of this section.”
 
 #### Transfer to the Secretary of the Army and Management of Parcel of Federal Land in Arlington, Virginia
 Pub. L. 116–92, div. B, title XXVIII, § 2834(a), Dec. 20, 2019, 133 Stat. 1893, provided that: “(1) Transfer.—Administrative jurisdiction over the parcel of Federal land described in paragraph (2) is transferred from the Secretary of the Interior to the Secretary of the Army. “(2) Description of land.—The parcel of Federal land referred to in paragraph (1) is the approximately 16.09-acre parcel of land in Arlington, Virginia, as depicted on the map entitled ‘Arlington National Cemetery, Memorial Ave–NPS Parcel’ and dated February 11, 2019.”

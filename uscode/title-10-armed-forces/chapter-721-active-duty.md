@@ -70,7 +70,7 @@ A prior section 7210, act Aug. 10, 1956, ch. 1041, 70A Stat. 444, authorized Sec
 Prior sections 7211 and 7212 were renumbered sections 8611 and 8612 of this title, respectively.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 3503 of this title](./chapter-249-multiyear-contracts.md#section-3503) as this section.
+2018—Pub. L. 115–232 renumbered [section 3503 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3503&num=0&edition=prelim) as this section.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).

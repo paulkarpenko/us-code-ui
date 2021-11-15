@@ -2,7 +2,7 @@
 title: 49
 chapter: '3'
 heading: GENERAL DUTIES AND POWERS
-section_count: 34
+section_count: 36
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49&num=0&edition=prelim
 ---
@@ -49,8 +49,23 @@ Par. (6). Pub. L. 102–240, §§ 5002(a), 6017, redesignated par. (5) as (6) an
 
 Pars. (7), (8). Pub. L. 102–240, § 5002(a), redesignated pars. (6) and (7) as (7) and (8), respectively.
 
+#### Geomatic Data
+Pub. L. 117–58, div. A, title I, § 11308, Nov. 15, 2021, 135 Stat. 534, provided that: “(a) In General.—The Secretary [of Transportation] shall develop guidance for the acceptance and use of information obtained from a non-Federal entity through geomatic techniques, including remote sensing and land surveying, cartography, geographic information systems, global navigation satellite systems, photogrammetry, or other remote means. “(b) Considerations.—In carrying out this section, the Secretary shall ensure that acceptance or use of information described in subsection (a) meets the data quality and operational requirements of the Secretary. “(c) Public Comment.—Before issuing any final guidance under subsection (a), the Secretary shall provide to the public—“(1) notice of the proposed guidance; and “(2) an opportunity to comment on the proposed guidance. “(d) Savings Clause.—Nothing in this section—“(1) requires the Secretary to accept or use information that the Secretary determines does not meet the guidance developed under this section; or “(2) changes the current statutory or regulatory requirements of the Department [of Transportation].”
+
+#### Risk and System Resilience
+Pub. L. 117–58, div. B, title V, § 25007, Nov. 15, 2021, 135 Stat. 849, provided that: “(a) In General.—The Secretary [of Transportation], in consultation with appropriate Federal, State, and local agencies, shall develop a process for quantifying annual risk in order to increase system resilience with respect to the surface transportation system of the United States by measuring—“(1) resilience to threat probabilities by type of hazard and geographical location; “(2) resilience to asset vulnerabilities with respect to each applicable threat; and “(3) anticipated consequences from each applicable threat to each asset. “(b) Use by State, Regional, Tribal, and Local Entities.—“(1) In general.—The Secretary shall provide the process developed under subsection (a) to State departments of transportation, metropolitan planning organizations, Indian Tribes, local governments, and other relevant entities. “(2) Guidance and technical assistance.—The Secretary shall provide to the entities described in paragraph (1) guidance and technical assistance on the use of the process referred to in that paragraph. “(c) Research.—“(1) In general.—The Secretary shall—“(A) identify and support fundamental research to develop a framework and quantitative models to support compilation of information for risk-based analysis of transportation assets by standardizing the basis for quantifying annual risk and increasing system resilience; and “(B) build on existing resilience research, including studies conducted by—“(i) the Transportation Research Board of the National Academies of Sciences, Engineering, and Medicine; and “(ii) the National Institute of Standards and Technology. “(2) Use of existing facilities.—In carrying out paragraph (1), the Secretary shall use existing research facilities available to the Secretary, including the Turner–Fairbank Highway Research Center and University Transportation Centers established under [section 5505 of title 49](./chapter-055-intermodal-transportation.md#section-5505), United States Code.”
+
+#### Safety Data Initiative
+Pub. L. 117–58, div. B, title V, § 25011, Nov. 15, 2021, 135 Stat. 857, provided that: “(a) Definition of Eligible Entity.—In this section, the term ‘eligible entity’ means—“(1) a State; “(2) a unit of local government; “(3) a transit agency or authority; “(4) a metropolitan planning organization; “(5) any other subdivision of a State or local government; “(6) an institution of higher education; and “(7) a multi-State or multijurisdictional group. “(b) Safety Data Initiative.—“(1) Establishment.—The Secretary [of Transportation] shall establish an initiative, to be known as the ‘Safety Data Initiative’, to promote the use of data integration, data visualization, and advanced analytics for surface transportation safety through the development of innovative practices and products for use by Federal, State, and local entities. “(2) Activities.—“(A) Applied research.—“(i) In general.—The Secretary shall support and carry out applied research to develop practices and products that will encourage the integration and use of traditional and new sources of safety data and safety information to improve policy and decisionmaking at the Federal, State, and local government levels. “(ii) Methodology.—In carrying out clause (i), the Secretary may— “(I) carry out demonstration programs; “(II) award grants and provide incentives to eligible entities; “(III) enter into partnerships with—“(aa) eligible entities; “(bb) private sector entities; and “(cc) National Laboratories; and “(IV) use any other tools, strategies, or methods that will result in the effective use of data and information for safety purposes. “(B) Tools and practices.—In carrying out subparagraph (A), the Secretary, to the maximum extent practicable, shall—“(i) develop safety analysis tools for State and local governments, with a particular focus on State and local governments with limited capacity to perform safety analysis; “(ii)(I) identify innovative State and local government practices; “(II) incubate those practices for further development; and “(III) replicate those practices nationwide; and “(iii) transfer to State and local governments the results of the applied research carried out under that subparagraph. “(C) Data sharing.—“(i) In general.—To inform the creation of information useful for safety policy and decisionmaking, the Secretary shall— “(I) encourage the sharing of data between and among Federal, State, and local transportation agencies; and “(II) leverage data from private sector entities. “(ii) Goals.—The goals of the data-sharing activities under clause (i) shall include— “(I) the creation of data ecosystems to reduce barriers to the efficient integration and analysis of relevant datasets for use by safety professionals; and “(II) the establishment of procedures adequate to ensure sufficient security, privacy, and confidentiality as needed to promote the sharing of sensitive or proprietary data. “(iii) Management of data ecosystems.—A data ecosystem described in clause (ii)(I) may be managed by— “(I) the Director of the Bureau of Transportation Statistics; “(II) 1 or more trusted third parties, as determined by the Secretary; or “(III) 1 or more other entities or partnerships capable of securing, managing, and analyzing sensitive or proprietary data. “(3) Plan.—“(A) In general.—The Safety Data Initiative shall be carried out pursuant to a plan to be jointly established by—“(i) the Under Secretary of Transportation for Policy; “(ii) the Chief Information Officer of the Department [of Transportation]; “(iii) the Administrator of the National Highway Traffic Safety Administration; “(iv) the Administrator of the Federal Highway Administration; “(v) the Administrator of the Federal Motor Carrier Safety Administration; “(vi) the Administrator of the Federal Transit Administration; and “(vii) the Administrator of the Federal Railroad Administration. “(B) Requirement.—The plan established under subparagraph (A) shall include details regarding the means by which tools and innovations developed by projects carried out under the Safety Data Initiative will be transferred to the appropriate program of the Department for further implementation. “(C) Deadline.—Not later than 1 year after the date of enactment of this Act [Nov. 15, 2021], the Secretary shall direct the officials described in clauses (i) through (vii) of subparagraph (A) to establish, by a date determined by the Secretary, the plan referred to in that subparagraph. “(4) Termination.—The Safety Data Initiative shall terminate on the later of—“(A) the date that is 1 year after the date of enactment of this Act; and “(B) the date on which the Secretary makes the direction to officials described in paragraph (3)(C).”
+
+#### GAO Cybersecurity Recommendations
+Pub. L. 117–58, div. B, title V, § 25022, Nov. 15, 2021, 135 Stat. 878, provided that: “(a) Cybersecurity Risk Management.—Not later than 3 years after the date of enactment of this Act {Nov. 15, 2021], the Secretary [of Transportation] shall implement the recommendation for the Department [of Transportation] made by the Comptroller General of the United States in the report entitled ‘Cybersecurity: Agencies Need to Fully Establish Risk Management Programs and Address Challenges’, numbered GAO–19–384, and dated July 2019—“(1) by developing a cybersecurity risk management strategy for the systems and information of the Department [of Transportation]; “(2) by updating policies to address an organization-wide risk assessment; and “(3) by updating the processes for coordination between cybersecurity risk management functions and enterprise risk management functions. “(b) Work Roles.—Not later than 3 years after the date of enactment of this Act {Nov. 15, 2021], the Secretary shall implement the recommendation of the Comptroller General of the United States in the report entitled ‘Cybersecurity Workforce: Agencies Need to Accurately Categorize Positions to Effectively Identify Critical Staffing Needs’, numbered GAO–19–144, and dated March 2019, by—“(1) reviewing positions in the Department; and “(2) assigning appropriate work roles in accordance with the National Initiative for Cybersecurity Education Cybersecurity Workforce Framework. “(c) GAO Review.—“(1) Report.—Not later than 18 months after the date of enactment of this Act, the Comptroller General of the United States shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that examines the approach of the Department to managing cybersecurity for the systems and information of the Department. “(2) Contents.—The report under paragraph (1) shall include an evaluation of—“(A) the roles, responsibilities, and reporting relationships of the senior officials of the Department with respect to cybersecurity at the components of the Department; “(B) the extent to which officials of the Department—“(i) establish requirements for, share information with, provide resources to, and monitor the performance of managers with respect to cybersecurity within the components of the Department; and “(ii) hold managers accountable for cybersecurity within the components of the Department; and “(C) other aspects of cybersecurity, as the Comptroller General of the United States determines to be appropriate.”
+
+#### Performance Measurement, Transparency, and Accountability
+Pub. L. 117–58, div. B, title VII, § 27001, Nov. 15, 2021, 135 Stat. 884, provided that: “For each grant awarded under this Act [div. B of Pub. L. 117–58, see Tables for classification], or an amendment made by this Act, the Secretary may— “(1) develop metrics to assess the effectiveness of the activities funded by the grant; “(2) establish standards for the performance of the activities funded by the grant that are based on the metrics developed under paragraph (1); and “(3) not later than the date that is 4 years after the date of the initial award of the grant and every 2 years thereafter until the date on which Federal financial assistance is discontinued for the applicable activity, conduct an assessment of the activity funded by the grant to confirm whether the performance is meeting the standards for performance established under paragraph (2).”
+
 #### National Advisory Committee on Travel and Tourism Infrastructure
-Pub. L. 114–94, div. A, title I, § 1431, Dec. 4, 2015, 129 Stat. 1427, provided that: “(a) Findings.—Congress finds that—“(1) 1 out of every 9 jobs in the United States depends on travel and tourism, and the industry supports 15,000,000 jobs in the United States; “(2) the travel and tourism industry employs individuals in all 50 States, the District of Columbia, and all of the territories of the United States; “(3) international travel to the United States is the single largest export industry in the United States, generating a trade surplus balance of approximately $74,000,000,000; “(4) travel and tourism provide significant economic benefits to the United States by generating nearly $2,100,000,000,000 in annual economic output; and “(5) the United States intermodal transportation network facilitates the large-scale movement of business and leisure travelers, and is the most important asset of the travel industry. “(b) Establishment.—Not later than 180 days after the date of enactment of this Act [Dec. 4, 2015], the Secretary [of Transportation] shall establish an advisory committee to be known as the National Advisory Committee on Travel and Tourism Infrastructure (referred to in this section as the ‘Committee’) to provide information, advice, and recommendations to the Secretary on matters relating to the role of intermodal transportation in facilitating mobility related to travel and tourism activities. “(c) Membership.—The Committee shall—“(1) be composed of members appointed by the Secretary for terms of not more than 3 years; and “(2) include a representative cross-section of public and private sector stakeholders involved in the travel and tourism industry, including representatives of—“(A) the travel and tourism industry, product and service providers, and travel and tourism-related associations; “(B) travel, tourism, and destination marketing organizations; “(C) the travel and tourism-related workforce; “(D) State tourism offices; “(E) State departments of transportation; “(F) regional and metropolitan planning organizations; and “(G) local governments. “(d) Role of Committee.—The Committee shall—“(1) advise the Secretary on current and emerging priorities, issues, projects, and funding needs related to the use of the intermodal transportation network of the United States to facilitate travel and tourism; “(2) serve as a forum for discussion for travel and tourism stakeholders on transportation issues affecting interstate and interregional mobility of passengers; “(3) promote the sharing of information between the private and public sectors on transportation issues impacting travel and tourism; “(4) gather information, develop technical advice, and make recommendations to the Secretary on policies that improve the condition and performance of an integrated national transportation system that—“(A) is safe, economical, and efficient; and “(B) maximizes the benefits to the United States generated through the travel and tourism industry; “(5) identify critical transportation facilities and corridors that facilitate and support the interstate and interregional transportation of passengers for tourism, commercial, and recreational activities; “(6) provide for development of measures of condition, safety, and performance for transportation related to travel and tourism; “(7) provide for development of transportation investment, data, and planning tools to assist Federal, State, and local officials in making investment decisions relating to transportation projects that improve travel and tourism; and “(8) address other issues of transportation policy and programs impacting the movement of travelers for tourism and recreational purposes, including by making legislative recommendations. “(e) National Travel and Tourism Infrastructure Strategic Plan.—Not later than 3 years after the date of enactment of this Act [Dec. 4, 2015], the Secretary, in consultation with the Committee, State departments of transportation, and other appropriate public and private transportation stakeholders, shall develop and post on the public Internet website of the Department a national travel and tourism infrastructure strategic plan that includes—“(1) an assessment of the condition and performance of the national transportation network; “(2) an identification of the issues on the national transportation network that create significant congestion problems and barriers to long-haul passenger travel and tourism; “(3) forecasts of long-haul passenger travel and tourism volumes for the 20-year period beginning in the year during which the plan is issued; “(4) an identification of the major transportation facilities and corridors for current and forecasted long-haul travel and tourism volumes, the identification of which shall be revised, as appropriate, in subsequent plans; “(5) an assessment of statutory, regulatory, technological, institutional, financial, and other barriers to improved long-haul passenger travel performance (including opportunities for overcoming the barriers); “(6) best practices for improving the performance of the national transportation network; and “(7) strategies to improve intermodal connectivity for long-haul passenger travel and tourism.”
+Pub. L. 114–94, div. A, title I, § 1431, Dec. 4, 2015, 129 Stat. 1427, as amended by Pub. L. 117–58, div. B, title V, § 25018(a), Nov. 15, 2021, 135 Stat. 874, provided that: “(a) Findings.—Congress finds that—“(1) 1 out of every 9 jobs in the United States depends on travel and tourism, and the industry supports 15,000,000 jobs in the United States; “(2) the travel and tourism industry employs individuals in all 50 States, the District of Columbia, and all of the territories of the United States; “(3) international travel to the United States is the single largest export industry in the United States, generating a trade surplus balance of approximately $74,000,000,000; “(4) travel and tourism provide significant economic benefits to the United States by generating nearly $2,100,000,000,000 in annual economic output; and “(5) the United States intermodal transportation network facilitates the large-scale movement of business and leisure travelers, and is the most important asset of the travel industry. “(b) Establishment.—Not later than 180 days after the date of enactment of this Act [Dec. 4, 2015], the Secretary [of Transportation] shall establish an advisory committee to be known as the National Advisory Committee on Travel and Tourism Infrastructure (referred to in this section as the ‘Committee’) to provide information, advice, and recommendations to the Secretary on matters relating to the role of intermodal transportation in facilitating mobility related to travel and tourism activities. “(c) Membership.—The Committee shall—“(1) be composed of members appointed by the Secretary for terms of not more than 3 years; and “(2) include a representative cross-section of public and private sector stakeholders involved in the travel and tourism industry, including representatives of—“(A) the travel and tourism industry, product and service providers, and travel and tourism-related associations; “(B) travel, tourism, and destination marketing organizations; “(C) the travel and tourism-related workforce; “(D) State tourism offices; “(E) State departments of transportation; “(F) regional and metropolitan planning organizations; and “(G) local governments. “(d) Role of Committee.—The Committee shall—“(1) advise the Secretary on current and emerging priorities, issues, projects, and funding needs related to the use of the intermodal transportation network of the United States to facilitate travel and tourism; “(2) serve as a forum for discussion for travel and tourism stakeholders on transportation issues affecting interstate and interregional mobility of passengers; “(3) promote the sharing of information between the private and public sectors on transportation issues impacting travel and tourism; “(4) gather information, develop technical advice, and make recommendations to the Secretary on policies that improve the condition and performance of an integrated national transportation system that—“(A) is safe, economical, and efficient; and “(B) maximizes the benefits to the United States generated through the travel and tourism industry; “(5) identify critical transportation facilities and corridors that facilitate and support the interstate and interregional transportation of passengers for tourism, commercial, and recreational activities; “(6) provide for development of measures of condition, safety, and performance for transportation related to travel and tourism; “(7) provide for development of transportation investment, data, and planning tools to assist Federal, State, and local officials in making investment decisions relating to transportation projects that improve travel and tourism; and “(8) address other issues of transportation policy and programs impacting the movement of travelers for tourism and recreational purposes, including by making legislative recommendations. “(e) National Travel and Tourism Infrastructure Strategic Plan.—Not later than 180 days after the date of enactment of the Surface Transportation Investment Act of 2021 [Nov. 15, 2021], the Secretary, in consultation with the Committee, State departments of transportation, and other appropriate public and private transportation stakeholders, shall develop and post on the public Internet website of the Department a national travel and tourism infrastructure strategic plan—“(1) to develop an immediate-term and long-term strategy, including policy recommendations across all modes of transportation, for the Department and other agencies to use infrastructure investments to revive the travel and tourism industry and the overall travel and tourism economy in the wake of the Coronavirus Disease 2019 (COVID–19) pandemic; and “(2) that includes—“(A) an assessment of the condition and performance of the national transportation network, including consideration of the impacts of the COVID–19 pandemic; “(B) an identification of the issues on the national transportation network that create significant congestion problems and barriers to long-haul passenger travel and tourism; “(C) forecasts of long-haul passenger travel and tourism volumes for the 20-year period beginning in the year during which the plan is issued; “(D) an identification of the major transportation facilities and corridors of regional significance for current and forecasted long-haul travel and tourism volumes, the identification of which shall be revised, as appropriate, in subsequent plans; “(E) an assessment of statutory, regulatory, technological, institutional, financial, and other barriers to improved long-haul passenger travel performance (including opportunities for overcoming the barriers); “(F) best practices for improving the performance of the national transportation network; “(G) strategies to improve intermodal connectivity for long-haul passenger travel and tourism; and “(H) an identification of possible infrastructure investments that create recovery opportunities for small, underserved, minority, and rural businesses in the travel and tourism industry, including efforts to preserve and protect the scenic, but often less-traveled, roads that promote tourism and economic development throughout the United States.”
 
 #### Collaboration and Support
 Pub. L. 114–94, div. A, title VI, § 6024, Dec. 4, 2015, 129 Stat. 1585, provided that: “The Secretary [of Transportation] may solicit the support of, and identify opportunities to collaborate with, other Federal research agencies and national laboratories to assist in the effective and efficient pursuit and resolution of research challenges identified by the Secretary.”
@@ -67,7 +82,7 @@ Pub. L. 112–141, div. A, title I, § 1532, July 6, 2012, 126 Stat. 583, provid
 Pub. L. 109–59, title I, § 1926, Aug. 10, 2005, 119 Stat. 1483, as amended by Pub. L. 110–244, title I, § 108(a), June 6, 2008, 122 Stat. 1602, provided that: “Notwithstanding any other provision of law, the Department of Transportation and each agency in the Department shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a budget justification concurrently with the President’s annual budget submission to Congress under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code.”
 
 #### Coordinated Transportation Services
-Pub. L. 105–178, title III, § 3034, June 9, 1998, 112 Stat. 386, provided that: “(a) Study.—The Comptroller General shall conduct a study of Federal departments and agencies (other than the Department of Transportation) that receive Federal financial assistance for non-emergency transportation services. “(b) Contents.—In conducting the study, the Comptroller General shall—“(1) identify each Federal department and agency (other than the Department of Transportation) that has received Federal financial assistance for non-emergency transportation services in any of the 3 fiscal years preceding the date of enactment of this Act [June 9, 1998]; “(2) identify the amount of such assistance received by each Federal department and agency in such fiscal years; and “(3) identify the projects and activities funded using such financial assistance. “(c) Report.—Not later than 1 year after the date of enactment of this Act, the Comptroller General shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report containing the results of the study and any recommendations for enhanced coordination between the Department of Transportation and other Federal departments and agencies that provide funding for non-emergency transportation.”
+Pub. L. 105–178, title III, § 3034, June 9, 1998, 112 Stat. 386, provided that, not later than 1 year after June, 9, 1998, the Comptroller General would transmit to Congress the results of a study of Federal departments and agencies (other than the Department of Transportation) receiving Federal financial assistance for non-emergency transportation services and any recommendations for enhanced coordination between the Department of Transportation and other Federal departments and agencies that provide non-emergency transportation funding.
 
 #### Establishment of Nationwide Differential Global Positioning System
 Pub. L. 105–66, title III, § 346, Oct. 27, 1997, 111 Stat. 1449, provided that: “(a) As soon as practicable after the date of enactment of this Act [Oct. 27, 1997], the Secretary of Transportation, acting for the Department of Transportation, may take receipt of such equipment and sites of the Ground Wave Emergency Network (referred to in this section as ‘GWEN’) as the Secretary of Transportation determines to be necessary for the establishment of a nationwide system to be known as the ‘Nationwide Differential Global Positioning System’ (referred to in this section as ‘NDGPS’). “(b) As soon as practicable after the date of enactment of this Act [Oct. 27, 1997], the Secretary of Transportation may establish the NDGPS. In establishing the NDGPS, the Secretary of Transportation may—“(1) if feasible, reuse GWEN equipment and sites transferred to the Department of Transportation under subsection (a); “(2) to the maximum extent practicable, use contractor services to install the NDGPS; “(3) modify the positioning system operated by the Coast Guard at the time of the establishment of the NDGPS to integrate the reference stations made available pursuant to subsection (a); “(4) in cooperation with the Secretary of Commerce, ensure that the reference stations referred to in paragraph (3) are compatible with, and integrated into, the Continuously Operating Reference Station (commonly referred to as ‘CORS’) system of the National Geodetic Survey of the Department of Commerce; and “(5) in cooperation with the Secretary of Commerce, investigate the use of the NDGPS reference stations for the Global Positioning System Integrated Precipitable Water Vapor System of the National Oceanic and Atmospheric Administration. “(c) The Secretary of Transportation may—“(1) manage and operate the NDGPS; “(2) ensure that the service of the NDGPS is provided without the assessment of any user fee; and “(3) in cooperation with the Secretary of Defense, ensure that the use of the NDGPS is denied to any enemy of the United States. “(d) In any case in which the Secretary of Transportation determines that contracting for the maintenance of 1 or more NDGPS reference stations is cost-effective, the Secretary of Transportation may enter into a contract to provide for that maintenance. “(e) The Secretary of Transportation may—“(1) in cooperation with appropriate representatives of private industries and universities and officials of State governments—“(A) investigate improvements (including potential improvements) to the NDGPS; “(B) develop standards for the NDGPS; and “(C) sponsor the development of new applications for the NDGPS; and “(2) provide for the continual upgrading of the NDGPS to improve performance and address the needs of—“(A) the Federal Government; “(B) State and local governments; and “(C) the general public.”
@@ -574,7 +589,7 @@ In subsection (b)(2), the words “unit of” before “governments” are omitt
 ## § 306. Prohibited discrimination
 **(a)** In this section, “financial assistance” includes obligation guarantees.
 
-**(b)** A person in the United States may not be excluded from participating in, be denied the benefits of, or be subject to discrimination under, a project, program, or activity because of race, color, national origin, or sex when any part of the project, program, or activity is financed through financial assistance under section 332 or 333 or chapter 221 or 249 of this title, section 211 or 216 of the Regional Rail Reorganization Act of 1973 ([45 U.S.C. 721](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section721&num=0&edition=prelim), 726), or title V of the Railroad Revitalization and Regulatory Reform Act of 1976 ([45 U.S.C. 821](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section821&num=0&edition=prelim) et seq.).
+**(b)** A person in the United States may not be excluded from participating in, be denied the benefits of, or be subject to discrimination under, a project, program, or activity because of race, color, national origin, or sex when any part of the project, program, or activity is financed through financial assistance under section 332 or 333 or chapter 221, 224, or 249 of this title, or section 211 or 216 of the Regional Rail Reorganization Act of 1973 ([45 U.S.C. 721](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section721&num=0&edition=prelim), 726).
 
 **(c)** When the Secretary of Transportation decides that a person receiving financial assistance under a law referred to in subsection (b) of this section has not complied with that subsection, a Federal civil rights law, or an order or regulation issued under a Federal civil rights law, the Secretary shall notify the person of the decision and require the person to take necessary action to ensure compliance with that subsection.
 
@@ -613,11 +628,11 @@ In subsection (e), the text of 45:803(d) is omitted as unnecessary because secti
 This is necessary to correct a cross-reference in section 306(b) and to reflect the transfer of the non-positive law provisions of title 49 to title 49 appendix.
 
 #### References in Text
-The Railroad Revitalization and Regulatory Reform Act of 1976, referred to in subsec. (b), is Pub. L. 94–210, Feb. 5, 1976, 90 Stat. 31, as amended. Title V of the Act is classified generally to subchapter II (§ 821 et seq.) of chapter 17 of Title 45, Railroads. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section801&num=0&edition=prelim) and Tables.
-
 The Civil Rights Act of 1964, referred to in subsec. (d)(3), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000a&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2021—Subsec. (b). Pub. L. 117–58 substituted “chapter 221, 224, or 249 of this title, or” for “chapter 221 or 249 of this title,” and struck out “, or title V of the Railroad Revitalization and Regulatory Reform Act of 1976 ([45 U.S.C. 821](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section821&num=0&edition=prelim) et seq.)” before period at end.
+
 1994—Subsec. (b). Pub. L. 103–272 substituted “section 332 or 333 or chapter 221 or 249 of this title, section 211 or 216 of the Regional Rail Reorganization Act of 1973 ([45 U.S.C. 721](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section721&num=0&edition=prelim), 726), or title V of the Railroad Revitalization and Regulatory Reform Act of 1976 ([45 U.S.C. 821](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section821&num=0&edition=prelim) et seq.)” for “section 332 or 333 of this title, section 211 or 216 of the Regional Rail Reorganization Act of 1973 ([45 U.S.C. 721](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section721&num=0&edition=prelim), 726), title V or VII of the Railroad Revitalization and Regulatory Reform Act of 1976 ([45 U.S.C. 821](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section821&num=0&edition=prelim) et seq., 851 et seq.), or section 4(i) or 5 of the Department of Transportation Act ([49 U.S.C. 1653(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1653/i&num=0&edition=prelim), 1654)”.
 
 1984—Subsec. (b). Pub. L. 98–216 substituted “section 332 or 333 of this title” for “[section 332 of this title](./chapter-003-general-duties-and-powers.md#section-332)” and “49 App. U.S.C.” for “49 U.S.C.”.
@@ -730,6 +745,12 @@ In subsection (e)(1), the words “January of each even-numbered year” are sub
 Subsec. (a). Pub. L. 98–216, § 2(1)(A)(ii), struck out requirement that the report include a complete statement on the effectiveness of the United States Railway Association and the Consolidated Rail Corporation in carrying out the purposes of the Regional Rail Reorganization Act of 1973.
 
 Subsecs. (d), (e). Pub. L. 98–216, § 2(1)(A)(iii), added subsecs. (d) and (e).
+
+#### Annual Report
+Pub. L. 117–58, div. A, title I, § 11319, Nov. 15, 2021, 135 Stat. 545, provided that: “(a) Definition of Covered Project.—In this section, the term ‘covered project’ means a project or activity carried out with funds provided by the Department [of Transportation], including a project carried out under title 23 or 49, United States Code—“(1) that is more than 5 years behind schedule; or “(2) for which the total amount spent on the project or activity is not less than $1,000,000,000 more than the original cost estimate for the project or activity. “(b) Requirement.—Not later than 1 year after the date of enactment of this Act [Nov. 15, 2021], and annually thereafter, the Secretary [of Transportation] shall submit to Congress a report on covered projects of the Department, which shall include, for each covered project—“(1) a brief description of the covered project, including—“(A) the purpose of the covered project; “(B) each location in which the covered project is carried out; “(C) the contract or award number of the covered project, if applicable; “(D) the year in which the covered project was initiated; “(E) the Federal share of the total cost of the covered project; and “(F) each primary contractor, subcontractor, grant recipient, and subgrantee recipient of the covered project; “(2) an explanation of any change to the original scope of the covered project, including by the addition or narrowing of the initial requirements of the covered project; “(3) the original expected date for completion of the covered project; “(4) the current expected date for completion of the covered project; “(5) the original cost estimate for the covered project, as adjusted to reflect increases in the Consumer Price Index for All Urban Consumers, as published by the Bureau of Labor Statistics; “(6) the current cost estimate for the covered project, as adjusted to reflect increases in the Consumer Price Index for All Urban Consumers, as published by the Bureau of Labor Statistics; “(7) an explanation for a delay in completion or an increase in the original cost estimate for the covered project, including, where applicable, any impact of insufficient or delayed appropriations; and “(8) the amount of and rationale for any award, incentive fee, or other type of bonus, if any, awarded for the covered project.”
+
+#### Rulemaking Report
+Pub. L. 117–58, div. B, title IV, § 24210, Nov. 15, 2021, 135 Stat. 824, provided that: “(a) Definition of Covered Rulemaking.—In this section, the term ‘covered rulemaking’ means a regulation or rulemaking that—“(1) has not been finalized by the date on which the relevant notification is submitted under subsection (b); and “(2) relates to—“(A) [section 30120A of title 49](./chapter-301-motor-vehicle-safety.md#section-30120a), United States Code; “(B) section 30166(o) of title 49, United States Code; “(C) [section 30172 of title 49](./chapter-301-motor-vehicle-safety.md#section-30172), United States Code; “(D) [section 32302(c) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section32302/c&num=0&edition=prelim), United States Code; “(E) a defect reporting requirement under [section 32302(d) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section32302/d&num=0&edition=prelim), United States Code; “(F) subsections (b) and (c) of [section 32304A of title 49](./chapter-323-consumer-information.md#section-32304a), United States Code; “(G) the tire pressure monitoring standards required under section 24115 of the FAST Act ([49 U.S.C. 30123](./chapter-301-motor-vehicle-safety.md#section-30123) note; Public Law 114–94); “(H) the amendment made by section 24402 of the FAST Act (129 Stat. 1720; Public Law 114–94) to [section 30120(g)(1) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30120/g/1&num=0&edition=prelim), United States Code; “(I) the records retention rule required under section 24403 of the FAST Act ([49 U.S.C. 30117](./chapter-301-motor-vehicle-safety.md#section-30117) note; Public Law 114–94); “(J) the amendments made by section 24405 of the FAST Act (Public Law 114–94; 129 Stat. 1721) to [section 30114 of title 49](./chapter-301-motor-vehicle-safety.md#section-30114), United States Code; “(K) a defect and noncompliance notification required under—“(i) section 24104 of the FAST Act ([49 U.S.C. 30119](./chapter-301-motor-vehicle-safety.md#section-30119) note; Public Law 114–94); or “(ii) section 31301 of MAP–21 ([49 U.S.C. 30166](./chapter-301-motor-vehicle-safety.md#section-30166) note; Public Law 112–141); “(L) a side impact or frontal impact test procedure for child restraint systems under section 31501 of MAP–21 ([49 U.S.C. 30127](./chapter-301-motor-vehicle-safety.md#section-30127) note; Public Law 112–141); “(M) an upgrade to child restraint anchorage system usability requirements required under section 31502 of MAP–21 ([49 U.S.C. 30127](./chapter-301-motor-vehicle-safety.md#section-30127) note; Public Law 112–141); “(N) the rear seat belt reminder system required under section 31503 of MAP–21 ([49 U.S.C. 30127](./chapter-301-motor-vehicle-safety.md#section-30127) note; Public Law 112–141); “(O) a motorcoach rulemaking required under section 32703 of MAP–21 ([49 U.S.C. 31136](./chapter-311-commercial-motor-vehicle-safety.md#section-31136) note; Public Law 112–141); or “(P) any rulemaking required under this Act [div. B of Pub. L. 117–58, see Tables for classification]. “(b) Notification.—Not later than 180 days after the date of enactment of this Act [Nov. 15, 2021], and not less frequently than biannually thereafter until the applicable covered rulemaking is complete, the Secretary [of Transportation] shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a written notification that includes, with respect to each covered rulemaking—“(1) for a covered rulemaking with a statutory deadline for completion—“(A) an explanation of why the deadline was not met; and “(B) an expected date of completion of the covered rulemaking; and “(2) for a covered rulemaking without a statutory deadline for completion, an expected date of completion of the covered rulemaking. “(c) Additional Contents.—A notification under subsection (b) shall include, for each applicable covered rulemaking—“(1) an updated timeline; “(2) a list of factors causing delays in the completion of the covered rulemaking; and “(3) any other details associated with the status of the covered rulemaking.”
 
 #### Availability of Reports
 Pub. L. 114–94, div. A, title I, § 1434, Dec. 4, 2015, 129 Stat. 1430, provided that: “(a) In General.—The Secretary [of Transportation] shall make available to the public on the website of the Department any report required to be submitted by the Secretary to Congress after the date of enactment of this Act [Dec. 4, 2015]. “(b) Deadline.—Each report described in subsection (a) shall be made available on the website not later than 30 days after the report is submitted to Congress.”
@@ -1085,10 +1106,96 @@ Section 1618 of the National Defense Authorization Act for Fiscal Year 2017, ref
 2021—Pub. L. 116–283 made technical correction to directory language of Pub. L. 115–282, § 514(b), which enacted this section.
 
 #### Effective Date of 2021 Amendment
-Section 8507(d) of div. G of Pub. L. 116–283 effective as if included in Pub. L. 115—282, see section 8507(d)(7) of Pub. L. 116—283, set out as a note under [section 1226 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1226&num=0&edition=prelim), Navigation and Navigable Waters.
+Section 8507(d) of div. G of Pub. L. 116–283 effective as if included in Pub. L. 115–282, see section 8507(d)(7) of Pub. L. 116–283, set out as a note under [section 1226 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1226&num=0&edition=prelim), Navigation and Navigable Waters.
 
 #### Short Title
 For short title of section 514 of Pub. L. 115–282, which enacted this section, as the “National Timing Resilience and Security Act of 2018”, see section 514(a) of Pub. L. 115–282, set out as a Short Title of 2018 Amendment note under [section 101 of this title](./chapter-001-organization.md#section-101).
+
+
+<a id="section-313"></a>
+## § 313. Nontraditional and Emerging Transportation Technology Council
+**(a) Establishment.—** Not later than 180 days after the date of enactment of this section, the Secretary of Transportation (referred to in this section as the “Secretary”) shall establish a council, to be known as the “Nontraditional and Emerging Transportation Technology Council” (referred to in this section as the “Council”), to address coordination on emerging technology issues across all modes of transportation.
+
+**(b) Membership.—**
+
+(1) **In general.—** — The Council shall be composed of—
+
+  (A) the Secretary, who shall serve as an ex officio member of the Council;
+
+  (B) the Deputy Secretary of Transportation;
+
+  (C) the Under Secretary of Transportation for Policy;
+
+  (D) the Assistant Secretary for Research and Technology of the Department of Transportation;
+
+  (E) the Assistant Secretary for Budget and Programs of the Department of Transportation;
+
+  (F) the General Counsel of the Department of Transportation;
+
+  (G) the Chief Information Officer of the Department of Transportation;
+
+  (H) the Administrator of the Federal Aviation Administration;
+
+  (I) the Administrator of the Federal Highway Administration;
+
+  (J) the Administrator of the Federal Motor Carrier Safety Administration;
+
+  (K) the Administrator of the Federal Railroad Administration;
+
+  (L) the Administrator of the Federal Transit Administration;
+
+  (M) the Administrator of the Maritime Administration;
+
+  (N) the Administrator of the National Highway Traffic Safety Administration;
+
+  (O) the Administrator of the Pipeline and Hazardous Materials Safety Administration; and
+
+  (P) any other official of the Department of Transportation, as determined by the Secretary.
+
+(2) **Chair and vice chair.—**
+
+  (A) *Chair.—* — The Deputy Secretary of Transportation (or a designee) shall serve as Chair of the Council.
+
+  (B) *Vice chair.—* — The Under Secretary of Transportation for Policy (or a designee) shall serve as Vice Chair of the Council.
+
+**(c) Duties.—** The Council shall—
+
+(1) identify and resolve jurisdictional and regulatory gaps or inconsistencies associated with nontraditional and emerging transportation technologies, modes, or projects pending or brought before the Department of Transportation to reduce, to the maximum extent practicable, impediments to the prompt and safe deployment of new and innovative transportation technology, including with respect to—
+
+  (A) safety oversight;
+
+  (B) environmental review; and
+
+  (C) funding and financing issues;
+
+(2) coordinate the response of the Department of Transportation to nontraditional and emerging transportation technology projects;
+
+(3) engage with stakeholders in nontraditional and emerging transportation technology projects; and
+
+(4) develop and establish Department of Transportation-wide processes, solutions, and best practices for identifying and managing nontraditional and emerging transportation technology projects.
+
+**(d) Best Practices.—** Not later than 1 year after the date of enactment of this section, the Council shall—
+
+(1) publish initial guidelines to achieve the purposes described in subsection (c)(4); and
+
+(2) promote each modal administration within the Department of Transportation to further test and support the advancement of nontraditional and emerging transportation technologies not specifically considered by the Council.
+
+**(e) Support.—** The Office of the Secretary shall provide support for the Council.
+
+**(f) Meetings.—** The Council shall meet not less frequently than 4 times per year, at the call of the Chair.
+
+**(g) Lead Modal Administration.—** For each nontraditional or emerging transportation technology, mode, or project associated with a jurisdictional or regulatory gap or inconsistency identified under subsection (c)(1), the Chair of the Council shall—
+
+(1) designate a lead modal administration of the Department of Transportation for review of the technology, mode, or project; and
+
+(2) arrange for the detailing of staff between modal administrations or offices of the Department of Transportation as needed to maximize the sharing of experience and expertise.
+
+**(h) Transparency.—** Not later than 1 year after the date of establishment of the Council, and not less frequently than annually thereafter until December 31, 2026, the Council shall post on a publicly accessible website a report describing the activities of the Council during the preceding calendar year.
+
+### Statutory Notes
+
+#### References in Text
+The date of enactment of this section, referred to in subsecs. (a) and (d), is the date of enactment of Pub. L. 117–58, which was approved Nov. 15, 2021.
 
 
 <a id="section-321"></a>
@@ -1632,6 +1739,9 @@ Subsecs. (d) to (i). Pub. L. 114–94, § 6011(b)(5), added subsecs. (d) to (i).
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
+#### Volpe Oversight
+Pub. L. 117–58, div. B, title V, § 25023, Nov. 15, 2021, 135 Stat. 879, provided that: “(a) Financial Management.—Not later than 1 year after the date of enactment of this Act [Nov. 15, 2021], the Secretary [of Transportation] shall implement the recommendations of the Inspector General of the Department [of Transportation] included in the report entitled ‘DOT Needs to Strengthen Its Oversight of IAAs With Volpe’ and dated September 30, 2019, to improve planning, financial management, and the sharing of performance information with respect to intraagency agreements with the John A. Volpe National Transportation Systems Center (referred to in this section as the ‘Volpe Center’). “(b) GAO Review.—“(1) In general.—Not later than 2 years after the date of enactment of this Act [Nov. 15, 2021], the Comptroller General of the United States shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that examines the surface transportation activities at the Volpe Center. “(2) Contents.—The report under paragraph (1) shall include an evaluation of—“(A) the amount of Department funding provided to the Volpe Center, as compared to other Federal and non-Federal research partners; “(B) the process used by the Department to determine whether to work with the Volpe Center, as compared to any other Federal or non-Federal research partner; “(C) the extent to which the Department is collaborating with the Volpe Center to address research needs relating to emerging issues; and “(D) whether the operation of the Volpe Center is duplicative of other public or private sector efforts.”
+
 #### Conflicts of Interest
 Pub. L. 106–159, title I, § 101(g), Dec. 9, 1999, 113 Stat. 1752, provided that: “(1) Compliance with regulation.—In awarding any contract for research, the Secretary shall comply with section 1252.209–70 of title 48, Code of Federal Regulations, as in effect on the date of the enactment of this section [Dec. 9, 1999]. The Secretary shall require that the text of such section be included in any request for proposal and contract for research made by the Secretary. “(2) Study.—“(A) In general.—The Secretary shall conduct a study to determine whether or not compliance with the section referred to in paragraph (1) is sufficient to avoid conflicts of interest in contracts for research awarded by the Secretary and to evaluate whether or not compliance with such section unreasonably delays or burdens the awarding of such contracts. “(B) Consultation.—In conducting the study under this paragraph, the Secretary shall consult, as appropriate, with the Inspector General of the Department of Transportation, the Comptroller General, the heads of other Federal agencies, research organizations, industry representatives, employee organizations, safety organizations, and other entities. “(C) Report.—Not later than 18 months after the date of the enactment of this Act [Dec. 9, 1999], the Secretary shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the results of the study conducted under this paragraph.”
 
@@ -1973,3 +2083,119 @@ Pub. L. 113–235, div. K, title I, Dec. 16, 2014, 128 Stat. 2724, provided in p
 Similar provisions were contained in the following prior appropriation act:
 
 Pub. L. 113–76, div. L, title I, Jan. 17, 2014, 128 Stat. 600.
+
+
+<a id="section-355"></a>
+## § 355. Motorcyclist Advisory Council
+**(a) Establishment.—** Not later than 90 days after the date of enactment of this section, the Secretary of Transportation (referred to in this section as the “Secretary”) shall establish a council, to be known as the “Motorcyclist Advisory Council” (referred to in this section as the “Council”).
+
+**(b) Membership.—**
+
+(1) **In general.—** — The Council shall be comprised of 13 members, to be appointed by the Secretary, of whom—
+
+  (A) 5 shall be representatives of units of State or local government with expertise relating to highway engineering and safety issues, including—
+
+    (i) motorcycle and motorcyclist safety;
+
+    (ii) barrier and road design, construction, and maintenance; or
+
+    (iii) intelligent transportation systems;
+
+  (B) 1 shall be a motorcyclist who serves as a State or local—
+
+    (i) traffic and safety engineer;
+
+    (ii) design engineer; or
+
+    (iii) other transportation department official;
+
+  (C) 1 shall be a representative of a national association of State transportation officials;
+
+  (D) 1 shall be a representative of a national motorcyclist association;
+
+  (E) 1 shall be a representative of a national motorcyclist foundation;
+
+  (F) 1 shall be a representative of a national motorcycle manufacturing association;
+
+  (G) 1 shall be a representative of a motorcycle manufacturing company headquartered in the United States;
+
+  (H) 1 shall be a roadway safety data expert with expertise relating to crash testing and analysis; and
+
+  (I) 1 shall be a member of a national safety organization that represents the traffic safety systems industry.
+
+(2) **Term.—**
+
+  (A) *In general.—* — Subject to subparagraphs (B) and (C), each member shall serve on the Council for a single term of 2 years.
+
+  (B) *Additional term.—* — If a successor is not appointed for a member of the Council before the expiration of the term of service of the member, the member may serve on the Council for a second term of not longer than 2 years.
+
+  (C) *Appointment of replacements.—* — If a member of the Council resigns before the expiration of the 2-year term of service of the member—
+
+    (i) the Secretary may appoint a replacement for the member, who shall serve the remaining portion of the term; and
+
+    (ii) the resigning member may continue to serve after resignation until the date on which a successor is appointed.
+
+(3) **Vacancies.—** — A vacancy on the Council shall be filled in the manner in which the original appointment was made.
+
+(4) **Compensation.—** — A member of the Council shall serve without compensation.
+
+**(c) Duties.—**
+
+(1) **Advising.—** — The Council shall advise the Secretary, the Administrator of the National Highway Traffic Safety Administration, and the Administrator of the Federal Highway Administration regarding transportation safety issues of concern to motorcyclists, including—
+
+  (A) motorcycle and motorcyclist safety;
+
+  (B) barrier and road design, construction, and maintenance practices; and
+
+  (C) the architecture and implementation of intelligent transportation system technologies.
+
+(2) **Biennial report.—** — Not later than October 31 of the calendar year following the calendar year in which the Council is established, and not less frequently than once every 2 years thereafter, the Council shall submit to the Secretary a report containing recommendations of the Council regarding the issues described in paragraph (1).
+
+**(d) Duties of Secretary.—**
+
+(1) **Council recommendations.—**
+
+  (A) *In general.—* — The Secretary shall determine whether to accept or reject a recommendation contained in a report of the Council under subsection (c)(2).
+
+  (B) *Inclusion in review.—*
+
+    (i) *In general.—* — The Secretary shall indicate in each review under paragraph (2) whether the Secretary accepts or rejects each recommendation of the Council covered by the review.
+
+    (ii) *Exception.—* — The Secretary may indicate in a review under paragraph (2) that a recommendation of the Council is under consideration, subject to the condition that a recommendation so under consideration shall be accepted or rejected by the Secretary in the subsequent review of the Secretary under paragraph (2).
+
+(2) **Review.—**
+
+  (A) *In general.—* — Not later than 60 days after the date on which the Secretary receives a report from the Council under subsection (c)(2), the Secretary shall submit a review describing the response of the Secretary to the recommendations of the Council contained in the Council report to—
+
+    (i) the Committee on Commerce, Science, and Transportation of the Senate;
+
+    (ii) the Committee on Environment and Public Works of the Senate;
+
+    (iii) the Subcommittee on Transportation, Housing and Urban Development, and Related Agencies of the Committee on Appropriations of the Senate;
+
+    (iv) the Committee on Transportation and Infrastructure of the House of Representatives; and
+
+    (v) the Subcommittee on Transportation, Housing and Urban Development, and Related Agencies of the Committee on Appropriations of the House of Representatives.
+
+  (B) *Contents.—* — A review of the Secretary under this paragraph shall include a description of—
+
+    (i) each recommendation contained in the Council report covered by the review; and
+
+    (ii)
+
+      (I) each recommendation of the Council that was categorized under paragraph (1)(B)(ii) as being under consideration by the Secretary in the preceding review submitted under this paragraph; and
+
+      (II) for each such recommendation, whether the recommendation—
+
+        (aa) is accepted or rejected by the Secretary; or
+
+        (bb) remains under consideration by the Secretary.
+
+(3) **Administrative and technical support.—** — The Secretary shall provide to the Council such administrative support, staff, and technical assistance as the Secretary determines to be necessary to carry out the duties of the Council under this section.
+
+**(e) Termination.—** The Council shall terminate on the date that is 6 years after the date on which the Council is established under subsection (a).
+
+### Statutory Notes
+
+#### References in Text
+The date of enactment of this section, referred to in subsec. (a), is the date of enactment of Pub. L. 117–58, which was approved Nov. 15, 2021.

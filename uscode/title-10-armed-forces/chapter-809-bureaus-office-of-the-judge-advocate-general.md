@@ -84,9 +84,6 @@ A prior section 8074 was renumbered [section 9074 of this title](https://uscode.
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
-#### Transfer of Functions
-Transfer of functions of bureaus and reorganization, see note set out under [section 5111 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section5111&num=0&edition=prelim).
-
 
 <a id="section-8075"></a>
 ## § 8075. Bureau Chiefs: succession to duties
@@ -121,9 +118,6 @@ A prior section 8076, act Aug. 10, 1956, ch. 1041, 70A Stat. 496, related to com
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
-
-#### Transfer of Functions
-Transfer of functions of Offices of Bureau Chiefs, see note set out under [section 5111 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section5111&num=0&edition=prelim).
 
 
 <a id="section-8077"></a>
@@ -451,7 +445,7 @@ Amendment by Pub. L. 106–65 effective 60 days after Oct. 5, 1999, with special
 
 **(b) Appointment.—**
 
-(1) The President, by and with the advice and consent of the Senate, shall appoint the Commander, Marine Forces Reserve, from general officers of the Marine Corps (as defined in section 8001(2)) who have had at least 10 years of commissioned service.
+(1) The President, by and with the advice and consent of the Senate, shall appoint the Commander, Marine Forces Reserve, from general officers of the Marine Corps Reserve who have had at least 10 years of commissioned service.
 
 (2) The Secretary of Defense may not recommend an officer to the President for appointment as Commander, Marine Forces Reserve, unless the officer—
 
@@ -473,9 +467,6 @@ Amendment by Pub. L. 106–65 effective 60 days after Oct. 5, 1999, with special
 **(d) Annual Report.—** The Commander, Marine Forces Reserve, shall submit to the Secretary of Defense, through the Secretary of the Navy, an annual report on the state of the Marine Corps Reserve and the ability of the Marine Corps Reserve to meet its missions. The report shall be prepared in conjunction with the Commandant of the Marine Corps and may be submitted in classified and unclassified versions.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (b)(1)
-Pub. L. 116–92, div. A, title V, § 514, Dec. 20, 2019, 133 Stat. 1349, provided that, effective on the date that is one year after Dec. 20, 2019, and applicable to appointments made after such date, subsection (b)(1) of this section is amended by striking “general officers of the Marine Corps (as defined in section 8001(2))” and inserting “general officers of the Marine Corps Reserve”. See 2019 Amendment note below.
 
 #### Prior Provisions
 A prior section 8084 was renumbered [section 9084 of this title](./chapter-908-the-space-force.md#section-9084).
@@ -701,14 +692,14 @@ Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 
 #### Effective Date of 1958 Amendment
 Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
 
-#### Delegation of Functions
-Functions of President under this section delegated to Secretary of Defense, see section 1(8) of Ex. Ord. No. 11390, Jan. 22, 1968, 33 F.R. 841, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
-
 #### Grandfathering of Retired Grade of Assistant Judge Advocates General of the Navy as of Repeal of Statutory Specification of General and Flag Officers Grades in the Armed Forces
 Pub. L. 115–91, div. A, title V, § 509, Dec. 12, 2017, 131 Stat. 1375, provided that: “(a) In General.—Notwithstanding the amendments made by section 502(gg)(2) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 130 Stat. 2105) [amending this section], an officer selected to hold a position specified in subsection (b) as of December 23, 2016, may be retired after that date in the grade of rear admiral (lower half) or brigadier general, as applicable, with the retired pay of such grade (unless entitled to higher pay under another provision of law). “(b) Specified Positions.—Subsection (a) applies with respect to the Assistant Judge Advocates General of the Navy provided for by subsections (b) and (c) of section 5149 [now 8089] of title 10, United States Code.”
 
 #### Officer Serving as Deputy and Assistant Judge Advocate of the Navy on Dec. 7, 1967; Rank; Retirement Benefits
 Pub. L. 90–179, § 9, Dec. 8, 1967, 81 Stat. 549, provided that: “Nothing in this Act [enacting sections 5578a and 5587a of this title, amending this section, sections 801, 806, 815, 827, 865, 936, 5148, 5404, 5508, 5581, 5587, 5600, 5652a, 5702, 5708, 5753, 5762, 5896, 5897, and 6378 of this title, and [section 202 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section202&num=0&edition=prelim), and enacting provisions set out as notes under this section and [section 5184 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section5184&num=0&edition=prelim)] shall operate to terminate or reduce the term of an officer who was serving as Deputy and Assistant Judge Advocate General of the Navy on the day before the effective date of this Act [Dec. 8, 1967] or to deprive to him of the rank, pay, allowances, or retirement privileges to which he was then entitled. Notwithstanding any other provision of law, an officer who was so serving on the day before the effective date of this Act shall be deemed to be detailed as Deputy Judge Advocate General, pursuant to section 5149 [now 8089] of title 10, United States Code, as amended by this Act [this section], and in addition to rights and benefits then accrued, to be entitled to the rank and retirement benefits authorized by that section. For the purposes of determining his eligibility for the retirement benefits authorized by section 5149 [now 8089] of title 10, United States Code, as amended by this Act [this section], an officer who is serving as Deputy Judge Advocate General on the effective date of this Act shall be credited with all service performed under appointment or detail as Deputy and Assistant Judge Advocate General before the effective date of this Act.”
+
+#### Delegation of Functions
+Functions of President under this section delegated to Secretary of Defense, see section 1(8) of Ex. Ord. No. 11390, Jan. 22, 1968, 33 F.R. 841, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
 
 
 <a id="section-8090"></a>

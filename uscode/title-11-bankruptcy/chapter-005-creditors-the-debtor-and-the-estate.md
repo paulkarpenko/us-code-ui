@@ -24,7 +24,7 @@ source: >-
 
   (A) the term “CARES forbearance claim” means a supplemental claim for the amount of a Federally backed mortgage loan or a Federally backed multifamily mortgage loan that was not received by an eligible creditor during the forbearance period of a loan granted forbearance under section 4022 or 4023 of the CARES Act ([15 U.S.C. 9056](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9056&num=0&edition=prelim), 9057);
 
-  (B) the term “eligible creditor” means a servicer (as defined in section 6(i) of the Real Estate Settlement Procedures Act of 1974 ([12 U.S.C. 2605(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2605/i&num=0&edition=prelim)) with a claim for a Federally backed mortgage loan or a Federally backed multifamily mortgage loan of the debtor that is provided for by a plan under section 1322(b)(5);
+  (B) the term “eligible creditor” means a servicer (as defined in section 6(i) of the Real Estate Settlement Procedures Act of 1974 ([12 U.S.C. 2605(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2605/i&num=0&edition=prelim)) 11 So in original. Probably should be followed by another closing parenthesis. with a claim for a Federally backed mortgage loan or a Federally backed multifamily mortgage loan of the debtor that is provided for by a plan under section 1322(b)(5);
 
   (C) the term “Federally backed mortgage loan” has the meaning given the term in section 4022(a) of the CARES Act ([15 U.S.C. 9056(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9056/a&num=0&edition=prelim)); and
 

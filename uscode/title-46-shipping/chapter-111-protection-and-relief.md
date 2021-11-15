@@ -304,11 +304,13 @@ The master of a documented vessel has the same lien against the vessel for the m
 
   (B) *Limitation.—* — Amounts may be credited to the Fund under subparagraph (A) only if the unobligated balance of the Fund is less than $5,000,000.
 
-(4) **Report required.—** — On the date on which the President submits each budget for a fiscal year pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that describes—
+(4) **Report required.—** — Except as provided in paragraph (5), on the date on which the President submits each budget for a fiscal year pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that describes—
 
   (A) the amounts credited to the Fund under paragraph (3) for the preceding fiscal year; and
 
   (B) amounts in the Fund that were expended for the preceding fiscal year.
+
+(5) **No report required.—** — A report under paragraph (4) shall not be required if there were no expenditures from the Fund in the preceding fiscal year. The Commandant shall notify Congress in the event a report is not required under paragraph (4) by reason of this paragraph.
 
 **(b) Limitation.—** Nothing in this section shall be construed—
 
@@ -372,6 +374,10 @@ The master of a documented vessel has the same lien against the vessel for the m
 The Immigration and Nationality Act, referred to in subsec. (a)(2)(A)(ii)(III), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2021—Subsec. (a)(4). Pub. L. 116–283, § 8240(d)(1), substituted “Except as provided in paragraph (5), on the date” for “On the date” in introductory provisions.
+
+Subsec. (a)(5). Pub. L. 116–283, § 8240(d)(2), added par. (5).
+
 2018—Subsec. (a)(4)(A). Pub. L. 115–232, § 3546(i)(1), substituted “paragraph (3)” for “paragraph (2)”.
 
 Subsec. (c)(2)(B). Pub. L. 115–232, § 3546(i)(2), substituted “section 2(a)(9)(A)” for “section 2(9)(a)” and “[33 U.S.C. 1901(a)(9)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1901/a/9/A&num=0&edition=prelim)” for “[33 U.S.C. 1901(9)(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1901/9/a&num=0&edition=prelim)”.

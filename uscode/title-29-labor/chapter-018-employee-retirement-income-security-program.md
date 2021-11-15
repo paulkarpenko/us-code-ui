@@ -2,7 +2,7 @@
 title: 29
 chapter: '18'
 heading: EMPLOYEE RETIREMENT INCOME SECURITY PROGRAM
-section_count: 191
+section_count: 192
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29&num=0&edition=prelim
 ---
@@ -1096,13 +1096,13 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
     (i) *In general* — In the case of a single-employer plan for an applicable plan year, each notice under paragraph (1) shall include—
 
-      (I) a statement that the MAP-21, the Highway and Transportation Funding Act of 2014, and the Bipartisan Budget Act of 2015 modified the method for determining the interest rates used to determine the actuarial value of benefits earned under the plan, providing for a 25-year average of interest rates to be taken into account in addition to a 2-year average,
+      (I) a statement that the MAP-21, the Highway and Transportation Funding Act of 2014,,33 So in original. The second comma probably should not appear. the Bipartisan Budget Act of 2015,,3 the American Rescue Plan Act of 2021, and the Infrastructure Investment and Jobs Act modified the method for determining the interest rates used to determine the actuarial value of benefits earned under the plan, providing for a 25-year average of interest rates to be taken into account in addition to a 2-year average,
 
-      (II) a statement that, as a result of the MAP-21, the Highway and Transportation Funding Act of 2014, and the Bipartisan Budget Act of 2015, the plan sponsor may contribute less money to the plan when interest rates are at historical lows, and
+      (II) a statement that, as a result of the MAP-21, the Highway and Transportation Funding Act of 2014,,3 the Bipartisan Budget Act of 2015,,3 the American Rescue Plan Act of 2021, and the Infrastructure Investment and Jobs Act, the plan sponsor may contribute less money to the plan when interest rates are at historical lows, and
 
       (III) a table which shows (determined both with and without regard to [section 1083(h)(2)(C)(iv) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1083/h/2/C/iv&num=0&edition=prelim)) the funding target attainment percentage (as defined in [section 1083(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1083/d/2&num=0&edition=prelim)), the funding shortfall (as defined in [section 1083(c)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1083/c/4&num=0&edition=prelim)), and the minimum required contribution (as determined under [section 1083 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1083)), for the applicable plan year and each of the 2 preceding plan years.
 
-    (ii) *Applicable plan year* — For purposes of this subparagraph, the term “applicable plan year” means any plan year beginning after December 31, 2011, and before January 1, 2023, for which—
+    (ii) *Applicable plan year* — For purposes of this subparagraph, the term “applicable plan year” means any plan year beginning after December 31, 2011, and before January 1, 2034, for which—
 
       (I) the funding target (as defined in [section 1083(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1083/d/2&num=0&edition=prelim)) is less than 95 percent of such funding target determined without regard to [section 1083(h)(2)(C)(iv) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1083/h/2/C/iv&num=0&edition=prelim),
 
@@ -1219,7 +1219,7 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 **(j) Notice of funding-based limitation on certain forms of distribution** The plan administrator of a single-employer plan shall provide a written notice to plan participants and beneficiaries within 30 days—
 
-(1) after the plan has become subject to a restriction described in paragraph (1) or (3) of [section 1056(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1056/g&num=0&edition=prelim)),33 So in original. The closing parenthesis probably should not appear.
+(1) after the plan has become subject to a restriction described in paragraph (1) or (3) of [section 1056(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1056/g&num=0&edition=prelim)),44 So in original. The closing parenthesis probably should not appear.
 
 (2) in the case of a plan to which [section 1056(g)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1056/g/4&num=0&edition=prelim) applies, after the valuation date for the plan year described in [section 1056(g)(4)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1056/g/4/A&num=0&edition=prelim) for which the plan’s adjusted funding target attainment percentage for the plan year is less than 60 percent (or, if earlier, the date such percentage is deemed to be less than 60 percent under [section 1056(g)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1056/g/7&num=0&edition=prelim)), and
 
@@ -1310,11 +1310,23 @@ The Highway and Transportation Funding Act of 2014, referred to in subsec. (f)(2
 
 The Bipartisan Budget Act of 2015, referred to in subsec. (f)(2)(D)(i)(I) and (II), is Pub. L. 114–74, Nov. 2, 2015, 129 Stat. 584. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note set out under [section 1 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1&num=0&edition=prelim), Internal Revenue Code, and Tables.
 
+The American Rescue Plan Act of 2021, referred to in subsec. (f)(2)(D)(i)(I) and (II), is Pub. L. 117–2, Mar. 11, 2021, 135 Stat. 4. For complete classification of this Act to the Code, see Short Title of 2021 Amendment note set out under [section 9001 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9001&num=0&edition=prelim), Commerce and Trade, and Tables.
+
+The Infrastructure Investment and Jobs Act, referred to in subsec. (f)(2)(D)(i)(I) and (II), is Pub. L. 117–58, Nov. 15, 2021, 135 Stat. 429. For complete classification of this Act to the Code, see Short Title of 2021 Amendment note set out under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways, and Tables.
+
 The Cooperative and Small Employer Charity Pension Flexibility Act, referred to in subsec. (f)(2)(E)(ii), is Pub. L. 113–97, Apr. 7, 2014, 128 Stat. 1101. For complete classification of this Act to the Code, see Short Title of 2014 Amendment note set out under [section 1001 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1001) and Tables.
 
 The content of paragraph (1)(B) of subsec. (k) (relating to financial reports), referred to in subsec. (k)(2), was moved to subsec. (k)(1)(H) as a result of the general amendment of subsec. (k)(1) by Pub. L. 113–235, § 111(a). See 2014 Amendment note below.
 
 #### Amendments
+2021—Subsec. (f)(2)(D)(i)(I), (II). Pub. L. 117–58, § 80602(b)(2)(A)(i), substituted “, the American Rescue Plan Act of 2021, and the Infrastructure Investment and Jobs Act” for “and the American Rescue Plan Act of 2021”.
+
+Pub. L. 117–2, § 9706(b)(3)(A)(i), substituted “, the Bipartisan Budget Act of 2015, and the American Rescue Plan Act of 2021” for “and the Bipartisan Budget Act of 2015”.
+
+Subsec. (f)(2)(D)(ii). Pub. L. 117–58, § 80602(b)(2)(A)(ii), substituted “2034” for “2029” in introductory provisions.
+
+Pub. L. 117–2, § 9706(b)(3)(A)(ii), substituted “2029” for “2023” in introductory provisions.
+
 2015—Subsec. (e)(3). Pub. L. 114–41 substituted “July 31, 2015” for “July 6, 2012”. Amendment was executed to reflect the probable intent of Congress notwithstanding an extra closing quotation mark in the directory language.
 
 Subsec. (f)(2)(D)(i)(I), (II). Pub. L. 114–74, § 504(b)(2)(A)(i), substituted “, the Highway and Transportation Funding Act of 2014, and the Bipartisan Budget Act of 2015” for “and the Highway and Transportation Funding Act of 2014”.
@@ -1447,6 +1459,11 @@ Subsec. (d)(1). Pub. L. 101–239, § 7881(b)(5)(A), substituted “an employer 
 
 1987—Subsecs. (d), (e). Pub. L. 100–203 added subsec. (d) and redesignated former subsec. (d) as (e).
 
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–58 applicable to plan years beginning after Dec. 31, 2021, see section 80602(c) of Pub. L. 117–58, set out as a note under [section 430 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section430&num=0&edition=prelim), Internal Revenue Code.
+
+Amendment by Pub. L. 117–2 applicable with respect to plan years beginning after Dec. 31, 2019, with certain exceptions, see section 9706(c) of Pub. L. 117–2, set out as a note under [section 430 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section430&num=0&edition=prelim), Internal Revenue Code.
+
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–74 applicable with respect to plan years beginning after Dec. 31, 2015, see section 504(c) of Pub. L. 114–74, set out as a note under [section 430 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section430&num=0&edition=prelim), Internal Revenue Code.
 
@@ -1524,9 +1541,13 @@ Secretary authorized, effective Sept. 2, 1974, to promulgate regulations whereve
 For special rules on applicability of amendments by subtitles A (§§ 101–108) and B (§§ 111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under [section 401 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401&num=0&edition=prelim), Internal Revenue Code.
 
 #### Statements
-Pub. L. 114–74, title V, § 504(b)(2)(B), Nov. 2, 2015, 129 Stat. 594, provided that: “The Secretary of Labor shall modify the statements required under subclauses (I) and (II) of section 101(f)(2)(D)(i) of such Act [[29 U.S.C. 1021(f)(2)(D)(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1021/f/2/D/i&num=0&edition=prelim)] to conform to the amendments made by this section [amending this section, [section 1083 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1083), and [section 430 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section430&num=0&edition=prelim), Internal Revenue Code, and enacting provisions set out as a note under [section 430 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section430&num=0&edition=prelim)].”
+Pub. L. 117–58, div. H, title VI, § 80602(b)(2)(B), Nov. 15, 2021, 135 Stat. 1339, provided that: “The Secretary of Labor shall modify the statements required under subclauses (I) and (II) of section 101(f)(2)(D)(i) of such Act [the Employee Retirement Income Security Act of 1974, [29 U.S.C. 1021(f)(2)(D)(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1021/f/2/D/i&num=0&edition=prelim)] to conform to the amendments made by this section [probably means “this subsection”, which amended this section and [section 1083 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1083)].”
 
-Pub. L. 113–159, title II, § 2003(b)(2)(B), Aug. 8, 2014, 128 Stat. 1849, provided that: “The Secretary of Labor shall modify the statements required under subclauses (I) and (II) of section 101(f)(2)(D)(i) of such Act [[29 U.S.C. 1021(f)(2)(D)(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1021/f/2/D/i&num=0&edition=prelim)] to conform to the amendments made by this section [probably means “this subsection”, which amended this section and [section 1083 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1083)].”
+Pub. L. 117–2, title IX, § 9706(b)(3)(B), Mar. 11, 2021, 135 Stat. 201, provided that: “The Secretary of Labor shall modify the statements required under subclauses (I) and (II) of section 101(f)(2)(D)(i) of such Act [the Employee Retirement Income Security Act of 1974, [29 U.S.C. 1021(f)(2)(D)(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1021/f/2/D/i&num=0&edition=prelim)] to conform to the amendments made by this section [probably means “this subsection”, which amended this section and [section 1083 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1083)].”
+
+Pub. L. 114–74, title V, § 504(b)(2)(B), Nov. 2, 2015, 129 Stat. 594, provided that: “The Secretary of Labor shall modify the statements required under subclauses (I) and (II) of section 101(f)(2)(D)(i) of such Act [the Employee Retirement Income Security Act of 1974, [29 U.S.C. 1021(f)(2)(D)(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1021/f/2/D/i&num=0&edition=prelim)] to conform to the amendments made by this section [probably means “this subsection”, which amended this section and [section 1083 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1083)].”
+
+Pub. L. 113–159, title II, § 2003(b)(2)(B), Aug. 8, 2014, 128 Stat. 1849, provided that: “The Secretary of Labor shall modify the statements required under subclauses (I) and (II) of section 101(f)(2)(D)(i) of such Act [the Employee Retirement Income Security Act of 1974, [29 U.S.C. 1021(f)(2)(D)(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1021/f/2/D/i&num=0&edition=prelim)] to conform to the amendments made by this section [probably means “this subsection”, which amended this section and [section 1083 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1083)].”
 
 #### Model Notices and Forms
 Pub. L. 113–97, title I, § 104(a)(2), Apr. 7, 2014, 128 Stat. 1120, provided that: “The Secretary of Labor may modify the model notice required to be published under section 501(c) of the Pension Protection Act of 2006 [section 501(c) of Pub. L. 109–280, set out below] to include the information described in section 101(f)(2)(E) of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1021(f)(2)(E)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1021/f/2/E&num=0&edition=prelim)], as added by this subsection.”
@@ -5262,6 +5283,12 @@ For applicability of amendment by section 202(d) of Pub. L. 109–280 to a multi
 
     (iv) *Mergers and acquisitions* — The Secretary of the Treasury shall prescribe rules for the application of paragraph (2)(D) and this paragraph in any case where there is a merger or acquisition involving a plan sponsor making the election under paragraph (2)(D).
 
+(8) **15-year amortization** — With respect to plan years beginning after December 31, 2021 (or, at the election of the plan sponsor, plan years beginning after December 31, 2018, December 31, 2019, or December 31, 2020)—
+
+  (A) the shortfall amortization bases for all plan years preceding the first plan year beginning after December 31, 2021 (or after whichever earlier date is elected pursuant to this paragraph), and all shortfall amortization installments determined with respect to such bases, shall be reduced to zero, and
+
+  (B) subparagraphs (A) and (B) of paragraph (2) shall each be applied by substituting “15-plan-year period” for “7-plan-year period”.
+
 **(d) Rules relating to funding target** For purposes of this section—
 
 (1) **Funding target** — Except as provided in subsection (i)(1) with respect to plans in at-risk status, the funding target of a plan for a plan year is the present value of all benefits accrued or earned under the plan as of the beginning of the plan year.
@@ -5471,9 +5498,9 @@ For applicability of amendment by section 202(d) of Pub. L. 109–280 to a multi
 
     (iv) *Segment rate stabilization*
 
-      (I) *In general* — If a segment rate described in clause (i), (ii), or (iii) with respect to any applicable month (determined without regard to this clause) is less than the applicable minimum percentage, or more than the applicable maximum percentage, of the average of the segment rates described in such clause for years in the 25-year period ending with September 30 of the calendar year preceding the calendar year in which the plan year begins, then the segment rate described in such clause with respect to the applicable month shall be equal to the applicable minimum percentage or the applicable maximum percentage of such average, whichever is closest. The Secretary of the Treasury shall determine such average on an annual basis and may prescribe equivalent rates for years in any such 25-year period for which the rates described in any such clause are not available.
+      (I) *In general* — If a segment rate described in clause (i), (ii), or (iii) with respect to any applicable month (determined without regard to this clause) is less than the applicable minimum percentage, or more than the applicable maximum percentage, of the average of the segment rates described in such clause for years in the 25-year period ending with September 30 of the calendar year preceding the calendar year in which the plan year begins, then the segment rate described in such clause with respect to the applicable month shall be equal to the applicable minimum percentage or the applicable maximum percentage of such average, whichever is closest. The Secretary of the Treasury shall determine such average on an annual basis and may prescribe equivalent rates for years in any such 25-year period for which the rates described in any such clause are not available. Notwithstanding anything in this subclause, if the average of the first, second, or third segment rate for any 25-year period is less than 5 percent, such average shall be deemed to be 5 percent.
 
-      (II) *Applicable minimum percentage; applicable maximum percentage* — For purposes of subclause (I), the applicable minimum percentage and the applicable maximum percentage for a plan year beginning in a calendar year shall be determined in accordance with the following table: If the calendar year is:Theapplicable minimum percentage is:Theapplicable maximum percentage is: 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, or 202090%110% 202185%115% 202280%120% 202375%125% After 202370%130%
+      (II) *Applicable minimum percentage; applicable maximum percentage* — For purposes of subclause (I), the applicable minimum percentage and the applicable maximum percentage for a plan year beginning in a calendar year shall be determined in accordance with the following table: If the calendar year is:Theapplicable minimum percentage is:Theapplicable maximum percentage is: Any year in the period starting in 2012 and ending in 201990%110% Any year in the period starting in 2020 and ending in 203095%105% 203190%110% 203285%115% 203380%120% 203475%125% After 203470%130%.
 
   (D) *Corporate bond yield curve* — For purposes of this paragraph—
 
@@ -5762,11 +5789,17 @@ For applicability of amendment by section 202(d) of Pub. L. 109–280 to a multi
 
 **(m) Special rules for community newspaper plans**
 
-(1) **In general** — The plan sponsor of a community newspaper plan under which no participant has had the participant’s accrued benefit increased (whether because of service or compensation) after December 31, 2017, may elect to have the alternative standards described in paragraph (3) apply to such plan, and any plan sponsored by any member of the same controlled group.
+(1) **In general** — An eligible newspaper plan sponsor of a plan under which no participant has had the participant’s accrued benefit increased (whether because of service or compensation) after April 2, 2019, may elect to have the alternative standards described in paragraph (4) apply to such plan.
 
-(2) **Election** — An election under paragraph (1) shall be made at such time and in such manner as prescribed by the Secretary of the Treasury. Such election, once made with respect to a plan year, shall apply to all subsequent plan years unless revoked with the consent of the Secretary of the Treasury.
+(2) **Eligible newspaper plan sponsor** — The term “eligible newspaper plan sponsor” means the plan sponsor of—
 
-(3) **Alternative minimum funding standards** — The alternative standards described in this paragraph are the following:
+  (A) any community newspaper plan, or
+
+  (B) any other plan sponsored, as of April 2, 2019, by a member of the same controlled group of a plan sponsor of a community newspaper plan if such member is in the trade or business of publishing 1 or more newspapers.
+
+(3) **Election** — An election under paragraph (1) shall be made at such time and in such manner as prescribed by the Secretary of the Treasury. Such election, once made with respect to a plan year, shall apply to all subsequent plan years unless revoked with the consent of the Secretary of the Treasury.
+
+(4) **Alternative minimum funding standards** — The alternative standards described in this paragraph are the following:
 
   (A) *Interest rates*
 
@@ -5774,7 +5807,7 @@ For applicability of amendment by section 202(d) of Pub. L. 109–280 to a multi
 
     (ii) *New benefit accruals* — Notwithstanding subsection (h)(2), for purposes of determining the funding target and normal cost of a plan for any plan year, the present value of any benefits accrued or earned under the plan for a plan year with respect to which an election under paragraph (1) is in effect shall be determined on the basis of the United States Treasury obligation yield curve for the day that is the valuation date of such plan for such plan year.
 
-    (iii) *United States Treasury obligation yield curve* — For purposes of this subsection, the term “United States Treasury obligation yield curve” means, with respect to any day, a yield curve which shall be prescribed by the Secretary of the Treasury for such day on interest-bearing obligations of the United States.
+    (iii) *United states treasury obligation yield curve* — For purposes of this subsection, the term “United States Treasury obligation yield curve” means, with respect to any day, a yield curve which shall be prescribed by the Secretary of the Treasury for such day on interest-bearing obligations of the United States.
 
   (B) *Shortfall amortization base*
 
@@ -5790,39 +5823,43 @@ For applicability of amendment by section 202(d) of Pub. L. 109–280 to a multi
 
   (D) *Exemption from at-risk treatment* — Subsection (i) shall not apply.
 
-(4) **Community newspaper plan** — For purposes of this subsection—
+(5) **Community newspaper plan** — For purposes of this subsection—
 
-  (A) *In general* — The term “community newspaper plan” means a plan to which this section applies maintained by an employer which, as of December 31, 2017—
+  (A) *In general* — The term “community newspaper plan” means a plan to which this section applies maintained as of December 31, 2018, by an employer which—
 
-    (i) publishes and distributes daily, either electronically or in printed form—
+    (i) maintains the plan on behalf of participants and beneficiaries with respect to employment in the trade or business of publishing 1 or more newspapers which were published by the employer at any time during the 11-year period ending on December 20, 2019,
 
-      (I) a community newspaper, or
+    (ii)
 
-      (II) 1 or more community newspapers in the same State,
+      (I) is not a company the stock of which is publicly traded (on a stock exchange or in an over-the-counter market), and is not controlled, directly or indirectly, by such a company, or
 
-    (ii) is not a company the stock of which is publicly traded (on a stock exchange or in an over-the-counter market), and is not controlled, directly or indirectly, by such a company,
+      (II) is controlled, directly, or indirectly, during the entire 30-year period ending on December 20, 2019, by individuals who are members of the same family, and does not publish or distribute a daily newspaper that is carrier-distributed in printed form in more than 5 States, and
 
-    (iii) is controlled, directly or indirectly—
+    (iii) is controlled, directly, or indirectly—
 
-      (I) by 1 or more persons residing primarily in the State in which the community newspaper is published,
+      (I) by 1 or more persons residing primarily in a State in which the community newspaper has been published on newsprint or carrier-distributed,
 
-      (II) for not less than 30 years by individuals who are members of the same family,
+      (II) during the entire 30-year period ending on December 20, 2019, by individuals who are members of the same family,
 
-      (III) by a trust created or organized in the State in which the community newspaper is published, the sole trustees of which are persons described in subclause (I) or (II),
+      (III) by 1 or more trusts, the sole trustees of which are persons described in subclause (I) or (II), or
 
-      (IV) by an entity which is described in [section 501(c)(3) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim) and exempt from taxation under [section 501(a) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/a&num=0&edition=prelim), which is organized and operated in the State in which the community newspaper is published, and the primary purpose of which is to benefit communities in such State, or
+      (IV) by a combination of persons described in subclause (I), (II), or (III).
 
-      (V) by a combination of persons described in subclause (I), (III), or (IV), and
+  (B) *Newspaper* — The term “newspaper” does not include any newspaper (determined without regard to this subparagraph) to which any of the following apply:
 
-    (iv) does not control, directly or indirectly, any newspaper in any other State.
+    (i) Is not in general circulation.
 
-  (B) *Community newspaper* — The term “community newspaper” means a newspaper which primarily serves a metropolitan statistical area, as determined by the Office of Management and Budget, with a population of not less than 100,000.
+    (ii) Is published (on newsprint or electronically) less frequently than 3 times per week.
+
+    (iii) Has not ever been regularly published on newsprint.
+
+    (iv) Does not have a bona fide list of paid subscribers.
 
   (C) *Control* — A person shall be treated as controlled by another person if such other person possesses, directly or indirectly, the power to direct or cause the direction and management of such person (including the power to elect a majority of the members of the board of directors of such person) through the ownership of voting securities.
 
-(5) **Controlled group** — For purposes of this subsection, the term “controlled group” means all persons treated as a single employer under subsection (b), (c), (m), or (o) of [section 414 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section414&num=0&edition=prelim) as of December 20, 2019.
+(6) **Controlled group** — For purposes of this subsection, the term “controlled group” means all persons treated as a single employer under subsection (b), (c), (m), or (o) of [section 414 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section414&num=0&edition=prelim) as of December 20, 2019.
 
-(6) **Effect on premium rate calculation** — Notwithstanding any other provision of law or any regulation issued by the Pension Benefit Guaranty Corporation, in the case of a plan for which an election is made to apply the alternative standards described in paragraph (3), the additional premium under [section 1306(a)(3)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1306/a/3/E&num=0&edition=prelim) shall be determined as if such election had not been made.
+(7) **Effect on premium rate calculation** — In the case of a plan for which an election is made to apply the alternative standards described in paragraph (3), the additional premium under [section 1306(a)(3)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1306/a/3/E&num=0&edition=prelim) shall be determined as if such election had not been made.
 
 ### Statutory Notes
 
@@ -5837,6 +5874,16 @@ The Social Security Act, referred to in subsec. (h)(3)(D)(ii), is act Aug. 14, 1
 A prior section 1083, Pub. L. 93–406, title I, § 303, Sept. 2, 1974, 88 Stat. 872; Pub. L. 99–272, title XI, §§ 11015(b)(1)(A), 11016(c)(2), Apr. 7, 1986, 100 Stat. 267, 273; Pub. L. 100–203, title IX, § 9306(a)(2), (b)(2), (c)(2)(A), (d)(2), Dec. 22, 1987, 101 Stat. 1330–353 to 1330–355; Pub. L. 101–239, title VII, §§ 7881(b)(6)(B)(ii), (7), (8), (c)(2), 7891(a)(1), Dec. 19, 1989, 103 Stat. 2438, 2439, 2445, related to variance from minimum funding standard, prior to repeal by Pub. L. 109–280, title I, § 101(a), (d), Aug. 17, 2006, 120 Stat. 784, 789, applicable to plan years beginning after 2007.
 
 #### Amendments
+2021—Subsec. (c)(8). Pub. L. 117–2, § 9705(b), added par. (8).
+
+Subsec. (h)(2)(C)(iv)(I). Pub. L. 117–2, § 9706(b)(2), inserted at end “Notwithstanding anything in this subclause, if the average of the first, second, or third segment rate for any 25-year period is less than 5 percent, such average shall be deemed to be 5 percent.”
+
+Subsec. (h)(2)(C)(iv)(II). Pub. L. 117–58 amended table generally. Prior to amendment, table related to applicable minimum and maximum percentages for each calendar year from 2020 to 2029 and for calendar years after 2029.
+
+Pub. L. 117–2, § 9706(b)(1), amended table generally. Prior to amendment, table related to applicable minimum and maximum percentages for each calendar year from 2012 to 2023 and for calendar years after 2023.
+
+Subsec. (m). Pub. L. 117–2, § 9707(b), amended subsec. (m) generally. Prior to amendment, subsec. (m) set out special rules for community newspaper plans under which no participant has had the participant’s accrued benefit increased after December 31, 2017.
+
 2019—Subsec. (m). Pub. L. 116–94 added subsec. (m).
 
 2015—Subsec. (h)(2)(C)(iv)(II). Pub. L. 114–74 amended table generally. Prior to amendment, table related to applicable minimum and maximum percentages for each calendar year from 2012 to 2020 and for calendar years after 2020.
@@ -5892,6 +5939,15 @@ Subsec. (j)(3)(A). Pub. L. 110–458, § 101(b)(1)(G)(i), inserted last sentence
 Subsec. (j)(3)(E). Pub. L. 110–458, § 101(b)(1)(G)(ii), (iii), substituted “, short years, and years with alternate valuation date” for “and short years” in heading and added cl. (iii).
 
 Subsec. (k)(6)(B). Pub. L. 110–458, § 101(b)(1)(H), struck out “, except that in the case of a payment other than a required installment, the due date shall be the date such payment is required to be made under this section” after “subsection (j)”.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–58 applicable to plan years beginning after Dec. 31, 2021, see section 80602(c) of Pub. L. 117–58, set out as a note under [section 430 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section430&num=0&edition=prelim), Internal Revenue Code.
+
+Amendment by section 9705(b) of Pub. L. 117–2 applicable to plan years beginning after Dec. 31, 2018, see section 9705(c) of Pub. L. 117–2, set out as a note under [section 430 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section430&num=0&edition=prelim), Internal Revenue Code.
+
+Amendment by section 9706(b)(1), (2) of Pub. L. 117–2 applicable with respect to plan years beginning after Dec. 31, 2019, with certain exceptions, see section 9706(c) of Pub. L. 117–2, set out as a note under [section 430 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section430&num=0&edition=prelim), Internal Revenue Code.
+
+Amendment by section 9707(b) of Pub. L. 117–2 applicable to plan years ending after Dec. 31, 2017, see section 9707(c) of Pub. L. 117–2, set out as a note under [section 430 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section430&num=0&edition=prelim), Internal Revenue Code.
 
 #### Effective Date of 2019 Amendment
 Amendment by Pub. L. 116–94 applicable to plan years ending after Dec. 31, 2017, see section 115(c) of Pub. L. 116–94, set out as a note under [section 430 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section430&num=0&edition=prelim), Internal Revenue Code.
@@ -6064,6 +6120,15 @@ For modification of transition rule to pension funding requirements in the case 
 
     (ii) inform the Pension Benefit Guaranty Corporation of such application in such form and manner as the Director of the Pension Benefit Guaranty Corporation may prescribe.
 
+  (F) *Relief for 2020 and 2021* — A multiemployer plan with respect to which the solvency test under subparagraph (C) is met as of February 29, 2020, may elect to apply this paragraph (without regard to whether such plan previously elected the application of this paragraph)—
+
+    (i) by substituting “February 29, 2020” for “August 31, 2008” each place it appears in subparagraphs (A)(i), (B)(i)(I), and (B)(i)(II),
+
+    (ii) by inserting “and other losses related to the virus SARS–CoV–2 or coronavirus disease 2019 (COVID–19) (including experience losses related to reductions in contributions, reductions in employment, and deviations from anticipated retirement rates, as determined by the plan sponsor)” after “net investment losses” in subparagraph (A)(i), and
+
+    (iii) by substituting “this subparagraph or subparagraph (A)” for “this subparagraph and subparagraph (A) both” in subparagraph (B)(iii).
+    The preceding sentence shall not apply to a plan to which special financial assistance is granted under [section 1432 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1432). For purposes of the application of this subparagraph, the Secretary of the Treasury shall rely on the plan sponsor’s calculations of plan losses unless such calculations are clearly erroneous.
+
 **(c) Additional rules**
 
 (1) **Determinations to be made under funding method** — For purposes of this part, normal costs, accrued liability, past service liabilities, and experience gains and losses shall be determined under the funding method used to determine costs under the plan.
@@ -6234,6 +6299,8 @@ This chapter, referred to in subsec. (d)(2)(B)(i), was in the original “this A
 A prior section 1084, Pub. L. 93–406, title I, § 304, Sept. 2, 1974, 88 Stat. 873; Pub. L. 99–272, title XI, §§ 11015(b)(1)(B), 11016(c)(3), Apr. 7, 1986, 100 Stat. 267, 273; Pub. L. 100–203, title IX, § 9306(c)(2)(B), Dec. 22, 1987, 101 Stat. 1330–355; Pub. L. 101–239, title VII, §§ 7891(a)(1), 7894(d)(3), Dec. 19, 1989, 103 Stat. 2445, 2449, related to extension of amortization periods, prior to repeal by Pub. L. 109–280, title I, § 101(a), (d), Aug. 17, 2006, 120 Stat. 784, 789, applicable to plan years beginning after 2007.
 
 #### Amendments
+2021—Subsec. (b)(8)(F). Pub. L. 117–2 added subpar. (F).
+
 2014—Subsec. (a). Pub. L. 113–235, § 108(a)(3)(B), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to accumulated funding deficiencies of multiemployer plans.
 
 Subsec. (d)(1)(C). Pub. L. 113–295, which directed substitution of “December 31, 2015” for “December 31, 2014”, was not executed in view of the amendment by Pub. L. 113–235, § 101(b)(1), which struck out subpar. (C). See note below.
@@ -7125,6 +7192,12 @@ Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub
 
 #### Effective Date
 Section applicable with respect to plan years beginning after 2007, with special rules for certain notices and certain restored benefits, see section 202(f) of Pub. L. 109–280, set out as an Effective Date of 2006 Amendment note under [section 1082 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1082).
+
+#### Temporary Delay of Designation of Multiemployer Plans as in Endangered, Critical, or Critical and Declining Status
+For provisions allowing election of delay of status designation of endangered, critical, or critical and declining multiemployer plans for purposes of this section, see section 9701 of Pub. L. 117–2, set out as a note under [section 432 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section432&num=0&edition=prelim), Internal Revenue Code.
+
+#### Temporary Extension of the Funding Improvement and Rehabilitation Periods for Multiemployer Pension Plans in Critical and Endangered Status for 2020 or 2021
+For provisions allowing election of extension of funding improvement period or rehabilitation period of endangered or critical multiemployer plans for purposes of this section, see section 9702 of Pub. L. 117–2, set out as a note under [section 432 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section432&num=0&edition=prelim), Internal Revenue Code.
 
 #### Guidance
 Pub. L. 113–235, div. O, title II, § 201(a)(8), Dec. 16, 2014, 128 Stat. 2810, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 16, 2014], the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, shall publish appropriate guidance to implement section 305(e)(9) of the Employee Retirement Income Security Act of 1974 ([29 U.S.C. 1085(e)(9)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1085/e/9&num=0&edition=prelim)).”
@@ -8853,7 +8926,7 @@ Before granting an exemption under this subsection from section 1106(a) or 1107(
 ### Statutory Notes
 
 #### Applicability of 2020 Amendment
-Amendment by section 202(a) of Pub. L. 116–260 applicable beginning 1 year after Dec. 27, 2020. See 2021 Amendment note below.
+Amendment by section 202(a) of Pub. L. 116–260 applicable beginning 1 year after Dec. 27, 2020. See 2020 Amendment note below.
 
 #### References in Text
 This chapter, referred to in subsecs. (a), (b)(2)(B)(vi)(I), and (h)(3), (4), was in the original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1001) and Tables.
@@ -11995,13 +12068,13 @@ Pub. L. 111–148, which directed amendment of subpart B of part 7 of “subtitl
 
     (i) subject to clause (iii), in the case of such item or service furnished in a State that has in effect a specified State law with respect to such plan, coverage, or issuer, respectively; such a nonparticipating provider or nonparticipating emergency facility; and such an item or service, the amount determined in accordance with such law;
 
-    (ii) subject to clause (iii), in the case of such item or service furnished in a State that does not have in effect a specified State law, with respect to such plan, coverage, or issuer, respectively; such a nonparticipating provider or nonparticipating emergency facility; and such an item or service, the amount that is the qualifying payment amount (as defined in subparagraph (E)) for such year and determined in accordance with rulemaking described in paragraph (2)) for such item or service; or
+    (ii) subject to clause (iii), in the case of such item or service furnished in a State that does not have in effect a specified State law, with respect to such plan, coverage, or issuer, respectively; such a nonparticipating provider or nonparticipating emergency facility; and such an item or service, the amount that is the qualifying payment amount (as defined in subparagraph (E)) 22 Closing parentheses so in original. for such year and determined in accordance with rulemaking described in paragraph (2)) 2 for such item or service; or
 
     (iii) in the case of such item or service furnished in a State with an All-Payer Model Agreement under section 1115A of the Social Security Act [[42 U.S.C. 1315a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1315a&num=0&edition=prelim)], the amount that the State approves under such system for such item or service so furnished.
 
-      (I) *Specified State law* — The term “specified State law” means, with respect to a State, an item or service furnished by a nonparticipating provider or nonparticipating emergency facility during a year and a group health plan or group health insurance coverage offered by a health insurance issuer, a State law that provides for a method for determining the total amount payable under such a plan, coverage, or issuer, respectively (to the extent such State law applies to such plan, coverage, or issuer, subject to [section 1144 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1144)) in the case of a participant or beneficiary covered under such plan or coverage and receiving such item or service from such a nonparticipating provider or nonparticipating emergency facility.
+  (I) *Specified State law* — The term “specified State law” means, with respect to a State, an item or service furnished by a nonparticipating provider or nonparticipating emergency facility during a year and a group health plan or group health insurance coverage offered by a health insurance issuer, a State law that provides for a method for determining the total amount payable under such a plan, coverage, or issuer, respectively (to the extent such State law applies to such plan, coverage, or issuer, subject to [section 1144 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1144)) in the case of a participant or beneficiary covered under such plan or coverage and receiving such item or service from such a nonparticipating provider or nonparticipating emergency facility.
 
-  (J) *Stabilize* — The term “to stabilize”, with respect to an emergency medical condition (as defined in subparagraph (B)), has the meaning give in section 1867(e)(3) of the Social Security Act ([42 U.S.C. 1395dd(e)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395dd/e/3&num=0&edition=prelim)).
+  (J) *Stabilize* — The term “to stabilize”, with respect to an emergency medical condition (as defined in subparagraph (B)), has the meaning give 33 So in original. Probably should be “given”. in section 1867(e)(3) of the Social Security Act ([42 U.S.C. 1395dd(e)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395dd/e/3&num=0&edition=prelim)).
 
   (K) *Out-of-network rate* — The term “out-of-network rate” means, with respect to an item or service furnished in a State during a year to a participant or beneficiary of a group health plan or group health insurance coverage offered by a health insurance issuer receiving such item or service from a nonparticipating provider or nonparticipating emergency facility—
 
@@ -12045,7 +12118,7 @@ Pub. L. 111–148, which directed amendment of subpart B of part 7 of “subtitl
 
       (III) A critical access hospital (as defined in section 1861(mm)(1) of such Act [[42 U.S.C. 1395x(mm)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/mm/1&num=0&edition=prelim)]).
 
-      (IV) An ambulatory surgical center described in section 1833(i)(1)(A) of such Act [42 U.S.C. 1395](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395&num=0&edition=prelim)l(i)(1)(A)].
+      (IV) An ambulatory surgical center described in section 1833(i)(1)(A) of such Act [[42 U.S.C. 1395](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395&num=0&edition=prelim)l(i)(1)(A)].
 
       (V) Any other facility, specified by the Secretary, that provides items or services for which coverage is provided under the plan or coverage, respectively.
 
@@ -12077,7 +12150,7 @@ Pub. L. 111–148, which directed amendment of subpart B of part 7 of “subtitl
 
     (iii) such items and services are related to the treatment of a similar condition; and
 
-    (iv) such items and services were furnished during the 30 day 22 So in original. Probably should be “30-day”. period following the date on which the first item or service included with respect to such determination was furnished or an alternative period as determined by the Secretary, for use in limited situations, such as by the consent of the parties or in the case of low-volume items and services, to encourage procedural efficiency and minimize health plan and provider administrative costs.
+    (iv) such items and services were furnished during the 30 day 44 So in original. Probably should be “30-day”. period following the date on which the first item or service included with respect to such determination was furnished or an alternative period as determined by the Secretary, for use in limited situations, such as by the consent of the parties or in the case of low-volume items and services, to encourage procedural efficiency and minimize health plan and provider administrative costs.
 
   (B) *Treatment of bundled payments* — In carrying out subparagraph (A), the Secretary shall provide that, in the case of items and services which are included by a provider or facility as part of a bundled payment, such items and services included in such bundled payment may be part of a single determination under this subsection.
 
@@ -12238,7 +12311,7 @@ Pub. L. 111–148, which directed amendment of subpart B of part 7 of “subtitl
 
 (8) **Administrative fee**
 
-  (A) *In general* — Each party to a determination under paragraph (5) to which an entity is selected under paragraph (3) 33 So in original. Probably should be “paragraph (4)”. in a year shall pay to the Secretary, at such time and in such manner as specified by the Secretary, a fee for participating in the IDR process with respect to such determination in an amount described in subparagraph (B) for such year.
+  (A) *In general* — Each party to a determination under paragraph (5) to which an entity is selected under paragraph (3) 55 So in original. Probably should be “paragraph (4)”. in a year shall pay to the Secretary, at such time and in such manner as specified by the Secretary, a fee for participating in the IDR process with respect to such determination in an amount described in subparagraph (B) for such year.
 
   (B) *Amount of fee* — The amount described in this subparagraph for a year is an amount established by the Secretary in a manner such that the total amount of fees paid under this paragraph for such year is estimated to be equal to the amount of expenditures estimated to be made by the Secretary for such year in carrying out the IDR process.
 
@@ -12252,7 +12325,7 @@ Pub. L. 111–148, which directed amendment of subpart B of part 7 of “subtitl
 
 (2) Any out-of-pocket maximum limitation applicable to such plan or coverage.
 
-(3) A telephone number and Internet website address through which such individual may seek consumer assistance information, such as information related to hospitals and urgent care facilities that have in effect a contractual relationship with such plan or coverage for furnishing items and services under such plan or coverage 44 So in original. Probably should be followed by a period.
+(3) A telephone number and Internet website address through which such individual may seek consumer assistance information, such as information related to hospitals and urgent care facilities that have in effect a contractual relationship with such plan or coverage for furnishing items and services under such plan or coverage 66 So in original. Probably should be followed by a period.
 
 **(f) Advanced explanation of benefits**
 
@@ -12296,7 +12369,7 @@ Section 109(a) of the No Surprises Act, referred to in subsec. (a)(2), is sectio
 
 The phrase “in 2019”, referred to in subsec. (a)(3)(E)(iii)(III), does not appear in cl. (i)(I) of subsec. (a)(3)(E). However, subsec. (a)(3)(E)(iii)(III) of [section 9816 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9816&num=0&edition=prelim), Internal Revenue Code, which contains text similar to that in this subclause, refers to the phrase “on January 31, 2019”, which does appear in cl. (i)(I).
 
-The Social Security Act, referred to in subsec. (c)(5)(D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§ 1395 et seq.), XIX (§ 1396 et seq.), and XXI (§ 1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1305) and Tables.
+The Social Security Act, referred to in subsec. (c)(5)(D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§ 1395 et seq.), XIX (§ 1396 et seq.), and XXI (§ 1397aa et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2020—Subsecs. (c), (d). Pub. L. 116–260, § 103(b), added subsec. (c) and redesignated former subsec. (c) as (d).
@@ -13050,7 +13123,7 @@ Section applicable with respect to group health plans for plan years beginning a
 
       (VI) 1 representative of the Office of the National Coordinator for Health Information Technology; and
 
-      (VII) 1 representative of a State All-Payer 22 So in original. Probably should be “All Payer”. Claims Database;
+      (VII) 1 representative of a State All-Payer 22 So in original. Definition in subsec. (c) does not contain hyphen in “All Payer”. Claims Database;
 
     (iv) members appointed by the Comptroller General of the United States, including—
 
@@ -14067,9 +14140,17 @@ Section applicable to years beginning after Dec. 31, 2013, see section 3 of Pub.
 
 **(h) Voting by corporation of stock paid as liability** Any stock in a person liable to the corporation under this subchapter which is paid to the corporation by such person or a member of such person’s controlled group in satisfaction of such person’s liability under this subchapter may be voted only by the custodial trustees or outside money managers of the corporation.
 
+**(i) Special financial assistance for multiemployer pension plans**
+
+(1) An eighth fund shall be established for special financial assistance to multiemployer pension plans, as provided under [section 1432 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1432), and to pay for necessary administrative and operating expenses of the corporation relating to such assistance.
+
+(2) There is appropriated from the general fund such amounts as are necessary for the costs of providing financial assistance under [section 1432 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1432) and necessary administrative and operating expenses of the corporation. The eighth fund established under this subsection shall be credited with amounts from time to time as the Secretary of the Treasury, in conjunction with the Director of the Pension Benefit Guaranty Corporation, determines appropriate, from the general fund of the Treasury, but in no case shall such transfers occur after September 30, 2030.
+
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (i). Pub. L. 117–2 added subsec. (i).
+
 2014—Subsec. (b)(3). Pub. L. 113–235 designated existing provisions as subpar. (A) and added subpar. (B).
 
 2012—Subsec. (b)(1). Pub. L. 112–141, § 40234(b)(1)(A)(i), redesignated subpars. (B) to (G) as (A) to (F), respectively, and struck out former subpar. (A) which read as follows: “funds borrowed under subsection (c),”.
@@ -14180,13 +14261,15 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
 
     (v) in the case of a multiemployer plan, for plan years beginning after December 31, 2012, and before January 1, 2015, $12.00 for each individual who is a participant in such plan during the applicable plan year,
 
-    (vi) in the case of a multiemployer plan, for plan years beginning after December 31, 2014, $26 for each individual who is a participant in such plan during the applicable plan year, or
+    (vi) in the case of a multiemployer plan, for plan years beginning after December 31, 2014, and before January 1, 2031, $26 for each individual who is a participant in such plan during the applicable plan year,
 
     (vii) in the case of a CSEC plan (as defined in [section 1060(f)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1060/f/1&num=0&edition=prelim)), for plan years beginning after December 31, 2018, for each individual who is a participant in such plan during the plan year an amount equal to the sum of—
 
       (I) the additional premium (if any) determined under subparagraph (E), and
 
-      (II) $19.
+      (II) $19, or
+
+    (viii) in the case of a multiemployer plan, for plan years beginning after December 31, 2030, $52 for each individual who is a participant in such plan during the applicable plan year.
 
   (B) The corporation may prescribe by regulation the extent to which the rate described in subparagraph (A)(i) applies more than once for any plan year to an individual participating in more than one plan maintained by the same employer, and the corporation may prescribe regulations under which the rate described in clause (iii) or (iv) of subparagraph (A) will not apply to the same participant in any multiemployer plan more than once for any plan year.
 
@@ -14312,6 +14395,16 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
       (II) the national average wage index (as so defined) for 2013; and
 
     (ii) such dollar amount for plan years beginning in the preceding calendar year.
+
+  (N) For each plan year beginning in a calendar year after 2031, there shall be substituted for the dollar amount specified in clause (viii) of subparagraph (A) an amount equal to the greater of—
+
+    (i) the product derived by multiplying such dollar amount by the ratio of—
+
+      (I) the national average wage index (as defined in [section 409(k)(1) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section409/k/1&num=0&edition=prelim)) for the first of the 2 calendar years preceding the calendar year in which such plan year begins, to
+
+      (II) the national average wage index (as so defined) for 2029; and
+
+    (ii) such dollar amount for plan years beginning in the preceding calendar year.If the amount determined under this subparagraph is not a multiple of $1, such product shall be rounded to the nearest multiple of $1.
 
 (4) The corporation may prescribe, subject to the enactment of a joint resolution in accordance with this section or [section 1322a(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1322a/f&num=0&edition=prelim), alternative schedules of premium rates, and bases for the application of those rates, for basic benefits guaranteed by it under sections 1322 and 1322a of this title based, in whole or in part, on the risks insured by the corporation in each plan.
 
@@ -14484,6 +14577,14 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
 The plan year within which the date of enactment of the Multiemployer Pension Plan Amendments Act of 1980 falls, referred to in subsec. (a)(3)(A)(ii), refers to the plan year within which the date of the enactment of Pub. L. 96–364 falls, such enactment being approved Sept. 26, 1980.
 
 #### Amendments
+2021—Subsec. (a)(3)(A)(vi). Pub. L. 117–2, § 9704(c)(1)(A), inserted “, and before January 1, 2031” after “December 31, 2014,” and struck out “or” at end.
+
+Subsec. (a)(3)(A)(vii). Pub. L. 117–2, § 9704(c)(1)(B), substituted “, or” for period at end and realigned margins.
+
+Subsec. (a)(3)(A)(viii). Pub. L. 117–2, § 9704(c)(1)(C), added cl. (viii).
+
+Subsec. (a)(3)(N). Pub. L. 117–2, § 9704(c)(2), added subpar. (N).
+
 2019—Subsec. (a)(3)(A)(i). Pub. L. 116–94, § 206(a)(1), substituted “plan other than a CSEC plan (as defined in [section 1060(f)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1060/f/1&num=0&edition=prelim))” for “plan,” in introductory provisions.
 
 Subsec. (a)(3)(A)(vii). Pub. L. 116–94, § 206(a)(2)–(4), added cl. (vii).
@@ -19036,6 +19137,125 @@ Pub. L. 96–364, title I, § 108(c)(3), Sept. 26, 1980, 94 Stat. 1268, provided
 
 #### Effective Date
 Part effective Sept. 26, 1980, except as specifically provided, see [section 1461(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1461/e&num=0&edition=prelim).
+
+
+<a id="section-1432"></a>
+## § 1432. Special financial assistance by the corporation
+**(a) Special financial assistance**
+
+(1) **In general** — The corporation shall provide special financial assistance to an eligible multiemployer plan under this section, upon the application of a plan sponsor of such a plan for such assistance.
+
+(2) **Inapplicability of certain repayment obligation** — A plan receiving special financial assistance pursuant to this section shall not be subject to repayment obligations with respect to such special financial assistance.
+
+**(b) Eligible multiemployer plans**
+
+(1) **In general** — For purposes of this section, a multiemployer plan is an eligible multiemployer plan if—
+
+  (A) the plan is in critical and declining status (within the meaning of [section 1085(b)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1085/b/6&num=0&edition=prelim)) in any plan year beginning in 2020 through 2022;
+
+  (B) a suspension of benefits has been approved with respect to the plan under [section 1085(e)(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1085/e/9&num=0&edition=prelim) as of March 11, 2021;
+
+  (C) in any plan year beginning in 2020 through 2022, the plan is certified by the plan actuary to be in critical status (within the meaning of [section 1085(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1085/b/2&num=0&edition=prelim)), has a modified funded percentage of less than 40 percent, and has a ratio of active to inactive participants which is less than 2 to 3; or
+
+  (D) the plan became insolvent for purposes of [section 418E of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section418E&num=0&edition=prelim) after December 16, 2014, and has remained so insolvent and has not been terminated as of March 11, 2021.
+
+(2) **Modified funded percentage** — For purposes of paragraph (1)(C), the term “modified funded percentage” means the percentage equal to a fraction the numerator of which is current value of plan assets (as defined in [section 1002(26) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1002/26&num=0&edition=prelim)) and the denominator of which is current liabilities (as defined in [section 431(c)(6)(D) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section431/c/6/D&num=0&edition=prelim) and [section 1084(c)(6)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1084/c/6/D&num=0&edition=prelim)).
+
+**(c) Applications for special financial assistance** Within 120 days of March 11, 2021, the corporation shall issue regulations or guidance setting forth requirements for special financial assistance applications under this section. In such regulations or guidance, the corporation shall—
+
+(1) limit the materials required for a special financial assistance application to the minimum necessary to make a determination on the application;
+
+(2) specify effective dates for transfers of special financial assistance following approval of an application, based on the effective date of the supporting actuarial analysis and the date on which the application is submitted; and
+
+(3) provide for an alternate application for special financial assistance under this section, which may be used by a plan that has been approved for a partition under [section 1413 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1413) before March 11, 2021.
+
+**(d) Temporary priority consideration of applications**
+
+(1) **In general** — The corporation may specify in regulations or guidance under subsection (c) that, during a period no longer than the first 2 years following March 11, 2021, applications may not be filed by an eligible multiemployer plan unless—
+
+  (A) the eligible multiemployer plan is insolvent or is likely to become insolvent within 5 years of March 11, 2021;
+
+  (B) the corporation projects the eligible multiemployer plan to have a present value of financial assistance payments under [section 1431 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1431) that exceeds $1,000,000,000 if the special financial assistance is not ordered;
+
+  (C) the eligible multiemployer plan has implemented benefit suspensions under [section 1085(e)(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1085/e/9&num=0&edition=prelim) as of March 11, 2021; or
+
+  (D) the corporation determines it appropriate based on other similar circumstances.
+
+**(e) Actuarial assumptions**
+
+(1) **Eligibility** — For purposes of determining eligibility for special financial assistance, the corporation shall accept assumptions incorporated in a multiemployer plan’s determination that it is in critical status or critical and declining status (within the meaning of [section 1085(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1085/b&num=0&edition=prelim)) for certifications of plan status completed before January 1, 2021, unless such assumptions are clearly erroneous. For certifications of plan status completed after December 31, 2020, a plan shall determine whether it is in critical or critical and declining status for purposes of eligibility for special financial assistance by using the assumptions that the plan used in its most recently completed certification of plan status before January 1, 2021, unless such assumptions (excluding the plan’s interest rate) are unreasonable.
+
+(2) **Amount of financial assistance** — In determining the amount of special financial assistance in its application, an eligible multiemployer plan shall—
+
+  (A) use the interest rate used by the plan in its most recently completed certification of plan status before January 1, 2021, provided that such interest rate may not exceed the interest rate limit; and
+
+  (B) for other assumptions, use the assumptions that the plan used in its most recently completed certification of plan status before January 1, 2021, unless such assumptions are unreasonable.
+
+(3) **Interest rate limit** — The interest rate limit for purposes of this subsection is the rate specified in [section 1083(h)(2)(C)(iii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1083/h/2/C/iii&num=0&edition=prelim) (disregarding modifications made under clause (iv) of such section) for the month in which the application for special financial assistance is filed by the eligible multiemployer plan or the 3 preceding months, with such specified rate increased by 200 basis points.
+
+(4) **Changes in assumptions** — If a plan determines that use of one or more prior assumptions is unreasonable, the plan may propose in its application to change such assumptions, provided that the plan discloses such changes in its application and describes why such assumptions are no longer reasonable. The corporation shall accept such changed assumptions unless it determines the changes are unreasonable, individually or in the aggregate. The plan may not propose a change to the interest rate otherwise required under this subsection for eligibility or financial assistance amount.
+
+**(f) Application deadline** Any application by a plan for special financial assistance under this section shall be submitted to the corporation (and, in the case of a plan to which [section 432(k)(1)(D) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section432/k/1/D&num=0&edition=prelim) applies, to the Secretary of the Treasury) no later than December 31, 2025, and any revised application for special financial assistance shall be submitted no later than December 31, 2026.
+
+**(g) Determinations on applications** A plan’s application for special financial assistance under this section that is timely filed in accordance with the regulations or guidance issued under subsection (c) shall be deemed approved unless the corporation notifies the plan within 120 days of the filing of the application that the application is incomplete, any proposed change or assumption is unreasonable, or the plan is not eligible under this section. Such notice shall specify the reasons the plan is ineligible for special financial assistance, any proposed change or assumption is unreasonable, or information is needed to complete the application. If a plan is denied assistance under this subsection, the plan may submit a revised application under this section. Any revised application for special financial assistance submitted by a plan shall be deemed approved unless the corporation notifies the plan within 120 days of the filing of the revised application that the application is incomplete, any proposed change or assumption is unreasonable, or the plan is not eligible under this section. Special financial assistance issued by the corporation shall be effective on a date determined by the corporation, but no later than 1 year after a plan’s special financial assistance application is approved by the corporation or deemed approved. The corporation shall not pay any special financial assistance after September 30, 2030.
+
+**(h) Manner of payment** The payment made by the corporation to an eligible multiemployer plan under this section shall be made as a single, lump sum payment.
+
+**(i) Amount and manner of special financial assistance**
+
+(1) **In general** — Special financial assistance under this section shall be a transfer of funds in the amount necessary as demonstrated by the plan sponsor on the application for such special financial assistance, in accordance with the requirements described in subsection (j). Special financial assistance shall be paid to such plan as soon as practicable upon approval of the application by the corporation.
+
+(2) **No cap** — Special financial assistance granted by the corporation under this section shall not be capped by the guarantee under 1322a of this title.
+
+**(j) Determination of amount of special financial assistance**
+
+(1) **In general** — The amount of financial assistance provided to a multiemployer plan eligible for financial assistance under this section shall be such amount required for the plan to pay all benefits due during the period beginning on the date of payment of the special financial assistance payment under this section and ending on the last day of the plan year ending in 2051, with no reduction in a participant’s or beneficiary’s accrued benefit as of March 11, 2021, except to the extent of a reduction in accordance with [section 1085(e)(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1085/e/8&num=0&edition=prelim) adopted prior to the plan’s application for special financial assistance under this section, and taking into account the reinstatement of benefits required under subsection (k).
+
+(2) **Projections** — The funding projections for purposes of this section shall be performed on a deterministic basis.
+
+**(k) Reinstatement of suspended benefits** The Secretary, in coordination with the Secretary of the Treasury, shall ensure that an eligible multiemployer plan that receives special financial assistance under this section—
+
+(1) reinstates any benefits that were suspended under [section 1085(e)(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1085/e/9&num=0&edition=prelim) or [section 1426(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1426/a&num=0&edition=prelim) in accordance with guidance issued by the Secretary of the Treasury pursuant to [section 432(k)(1)(B) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section432/k/1/B&num=0&edition=prelim), effective as of the first month in which the effective date for the special financial assistance occurs, for participants and beneficiaries as of such month; and
+
+(2) provides payments equal to the amount of benefits previously suspended under section 1085(e)(9) or 1426(a) of this title to any participants or beneficiaries in pay status as of the effective date of the special financial assistance, payable, as determined by the eligible multiemployer plan—
+
+  (A) as a lump sum within 3 months of such effective date; or
+
+  (B) in equal monthly installments over a period of 5 years, commencing within 3 months of such effective date, with no adjustment for interest.
+
+**(l) Restrictions on the use of special financial assistance** Special financial assistance received under this section and any earnings thereon may be used by an eligible multiemployer plan to make benefit payments and pay plan expenses. Special financial assistance and any earnings on such assistance shall be segregated from other plan assets. Special financial assistance shall be invested by plans in investment-grade bonds or other investments as permitted by the corporation.
+
+**(m) Conditions on plans receiving special financial assistance**
+
+(1) **In general** — The corporation, in consultation with the Secretary of the Treasury, may impose, by regulation or other guidance, reasonable conditions on an eligible multiemployer plan that receives special financial assistance relating to increases in future accrual rates and any retroactive benefit improvements, allocation of plan assets, reductions in employer contribution rates, diversion of contributions to, and allocation of expenses to, other benefit plans, and withdrawal liability.
+
+(2) **Limitation** — The corporation shall not impose conditions on an eligible multiemployer plan as a condition of, or following receipt of, special financial assistance under this section relating to—
+
+  (A) any prospective reduction in plan benefits (including benefits that may be adjusted pursuant to [section 1085(e)(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1085/e/8&num=0&edition=prelim));
+
+  (B) plan governance, including selection of, removal of, and terms of contracts with, trustees, actuaries, investment managers, and other service providers; or
+
+  (C) any funding rules relating to the plan receiving special financial assistance under this section.
+
+(3) **Payment of premiums** — An eligible multiemployer plan receiving special financial assistance under this section shall continue to pay all premiums due under [section 1307 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1307) for participants and beneficiaries in the plan.
+
+(4) **Assistance not considered for certain purposes** — An eligible multiemployer plan that receives special financial assistance shall be deemed to be in critical status within the meaning of [section 1085(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1085/b/2&num=0&edition=prelim) until the last plan year ending in 2051.
+
+(5) **Insolvent plans** — An eligible multiemployer plan receiving special financial assistance under this section that subsequently becomes insolvent will be subject to the current rules and guarantee for insolvent plans.
+
+(6) **Ineligibility for other assistance** — An eligible multiemployer plan that receives special financial assistance under this section is not eligible to apply for a new suspension of benefits under [section 1085(e)(9)(G) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1085/e/9/G&num=0&edition=prelim).
+
+**(n) Coordination with Secretary of the Treasury** In prescribing the application process for eligible multiemployer plans to receive special financial assistance under this section and reviewing applications of such plans, the corporation shall coordinate with the Secretary of the Treasury in the following manner:
+
+(1) In the case of a plan which has suspended benefits under [section 1085(e)(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1085/e/9&num=0&edition=prelim)—
+
+  (A) in determining whether to approve the application, the corporation shall consult with the Secretary of the Treasury regarding the plan’s proposed method of reinstating benefits, as described in the plan’s application and in accordance with guidance issued by the Secretary of the Treasury, and
+
+  (B) the corporation shall consult with the Secretary of the Treasury regarding the amount of special financial assistance needed based on the projected funded status of the plan as of the last day of the plan year ending in 2051, whether the plan proposes to repay benefits over 5 years or as a lump sum, as required by subsection (k)(2), and any other relevant factors, as determined by the corporation in consultation with the Secretary of the Treasury, to ensure the amount of assistance is sufficient to meet such requirement and is sufficient to pay benefits as required in subsection (j)(1).
+
+(2) In the case of any plan which proposes in its application to change the assumptions used, as provided in subsection (e)(4), the corporation shall consult with the Secretary of the Treasury regarding such proposed change in assumptions.
+
+(3) If the corporation specifies in regulations or guidance that temporary priority consideration is available for plans which are insolvent within the meaning of [section 418E of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section418E&num=0&edition=prelim) or likely to become so insolvent or for plans which have suspended benefits under [section 1085(e)(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1085/e/9&num=0&edition=prelim), or that availability is otherwise based on the funded status of the plan under [section 1085 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1085), as permitted by subsection (d), the corporation shall consult with the Secretary of the Treasury regarding any granting of priority consideration to such plans.
 
 
 <a id="section-1441"></a>

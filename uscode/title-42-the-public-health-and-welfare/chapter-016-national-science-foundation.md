@@ -81,11 +81,11 @@ Pub. L. 94–471, § 1, Oct. 11, 1976, 90 Stat. 2053, provided: “That this Act
 #### Short Title
 Act May 10, 1950, ch. 171, § 1, 64 Stat. 149, provided: “That this Act [enacting this chapter] may be cited as the ‘National Science Foundation Act of 1950’.”
 
-#### Transfer of Functions
-Office of Science and Technology, including offices of Director and Deputy Director, provided for by sections 1 and 2 of Reorg. Plan No. 2 of 1962, abolished and all functions vested by law in Office of Science and Technology or Director or Deputy Director of Office of Science and Technology transferred to Director of National Science Foundation by sections 2 and 3(a)(5) of Reorg. Plan No. 1 of 1973, eff. July 1, 1973, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Continuation of Existing Offices, Procedures, and Organization
 Amendments by Pub. L. 90–407, July 18, 1868, 82 Stat. 360, intended to continue in effect the existing offices, procedures, and organization of the Foundation as provided by this chapter, part II of Reorg. Plan No. 2 of 1962 [set out below], and Reorg. Plan, No. 5 of 1965 [set out in Appendix to Title 5, Government Organization and Employees], but on and after July 18, 1968, part II of Reorg. Plan No. 2 of 1962, and Reorg. Plan No. 5 of 1965, as being of no force or affect, and nothing in Pub. L. 90–407 as altering or affecting any transfers of functions made by part I of Reorg. Plan No. 2 of 1962, see section 16 of Pub. L. 90–407, set out as Continuation of Existing Offices, Procedures, and Organization of the National Science Foundation note under [section 1862 of this title](./chapter-016-national-science-foundation.md#section-1862).
+
+#### Transfer of Functions
+Office of Science and Technology, including offices of Director and Deputy Director, provided for by sections 1 and 2 of Reorg. Plan No. 2 of 1962, abolished and all functions vested by law in Office of Science and Technology or Director or Deputy Director of Office of Science and Technology transferred to Director of National Science Foundation by sections 2 and 3(a)(5) of Reorg. Plan No. 1 of 1973, eff. July 1, 1973, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### REORGANIZATION PLAN NO. 2 OF 1962
 Eff. June 8, 1962, 27 F.R. 5419, 76 Stat. 1253, as amended Pub. L. 88–426, title III, § 305(41), Aug. 14, 1964, 78 Stat. 427; Pub. L. 94–282, title V, § 502, May 11, 1976, 90 Stat. 472
@@ -396,8 +396,7 @@ Sec. 10. The National Science Foundation shall provide leadership in the effecti
 #### Executive Order No. 10807
 Ex. Ord. No. 10807, Mar. 13, 1959, 24 F.R. 1897, as amended Ex. Ord. No. 11381, Nov. 8, 1967, 32 F.R. 15629, which established the Federal Council for Science and Technology, provided for a chairman and membership, specified the functions of the Council, provided for assistance from other Federal agencies and the establishment of standing committees and panels, revoked Ex. Ord. No. 9912 of Dec. 24, 1947, entitled “Establishing the Interdepartmental Committee on Scientific Research and Development”, and amended Ex. Ord. No. 10521, set out above, was omitted from the Code in view of Pub. L. 94–282, title IV, § 402, May 11, 1976, 90 Stat. 472, set out below, which abolished the Federal Council for Science and Technology.
 
-#### Abolition of Federal Council for Science and Technology
-Pub. L. 94–282, title IV, § 402, May 11, 1976, 90 Stat. 472, provided that: “The Federal Council for Science and Technology, established pursuant to Executive Order No. 10807, Mar. 13, 1959, 24 F.R. 1897, as amended by Executive Order No. 11381, Nov. 8, 1967, 32 F.R. 15629, is hereby abolished.”
+[Pub. L. 94–282, title IV, § 402, May 11, 1976, 90 Stat. 472, provided that: “The Federal Council for Science and Technology, established pursuant to Executive Order No. 10807, Mar. 13, 1959, 24 F.R. 1897, as amended by Executive Order No. 11381, Nov. 8, 1967, 32 F.R. 15629, is hereby abolished.” ]
 
 
 <a id="section-1862a"></a>
@@ -5104,7 +5103,7 @@ Committee on Science of House of Representatives changed to Committee on Science
 <a id="section-1887"></a>
 ## § 1887. Indemnification of grantees, contractors, and subcontractors under ocean drilling program; approvals and certifications by Director
 
-The Foundation is on and after November 25, 1985, authorized to indemnify grantees, contractors, and subcontractors associated with the ocean drilling program under the provisions of [section 2354 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2354&num=0&edition=prelim), with all approvals and certifications required thereby made by the Director of the National Science Foundation.
+The Foundation is on and after November 25, 1985, authorized to indemnify grantees, contractors, and subcontractors associated with the ocean drilling program under the provisions of [section 3861 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3861&num=0&edition=prelim), with all approvals and certifications required thereby made by the Director of the National Science Foundation.
 
 ### Statutory Notes
 
@@ -5113,3 +5112,6 @@ Section was enacted as part of the appropriation act cited as the credit to this
 
 #### Prior Provisions
 Provisions similar to this section were contained in the following prior appropriation act: Pub. L. 98–371, title II, § 201, July 18, 1984, 98 Stat. 1228.
+
+#### Amendments
+2021—Pub. L. 117–81 substituted “section 3861” for “section 2354”.

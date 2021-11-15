@@ -67,7 +67,7 @@ Pub. L. 100–697, § 1, Nov. 19, 1988, 102 Stat. 4613, provided that: “This A
 ### Statutory Notes
 
 #### Amendments
-2020—Subsec. (d). Pub. L. 116–260 strick out “, with the assistance of the National Critical Materials Council as specified in the National Critical Materials Act of 1984 ([30 U.S.C. 1801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1801&num=0&edition=prelim) et seq.),” after “Policy”.
+2020—Subsec. (d). Pub. L. 116–260 struck out “, with the assistance of the National Critical Materials Council as specified in the National Critical Materials Act of 1984 ([30 U.S.C. 1801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1801&num=0&edition=prelim) et seq.),” after “Policy”.
 
 
 <a id="section-5203"></a>

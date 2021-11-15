@@ -813,7 +813,7 @@ In subsection (c), the words “officers and employees of the United States Gove
 
 (1) refunds to the limit of liability of an individual tax account; and
 
-(2) refunds due from credit provisions of the Internal Revenue Code of 1986 ([26 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1&num=0&edition=prelim) et seq.) enacted before January 1, 1978, or enacted by the Taxpayer Relief Act of 1997, or from section 25A, 35, 36, 36A,11 See References in Text note below. 36B, 168(k)(4)(F), 53(e),1 54B(h),1 6428, 6428A, or 6431 1 of such Code, or due under section 3081(b)(2) of the Housing Assistance Tax Act of 2008.
+(2) refunds due from credit provisions of the Internal Revenue Code of 1986 ([26 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1&num=0&edition=prelim) et seq.) enacted before January 1, 1978, or enacted by the Taxpayer Relief Act of 1997, or from section 21, 24, 25A, 35, 36, 36A,11 See References in Text note below. 36B, 168(k)(4)(F), 53(e),1 54B(h),1 3131, 3132, 3134, 6428, 6428A, 6428B, 6431,1 or 7527A of such Code, or due under section 3081(b)(2) of the Housing Assistance Tax Act of 2008.
 
 ### Statutory Notes
 
@@ -832,7 +832,7 @@ Act of March 30, 1928, referred to in subsec. (a)(2)(C), is act Mar. 30, 1928, c
 
 The Taxpayer Relief Act of 1997, referred to in subsec. (b)(2), is Pub. L. 105–34, Aug. 5, 1997, 111 Stat. 788. For complete classification of this Act to the Code, see Short Title of 1997 Amendment note set out under [section 1 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1&num=0&edition=prelim), Internal Revenue Code, and Tables.
 
-Sections 25A, 35, 36, 36A, 36B, 168, 53, 54B, 6428, 6428A, and 6431 of the Internal Revenue Code of 1986, referred to in subsec. (b)(2), are classified to sections 25A, 35, 36, 36A, 36B, 168, 53, 54B, 6428, 6428A, and 6431, respectively, of Title 26, Internal Revenue Code. [Section 36A of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section36A&num=0&edition=prelim) was repealed by Pub. L. 113–295, div. A, title II, § 221(a)(5)(A), Dec. 19, 2014, 128 Stat. 4037. Subsec. (e) of [section 53 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section53&num=0&edition=prelim) was repealed by Pub. L. 113–295, div. A, title II, § 221(a)(8)(A)(i), Dec. 19, 2014, 128 Stat. 4038. Sections 54B and 6431 of Title 26 were repealed by Pub. L. 115–97, title I, § 13404(a), Dec. 22, 2017, 131 Stat. 2138.
+Sections 21, 24, 25A, 35, 36, 36A, 36B, 168, 53, 54B, 3131, 3132, 3134, 6428, 6428A, 6428B, 6431, and 7527A of the Internal Revenue Code of 1986, referred to in subsec. (b)(2), are classified to sections 21, 24, 25A, 35, 36, 36A, 36B, 168, 53, 54B, 3131, 3132, 3134, 6428, 6428A, 6428B, 6431, and 7527A, respectively, of Title 26, Internal Revenue Code. [Section 36A of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section36A&num=0&edition=prelim) was repealed by Pub. L. 113–295, div. A, title II, § 221(a)(5)(A), Dec. 19, 2014, 128 Stat. 4037. Subsec. (e) of [section 53 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section53&num=0&edition=prelim), which related to a special rule for individuals with long-term unused credits, was repealed by Pub. L. 113–295, div. A, title II, § 221(a)(8)(A)(i), Dec. 19, 2014, 128 Stat. 4038. Sections 54B and 6431 of Title 26 were repealed by Pub. L. 115–97, title I, § 13404(a), Dec. 22, 2017, 131 Stat. 2138.
 
 Section 3081(b)(2) of the Housing Assistance Tax Act of 2008, referred to in subsec. (b)(2), is section 3081(b)(2) of Pub. L. 110–289, div. C, title III, July 30, 2008, 122 Stat. 2906, which is not classified to the Code.
 
@@ -840,6 +840,16 @@ Section 3081(b)(2) of the Housing Assistance Tax Act of 2008, referred to in sub
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2021—Subsec. (b)(2). Pub. L. 117–2, § 9651(b), inserted “3134,” before “6428”.
+
+Pub. L. 117–2, § 9641(b), inserted “3131, 3132,” before “6428”.
+
+Pub. L. 117–2, § 9631(c)(2), inserted “21,” before “24”.
+
+Pub. L. 117–2, § 9611(b)(4)(C), inserted “24,” before “25A” and substituted “6431, or 7527A” for “or 6431”.
+
+Pub. L. 117–2, § 9601(c)(3)(A), inserted “6428B,” after “6428A,”.
+
 2020—Subsec. (b)(2). Pub. L. 116–260 inserted “6428A,” after “6428,”.
 
 Pub. L. 116–136 inserted “6428,” after “54B(h),”.
@@ -871,6 +881,15 @@ Pub. L. 110–185 inserted “or 6428” after “section 35”.
 1997—Subsec. (b)(2). Pub. L. 105–34 inserted before period at end “, or enacted by the Taxpayer Relief Act of 1997”.
 
 1986—Subsec. (b)(2). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+
+#### Effective Date of 2021 Amendment
+Amendment by section 9611(b)(4)(C) of Pub. L. 117–2 applicable to taxable years beginning after Dec. 31, 2020, see section 9611(c)(1) of Pub. L. 117–2, set out as a note under [section 24 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section24&num=0&edition=prelim), Internal Revenue Code.
+
+Amendment by section 9631(c)(2) of Pub. L. 117–2 applicable to taxable years beginning after Dec. 31, 2020, see section 9631(d) Pub. L. 117–2, set out as a note under [section 21 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section21&num=0&edition=prelim), Internal Revenue Code.
+
+Amendment by section 9641(b) of Pub. L. 117–2 applicable to amounts paid with respect to calendar quarters beginning after Mar. 31, 2021, see section 9641(d) of Pub. L. 117–2, set out as an Effective Date note under secton 3131 of Title 26, Internal Revenue Code.
+
+Amendment by section 9651(b) of Pub. L. 117–2 applicable to calendar quarters beginning after June 30, 2021, see section 9651(d) of Pub. L. 117–2, set out as an Effective Date note under secton 3134 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 2014 Amendment
 Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1&num=0&edition=prelim), Internal Revenue Code.

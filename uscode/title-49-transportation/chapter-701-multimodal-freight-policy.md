@@ -44,7 +44,7 @@ source: >-
 
 (10) to pursue the goals described in this subsection in a manner that is not burdensome to State and local governments.
 
-**(c) Implementation.—** The Under Secretary of Transportation for Policy, who shall be responsible for the oversight and implementation of the national multimodal freight policy, shall—
+**(c) Implementation.—** The Assistant Secretary for Multimodal Freight, who shall be responsible for the oversight and implementation of the national multimodal freight policy, shall—
 
 (1) carry out sections 70102 and 70103;
 
@@ -57,13 +57,16 @@ source: >-
 #### Prior Provisions
 A prior section 70101 was transferred and renumbered as [section 50901 of Title 51](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title51-section50901&num=0&edition=prelim), National and Commercial Space Programs.
 
+#### Amendments
+2021—Subsec. (c). Pub. L. 117–58 substituted “Assistant Secretary for Multimodal Freight” for “Under Secretary of Transportation for Policy” in introductory provisions.
+
 #### Effective Date
 Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as an Effective Date of 2015 Amendment note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-70102"></a>
 ## § 70102. National freight strategic plan
-**(a) In General.—** Not later than 2 years after the date of enactment of this section, the Under Secretary of Transportation for Policy shall—
+**(a) In General.—** The Assistant Secretary for Multimodal Freight (referred to in this section as the “Assistant Secretary”) shall—
 
 (1) develop a national freight strategic plan in accordance with this section; and
 
@@ -77,7 +80,7 @@ Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as
 
 (3) an identification of major trade gateways and national freight corridors that connect major population centers, trade gateways, and other major freight generators;
 
-(4) an identification of bottlenecks on the National Multimodal Freight Network that create significant freight congestion, based on a quantitative methodology developed by the Under Secretary, which shall include, at a minimum—
+(4) an identification of bottlenecks on the National Multimodal Freight Network that create significant freight congestion, based on a quantitative methodology developed by the Assistant Secretary, which shall include, at a minimum—
 
   (A) information from the Freight Analysis Framework of the Federal Highway Administration; and
 
@@ -93,13 +96,25 @@ Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as
 
 (9) an identification of corridors providing access to major areas for manufacturing, agriculture, or natural resources;
 
-(10) an identification of best practices for improving the performance of the National Multimodal Freight Network, including critical commerce corridors and rural and urban access to critical freight corridors; and
+(10) an identification of best practices for improving the performance of the National Multimodal Freight Network, including critical commerce corridors and rural and urban access to critical freight corridors;
 
-(11) an identification of best practices to mitigate the impacts of freight movement on communities.
+(11) an identification of best practices to mitigate the impacts of freight movement on communities;
 
-**(c) Updates.—** Not later than 5 years after the date of completion of the national freight strategic plan under subsection (a), and every 5 years thereafter, the Under Secretary shall update the plan and publish the updated plan on the public Internet Web site of the Department of Transportation.
+(12) best practices for reducing environmental impacts of freight movement (including reducing local air pollution from freight movement, stormwater runoff, and wildlife habitat loss resulting from freight facilities, freight vehicles, or freight activity);
 
-**(d) Consultation.—** The Under Secretary shall develop and update the national freight strategic plan—
+(13) possible strategies to increase the resilience of the freight system, including the ability to anticipate, prepare for, or adapt to conditions, or withstand, respond to, or recover rapidly from disruptions, including extreme weather and natural disasters;
+
+(14) strategies to promote United States economic growth and international competitiveness;
+
+(15) consideration of any potential unique impacts of the national freight system on rural and other underserved and historically disadvantaged communities;
+
+(16) strategies for decarbonizing freight movement, as appropriate; and
+
+(17) consideration of the impacts of e-commerce on the national multimodal freight system.
+
+**(c) Updates.—** Not later than 5 years after the date of completion of the national freight strategic plan under subsection (a), and every 5 years thereafter, the Assistant Secretary shall update the plan and publish the updated plan on the public Internet Web site of the Department of Transportation.
+
+**(d) Consultation.—** The Assistant Secretary shall develop and update the national freight strategic plan—
 
 (1) after providing notice and an opportunity for public comment; and
 
@@ -107,11 +122,19 @@ Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as
 
 ### Statutory Notes
 
-#### References in Text
-The date of enactment of this section, referred to in subsec. (a), is the date of enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
-
 #### Prior Provisions
 A prior section 70102 was transferred and renumbered as [section 50902 of Title 51](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title51-section50902&num=0&edition=prelim), National and Commercial Space Programs.
+
+#### Amendments
+2021—Subsec. (a). Pub. L. 117–58, § 21101(d)(2)(A), substituted “The Assistant Secretary for Multimodal Freight (referred to in this section as the ‘Assistant Secretary’)” for “Not later than 2 years after the date of enactment of this section, the Under Secretary of Transportation for Policy” in introductory provisions.
+
+Subsec. (b)(4). Pub. L. 117–58, § 21101(d)(2)(B), substituted “Assistant Secretary” for “Under Secretary” in introductory provisions.
+
+Subsec. (b)(12) to (17). Pub. L. 117–58, § 21102, added pars. (12) to (17).
+
+Subsec. (c). Pub. L. 117–58, § 21101(d)(2)(C), substituted “Assistant Secretary” for “Under Secretary”.
+
+Subsec. (d). Pub. L. 117–58, § 21101(d)(2)(D), substituted “Assistant Secretary” for “Under Secretary” in introductory provisions.
 
 #### Effective Date
 Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as an Effective Date of 2015 Amendment note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
@@ -119,7 +142,7 @@ Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as
 
 <a id="section-70103"></a>
 ## § 70103. National Multimodal Freight Network
-**(a) In General.—** The Under Secretary of Transportation for Policy shall establish a National Multimodal Freight Network in accordance with this section—
+**(a) In General.—** The Assistant Secretary for Multimodal Freight (referred to in this section as the “Assistant Secretary”) shall establish a National Multimodal Freight Network in accordance with this section—
 
 (1) to assist States in strategically directing resources toward improved system performance for the efficient movement of freight on the Network;
 
@@ -129,35 +152,15 @@ Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as
 
 (4) to assess and support Federal investments to achieve the national multimodal freight policy goals described in [section 70101(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section70101/b&num=0&edition=prelim) and the national highway freight program goals described in [section 167 of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section167&num=0&edition=prelim).
 
-**(b) Interim Network.—**
+**(b) Designation of National Multimodal Freight Network.—**
 
-(1) **In general.—** — Not later than 180 days after the date of enactment of this section, the Under Secretary shall establish an interim National Multimodal Freight Network in accordance with this subsection.
-
-(2) **Network components.—** — The interim National Multimodal Freight Network shall include—
-
-  (A) the National Highway Freight Network, as established under [section 167 of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section167&num=0&edition=prelim);
-
-  (B) the freight rail systems of Class I railroads, as designated by the Surface Transportation Board;
-
-  (C) the public ports of the United States that have total annual foreign and domestic trade of at least 2,000,000 short tons, as identified by the Waterborne Commerce Statistics Center of the Army Corps of Engineers, using the data from the latest year for which such data is available;
-
-  (D) the inland and intracoastal waterways of the United States, as described in section 206 of the Inland Waterways Revenue Act of 1978 ([33 U.S.C. 1804](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1804&num=0&edition=prelim));
-
-  (E) the Great Lakes, the St. Lawrence Seaway, and coastal and ocean routes along which domestic freight is transported;
-
-  (F) the 50 airports located in the United States with the highest annual landed weight, as identified by the Federal Aviation Administration; and
-
-  (G) other strategic freight assets, including strategic intermodal facilities and freight rail lines of Class II and Class III railroads, designated by the Under Secretary as critical to interstate commerce.
-
-**(c) Final Network.—**
-
-(1) **In general.—** — Not later than 1 year after the date of enactment of this section, the Under Secretary, after soliciting input from stakeholders, including multimodal freight system users, transportation providers, metropolitan planning organizations, local governments, ports, airports, railroads, and States, through a public process to identify critical freight facilities and corridors, including critical commerce corridors, that are vital to achieve the national multimodal freight policy goals described in [section 70101(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section70101/b&num=0&edition=prelim) and the national highway freight program goals described in [section 167 of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section167&num=0&edition=prelim), and after providing notice and an opportunity for comment on a draft system, shall designate a National Multimodal Freight Network with the goal of—
+(1) **In general.—** — The Assistant Secretary, after soliciting input from stakeholders, including multimodal freight system users, transportation providers, metropolitan planning organizations, local governments, ports, airports, railroads, and States, through a public process to identify critical freight facilities and corridors, including critical commerce corridors, that are vital to achieve the national multimodal freight policy goals described in [section 70101(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section70101/b&num=0&edition=prelim) and the national highway freight program goals described in [section 167 of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section167&num=0&edition=prelim), and after providing notice and an opportunity for comment on a draft system, shall designate a National Multimodal Freight Network with the goal of—
 
   (A) improving network and intermodal connectivity; and
 
   (B) using measurable data as part of the assessment of the significance of freight movement, including the consideration of points of origin, destinations, and linking components of domestic and international supply chains.
 
-(2) **Factors.—** — In designating or redesignating the National Multimodal Freight Network, the Under Secretary shall consider—
+(2) **Factors.—** — In designating or redesignating the National Multimodal Freight Network, the Assistant Secretary shall consider—
 
   (A) origins and destinations of freight movement within, to, and from the United States;
 
@@ -183,7 +186,7 @@ Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as
 
   (L) the significance of goods movement, including consideration of global and domestic supply chains.
 
-(3) **Considerations.—** — In designating or redesignating the National Multimodal Freight Network, the Under Secretary shall—
+(3) **Considerations.—** — In designating or redesignating the National Multimodal Freight Network, the Assistant Secretary shall—
 
   (A) use, to the extent practicable, measurable data to assess the significance of goods movement, including the consideration of points of origin, destinations, and linking components of the United States global and domestic supply chains;
 
@@ -193,7 +196,7 @@ Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as
 
     (ii) any changes in the economy that affect freight transportation network demand; and
 
-  (C) provide the States with an opportunity to submit proposed designations in accordance with paragraph (4).
+  (C) provide to the States an opportunity to submit proposed designations from the States in accordance with paragraph (4).
 
 (4) **State input.—**
 
@@ -231,7 +234,7 @@ Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as
 
   (C) *Limitation.—*
 
-    (i) *In general.—* — A State may propose additional designations to the National Multimodal Freight Network in the State in an amount that is not more than 20 percent of the total mileage designated by the Under Secretary in the State.
+    (i) *In general.—* — A State may propose additional designations to the National Multimodal Freight Network in the State in an amount that is not more than 30 percent of the total mileage designated by the Under Secretary in the State.
 
     (ii) *Determination by under secretary.—* — The Under Secretary shall determine how to apply the limitation under clause (i) to the components of the National Multimodal Freight Network.
 
@@ -245,17 +248,35 @@ Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as
 
       (II) the designations referred to in clause (i) address the factors for designation described in this subsection.
 
-**(d) Redesignation of National Multimodal Freight Network.—** Not later than 5 years after the initial designation under subsection (c), and every 5 years thereafter, the Under Secretary, using the designation factors described in subsection (c), shall redesignate the National Multimodal Freight Network.
+  (E) *Condition for acceptance.—* — The Secretary shall accept from a State a designation under subparagraph (D) only if the Secretary determines that the designation meets the applicable requirements of subparagraph (A).
+
+**(c) Redesignation of National Multimodal Freight Network.—** Not later than 5 years after the initial designation under subsection (b), and every 5 years thereafter, the Assistant Secretary, using the designation factors described in subsection (b), shall redesignate the National Multimodal Freight Network.
 
 ### Statutory Notes
-
-#### References in Text
-The date of enactment of this section, referred to in subsecs. (b)(1) and (c)(1), is the date of enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
 
 #### Prior Provisions
 A prior section 70103 was transferred and renumbered as [section 50903 of Title 51](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title51-section50903&num=0&edition=prelim), National and Commercial Space Programs.
 
 Prior sections 70104 to 70121 were transferred and renumbered as sections 50904 to 50923 of Title 51, National and Commercial Space Programs.
+
+#### Amendments
+2021—Subsec. (a). Pub. L. 117–58, § 21101(d)(3)(A), substituted “Assistant Secretary for Multimodal Freight (referred to in this section as the ‘Assistant Secretary’)” for “Under Secretary of Transportation for Policy” in introductory provisions.
+
+Subsec. (b). Pub. L. 117–58, § 21101(d)(3)(D)(i), substituted “Designation of National Multimodal Freight Network” for “Final Network” in heading.
+
+Pub. L. 117–58, § 21101(d)(3)(B), (C), redesignated subsec. (c) as (b) and struck out former subsec. (b) which required the establishment of an interim National Multimodal Freight Network no later than 180 days after Dec. 4, 2015.
+
+Subsec. (b)(1). Pub. L. 117–58, § 21101(d)(3)(D)(ii), substituted “The Assistant Secretary” for “Not later than 1 year after the date of enactment of this section, the Under Secretary” in introductory provisions.
+
+Subsec. (b)(2), (3). Pub. L. 117–58, § 21101(d)(3)(D)(iii), (iv), substituted “Assistant Secretary” for “Under Secretary” in introductory provisions.
+
+Subsec. (b)(3)(C). Pub. L. 117–58, § 21103(1), added subpar. (C) and struck out former subpar. (C) which read as follows: “provide the States with an opportunity to submit proposed designations in accordance with paragraph (4).”
+
+Subsec. (b)(4)(C)(i). Pub. L. 117–58, § 21103(2)(A), substituted “30 percent” for “20 percent”.
+
+Subsec. (b)(4)(E). Pub. L. 117–58, § 21103(2)(B), added subpar. (E).
+
+Subsecs. (c), (d). Pub. L. 117–58, § 21101(d)(3)(C), (E), redesignated subsec. (d) as (c), substituted “subsection (b)” for “subsection (c)” in two places, and substituted “Assistant Secretary” for “Under Secretary”. Former subsec. (c) redesignated (b).
 
 #### Effective Date
 Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as an Effective Date of 2015 Amendment note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.

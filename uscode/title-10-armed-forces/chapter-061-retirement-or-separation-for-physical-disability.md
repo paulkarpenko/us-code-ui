@@ -539,14 +539,14 @@ Amendment by section 501(16) of Pub. L. 96–513 effective Sept. 15, 1981, and a
 #### Repeals
 The directory language of, but not the amendment made by, Pub. L. 89–718, § 8(a), Nov. 2, 1966, 80 Stat. 1117, cited as a credit to this section, was repealed by Pub. L. 97–295, § 6(b), Oct. 12, 1982, 96 Stat. 1314.
 
-#### Transfer of Functions
-For transfer of functions of Public Health Service, see note set out under [section 802 of this title](./chapter-047-uniform-code-of-military-justice.md#section-802).
-
 #### Additional Service Creditable to Certain Regulars
 Act Aug. 10, 1956, ch. 1041, § 39, 70A Stat. 635, provided that: “In addition to service with which he may be credited under [section 1208(a)(2) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1208/a/2&num=0&edition=prelim), United States Code [subsec. (a)(2) of this section], a member of a regular component of the armed forces shall be credited, for the purposes of chapter 61 of title 10, United States Code [this chapter], with all service as— “(1) a cadet at the United States Military Academy, if appointed before August 24, 1912; “(2) a midshipman at the United States Naval Academy, if appointed before March 4, 1913; “(3) an Army field clerk; and “(4) a field clerk, Army Quartermaster Corps.”
 
 #### Officers of the Public Health Service
 Applicability of subsec. (a)(2) of this section to officers of the Reserve Corps and to officers of the Regular Corps of the Public Health Service, see [section 212 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section212&num=0&edition=prelim), The Public Health and Welfare.
+
+#### Transfer of Functions
+For transfer of functions of Public Health Service, see note set out under [section 802 of this title](./chapter-047-uniform-code-of-military-justice.md#section-802).
 
 
 <a id="section-1209"></a>

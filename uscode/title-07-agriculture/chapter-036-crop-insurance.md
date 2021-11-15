@@ -234,16 +234,16 @@ Pub. L. 96–365, title I, § 112, Sept. 26, 1980, 94 Stat. 1319, provided that:
 
 Pub. L. 96–365, title I, § 101(a), Sept. 26, 1980, 94 Stat. 1312, provided that the amendment made by section 101(a) is effective Oct. 1, 1980.
 
-#### Transfer of Functions
-Administration of program of Federal Crop Insurance Corporation transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, § 501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100. See note set out under [section 1503 of this title](./chapter-036-crop-insurance.md#section-1503).
-
-Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Conservation and Adjustment Administration, see note set out under [section 1503 of this title](./chapter-036-crop-insurance.md#section-1503).
-
 #### Cancellation of Outstanding Receipts for Stock in Excess of $27,000,000
 Act Aug. 25, 1949, ch. 512, § 5, 63 Stat. 665, provided that: “The Secretary of the Treasury is authorized and directed to cancel, without consideration, outstanding receipts for payments for or on account of the stock of the Corporation in excess of $27,000,000.”
 
 #### Institution of Expanded Program; Payment of Cost for Fiscal Year 1950
 Act Aug. 25, 1949, ch. 512, § 11, 63 Stat. 666, provided that: “The expanded program authorized herein [sections 1504, 1505, 1506, 1507, and 1508 of this title] shall be instituted beginning with the 1950 crop year, the additional cost for fiscal year 1950 to be financed, pending the appropriation of supplemental funds, from any appropriation available for operating and administrative expenses of the Corporation for such fiscal year.”
+
+#### Transfer of Functions
+Administration of program of Federal Crop Insurance Corporation transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, § 501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100. See note set out under [section 1503 of this title](./chapter-036-crop-insurance.md#section-1503).
+
+Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Conservation and Adjustment Administration, see note set out under [section 1503 of this title](./chapter-036-crop-insurance.md#section-1503).
 
 
 <a id="section-1504a"></a>
@@ -373,16 +373,16 @@ Amendment by Pub. L. 103–354 effective Oct. 13, 1994, and applicable to provis
 #### Effective Date of 1980 Amendment
 Amendment by Pub. L. 96–365 effective Sept. 26, 1980, see section 112 of Pub. L. 96–365, set out as a note under [section 1504 of this title](./chapter-036-crop-insurance.md#section-1504).
 
-#### Transfer of Functions
-Administration of program of Federal Crop Insurance Corporation transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, § 501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100. See note set out under [section 1503 of this title](./chapter-036-crop-insurance.md#section-1503).
-
-Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Conservation and Adjustment Administration, see note set out under [section 1503 of this title](./chapter-036-crop-insurance.md#section-1503).
-
 #### Appointment of Board of Directors Beginning February 1, 2001
 Pub. L. 106-224, title I, § 142(a)(2), (3), June 20, 2000, 114 Stat. 390, provided that: “(2) Implementation.—The initial members of the Board of Directors of the Federal Crop Insurance Corporation required to be appointed under section 505(a)(3) of the Federal Crop Insurance Act [[7 U.S.C. 1505(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1505/a/3&num=0&edition=prelim)] (as amended by paragraph (1)) shall be appointed during the period beginning February 1, 2001, and ending April 1, 2001. “(3) Effect on existing board.—A member of the Board of Directors of the Federal Crop Insurance Corporation on the date of the enactment of this Act [June 20, 2000] may continue to serve as a member of the Board until the members referred to in paragraph (2) are first appointed.”
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under [section 5376 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).
+
+#### Transfer of Functions
+Administration of program of Federal Crop Insurance Corporation transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, § 501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100. See note set out under [section 1503 of this title](./chapter-036-crop-insurance.md#section-1503).
+
+Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Conservation and Adjustment Administration, see note set out under [section 1503 of this title](./chapter-036-crop-insurance.md#section-1503).
 
 
 <a id="section-1506"></a>
@@ -622,11 +622,6 @@ Amendment by Pub. L. 96–365 effective Sept. 26, 1980, see section 112 of Pub. 
 #### Regulations
 Pub. L. 103–66, title I, § 1403(c)(2), Aug. 10, 1993, 107 Stat. 335, provided that: “Not later than 30 days after the date of enactment of this Act [Aug. 10, 1993], the Secretary of Agriculture shall publish, for public comment, proposed regulations to implement the amendments made by this section [amending this section and sections 1508 and 1508a of this title].”
 
-#### Transfer of Functions
-Administration of program of Federal Crop Insurance Corporation transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, § 501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100. See note set out under [section 1503 of this title](./chapter-036-crop-insurance.md#section-1503).
-
-Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Conservation and Adjustment Administration, see note set out under [section 1503 of this title](./chapter-036-crop-insurance.md#section-1503).
-
 #### Required Terms and Conditions of Standard Reinsurance Agreements
 Pub. L. 106–224, title I, § 148, June 20, 2000, 114 Stat. 394, provided that: “Notwithstanding section 536 of the Agricultural Research, Extension, and Education Reform Act of 1998 ([7 U.S.C. 1506](./chapter-036-crop-insurance.md#section-1506) note; Public Law 105–185), the Federal Crop Insurance Corporation may renegotiate the Standard Reinsurance Agreement once during the 2001 through 2005 reinsurance years.”
 
@@ -634,6 +629,11 @@ Pub. L. 105–185, title V, § 536, June 23, 1998, 112 Stat. 584, provided that:
 
 #### Crop Insurance Provider Evaluation
 Pub. L. 103–354, title I, § 118, Oct. 13, 1994, 108 Stat. 3205, provided that: “(a) In General.—The Comptroller General of the United States and the Federal Crop Insurance Corporation (referred to in this section as the ‘Corporation’) shall jointly evaluate the financial arrangement between the Corporation and approved insurance providers to determine the quality, costs, and efficiencies of providing the benefits of multiple peril crop insurance to producers of agricultural commodities covered under the Federal Crop Insurance Act ([7 U.S.C. 1501](./chapter-036-crop-insurance.md#section-1501) et seq.). “(b) Collection of Information and Proposals.—The Corporation shall require private insurance providers and agents to supply, and the private insurance providers and agents shall supply, records and information necessary to make the determinations and evaluations required under this section. The Corporation shall solicit from the approved insurance providers and agents proposals for modifying or altering the requirements, regulations, procedures, and processes related to implementing the Federal Crop Insurance Act to reduce the operating and administrative costs of the providers and agents. “(c) Initial Report.—Not later than 180 days after receipt of information and cost-reduction proposals under subsection (b), the Corporation shall evaluate the information and proposals obtained and report the results of the evaluation to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate. “(d) Final Report.—Not later than 2 years after the date of enactment of this Act [Oct. 13, 1994], the Comptroller General and the Corporation shall submit a final report that provides the evaluation required under subsection (a) to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate. In making the evaluation, the Comptroller General and the Corporation shall—“(1) consider the changes made by the Corporation in response to increased program participation resulting from the enactment of this Act; “(2) include an evaluation and opinion of the accuracy and reasonableness of—“(A) the average actual costs for approved insurance providers to deliver multiple peril crop insurance; “(B) the cost per policy of complying with the requirements, regulations, procedures, and processes of the Federal Crop Insurance Act; “(C) the cost differences for various provider firm sizes and any business delivered by the Federal Government; “(D) the adequacy of the standard reimbursement for potential new providers; and “(E) the identification of any new costs related to the enactment of this Act not previously identified in the information reported by the providers; “(3) compare delivery costs of multiple peril crop insurance to other insurance coverages that the provider may sell and determine the extent, if any, to which any funds provided to carry out the Federal Crop Insurance Act are being used to fund any other business enterprise operated by the provider; “(4)(A) assess alternative methods for reimbursing providers for reasonable and necessary expenses associated with delivery of multiple peril crop insurance; “(B) recommend changes under this paragraph that reasonably demonstrate the need to achieve the greatest operating efficiencies on the part of the provider and the Corporation has been recognized; and “(C) identify areas for improved operating efficiencies, if any, in the requirements made by the Corporation for compliance and program integrity; “(5) assess the potential for alternative forms of reinsurance arrangements for providers of different firm sizes, taking into consideration—“(A) the need to achieve a reasonable return on the capital of the provider compared to other lines of insurance; “(B) the relative risk borne by the provider for the different lines of insurance; “(C) the availability and price of commercial reinsurance; and “(D) any additional costs that may be incurred by the Federal Government in carrying out the Federal Crop Insurance Act; and “(6) include an analysis of the effect of the current or proposed reinsurance arrangements on providers having different business levels. “(e) Information.—“(1) Privacy.—In conducting the evaluation required by this section, the Comptroller General and the Corporation shall maintain the privacy of proprietary information. “(2) Subpoenas.—The Comptroller General shall have the power to subpoena information relevant to the evaluation required by this section from any private insurance provider. The Comptroller General shall allow the Corporation access to the information subpoenaed taking into consideration the necessity of preserving the privacy of proprietary information.”
+
+#### Transfer of Functions
+Administration of program of Federal Crop Insurance Corporation transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, § 501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100. See note set out under [section 1503 of this title](./chapter-036-crop-insurance.md#section-1503).
+
+Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Conservation and Adjustment Administration, see note set out under [section 1503 of this title](./chapter-036-crop-insurance.md#section-1503).
 
 
 <a id="section-1506a-1506b"></a>
@@ -2238,11 +2238,6 @@ Pub. L. 96–365, title I, § 106, Sept. 26, 1980, 94 Stat. 1315, provided that 
 
 Amendment by section 107(b) of Pub. L. 96–365 effective Sept. 26, 1980, see section 112 of Pub. L. 96–365, set out as a note under [section 1504 of this title](./chapter-036-crop-insurance.md#section-1504).
 
-#### Transfer of Functions
-Administration of program of Federal Crop Insurance Corporation transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, § 501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100. See note set out under [section 1503 of this title](./chapter-036-crop-insurance.md#section-1503).
-
-Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Conservation and Adjustment Administration, see note set out under [section 1503 of this title](./chapter-036-crop-insurance.md#section-1503).
-
 #### Crop Insurance Coverage for Hemp
 Pub. L. 116–20, title I, § 107, June 6, 2019, 133 Stat. 875, provided that: “Beginning not later than the 2020 reinsurance year, the Federal Crop Insurance Corporation shall offer coverage under the wholefarm revenue protection insurance policy (or a successor policy or plan of insurance) for hemp (as defined in section 297A of the Agricultural Marketing Act of 1946 ([7 U.S.C. 1639](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1639)o)): Provided, That such amount is designated by the Congress as being for an emergency requirement pursuant to section 251(b)(2)(A)(i) of the Balanced Budget and Emergency Deficit Control Act of 1985 [[2 U.S.C. 901(b)(2)(A)(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section901/b/2/A/i&num=0&edition=prelim)].”
 
@@ -2283,6 +2278,11 @@ Pub. L. 95–181, § 2, Nov. 15, 1977, 91 Stat. 1373, provided that: “The Secr
 
 #### Validity and Termination of Prior Insurance Contracts
 Act Aug. 1, 1947, ch. 440, § 5, 61 Stat. 719, provided: “Nothing in this Act [amending sections 1502, 1505 (a to d), 1506(d), 1507(d), and 1508 (a to c) of this title] shall be construed to affect the validity of any insurance contract entered into prior to the enactment of this Act [Aug. 1, 1947] insofar as such contract covers the 1947 crop year. Any such contract which purports to cover a crop in the 1948 or any subsequent crop year in any county in which insurance on such crop will be discontinued pursuant to this Act is hereby terminated at the end of the 1947 crop year.”
+
+#### Transfer of Functions
+Administration of program of Federal Crop Insurance Corporation transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, § 501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100. See note set out under [section 1503 of this title](./chapter-036-crop-insurance.md#section-1503).
+
+Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Conservation and Adjustment Administration, see note set out under [section 1503 of this title](./chapter-036-crop-insurance.md#section-1503).
 
 
 <a id="section-1508a"></a>
@@ -2558,13 +2558,13 @@ The Corporation shall at all times maintain complete and accurate books of accou
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–354 effective Oct. 13, 1994, and applicable to provision of crop insurance under Federal Crop Insurance Act ([7 U.S.C. 1501](./chapter-036-crop-insurance.md#section-1501) et seq.) beginning with 1995 crop year, with such Act, as in effect on the day before Oct. 13, 1994, to continue to apply with respect to 1994 crop year, see section 120 of Pub. L. 103–354, set out as a note under [section 1502 of this title](./chapter-036-crop-insurance.md#section-1502).
 
+#### Audit of Government Corporations
+[Section 9105(f) of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9105/f&num=0&edition=prelim), Money and Finance, provides that an audit under subsection (a) of that section is in place of an audit of the financial transactions of a Government corporation the Comptroller General is required to make in reporting to Congress or the President under another law.
+
 #### Transfer of Functions
 Administration of program of Federal Crop Insurance Corporation transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, § 501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100. See note set out under [section 1503 of this title](./chapter-036-crop-insurance.md#section-1503).
 
 Wartime consolidation of Federal Insurance Corporation into Agricultural Conservation and Adjustment Administration, see note set out under [section 1503 of this title](./chapter-036-crop-insurance.md#section-1503).
-
-#### Audit of Government Corporations
-[Section 9105(f) of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9105/f&num=0&edition=prelim), Money and Finance, provides that an audit under subsection (a) of that section is in place of an audit of the financial transactions of a Government corporation the Comptroller General is required to make in reporting to Congress or the President under another law.
 
 
 <a id="section-1514"></a>
@@ -3026,13 +3026,13 @@ Pub. L. 96–365, title I, § 109, Sept. 26, 1980, 94 Stat. 1317, provided that 
 
 Pub. L. 96–365, title I, § 110, Sept. 26, 1980, 94 Stat. 1318, provided that the amendment made by that section is effective Oct. 1, 1980.
 
+#### Additional Appropriation
+Act Dec. 23, 1944, ch. 713, § 6, 58 Stat. 920, provided an additional appropriation not to exceed $3,000,000 to be available for the fiscal year 1945 to carry out the provisions of this chapter for the fiscal years 1943 and 1944.
+
 #### Transfer of Functions
 Administration of program of Federal Crop Insurance Corporation transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, § 501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100. See note set out under [section 1503 of this title](./chapter-036-crop-insurance.md#section-1503).
 
 Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Conservation and Adjustment Administration, see note set out under [section 1503 of this title](./chapter-036-crop-insurance.md#section-1503).
-
-#### Additional Appropriation
-Act Dec. 23, 1944, ch. 713, § 6, 58 Stat. 920, provided an additional appropriation not to exceed $3,000,000 to be available for the fiscal year 1945 to carry out the provisions of this chapter for the fiscal years 1943 and 1944.
 
 
 <a id="section-1517"></a>

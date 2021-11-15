@@ -19,9 +19,6 @@ There is hereby imposed, on each policy of insurance, indemnity bond, annuity co
 
 ### Statutory Notes
 
-#### Constitutionality
-For information regarding constitutionality of section 4371 of act Aug. 16, 1954, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
-
 #### Amendments
 1989—Par. (2). Pub. L. 101–239 struck out “, unless the insurer is subject to tax under section 842(b)” after “or annuity contract”.
 

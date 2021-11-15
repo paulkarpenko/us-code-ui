@@ -2,7 +2,7 @@
 title: 10
 chapter: '24'
 heading: NUCLEAR POSTURE
-section_count: 12
+section_count: 13
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -238,7 +238,7 @@ Pub. L. 116–92, § 1665(c)(1)(A)–(C), transferred section 1043 of Pub. L. 11
 <a id="section-493"></a>
 ## § 493. Reports to Congress on the modification of the force structure for the strategic nuclear weapons delivery systems of the United States
 
-Whenever after December 31, 2011, the President proposes a modification of the force structure for the strategic nuclear weapons delivery systems of the United States, the President shall submit to Congress a report on the modification. The report shall include a description of the manner in which such modification will maintain for the United States a range of strategic nuclear weapons delivery systems appropriate for the current and anticipated threats faced by the United States when compared with the current force structure of strategic nuclear weapons delivery systems.
+Whenever after December 31, 2011, the President proposes a modification of the force structure for the strategic nuclear weapons delivery systems of the United States, the President shall submit to Congress a report on the modification not less than 180 days before the intended effective date of the modification. The report shall include a description of the manner in which such modification will maintain for the United States a range of strategic nuclear weapons delivery systems appropriate for the current and anticipated threats faced by the United States when compared with the current force structure of strategic nuclear weapons delivery systems.
 
 ### Statutory Notes
 
@@ -246,6 +246,8 @@ Whenever after December 31, 2011, the President proposes a modification of the f
 The text of this section is based on Pub. L. 112–81, div. A, title X, § 1077, Dec. 31, 2011, 125 Stat. 1596. Section 1077 of Pub. L. 112–81, formerly classified to [section 2514 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2514&num=0&edition=prelim), War and National Defense, was transferred to this section by Pub. L. 112–239, § 1031(b)(3)(B)(i)–(iii).
 
 #### Amendments
+2021—Pub. L. 117–81 inserted “not less than 180 days before the intended effective date of the modification” after “report on the modification”.
+
 2013—Pub. L. 112–239, § 1031(b)(3)(C)(ii), made technical amendments to conform section enumerator and catchline to the style of this title. See Codification note above.
 
 Pub. L. 112–239, § 1031(b)(3)(B)(iv), as amended by Pub. L. 113–66, § 1091(b)(5), substituted “December 31, 2011,” for “the date of the enactment of this Act”.
@@ -320,7 +322,7 @@ Pub. L. 113–66, div. A, title X, § 1091(b), Dec. 26, 2013, 127 Stat. 876, pro
 
 **(c) Net Assessment of Nuclear Force Levels Required With Respect to Certain Proposals To Reduce the Nuclear Weapons Stockpile of the United States.—**
 
-(1) **In general.—** — If, during any year beginning after December 31, 2011, the President makes a proposal described in paragraph (2)—
+(1) **In general.—** — If, during any year beginning after December 31, 2021, the President makes a proposal described in paragraph (2)—
 
   (A) the Commander of United States Strategic Command shall conduct a net assessment of the current and proposed nuclear forces of the United States and of other countries that possess nuclear weapons to determine whether the nuclear forces of the United States are anticipated to be capable of meeting the objectives of the United States with respect to nuclear deterrence, extended deterrence, assurance of allies, and defense;
 
@@ -330,15 +332,15 @@ Pub. L. 113–66, div. A, title X, § 1091(b), Dec. 26, 2013, 127 Stat. 876, pro
 
 (2) **Proposal described.—**
 
-  (A) *In general.—* — Except as provided in subparagraph (B), a proposal described in this paragraph is a proposal to reduce the number of nuclear weapons in the active or inactive stockpiles of the United States to a level that is lower than the level on December 31, 2011.
+  (A) *In general.—* — Except as provided in subparagraph (B), a proposal described in this paragraph is a proposal to reduce the number of nuclear weapons in the active or inactive stockpiles of the United States to a level that is lower than the level on December 31, 2021.
 
   (B) *Exceptions.—* — A proposal described in this paragraph does not include—
 
     (i) reductions that are a direct result of activities associated with routine stockpile stewardship, including stockpile surveillance, logistics, or maintenance; or
 
-    (ii) nuclear weapons retired or awaiting dismantlement on December 31, 2011.
+    (ii) nuclear weapons retired or awaiting dismantlement on December 31, 2021.
 
-(3) **Termination.—** — The requirement in paragraph (1) shall terminate on December 31, 2017.
+(3) **Termination.—** — The requirement in paragraph (1) shall terminate on February 1, 2025.
 
 **(d) Prevention of Asymmetry in Reductions.—**
 
@@ -363,6 +365,10 @@ Section 1251 of the National Defense Authorization Act for Fiscal Year 2010, ref
 The text of this section is based on Pub. L. 112–81, div. A, title X, § 1045, Dec. 31, 2011, 125 Stat. 1577; Pub. L. 112–239, div. A, title X, § 1076(a)(19), Jan. 2, 2013, 126 Stat. 1949. Section 1045 of Pub. L. 112–81, formerly classified to [section 2523b of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2523b&num=0&edition=prelim), War and National Defense, was transferred to this section by Pub. L. 112–239, § 1033(b)(1)(A)–(C).
 
 #### Amendments
+2021—Subsec. (c)(1), (2)(A), (B)(ii). Pub. L. 117–81, § 1632(1), substituted “December 31, 2021” for “December 31, 2011”.
+
+Subsec. (c)(3). Pub. L. 117–81, § 1632(2), substituted “February 1, 2025” for “December 31, 2017”.
+
 2018—Subsec. (b)(2). Pub. L. 115–232 substituted “March 1 of each year” for “March 1, 2012, and annually thereafter” in introductory provisions.
 
 2017—Subsec. (b)(2)(B). Pub. L. 115–91 substituted “of this title” for “of title 10”.
@@ -561,7 +567,7 @@ Barack Obama.
 
 **(b) Prior Notification Required.—**
 
-(1) **In general.—** — The President shall transmit the notification required by subsection (a) by not later than 60 days before the date on which the President commences a reduction, consolidation, or withdrawal of the nuclear forces of the United States that are based in Europe described in such notification.
+(1) **In general.—** — The President shall transmit the notification required by subsection (a) by not later than 120 days before the date on which the President commences a reduction, consolidation, or withdrawal of the nuclear forces of the United States that are based in Europe described in such notification.
 
 (2) **Exception.—** — The limitation in paragraph (1) shall not apply to a reduction, consolidation, or withdrawal of nuclear weapons of the United States that are based in Europe made to ensure the safety, security, reliability, and credibility of such weapons.
 
@@ -570,6 +576,11 @@ Barack Obama.
 (1) the Committees on Armed Services of the House of Representatives and the Senate; and
 
 (2) the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
+
+### Statutory Notes
+
+#### Amendments
+2021—Subsec. (b)(1). Pub. L. 117–81 substituted “120 days” for “60 days”.
 
 
 <a id="section-497a"></a>
@@ -591,19 +602,29 @@ Barack Obama.
 
 <a id="section-498"></a>
 ## § 498. Unilateral change in nuclear weapons stockpile of the United States
-**(a) In General.—** Other than pursuant to a treaty, if the President has under consideration to unilaterally change the size of the total stockpile of nuclear weapons of the United States by more than 25 percent, prior to doing so the President shall initiate a Nuclear Posture Review.
+**(a) In General.—** Other than pursuant to a treaty to which the Senate has provided advice and consent pursuant to section 2 of article II of the Constitution of the United States, if the President has under consideration to unilaterally change the size of the total stockpile of nuclear weapons of the United States, or the total number of deployed nuclear weapons (as defined under the New START Treaty), by more than 20 percent, prior to doing so the President shall initiate a Nuclear Posture Review.
 
 **(b) Terms of Reference.—** Prior to the initiation of a Nuclear Posture Review under this section, the President shall determine the terms of reference for the Nuclear Posture Review, which the President shall provide to the congressional defense committees.
 
-**(c) Nuclear Posture Review.—** Upon completion of a Nuclear Posture Review under this section, the President shall submit the Nuclear Posture Review to the congressional defense committees prior to implementing any change in the nuclear weapons stockpile by more than 25 percent.
+**(c) Nuclear Posture Review.—** Upon completion of a Nuclear Posture Review under this section, the President shall submit the Nuclear Posture Review to the congressional defense committees prior to implementing any change described in subsection (a).
 
-**(d) Construction.—** This section shall not apply to changes to the nuclear weapons stockpile resulting from treaty obligations.
+**(d) Construction.—** This section shall not apply to changes to the nuclear weapons stockpile resulting from obligations pursuant to a treaty to which the Senate has provided advice and consent pursuant to section 2 of article II of the Constitution.
 
 **(e) Form.—** A Nuclear Posture Review under this section shall be submitted in unclassified form, but may include a classified annex.
+
+**(f) New START Treaty Defined.—** In this section, the term “New START Treaty” means the Treaty between the United States of America and the Russian Federation on Measures for the Further Reduction and Limitation of Strategic Offensive Arms, signed on April 8, 2010, and entered into force on February 5, 2011.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 117–81, § 1633(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “Other than pursuant to a treaty, if the President has under consideration to unilaterally change the size of the total stockpile of nuclear weapons of the United States by more than 25 percent, prior to doing so the President shall initiate a Nuclear Posture Review.”
+
+Subsec. (c). Pub. L. 117–81, § 1633(2), substituted “described in subsection (a)” for “in the nuclear weapons stockpile by more than 25 percent”.
+
+Subsec. (d). Pub. L. 117–81, § 1633(3), substituted “obligations pursuant to a treaty to which the Senate has provided advice and consent pursuant to section 2 of article II of the Constitution” for “treaty obligations”.
+
+Subsec. (f). Pub. L. 117–81, § 1633(4), added subsec. (f).
+
 2013—Pub. L. 113–66 inserted a period after the enumerator in section catchline.
 
 
@@ -617,9 +638,9 @@ Barack Obama.
 
 (2) develop recommendations for mitigating any concerns of the Commanders resulting from the assessment.
 
-**(c) Report Required.—**
+**(c) Reports Required.—**
 
-(1) The Commanders shall jointly submit to the Chairman of the Joint Chiefs of Staff, for submission to the Council on Oversight of the National Leadership Command, Control, and Communications System established under [section 171a of this title](./chapter-007-boards-councils-and-committees.md#section-171a), a report on the assessment required by subsection (a) that includes the following:
+(1) For each assessment conducted under subsection (a), the Commanders shall jointly submit to the Chairman of the Joint Chiefs of Staff, for submission to the Council on Oversight of the National Leadership Command, Control, and Communications System established under [section 171a of this title](./chapter-007-boards-councils-and-committees.md#section-171a), a report on the assessment that includes the following:
 
   (A) The recommendations developed under subsection (b)(2).
 
@@ -629,15 +650,24 @@ Barack Obama.
 
   (D) Any other comments of the Commanders.
 
-(2) The Council shall submit to the Secretary of Defense the report required by paragraph (1) and any comments of the Council on the report.
+(2) The Council shall submit to the Secretary of Defense each report required by paragraph (1) and any comments of the Council on each report.
 
-(3) The Secretary of Defense shall submit to the congressional defense committees the report required by paragraph (1), any comments of the Council on the report under paragraph (2), and any comments of the Secretary on the report.
+(3) Not later than 90 days after the date of the submission of a report under paragraph (1), the Secretary of Defense shall submit to the congressional defense committees the report, any comments of the Council on the report under paragraph (2), and any comments of the Secretary on the report.
 
 **(d) Quarterly Briefings.—** Not less than once every quarter, the Deputy Secretary of Defense and the Vice Chairman of the Joint Chiefs of Staff shall jointly provide to the Committees on Armed Services of the House of Representatives and the Senate a briefing on any known or suspected critical intelligence parameter breaches that were identified during the previous quarter, including an assessment of any known or suspected impacts of such breaches to the mission effectiveness of military capabilities as of the date of the briefing or thereafter.
 
 **(e) Termination.—** The requirements of this section shall terminate on December 31, 2027.
 
 ### Statutory Notes
+
+#### Amendments
+2021—Subsec. (c). Pub. L. 117–81, § 1534(1), substituted “Reports” for “Report” in heading.
+
+Subsec. (c)(1). Pub. L. 117–81, § 1534(2), substituted “For each assessment conducted under subsection (a), the Commanders” for “The Commanders” and “the assessment” for “the assessment required by subsection (a)” in introductory provisions.
+
+Subsec. (c)(2). Pub. L. 117–81, § 1534(3), which directed substitution of “each report” for “the report”, was executed by making the substitution in both places it appeared, to reflect the probable intent of Congress.
+
+Subsec. (c)(3). Pub. L. 117–81, § 1534(4), substituted “Not later than 90 days after the date of the submission of a report under paragraph (1), the Secretary” for “The Secretary” and struck out “required by paragraph (1)” before “, any comments”.
 
 #### Ensuring Cyber Resiliency of Nuclear Command and Control System
 Pub. L. 116–283, div. A, title XVII, § 1747, Jan. 1, 2021, 134 Stat. 4140, provided that: “(a) Plan for Implementation of Findings and Recommendations From First Annual Assessment of Cyber Resiliency of Nuclear Command and Control System.—Not later than October 1, 2021, the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a comprehensive plan, including a schedule and resourcing plan, for the implementation of the findings and recommendations included in the first report submitted under [section 499(c)(3) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section499/c/3&num=0&edition=prelim), United States Code. “(b) Concept of Operations and Oversight Mechanism for Cyber Defense of Nuclear Command and Control System.—Not later than October 1, 2021, the Secretary shall develop and establish—“(1) a concept of operations for defending the nuclear command and control system against cyber attacks, including specification of the—“(A) roles and responsibilities of relevant entities within the Office of the Secretary, the military services, combatant commands, the Defense Agencies, and the Department of Defense Field Activities; and “(B) cybersecurity capabilities to be acquired and employed and operational tactics, techniques, and procedures, including cyber protection team and sensor deployment strategies, to be used to monitor, defend, and mitigate vulnerabilities in nuclear command and control systems; and “(2) an oversight mechanism or governance model for overseeing the implementation of the concept of operations developed and established under paragraph (1), related development, systems engineering, and acquisition activities and programs, and the plan required by subsection (a), including specification of the—“(A) roles and responsibilities of relevant entities within the Office of the Secretary, the military services, combatant commands, the Defense Agencies, and the Department of Defense Field Activities in overseeing the defense of the nuclear command and control system against cyber attacks; “(B) responsibilities and authorities of the Strategic Cybersecurity Program in overseeing and, as appropriate, executing—“(i) vulnerability assessments; and “(ii) development, systems engineering, and acquisition activities; and “(C) processes for coordination of activities, policies, and programs relating to the cybersecurity and defense of the nuclear command and control system.”
@@ -673,3 +703,50 @@ Pub. L. 116–283, div. A, title XVII, § 1747, Jan. 1, 2021, 134 Stat. 4140, pr
 
 #### Amendments
 2018—Subsec. (d). Pub. L. 115–232 substituted “after December 11, 2017,” for “on or after the date of the enactment of this section” in introductory provisions.
+
+
+<a id="section-499b"></a>
+## § 499b. Participation in United States Strategic Command strategic deterrence exercises
+**(a) Participation.—** In the case of annual strategic deterrence exercises held by the United States Strategic Command during fiscal years 2022 through 2032—
+
+(1) the Assistant to the President for National Security Affairs is encouraged to participate in each such exercise that occurs during an even-numbered year;
+
+(2) the Deputy Assistant to the President for National Security Affairs is encouraged to participate in each such exercise that occurs during an odd-numbered year;
+
+(3) the Under Secretary of Defense for Policy shall participate, in whole or in part, in each such exercise;
+
+(4) the Vice Chairman of the Joint Chiefs of Staff shall participate, in whole or in part, in each such exercise;
+
+(5) appropriate senior staff of the Executive Office of the President or appropriate organizations supporting the White House relating to continuity of government activities are encouraged to participate in each such exercise;
+
+(6) appropriate general or flag officers of the military departments, and appropriate employees of Federal agencies in Senior Executive Service positions (as defined in [section 3132 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3132&num=0&edition=prelim)), shall participate, in whole or in part, in each such exercise, to provide relevant expertise to the Assistant to the President for National Security Affairs and the Deputy Assistant to the President for National Security Affairs; and
+
+(7) in the case of such an exercise for which a unified combatant command has a geographic area of responsibility relevant to the scenario planned to be used for the exercise, not fewer than two of the following individuals from that command shall participate, in whole or in part, in the exercise:
+
+  (A) The Commander.
+
+  (B) The Deputy Commander.
+
+  (C) The Director of the Joint Staff for Operations.
+
+  (D) The Director of the Joint Staff for Strategic Plans and Policy.
+
+**(b) Briefing.—** Not fewer than once every four years (or more frequently if appropriate) during the period specified in subsection (a), the President shall be provided a briefing on the annual strategic deterrence exercise held by the United States Strategic Command during the year in which the briefing is provided, including the principal findings resulting from the exercise.
+
+**(c) Reports.—**
+
+(1) Not later than 30 days after the completion of an annual strategic deterrence exercise described in subsection (a), the Commander of the United States Strategic Command shall submit to the Chairman of the Joint Chiefs of Staff and the Secretary of Defense a report on the exercise, which, at a minimum, shall include the following:
+
+  (A) A description of the purpose and scope of the exercise.
+
+  (B) An identification of the principal personnel participating in the exercise.
+
+  (C) A statement of the principal findings resulting from the exercise that specifically relate to the nuclear command, control, and communications or senior leader decision-making process and a description of any deficiencies in that process identified a result of the exercise.
+
+  (D) Whether the President was briefed on the exercise and the principal findings resulting from the exercise.
+
+(2) Not later than 60 days after the completion of an annual strategic deterrence exercise described in subsection (a), the Secretary shall submit to the congressional defense committees—
+
+  (A) an unedited copy of the report of the Commander submitted under paragraph (1); and
+
+  (B) any additional recommendations or other matters the Secretary considers appropriate.

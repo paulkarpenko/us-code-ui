@@ -123,9 +123,6 @@ Pub. L. 101–624, title XXV, § 2518, formerly § 2519, Nov. 28, 1990, 104 Stat
 #### Separability Provision for Pub. L. 98–180
 Pub. L. 98–180, title III, § 305, Nov. 29, 1983, 97 Stat. 1152, provided that: “Except as otherwise provided in this Act [see Short Title of 1983 Amendment note above], if any provision of this Act or the application thereof to any person or circumstances is held invalid, the validity of the remainder of this Act and of the application of such provision to other persons and circumstances shall not be affected thereby.”
 
-#### Exceptions From Transfer of Functions
-Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201).
-
 #### Inapplicability of Section
 Section inapplicable to 2014 through 2018 crops of covered commodities, cotton, and sugar and inapplicable to milk during period beginning Feb. 7, 2014, through Dec. 31, 2018, see [section 9092(b)(10) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section9092/b/10&num=0&edition=prelim).
 
@@ -203,6 +200,9 @@ Pub. L. 97–98, title XI, § 1112, Dec. 22, 1981, 95 Stat. 1267, directed Secre
 
 #### Studies in Rice Price Support; Report to Congress; Termination Date
 Act Aug. 28, 1954, ch. 1041, title III, § 315, 68 Stat. 905, directed Secretary of Agriculture to study various two-price systems of price support and marketing which could be made applicable to rice and to submit to Congress on or before Mar. 1, 1955, a detailed report thereon.
+
+#### Exceptions From Transfer of Functions
+Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201).
 
 
 <a id="section-1421a"></a>
@@ -308,9 +308,6 @@ This Act, referred to in subsec. (a), is act Oct. 31, 1949, ch. 792, 63 Stat. 10
 #### Effective Date of 1990 Amendment
 Amendment by Pub. L. 101–624 effective beginning with 1991 crop of an agricultural commodity, with provision for prior crops, see section 1171 of Pub. L. 101–624, set out as a note under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421).
 
-#### Exceptions From Transfer of Functions
-Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201).
-
 #### Inapplicability of Section
 Section inapplicable to 2014 through 2018 crops of covered commodities, cotton, and sugar and inapplicable to milk during period beginning Feb. 7, 2014, through Dec. 31, 2018, see [section 9092(b)(10) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section9092/b/10&num=0&edition=prelim).
 
@@ -319,6 +316,9 @@ Section inapplicable to 2008 through 2012 crops of covered commodities, peanuts,
 Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning May 13, 2002, through Dec. 31, 2007, see [section 7992(b)(10) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section7992/b/10&num=0&edition=prelim).
 
 Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see [section 7301(b)(1)(J) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section7301/b/1/J&num=0&edition=prelim).
+
+#### Exceptions From Transfer of Functions
+Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201).
 
 
 <a id="section-1423"></a>
@@ -353,9 +353,6 @@ Amendment by section 1128 of Pub. L. 101–624 effective beginning with 1991 cro
 #### Effective Date of 1981 Amendment
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under [section 4301 of this title](./chapter-074-floral-research-and-consumer-information.md#section-4301).
 
-#### Exceptions From Transfer of Functions
-Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201).
-
 #### Inapplicability of Section
 Section inapplicable to 2014 through 2018 crops of covered commodities, cotton, and sugar and inapplicable to milk during period beginning Feb. 7, 2014, through Dec. 31, 2018, see [section 9092(b)(10) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section9092/b/10&num=0&edition=prelim).
 
@@ -364,6 +361,9 @@ Section inapplicable to 2008 through 2012 crops of covered commodities, peanuts,
 Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning May 13, 2002, through Dec. 31, 2007, see [section 7992(b)(10) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section7992/b/10&num=0&edition=prelim).
 
 Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see [section 7301(b)(1)(J) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section7301/b/1/J&num=0&edition=prelim).
+
+#### Exceptions From Transfer of Functions
+Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201).
 
 
 <a id="section-1424"></a>
@@ -414,9 +414,6 @@ Pub. L. 100–460, title VI, § 634(a), Oct. 1, 1988, 102 Stat. 2263, provided t
 #### Effective and Termination Dates of 1985 Amendment
 Pub. L. 99–198, title X, § 1004, Dec. 23, 1985, 99 Stat. 1447, provided that the amendment made by section 1004 is effective only for the 1986 through 1990 crops.
 
-#### Exceptions From Transfer of Functions
-Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201).
-
 #### Inapplicability of Section
 Section inapplicable to 2014 through 2018 crops of covered commodities, cotton, and sugar and inapplicable to milk during period beginning Feb. 7, 2014, through Dec. 31, 2018, see [section 9092(b)(10) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section9092/b/10&num=0&edition=prelim).
 
@@ -425,6 +422,9 @@ Section inapplicable to 2008 through 2012 crops of covered commodities, peanuts,
 Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning May 13, 2002, through Dec. 31, 2007, see [section 7992(b)(10) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section7992/b/10&num=0&edition=prelim).
 
 Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see [section 7301(b)(1)(J) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section7301/b/1/J&num=0&edition=prelim).
+
+#### Exceptions From Transfer of Functions
+Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201).
 
 
 <a id="section-1425a"></a>
@@ -644,9 +644,6 @@ Amendment by Pub. L. 89–808 effective Jan. 1, 1967, see section 5 of Pub. L. 8
 #### Effective and Termination Dates of 1964 Amendment
 Pub. L. 88–297, title II, § 204, Apr. 11, 1964, 78 Stat. 183, as amended by Pub. L. 89–321, title V, § 505(3), Nov. 3, 1965, 79 Stat. 1203; Pub. L. 90–559, § 1(1), Oct. 11, 1968, 82 Stat. 996, provided that the amendment made by section 204 is effective only with respect to the marketing years beginning in calendar years 1964 through 1970.
 
-#### Exceptions From Transfer of Functions
-Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201).
-
 #### Inapplicability of Section
 Section inapplicable to 2014 through 2018 crops of covered commodities, cotton, and sugar and inapplicable to milk during period beginning Feb. 7, 2014, through Dec. 31, 2018, see [section 9092(b)(10) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section9092/b/10&num=0&edition=prelim).
 
@@ -673,6 +670,9 @@ Pub. L. 85–683, Aug. 19, 1958, 72 Stat. 635, as authorizing Commodity Credit C
 
 #### Sale of Commodities for Foreign Currencies
 Sale of surplus agricultural commodities for foreign currencies, see section 1691 et seq., of this title.
+
+#### Exceptions From Transfer of Functions
+Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201).
 
 #### Ex. Ord. No. 11336. Delegation of Authority Relating to Emergency Livestock Feed
 Ex. Ord. No. 11336, Mar. 22, 1967, 32 F.R. 4489, provided:
@@ -1198,9 +1198,6 @@ Pub. L. 93–233, § 8(b)(2), Dec. 31, 1973, 87 Stat. 956, as amended by Pub. L.
 #### Effective Date of 1966 Amendment
 Pub. L. 89–808, § 3(c), Nov. 11, 1966, 80 Stat. 1538, provided that the amendment made by section 3(c) is effective Jan. 1, 1967.
 
-#### Exceptions From Transfer of Functions
-Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201).
-
 #### Donation of Surplus Agricultural Commodities
 Pub. L. 100–418, title II, § 2223, Aug. 23, 1988, 102 Stat. 1336, as amended by Pub. L. 101–513, title V, § 562 (part), Nov. 5, 1990, 104 Stat. 2032; Pub. L. 103–306, title V, § 576(a), (b), Aug. 23, 1994, 108 Stat. 1654, provided that: “(a) Authority to Donate.—Notwithstanding any other provision of law, if the Secretary of Agriculture determines for each fiscal year that (1) a donation under this section would not limit the Secretary’s ability to meet urgent humanitarian needs for agricultural commodities, and (2) such donation would not cause a reduction in the price of the same or similar agricultural commodities produced in Poland[,] the Secretary of Agriculture shall donate, under the applicable provisions of section 416(b) of the Agricultural Act of 1949 [[7 U.S.C. 1431(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1431/b&num=0&edition=prelim)], for each of the fiscal years 1995 through 1999, 8,000 metric tons of uncommitted stocks of eligible commodities of the Commodity Credit Corporation under an agreement with the Government of Poland that the Government of Poland will sell such commodities and that all the proceeds from such sales will be used by governmental and nongovernmental agencies for eligible activities in Poland described in section 416(b)(7)(D)(ii) of that Act (as amended by section 2225 of this Act) that have been approved, upon application, by the joint commission described in section 2226 [of Pub. L. 100–418, set out below] and by the United States chief of diplomatic mission in Poland. “(b) Definitions.—For purposes of this section—“(1) the term ‘eligible commodities’ has the same meaning as is given such term in section 416(b)(2) of the Agricultural Act of 1949 [[7 U.S.C. 1431(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1431/b/2&num=0&edition=prelim)] and, in addition, includes feed grains, soybeans, and soybean products; and “(2) the term ‘nongovernmental agencies’ includes nonprofit voluntary agencies, cooperatives, intergovernmental agencies such as the World Food Program, and other multilateral organizations.”
 
@@ -1235,6 +1232,9 @@ Act Mar. 31, 1950, ch. 81, § 3, 64 Stat. 41, made Irish potatoes acquired under
 
 #### Bartering Authority of Secretary
 Bartering authority of Secretary of Agriculture, exchange of agricultural commodities for strategic materials and materials for other purposes, cooperation of agencies, and assistance to cooperatives, see [section 1692 of this title](./chapter-041-food-for-peace.md#section-1692).
+
+#### Exceptions From Transfer of Functions
+Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201).
 
 
 <a id="section-1431a"></a>

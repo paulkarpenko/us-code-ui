@@ -16,18 +16,22 @@ There shall be established in the Department of Health and Human Services a bure
 #### Codification
 Section was formerly classified to [section 18 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section18&num=0&edition=prelim), Labor.
 
+#### Change of Name
+“Department of Health and Human Services” substituted in text for “Department of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Transfer of Functions
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
-
-“Federal Security Agency” substituted for “Department of Labor” pursuant to Reorg. Plan No. 2 of 1946, set out in the Appendix to Title 5, Government Organization and Employees, which transferred Children’s Bureau, exclusive of its Industrial Division, from Department of Labor to Federal Security Agency. Functions of Bureau, its Chief, and of Secretary of Labor relating to such functions transferred to Federal Security Administrator.
-
 Functions authorized by [section 192 of this title](./chapter-006-the-childrens-bureau.md#section-192) and such other functions of Federal Security Agency as Administrator might designate were to be administered through Children’s Bureau under his direction and control.
 
 Functions of Children’s Bureau under sections 201 to 216, 217 to 219 of Title 29, Labor, transferred to Secretary of Labor.
 
-For transfer of personnel, property, records and funds, see section 12 of Reorg. Plan No. 2 of 1946.
-
 Act Apr. 9, 1912, established Children’s Bureau in Department of Commerce and Labor. Act Mar. 4, 1913, transferred Children’s Bureau to Department of Labor, which was created by that act, and was authority for substitution of “Department of Labor” for “Department of Commerce and Labor”.
+
+#### Transfer of Functions
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
+
+“Federal Security Agency” substituted for “Department of Labor” pursuant to Reorg. Plan No. 2 of 1946, set out in the Appendix to Title 5, Government Organization and Employees, which transferred Children’s Bureau, exclusive of its Industrial Division, from Department of Labor to Federal Security Agency. Functions of Bureau, its Chief, and of Secretary of Labor relating to such functions transferred to Federal Security Administrator.
+
+For transfer of personnel, property, records and funds, see section 12 of Reorg. Plan No. 2 of 1946.
 
 
 <a id="section-192"></a>
@@ -42,12 +46,15 @@ In the first sentence of this section, provisions which specified an annual comp
 
 Section was formerly classified to [section 18a of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section18a&num=0&edition=prelim), Labor.
 
-#### Transfer of Functions
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
-
-“Federal Security Administrator” substituted for “said department” and for “Secretary of Labor” pursuant to Reorg. Plan No. 2 of 1946. See note set out under [section 191 of this title](./chapter-006-the-childrens-bureau.md#section-191).
+#### Change of Name
+“Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
 “Secretary of Labor” substituted for “Secretary of Commerce and Labor” pursuant to act Mar. 4, 1913. See note set out under [section 191 of this title](./chapter-006-the-childrens-bureau.md#section-191).
+
+#### Transfer of Functions
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
+
+“Federal Security Administrator” substituted for “said department” and for “Secretary of Labor” pursuant to Reorg. Plan No. 2 of 1946. See note set out under [section 191 of this title](./chapter-006-the-childrens-bureau.md#section-191).
 
 
 <a id="section-193"></a>
@@ -62,12 +69,15 @@ Section 3 of act Apr. 9, 1912, also provided for compensation of assistant chief
 
 Section was formerly classified to [section 18b of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section18b&num=0&edition=prelim), Labor.
 
-#### Transfer of Functions
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out in as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
-
-“Federal Security Administrator” substituted for “Secretary of Labor” pursuant to Reorg. Plan No. 2 of 1946. See note set out under [section 191 of this title](./chapter-006-the-childrens-bureau.md#section-191).
+#### Change of Name
+“Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
 “Secretary of Labor” substituted for “Secretary of Commerce and Labor” pursuant to act Mar. 4, 1913. See note set out under [section 191 of this title](./chapter-006-the-childrens-bureau.md#section-191).
+
+#### Transfer of Functions
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out in as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
+
+“Federal Security Administrator” substituted for “Secretary of Labor” pursuant to Reorg. Plan No. 2 of 1946. See note set out under [section 191 of this title](./chapter-006-the-childrens-bureau.md#section-191).
 
 
 <a id="section-194"></a>
@@ -80,9 +90,12 @@ The Secretary of Health and Human Services is directed to furnish sufficient qua
 #### Codification
 Section was formerly classified to [section 18c of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section18c&num=0&edition=prelim), Labor.
 
-#### Transfer of Functions
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
-
-“Federal Security Administrator” substituted for “Secretary of Labor” pursuant to Reorg. Plan No. 2 of 1946. See note set out under [section 191 of this title](./chapter-006-the-childrens-bureau.md#section-191).
+#### Change of Name
+“Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
 “Secretary of Labor” substituted for “Secretary of Commerce and Labor” pursuant to act Mar. 4, 1913. See note set out under [section 191 of this title](./chapter-006-the-childrens-bureau.md#section-191).
+
+#### Transfer of Functions
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
+
+“Federal Security Administrator” substituted for “Secretary of Labor” pursuant to Reorg. Plan No. 2 of 1946. See note set out under [section 191 of this title](./chapter-006-the-childrens-bureau.md#section-191).

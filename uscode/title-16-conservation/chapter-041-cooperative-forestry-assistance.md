@@ -951,7 +951,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
   (B) the Council’s recommendations for research, education, technical assistance, and related activities in the succeeding year; and
 
   (C) the Council’s recommendations for the urban and community forestry challenge cost share projects to be funded during the succeeding year.
-  The review submitted to the Secretary shall be incorporated into the annual report required under [section 1601(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1601/d&num=0&edition=prelim).
+  The review submitted to the Secretary shall be incorporated into the annual report required under subsection (e) of [section 1601 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1601).
 
 (6) **Detail of personnel** — Upon request of the Council, the Secretary is authorized to detail, on a reimbursable basis, any of the personnel of the Department of Agriculture to the Council to assist the Council in carrying out its duties under this chapter.
 
@@ -973,6 +973,8 @@ November 28, 1990, referred to in subsec. (g)(3), was in the original “the dat
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2021—Subsec. (g). Pub. L. 117–58, in concluding provisions, substituted “subsection (e) of section 1601” for “section 1601(d)” and made technical amendment to reference in original act which appears in text as reference to [section 1601 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1601).
+
 2008—Subsec. (g)(2)(A)(viii). Pub. L. 110–246, § 7511(c)(36), substituted “National Institute of Food and Agriculture” for “Extension Service”.
 
 1991—Subsec. (g)(1)(C), (3)(E). Pub. L. 102–237, § 1018(a)(3)(A), (B), substituted “subsection (f)” for “subsection (e)”.
@@ -1071,6 +1073,7 @@ For transfer of all functions, personnel, assets, components, authorities, grant
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
+#### Transfer of Functions
 Functions vested in Secretary of Commerce pursuant to provisions of Federal Fire Prevention Control Act of 1974, [15 U.S.C. 2201](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2201&num=0&edition=prelim) et seq., transferred to Director of Federal Emergency Management Agency pursuant to Reorg. Plan No. 3 of 1978, § 201, June 19, 1978, 43 F.R. 41944, 92 Stat. 3788, set out in the Appendix to Title 5, Government Organization and Employees, effective Apr. 1, 1979, as provided by Ex. Ord. No. 12127, §§ 1–101, 1–103(a), Mar. 31, 1979, 44 F.R. 19637.
 
 

@@ -99,37 +99,16 @@ Notice of President of the United States, dated Sept. 10, 2003, 68 F.R. 53665.
 
 Notice of President of the United States, dated Sept. 12, 2002, 67 F.R. 58317.
 
-#### Proc. No. 9844. Declaring a National Emergency Concerning the Southern Border of the United States
-Proc. No. 9844, Feb. 15, 2019, 84 F.R. 4949, provided:
+#### Proclamation No. 9844
+Proc. No. 9844, Feb. 15, 2019, 84 F.R. 4949, declared a national emergency at the southern border of the United States, which was terminated by Proc. No. 10142, Jan. 20, 2021, 86 F.R. 7225, set out below.
 
-The current situation at the southern border presents a border security and humanitarian crisis that threatens core national security interests and constitutes a national emergency. The southern border is a major entry point for criminals, gang members, and illicit narcotics. The problem of large-scale unlawful migration through the southern border is long-standing, and despite the executive branch’s exercise of existing statutory authorities, the situation has worsened in certain respects in recent years. In particular, recent years have seen sharp increases in the number of family units entering and seeking entry to the United States and an inability to provide detention space for many of these aliens while their removal proceedings are pending. If not detained, such aliens are often released into the country and are often difficult to remove from the United States because they fail to appear for hearings, do not comply with orders of removal, or are otherwise difficult to locate. In response to the directive in my April 4, 2018, memorandum and subsequent requests for support by the Secretary of Homeland Security, the Department of Defense has provided support and resources to the Department of Homeland Security at the southern border. Because of the gravity of the current emergency situation, it is necessary for the Armed Forces to provide additional support to address the crisis.
+Continuations of national emergency declared by Proc. No. 9844 were contained in the following:
 
-NOW, THEREFORE, I, DONALD J. TRUMP, by the authority vested in me by the Constitution and the laws of the United States of America, including sections 201 and 301 of the National Emergencies Act ([50 U.S.C. 1601](./chapter-034-national-emergencies.md#section-1601) et seq.) [[50 U.S.C. 1621](./chapter-034-national-emergencies.md#section-1621), 1631], hereby declare that a national emergency exists at the southern border of the United States, and that [section 12302 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12302&num=0&edition=prelim), United States Code, is invoked and made available, according to its terms, to the Secretaries of the military departments concerned, subject to the direction of the Secretary of Defense in the case of the Secretaries of the Army, Navy, and Air Force. To provide additional authority to the Department of Defense to support the Federal Government’s response to the emergency at the southern border, I hereby declare that this emergency requires use of the Armed Forces and, in accordance with section 301 of the National Emergencies Act ([50 U.S.C. 1631](./chapter-034-national-emergencies.md#section-1631)), that the construction authority provided in [section 2808 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2808&num=0&edition=prelim), United States Code, is invoked and made available, according to its terms, to the Secretary of Defense and, at the discretion of the Secretary of Defense, to the Secretaries of the military departments. I hereby direct as follows:
+Notice of President of the United States, dated Jan. 15, 2021, 86 F.R. 6557.
 
-Section 1. The Secretary of Defense, or the Secretary of each relevant military department, as appropriate and consistent with applicable law, shall order as many units or members of the Ready Reserve to active duty as the Secretary concerned, in the Secretary’s discretion, determines to be appropriate to assist and support the activities of the Secretary of Homeland Security at the southern border.
+Notice of President of the United States, dated Feb. 13, 2020, 85 F.R. 8715.
 
-Sec. 2. The Secretary of Defense, the Secretary of the Interior, the Secretary of Homeland Security, and, subject to the discretion of the Secretary of Defense, the Secretaries of the military departments, shall take all appropriate actions, consistent with applicable law, to use or support the use of the authorities herein invoked, including, if necessary, the transfer and acceptance of jurisdiction over border lands.
-
-Sec. 3. This proclamation is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-
-IN WITNESS WHEREOF, I have hereunto set my hand this fifteenth day of February, in the year of our Lord two thousand nineteen, and of the Independence of the United States of America the two hundred and forty-third.
-
-Donald J. Trump.
-
-#### Continuation of National Emergency Declared by Proc. No. 9844
-Notice of President of the United States, dated Feb. 13, 2020, 85 F.R. 8715, provided:
-
-On February 15, 2019, by Proclamation 9844, I declared a national emergency concerning the southern border of the United States to deal with the border security and humanitarian crisis that threatens core national security interests.
-
-The ongoing border security and humanitarian crisis at the southern border of the United States continues to threaten our national security, including the security of the American people. The executive branch has taken steps to address the crisis, but further action is needed to address the humanitarian crisis and to control unlawful migration and the flow of narcotics and criminals across the southern border of the United States.
-
-For these reasons, the national emergency declared on February 15, 2019, and the measures adopted on that date to respond to that emergency, must continue in effect beyond February 15, 2020. Therefore, in accordance with section 202(d) of the National Emergencies Act ([50 U.S.C. 1622(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1622/d&num=0&edition=prelim)), I am continuing for 1 year the national emergency declared in Proclamation 9844 concerning the southern border of the United States.
-
-This notice shall be published in the Federal Register and transmitted to the Congress.
-
-Donald J. Trump.
-
-#### Proc. No. 9994. Declaring a National Emergency Concerning the Novel Coronavirus Disease (COVID-19) Outbreak
+#### Proc. No. 9994. Declaring a National Emergency Concerning the Novel Coronavirus Disease (COVID–19) Outbreak
 Proc. No. 9994, Mar. 13, 2020, 85 F.R. 15337, provided:
 
 In December 2019, a novel (new) coronavirus known as SARS–CoV–2 (“the virus”) was first detected in Wuhan, Hubei Province, People’s Republic of China, causing outbreaks of the coronavirus disease COVID–19 that has now spread globally. The Secretary of Health and Human Services (HHS) declared a public health emergency on January 31, 2020, under section 319 of the Public Health Service Act ([42 U.S.C. 247d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d&num=0&edition=prelim)), in response to COVID–19. I have taken sweeping action to control the spread of the virus in the United States, including by suspending entry of foreign nationals seeking entry who had been physically present within the prior 14 days in certain jurisdictions where COVID–19 outbreaks have occurred, including the People’s Republic of China, the Islamic Republic of Iran, and the Schengen Area of Europe. The Federal Government, along with State and local governments, has taken preventive and proactive measures to slow the spread of the virus and treat those affected, including by instituting Federal quarantines for individuals evacuated from foreign nations, issuing a declaration pursuant to section 319F–3 of the Public Health Service Act ([42 U.S.C. 247d–6d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d–6d&num=0&edition=prelim)), and releasing policies to accelerate the acquisition of personal protective equipment and streamline bringing new diagnostic capabilities to laboratories. On March 11, 2020, the World Health Organization announced that the COVID–19 outbreak can be characterized as a pandemic, as the rates of infection continue to rise in many locations around the world and across the United States.
@@ -155,6 +134,58 @@ Sec. 3. General Provisions. (a) Nothing in this proclamation shall be construed 
 IN WITNESS WHEREOF, I have hereunto set my hand this thirteenth day of March, in the year of our Lord two thousand twenty, and of the Independence of the United States of America the two hundred and forty-fourth.
 
 Donald J. Trump.
+
+#### Continuation of the National Emergency Declared by Proc. No. 9994
+Notice of President of the United States, dated Feb. 24, 2021, 86 F.R. 11599, provided:
+
+On March 13, 2020, by Proclamation 9994 [set out above], the President declared a national emergency concerning the coronavirus disease 2019 (COVID–19) pandemic. The COVID–19 pandemic continues to cause significant risk to the public health and safety of the Nation.
+
+For this reason, the national emergency declared on March 13, 2020, and beginning March 1, 2020, must continue in effect beyond March 1, 2021. Therefore, in accordance with section 202(d) of the National Emergencies Act ([50 U.S.C. 1622(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1622/d&num=0&edition=prelim)), I am continuing the national emergency declared in Proclamation 9994 concerning the COVID–19 pandemic.
+
+This notice shall be published in the Federal Register and transmitted to the Congress.
+
+J.R. Biden, Jr.
+
+#### Proc. No. 10142. Termination of Emergency With Respect to the Southern Border of the United States and Redirection of Funds Diverted to Border Wall Construction
+Proc. No. 10142, Jan. 20, 2021, 86 F.R. 7225, provided:
+
+Like every nation, the United States has a right and a duty to secure its borders and protect its people against threats. But building a massive wall that spans the entire southern border is not a serious policy solution. It is a waste of money that diverts attention from genuine threats to our homeland security. My Administration is committed to ensuring that the United States has a comprehensive and humane immigration system that operates consistently with our Nation’s values. In furtherance of that commitment, I have determined that the declaration of a national emergency at our southern border in Proclamation 9844 of February 15, 2019 (Declaring a National Emergency Concerning the Southern Border of the United States) [formerly set out below], was unwarranted. It shall be the policy of my Administration that no more American taxpayer dollars be diverted to construct a border wall. I am also directing a careful review of all resources appropriated or redirected to construct a southern border wall.
+
+NOW, THEREFORE, I, JOSEPH R. BIDEN JR., President of the United States of America, by the authority vested in me by the Constitution and the laws of the United States of America, including section 202 [[50 U.S.C. 1622](./chapter-034-national-emergencies.md#section-1622)] of the National Emergencies Act ([50 U.S.C. 1601](./chapter-034-national-emergencies.md#section-1601) et seq.), hereby declare that the national emergency declared by Proclamation 9844, and continued on February 13, 2020 (85 Fed. Reg. 8715), and January 15, 2021 [86 F.R. 6557], is terminated and that the authorites invoked in that proclamation will no longer be used to construct a wall at southen border. I hereby futher direct as follows:
+
+Section 1. Pause in Construction and Obligation of Funds. (a) The Secretary of Defense and the Secretary of Homeland Security, in consultation with the Director of the Office of Management and Budget, shall direct the appropriate officials within their respective departments to:
+
+(i) pause work on each construction project on the southern border wall, to the extent permitted by law, as soon as possible but in no case later than seven days from the date of this proclamation [Jan. 20, 2021], to permit:
+
+(A) assessment of the legality of the funding and contracting methods used to construct the wall;
+
+(B) assessment of the administrative and contractual consequences of ceasing each wall construction project; and
+
+(C) completion and implementation of the plan developed in accordance with section 2 of this proclamation;
+
+(ii) pause immediately the obligation of funds related to construction of the southern border wall, to the extent permitted by law; and
+
+(iii) compile detailed information on all southern border wall construction contracts, the completion status of each wall construction project, and the funds used for wall construction since February 15, 2019, including directly appropriated funds and funds drawn from the Treasury Forfeiture Fund ([31 U.S.C. 9705(g)(4)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9705/g/4/B&num=0&edition=prelim)), the Department of Defense Drug Interdiction and Counter-Drug Activities account ([10 U.S.C. 284](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section284&num=0&edition=prelim)), and the Department of Defense Military Construction account (pursuant to the emergency authorities in [10 U.S.C. 2808(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2808/a&num=0&edition=prelim) and [33 U.S.C. 2293(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2293/a&num=0&edition=prelim)).
+
+(b) The pause directed in subsection (a)(i) of this section shall apply to wall projects funded by redirected funds as well as wall projects funded by direct appropriations. The Secretary of Defense and the Secretary of Homeland Security may make an exception to the pause, however, for urgent measures needed to avert immediate physical dangers or where an exception is required to ensure that funds appropriated by the Congress fulfill their intended purpose.
+
+Sec. 2. Plan for Redirecting Funding and Repurposing Contracts. The Secretary of Defense and the Secretary of Homeland Security, in coordination with the Secretary of the Treasury, the Attorney General, the Director of the Office of Management and Budget, and the heads of any other appropriate executive departments and agencies, and in consultation with the Assistant to the President for National Security Affairs, shall develop a plan for the redirection of funds concerning the southern border wall, as appropriate and consistent with applicable law. The process of developing the plan shall include consideration of terminating or repurposing contracts with private contractors engaged in wall construction, while providing for the expenditure of any funds that the Congress expressly appropriated for wall construction, consistent with their appropriated purpose. The plan shall be developed within 60 days from the date of this proclamation. After the plan is developed, the Secretary of Defense and the Secretary of Homeland Security shall take all appropriate steps to resume, modify, or terminate projects and to otherwise implement the plan.
+
+Sec. 3. Definition. Consistent with Executive Order 13767 of January 25, 2017 (Border Security and Immigration Enforcement Improvements) [[8 U.S.C. 1103](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1103&num=0&edition=prelim) note], for the purposes of this proclamation, “wall” means a contiguous, physical wall or other similarly secure, contiguous, and impassable physical barrier.
+
+Sec. 4. General Provisions. (a) Nothing in this proclamation shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This proclamation shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This proclamation is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+IN WITNESS WHEREOF, I have hereunto set my hand this twentieth day of January, in the year of our Lord two thousand twenty-one, and of the Independence of the United States of America the two hundred and forty-fifth.
+
+J.R. Biden, Jr.
 
 #### Ex. Ord. No. 13920. Securing the United States Bulk-Power System
 Ex. Ord. No. 13920, May 1, 2020, 85 F.R. 26595, provided:
@@ -269,6 +300,8 @@ Sec. 6. General Provisions. (a) Nothing in this order shall be construed to impa
 
 Donald J. Trump.
 
+[Ex. Ord. No. 13920, set out above, suspended for 90 days and Secretary of Energy and Director of the Office of Management and Budget to jointly consider whether to recommend a replacement order be issued, see section 7(c) of Ex. Ord. No. 13990, set out as a note under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim), The Public Health and Welfare.]
+
 
 <a id="section-1622"></a>
 ## § 1622. National emergencies
@@ -335,15 +368,15 @@ For provisions relating to the release of the American hostages in Iran, see Ex.
 ## § 1651. Other laws, powers and authorities conferred thereby, and actions taken thereunder; Congressional studies
 **(a)** The provisions of this chapter shall not apply to the following provisions of law, the powers and authorities conferred thereby, and actions taken thereunder:
 
-(1) Chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41;
+(1) Chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
 
-(2) Section 3727(a)–(e)(1) of title 31;
+(2) Section 3727(a)–(e)(1) of title 31.
 
-(3) [Section 6305 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6305&num=0&edition=prelim);
+(3) [Section 6305 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6305&num=0&edition=prelim).
 
-(4) Public Law 85–804 (Act of Aug. 28, 1958, 72 Stat. 972; [50 U.S.C. 1431](./chapter-029-national-defense-contracts.md#section-1431) et seq.);
+(4) Public Law 85–804 (Act of Aug. 28, 1958, 72 Stat. 972; [50 U.S.C. 1431](./chapter-029-national-defense-contracts.md#section-1431) et seq.).
 
-(5) Section 2304(a)(1) 11 See References in Text note below. of title 10; 22 So in original. The semicolon probably should be a period.
+(5) [Section 3201(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3201/a&num=0&edition=prelim).
 
 **(b)** Each committee of the House of Representatives and the Senate having jurisdiction with respect to any provision of law referred to in subsection (a) of this section shall make a complete study and investigation concerning that provision of law and make a report, including any recommendations and proposed revisions such committee may have, to its respective House of Congress within two hundred and seventy days after September 14, 1976.
 
@@ -351,8 +384,6 @@ For provisions relating to the release of the American hostages in Iran, see Ex.
 
 #### References in Text
 Public Law 85–804, referred to in subsec. (a)(4), is Pub. L. 85–804, Aug. 28, 1958, 72 Stat. 972, as amended, which is classified generally to chapter 29 (§ 1431 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
-
-[Section 2304(a)(1) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304/a/1&num=0&edition=prelim), referred to in subsec. (a)(5), originally authorized purchases or contracts without formal advertising when necessary in the public interest during a national emergency declared by Congress or the President, and as amended generally by Pub. L. 98–369 now sets forth the competition requirements for procurement of property or services.
 
 #### Codification
 In subsec. (a)(1), “Chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “Act of June 30, 1949 ([41 U.S.C. 252](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section252&num=0&edition=prelim))” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
@@ -362,6 +393,8 @@ In subsec. (a)(2), “Section 3727(a)–(e)(1) of title 31” substituted for �
 In subsec. (a)(3), “[Section 6305 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6305&num=0&edition=prelim)” substituted for “Section 3737 of the Revised Statutes, as amended ([41 U.S.C. 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section15&num=0&edition=prelim))” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 117–81 added pars. (1) to (5) and struck out former pars. (1) to (5), which set out sections and provisions to which the provisions of this chapter are inapplicable.
+
 2002—Subsec. (a). Pub. L. 107–314 struck out par. (2), which read “Act of April 28, 1942 ([40 U.S.C. 278b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section278b&num=0&edition=prelim));”, and redesignated pars. (3) to (7) as (1) to (5), respectively.
 
 1998—Subsec. (a)(6). Pub. L. 105–362 substituted “1431 et seq.” for “1431–1435”.

@@ -34,13 +34,19 @@ source: >-
 
 (3) the proceeds of forfeited appearance bonds, bail bonds, and collateral collected under [section 3146 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3146&num=0&edition=prelim);
 
-(4) any money ordered to be paid into the Fund under [section 3671(c)(2) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3671/c/2&num=0&edition=prelim); and
+(4) any money ordered to be paid into the Fund under [section 3671(c)(2) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3671/c/2&num=0&edition=prelim);
 
 (5) any gifts, bequests, or donations to the Fund from private entities or individuals, which the Director is hereby authorized to accept for deposit into the Fund, except that the Director is not hereby authorized to accept any such gift, bequest, or donation that—
 
   (A) attaches conditions inconsistent with applicable laws or regulations; or
 
-  (B) is conditioned upon or would require the expenditure of appropriated funds that are not available to the Office for Victims of Crime.
+  (B) is conditioned upon or would require the expenditure of appropriated funds that are not available to the Office for Victims of Crime; and
+
+(6) any funds that would otherwise be deposited in the general fund of the Treasury collected pursuant to—
+
+  (A) a deferred prosecution agreement; or
+
+  (B) a non-prosecution agreement.
 
 **(c) Retention of sums in Fund; availability for expenditure without fiscal year limitation** Sums deposited in the Fund shall remain in the Fund and be available for expenditure under this subchapter for grants under this subchapter without fiscal year limitation. Notwithstanding subsection (d)(5), all sums deposited in the Fund in any fiscal year that are not made available for obligation by Congress in the subsequent fiscal year shall remain in the Fund for obligation in future fiscal years, without fiscal year limitation.
 
@@ -90,7 +96,7 @@ source: >-
 
   (B) Amounts in the reserve may be carried over from fiscal year to fiscal year, but the total amount of the reserve shall not exceed $10,000,000. Notwithstanding subsection (c) and any limitation on Fund obligations in any future Act, unless the same should expressly refer to this section, any such amounts carried over shall not be subject to any limitation on obligations from amounts deposited to or available in the Fund.
 
-**(e) Amounts awarded and unspent** Any amount awarded as part of a grant under this subchapter that remains unspent at the end of a fiscal year in which the grant is made may be expended for the purpose for which the grant is made at any time during the 3 succeeding fiscal years, at the end of which period, any remaining unobligated sums shall be available for deposit into the emergency reserve fund referred to in subsection (d)(5) at the discretion of the Director. Any remaining unobligated sums shall be returned to the Fund.
+**(e) Amounts awarded and unspent** Any amount awarded as part of a grant under this subchapter that remains unspent at the end of a fiscal year in which the grant is made may be expended for the purpose for which the grant is made at any time during the 3 succeeding fiscal years, at the end of which period, any remaining unobligated sums shall be available for deposit into the emergency reserve fund referred to in subsection (d)(5) at the discretion of the Director, except that renewals and extensions beyond that period may be granted at the discretion of the Attorney General. Any remaining unobligated sums shall be returned to the Fund.
 
 **(f) “Offenses against the United States” as excluding** As used in this section, the term “offenses against the United States” does not include—
 
@@ -131,6 +137,10 @@ The Uniform Code of Military Justice, referred to in subsec. (f)(1), is classifi
 Section was formerly classified to [section 10601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10601&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
 
 #### Amendments
+2021—Subsec. (b)(6). Pub. L. 117–27, § 2(a)(1), added par. (6).
+
+Subsec. (e). Pub. L. 117–27, § 2(a)(2), substituted “Director, except that renewals and extensions beyond that period may be granted at the discretion of the Attorney General” for “Director”.
+
 2018—Subsec. (d)(6). Pub. L. 115–299 added par. (6).
 
 2016—Subsec. (d)(3)(A)(i). Pub. L. 114–236 inserted “or section 3772, as it relates to direct services,” after “section 3771”.
@@ -364,11 +374,13 @@ Pub. L. 100–690, title VII, § 7130, Nov. 18, 1988, 102 Stat. 4423, provided t
 ## § 20102. Crime victim compensation
 **(a) Authority of Director; grants**
 
-(1) Except as provided in paragraph (2), the Director shall make an annual grant from the Fund to an eligible crime victim compensation program of 40 percent in fiscal year 2002 and of 60 percent in subsequent fiscal years of the amounts awarded during the preceding fiscal year, other than amounts awarded for property damage. Except as provided in paragraph (3), a grant under this section shall be used by such program only for awards of compensation.
+(1) Except as provided in paragraph (2), the Director shall make an annual grant from the Fund to an eligible crime victim compensation program of 75 percent of the amounts awarded during the preceding fiscal year, other than amounts awarded for property damage. Except as provided in paragraph (3), a grant under this section shall be used by such program only for awards of compensation.
 
-(2) If the sums available in the Fund for grants under this section are insufficient to provide grants of 40 percent in fiscal year 2002 and of 60 percent in subsequent fiscal years as provided in paragraph (1), the Director shall make, from the sums available, a grant to each eligible crime victim compensation program so that all such programs receive the same percentage of the amounts awarded by such program during the preceding fiscal year, other than amounts awarded for property damage.
+(2) If the sums available in the Fund for grants under this section are insufficient to provide grants as provided in paragraph (1), the Director shall make, from the sums available, a grant to each eligible crime victim compensation program so that all such programs receive the same percentage of the amounts awarded by such program during the preceding fiscal year, other than amounts awarded for property damage.
 
-(3) Not more than 5 percent of a grant made under this section may be used for training purposes and the administration of the State crime victim compensation program receiving the grant.
+(3) For the purposes of calculating amounts awarded in the previous fiscal year under this subsection, the Director shall not require eligible crime victim compensation programs to deduct recovery costs or collections from restitution or from subrogation for payment under a civil lawsuit.
+
+(4) Not more than 5 percent of a grant made under this section may be used for training purposes and the administration of the State crime victim compensation program receiving the grant.
 
 **(b) Eligible crime victim compensation programs** A crime victim compensation program is an eligible crime victim compensation program for the purposes of this section if—
 
@@ -380,7 +392,7 @@ Pub. L. 100–690, title VII, § 7130, Nov. 18, 1988, 102 Stat. 4423, provided t
 
   (C) funeral expenses attributable to a death resulting from a compensable crime;
 
-(2) such program promotes victim cooperation with the reasonable requests of law enforcement authorities;
+(2) such program promotes victim cooperation with the reasonable requests of law enforcement authorities, except if a program determines such cooperation may be impacted due to a victim’s age, physical condition, psychological state, cultural or linguistic barriers, or any other health or safety concern that jeopardizes the victim’s wellbeing;
 
 (3) such State certifies that grants received under this section will not be used to supplant State funds otherwise available to provide crime victim compensation;
 
@@ -408,9 +420,11 @@ Pub. L. 100–690, title VII, § 7130, Nov. 18, 1988, 102 Stat. 4423, provided t
 
 (2) the term “medical expenses” includes, to the extent provided under the eligible crime victim compensation program, expenses for eyeglasses or other corrective lenses, for dental services and devices and prosthetic devices, and for services rendered in accordance with a method of healing recognized by the law of the State;
 
-(3) the term “compensable crime” means a crime the victims of which are eligible for compensation under the eligible crime victim compensation program, and includes crimes, whose victims suffer death or personal injury, that are described in [section 247 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section247&num=0&edition=prelim), driving while intoxicated, and domestic violence; and
+(3) the term “compensable crime” means a crime the victims of which are eligible for compensation under the eligible crime victim compensation program, and includes crimes, whose victims suffer death or personal injury, that are described in [section 247 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section247&num=0&edition=prelim), driving while intoxicated, and domestic violence;
 
-(4) the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, and any other possession or territory of the United States.
+(4) the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, and any other possession or territory of the United States; and
+
+(5) the term “recovery costs” means expenses for personnel directly involved in the recovery efforts to obtain collections from restitution or from subrogation for payment under a civil law suit.
 
 **(e) Relationship to certain Federal programs** Notwithstanding any other law, if the compensation paid by an eligible crime victim compensation program would cover costs that a Federal program, including the program established under title IV of Public Law 107–42, or a federally financed State or local program, would otherwise pay,— 11 So in original. The comma probably should not appear.
 
@@ -427,6 +441,16 @@ Title IV of Public Law 107–42, referred to in subsecs. (c) and (e), is set out
 Section was formerly classified to [section 10602 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10602&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2021—Subsec. (a)(1). Pub. L. 117–27, § 2(b)(1)(A), substituted “75 percent” for “40 percent in fiscal year 2002 and of 60 percent in subsequent fiscal years”.
+
+Subsec. (a)(2). Pub. L. 117–27, § 2(b)(1)(B), struck out “of 40 percent in fiscal year 2002 and of 60 percent in subsequent fiscal years” after “to provide grants”.
+
+Subsec. (a)(3), (4). Pub. L. 117–27, § 2(b)(1)(C), (D), added par. (3) and redesignated former par. (3) as (4).
+
+Subsec. (b)(2). Pub. L. 117–27, § 2(b)(2), substituted “authorities, except if a program determines such cooperation may be impacted due to a victim’s age, physical condition, psychological state, cultural or linguistic barriers, or any other health or safety concern that jeopardizes the victim’s wellbeing;” for “authorities;”.
+
+Subsec. (d)(5). Pub. L. 117–27, § 2(b)(3), added par. (5).
+
 2006—Subsec. (a)(3). Pub. L. 109–162 inserted “training purposes and” after “may be used for”.
 
 2001—Subsec. (a)(1), (2). Pub. L. 107–56, § 622(a), inserted “in fiscal year 2002 and of 60 percent in subsequent fiscal years” after “40 percent”.
@@ -525,6 +549,20 @@ Pub. L. 104–132, title II, § 234(a)(2), Apr. 24, 1996, 110 Stat. 1245, provid
 
 (6) An agency of the Federal Government performing local law enforcement functions in and on behalf of the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, or any other territory or possession of the United States may qualify as an eligible crime victim assistance program for the purpose of grants under this subsection, or for the purpose of grants under subsection (c)(1).
 
+(7)
+
+  (A) Each chief executive may waive a matching requirement imposed by the Director, in accordance with subparagraph (B), as a condition for the receipt of funds under any program to provide assistance to victims of crimes authorized under this subchapter. The chief executive shall report to the Director the approval of any waiver of the matching requirement.
+
+  (B) Each chief executive shall establish and make public, a policy including—
+
+    (i) the manner in which an eligible crime victim assistance program can request a match waiver;
+
+    (ii) the criteria used to determine eligibility of the match waiver; and
+
+    (iii) the process for decision making and notifying the eligible crime victim assistance program of the decision.
+
+(8) Beginning on the date a national emergency is declared under the National Emergencies Act ([50 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) et seq.) with respect to a pandemic and ending on the date that is one year after the date of the end of such national emergency, each chief executive shall issue waivers for any matching requirement, in its entirety, for all eligible crime victim assistance programs contracted to provide services at that time.
+
 **(b) Eligibility of program; factors; limitation on expending of sums**
 
 (1) A victim assistance program is an eligible crime victim assistance program for the purposes of this section if such program—
@@ -620,12 +658,18 @@ Pub. L. 104–132, title II, § 234(a)(2), Apr. 24, 1996, 110 Stat. 1245, provid
 #### References in Text
 [Section 20101(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section20101/d/2&num=0&edition=prelim), referred to in subsec. (a)(1), was repealed and a new section 20101(d)(2) was added by Pub. L. 103–322, title XXIII, § 230201(a)(1), Sept. 13, 1994, 108 Stat. 2079. The new section 20101(d)(2) does not contain provisions relating to availability of Fund money for grants under this section or [section 20102 of this title](./chapter-201-victim-rights-compensation-and-assistance.md#section-20102). See [section 20101(d)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section20101/d/4&num=0&edition=prelim).
 
+The National Emergencies Act, referred to in subsec. (a)(8), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§ 1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) and Tables.
+
 This title, referred to in subsec. (c)(3)(D), means title II of Pub. L. 98–473, Oct. 12, 1984, 98 Stat. 1976, known as the Comprehensive Crime Control Act of 1984. For complete classification of title II to the Code, see Short Title of 1984 Amendment note set out under [section 1 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1&num=0&edition=prelim), Crimes and Criminal Procedure, and Tables.
 
 #### Codification
 Section was formerly classified to [section 10603 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10603&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
 
 #### Amendments
+2021—Subsec. (a)(7). Pub. L. 117–27, § 3(a), added par. (7).
+
+Subsec. (a)(8). Pub. L. 117–27, § 3(b), added par. (8).
+
 2016—Subsec. (c)(1)(A). Pub. L. 114–324 inserted “victim services,” before “demonstration projects”.
 
 2009—Subsec. (c)(3)(E)(i). Pub. L. 111–8 inserted “and for grants under subparagraphs (1)(A) and (B), pursuant to rules or guidelines that generally establish a publicly-announced, competitive process” after “internships”.

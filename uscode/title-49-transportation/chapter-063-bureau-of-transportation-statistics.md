@@ -100,19 +100,21 @@ Pub. L. 112–141, div. E, title II, § 52011(b), July 6, 2012, 126 Stat. 895, p
 
       (IV) economic efficiency across the entire transportation sector;
 
-      (V) the effects of the transportation system on global and domestic economic competitiveness;
+      (V) employment in the transportation sector;
 
-      (VI) demographic, economic, and other variables influencing travel behavior, including choice of transportation mode and goods movement;
+      (VI) the effects of the transportation system, including advanced technologies and automation, on global and domestic economic competitiveness;
 
-      (VII) transportation-related variables that influence the domestic economy and global competitiveness;
+      (VII) demographic, economic, and other variables influencing travel behavior, including choice of transportation mode and goods movement;
 
-      (VIII) economic costs and impacts for passenger travel and freight movement;
+      (VIII) transportation-related variables that influence the domestic economy and global competitiveness;
 
-      (IX) intermodal and multimodal passenger movement;
+      (IX) economic costs and impacts for passenger travel and freight movement;
 
-      (X) intermodal and multimodal freight movement; and
+      (X) intermodal and multimodal passenger movement;
 
-      (XI) consequences of transportation for the human and natural environment;
+      (XI) intermodal and multimodal freight movement; and
+
+      (XII) consequences of transportation for the human and natural environment;
 
     (vii) build and disseminate the transportation layer of the National Spatial Data Infrastructure developed under Executive Order 12906 (59 Fed. Reg. 17671) (or a successor Executive Order), including by coordinating the development of transportation geospatial data standards, compiling intermodal geospatial data, and collecting geospatial data that is not being collected by other entities;
 
@@ -154,6 +156,8 @@ Executive Order 12906, referred to in subsec. (b)(3)(B)(vii), is Ex. Ord. No. 12
 The Government Performance and Results Act of 1993, referred to in subsec. (b)(3)(B)(ix)(I), is Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted [section 306 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section306&num=0&edition=prelim), Government Organization and Employees, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service, amended [section 1105 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under [section 1101 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1101&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2021—Subsec. (b)(3)(B)(vi)(V) to (XII). Pub. L. 117–58 added subcls. (V) and (VI), redesignated former subcls. (VI) to (XI) as (VII) to (XII), respectively, and struck out former subcl. (V) which read as follows: “the effects of the transportation system on global and domestic economic competitiveness;”.
+
 2019—Subsec. (d)(4). Pub. L. 115–435 substituted “[section 3572 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3572&num=0&edition=prelim).” for “the Confidential Information Protection and Statistical Efficiency Act of 2002 ([44 U.S.C. 3501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3501&num=0&edition=prelim) note; Public Law 107–347).”
 
 2015—Subsec. (a). Pub. L. 114–94, § 6011(d)(2), added subsec. (a) and struck out former subsec. (a) which related to establishment of the Bureau of Transportation Statistics.
@@ -173,6 +177,9 @@ Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out a
 
 #### Transitional and Savings Provisions
 For transitional and savings provisions related to the amendment of this section and other provisions of law by title III of Pub. L. 115–435, see section 302(d) of Pub. L. 115–435, set out as a note under [section 3561 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3561&num=0&edition=prelim), Public Printing and Documents.
+
+#### Federal Support for Local Decisionmaking
+Pub. L. 117–58, div. B, title V, § 25003, Nov. 15, 2021, 135 Stat. 838, provided that: “(a) Local Outreach.—To determine the data analysis tools needed to assist local communities in making infrastructure decisions, the Director of the Bureau of Transportation Statistics shall perform outreach to planning and infrastructure decision-making officials in units of local government and other units of government, including a geographically diverse group of individuals from—“(1) States; “(2) political subdivisions of States; “(3) cities; “(4) metropolitan planning organizations; “(5) regional transportation planning organizations; and “(6) federally recognized Indian Tribes. “(b) Work Plan.—“(1) In general.—Not later than 1 year after the date of enactment of this Act [Nov. 15, 2021], based on the outreach performed under subsection (a), the Director of the Bureau of Transportation Statistics shall submit to the Secretary [of Transportation] a work plan for reviewing and updating existing data analysis tools and developing any additional data analysis tools needed to assist local communities with making infrastructure investment decisions. “(2) Contents.—Based on the needs identified pursuant to the outreach performed under subsection (a), the work plan submitted under paragraph (1) shall include—“(A) a description of the data analysis tools identified that would benefit infrastructure decision-making by local governments and address the goals described in subsection (c); “(B) a review of the datasets that local governments need to effectively use the data analysis tools described in subparagraph (A); “(C) an identification of existing or proposed data analysis tools that use publicly available data; “(D) the estimated cost of obtaining each dataset described in subparagraph (B); “(E) the estimated cost to develop the data analysis tools described in subparagraph (A); “(F) a prioritization for the development of data analysis tools described in subparagraph (A); and “(G) a determination as to whether it would be appropriate for the Federal Government to develop the data analysis tools described in subparagraph (A). “(c) Goals.—“(1) In general.—A data analysis tool created pursuant to the work plan submitted under subsection (b)(1) shall be developed to help inform local communities in making infrastructure investments. “(2) Specific issues.—A data analysis tool created pursuant to the work plan submitted under subsection (b)(1) shall be intended to help units of local government and other units of government address 1 or more of the following:“(A) Improving maintenance of existing assets. “(B) Rebuilding infrastructure to a state of good repair. “(C) Creating economic development through infrastructure development. “(D) Establishing freight plans and infrastructure that connects the community to supply chains. “(E) Increasing options for communities that lack access to affordable transportation to improve access to jobs, affordable housing, schools, medical services, foods and other essential community services. “(F) Reducing congestion. “(G) Improving community resilience to extreme weather events. “(H) Any other subject, as the Director determines to be necessary. “(d) Implementation.—Subject to the availability of appropriations, the Secretary shall develop data analysis tools and purchase datasets as prioritized in the work plan. “(e) Coordination.—The Director of the Bureau of Transportation Statistics may utilize existing working groups or advisory committees to perform the local outreach required under subsection (a).”
 
 #### Office of Airline Information
 Pub. L. 106–181, title I, § 103(b), Apr. 5, 2000, 114 Stat. 67, provided that: “There is authorized to be appropriated from the Airport and Airway Trust Fund to the Secretary [of Transportation] $4,000,000 for fiscal years beginning after September 30, 2000, to fund the activities of the Office of Airline Information in the Bureau of Transportation Statistics of the Department of Transportation.”

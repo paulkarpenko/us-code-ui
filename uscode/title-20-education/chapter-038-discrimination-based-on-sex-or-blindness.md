@@ -71,11 +71,40 @@ Pub. L. 107–255, Oct. 29, 2002, 116 Stat. 1734, provided “That title IX of t
 #### Transfer of Functions
 “Secretary” substituted for “Commissioner” in subsec. (a)(2) pursuant to sections 301(a)(1) and 507 of Pub. L. 96–88, which are classified to sections 3441(a)(1) and 3507 of this title and which transferred functions of Commissioner of Education to Secretary of Education.
 
+#### Regulations; Nature of Particular Sports: Intercollegiate Athletic Activities
+Pub. L. 93–380, title VIII, § 844, Aug. 21, 1974, 88 Stat. 612, directed Secretary to prepare and publish, not more than 30 days after Aug. 21, 1974, proposed regulations implementing the provisions of this chapter regarding prohibition of sex discrimination in federally assisted programs, including reasonable regulations for intercollegiate athletic activities considering the nature of the particular sports.
+
 #### Coordination of Implementation and Enforcement of Provisions
 For provisions relating to the coordination of implementation and enforcement of the provisions of this chapter by the Attorney General, see section 1–201(b) of Ex. Ord. No. 12250, Nov. 2, 1980, 45 F.R. 72995, set out under [section 2000d–1 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000d–1&num=0&edition=prelim), The Public Health and Welfare.
 
-#### Regulations; Nature of Particular Sports: Intercollegiate Athletic Activities
-Pub. L. 93–380, title VIII, § 844, Aug. 21, 1974, 88 Stat. 612, directed Secretary to prepare and publish, not more than 30 days after Aug. 21, 1974, proposed regulations implementing the provisions of this chapter regarding prohibition of sex discrimination in federally assisted programs, including reasonable regulations for intercollegiate athletic activities considering the nature of the particular sports.
+#### Ex. Ord. No. 14021. Guaranteeing an Educational Environment Free From Discrimination on the Basis of Sex, Including Sexual Orientation or Gender Identity
+Ex. Ord. No. 14021, Mar. 8, 2021, 86 F.R. 13803, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. Policy. It is the policy of my Administration that all students should be guaranteed an educational environment free from discrimination on the basis of sex, including discrimination in the form of sexual harassment, which encompasses sexual violence, and including discrimination on the basis of sexual orientation or gender identity. For students attending schools and other educational institutions that receive Federal financial assistance, this guarantee is codified, in part, in Title IX of the Education Amendments of 1972, [20 U.S.C. 1681](./chapter-038-discrimination-based-on-sex-or-blindness.md#section-1681) et seq., which prohibits discrimination on the basis of sex in education programs or activities receiving Federal financial assistance.
+
+Sec. 2. Review of Agency Actions. (a) Within 100 days of the date of this order [Mar. 8, 2021], the Secretary of Education, in consultation with the Attorney General, shall review all existing regulations, orders, guidance documents, policies, and any other similar agency actions (collectively, agency actions) that are or may be inconsistent with the policy set forth in section 1 of this order, and provide the findings of this review to the Director of the Office of Management and Budget.
+
+(i) As part of the review required under subsection (a) of this section, the Secretary of Education shall review the rule entitled “Nondiscrimination on the Basis of Sex in Education Programs or Activities Receiving Federal Financial Assistance,” 85 FR 30026 (May 19, 2020), and any other agency actions taken pursuant to that rule, for consistency with governing law, including Title IX, and with the policy set forth in section 1 of this order.
+
+(ii) As soon as practicable, and as appropriate and consistent with applicable law, the Secretary of Education shall review existing guidance and issue new guidance as needed on the implementation of the rule described in subsection (a)(i) of this section, for consistency with governing law, including Title IX, and with the policy set forth in section 1 of this order.
+
+(iii) The Secretary of Education shall consider suspending, revising, or rescinding—or publishing for notice and comment proposed rules suspending, revising, or rescinding—those agency actions that are inconsistent with the policy set forth in section 1 of this order as soon as practicable and as appropriate and consistent with applicable law, and may issue such requests for information as would facilitate doing so.
+
+(b) The Secretary of Education shall consider taking additional enforcement actions, as appropriate and consistent with applicable law, to enforce the policy set forth in section 1 of this order as well as legal prohibitions on sex discrimination in the form of sexual harassment, which encompasses sexual violence, to the fullest extent permissible under law; to account for intersecting forms of prohibited discrimination that can affect the availability of resources and support for students who have experienced sex discrimination, including discrimination on the basis of race, disability, and national origin; to account for the significant rates at which students who identify as lesbian, gay, bisexual, transgender, and queer (LGBTQ+) are subject to sexual harassment, which encompasses sexual violence; to ensure that educational institutions are providing appropriate support for students who have experienced sex discrimination; and to ensure that their school procedures are fair and equitable for all.
+
+Sec. 3. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+J.R. Biden, Jr.
 
 
 <a id="section-1682"></a>

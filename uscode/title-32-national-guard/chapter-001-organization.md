@@ -753,7 +753,7 @@ Pub. L. 109–469, title IX, § 901, Dec. 29, 2006, 120 Stat. 3536, as amended b
 
   (A) the activity is carried out in the performance of a responsibility of the Secretary of the Army under paragraph (6), (10), or (11) of [section 7013(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7013/b&num=0&edition=prelim); and
 
-  (B) the Army National Guard was selected to perform the activity under competitive procedures that permit all qualified public-sector and private-sector sources to submit offers and be considered for selection to perform the activity on the basis of the offers, subject to the exceptions provided in [section 2304(c) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304/c&num=0&edition=prelim).
+  (B) the Army National Guard was selected to perform the activity under competitive procedures that permit all qualified public-sector and private-sector sources to submit offers and be considered for selection to perform the activity on the basis of the offers, subject to the exceptions provided in [section 3204(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3204/a&num=0&edition=prelim).
 
 (2) Paragraph (1)(B) does not apply to an activity that, on October 17, 1998, was performed for the Federal Government by employees of the Federal Government or employees of a State.
 
@@ -764,6 +764,8 @@ Pub. L. 109–469, title IX, § 901, Dec. 29, 2006, 120 Stat. 3536, as amended b
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (b)(1)(B). Pub. L. 117–81 substituted “section 3204(a)” for “section 2304(c)”.
+
 2018—Subsec. (b)(1)(A). Pub. L. 115–232 substituted “[section 7013(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7013/b&num=0&edition=prelim)” for “[section 3013(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3013/b&num=0&edition=prelim)”.
 
 2004—Subsec. (b)(1)(B). Pub. L. 108–375 inserted before period at end “, subject to the exceptions provided in [section 2304(c) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304/c&num=0&edition=prelim)”.
@@ -794,7 +796,7 @@ Subject to such regulations and restrictions as may be prescribed by the Secreta
 
 <a id="section-115"></a>
 ## § 115. Funeral honors duty performed as a Federal function
-**(a) Order to Duty.—** A member of the Army National Guard of the United States or the Air National Guard of the United States may be ordered to funeral honors duty, with the consent of the member, to prepare for or perform funeral honors functions at the funeral of a veteran under [section 1491 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1491&num=0&edition=prelim). However, a member of the Army National Guard of the United States or the Air National Guard of the United States may not be ordered to perform funeral honors functions under this section without the consent of the Governor or other appropriate authority of the State concerned. Performance of funeral honors duty by such a member not on active duty or full-time National Guard duty shall be treated as inactive-duty training (including with respect to travel to and from such duty) for purposes of any provision of law other than sections 206 and 495 of title 37.
+**(a) Order to Duty.—** A member of the Army National Guard of the United States or the Air National Guard of the United States may be ordered to funeral honors duty, with the consent of the member, to prepare for or perform funeral honors functions at the funeral of a veteran under [section 1491 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1491&num=0&edition=prelim). However, a member of the Army National Guard of the United States or the Air National Guard of the United States may not be ordered to perform funeral honors functions under this section without the consent of the Governor or other appropriate authority of the State concerned. Performance of funeral honors duty by such a member not on active duty or full-time National Guard duty shall be treated as inactive-duty training (including with respect to travel to and from such duty) for purposes of any provision of law other than sections 206 and 495 11 See References in Text note below. of title 37.
 
 **(b) Service Credit.—** A member ordered to funeral honors duty under this section shall be required to perform a minimum of two hours of such duty in order to receive—
 
@@ -802,7 +804,7 @@ Subject to such regulations and restrictions as may be prescribed by the Secreta
 
 (2) as directed by the Secretary concerned, either—
 
-  (A) the allowance under [section 495 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section495&num=0&edition=prelim); or
+  (A) the allowance under section 495 1 of title 37; or
 
   (B) compensation under [section 206 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section206&num=0&edition=prelim).
 
@@ -811,6 +813,9 @@ Subject to such regulations and restrictions as may be prescribed by the Secreta
 **(d) Regulations.—** The exercise of authority under subsection (a) is subject to regulations prescribed by the Secretary of Defense.
 
 ### Statutory Notes
+
+#### References in Text
+[Section 495 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section495&num=0&edition=prelim), referred to in subsecs. (a) and (b)(2)(A), was renumbered [section 435 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section435&num=0&edition=prelim) by Pub. L. 116–283, div. A, title VI, § 604(b)(1), Jan. 1, 2021, 134 Stat. 3672.
 
 #### Amendments
 2013—Subsecs. (a), (b)(2)(A). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.

@@ -2,7 +2,7 @@
 title: 26
 chapter: '21'
 heading: FEDERAL INSURANCE CONTRIBUTIONS ACT
-section_count: 13
+section_count: 17
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26&num=0&edition=prelim
 ---
@@ -525,7 +525,7 @@ Pub. L. 116–136, div. A, title II, § 2302, Mar. 27, 2020, 134 Stat. 351, as a
 [Pub. L. 116–142, § 4(b), June 5, 2020, 134 Stat. 643, provided that: “The amendments made by this section [amending section 2302 of Pub. L. 116–136, set out above] shall be effective as if included in the CARES Act (Public Law 116–136) and shall apply to any loan made pursuant to section 7(a)(36) of the Small Business Act ([15 U.S.C. 636(a)(36)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/a/36&num=0&edition=prelim)) or section 1109 of the CARES Act [[15 U.S.C. 9008](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9008&num=0&edition=prelim)].” ]
 
 #### Payroll Credit for Required Paid Sick Leave
-Pub. L. 116–127, div. G, § 7001, Mar. 18, 2020, 134 Stat. 210, as amended by Pub. L. 116–136, div. A, title III, § 3606(a), Mar. 27, 2020, 134 Stat. 411; Pub. L. 116–260, div. N, title II, §§ 286(a), (b)(1), 288(a)–(c), div. EE, title III, § 303(d)(3)(C)(i), Dec. 27, 2020, 134 Stat. 1989, 1990, 1992, 3076, provided that: “(a) In General.—In the case of an employer, there shall be allowed as a credit against the tax imposed by section 3111(a) or 3221(a) of the Internal Revenue Code of 1986 for each calendar quarter an amount equal to 100 percent of the qualified sick leave wages paid by such employer with respect to such calendar quarter. “(b) Limitations and Refundability.—“(1) Wages taken into account.—The amount of qualified sick leave wages taken into account under subsection (a) with respect to any individual shall not exceed $200 ($511 in the case of any day any portion of which is paid sick time described in paragraph (1), (2), or (3) of section 5102(a) of the Emergency Paid Sick Leave Act [div. E of Pub. L. 116–127, [29 U.S.C. 2601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2601&num=0&edition=prelim) note]) for any day (or portion thereof) for which the individual is paid qualified sick leave wages. “(2) Overall limitation on number of days taken into account.—The aggregate number of days taken into account under paragraph (1) for any calendar quarter shall not exceed the excess (if any) of—“(A) 10, over “(B) the aggregate number of days so taken into account for all preceding calendar quarters. “(3) Credit limited to certain employment taxes.—The credit allowed by subsection (a) with respect to any calendar quarter shall not exceed the tax imposed by section 3111(a) or 3221(a) of such Code for such calendar quarter (reduced by any credits allowed under subsections (e) and (f) of section 3111 of such Code, and section 303(d) of the Taxpayer Certainty and Disaster Tax Relief Act of 2020 [div. EE of Pub. L. 116–260, 134 Stat. 3076, in part amending this note and provisions set out as notes under this section; see Tables for classification], for such quarter) on the wages paid with respect to the employment of all employees of the employer. “(4) Refundability of excess credit.—“(A)(i) Credit is refundable.—If the amount of the credit under subsection (a) exceeds the limitation of paragraph (3) for any calendar quarter, such excess shall be treated as an overpayment that shall be refunded under sections 6402(a) and 6413(b) of such Code. “(ii) Advancing credit.—In anticipation of the credit, including the refundable portion under clause (i), the credit may be advanced, according to forms and instructions provided by the Secretary, up to an amount calculated under subsection (a), subject to the limits under subsection (b), both calculated through the end of the most recent payroll period in the quarter. “(B) Treatment of payments.—For purposes of [section 1324 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1324&num=0&edition=prelim), United States Code, any amounts due to an employer under this paragraph shall be treated in the same manner as a refund due from a credit provision referred to in subsection (b)(2) of such section. “(c) Qualified Sick Leave Wages.—For purposes of this section, the term ‘qualified sick leave wages’ means wages (as defined in section 3121(a) of the Internal Revenue Code of 1986, determined without regard to paragraphs (1) through (22) of section 3121(b) of such Code and section 7005(a) of this Act [set out below],) [sic] and compensation (as defined in section 3231(e) of the Internal Revenue Code [of 1986], determined without regard to the sentence in paragraph (1) thereof which begins ‘Such term does not include remuneration’ and without regard to section 7005(a) of this Act) paid by an employer—“(1) which are required to be paid by reason of the Emergency Paid Sick Leave Act [div. E (§ 5101 et seq.) of Pub. L. 116–127, [29 U.S.C. 2601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2601&num=0&edition=prelim) note], or “(2) both—“(A) which would be so required to be paid if such Act were applied—“(i) by substituting ‘March 31, 2021’ for ‘December 31, 2020’ in section 5109 thereof, and “(ii) without regard to section 5102(b)(3) thereof, and “(B) with respect to which all requirements of such Act (other than subsections (a) and (b) of section 5105 thereof, and determined by substituting ‘To be compliant with section 5102, an employer may not’ for ‘It shall be unlawful for any employer to’ in section 5104 thereof) which would apply if so required are satisfied. “(d) Allowance of Credit for Certain Health Plan Expenses.—“(1) In general.—The amount of the credit allowed under subsection (a) shall be increased by so much of the employer’s qualified health plan expenses as are properly allocable to the qualified sick leave wages for which such credit is so allowed. “(2) Qualified health plan expenses.—For purposes of this subsection, the term ‘qualified health plan expenses’ means amounts paid or incurred by the employer to provide and maintain a group health plan (as defined in section 5000(b)(1) of the Internal Revenue Code of 1986), but only to the extent that such amounts are excluded from the gross income of employees by reason of section 106(a) of such Code. “(3) Allocation rules.—For purposes of this section, qualified health plan expenses shall be allocated to qualified sick leave wages in such manner as the Secretary of the Treasury (or the Secretary’s delegate) may prescribe. Except as otherwise provided by the Secretary, such allocation shall be treated as properly made if made on the basis of being pro rata among covered employees and pro rata on the basis of periods of coverage (relative to the time periods of leave to which such wages relate). “(e) Special Rules.—“(1) Denial of double benefit.—For purposes of chapter 1 of such Code, the gross income of the employer, for the taxable year which includes the last day of any calendar quarter with respect to which a credit is allowed under this section, shall be increased by the amount of such credit. Any wages taken into account in determining the credit allowed under this section shall not be taken into account for purposes of determining the credit allowed under section 45S of such Code. “(2) Election not to have section apply.—This section shall not apply with respect to any employer for any calendar quarter if such employer elects (at such time and in such manner as the Secretary of the Treasury (or the Secretary’s delegate) may prescribe) not to have this section apply. “(3) Certain terms.—Except as otherwise provided in this section, any term used in this section which is also used in chapter 21 of such Code shall have the same meaning as when used in such chapter. “(4) Certain governmental employers.—This credit shall not apply to the Government of the United States, the government of any State or political subdivision thereof, or any agency or instrumentality of any of the foregoing. “(4)[(5)] References to railroad retirement tax.—Any reference in this section to the tax imposed by section 3221(a) of the Internal Revenue Code of 1986 shall be treated as a reference to so much of such tax as is attributable to the rate in effect under section 3111(a) of such Code. “(f) Regulations.—The Secretary of the Treasury (or the Secretary’s delegate) shall prescribe such regulations or other guidance as may be necessary to carry out the purposes of this section, including—“(1) regulations or other guidance to prevent the avoidance of the purposes of the limitations under this section, “(2) regulations or other guidance to minimize compliance and record-keeping burdens under this section, “(3) regulations or other guidance providing for waiver of penalties for failure to deposit amounts in anticipation of the allowance of the credit allowed under this section, “(4) regulations or other guidance for recapturing the benefit of credits determined under this section in cases where there is a subsequent adjustment to the credit determined under subsection (a), “(5) regulations or other guidance to ensure that the wages taken into account under this section conform with the paid sick time required to be provided under the Emergency Paid Sick Leave Act, and “(6) regulations or other guidance to permit the advancement of the credit determined under subsection (a). “(g) Application of Section.—This section shall apply only to wages paid with respect to the period beginning on a date selected by the Secretary of the Treasury (or the Secretary’s delegate) which is during the 15-day period beginning on the date of the enactment of this Act [Mar. 18, 2020], and ending on March 31, 2021. “(h) Transfers to Federal Old-Age and Survivors Insurance Trust Fund.—There are hereby appropriated to the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund established under section 201 of the Social Security Act ([42 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim)) and the Social Security Equivalent Benefit Account established under section 15A(a) of the Railroad Retirement Act of 1974 ([45 U.S.C. 231n–1(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231n–1/a&num=0&edition=prelim)) amounts equal to the reduction in revenues to the Treasury by reason of this section (without regard to this subsection). Amounts appropriated by the preceding sentence shall be transferred from the general fund at such times and in such manner as to replicate to the extent possible the transfers which would have occurred to such Trust Fund or Account had this section not been enacted. “(i) Treatment of Deposits.—The Secretary of the Treasury (or the Secretary’s delegate) shall waive any penalty under section 6656 of the Internal Revenue Code of 1986 for any failure to make a deposit of the tax imposed by section 3111(a) or 3221(a) of such Code if the Secretary determines that such failure was due to the anticipation of the credit allowed under this section.”
+Pub. L. 116–127, div. G, § 7001, Mar. 18, 2020, 134 Stat. 210, as amended by Pub. L. 116–136, div. A, title III, § 3606(a), Mar. 27, 2020, 134 Stat. 411; Pub. L. 116–260, div. N, title II, §§ 286(a), (b)(1), 288(a)–(c), div. EE, title III, § 303(d)(3)(C)(i), Dec. 27, 2020, 134 Stat. 1989, 1990, 1992, 3076, provided that: “(a) In General.—In the case of an employer, there shall be allowed as a credit against the tax imposed by section 3111(a) or 3221(a) of the Internal Revenue Code of 1986 for each calendar quarter an amount equal to 100 percent of the qualified sick leave wages paid by such employer with respect to such calendar quarter. “(b) Limitations and Refundability.—“(1) Wages taken into account.—The amount of qualified sick leave wages taken into account under subsection (a) with respect to any individual shall not exceed $200 ($511 in the case of any day any portion of which is paid sick time described in paragraph (1), (2), or (3) of section 5102(a) of the Emergency Paid Sick Leave Act [div. E of Pub. L. 116–127, [29 U.S.C. 2601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2601&num=0&edition=prelim) note]) for any day (or portion thereof) for which the individual is paid qualified sick leave wages. “(2) Overall limitation on number of days taken into account.—The aggregate number of days taken into account under paragraph (1) for any calendar quarter shall not exceed the excess (if any) of—“(A) 10, over “(B) the aggregate number of days so taken into account for all preceding calendar quarters. “(3) Credit limited to certain employment taxes.—The credit allowed by subsection (a) with respect to any calendar quarter shall not exceed the tax imposed by section 3111(a) or 3221(a) of such Code for such calendar quarter (reduced by any credits allowed under subsections (e) and (f) of section 3111 of such Code, and section 303(d) of the Taxpayer Certainty and Disaster Tax Relief Act of 2020 [div. EE of Pub. L. 116–260, 134 Stat. 3076, in part amending this note and provisions set out as notes under this section; see Tables for classification], for such quarter) on the wages paid with respect to the employment of all employees of the employer. “(4) Refundability of excess credit.—“(A)(i) Credit is refundable.—If the amount of the credit under subsection (a) exceeds the limitation of paragraph (3) for any calendar quarter, such excess shall be treated as an overpayment that shall be refunded under sections 6402(a) and 6413(b) of such Code. “(ii) Advancing credit.—In anticipation of the credit, including the refundable portion under clause (i), the credit may be advanced, according to forms and instructions provided by the Secretary, up to an amount calculated under subsection (a), subject to the limits under subsection (b), both calculated through the end of the most recent payroll period in the quarter. “(B) Treatment of payments.—For purposes of [section 1324 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1324&num=0&edition=prelim), United States Code, any amounts due to an employer under this paragraph shall be treated in the same manner as a refund due from a credit provision referred to in subsection (b)(2) of such section. “(c) Qualified Sick Leave Wages.—For purposes of this section, the term ‘qualified sick leave wages’ means wages (as defined in section 3121(a) of the Internal Revenue Code of 1986, determined without regard to paragraphs (1) through (22) of section 3121(b) of such Code and section 7005(a) of this Act [set out below],) [sic] and compensation (as defined in section 3231(e) of the Internal Revenue Code [of 1986], determined without regard to the sentence in paragraph (1) thereof which begins ‘Such term does not include remuneration’ and without regard to section 7005(a) of this Act) paid by an employer—“(1) which are required to be paid by reason of the Emergency Paid Sick Leave Act [div. E (§ 5101 et seq.) of Pub. L. 116–127, [29 U.S.C. 2601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2601&num=0&edition=prelim) note], or “(2) both—“(A) which would be so required to be paid if such Act were applied—“(i) by substituting ‘March 31, 2021’ for ‘December 31, 2020’ in section 5109 thereof, and “(ii) without regard to section 5102(b)(3) thereof, and “(B) with respect to which all requirements of such Act (other than subsections (a) and (b) of section 5105 thereof, and determined by substituting ‘To be compliant with section 5102, an employer may not’ for ‘It shall be unlawful for any employer to’ in section 5104 thereof) which would apply if so required are satisfied. “(d) Allowance of Credit for Certain Health Plan Expenses.—“(1) In general.—The amount of the credit allowed under subsection (a) shall be increased by so much of the employer’s qualified health plan expenses as are properly allocable to the qualified sick leave wages for which such credit is so allowed. “(2) Qualified health plan expenses.—For purposes of this subsection, the term ‘qualified health plan expenses’ means amounts paid or incurred by the employer to provide and maintain a group health plan (as defined in section 5000(b)(1) of the Internal Revenue Code of 1986), but only to the extent that such amounts are excluded from the gross income of employees by reason of section 106(a) of such Code. “(3) Allocation rules.—For purposes of this section, qualified health plan expenses shall be allocated to qualified sick leave wages in such manner as the Secretary of the Treasury (or the Secretary’s delegate) may prescribe. Except as otherwise provided by the Secretary, such allocation shall be treated as properly made if made on the basis of being pro rata among covered employees and pro rata on the basis of periods of coverage (relative to the time periods of leave to which such wages relate). “(e) Special Rules.—“(1) Denial of double benefit.—For purposes of chapter 1 of such Code, the gross income of the employer, for the taxable year which includes the last day of any calendar quarter with respect to which a credit is allowed under this section, shall be increased by the amount of such credit. Any wages taken into account in determining the credit allowed under this section shall not be taken into account for purposes of determining the credit allowed under section 45S of such Code. “(2) Election not to have section apply.—This section shall not apply with respect to any employer for any calendar quarter if such employer elects (at such time and in such manner as the Secretary of the Treasury (or the Secretary’s delegate) may prescribe) not to have this section apply. “(3) Certain terms.—Except as otherwise provided in this section, any term used in this section which is also used in chapter 21 of such Code shall have the same meaning as when used in such chapter. “(4) Certain governmental employers.—This credit shall not apply to the Government of the United States, the government of any State or political subdivision thereof, or any agency or instrumentality of any of the foregoing. “(4) [(5)] References to railroad retirement tax.—Any reference in this section to the tax imposed by section 3221(a) of the Internal Revenue Code of 1986 shall be treated as a reference to so much of such tax as is attributable to the rate in effect under section 3111(a) of such Code. “(f) Regulations.—The Secretary of the Treasury (or the Secretary’s delegate) shall prescribe such regulations or other guidance as may be necessary to carry out the purposes of this section, including—“(1) regulations or other guidance to prevent the avoidance of the purposes of the limitations under this section, “(2) regulations or other guidance to minimize compliance and record-keeping burdens under this section, “(3) regulations or other guidance providing for waiver of penalties for failure to deposit amounts in anticipation of the allowance of the credit allowed under this section, “(4) regulations or other guidance for recapturing the benefit of credits determined under this section in cases where there is a subsequent adjustment to the credit determined under subsection (a), “(5) regulations or other guidance to ensure that the wages taken into account under this section conform with the paid sick time required to be provided under the Emergency Paid Sick Leave Act, and “(6) regulations or other guidance to permit the advancement of the credit determined under subsection (a). “(g) Application of Section.—This section shall apply only to wages paid with respect to the period beginning on a date selected by the Secretary of the Treasury (or the Secretary’s delegate) which is during the 15-day period beginning on the date of the enactment of this Act [Mar. 18, 2020], and ending on March 31, 2021. “(h) Transfers to Federal Old-Age and Survivors Insurance Trust Fund.—There are hereby appropriated to the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund established under section 201 of the Social Security Act ([42 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim)) and the Social Security Equivalent Benefit Account established under section 15A(a) of the Railroad Retirement Act of 1974 ([45 U.S.C. 231n–1(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231n–1/a&num=0&edition=prelim)) amounts equal to the reduction in revenues to the Treasury by reason of this section (without regard to this subsection). Amounts appropriated by the preceding sentence shall be transferred from the general fund at such times and in such manner as to replicate to the extent possible the transfers which would have occurred to such Trust Fund or Account had this section not been enacted. “(i) Treatment of Deposits.—The Secretary of the Treasury (or the Secretary’s delegate) shall waive any penalty under section 6656 of the Internal Revenue Code of 1986 for any failure to make a deposit of the tax imposed by section 3111(a) or 3221(a) of such Code if the Secretary determines that such failure was due to the anticipation of the credit allowed under this section.”
 
 [Pub. L. 116–260, div. N, title II, § 288(f), Dec. 27, 2020, 134 Stat. 1993, provided that: “The amendments made by this section [amending section 7001 of Pub. L. 116–127, set out above, and sections 7003 and 7005 of Pub. L. 116–127, set out below] shall take effect as if included in the provisions of the Families First Coronavirus Response Act [Pub. L. 116–127] to which they relate.” ]
 
@@ -535,7 +535,7 @@ Pub. L. 116–127, div. G, § 7003, Mar. 18, 2020, 134 Stat. 214, as amended by 
 [Pub. L. 116–260, div. N, § 288(a)(1)(A), which directed amendment of section 7003(c) of Pub. L. 116–127, set out above, by inserting “, determined without regard to paragraphs (1) through (22) of section 3121(b) of such Code” after “as defined in section 3121(a) of the Internal Revenue Code of 1986”, was executed by making the insertion after “as defined in section 3121(a) of such Code” to reflect the probable intent of Congress.]
 
 #### Special Rule Related to Tax on Employers
-Pub. L. 116–127, div. G, § 7005, Mar. 18, 2020, 134 Stat. 219, as amended by Pub. L. 116–260, div. N, §§ 286(b)(5), 288(d), (e), Dec. 27, 2020, 134 Stat. 1991, 1992, provided that: “(a) In General.—Any wages required to be paid by reason of the Emergency Paid Sick Leave Act [div. E of Pub. L. 116–127, [29 U.S.C. 2601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2601&num=0&edition=prelim) note] and the Emergency Family and Medical Leave Expansion Act [div. C of Pub. L. 116–127, see Short Title of 2020 Amendment note set out under [section 2601 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2601&num=0&edition=prelim), Labor] (or, in the case of wages paid after December 31, 2020, and before April 1, 2021, with respect to which a credit is allowed under section 7001 [set out above] or 7003 [set out above]) shall not be considered wages for purposes of section 3111(a) of the Internal Revenue Code of 1986 or compensation for purposes of section 3221(a) of such Code. Any reference in this subsection to the tax imposed by section 3221(a) of such Code shall be treated as a reference to so much of the tax as is attributable to the rate in effect under section 3111(a) of such Code. “(b) Allowance of Credit for Hospital Insurance Taxes.—“(1) In general.—The credit allowed by section 7001 and the credit allowed by section 7003 shall each be increased by the amount of the tax imposed by section 3111(b) of the Internal Revenue Code of 1986 and so much of the taxes imposed under section 3221(a) of such Code as are attributable to the rate in effect under section 3111(b) of such Code on qualified sick leave wages, or qualified family leave wages, for which credit is allowed under such section 7001 or 7003 (respectively). “(2) Denial of double benefit.—For denial of double benefit with respect to the credit increase under paragraph (1), see sections 7001(e)(1) and 7003(e)(1). “(c) Transfers to Federal Old-Age and Survivors Insurance Trust Fund.—There are hereby appropriated to the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund established under section 201 of the Social Security Act ([42 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim)) and the Social Security Equivalent Benefit Account established under section 15A(a) of the Railroad Retirement Act of 1974 ([45 U.S.C. 231n–1(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231n–1/a&num=0&edition=prelim)) amounts equal to the reduction in revenues to the Treasury by reason of this section (without regard to this subsection). Amounts appropriated by the preceding sentence shall be transferred from the general fund at such times and in such manner as to replicate to the extent possible the transfers which would have occurred to such Trust Fund or Account had this section not been enacted.”
+Pub. L. 116–127, div. G, § 7005, Mar. 18, 2020, 134 Stat. 219, as amended by Pub. L. 116–260, div. N, title II, §§ 286(b)(5), 288(d), (e), Dec. 27, 2020, 134 Stat. 1991, 1992, provided that: “(a) In General.—Any wages required to be paid by reason of the Emergency Paid Sick Leave Act [div. E of Pub. L. 116–127, [29 U.S.C. 2601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2601&num=0&edition=prelim) note] and the Emergency Family and Medical Leave Expansion Act [div. C of Pub. L. 116–127, see Short Title of 2020 Amendment note set out under [section 2601 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2601&num=0&edition=prelim), Labor] (or, in the case of wages paid after December 31, 2020, and before April 1, 2021, with respect to which a credit is allowed under section 7001 [set out above] or 7003 [set out above]) shall not be considered wages for purposes of section 3111(a) of the Internal Revenue Code of 1986 or compensation for purposes of section 3221(a) of such Code. Any reference in this subsection to the tax imposed by section 3221(a) of such Code shall be treated as a reference to so much of the tax as is attributable to the rate in effect under section 3111(a) of such Code. “(b) Allowance of Credit for Hospital Insurance Taxes.—“(1) In general.—The credit allowed by section 7001 and the credit allowed by section 7003 shall each be increased by the amount of the tax imposed by section 3111(b) of the Internal Revenue Code of 1986 and so much of the taxes imposed under section 3221(a) of such Code as are attributable to the rate in effect under section 3111(b) of such Code on qualified sick leave wages, or qualified family leave wages, for which credit is allowed under such section 7001 or 7003 (respectively). “(2) Denial of double benefit.—For denial of double benefit with respect to the credit increase under paragraph (1), see sections 7001(e)(1) and 7003(e)(1). “(c) Transfers to Federal Old-Age and Survivors Insurance Trust Fund.—There are hereby appropriated to the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund established under section 201 of the Social Security Act ([42 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim)) and the Social Security Equivalent Benefit Account established under section 15A(a) of the Railroad Retirement Act of 1974 ([45 U.S.C. 231n–1(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231n–1/a&num=0&edition=prelim)) amounts equal to the reduction in revenues to the Treasury by reason of this section (without regard to this subsection). Amounts appropriated by the preceding sentence shall be transferred from the general fund at such times and in such manner as to replicate to the extent possible the transfers which would have occurred to such Trust Fund or Account had this section not been enacted.”
 
 
 <a id="section-3112"></a>
@@ -1235,7 +1235,7 @@ Chapter 9 of the Internal Revenue Code of 1939, referred to in subsec. (j)(4)(B)
 The Military Selective Service Act, referred to in subsec. (n)(5)(B), is act June 24, 1948, ch. 625, 62 Stat. 604, which is classified principally to chapter 49 (§ 3801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
 #### Constitutionality
-For information regarding constitutionality of certain provisions of section 3121 of act Aug. 16, 1954, as amended by section 101(b)(1) of Pub. L. 98–21, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For information regarding constitutionality of certain provisions of this section, see note under [section 410 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section410&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Amendments
 2019—Subsec. (a)(23). Pub. L. 116–94 substituted “section 139B(a)” for “139B(b)”.
@@ -1785,7 +1785,7 @@ Subsec. (l). Act Sept. 1, 1954, § 209, added subsec. (l).
 #### Change of Name
 “United States magistrate judge” substituted for “United States magistrate” in subsec. (b)(5)(E) pursuant to section 321 of Pub. L. 101–650, set out as a note under [section 631 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section631&num=0&edition=prelim), Judiciary and Judicial Procedure.
 
-Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 402(c)(3) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402/c/3&num=0&edition=prelim), The Public Health and Welfare.
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 204(c)(3) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section204/c/3&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Effective Date of 2019 Amendment
 Amendment by Pub. L. 116–94 applicable to taxable years beginning after Dec. 31, 2019, see section 301(d) of Pub. L. 116–94, set out as a note under [section 139B of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-139b).
@@ -2072,18 +2072,13 @@ Pub. L. 115–243, § 2(c), Sept. 20, 2018, 132 Stat. 2895, provided that: “No
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
-Functions of Public Health Service, of Surgeon General of Public Health Service, and of all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by 1966 Reorg. Plan No. 3, 31 F.R. 8855, 80 Stat. 1610, effective June 25, 1966, set out in the Appendix to Title 5, Government Organization and Employees. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by [section 3508 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508&num=0&edition=prelim), Education.
-
-Coast and Geodetic Survey consolidated with National Weather Bureau in 1965 to form Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out in the Appendix to Title 5, Government Organization and Employees. Commissioned Officer Corps of Environmental Science Services Administration changed to Commissioned Officer Corps of National Oceanic and Atmospheric Administration, see 1970 Reorg. Plan No. 4, § 4(d), eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5.
+Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by [section 3508 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508&num=0&edition=prelim), Education.
 
 #### Subversive Activities Control Board
 The Subversive Activities Control Board was established by act Sept. 23, 1950, ch. 1024, § 12, 64 Stat. 977 and ceased to operate June 30, 1973.
 
 #### No Inference To Be Drawn From Amendment by Pub. L. 108–121
 No inference to be drawn from amendment to subsec. (a)(18) of this section by section 106 of Pub. L. 108–121 with respect to tax treatment of any amounts under program described in [section 134(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section134/b/4&num=0&edition=prelim) for any taxable year beginning before Jan. 1, 2003, see section 106(d) of Pub. L. 108–121, set out as a note under [section 134 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-134).
-
-#### Line Item Veto
-Section 642(d)(2) of Pub. L. 105–61, amending this section, was subject to line item veto by the President, Cancellation No. 97–56, signed Oct. 16, 1997, 62 F.R. 54338, Oct. 17, 1997. For decision holding line item veto unconstitutional, see Clinton v. City of New York, 524 U.S. 417, 118 S.Ct. 2091, 141 L.Ed.2d 393 (1998).
 
 #### Clarification of Standard To Be Used in Determining Employment Tax Status of Securities Brokers
 Pub. L. 105–34, title IX, § 921, Aug. 5, 1997, 111 Stat. 879, provided that: “(a) In General.—In determining for purposes of the Internal Revenue Code of 1986 whether a registered representative of a securities broker-dealer is an employee (as defined in section 3121(d) of the Internal Revenue Code of 1986), no weight shall be given to instructions from the service recipient which are imposed only in compliance with investor protection standards imposed by the Federal Government, any State government, or a governing body pursuant to a delegation by a Federal or State agency. “(b) Effective Date.—Subsection (a) shall apply to services performed after December 31, 1997.”
@@ -2160,6 +2155,14 @@ Pub. L. 86–778, title I, § 105(b)(1)–(5), Sept. 13, 1960, 74 Stat. 943, 944
 
 #### Service for Certain Tax-Exempt Organizations Performed After 1950 and Prior to 1957
 Act Sept. 1, 1954, ch. 1206, title IV, § 403, 68 Stat. 1098, as amended by acts Aug. 1, 1956, ch. 836, title IV, § 401, 70 Stat. 855; Aug. 27, 1958, Pub. L. 85–785, §§ 1–3, 72 Stat. 938, provided that where an individual has been employed after 1950 and before Aug. 1, 1956, by an organization exempt from income tax under [section 501(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim) but which did not have in effect during the individual’s period of employment a valid waiver certificate, or, which failed to have the individual’s signature appear on the list of signatures of employees who concurred in the filing of such certificate, where one was in effect, and the service performed by the individual would have constituted employment for purposes of title II of the Social Security Act ([42 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim) et seq.) had such requirements been met, then under certain conditions, the remuneration paid was to be deemed remuneration for employment for purposes of title II of the Social Security Act.
+
+#### Transfer of Functions
+Functions of Public Health Service, of Surgeon General of Public Health Service, and of all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by 1966 Reorg. Plan No. 3, 31 F.R. 8855, 80 Stat. 1610, effective June 25, 1966, set out in the Appendix to Title 5, Government Organization and Employees.
+
+Coast and Geodetic Survey consolidated with National Weather Bureau in 1965 to form Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out in the Appendix to Title 5, Government Organization and Employees. Commissioned Officer Corps of Environmental Science Services Administration changed to Commissioned Officer Corps of National Oceanic and Atmospheric Administration, see 1970 Reorg. Plan No. 4, § 4(d), eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5.
+
+#### Line Item Veto
+Pub. L. 105–34, title IX, § 968, Aug. 5, 1997, 111 Stat. 895, amending this section and enacting provisions set out as a note above, was subject to line item veto by the President, Cancellation No. 97–2, signed Aug. 11, 1997, 62 F.R. 43267, Aug. 12, 1997. For decision holding line item veto unconstitutional, see Clinton v. City of New York, 524 U.S. 417, 118 S.Ct. 2091, 141 L.Ed.2d 393 (1998).
 
 
 <a id="section-3122"></a>
@@ -2458,3 +2461,543 @@ This chapter may be cited as the “Federal Insurance Contributions Act.”
 
 #### Effective Date of 1986 Amendment
 Amendment by Pub. L. 99–509, except as otherwise provided, effective with respect to payments due with respect to wages paid after Dec. 31, 1986, including wages paid after such date by a State (or political subdivision thereof) that modified its agreement pursuant to [section 418(e)(2) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section418/e/2&num=0&edition=prelim), The Public Health and Welfare, see section 9002(d) of Pub. L. 99–509, set out as a note under [section 418 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section418&num=0&edition=prelim).
+
+
+<a id="section-3131"></a>
+## § 3131. Credit for paid sick leave
+**(a) In general** In the case of an employer, there shall be allowed as a credit against applicable employment taxes for each calendar quarter an amount equal to 100 percent of the qualified sick leave wages paid by such employer with respect to such calendar quarter.
+
+**(b) Limitations and refundability**
+
+(1) **Wages taken into account** — The amount of qualified sick leave wages taken into account under subsection (a), plus any increases under subsection (e), with respect to any individual shall not exceed $200 ($511 in the case of any day any portion of which is paid sick time described in paragraph (1), (2), or (3) of section 5102(a) of the Emergency Paid Sick Leave Act, applied with the modification described in subsection (c)(2)(A)(i)) for any day (or portion thereof) for which the individual is paid qualified sick leave wages.
+
+(2) **Overall limitation on number of days taken into account** — The aggregate number of days taken into account under paragraph (1) for any calendar quarter shall not exceed the excess (if any) of—
+
+  (A) 10, over
+
+  (B) the aggregate number of days so taken into account during preceding calendar quarters in such calendar year (other than the first quarter of calendar year 2021).
+
+(3) **Credit limited to certain employment taxes** — The credit allowed by subsection (a) with respect to any calendar quarter shall not exceed the applicable employment taxes for such calendar quarter on the wages paid with respect to the employment of all employees of the employer.
+
+(4) **Refundability of excess credit**
+
+  (A) *Credit is refundable* — If the amount of the credit under subsection (a) exceeds the limitation of paragraph (3) for any calendar quarter, such excess shall be treated as an overpayment that shall be refunded under sections 6402(a) and 6413(b).
+
+  (B) *Advancing credit* — In anticipation of the credit, including the refundable portion under subparagraph (A), the credit shall be advanced, according to forms and instructions provided by the Secretary, up to an amount calculated under subsection (a), subject to the limits under paragraph (1) and (2), all calculated through the end of the most recent payroll period in the quarter.
+
+**(c) Qualified sick leave wages** For purposes of this section—
+
+(1) **In general** — The term “qualified sick leave wages” means wages paid by an employer which would be required to be paid by reason of the Emergency Paid Sick Leave Act as if such Act applied after March 31, 2021.
+
+(2) **Rules of application** — For purposes of determining whether wages are qualified sick leave wages under paragraph (1)—
+
+  (A) *In general* — The Emergency Paid Sick Leave Act shall be applied—
+
+    (i) by inserting “, the employee is seeking or awaiting the results of a diagnostic test for, or a medical diagnosis of, COVID–19 and such employee has been exposed to COVID–19 or the employee’s employer has requested such test or diagnosis, or the employee is obtaining immunization related to COVID–19 or recovering from any injury, disability, illness, or condition related to such immunization” after “medical diagnosis” in section 5102(a)(3) thereof, and
+
+    (ii) by applying section 5102(b)(1) of such Act separately with respect to each calendar year after 2020 (and, in the case of calendar year 2021, without regard to the first quarter thereof).
+
+  (B) *Leave must meet requirements* — If an employer fails to comply with any requirement of such Act (determined without regard to section 5109 thereof) with respect to paid sick time (as defined in section 5110 of such Act), amounts paid by such employer with respect to such paid sick time shall not be taken into account as qualified sick leave wages. For purposes of the preceding sentence, an employer which takes an action described in section 5104 of such Act shall be treated as failing to meet a requirement of such Act.
+
+**(d) Allowance of credit for certain health plan expenses**
+
+(1) **In general** — The amount of the credit allowed under subsection (a) shall be increased by so much of the employer’s qualified health plan expenses as are properly allocable to the qualified sick leave wages for which such credit is so allowed.
+
+(2) **Qualified health plan expenses** — For purposes of this subsection, the term “qualified health plan expenses” means amounts paid or incurred by the employer to provide and maintain a group health plan (as defined in section 5000(b)(1)), but only to the extent that such amounts are excluded from the gross income of employees by reason of section 106(a).
+
+(3) **Allocation rules** — For purposes of this section, qualified health plan expenses shall be allocated to qualified sick leave wages in such manner as the Secretary may prescribe. Except as otherwise provided by the Secretary, such allocation shall be treated as properly made if made on the basis of being pro rata among covered employees and pro rata on the basis of periods of coverage (relative to the time periods of leave to which such wages relate).
+
+**(e) Allowance of credit for amounts paid under certain collectively bargained agreements**
+
+(1) **In general** — The amount of the credit allowed under subsection (a) shall be increased by the sum of—
+
+  (A) so much of the employer’s collectively bargained defined benefit pension plan contributions as are properly allocable to the qualified sick leave wages for which such credit is so allowed, plus
+
+  (B) so much of the employer’s collectively bargained apprenticeship program contributions as are properly allocable to the qualified sick leave wages for which such credit is so allowed.
+
+(2) **Collectively bargained defined benefit pension plan contributions** — For purposes of this subsection—
+
+  (A) *In general* — The term “collectively bargained defined benefit pension plan contributions” means, with respect to any calendar quarter, contributions which—
+
+    (i) are paid or incurred by an employer during the calendar quarter on behalf of its employees to a defined benefit plan (as defined in section 414(j)), which meets the requirements of section 401(a),
+
+    (ii) are made based on a pension contribution rate, and
+
+    (iii) are required to be made pursuant to the terms of a collective bargaining agreement in effect with respect to such calendar quarter.
+
+  (B) *Pension contribution rate* — The term “pension contribution rate” means the contribution rate that the employer is obligated to pay on behalf of its employees under the terms of a collective bargaining agreement for benefits under a defined benefit plan under such agreement, as such rate is applied to contribution base units (as defined by section 4001(a)(11) of the Employee Retirement Income Security Act of 1974 ([29 U.S.C. 1301(a)(11)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1301/a/11&num=0&edition=prelim)).
+
+  (C) *Allocation rules* — The amount of collectively bargained defined benefit pension plan contributions allocated to qualified sick leave wages for any calendar quarter shall be the product of—
+
+    (i) the pension contribution rate (expressed as an hourly rate), and
+
+    (ii) the number of hours for which qualified sick leave wages were provided to employees covered under the collective bargaining agreement described in subparagraph (A)(iii) during the calendar quarter.
+
+(3) **Collectively bargained apprenticeship program contributions** — For purposes of this section—
+
+  (A) *In general* — The term “collectively bargained apprenticeship program contributions” means, with respect to any calendar quarter, contributions which—
+
+    (i) are paid or incurred by an employer on behalf of its employees with respect to the calendar quarter to a registered apprenticeship program,
+
+    (ii) are made based on an apprenticeship program contribution rate, and
+
+    (iii) are required to be made pursuant to the terms of a collective bargaining agreement that is in effect with respect to such calendar quarter.
+
+  (B) *Registered apprenticeship program* — The term “registered apprenticeship program” means an apprenticeship registered under the Act of August 16, 1937 (commonly known as the “National Apprenticeship Act”; 50 Stat. 664, chapter 663; [29 U.S.C. 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section50&num=0&edition=prelim) et seq.) that meets the standards of subpart A of part 29 and part 30 of title 29, Code of Federal Regulations.
+
+  (C) *Apprenticeship program contribution rate* — The term “apprenticeship program contribution rate” means the contribution rate that the employer is obligated to pay on behalf of its employees under the terms of a collective bargaining agreement for benefits under a registered apprenticeship program under such agreement, as such rate is applied to contribution base units (as defined by section 4001(a)(11) of the Employee Retirement Income Security Act of 1974 ([29 U.S.C. 1301(a)(11)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1301/a/11&num=0&edition=prelim)).
+
+  (D) *Allocation rules* — The amount of collectively bargained apprenticeship program contributions allocated to qualified sick leave wages for any calendar quarter shall be the product of—
+
+    (i) the apprenticeship program contribution rate (expressed as an hourly rate), and
+
+    (ii) the number of hours for which qualified sick leave wages were provided to employees covered under the collective bargaining agreement described in subparagraph (A)(iii) during the calendar quarter.
+
+**(f) Definitions and special rules**
+
+(1) **Applicable employment taxes** — For purposes of this section, the term “applicable employment taxes” means the following:
+
+  (A) The taxes imposed under section 3111(b).
+
+  (B) So much of the taxes imposed under section 3221(a) as are attributable to the rate in effect under section 3111(b).
+
+(2) **Wages** — For purposes of this section, the term “wages” means wages (as defined in section 3121(a), determined without regard to paragraphs (1) through (22) of section 3121(b)) and compensation (as defined in section 3231(e), determined without regard to the sentence in paragraph (1) thereof which begins “Such term does not include remuneration”).
+
+(3) **Denial of double benefit** — For purposes of chapter 1, the gross income of the employer, for the taxable year which includes the last day of any calendar quarter with respect to which a credit is allowed under this section, shall be increased by the amount of such credit. Any wages taken into account in determining the credit allowed under this section shall not be taken into account for purposes of determining the credit allowed under sections 45A, 45P, 45S, 51, 3132, and 3134. In the case of any credit allowed under section 2301 of the CARES Act or section 41 with respect to wages taken into account under this section, the credit allowed under this section shall be reduced by the portion of the credit allowed under such section 2301 or section 41 which is attributable to such wages.
+
+(4) **Election to not take certain wages into account** — This section shall not apply to so much of the qualified sick leave wages paid by an eligible employer as such employer elects (at such time and in such manner as the Secretary may prescribe) to not take into account for purposes of this section.
+
+(5) **Certain governmental employers** — No credit shall be allowed under this section to the Government of the United States or to any agency or instrumentality thereof. The preceding sentence shall not apply to any organization described in section 501(c)(1) and exempt from tax under section 501(a).
+
+(6) **Extension of limitation on assessment** — Notwithstanding section 6501, the limitation on the time period for the assessment of any amount attributable to a credit claimed under this section shall not expire before the date that is 5 years after the later of—
+
+  (A) the date on which the original return which includes the calendar quarter with respect to which such credit is determined is filed, or
+
+  (B) the date on which such return is treated as filed under section 6501(b)(2).
+
+(7) **Coordination with certain programs**
+
+  (A) *In general* — This section shall not apply to so much of the qualified sick leave wages paid by an eligible employer as are taken into account as payroll costs in connection with—
+
+    (i) a covered loan under section 7(a)(37) or 7A of the Small Business Act,
+
+    (ii) a grant under section 324 of the Economic Aid to Hard-Hit Small Businesses, Non-Profits, and Venues Act, or
+
+    (iii) a restaurant revitalization grant under section 5003 of the American Rescue Plan Act of 2021.
+
+  (B) *Application where ppp loans not forgiven* — The Secretary shall issue guidance providing that payroll costs paid during the covered period shall not fail to be treated as qualified sick leave wages under this section by reason of subparagraph (A)(i) to the extent that—
+
+    (i) a covered loan of the taxpayer under section 7(a)(37) of the Small Business Act is not forgiven by reason of a decision under section 7(a)(37)(J) of such Act, or
+
+    (ii) a covered loan of the taxpayer under section 7A of the Small Business Act is not forgiven by reason of a decision under section 7A(g) of such Act.
+    Terms used in the preceding sentence which are also used in section 7A(g) or 7(a)(37)(J) of the Small Business Act shall, when applied in connection with either such section, have the same meaning as when used in such section, respectively.
+
+**(g) Regulations** The Secretary shall prescribe such regulations or other guidance as may be necessary to carry out the purposes of this section, including—
+
+(1) regulations or other guidance to prevent the avoidance of the purposes of the limitations under this section,
+
+(2) regulations or other guidance to minimize compliance and record-keeping burdens under this section,
+
+(3) regulations or other guidance providing for waiver of penalties for failure to deposit amounts in anticipation of the allowance of the credit allowed under this section,
+
+(4) regulations or other guidance for recapturing the benefit of credits determined under this section in cases where there is a subsequent adjustment to the credit determined under subsection (a),
+
+(5) regulations or other guidance to ensure that the wages taken into account under this section conform with the paid sick time required to be provided under the Emergency Paid Sick Leave Act,
+
+(6) regulations or other guidance to permit the advancement of the credit determined under subsection (a), and
+
+(7) regulations or other guidance with respect to the allocation, reporting, and substantiation of collectively bargained defined benefit pension plan contributions and collectively bargained apprenticeship program contributions.
+
+**(h) Application of section** This section shall apply only to wages paid with respect to the period beginning on April 1, 2021, and ending on September 30, 2021.
+
+**(i) Treatment of deposits** The Secretary shall waive any penalty under section 6656 for any failure to make a deposit of applicable employment taxes if the Secretary determines that such failure was due to the anticipation of the credit allowed under this section.
+
+**(j) Non-discrimination requirement** No credit shall be allowed under this section to any employer for any calendar quarter if such employer, with respect to the availability of the provision of qualified sick leave wages to which this section otherwise applies for such calendar quarter, discriminates in favor of highly compensated employees (within the meaning of section 414(q)), full-time employees, or employees on the basis of employment tenure with such employer.
+
+### Statutory Notes
+
+#### References in Text
+The Emergency Paid Sick Leave Act and such Act, referred to in subsecs. (b)(1), (c)(1), (2), and (g)(5), is division E (§ 5101 et seq.) of Pub. L. 116–127, Mar. 18, 2020, 134 Stat. 195, which is set out as a note under [section 2601 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2601&num=0&edition=prelim), Labor.
+
+The National Apprenticeship Act, referred to in subsec. (e)(3)(B), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, which is classified generally to chapter 4C (§ 50 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 50 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section50&num=0&edition=prelim) and Tables.
+
+Section 2301 of the CARES Act, referred to in subsec. (f)(3), is section 2301 of title II of div. A of Pub. L. 116–136, which is set out as a note under [section 3111 of this title](./chapter-021-federal-insurance-contributions-act.md#section-3111).
+
+Section 7 of the Small Business Act, referred to in subsec. (f)(7)(A)(i), (B), is classified to [section 636 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636&num=0&edition=prelim), Commerce and Trade.
+
+Section 7A of the Small Business Act, referred to in subsec. (f)(7)(A)(i), (B), is classified to [section 636m of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636m&num=0&edition=prelim), Commerce and Trade.
+
+Section 324 of the Economic Aid to Hard-Hit Small Businesses, Non-Profits, and Venues Act, referred to in subsec. (f)(7)(A)(ii), is classified to [section 9009a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9009a&num=0&edition=prelim), Commerce and Trade.
+
+Section 5003 of the American Rescue Plan Act of 2021, referred to in subsec. (f)(7)(A)(iii), is classified to [section 9009c of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9009c&num=0&edition=prelim), Commerce and Trade.
+
+#### Effective Date
+Pub. L. 117–2, title IX, § 9641(d), Mar. 11, 2021, 135 Stat. 171, provided that: “The amendments made by this section [enacting sections 3131 to 3133 of this title and amending [section 1324 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1324&num=0&edition=prelim), Money and Finance] shall apply to amounts paid with respect to calendar quarters beginning after March 31, 2021.”
+
+
+<a id="section-3132"></a>
+## § 3132. Payroll credit for paid family leave
+**(a) In general** In the case of an employer, there shall be allowed as a credit against applicable employment taxes for each calendar quarter an amount equal to 100 percent of the qualified family leave wages paid by such employer with respect to such calendar quarter.
+
+**(b) Limitations and refundability**
+
+(1) **Wages taken into account** — The amount of qualified family leave wages taken into account under subsection (a), plus any increases under subsection (e), with respect to any individual shall not exceed—
+
+  (A) for any day (or portion thereof) for which the individual is paid qualified family leave wages, $200, and
+
+  (B) in the aggregate with respect to all calendar quarters, $12,000.
+
+(2) **Credit limited to certain employment taxes** — The credit allowed by subsection (a) with respect to any calendar quarter shall not exceed the applicable employment taxes for such calendar quarter (reduced by any credits allowed under section 3131) on the wages paid with respect to the employment of all employees of the employer.
+
+(3) **Refundability of excess credit**
+
+  (A) *Credit is refundable* — If the amount of the credit under subsection (a) exceeds the limitation of paragraph (2) for any calendar quarter, such excess shall be treated as an overpayment that shall be refunded under sections 6402(a) and 6413(b).
+
+  (B) *Advancing credit* — In anticipation of the credit, including the refundable portion under subparagraph (A), the credit shall be advanced, according to forms and instructions provided by the Secretary, up to an amount calculated under subsection (a), subject to the limits under paragraph (1) and (2), all calculated through the end of the most recent payroll period in the quarter.
+
+**(c) Qualified family leave wages**
+
+(1) **In general** — For purposes of this section, the term “qualified family leave wages” means wages paid by an employer which would be required to be paid by reason of the Emergency Family and Medical Leave Expansion Act (including the amendments made by such Act) as if such Act (and amendments made by such Act) applied after March 31, 2021.
+
+(2) **Rules of application**
+
+  (A) *In general* — For purposes of determining whether wages are qualified family leave wages under paragraph (1)—
+
+    (i) section 110(a)(2)(A) of the Family and Medical Leave Act of 1993 shall be applied by inserting “or any reason for leave described in section 5102(a) of the Families First Coronavirus Response Act, or the employee is seeking or awaiting the results of a diagnostic test for, or a medical diagnosis of, COVID–19 and such employee has been exposed to COVID–19 or the employee’s employer has requested such test or diagnosis, or the employee is obtaining immunization related to COVID–19 or recovering from any injury, disability, illness, or condition related to such immunization” after “public health emergency”, and
+
+    (ii) section 110(b) of such Act shall be applied—
+
+      (I) without regard to paragraph (1) thereof,
+
+      (II) by striking “after taking leave after such section for 10 days” in paragraph (2)(A) thereof, and
+
+      (III) by substituting “$12,000” for “$10,000” in paragraph (2)(B)(ii) thereof.
+
+  (B) *Leave must meet requirements* — For purposes of determining whether wages would be required to be paid under paragraph (1), if an employer fails to comply with any requirement of the Family and Medical Leave Act of 1993 or the Emergency Family and Medical Leave Expansion Act (determined without regard to any time limitation under section 102(a)(1)(F) of the Family and Medical Leave Act of 1994) 11 So in original. Probably should be “1993)”. with respect to any leave provided for a qualifying need related to a public health emergency (as defined in section 110 of such Act, applied as described in subparagraph (A)(i)), amounts paid by such employer with respect to such leave shall not be taken into account as qualified family leave wages. For purposes of the preceding sentence, an employer which takes an action described in section 105 of the Family and Medical Leave Act of 1993 shall be treated as failing to meet a requirement of such Act.
+
+**(d) Allowance of credit for certain health plan expenses**
+
+(1) **In general** — The amount of the credit allowed under subsection (a) shall be increased by so much of the employer’s qualified health plan expenses as are properly allocable to the qualified family leave wages for which such credit is so allowed.
+
+(2) **Qualified health plan expenses** — For purposes of this subsection, the term “qualified health plan expenses” means amounts paid or incurred by the employer to provide and maintain a group health plan (as defined in section 5000(b)(1)), but only to the extent that such amounts are excluded from the gross income of employees by reason of section 106(a).
+
+(3) **Allocation rules** — For purposes of this section, qualified health plan expenses shall be allocated to qualified family leave wages in such manner as the Secretary may prescribe. Except as otherwise provided by the Secretary, such allocation shall be treated as properly made if made on the basis of being pro rata among covered employees and pro rata on the basis of periods of coverage (relative to the time periods of leave to which such wages relate).
+
+**(e) Allowance of credit for amounts paid under certain collectively bargained agreements**
+
+(1) **In general** — The amount of the credit allowed under subsection (a) shall be increased by so much of the sum of—
+
+  (A) so much of the employer’s collectively bargained defined benefit pension plan contributions as are properly allocable to the qualified family leave wages for which such credit is so allowed, plus
+
+  (B) so much of the employer’s collectively bargained apprenticeship program contributions as are properly allocable to the qualified family leave wages for which such credit is so allowed.
+
+(2) **Collectively bargained defined benefit pension plan contributions** — For purposes of this subsection—
+
+  (A) *In general* — The term “collectively bargained defined benefit pension plan contributions” has the meaning given such term under section 3131(e)(2).
+
+  (B) *Allocation rules* — The amount of collectively bargained defined benefit pension plan contributions allocated to qualified family leave wages for any calendar quarter shall be the product of—
+
+    (i) the pension contribution rate (as defined in section 3131(e)(2)), expressed as an hourly rate, and
+
+    (ii) the number of hours for which qualified family leave wages were provided to employees covered under the collective bargaining agreement described in section 3131(e)(2)(A)(iii) during the calendar quarter.
+
+(3) **Collectively bargained apprenticeship program contributions** — For purposes of this section—
+
+  (A) *In general* — The term “collectively bargained apprenticeship program contributions” has the meaning given such term under section 3131(e)(3).
+
+  (B) *Allocation rules* — For purposes of this section, the amount of collectively bargained apprenticeship program contributions allocated to qualified family leave wages for any calendar quarter shall be the product of—
+
+    (i) the apprenticeship contribution rate (as defined in section 3131(e)(3)), expressed as an hourly rate, and
+
+    (ii) the number of hours for which qualified family leave wages were provided to employees covered under the collective bargaining agreement described in section 3131(e)(3)(A)(iii) during the calendar quarter.
+
+**(f) Definitions and special rules**
+
+(1) **Applicable employment taxes** — For purposes of this section, the term “applicable employment taxes” means the following:
+
+  (A) The taxes imposed under section 3111(b).
+
+  (B) So much of the taxes imposed under section 3221(a) as are attributable to the rate in effect under section 3111(b).
+
+(2) **Wages** — For purposes of this section, the term “wages” means wages (as defined in section 3121(a), determined without regard to paragraphs (1) through (22) of section 3121(b)) and compensation (as defined in section 3231(e), determined without regard to the sentence in paragraph (1) thereof which begins “Such term does not include remuneration”).
+
+(3) **Denial of double benefit** — For purposes of chapter 1, the gross income of the employer, for the taxable year which includes the last day of any calendar quarter with respect to which a credit is allowed under this section, shall be increased by the amount of such credit. Any wages taken into account in determining the credit allowed under this section shall not be taken into account for purposes of determining the credit allowed under sections 45A, 45P, 45S, 51, 3131, and 3134. In the case of any credit allowed under section 2301 of the CARES Act or section 41 with respect to wages taken into account under this section, the credit allowed under this section shall be reduced by the portion of the credit allowed under such section 2301 or section 41 which is attributable to such wages.
+
+(4) **Election to not take certain wages into account** — This section shall not apply to so much of the qualified family leave wages paid by an eligible employer as such employer elects (at such time and in such manner as the Secretary may prescribe) to not take into account for purposes of this section.
+
+(5) **Certain governmental employers** — No credit shall be allowed under this section to the Government of the United States or to any agency or instrumentality thereof. The preceding sentence shall not apply to any organization described in section 501(c)(1) and exempt from tax under section 501(a).
+
+(6) **Extension of limitation on assessment** — Notwithstanding section 6501, the limitation on the time period for the assessment of any amount attributable to a credit claimed under this section shall not expire before the date that is 5 years after the later of—
+
+  (A) the date on which the original return which includes the calendar quarter with respect to which such credit is determined is filed, or
+
+  (B) the date on which such return is treated as filed under section 6501(b)(2).
+
+(7) **Coordination with certain programs**
+
+  (A) *In general* — This section shall not apply to so much of the qualified family leave wages paid by an eligible employer as are taken into account as payroll costs in connection with—
+
+    (i) a covered loan under section 7(a)(37) or 7A of the Small Business Act,
+
+    (ii) a grant under section 324 of the Economic Aid to Hard-Hit Small Businesses, Non-Profits, and Venues Act, or
+
+    (iii) a restaurant revitalization grant under section 5003 of the American Rescue Plan Act of 2021.
+
+  (B) *Application where ppp loans not forgiven* — The Secretary shall issue guidance providing that payroll costs paid during the covered period shall not fail to be treated as qualified family leave wages under this section by reason of subparagraph (A)(i) to the extent that—
+
+    (i) a covered loan of the taxpayer under section 7(a)(37) of the Small Business Act is not forgiven by reason of a decision under section 7(a)(37)(J) of such Act, or
+
+    (ii) a covered loan of the taxpayer under section 7A of the Small Business Act is not forgiven by reason of a decision under section 7A(g) of such Act.
+    Terms used in the preceding sentence which are also used in section 7A(g) or 7(a)(37)(J) of the Small Business Act shall, when applied in connection with either such section, have the same meaning as when used in such section, respectively.
+
+**(g) Regulations** The Secretary shall prescribe such regulations or other guidance as may be necessary to carry out the purposes of this section, including—
+
+(1) regulations or other guidance to prevent the avoidance of the purposes of the limitations under this section,
+
+(2) regulations or other guidance to minimize compliance and record-keeping burdens under this section,
+
+(3) regulations or other guidance providing for waiver of penalties for failure to deposit amounts in anticipation of the allowance of the credit allowed under this section,
+
+(4) regulations or other guidance for recapturing the benefit of credits determined under this section in cases where there is a subsequent adjustment to the credit determined under subsection (a),
+
+(5) regulations or other guidance to ensure that the wages taken into account under this section conform with the paid leave required to be provided under the Emergency Family and Medical Leave Expansion Act (including the amendments made by such Act),
+
+(6) regulations or other guidance to permit the advancement of the credit determined under subsection (a), and
+
+(7) regulations or other guidance with respect to the allocation, reporting, and substantiation of collectively bargained defined benefit pension plan contributions and collectively bargained apprenticeship program contributions.
+
+**(h) Application of section** This section shall apply only to wages paid with respect to the period beginning on April 1, 2021, and ending on September 30, 2021.
+
+**(i) Treatment of deposits** The Secretary shall waive any penalty under section 6656 for any failure to make a deposit of applicable employment taxes if the Secretary determines that such failure was due to the anticipation of the credit allowed under this section.
+
+**(j) Non-discrimination requirement** No credit shall be allowed under this section to any employer for any calendar quarter if such employer, with respect to the availability of the provision of qualified family leave wages to which this section otherwise applies for such calendar quarter, discriminates in favor of highly compensated employees (within the meaning of section 414(q)), full-time employees, or employees on the basis of employment tenure with such employer.
+
+### Statutory Notes
+
+#### References in Text
+The Emergency Family and Medical Leave Expansion Act and such Act, referred to in subsecs. (c)(1), (2)(B) and (g)(5), is div. C of Pub. L. 116–127, Mar. 18, 2020, 134 Stat. 189. For complete classification of this Act to the Code, see Short Title of 2020 Amendment note set out under [section 2601 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2601&num=0&edition=prelim), Labor, and Tables.
+
+The Family and Medical Leave Act of 1993 and such Act, referred to in subsec. (c)(2), is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6, which enacted chapter 28 (§ 2601 et seq.) of Title 29, Labor, sections 60m and 60n of Title 2, The Congress, and sections 6381 to 6387 of Title 5, Government Organization and Employees, amended [section 2105 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2105&num=0&edition=prelim), and enacted provisions set out as notes under [section 2601 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2601&num=0&edition=prelim). Sections 102, 105, and 110 of the Act are classified to sections 2612, 2615, and 2620, respectively, of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2601&num=0&edition=prelim) and Tables.
+
+Section 5102(a) of the Families First Coronavirus Response Act, referred to in subsec. (c)(2)(A)(i), is section 5102(a) of Pub. L. 116–127, which is set out in a note under [section 2601 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2601&num=0&edition=prelim), Labor.
+
+Section 2301 of the CARES Act, referred to in subsec. (f)(3), is section 2301 of title II of div. A of Pub. L. 116–136, which is set out as a note under [section 3111 of this title](./chapter-021-federal-insurance-contributions-act.md#section-3111).
+
+Section 7 of the Small Business Act, referred to in subsec. (f)(7)(A)(i), (B), is classified to [section 636 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636&num=0&edition=prelim), Commerce and Trade.
+
+Section 7A of the Small Business Act, referred to in subsec. (f)(7)(A)(i), (B), is classified to [section 636m of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636m&num=0&edition=prelim), Commerce and Trade.
+
+Section 324 of the Economic Aid to Hard-Hit Small Businesses, Non-Profits, and Venues Act, referred to in subsec. (f)(7)(A)(ii), is classified to [section 9009a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9009a&num=0&edition=prelim), Commerce and Trade.
+
+Section 5003 of the American Rescue Plan Act of 2021, referred to in subsec. (f)(7)(A)(iii), is classified to [section 9009c of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9009c&num=0&edition=prelim), Commerce and Trade.
+
+#### Effective Date
+Section applicable to amounts paid with respect to calendar quarters beginning after Mar. 31, 2021, see section 9641(d) of Pub. L. 117–2, set out as a note under secton 3131 of this title.
+
+
+<a id="section-3133"></a>
+## § 3133. Special rule related to tax on employers
+**(a) In general** The credit allowed by section 3131 and the credit allowed by section 3132 shall each be increased by the amount of the taxes imposed by subsections (a) and (b) of section 3111 and section 3221(a) on qualified sick leave wages, or qualified family leave wages, for which credit is allowed under such section 3131 or 3132 (respectively).
+
+**(b) Denial of double benefit** For denial of double benefit with respect to the credit increase under subsection (a), see sections 3131(f)(3) and 3132(f)(3).
+
+### Statutory Notes
+
+#### Effective Date
+Section applicable to amounts paid with respect to calendar quarters beginning after Mar. 31, 2021, see section 9641(d) of Pub. L. 117–2, set out as a note under secton 3131 of this title.
+
+
+<a id="section-3134"></a>
+## § 3134. Employee retention credit for employers subject to closure due to COVID–19
+**(a) In general** In the case of an eligible employer, there shall be allowed as a credit against applicable employment taxes for each calendar quarter an amount equal to 70 percent of the qualified wages with respect to each employee of such employer for such calendar quarter.
+
+**(b) Limitations and refundability**
+
+(1) **In general**
+
+  (A) *Wages taken into account* — The amount of qualified wages with respect to any employee which may be taken into account under subsection (a) by the eligible employer for any calendar quarter shall not exceed $10,000.
+
+  (B) *Recovery startup businesses* — In the case of an eligible employer which is a recovery startup business (as defined in subsection (c)(5)), the amount of the credit allowed under subsection (a) (after application of subparagraph (A)) for any calendar quarter shall not exceed $50,000.
+
+(2) **Credit limited to employment taxes** — The credit allowed by subsection (a) with respect to any calendar quarter shall not exceed the applicable employment taxes (reduced by any credits allowed under sections 3131 and 3132) on the wages paid with respect to the employment of all the employees of the eligible employer for such calendar quarter.
+
+(3) **Refundability of excess credit** — If the amount of the credit under subsection (a) exceeds the limitation of paragraph (2) for any calendar quarter, such excess shall be treated as an overpayment that shall be refunded under sections 6402(a) and 6413(b).
+
+**(c) Definitions** For purposes of this section—
+
+(1) **Applicable employment taxes** — The term “applicable employment taxes” means the following:
+
+  (A) The taxes imposed under section 3111(b).
+
+  (B) So much of the taxes imposed under section 3221(a) as are attributable to the rate in effect under section 3111(b).
+
+(2) **Eligible employer**
+
+  (A) *In general* — The term “eligible employer” means any employer—
+
+    (i) which was carrying on a trade or business during the calendar quarter for which the credit is determined under subsection (a), and
+
+    (ii) with respect to any calendar quarter, for which—
+
+      (I) the operation of the trade or business described in clause (i) is fully or partially suspended during the calendar quarter due to orders from an appropriate governmental authority limiting commerce, travel, or group meetings (for commercial, social, religious, or other purposes) due to the coronavirus disease 2019 (COVID–19),
+
+      (II) the gross receipts (within the meaning of section 448(c)) of such employer for such calendar quarter are less than 80 percent of the gross receipts of such employer for the same calendar quarter in calendar year 2019, or
+
+      (III) the employer is a recovery startup business (as defined in paragraph (5)).
+    With respect to any employer for any calendar quarter, if such employer was not in existence as of the beginning of the same calendar quarter in calendar year 2019, clause (ii)(II) shall be applied by substituting “2020” for “2019”.
+
+  (B) *Election to use alternative quarter* — At the election of the employer—
+
+    (i) subparagraph (A)(ii)(II) shall be applied—
+
+      (I) by substituting “for the immediately preceding calendar quarter” for “for such calendar quarter”, and
+
+      (II) by substituting “the corresponding calendar quarter in calendar year 2019” for “the same calendar quarter in calendar year 2019”, and
+
+    (ii) the last sentence of subparagraph (A) shall be applied by substituting “the corresponding calendar quarter in calendar year 2019” for “the same calendar quarter in calendar year 2019”.
+    An election under this subparagraph shall be made at such time and in such manner as the Secretary shall prescribe.
+
+  (C) *Tax-exempt organizations* — In the case of an organization which is described in section 501(c) and exempt from tax under section 501(a)—
+
+    (i) clauses (i) and (ii)(I) of subparagraph (A) shall apply to all operations of such organization, and
+
+    (ii) any reference in this section to gross receipts shall be treated as a reference to gross receipts within the meaning of section 6033.
+
+(3) **Qualified wages**
+
+  (A) *In general* — The term “qualified wages” means—
+
+    (i) in the case of an eligible employer for which the average number of full-time employees (within the meaning of section 4980H) employed by such eligible employer during 2019 was greater than 500, wages paid by such eligible employer with respect to which an employee is not providing services due to circumstances described in subclause (I) or (II) of paragraph (2)(A)(ii), or
+
+    (ii) in the case of an eligible employer for which the average number of full-time employees (within the meaning of section 4980H) employed by such eligible employer during 2019 was not greater than 500—
+
+      (I) with respect to an eligible employer described in subclause (I) of paragraph (2)(A)(ii), wages paid by such eligible employer with respect to an employee during any period described in such clause, or
+
+      (II) with respect to an eligible employer described in subclause (II) of such paragraph, wages paid by such eligible employer with respect to an employee during such quarter.
+
+  (B) *Special rule for employers not in existence in 2019* — In the case of any employer that was not in existence in 2019, subparagraph (A) shall be applied by substituting “2020” for “2019” each place it appears.
+
+  (C) *Severely financially distressed employers*
+
+    (i) *In general* — Notwithstanding subparagraph (A)(i), in the case of a severely financially distressed employer, the term “qualified wages” means wages paid by such employer with respect to an employee during any calendar quarter.
+
+    (ii) *Definition* — The term “severely financially distressed employer” means an eligible employer as defined in paragraph (2), determined by substituting “less than 10 percent” for “less than 80 percent” in subparagraph (A)(ii)(II) thereof.
+
+  (D) *Exception* — The term “qualified wages” shall not include any wages taken into account under sections 41, 45A, 45P, 45S, 51, 1396, 3131, and 3132.
+
+(4) **Wages**
+
+  (A) *In general* — The term “wages” means wages (as defined in section 3121(a)) and compensation (as defined in section 3231(e)). For purposes of the preceding sentence, in the case of any organization or entity described in subsection (f)(2), wages as defined in section 3121(a) shall be determined without regard to paragraphs (5), (6), (7), (10), and (13) of section 3121(b) (except with respect to services performed in a penal institution by an inmate thereof).
+
+  (B) *Allowance for certain health plan expenses*
+
+    (i) *In general* — Such term shall include amounts paid by the eligible employer to provide and maintain a group health plan (as defined in section 5000(b)(1)), but only to the extent that such amounts are excluded from the gross income of employees by reason of section 106(a).
+
+    (ii) *Allocation rules* — For purposes of this section, amounts treated as wages under clause (i) shall be treated as paid with respect to any employee (and with respect to any period) to the extent that such amounts are properly allocable to such employee (and to such period) in such manner as the Secretary may prescribe. Except as otherwise provided by the Secretary, such allocation shall be treated as properly made if made on the basis of being pro rata among periods of coverage.
+
+(5) **Recovery startup business** — The term “recovery startup business” means any employer—
+
+  (A) which began carrying on any trade or business after February 15, 2020, and
+
+  (B) for which the average annual gross receipts of such employer (as determined under rules similar to the rules under section 448(c)(3)) for the 3-taxable-year period ending with the taxable year which precedes the calendar quarter for which the credit is determined under subsection (a) does not exceed $1,000,000.
+
+(6) **Other terms** — Any term used in this section which is also used in this chapter or chapter 22 shall have the same meaning as when used in such chapter.
+
+**(d) Aggregation rule** All persons treated as a single employer under subsection (a) or (b) of section 52, or subsection (m) or (o) of section 414, shall be treated as one employer for purposes of this section.
+
+**(e) Certain rules to apply** For purposes of this section, rules similar to the rules of sections 51(i)(1) and 280C(a) shall apply.
+
+**(f) Certain governmental employers**
+
+(1) **In general** — This credit shall not apply to the Government of the United States, the government of any State or political subdivision thereof, or any agency or instrumentality of any of the foregoing.
+
+(2) **Exception** — Paragraph (1) shall not apply to—
+
+  (A) any organization described in section 501(c)(1) and exempt from tax under section 501(a), or
+
+  (B) any entity described in paragraph (1) if—
+
+    (i) such entity is a college or university, or
+
+    (ii) the principal purpose or function of such entity is providing medical or hospital care.
+    In the case of any entity described in subparagraph (B), such entity shall be treated as satisfying the requirements of subsection (c)(2)(A)(i).
+
+**(g) Election to not take certain wages into account** This section shall not apply to so much of the qualified wages paid by an eligible employer as such employer elects (at such time and in such manner as the Secretary may prescribe) to not take into account for purposes of this section.
+
+**(h) Coordination with certain programs**
+
+(1) **In general** — This section shall not apply to so much of the qualified wages paid by an eligible employer as are taken into account as payroll costs in connection with—
+
+  (A) a covered loan under section 7(a)(37) or 7A of the Small Business Act,
+
+  (B) a grant under section 324 of the Economic Aid to Hard-Hit Small Businesses, Non-Profits, and Venues Act, or
+
+  (C) a restaurant revitalization grant under section 5003 of the American Rescue Plan Act of 2021.
+
+(2) **Application where ppp loans not forgiven** — The Secretary shall issue guidance providing that payroll costs paid during the covered period shall not fail to be treated as qualified wages under this section by reason of paragraph (1) to the extent that—
+
+  (A) a covered loan of the taxpayer under section 7(a)(37) of the Small Business Act is not forgiven by reason of a decision under section 7(a)(37)(J) of such Act, or
+
+  (B) a covered loan of the taxpayer under section 7A of the Small Business Act is not forgiven by reason of a decision under section 7A(g) of such Act.
+  Terms used in the preceding sentence which are also used in section 7A(g) or 7(a)(37)(J) of the Small Business Act shall, when applied in connection with either such section, have the same meaning as when used in such section, respectively.
+
+**(i) Third party payors** Any credit allowed under this section shall be treated as a credit described in section 3511(d)(2).
+
+**(j) Advance payments**
+
+(1) **In general** — Except as provided in paragraph (2), no advance payment of the credit under subsection (a) shall be allowed.
+
+(2) **Advance payments to small employers**
+
+  (A) *In general* — Under rules provided by the Secretary, an eligible employer for which the average number of full-time employees (within the meaning of section 4980H) employed by such eligible employer during 2019 was not greater than 500 may elect for any calendar quarter to receive an advance payment of the credit under subsection (a) for such quarter in an amount not to exceed 70 percent of the average quarterly wages paid by the employer in calendar year 2019.
+
+  (B) *Special rule for seasonal employers* — In the case of any employer who employs seasonal workers (as defined in section 45R(d)(5)(B)), the employer may elect to apply subparagraph (A) by substituting “the wages for the calendar quarter in 2019 which corresponds to the calendar quarter to which the election relates” for “the average quarterly wages paid by the employer in calendar year 2019”.
+
+  (C) *Special rule for employers not in existence in 2019* — In the case of any employer that was not in existence in 2019, subparagraphs (A) and (B) shall each be applied by substituting “2020” for “2019” each place it appears.
+
+(3) **Reconciliation of credit with advance payments**
+
+  (A) *In general* — The amount of credit which would (but for this subsection) be allowed under this section shall be reduced (but not below zero) by the aggregate payment allowed to the taxpayer under paragraph (2). Any failure to so reduce the credit shall be treated as arising out of a mathematical or clerical error and assessed according to section 6213(b)(1).
+
+  (B) *Excess advance payments* — If the advance payments to a taxpayer under paragraph (2) for a calendar quarter exceed the credit allowed by this section (determined without regard to subparagraph (A)), the tax imposed under section 3111(b) or so much of the tax imposed under section 3221(a) as is attributable to the rate in effect under section 3111(b) (whichever is applicable) for the calendar quarter shall be increased by the amount of such excess.
+
+**(k) Treatment of deposits** The Secretary shall waive any penalty under section 6656 for any failure to make a deposit of any applicable employment taxes if the Secretary determines that such failure was due to the reasonable anticipation of the credit allowed under this section.
+
+**(l) Extension of limitation on assessment** Notwithstanding section 6501, the limitation on the time period for the assessment of any amount attributable to a credit claimed under this section shall not expire before the date that is 5 years after the later of—
+
+(1) the date on which the original return which includes the calendar quarter with respect to which such credit is determined is filed, or
+
+(2) the date on which such return is treated as filed under section 6501(b)(2).
+
+**(m) Regulations and guidance** The Secretary shall issue such forms, instructions, regulations, and other guidance as are necessary—
+
+(1) to allow the advance payment of the credit under subsection (a) as provided in subsection (j)(2), subject to the limitations provided in this section, based on such information as the Secretary shall require,
+
+(2) with respect to the application of the credit under subsection (a) to third party payors (including professional employer organizations, certified professional employer organizations, or agents under section 3504), including regulations or guidance allowing such payors to submit documentation necessary to substantiate the eligible employer status of employers that use such payors, and
+
+(3) to prevent the avoidance of the purposes of the limitations under this section, including through the leaseback of employees.
+Any forms, instructions, regulations, or other guidance described in paragraph (2) shall require the customer to be responsible for the accounting of the credit and for any liability for improperly claimed credits and shall require the certified professional employer organization or other third party payor to accurately report such tax credits based on the information provided by the customer.
+
+**(n) Application** This section shall only apply to wages paid after June 30, 2021, and before October 1, 2021 (or, in the case of wages paid by an eligible employer which is a recovery startup business, January 1, 2022).
+
+### Statutory Notes
+
+#### References in Text
+Section 7 of the Small Business Act, referred to in subsec. (h)(1)(A), (2), is classified to [section 636 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636&num=0&edition=prelim), Commerce and Trade.
+
+Section 7A of the Small Business Act, referred to in subsec. (h)(1)(A), (2), is classified to [section 636m of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636m&num=0&edition=prelim), Commerce and Trade.
+
+Section 324 of the Economic Aid to Hard-Hit Small Businesses, Non-Profits, and Venues Act, referred to in subsec. (h)(1)(B), is classified to [section 9009a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9009a&num=0&edition=prelim), Commerce and Trade.
+
+Section 5003 of the American Rescue Plan Act of 2021, referred to in subsec. (h)(1)(C), is classified to [section 9009c of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9009c&num=0&edition=prelim), Commerce and Trade.
+
+#### Amendments
+2021—Subsec. (c)(5)(C). Pub. L. 117–58, § 80604(a)(1), struck out subpar. (C) which read as follows: “which, with respect to such calendar quarter, is not described in subclause (I) or (II) of paragraph (2)(A)(ii).”.
+
+Subsec. (n). Pub. L. 117–58, § 80604(a)(2), substituted “October 1, 2021 (or, in the case of wages paid by an eligible employer which is a recovery startup business, January 1, 2022)” for “January 1, 2022”.
+
+#### Effective Date of 2021 Amendment
+Pub. L. 117–58, div. H, title VI, § 80604(b), Nov. 15, 2021, 135 Stat. 1341, provided that: “The amendments made by this section [amending this section] shall apply to calendar quarters beginning after September 30, 2021.”
+
+#### Effective Date
+Pub. L. 117–2, title IX, § 9651(d), Mar. 11, 2021, 135 Stat. 182, provided that: “The amendments made by this section [enacting this section and amending [section 1324 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1324&num=0&edition=prelim), itle 31, Money and Finance] shall apply to calendar quarters beginning after June 30, 2021.”

@@ -126,11 +126,13 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 (2) the sale of the article by the importer thereof shall be treated as the sale of the tires with which such article is equipped.
 This subsection shall not apply with respect to the sale of an automobile bus chassis or an automobile bus body.
 
-**(d) Termination** On and after October 1, 2022, the taxes imposed by subsection (a) shall not apply.
+**(d) Termination** On and after October 1, 2028, the taxes imposed by subsection (a) shall not apply.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (d). Pub. L. 117–58 substituted “October 1, 2028” for “October 1, 2022”.
+
 2015—Subsec. (d). Pub. L. 114–94 substituted “October 1, 2022” for “October 1, 2016”.
 
 2012—Subsec. (d). Pub. L. 112–141 substituted “October 1, 2016” for “July 1, 2012”.
@@ -214,6 +216,9 @@ Subsec. (c). Pub. L. 87–61, § 202(d), substituted “October 1, 1972” for �
 Subsec. (a)(5). Pub. L. 86–440, § 1(a)(2), added par. (5).
 
 1956—Act June 29, 1956, increased tax on tires of type used on highway vehicles from 5 cents a pound to 8 cents a pound, provided for a tax of 3 cents a pound on tread rubber, and required on and after July 1, 1972, a reduction in tax on tires of type used on highway vehicles from 8 cents a pound to 5 cents a pound, and elimination of tax on tread rubber.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 80102(f) of Pub. L. 117–58, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
 
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–94 effective Oct. 1, 2016, see section 31102(f) of Pub. L. 114–94, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
@@ -441,7 +446,7 @@ Amendment by act June 29, 1956, effective July 1, 1956, see section 211 of act J
 
 **(d) Termination**
 
-(1) **In general** — The rates of tax specified in clauses (i) and (iii) of subsection (a)(2)(A) shall be 4.3 cents per gallon after September 30, 2022.
+(1) **In general** — The rates of tax specified in clauses (i) and (iii) of subsection (a)(2)(A) shall be 4.3 cents per gallon after September 30, 2028.
 
 (2) **Aviation fuels** — The rates of tax specified in subsection (a)(2)(A)(ii) and (a)(2)(C)(ii) shall be 4.3 cents per gallon—
 
@@ -449,7 +454,7 @@ Amendment by act June 29, 1956, effective July 1, 1956, see section 211 of act J
 
   (B) after September 30, 2023.
 
-(3) **Leaking Underground Storage Tank Trust Fund financing rate** — The Leaking Underground Storage Tank Trust Fund financing rate under subsection (a)(2) shall apply after September 30, 1997, and before October 1, 2022.
+(3) **Leaking Underground Storage Tank Trust Fund financing rate** — The Leaking Underground Storage Tank Trust Fund financing rate under subsection (a)(2) shall apply after September 30, 1997, and before October 1, 2028.
 
 **(e) Refunds in certain cases** Under regulations prescribed by the Secretary, if any person who paid the tax imposed by this section with respect to any taxable fuel establishes to the satisfaction of the Secretary that a prior tax was paid (and not credited or refunded) with respect to such taxable fuel, then an amount equal to the tax paid by such person shall be allowed as a refund (without interest) to such person in the same manner as if it were an overpayment of tax imposed by this section.
 
@@ -461,6 +466,10 @@ Section 211 of the Clean Air Act, referred to in subsec. (a)(2)(D), is classifie
 The date of the enactment of the Airport and Airway Trust Fund Tax Reinstatement Act of 1997, referred to in subsec. (d)(2)(A), is the date of enactment of Pub. L. 105–2, which was approved Feb. 28, 1997.
 
 #### Amendments
+2021—Subsec. (d)(1). Pub. L. 117–58, § 80102(a)(1)(C), substituted “September 30, 2028” for “September 30, 2022”.
+
+Subsec. (d)(3). Pub. L. 117–58, § 80102(a)(2)(D), substituted “October 1, 2028” for “October 1, 2022”.
+
 2018—Subsec. (d)(2)(B). Pub. L. 115–254 substituted “September 30, 2023” for “September 30, 2018”.
 
 Pub. L. 115–141 substituted “September 30, 2018” for “March 31, 2018”.
@@ -766,6 +775,9 @@ Subsec. (a). Act June 29, 1956, redesignated first sentence as subsec. (a) and i
 Subsec. (b). Act June 29, 1956, redesignated second sentence as subsec. (b) and substituted “July 1, 1972” for “April 1, 1956”.
 
 1955—Act Mar. 30, 1955, substituted “April 1, 1956” for “April 1, 1955”.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 80102(f) of Pub. L. 117–58, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
 
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–94 effective Oct. 1, 2016, see section 31102(f) of Pub. L. 114–94, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
@@ -2606,7 +2618,7 @@ Repeal effective on first day of first calendar quarter which begins more than 6
 (5) to a nonprofit educational organization for its exclusive use, or
 
 (6) to a qualified blood collector organization (as defined in section 7701(a)(49)) for such organization’s exclusive use in the collection, storage, or transportation of blood,
-but only if such exportation or use is to occur before any other use. Paragraphs (4), (5), and (6) shall not apply to the tax imposed by section 4064. In the case of taxes imposed by section 4051 or 4071, paragraphs (4) and (5) shall not apply on and after October 1, 2022. In the case of the tax imposed by section 4131, paragraphs (3), (4), and (5) shall not apply and paragraph (2) shall apply only if the use of the exported vaccine meets such requirements as the Secretary may by regulations prescribe.
+but only if such exportation or use is to occur before any other use. Paragraphs (4), (5), and (6) shall not apply to the tax imposed by section 4064. In the case of taxes imposed by section 4051 or 4071, paragraphs (4) and (5) shall not apply on and after October 1, 2028. In the case of the tax imposed by section 4131, paragraphs (3), (4), and (5) shall not apply and paragraph (2) shall apply only if the use of the exported vaccine meets such requirements as the Secretary may by regulations prescribe.
 
 **(b) Proof of resale for further manufacture; proof of export** Where an article has been sold free of tax under subsection (a)—
 
@@ -2678,6 +2690,8 @@ Section 1207(b)(1)–(3)(A) of Pub. L. 109–280, which directed the amendment o
 A prior section 4221, act Aug. 16, 1954, ch. 736, 68A Stat. 495, related to exemption for articles taxable as jewelry, prior to repeal by Pub. L. 85–859, § 119(a).
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 117–58 substituted “October 1, 2028” for “October 1, 2022” in concluding provisions.
+
 2019—Subsec. (a). Pub. L. 116–94 struck out last sentence of concluding provisions which read as follows: “In the case of the tax imposed by section 4191, paragraphs (3), (4), (5), and (6) shall not apply.”
 
 2018—Subsec. (a). Pub. L. 115–141 deleted comma after “section 4051” in concluding provisions.
@@ -2799,6 +2813,9 @@ Subsec. (e)(4). Pub. L. 86–418 added par. (4).
 1959—Subsec. (d)(4). Pub. L. 86–70 struck out “Alaska,” before “Hawaii”.
 
 Subsec. (d)(5). Pub. L. 86–344 included in definition of “nonprofit educational organization” a school operated as an activity of certain organizations exempt from the income tax and having a regular situs, faculty, curriculum and student body.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 80102(f) of Pub. L. 117–58, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
 
 #### Effective Date of 2019 Amendment
 Pub. L. 116–94, div. N, title I, § 501(d), Dec. 20, 2019, 133 Stat. 3119, provided that: “The amendments made by this section [amending this section and [section 6416 of this title](./chapter-065-abatements-credits-and-refunds.md#section-6416) and repealing [section 4191 of this title](./chapter-032-manufacturers-excise-taxes.md#section-4191)] shall apply to sales after December 31, 2019.”

@@ -88,7 +88,7 @@ In this Act:
 
 (5) **Mexico** — The term “Mexico” means the United Mexican States.
 
-(6) **NAFTA** — The term “NAFTA” means the North American Free Trade Agreement approved by Congress under section 101(a)(1) of the North American Free Trade Agreement Implementation Act ([19 U.S.C. 3311(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3311/a/1&num=0&edition=prelim)).1
+(6) **NAFTA** — The term “NAFTA” means the North American Free Trade Agreement approved by Congress under section 101(a)(1) of the North American Free Trade Agreement Implementation Act ([19 U.S.C. 3311(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3311/a/1&num=0&edition=prelim)).11 See References in Text note below.
 
 (7) **Preferential tariff treatment** — The term “preferential tariff treatment” means the customs duty rate that is applicable to an originating good (as defined in [section 4531(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4531/a&num=0&edition=prelim)) under the USMCA.
 
@@ -243,7 +243,7 @@ This Act, referred to in subsec. (a)(2), is Pub. L. 116–113, Jan. 29, 2020, 13
 This Act, referred to in subsecs. (a)(1), (2) and (b)(1), is Pub. L. 116–113, Jan. 29, 2020, 134 Stat. 11, known as the United States-Mexico-Canada Agreement Implementation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 4501 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4501) and Tables.
 
 #### Effective Date of Subsection (c)
-Subsec. (c) of this section effective on the date the USMCA enters into force (July 1, 2020), see section 107(b) of Pub. L. 116–113, set out as a note under [section 4501 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4501).
+Subsec. (c) of this section effective on the date the USMCA entered into force (July 1, 2020), see section 107(b) of Pub. L. 116–113, set out as a note under [section 4501 of this title](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4501).
 
 #### Delegation of Functions
 Proc. No. 10053, pars. (5), (6), June 29, 2020, 85 F.R. 39826, authorized the United States Trade Representative to exercise the authority of the President under subsec. (c)(4) of this section and the Committee for Implementation of Textile Agreements to exercise the authority of the President under subsec. (c)(1) of this section with respect to a good provided for under article 6.2 of the USMCA.
@@ -1318,7 +1318,7 @@ This Act, referred to in subsec. (a), is Pub. L. 116–113, Jan. 29, 2020, 134 S
 
 This title, referred to in subsec. (a)(2)(B), is title II of Pub. L. 116–113, Jan. 29, 2020, 134 Stat. 19, which enacted this subchapter and amended and enacted provisions set out as notes under several sections within this title. For complete classification of title II to the Code, see Tables.
 
-Section 202, referred to in subsec. (a)(5), is section 202 of Pub. L. 103–183, title II, Dec. 8, 1993, 107 Stat. 2069, which was classified to [section 3332 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3332&num=0&edition=prelim) prior to repeal by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
+Section 202, referred to in subsec. (a)(5), is section 202 of Pub. L. 103–182, title II, Dec. 8, 1993, 107 Stat. 2069, which was classified to [section 3332 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3332&num=0&edition=prelim) prior to repeal by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
 
 The amendments made by this section, referred to in subsec. (d), mean the amendments made by section 203(b) and (c) of Pub. L. 103–182, which amended sections 81c, 1311 to 1313, and 1562 of this title.
 
@@ -2289,6 +2289,33 @@ In this subchapter:
 **(c) Meetings** The Interagency Labor Committee shall meet at least once every 90 days during the 5-year period beginning on January 29, 2020, and at least once every 180 days thereafter for 5 years.
 
 **(d) Information sharing** Notwithstanding any other provision of law, the members of the Interagency Labor Committee may exchange information for purposes of carrying out this subchapter.
+
+### Statutory Notes
+
+#### Ex. Ord. No. 13918. Establishment of the Interagency Labor Committee for Monitoring and Enforcement Under Section 711 of the United States-Mexico-Canada Agreement Implementation Act
+Ex. Ord. No. 13918, Apr. 28, 2020, 85 F.R. 26315, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, and section 711 of the United States-Mexico-Canada Agreement Implementation Act (Act) (Public Law 116–113) [[19 U.S.C. 4641](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4641)], it is hereby ordered as follows:
+
+Section 1. Establishment of the Interagency Labor Committee for Monitoring and Enforcement. The Interagency Labor Committee for Monitoring and Enforcement (Committee) is hereby established to coordinate the efforts of the United States to monitor the implementation and maintenance of the labor obligations of Canada and Mexico, to monitor the implementation and maintenance of Mexico’s labor reform, and to recommend enforcement actions with respect to Canada or Mexico, as provided for in section 715 of the Act [[19 U.S.C. 4645](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4645)].
+
+Sec. 2. Membership. The Committee shall be co-chaired by the United States Trade Representative and the Secretary of Labor, and shall include representatives of the Department of State, the Department of the Treasury, the Department of Agriculture, the Department of Commerce, the Department of Homeland Security, and the United States Agency for International Development. The Co-Chairs may invite representatives from other executive departments or agencies, as appropriate, to participate as members or observers. Each executive department, agency, and component represented on the Committee shall ensure that the necessary staff are available to assist their respective representatives in performing the responsibilities of the Committee. The Committee, by consensus, may designate members to assist it in carrying out the functions described in the Act.
+
+Sec. 3. Committee Decision-Making. The Committee shall endeavor to make any decision on an action or determination under sections 712 through 719 of the Act [[19 U.S.C. 4642](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4642) to 4649] by consensus, which shall be deemed to exist where no member objects to the proposed action or determination.
+
+Sec. 4. Funding. Each executive department and agency participating in the Committee shall bear its own expenses incurred in connection with the Committee’s functions described in sections 711 through 719 of the Act. The Department of Labor will provide funding for the hotline required under section 717 of the Act [[19 U.S.C. 4647](./chapter-029-united-states-mexico-canada-agreement-implementation.md#section-4647)].
+
+Sec. 5. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
 
 
 <a id="section-4645"></a>

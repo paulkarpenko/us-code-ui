@@ -292,7 +292,7 @@ Pub. L. 104–264, title VII, § 701, Oct. 9, 1996, 110 Stat. 3264, provided tha
 
 Pub. L. 104–264, title VIII, § 801, Oct. 9, 1996, 110 Stat. 3269, provided that: “This title [enacting [section 47133 of this title](./chapter-471-airport-development.md#section-47133), amending sections 46301 and 47107 of this title and [section 9502 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9502&num=0&edition=prelim), Internal Revenue Code, and enacting provisions set out as notes under [section 47107 of this title](./chapter-471-airport-development.md#section-47107)] may be cited as the ‘Airport Revenue Protection Act of 1996’.”
 
-Pub. L. 104–264, title XI, § 1101, Oct. 9, 1996, 110 Stat. 3278, provided that: “This title [amending sections 44501, 44508, and 48102 of this title] may be cited as the ‘FAA Research, Engi’neering, and Development Management Reform Act of 1996’.”
+Pub. L. 104–264, title XI, § 1101, Oct. 9, 1996, 110 Stat. 3278, provided that: “This title [amending sections 44501, 44508, and 48102 of this title] may be cited as the ‘FAA Research, Engineering, and Development Management Reform Act of 1996’.”
 
 #### Short Title of 1994 Amendment
 Pub. L. 103–305, § 1(a), Aug. 23, 1994, 108 Stat. 1569, provided that: “This Act [enacting sections 41311, 41714, 41715, 47129, 47130, and 47509 of this title, amending sections 106, 10521, 11501, 40102, 40113, 40116, 40117, 41713, 41734, 44502, 44505, 44938, 45301, 46301, 47101, 47102, 47104 to 47107, 47109 to 47111, 47115, 47117 to 47119, 47504, 48101 to 48104, and 48108 of this title and [section 9502 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9502&num=0&edition=prelim), Internal Revenue Code, renumbering former [section 47129 of this title](./chapter-471-airport-development.md#section-47129) as [section 47131 of this title](./chapter-471-airport-development.md#section-47131), enacting provisions set out as notes under this section and sections 10521, 11501, 40102, 40105, 40117, 41311, 41715, 44502, 45102, 47101, 47107, 47124, and 49101 of this title, and repealing provisions set out as a note under section 1348 of former Title 49, Transportation] may be cited as the ‘Federal Aviation Administration Authorization Act of 1994’.”
@@ -923,9 +923,6 @@ Amendment by Pub. L. 103–411 effective on the 180th day following Oct. 25, 199
 
 Amendment by Pub. L. 103–305 effective Jan. 1, 1995, see section 601(d) of Pub. L. 103–305, set out as a note under [section 10521 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section10521&num=0&edition=prelim).
 
-#### Territorial Sea of United States
-For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim), Public Lands.
-
 #### Definitions of Terms in Pub. L. 107–71
 Pub. L. 107–71, title I, § 133, Nov. 19, 2001, 115 Stat. 636, provided that: “Except as otherwise explicitly provided, any term used in this title [see Tables for classification] that is defined in [section 40102 of title 49](./chapter-401-general-provisions.md#section-40102), United States Code, has the meaning given that term in that section.”
 
@@ -934,6 +931,9 @@ Pub. L. 106–181, § 4, Apr. 5, 2000, 114 Stat. 64, provided that: “Except as
 
 #### Definitions Applicable to Pub. L. 103–305
 Pub. L. 103–305, § 2, Aug. 23, 1994, 108 Stat. 1570, provided that: “In this Act [see Short Title of 1994 Amendment note set out under [section 40101 of this title](./chapter-401-general-provisions.md#section-40101)], the following definitions apply: “(1) Administrator.—The term ‘Administrator’ means the Administrator of the Federal Aviation Administration. “(2) Secretary.—The term ‘Secretary’ means the Secretary of Transportation.”
+
+#### Territorial Sea of United States
+For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim), Public Lands.
 
 
 <a id="section-40103"></a>
@@ -1737,7 +1737,7 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 Pub. L. 112–95, title VIII, § 814, Feb. 14, 2012, 126 Stat. 125, provided that: “When drafting contract proposals for training facilities under the general contracting authority of the Federal Aviation Administration, the Administrator of the Federal Aviation Administration shall ensure— “(1) the proposal is drafted so that all parties can fairly compete; and “(2) the proposal takes into consideration the most cost-effective location, accessibility, and services options.”
 
 #### FAA Evaluation of Long-Term Capital Leasing
-Pub. L. 106–181, title VII, § 704, Apr. 5, 2000, 114 Stat. 157, provided that: “(a) In General.—The Administrator [of the Federal Aviation Administration] may carry out a pilot program in fiscal years 2001 through 2003 to test and evaluate the benefits of long-term contracts for the leasing of aviation equipment and facilities. “(b) Period of Contracts.—Notwithstanding any other provision of law, the Administrator may enter into a contract under the program to lease aviation equipment or facilities for a period of greater than 5 years. “(c) Number of Contracts.—The Administrator may not enter into more that [than] 10 contracts under the program. “(d) Types of Contracts.—The contracts to be evaluated under the program may include contracts for telecommunication services that are provided through the use of a satellite, requirements related to oceanic and air traffic control, air-to-ground radio communications, and air traffic control tower construction.”
+Pub. L. 106–181, title VII, § 704, Apr. 5, 2000, 114 Stat. 157, authorized the Administrator of the Federal Aviation Administration to carry out a pilot program in fiscal years 2001 through 2003 to test and evaluate the benefits of long-term contracts for the leasing of aviation equipment and facilities and to enter into certain types of contracts for this purpose.
 
 #### Assessment of Acquisition Management System
 Pub. L. 104–264, title II, § 251, Oct. 9, 1996, 110 Stat. 3236, provided that: “Not later than April 1, 1999, the Administrator [of the Federal Aviation Administration] shall employ outside experts to provide an independent evaluation of the effectiveness of the Administration’s [Federal Aviation Administration] acquisition management system within 3 months after such date. The Administrator shall transmit a copy of the evaluation to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.”

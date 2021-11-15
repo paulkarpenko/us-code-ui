@@ -243,6 +243,10 @@ Sec. 15. If, based on consideration of the terms, obligations, and expectations 
 
 Donald J. Trump.
 
+Continuation of the national emergency with respect to Hong Kong declared by Ex. Ord. No. 13936 was contained in the following:
+
+Notice of President of the United States, dated July 7, 2021, 86 F.R. 36479.
+
 
 <a id="section-5712"></a>
 ## § 5712. Definitions

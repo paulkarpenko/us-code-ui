@@ -91,11 +91,11 @@ For the purposes of this chapter—
 #### Amendments
 1998—Par. (5). Pub. L. 105–241 inserted “(not including the United States Postal Service)” after “the United States”.
 
-#### Termination of Trust Territory of the Pacific Islands
-For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
-
 #### Termination of Advisory Committees
 Advisory committees in existence on January 5, 1973, to terminate not later than the expiration of the 2-year period following January 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Termination of Trust Territory of the Pacific Islands
+For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
 
 
 <a id="section-653"></a>
@@ -131,11 +131,11 @@ The National Foundation on the Arts and the Humanities Act, referred to in subse
 
 The effective date of this chapter, referred to in subsec. (b)(2), (3), is the effective date of Pub. L. 91–596, which is 120 days after Dec. 29, 1970, see section 34 of Pub. L. 91–596, set out as an Effective Date note under [section 651 of this title](./chapter-015-occupational-safety-and-health.md#section-651).
 
-#### Termination of Trust Territory of the Pacific Islands
-For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
-
 #### EPA Administrator Not Exercising “Statutory Authority” Under This Section in Exercising Any Authority Under Toxic Substances Control Act
 In exercising any authority under the Toxic Substances Control Act ([15 U.S.C. 2601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2601&num=0&edition=prelim) et seq.) in connection with amendment made by section 15(a) of Pub. L. 101–637, the Administrator of the Environmental Protection Agency not, for purposes of subsection (b)(1) of this section, to be considered to be exercising statutory authority to prescribe or enforce standards or regulations affecting occupational safety and health, see section 15(b) of Pub. L. 101–637, set out as a note under [section 2646 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2646&num=0&edition=prelim), Commerce and Trade.
+
+#### Termination of Trust Territory of the Pacific Islands
+For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
 
 
 <a id="section-654"></a>
@@ -326,7 +326,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 ### Statutory Notes
 
 #### Constitutionality
-For information regarding constitutionality of certain provisions of section 8 of Pub. L. 91–596, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For information regarding constitutionality of certain provisions of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
 
 #### Amendments
 1998—Subsec. (h). Pub. L. 105–198 added subsec. (h).

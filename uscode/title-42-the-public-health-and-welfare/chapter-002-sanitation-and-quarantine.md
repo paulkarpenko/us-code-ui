@@ -43,8 +43,11 @@ Words “or delivery” after “port of entry” which were included in this se
 
 R.S. § 4793 derived from act Feb. 23, 1799, ch. 12, § 2, 1 Stat. 619.
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Transfer of Functions
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
 Functions of Department of the Treasury relating to public health transferred to Federal Security Agency pursuant to Reorg. Plan No. I of 1939, set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -72,8 +75,11 @@ R.S. § 4795 derived from act Feb. 23, 1799, ch. 12, § 2, 1 Stat. 619.
 
 Omission of words “or delivery” after “port of entry”, see Codification note set out under [section 88 of this title](./chapter-002-sanitation-and-quarantine.md#section-88).
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Transfer of Functions
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
 Functions of Department of the Treasury relating to public health transferred to Federal Security Agency pursuant to Reorg. Plan No. I of 1939, set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -88,8 +94,11 @@ The Secretary of Health and Human Services is authorized, whenever a conformity 
 #### Codification
 R.S. § 4796 derived from act Feb. 23, 1799, ch. 12, § 1, 1 Stat. 619.
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Transfer of Functions
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education and Welfare by section 5 of 1953 Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education and Welfare by section 5 of 1953 Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
 Functions of Department of the Treasury relating to public health transferred to Federal Security Agency pursuant to Reorg. Plan No. I of 1939, set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -138,14 +147,18 @@ Title 58 of the Revised Statutes, referred to in text, was in the original “th
 #### Codification
 R.S. § 4792 derived from act Feb. 23, 1799, ch. 12, § 1, 1 Stat. 619.
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Transfer of Functions
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
-
-Functions of Department of the Treasury relating to public health transferred to Federal Security Agency pursuant to Reorg. Plan No. I of 1939, set out in the Appendix to Title 5, Government Organization and Employees.
-
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
 “Coast Guard vessels” substituted in text for “revenue-cutters”, Revenue Cutter Service and Life-Saving Service having been combined to form Coast Guard by section 1 of act Jan. 28, 1915. That act was repealed by section 20 of act Aug. 4, 1949, section 1 of which reestablished the Coast Guard by enacting Title 14, Coast Guard.
+
+#### Transfer of Functions
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
+
+Functions of Department of the Treasury relating to public health transferred to Federal Security Agency pursuant to Reorg. Plan No. I of 1939, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-98"></a>
@@ -155,17 +168,21 @@ The Secretary of the Navy is authorized, in his discretion, at the request of th
 
 ### Statutory Notes
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Repeals
 Act Feb. 15, 1893, ch. 114, 27 Stat. 449, cited as a credit to this section and which abolished the National Board of Health and placed all duties relating to quarantines and quarantine regulations with the Marine Hospital Service, was repealed by act July 1, 1944, ch. 373, title XIII, § 1313, formerly title VI, § 611, 58 Stat. 714, renumbered title VII, § 711, by act Aug. 13, 1946, ch. 958, § 5, 60 Stat. 1049; § 713 by act Feb. 28, 1948, ch. 83, § 9(b), 62 Stat. 47; title VIII, § 813, by act July 30, 1956, ch. 779, § 3(b), 70 Stat. 721; title IX, § 913, by Pub. L. 88–581, § 4(b), Sept. 4, 1964, 78 Stat. 919; title X, § 1013, by Pub. L. 89–239, § 3(b), Oct. 6, 1965, 79 Stat. 931; title XI, § 1113, by Pub. L. 91–572, § 6(b), Dec 24, 1970, 84 Stat. 1506; title XII, § 1213, by Pub. L. 92–294, § 3(b), May 16, 1972, 86 Stat. 137; title XIII, § 1313, by Pub. L. 93–154, § 2(b)(2), Nov. 16, 1973, 87 Stat. 604, which was itself repealed by Pub. L. 93–222, § 7(b), Dec. 29, 1973, 87 Stat. 936.
 
 #### Transfer of Functions
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
-
-Public Health Service and its functions and personnel transferred from Department of the Treasury to Federal Security Agency pursuant to Reorg. Plan No. I of 1939, set out in the Appendix to Title 5, Government Organization and Employees.
-
 Marine Hospital Service was redesignated Public Health and Marine Hospital Service by act July 1, 1902, ch. 1370, § 1, 32 Stat. 712, which in turn was redesignated Public Health Service by act Aug. 14, 1912, ch. 288, § 1, 37 Stat. 309.
 
 National Board of Health was abolished and all duties relating to quarantines and quarantine regulations were placed in Marine Hospital Service by act Feb. 15, 1893, ch. 114, 27 Stat. 449.
+
+#### Transfer of Functions
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
+
+Public Health Service and its functions and personnel transferred from Department of the Treasury to Federal Security Agency pursuant to Reorg. Plan No. I of 1939, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-99-to-108"></a>

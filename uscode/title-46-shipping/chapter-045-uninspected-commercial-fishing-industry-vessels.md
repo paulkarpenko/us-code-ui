@@ -163,9 +163,9 @@ Pub. L. 100–424, § 7, Sept. 9, 1988, 102 Stat. 1592, provided that: “Until 
 
 (2) The Secretary of Health and Human Services, in consultation with and based on criteria established by the Commandant of the Coast Guard 11 So in original. Probably should be followed by a comma. shall award grants under this subsection on a competitive basis.
 
-(3) The Federal share of the cost of any activity carried out with a grant under this subsection shall not exceed 50 percent.
+(3) The Federal share of the cost of any activity carried out with a grant under this subsection shall not exceed 75 percent.
 
-(4) There is authorized to be appropriated $3,000,000 for each of fiscal years 2018 through 2019 for grants under this subsection.
+(4) There is authorized to be appropriated $3,000,000 for each of fiscal years 2018 through 2021 for grants under this subsection.
 
 **(j)**
 
@@ -173,15 +173,23 @@ Pub. L. 100–424, § 7, Sept. 9, 1988, 102 Stat. 1592, provided that: “Until 
 
 (2) The Secretary of Health and Human Services, in consultation with and based on criteria established by the Commandant of the Coast Guard, shall award grants under this subsection on a competitive basis.
 
-(3) The Federal share of the cost of any activity carried out with a grant under this subsection shall not exceed 50 percent.
+(3) The Federal share of the cost of any activity carried out with a grant under this subsection shall not exceed 75 percent.
 
-(4) There is authorized to be appropriated $3,000,000 for each of fiscal years 2018 through 2019 for activities under this subsection.
+(4) There is authorized to be appropriated $3,000,000 for each of fiscal years 2018 through 2021 for activities under this subsection.
 
 **(k)** For the purposes of this section, the term “auxiliary craft” means a vessel that is carried onboard a fishing vessel and is normally used to support fishing operations.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (i)(3). Pub. L. 116–283, § 8321(a)(1), substituted “75 percent” for “50 percent”.
+
+Subsec. (i)(4). Pub. L. 116–283, § 8321(a)(2), substituted “2021” for “2019”.
+
+Subsec. (j)(3). Pub. L. 116–283, § 8321(b)(1), substituted “75 percent” for “50 percent”.
+
+Subsec. (j)(4). Pub. L. 116–283, § 8321(b)(2), substituted “2021” for “2019”.
+
 2018—Subsec. (b)(2)(B). Pub. L. 115–282, § 504(1), substituted “subject to paragraph (3), a survival craft” for “a survival craft”.
 
 Subsec. (b)(3). Pub. L. 115–282, § 504(2), added par. (3).
@@ -288,6 +296,9 @@ Subsec. (f). Pub. L. 101–595, § 602(c)(2), amended subsec. (f) generally. Pri
 
 #### Effective Date of 1990 Amendment
 Pub. L. 101–595, title VI, § 602(f), Nov. 16, 1990, 104 Stat. 2992, provided that: “This section [amending this section and sections 2102, 3302, 5102, 8104, and 8702 of this title, and enacting provisions set out as a note under [section 7306 of this title](./chapter-073-merchant-mariners-documents.md#section-7306)] is effective on the date of enactment of this section [Nov. 16, 1990] except as follows: “(1) The requirements imposed by section 3302(c)(4)(B) and (C) of title 46, United States Code, (as enacted by subsection (b) of this section) is effective 6 months after the date of enactment of this Act. “(2) Before January 1, 1993, section 4502(c) (as amended by subsection (c) of this section) does not apply to a fish tender vessel engaged in the Aleutian trade, if the vessel—“(A)(i) before September 8, 1990, operated in that trade; or “(ii) before September 8, 1990, was purchased to be used in that trade and, before June 1, 1992, entered into service in that trade; and “(B) does not undergo a major conversion. “(3) Before January 1, 2003, a fish tender vessel is exempt from chapter 51 of title 46, United States Code, (as amended by subsection (d) of this section) when engaged in the Aleutian trade, if the vessel—“(A)(i) before September 8, 1990, operated in that trade; or “(ii) before September 8, 1990, was purchased to be used in this trade and, before June 1, 1992, entered into service in that trade; “(B) does not undergo a major conversion; and “(C) did not have a load line assigned at any time before the date of enactment of this Act. “(4) The requirements imposed by [section 8702(b)(2) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section8702/b/2&num=0&edition=prelim), United States Code, (as amended by subsection (e)(2)(B) of this section) are effective 1 year after the date of enactment of this Act.”
+
+#### Fishing Safety Grants
+Pub. L. 116–283, div. G, title LVXXXIII [LXXXIII], § 8321(c), Jan. 1, 2021, 134 Stat. 4702, provided that: “The cap on the Federal share of the cost of any activity carried out with a grant under subsections (i) and (j) of [section 4502 of title 46](./chapter-045-uninspected-commercial-fishing-industry-vessels.md#section-4502), United States Code, as in effect prior to the date of enactment of the Frank LoBiondo Coast Guard Authorization Act of 2018 [Dec. 4, 2018], shall apply to any funds appropriated under the Consolidated Appropriations Act, 2017 (Public Law 115–31) [see Tables for classification] for the purpose of making such grants.”
 
 #### Commercial Fishing Vessel Safety National Communications Plan
 Pub. L. 115–282, title VIII, § 830, Dec. 4, 2018, 132 Stat. 4315, provided that: “(a) Requirement for Plan.—Not later than 1 year after the date of enactment of this Act [Dec. 4, 2018], the Secretary of the department in which the Coast Guard is operating shall develop and submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a national communications plan for the purposes of—“(1) disseminating information to the commercial fishing vessel industry; “(2) conducting outreach with the commercial fishing vessel industry; “(3) facilitating interaction with the commercial fishing vessel industry; and “(4) releasing information collected under [section 15102 of title 46](./chapter-151-national-maritime-transportation-advisory-committees.md#section-15102), United States Code, as added by this Act, to the commercial fishing vessel industry. “(b) Content.—The plan required by subsection (a), and each annual update, shall—“(1) identify staff, resources, and systems available to the Secretary to ensure the widest dissemination of information to the commercial fishing vessel industry; “(2) include a means to document all communication and outreach conducted with the commercial fishing vessel industry; and “(3) include a mechanism to measure effectiveness of such plan. “(c) Implementation.—Not later than one year after submission of the initial plan, the Secretary of the department in which the Coast Guard is operating shall implement the plan and shall at a minimum—“(1) leverage Coast Guard staff, resources, and systems available; “(2) monitor implementation nationwide to ensure adherence to plan contents; “(3) allow each Captain of the Port to adopt the most effective strategy and means to communicate with [the] commercial fishing vessel industry in that Captain of the Port Zone; “(4) document communication and outreach; and “(5) solicit feedback from the commercial fishing vessel industry. “(d) Report and Updates.—The Secretary of the department in which the Coast Guard is operating shall—“(1) submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the effectiveness of the plan to date and any updates to ensure maximum impact of the plan one year after the date of enactment of this Act [Dec. 4, 2018], and every 4 years thereafter; and “(2) include in such report input from individual Captains of the Port and any feedback received from the commercial fishing vessel industry.”

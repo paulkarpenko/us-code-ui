@@ -58,11 +58,11 @@ The heat and light necessary for the authorized quarters of members of the Air F
 
 The word “members” is substituted for the words “officers and enlisted men”. The words “under such regulations as the Secretary of the Army may prescribe” are omitted, since the Secretary has inherent authority to issue regulations appropriate to exercising his statutory functions.
 
-#### Charges for Excess Energy Consumption; Deposit of Proceeds; Applicability; Implementation
-Assessment of members for excess energy consumption in military family housing facilities, see section 507 of Pub. L. 95–82, title V, Aug. 1, 1977, 91 Stat. 372, set out as a note under [section 4593 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4593&num=0&edition=prelim).
-
 #### Amendments
 2021—Pub. L. 116–283 inserted “and members of the Space Force” after “the Air Force”.
+
+#### Charges for Excess Energy Consumption; Deposit of Proceeds; Applicability; Implementation
+Assessment of members for excess energy consumption in military family housing facilities, see section 507 of Pub. L. 95–82, title V, Aug. 1, 1977, 91 Stat. 372, set out as a note under [section 4593 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4593&num=0&edition=prelim).
 
 
 <a id="section-9594"></a>

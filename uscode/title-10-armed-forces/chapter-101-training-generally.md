@@ -7,14 +7,29 @@ source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
 <a id="section-2001"></a>
-## § 2001. Repealed. Pub. L. 103–337, div. A, title XVI, § 1661(a)(3)(A), Oct. 5, 1994, 108 Stat. 2980]
+## § 2001. Human relations training
+**(a) Human Relations Training.—**
+
+(1)
+
+  (A) The Secretary of Defense shall ensure that the Secretary of each military department conducts ongoing programs for human relations training for all members of the armed forces under the jurisdiction of the Secretary.
+
+  (B) Matters covered by such training include race relations, equal opportunity, opposition to gender discrimination, and sensitivity to hate group activity.
+
+  (C) Such training shall be provided during basic training (or other initial military training) and on a regular basis thereafter.
+
+(2) The Secretary of Defense shall ensure that a unit commander is aware of the responsibility to ensure that impermissible activity, based upon discriminatory motives, does not occur in a unit under the command of such commander.
+
+**(b) Information Provided to Prospective Recruits.—** The Secretary of Defense shall ensure that—
+
+(1) each individual preparing to enter an officer accession program or to execute an original enlistment agreement is provided information concerning the meaning of the oath of office or oath of enlistment for service in the armed forces in terms of the equal protection and civil liberties guarantees of the Constitution; and
+
+(2) each such individual is informed that if supporting such guarantees is not possible personally for that individual, then that individual should decline to enter the armed forces.
 
 ### Statutory Notes
 
-Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 119, related to division of reserve components into training categories. See [section 10141(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section10141/c&num=0&edition=prelim).
-
-#### Effective Date of Repeal
-Repeal effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+#### Prior Provisions
+A prior section 2001, act Aug. 10, 1956, ch. 1041, 70A Stat. 119, related to division of reserve components into training categories, prior to repeal by Pub. L. 103–337, div. A, title XVI, § 1661(a)(3)(A), Oct. 5, 1994, 108 Stat. 2980. See [section 10141(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section10141/c&num=0&edition=prelim).
 
 
 <a id="section-2002"></a>
@@ -496,9 +511,9 @@ Pub. L. 113–66, div. A, title V, § 541(c), Dec. 26, 2013, 127 Stat. 762, prov
 
 **(d)**
 
-(1) A member of the armed forces who is entitled to basic educational assistance under chapter 30 of title 38 may use such entitlement for purposes of paying any portion of the charges described in subsection (a) or (c) that are not paid for by the Secretary of the military department concerned under such subsection.
+(1) A member of the armed forces who is entitled to basic educational assistance under chapter 30 of title 38 or chapter 1606 of this title may use such entitlement for purposes of paying any portion of the charges described in subsection (a) or (c) that are not paid for by the Secretary of the military department concerned under such subsection.
 
-(2) The use of entitlement under paragraph (1) shall be governed by the provisions of [section 3014(b) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3014/b&num=0&edition=prelim).
+(2) The use of entitlement under paragraph (1) shall be governed by the provisions of [section 3014(b) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3014/b&num=0&edition=prelim), in the case of educational assistance under chapter 30 of such title, and section 16131(k), in the case of educational assistance under chapter 1606 of this title.
 
 **(e)**
 
@@ -576,6 +591,10 @@ July 13, 1955, ch. 358, title VI, § 628, 69 Stat. 320.
 June 30, 1954, ch. 432, title VII, § 730, 68 Stat. 355.
 
 #### Amendments
+2021—Subsec. (d)(1). Pub. L. 117–81, § 559(b)(1), inserted “or chapter 1606 of this title” after “of title 38”.
+
+Subsec. (d)(2). Pub. L. 117–81, § 559(b)(2), inserted before period at end “, in the case of educational assistance under chapter 30 of such title, and section 16131(k), in the case of educational assistance under chapter 1606 of this title”.
+
 2017—Subsec. (e). Pub. L. 115–91 inserted “or 373” before “of title 37” in pars. (1) and (2).
 
 2008—Subsec. (a). Pub. L. 110–181, § 521(a), substituted “Subject to subsections (b) and (c), the Secretary concerned” for “Subject to subsection (b), the Secretary of a military department”.
@@ -773,7 +792,9 @@ Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as
 
 (2) Youth and charitable organizations specified in [section 508 of title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section508&num=0&edition=prelim).
 
-(3) Any other entity as may be approved by the Secretary of Defense on a case-by-case basis.
+(3) Owners and operators of critical infrastructure (as such term is defined in section 1016(e) of Public Law 107–56 ([42 U.S.C. 5195c(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5195c/e&num=0&edition=prelim))).
+
+(4) Any other entity as may be approved by the Secretary of Defense on a case-by-case basis.
 
 **(f) Regulations.—** The Secretary of Defense shall prescribe regulations governing the provision of assistance under this section. The regulations shall include the following:
 
@@ -788,6 +809,8 @@ Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as
   (B) does not duplicate other available public services.
 
 (4) Procedures to ensure that Department of Defense resources are not applied exclusively to the program receiving the assistance.
+
+(5) Procedures to ensure that assistance provided to an entity specified in subsection (e)(3) is provided in a manner that is consistent with similar assistance provided under authorities applicable to other Federal departments and agencies, including the authorities of the Cybersecurity and Infrastructure Security Agency of the Department of Homeland Security pursuant to title XXII of the Homeland Security Act of 2002 ([6 U.S.C. 651](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section651&num=0&edition=prelim) et seq.).
 
 **(g) Treatment of Member’s Participation in Provision of Support or Services.—**
 
@@ -824,9 +847,15 @@ Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as
 ### Statutory Notes
 
 #### References in Text
+The Homeland Security Act of 2002, referred to in subsec. (f)(5), is Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135. Title XXII of the Act is classified principally to subchapter XVIII (§ 651 et seq.) of chapter 1 of Title 6. For complete classification of this Act to the Code, see Short Title note set out under [section 101 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section101&num=0&edition=prelim) and Tables.
+
 The Federal Advisory Committee Act, referred to in subsec. (h)(3), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+2021—Subsec. (e)(3), (4). Pub. L. 117–81, § 1512(1), added par. (3) and redesignated former par. (3) as (4).
+
+Subsec. (f)(5). Pub. L. 117–81, § 1512(2), added par. (5).
+
 1998—Subsec. (j). Pub. L. 105–261 added subsec. (j).
 
 1997—Subsecs. (g) to (i). Pub. L. 105–85 added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
@@ -864,9 +893,9 @@ Pub. L. 104–106, div. A, title V, § 574, Feb. 10, 1996, 110 Stat. 356, provid
 
 (2) pay, or reimburse the member of a uniformed service for, all or a part of the necessary expenses of the training (without regard to subsections (a) and (b) of [section 3324 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3324&num=0&edition=prelim)), including among those expenses the necessary costs of the following:
 
-  (A) Travel and per diem instead of subsistence under sections 474 and 475 11 See References in Text note below. of title 37 and the Joint Travel Regulations for the Uniformed Services.
+  (A) Travel and per diem instead of subsistence under sections 474 11 See References in Text note below. and 475 1 of title 37 and the Joint Travel Regulations for the Uniformed Services.
 
-  (B) Transportation of immediate family, household goods and personal effects, packing, crating, temporarily storing, draying, and unpacking under sections 476 and 479 of title 37 and the Joint Travel Regulations for the Uniformed Services when the estimated costs of transportation and related services are less than the estimated aggregate per diem payments for the period of training.
+  (B) Transportation of immediate family, household goods and personal effects, packing, crating, temporarily storing, draying, and unpacking under sections 476 1 and 479 1 of title 37 and the Joint Travel Regulations for the Uniformed Services when the estimated costs of transportation and related services are less than the estimated aggregate per diem payments for the period of training.
 
   (C) Tuition and matriculation fees.
 
@@ -881,7 +910,11 @@ Pub. L. 104–106, div. A, title V, § 574, Feb. 10, 1996, 110 Stat. 356, provid
 ### Statutory Notes
 
 #### References in Text
+[Section 474 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section474&num=0&edition=prelim), referred to in subsec. (b)(2)(A), was repealed by Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767.
+
 [Section 475 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section475&num=0&edition=prelim), referred to in subsec. (b)(2)(A), was renumbered [section 405 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section405&num=0&edition=prelim) by Pub. L. 116–283, div. A, title VI, § 604(a)(1), Jan. 1, 2021, 134 Stat. 3672.
+
+Sections 476 and 479 of title 37, referred to in subsec. (b)(2)(A), were repealed by Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767.
 
 #### Amendments
 2014—Subsec. (a)(1). Pub. L. 113–291 substituted “[section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim)” for “section 6101(b)–(d) of title 41”.

@@ -226,7 +226,7 @@ Act May 28, 1896, abolished the circuit court and required the district court to
 
 “United States magistrate judge” and “magistrate judge” substituted in text for “United States magistrate” and “magistrate”, respectively, pursuant to section 321 of Pub. L. 101–650, set out as a note under [section 631 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section631&num=0&edition=prelim), Judiciary and Judicial Procedure. Previously, “magistrate” substituted for “commissioner” pursuant to Pub. L. 90–578. See chapter 43 (§ 631 et seq.) of Title 28.
 
-#### Acts Applicable to Commissioners of Circuit Court Applicable to United States Commissioners
+#### Acts Applicable to Commissioners of Circuit Court Also Applicable to United States Commissioners
 Act Mar. 2, 1901, provided in part that all acts or parts of acts applicable to commissioners of the circuit court, except as to appointment and fees, shall be applicable to United States commissioners.
 
 

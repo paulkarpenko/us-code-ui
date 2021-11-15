@@ -2,7 +2,7 @@
 title: 49
 chapter: '1'
 heading: ORGANIZATION
-section_count: 17
+section_count: 19
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49&num=0&edition=prelim
 ---
@@ -47,6 +47,9 @@ In subsection (b)(6), the words “transportation objectives” are substituted 
 #### Amendments
 1991—Subsec. (b)(4). Pub. L. 102–240 inserted “, through research and development or otherwise” after “advances in transportation”.
 
+#### Short Title of 2021 Amendment
+Pub. L. 117–58, div. B, § 20001, Nov. 15, 2021, 135 Stat. 652, provided that: “This division [see Tables for classification] may be cited as the ‘Surface Transportation Investment Act of 2021’.”
+
 #### Short Title of 2018 Amendment
 Pub. L. 115–420, § 1, Jan. 3, 2019, 132 Stat. 5444, provided that: “This Act [amending sections 310, 22901, 22902, 22904, 22905, 22907, 22908, 24102, 24103, 24319, 24711, 24905, 24910, 24911, and 26106 of this title, [section 402 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section402&num=0&edition=prelim), Highways, and [section 51314 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section51314&num=0&edition=prelim), Shipping, renumbering sections 24401 to 24408 of this title as sections 22901 to 22908 of this title, enacting provisions set out as a note under [section 24319 of this title](./chapter-243-amtrak.md#section-24319), and amending provisions set out as notes under sections 22905, 22907, and 26106 of this title] may be cited as the ‘Department of Transportation Reports Harmonization Act’.”
 
@@ -76,6 +79,9 @@ Pub. L. 111–314, § 4(d)(8), Dec. 18, 2010, 124 Stat. 3443, provided that: “
 
 #### Congressional Declaration of Policy Regarding National Intermodal Transportation System
 Pub. L. 102–240, § 2, Dec. 18, 1991, 105 Stat. 1914, which provided that it was the policy of the United States to develop a National Intermodal Transportation System consisting of all forms of transportation in a unified, interconnected manner, a National Highway System, improvements in public transportation achieving goals for improved air quality, energy conservation, international competitiveness, and mobility for elderly persons, persons with disabilities, and economically disadvantaged persons, was repealed and reenacted as [section 5501 of this title](./chapter-055-intermodal-transportation.md#section-5501) by Pub. L. 103–272, §§ 1(d), 7(b), July 5, 1994, 108 Stat. 848, 1379.
+
+#### Definitions of Terms in Div. B of Pub. L. 117–58
+Pub. L. 117–58, div. B, § 20002, Nov. 15, 2021, 135 Stat. 652, provided that: “In this division [see Short Title of 2021 Amendment note set out above]: “(1) Department.—The term ‘Department’ means the Department of Transportation. “(2) Secretary.—The term ‘Secretary’ means the Secretary of Transportation.”
 
 #### Definitions of Terms in Title I of Div. K of Pub. L. 115–254
 Pub. L. 115–254, div. K, title I, § 1902, Oct. 5, 2018, 132 Stat. 3542, provided that: “In this title [see Short Title of 2018 Amendment note set out above]: “(1) Administrator.—The term ‘Administrator’ means the Administrator of the TSA. “(2) Appropriate committees of congress.—The term ‘appropriate committees of Congress’ means—“(A) the Committee on Commerce, Science, and Transportation of the Senate; “(B) the Committee on Homeland Security and Governmental Affairs of the Senate; and “(C) the Committee on Homeland Security of the House of Representatives. “(3) ASAC.—The term ‘ASAC’ means the Aviation Security Advisory Committee established under [section 44946 of title 49](./chapter-449-security.md#section-44946), United States Code. “(4) Department.—The term ‘Department’ means the Department of Homeland Security. “(5) Explosive[s] detection canine team.—The term ‘explosives detection canine team’ means a canine and a canine handler that are trained to detect explosives and other threats as defined by the Secretary. “(6) Secretary.—The term ‘Secretary’ means the Secretary of Homeland Security. “(7) TSA.—The term ‘TSA’ means the Transportation Security Administration.”
@@ -153,9 +159,9 @@ George W. Bush.
 
 <a id="section-102"></a>
 ## § 102. Department of Transportation
-**(a)** The Department of Transportation is an executive department of the United States Government at the seat of Government.
+**(a)** The Department of Transportation (referred to in this section as the “Department”) is an executive department of the United States Government at the seat of Government.
 
-**(b)** The head of the Department is the Secretary of Transportation. The Secretary is appointed by the President, by and with the advice and consent of the Senate.
+**(b)** The head of the Department is the Secretary of Transportation (referred to in this section as the “Secretary”). The Secretary is appointed by the President, by and with the advice and consent of the Senate.
 
 **(c)** The Department has a Deputy Secretary of Transportation appointed by the President, by and with the advice and consent of the Senate. The Deputy Secretary—
 
@@ -167,21 +173,31 @@ George W. Bush.
 
 **(e) Assistant Secretaries; General Counsel.—**
 
-(1) **Appointment.—** — The Department has 6 Assistant Secretaries and a General Counsel, including—
+(1) **Appointment.—** — The Department has 7 Assistant Secretaries and a General Counsel, including—
 
   (A) an Assistant Secretary for Aviation and International Affairs, an Assistant Secretary for Governmental Affairs, an Assistant Secretary for Research and Technology, and an Assistant Secretary for Transportation Policy, who shall each be appointed by the President, with the advice and consent of the Senate;
 
   (B) an Assistant Secretary for Budget and Programs who shall be appointed by the President;
 
-  (C) an Assistant Secretary for Administration, who shall be appointed by the Secretary, with the approval of the President; and
+  (C) an Assistant Secretary for Administration, who shall be appointed by the Secretary, with the approval of the President;
 
-  (D) a General Counsel, who shall be appointed by the President, with the advice and consent of the Senate.
+  (D) an Assistant Secretary for Tribal Government Affairs, who shall be appointed by the President; and
+
+  (E) a General Counsel, who shall be appointed by the President, with the advice and consent of the Senate.
 
 (2) **Duties and powers.—** — The officers set forth in paragraph (1) shall carry out duties and powers prescribed by the Secretary. An Assistant Secretary or the General Counsel, in the order prescribed by the Secretary, acts for the Secretary when the Secretary, Deputy Secretary, and Under Secretary of Transportation for Policy are absent or unable to serve, or when the offices of the Secretary, Deputy Secretary, and Under Secretary of Transportation for Policy are vacant.
 
-**(f) Deputy Assistant Secretary for Tribal Government Affairs.—**
+**(f) Office of Tribal Government Affairs.—**
 
-(1) **Establishment.—** — In accordance with Federal policies promoting Indian self determination, the Department of Transportation shall have, within the office of the Secretary, a Deputy Assistant Secretary for Tribal Government Affairs appointed by the President to plan, coordinate, and implement the Department of Transportation policy and programs serving Indian tribes and tribal organizations and to coordinate tribal transportation programs and activities in all offices and administrations of the Department and to be a participant in any negotiated rulemaking relating to, or having an impact on, projects, programs, or funding associated with the tribal transportation program.
+(1) **Establishment.—** — There is established in the Department an Office of Tribal Government Affairs, under the Assistant Secretary for Tribal Government Affairs—
+
+  (A) to oversee the tribal self-governance program under [section 207 of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section207&num=0&edition=prelim);
+
+  (B) to plan, coordinate, and implement policies and programs serving Indian Tribes and Tribal organizations;
+
+  (C) to coordinate Tribal transportation programs and activities in all offices and administrations of the Department; and
+
+  (D) to be a participant in any negotiated rulemakings relating to, or having an impact on, projects, programs, or funding associated with the Tribal transportation program under [section 202 of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section202&num=0&edition=prelim).
 
 (2) **Reservation of trust obligations.—**
 
@@ -199,7 +215,111 @@ George W. Bush.
 
 (2) **Clearinghouse.—** — The Office shall establish a clearinghouse of solutions, including cost-effective congestion reduction approaches, to reduce air pollution and transportation-related energy use and mitigate the effects of climate change.
 
-**(h)** The Department shall have a seal that shall be judicially recognized.
+**(h) Interagency Infrastructure Permitting Improvement Center.—**
+
+(1) **Definitions.—** — In this subsection:
+
+  (A) *Center.—* — The term “Center” means the Interagency Infrastructure Permitting Improvement Center established by paragraph (2).
+
+  (B) *Project.—* — The term “project” means a project authorized or funded under—
+
+    (i) this title; or
+
+    (ii) title 14, 23, 46, or 51.
+
+(2) **Establishment.—** — There is established within the Office of the Secretary a center, to be known as the “Interagency Infrastructure Permitting Improvement Center”.
+
+(3) **Purposes.—** — The purposes of the Center shall be—
+
+  (A) to implement reforms to improve interagency coordination and expedite projects relating to the permitting and environmental review of major transportation infrastructure projects, including—
+
+    (i) developing and deploying information technology tools to track project schedules and metrics; and
+
+    (ii) improving the transparency and accountability of the permitting process;
+
+  (B)
+
+    (i) to identify appropriate methods to assess environmental impacts; and
+
+    (ii) to develop innovative methods for reasonable mitigation;
+
+  (C) to reduce uncertainty and delays with respect to environmental reviews and permitting; and
+
+  (D) to reduce costs and risks to taxpayers in project delivery.
+
+(4) **Executive director.—** — The Center shall be headed by an Executive Director, who shall—
+
+  (A) report to the Under Secretary of Transportation for Policy;
+
+  (B) be responsible for the management and oversight of the daily activities, decisions, operations, and personnel of the Center; and
+
+  (C) carry out such additional duties as the Secretary may prescribe.
+
+(5) **Duties.—** — The Center shall carry out the following duties:
+
+  (A) Coordinate and support implementation of priority reform actions for Federal agency permitting and reviews.
+
+  (B) Support modernization efforts at the operating administrations within the Department and interagency pilot programs relating to innovative approaches to the permitting and review of transportation infrastructure projects.
+
+  (C) Provide technical assistance and training to Department staff on policy changes, innovative approaches to project delivery, and other topics, as appropriate.
+
+  (D) Identify, develop, and track metrics for timeliness of permit reviews, permit decisions, and project outcomes.
+
+  (E) Administer and expand the use of online transparency tools providing for—
+
+    (i) tracking and reporting of metrics;
+
+    (ii) development and posting of schedules for permit reviews and permit decisions;
+
+    (iii) the sharing of best practices relating to efficient project permitting and reviews; and
+
+    (iv) the visual display of relevant geospatial data to support the permitting process.
+
+  (F) Submit to the Secretary reports describing progress made toward achieving—
+
+    (i) greater efficiency in permitting decisions and review of infrastructure projects; and
+
+    (ii) better outcomes for communities and the environment.
+
+(6) **Innovative best practices.—**
+
+  (A) *In general.—* — The Center shall work with the operating administrations within the Department, eligible entities, and other public and private interests to develop and promote best practices for innovative project delivery.
+
+  (B) *Activities.—* — The Center shall support the Department and operating administrations in conducting environmental reviews and permitting, together with project sponsor technical assistance activities, by—
+
+    (i) carrying out activities that are appropriate and consistent with the goals and policies of the Department to improve the delivery timelines for projects;
+
+    (ii) serving as the Department liaison to—
+
+      (I) the Council on Environmental Quality; and
+
+      (II) the Federal Permitting Improvement Steering Council established by section 41002(a) of the Fixing America’s Surface Transportation Act ([42 U.S.C. 4370m–1(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4370m–1/a&num=0&edition=prelim));
+
+    (iii) supporting the National Surface Transportation and Innovative Finance Bureau (referred to in this paragraph as the “Bureau”) in implementing activities to improve delivery timelines, as described in section 116(f), for projects carried out under the programs described in section 116(d)(1) for which the Bureau administers the application process;
+
+    (iv) leading activities to improve delivery timelines for projects carried out under programs not administered by the Bureau by—
+
+      (I) coordinating efforts to improve the efficiency and effectiveness of the environmental review and permitting process;
+
+      (II) providing technical assistance and training to field and headquarters staff of Federal agencies with respect to policy changes and innovative approaches to the delivery of projects; and
+
+      (III) identifying, developing, and tracking metrics for permit reviews and decisions by Federal agencies for projects under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.).
+
+  (C) *NEPA compliance assistance.—*
+
+    (i) *In general.—* — Subject to clause (ii), at the request of an entity that is carrying out a project, the Center, in coordination with the appropriate operating administrations within the Department, shall provide technical assistance relating to compliance with the applicable requirements of the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.) and applicable Federal authorizations.
+
+    (ii) *Assistance from the bureau.—* — For projects carried out under the programs described in section 116(d)(1) for which the Bureau administers the application process, the Bureau, on request of the entity carrying out the project, shall provide the technical assistance described in clause (i).
+
+**(i) Chief Travel and Tourism Officer.—**
+
+(1) **Establishment.—** — There is established in the Office of the Secretary of Transportation a position, to be known as the “Chief Travel and Tourism Officer”.
+
+(2) **Duties.—** — The Chief Travel and Tourism Officer shall collaborate with the Assistant Secretary for Aviation and International Affairs to carry out—
+
+  (A) the National Travel and Tourism Infrastructure Strategic Plan under section 1431(e) of Public Law 114–94 ([49 U.S.C. 301](./chapter-003-general-duties-and-powers.md#section-301) note); and
+
+  (B) other travel- and tourism-related matters involving the Department of Transportation.
 
 ### Statutory Notes
 
@@ -222,7 +342,28 @@ In subsection (d), the words “in the competitive service” are substituted fo
 
 In subsection (e), the words “The Secretary shall cause a . . . of office” and “of such device” are omitted as unnecessary because of the restatement. The words “as he shall approve” are omitted as unnecessary because subsection (b) of the section establishes the Secretary of Transportation as the head of the Department of Transportation.
 
+#### References in Text
+The National Environmental Policy Act of 1969, referred to in subsec. (h)(6)(B)(iii)(III), (C)(i), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+
 #### Amendments
+2021—Subsec. (a). Pub. L. 117–58, § 25009(a)(1), inserted “(referred to in this section as the ‘Department’)” after “Transportation”.
+
+Subsec. (b). Pub. L. 117–58, § 25009(a)(2), inserted “(referred to in this section as the ‘Secretary’)” after “Transportation” in first sentence.
+
+Subsec. (e)(1). Pub. L. 117–58, § 14009(1)(A), substituted “7 Assistant” for “6 Assistant” in introductory provisions.
+
+Subsec. (e)(1)(D), (E). Pub. L. 117–58, § 14009(1)(B)–(D), added subpar. (D) and redesignated former subpar. (D) as (E).
+
+Subsec. (f). Pub. L. 117–58, § 14009(2), substituted “Office of Tribal Government Affairs” for “Deputy Assistant Secretary for Tribal Government Affairs” in heading.
+
+Subsec. (f)(1). Pub. L. 117–58, § 14009(2), added par. (1) and struck out former par. (1) which provided for a Deputy Assistant Secretary for Tribal Government Affairs appointed by the President.
+
+Subsec. (h). Pub. L. 117–58, § 25009(a)(4), added subsec. (h). Former subsec. (h) redesignated (i) and subsequently struck out.
+
+Subsec. (i). Pub. L. 117–58, § 25018(b), added subsec. (i) and struck out former subsec. (i). Prior to amendment, text read as follows: “The Department shall have a seal that shall be judicially recognized.”
+
+Pub. L. 117–58, § 25009(a)(3), redesignated subsec. (h) as (i).
+
 2015—Subsec. (e)(1). Pub. L. 114–94, § 6011(a)(1), substituted “6” for “5” in introductory provisions.
 
 Subsec. (e)(1)(A). Pub. L. 114–94, § 6011(a)(2), inserted “an Assistant Secretary for Research and Technology,” after “Governmental Affairs,”.
@@ -245,6 +386,9 @@ Pub. L. 107–295, § 215(a)(1), redesignated subsec. (d) as (g).
 
 1984—Subsecs. (d), (e). Pub. L. 98–557 added subsec. (d) and redesignated former subsec. (d), relating to Assistant Secretaries and General Counsel, as (e).
 
+#### Effective Date of 2021 Amendment
+Amendment by section 14009 of Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as a note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
@@ -259,6 +403,9 @@ Pub. L. 107–295, title II, § 215(c), Nov. 25, 2002, 116 Stat. 2102, provided 
 
 #### Deemed References to Chapters 509 and 511 of Title 51
 General references to “this title” deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under [section 101 of this title](./chapter-001-organization.md#section-101).
+
+#### Rural Opportunities To Use Transportation for Economic Success Initiative
+Pub. L. 117–58, div. B, title V, § 25010, Nov. 15, 2021, 135 Stat. 854, provided that: “(a) Definitions.—In this section:“(1) Build america bureau.—The term ‘Build America Bureau’ means the National Surface Transportation and Innovative Finance Bureau established under [section 116 of title 49](./chapter-001-organization.md#section-116), United States Code. “(2) Indian tribe.—The term ‘Indian Tribe’ has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)). “(3) ROUTES council.—The term ‘ROUTES Council’ means the Rural Opportunities to Use Transportation for Economic Success Council established by subsection (c)(1). “(4) ROUTES office.—The term ‘ROUTES Office’ means the Rural Opportunities to Use Transportation for Economic Success Office established by subsection (b)(1). “(b) Routes Office.—“(1) In general.—The Secretary [of Transportation] shall establish within the Department [of Transportation] the Rural Opportunities to Use Transportation for Economic Success Office—“(A) to improve analysis of projects from rural areas, Indian Tribes, and historically disadvantaged communities in rural areas applying for Department discretionary grants, including ensuring that project costs, local resources, and the larger benefits to the people and the economy of the United States are appropriately considered; and “(B) to provide rural communities, Indian Tribes, and historically disadvantaged communities in rural areas with technical assistance for meeting the transportation infrastructure investment needs of the United States in a financially sustainable manner. “(2) Objectives.—The ROUTES Office shall—“(A) collect input from knowledgeable entities and the public on—“(i) the benefits of rural and Tribal transportation projects; “(ii) the technical and financial assistance required for constructing and operating transportation infrastructure and services within rural areas and on the land of Indian Tribes; “(iii) barriers and opportunities to funding transportation projects in rural areas and on the land of Indian Tribes; and “(iv) unique transportation barriers and challenges faced by Indian Tribes and historically disadvantaged communities in rural areas; “(B) evaluate data on transportation challenges faced by rural communities and Indian Tribes and determine methods to align the discretionary funding and financing opportunities of the Department with the needs of those communities for meeting national transportation goals; “(C) provide education and technical assistance to rural communities and Indian Tribes about applicable Department discretionary grants, develop effective methods to evaluate projects in those communities in discretionary grant programs, and communicate those methods through program guidance; “(D) carry out research and utilize innovative approaches to resolve the transportation challenges faced by rural areas and Indian Tribes; and “(E) perform such other duties as determined by the Secretary. “(c) Routes Council.—“(1) In general.—The Secretary shall establish a Rural Opportunities to Use Transportation for Economic Success Council—“(A) to organize, guide, and lead the ROUTES Office; and “(B) to coordinate rural-related and Tribal-related funding programs and assistance among the modal administrations of the Department, the offices of the Department, and other Federal agencies, as appropriate—“(i) to ensure that the unique transportation needs and attributes of rural areas and Indian Tribes are fully addressed during the development and implementation of programs, policies, and activities of the Department; “(ii) to increase coordination of programs, policies, and activities of the Department in a manner that improves and expands transportation infrastructure in order to further economic development in, and the quality of life of, rural areas and Indian Tribes; and “(iii) to provide rural areas and Indian Tribes with proactive outreach— “(I) to improve access to discretionary funding and financing programs; and “(II) to facilitate timely resolution of environmental reviews for complex or high-priority projects. “(2) Membership.—“(A) In general.—The ROUTES Council shall be composed of the following officers of the Department, or their designees:“(i) The Deputy Secretary of Transportation. “(ii) The Under Secretary of Transportation for Policy. “(iii) The General Counsel. “(iv) The Chief Financial Officer and Assistant Secretary for Budget and Programs. “(v) The Assistant Secretary for Research and Technology. “(vi) The Assistant Secretary for Multimodal Freight. “(vii) The Administrators of— “(I) the Federal Aviation Administration; “(II) the Federal Highway Administration; “(III) the Federal Railroad Administration; and “(IV) the Federal Transit Administration. “(viii) The Executive Director of the Build America Bureau. “(ix) The Assistant Secretary for Governmental Affairs. “(x) The Assistant Secretary for Transportation Policy. “(xi) The Deputy Assistant Secretary for Tribal Government Affairs. “(B) Chair.—The Deputy Secretary of Transportation shall be the Chair of the ROUTES Council. “(C) Additional members.—The Secretary or the Chair of the ROUTES Council may designate additional members to serve on the ROUTES Council. “(3) Additional modal input.—To address issues related to safety and transport of commodities produced in or by, or transported through, as applicable, rural areas, Indian Tribes, or the land of Indian Tribes, the ROUTES Council shall consult with the Administrators (or their designees) of—“(A) the Maritime Administration; “(B) the Great Lakes St. Lawrence Seaway Development Corporation; and “(C) the National Highway Traffic Safety Administration. “(4) Duties.—Members of the ROUTES Council shall—“(A) participate in all meetings and relevant ROUTES Council activities and be prepared to share information relevant to rural and Tribal transportation infrastructure projects and issues; “(B) provide guidance and leadership on rural and Tribal transportation infrastructure issues and represent the work of the ROUTES Council and the Department on those issues to external stakeholders; and “(C) recommend initiatives for the consideration of the Chair of the ROUTES Council to establish and staff any resulting activities or working groups. “(5) Meetings.—The ROUTES Council shall meet bimonthly. “(6) Additional staffing.—The Secretary shall ensure that the ROUTES Council and ROUTES Office have adequate staff support to carry out the duties of the ROUTES Council and the ROUTES Office, respectively, under this section. “(7) Work products and deliverables.—The ROUTES Council may develop work products or deliverables to meet the goals of the ROUTES Council, including—“(A) an annual report to Congress describing ROUTES Council activities for the past year and expected activities for the coming year; “(B) any recommendations to enhance the effectiveness of Department discretionary grant programs regarding rural and Tribal infrastructure issues; and “(C) other guides and reports for relevant groups and the public.”
 
 #### Highly Automated Systems Safety Center of Excellence
 Pub. L. 116–94, div. H, title I, § 105, Dec. 20, 2019, 133 Stat. 2938, provided that: “(a) The Secretary shall establish a Highly Automated Systems Safety Center of Excellence within the Department of Transportation, in order to have a Department of Transportation workforce capable of reviewing, assessing, and validating the safety of automated technologies. “(b) The Highly Automated Systems Safety Center of Excellence shall—“(1) serve as a central location within the Department of Transportation for expertise in automation and human factors, computer science, data analytics, machine learning, sensors, and other technologies involving automated systems; “(2) collaborate with and provide support on highly automated systems to all Operating Administrations of the Department of Transportation; and “(3) have a workforce composed of Department of Transportation employees, including direct hires or detailees from Operating Administrations of the Department of Transportation and other Federal agencies. “(c) Employees of the Highly Automated Systems Safety Center of Excellence, in conjunction with the relevant Operating Administrations of the Department of Transportation, shall review, assess, and validate highly automated systems to ensure their safety. “(d) The Highly Automated Systems Safety Center of Excellence shall not supersede laws or regulations granting certification authorities to Operating Administrations of the Department of Transportation. “(e) No later than 90 days after the date of enactment of this Act [Dec. 20, 2019], the Secretary shall report to the Committees on Appropriations of the House of Representatives and the Senate on staffing needs and the staffing plan for the Highly Automated Systems Safety Center of Excellence.”
@@ -275,10 +422,10 @@ Pub. L. 109–59, title V, § 5510, Aug. 10, 2005, 119 Stat. 1828, provided that
 Pub. L. 105–178, title V, § 5003, June 9, 1998, 112 Stat. 422, provided that: “(a) Notice of Reprogramming.—If any funds authorized for carrying out this title [see Tables for classification] or the amendments made by this title are subject to a reprogramming action that requires notice to be provided to the Committees on Appropriations of the House of Representatives and the Senate, notice of such action shall concurrently be provided to the Committee on Transportation and Infrastructure and the Committee on Science [now Committee on Science, Space, and Technology] of the House of Representatives and the Committee on Environment and Public Works of the Senate. “(b) Notice of Reorganization.—On or before the 15th day preceding the date of any major reorganization of a program, project, or activity of the Department of Transportation for which funds are authorized by this title or the amendments made by this title, the Secretary shall provide notice of such reorganization to the Committee on Transportation and Infrastructure and the Committee on Science [now Committee on Science, Space, and Technology] of the House of Representatives and the Committee on Environment and Public Works of the Senate.”
 
 #### Surface Transportation Administration
-Pub. L. 102–240, title V, § 5004, Dec. 18, 1991, 105 Stat. 2160, provided that: “(a) Study.—Not later than 60 days after the date of the enactment of this Act [Dec. 18, 1991], the Secretary shall enter into an agreement with the National Academy of Public Administration to continue a study of options for organizing the Department of Transportation to increase the effectiveness of program delivery, reduce costs, and improve intermodal coordination among surface transportation-related agencies. “(b) Report.—The Secretary shall report to Congress on the findings of the study continued under subsection (a) and recommend appropriate organizational changes no later than January 1, 1993. No organizational changes shall be implemented until such changes are approved by law.”
+Pub. L. 102–240, title V, § 5004, Dec. 18, 1991, 105 Stat. 2160, provided that, not later than 60 days after Dec. 18, 1991, the Secretary was to enter into an agreement with the National Academy of Public Administration to continue a study of options for organizing the Department of Transportation to increase effectiveness and report to Congress on the study and recommend appropriate organizational changes no later than Jan. 1, 1993, to be implemented if approved by law.
 
 #### Person Holding Position of Associate Deputy Secretary Until April 15, 1985
-Pub. L. 98–557, § 26(c), Oct. 30, 1984, 98 Stat. 2873, provided that: “Notwithstanding any other provision of law, until April 15, 1985, the position created by subsection (a) of this section [adding subsec. (d) of this section] may be held by a person named by the President alone from among qualified individuals.”
+Pub. L. 98–557, § 26(c), Oct. 30, 1984, 98 Stat. 2873, provided that, until Apr. 15, 1985, the position of Associate Deputy Secretary could be held by a person named by the President alone.
 
 #### Ex. Ord. No. 11340. Effective Date
 Ex. Ord. No. 11340, Mar. 30, 1967, 32 F.R. 5453, provided:
@@ -1067,7 +1214,7 @@ Pub. L. 112–141, div. C, title I, § 31401, July 6, 2012, 126 Stat. 772, provi
 
   (D) summaries of the responses of the Administrator to such recommendations; and
 
-  (E) A summary of the activities of the Whistleblower Ombudsman, including—
+  (E) A 11 So in original. Probably should not be capitalized. summary of the activities of the Whistleblower Ombudsman, including—
 
     (i) the number of employee consultations conducted by the Whistleblower Ombudsman in the preceding 12-month period and a summary of such consultations and their resolution (in a de-identified or anonymized form); and
 
@@ -1077,7 +1224,7 @@ Pub. L. 112–141, div. C, title I, § 31401, July 6, 2012, 126 Stat. 772, provi
 
   (A) *In general.—* — Within the Office, there shall be established the position of Whistleblower Ombudsman.
 
-  (B) *Ombudsman qualifications.—* — The individual selected as Ombudsman shall have knowledge of Federal labor law and demonstrated government experience in human resource management, and conflict resolution.
+  (B) *Ombudsman qualifications.—* — The individual selected as Ombudsman shall have knowledge of Federal labor law and demonstrated government experience in human resource management,22 So in original. The comma probably should not appear. and conflict resolution.
 
   (C) *Duties.—* — The Ombudsman shall carry out the following duties:
 
@@ -1538,6 +1685,9 @@ Pub. L. 104–264, title II, § 203, Oct. 9, 1996, 110 Stat. 3227, provided that
 
 #### Deemed References to Chapters 509 and 511 of Title 51
 General references to “this title” deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under [section 101 of this title](./chapter-001-organization.md#section-101).
+
+#### Emergency FAA Employee Leave Fund
+Pub. L. 117–2, title VII, § 7103, Mar. 11, 2021, 135 Stat. 98, provided that: “(a) Establishment; Appropriation.—There is established in the Federal Aviation Administration the Emergency FAA Employee Leave Fund (in this section referred to as the ‘Fund’), to be administered by the Administrator of the Federal Aviation Administration, for the purposes set forth in subsection (b). In addition to amounts otherwise available, there is appropriated for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $9,000,000, which shall be deposited into the Fund and remain available through September 30, 2022. “(b) Purpose.—Amounts in the Fund shall be available to the Administrator for the use of paid leave under this section by any employee of the Administration who is unable to work because the employee—“(1) is subject to a Federal, State, or local quarantine or isolation order related to COVID–19; “(2) has been advised by a health care provider to self-quarantine due to concerns related to COVID–19; “(3) is caring for an individual who is subject to such an order or has been so advised; “(4) is experiencing symptoms of COVID–19 and seeking a medical diagnosis; “(5) is caring for a son or daughter of such employee if the school or place of care of the son or daughter has been closed, if the school of such son or daughter requires or makes optional a virtual learning instruction model or requires or makes optional a hybrid of in-person and virtual learning instruction models, or the child care provider of such son or daughter is unavailable, due to COVID–19 precautions; “(6) is experiencing any other substantially similar condition; “(7) is caring for a family member with a mental or physical disability or who is 55 years of age or older and incapable of self-care, without regard to whether another individual other than the employee is available to care for such family member, if the place of care for such family member is closed or the direct care provider is unavailable due to COVID–19; or “(8) is obtaining immunization related to COVID–19 or is recovering from any injury, disability, illness, or condition related to such immunization. “(c) Limitations.—“(1) Period of availability.—Paid leave under this section may only be provided to and used by an employee of the Administration during the period beginning on the date of enactment of this section [Mar. 11, 2021] and ending on September 30, 2021. “(2) Total hours; amount.—Paid leave under this section—“(A) shall be provided to an employee of the Administration in an amount not to exceed 600 hours of paid leave for each full-time employee, and in the case of a part-time employee, employee on an uncommon tour of duty, or employee with a seasonal work schedule, in an amount not to exceed the proportional equivalent of 600 hours to the extent amounts in the Fund remain available for reimbursement; “(B) shall be paid at the same hourly rate as other leave payments; and “(C) may not be provided to an employee if the leave would result in payments greater than $2,800 in aggregate for any biweekly pay period for a full-time employee, or a proportionally equivalent biweekly limit for a part-time employee. “(3) Relationship to other leave.—Paid leave under this section—“(A) is in addition to any other leave provided to an employee of the Administration; and “(B) may not be used by an employee of the Administration concurrently with any other paid leave. “(4) Calculation of retirement benefit.—Any paid leave provided to an employee of the Administration under this section shall reduce the total service used to calculate any Federal civilian retirement benefit.”
 
 #### Regional Ombudsmen
 Pub. L. 115–254, div. B, title I, § 180, Oct. 5, 2018, 132 Stat. 3230, provided that: “(a) In General.—Not later than 1 year after the date of enactment of this Act [Oct. 5, 2018], with respect to each region of the Federal Aviation Administration, the Regional Administrator for that region shall designate an individual to be the Regional Ombudsman for the region. “(b) Requirements.—Each Regional Ombudsman shall—“(1) serve as a regional liaison with the public, including community groups, on issues regarding aircraft noise, pollution, and safety; “(2) make recommendations to the Administrator for the region to address concerns raised by the public and improve the consideration of public comments in decision-making processes; and “(3) be consulted on proposed changes in aircraft operations affecting the region, including arrival and departure routes, in order to minimize environmental impacts, including noise.”
@@ -2557,6 +2707,62 @@ Pub. L. 106–159, title I, § 106, Dec. 9, 1999, 113 Stat. 1756, provided that:
 
   (B) an update of the list not later than 5 days after any new individual is appointed under paragraph (1).
 
+**(x) Transportation Security Preparedness Plan.—**
+
+(1) **In general.—** — Not later than two years after the date of the enactment of this subsection, the Secretary of Homeland Security, acting through the Administrator, in coordination with the Chief Medical Officer of the Department of Homeland Security, and in consultation with the partners identified under paragraphs (3)(A)(i) through (3)(A)(iv), shall develop a transportation security preparedness plan to address the event of a communicable disease outbreak. The Secretary, acting through the Administrator, shall ensure such plan aligns with relevant Federal plans and strategies for communicable disease outbreaks.
+
+(2) **Considerations.—** — In developing the plan required under paragraph (1), the Secretary, acting through the Administrator, shall consider each of the following:
+
+  (A) The findings of the survey required under section 6411 of the National Defense Authorization Act for Fiscal Year 2022.
+
+  (B) The findings of the analysis required under section 6414 of the National Defense Authorization Act for Fiscal Year 2022.
+
+  (C) The plan required under section 6415 of the National Defense Authorization Act for Fiscal Year 2022.
+
+  (D) All relevant reports and recommendations regarding the Administration’s response to the COVID–19 pandemic, including any reports and recommendations issued by the Comptroller General and the Inspector General of the Department of Homeland Security.
+
+  (E) Lessons learned from Federal interagency efforts during the COVID–19 pandemic.
+
+(3) **Contents of plan.—** — The plan developed under paragraph (1) shall include each of the following:
+
+  (A) Plans for communicating and collaborating in the event of a communicable disease outbreak with the following partners:
+
+    (i) Appropriate Federal departments and agencies, including the Department of Health and Human Services, the Centers for Disease Control and Prevention, the Department of Transportation, the Department of Labor, and appropriate interagency task forces.
+
+    (ii) The workforce of the Administration, including through the labor organization certified as the exclusive representative of full- and part-time non-supervisory Administration personnel carrying out screening functions under [section 44901 of this title](./chapter-449-security.md#section-44901).
+
+    (iii) International partners, including the International Civil Aviation Organization and foreign governments, airports, and air carriers.
+
+    (iv) Public and private stakeholders, as such term is defined under subsection (t)(1)(C).
+
+    (v) The traveling public.
+
+  (B) Plans for protecting the safety of the Transportation Security Administration workforce, including—
+
+    (i) reducing the risk of communicable disease transmission at screening checkpoints and within the Administration’s workforce related to the Administration’s transportation security operations and mission;
+
+    (ii) ensuring the safety and hygiene of screening checkpoints and other workstations;
+
+    (iii) supporting equitable and appropriate access to relevant vaccines, prescriptions, and other medical care; and
+
+    (iv) tracking rates of employee illness, recovery, and death.
+
+  (C) Criteria for determining the conditions that may warrant the integration of additional actions in the aviation screening system in response to the communicable disease outbreak and a range of potential roles and responsibilities that align with such conditions.
+
+  (D) Contingency plans for temporarily adjusting checkpoint operations to provide for passenger and employee safety while maintaining security during the communicable disease outbreak.
+
+  (E) Provisions setting forth criteria for establishing an interagency task force or other standing engagement platform with other appropriate Federal departments and agencies, including the Department of Health and Human Services and the Department of Transportation, to address such communicable disease outbreak.
+
+  (F) A description of scenarios in which the Administrator should consider exercising authorities provided under subsection (g) and for what purposes.
+
+  (G) Considerations for assessing the appropriateness of issuing security directives and emergency amendments to regulated parties in various modes of transportation, including surface transportation, and plans for ensuring compliance with such measures.
+
+  (H) A description of any potential obstacles, including funding constraints and limitations to authorities, that could restrict the ability of the Administration to respond appropriately to a communicable disease outbreak.
+
+(4) **Dissemination.—** — Upon development of the plan required under paragraph (1), the Administrator shall disseminate the plan to the partners identified under paragraph (3)(A) and to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Commerce, Science, and Transportation of the Senate.
+
+(5) **Review of plan.—** — Not later than two years after the date on which the plan is disseminated under paragraph (4), and biennially thereafter, the Secretary, acting through the Administrator and in coordination with the Chief Medical Officer of the Department of Homeland Security, shall review the plan and, after consultation with the partners identified under paragraphs (3)(A)(i) through (3)(A)(iv), update the plan as appropriate.
+
 ### Statutory Notes
 
 #### References in Text
@@ -2570,7 +2776,17 @@ The Implementing Recommendations of the 9/11 Commission Act of 2007, referred to
 
 The date of enactment of the Implementing Recommendations of the 9/11 Commission Act of 2007, referred to in subsec. (s)(3)(F), is the date of enactment of Pub. L. 110–53, which was approved Aug. 3, 2007.
 
+The date of the enactment of this subsection, referred to in subsec. (x)(1), is the date of enactment of Pub. L. 117–81, which was approved Dec. 27, 2021.
+
+Section 6411 of the National Defense Authorization Act for Fiscal Year 2022, referred to in subsec. (x)(2)(A), is section 6411 of div. F of Pub. L. 117–81, Dec. 27, 2021, 135 Stat. 2409, which is not classified to the Code.
+
+Section 6414 of the National Defense Authorization Act for Fiscal Year 2022, referred to in subsec. (x)(2)(B), is section 6414 of div. F of Pub. L. 117–81, Dec. 27, 2021, 135 Stat. 2412, which is not classified to the Code.
+
+Section 6415 of the National Defense Authorization Act for Fiscal Year 2022, referred to in subsec. (x)(2)(C), is section 6415 of Pub. L. 117–81, which is set out as a note under [section 44901 of this title](./chapter-449-security.md#section-44901).
+
 #### Amendments
+2021—Subsec. (x). Pub. L. 117–81 added subsec. (x).
+
 2018—Pub. L. 115–254, § 1904(a)(3), substituted “Administrator” for “Under Secretary” wherever appearing in subsecs. (c) to (n), (p), (q), and (r).
 
 Subsec. (a). Pub. L. 115–254, § 1904(a)(1), substituted “Department of Homeland Security” for “Department of Transportation”.
@@ -2715,6 +2931,15 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 #### Transfer of Functions
 For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+
+#### Authorization of Transportation Security Administration Personnel Details
+Pub. L. 117–81, div. F, title LXIV, § 6413, Dec. 27, 2021, 135 Stat. 2412, provided that: “(a) Coordination.—Pursuant to sections 106(m) and 114(m) of title 49, United States Code, the Administrator of the Transportation Security Administration may provide Transportation Security Administration personnel, who are not engaged in front line transportation security efforts, to other components of the Department and other Federal agencies to improve coordination with such components and agencies to prepare for, protect against, and respond to public health threats to the transportation security system of the United States. “(b) Briefing.—Not later than 180 days after the date of the enactment of this Act [Dec. 27, 2021], the Administrator shall brief the appropriate congressional committees regarding efforts to improve coordination with other components of the Department of Homeland Security and other Federal agencies to prepare for, protect against, and respond to public health threats to the transportation security system of the United States.”
+
+#### Aviation Security
+Pub. L. 117–81, div. F, title LXIV, § 6423(b), Dec. 27, 2021, 135 Stat. 2420, provided that: “(1) In general.—Not later than 60 days after the date of the enactment of this Act [Dec. 27, 2021], the Administrator of the Transportation Security Administration shall develop and implement guidelines with respect to domestic and last point of departure airports to—“(A) ensure the inclusion, as appropriate, of air carriers, domestic airport operators, and other transportation security stakeholders in the development and implementation of security directives and emergency amendments; “(B) document input provided by air carriers, domestic airport operators, and other transportation security stakeholders during the security directive and emergency amendment, development, and implementation processes; “(C) define a process, including timeframes, and with the inclusion of feedback from air carriers, domestic airport operators, and other transportation security stakeholders, for cancelling or incorporating security directives and emergency amendments into security programs; “(D) conduct engagement with foreign partners on the implementation of security directives and emergency amendments, as appropriate, including recognition if existing security measures at a last point of departure airport are found to provide commensurate security as intended by potential new security directives and emergency amendments; and “(E) ensure that new security directives and emergency amendments are focused on defined security outcomes. “(2) Briefing to congress.—Not later than 90 days after the date of the enactment of this Act [Dec. 27, 2021], the Administrator of the Transportation Security Administration shall brief the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the guidelines described in paragraph (1). “(3) Decisions not subject to judicial review.—Notwithstanding any other provision of law, any action of the Administrator of the Transportation Security Administration under paragraph (1) is not subject to judicial review.”
+
+#### Emergency TSA Employee Leave Fund
+Pub. L. 117–2, title VII, § 7104, Mar. 11, 2021, 135 Stat. 100, provided that: “(a) Establishment; Appropriation.—There is established in the Transportation Security Administration (in this section referred to as the ‘Administration’) the Emergency TSA Employee Leave Fund (in this section referred to as the ‘Fund’), to be administered by the Administrator of the Administration, for the purposes set forth in subsection (b). In addition to amounts otherwise available, there is appropriated for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $13,000,000, which shall be deposited into the Fund and remain available through September 30, 2022. “(b) Purpose.—Amounts in the Fund shall be available to the Administration for the use of paid leave under this section by any employee of the Administration who is unable to work because the employee—“(1) is subject to a Federal, State, or local quarantine or isolation order related to COVID–19; “(2) has been advised by a health care provider to self-quarantine due to concerns related to COVID–19; “(3) is caring for an individual who is subject to such an order or has been so advised; “(4) is experiencing symptoms of COVID–19 and seeking a medical diagnosis; “(5) is caring for a son or daughter of such employee if the school or place of care of the son or daughter has been closed, if the school of such son or daughter requires or makes optional a virtual learning instruction model or requires or makes optional a hybrid of in-person and virtual learning instruction models, or the child care provider of such son or daughter is unavailable, due to COVID–19 precautions; “(6) is experiencing any other substantially similar condition; “(7) is caring for a family member with a mental or physical disability or who is 55 years of age or older and incapable of self-care, without regard to whether another individual other than the employee is available to care for such family member, if the place of care for such family member is closed or the direct care provider is unavailable due to COVID–19; or “(8) is obtaining immunization related to COVID–19 or is recovering from any injury, disability, illness, or condition related to such immunization. “(c) Limitations.—“(1) Period of availability.—Paid leave under this section may only be provided to and used by an employee of the Administration during the period beginning on the date of enactment of this section [Mar. 11, 2021] and ending on September 30, 2021. “(2) Total hours; amount.—Paid leave under this section—“(A) shall be provided to an employee of the Administration in an amount not to exceed 600 hours of paid leave for each full-time employee, and in the case of a part-time employee, employee on an uncommon tour of duty, or employee with a seasonal work schedule, in an amount not to exceed the proportional equivalent of 600 hours to the extent amounts in the Fund remain available for reimbursement; “(B) shall be paid at the same hourly rate as other leave payments; and “(C) may not be provided to an employee if the leave would result in payments greater than $2,800 in aggregate for any biweekly pay period for a full-time employee, or a proportionally equivalent biweekly limit for a part-time employee. “(3) Relationship to other leave.—Paid leave under this section—“(A) is in addition to any other leave provided to an employee of the Administration; and “(B) may not be used by an employee of the Administration concurrently with any other paid leave. “(4) Calculation of retirement benefit.—Any paid leave provided to an employee of the Administration under this section shall reduce the total service used to calculate any Federal civilian retirement benefit.”
 
 #### Deemed References to Chapters 509 and 511 of Title 51
 General references to “this title” deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under [section 101 of this title](./chapter-001-organization.md#section-101).
@@ -2919,11 +3144,11 @@ For transfer of functions, personnel, assets, and liabilities of the Transportat
 
   (A) The infrastructure finance programs authorized under chapter 6 of title 23.
 
-  (B) The railroad rehabilitation and improvement financing program authorized under sections 501 through 503 of the Railroad Revitalization and Regulatory Reform Act of 1976 ([45 U.S.C. 821–823](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section821–823&num=0&edition=prelim)).
+  (B) The railroad rehabilitation and improvement financing program authorized under sections 22401 through 22403.
 
   (C) Amount allocations authorized under section 142(m) of the Internal Revenue Code of 1986.
 
-  (D) The nationally significant freight and highway projects program under [section 117 of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section117&num=0&edition=prelim).
+  (D) The Rural and Tribal Assistance Pilot Program established under section 21205(b)(1) of the Surface Transportation Investment Act of 2021.
 
 (2) **Congressional notification.—** — The Executive Director shall ensure that the congressional notification requirements for each program referred to in paragraph (1) are followed in accordance with the statutory provisions applicable to the program.
 
@@ -3007,13 +3232,11 @@ For transfer of functions, personnel, assets, and liabilities of the Transportat
 
 (2) **Activities.—** — The Bureau shall carry out paragraph (1)—
 
-  (A) by serving as the Department’s liaison to the Council on Environmental Quality;
+  (A) by coordinating efforts to improve the efficiency and effectiveness of the environmental review and permitting process;
 
-  (B) by coordinating efforts to improve the efficiency and effectiveness of the environmental review and permitting process;
+  (B) by providing technical assistance and training to field and headquarters staff of Federal agencies on policy changes and innovative approaches to the delivery of projects; and
 
-  (C) by providing technical assistance and training to field and headquarters staff of Federal agencies on policy changes and innovative approaches to the delivery of projects; and
-
-  (D) by identifying, developing, and tracking metrics for permit reviews and decisions by Federal agencies for projects under the National Environmental Policy Act of 1969.
+  (C) by identifying, developing, and tracking metrics for permit reviews and decisions by Federal agencies for projects under the National Environmental Policy Act of 1969.
 
 (3) **Support to project sponsors.—** — At the request of an eligible entity that is carrying out a project under a program referred to in subsection (d)(1), the Bureau, in coordination with the appropriate modal administrations within the Department, shall provide technical assistance with regard to the compliance of the project with the requirements of the National Environmental Policy Act 1969 and relevant Federal environmental permits.
 
@@ -3096,15 +3319,28 @@ For transfer of functions, personnel, assets, and liabilities of the Transportat
 #### References in Text
 Section 142 of the Internal Revenue Code of 1986, referred to in subsec. (d)(1)(C), is classified to [section 142 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section142&num=0&edition=prelim), Internal Revenue Code.
 
+Section 21205(b)(1) of the Surface Transportation Investment Act of 2021, referred to in subsec. (d)(1)(D), is section 21205(b)(1) of Pub. L. 117–58, which is set out in a note below.
+
 The date of enactment of this section, referred to in subsecs. (d)(5), (6)(B)(iii), (h)(4), and (i)(3), is the date of enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
 
 The National Environmental Policy Act of 1969, referred to in subsec. (f)(2)(D), (3), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2021—Subsec. (d)(1)(B). Pub. L. 117–58, § 21301(j)(4)(A), substituted “sections 22401 through 22403” for “sections 501 through 503 of the Railroad Revitalization and Regulatory Reform Act of 1976 ([45 U.S.C. 821–823](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section821–823&num=0&edition=prelim))”.
+
+Subsec. (d)(1)(D). Pub. L. 117–58, § 21205(h), added subpar. (D). Former subpar. (D) struck out.
+
+Pub. L. 117–58, § 21101(d)(4), struck out subpar. (D) which read as follows: “The nationally significant freight and highway projects program under [section 117 of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section117&num=0&edition=prelim).”
+
+Subsec. (f)(2). Pub. L. 117–58, § 25009(b), redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out former subpar. (A) which read as follows: “by serving as the Department’s liaison to the Council on Environmental Quality;”.
+
 2018—Subsec. (h)(3)(D)(i), (ii). Pub. L. 115–56, § 164(a), as added by Pub. L. 115–123, § 20101(2), substituted “The” for “During the 2-year period beginning on the date of enactment of this section, the” and inserted at end “Any such funds or limitation of obligations or portions thereof transferred to the Bureau may be transferred back to and merged with the original account.”
 
 #### Effective Date
 Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as an Effective Date of 2015 Amendment note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
+#### Rural and Tribal Infrastructure Advancement
+Pub. L. 117–58, div. B, title I, § 21205(a)–(h), Nov. 15, 2021, 135 Stat. 680–682, provided that: “(a) Definitions.—In this section:“(1) Build america bureau.—The term ‘Build America Bureau’ means the National Surface Transportation and Innovative Finance Bureau established under [section 116 of title 49](./chapter-001-organization.md#section-116), United States Code. “(2) Eligible entity.—The term ‘eligible entity’ means—“(A) a unit of local government or political subdivision that is located outside of an urbanized area with a population of more than 150,000 residents, as determined by the Bureau of the Census; “(B) a State seeking to advance a project located in an area described in subparagraph (A); “(C) a federally recognized Indian Tribe; and “(D) the Department of Hawaiian Home Lands. “(3) Eligible program.—The term ‘eligible program’ means any program described in—“(A) subparagraph (A) or (B) of [section 116(d)(1) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section116/d/1&num=0&edition=prelim), United States Code; “(B) section 118(d)(3)(A) of that title (as added by section 21101(a)); or “(C) chapter 67 of that title (as added by section 21201). “(4) Pilot program.—The term ‘pilot program’ means the Rural and Tribal Assistance Pilot Program established under subsection (b)(1). “(b) Establishment.—“(1) In general.—The Secretary [of Transportation] shall establish within the Build America Bureau a pilot program, to be known as the ‘Rural and Tribal Assistance Pilot Program’, to provide to eligible entities the assistance and information described in paragraph (2). “(2) Assistance and information.—In carrying out the pilot program, the Secretary may provide to an eligible entity the following:“(A) Financial, technical, and legal assistance to evaluate potential projects reasonably expected to be eligible to receive funding or financing assistance under an eligible program. “(B) Assistance with development-phase activities, including—“(i) project planning; “(ii) feasibility studies; “(iii) revenue forecasting and funding and financing options analyses; “(iv) environmental review; “(v) preliminary engineering and design work; “(vi) economic assessments and cost-benefit analyses; “(vii) public benefit studies; “(viii) statutory and regulatory framework analyses; “(ix) value for money studies; “(x) evaluations of costs to sustain the project; “(xi) evaluating opportunities for private financing and project bundling; and “(xii) any other activity determined to be appropriate by the Secretary. “(C) Information regarding innovative financing best practices and case studies, if the eligible entity is interested in using innovative financing methods. “(c) Assistance From Expert Firms.—The Secretary may retain the services of expert firms, including counsel, in the field of municipal and project finance to assist in providing financial, technical, and legal assistance to eligible entities under the pilot program. “(d) Website.—“(1) Description of pilot program.—“(A) In general.—The Secretary shall make publicly available on the website of the Department [of Transporation] a description of the pilot program, including—“(i) the resources available to eligible entities under the pilot program; and “(ii) the application process established under paragraph (2)(A). “(B) Clearinghouse.—The Secretary may establish a clearinghouse for tools, templates, and best practices on the page of the website of the Department that contains the information described in subparagraph (A). “(2) Applications.—“(A) In general.—Not later than 180 days after the date of enactment of this Act [Nov. 15, 2021], the Secretary shall establish a process by which an eligible entity may submit to the Secretary an application under the pilot program, in such form and containing such information as the Secretary may require. “(B) Online portal.—The Secretary shall develop and make available to the public an online portal through which the Secretary may receive applications under subparagraph (A), on a rolling basis. “(C) Approval.—“(i) In general.—Not later than 60 days after the date on which the Secretary receives a complete application under subparagraph (A), the Secretary shall provide to each eligible entity that submitted the application a notice describing whether the application is approved or disapproved. “(ii) Additional written notification.— “(I) In general.—Not later than 30 days after the date on which the Secretary provides to an eligible entity a notification under clause (i), the Secretary shall provide to the eligible entity an additional written notification of the approval or disapproval of the application. “(II) Disapproved applications.—If the application of an eligible entity is disapproved under this subparagraph, the additional written notification provided to the eligible entity under subclause (I) shall include an offer for a written or telephonic debrief by the Secretary that will provide an explanation of, and guidance regarding, the reasons why the application was disapproved. “(iii) Insufficient applications.—The Secretary shall not approve an application under this subparagraph if the application fails to meet the applicable criteria established under this section. “(3) Dashboard.—The Secretary shall publish on the website of the Department a monthly report that includes, for each application received under the pilot program—“(A) the type of eligible entity that submitted the application; “(B) the location of each potential project described in the application; “(C) a brief description of the assistance requested; “(D) the date on which the Secretary received the application; and “(E) the date on which the Secretary provided the notice of approval or disapproval under paragraph (2)(C)(i). “(e) Experts.—An eligible entity that receives assistance under the pilot program may retain the services of an expert for any phase of a project carried out using the assistance, including project development, regardless of whether the expert is retained by the Secretary under subsection (c). “(f) Funding.—“(1) In general.—For each of fiscal years 2022 through 2026, the Secretary may use to carry out the pilot program, including to retain the services of expert firms under subsection (c), any amount made available to the Secretary to provide credit assistance under an eligible program that is not otherwise obligated, subject to paragraph (2). “(2) Limitation.—The amount used under paragraph (1) to carry out the pilot program shall be not more than—“(A) $1,600,000 for fiscal year 2022; “(B) $1,800,000 for fiscal year 2023; “(C) $2,000,000 for fiscal year 2024; “(D) $2,200,000 for fiscal year 2025; and “(E) $2,400,000 for fiscal year 2026. “(3) Geographical distribution.—Not more than 20 percent of the funds made available to carry out the pilot program for a fiscal year may be used for projects in a single State during that fiscal year. “(g) Sunset.—The pilot program shall terminate on the date that is 5 years after the date of enactment of this Act [Nov. 15, 2021]. “(h) Nonapplicability.—Nothing in this section limits the ability of the Build America Bureau or the Secretary to establish or carry out any other assistance program under title 23 or title 49, United States Code.”
 
 
 <a id="section-117"></a>
@@ -3157,3 +3393,559 @@ Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as
 
 #### Effective Date
 Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as an Effective Date of 2015 Amendment note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
+
+<a id="section-118"></a>
+## § 118. Office of Multimodal Freight Infrastructure and Policy
+**(a) Definitions.—** In this section:
+
+(1) **Department.—** — The term “Department” means the Department of Transportation.
+
+(2) **Freight office.—** — The term “Freight Office” means the Office of Multimodal Freight Infrastructure and Policy established under subsection (b).
+
+(3) **Secretary.—** — The term “Secretary” means the Secretary of Transportation.
+
+**(b) Establishment.—** The Secretary shall establish within the Department an Office of Multimodal Freight Infrastructure and Policy.
+
+**(c) Purposes.—** The purposes of the Freight Office shall be—
+
+(1) to carry out the national multimodal freight policy described in section 70101;
+
+(2) to administer and oversee certain multimodal freight grant programs within the Department in accordance with subsection (d);
+
+(3) to promote and facilitate the sharing of information between the private and public sectors with respect to freight issues;
+
+(4) to conduct research on improving multimodal freight mobility, and to oversee the freight research activities of the various agencies within the Department;
+
+(5) to assist cities and States in developing freight mobility and supply chain expertise;
+
+(6) to liaise and coordinate with other Federal departments and agencies; and
+
+(7) to carry out other duties, as prescribed by the Secretary.
+
+**(d) Administration of Policies and Programs.—** The Freight Office shall—
+
+(1) develop and manage—
+
+  (A) the national freight strategic plan described in section 70102; and
+
+  (B) the National Multimodal Freight Network established under section 70103;
+
+(2)
+
+  (A) oversee the development and updating of the State freight plans described in section 70202; and
+
+  (B) provide guidance or best practices relating to the development and updating of State freight plans under that section;
+
+(3)
+
+  (A) administer multimodal freight grant programs, including multimodal freight grants established under [section 117 of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section117&num=0&edition=prelim); and
+
+  (B) establish procedures for analyzing and evaluating applications for grants under those programs;
+
+(4) assist States in the establishment of—
+
+  (A) State freight advisory committees under section 70201; and
+
+  (B) multi-State freight mobility compacts under section 70204; and
+
+(5) provide to the Bureau of Transportation Statistics input regarding freight data and planning tools.
+
+**(e) Assistant Secretary.—**
+
+(1) **In general.—** — The Freight Office shall be headed by an Assistant Secretary for Multimodal Freight, who shall—
+
+  (A) be appointed by the President, by and with the advice and consent of the Senate; and
+
+  (B) have professional standing and demonstrated knowledge in the field of freight transportation.
+
+(2) **Duties.—** — The Assistant Secretary shall—
+
+  (A) report to the Under Secretary of Transportation for Policy;
+
+  (B) be responsible for the management and oversight of the activities, decisions, operations, and personnel of the Freight Office;
+
+  (C) work with the modal administrations of the Department to encourage multimodal collaboration; and
+
+  (D) carry out such additional duties as the Secretary may prescribe.
+
+**(f) Consolidation and Elimination of Duplicative Offices.—**
+
+(1) **Consolidation of offices and office functions.—** — The Secretary may consolidate into the Freight Office any office or office function within the Department that the Secretary determines has duties, responsibilities, resources, or expertise that support the purposes of the Freight Office.
+
+(2) **Elimination of offices.—** — The Secretary may eliminate any office within the Department if the Secretary determines that—
+
+  (A) the purposes of the office are duplicative of the purposes of the Freight Office;
+
+  (B) the office or the functions of the office have been substantially consolidated with the Freight Office pursuant to paragraph (1);
+
+  (C) the elimination of the office will not adversely affect the requirements of the Secretary under any Federal law; and
+
+  (D) the elimination of the office will improve the efficiency and effectiveness of the programs and functions conducted by the office.
+
+**(g) Staffing and Budgetary Resources.—**
+
+(1) **In general.—** — The Secretary shall ensure that the Freight Office is adequately staffed and funded.
+
+(2) **Staffing.—**
+
+  (A) *Transfer of positions to freight office.—* — Subject to subparagraph (B), the Secretary may transfer to the Freight Office any position within any other office of the Department if the Secretary determines that the position is necessary to carry out the purposes of the Freight Office.
+
+  (B) *Requirement.—* — If the Secretary transfers a position to the Freight Office pursuant to subparagraph (A), the Secretary, in coordination with the appropriate modal administration of the Department, shall ensure that the transfer of the position does not adversely affect the requirements of the modal administration under any Federal law.
+
+(3) **Budgetary resources.—**
+
+  (A) *Transfer of funds from consolidated or eliminated offices.—*
+
+    (i) *In general.—* — To carry out the purposes of the Freight Office, the Secretary may transfer to the Freight Office from any office or office function that is consolidated or eliminated under subsection (f) any funds allocated for the consolidated or eliminated office or office function.
+
+    (ii) *Retransfer.—* — Any portion of any funds or limitations of obligations transferred to the Freight Office pursuant to clause (i) may be transferred back to, and merged with, the original account.
+
+  (B) *Transfer of funds allocated for administrative costs.—*
+
+    (i) *In general.—* — The Secretary may transfer to the Freight Office any funds allocated for the administrative costs of the programs referred to in subsection (d)(3).
+
+    (ii) *Retransfer.—* — Any portion of any funds or limitations of obligations transferred to the Freight Office pursuant to clause (i) may be transferred back to, and merged with, the original account.
+
+**(h) Website.—**
+
+(1) **Description of freight office.—** — The Secretary shall make publicly available on the website of the Department a description of the Freight Office, including a description of—
+
+  (A) the programs managed or made available by the Freight Office; and
+
+  (B) the eligibility requirements for those programs.
+
+(2) **Clearinghouse.—** — The Secretary may establish a clearinghouse for tools, templates, guidance, and best practices on a page of the website of the Department that supports the purposes of this section.
+
+**(i) Notification to Congress.—** Not later than 1 year after the date of enactment of this section, and not less frequently than once every 180 days thereafter until the date on which the Secretary determines that the requirements of this section have been met, the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a notification that—
+
+(1) describes—
+
+  (A) the programs and activities administered or overseen by the Freight Office; and
+
+  (B) the status of those programs and activities;
+
+(2) identifies—
+
+  (A) the number of employees working in the Freight Office as of the date of the notification;
+
+  (B) the total number of employees expected to join the Freight Office to support the programs and activities described in paragraph (1); and
+
+  (C) the total number of positions that, as a result of the consolidation of offices under this section, were—
+
+    (i) eliminated; or
+
+    (ii) transferred, assigned, or joined to the Freight Office;
+
+(3)
+
+  (A) indicates whether the Secretary has consolidated into the Freight Office any office or office function pursuant to subsection (f)(1); and
+
+  (B) if the Secretary has consolidated such an office or function, describes the rationale for the consolidation;
+
+(4)
+
+  (A) indicates whether the Secretary has eliminated any office pursuant to subsection (f)(2); and
+
+  (B) if the Secretary has eliminated such an office, describes the rationale for the elimination;
+
+(5) describes any other actions carried out by the Secretary to implement this section; and
+
+(6) describes any recommendations of the Secretary for legislation that may be needed to further implement this section.
+
+**(j) Savings Provisions.—**
+
+(1) **Effect on other law.—** — Except as otherwise provided in this section, nothing in this section alters or affects any law (including regulations) with respect to a program referred to in subsection (d).
+
+(2) **Effect on responsibilities of other agencies.—** — Except as otherwise provided in this section, nothing in this section abrogates the responsibilities of any agency, operating administration, or office within the Department that is otherwise charged by law (including regulations) with any aspect of program administration, oversight, or project approval or implementation with respect to a program or project subject to the responsibilities of the Freight Office under this section.
+
+(3) **Effect on pending applications.—** — Nothing in this section affects any pending application under a program referred to in subsection (d) that was received by the Secretary on or before the date of enactment of the Surface Transportation Investment Act of 2021.
+
+**(k) Authorization of Appropriations.—**
+
+(1) **In general.—** — There are authorized to be appropriated to the Secretary such sums as are necessary to carry out this section.
+
+(2) **Certain activities.—** — Authorizations under subsections (f) and (g) are subject to appropriations.
+
+### Statutory Notes
+
+#### References in Text
+The date of enactment of this section and the date of enactment of the Surface Transportation Investment Act of 2021, referred to in subsecs. (i) and (j)(3), are the date of enactment of div. B of Pub. L. 117–58, which was approved Nov. 15, 2021.
+
+
+<a id="section-119"></a>
+## § 119. Advanced Research Projects Agency–Infrastructure
+**(a) Definitions.—** In this section:
+
+(1) **ARPA–I.—** — The term “ARPA–I” means the Advanced Research Projects Agency–Infrastructure established by subsection (b).
+
+(2) **Department.—** — The term “Department” means the Department of Transportation.
+
+(3) **Director.—** — The term “Director” means the Director of ARPA–I appointed under subsection (d).
+
+(4) **Eligible entity.—** — The term “eligible entity” means—
+
+  (A) a unit of State or local government;
+
+  (B) an institution of higher education;
+
+  (C) a commercial entity;
+
+  (D) a research foundation;
+
+  (E) a trade or industry research collaborative;
+
+  (F) a federally funded research and development center;
+
+  (G) a research facility owned or funded by the Department;
+
+  (H) a collaborative that includes relevant international entities; and
+
+  (I) a consortia of 2 or more entities described in any of subparagraphs (A) through (H).
+
+(5) **Infrastructure.—**
+
+  (A) *In general.—* — The term “infrastructure” means any transportation method or facility that facilitates the transit of goods or people within the United States (including territories).
+
+  (B) *Inclusions.—* — The term “infrastructure” includes—
+
+    (i) roads;
+
+    (ii) highways;
+
+    (iii) bridges;
+
+    (iv) airports;
+
+    (v) rail lines;
+
+    (vi) harbors; and
+
+    (vii) pipelines.
+
+(6) **Secretary.—** — The term “Secretary” means the Secretary of Transportation.
+
+**(b) Establishment.—** There is established within the Department an agency, to be known as the “Advanced Research Projects Agency–Infrastructure”, to support the development of science and technology solutions—
+
+(1) to overcome long-term challenges; and
+
+(2) to advance the state of the art for United States transportation infrastructure.
+
+**(c) Goals.—**
+
+(1) **In general.—** — The goals of ARPA–I shall be—
+
+  (A) to advance the transportation infrastructure of the United States by developing innovative science and technology solutions that—
+
+    (i) lower the long-term costs of infrastructure development, including costs of planning, construction, and maintenance;
+
+    (ii) reduce the lifecycle impacts of transportation infrastructure on the environment, including through the reduction of greenhouse gas emissions;
+
+    (iii) contribute significantly to improving the safe, secure, and efficient movement of goods and people; and
+
+    (iv) promote the resilience of infrastructure from physical and cyber threats; and
+
+  (B) to ensure that the United States is a global leader in developing and deploying advanced transportation infrastructure technologies and materials.
+
+(2) **Research projects.—** — ARPA–I shall achieve the goals described in paragraph (1) by providing assistance under this section for infrastructure research projects that—
+
+  (A) advance novel, early-stage research with practicable application to transportation infrastructure;
+
+  (B) translate techniques, processes, and technologies, from the conceptual phase to prototype, testing, or demonstration;
+
+  (C) develop advanced manufacturing processes and technologies for the domestic manufacturing of novel transportation-related technologies; and
+
+  (D) accelerate transformational technological advances in areas in which industry entities are unlikely to carry out projects due to technical and financial uncertainty.
+
+**(d) Director.—**
+
+(1) **Appointment.—** — ARPA–I shall be headed by a Director, who shall be appointed by the President, by and with the advice and consent of the Senate.
+
+(2) **Qualifications.—** — The Director shall be an individual who, by reason of professional background and experience, is especially qualified to advise the Secretary regarding, and manage research programs addressing, matters relating to the development of science and technology solutions to advance United States transportation infrastructure.
+
+(3) **Relationship to secretary.—** — The Director shall—
+
+  (A) be located within the Office of the Assistant Secretary for Research and Technology; and
+
+  (B) report to the Secretary.
+
+(4) **Relationship to other programs.—** — No other program within the Department shall report to the Director.
+
+(5) **Responsibilities.—** — The responsibilities of the Director shall include—
+
+  (A) approving new programs within ARPA–I;
+
+  (B) developing funding criteria, and assessing the success of programs, to achieve the goals described in subsection (c)(1) through the establishment of technical milestones;
+
+  (C) administering available funding by providing to eligible entities assistance to achieve the goals described in subsection (c)(1);
+
+  (D) terminating programs carried out under this section that are not achieving the goals of the programs; and
+
+  (E) establishing a process through which eligible entities can submit to ARPA–I unsolicited research proposals for assistance under this section in accordance with subsection (f).
+
+**(e) Personnel.—**
+
+(1) **In general.—** — The Director shall establish and maintain within ARPA–I a staff with sufficient qualifications and expertise to enable ARPA–I to carry out the responsibilities under this section, in conjunction with other operations of the Department.
+
+(2) **Program directors.—**
+
+  (A) *In general.—* — The Director shall designate employees to serve as program directors for ARPA–I.
+
+  (B) *Responsibilities.—* — Each program director shall be responsible for—
+
+    (i) establishing research and development goals for the applicable program, including by convening workshops and conferring with outside experts;
+
+    (ii) publicizing the goals of the applicable program;
+
+    (iii) soliciting applications for specific areas of particular promise, especially in areas that the private sector or the Federal Government are not likely to carry out absent assistance from ARPA–I;
+
+    (iv) establishing research collaborations for carrying out the applicable program;
+
+    (v) selecting on the basis of merit each project to be supported under the applicable program, taking into consideration—
+
+      (I) the novelty and scientific and technical merit of proposed projects;
+
+      (II) the demonstrated capabilities of eligible entities to successfully carry out proposed projects;
+
+      (III) the extent to which an eligible entity took into consideration future commercial applications of a proposed project, including the feasibility of partnering with 1 or more commercial entities; and
+
+      (IV) such other criteria as the Director may establish;
+
+    (vi) identifying innovative cost-sharing arrangements for projects carried out or funded by ARPA–I;
+
+    (vii) monitoring the progress of projects supported under the applicable program;
+
+    (viii) identifying mechanisms for commercial application of successful technology development projects, including through establishment of partnerships between eligible entities and commercial entities; and
+
+    (ix) as applicable, recommending—
+
+      (I) program restructuring; or
+
+      (II) termination of applicable research partnerships or projects.
+
+  (C) *Term of service.—* — A program director—
+
+    (i) shall serve for a term of 3 years; and
+
+    (ii) may be reappointed for any subsequent term of service.
+
+(3) **Hiring and management.—**
+
+  (A) *In general.—* — The Director may—
+
+    (i) make appointments of scientific, engineering, and professional personnel, without regard to the civil service laws;
+
+    (ii) fix the basic pay of such personnel at such rate as the Director may determine, but not to exceed level II of the Executive Schedule, without regard to the civil service laws; and
+
+    (iii) pay an employee appointed under this subparagraph payments in addition to basic pay, subject to the condition that the total amount of those additional payments for any 12-month period shall not exceed the least of—
+
+      (I) $25,000;
+
+      (II) an amount equal to 25 percent of the annual rate of basic pay of the employee; and
+
+      (III) the amount of the applicable limitation for a calendar year under [section 5307(a)(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5307/a/1&num=0&edition=prelim).
+
+  (B) *Private recruiting firms.—* — The Director may enter into a contract with a private recruiting firm for the hiring of qualified technical staff to carry out this section.
+
+  (C) *Additional staff.—* — The Director may use all authorities available to the Secretary to hire administrative, financial, and clerical staff, as the Director determines to be necessary to carry out this section.
+
+**(f) Research Proposals.—**
+
+(1) **In general.—** — An eligible entity may submit to the Director an unsolicited research proposal at such time, in such manner, and containing such information as the Director may require, including a description of—
+
+  (A) the extent of current and prior efforts with respect to the project proposed to be carried out using the assistance, if applicable; and
+
+  (B) any current or prior investments in the technology area for which funding is requested, including as described in subsection (c)(2)(D).
+
+(2) **Review.—** — The Director—
+
+  (A) shall review each unsolicited research proposal submitted under paragraph (1), taking into consideration—
+
+    (i) the novelty and scientific and technical merit of the research proposal;
+
+    (ii) the demonstrated capabilities of the applicant to successfully carry out the research proposal;
+
+    (iii) the extent to which the applicant took into consideration future commercial applications of the proposed research project, including the feasibility of partnering with 1 or more commercial entities; and
+
+    (iv) such other criteria as the Director may establish;
+
+  (B) may approve a research proposal if the Director determines that the research—
+
+    (i) is in accordance with—
+
+      (I) the goals described in subsection (c)(1); or
+
+      (II) an applicable transportation research and development strategic plan developed under section 6503; and
+
+    (ii) would not duplicate any other Federal research being conducted or funded by another Federal agency; and
+
+  (C)
+
+    (i) if funding is denied for the research proposal, shall provide to the eligible entity that submitted the proposal a written notice of the denial that, as applicable—
+
+      (I) explains why the research proposal was not selected, including whether the research proposal fails to cover an area of need; and
+
+      (II) recommends that the research proposal be submitted to another research program; or
+
+    (ii) if the research proposal is approved for funding, shall provide to the eligible entity that submitted the proposal—
+
+      (I) a written notice of the approval; and
+
+      (II) assistance in accordance with subsection (g) for the proposed research.
+
+**(g) Forms of Assistance.—** On approval of a research proposal of an eligible entity, the Director may provide to the eligible entity assistance in the form of—
+
+(1) a grant;
+
+(2) a contract;
+
+(3) a cooperative agreement;
+
+(4) a cash prize; or
+
+(5) another, similar form of funding.
+
+**(h) Reports and Roadmaps.—**
+
+(1) **Annual reports.—** — For each fiscal year, the Director shall provide to the Secretary, for inclusion in the budget request submitted by the Secretary to the President under [section 1108 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1108&num=0&edition=prelim) for the fiscal year, a report that, with respect to the preceding fiscal year, describes—
+
+  (A) the projects that received assistance from ARPA–I, including—
+
+    (i) each such project that was funded as a result of an unsolicited research proposal; and
+
+    (ii) each such project that examines topics or technologies closely related to other activities funded by the Department, including an analysis of whether the Director achieved compliance with subsection (i)(1) in supporting the project; and
+
+  (B) the instances of, and reasons for, the provision of assistance under this section for any projects being carried out by industry entities.
+
+(2) **Strategic vision roadmap.—** — Not later than October 1, 2022, and not less frequently than once every 4 years thereafter, the Director shall submit to the relevant authorizing and appropriations committees of Congress a roadmap describing the strategic vision that ARPA–I will use to guide the selection of future projects for technology investment during the 4 fiscal-year period beginning on the date of submission of the report.
+
+**(i) Coordination and Nonduplication.—** The Director shall ensure that—
+
+(1) the activities of ARPA–I are coordinated with, and do not duplicate the efforts of, programs and laboratories within—
+
+  (A) the Department; and
+
+  (B) other relevant research agencies; and
+
+(2) no funding is provided by ARPA–I for a project, unless the eligible entity proposing the project—
+
+  (A) demonstrates sufficient attempts to secure private financing; or
+
+  (B) indicates that the project is not independently commercially viable.
+
+**(j) Federal Demonstration of Technologies.—** The Director shall seek opportunities to partner with purchasing and procurement programs of Federal agencies to demonstrate technologies resulting from activities funded through ARPA–I.
+
+**(k) Partnerships.—** The Director shall seek opportunities to enter into contracts or partnerships with minority-serving institutions (as described in any of paragraphs (1) through (7) of section 371(a) of the Higher Education Act of 1965 ([20 U.S.C. 1067q(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1067q/a&num=0&edition=prelim)))—
+
+(1) to accomplish the goals of ARPA–I;
+
+(2) to develop institutional capacity in advanced transportation infrastructure technologies and materials;
+
+(3) to engage underserved populations in developing, demonstrating, and deploying those technologies and materials; and
+
+(4) to otherwise address the needs of ARPA–I.
+
+**(l) University Transportation Centers.—** The Director may—
+
+(1) partner with university transportation centers under section 5505 to accomplish the goals, and address the needs, of ARPA–I; and
+
+(2) sponsor and select for funding, in accordance with section 5505, competitively selected university transportation center grants, in addition to the assistance provided under section 5505, to address targeted technology and material goals of ARPA–I.
+
+**(m) Advice.—**
+
+(1) **Advisory committees.—** — The Director may seek advice regarding any aspect of ARPA–I from—
+
+  (A) an existing advisory committee, office, or other group within the Department; and
+
+  (B) a new advisory committee organized to support the programs of ARPA–I by providing advice and assistance regarding—
+
+    (i) specific program tasks; or
+
+    (ii) the overall direction of ARPA–I.
+
+(2) **Additional sources.—** — In carrying out this section, the Director may seek advice and review from—
+
+  (A) the President’s Council of Advisors on Science and Technology;
+
+  (B) the Advanced Research Projects Agency–Energy; and
+
+  (C) any professional or scientific organization with expertise relating to specific processes or technologies under development by ARPA–I.
+
+**(n) Evaluation.—**
+
+(1) **In general.—** — Not later than December 27, 2024, the Secretary may enter into an arrangement with the National Academy of Sciences under which the National Academy shall conduct an evaluation of the achievement by ARPA–I of the goals described in subsection (c)(1).
+
+(2) **Inclusions.—** — The evaluation under paragraph (1) may include—
+
+  (A) a recommendation regarding whether ARPA–I should be continued;
+
+  (B) a recommendation regarding whether ARPA–I, or the Department generally, should continue to allow entities to submit unsolicited research proposals; and
+
+  (C) a description of—
+
+    (i) the lessons learned from the operation of ARPA–I; and
+
+    (ii) the manner in which those lessons may apply to the operation of other programs of the Department.
+
+(3) **Availability.—** — On completion of the evaluation under paragraph (1), the evaluation shall be made available to—
+
+  (A) Congress; and
+
+  (B) the public.
+
+**(o) Protection of Information.—**
+
+(1) **In general.—** — Each type of information described in paragraph (2) that is collected by ARPA–I from eligible entities shall be considered to be—
+
+  (A) commercial and financial information obtained from a person;
+
+  (B) privileged or confidential; and
+
+  (C) not subject to disclosure under [section 552(b)(4) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b/4&num=0&edition=prelim).
+
+(2) **Description of types of information.—** — The types of information referred to in paragraph (1) are—
+
+  (A) information relating to plans for commercialization of technologies developed using assistance provided under this section, including business plans, technology-to-market plans, market studies, and cost and performance models;
+
+  (B) information relating to investments provided to an eligible entity from a third party (such as a venture capital firm, a hedge fund, and a private equity firm), including any percentage of ownership of an eligible entity provided in return for such an investment;
+
+  (C) information relating to additional financial support that the eligible entity—
+
+    (i) plans to invest, or has invested, in the technology developed using assistance provided under this section; or
+
+    (ii) is seeking from a third party; and
+
+  (D) information relating to revenue from the licensing or sale of a new product or service resulting from research conducted using assistance provided under this section.
+
+**(p) Effect on Existing Authorities.—** The authority provided by this section—
+
+(1) shall be in addition to any existing authority provided to the Secretary; and
+
+(2) shall not supersede or modify any other existing authority.
+
+**(q) Funding.—**
+
+(1) **Authorization of appropriations.—** — There are authorized to be appropriated to the Secretary such sums as are necessary to carry out this section.
+
+(2) **Separate budget and appropriation.—**
+
+  (A) *Budget request.—* — The budget request for ARPA–I shall be separate from the budget request of the remainder of the Department.
+
+  (B) *Appropriations.—* — The funding appropriated for ARPA–I shall be separate and distinct from the funding appropriated for the remainder of the Department.
+
+(3) **Allocation.—** — Of the amounts made available for a fiscal year under paragraph (1)—
+
+  (A) not less than 5 percent shall be used for technology transfer and outreach activities—
+
+    (i) in accordance with the goal described in subsection (c)(2)(D); and
+
+    (ii) within the responsibilities of the program directors described in subsection (e)(2)(B)(viii); and
+
+  (B) none may be used for the construction of any new building or facility during the 5-year period beginning on the date of enactment of the Surface Transportation Investment Act of 2021.
+
+### Statutory Notes
+
+#### References in Text
+Level II of the Executive Schedule, referred to in subsec. (e)(3)(A)(ii), is set out in [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
+The date of enactment of the Surface Transportation Investment Act of 2021, referred to in subsec. (q)(3)(B), is the date of enactment of div. B of Pub. L. 117–58, which was approved Nov. 15, 2021.

@@ -1334,7 +1334,7 @@ Amendments by Pub. L. 98–151 to be carried out be agencies by use of funds app
 ## § 5724b. Taxes on reimbursements for travel, transportation, and relocation expenses
 **(a)** Under regulations prescribed under [section 5738 of this title](./chapter-057-travel-transportation-and-subsistence.md#section-5738) and to the extent considered necessary and appropriate, as provided therein, appropriations or other funds available to an agency for administrative expenses are available for the reimbursement of substantially all of the Federal, State, and local income taxes incurred by an individual, or by an individual and such individual’s spouse (if filing jointly), for any travel, transportation, or relocation expenses furnished in kind, or for which reimbursement or an allowance is provided (but only to the extent of the expenses paid or incurred). Reimbursements under this subsection shall also include an amount equal to all income taxes for which the individual, or the individual and spouse, as the case may be, would be liable due to the reimbursement for the taxes referred to in the first sentence of this subsection.
 
-**(b)** For purposes of this section, the term “travel, transportation, or relocation expenses” means all travel, transportation, and relocation expenses reimbursed or furnished in kind pursuant to this subchapter or chapter 41
+**(b)** For purposes of this section, the term “travel, transportation, or relocation expenses” means all travel, transportation, and relocation expenses reimbursed or furnished in kind pursuant to this subchapter or chapter 41.
 
 ### Statutory Notes
 
@@ -1460,7 +1460,7 @@ because of military or other reasons which create imminent danger to life or pro
 
   (A) the head of the agency shall by regulation prescribe; and
 
-  (B) shall, to the extent practicable, be the same as would apply under regulations prescribed under [section 476(b)(1)(H)(iii) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section476/b/1/H/iii&num=0&edition=prelim) in connection with the transport of family household pets of members of the uniformed services, including regulations relating to the types, size, and number of pets for which such payment or reimbursement may be provided.
+  (B) shall, to the extent practicable, be the same as would apply under regulations prescribed under [section 476(b)(1)(H)(iii) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section476/b/1/H/iii&num=0&edition=prelim) 11 See References in Text note below. in connection with the transport of family household pets of members of the uniformed services, including regulations relating to the types, size, and number of pets for which such payment or reimbursement may be provided.
 
 ### Statutory Notes
 
@@ -1472,6 +1472,9 @@ because of military or other reasons which create imminent danger to life or pro
 The word “employee” is substituted for “civilian officers and employees” in view of the definition of “employee” in sections 5721 and 2105.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### References in Text
+[Section 476 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section476&num=0&edition=prelim), referred to in subsec. (c)(2)(B), was repealed by Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767.
 
 #### Amendments
 2013—Subsec. (a). Pub. L. 112–239, § 1106(1), substituted “, personal effects, and family household pets,” for “and personal effects,” in concluding provisions.
@@ -2207,6 +2210,9 @@ A prior section 5753, added Pub. L. 101–509, title V, § 529 [title II, § 208
 #### Effective Date
 Pub. L. 108–411, title I, § 101(d), Oct. 30, 2004, 118 Stat. 2310, provided that: “(1) Effective date.—Except as provided under paragraphs (2) and (3), this section [enacting this section and [section 5754 of this title](./chapter-057-travel-transportation-and-subsistence.md#section-5754), repealing former sections 5753 and 5754 of this title, and amending provisions set out as a note under [section 5305 of this title](./chapter-053-pay-rates-and-systems.md#section-5305)] shall take effect on the first day of the first applicable pay period beginning on or after the 180th day after the date of the enactment of this Act [Oct. 30, 2004]. “(2) Application to agreements.—A recruitment or relocation bonus service agreement that was authorized under [section 5753 of title 5](./chapter-057-travel-transportation-and-subsistence.md#section-5753), United States Code, before the effective date under paragraph (1) shall continue, until its expiration, to be subject to such section as in effect on the day before such effective date. “(3) Application to allowances.—Payment of a retention allowance that was authorized under [section 5754 of title 5](./chapter-057-travel-transportation-and-subsistence.md#section-5754), United States Code, before the effective date under paragraph (1) shall continue, subject to such section as in effect on the day before such effective date, until the retention allowance is reauthorized or terminated (but no longer than 1 year after such effective date).”
 
+#### Incentives for Critical Posts
+Pub. L. 111–32, title XI, §1115(d), June 24, 2009, 123 Stat. 1906, as amended by Pub. L. 117–81, div. E, title LIII, § 5315, Dec. 27, 2021, 135 Stat. 2366, provided that: “Notwithstanding sections 5753(a)(2)(A) and 5754(a)(2)(A) of title 5, United States Code, appropriations made available by this or any other Act may be used to pay recruitment, relocation, and retention bonuses under chapter 57 of title 5, United States Code[,] to members of the Foreign Service, other than chiefs of mission and ambassadors at large, who are on official duty in Iraq, Afghanistan, or Pakistan.”
+
 
 <a id="section-5754"></a>
 ## § 5754. Retention bonuses
@@ -2481,21 +2487,26 @@ Subsec. (d). Pub. L. 111–259, § 443(4), substituted “bonus paid under this 
 
 (2) is repatriated to a site inside or outside the United States.
 
-**(c) Eligible Family Members.—** In this section, the term “family member” has the meaning given the term in [section 481h(b) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section481h/b&num=0&edition=prelim).
+**(c) Eligible Family Members.—** In this section, the term “family member” has the meaning given the term in [section 481h(b) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section481h/b&num=0&edition=prelim).11 See References in Text note below.
 
 **(d) Travel and Transportation Authorized.—**
 
 (1) The transportation authorized by subsection (a) is round-trip transportation between the home of the family member (or home of the attendant or person provided transportation under paragraph (2) or (3) of subsection (a), as the case may be) and the location of the repatriation site at which the employee is located.
 
-(2) In addition to the transportation authorized by subsection (a), the head of an agency may provide a per diem allowance or reimbursement for the actual and necessary expenses of the travel, or a combination thereof, but not to exceed the rates established for such allowances and expenses under [section 474(d) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section474/d&num=0&edition=prelim).
+(2) In addition to the transportation authorized by subsection (a), the head of an agency may provide a per diem allowance or reimbursement for the actual and necessary expenses of the travel, or a combination thereof, but not to exceed the rates established for such allowances and expenses under [section 474(d) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section474/d&num=0&edition=prelim).1
 
-(3) The transportation authorized by subsection (a) may be provided by any of the means described in [section 481h(d)(1) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section481h/d/1&num=0&edition=prelim).
+(3) The transportation authorized by subsection (a) may be provided by any of the means described in [section 481h(d)(1) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section481h/d/1&num=0&edition=prelim).1
 
 (4) An allowance under this subsection may be paid in advance.
 
 (5) Reimbursement payable under this subsection may not exceed the cost of government-procured round-trip air travel.
 
 ### Statutory Notes
+
+#### References in Text
+[Section 481h of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section481h&num=0&edition=prelim), referred to in subsecs. (c) and (d)(3), was repealed by Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767.
+
+[Section 474 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section474&num=0&edition=prelim), referred to in subsec. (d)(2), was repealed by Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767.
 
 #### Amendments
 2013—Subsecs. (c), (d)(2), (3). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(B). See 2011 Amendment note below.

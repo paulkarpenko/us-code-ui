@@ -302,15 +302,20 @@ The Secretary of a military department may issue arms, tentage, and equipment to
 
   (I) data science;
 
-  (J) cybersecurity;
+  (J) quantum information sciences;
 
-  (K) robotics;
+  (K) cybersecurity;
 
-  (L) health sciences; and
+  (L) robotics;
 
-  (M) other subjects determined by the Secretary of Defense to be related to science, technology, engineering, and mathematics.
+  (M) health sciences; and
+
+  (N) other subjects determined by the Secretary of Defense to be related to science, technology, engineering, and mathematics.
 
 ### Statutory Notes
 
 #### References in Text
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (d), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Part A of title I of the Act is classified generally to part A (§ 6311 et seq.) of subchapter I of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) and Tables.
+
+#### Amendments
+2021—Subsec. (g)(2)(J) to (N). Pub. L. 117–81 added subpar. (J) and redesignated former subpars. (J) to (M) as (K) to (N), respectively.

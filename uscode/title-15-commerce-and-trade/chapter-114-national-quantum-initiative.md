@@ -2,7 +2,7 @@
 title: 15
 chapter: '114'
 heading: NATIONAL QUANTUM INITIATIVE
-section_count: 12
+section_count: 13
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15&num=0&edition=prelim
 ---
@@ -117,9 +117,14 @@ In this chapter:
 
 (6) **Quantum information science** — The term “quantum information science” means the use of the laws of quantum physics for the storage, transmission, manipulation, computing, or measurement of information.
 
-(7) **Subcommittee** — The term “Subcommittee” means the Subcommittee on Quantum Information Science of the National Science and Technology Council established under [section 8813(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section8813/a&num=0&edition=prelim).
+(7) **Subcommittee on Economic and Security Implications** — The term “Subcommittee on Economic and Security Implications” means the Subcommittee on the Economic and Security Implications of Quantum Information Science established under [section 8814a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section8814a/a&num=0&edition=prelim).
+
+(8) **Subcommittee on Quantum Information Science** — The term “Subcommittee on Quantum Information Science” means the Subcommittee on Quantum Information Science of the National Science and Technology Council established under [section 8813(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section8813/a&num=0&edition=prelim).
 
 ### Statutory Notes
+
+#### Amendments
+2021—Pars. (7), (8). Pub. L. 117–81 added pars. (7) and (8) and struck out former par. (7), which defined “Subcommittee”.
 
 #### Short Title
 Pub. L. 115–368, § 1(a), Dec. 21, 2018, 132 Stat. 5092, provided that: “This Act [enacting this chapter] may be cited as the ‘National Quantum Initiative Act’.”
@@ -195,9 +200,11 @@ For termination of section, see [section 8815 of this title](./chapter-114-natio
 
 (1) provide technical and administrative support to—
 
-  (A) the Subcommittee; and
+  (A) the Subcommittee on Quantum Information Science;
 
-  (B) the Advisory Committee;
+  (B) the Advisory Committee; and
+
+  (C) the Subcommittee on Economic and Security Implications;
 
 (2) oversee interagency coordination of the Program, including by encouraging and supporting joint agency solicitation and selection of applications for funding of activities under the Program;
 
@@ -218,9 +225,12 @@ For termination of section, see [section 8815 of this title](./chapter-114-natio
 #### Termination of Section
 For termination of section, see [section 8815 of this title](./chapter-114-national-quantum-initiative.md#section-8815).
 
+#### Amendments
+2021—Subsec. (b)(1). Pub. L. 117–81 substituted “on Quantum Information Science;” for “; and” in subpar. (A), inserted “and” after semicolon in subpar. (B), and added subpar. (C).
 
-<a id="section-8815"></a>
-## § 8815. Subcommittee on Quantum Information Science.
+
+<a id="section-8814a"></a>
+## § 8814a. Subcommittee on Quantum Information Science.
 **(a) Establishment** The President shall establish, through the National Science and Technology Council, the Subcommittee on Quantum Information Science.
 
 **(b) Membership** The Subcommittee shall include a representative of—
@@ -289,8 +299,8 @@ For termination of section, see [section 8815 of this title](./chapter-114-natio
 For termination of section, see [section 8815 of this title](./chapter-114-national-quantum-initiative.md#section-8815).
 
 
-<a id="section-8831"></a>
-## § 8831. National Quantum Initiative Advisory Committee
+<a id="section-8815"></a>
+## § 8815. National Quantum Initiative Advisory Committee
 **(a) In general** The President shall establish a National Quantum Initiative Advisory Committee.
 
 **(b) Qualifications** The Advisory Committee shall consist of members, appointed by the President, who are representative of industry, universities, and Federal laboratories and are qualified to provide advice and information on quantum information science and technology research, development, demonstrations, standards, education, technology transfer, commercial application, or national security and economic concerns.
@@ -299,7 +309,7 @@ For termination of section, see [section 8815 of this title](./chapter-114-natio
 
 **(d) Duties**
 
-(1) **In general** — The Advisory Committee shall advise the President and the Subcommittee and make recommendations for the President to consider when reviewing and revising the Program.
+(1) **In general** — The Advisory Committee shall advise the President, the Subcommittee on Quantum Information Science, and the Subcommittee on Economic and Security Implications and make recommendations for the President to consider when reviewing and revising the Program.
 
 (2) **Independent assessments** — The Advisory Committee shall conduct periodic, independent assessments of—
 
@@ -330,6 +340,9 @@ For termination of section, see [section 8815 of this title](./chapter-114-natio
 
 #### References in Text
 Section 14 of the Federal Advisory Committee Act, referred to in subsec. (g), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Amendments
+2021—Subsec. (d)(1). Pub. L. 117–81 substituted “, the Subcommittee on Quantum Information Science, and the Subcommittee on Economic and Security Implications” for “and the Subcommittee”.
 
 #### Ex. Ord. No. 13885. Establishing the National Quantum Initiative Advisory Committee
 Ex. Ord. No. 13885, Aug. 30, 2019, 84 F.R. 46873, provided:
@@ -373,11 +386,80 @@ Sec. 4. General Provisions. (a) Insofar as the Federal Advisory Committee Act, a
 Donald J. Trump.
 
 
+<a id="section-8831"></a>
+## § 8831. Subcommittee on the Economic and Security Implications of Quantum Information Science
+**(a) Establishment** The President shall establish, through the National Science and Technology Council, the Subcommittee on the Economic and Security Implications of Quantum Information Science.
+
+**(b) Membership** The Subcommittee shall include a representative of—
+
+(1) the Department of Energy;
+
+(2) the Department of Defense;
+
+(3) the Department of Commerce;
+
+(4) the Department of Homeland Security;
+
+(5) the Office of the Director of National Intelligence;
+
+(6) the Office of Management and Budget;
+
+(7) the Office of Science and Technology Policy;
+
+(8) the Department of Justice;
+
+(9) the National Science Foundation;
+
+(10) the National Institute of Standards and Technology; and
+
+(11) such other Federal department or agency as the President considers appropriate.
+
+**(c) Responsibilities** The Subcommittee shall—
+
+(1) in coordination with the Director of the Office and Management and Budget, the Director of the National Quantum Coordination Office, and the Subcommittee on Quantum Information Science, track investments of the Federal Government in quantum information science research and development;
+
+(2) review and assess any economic or security implications of such investments;
+
+(3) review and assess any counterintelligence risks or other foreign threats to such investments;
+
+(4) recommend goals and priorities for the Federal Government and make recommendations to Federal departments and agencies and the Director of the National Quantum Coordination Office to address any counterintelligence risks or other foreign threats identified as a result of an assessment under paragraph (3);
+
+(5) assess the export of technology associated with quantum information science and recommend to the Secretary of Commerce and the Secretary of State export controls necessary to protect the economic and security interests of the United States as a result of such assessment;
+
+(6) recommend to Federal departments and agencies investment strategies in quantum information science that advance the economic and security interest of the United States;
+
+(7) recommend to the Director of National Intelligence and the Secretary of Energy appropriate protections to address counterintelligence risks or other foreign threats identified as a result of the assessment under paragraph (3); and
+
+(8) in coordination with the Subcommittee on Quantum Information Science, ensure the approach of the United States to investments of the Federal Government in quantum information science research and development reflects a balance between scientific progress and the potential economic and security implications of such progress.
+
+**(d) Technical and administrative support**
+
+(1) **In general** — The Secretary of Energy, the Director of National Intelligence, and the Director of the National Quantum Coordination Office may provide to the Subcommittee personnel, equipment, facilities, and such other technical and administrative support as may be necessary for the Subcommittee to carry out the responsibilities of the Subcommittee under this section.
+
+(2) **Support related to classified information** — The Director of the Office of Science and Technology Policy and the Director of National Intelligence shall provide to the Subcommittee technical and administrative support related to the responsibilities of the Subcommittee that involve classified information, including support related to sensitive compartmented information facilities and the storage of classified information.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 105 of Pub. L. 115–368 was renumbered section 106 and is classified to [section 8815 of this title](./chapter-114-national-quantum-initiative.md#section-8815).
+
+#### Effective Date
+Pub. L. 117–81, div. F, title LXVI, § 6606(b)(2), Dec. 27, 2021, 135 Stat. 2443, provided that: “The amendments made by subsection (a) [enacting this section and amending [section 8815 of this title](./chapter-114-national-quantum-initiative.md#section-8815)] shall take effect as if included in the enactment of the National Quantum Initiative Act ([15 U.S.C. 8801](./chapter-114-national-quantum-initiative.md#section-8801) et seq.).”
+
+
 <a id="section-8841"></a>
 ## § 8841. Sunset
-**(a) In general** Except as provided in subsection (b), the authority to carry out sections 8811, 8812, 8813, and 8814 of this title shall terminate on the date that is 11 years after December 21, 2018.
+**(a) In general** Except as provided in subsection (b), the authority to carry out sections 8811, 8812, 8813, 8814, and 8814a of this title shall terminate on the date that is 11 years after December 21, 2018.
 
 **(b) Extension** The President may continue the activities under such sections if the President determines that such activities are necessary to meet national economic or national security needs.
+
+### Statutory Notes
+
+#### Amendments
+2021—Pub. L. 117–81, § 6606(b)(1), substituted “8813, 8814, and 8814a” for “8813, and 8814”.
+
+#### Effective Date of 2021 Amendment
+Amendment by section 6606(a) of Pub. L. 117–81 effective as if included in the enactment of the National Quantum Initiative Act, see section 6606(b)(2) of Pub. L. 117–81, set out as an Effective Date note under [section 8814a of this title](./chapter-114-national-quantum-initiative.md#section-8814a).
 
 
 <a id="section-8842"></a>

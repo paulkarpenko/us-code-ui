@@ -2,7 +2,7 @@
 title: 22
 chapter: '35'
 heading: ARMS CONTROL AND DISARMAMENT
-section_count: 33
+section_count: 34
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22&num=0&edition=prelim
 ---
@@ -795,17 +795,11 @@ For delegation of congressional reporting functions of President under this sect
 
 
 <a id="section-2593b"></a>
-## § 2593b. Public annual report on world military expenditures and arms transfers
-
-Not later than December 31 of each year, the Secretary of State shall publish an unclassified report on world military expenditures and arms transfers. Such report shall provide detailed, comprehensive, and statistical information regarding military expenditures, arms transfers, armed forces, and related economic data for each country of the world. In addition, such report shall include pertinent in-depth analyses as well as highlights with respect to arms transfers and proliferation trends and initiatives affecting such developments.
+## § 2593b. Repealed. Pub. L. 117–81, div. E, title LI, § 5114(b)(4), Dec. 27, 2021, 135 Stat. 2352
 
 ### Statutory Notes
 
-#### Amendments
-1998—Pub. L. 105–277, § 1223(16), substituted “Secretary of State” for “Director” in first sentence.
-
-#### Effective Date of 1998 Amendment
-Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under [section 6511 of this title](./chapter-074-foreign-affairs-agencies-consolidation.md#section-6511).
+Section, Pub. L. 87–297, title IV, § 404, formerly § 52, as added Pub. L. 103–236, title VII, § 717(a)(3), Apr. 30, 1994, 108 Stat. 499; renumbered § 404 and amended Pub. L. 105–277, div. G, subdiv. A, title XII, § 1223(16), (21), Oct. 21, 1998, 112 Stat. 2681–772, related to public annual report on world military expenditures and arms transfers.
 
 
 <a id="section-2593c-2593d"></a>
@@ -1074,3 +1068,29 @@ As used in this subchapter—
 
 #### Effective Date of 1998 Amendment
 Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under [section 6511 of this title](./chapter-074-foreign-affairs-agencies-consolidation.md#section-6511).
+
+
+<a id="section-2595d"></a>
+## § 2595d. Annual report on comprehensive nuclear-test-ban treaty sensors
+**(a) Requirement** Not later than 90 days after December 27, 2021, and not later than September 1 of each subsequent year, the Secretary of State shall submit to the appropriate congressional committees a report on the sensors used in the international monitoring system of the Comprehensive Nuclear-Test-Ban Treaty Organization. Each such report shall include, with respect to the period covered by the report—
+
+(1) the number of incidents where such sensors are disabled, turned off, or experience “technical difficulties”; and
+
+(2) with respect to each such incident—
+
+  (A) the location of the sensor;
+
+  (B) the duration of the incident; and
+
+  (C) whether the Secretary determines there is reason to believe that the incident was a deliberate act on the part of the host nation.
+
+**(b) Appropriate congressional committees defined** In this section, the term “appropriate congressional committees” means—
+
+(1) the Committee on Foreign Affairs and the Committee on Armed Services of the House of Representatives; and
+
+(2) the Committee on Foreign Relations and the Committee on Armed Services of the Senate.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2022, and not as part of the Arms Control and Disarmament Act which comprises this chapter.

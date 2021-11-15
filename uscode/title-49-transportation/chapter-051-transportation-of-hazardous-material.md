@@ -1511,7 +1511,43 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 
 (8) The Secretary may impose such additional terms and conditions on grants to be made under this subsection as the Secretary determines are necessary to protect the interests of the United States and to carry out the objectives of this subsection.
 
-**(j) Reports.—** The Secretary shall submit an annual report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate and make available the report to the public. The report submitted under this subsection shall include information on the allocation and uses of the planning and training grants under subsection (a) and grants under subsection (i) of this section and under subsections (e) and (i) of section 5107. The report submitted under this subsection shall identify the ultimate recipients of such grants and include—
+**(j) Alert Grant Program.—**
+
+(1) **Assistance for local emergency response training.—** — The Secretary shall establish a grant program to make grants to eligible entities described in paragraph (2)—
+
+  (A) to develop a hazardous materials response training curriculum for emergency responders, including response activities for the transportation of crude oil, ethanol, and other flammable liquids by rail, consistent with the standards of the National Fire Protection Association; and
+
+  (B) to make the training described in subparagraph (A) available in an electronic format.
+
+(2) **Eligible entities.—** — An eligible entity referred to in paragraph (1) is a nonprofit organization that—
+
+  (A) represents first responders or public officials responsible for coordinating disaster response; and
+
+  (B) is able to provide direct or web-based training to individuals responsible for responding to accidents and incidents involving hazardous materials.
+
+(3) **Funding.—**
+
+  (A) *In general.—* — To carry out the grant program under paragraph (1), the Secretary may use, for each fiscal year, any amounts recovered during such fiscal year from grants awarded under this section during a prior fiscal year.
+
+  (B) *Other hazardous material training activities.—* — For each fiscal year, after providing grants under paragraph (1), if funds remain available, the Secretary may use the amounts described in subparagraph (A)—
+
+    (i) to make grants under—
+
+      (I) subsection (a)(1)(C);
+
+      (II) subsection (i); and
+
+      (III) section 5107(e);
+
+    (ii) to conduct monitoring and provide technical assistance under subsection (e);
+
+    (iii) to publish and distribute the emergency response guide referred to in subsection (h)(3); and
+
+    (iv) to pay administrative costs in accordance with subsection (h)(4).
+
+  (C) *Obligation limitation.—* — Notwithstanding any other provision of law, for each fiscal year, amounts described in subparagraph (A) shall not be included in the obligation limitation for the Hazardous Materials Emergency Preparedness grant program for that fiscal year.
+
+**(k) Reports.—** The Secretary shall submit an annual report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate and make available the report to the public. The report submitted under this subsection shall include information on the allocation and uses of the planning and training grants under subsection (a) and grants under subsections (i) and (j) of this section and under subsections (e) and (i) of section 5107. The report submitted under this subsection shall identify the ultimate recipients of such grants and include—
 
 (1) a detailed accounting and description of each grant expenditure by each grant recipient, including the amount of, and purpose for, each expenditure;
 
@@ -1561,6 +1597,12 @@ This amends 49:5116(j)(4)(A) to correct an erroneous cross-reference.
 The Emergency Planning and Community Right-To-Know Act of 1986, referred to in subsec. (a)(1)(A), is title III of Pub. L. 99–499, Oct. 17, 1986, 100 Stat. 1728, which is classified generally to chapter 116 (§ 11001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 11001 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11001&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2021—Subsec. (j). Pub. L. 117–58, § 26002(3), added subsec. (j). Former subsec. (j) redesignated (k).
+
+Pub. L. 117–58, § 26002(1), substituted “subsections (i) and (j)” for “subsection (i)” in introductory provisions.
+
+Subsec. (k). Pub. L. 117–58, § 26002(2), redesignated subsec (j) as (k).
+
 2015—Subsec. (a). Pub. L. 114–94, § 7203(a)(3), added subsec. (a) and struck out former subsec. (a) which related to planning grants.
 
 Subsecs. (b), (c). Pub. L. 114–94, § 7203(a)(1), (2), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which related to training grants.
@@ -2522,33 +2564,33 @@ A prior section 5127 was renumbered [section 5128 of this title](./chapter-051-t
 ## § 5128. Authorization of appropriations
 **(a) In General.—** There are authorized to be appropriated to the Secretary to carry out this chapter (except sections 5107(e), 5108(g)(2), 5113, 5115, 5116, and 5119)—
 
-(1) $53,000,000 for fiscal year 2016;
+(1) $67,000,000 for fiscal year 2022;
 
-(2) $55,000,000 for fiscal year 2017;
+(2) $68,000,000 for fiscal year 2023;
 
-(3) $57,000,000 for fiscal year 2018;
+(3) $69,000,000 for fiscal year 2024;
 
-(4) $58,000,000 for fiscal year 2019; and
+(4) $70,000,000 for fiscal year 2025; and
 
-(5) $60,000,000 for fiscal year 2020.
+(5) $71,000,000 for fiscal year 2026.
 
-**(b) Hazardous Materials Emergency Preparedness Fund.—** From the Hazardous Materials Emergency Preparedness Fund established under section 5116(h), the Secretary may expend, for each of fiscal years 2016 through 2020—
+**(b) Hazardous Materials Emergency Preparedness Fund.—** From the Hazardous Materials Preparedness Fund established under section 5116(h), the Secretary may expend, for each of fiscal years 2022 through 2026—
 
-(1) $21,988,000 to carry out section 5116(a);
+(1) $39,050,000 to carry out section 5116(a);
 
 (2) $150,000 to carry out section 5116(e);
 
 (3) $625,000 to publish and distribute the Emergency Response Guidebook under section 5116(h)(3); and
 
-(4) $1,000,000 to carry out section 5116(i).
+(4) $2,000,000 to carry out section 5116(i).
 
-**(c) Hazardous Materials Training Grants.—** From the Hazardous Materials Emergency Preparedness Fund established pursuant to section 5116(h), the Secretary may expend $4,000,000 for each of fiscal years 2016 through 2020 to carry out section 5107(e).
+**(c) Hazardous Materials Training Grants.—** From the Hazardous Materials Emergency Preparedness Fund established pursuant to section 5116(h), the Secretary may expend $5,000,000 for each of fiscal years 2022 through 2026 to carry out section 5107(e).
 
-**(d) Community Safety Grants.—** Of the amounts made available under subsection (a) to carry out this chapter, the Secretary shall withhold $1,000,000 for each of fiscal years 2016 through 2020 to carry out section 5107(i).
+**(d) Community Safety Grants.—** Of the amounts made available under subsection (a) to carry out this chapter, the Secretary shall withhold $4,000,000 for each of fiscal years 2022 through 2026 to carry out section 5107(i).
 
 **(e) Credits to Appropriations.—**
 
-(1) **Expenses.—** — In addition to amounts otherwise made available to carry out this chapter, the Secretary may credit amounts received from a State, Indian tribe, or other public authority or private entity for expenses the Secretary incurs in providing training to the State, Indian tribe, authority, or entity.
+(1) **Expenses.—** — In addition to amounts otherwise made available to carry out this chapter, the Secretary may credit amounts received from a State, Indian tribe, or other public authority or private entity for expenses the Secretary incurs in providing training to the State, Indian tribe, authority or entity.
 
 (2) **Availability of amounts.—** — Amounts made available under this section shall remain available until expended.
 
@@ -2575,6 +2617,8 @@ In subsection (c), the text of 49 App.:1815(i)(3)(A) is omitted as obsolete.
 In subsection (c)(2), the words “relating to dissemination of the curriculum” are omitted as surplus.
 
 #### Amendments
+2021—Pub. L. 117–58 amended section generally. Prior to amendment, section related to authorization of appropriations for fiscal years 2016 to 2020.
+
 2015—Pub. L. 114–94 amended section generally. Prior to amendment, section related to authorization of appropriations for fiscal years 2013 to 2015.
 
 Subsec. (a)(3). Pub. L. 114–41, § 1301(a)(2), added par. (3) and struck out former par. (3) which read as follows: “$35,615,474 for the period beginning on October 1, 2014, and ending on July 31, 2015.”

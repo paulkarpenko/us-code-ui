@@ -262,7 +262,7 @@ Par. (20). Pub. L. 100–235 added par. (20).
 1950—Act July 22, 1950, provided basic authority for performance of certain functions and activities of Department of Commerce.
 
 #### Change of Name
-Reference to a Sector Specific Agency (including any permutations or conjugations thereof) deemed to be a reference to the Sector Risk Management Agency of the relevant critical infrastructure sector and have the meaning give such term in [section 651(5) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section651/5&num=0&edition=prelim), Domestic Security, see [section 652a(c)(3) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section652a/c/3&num=0&edition=prelim), enacted Jan. 1, 2021.
+Reference to a Sector Specific Agency (including any permutations or conjugations thereof) deemed to be a reference to the Sector Risk Management Agency of the relevant critical infrastructure sector and have the meaning given such term in [section 651(5) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section651/5&num=0&edition=prelim), Domestic Security, see [section 652a(c)(3) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section652a/c/3&num=0&edition=prelim), enacted Jan. 1, 2021.
 
 #### Construction of Pub. L. 115–236
 Pub. L. 115–236, § 2(d), Aug. 14, 2018, 132 Stat. 2445, provided that: “Nothing in this section [amending this section and enacting provisions set out as notes under this section] may be construed to supersede, alter, or otherwise affect any cybersecurity requirements applicable to Federal agencies.”

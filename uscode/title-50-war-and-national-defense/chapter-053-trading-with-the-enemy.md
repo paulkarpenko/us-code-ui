@@ -174,11 +174,6 @@ Subsec. (b)(3). Pub. L. 95–223, § 103(b), struck out provisions that whoever 
 #### Regulations
 Act Mar. 9, 1933, ch. 1, title I, § 1, 48 Stat. 1, provided that: “The actions, regulations, rules, licenses, orders and proclamations heretofore or hereafter taken, promulgated, made, or issued by the President of the United States or the Secretary of the Treasury since March 4, 1933, pursuant to the authority conferred by subdivision (b) of section 5 of the act of October 6, 1917, as amended [[50 U.S.C. 4305(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4305/b&num=0&edition=prelim)], are hereby approved and confirmed.”
 
-#### Delegation of Functions
-President’s powers under subsec. (b) of this section delegated during World War II to Secretary of the Treasury by Memorandum of the President dated Feb. 12, 1942, 7 F.R. 1409, and to Alien Property Custodian by Ex. Ord. No. 9095, Mar. 11, 1942, 7 F.R. 1971.
-
-Office of World War II Alien Property Custodian terminated and powers, duties, and functions vested in or transferred or delegated to such Office or in the Alien Property Custodian transferred to Attorney General, see Ex. Ord. No. 9788, set out under [section 4306 of this title](./chapter-053-trading-with-the-enemy.md#section-4306).
-
 #### Limitation on Exercise of Emergency Authorities
 Pub. L. 103–236, title V, § 525(b)(2), Apr. 30, 1994, 108 Stat. 474, provided that: “The authorities conferred upon the President by section 5(b) of the Trading With the Enemy Act [[50 U.S.C. 4305(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4305/b&num=0&edition=prelim)], which were being exercised with respect to a country on July 1, 1977, as a result of a national emergency declared by the President before such date, and are being exercised on the date of the enactment of this Act [Apr. 30, 1994], do not include the authority to regulate or prohibit, directly or indirectly, any activity which, under section 5(b)(4) of the Trading With the Enemy Act, as amended by paragraph (1) of this subsection, may not be regulated or prohibited.”
 
@@ -186,6 +181,11 @@ Pub. L. 100–418, title II, § 2502(a)(2), Aug. 23, 1988, 102 Stat. 1371, provi
 
 #### Extension and Termination of National Emergency Powers Under the Trading With the Enemy Act
 Pub. L. 95–223, title I, § 101(b), (c), Dec. 28, 1977, 91 Stat. 1625, provided that: “(b) Notwithstanding the amendment made by subsection (a) [amending this section], the authorities conferred upon the President by section 5(b) of the Trading With the Enemy Act [[50 U.S.C. 4305(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4305/b&num=0&edition=prelim)], which were being exercised with respect to a country on July 1, 1977, as a result of a national emergency declared by the President before such date, may continue to be exercised with respect to such country, except that, unless extended, the exercise of such authorities shall terminate (subject to the savings provisions of the second sentence of section 101(a) of the National Emergencies Act [[50 U.S.C. 1601(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601/a&num=0&edition=prelim)]) at the end of the two-year period beginning on the date of enactment of the National Emergencies Act [Sept. 14, 1976]. The President may extend the exercise of such authorities for one-year periods upon a determination for each such extension that the exercise of such authorities with respect to such country for another year is in the national interest of the United States. “(c) The termination and extension provisions of subsection (b) of this section supersede the provisions of section 101(a) [[50 U.S.C. 1601(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601/a&num=0&edition=prelim)] and of title II [[50 U.S.C. 1621](./chapter-034-national-emergencies.md#section-1621) et seq.] of the National Emergencies Act to the extent that the provisions of subsection (b) of this section are inconsistent with those provisions.”
+
+#### Delegation of Functions
+President’s powers under subsec. (b) of this section delegated during World War II to Secretary of the Treasury by Memorandum of the President dated Feb. 12, 1942, 7 F.R. 1409, and to Alien Property Custodian by Ex. Ord. No. 9095, Mar. 11, 1942, 7 F.R. 1971.
+
+Office of World War II Alien Property Custodian terminated and powers, duties, and functions vested in or transferred or delegated to such Office or in the Alien Property Custodian transferred to Attorney General, see Ex. Ord. No. 9788, set out under [section 4306 of this title](./chapter-053-trading-with-the-enemy.md#section-4306).
 
 #### Proc. No. 8271. Termination of the Exercise of Authorities Under the Trading With the Enemy Act With Respect to North Korea
 Proc. No. 8271, June 26, 2008, 73 F.R. 36785, provided:
@@ -1320,8 +1320,6 @@ Prior to classification as section 32, section was formerly classified to sectio
 Tax Court of the United States redesignated United States Tax Court pursuant to Pub. L. 91–172, title IX, § 951, Dec. 30, 1969, 83 Stat. 730. See [section 7441 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section7441&num=0&edition=prelim), Internal Revenue Code.
 
 #### Transfer of Functions
-Functions vested by law in Alien Property Custodian and Office of Alien Property Custodian transferred to Attorney General by Reorg. Plan No. 1 of 1947, § 101, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 951, set out in the Appendix to Title 5, Government Organization and Employees.
-
 Renegotiation Board terminated and all property, including records, of Board transferred to Administrator of General Services on Mar. 31, 1979, pursuant to Pub. L. 95–431, title V, § 501, Oct. 10, 1978, 92 Stat. 1043.
 
 #### Purpose of Act August 5, 1947
@@ -1332,6 +1330,9 @@ Act Aug. 5, 1947, ch. 499, § 1, 61 Stat. 784, provided: “That the President, 
 
 #### Transfer of Vessels to Italian Government
 Act Aug. 5, 1947, ch. 499, § 4, 61 Stat. 786, provided: “The President is authorized upon such terms as he deems necessary (a) to transfer to the Government of Italy all vessels which were under Italian registry and flag on September 1, 1939, and were thereafter acquired by the United States and are now owned by the United States; and (b) with respect to any vessel under Italian registry and flag on September 1, 1939, and subsequently seized in United States ports and thereafter lost while being employed in the United States war effort, to transfer to the Government of Italy surplus merchant vessels of the United States of a total tonnage approximately equal to the total tonnage of the Italian vessels lost: Provided, That no monetary compensation shall be paid either for the use by the United States or its agencies of former Italian vessels so acquired or seized or for the return or transfer of such vessels or substitute vessels.”
+
+#### Transfer of Functions
+Functions vested by law in Alien Property Custodian and Office of Alien Property Custodian transferred to Attorney General by Reorg. Plan No. 1 of 1947, § 101, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 951, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-4330"></a>

@@ -27,7 +27,7 @@ source: >-
 ### Statutory Notes
 
 #### Constitutionality
-For information regarding constitutionality of this section as amended by Pub. L. 101–131, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For information regarding constitutionality of this section as amended by Pub. L. 101–131, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
 
 #### Amendments
 1989—Subsec. (a). Pub. L. 101–131, § 2(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Whoever knowingly casts contempt upon any flag of the United States by publicly mutilating, defacing, defiling, burning, or trampling upon it shall be fined not more than $1,000 or imprisoned for not more than one year, or both.”
@@ -513,7 +513,7 @@ Subsec. (a). Pub. L. 91–651 redesignated existing provisions as subsec. (a), e
 Subsecs. (b), (c). Pub. L. 91–651 added subsecs. (b) and (c).
 
 #### Effective Date of 1971 Amendment
-Pub. L. 91–651, § 3, Jan. 5, 1971, 84 Stat. 1941, provided that: The amendments made by this Act [amending this section] shall not make unlawful any preexisting use of the design of the great seal of the United States or of the seals of the President or Vice President of the United States that was lawful on the date of enactment of this Act [Jan. 5, 1971], until one year after the date of such enactment.”
+Pub. L. 91–651, § 3, Jan. 5, 1971, 84 Stat. 1941, provided that: “The amendments made by this Act [amending this section] shall not make unlawful any preexisting use of the design of the great seal of the United States or of the seals of the President or Vice President of the United States that was lawful on the date of enactment of this Act [Jan. 5, 1971], until one year after the date of such enactment.”
 
 #### Ex. Ord. No. 11649. Regulations Governing Seals of President and Vice President of United States
 Ex. Ord. No. 11649, Feb. 16, 1972, 37 F.R. 3625, as amended by Ex. Ord. No. 11916, May 28, 1976, 41 F.R. 22031, provided:

@@ -246,14 +246,14 @@ Subsecs. (d), (e). Pub. L. 108–136, § 312(a), added subsec. (d) and redesigna
 #### Change of Name
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-#### Delegation of Functions
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2381&num=0&edition=prelim), Foreign Relations and Intercourse.
-
 #### Processing of Applications for Transportation of Humanitarian Assistance Abroad by Department of Defense
 Pub. L. 106–309, title IV, § 403, Oct. 17, 2000, 114 Stat. 1097, provided that: “(a) Priority for Disaster Relief Assistance.—In processing applications for the transportation of humanitarian assistance abroad under [section 402 of title 10](./chapter-020-humanitarian-and-other-assistance.md#section-402), United States Code, the Administrator of the United States Agency for International Development shall afford a priority to applications for the transportation of disaster relief assistance. “(b) Modification of Applications.—The Administrator of the United States Agency for International Development shall take all possible actions to assist applicants for the transportation of humanitarian assistance abroad under such section 402 in modifying or completing applications submitted under such section in order to meet applicable requirements under such section. The actions shall include efforts to contact such applicants for purposes of the modification or completion of such applications.”
 
 #### First Report Deadline
 Pub. L. 100–180, div. A, title III, § 332(d), Dec. 4, 1987, 101 Stat. 1080, directed that first report under [section 402(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section402/d&num=0&edition=prelim) be submitted not more than six months after the date on which the most recent report was submitted under section 1540(e) of the Department of Defense Authorization Act, 1985 (Pub. L. 98–525; 98 Stat. 2638).
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2381&num=0&edition=prelim), Foreign Relations and Intercourse.
 
 
 <a id="section-403"></a>

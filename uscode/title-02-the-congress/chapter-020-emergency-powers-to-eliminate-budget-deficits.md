@@ -193,6 +193,9 @@ Pub. L. 103–66, title XIV, § 14002(c)(3)(A), Aug. 10, 1993, 107 Stat. 684, wh
 
 Pub. L. 99–177, title II, § 275, Dec. 12, 1985, 99 Stat. 1100, as amended by Pub. L. 100–119, title I, § 106(c), title II, § 210(b), Sept. 29, 1987, 101 Stat. 780, 787; Pub. L. 101–508, title XIII, §§ 13112(b), 13208(b), Nov. 5, 1990, 104 Stat. 1388–608, 1388–619; Pub. L. 105–33, title X, § 10212(a), Aug. 5, 1997, 111 Stat. 712, which provided that, except as otherwise provided in section 275, amendments by title II of Pub. L. 99–177 were effective Dec. 12, 1985, and applicable to fiscal years beginning after Sept. 30, 1985; that amendment by section 201(a)(2) of Pub. L. 99–177 (amending [section 622(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section622/2&num=0&edition=prelim)), and amendment by section 201(b) of Pub. L. 99–177 (insofar as it relates to section 633(c), (f), and (g) of this title and to section 641(c), (d), and (g) of this title), were effective Apr. 15, 1986; that amendment by section 212 of Pub. L. 99–177 (amending [section 652 of this title](./chapter-17a-congressional-budget-and-fiscal-operations.md#section-652)) was effective Feb. 1, 1986; that sections 251, 253, 258B, and 271(b) of Pub. L. 99–177 (sections 901, 903, and 907c of this title and provisions set out as a note below), and sections 1105(f) and 1106(c) of title 31, United States Code, were to expire Sept. 30, 2002; that the remaining sections of part C of title II of Pub. L. 99–177 (enacting this subchapter) were to expire Sept. 30, 2006; and that amendments by part D of title II of Pub. L. 99–177 (amending [section 911 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section911&num=0&edition=prelim), The Public Health and Welfare, and enacting provisions set out as a note under [section 911 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section911&num=0&edition=prelim)) were applicable as provided in that part, was repealed by Pub. L. 112–25, title I, § 104(a), Aug. 2, 2011, 125 Stat. 246.
 
+#### Short Title of 2021 Amendment
+Pub. L. 117–71, § 1, Dec. 10, 2021, 135 Stat. 1506, provided that: “This Act [amending [section 901a of this title](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-901a) and sections 1395m–1, 1395w–4, and 1395iii of Title 42, The Public Health and Welfare, and enacting and amending provisions set out as notes under [section 901a of this title](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-901a)] may be cited as the ‘Protecting Medicare and American Farmers from Sequester Cuts Act’.”
+
 #### Short Title of 2019 Amendment
 Pub. L. 116–37, § 1, Aug. 2, 2019, 133 Stat. 1049, provided that: “This Act [amending sections 901 and 901a of this title and [section 58c of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section58c&num=0&edition=prelim), Customs Duties, enacting provisions set out as a note under [section 3101 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3101&num=0&edition=prelim), Money and Finance, and amending provisions set out as a note under [section 3805 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3805&num=0&edition=prelim)] may be cited as the ‘Bipartisan Budget Act of 2019’.”
 
@@ -767,17 +770,25 @@ Discretionary appropriations and direct spending accounts shall be reduced in ac
 
   (A) On the date specified in paragraph (2) during each applicable year, OMB shall prepare and the President shall order a sequestration, effective upon issuance, of nonexempt direct spending to achieve the direct spending reduction calculated pursuant to paragraphs (3) and (4). When implementing the sequestration of direct spending pursuant to this paragraph, OMB shall follow the procedures specified in [section 935 of this title](./chapter-20a-statutory-pay-as-you-go.md#section-935), the exemptions specified in [section 905 of this title](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-905), and the special rules specified in [section 906 of this title](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-906), except that the percentage reduction for the Medicare programs specified in [section 906(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906/d&num=0&edition=prelim) shall not be more than 2 percent for a fiscal year.
 
-  (B) On the dates OMB issues its sequestration preview reports for each of fiscal years 2022 through 2030, pursuant to [section 904(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section904/c&num=0&edition=prelim), the President shall order a sequestration, effective upon issuance such that—
+  (B) On the dates OMB issues its sequestration preview reports for each of fiscal years 2022 through 2031, pursuant to [section 904(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section904/c&num=0&edition=prelim), the President shall order a sequestration, effective upon issuance such that—
 
     (i) the percentage reduction for nonexempt direct spending for the defense function is the same percent as the percentage reduction for nonexempt direct spending for the defense function for fiscal year 2021 calculated under paragraph (3)(B); and
 
     (ii) the percentage reduction for nonexempt direct spending for nondefense functions is the same percent as the percentage reduction for nonexempt direct spending for nondefense functions for fiscal year 2021 calculated under paragraph (4)(B).
 
-  (C) Notwithstanding the 2 percent limit specified in subparagraph (A) for payments for the Medicare programs specified in [section 906(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906/d&num=0&edition=prelim), the sequestration order of the President under such subparagraph for fiscal year 2030 shall be applied to such payments so that—
+  (C) Notwithstanding the 2 percent limit specified in subparagraph (A) for payments for the Medicare programs specified in [section 906(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906/d&num=0&edition=prelim), the sequestration order of the President under such subparagraph for fiscal year 2022 shall be applied to such payments so that with respect to the period beginning on April 1, 2022, and ending on June 30, 2022, the payment reduction shall be 1.0 percent.
+
+  (D) Notwithstanding the 2 percent limit specified in subparagraph (A) for payments for the Medicare programs specified in [section 906(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906/d&num=0&edition=prelim), the sequestration order of the President under such subparagraph for fiscal year 2030 shall be applied to such payments so that—
+
+    (i) with respect to the first 6 months in which such order is effective for such fiscal year, the payment reduction shall be 2.25 percent; and
+
+    (ii) with respect to the second 6 months in which such order is so effective for such fiscal year, the payment reduction shall be 3 percent.
+
+  (E) Notwithstanding the 2 percent limit specified in subparagraph (A) for payments for the Medicare programs specified in [section 906(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906/d&num=0&edition=prelim), the sequestration order of the President under such subparagraph for fiscal year 2031 shall be applied to such payments so that—
 
     (i) with respect to the first 6 months in which such order is effective for such fiscal year, the payment reduction shall be 4.0 percent; and
 
-    (ii) with respect to the second 6 months in which such order is so effective for such fiscal year, the payment reduction shall be 0.0 percent.
+    (ii) with respect to the second 6 months in which such order is so effective for such fiscal year, the payment reduction shall be 0 percent.
 
 (7) **Adjustment for Medicare** — If the percentage reduction for the Medicare programs would exceed 2 percent for a fiscal year in the absence of paragraph (6), OMB shall increase the reduction for all other discretionary appropriations and direct spending under paragraph (4) by a uniform percentage to a level sufficient to achieve the reduction required by paragraph (4) in the non-defense function.
 
@@ -828,6 +839,28 @@ The Bipartisan Budget Act of 2019, referred to in par. (13)(A), is Pub. L. 116�
 A prior section 901a, Pub. L. 99–177, title II, § 251A, as added Pub. L. 103–322, title XXXI, § 310001(g)(1), Sept. 13, 1994, 108 Stat. 2104, related to sequestration with respect to Violent Crime Reduction Trust Fund, prior to repeal by Pub. L. 105–33, title X, § 10204(a)(1), Aug. 5, 1997, 111 Stat. 702.
 
 #### Amendments
+2021—Par. (6)(B). Pub. L. 117–58, § 90001(1), substituted “2031” for “2030” in introductory provisions.
+
+Par. (6)(C). Pub. L. 117–71, § 2(b)(2), added subpar. (C). Former subpar. (C) redesignated (E).
+
+Pub. L. 117–58, § 90001(2)(A), substituted “2031” for “2030” in introductory provisions.
+
+Par. (6)(C)(i). Pub. L. 117–58, § 90001(2)(B), substituted “6” for “5 ½”, “4.0” for “2.0”, and “; and” for semicolon at end.
+
+Pub. L. 117–7, § 1(b)(1), substituted “first 5 ½ months” for “first 6 months” and “2.0 percent” for “4.0 percent” and struck out “and” at end.
+
+Par. (6)(C)(ii). Pub. L. 117–58, § 90001(2)(C), substituted “second 6 months” for “6-month period beginning on the day after the last day of the period described in clause (i)”, “0” for “4.0”, and a period for “; and” at end.
+
+Pub. L. 117–7, § 1(b)(2), substituted “6-month period beginning on the day after the last day of the period described in clause (i)” for “second 6 months” and “4.0 percent; and” for “0.0 percent.”
+
+Par. (6)(C)(iii). Pub. L. 117–58, § 90001(2)(D), struck out cl. (iii) which read as follows: “with respect to the remaining ½ month in which such order is so effective for such fiscal year, the payment reduction shall be 0.0 percent.”
+
+Pub. L. 117–7, § 1(b)(3), added cl. (iii).
+
+Par. (6)(D). Pub. L. 117–71, § 2(b)(2), added subpar. (D).
+
+Par. (6)(E). Pub. L. 117–71, § 2(b)(1), redesignated subpar. (C) as (E).
+
 2020—Par. (6)(B). Pub. L. 116–136, § 3709(b)(1), substituted “through 2030” for “through 2029” in introductory provisions.
 
 Par. (6)(C). Pub. L. 116–136, § 3709(b)(2), substituted “fiscal year 2030” for “fiscal year 2029” in introductory provisions.
@@ -900,24 +933,30 @@ Par. (10). Pub. L. 113–67, § 101(b)(1), added par. (10). Former par. (10) red
 
 Par. (11). Pub. L. 113–67, § 101(d)(2)(C), redesignated par. (11) as (9).
 
-#### Temporary Suspension of Medicare Sequestration
-Pub. L. 116–136, div. A, title III, § 3709(a), Mar. 27, 2020, 134 Stat. 421, as amended by Pub. L. 116–260, div. N, title I, § 102(a), Dec. 27, 2020, 134 Stat. 1950, provided that: “During the period beginning on May 1, 2020 and ending on March 31, 2021, the Medicare programs under title XVIII of the Social Security Act ([42 U.S.C. 1395](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395&num=0&edition=prelim) et seq.) shall be exempt from reduction under any sequestration order issued before, on, or after the date of enactment of this Act [Mar. 27, 2020].”
+#### Temporary Suspension and Adjustment of Medicare Sequestration
+Pub. L. 116–136, div. A, title III, § 3709(a), Mar. 27, 2020, 134 Stat. 421, as amended by Pub. L. 116–260, div. N, title I, § 102(a), Dec. 27, 2020, 134 Stat. 1950; Pub. L. 117–7, § 1(a)(1), Apr. 14, 2021, 135 Stat. 251; Pub. L. 117–71, § 2(a)(1), Dec. 10, 2021, 135 Stat. 1506, provided that: “During the period beginning on May 1, 2020 and ending on March 31, 2022, the Medicare programs under title XVIII of the Social Security Act ([42 U.S.C. 1395](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395&num=0&edition=prelim) et seq.) shall be exempt from reduction under any sequestration order issued before, on, or after the date of enactment of this Act [Mar. 27, 2020].”
+
+[Pub. L. 117–71, § 2(a)(2), Dec. 10, 2021, 135 Stat. 1506, provided that: “The amendments made by paragraph (1) [amending section 3709(a) of Pub. L. 116–136, set out above] shall take effect as if enacted as part of the CARES Act (Public Law 116–136).” ]
+
+[Pub. L. 117–7, § 1(a)(2), Apr. 14, 2021, 135 Stat. 251, provided that: “The amendment made by paragraph (1) [amending section 3709(a) of Pub. L. 116–136, set out above] shall take effect as if enacted as part of the CARES Act (Public Law 116–136).” ]
 
 [Pub. L. 116–260, div. N, title I, § 102(b), Dec. 27, 2020, 134 Stat. 1950, provided that: “The amendment made by subsection (a) [amending section 3709(a) of Pub. L. 116–136, set out above] shall take effect as if enacted as part of the CARES Act (Public Law 116–136).” ]
 
 #### 2013 Sequester
 Pub. L. 112–240, title IX, § 901(e), Jan. 2, 2013, 126 Stat. 2370, provided that: “On March 1, 2013, the President shall order a sequestration for fiscal year 2013 pursuant to section 251A of the Balanced Budget and Emergency Deficit Control Act of 1985 [[2 U.S.C. 901a](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-901a)], as amended by this section, pursuant to which, only for the purposes of the calculation in sections 251A(5)(A), 251A(6)(A), and 251A(7)(A), section 251(c)(2) [former [2 U.S.C. 901(c)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section901/c/2&num=0&edition=prelim)] shall be applied as if it read as follows: “ ‘(2) For fiscal year 2013— “ ‘(A) for the security category, $544,000,000,000 in budget authority; and “ ‘(B) for the nonsecurity category, $499,000,000,000 in budget authority;’.”
 
-#### Sequestration Order for Fiscal Year 2021 Pursuant to Section 251A of the Balanced Budget and Emergency Deficit Control Act, as Amended
-Order of President of the United States, dated Feb. 10, 2020, 85 F.R. 8129, provided:
+#### Sequestration Order for Fiscal Year 2022 Pursuant to Section 251A of the Balanced Budget and Emergency Deficit Control Act, as Amended
+Order of President of the United States, dated May 28, 2021, 86 F.R. 29927, provided:
 
-By the authority vested in me as President by the laws of the United States of America, and in accordance with section 251A of the Balanced Budget and Emergency Deficit Control Act (the “Act”), as amended, [2 U.S.C. 901a](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-901a), I hereby order that, on October 1, 2020, direct spending budgetary resources for fiscal year 2021 in each non-exempt budget account be reduced by the amount calculated by the Office of Management and Budget in its report to the Congress of February 10, 2020.
+By the authority vested in me as President by the laws of the United States of America, and in accordance with section 251A of the Balanced Budget and Emergency Deficit Control Act (the “Act”), as amended, [2 U.S.C. 901a](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-901a), I hereby order that, on October 1, 2021, direct spending budgetary resources for fiscal year 2022 in each non-exempt budget account be reduced by the amount calculated by the Office of Management and Budget in its report to the Congress of May 28, 2021.
 
-All sequestrations shall be made in strict accordance with the requirements of section 251A of the Act and the specifications of the Office of Management and Budget’s report of February 10, 2020, prepared pursuant to section 251A(9) of the Act.
+All sequestrations shall be made in strict accordance with the requirements of section 251A of the Act and the specifications of the Office of Management and Budget’s report of May 28, 2021, prepared pursuant to section 251A(9) of the Act.
 
-Donald J. Trump.
+J.R. Biden, Jr.
 
 Sequestration orders pursuant to this section for prior fiscal years were contained in the following:
+
+2021—Order of President of the United States, dated Feb. 10, 2020, 85 F.R. 8129.
 
 2020—Order of President of the United States, dated Mar. 18, 2019, 84 F.R. 10401.
 
@@ -1730,7 +1769,7 @@ The Soldiers’ and Airmen’s Home, referred to in subsec. (g)(1)(A), was incor
 
     (i) the elements of compensation of members of the uniformed services specified in [section 1009 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section1009&num=0&edition=prelim),
 
-    (ii) allowances provided members of the uniformed services under sections 403a and 475 of such title, and
+    (ii) allowances provided members of the uniformed services under sections 403a and 475 11 See References in Text note below. of such title, and
 
     (iii) cadet pay and midshipman pay under section 203(c) of such title.
 
@@ -1738,7 +1777,7 @@ The Soldiers’ and Airmen’s Home, referred to in subsec. (g)(1)(A), was incor
 
 **(h) Treatment of Federal administrative expenses**
 
-(1) Notwithstanding any other provision of this title,11 See References in Text note below. administrative expenses incurred by the departments and agencies, including independent agencies, of the Federal Government in connection with any program, project, activity, or account shall be subject to reduction pursuant to an order issued under [section 904 of this title](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-904), without regard to any exemption, exception, limitation, or special rule which is otherwise applicable with respect to such program, project, activity, or account under this subchapter.
+(1) Notwithstanding any other provision of this title,1 administrative expenses incurred by the departments and agencies, including independent agencies, of the Federal Government in connection with any program, project, activity, or account shall be subject to reduction pursuant to an order issued under [section 904 of this title](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-904), without regard to any exemption, exception, limitation, or special rule which is otherwise applicable with respect to such program, project, activity, or account under this subchapter.
 
 (2) Notwithstanding any other provision of law, administrative expenses of any program, project, activity, or account which is self-supporting and does not receive appropriations shall be subject to reduction under a sequester order, unless specifically exempted in this subchapter.
 
@@ -1812,7 +1851,7 @@ The Soldiers’ and Airmen’s Home, referred to in subsec. (g)(1)(A), was incor
 ### Statutory Notes
 
 #### Amendment of Section
-For termination of amendment by section 235(c) of Pub. L. 116–260, see Termination Date of 2020 Amendment note below.
+For termination of amendment by section 235(c) of Pub. L. 116–260, see Effective and Termination Dates of 2020 Amendment note below.
 
 #### References in Text
 The Higher Education Act of 1965, referred to in subsec. (b), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Parts B and D of title IV of the Act are classified generally to parts B (§ 1071 et seq.) and D (§ 1087a et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
@@ -1820,6 +1859,8 @@ The Higher Education Act of 1965, referred to in subsec. (b), is Pub. L. 89–32
 The Social Security Act, referred to in subsecs. (d) and (i)(1)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XII and XVIII of the Social Security Act are classified generally to subchapters XII (§ 1321 et seq.) and XVIII (§ 1395 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Parts A to D of title XVIII of the Act are classified generally to parts A (§ 1395c et seq.), B (§ 1395j et seq.), C (§ 1395w–21 et seq.), and D (§ 1395w–101 et seq.), respectively, of subchapter XVIII of chapter 7 of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 Section 302 of the Federal Employees Pay Comparability Act of 1990, referred to in subsec. (g)(1), is section 529 [title III, § 302] of Pub. L. 101–509, which is set out as a note under [section 5304 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5304&num=0&edition=prelim), Government Organization and Employees.
+
+[Section 475 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section475&num=0&edition=prelim), referred to in subsec. (g)(2)(B)(ii), was transferred to [section 405 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section405&num=0&edition=prelim) by Pub. L. 116–283, div. A, title VI, § 604(a)(1), Jan. 1, 2021, 134 Stat. 3672.
 
 This title, referred to in subsecs. (h)(1) and (j)(1), (3), means title II (§ 200 et seq.) of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, known as the Balanced Budget and Emergency Deficit Control Act of 1985. For complete classification of this Act to the Code, see Short Title note set out under [section 900 of this title](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-900) and Tables.
 
@@ -1832,7 +1873,7 @@ The Federal-State Extended Unemployment Compensation Act of 1970, referred to in
 This joint resolution, referred to in subsec. (j)(6), means Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1037, which enacted this chapter and sections 654 to 656 of this title, amended sections 602, 622, 631 to 642, and 651 to 653 of this title, sections 1104 to 1106, 1109, and 3101 of Title 31, Money and Finance, and [section 911 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section911&num=0&edition=prelim), The Public Health and Welfare, repealed [section 661 of this title](./chapter-17a-congressional-budget-and-fiscal-operations.md#section-661), enacted provisions set out as notes under [section 900 of this title](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-900) and [section 911 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section911&num=0&edition=prelim), and amended provisions set out as a note under [section 621 of this title](./chapter-17a-congressional-budget-and-fiscal-operations.md#section-621). For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
-2020—Subsec. (i)(1)(D). Pub. L. 116–260, § 235(a), temporarily added subpar. (D). See Termination Date of 2020 Amendment note below.
+2020—Subsec. (i)(1)(D). Pub. L. 116–260, § 235(a), temporarily added subpar. (D). See Effective and Termination Dates of 2020 Amendment note below.
 
 2013—Subsec. (g)(2)(B)(ii). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(B). See 2011 Amendment note below.
 

@@ -222,7 +222,7 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (c)(2), are set 
 Section 408 of the Controlled Substances Act, referred to in subsec. (f)(4), is classified to [section 848 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section848&num=0&edition=prelim), Food and Drugs.
 
 #### Constitutionality
-For information regarding constitutionality of certain provisions of this section, as amended by section 401(a)(1) of Pub. L. 108–21, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For information regarding constitutionality of certain provisions of this section, as amended by section 401(a)(1) of Pub. L. 108–21, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
 
 #### Amendments
 2018—Subsec. (f). Pub. L. 115–391, § 402(a)(1)(A), (C), in introductory provisions, substituted “, section 1010” for “or section 1010” and inserted “, or section 70503 or 70506 of title 46” after “963)”, and inserted concluding provisions.

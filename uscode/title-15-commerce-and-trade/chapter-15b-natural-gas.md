@@ -30,7 +30,7 @@ source: >-
 1954—Subsec. (c). Act Mar. 27, 1954, added subsec. (c).
 
 #### Termination of Federal Power Commission; Transfer of Functions
-Federal Power Commission terminated and functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
+The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
 
 #### State Laws and Regulations
 Pub. L. 102–486, title IV, § 404(b), Oct. 24, 1992, 106 Stat. 2879, provided that: “The transportation or sale of natural gas by any person who is not otherwise a public utility, within the meaning of State law—“(1) in closed containers; or “(2) otherwise to any person for use by such person as a fuel in a self-propelled vehicle, shall not be considered to be a transportation or sale of natural gas within the meaning of any State law, regulation, or order in effect before January 1, 1989. This subsection shall not apply to any provision of any State law, regulation, or order to the extent that such provision has as its primary purpose the protection of public safety.”
@@ -87,7 +87,7 @@ When used in this chapter, unless the context otherwise requires—
 1992—Par. (10). Pub. L. 102–486 added par. (10).
 
 #### Termination of Federal Power Commission; Transfer of Functions
-Federal Power Commission terminated and functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a)(1), 7291, and 7293 of Title 42, The Public Health and Welfare.
+The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a)(1), 7291, and 7293 of Title 42, The Public Health and Welfare.
 
 
 <a id="section-717b"></a>
@@ -898,8 +898,8 @@ For definitions of terms used in this section, see [section 2602 of Title 16](ht
 #### Codification
 Section was enacted as part of the Public Utility Regulatory Policies Act of 1978, and not as part of the Natural Gas Act which comprises this chapter.
 
-#### Delegation of Functions
-Functions of President under this section, except for authority to declare, extend, and terminate a natural gas supply emergency pursuant to subsecs. (a) and (b) of this section, delegated to Secretary of Energy, see section 1–102 of Ex. Ord. No. 12235, Sept. 3, 1980, 45 F.R. 58803, set out as a note under [section 3364 of this title](./chapter-060-natural-gas-policy.md#section-3364).
-
 #### Definitions
 For definitions of terms used in this section, see [section 2602 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2602&num=0&edition=prelim), Conservation.
+
+#### Delegation of Functions
+Functions of President under this section, except for authority to declare, extend, and terminate a natural gas supply emergency pursuant to subsecs. (a) and (b) of this section, delegated to Secretary of Energy, see section 1–102 of Ex. Ord. No. 12235, Sept. 3, 1980, 45 F.R. 58803, set out as a note under [section 3364 of this title](./chapter-060-natural-gas-policy.md#section-3364).

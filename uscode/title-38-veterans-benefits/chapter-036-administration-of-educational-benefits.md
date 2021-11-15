@@ -44,14 +44,14 @@ Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “3483” for “1683”
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 116–315, title I, § 1024(a), (b), Jan. 5, 2021, 134 Stat. 4960, provided that, effective on the date that is 180 days after Jan. 5, 2021, this section is amended by adding at the end the following:
+Pub. L. 116–315, title I, § 1024, Jan. 5, 2021, 134 Stat. 4960, as amended by Pub. L. 117–16, § 4, June 8, 2021, 135 Stat. 283, provided that, effective on the date that is one year after Jan. 5, 2021, this section is amended by adding at the end the following:
 
-(c) A State department or agency may not be recognized as a State approving agency designated under this section if such State department or agency is administered at or colocated with a university or university system whose courses or programs of education would be subject to approval under this chapter by the State approving agency in that State.
+(c) The Secretary may not recognize a State department or agency as the State approving agency for a State for purposes of this chapter if such department or agency is administered at, or colocated with, a university or university system that offers courses or programs of education that are subject to approval under this chapter by the State approving agency for that State.
 
 See 2021 Amendment note below.
 
 #### Amendments
-2021—Subsec. (c). Pub. L. 116–315 added subsec. (c).
+2021—Subsec. (c). Pub. L. 116–315, § 1024(a), as amended by Pub. L. 117–16, § 4, added subsec. (c).
 
 2011—Subsec. (b)(2). Pub. L. 111–377 substituted “Except as otherwise provided in this chapter, in the case” for “In the case”.
 
@@ -70,7 +70,7 @@ Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “3674(a)” for “1774
 1966—Subsec. (a). Pub. L. 89–358 substituted “chapters 34 and 35 of this title” for “this chapter after the date for the expiration of all education and training provided in chapter 33 of this title. Such agency may be the agency designated or created in accordance with [section 1641 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1641&num=0&edition=prelim)”.
 
 #### Effective Date of 2021 Amendment
-Pub. L. 116–315, title I, § 1024(b), Jan. 5, 2021, 134 Stat. 4960, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date that is 180 days after the date of the enactment of this Act [Jan. 5, 2021].”
+Pub. L. 116–315, title I, § 1024(b), Jan. 5, 2021, 134 Stat. 4960, as amended by Pub. L. 117–16, § 4, June 8, 2021, 135 Stat. 283, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date that is one year after the date of the enactment of this Act [Jan. 5, 2021].”
 
 #### Effective Date of 2011 Amendment
 Amendment by Pub. L. 111–377 effective Aug. 1, 2011, see section 203(e) of Pub. L. 111–377, set out as a note under [section 3034 of this title](./chapter-030-all-volunteer-force-educational-assistance-program.md#section-3034).
@@ -91,7 +91,11 @@ Amendment by Pub. L. 94–502 effective Oct. 15, 1976, see section 703(b) of Pub
 
   (A) Subject to sections 3675(b)(1) and (b)(2), 3680A, 3684, and 3696 of this title, a program of education is deemed to be approved for purposes of this chapter if a State approving agency, or the Secretary when acting in the role of a State approving agency, determines that the program is one of the following programs:
 
-    (i) Except as provided in subparagraph (C), an accredited standard college degree program offered at a public or not-for-profit proprietary educational institution that is accredited by an agency or association recognized for that purpose by the Secretary of Education.
+    (i) Except as provided in subparagraph (C) or (D), an accredited standard college degree program offered at a public or not-for-profit proprietary educational institution that—
+
+      (I) is accredited by an agency or association recognized for that purpose by the Secretary of Education; and
+
+      (II) is approved and participates in a program under title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070&num=0&edition=prelim) et seq.), unless the Secretary has waived the requirement to participate in a program under title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070&num=0&edition=prelim) et seq.).
 
     (ii) A flight training course approved by the Federal Aviation Administration that is offered by a certified pilot school that possesses a valid Federal Aviation Administration pilot school certificate.
 
@@ -106,6 +110,8 @@ Amendment by Pub. L. 94–502 effective Oct. 15, 1976, see section 703(b) of Pub
     (i) a State approving agency, or the Secretary when acting in the role of a State approving agency, determines that the course meets the applicable criteria in such paragraphs; or
 
     (ii) the Secretary issues a waiver for such course under [section 3676(f)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3676/f/1&num=0&edition=prelim).
+
+  (D) A program that is described in subparagraph (A)(i) of this paragraph and offered by an educational institution that is at risk of losing accreditation shall not be deemed to be approved for purposes of this chapter. For purposes of this subparagraph, an educational institution is at risk of losing accreditation if that educational institution has received from the relevant accrediting agency or association a notice described in [section 3673(e)(2)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3673/e/2/D&num=0&edition=prelim).
 
 **(c)**
 
@@ -139,26 +145,9 @@ Amendment by Pub. L. 94–502 effective Oct. 15, 1976, see section 703(b) of Pub
 
 ### Statutory Notes
 
-#### Amendment of Subsection (b)(2)
-Pub. L. 116–315, title I, §§ 1012, 1015(b), (c), Jan. 5, 2021, 134 Stat. 4942, 4945, provided that, effective on Aug. 1, 2021, subsection (b)(2) of this section is amended—
-
-(1) by inserting “or (D)” after “subparagraph (C)” in subparagraph (A)(i);
-
-(2) by amending subparagraph (A)(i) to read as follows:
-
-“(i) Except as provided in subparagraph (C) or (D), an accredited standard college degree program offered at a public or not-for-profit proprietary educational institution that—
-
-“(I) is accredited by an agency or association recognized for that purpose by the Secretary of Education; and
-
-“(II) is approved and participates in a program under title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070&num=0&edition=prelim) et seq.), unless the Secretary has waived the requirement to participate in a program under title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070&num=0&edition=prelim) et seq.).”; and
-
-(3) by adding at the end the following new subparagraph:
-
-“(D) A program that is described in subparagraph (A)(i) of this paragraph and offered by an educational institution that is at risk of losing accreditation shall not be deemed to be approved for purposes of this chapter. For purposes of this subparagraph, an educational institution is at risk of losing accreditation if that educational institution has received from the relevant accrediting agency or association a notice described in [section 3673(e)(2)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3673/e/2/D&num=0&edition=prelim).”
-
-See 2021 Amendment notes below.
-
 #### References in Text
+The Higher Education Act of 1965, referred to in subsec. (b)(2)(A)(i)(II), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see section 1 of Pub. L. 89–329, set out as a Short Title note under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
+
 The Act of August 16, 1937, referred to in subsec. (b)(2)(A)(iii), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, popularly known as the National Apprenticeship Act, which is classified generally to chapter 4C (§ 50 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 50 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section50&num=0&edition=prelim) and Tables.
 
 #### Amendments
@@ -248,6 +237,76 @@ Pub. L. 114–315, title IV, § 409(f), Dec. 16, 2016, 130 Stat. 1560, provided 
 
 **(d) Use of State Approving Agencies for Oversight Activities.—** The Secretary may utilize the services of a State approving agency for conducting compliance and risk-based surveys and other such oversight purposes as the Secretary, in consultation with the State approving agencies, considers appropriate without regard to whether the Secretary or the agency approved the courses offered in the State concerned.
 
+**(e) Notice of Government Action.—**
+
+(1)
+
+  (A) If the Secretary receives notice described in paragraph (2), or otherwise becomes aware of an action or event described in paragraph (3), with respect to an educational institution, the Secretary shall transmit such notice or provide notice of such action or event to the State approving agency for the State where the educational institution is located by not later than 30 days after the date on which the Secretary receives such notice or becomes aware of such action or event.
+
+  (B) If a State approving agency receives notice as described in paragraph (2), or otherwise becomes aware of an action or event described in paragraph (3), with respect to an educational institution, other than from the Secretary pursuant to subparagraph (A) of this paragraph, the State approving agency shall immediately notify the Secretary.
+
+  (C) Not later than 60 days after the date on which a State approving agency receives notice under subparagraph (A), receives notice as described in subparagraph (B), or becomes aware as described in such subparagraph, as the case may be, regarding an educational institution, such State approving agency shall—
+
+    (i) complete a risk-based survey of such educational institution; and
+
+    (ii) provide the Secretary with—
+
+      (I) a complete report on the findings of the State approving agency with respect to the risk-based survey completed under clause (i) and any actions taken as a result of such findings; and
+
+      (II) any supporting documentation and pertinent records.
+
+(2) Notice described in this paragraph is any of the following:
+
+  (A) Notice from the Secretary of Education of an event under paragraph (3)(A).
+
+  (B) Notice of an event under paragraph (3)(B).
+
+  (C) Notice from a State of an action taken by that State under paragraph (3)(C).
+
+  (D) Notice provided by an accrediting agency or association of an action described in paragraph (3)(D) taken by that agency or association.
+
+  (E) Notice that the Secretary of Education has placed the educational institution on provisional certification status.
+
+(3) An action or event under this paragraph is any of the following:
+
+  (A) The receipt by an educational institution of payments under the heightened cash monitoring level 2 payment method pursuant to section 487(c)(1)(B) of the Higher Education Act of 1965 ([20 U.S.C. 1094](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1094&num=0&edition=prelim)).
+
+  (B) Punitive action taken by the Attorney General, the Federal Trade Commission, or any other Federal department or agency for misconduct or misleading marketing practices that would violate the standards defined by the Secretary of Veterans Affairs.
+
+  (C) Punitive action taken by a State against an educational institution.
+
+  (D) The loss, or risk of loss, by an educational institution of an accreditation from an accrediting agency or association, including notice of probation, suspension, an order to show cause relating to the educational institution’s academic policies and practices or to its financial stability, or revocation of accreditation.
+
+  (E) The placement of an educational institution on provisional certification status by the Secretary of Education.
+
+(4) If a State approving agency disapproves or suspends an educational institution, the State approving agency shall provide notice of such disapproval or suspension to the Secretary and to all other State approving agencies.
+
+(5) This subsection shall be carried out using amounts made available pursuant to [section 3674(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3674/a/4&num=0&edition=prelim) as long as such amounts remain available.
+
+(6) For each notice transmitted or provided to a State approving agency under paragraph (1) with respect to an educational institution, the Secretary shall ensure the careful review of—
+
+  (A) to the extent possible, the action that gave rise to such notice; and
+
+  (B) any other action against the educational institution by any Federal or State government entity or by the educational institution’s accreditor.
+
+(7) In this subsection, the term “risk-based survey” means the risk-based survey developed under [section 3673A of this title](./chapter-036-administration-of-educational-benefits.md#section-3673a).
+
+**(f) Outreach Activities.—**
+
+(1) A State approving agency may conduct outreach activities if—
+
+  (A) the State approving agency has properly conducted its enforcement and approval of courses and programs of education under this chapter; and
+
+  (B) funds are still available to do so.
+
+(2) For purposes of paragraph (1)(A), a State approving agency shall be considered to have properly conducted its enforcement and approval of courses and programs of education under this chapter if the State approving agency has—
+
+  (A) met fulfilled 11 So in original. its requirements pursuant to the applicable cooperative agreements between the State approving agency and the Department relating to the oversight and approval of courses and programs of education under this chapter; and
+
+  (B) completed a risk-based survey of any course or program of education determined to be of questionable quality or at risk by any Federal or State agency or any accrediting agency.
+
+(3) Outreach activities conducted under paragraph (1) shall be carried out using amounts derived from amounts not specifically appropriated to carry out this subsection.
+
 ### Statutory Notes
 
 #### Amendment of Section
@@ -258,76 +317,6 @@ Pub. L. 116–315, title I, § 1013(b), Jan. 5, 2021, 134 Stat. 4943, provided t
 (2) by striking “compliance and risk-based surveys” and inserting “a risk-based survey developed under [section 3673A of this title](./chapter-036-administration-of-educational-benefits.md#section-3673a)”.
 
 See 2021 Amendment note below.
-
-Pub. L. 116–315, title I, § 1014, Jan. 5, 2021, 134 Stat. 4943, provided that, effective on Aug. 1, 2021, this section is amended by adding at the end the following new subsection:
-
-(e) Notice of Government Action.—(1)(A) If the Secretary receives notice described in paragraph (2), or otherwise becomes aware of an action or event described in paragraph (3), with respect to an educational institution, the Secretary shall transmit such notice or provide notice of such action or event to the State approving agency for the State where the educational institution is located by not later than 30 days after the date on which the Secretary receives such notice or becomes aware of such action or event.
-
-(B) If a State approving agency receives notice as described in paragraph (2), or otherwise becomes aware of an action or event described in paragraph (3), with respect to an educational institution, other than from the Secretary pursuant to subparagraph (A) of this paragraph, the State approving agency shall immediately notify the Secretary.
-
-(C) Not later than 60 days after the date on which a State approving agency receives notice under subparagraph (A), receives notice as described in subparagraph (B), or becomes aware as described in such subparagraph, as the case may be, regarding an educational institution, such State approving agency shall—
-
-(i) complete a risk-based survey of such educational institution; and
-
-(ii) provide the Secretary with—
-
-(I) a complete report on the findings of the State approving agency with respect to the risk-based survey completed under clause (i) and any actions taken as a result of such findings; and
-
-(II) any supporting documentation and pertinent records.
-
-(2) Notice described in this paragraph is any of the following:
-
-(A) Notice from the Secretary of Education of an event under paragraph (3)(A).
-
-(B) Notice of an event under paragraph (3)(B).
-
-(C) Notice from a State of an action taken by that State under paragraph (3)(C).
-
-(D) Notice provided by an accrediting agency or association of an action described in paragraph (3)(D) taken by that agency or association.
-
-(E) Notice that the Secretary of Education has placed the educational institution on provisional certification status.
-
-(3) An action or event under this paragraph is any of the following:
-
-(A) The receipt by an educational institution of payments under the heightened cash monitoring level 2 payment method pursuant to section 487(c)(1)(B) of the Higher Education Act of 1965 ([20 U.S.C. 1094](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1094&num=0&edition=prelim)).
-
-(B) Punitive action taken by the Attorney General, the Federal Trade Commission, or any other Federal department or agency for misconduct or misleading marketing practices that would violate the standards defined by the Secretary of Veterans Affairs.
-
-(C) Punitive action taken by a State against an educational institution.
-
-(D) The loss, or risk of loss, by an educational institution of an accreditation from an accrediting agency or association, including notice of probation, suspension, an order to show cause relating to the educational institution’s academic policies and practices or to its financial stability, or revocation of accreditation.
-
-(E) The placement of an educational institution on provisional certification status by the Secretary of Education.
-
-(4) If a State approving agency disapproves or suspends an educational institution, the State approving agency shall provide notice of such disapproval or suspension to the Secretary and to all other State approving agencies.
-
-(5) This subsection shall be carried out using amounts made available pursuant to [section 3674(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3674/a/4&num=0&edition=prelim) as long as such amounts remain available.
-
-(6) For each notice transmitted or provided to a State approving agency under paragraph (1) with respect to an educational institution, the Secretary shall ensure the careful review of—
-
-(A) to the extent possible, the action that gave rise to such notice; and
-
-(B) any other action against the educational institution by any Federal or State government entity or by the educational institution’s accreditor.
-
-(7) In this subsection, the term “risk-based survey” means the risk-based survey developed under [section 3673A of this title](./chapter-036-administration-of-educational-benefits.md#section-3673a).
-
-Pub. L. 116–315, title I, § 1023, Jan. 5, 2021, 134 Stat. 4959, provided that this section, as amended by section 1014 of Pub. L. 116–315 (see above), is further amended by adding at the end the following new subsection:
-
-(f) Outreach Activities.—(1) A State approving agency may conduct outreach activities if—
-
-(A) the State approving agency has properly conducted its enforcement and approval of courses and programs of education under this chapter; and
-
-(B) funds are still available to do so.
-
-(2) For purposes of paragraph (1)(A), a State approving agency shall be considered to have properly conducted its enforcement and approval of courses and programs of education under this chapter if the State approving agency has—
-
-(A) met fulfilled its requirements pursuant to the applicable cooperative agreements between the State approving agency and the Department relating to the oversight and approval of courses and programs of education under this chapter; and
-
-(B) completed a risk-based survey of any course or program of education determined to be of questionable quality or at risk by any Federal or State agency or any accrediting agency.
-
-(3) Outreach activities conducted under paragraph (1) shall be carried out using amounts derived from amounts not specifically appropriated to carry out this subsection.
-
-See 2021 Amendment notes below.
 
 #### Amendments
 2021—Subsec. (d). Pub. L. 116–315, § 1013(b)(1), substituted “shall” for “may” and “a risk-based survey developed under [section 3673A of this title](./chapter-036-administration-of-educational-benefits.md#section-3673a)” for “compliance and risk-based surveys”.
@@ -371,7 +360,7 @@ Amendment by Pub. L. 111–377 effective Aug. 1, 2011, see section 203(e) of Pub
 
 <a id="section-3673a"></a>
 ## § 3673A. Risk-based surveys
-**(a) Development Required.—** The Secretary, in partnership with State approving agencies, shall develop a searchable risk-based survey for oversight of educational institutions with courses and programs of education approved under this chapter.
+**(a) Development Required.—** The Secretary, in partnership with State approving agencies, shall develop a risk-based survey for oversight of educational institutions with courses and programs of education approved under this chapter.
 
 **(b) Scope.—**
 
@@ -395,12 +384,16 @@ Amendment by Pub. L. 111–377 effective Aug. 1, 2011, see section 203(e) of Pub
 
   (H) Matters for which the Federal Government or a State Government brings an action in a court of competent jurisdiction against an educational institution, including matters in cases in which the Federal Government or the State comes to a settled agreement on such matters outside of the court.
 
-**(c) Database.—** The Secretary, in partnership with the State approving agencies under this chapter, shall establish a database or use an existing system, as the Secretary considers appropriate, to serve as a central repository for information required for or collected during site visits for the risk-based survey developed under subsection (a), so as to improve future oversight of educational institutions with programs of education approved under this chapter.
+**(c) Database.—** The Secretary, in partnership with the State approving agencies under this chapter, shall establish a searchable database or use an existing system, as the Secretary considers appropriate, to serve as a central repository for information required for or collected during site visits for the risk-based survey developed under subsection (a), so as to improve future oversight of educational institutions with programs of education approved under this chapter.
 
 ### Statutory Notes
 
-#### Codification
-Section 1013(a)(1) of Pub. L. 116–315, which directed that “Subchapter I of chapter 36, United States Code” be amended by inserting this section after section 3673 without specifying the Code title to be amended, was executed by inserting this section after [section 3673 of this title](./chapter-036-administration-of-educational-benefits.md#section-3673), to reflect the probable intent of Congress.
+#### Amendments
+2021—Pub. L. 117–16, § 7(b)(1), made technical correction to directory language of Pub. L. 116–315, § 1013(a)(1), which enacted this section.
+
+Subsec. (a). Pub. L. 117–16, § 7(a)(3)(A), struck out “searchable” before “risk-based survey”.
+
+Subsec. (c). Pub. L. 117–16, § 7(a)(3)(B), inserted “searchable” before “database”.
 
 
 <a id="section-3674"></a>
@@ -630,6 +623,8 @@ Pub. L. 100–323, § 13(b)(3), May 20, 1988, 102 Stat. 573, provided that: “N
 
 (3) The educational institution and its approved courses meet the criteria of paragraphs (1), (2), (3), (14), (15), and (16) of [section 3676(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3676/c&num=0&edition=prelim) (or, with respect to such paragraphs (14) and (15), the requirements under such paragraphs are waived pursuant to subsection (f)(1) of [section 3676 of this title](./chapter-036-administration-of-educational-benefits.md#section-3676)).
 
+(4) The educational institution is approved and participates in a program under title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070&num=0&edition=prelim) et seq.) or the Secretary has waived the requirement under this paragraph with respect to an educational institution and submits to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives notice of such waiver.
+
 **(c)**
 
 (1) A State approving agency may approve the entrepreneurship courses offered by a qualified provider of entrepreneurship courses.
@@ -644,31 +639,24 @@ Pub. L. 100–323, § 13(b)(3), May 20, 1988, 102 Stat. 573, provided that: “N
 
 (4) Notwithstanding paragraph (3), a qualified provider of entrepreneurship courses shall maintain such records as the Secretary determines to be necessary to comply with reporting requirements that apply under [section 3684(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3684/a/1&num=0&edition=prelim) with respect to eligible persons and veterans enrolled in an entrepreneurship course offered by the provider.
 
+**(d)**
+
+(1) The Secretary shall submit to Congress an annual report on any waivers issued pursuant to subsection (b)(4) or [section 3672(b)(2)(A)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3672/b/2/A/i&num=0&edition=prelim).
+
+(2) Each report submitted under paragraph (1) shall include, for the year covered by the report, the following:
+
+  (A) The name of each educational institution for which a waiver was issued.
+
+  (B) The justification for each such waiver.
+
+  (C) The total number of waivers issued.
+
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 116–315, title I, § 1015(a), (c), Jan. 5, 2021, 134 Stat. 4945, provided that, effective on Aug. 1, 2021, this section is amended:
-
-(1) in subsection (b), by adding at the end the following new paragraph:
-
-“(4) The educational institution is approved and participates in a program under title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070&num=0&edition=prelim) et seq.) or the Secretary has waived the requirement under this paragraph with respect to an educational institution and submits to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives notice of such waiver.”; and
-
-(2) by adding at the end the following new subsection:
-
-“(d)(1) The Secretary shall submit to Congress an annual report on any waivers issued pursuant to subsection (b)(4) or [section 3672(b)(2)(A)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3672/b/2/A/i&num=0&edition=prelim).
-
-“(2) Each report submitted under paragraph (1) shall include, for the year covered by the report, the following:
-
-“(A) The name of each educational institution for which a waiver was issued.
-
-“(B) The justification for each such waiver.
-
-“(C) The total number of waivers issued.”
-
-See 2021 Amendment notes below.
 
 #### References in Text
 Act of February 23, 1917, referred to in subsec. (a)(1)(B), is act Feb. 23, 1917, ch. 114, 39 Stat. 929, as amended, known as the Smith-Hughes Vocational Education Act, which was classified to sections 11 to 15 and 16 to 28 of Title 20, Education, prior to repeal by Pub. L. 105–33, title VI, § 6201, Aug. 5, 1997, 111 Stat. 653. For complete classification of this Act to the Code, see Short Title note set out under [section 11 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section11&num=0&edition=prelim) and Tables.
+
+The Higher Education Act of 1965, referred to in subsec. (b)(4), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see section 1 of Pub. L. 89–329, set out as a Short Title note under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2021—Subsec. (b)(4). Pub. L. 116–315, § 1015(a)(1), added par. (4).
@@ -791,7 +779,13 @@ Amendment by sections 504 and 513(a)(2) of Pub. L. 94–502 effective Dec. 1, 19
 
 (9) The institution is financially sound and capable of fulfilling its commitments for training.
 
-(10) The institution does not utilize advertising of any type which is erroneous or misleading, either by actual statement, omission, or intimation. The institution shall not be deemed to have met this requirement until the State approving agency (A) has ascertained from the Federal Trade Commission whether the Commission has issued an order to the institution to cease and desist from any act or practice, and (B) has, if such an order has been issued, given due weight to that fact.
+(10) The institution, and any entity that owns the institution, does not engage in substantial misrepresentation described in section 3696(e) 11 See References in Text note below. of this title. The institution shall not be deemed to have met this requirement until the State approving agency—
+
+  (A) has ascertained that no Federal department or agency has taken a punitive action, not including a settlement agreement, against the school for misleading or deceptive practices;
+
+  (B) has, if such an order has been issued, given due weight to that fact; and
+
+  (C) has reviewed the complete record of advertising, sales, or enrollment materials (and copies thereof) used by or on behalf of the institution during the preceding 12-month period.”; and
 
 (11) The institution does not exceed its enrollment limitations as established by the State approving agency.
 
@@ -807,13 +801,13 @@ Amendment by sections 504 and 513(a)(2) of Pub. L. 94–502 effective Dec. 1, 19
 
   (A) meets all instructional curriculum licensure or certification requirements of such State; and
 
-  (B) in the case of a course designed to prepare an individual for licensure to practice law in a State, is accredited by an accrediting agency or association recognized by the Secretary of Education under subpart 2 of part H of title IV of the Higher Education Act of 1965 ([20 U.S.C. 1099b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1099b&num=0&edition=prelim)).
+  (B) in the case of a course designed to prepare an individual for licensure to practice law in a State, is accredited by a specialized accrediting agency for programs of legal education or association recognized by the Secretary of Education under subpart 2 of part H of title IV of the Higher Education Act of 1965 ([20 U.S.C. 1099b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1099b&num=0&edition=prelim)), from which recipients of law degrees from such accredited programs are eligible to sit for a bar examination in any State.
 
 (15) In the case of a course designed to prepare an individual for employment pursuant to standards developed by a board or agency of a State in an occupation that requires approval, licensure, or certification, the course—
 
   (A) meets such standards; and
 
-  (B) in the case of a course designed to prepare an individual for licensure to practice law in a State, is accredited by an accrediting agency or association recognized by the Secretary of Education under subpart 2 of part H of title IV of the Higher Education Act of 1965 ([20 U.S.C. 1099b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1099b&num=0&edition=prelim)).
+  (B) in the case of a course designed to prepare an individual for licensure to practice law in a State, is accredited by a specialized accrediting agency for programs of legal education or association recognized by the Secretary of Education under subpart 2 of part H of title IV of the Higher Education Act of 1965 ([20 U.S.C. 1099b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1099b&num=0&edition=prelim)), from which recipients of law degrees from such accredited programs are eligible to sit for a bar examination in any State.
 
 (16) Such additional criteria as may be deemed necessary by the State approving agency if the Secretary, in consultation with the State approving agency and pursuant to regulations prescribed to carry out this paragraph, determines such criteria are necessary and treat public, private, and proprietary for-profit educational institutions equitably.
 
@@ -846,28 +840,9 @@ if the Secretary determines, pursuant to regulations which the Secretary shall p
 
 ### Statutory Notes
 
-#### Amendment of Subsection (c)
-Pub. L. 116–315, title I, §§ 1016, 1020(b), (c), Jan. 5, 2021, 134 Stat. 4945, 4958, provided that, effective on Aug. 1, 2021, subsection (c) of this section is amended—
-
-(1) by amending paragraph (10) to read as follows:
-
-“(10) The institution, and any entity that owns the institution, does not engage in substantial misrepresentation described in [section 3696(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3696/e&num=0&edition=prelim). The institution shall not be deemed to have met this requirement until the State approving agency—
-
-“(A) has ascertained that no Federal department or agency has taken a punitive action, not including a settlement agreement, against the school for misleading or deceptive practices;
-
-“(B) has, if such an order has been issued, given due weight to that fact; and
-
-“(C) has reviewed the complete record of advertising, sales, or enrollment materials (and copies thereof) used by or on behalf of the institution during the preceding 12-month period.”; and
-
-(2) in paragraphs (14)(B) and (15)(B)—
-
-(A) by striking “an accrediting agency” both places it appears and inserting “a specialized accrediting agency for programs of legal education”; and
-
-(B) by inserting before the period the following: “, from which recipients of law degrees from such accredited programs are eligible to sit for a bar examination in any State”.
-
-See 2021 Amendment notes below.
-
 #### References in Text
+[Section 3696(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3696/e&num=0&edition=prelim), referred to in subsec. (c)(10), probably should be a reference to [section 3696(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3696/b&num=0&edition=prelim), because section 3696(b), and not section 3696(e), describes substantial misrepresentation.
+
 The Higher Education Act of 1965, referred to in subsec. (c)(14)(B), (15)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Subpart 2 of part H of title IV of the Act is classified generally to subpart 2 (§ 1099b) of part H of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
 #### Amendments
@@ -1019,19 +994,21 @@ The State approving agency, upon determining that an educational institution has
 ## § 3679. Disapproval of courses
 **(a)**
 
-(1) Except as provided by paragraph (2), any course approved for the purposes of this chapter which fails to meet any of the requirements of this chapter shall be immediately disapproved by the Secretary or the appropriate State approving agency. An educational institution which has its courses disapproved by the Secretary or a State approving agency will be notified of such disapproval by a certified or registered letter of notification and a return receipt secured.
+(1) Except as provided by paragraph (2), any course approved for the purposes of this chapter which fails to meet any of the requirements of this chapter (including failure to comply with a risk-based survey under this chapter or secure an affirmation of approval by the appropriate State approving agency following the survey) shall be immediately disapproved by the Secretary or the appropriate State approving agency. An educational institution which has its courses disapproved by the Secretary or a State approving agency will be notified of such disapproval by a certified or registered letter of notification and a return receipt secured.
 
 (2) In the case of a course of education that would be subject to disapproval under paragraph (1) solely for the reason that the Secretary of Education withdraws the recognition of the accrediting agency that accredited the course, the Secretary of Veterans Affairs, in consultation with the Secretary of Education, and notwithstanding the withdrawal, may continue to treat the course as an approved course of education under this chapter for a period not to exceed 18 months from the date of the withdrawal of recognition of the accrediting agency, unless the Secretary of Veterans Affairs or the appropriate State approving agency determines that there is evidence to support the disapproval of the course under this chapter. The Secretary shall provide to any veteran enrolled in such a course of education notice of the status of the course of education.
+
+(3) In this section, the term “risk-based survey” means a risk-based survey developed under [section 3673A(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3673A/a&num=0&edition=prelim).
 
 **(b)** Each State approving agency shall notify the Secretary of each course which it has disapproved under this section. The Secretary shall notify the State approving agency of the Secretary’s disapproval of any educational institution under chapter 31 of this title.
 
 **(c)**
 
-(1) Notwithstanding any other provision of this chapter and subject to paragraphs (3) through (6), the Secretary shall disapprove a course of education provided by a public institution of higher learning if the institution charges tuition and fees for that course for covered individuals who are pursuing the course with educational assistance under chapter 30, 31, or 33 of this title while living in the State in which the institution is located at a rate that is higher than the rate the institution charges for tuition and fees for that course for residents of the State in which the institution is located, regardless of the covered individual’s State of residence.
+(1) Notwithstanding any other provision of this chapter and subject to paragraphs (3) through (6), the Secretary shall disapprove a course of education provided by a public institution of higher learning if the institution charges tuition and fees for that course for covered individuals who are pursuing the course with educational assistance under chapter 30, 31, 33, or 35 of this title while living in the State in which the institution is located at a rate that is higher than the rate the institution charges for tuition and fees for that course for residents of the State in which the institution is located, regardless of the covered individual’s State of residence.
 
 (2) For purposes of this subsection, a covered individual is any individual as follows:
 
-  (A) A veteran who was discharged or released from a period of not fewer than 90 days of service in the active military, naval, air, or space service less than three years before the date of enrollment in the course concerned.
+  (A) A veteran who was discharged or released from a period of not fewer than 90 days of service in the active military, naval, air, or space service.
 
   (B) An individual who is entitled to assistance under—
 
@@ -1045,13 +1022,23 @@ The State approving agency, upon determining that an educational institution has
 
   (C) An individual who is entitled to rehabilitation under [section 3102(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3102/a&num=0&edition=prelim).
 
+  (D) An individual who is entitled to assistance under [section 3510 of this title](./chapter-035-survivors-and-dependents-educational-assistance.md#section-3510).
+
 (3) If after enrollment in a course of education that is subject to disapproval under paragraph (1) by reason of paragraph (2)(A), (2)(B), or (2)(C) a covered individual pursues one or more courses of education at the same public institution of higher learning while remaining continuously enrolled (other than during regularly scheduled breaks between courses, semesters or terms) at that institution of higher learning, any course so pursued by the covered individual at that institution of higher learning while so continuously enrolled shall also be subject to disapproval under paragraph (1).
 
-(4) It shall not be grounds to disapprove a course of education under paragraph (1) if a public institution of higher learning requires a covered individual pursuing a course of education at the institution to demonstrate an intent, by means other than satisfying a physical presence requirement, to establish residency in the State in which the institution is located, or to satisfy other requirements not relating to the establishment of residency, in order to be charged tuition and fees for that course at a rate that is equal to or less than the rate the institution charges for tuition and fees for that course for residents of the State.
+(4)
+
+  (A) It shall not be grounds to disapprove a course of education under paragraph (1) if a public institution of higher learning requires a covered individual pursuing a course of education at the institution to demonstrate an intent, by means other than satisfying a physical presence requirement, to establish residency in the State in which the institution is located, or to satisfy other requirements not relating to the establishment of residency, in order to be charged tuition and fees for that course at a rate that is equal to or less than the rate the institution charges for tuition and fees for that course for residents of the State.
+
+  (B) To the extent feasible, the Secretary shall make publicly available on the internet website of the Department a database explaining any requirements described in subparagraph (A) that are established by a public institution of higher learning for an individual to be charged tuition and fees at a rate that is equal to or less than the rate the institution charges for tuition and fees for residents of the State in which the institution is located. The Secretary shall disapprove a course of education provided by such an institution that does not provide the Secretary—
+
+    (i) an initial explanation of such requirements; and
+
+    (ii) not later than 90 days after the date on which any such requirements change, the updated requirements.
 
 (5) The Secretary may waive such requirements of paragraph (1) as the Secretary considers appropriate.
 
-(6) Disapproval under paragraph (1) shall apply only with respect to educational assistance under chapters 30, 31, and 33 of this title.
+(6) Disapproval under paragraph (1) shall apply only with respect to educational assistance under chapters 30, 31, 33, and 35 of this title.
 
 **(d)** Notwithstanding any other provision of this chapter, the Secretary or the applicable State approving agency shall disapprove a course of education described in paragraph (14) or (15) of [section 3676(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3676/c&num=0&edition=prelim) unless the educational institution providing the course of education—
 
@@ -1063,15 +1050,15 @@ The State approving agency, upon determining that an educational institution has
 
 (1) Notwithstanding any other provision of this chapter, beginning on August 1, 2019, a State approving agency, or the Secretary when acting in the role of the State approving agency, shall disapprove a course of education provided by an educational institution that has in effect a policy that is inconsistent with any of the following:
 
-  (A) A policy that permits any covered individual to attend or participate in the course of education during the period beginning on the date on which the individual provides to the educational institution a certificate of eligibility for entitlement to educational assistance under chapter 31 or 33 of this title and ending on the earlier of the following dates:
+  (A) A policy that permits any covered individual to attend or participate in the course of education during the period beginning on the date on which the individual provides to the educational institution a certificate of eligibility for entitlement to educational assistance under chapter 31, 33, or 35 of this title and ending on the earlier of the following dates:
 
     (i) The date on which the Secretary provides payment for such course of education to such institution.
 
     (ii) The date that is 90 days after the date on which the educational institution certifies for tuition and fees following receipt from the student such certificate of eligibility.
 
-  (B) A policy that ensures that the educational institution will not impose any penalty, including the assessment of late fees, the denial of access to classes, libraries, or other institutional facilities, or the requirement that a covered individual borrow additional funds, on any covered individual because of the individual’s inability to meet his or her financial obligations to the institution due to the delayed disbursement of a payment to be provided by the Secretary under chapter 31 or 33 of this title.
+  (B) A policy that ensures that the educational institution will not impose any penalty, including the assessment of late fees, the denial of access to classes, libraries, or other institutional facilities, or the requirement that a covered individual borrow additional funds, on any covered individual because of the individual’s inability to meet his or her financial obligations to the institution due to the delayed disbursement of a payment to be provided by the Secretary under chapter 31 11 So in original. Probably should be followed by a comma. 33, or 35 of this title.
 
-(2) For purposes of this subsection, a covered individual is any individual who is entitled to educational assistance under chapter 31 or 33 of this title.
+(2) For purposes of this subsection, a covered individual is any individual who is entitled to educational assistance under chapter 31 1 33, or 35 of this title.
 
 (3) The Secretary may waive such requirements of paragraph (1) as the Secretary considers appropriate.
 
@@ -1083,51 +1070,188 @@ The State approving agency, upon determining that an educational institution has
 
   (C) Provide additional information necessary to the proper certification of enrollment by the educational institution.
 
+**(f)**
+
+(1) Except as provided by paragraph (5), a State approving agency, or the Secretary when acting in the role of the State approving agency, shall take an action described in paragraph (4)(A) if the State approving agency or the Secretary, when acting in the role of the State approving agency, determines that an educational institution does not perform any of the following:
+
+  (A) Prior to the enrollment of a covered individual in a course of education at the educational institution, provide the individual with a form that contains information personalized to the individual that describes—
+
+    (i) the estimated total cost of the course, including tuition, fees, books, supplies, and any other additional costs;
+
+    (ii) an estimate of the cost for living expenses for students enrolled in the course;
+
+    (iii) the amount of the costs under clauses (i) and (ii) that are covered by the educational assistance provided to the individual under chapter 30, 31, 32, 33, or 35 of this title, or chapter 1606 or 1607 of title 10, as the case may be;
+
+    (iv) the type and amount of Federal financial aid not administered by the Secretary and financial aid offered by the institution that the individual may qualify to receive;
+
+    (v) an estimate of the amount of student loan debt the individual would have upon graduation;
+
+    (vi) information regarding graduation rates;
+
+    (vii) job-placement rates for graduates of the course, if available;
+
+    (viii) information regarding the acceptance by the institution of transfer of credits, including military credits;
+
+    (ix) any conditions or additional requirements, including training, experience, or examinations, required to obtain the license, certification, or approval for which the course of education is designed to provide preparation; and
+
+    (x) other information to facilitate comparison by the individual of aid packages offered by different educational institutions.
+
+  (B) Not later than 15 days after the date on which the institution (or the governing body of the institution) determines tuition rates and fees for an academic year that is different than the amount being charged by the institution, provide a covered individual enrolled in a course of education at the educational institution with the form under subparagraph (A) that contains updated information.
+
+  (C) Maintain policies to—
+
+    (i) inform each covered individual enrolled in a course of education at the educational institution of the availability of Federal financial aid not administered by the Secretary and financial aid offered by the institution; and
+
+    (ii) alert such individual of the potential eligibility of the individual for such financial aid before packaging or arranging student loans or alternative financing programs for the individual.
+
+  (D) Maintain policies to—
+
+    (i) prohibit the automatic renewal of a covered individual in courses and programs of education; and
+
+    (ii) ensure that each covered individual approves of the enrollment of the individual in a course.
+
+  (E) Provide to a covered individual enrolled in a course of education at the educational institution with information regarding the requirements to graduate from such course, including, to the maximum extent practicable, information regarding when required classes will be offered and a timeline to graduate.
+
+  (F) With respect to an accredited educational institution, obtain the approval of the accrediting agency for each new course or program of the institution before enrolling covered individuals in such courses or programs if the accrediting agency determines that such approval is appropriate under the substantive change requirements of the accrediting agency regarding the quality, objectives, scope, or control of the institution.
+
+  (G) Maintain a policy that—
+
+    (i) ensures that members of the Armed Forces, including the reserve components and the National Guard, who enroll in a course of education at the educational institution may be readmitted at such institution if such members are temporarily unavailable or have to suspend such enrollment by reason of serving in the Armed Forces; and
+
+    (ii) otherwise accommodates such members during short absences by reason of such service.
+
+  (H) Designate an employee of the educational institution to serve as a point of contact for covered individuals and the family of such individuals needing assistance with respect to academic counseling, financial counseling, disability counseling, and other information regarding completing a course of education at such institution, including by referring such individuals and family to the appropriate persons for such counseling and information.
+
+(2) Except as provided by paragraph (5), a State approving agency, or the Secretary when acting in the role of the State approving agency, shall take an action described in paragraph (4)(A) if the State approving agency, the Secretary, or any Federal agency, determines that an educational institution, or any person with whom the institution has an agreement to provide educational programs, marketing, advertising, recruiting or admissions services, does any of the following:
+
+  (A) Carries out deceptive or persistent recruiting techniques, including on military installations, that may include—
+
+    (i) misrepresentation (as defined in section 3696(e)(2)(B) 22 See References in Text note below. of this title) or payment of incentive compensation;
+
+    (ii) during any one-month period making three or more unsolicited contacts to a covered individual, including contacts by phone, email, or in-person; or
+
+    (iii) engaging in same-day recruitment and registration.
+
+  (B) Provides a commission, bonus, or other incentive payment based directly or indirectly on success in securing enrollments or financial aid to any persons or entities engaged in any student recruiting or admission activities or in making decisions regarding the award of student financial assistance, except for the recruitment of foreign students residing in foreign countries who are not eligible to receive Federal student assistance.
+
+  (C) In determining whether a violation of subparagraph (B) has occurred, the State approving agency, or the Secretary when acting in the place of the State approving agency, shall construe the requirements of this paragraph in accordance with the regulations and guidance prescribed by the Secretary of Education under section 487(a)(20) of the Higher Education Act of 1965 ([20 U.S.C. 1094(a)(20)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1094/a/20&num=0&edition=prelim)).
+
+(3) A State approving agency, or the Secretary when acting in the role of the State approving agency, shall take an action described in paragraph (4)(A) if the State approving agency or the Secretary, when acting in the role of the State approving agency, determines that an educational institution is the subject of a negative action made by the accrediting agency that accredits the institution, including any of the following:
+
+  (A) Accreditor sanctions.
+
+  (B) Accreditation probation.
+
+  (C) The loss of accreditation or candidacy for accreditation.
+
+(4)
+
+  (A) An action described in this subparagraph is any of the following:
+
+    (i) Submitting to the Secretary a recommendation that the Secretary publish a warning on the internet website of the Department described in [section 3698(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3698/c/2&num=0&edition=prelim), or such other similar internet website of the Department, that describes how an educational institution is failing to meet a requirement under paragraph (1), (2), or (3).
+
+    (ii) Suspending the approval of the courses and programs of education offered by the educational institution by disapproving new enrollments of eligible veterans and eligible persons in each course or program of education offered by that educational institution.
+
+    (iii) Revoking the approval of the courses and programs of education offered by the educational institution by disapproving all enrollments of eligible veterans and eligible persons in each course or program of education offered by that educational institution 33 So in original. Probably should be followed by a period.
+
+  (B)
+
+    (i) The Secretary shall establish guidelines to ensure that the actions described in subparagraph (A) are applied in a proportional and uniform manner by State approving agencies, or the Secretary when acting in the role of the State approving agency.
+
+    (ii) Each State approving agency and the Secretary, when acting in the role of the State approving agency, shall adhere to the guidelines established under clause (i).
+
+  (C) The State approving agency, in consultation with the Secretary, or the Secretary when acting in the role of the State approving agency, may limit an action described in subparagraph (A)(ii) to individuals not enrolled at the educational institution before the period described in such subparagraph.
+
+(5)
+
+  (A) The Secretary may waive the requirements of paragraph (1) or waive the requirements of paragraph (2) with respect to an educational institution for a one-academic-year period beginning in August of the year in which the waiver is made. A single educational institution may not receive waivers under this paragraph for more than 2 consecutive academic years.
+
+  (B) To be considered for a waiver under this paragraph, an educational institution shall submit to the Secretary an application prior to the first day of the academic year for which the waiver is sought.
+
+(6) Not later than October 1 of each year, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives the following reports:
+
+  (A) A report, which shall be made publicly available, that includes the following:
+
+    (i) A summary of each action described in paragraph (4)(A) made during the year covered by the report, including—
+
+      (I) the name of the educational institution;
+
+      (II) the type of action taken;
+
+      (III) the rationale for the action, including how the educational institution was not in compliance with this subsection;
+
+      (IV) the length of time that the educational institution was not in such compliance; and
+
+      (V) whether the educational institution was also not in compliance with this subsection during any of the 2 years prior to the year covered by the report.
+
+    (ii) A summary and justifications for the waivers made under paragraph (5) during the year covered by the report, including the total number of waivers each educational institution has received.
+
+  (B) A report containing the recommendations of the Secretary with respect to any legislative actions the Secretary determines appropriate to ensure that this subsection is carried out in a manner that is consistent with the requirements that educational institutions must meet for purposes of other departments or agencies of the Federal Government.
+
+(7) This subsection shall not apply to an educational institution—
+
+  (A) located in a foreign country; or
+
+  (B) that provides to a covered individual consumer information regarding costs of the program of education (including financial aid available to such covered individual) using a form or template developed by the Secretary of Education.
+
+(8) In this subsection, the term “covered individual” means an individual who is pursuing a course of education at an educational institution under chapter 30, 31, 32, 33, or 35 of this title, or chapter 1606 or 1607 of title 10.
+
 ### Statutory Notes
 
-#### Amendment of Section
-Pub. L. 116–315, title I, § 1018, Jan. 5, 2021, 134 Stat. 4946, provided that, effective on June 15, 2021, and applicable to an educational institution beginning on Aug. 1, 2021, with exception for submission of an application for a waiver under subsec. (f)(5) of this section beginning on June 15, 2021, this section is amended by adding at the end the following new subsection:
+#### Applicability of Amendment
+Subsection (f) of this section not to be carried out until Aug. 1, 2022, with provision for submission of waiver application beginning on June 15, 2022, see Effective Date of 2021 Amendment note below.
 
-“(f)(1) Except as provided by paragraph (5), a State approving agency, or the Secretary when acting in the role of the State approving agency, shall take an action described in paragraph (4)(A) if the State approving agency or the Secretary, when acting in the role of the State approving agency, determines that an educational institution does not perform any of the following: “(A) Prior to the enrollment of a covered individual in a course of education at the educational institution, provide the individual with a form that contains information personalized to the individual that describes—“(i) the estimated total cost of the course, including tuition, fees, books, supplies, and any other additional costs; “(ii) an estimate of the cost for living expenses for students enrolled in the course; “(iii) the amount of the costs under clauses (i) and (ii) that are covered by the educational assistance provided to the individual under chapter 30, 31, 32, 33, or 35 of this title, or chapter 1606 or 1607 of title 10, as the case may be; “(iv) the type and amount of Federal financial aid not administered by the Secretary and financial aid offered by the institution that the individual may qualify to receive; “(v) an estimate of the amount of student loan debt the individual would have upon graduation; “(vi) information regarding graduation rates; “(vii) job-placement rates for graduates of the course, if available; “(viii) information regarding the acceptance by the institution of transfer of credits, including military credits; “(ix) any conditions or additional requirements, including training, experience, or examinations, required to obtain the license, certification, or approval for which the course of education is designed to provide preparation; and “(x) other information to facilitate comparison by the individual of aid packages offered by different educational institutions. “(B) Not later than 15 days after the date on which the institution (or the governing body of the institution) determines tuition rates and fees for an academic year that is different than the amount being charged by the institution, provide a covered individual enrolled in a course of education at the educational institution with the form under subparagraph (A) that contains updated information. “(C) Maintain policies to—“(i) inform each covered individual enrolled in a course of education at the educational institution of the availability of Federal financial aid not administered by the Secretary and financial aid offered by the institution; and “(ii) alert such individual of the potential eligibility of the individual for such financial aid before packaging or arranging student loans or alternative financing programs for the individual. “(D) Maintain policies to—“(i) prohibit the automatic renewal of a covered individual in courses and programs of education; and “(ii) ensure that each covered individual approves of the enrollment of the individual in a course. “(E) Provide to a covered individual enrolled in a course of education at the educational institution with information regarding the requirements to graduate from such course, including information regarding when required classes will be offered and a timeline to graduate. “(F) With respect to an accredited educational institution, obtain the approval of the accrediting agency for each new course or program of the institution before enrolling covered individuals in such courses or programs if the accrediting agency determines that such approval is appropriate under the substantive change requirements of the accrediting agency regarding the quality, objectives, scope, or control of the institution. “(G) Maintain a policy that—“(i) ensures that members of the Armed Forces, including the reserve components and the National Guard, who enroll in a course of education at the educational institution may be readmitted at such institution if such members are temporarily unavailable or have to suspend such enrollment by reason of serving in the Armed Forces; and “(ii) otherwise accommodates such members during short absences by reason of such service. “(H) Designate an employee of the educational institution to serve as a point of contact for covered individuals and the family of such individuals needing assistance with respect to academic counseling, financial counseling, disability counseling, and other information regarding completing a course of education at such institution, including by referring such individuals and family to the appropriate persons for such counseling and information.“(2) Except as provided by paragraph (5), a State approving agency, or the Secretary when acting in the role of the State approving agency, shall take an action described in paragraph (4)(A) if the State approving agency, the Secretary, or any Federal agency, determines that an educational institution does any of the following:“(A) Carries out deceptive or persistent recruiting techniques, including on military installations, that may include—“(i) misrepresentation (as defined in section 3696(e)(2)(B) 11 See References in Text note below. of this title) or payment of incentive compensation; “(ii) during any 1-month period making three or more unsolicited contacts to a covered individual, including contacts by phone, email, or in-person; or “(iii) engaging in same-day recruitment and registration. “(B) Pays inducements, including any gratuity, favor, discount, entertainment, hospitality, loan, transportation, lodging, meals, or other item having a monetary value of more than a de minimis amount, to any individual or entity, or its agents including third party lead generators or marketing firms other than salaries paid to employees or fees paid to contractors in conformity with all applicable laws for the purpose of securing enrollments of covered individuals or obtaining access to educational assistance under this title, with the exception of scholarships, grants, and tuition reductions provided by the educational institution. “(3) A State approving agency, or the Secretary when acting in the role of the State approving agency, shall take an action described in paragraph (4)(A) if the State approving agency or the Secretary, when acting in the role of the State approving agency, determines that an educational institution is the subject of a negative action made by the accrediting agency that accredits the institution, including any of the following:“(A) Accreditor sanctions. “(B) Accreditation probation. “(C) The loss of accreditation or candidacy for accreditation. “(4)(A) An action described in this subparagraph is any of the following:“(i) Submitting to the Secretary a recommendation that the Secretary publish a warning on the internet website of the Department described in [section 3698(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3698/c/2&num=0&edition=prelim), or such other similar internet website of the Department, that describes how an educational institution is failing to meet a requirement under paragraph (1), (2), or (3). “(ii) Disapproving a course for purposes of this chapter. “(B)(i) The Secretary shall establish guidelines to ensure that the actions described in subparagraph (A) are applied in a proportional and uniform manner by State approving agencies, or the Secretary when acting in the role of the State approving agency. “(ii) Each State approving agency and the Secretary, when acting in the role of the State approving agency, shall adhere to the guidelines established under clause (i). “(C) The State approving agency, in consultation with the Secretary, or the Secretary when acting in the role of the State approving agency, may limit an action described in subparagraph (A)(ii) to individuals not enrolled at the educational institution before the period described in such subparagraph. “(5)(A) The Secretary may waive the requirements of paragraph (1) or waive the requirements of paragraph (2) with respect to an educational institution for a 1-academic-year period beginning in August of the year in which the waiver is made. A single educational institution may not receive waivers under this paragraph for more than 2 consecutive academic years. “(B) To be considered for a waiver under this paragraph, an educational institution shall submit to the Secretary an application prior to the first day of the academic year for which the waiver is sought. “(6) Not later than October 1 of each year, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives the following reports:“(A) A report, which shall be made publicly available, that includes the following:“(i) A summary of each action described in paragraph (4)(A) made during the year covered by the report, including—“(I) the name of the educational institution; “(II) the type of action taken; “(III) the rationale for the action, including how the educational institution was not in compliance with this subsection; “(IV) the length of time that the educational institution was not in such compliance; and “(V) whether the educational institution was also not in compliance with this subsection during any of the 2 years prior to the year covered by the report. “(ii) A summary and justifications for the waivers made under paragraph (5) during the year covered by the report, including the total number of waivers each educational institution has received. “(B) A report containing the recommendations of the Secretary with respect to any legislative actions the Secretary determines appropriate to ensure that this subsection is carried out in a manner that is consistent with the requirements that educational institutions must meet for purposes of other departments or agencies of the Federal Government. “(7) In this subsection, the term ‘covered individual’ means an individual who is pursuing a course of education at an educational institution under chapter 30, 31, 32, 33, or 35 of this title, or chapter 1606 or 1607 of title 10.”
+Amendment of section by section 2(a), (b) of Pub. L. 117–68 applicable with respect to an academic period that begins on or after Aug. 1, 2022. See 2021 Amendment notes below.
 
-Pub. L. 116–315, title I, § 1005, Jan. 5, 2021, 134 Stat. 4939, provided that, applicable with respect to a quarter, semester, or term, as applicable, commencing on or after Aug. 1, 2021, this section is amended as follows:
-
-(1) in subsection (c)(2)(A), by striking “less than three years before the date of enrollment in the course concerned”; and
-
-(2) in subsection (c)(4)—
-
-(A) by striking “It shall” and inserting “(A) It shall”; and
-
-(B) by adding at the end the following new subparagraph:
-
-“(B) To the extent feasible, the Secretary shall make publicly available on the internet website of the Department a database explaining any requirements described in subparagraph (A) that are established by a public institution of higher learning for an individual to be charged tuition and fees at a rate that is equal to or less than the rate the institution charges for tuition and fees for residents of the State in which the institution is located. The Secretary shall disapprove a course of education provided by such an institution that does not provide the Secretary—
-
-“(i) an initial explanation of such requirements; and
-
-“(ii) not later than 90 days after the date on which any such requirements change, the updated requirements.”
-
-Pub. L. 116–315, title I, § 1017, Jan. 5, 2021, 134 Stat. 4946, provided that, effective on Aug. 1, 2021, this section is amended as follows:
-
-(1) in subsection (a)(1), by inserting “(including failure to comply with a risk-based survey under this chapter or secure an affirmation of approval by the appropriate State approving agency following the survey)” after “requirements of this chapter”; and
-
-(2) by adding at the end the following new subsection:
-
-“(f) In this section, the term ‘risk-based survey’ means a risk-based survey developed under [section 3673A(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3673A/a&num=0&edition=prelim).”
-
-See 2021 Amendment notes below.
+#### References in Text
+[Section 3696(e)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3696/e/2/B&num=0&edition=prelim), referred to in subsec. (f)(2)(A)(i), probably should be a reference to [section 3696(b)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3696/b/2/B&num=0&edition=prelim), because section 3696(b)(2)(B), as amended generally by Pub. L. 116–315, § 1020(a)(1), defines the term “misrepresentation”, and section 3696(e) does not contain a par. (2)(B).
 
 #### Amendments
 2021—Subsec. (a)(1). Pub. L. 116–315, § 1017(a)(1), inserted “(including failure to comply with a risk-based survey under this chapter or secure an affirmation of approval by the appropriate State approving agency following the survey)” after “requirements of this chapter”.
+
+Subsec. (a)(3). Pub. L. 117–16, § 7(a)(4), redesignated subsec. (f) defining term “risk-based survey” in this section as par. (3) of subsec. (a).
+
+Subsec. (c)(1). Pub. L. 117–68, § 2(a)(1), substituted “33, or 35” for “or 33”.
 
 Subsec. (c)(2)(A). Pub. L. 116–315, § 1005(a)(1), struck out “less than three years before the date of enrollment in the course concerned” before period at end.
 
 Pub. L. 116–283 substituted “air, or space service” for “or air service”.
 
+Subsec. (c)(2)(D). Pub. L. 117–68, § 2(a)(2), added subpar. (D).
+
 Subsec. (c)(4). Pub. L. 116–315, § 1005(a)(2), designated existing provisions as subpar. (A) and added subpar. (B).
 
-Subsec. (f). Pub. L. 116–315, § 1018(a), added subsec. (f) related to action by State approving agency.
+Subsec. (c)(6). Pub. L. 117–68, § 2(a)(3), substituted “33, and 35” for “and 33”.
+
+Subsec. (e)(1)(A). Pub. L. 117–68, § 2(b)(1)(A), substituted “, 33, or 35” for “or 33” in introductory provisions.
+
+Subsec. (e)(1)(B). Pub. L. 117–68, § 2(b)(1)(B), substituted “33, or 35” for “or 33”.
+
+Subsec. (e)(2). Pub. L. 117–68, § 2(b)(2), substituted “33, or 35” for “or 33”.
+
+Subsec. (f). Pub. L. 117–16, § 7(a)(4), redesignated subsec. (f) defining term “risk-based survey” in this section as par. (3) of subsec. (a).
+
+Pub. L. 116–315, § 1018(a), added subsec. (f) related to action by State approving agency.
 
 Pub. L. 116–315, § 1017(a)(2), added subsec. (f) defining term “risk-based survey” in this section.
+
+Subsec. (f)(1)(E). Pub. L. 117–16, § 6(1), inserted “, to the maximum extent practicable,” after “including”.
+
+Subsec. (f)(2). Pub. L. 117–16, § 6(2)(A), inserted “, or any person with whom the institution has an agreement to provide educational programs, marketing, advertising, recruiting or admissions services,” after “educational institution” in introductory provisions.
+
+Subsec. (f)(2)(A)(ii). Pub. L. 117–16, § 6(2)(B), substituted “one-month” for “1-month”.
+
+Subsec. (f)(2)(B). Pub. L. 117–76, § 3(b)(1)(A)(i), inserted “, except for the recruitment of foreign students residing in foreign countries who are not eligible to receive Federal student assistance” after “assistance”.
+
+Pub. L. 117–16, § 6(2)(C), added subpar. (B) and struck out former subpar. (B) which read as follows: “Pays inducements, including any gratuity, favor, discount, entertainment, hospitality, loan, transportation, lodging, meals, or other item having a monetary value of more than a de minimis amount, to any individual or entity, or its agents including third party lead generators or marketing firms other than salaries paid to employees or fees paid to contractors in conformity with all applicable laws for the purpose of securing enrollments of covered individuals or obtaining access to educational assistance under this title, with the exception of scholarships, grants, and tuition reductions provided by the educational institution.”
+
+Subsec. (f)(2)(C). Pub. L. 117–76, § 3(b)(1)(A)(ii), added subpar. (C).
+
+Subsec. (f)(4)(A)(ii), (iii). Pub. L. 117–16, § 6(3), added cls. (ii) and (iii) and struck out former cl. (ii) which read as follows: “Disapproving a course for purposes of this chapter.”
+
+Subsec. (f)(5)(A). Pub. L. 117–16, § 6(4), substituted “one-academic-year period” for “1-academic-year period”.
+
+Subsec. (f)(7), (8). Pub. L. 117–76, § 3(b)(1)(B), (C), added par. (7) and redesignated former par. (7) as (8).
 
 2018—Subsec. (c)(1). Pub. L. 115–251, § 301(a)(1), substituted “chapter 30, 31, or 33” for “chapter 30 or 33”.
 
@@ -1159,6 +1283,17 @@ Subsec. (c)(1). Pub. L. 113–175, which directed amendment of par. (1) generall
 
 1976—Subsec. (b). Pub. L. 94–502 substituted “the Administrator’s disapproval” for “his disapproval”.
 
+#### Effective Date of 2021 Amendment
+Pub. L. 117–76, § 3(b)(2), Dec. 21, 2021, 135 Stat. 1518, provided that: “The Secretary of Veterans Affairs may not carry out subsection (f) of [section 3679 of title 38](./chapter-036-administration-of-educational-benefits.md#section-3679), United States Code, until August 1, 2022, except that, beginning on June 15, 2022, an educational institution may submit an application for a waiver under paragraph (5) of such subsection.”
+
+Pub. L. 117–68, § 2(c), Nov. 30, 2021, 135 Stat. 1494, provided that: “The amendments made by this Act [amending this section] shall take effect on the date of the enactment of this Act [Nov. 30, 2021] and shall apply with respect to an academic period that begins on or after August 1, 2022.”
+
+Pub. L. 116–315, title I, § 1005(b), Jan. 5, 2021, 134 Stat. 4940, provided that: “The amendments made by this section [amending this section] shall apply with respect to a quarter, semester, or term, as applicable, commencing on or after August 1, 2021.”
+
+Pub. L. 116–315, title I, § 1017(b), Jan. 5, 2021, 134 Stat. 4946, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on August 1, 2021.”
+
+Pub. L. 116–315, title I, § 1018(b), Jan. 5, 2021, 134 Stat. 4949, provided that: “The amendment made by this section [amending this section] shall take effect on June 15, 2021, and shall apply to an educational institution beginning on August 1, 2021, except that an educational institution may submit an application for a waiver under subsection (f)(5) of [section 3679 of title 38](./chapter-036-administration-of-educational-benefits.md#section-3679), United States Code, as added by subsection (a), beginning on June 15, 2021.”
+
 #### Effective Date of 2018 Amendment
 Pub. L. 115–251, title III, § 301(b), Sept. 29, 2018, 132 Stat. 3178, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to courses of education provided during a quarter, semester, or term, as applicable, that begins after March 1, 2019.”
 
@@ -1185,7 +1320,7 @@ Pub. L. 115–407, title I, § 103(c), Dec. 31, 2018, 132 Stat. 5370, provided t
 ## § 3680. Payment of educational assistance or subsistence allowances
 **(a) Period for Which Payment May Be Made.—**
 
-(1) Except as provided in paragraph (2), payment of educational assistance or subsistence allowances to eligible veterans or eligible persons pursuing a program of education or training, other than a program by correspondence, in an educational institution under chapter 31, 34, or 35 of this title shall be paid as provided in this section and, as applicable, in section 3108, 3482, 3491, or 3532 of this title. Such payments shall be paid only for the period of such veterans’ or persons’ enrollment in, and pursuit of, such program, but no amount shall be paid—
+(1) Except as provided in paragraphs (2) and (3), payment of educational assistance or subsistence allowances to eligible veterans or eligible persons pursuing a program of education or training, other than a program by correspondence, in an educational institution under chapter 31, 34, or 35 of this title shall be paid as provided in this section and, as applicable, in section 3108, 3482, 3491, or 3532 of this title. Such payments shall be paid only for the period of such veterans’ or persons’ enrollment in, and pursuit of, such program, but no amount shall be paid—
 
   (A) to any eligible veteran or eligible person for any period when such veteran or person is not pursuing such veteran’s or person’s course in accordance with the regularly established policies and regulations of the educational institution, with the provisions of such regulations as may be prescribed by the Secretary pursuant to subsection (g) of this section, and with the requirements of this chapter or of chapter 34 or 35 of this title, but payment may be made for an actual period of pursuit of one or more unit subjects pursued for a period of time shorter than the enrollment period at the educational institution;
 
@@ -1206,6 +1341,16 @@ Pub. L. 115–407, title I, § 103(c), Dec. 31, 2018, 132 Stat. 5370, provided t
     (i) the date of the end of the term, quarter, or semester during which the closure or disapproval occurred; and
 
     (ii) the date that is 120 days after the date of the closure or disapproval.
+
+(3) Notwithstanding paragraph (1), in the case of an eligible veteran or eligible person who is pursuing a program of education on less than a half-time basis during a period that is the last semester, term, or academic period the veteran or person will be enrolled in the program of education because the veteran or person will complete the program of education at the end of that semester, term, or academic period, the Secretary may, pursuant to such regulations as the Secretary shall prescribe, provide to the veteran or person educational assistance under chapter 30, 31, 32, 33, 34, or 35 of this title or under chapter 1606 of title 10, including a monthly housing stipend described in [section 3313(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3313/c&num=0&edition=prelim), on the basis of the total number of credits or courses in which the veteran or person is enrolled, if—
+
+  (A) the number of credits the veteran or person needs to complete the program of education is less than the number of credits that would constitute enrollment on a more than half-time basis for that last semester, term, or academic period; and
+
+  (B) the veteran or person—
+
+    (i) is enrolled in, or has completed, every course offered by the program of education during the last semester, term, or academic period in which the veteran or person is enrolled in the program of education; and
+
+    (ii) enrolls in an additional course that is not required for the completion of such program of education and the enrollment in the non-required course in addition to the required course or courses in which the veteran or person is enrolled constitutes enrollment on more than a half-time basis.
 
 **(b) Correspondence Training Certifications.—** No educational assistance allowance shall be paid to an eligible veteran or spouse or surviving spouse enrolled in and pursuing a program of education exclusively by correspondence until the Secretary shall have received—
 
@@ -1259,7 +1404,11 @@ Pub. L. 115–407, title I, § 103(c), Dec. 31, 2018, 132 Stat. 5370, provided t
 ### Statutory Notes
 
 #### Amendments
-2021—Subsec. (a)(2)(B). Pub. L. 116–315 inserted “or a subsistence allowance described in section 3108” before “, during” and “or allowance” after “such a stipend”.
+2021—Subsec. (a)(1). Pub. L. 117–76, § 4(a)(1), substituted “in paragraphs (2) and (3)” for “in paragraph (2)” in introductory provisions.
+
+Subsec. (a)(2)(B). Pub. L. 116–315 inserted “or a subsistence allowance described in section 3108” before “, during” and “or allowance” after “such a stipend”.
+
+Subsec. (a)(3). Pub. L. 117–76, § 4(a)(2), added par. (3).
 
 2017—Subsec. (a). Pub. L. 115–48 designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (1) and former subpars. (A) and (B) of par. (3) as cls. (i) and (ii), respectively, of subpar. (C), substituted “Except as provided in paragraph (2), payment of” for “Payment of” in introductory provisions of par. (1) and “described in clause (i)” for “described in subclause (A) of this clause” in cl. (ii) of par. (1)(C), added par. (2), and struck out concluding provisions which read as follows: “Notwithstanding the foregoing, the Secretary may, subject to such regulations as the Secretary shall prescribe, continue to pay allowances to eligible veterans and eligible persons enrolled in courses set forth in clause (1) of this subsection during periods when schools are temporarily closed under an established policy based on an Executive order of the President or due to an emergency situation. However, the total number of weeks for which allowances may continue to be so payable in any 12-month period may not exceed 4 weeks.”
 
@@ -1366,6 +1515,8 @@ Subsecs. (g), (h). Pub. L. 94–502, § 513(a)(10), (12), redesignated subsec. (
 1973—Subsec. (a). Pub. L. 93–208 inserted provisions that the Administrator may continue to pay allowances to eligible veterans and eligible persons enrolled in courses set forth in cl. (1) or (2) of this subsection during periods when the schools are temporarily closed under an established policy based upon an Executive Order of the President or due to an emergency situation, and that such periods shall not be counted as absences for the purposes of cl. (2).
 
 #### Effective Date of 2021 Amendment
+Pub. L. 117–76, § 4(b), Dec. 21, 2021, 135 Stat. 1519, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on January 1, 2022, and apply with respect to any semester, term, or academic period that begins on or after that date.”
+
 Pub. L. 116–315, title I, § 1007(d), Jan. 5, 2021, 134 Stat. 4940, provided that: “The amendments made by this section [amending this section and [section 3699 of this title](./chapter-036-administration-of-educational-benefits.md#section-3699) and repealing provisions set out as notes under this section and [section 3699 of this title](./chapter-036-administration-of-educational-benefits.md#section-3699)] shall apply as if included in the enactment of section 109 of the Harry W. Colmery Veterans Educational Assistance Act of 2017 (Public Law 115–48; 131 Stat. 978) [see Effective Date of 2017 Amendment note below and Effective Date note set out under [section 3699 of this title](./chapter-036-administration-of-educational-benefits.md#section-3699)].”
 
 #### Effective Date of 2017 Amendment
@@ -1409,9 +1560,9 @@ Amendment by Pub. L. 93–508 effective Dec. 3, 1974, see section 503 of Pub. L.
 Pub. L. 92–540, title VI, § 603, Oct. 24, 1972, 86 Stat. 1099, provided that: “(a) The prepayment provisions of subsection (e) of section 1780 [now 3680] of title 38, United States Code (as added by section 201 of this Act), shall become effective on November 1, 1972. “(b) The advance payment provisions of section 1780 [now 3680] of title 38, United States Code (as added by section 201 of this Act), shall become effective on August 1, 1973, or at such time prior thereto as the Administrator of Veterans’ Affairs shall specify in a certification filed with the Committees on Veterans’ Affairs of the Congress.”
 
 #### Payment of Allowances to Veterans Enrolled in Educational Institutions Closed for Emergency Situations
-Pub. L. 116–140, § 4, Apr. 28, 2020, 134 Stat. 632, as amended by Pub. L. 116–315, title I, §§ 1107(b), 1108, Jan. 5, 2021, 134 Stat. 4966, provided that: “(a) In General.—During the covered period, the Secretary may pay allowances to an eligible veteran or eligible person under [section 3680(a)(2)(A) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3680/a/2/A&num=0&edition=prelim), United States Code, if the veteran or person is enrolled in a program or course of education that—“(1) is provided by an educational institution or a training establishment that is closed by reason of an emergency situation; or “(2) is suspended by reason of an emergency situation. “(b) Amount of Allowance.—The total number of weeks for which allowances may be paid under this section may not exceed the shorter of the following:“(1) The period of time that the eligible veteran or eligible person would have been enrolled in a program of education or training but for the emergency situation. “(2) Four weeks. “(c) Not Counted for Purposes of Limitation.—Any amount paid under this section shall not be counted for purposes of the limitation on allowanced under [section 3680(a)(2)(A) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3680/a/2/A&num=0&edition=prelim), United States Code. “(e) [sic] Entitlement Not Charged.—Any payment of allowances under this section shall not—“(1) be charged against any entitlement to educational assistance of the eligible veteran or eligible person concerned; or “(2) be counted against the aggregate period for which [section 3695 of this title](./chapter-036-administration-of-educational-benefits.md#section-3695) 38, United States Code, limits the receipt of educational assistance by such eligible veteran or eligible person.”
+Pub. L. 116–140, § 4, Apr. 28, 2020, 134 Stat. 632, as amended by Pub. L. 116–315, title I, §§ 1107(b), 1108, Jan. 5, 2021, 134 Stat. 4966, provided that: “(a) In General.—During the covered period, the Secretary may pay allowances to an eligible veteran or eligible person under [section 3680(a)(2)(A) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3680/a/2/A&num=0&edition=prelim), United States Code, if the veteran or person is enrolled in a program or course of education that—“(1) is provided by an educational institution or a training establishment that is closed by reason of an emergency situation; or “(2) is suspended by reason of an emergency situation. “(b) Amount of Allowance.—The total number of weeks for which allowances may be paid under this section may not exceed the shorter of the following:“(1) The period of time that the eligible veteran or eligible person would have been enrolled in a program of education or training but for the emergency situation. “(2) Four weeks. “(c) Not Counted for Purposes of Limitation.—Any amount paid under this section shall not be counted for purposes of the limitation on allowanced [sic] under [section 3680(a)(2)(A) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3680/a/2/A&num=0&edition=prelim), United States Code. “(e) [sic] Entitlement Not Charged.—Any payment of allowances under this section shall not—“(1) be charged against any entitlement to educational assistance of the eligible veteran or eligible person concerned; or “(2) be counted against the aggregate period for which [section 3695 of this title](./chapter-036-administration-of-educational-benefits.md#section-3695) 38, United States Code, limits the receipt of educational assistance by such eligible veteran or eligible person.”
 
-[The term “covered period” as used in section 4 of Pub. L. 116–140, set out above, means Mar. 1, 2020, to Dec. 21, 2020, see section 2 of Pub. L. 116–140, set out as a note under [section 3031 of this title](./chapter-030-all-volunteer-force-educational-assistance-program.md#section-3031).]
+[The term “covered period” as used in section 4 of Pub. L. 116–140, set out above, means Mar. 1, 2020, to June 1, 2022, see section 2 of Pub. L. 116–140, set out as a note under [section 3031 of this title](./chapter-030-all-volunteer-force-educational-assistance-program.md#section-3031).]
 
 #### Restoration of Entitlement: Payment of Subsistence Allowances
 Pub. L. 116–140, § 7(b), Apr. 28, 2020, 134 Stat. 634, which provided that the Secretary of Veterans Affairs was to apply subsec. (a)(2)(B) of this section as if certain amendments had been made, was repealed by Pub. L. 116–315, title I, § 1007(c), Jan. 5, 2021, 134 Stat. 4940. See 2021 Amendment note above.
@@ -1781,7 +1932,7 @@ Subsec. (a)(4). Pub. L. 114–315, § 407(a)(2), added par. (4).
 
 Subsec. (c). Pub. L. 102–83, § 5(c)(1), substituted “3680(d)(4)” for “1780(d)(4)” and “3685” for “1785”.
 
-1989—Subsec. (a)(1). Pub. L. 101–237, § 423(b)(1)(A), substituted “Secretary” for “Administrator” wher­ever appearing.
+1989—Subsec. (a)(1). Pub. L. 101–237, § 423(b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing.
 
 Pub. L. 101–237, § 416(a)(1), substituted “chapter 31, 34,” for “chapter 34”.
 
@@ -2131,11 +2282,11 @@ Pub. L. 96–466, § 203(3), increased monthly training assistance allowance of 
 
 1977—Subsec. (b)(1). Pub. L. 95–202 increased monthly training assistance allowance of eligible veterans in column II from $212, $159, $106, and $53 to $226, $169, $113, and $56; in column III from $238, $185, $132, and $79 to $254, $197, $141, and $84; in column IV from $260, $207, $154, and $101 to $277, $221, $164, and $108; in column V from $11, $11, $11, and $11 to $12, $12, $12, and $12, respectively.
 
-1976—Subsec. (b)(1). Pub. L. 94–502 increased monthly training assistance allowance of eligible veterans in column II from “$196”, “$147”, “$98”, and “$49” to “$212”, “$159”, “$106”, and “$53”; in column III from “$220”, “$171”, “$122”, and “$73” to “$238”, “$185”, “$132”, and “$79”; in column IV from “$240”, “$191”, “$142”, and “$93” to “$260”, “$207”, “$154”, and “$101”; and in column V from “$10”, “$10”, “$10”, and “$10” to “$11”, “$11”, “$11”, and “$11” respectively.
+1976—Subsec. (b)(1). Pub. L. 94–502 increased monthly training assistance allowance of eligible veterans in column II from “$196”, “$147”, “$98”, and “$49” to “$212”, “$159”, “$106”, and “$53”; in column III from “$220”, “$171”, “$122”, and “$73” to “$238”, “$185”, “$132”, and “$79”; in column IV from “$240”, “$191”, “$142”, and “$93” to “$260”, “$207”, “$154”, and “$101”; and in column V from “$10”, “$10”, “$10”, and “$10” to “$11”, “$11”, “$11”, and “$11”, respectively.
 
-1975—Subsec. (b)(1). Pub. L. 93–602 increased monthly training assistance allowance of eligible veterans in column II from “$189”, “$142”, “$95”, and “$47” to “$196”, “$147”, “$98”, and “$49”; in column III from “$212”, “$164”, “$117”, “$70” to “$220”, “$171”, “$122”, and “$73”; in column IV from “$232”, “$184”, “$137”, and “$90” to “$240”, “$191”, “$142”, and “$93”; and in column V from “$9”, “$9”, “$9”, and “$9” to “$10”, “$10”, “$10”, and “$10” respectively.
+1975—Subsec. (b)(1). Pub. L. 93–602 increased monthly training assistance allowance of eligible veterans in column II from “$189”, “$142”, “$95”, and “$47” to “$196”, “$147”, “$98”, and “$49”; in column III from “$212”, “$164”, “$117”, “$70” to “$220”, “$171”, “$122”, and “$73”; in column IV from “$232”, “$184”, “$137”, and “$90” to “$240”, “$191”, “$142”, and “$93”; and in column V from “$9”, “$9”, “$9”, and “$9” to “$10”, “$10”, “$10”, and “$10”, respectively.
 
-1974—Subsec. (b)(1). Pub. L. 93–508, § 104(2), increased monthly training assistance allowance of eligible veterans in column II from “$160, $120, $80, and $40” to “$189, $142, $95, and $47”; in column III from “$179, $139, $99, and $59” to “$212, $164, $117, and $70”; in column IV from “$196, $156, $116, and $76” to “$232, $184, $137, and $90”; and in column V from “$8, $8, $8, and $8” to “$9, $9, $9, and $9” respectively.
+1974—Subsec. (b)(1). Pub. L. 93–508, § 104(2), increased monthly training assistance allowance of eligible veterans in column II from “$160, $120, $80, and $40” to “$189, $142, $95, and $47”; in column III from “$179, $139, $99, and $59” to “$212, $164, $117, and $70”; in column IV from “$196, $156, $116, and $76” to “$232, $184, $137, and $90”; and in column V from “$8, $8, $8, and $8” to “$9, $9, $9, and $9”, respectively.
 
 Subsec. (b)(2). Pub. L. 93–508, § 104(3), substituted “computed at the rate prescribed in paragraph (1) of this subsection for an eligible veteran with no dependents pursuing such a course” for “(A) $160 during the first six-month period, (B) $120 during the second six-month period, (C) $80 during the third six-month period, and (D) $40 during the fourth and any succeeding six-month period”.
 
@@ -2183,7 +2334,7 @@ Amendment by Pub. L. 93–508 effective Sept. 1, 1974, see section 501 of Pub. L
 Section effective Oct. 1, 1972, except for those veterans and eligible persons in training on Oct. 24, 1972, see section 601(a) of Pub. L. 92–540, set out as an Effective Date of 1972 Amendment note under [section 3482 of this title](./chapter-034-veterans-educational-assistance.md#section-3482).
 
 #### Apprenticeship or On-Job Training Requirements
-Pub. L. 116–315, title I, § 1106, Jan. 5, 2021, 134 Stat. 4965, provided that: “(a) In General.—During the period described in subsection (b), subsection (e) of [section 3687 of title 38](./chapter-036-administration-of-educational-benefits.md#section-3687), United States Code, shall be applied by substituting the following for paragraph (2):“ ‘(2)(A) Subject to subparagraphs (B) and (C), for any month in which an individual fails to complete 120 hours of training, the entitlement otherwise chargeable under paragraph (1) shall be reduced in the same proportion as the monthly training assistance allowance payable is reduced under subsection (b)(3). “ ‘(B) In the case of an individual who is unemployed during any month, the 120-hour requirement under subparagraph (A) for that month shall be reduced proportionately to reflect the individual’s period of unemployment, except that the amount of monthly training assistance otherwise payable to the individual under subsection (b)(3) shall not be reduced. “ ‘(C) Any period during which an individual is unemployed shall not— “ ‘(i) be charged against any entitlement to educational assistance of the individual; or “ ‘(ii) be counted against the aggregate period for which [section 3695 of this title](./chapter-036-administration-of-educational-benefits.md#section-3695) limits the receipt of educational assistance by such individual. “ ‘(D) Any amount by which the entitlement of an individual is reduced under subparagraph (A) shall not— “ ‘(i) be charged against any entitlement to educational assistance of the individual; or “ ‘(ii) be counted against the aggregate period for which [section 3695 of this title](./chapter-036-administration-of-educational-benefits.md#section-3695) limits the receipt of educational assistance by such individual. “ ‘(E) In the case of an individual who fails to complete 120 hours of training during a month, but who completed more than 120 hours of training during the preceding month, the individual may apply the number of hours in excess of 120 that the individual completed for that month to the month for which the individual failed to complete 120 hours. If the addition of such excess hours results in a total of 120 hours or more, the individual shall be treated as an individual who has completed 120 hours of training for that month. Any excess hours applied to a different month under this subparagraph may only be applied to one such month. “ ‘(F) This paragraph applies to amounts described in section 3313(g)(3)(B)(iv) and [section 3032(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3032/c/2&num=0&edition=prelim) and [section 16131(d)(2) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section16131/d/2&num=0&edition=prelim). “ ‘(G) In this paragraph: “ ‘(i) The term “unemployed” includes being furloughed or being scheduled to work zero hours. “ ‘(ii) The term “fails to complete 120 hours of training” means, with respect to an individual, that during any month, the individual completes at least one hour, but fewer than 120 hours, of training, including in a case in which the individual is unemployed for part of, but not the whole, month.’ “(b) Applicability Period.—The period described in this section is the period beginning on March 1, 2020, and ending on December 21, 2021.”
+Pub. L. 116–315, title I, § 1106, Jan. 5, 2021, 134 Stat. 4965, as amended by Pub. L. 117–76, § 5(e), Dec. 21, 2021, 135 Stat. 1520, provided that: “(a) In General.—During the period described in subsection (b), subsection (e) of [section 3687 of title 38](./chapter-036-administration-of-educational-benefits.md#section-3687), United States Code, shall be applied by substituting the following for paragraph (2):“ ‘(2)(A) Subject to subparagraphs (B) and (C), for any month in which an individual fails to complete 120 hours of training, the entitlement otherwise chargeable under paragraph (1) shall be reduced in the same proportion as the monthly training assistance allowance payable is reduced under subsection (b)(3). “ ‘(B) In the case of an individual who is unemployed during any month, the 120-hour requirement under subparagraph (A) for that month shall be reduced proportionately to reflect the individual’s period of unemployment, except that the amount of monthly training assistance otherwise payable to the individual under subsection (b)(3) shall not be reduced. “ ‘(C) Any period during which an individual is unemployed shall not— “ ‘(i) be charged against any entitlement to educational assistance of the individual; or “ ‘(ii) be counted against the aggregate period for which [section 3695 of this title](./chapter-036-administration-of-educational-benefits.md#section-3695) limits the receipt of educational assistance by such individual. “ ‘(D) Any amount by which the entitlement of an individual is reduced under subparagraph (A) shall not— “ ‘(i) be charged against any entitlement to educational assistance of the individual; or “ ‘(ii) be counted against the aggregate period for which [section 3695 of this title](./chapter-036-administration-of-educational-benefits.md#section-3695) limits the receipt of educational assistance by such individual. “ ‘(E) In the case of an individual who fails to complete 120 hours of training during a month, but who completed more than 120 hours of training during the preceding month, the individual may apply the number of hours in excess of 120 that the individual completed for that month to the month for which the individual failed to complete 120 hours. If the addition of such excess hours results in a total of 120 hours or more, the individual shall be treated as an individual who has completed 120 hours of training for that month. Any excess hours applied to a different month under this subparagraph may only be applied to one such month. “ ‘(F) This paragraph applies to amounts described in section 3313(g)(3)(B)(iv) and [section 3032(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3032/c/2&num=0&edition=prelim) and [section 16131(d)(2) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section16131/d/2&num=0&edition=prelim). “ ‘(G) In this paragraph: “ ‘(i) The term “unemployed” includes being furloughed or being scheduled to work zero hours. “ ‘(ii) The term “fails to complete 120 hours of training” means, with respect to an individual, that during any month, the individual completes at least one hour, but fewer than 120 hours, of training, including in a case in which the individual is unemployed for part of, but not the whole, month.’ “(b) Applicability Period.—The period described in this section is the period beginning on March 1, 2020, and ending on June 1, 2022.”
 
 #### Increase in Benefit for Individuals Pursuing Apprenticeship or On-Job Training; Survivors and Dependents Educational Assistance
 Pub. L. 108–454, title I, § 103(c), Dec. 10, 2004, 118 Stat. 3601, provided that: “(1) For months beginning on or after October 1, 2005, and before January 1, 2008, subsection (b)(2) of [section 3687 of title 38](./chapter-036-administration-of-educational-benefits.md#section-3687), United States Code, shall be applied as if—“(A) the reference to ‘$574 for the first six months’ were a reference to ‘$650 for the first six months’; “(B) the reference to ‘$429 for the second six months’ were a reference to ‘$507 for the second six months’; and “(C) the reference to ‘$285 for the third six months’ were a reference to ‘$366 for the third six months’. “(2) Subsection (d) of such section 3687 shall not apply with respect to the provisions of paragraph (1) for months occurring during fiscal year 2006. “(3) For months beginning on or after January 1, 2008, the Secretary shall carry out subsection (b)(2) of such section 3687 as if paragraphs (1) and (2) were not enacted into law.”
@@ -2372,6 +2523,8 @@ Amendment by Pub. L. 93–508 effective Dec. 3, 1974, see section 503 of Pub. L.
 
 (2) With respect to each organization or entity that is an entity of the United States, a State, or political subdivision of a State, that offers a licensing or certification test for which payment may be made under chapters 30, 32, 34, or 35 of this title, the following provisions of paragraph (1) shall apply to the entity: subparagraphs (E), (F), (G), and (H).
 
+(3) Subparagraph (G) of paragraph (1) shall not apply with respect to an educational institution located in a foreign country.
+
 **(d) Administration.—** Except as otherwise specifically provided in this section or chapter 30, 32, 33, 34, or 35 of this title, in implementing this section and making payment under any such chapter for a licensing or certification test, the test is deemed to be a “course” and the organization or entity that offers such test is deemed to be an “institution” or “educational institution”, respectively, as those terms are applied under and for purposes of sections 3671, 3673, 3674, 3678, 3679, 3681, 3682, 3683, 3685, 3690, and 3696 of this title.
 
 **(e) Professional Certification and Licensure Advisory Committee.—**
@@ -2402,6 +2555,8 @@ Amendment by Pub. L. 93–508 effective Dec. 3, 1974, see section 503 of Pub. L.
 A prior section 3689, added Pub. L. 92–540, title III, § 316(2), Oct. 24, 1972, 86 Stat. 1087, § 1789; amended Pub. L. 94–502, title V, § 509(b), Oct. 15, 1976, 90 Stat. 2401; Pub. L. 95–202, title III, § 305(a)(1), Nov. 23, 1977, 91 Stat. 1442; Pub. L. 96–466, title VI, § 601(g), Oct. 17, 1980, 94 Stat. 2208; Pub. L. 101–237, title IV, §§ 418, 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2087, 2092; renumbered § 3689, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406, related to approval of enrollment in courses in operation for less than two years, prior to repeal by Pub. L. 104–275, title I, § 103(a)(1)(A), Oct. 9, 1996, 110 Stat. 3326.
 
 #### Amendments
+2021—Subsec. (c)(3). Pub. L. 117–76 added par. (3).
+
 2011—Subsec. (a)(1). Pub. L. 111–377 inserted “the test is deemed approved by [section 3672(b)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3672/b/2/B&num=0&edition=prelim) or” after “unless”.
 
 2008—Subsecs. (a)(1), (c)(1), (d), (e)(2). Pub. L. 110–252 inserted “33,” after “32,” wherever appearing.
@@ -2445,7 +2600,15 @@ the Secretary may disapprove such educational institution for the enrollment of 
 
     (iii) the Secretary, not less than 30 days before taking action under such subparagraph, provides to each eligible veteran and eligible person already enrolled in such course written notice of the Secretary’s intent to take such action (and the reasons therefor) unless such corrective action is taken within such 60 days (or within such longer period as the Secretary has determined is reasonable and appropriate), and of the date on which the Secretary intends to take action under such subparagraph.
 
-**(c) Examination of Records.—** Notwithstanding any other provision of law, the records and accounts of educational institutions pertaining to eligible veterans or eligible persons who received educational assistance under this chapter or chapter 31, 32, 34, or 35 of this title, as well as the records of other students which the Secretary determines necessary to ascertain institutional compliance with the requirements of such chapters, shall be available for examination by duly authorized representatives of the Government.
+**(c) Examination of Records.—**
+
+(1) Except as provided in paragraph (2), notwithstanding any other provision of law, the records and accounts of educational institutions pertaining to eligible veterans or eligible persons who received educational assistance under this chapter or chapter 31, 32, 34, or 35 of this title, as well as the records of other students which the Secretary determines necessary to ascertain institutional compliance with the requirements of such chapters, shall be available for examination by duly authorized representatives of the Government.
+
+(2) Paragraph (1) does not apply to the records and accounts—
+
+  (A) of an educational institution located in a foreign country; and
+
+  (B) that pertain to an individual who is not receiving educational assistance under this chapter.
 
 **(d) False or Misleading Statements.—** Whenever the Secretary finds that an educational institution has willfully submitted a false or misleading claim, or that a veteran or person, with the complicity of an educational institution, has submitted such a claim, the Secretary shall make a complete report of the facts of the case to the appropriate State approving agency and, where deemed advisable, to the Attorney General of the United States for appropriate action.
 
@@ -2455,6 +2618,8 @@ the Secretary may disapprove such educational institution for the enrollment of 
 Provisions similar to those comprising subsec. (a) were contained in former section 1685, as added by Pub. L. 89–358, § 2, Mar. 3, 1966, 80 Stat. 19, § 1684; renumbered Pub. L. 90–77, title III, § 304(a), Aug. 31, 1967, 81 Stat. 186, and former section 1734, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1199; Pub. L. 89–358, § 4(m), Mar. 3, 1966, 80 Stat. 25; provisions similar to those comprising subsec. (b) were contained in former section 1687, as added by Pub. L. 89–358, § 2, Mar. 3, 1966, 80 Stat. 19, § 1686; renumbered Pub. L. 90–77, title III, § 304(a), Aug. 31, 1967, 81 Stat. 186; and former section 1736, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1199; Pub. L. 88–126, § 2, Sept. 23, 1963, 77 Stat. 162; Pub. L. 89–358, § 4(o), Mar. 3, 1966, 80 Stat. 25; provisions similar to those comprising subsec. (c) were contained in former section 1786, as added by Pub. L. 89–358, § 3(b), Mar. 3, 1966, 80 Stat. 23; and provisions similar to those comprising subsec. (d) were contained in former section 1787, as added by Pub. L. 89–358, § 3(b), Mar. 3, 1966, 80 Stat. 23; prior to the general revision by Pub. L. 92–540.
 
 #### Amendments
+2021—Subsec. (c). Pub. L. 117–76 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), notwithstanding” for “Notwithstanding”, and added par. (2).
+
 2008—Subsec. (b)(3)(A). Pub. L. 110–252 inserted “33,” after “32,”.
 
 2006—Pub. L. 109–233 revised style of subsec. headings.
@@ -2797,113 +2962,106 @@ Pub. L. 112–154, title IV, § 401(c), Aug. 6, 2012, 126 Stat. 1188, provided t
 
 
 <a id="section-3696"></a>
-## § 3696. Limitation on certain advertising, sales, and enrollment practices
-**(a)** The Secretary shall not approve the enrollment of an eligible veteran or eligible person in any course offered by an institution which utilizes advertising, sales, or enrollment practices of any type which are erroneous, deceptive, or misleading either by actual statement, omission, or intimation.
+## § 3696. Prohibition on certain advertising, sales, and enrollment practices
+**(a) Prohibition on Engaging in Substantial Misrepresentation.—** An educational institution with a course or program of education approved under this chapter, and an entity that owns such an educational institution, shall not engage in substantial misrepresentation described in subsection (b).
 
-**(b)** To ensure compliance with this section, any institution offering courses approved for the enrollment of eligible persons or veterans shall maintain a complete record of all advertising, sales, or enrollment materials (and copies thereof) utilized by or on behalf of the institution during the preceding 12-month period. Such record shall be available for inspection by the State approving agency or the Secretary. Such materials shall include but are not limited to any direct mail pieces, brochures, printed literature used by sales persons, films, video tapes, and audio tapes disseminated through broadcast media, material disseminated through print media, tear sheets, leaflets, handbills, fliers, and any sales or recruitment manuals used to instruct sales personnel, agents, or representatives of such institution.
+**(b) Substantial Misrepresentation Described.—**
 
-**(c)** The Secretary shall, pursuant to [section 3694 of this title](./chapter-036-administration-of-educational-benefits.md#section-3694), enter into an agreement with the Federal Trade Commission to utilize, where appropriate, its services and facilities, consistent with its available resources, in carrying out investigations and making the Secretary’s determinations under subsection (a) of this section. Such agreement shall provide that cases arising under subsection (a) of this section or any similar matters with respect to any of the requirements of this chapter or chapters 34 and 35 of this title shall be referred to the Federal Trade Commission which in its discretion will conduct an investigation and make preliminary findings. The findings and results of any such investigations shall be referred to the Secretary who shall take appropriate action in such cases within ninety days after such referral.
+(1) Substantial misrepresentation described in this paragraph is substantial misrepresentation by an educational institution, a representative of the institution, or any person with whom the institution has an agreement to provide educational programs, marketing, advertising, recruiting or admissions services, concerning any of the following:
 
-**(d)**
+  (A) The nature of the educational program of the institution, including misrepresentation regarding—
 
-(1) The Secretary shall not approve under this chapter any course offered by an educational institution if the educational institution provides any commission, bonus, or other incentive payment based directly or indirectly on success in securing enrollments or financial aid to any persons or entities engaged in any student recruiting or admission activities or in making decisions regarding the award of student financial assistance.
+    (i) the particular type, specific source, or nature and extent, of the accreditation of the institution or a course of education at the institution;
 
-(2) To the degree practicable, the Secretary shall carry out paragraph (1) in a manner that is consistent with the Secretary of Education’s enforcement of section 487(a)(20) of the Higher Education Act of 1965 ([20 U.S.C. 1094(a)(20)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1094/a/20&num=0&edition=prelim)).
+    (ii) whether a student may transfer course credits to another institution;
 
-### Statutory Notes
+    (iii) conditions under which the institution will accept transfer credits earned at another institution;
 
-#### Amendment of Section
-Pub. L. 116–315, title I, § 1020(a)(1), (c), Jan. 5, 2021, 134 Stat. 4950, 4958, provided that, effective on Aug. 1, 2021, this section is amended to read as follows: § 3696. Prohibition on certain advertising, sales, and enrollment practices
+    (iv) whether successful completion of a course of instruction qualifies a student—
 
-(a) Prohibition on Engaging in Substantial Misrepresentation.—An educational institution with a course or program of education approved under this chapter, and an entity that owns such an educational institution, shall not engage in substantial misrepresentation described in subsection (b).
+      (I) for acceptance to a labor union or similar organization; or
 
-(b) Substantial Misrepresentation Described.—(1) Substantial misrepresentation described in this paragraph is substantial misrepresentation by an educational institution, a representative of the institution, or any person with whom the institution has an agreement to provide educational programs, marketing, advertising, recruiting or admissions services, concerning any of the following:
+      (II) to receive, to apply to take, or to take an examination required to receive a local, State, or Federal license, or a nongovernmental certification required as a precondition for employment, or to perform certain functions in the States in which the educational program is offered, or to meet additional conditions that the institution knows or reasonably should know are generally needed to secure employment in a recognized occupation for which the program is represented to prepare students;
 
-(A) The nature of the educational program of the institution, including misrepresentation regarding—
+    (v) the requirements for successfully completing the course of study or program and the circumstances that would constitute grounds for terminating the student’s enrollment;
 
-(i) the particular type, specific source, or nature and extent, of the accreditation of the institution or a course of education at the institution;
+    (vi) whether the courses of education at the institution are recommended or have been the subject of unsolicited testimonials or endorsements by—
 
-(ii) whether a student may transfer course credits to another institution;
+      (I) vocational counselors, high schools, colleges, educational organizations, employment agencies, members of a particular industry, students, former students, or others; or
 
-(iii) conditions under which the institution will accept transfer credits earned at another institution;
+      (II) officials of a local or State government or the Federal Government;
 
-(iv) whether successful completion of a course of instruction qualifies a student—
+    (vii) the size, location, facilities, or equipment of the institution;
 
-(I) for acceptance to a labor union or similar organization; or
+    (viii) the availability, frequency, and appropriateness of the courses of education and programs to the employment objectives that the institution states the courses and programs are designed to meet;
 
-(II) to receive, to apply to take, or to take an examination required to receive a local, State, or Federal license, or a nongovernmental certification required as a precondition for employment, or to perform certain functions in the States in which the educational program is offered, or to meet additional conditions that the institution knows or reasonably should know are generally needed to secure employment in a recognized occupation for which the program is represented to prepare students;
+    (ix) the nature, age, and availability of the training devices or equipment of the institution and the appropriateness to the employment objectives that the institution states the courses and programs are designed to meet;
 
-(v) the requirements for successfully completing the course of study or program and the circumstances that would constitute grounds for terminating the student’s enrollment;
+    (x) the number, availability, and qualifications, including the training and experience, of the faculty and other personnel of the institution;
 
-(vi) whether the courses of education at the institution are recommended or have been the subject of unsolicited testimonials or endorsements by—
+    (xi) the availability of part-time employment or other forms of financial assistance;
 
-(I) vocational counselors, high schools, colleges, educational organizations, employment agencies, members of a particular industry, students, former students, or others; or
+    (xii) the nature and availability of any tutorial or specialized instruction, guidance and counseling, or other supplementary assistance the institution will provide students before, during, or after the completion of a course of education;
 
-(II) officials of a local or State government or the Federal Government;
+    (xiii) the nature or extent of any prerequisites established for enrollment in any course of education;
 
-(vii) the size, location, facilities, or equipment of the institution;
+    (xiv) the subject matter, content of the course of education, or any other fact related to the degree, diploma, certificate of completion, or any similar document that the student is to be, or is, awarded upon completion of the course of education; and
 
-(viii) the availability, frequency, and appropriateness of the courses of education and programs to the employment objectives that the institution states the courses and programs are designed to meet;
+    (xv) whether the degree that the institution will confer upon completion of the course of education has been authorized by the appropriate State educational agency, including with respect to cases where the institution fails to disclose facts regarding the lack of such authorization in any advertising or promotional materials that reference such degree.
 
-(ix) the nature, age, and availability of the training devices or equipment of the institution and the appropriateness to the employment objectives that the institution states the courses and programs are designed to meet;
+  (B) The financial charges of the institution, including misrepresentation regarding—
 
-(x) the number, availability, and qualifications, including the training and experience, of the faculty and other personnel of the institution;
+    (i) offers of scholarships to pay all or part of a course charge;
 
-(xi) the availability of part-time employment or other forms of financial assistance;
+    (ii) whether a particular charge is the customary charge at the institution for a course;
 
-(xii) the nature and availability of any tutorial or specialized instruction, guidance and counseling, or other supplementary assistance the institution will provide students before, during, or after the completion of a course of education;
+    (iii) the cost of the program and the refund policy of the institution if the student does not complete the program;
 
-(xiii) the nature or extent of any prerequisites established for enrollment in any course of education;
+    (iv) the availability or nature of any financial assistance offered to students, including a student’s responsibility to repay any loans, regardless of whether the student is successful in completing the program and obtaining employment; and
 
-(xiv) the subject matter, content of the course of education, or any other fact related to the degree, diploma, certificate of completion, or any similar document that the student is to be, or is, awarded upon completion of the course of education; and
+    (v) the student’s right to reject any particular type of financial aid or other assistance, or whether the student must apply for a particular type of financial aid, such as financing offered by the institution.
 
-(xv) whether the degree that the institution will confer upon completion of the course of education has been authorized by the appropriate State educational agency, including with respect to cases where the institution fails to disclose facts regarding the lack of such authorization in any advertising or promotional materials that reference such degree.
+  (C) The employability of the graduates of the institution, including misrepresentation regarding—
 
-(B) The financial charges of the institution, including misrepresentation regarding—
+    (i) the relationship of the institution with any organization, employment agency, or other agency providing authorized training leading directly to employment;
 
-(i) offers of scholarships to pay all or part of a course charge;
+    (ii) the plans of the institution to maintain a placement service for graduates or otherwise assist graduates to obtain employment;
 
-(ii) whether a particular charge is the customary charge at the institution for a course;
+    (iii) the knowledge of the institution about the current or likely future conditions, compensation, or employment opportunities in the industry or occupation for which the students are being prepared;
 
-(iii) the cost of the program and the refund policy of the institution if the student does not complete the program;
+    (iv) job market statistics maintained by the Federal Government in relation to the potential placement of the graduates of the institution; and
 
-(iv) the availability or nature of any financial assistance offered to students, including a student’s responsibility to repay any loans, regardless of whether the student is successful in completing the program and obtaining employment; and
-
-(v) the student’s right to reject any particular type of financial aid or other assistance, or whether the student must apply for a particular type of financial aid, such as financing offered by the institution.
-
-(C) The employability of the graduates of the institution, including misrepresentation regarding—
-
-(i) the relationship of the institution with any organization, employment agency, or other agency providing authorized training leading directly to employment;
-
-(ii) the plans of the institution to maintain a placement service for graduates or otherwise assist graduates to obtain employment;
-
-(iii) the knowledge of the institution about the current or likely future conditions, compensation, or employment opportunities in the industry or occupation for which the students are being prepared;
-
-(iv) job market statistics maintained by the Federal Government in relation to the potential placement of the graduates of the institution; and
-
-(v) other requirements that are generally needed to be employed in the fields for which the training is provided, such as requirements related to commercial driving licenses or permits to carry firearms, and failing to disclose factors that would prevent an applicant from qualifying for such requirements, such as prior criminal records or preexisting medical conditions.
+    (v) other requirements that are generally needed to be employed in the fields for which the training is provided, such as requirements related to commercial driving licenses or permits to carry firearms, and failing to disclose factors that would prevent an applicant from qualifying for such requirements, such as prior criminal records or preexisting medical conditions.
 
 (2) In this subsection:
 
-(A) The term “misleading statement” includes any communication, action, omission, or intimation made in writing, visually, orally, or through other means, that has the likelihood or tendency to mislead the intended recipient of the communication under the circumstances in which the communication is made. Such term includes the use of student endorsements or testimonials for an educational institution that a student gives to the institution either under duress or because the institution required the student to make such an endorsement or testimonial to participate in a program of education.
+  (A) The term “misleading statement” includes any communication, action, omission, or intimation made in writing, visually, orally, or through other means, that has the likelihood or tendency to mislead the intended recipient of the communication under the circumstances in which the communication is made. Such term includes the use of student endorsements or testimonials for an educational institution that a student gives to the institution either under duress or because the institution required the student to make such an endorsement or testimonial to participate in a program of education.
 
-(B) The term “misrepresentation” means any false, erroneous, or misleading statement, action, omission, or intimation made directly or indirectly to a student, a prospective student, the public, an accrediting agency, a State agency, or to the Secretary by an eligible institution, one of its representatives, or any person with whom the institution has an agreement to provide educational programs, marketing, advertising, recruiting or admissions services.
+  (B) The term “misrepresentation” means any false, erroneous, or misleading statement, action, omission, or intimation made directly or indirectly to a student, a prospective student, the public, an accrediting agency, a State agency, or to the Secretary by an eligible institution, one of its representatives, or any person with whom the institution has an agreement to provide educational programs, marketing, advertising, recruiting or admissions services.
 
-(C) The term “substantial misrepresentation” means misrepresentation in which the person to whom it was made could reasonably be expected to rely, or has reasonably relied, to that person’s detriment.
+  (C) The term “substantial misrepresentation” means misrepresentation in which the person to whom it was made could reasonably be expected to rely, or has reasonably relied, to that person’s detriment.
 
-(c) Limitation on Certain Commissions, Bonuses, and Other Incentive Payments.—An educational institution with a course or program of education approved under this chapter, and an entity that owns such an educational institution, shall not provide any commission, bonus, or other incentive payment based directly or indirectly on success in securing enrollments or financial aid to any persons or entities engaged in any student recruiting or admission activities or in making decisions regarding the award of student financial assistance.
+**(c) Limitation on Certain Commissions, Bonuses, and Other Incentive Payments.—**
 
-(d) Requirement to Maintain Records.—(1) To ensure compliance with this section, any educational institution offering courses approved for the enrollment of eligible persons or veterans shall maintain a complete record of all advertising, sales, or enrollment materials (and copies thereof) utilized by or on behalf of the institution during the preceding two-year period. Such record shall be available for inspection by the State approving agency or the Secretary.
+(1) An educational institution with a course or program of education approved under this chapter, and an entity that owns such an educational institution, shall not provide any commission, bonus, or other incentive payment based directly or indirectly on success in securing enrollments or financial aid to any persons or entities engaged in any student recruiting or admission activities or in making decisions regarding the award of student financial assistance, except for the recruitment of foreign students residing in foreign countries who are not eligible to receive Federal student assistance.
+
+(2) In determining whether a violation of paragraph (1) has occurred, the Under Secretary for Benefits shall construe the requirements of this paragraph in accordance with the regulations and guidance prescribed by the Secretary of Education under section 487(a)(20) of the Higher Education Act of 1965 ([20 U.S.C. 1094(a)(20)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1094/a/20&num=0&edition=prelim)).
+
+**(d) Requirement to Maintain Records.—**
+
+(1) To ensure compliance with this section, any educational institution offering courses approved for the enrollment of eligible persons or veterans shall maintain a complete record of all advertising, sales, or enrollment materials (and copies thereof) utilized by or on behalf of the institution during the preceding two-year period. Such record shall be available for inspection by the State approving agency or the Secretary.
 
 (2) Such materials shall include but are not limited to any direct mail pieces, brochures, printed literature used by sales persons, films, video tapes, and audio tapes disseminated through broadcast media, material disseminated through print, digital, or electronic media, tear sheets, leaflets, handbills, fliers, and any sales or recruitment manuals used to instruct sales personnel, agents, or representatives of such institution.
 
-(e) Agreement With Federal Trade Commission.—(1) The Secretary shall, pursuant to [section 3694 of this title](./chapter-036-administration-of-educational-benefits.md#section-3694), enter into an agreement with the Federal Trade Commission to utilize, where appropriate, its services and facilities, consistent with its available resources, in carrying out investigations and making the Under Secretary of Benefit’s [sic] preliminary findings under subsection (g)(1).
+**(e) Agreement With Federal Trade Commission.—**
+
+(1) The Secretary shall, pursuant to [section 3694 of this title](./chapter-036-administration-of-educational-benefits.md#section-3694), enter into an agreement with the Federal Trade Commission to utilize, where appropriate, its services and facilities, consistent with its available resources, in carrying out investigations and making the Under Secretary of 11 So in original. Probably should be “for”. Benefit’s 22 So in original. Probably should be “Benefits’ ”. preliminary findings under subsection (g)(1).
 
 (2) Such agreement shall provide that cases arising under subsection (a) of this section or any similar matters with respect to any of the requirements of this chapter or chapters 34 and 35 of this title may be referred to the Federal Trade Commission which in its discretion will conduct an investigation and make preliminary findings.
 
 (3) The findings and results of any investigation under paragraph (2) shall be referred to the Under Secretary for Benefits, who shall take appropriate action under subsection (g) in such cases not later than 60 days after the date of such referral.
 
-(f) Final Judgments From Other Federal Agencies.—Whenever the Secretary becomes aware of a final judgment by a Federal agency against an educational institution or owner of an educational institution pertaining to substantial misrepresentation described in subsection (b) or of other credible evidence relating to a violation of subsection (a), the Secretary, in partnership with the applicable State approving agency, shall—
+**(f) Final Judgments From Other Federal Agencies.—** Whenever the Secretary becomes aware of a final judgment by a Federal agency against an educational institution or owner of an educational institution pertaining to substantial misrepresentation described in subsection (b) or of other credible evidence relating to a violation of subsection (a), the Secretary, in partnership with the applicable State approving agency, shall—
 
 (1) within 30 days, alert the educational institution or owner that it is at risk of losing approval under this chapter of its courses or programs of education;
 
@@ -2911,144 +3069,168 @@ Pub. L. 116–315, title I, § 1020(a)(1), (c), Jan. 5, 2021, 134 Stat. 4950, 49
 
 (3) require the educational institution or owner to submit to the Secretary a report prepared by an approved third-party auditor of the advertising and enrollment practices of the educational institution or owner; and
 
-(4) refer the matter to the Under Secretary of Benefits, who may thereafter make a preliminary finding under subsection (g).
+(4) refer the matter to the Under Secretary of 1 Benefits, who may thereafter make a preliminary finding under subsection (g).
 
-(g) Preliminary Findings, Final Determinations, and Processes.—(1) The Under Secretary for Benefits shall make preliminary findings and final determinations on violations of subsections (a), (c), and (d).
+**(g) Preliminary Findings, Final Determinations, and Processes.—**
 
-(2)(A) The Under Secretary shall establish a process for making preliminary findings and final determinations under paragraph (1).
+(1) The Under Secretary for Benefits shall make preliminary findings and final determinations on violations of subsections (a), (c), and (d).
 
-(B) The process established under subparagraph (A) shall—
+(2)
 
-(i) clearly define what triggers an oversight visit by the Under Secretary for purposes of enforcing subsections (a), (c), and (d);
+  (A) The Under Secretary shall establish a process for making preliminary findings and final determinations under paragraph (1).
 
-(ii) set forth factors an educational institution, or the owner of the educational institution, must meet in order to retain approval status under this section, including with respect to the factors set forth under subsection (h)(2);
+  (B) The process established under subparagraph (A) shall—
 
-(iii) include a process for the provision of notice to an educational institution, or the owner of the educational institution, that the Under Secretary has made a preliminary finding under paragraph (1) that the education [sic] institution or owner has violated subsection (a), (c), or (d), which the Under Secretary shall provide to the educational institution or owner within such period after making the preliminary finding as the Under Secretary shall establish for purposes of this clause, except that, in every case, such period shall end before the date on which the Under Secretary makes a final determination under such paragraph; and
+    (i) clearly define what triggers an oversight visit by the Under Secretary for purposes of enforcing subsections (a), (c), and (d);
 
-(iv) include—
+    (ii) set forth factors an educational institution, or the owner of the educational institution, must meet in order to retain approval status under this section, including with respect to the factors set forth under subsection (h)(2);
 
-(I) a process for receipt of findings from a third-party pertinent to this section; and
+    (iii) include a process for the provision of notice to an educational institution, or the owner of the educational institution, that the Under Secretary has made a preliminary finding under paragraph (1) that the education institution or owner has violated subsection (a), (c), or (d), which the Under Secretary shall provide to the educational institution or owner within such period after making the preliminary finding as the Under Secretary shall establish for purposes of this clause, except that, in every case, such period shall end before the date on which the Under Secretary makes a final determination under such paragraph; and
 
-(II) a process for an educational institution or an owner to provide such information as the educational institution or owner determines appropriate to the Secretary, including information about corrective actions the educational institution or owner may have taken in response to preliminary findings under paragraph (1).
+    (iv) include—
 
-(C) The process established under subparagraph (A) shall not prohibit a State approving agency from—
+      (I) a process for receipt of findings from a third-party pertinent to this section; and
 
-(i) independently investigating a potential violation of subsection (a), (c), or (d); or
+      (II) a process for an educational institution or an owner to provide such information as the educational institution or owner determines appropriate to the Secretary, including information about corrective actions the educational institution or owner may have taken in response to preliminary findings under paragraph (1).
 
-(ii) taking action if the State approving agency finds a violation of subsection (a), (c), or (d).
+  (C) The process established under subparagraph (A) shall not prohibit a State approving agency from—
+
+    (i) independently investigating a potential violation of subsection (a), (c), or (d); or
+
+    (ii) taking action if the State approving agency finds a violation of subsection (a), (c), or (d).
 
 (3) Upon a preliminary finding under this subsection of a violation of subsection (a), (c), or (d) by an educational institution, or the owner of an educational institution, the Under Secretary shall require the educational institution or owner to submit to the Under Secretary a report prepared by an approved third-party auditor of the advertising and enrollment practices of the educational institution or owner.
 
-(4)(A) Before making a final determination under this subsection regarding a violation of subsection (a), (c), or (d) by an educational institution or owner of an educational institution, the Under Secretary shall—
+(4)
 
-(i) review the practices of the educational institution or owner that pertain to activities and practices covered by subsections (a), (c), and (d);
+  (A) Before making a final determination under this subsection regarding a violation of subsection (a), (c), or (d) by an educational institution or owner of an educational institution, the Under Secretary shall—
 
-(ii) consider the results of a risk-based survey conducted by a State approving agency, if available; and
+    (i) review the practices of the educational institution or owner that pertain to activities and practices covered by subsections (a), (c), and (d);
 
-(iii) review—
+    (ii) consider the results of a risk-based survey conducted by a State approving agency, if available; and
 
-(I) the findings and information received pursuant to the processes established under paragraph (2)(B)(iii);
+    (iii) review—
 
-(II) in a case in which a report was submitted under subsection (f)(3), such report;
+      (I) the findings and information received pursuant to the processes established under paragraph (2)(B)(iii);
 
-(III) the report submitted under paragraph (3)(B) of this subsection;
+      (II) in a case in which a report was submitted under subsection (f)(3), such report;
 
-(IV) any findings and results submitted under subsection (e)(3);
+      (III) the report submitted under paragraph (3);
 
-(V) the marketing and outreach material of the educational institution and the contractors of the educational institution.
+      (IV) any findings and results submitted under subsection (e)(3);
 
-(B) The Under Secretary may not make a final determination under this subsection solely based on preliminary findings.
+      (V) the marketing and outreach material of the educational institution and the contractors of the educational institution.
+
+  (B) The Under Secretary may not make a final determination under this subsection solely based on preliminary findings.
 
 (5) The Under Secretary may not delegate authority to make a final determination under this subsection, including to any employee of the Department or to the Federal Trade Commission.
 
-(h) Enforcement.—(1)(A) Upon a final determination by the Under Secretary for Benefits under subsection (g) that an educational institution or the owner of an educational institution violated subsection (a), (c), or (d), the Under Secretary shall, but subject to subparagraphs (B), (C), and (D) of this paragraph, take one of the following actions independent of any actions taken under [section 3690 of this title](./chapter-036-administration-of-educational-benefits.md#section-3690):
+**(h) Enforcement.—**
 
-(i) Publish a caution flag on the GI Bill Comparison Tool, or successor tool, about that educational institution and alert its currently enrolled eligible veterans and eligible persons.
+(1)
 
-(ii) Suspend the approval of the courses and programs of education offered by the educational institution by disapproving new enrollments of eligible veterans and eligible persons in each course or program of education offered by that educational institution.
+  (A) Upon a final determination by the Under Secretary for Benefits under subsection (g) that an educational institution or the owner of an educational institution violated subsection (a), (c), or (d), the Under Secretary shall, but subject to subparagraphs (B), (C), and (D) of this paragraph, take one of the following actions independent of any actions taken under [section 3690 of this title](./chapter-036-administration-of-educational-benefits.md#section-3690):
 
-(iii) Revoke the approval of the courses and programs of education offered by the educational institution by disapproving all enrollments of eligible veterans and eligible persons in each course or program of education offered by that educational institution.
+    (i) Publish a caution flag on the GI Bill Comparison Tool, or successor tool, about that educational institution and alert its currently enrolled eligible veterans and eligible persons.
 
-(B) In deciding upon a course of action under subparagraph (A), for the first violation of this section, the Secretary shall consider the factors set forth in paragraph (2).
+    (ii) Suspend the approval of the courses and programs of education offered by the educational institution by disapproving new enrollments of eligible veterans and eligible persons in each course or program of education offered by that educational institution.
 
-(C) Subject to subsection (i), any repeat violation and final finding within five years of the first violation of this section shall result in—
+    (iii) Revoke the approval of the courses and programs of education offered by the educational institution by disapproving all enrollments of eligible veterans and eligible persons in each course or program of education offered by that educational institution.
 
-(i) a suspension of approval of new enrollments as described in subparagraph (A)(ii) of this paragraph until reinstatement under subsection (j); or
+  (B) In deciding upon a course of action under subparagraph (A), for the first violation of this section, the Secretary shall consider the factors set forth in paragraph (2).
 
-(ii) a revocation of approval under this chapter as described in subparagraph (A)(iii) of this paragraph until reinstatement under subsection (j).
+  (C) Subject to subsection (i), any repeat violation and final finding within five years of the first violation of this section shall result in—
 
-(D) Subject to subsection (i), any third violation within three years of the second violation of this section shall result in revocation of approval under this chapter as described in subparagraph (A)(iii) of this paragraph until reinstatement under subsection (j).
+    (i) a suspension of approval of new enrollments as described in subparagraph (A)(ii) of this paragraph until reinstatement under subsection (j); or
 
-(E) Any action taken under subparagraph (A) of this paragraph regarding a violation of subsection (a), (c), or (d) by an educational institution or the owner of an educational institution shall be taken on or before the date that is 180 days after the date on which the Under Secretary provided notice to the educational institution or owner regarding the violation in accordance with the process established under subsection (g)(2)(B)(iii).
+    (ii) a revocation of approval under this chapter as described in subparagraph (A)(iii) of this paragraph until reinstatement under subsection (j).
+
+  (D) Subject to subsection (i), any third violation within three years of the second violation of this section shall result in revocation of approval under this chapter as described in subparagraph (A)(iii) of this paragraph until reinstatement under subsection (j).
+
+  (E) Any action taken under subparagraph (A) of this paragraph regarding a violation of subsection (a), (c), or (d) by an educational institution or the owner of an educational institution shall be taken on or before the date that is 180 days after the date on which the Under Secretary provided notice to the educational institution or owner regarding the violation in accordance with the process established under subsection (g)(2)(B)(iii).
 
 (2) The factors set forth in this paragraph are the following:
 
-(A) That the Secretary’s action brings sufficient deterrence for future fraud against students and the programs of education carried out under this title. Fraud against veterans must be met with a repercussion strong enough to send a deterrent message to this and other educational institutions and owners.
+  (A) That the Secretary’s action brings sufficient deterrence for future fraud against students and the programs of education carried out under this title. Fraud against veterans must be met with a repercussion strong enough to send a deterrent message to this and other educational institutions and owners.
 
-(B) That the educational institution has secured an approved third-party auditor to verify the educational institution’s, or owner’s, advertising and enrollment practices for at least three years going forward.
+  (B) That the educational institution has secured an approved third-party auditor to verify the educational institution’s, or owner’s, advertising and enrollment practices for at least three years going forward.
 
-(C) That the educational institution or owner has repudiated the deceptive practices and has communicated to all employees that deceptive practices will not be tolerated, and has instituted strong governance procedures to prevent recurrence.
+  (C) That the educational institution or owner has repudiated the deceptive practices and has communicated to all employees that deceptive practices will not be tolerated, and has instituted strong governance procedures to prevent recurrence.
 
-(D) That the educational institution has taken steps to remove any pressure on its enrollment recruiters, including by removing enrollment quotas and incentives for enrollment.
+  (D) That the educational institution has taken steps to remove any pressure on its enrollment recruiters, including by removing enrollment quotas and incentives for enrollment.
 
-(E) That the State approving agency or the Secretary acting in the role of the State approving agency, has completed a risk-based survey and determined the educational institution is worthy of serving eligible veterans and eligible persons.
+  (E) That the State approving agency or the Secretary acting in the role of the State approving agency, has completed a risk-based survey and determined the educational institution is worthy of serving eligible veterans and eligible persons.
 
 (3) Enforcement action under this section shall not preclude enforcement action under [section 3690 of this title](./chapter-036-administration-of-educational-benefits.md#section-3690).
 
 (4) No action may be carried out under this subsection with respect to a final determination by the Under Secretary under subsection (g) while such final determination is pending review under subsection (i).
 
-(i) Appeals.—(1) The Secretary shall establish a process by which an educational institution or the owner of an educational institution that is the subject of more than one final determination by the Under Secretary under subsection (g)(1) that the educational institution or owner violated subsection (a), may request a review of the most recent final determination.
+**(i) Appeals.—**
 
-(2)(A) The Secretary shall—
+(1) The Secretary shall establish a process by which an educational institution or the owner of an educational institution that is the subject of more than one final determination by the Under Secretary under subsection (g)(1) that the educational institution or owner violated subsection (a), may request a review of the most recent final determination.
 
-(i) review each final determination for which a review is requested under paragraph (1); and
+(2)
 
-(ii) pursuant to such review, issue a final decision sustaining, modifying, or overturning the final determination.
+  (A) The Secretary shall—
 
-(B) The Secretary may not delegate any decision under subparagraph (A).
+    (i) review each final determination for which a review is requested under paragraph (1); and
 
-(C)(i) Review under subparagraph (A)(i) of this paragraph shall be the exclusive avenue for review of a final determination under subsection (g)(1).
+    (ii) pursuant to such review, issue a final decision sustaining, modifying, or overturning the final determination.
 
-(ii) A decision issued pursuant to a review under subparagraph (A)(i) may not be appealed to the Secretary for review under [section 7104(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7104/a&num=0&edition=prelim).
+  (B) The Secretary may not delegate any decision under subparagraph (A).
 
-(3)(A) Not later than 30 days after the date on which the Secretary issues a final decision under paragraph (2)(A)(ii), the Secretary shall submit to Congress a report on such final decision.
+  (C)
 
-(B) A report submitted under subparagraph (A) shall include the following:
+    (i) Review under subparagraph (A)(i) of this paragraph shall be the exclusive avenue for review of a final determination under subsection (g)(1).
 
-(i) An outline of the decisionmaking process of the Secretary that led to the final decision described in subparagraph (A).
+    (ii) A decision issued pursuant to a review under subparagraph (A)(i) may not be appealed to the Secretary for review under [section 7104(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7104/a&num=0&edition=prelim).
 
-(ii) Any relevant material used to make the final decision under paragraph (2)(A)(ii), including risk-based surveys and documentation from the educational institution or the owners of the educational institution.
+(3)
 
-(iii) Materials that were submitted to the Secretary after the date of the final determination under subsection (g) that was the subject of the final decision under paragraph (2)(A)(ii) of this subsection and before the date on which the Secretary issued such final decision.
+  (A) Not later than 30 days after the date on which the Secretary issues a final decision under paragraph (2)(A)(ii), the Secretary shall submit to Congress a report on such final decision.
 
-(j) Reinstatement of Approval.—(1) If an educational institution or the owner of an educational institution has had the approval of the courses or programs of education of the educational institution suspended as described in clause (ii) of subsection (h)(1)(A) or revoked as described in clause (iii) of such subsection for a violation of subsection (a), (c), or (d) pursuant to subparagraph (C) or (D) of subsection (h)(1), the educational institution or owner may submit to the applicable State approving agency or the Secretary when acting as a State approving agency an application for reinstatement of approval under this subsection.
+  (B) A report submitted under subparagraph (A) shall include the following:
+
+    (i) An outline of the decisionmaking process of the Secretary that led to the final decision described in subparagraph (A).
+
+    (ii) Any relevant material used to make the final decision under paragraph (2)(A)(ii), including risk-based surveys and documentation from the educational institution or the owners of the educational institution.
+
+    (iii) Materials that were submitted to the Secretary after the date of the final determination under subsection (g) that was the subject of the final decision under paragraph (2)(A)(ii) of this subsection and before the date on which the Secretary issued such final decision.
+
+**(j) Reinstatement of Approval.—**
+
+(1) If an educational institution or the owner of an educational institution has had the approval of the courses or programs of education of the educational institution suspended as described in clause (ii) of subsection (h)(1)(A) or revoked as described in clause (iii) of such subsection for a violation of subsection (a), (c), or (d) pursuant to subparagraph (C) or (D) of subsection (h)(1), the educational institution or owner may submit to the applicable State approving agency or the Secretary when acting as a State approving agency an application for reinstatement of approval under this subsection.
 
 (2) Approval under this chapter may not be reinstated under this subsection until—
 
-(A) the educational institution or owner submits to the applicable State approving agency or the Secretary when acting as a State approving agency an application for reinstatement of approval under paragraph (1);
+  (A) the educational institution or owner submits to the applicable State approving agency or the Secretary when acting as a State approving agency an application for reinstatement of approval under paragraph (1);
 
-(B) the date that is 540 days after the date of the most recent suspension or revocation described in paragraph (1) of the educational institution or owner;
+  (B) the date that is 540 days after the date of the most recent suspension or revocation described in paragraph (1) of the educational institution or owner;
 
-(C) the educational institution submits a report by an approved third-party auditor on the advertising and enrollment practices of the educational institution, including those of its third-party contractors;
+  (C) the educational institution submits a report by an approved third-party auditor on the advertising and enrollment practices of the educational institution, including those of its third-party contractors;
 
-(D) procedures are in place to prevent any future violation of subsection (a), (c), or (d);
+  (D) procedures are in place to prevent any future violation of subsection (a), (c), or (d);
 
-(E) that [sic] the educational institution has met all factors set forth in subsection (h)(2); and
+  (E) that the educational institution has met all factors set forth in subsection (h)(2); and
 
-(F) the Secretary agrees to such reinstatement.
+  (F) the Secretary agrees to such reinstatement.
 
-(k) Rule of Construction Regarding State Approving Agencies and Risk-based Surveys.—Nothing in this section shall be construed to prohibit a State approving agency from conducting any risk-based survey the State approving agency considers appropriate at any educational institution that it considers appropriate for oversight purposes.
+**(k) Rule of Construction Regarding State Approving Agencies and Risk-based Surveys.—** Nothing in this section shall be construed to prohibit a State approving agency from conducting any risk-based survey the State approving agency considers appropriate at any educational institution that it considers appropriate for oversight purposes.
 
-(l) Definitions.—In this section:
+**(l) Definitions.—** In this section:
 
 (1) The term “approved third-party auditor” means an independent third-party auditor that is approved by the Secretary for purposes of third-party audits under this section.
 
 (2) The term “risk-based survey” means the risk-based survey developed under [section 3673A of this title](./chapter-036-administration-of-educational-benefits.md#section-3673a).
 
-See 2021 Amendment note below.
+### Statutory Notes
 
 #### Amendments
 2021—Pub. L. 116–315 amended section generally. Prior to amendment, section related to limitation on certain advertising, sales, and enrollment practices.
+
+Subsec. (c). Pub. L. 117–76 designated existing provisions as par. (1), inserted “, except for the recruitment of foreign students residing in foreign countries who are not eligible to receive Federal student assistance” after “assistance”, and added par. (2).
+
+Subsec. (g)(4)(A)(iii)(III). Pub. L. 117–16 substituted “paragraph (3)” for “paragraph (3)(B) of this subsection”.
 
 2013—Subsec. (d). Pub. L. 112–249 added subsec. (d).
 
@@ -3218,11 +3400,17 @@ The date of the enactment of this section, referred to in subsec. (c), is the da
 
     (x) the information regarding the institution’s policies related to transfer of credit from other institutions, as required under section 485(h)(1) of the Higher Education Act of 1965 ([20 U.S.C. 1092(h)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1092/h/1&num=0&edition=prelim)) and provided to the Secretary of Education under section 132(i)(1)(V)(iv) of such Act ([20 U.S.C. 1015a(i)(1)(V)(iv)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1015a/i/1/V/iv&num=0&edition=prelim));
 
-    (xi) information on whether the institution administers a priority enrollment system that allows certain student veterans to enroll in courses earlier than other students; and
+    (xi) information on whether the institution administers a priority enrollment system that allows certain student veterans to enroll in courses earlier than other students;
 
-    (xii) information on whether the institution requires a covered individual to take additional action pursuant to [section 3679(e)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3679/e/4&num=0&edition=prelim) to stay enrolled in a course pending receipt of educational assistance under a law administered by the Secretary.
+    (xii) information on whether the institution requires a covered individual to take additional action pursuant to [section 3679(e)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3679/e/4&num=0&edition=prelim) to stay enrolled in a course pending receipt of educational assistance under a law administered by the Secretary;
 
-(2) To the extent practicable, the Secretary shall provide the information described in paragraph (1) by including hyperlinks on the Internet website of the Department to other Internet websites that contain such information, including the Internet website of the Department of Education, in a form that is comprehensive and easily understood by veterans, members of the Armed Forces, and other individuals.
+    (xiii) 11 See Applicability of Amendment note below. whether the institution is listed on the College Navigator website as affiliated with a religion and, if so, which religious denomination;
+
+    (xiv) 1 whether the Secretary of Education or other head of a department or agency of the Federal Government has determined that the institution is a minority serving institution and, if so, which one or more types of minority serving institutions; and
+
+    (xv) 1 whether the institution is gender specific.
+
+(2) To the extent practicable, the Secretary shall provide the information described in paragraph (1) by including hyperlinks on the Internet website of the Department to other Internet websites that contain such information, including the Internet website of the Department of Education, in a form that is comprehensive and easily understood by veterans, members of the Armed Forces, and other individuals. To the extent practicable, the Secretary shall ensure that such information is provided in a searchable format.1
 
 (3)
 
@@ -3244,7 +3432,28 @@ The date of the enactment of this section, referred to in subsec. (c), is the da
 
 (2) The term “postsecondary education and training opportunities” means any postsecondary program of education, including apprenticeships and on-job training, for which the Secretary of Veterans Affairs provides assistance to a veteran or member of the Armed Forces.
 
+(3) 1 The term “College Navigator website” has the meaning given that term in section 132 of the Higher Education Act 22 So in original. Probably should be followed by “of 1965”. ([20 U.S.C. 1015a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1015a&num=0&edition=prelim)).
+
+(4) 1 The term “minority serving institution” means any of the following:
+
+  (A) A part B institution, as such term is defined in section 322(2) of the Higher Education Act 2 ([20 U.S.C. 1061(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1061/2&num=0&edition=prelim)).
+
+  (B) A Hispanic-serving institution, as such term is defined in section 502(a)(5) of such Act ([20 U.S.C. 1101a(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1101a/5&num=0&edition=prelim)).
+
+  (C) A Tribal College or University, as such term is defined in section 316(b)(3) of such Act ([20 U.S.C. 1059c(b)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1059c/b/3&num=0&edition=prelim)).
+
+  (D) A predominantly Black institution, as such term is defined in section 318(b)(6) of such Act ([20 U.S.C. 1059e(b)(6)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1059e/b/6&num=0&edition=prelim)).
+
+  (E) A Native American-serving, nontribal institution, as such term is defined in section 319(b)(2) of such Act ([20 U.S.C. 1059f(b)(6)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1059f/b/6&num=0&edition=prelim)).
+
+  (F) An Alaska Native-serving institution or Native Hawaiian-serving institution, as such terms are defined in section 317(b) of such Act ([20 U.S.C. 1059d(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1059d/b&num=0&edition=prelim)).
+
+  (G) An Asian American and Native American Pacific Islander-serving institution, as such term is defined in section 320(b) of such Act ([20 U.S.C. 1059g(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1059g/b&num=0&edition=prelim)).
+
 ### Statutory Notes
+
+#### Applicability of Amendment
+Amendment of section by section 3(a), (b) of Pub. L. 117–16 applicable with respect to the information provided under [section 3698 of title 38](./chapter-036-administration-of-educational-benefits.md#section-3698), United States Code, beginning on the date that is two years after June 8, 2021. See 2021 Amendment notes below.
 
 #### References in Text
 The Higher Education Act of 1965, referred to in subsecs. (b)(3) and (c)(1)(C)(iv), (vi), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. Subpart 2 of part H of title IV of the Act is classified generally to subpart 2 (§ 1099b) of part H of subchapter IV of chapter 28 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
@@ -3255,9 +3464,18 @@ Executive Order No. 13607, referred to in subsec. (d)(1), is set out as a note u
 A prior section 3698, added Pub. L. 93–508, title III, § 301(a), Dec. 3, 1974, 88 Stat. 1589, § 1798; amended Pub. L. 94–502, title V, §§ 502(a), 513(a)(23), Oct. 15, 1976, 90 Stat. 2399, 2403; Pub. L. 95–202, title I, § 104(3), title II, § 202, Nov. 23, 1977, 91 Stat. 1435, 1438; Pub. L. 95–476, title II, § 201, Oct. 18, 1978, 92 Stat. 1502; Pub. L. 96–466, title II, §§ 203(4), 213(4), title VI, §§ 601(h), 603(b), title VIII, § 801(g), Oct. 17, 1980, 94 Stat. 2189, 2191, 2208, 2209, 2216; Pub. L. 97–35, title XX, § 2005(d), Aug. 13, 1981, 95 Stat. 783; Pub. L. 97–295, § 4(60), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 97–306, title II, § 208, Oct. 14, 1982, 96 Stat. 1436; Pub. L. 98–543, title II, § 204(3), Oct. 24, 1984, 98 Stat. 2742; Pub. L. 100–689, title I, § 124(b), Nov. 18, 1988, 102 Stat. 4174; Pub. L. 101–237, title IV, § 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–16, § 5(a), Mar. 22, 1991, 105 Stat. 50; renumbered § 3698 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406, related to eligibility for loans under former subchapter III of this chapter, prior to repeal by Pub. L. 108–183, title III, § 306(e), (h)(2), Dec. 16, 2003, 117 Stat. 2661, effective 90 days after Dec. 16, 2003.
 
 #### Amendments
+2021—Subsec. (c)(1)(C)(xiii) to (xv). Pub. L. 117–16, § 3(a)(1), added cls. (xiii) to (xv).
+
+Subsec. (c)(2). Pub. L. 117–16, § 3(a)(2), inserted at end “To the extent practicable, the Secretary shall ensure that such information is provided in a searchable format.”
+
+Subsec. (f)(3), (4). Pub. L. 117–16, § 3(b), added pars. (3) and (4).
+
 2018—Subsec. (c)(1)(C)(xii). Pub. L. 115–407 added cl. (xii).
 
 2017—Subsec. (c)(1)(C)(xi). Pub. L. 115–48 added cl. (xi).
+
+#### Effective Date of 2021 Amendment
+Pub. L. 117–16, § 3(c), June 8, 2021, 135 Stat. 283, provided that: “The amendments made by this section [amending this section] shall apply with respect to the information provided under [section 3698 of title 38](./chapter-036-administration-of-educational-benefits.md#section-3698), United States Code, beginning on the date that is two years after the date of the enactment of this Act [June 8, 2021].”
 
 #### Survey and Report; Definitions
 Pub. L. 112–249, § 1(b)–(d), Jan. 10, 2013, 126 Stat. 2400, 2401, provided that: “(b) Survey.—In developing the policy required by [section 3698(a) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3698/a&num=0&edition=prelim), United States Code, as added by subsection (a), the Secretary of Veterans Affairs shall conduct a market survey to determine the availability of the following:“(1) A commercially available off-the-shelf online tool that allows a veteran or member of the Armed Forces to assess whether the veteran or member is academically ready to engage in postsecondary education and training opportunities and whether the veteran or member would need any remedial preparation before beginning such opportunities. “(2) A commercially available off-the-shelf online tool that provides a veteran or member of the Armed Forces with a list of providers of postsecondary education and training opportunities based on criteria selected by the veteran or member. “(c) Report.—Not later than 90 days after the date of the enactment of this Act [Jan. 10, 2013], the Secretary of Veterans Affairs shall submit to the appropriate committees of Congress a report that includes—“(1) a description of the policy developed by the Secretary under [section 3698(a) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3698/a&num=0&edition=prelim), United States Code, as added by subsection (a); “(2) a plan of the Secretary to implement such policy; and “(3) the results of the survey conducted under subsection (b), including whether the Secretary plans to implement the tools described in such subsection. “(d) Definitions.—In this section [enacting this note and this section]:“(1) Appropriate committees of congress.—The term ‘appropriate committees of Congress’ means—“(A) the Committee on Veterans’ Affairs and the Committee on Health, Education, Labor, and Pensions of the Senate; and “(B) the Committee on Veterans’ Affairs and the Committee on Education and the Workforce of the House of Representatives. “(2) Commercially available off-the-shelf.—The term ‘commercially available off-the-shelf’ has the meaning given that term in [section 104 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section104&num=0&edition=prelim), United States Code. “(3) Postsecondary education and training opportunities.—The term ‘postsecondary education and training opportunities’ means any postsecondary program of education, including apprenticeships and on-job training, for which the Secretary of Veterans Affairs provides assistance to a veteran or member of the Armed Forces.”
@@ -3273,7 +3491,7 @@ Pub. L. 112–249, § 1(b)–(d), Jan. 10, 2013, 126 Stat. 2400, 2401, provided 
 
 **(b) Educational Assistance Described.—** Subject to subsection (c), the payment of educational assistance described in this subsection is the payment of such assistance to an individual for pursuit of a course or program of education at an educational institution under chapter 30, 31, 32, 33, or 35 of this title, or chapter 1606 or 1607 of title 10, if the Secretary determines that the individual—
 
-(1) 11 See Prohibition of Charge to Entitlement of Students Unable to Pursue a Program of Education Due to an Emergency Situation note below. was unable to complete such course or program as a result of—
+(1) 11 See Prohibition of Charge to Entitlement of Students Unable To Pursue a Program of Education Due to an Emergency Situation note below. was unable to complete such course or program as a result of—
 
   (A) the closure of the educational institution; or
 
@@ -3285,11 +3503,21 @@ Pub. L. 112–249, § 1(b)–(d), Jan. 10, 2013, 126 Stat. 2400, 2401, provided 
 
 (2) did not receive credit or lost training time, toward completion of the program of education being so pursued.
 
-**(c) Period Not Charged.—** The period for which, by reason of this subsection, educational assistance is not charged against entitlement or counted toward the applicable aggregate period under [section 3695 of this title](./chapter-036-administration-of-educational-benefits.md#section-3695) shall not exceed the aggregate of—
+**(c) Period Not Charged.—**
 
-(1) the portion of the period of enrollment in the course from which the individual did not receive credit or with respect to which the individual lost training time, as determined under subsection (b)(2); and
+(1) The period for which, by reason of this subsection, educational assistance is not charged against entitlement or counted toward the applicable aggregate period under [section 3695 of this title](./chapter-036-administration-of-educational-benefits.md#section-3695) shall not exceed the aggregate of—
 
-(2) the period by which a monthly stipend is extended under [section 3680(a)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3680/a/2/B&num=0&edition=prelim).
+  (A) the portion of the period of enrollment in the course from which the individual did not receive credit or with respect to which the individual lost training time, as determined under subsection (b)(2); and
+
+  (B) the period by which a monthly stipend is extended under [section 3680(a)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3680/a/2/B&num=0&edition=prelim).
+
+(2)
+
+  (A) An individual described in subparagraph (B) who transfers fewer than 12 credits from a program of education that is closed or disapproved as described in subsection (b)(1) shall be deemed to be an individual who did not receive such credits, as described in subsection (b)(2), except that the period for which such individual’s entitlement is not charged shall be the entire period of the individual’s enrollment in the program of education. In carrying out this subparagraph, the Secretary, in consultation with the Secretary of Education, shall establish procedures to determine whether the individual transferred credits to a comparable course or program of education.
+
+  (B) An individual described in this subparagraph is an individual who is enrolled in a course or program of education closed or discontinued as described in subsection (b)(1) during the period beginning on the date that is 120 days before the date of such closure or discontinuance and ending on the date of such closure or discontinuance, as the case may be.
+
+  (C) This paragraph shall apply with respect to a course or program of education closed or discontinued before September 30, 2023.
 
 **(d) Continuing Pursuit of Disapproved Courses.—**
 
@@ -3308,23 +3536,6 @@ Pub. L. 112–249, § 1(b)–(d), Jan. 10, 2013, 126 Stat. 2400, 2401, provided 
 (2) the effect of such closure on the individual’s entitlement to educational assistance pursuant to this section.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (c)
-Pub. L. 116–315, title I, §1021, Jan. 5, 2021, 134 Stat. 4958, provided that, effective on Aug. 1, 2021, subsection (c) of this section is amended to read as follows:
-
-(c) Period Not Charged.—(1) The period for which, by reason of this subsection, educational assistance is not charged against entitlement or counted toward the applicable aggregate period under [section 3695 of this title](./chapter-036-administration-of-educational-benefits.md#section-3695) shall not exceed the aggregate of—
-
-(A) the portion of the period of enrollment in the course from which the individual did not receive credit or with respect to which the individual lost training time, as determined under subsection (b)(2); and
-
-(B) the period by which a monthly stipend is extended under [section 3680(a)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3680/a/2/B&num=0&edition=prelim).
-
-(2)(A) An individual described in subparagraph (B) who transfers fewer than 12 credits from a program of education that is closed or disapproved as described in subsection (b)(1) shall be deemed to be an individual who did not receive such credits, as described in subsection (b)(2), except that the period for which such individual’s entitlement is not charged shall be the entire period of the individual’s enrollment in the program of education. In carrying out this subparagraph, the Secretary, in consultation with the Secretary of Education, shall establish procedures to determine whether the individual transferred credits to a comparable course or program of education.
-
-(B) An individual described in this subparagraph is an individual who is enrolled in a course or program of education closed or discontinued as described in subsection (b)(1) during the period beginning on the date that is 120 days before the date of such closure or discontinuance and ending on the date of such closure or discontinuance, as the case may be.
-
-(C) This paragraph shall apply with respect to a course or program of education closed or discontinued before September 30, 2023.
-
-See 2021 Amendment note below.
 
 #### Prior Provisions
 A prior section 3699, added Pub. L. 93–508, title III, § 301(a), Dec. 3, 1974, 88 Stat. 1591, § 1799; amended Pub. L. 94–502, title V, § 513(a)(24), Oct. 15, 1976, 90 Stat. 2404; Pub. L. 97–295, § 4(61), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 101–237, title IV, § 423(b)(1), (2), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3699 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406, related to revolving fund available for making of loans under former subchapter III of this chapter, prior to repeal by Pub. L. 108–183, title III, § 306(e), Dec. 16, 2003, 117 Stat. 2661, effective 90 days after Dec. 16, 2003.
@@ -3353,7 +3564,7 @@ Pub. L. 116–315, title I, § 1107(c), Jan. 5, 2021, 134 Stat. 4966, provided t
 
 Pub. L. 116–140, § 5, Apr. 28, 2020, 134 Stat. 632, provided that: “During the covered period, the Secretary of Veterans Affairs shall apply [section 3699(b)(1) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3699/b/1&num=0&edition=prelim), United States Code, as if it were amended— “(1) in subparagraph (A), by striking ‘or’ at the end; “(2) in subparagraph (B)(ii), by striking ‘and’ at the end and inserting ‘or’ ; and “(3) by adding at the end the following new subparagraph:“ ‘(C) the temporary closure of an educational institution or the temporary closure or termination of a course or program of education by reason of an emergency situation; and’.”
 
-[The term “covered period” as used in section 5 of Pub. L. 116–140, set out above, means Mar. 1, 2020, to Dec. 21, 2020, see section 2 of Pub. L. 116–140, set out as a note under [section 3031 of this title](./chapter-030-all-volunteer-force-educational-assistance-program.md#section-3031).]
+[The term “covered period” as used in section 5 of Pub. L. 116–140, set out above, means Mar. 1, 2020, to June 1, 2022, see section 2 of Pub. L. 116–140, set out as a note under [section 3031 of this title](./chapter-030-all-volunteer-force-educational-assistance-program.md#section-3031).]
 
 #### Restoration of Entitlement to Rehabilitation Programs for Veterans Affected by School Closure or Disapproval
 Pub. L. 116–140, § 7(a), Apr. 28, 2020, 134 Stat. 634, which provided that, during the period from Mar. 1, 2020, to Dec. 21, 2020, the Secretary of Veterans Affairs was to apply this section as if it were amended by striking “chapter 30,” each time it appeared and inserting “chapter 30, 31,”, was repealed by Pub. L. 116–315, title I, § 1007(c), Jan. 5, 2021, 134 Stat. 4940. See 2021 Amendment note above.
@@ -3380,4 +3591,6 @@ Pub. L. 115–48, title III, § 308(c), Aug. 16, 2017, 131 Stat. 994, provided t
 ### Statutory Notes
 
 #### Effective Date
-Pub. L. 116–315, title I, § 1022(c), Jan. 5, 2021, 134 Stat. 4959, provided that: “[Section 3699B of title 38](./chapter-036-administration-of-educational-benefits.md#section-3699b), United States Code, as added by subsection (a), shall apply with respect to the conversion of a for-profit educational institution to a nonprofit educational institution that occurs on or after the date of the enactment of this Act [Jan. 5, 2021].”
+Pub. L. 116–315, title I, § 1022(c), Jan. 5, 2021, 134 Stat. 4959, as amended by Pub. L. 117–16, § 5(a), June 8, 2021, 135 Stat. 283, provided that: “[Section 3699B of title 38](./chapter-036-administration-of-educational-benefits.md#section-3699b), United States Code, as added by subsection (a), shall apply with respect to the conversion of a for-profit educational institution to a nonprofit educational institution, or the conversion of a for-profit educational institution to a public educational institution, that occurs on or after the date of the enactment of this Act [Jan. 5, 2021].”
+
+[Pub. L. 117–16, § 5(b), June 8, 2021, 135 Stat. 283, provided that: “The amendment made by subsection (a) [amending section 1022(c) of Pub. L. 116–315, set out above] shall apply as if included in the enactment of the Johnny Isakson and David P. Roe, M.D. Veterans Health Care and Benefits Improvement Act of 2020 (Public Law 116–315).” ]

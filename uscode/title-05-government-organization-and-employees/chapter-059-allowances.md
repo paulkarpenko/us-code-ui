@@ -294,9 +294,6 @@ Standard changes are made to conform with the definitions applicable and the sty
 #### References in Text
 For definition of Canal Zone, referred to in text, see [section 3602(b) of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3602/b&num=0&edition=prelim), Foreign Relations and Intercourse.
 
-#### Termination of Trust Territory of the Pacific Islands
-For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
-
 #### Limitation on Housing Benefits
 Pub. L. 101–246, title I, § 156, Feb. 16, 1990, 104 Stat. 46, provided that: “(a) In General.—The Secretary of State shall establish and implement an appropriate housing policy and space standards in consultation with all agencies with employees outside the United States who are under the authority of the chief of mission or with other agencies or employees who participate in the overseas housing program. Such policy may not provide housing or related benefits based solely on the representational status of the employee, except if such individual is the ambassador, deputy chief of mission, permanent charge, or the consul general when serving as the principal officer. “(b) Waiver.—The Secretary of State may grant exceptions to the restriction on providing housing or related benefits on a representational basis under subsection (a) on a case-by-case basis where a documented need for such exception is established. The Secretary of State shall prepare a comprehensive list annually of all such exceptions granted under this subsection.”
 
@@ -311,6 +308,9 @@ Pub. L. 86–707, title V, § 521, Sept. 6, 1960, 74 Stat. 802, provided that: �
 
 #### Transitional Provisions for Payment of Allowances and Differentials
 Pub. L. 86–707, title V, § 522, Sept. 6, 1960, 74 Stat. 802, provided that: “Notwithstanding any provision of this Act [enacting chapter 37 of former title 5 (now covered by this subchapter), amending other sections as shown in the Tables, and enacting provisions set out as notes under this section and [section 912 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section912&num=0&edition=prelim), Internal Revenue Code] and until such time as regulations are issued under this Act, employees shall continue to be paid allowances and differentials in accordance with rules and regulations issued pursuant to the laws in effect immediately prior to the enactment of this Act [Sept. 6, 1960] and such rules and regulations may be amended or revoked in accordance with the provision of such laws.”
+
+#### Termination of Trust Territory of the Pacific Islands
+For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
 
 #### Ex. Ord. No. 10903. Delegation of Regulatory Authority
 Ex. Ord. No. 10903, Jan. 11, 1961, 26 F.R. 217, as amended by Ex. Ord. No. 11228, June 14, 1965, 30 F.R. 7739; Ex. Ord. No. 11230, June 28, 1965, 30 F.R. 8447; Ex. Ord. No. 11380, Nov. 8, 1967, 32 F.R. 15627; Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055; Ex. Ord. No. 12292, Feb. 23, 1981, 46 F.R. 13967; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617, provided:
@@ -940,6 +940,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Effective Date of 1971 Amendment
 Pub. L. 91–656, § 6(b), Jan. 8, 1971, 84 Stat. 1954, provided that: “Notwithstanding [section 5536 of title 5](./chapter-055-pay-administration.md#section-5536), United States Code, and the amendment made by subsection (a) of this section [amending this section], and until the effective date of regulations prescribed by the President under such amendment— “(1) allowances may be paid to employees under [section 5942 of title 5](./chapter-059-allowances.md#section-5942), United States Code, and the regulations prescribed by the President under such section, as in effect immediately prior to the effective date of this section [Jan. 8, 1971]; and “(2) such regulations may be amended or revoked in accordance with such section 5942 as in effect immediately prior to the effective date of this section [Jan. 8, 1971].”
+
+#### Increase in Allowance Based on Duty at Remote Worksites
+Pub. L. 117–81, div. A, title XI, § 1116, Dec. 27, 2021, 135 Stat. 1955, provided that: “(a) Assessment and Rate.—Not later than March 31, 2022, the Director of the Office of Personnel Management shall complete an assessment of the remote site pay allowance under [section 5942 of title 5](./chapter-059-allowances.md#section-5942), United States Code, and propose a new rate of such allowance, adjusted for inflation, and submit such assessment and rate to the President and to Congress. “(b) Application.—Beginning on the first day of the first pay period beginning after the date the Director submits the assessment and rate under subsection (a), such rate shall, notwithstanding subsection (a) of such section 5942, be the rate of such allowance.”
 
 #### Delegation of Functions
 Authority of President under this section to prescribe regulations establishing rates at which an allowance based on duty (except temporary duty) at remote worksites will be paid and defining and designating sites, areas, and groups of positions to which rates apply delegated to Office of Personnel Management, see section 8(3) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.

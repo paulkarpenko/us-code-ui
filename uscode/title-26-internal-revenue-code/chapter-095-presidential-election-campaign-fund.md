@@ -576,7 +576,7 @@ Amendment by Pub. L. 93–443 applicable with respect to taxable years beginning
 ### Statutory Notes
 
 #### Constitutionality
-For information regarding constitutionality of certain provisions of this section, as added by section 801 of Pub. L. 92–178, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For information regarding constitutionality of certain provisions of this section, as added by section 801 of Pub. L. 92–178, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
 
 #### Amendments
 2014—Subsec. (a)(1). Pub. L. 113–94, § 2(c)(2)(A), struck out at end “It shall be unlawful for the national committee of a major party or minor party knowingly and willfully to incur expenses with respect to a presidential nominating convention in excess of the expenditure limitation applicable with respect to such committee under section 9008(d), unless the incurring of such expenses is authorized by the Commission under section 9008(d)(3).”

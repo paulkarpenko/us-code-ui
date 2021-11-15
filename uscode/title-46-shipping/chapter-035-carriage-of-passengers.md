@@ -2,7 +2,7 @@
 title: 46
 chapter: '35'
 heading: CARRIAGE OF PASSENGERS
-section_count: 8
+section_count: 10
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46&num=0&edition=prelim
 ---
@@ -256,9 +256,63 @@ Section 3506 requires the master of a passenger vessel to keep on board a copy o
 
 **(b) Video Recording.—**
 
-(1) **Requirement to maintain surveillance.—** — The owner of a vessel to which this section applies shall maintain a video surveillance system to assist in documenting crimes on the vessel and in providing evidence for the prosecution of such crimes, as determined by the Secretary.
+(1) **Requirement to maintain surveillance.—**
 
-(2) **Access to video records.—** — The owner of a vessel to which this section applies shall provide to any law enforcement official performing official duties in the course and scope of an investigation, upon request, a copy of all records of video surveillance that the official believes may provide evidence of a crime reported to law enforcement officials.
+  (A) *In general.—* — The owner of a vessel to which this section applies shall maintain a video surveillance system to assist in documenting crimes on the vessel and in providing evidence for the prosecution of such crimes.
+
+  (B) *Placement of video surveillance equipment.—*
+
+    (i) *In general.—* — Not later than 18 months after the date of the enactment of the Elijah E. Cummings Coast Guard Authorization Act of 2020, the Commandant in consultation with other relevant Federal agencies or entities as determined by the Commandant, shall establish guidance for performance of the risk assessment described in paragraph (2) regarding the appropriate placement of video surveillance equipment in passenger and crew common areas where there is no reasonable expectation of privacy.
+
+    (ii) *Risk assessment.—* — Not later than 1 year after the Commandant establishes the guidance described in paragraph (1), the owner shall conduct the risk assessment required under paragraph (1) and shall—
+
+      (I) evaluate the placement of video surveillance equipment to deter, prevent, and record a sexual assault aboard the vessel considering factors such as: ship layout and design, itinerary, crew complement, number of passengers, passenger demographics, and historical data on the type and location of prior sexual assault incident allegations;
+
+      (II) incorporate to the maximum extent practicable the video surveillance guidance established by the Commandant regarding the appropriate placement of video surveillance equipment;
+
+      (III) arrange for the risk assessment to be conducted by an independent third party with expertise in the use and placement of camera surveillance to deter, prevent and record criminal behavior; and
+
+      (IV) the independent third party referred to in paragraph (C) shall be a company that has been accepted by a classification society that is a member of the International Association of Classification Societies (hereinafter referred to as “IACS”) or another classification society recognized by the Secretary as meeting acceptable standards for such a society pursuant to section 3316(b).
+
+  (C) *Surveillance plan.—* — Not later than 180 days after completion of the risk assessment conducted under subparagraph (B)(ii), the owner of a vessel shall develop a plan to install video surveillance equipment in places determined to be appropriate in accordance with the results of the risk assessment conducted under subparagraph (B)(ii), except in areas where a person has a reasonable expectation of privacy. Such plan shall be evaluated and approved by an independent third party with expertise in the use and placement of camera surveillance to deter, prevent and record criminal behavior that has been accepted as set forth in paragraph (2)(D).
+
+  (D) *Installation.—* — The owner of a vessel to which this section applies shall, consistent with the surveillance plan approved under subparagraph (C), install appropriate video surveillance equipment aboard the vessel not later than 2 years after approval of the plan, or during the next scheduled drydock, whichever is later.
+
+  (E) *Attestation.—* — At the time of initial installation under subparagraph (D), the vessel owner shall obtain written attestations from—
+
+    (i) an IACS classification society that the video surveillance equipment is installed in accordance with the surveillance plan required under subparagraph (C); and
+
+    (ii) the company security officer that the surveillance equipment and associated systems are operational, which attestation shall be obtained each year thereafter.
+
+  (F) *Updates.—* — The vessel owner shall ensure the risk assessment described in subparagraph (B)(ii) and installation plan in subparagraph (C) are updated not later than 5 years after the initial installation conducted under subparagraph (D), and every 5 years thereafter. The updated assessment and plan shall be approved by an independent third party with expertise in the use and placement of camera surveillance to deter, prevent, and record criminal behavior that has been accepted by an IACS classification society. The vessel owner shall implement the updated installation plan not later than 180 days after approval.
+
+  (G) *Availability.—* — Each risk assessment, installation plan and attestation shall be protected from disclosure under the Freedom of Information Act, [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim) but shall be available to the Coast Guard—
+
+    (i) upon request, and
+
+    (ii) at the time of the certificate of compliance or certificate of inspection examination.
+
+  (H) *Definitions.—* — For purposes of this section a “ship security officer” is an individual that, with the master’s approval, has full responsibility for vessel security consistent with the International Ship and Port Facility Security Code.
+
+(2) **Notice of video surveillance.—** — The owner of a vessel to which this section applies shall provide clear and conspicuous signs on board the vessel notifying the public of the presence of video surveillance equipment.
+
+(3) **Access to video records.—**
+
+  (A) *Law enforcement.—* — The owner of a vessel to which this section applies shall provide to any law enforcement official performing official duties in the course and scope of an investigation, upon request, a copy of all records of video surveillance that the official believes may provide evidence of a crime reported to law enforcement officials.
+
+  (B) *Civil actions.—* — Except as proscribed by law enforcement authorities or court order, the owner of a vessel to which this section applies shall, upon written request, provide to any individual or the individual’s legal representative a copy of all records of video surveillance—
+
+    (i) in which the individual is a subject of the video surveillance; and
+
+    (ii) that may provide evidence of any sexual assault incident in a civil action.
+
+  (C) *Limited access.—* — The owner of a vessel to which this section applies shall ensure that access to records of video surveillance is limited to the purposes described in this paragraph.
+
+(4) **Retention requirements.—** — The owner of a vessel to which this section applies shall retain all records of video surveillance for not less than 20 days after the footage is obtained. The vessel owner shall include a statement in the security guide required by subsection (c)(1)(A) that the vessel owner is required by law to retain video surveillance footage for the period specified in this paragraph. If an incident described in subsection (g)(3)(A)(i) is alleged and reported to law enforcement, all records of video surveillance from the voyage that the Federal Bureau of Investigation determines are relevant shall—
+
+  (A) be provided to the Federal Bureau of Investigation; and
+
+  (B) be preserved by the vessel owner for not less than 4 years from the date of the alleged incident.
 
 **(c) Safety Information.—**
 
@@ -437,11 +491,9 @@ Section 3506 requires the master of a passenger vessel to keep on board a copy o
 
   (A) is authorized to carry at least 250 passengers;
 
-  (B) has onboard sleeping facilities for each passenger;
+  (B) has onboard sleeping facilities for each passenger; and
 
-  (C) is on a voyage that embarks or disembarks passengers in the United States; and
-
-  (D) is not engaged on a coastwise voyage.
+  (C) is on a voyage that embarks or disembarks passengers in the United States.
 
 (2) **Federal and state vessels.—** — This section and section 3508 do not apply to a vessel of the United States operated by the Federal Government or a vessel owned and operated by a State.
 
@@ -452,7 +504,19 @@ Section 3506 requires the master of a passenger vessel to keep on board a copy o
 #### References in Text
 The date of enactment of the Cruise Vessel Security and Safety Act of 2010, referred to in subsec. (a)(1)(C), is the date of enactment of Pub. L. 111–207, which was approved July 27, 2010.
 
+The date of the enactment of the Elijah E. Cummings Coast Guard Authorization Act of 2020, referred to in subsec. (b)(1)(B)(i), is the date of enactment of div. G of Pub. L. 116–283, which was approved Jan. 1, 2021.
+
 #### Amendments
+2021—Subsec. (b)(1). Pub. L. 116–283, § 8440(a), designated existing provisions as subpar. (A), inserted heading, struck out “, as determined by the Secretary” before the period, and added subpars. (B) to (H).
+
+Subsec. (b)(2). Pub. L. 116–283, § 8440(b)(2), added par. (2). Former par. (2) redesignated (3).
+
+Subsec. (b)(3). Pub. L. 116–283, § 8440(b)(1), (3), redesignated par. (2) as (3), designated existing provisions as subpar. (A), inserted heading, and added subpars. (B) and (C).
+
+Subsec. (b)(4). Pub. L. 116–283, § 8440(c)(1), added par. (4).
+
+Subsec. (k)(1)(D). Pub. L. 116–283, § 8311, struck out subpar. (D) which read as follows: “is not engaged on a coastwise voyage.”
+
 2018—Subsec. (a)(3). Pub. L. 115–232, § 3543(a)(1), struck out par. (3) which related to effective date of par. (1) requirements.
 
 Subsec. (e)(2). Pub. L. 115–232, § 3543(a)(2), substituted “services as confidential” for “services confidential”.
@@ -470,6 +534,9 @@ Subsec. (g)(3)(A)(iii). Pub. L. 113–281, § 321(a)(2), substituted “Internet
 Subsec. (g)(4)(A). Pub. L. 113–281, § 321(b)(1), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “The Secretary shall maintain a statistical compilation of all incidents described in paragraph (3)(A)(i) on an Internet site that provides a numerical accounting of the missing persons and alleged crimes recorded in each report filed under paragraph (3)(A)(i) that are no longer under investigation by the Federal Bureau of Investigation. The data shall be updated no less frequently than quarterly, aggregated by cruise line, each cruise line shall be identified by name, and each crime shall be identified as to whether it was committed by a passenger or a crew member.”
 
 Subsec. (g)(4)(B). Pub. L. 113–281, § 321(b)(2), substituted “Secretary of Transportation” for “Secretary”.
+
+#### Administrative Provisions
+Pub. L. 116–283, div. G, title LVXXXIV [LXXXIV], § 8440(c)(2), Jan. 1, 2021, 134 Stat. 4742, provided that: “(A) Study and report.—Each owner of a vessel to which [section 3507 of title 46](./chapter-035-carriage-of-passengers.md#section-3507), United States Code, applies shall, not later than March 1, 2023, submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report detailing the total number of voyages for the preceding year and the percentage of those voyages that were 30 days or longer. “(B) Interim standards.—Not later than 180 days after the date of enactment of this Act [Jan. 1, 2021], the Commandant [of the Coast Guard], in consultation with the Federal Bureau of Investigation, shall promulgate interim standards for the retention of records of video surveillance. “(C) Final standards.—Not later than 1 year after the date of enactment of this Act, the Commandant, in consultation with the Federal Bureau of Investigation, shall promulgate final standards for the retention of records of video surveillance. “(D) Considerations.—In promulgating standards under subparagraphs (B) and (B) [probably should be ‘(C)’], the Commandant shall—“(i) consider factors that would aid in the investigation of serious crimes, including the results of the report by the Commandant provided under subparagraph (A), as well as crimes that go unreported until after the completion of a voyage; “(ii) consider the different types of video surveillance systems and storage requirements in creating standards both for vessels currently in operation and for vessels newly built; “(iii) consider privacy, including standards for permissible access to and monitoring and use of the records of video surveillance; and “(iv) consider technological advancements, including requirements to update technology.”
 
 #### Findings
 Pub. L. 111–207, § 2, July 27, 2010, 124 Stat. 2243, provided that: “The Congress makes the following findings: “(1) There are approximately 200 overnight ocean-going cruise vessels worldwide. The average ocean-going cruise vessel carries 2,000 passengers with a crew of 950 people. “(2) In 2007 alone, approximately 12,000,000 passengers were projected to take a cruise worldwide. “(3) Passengers on cruise vessels have an inadequate appreciation of their potential vulnerability to crime while on ocean voyages, and those who may be victimized lack the information they need to understand their legal rights or to know whom to contact for help in the immediate aftermath of the crime. “(4) Sexual violence, the disappearance of passengers from vessels on the high seas, and other serious crimes have occurred during luxury cruises. “(5) Over the last 5 years, sexual assault and physical assaults on cruise vessels were the leading crimes investigated by the Federal Bureau of Investigation with regard to cruise vessel incidents. “(6) These crimes at sea can involve attacks both by passengers and crewmembers on other passengers and crewmembers. “(7) Except for United States flagged vessels, or foreign flagged vessels operating in an area subject to the direct jurisdiction of the United States, there are no Federal statutes or regulations that explicitly require cruise lines to report alleged crimes to United States Government officials. “(8) It is not known precisely how often crimes occur on cruise vessels or exactly how many people have disappeared during ocean voyages because cruise line companies do not make comprehensive, crime-related data readily available to the public. “(9) Obtaining reliable crime-related cruise data from governmental sources can be difficult, because multiple countries may be involved when a crime occurs on the high seas, including the flag country for the vessel, the country of citizenship of particular passengers, and any countries having special or maritime jurisdiction. “(10) It can be difficult for professional crime investigators to immediately secure an alleged crime scene on a cruise vessel, recover evidence of an onboard offense, and identify or interview potential witnesses to the alleged crime. “(11) Most cruise vessels that operate into and out of United States ports are registered under the laws of another country, and investigations and prosecutions of crimes against passengers and crewmembers may involve the laws and authorities of multiple nations. “(12) The Department of Homeland Security has found it necessary to establish 500-yard security zones around cruise vessels to limit the risk of terrorist attack. Recently piracy has dramatically increased throughout the world. “(13) To enhance the safety of cruise passengers, the owners of cruise vessels could upgrade, modernize, and retrofit the safety and security infrastructure on such vessels by installing peep holes in passenger room doors, installing security video cameras in targeted areas, limiting access to passenger rooms to select staff during specific times, and installing acoustic hailing and warning devices capable of communicating over distances.”
@@ -512,3 +579,39 @@ Subsec. (f). Pub. L. 115–232, § 3543(b)(3), redesignated subsec. (f) as (e).
 
 #### Definitions
 For definition of “owner” as used in this section, see section 3507(l) of this title.
+
+
+<a id="section-3509"></a>
+## § 3509. Medical standards
+
+The owner of a vessel to which section 3507 applies shall ensure that—
+
+(1) a physician is always present and available to treat any passengers who may be on board the vessel in the event of an emergency situation;
+
+(2) the vessel is in compliance with the Health Care Guidelines for Cruise Ship Medical Facilities established by the American College of Emergency Physicians; and
+
+(3) the initial safety briefing given to the passengers on board the vessel includes—
+
+  (A) the location of the vessel’s medical facilities; and
+
+  (B) the appropriate steps passengers should follow during a medical emergency.
+
+
+<a id="section-3510"></a>
+## § 3510. Additional medical and safety standards
+**(a) Automated External Defibrillators.—** Not later than 1 year after the date of enactment of this section, the Secretary, in consultation with the Secretary of Health and Human Services and other appropriate Federal agencies, shall promulgate regulations to—
+
+(1) require that the owner of a vessel to which section 3507 applies install, and maintain in working order, automated external defibrillators on such vessel;
+
+(2) require that such defibrillators be placed throughout such vessel in clearly designated locations;
+
+(3) require that such defibrillators are available for passenger and crew access in the event of an emergency; and
+
+(4) require that automated external defibrillators, or adjacent equipment, allow passengers and crew to easily contact medical staff of the vessel.
+
+**(b) Definition of Owner.—** In this section, the term “owner” has the meaning given such term in section 3507.
+
+### Statutory Notes
+
+#### References in Text
+The date of enactment of this section, referred to in subsec. (a), is the date of enactment of Pub. L. 117–14, which was approved May 24, 2021.

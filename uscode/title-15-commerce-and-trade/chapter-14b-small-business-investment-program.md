@@ -1096,9 +1096,6 @@ Pub. L. 96–221, title V, § 529, Mar. 31, 1980, 94 Stat. 168, provided in part
 #### Effect of Small Business Equity Enhancement Act of 1992 on Securities Laws
 Nothing in amendment by Pub. L. 102–366 to be construed to affect applicability of securities laws or to otherwise supersede or limit jurisdiction of Securities and Exchange Commission, see section 418 of Pub. L. 102–366, set out as a note under [section 661 of this title](./chapter-14b-small-business-investment-program.md#section-661).
 
-#### Transfer of Functions
-Bureau of the Budget designated as Office of Management and Budget and Offices of Director, Deputy Director, and Assistant Directors of Bureau of the Budget designated Director, Deputy Director, and Assistant Directors of Office of Management and Budget, respectively. Records, property, personnel, and funds of Bureau of the Budget transferred to Office of Management and Budget. See Part I of Reorganization Plan 2 of 1970, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Choice of Highest Applicable Interest Rate
 In any case in which one or more provisions of, or amendments made by, title V of Pub. L. 96–221, [section 1735f–7a of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1735f–7a&num=0&edition=prelim), Banks and Banking, or any other provisions of law, including [section 85 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section85&num=0&edition=prelim), apply with respect to the same loan, mortgage, credit sale, or advance, such loan, mortgage, credit sale, or advance may be made at the highest applicable rate, see section 528 of Pub. L. 96–221, set out as a note under [section 1735f–7a of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1735f–7a&num=0&edition=prelim).
 
@@ -1107,6 +1104,9 @@ Pub. L. 96–161, title II, § 213, Dec. 28, 1979, 93 Stat. 1240, provided that 
 
 #### Definition of “State”
 For purposes of subsec. (i) of this section, the term “State” to include the several States, the Commonwealth of Puerto Rico, the District of Columbia, Guam, the Trust Territories of the Pacific Islands, the Northern Mariana Islands, and the Virgin Islands, see section 527 of Pub. L. 96–221, set out as a note under [section 1735f–7a of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1735f–7a&num=0&edition=prelim), Banks and Banking.
+
+#### Transfer of Functions
+Bureau of the Budget designated as Office of Management and Budget and Offices of Director, Deputy Director, and Assistant Directors of Bureau of the Budget designated Director, Deputy Director, and Assistant Directors of Office of Management and Budget, respectively. Records, property, personnel, and funds of Bureau of the Budget transferred to Office of Management and Budget. See Part I of Reorganization Plan 2 of 1970, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-687a"></a>
@@ -3431,7 +3431,7 @@ See 2020 Amendment note below.
 #### Amendments
 2020—Subsecs. (e), (f). Pub. L. 116–260, § 328(b)(2), added subsec. (e) and struck out former subsec. (e), which related to express loan authority of a local development company designated as an accredited lender, and subsec. (f), which defined terms “accredited lender certified company”, “covered loan”, and “qualified State or local development company” in this section.
 
-Pub. L. 116–260, § 328(b)(1), added subsecs. (e) and (f) and struck out former subsec. (e), which defined “qualified State or local development company” for purposes of this section.
+Pub. L. 116–260, § 328(b)(1), added subsecs. (e) and (f) and struck out former subsec. (e) which defined “qualified State or local development company” for purposes of this section.
 
 #### Effective Date of 2020 Amendment
 Pub. L. 116–260, div. N, title III, § 328(b)(2), Dec. 27, 2020, 134 Stat. 2040, provided in part that the amendment made by section 328(b)(2) is effective on Sept. 30, 2023.

@@ -7,129 +7,139 @@ source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33&num=0&edition=prelim
 ---
 <a id="section-2001-to-2038"></a>
-## § 2001 to 2038. Rivers and harbors and other waterways projects for benefit of navigation, flood control, hurricane protection, beach erosion control, and other purposes
-**(a) Congressional declaration of policy; purchase of indebtedness and loans to local interests to meet contribution requirements** In the prosecution of projects for rivers and harbors and other waterways for the benefit of navigation, the control of destructive flood waters, hurricane protection, beach erosion control, and for other purposes, authorized to be prosecuted under the direction of the Secretary of the Army under the supervision of the Chief of Engineers in accordance with plans adopted and authorized by the Congress, it is hereby declared to be the policy of the Congress, that whenever such projects are located wholly or partially within an area which is eligible for financial assistance under the Public Works and Economic Development Act of 1965 [[42 U.S.C. 3121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3121&num=0&edition=prelim) et seq.], the Secretary of Commerce is authorized to purchase evidences of indebtedness and to make loans for a period not exceeding fifty years to enable responsible local interests to meet the requirements of local cooperation pertaining to contributions toward the cost of construction of such projects within such areas.
-
-**(b) Authorization of appropriations** There is hereby authorized to be appropriated to carry out this section, not to exceed $10,000,000 per fiscal year for the fiscal year ending June 30, 1966, and for each fiscal year thereafter through and including the fiscal year ending June 30, 1970.
+## § 2001 to 2038. Repealed. Pub. L. 108–293, title III, § 303(a), (c), Aug. 9, 2004, 118 Stat. 1042
 
 ### Statutory Notes
 
-#### References in Text
-The Public Works and Economic Development Act of 1965, referred to in subsec. (a), is Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, as amended, which is classified generally to chapter 38 (§ 3121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 3121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3121&num=0&edition=prelim) and Tables.
+Section 2001, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3415; Pub. L. 102–241, § 21(1), Dec. 19, 1991, 105 Stat. 2217; Pub. L. 102–587, title V, § 5206[(1)], Nov. 4, 1992, 106 Stat. 5074, related to Rule 1, application of rules for navigation of inland waters of the United States and Canadian waters of the Great Lakes.
 
-#### Codification
-Section was formerly classified to [section 3142a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3142a&num=0&edition=prelim), The Public Health and Welfare.
+Section 2002, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3416, related to Rule 2, responsibility for compliance and departure from rules to avoid immediate danger.
 
-Section was not enacted as part of the Water Resources Development Act of 1986 which comprises this chapter.
+Section 2003, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3416; Pub. L. 100–448, § 14(1), Sept. 28, 1988, 102 Stat. 1844, related to Rule 3, definitions.
+
+Section 2004, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3417, related to Rule 4, application of steering and sailing rules in any condition of visibility.
+
+Section 2005, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3418, related to Rule 5, proper look-out.
+
+Section 2006, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3418, related to Rule 6, safe speed.
+
+Section 2007, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3418, related to Rule 7, risk of collision.
+
+Section 2008, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3419; Pub. L. 102–241, § 21(2), Dec. 19, 1991, 105 Stat. 2217, related to Rule 8, action to avoid collision.
+
+Section 2009, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3419; Pub. L. 104–324, title VII, § 701(1), Oct. 19, 1996, 110 Stat. 3932, related to Rule 9, narrow channels.
+
+Section 2010, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3420; Pub. L. 102–587, title V, § 5206(2), Nov. 4, 1992, 106 Stat. 5074, related to Rule 10, traffic separation schemes.
+
+Section 2011, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3420, related to Rule 11, application of rules of conduct of vessels in sight of one another.
+
+Section 2012, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3420, related to Rule 12, sailing vessels in sight of one another.
+
+Section 2013, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3420, related to Rule 13, overtaking vessels in sight of one another.
+
+Section 2014, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3421; Pub. L. 98–557, § 16(c), Oct. 30, 1984, 98 Stat. 2867, related to Rule 14, head-on situations for vessels in sight of one another.
+
+Section 2015, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3421; Pub. L. 104–324, title VII, § 701(2), Oct. 19, 1996, 110 Stat. 3932, related to Rule 15, crossing situations for vessels in sight of one another.
+
+Section 2016, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3421, related to Rule 16, action by give-way vessels in sight of one another.
+
+Section 2017, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3421, related to Rule 17, action by stand-on vessels in sight of one another.
+
+Section 2018, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3422, related to Rule 18, responsibilities between vessels in sight of one another.
+
+Section 2019, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3422, related to Rule 19, conduct of vessels not in sight of one another in restricted visibility.
+
+Section 2020, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3423, related to Rule 20, application of rules concerning lights and shapes.
+
+Section 2021, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3423, related to Rule 21, definitions of lights and shapes.
+
+Section 2022, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3424, related to Rule 22, visibility of lights.
+
+Section 2023, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3424; Pub. L. 104–324, title VII, § 701(3), Oct. 19, 1996, 110 Stat. 3932, related to Rule 23, lights of power-driven vessels underway.
+
+Section 2024, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3425; Pub. L. 98–557, § 16(b)(1), Oct. 30, 1984, 98 Stat. 2866; Pub. L. 104–324, title VII, § 701(4), Oct. 19, 1996, 110 Stat. 3932, related to Rule 24, lights and shapes of vessels towing or pushing another vessel.
+
+Section 2025, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3426, related to Rule 25, lights and shapes of sailing vessels underway and vessels under oars.
+
+Section 2026, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3427; Pub. L. 104–324, title VII, § 701(5), Oct. 19, 1996, 110 Stat. 3933, related to Rule 26, lights and shapes of fishing vessels.
+
+Section 2027, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3427; Pub. L. 100–448, § 14(2), (3), Sept. 28, 1988, 102 Stat. 1844, related to Rule 27, lights and shapes of vessels not under command or restricted in their ability to maneuver.
+
+Section 2028 was reserved for Rule 28.
+
+Section 2029, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3428, related to Rule 29, lights and shapes of pilot vessels.
+
+Section 2030, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3429, related to Rule 30, lights and shapes of anchored vessels and vessels aground.
+
+Section 2031, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3429, related to Rule 31, lights and shapes of seaplanes.
+
+Section 2032, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3429, related to Rule 32, definitions of sound signals.
+
+Section 2033, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3430, related to Rule 33, equipment for sound signals.
+
+Section 2034, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3430; Pub. L. 104–324, title VII, § 701(6), Oct. 19, 1996, 110 Stat. 3933, related to Rule 34, maneuvering and warning signals.
+
+Section 2035, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3431, related to Rule 35, sound signals in restricted visibility.
+
+Section 2036, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3432, related to Rule 36, signals to attract attention.
+
+Section 2037, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3432, related to Rule 37, distress signals.
+
+Section 2038, Pub. L. 96–591, § 2, Dec. 24, 1980, 94 Stat. 3432, related to Rule 38, exemptions.
+
+#### Effective Date of Repeal
+Pub. L. 108–293, title III, § 303(a), (c), Aug. 9, 2004, 118 Stat. 1042, provided that the repeal of this subchapter by section 303(a) is effective on the effective date of final regulations prescribed by the Secretary of the Department in which the Coast Guard is operating under [section 2071 of this title](./chapter-034-inland-navigational-rules.md#section-2071). Repeal effective May 17, 2010, and Inland Navigation Rules moved to 33 CFR part 83. See 75 F.R. 19544, Apr. 15, 2010.
+
+#### Short Title
+Pub. L. 96–591, § 1, Dec. 24, 1980, 94 Stat. 3415, provided: “That this Act [enacting this chapter, amending sections 151, 1604, 1605, and 1608 of this title, repealing sections 154 to 159, 171 to 183, 191, 192, 201 to 213, 221, 222, 231, 232, 241 to 244, 251 to 262, 271, 272, 281 to 295, 301 to 303, 311 to 323, 331, 341 to 356, 360, and 360a of this title and sections 526b, 526c, and 526d of former Title 46, Shipping, and enacting provisions set out as notes under this section] may be cited as the ‘Inland Navigational Rules Act of 1980’.”
 
 
 <a id="section-2071"></a>
-## § 2071. Cost limitations on projects
+## § 2071. Inland navigation rules
 
-Beginning in fiscal year 2006 and thereafter, agreements proposed for execution by the Assistant Secretary of the Army for Civil Works or the United States Army Corps of Engineers after November 19, 2005, pursuant to [section 560 of this title](./chapter-012-river-and-harbor-improvements-generally.md#section-560); section 561 11 See References in Text note below. of this title; the Civil Functions Appropriations Act, 1936, Public Law 75–208 1 ; [section 1962d–5a of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962d–5a&num=0&edition=prelim); sections 2214, 2231, and 2232 of this title; section 426i–1 1 of this title; section 701b–13 1 of this title; and any other specific project authority, shall be limited to total credits and reimbursements for all applicable projects not to exceed $100,000,000 in each fiscal year.
+The Secretary of the Department in which the Coast Guard is operating may issue inland navigation regulations applicable to all vessels upon the inland waters of the United States and technical annexes that are as consistent as possible with the respective annexes to the International Regulations.
 
 ### Statutory Notes
 
 #### References in Text
-[Section 561 of this title](./chapter-012-river-and-harbor-improvements-generally.md#section-561), referred to in text, was repealed by Pub. L. 115–270, title I, § 1166(c), Oct. 23, 2018, 132 Stat. 3798.
+The International Regulations, referred to in text, came into effect pursuant to the Convention on the International Regulations for Preventing Collisions at Sea, 1972. See International Regulations for Preventing Collisions at Sea, 1972 note under [section 1602 of this title](./chapter-030-international-regulations-for-preventing-collisions-at-sea.md#section-1602).
 
-The Civil Functions Appropriations Act, 1936, Public Law 75–208, referred to in text, may mean the War Department Civil Appropriation Act, 1938, act July 19, 1937, ch. 511, 50 Stat. 515, 518, which amended act June 22, 1936, ch. 688, § 5, by adding the proviso classified to [section 701h of this title](./chapter-015-flood-control.md#section-701h).
-
-Sections 426i–1 and 701b–13 of this title, referred to in text, were repealed by Pub. L. 113–121, title I, § 1014(c)(2), (3), June 10, 2014, 128 Stat. 1222.
-
-#### Codification
-Section was enacted as part of the Energy and Water Development Appropriations Act, 2006, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
-
-#### Prior Provisions
-Provisions similar to those in this section were contained in the following prior appropriation acts:
-
-Pub. L. 108–447, div. C, title I, § 101, Dec. 8, 2004, 118 Stat. 2941; Pub. L. 109–13, div. A, title VI, § 6005, May 11, 2005, 119 Stat. 282.
-
-Pub. L. 108–137, title I, § 101, Dec. 1, 2003, 117 Stat. 1833.
-
-Pub. L. 108–7, div. D, title I, § 101, Feb. 20, 2003, 117 Stat. 138.
-
-Pub. L. 107–66, title I, § 103, Nov. 12, 2001, 115 Stat. 493.
-
-Pub. L. 106–377, § 1(a)(2) [title I, § 102], Oct. 27, 2000, 114 Stat. 1441, 1441A–65.
-
-Pub. L. 106–60, title I, § 102, Sept. 29, 1999, 113 Stat. 487.
+#### Amendments
+2004—Pub. L. 108–293 amended section catchline and text generally. Prior to amendment, text read as follows: “The Secretary may issue regulations necessary to implement and interpret this chapter. The Secretary shall establish the following technical annexes to these Rules: Annex I, Positioning and Technical Details of Lights and Shapes; Annex II, Additional Signals for Fishing Vessels Fishing in Close Proximity; Annex III, Technical Details of Sound Appliances; and Annex IV, Distress Signals. These annexes shall be as consistent as possible with the respective annexes to the International Regulations. The Secretary may establish other technical annexes, including local pilot rules.”
 
 
 <a id="section-2072"></a>
-## § 2072. Use of other Federal funds
+## § 2072. Violations of Inland Navigational Rules
+**(a) Liability of operator for civil penalty** Whoever operates a vessel in violation of this chapter, or of any regulation issued thereunder, or in violation of a certificate of alternative compliance issued under Rule 1 is liable to a civil penalty of not more than $5,000 for each violation.
 
-The non-Federal interest for a water resources study or project may use, and the Secretary shall accept, funds provided by a Federal agency under any other Federal program, to satisfy, in whole or in part, the non-Federal share of the cost of the study or project if the Federal agency that provides the funds determines that the funds are authorized to be used to carry out the study or project.
+**(b) Liability of vessel for civil penalty; seizure of vessel** Every vessel subject to this chapter, other than a public vessel being used for noncommercial purposes, that is operated in violation of this chapter, or of any regulation issued thereunder, or in violation of a certificate of alternative compliance issued under Rule 1 is liable to a civil penalty of not more than $5,000 for each violation, for which penalty the vessel may be seized and proceeded against in the district court of the United States of any district within which the vessel may be found.
 
-### Statutory Notes
+**(c) Assessment of civil penalty by Secretary; collection** The Secretary may assess any civil penalty authorized by this section. No such penalty may be assessed until the person charged, or the owner of the vessel charged, as appropriate, shall have been given notice of the violation involved and an opportunity for a hearing. For good cause shown, the Secretary may remit, mitigate, or compromise any penalty assessed. Upon the failure of the person charged, or the owner of the vessel charged, to pay an assessed penalty, as it may have been mitigated or compromised, the Secretary may request the Attorney General to commence an action in the appropriate district court of the United States for collection of the penalty as assessed, without regard to the amount involved, together with such other relief as may be appropriate.
 
-#### Codification
-Section was enacted as part of the Water Resources Development Act of 2007, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+**(d) Withholding of clearance**
 
-#### “Secretary” Defined
-Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
+(1) If any owner, operator, or individual in charge of a vessel is liable for a penalty under this section, or if reasonable cause exists to believe that the owner, operator, or individual in charge may be subject to a penalty under this section, the Secretary of the Treasury, upon the request of the Secretary, shall with respect to such vessel refuse or revoke any clearance required by [section 60105 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section60105&num=0&edition=prelim).
 
-
-<a id="section-2073"></a>
-## § 2073. Transfer of excess credit
-**(a) Application of credit**
-
-(1) **In general** — Subject to subsection (b), the Secretary may apply credit for in-kind contributions provided by a non-Federal interest that are in excess of the required non-Federal cost share for a water resources development study or project toward the required non-Federal cost share for a different water resources development study or project.
-
-(2) **Application prior to completion of project** — On request of a non-Federal interest, the credit described in paragraph (1) may be applied prior to completion of a study or project, if the credit amount is verified by the Secretary.
-
-**(b) Restrictions**
-
-(1) **In general** — Except for subsection (a)(4)(D)(i) of that section, the requirements of [section 1962d–5b of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962d–5b&num=0&edition=prelim) (as amended by section 1018(a)) shall apply to any credit under this section.
-
-(2) **Conditions** — Credit in excess of the non-Federal share for a study or project may be approved under this section only if—
-
-  (A) the non-Federal interest submits a comprehensive plan to the Secretary that identifies—
-
-    (i) the studies and projects for which the non-Federal interest intends to provide in-kind contributions for credit that are in excess of the non-Federal cost share for the study or project; and
-
-    (ii) the authorized studies and projects to which that excess credit would be applied;
-
-  (B) the Secretary approves the comprehensive plan; and
-
-  (C) the total amount of credit does not exceed the total non-Federal share for the studies and projects in the approved comprehensive plan.
-
-**(c) Additional criteria** In evaluating a request to apply credit in excess of the non-Federal share for a study or project toward a different study or project, the Secretary shall consider whether applying that credit will—
-
-(1) help to expedite the completion of a project or group of projects;
-
-(2) reduce costs to the Federal Government; and
-
-(3) aid the completion of a project that provides significant flood risk reduction or environmental benefits.
-
-**(d) Termination of authority** The authority provided in this section shall terminate 10 years after June 10, 2014.
-
-**(e) Report**
-
-(1) **Deadlines**
-
-  (A) *In general* — Not later than 2 years after June 10, 2014, and once every 2 years thereafter, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and make publicly available an interim report on the use of the authority under this section.
-
-  (B) *Final report* — Not later than 10 years after June 10, 2014, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and make publicly available a final report on the use of the authority under this section.
-
-(2) **Inclusions** — The reports described in paragraph (1) shall include—
-
-  (A) a description of the use of the authority under this section during the reporting period;
-
-  (B) an assessment of the impact of the authority under this section on the time required to complete projects; and
-
-  (C) an assessment of the impact of the authority under this section on other water resources projects.
+(2) Clearance or a permit refused or revoked under this subsection may be granted upon filing of a bond or other surety satisfactory to the Secretary.
 
 ### Statutory Notes
 
 #### References in Text
-Section 1018(a), referred to in subsec. (b)(1), means section 1018(a) of Pub. L. 113–121.
+Rule 1, referred to in pars. (a) and (b), was classified to [section 2001 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2001&num=0&edition=prelim), prior to repeal by Pub. L. 108–293, title III, § 303(a), (c), Aug. 9, 2004, 118 Stat. 1042, effective May 17, 2010.
 
 #### Codification
-Section was enacted as part of the Water Resources Reform and Development Act of 2014, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+In subsec. (d)(1), “[section 60105 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section60105&num=0&edition=prelim)” substituted for “section 4197 of the Revised Statutes of the United States (46 App. U.S.C. 91)” on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted [section 60105 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section60105&num=0&edition=prelim), Shipping.
 
 #### Amendments
-2016—Subsec. (a). Pub. L. 114–322 substituted “Application of credit” for “In general” in subsec. heading, designated existing provisions as par. (1) and inserted par. (1) heading, and added par. (2).
+1996—Par. (d). Pub. L. 104–324 inserted heading and amended text generally. Prior to amendment, text read as follows: “The Secretary of the Treasury shall withhold or revoke, at the request of the Secretary, the clearance, required by [section 91 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section91&num=0&edition=prelim), Appendix, of any vessel, the owner or operator of which is subject to any of the penalties in this section. Clearance may be granted in such cases upon the filing of a bond or other surety satisfactory to the Secretary.”
 
-#### “Secretary” Defined
-Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
+#### Effective Date
+Section effective 12 months after Dec. 24, 1981, see section 7 of Pub. L. 96–591, set out as an Effective Date of 1980 Amendment note under [section 1604 of this title](./chapter-030-international-regulations-for-preventing-collisions-at-sea.md#section-1604).
+
+
+<a id="section-2073"></a>
+## § 2073. Repealed. Pub. L. 115–282, title VI, § 601(c)(5), Dec. 4, 2018, 132 Stat. 4290
+
+### Statutory Notes
+
+Section, Pub. L. 96–591, § 5, Dec. 24, 1980, 94 Stat. 3434; Pub. L. 97–322, title I, § 118(c), Oct. 15, 1982, 96 Stat. 1586; Pub. L. 98–557, § 16(b)(2), Oct. 30, 1984, 98 Stat. 2866; Pub. L. 101–225, title I, § 105(a)(1), Dec. 12, 1989, 103 Stat. 1909; Pub. L. 104–324, title III, § 304(a), (g), Oct. 19, 1996, 110 Stat. 3917, 3918; Pub. L. 107–295, title III, § 334, Nov. 25, 2002, 116 Stat. 2105; Pub. L. 108–293, title IV, § 418(e), Aug. 9, 2004, 118 Stat. 1049; Pub. L. 111–281, title VI, § 621(f), Oct. 15, 2010, 124 Stat. 2977, related to the establishment of the Navigation Safety Advisory Council. See [section 15107 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section15107&num=0&edition=prelim), Shipping.

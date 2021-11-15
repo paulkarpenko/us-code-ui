@@ -55,9 +55,11 @@ In this chapter, the following definitions shall apply:
 
   (B) the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of Northern Mariana Islands, Guam, American Samoa, and the United States Virgin Islands;
 
-  (C) when designated by a State of the United States, a political subdivision of that State that the Secretary determines has the capacity to participate in the Program; and
+  (C) when designated by a State of the United States, a political subdivision of that State that the Secretary determines has the capacity to participate in the Program;
 
-  (D) under the circumstances described in [section 5703(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5703/d&num=0&edition=prelim), a municipality of a State of the United States to which the Secretary has given a special permission under [section 5703(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5703/d&num=0&edition=prelim).
+  (D) under the circumstances described in [section 5703(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5703/d&num=0&edition=prelim), a municipality of a State of the United States to which the Secretary has given a special permission under [section 5703(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5703/d&num=0&edition=prelim); and
+
+  (E) a Tribal government, or a group of Tribal governments that jointly apply for an allocation.
 
 (11) **State capital access program** — The term “State capital access program” means a program of a State that—
 
@@ -81,13 +83,42 @@ In this chapter, the following definitions shall apply:
 
 (14) **Secretary** — The term “Secretary” means the Secretary of the Treasury.
 
+(15) **Business enterprise owned and controlled by socially and economically disadvantaged individuals** — The term “business enterprise owned and controlled by socially and economically disadvantaged individuals” means a business that—
+
+  (A) if privately owned, 51 percent is owned by one or more socially and economically disadvantaged individuals;
+
+  (B) if publicly owned, 51 percent of the stock is owned by one or more socially and economically disadvantaged individuals; and
+
+  (C) in the case of a mutual institution, a majority of the Board of Directors, account holders, and the community which the institution services is predominantly comprised of socially and economically disadvantaged individuals.
+
+(16) **Community development financial institution** — The term “community development financial institution” has the meaning given that term under [section 4702 of this title](./chapter-047-community-development-banking.md#section-4702).
+
+(17) **Minority depository institution** — The term “minority depository institution” has the meaning given that term under section 308(b) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989.
+
+(18) **Socially and economically disadvantaged individual** — The term “socially and economically disadvantaged individual” means an individual who is a socially disadvantaged individual or an economically disadvantaged individual, as such terms are defined, respectively, under [section 637 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section637&num=0&edition=prelim) and the regulations thereunder.
+
+(19) **Tribal government** — The term “Tribal government” means the recognized governing body of any Indian or Alaska Native tribe, band, nation, pueblo, village, community, component band, or component reservation, individually identified (including parenthetically) in the list published most recently as of March 11, 2021, pursuant to [section 5131 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5131&num=0&edition=prelim).
+
 ### Statutory Notes
 
 #### References in Text
 The Federal Credit Union Act, referred to in par. (2)(B), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified principally to chapter 14 (§ 1751 et seq.) of this title. For complete classification of this Act to the Code, see [section 1751 of this title](./chapter-014-federal-credit-unions.md#section-1751) and Tables.
 
+Section 308(b) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, referred to in par. (17), is section 308(b) of Pub. L. 101–73, which is set out in a note under [section 1463 of this title](./chapter-012-savings-associations.md#section-1463).
+
+#### Amendments
+2021—Par. (10)(E). Pub. L. 117–2, § 3301(e), added subpar. (E).
+
+Pars. (15) to (19). Pub. L. 117–2, § 3301(f), added pars. (15) to (19).
+
+#### Effective Date of 2021 Amendment
+Pub. L. 117–2, title III, § 3301(g), Mar. 11, 2021, 135 Stat. 72, provided that: “The amendments made by this section [amending this section and sections 5702 to 5706, 5708, and 5710 of this title and enacting provisions set out as a note below] shall apply with respect to funds appropriated under this section and funds appropriated on and after the date of enactment of this section [Mar. 11, 2021].”
+
 #### Short Title
 Pub. L. 111–240, title III, § 3001, Sept. 27, 2010, 124 Stat. 2568, provided that: “This title [enacting this chapter] may be cited as the ‘State Small Business Credit Initiative Act of 2010’.”
+
+#### Appropriation
+Pub. L. 117–2, title III, § 3301(a)(2), Mar. 11, 2021, 135 Stat. 69, provided that: “(A) In general.—In addition to amounts otherwise available, there is hereby appropriated to the Secretary of the Treasury for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $10,000,000,000, to remain available until expended, to provide support to small businesses responding to and recovering from the economic effects of the COVID–19 pandemic, ensure business enterprises owned and controlled by socially and economically disadvantaged individuals have access to credit and investments, provide technical assistance to help small businesses applying for various support programs, and to pay reasonable costs of administering such Initiative. “(B) Rescission.—With respect to amounts appropriated under subparagraph (A)—“(i) the Secretary of the Treasury shall complete all disbursements and remaining obligations before September 30, 2030; and “(ii) any amounts that remain unexpended (whether obligated or unobligated) on September 30, 2030, shall be rescinded and deposited into the general fund of the Treasury.”
 
 
 <a id="section-5702"></a>
@@ -96,31 +127,31 @@ Pub. L. 111–240, title III, § 3001, Sept. 27, 2010, 124 Stat. 2568, provided 
 
 **(b) Allocation formula**
 
-(1) **In general** — Not later than 30 days after September 27, 2010, the Secretary shall allocate Federal funds to participating States so that each State is eligible to receive an amount equal to the average of the respective amounts that the State—
+(1) **In general** — Not later than 30 days after March 11, 2021, the Secretary shall allocate Federal funds to participating States so that each State is eligible to receive an amount equal to what the State would receive under the 2021 allocation, as determined under paragraph (2).
 
-  (A) would receive under the 2009 allocation, as determined under paragraph (2); and
+(2) **2021 allocation formula**
 
-  (B) would receive under the 2010 allocation, as determined under paragraph (3).
-
-(2) **2009 allocation formula**
-
-  (A) *In general* — The Secretary shall determine the 2009 allocation by allocating Federal funds among the States in the proportion that each such State’s 2008 State employment decline bears to the aggregate of the 2008 State employment declines for all States.
+  (A) *In general* — With respect to States other than Tribal governments, the Secretary shall determine the 2021 allocation by allocating Federal funds among the States in the proportion that each such State’s 2020 State employment decline bears to the aggregate of the 2020 State employment declines for all States.
 
   (B) *Minimum allocation* — The Secretary shall adjust the allocations under subparagraph (A) for each State to the extent necessary to ensure that no State receives less than 0.9 percent of the Federal funds.
 
-  (C) *2008 state employment decline defined* — In this paragraph and with respect to a State, the term “2008 State employment decline” means the excess (if any) of—
+  (C) *11 So in original. Two subpars. (C) have been enacted. 2020 State employment decline defined* — In this paragraph and with respect to a State, the term “2020 State employment decline” means the excess (if any) of—
 
-    (i) the number of individuals employed in such State determined for December 2007; over
+    (i) the number of individuals employed in such State determined for December 2019; over
 
-    (ii) the number of individuals employed in such State determined for December 2008.
+    (ii) the number of individuals employed in such State determined for December 2020.
 
-(3) **2010 allocation formula**
+  (C) *1 Separate allocation for tribal governments*
 
-  (A) *In general* — The Secretary shall determine the 2010 allocation by allocating Federal funds among the States in the proportion that each such State’s 2009 unemployment number bears to the aggregate of the 2009 unemployment numbers for all of the States.
+    (i) *In general* — With respect to States that are Tribal governments, the Secretary shall determine the 2021 allocation by allocating $500,000,000 among the Tribal governments in the proportion the Secretary determines appropriate, including with consideration to available employment and economic data regarding each such Tribal government.
 
-  (B) *Minimum allocation* — The Secretary shall adjust the allocations under subparagraph (A) for each State to the extent necessary to ensure that no State receives less than 0.9 percent of the Federal funds.
+    (ii) *Notice of intent; timing of allocation* — With respect to allocations to States that are Tribal governments, the Secretary may—
 
-  (C) *2009 unemployment number defined* — In this paragraph and with respect to a State, the term “2009 unemployment number” means the number of individuals within such State who were determined to be unemployed by the Bureau of Labor Statistics for December 2009.
+      (I) require Tribal governments that individually or jointly wish to participate in the Program to file a notice of intent with the Secretary not later than 30 days after March 11, 2021; and
+
+      (II) notwithstanding paragraph (1), allocate Federal funds to participating Tribal governments not later than 60 days after March 11, 2021.
+
+  (D) *Employment data* — If the Secretary determines that employment data with respect to a State is unavailable from the Bureau of Labor Statistics of the Department of Labor, the Secretary shall consider such other economic and employment data that is otherwise available for purposes of determining the employment data of such State.
 
 **(c) Availability of allocated amount** The amount allocated by the Secretary to each participating State under subsection (b) shall be made available to the State as follows:
 
@@ -132,7 +163,7 @@ Pub. L. 111–240, title III, § 3001, Sept. 27, 2010, 124 Stat. 2568, provided 
 
     (ii) transfer to the participating State the first ⅓ when the Secretary approves the State for participation under [section 5703 of this title](./chapter-054-state-small-business-credit-initiative.md#section-5703); and
 
-    (iii) transfer to the participating State each successive ⅓ when the State has certified to the Secretary that it has expended, transferred, or obligated 80 percent of the last transferred ⅓ for Federal contributions to, or for the account of, State programs.
+    (iii) transfer to the participating State each successive ⅓ when the State has certified to the Secretary that it has expended, transferred, or obligated 80 percent of the last transferred ⅓ for Federal contributions to, or for the account of, State programs that have delivered loans or investments to eligible businesses.
 
   (B) *Authority to withhold pending audit* — The Secretary may withhold the transfer of any successive ⅓ pending results of a financial audit.
 
@@ -160,7 +191,15 @@ Pub. L. 111–240, title III, § 3001, Sept. 27, 2010, 124 Stat. 2568, provided 
 
   (D) in the case of each successive ⅓ transferred, for paying administrative costs incurred by the State in implementing an approved State program in an amount not to exceed 3 percent of that successive ⅓.
 
-(4) **Termination of availability of amounts not transferred within 2 years of participation** — Any portion of a participating State’s allocated amount that has not been transferred to the State under this section by the end of the 2-year period beginning on the date that the Secretary approves the State for participation may be deemed by the Secretary to be no longer allocated to the State and no longer available to the State and shall be returned to the General Fund of the Treasury.
+(4) **Termination of availability of amounts not transferred**
+
+  (A) *In general* — Any portion of a participating State’s allocated amount that has not been transferred to the State under this section may be deemed by the Secretary to be no longer allocated to the State and no longer available to the State and shall be returned to the general fund of the Treasury or reallocated as described under subparagraph (B), if—
+
+    (i) the second ⅓ of a State’s allocated amount has not been transferred to the State before the end of the end of the 3-year period beginning on the date that the Secretary approves the State for participation; or
+
+    (ii) the last ⅓ of a State’s allocated amount has not been transferred to the State before the end of the end of the 6-year period beginning on the date that the Secretary approves the State for participation.
+
+  (B) *Reallocation* — Any amount deemed by the Secretary to be no longer allocated to a State and no longer available to such State under subparagraph (A) may be reallocated by the Secretary to other participating States. In making such a reallocation, the Secretary shall not take into account the minimum allocation requirements under subsection (b)(2)(B) or the specific allocation for Tribal governments described under subsection (b)(2)(C).
 
 (5) **Transferred amounts not assistance** — The amounts transferred to a participating State under this section shall not be considered assistance for purposes of subtitle V of title 31.
 
@@ -173,6 +212,54 @@ Pub. L. 111–240, title III, § 3001, Sept. 27, 2010, 124 Stat. 2568, provided 
     (i) in the case of the first ⅓ and second ⅓, an amount equal to 33 percent of a participating State’s allocated amount; and
 
     (ii) in the case of the last ⅓, an amount equal to 34 percent of a participating State’s allocated amount.
+
+**(d) Additional allocations to support business enterprises owned and controlled by socially and economically disadvantaged individuals** Of the amounts appropriated for fiscal year 2021 to carry out the Program, the Secretary shall—
+
+(1) allocate $1,500,000,000 to States from funds allocated under this section and, by regulation or other guidance, prescribe Program requirements that the funds be expended for business enterprises owned and controlled by socially and economically disadvantaged individuals; and
+
+(2) allocate such amounts to States based on the needs of business enterprises owned and controlled by socially and economically disadvantaged individuals, as determined by the Secretary, in each State, and not subject to the allocation formula described under subsection (b).
+
+**(e) Incentive allocations to support business enterprises owned and controlled by socially and economically disadvantaged individuals** Of the amounts appropriated for fiscal year 2021 to carry out the Program, the Secretary shall set aside $1,000,000,000 for an incentive program under which the Secretary shall increase the second ⅓ and last ⅓ allocations for States that demonstrate robust support, as determined by the Secretary, for business concerns owned and controlled by socially and economically disadvantaged individuals in the deployment of prior allocation amounts.
+
+**(f) Additional allocations to support very small businesses**
+
+(1) **In general** — Of the amounts appropriated to carry out the Program, the Secretary shall allocate not less than $500,000,000 to States from funds allocated under this section to be expended for very small businesses.
+
+(2) **Very small business defined** — In this subsection, the term “very small business”—
+
+  (A) means a business with fewer than 10 employees; and
+
+  (B) may include independent contractors and sole proprietors.
+
+### Statutory Notes
+
+#### Amendments
+2021—Subsec. (b)(1). Pub. L. 117–2, § 3301(a)(1)(A)(i)(I), amended par. (1) generally. Prior to amendment, par. (1) required allocation of funds by 30 days after Sept. 27, 2010.
+
+Subsec. (b)(2). Pub. L. 117–2, § 3301(a)(1)(A)(ii)(II)(bb), substituted “2020” for “2008” wherever appearing.
+
+Pub. L. 117–2, § 3301(a)(1)(A)(i)(II)(aa), substituted “2021” for “2009” in heading and in subpar. (A).
+
+Subsec. (b)(2)(A). Pub. L. 117–2, § 3301(a)(1)(A)(i)(II)(cc), substituted “With respect to States other than Tribal governments, the Secretary” for “The Secretary”.
+
+Subsec. (b)(2)(C). Pub. L. 117–2, § 3301(a)(1)(A)(i)(II)(ee), added subpar. (C) relating to separate allocation for tribal governments.
+
+Subsec. (b)(2)(C)(i). Pub. L. 117–2, § 3301(a)(1)(A)(i)(II)(dd), substituted “2019” for “2007” in cl. (i) of subpar. (C) defining 2020 State employment decline.
+
+Subsec. (b)(2)(D). Pub. L. 117–2, § 3301(a)(1)(A)(i)(II)(ee), added subpar. (D).
+
+Subsec. (b)(3). Pub. L. 117–2, § 3301(a)(1)(A)(i)(III), struck out par. (3) which provided for the 2010 allocation formula.
+
+Subsec. (c)(1)(A)(iii). Pub. L. 117–2, § 3301(a)(1)(A)(ii)(I), inserted before period at end “that have delivered loans or investments to eligible businesses”.
+
+Subsec. (c)(4). Pub. L. 117–2, § 3301(a)(1)(A)(ii)(II), amended par. (4) generally. Prior to amendment, text read as follows: “Any portion of a participating State’s allocated amount that has not been transferred to the State under this section by the end of the 2-year period beginning on the date that the Secretary approves the State for participation may be deemed by the Secretary to be no longer allocated to the State and no longer available to the State and shall be returned to the General Fund of the Treasury.”
+
+Subsecs. (d), (e). Pub. L. 117–2, § 3301(b), added subsecs. (d) and (e).
+
+Subsec. (f). Pub. L. 117–2, § 3301(c), added subsec. (f).
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–2 applicable with respect to funds appropriated under section 3301 of Pub. L. 117–2 and funds appropriated on and after Mar. 11, 2021, see section 3301(g) of Pub. L. 117–2, set out as a note under [section 5701 of this title](./chapter-054-state-small-business-credit-initiative.md#section-5701).
 
 
 <a id="section-5703"></a>
@@ -207,9 +294,9 @@ Pub. L. 111–240, title III, § 3001, Sept. 27, 2010, 124 Stat. 2568, provided 
 
 **(d) Special permission**
 
-(1) **Circumstances when a municipality may apply directly** — If a State does not, within 60 days after September 27, 2010, file with the Secretary a notice of its intent to apply for approval by the Secretary of a State program or within 9 months after September 27, 2010, file with the Secretary a complete application for approval of a State program, the Secretary may grant to municipalities of that State a special permission that will allow them to apply directly to the Secretary without the State for approval to be participating municipalities.
+(1) **Circumstances when a municipality may apply directly** — If a State does not, within 60 days after March 11, 2021, file with the Secretary a notice of its intent to apply for approval by the Secretary of a State program or within 9 months after March 11, 2021, file with the Secretary a complete application for approval of a State program, the Secretary may grant to municipalities of that State a special permission that will allow them to apply directly to the Secretary without the State for approval to be participating municipalities.
 
-(2) **Timing requirements applicable to municipalities applying directly** — To qualify for the special permission, a municipality of a State shall be required, within 12 months after September 27, 2010, to file with the Secretary a complete application for approval by the Secretary of a State program.
+(2) **Timing requirements applicable to municipalities applying directly** — To qualify for the special permission, a municipality of a State shall be required, within 12 months after March 11, 2021, to file with the Secretary a complete application for approval by the Secretary of a State program.
 
 (3) **Notices of intent and applications from more than 1 municipality** — A municipality of a State may combine with 1 or more other municipalities of that State to file a joint notice of intent to file and a joint application.
 
@@ -225,6 +312,14 @@ Pub. L. 111–240, title III, § 3001, Sept. 27, 2010, 124 Stat. 2568, provided 
 
 (7) **Approving State programs for municipalities** — If the Secretary approves municipalities to be participating municipalities under this subsection, the Secretary shall take into account the additional considerations in [section 5705(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5705/d&num=0&edition=prelim) in making the determination under section 5704 or 5705 of this title that the State program or programs to be implemented by the participating municipalities, including a State capital access program, is eligible for Federal contributions to, or for the account of, the State program.
 
+### Statutory Notes
+
+#### Amendments
+2021—Subsec. (d)(1), (2). Pub. L. 117–2 substituted “March 11, 2021” for “September 27, 2010” whenever appearing.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–2 applicable with respect to funds appropriated under section 3301 of Pub. L. 117–2 and funds appropriated on and after Mar. 11, 2021, see section 3301(g) of Pub. L. 117–2, set out as a note under [section 5701 of this title](./chapter-054-state-small-business-credit-initiative.md#section-5701).
+
 
 <a id="section-5704"></a>
 ## § 5704. Approving State capital access programs
@@ -232,9 +327,9 @@ Pub. L. 111–240, title III, § 3001, Sept. 27, 2010, 124 Stat. 2568, provided 
 
 **(b) Approval** The Secretary shall approve such State capital access program as eligible for Federal contributions to the reserve fund if—
 
-(1) within 60 days after September 27, 2010, the State has filed with the Secretary a notice of intent to apply for approval by the Secretary of a State capital access program;
+(1) within 60 days after March 11, 2021, the State has filed with the Secretary a notice of intent to apply for approval by the Secretary of a State capital access program;
 
-(2) within 9 months after September 27, 2010, the State has filed with the Secretary a complete application for approval by the Secretary of a capital access program;
+(2) within 9 months after March 11, 2021, the State has filed with the Secretary a complete application for approval by the Secretary of a capital access program;
 
 (3) the State satisfies the requirements of subsections (a) and (b) of [section 5703 of this title](./chapter-054-state-small-business-credit-initiative.md#section-5703); and
 
@@ -298,6 +393,14 @@ Pub. L. 111–240, title III, § 3001, Sept. 27, 2010, 124 Stat. 2568, provided 
 
 (8) **Capital access for small businesses in underserved communities** — At the time that a State applies to the Secretary to have the State capital access program approved as eligible for Federal contributions, the State shall deliver to the Secretary a report stating how the State plans to use the Federal contributions to the reserve fund to provide access to capital for small businesses in low- and moderate-income, minority, and other underserved communities, including women- and minority-owned small businesses.
 
+### Statutory Notes
+
+#### Amendments
+2021—Subsec. (b)(1), (2). Pub. L. 117–2 substituted “March 11, 2021” for “September 27, 2010”.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–2 applicable with respect to funds appropriated under section 3301 of Pub. L. 117–2 and funds appropriated on and after Mar. 11, 2021, see section 3301(g) of Pub. L. 117–2, set out as a note under [section 5701 of this title](./chapter-054-state-small-business-credit-initiative.md#section-5701).
+
 
 <a id="section-5705"></a>
 ## § 5705. Approving collateral support and other innovative credit access and guarantee initiatives for small businesses and manufacturers
@@ -311,7 +414,7 @@ Pub. L. 111–240, title III, § 3001, Sept. 27, 2010, 124 Stat. 2568, provided 
 
 (3) the Secretary determines the State other credit support program to be eligible based on the additional considerations in subsection (d); and
 
-(4) within 9 months after September 27, 2010, the State has filed with Treasury a complete application for Treasury approval.
+(4) within 9 months after March 11, 2021, the State has filed with Treasury a complete application for Treasury approval.
 
 **(c) Eligibility criteria for State other credit support programs** For a State other credit support program to be approved under this section, that program shall be required to be a program of the State that—
 
@@ -351,6 +454,14 @@ Pub. L. 111–240, title III, § 3001, Sept. 27, 2010, 124 Stat. 2568, provided 
 
 (2) **Considerations for fund** — In prescribing minimum Program requirements for approved State other credit support programs, the Secretary shall take into consideration, to the extent the Secretary determines applicable and appropriate, the minimum Program requirements for approved State capital access programs in [section 5704(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5704/e&num=0&edition=prelim).
 
+### Statutory Notes
+
+#### Amendments
+2021—Subsec. (b)(4). Pub. L. 117–2 substituted “March 11, 2021” for “September 27, 2010”.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–2 applicable with respect to funds appropriated under section 3301 of Pub. L. 117–2 and funds appropriated on and after Mar. 11, 2021, see section 3301(g) of Pub. L. 117–2, set out as a note under [section 5701 of this title](./chapter-054-state-small-business-credit-initiative.md#section-5701).
+
 
 <a id="section-5706"></a>
 ## § 5706. Reports
@@ -370,7 +481,7 @@ Pub. L. 111–240, title III, § 3001, Sept. 27, 2010, 124 Stat. 2568, provided 
 
     (iii) the participating State is implementing its approved State program or programs in accordance with this chapter and regulations issued under [section 5709 of this title](./chapter-054-state-small-business-credit-initiative.md#section-5709).
 
-**(b) Annual report** Not later than March 31 of each year, beginning March 31, 2011, each participating State shall submit to the Secretary an annual report that shall include the following information:
+**(b) Annual report** Not later than March 31 of each year, beginning March 31, 2022, each participating State shall submit to the Secretary an annual report that shall include the following information:
 
 (1) The number of borrowers that received new loans originated under the approved State program or programs after the State program was approved as eligible for Federal contributions.
 
@@ -385,6 +496,14 @@ Pub. L. 111–240, title III, § 3001, Sept. 27, 2010, 124 Stat. 2568, provided 
 **(c) Form** The reports and data filed under subsections (a) and (b) shall be in such form as the Secretary, in the Secretary’s sole discretion, may require.
 
 **(d) Termination of reporting requirements** The requirement to submit reports under subsections (a) and (b) shall terminate for a participating State with the submission of the completed reports due on the first March 31 to occur after 5 complete 12-month periods after the State is approved by the Secretary to be a participating State.
+
+### Statutory Notes
+
+#### Amendments
+2021—Subsec. (b). Pub. L. 117–2 substituted “March 31, 2022” for “March 31, 2011” in introductory provisions.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–2 applicable with respect to funds appropriated under section 3301 of Pub. L. 117–2 and funds appropriated on and after Mar. 11, 2021, see section 3301(g) of Pub. L. 117–2, set out as a note under [section 5701 of this title](./chapter-054-state-small-business-credit-initiative.md#section-5701).
 
 
 <a id="section-5707"></a>
@@ -424,9 +543,39 @@ Pub. L. 111–240, title III, § 3001, Sept. 27, 2010, 124 Stat. 2568, provided 
 
 **(b) Appropriations** There is hereby appropriated to the Secretary, out of funds in the Treasury not otherwise appropriated, $1,500,000,000 to carry out the Program, including to pay reasonable costs of administering the Program.
 
-**(c) Termination of Secretary’s Program administration functions** The authorities and duties of the Secretary to implement and administer the Program shall terminate at the end of the 7-year period beginning on September 27, 2010.
+**(c) Termination of Secretary’s Program administration functions** The authorities and duties of the Secretary to implement and administer the Program shall terminate at the end of the 7-year period beginning on March 11, 2021.
 
-**(d) Expedited contracting** During the 1-year period beginning on September 27, 2010, the Secretary may enter into contracts without regard to any other provision of law regarding public contracts, for purposes of carrying out this chapter.
+**(d) Expedited contracting** During the 1-year period beginning on March 11, 2021, the Secretary may enter into contracts without regard to any other provision of law regarding public contracts, for purposes of carrying out this chapter.
+
+**(e) Technical assistance** Of the amounts appropriated for fiscal year 2021 to carry out the Program, $500,000,000 may be used by the Secretary to—
+
+(1) provide funds to States to carry out a technical assistance plan under which a State will provide legal, accounting, and financial advisory services, either directly or contracted with legal, accounting, and financial advisory firms, with priority given to business enterprises owned and controlled by socially and economically disadvantaged individuals, to very small businesses and business enterprises owned and controlled by socially and economically disadvantaged individuals applying for—
+
+  (A) State programs under the Program; and
+
+  (B) other State or Federal programs that support small businesses;
+
+(2) transfer amounts to the Minority Business Development Agency, so that the Agency may use such amounts in a manner the Agency determines appropriate, including through contracting with third parties, to provide technical assistance to business enterprises owned and controlled by socially and economically disadvantaged individuals applying to—
+
+  (A) State programs under the Program; and
+
+  (B) other State or Federal programs that support small businesses; and
+
+(3) contract with legal, accounting, and financial advisory firms (with priority given to business enterprises owned and controlled by socially and economically disadvantaged individuals), to provide technical assistance to business enterprises owned and controlled by socially and economically disadvantaged individuals applying to—
+
+  (A) State programs under the Program; and
+
+  (B) other State or Federal programs that support small businesses.
+
+### Statutory Notes
+
+#### Amendments
+2021—Subsecs. (c), (d). Pub. L. 117–2, § 3301(a)(1)(F), substituted “March 11, 2021” for “September 27, 2010”.
+
+Subsec. (e). Pub. L. 117–2, § 3301(d), added subsec. (e).
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–2 applicable with respect to funds appropriated under section 3301 of Pub. L. 117–2 and funds appropriated on and after Mar. 11, 2021, see section 3301(g) of Pub. L. 117–2, set out as a note under [section 5701 of this title](./chapter-054-state-small-business-credit-initiative.md#section-5701).
 
 
 <a id="section-5709"></a>
@@ -441,13 +590,18 @@ The Secretary, in consultation with the Administrator of the Small Business Admi
 
 **(b) Required certification**
 
-(1) **Financial institutions certification** — With respect to funds received by a participating State under the Program, any financial institution that receives a loan, a loan guarantee, or other financial assistance using such funds after September 27, 2010, shall certify that such institution is in compliance with the requirements of section 103.121 of title 31, Code of Federal Regulations, a regulation that, at a minimum, requires financial institutions, as that term is defined in section 5312(a)(2) and (c)(1)(A) of title 31, to implement reasonable procedures to verify the identity of any person seeking to open an account, to the extent reasonable and practicable, maintain records of the information used to verify the person’s identity, and determine whether the person appears on any lists of known or suspected terrorists or terrorist organizations provided to the financial institution by any government agency.
+(1) **Financial institutions certification** — With respect to funds received by a participating State under the Program, any financial institution that receives a loan, a loan guarantee, or other financial assistance using such funds after March 11, 2021, shall certify that such institution is in compliance with the requirements of section 103.121 of title 31, Code of Federal Regulations, a regulation that, at a minimum, requires financial institutions, as that term is defined in section 5312(a)(2) and (c)(1)(A) of title 31, to implement reasonable procedures to verify the identity of any person seeking to open an account, to the extent reasonable and practicable, maintain records of the information used to verify the person’s identity, and determine whether the person appears on any lists of known or suspected terrorists or terrorist organizations provided to the financial institution by any government agency.
 
-(2) **Sex offense certification** — With respect to funds received by a participating State under the Program, any private entity that receives a loan, a loan guarantee, or other financial assistance using such funds after September 27, 2010, shall certify to the participating State that the principals of such entity have not been convicted of a sex offense against a minor (as such terms are defined in [section 20911 of title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section20911&num=0&edition=prelim)).
+(2) **Sex offense certification** — With respect to funds received by a participating State under the Program, any private entity that receives a loan, a loan guarantee, or other financial assistance using such funds after March 11, 2021, shall certify to the participating State that the principals of such entity have not been convicted of a sex offense against a minor (as such terms are defined in [section 20911 of title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section20911&num=0&edition=prelim)).
 
 **(c) Prohibition on pornography** None of the funds made available under this chapter may be used to pay the salary of any individual engaged in activities related to the Program who has been officially disciplined for violations of subpart G of the Standards of Ethical Conduct for Employees of the Executive Branch for viewing, downloading, or exchanging pornography, including child pornography, on a Federal Government computer or while performing official Federal Government duties.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (b). Pub. L. 117–2 substituted “March 11, 2021” for “September 27, 2010” in pars. (1) and (2).
+
 2014—Subsecs. (b) to (d). Pub. L. 113–188 redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b). Prior to amendment, text of subsec. (b) read as follows: “The Comptroller General of the United States shall perform an annual audit of the Program and issue a report to the appropriate committees of Congress containing the results of such audit.”
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–2 applicable with respect to funds appropriated under section 3301 of Pub. L. 117–2 and funds appropriated on and after Mar. 11, 2021, see section 3301(g) of Pub. L. 117–2, set out as a note under [section 5701 of this title](./chapter-054-state-small-business-credit-initiative.md#section-5701).

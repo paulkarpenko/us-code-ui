@@ -60,7 +60,7 @@ Section 9386, act Aug. 10, 1956, ch. 1041, 70A Stat. 570, provided for supplies 
 Section 9387, act Aug. 10, 1956, ch. 1041, 70A Stat. 570, provided for advanced training and compensation therefor.
 
 #### Amendments
-2021—Subsec. (a)(1) to (3). Pub. L. 116–283, § 923(c)(23), inserted “or the Space Force” after “Air Force”.
+2021—Subsec. (a)(1) to (3). Pub. L. 116–283 inserted “or the Space Force” after “Air Force”.
 
 2018—Pub. L. 115–232 renumbered [section 9061 of this title](./chapter-907-the-air-force.md#section-9061) as this section.
 
@@ -68,4 +68,4 @@ Section 9387, act Aug. 10, 1956, ch. 1041, 70A Stat. 570, provided for advanced 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date
-Section applicable to fatalities that occur on or after Nov. 24, 2003, see section 576(d) of Pub. L. 108–136, set out as a note under [section 4061 of this title](./chapter-303-innovation.md#section-4061).
+Section applicable to fatalities that occur on or after Nov. 24, 2003, see section 576(d) of Pub. L. 108–136, set out as a note under [section 4061 of this title](./chapter-303-research-and-engineering-activities.md#section-4061).

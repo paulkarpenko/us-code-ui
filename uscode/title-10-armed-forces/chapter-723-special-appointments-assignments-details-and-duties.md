@@ -24,7 +24,7 @@ The words “and reassignments” are omitted as surplusage.
 A prior section 7213, act Aug. 10, 1956, ch. 1041, 70A Stat. 445, related to relief of contractors and their employees from losses by enemy action, prior to repeal by Pub. L. 103–160, div. A, title VIII, § 824(a)(3), Nov. 30, 1993, 107 Stat. 1707.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 3533 of this title](./chapter-249-multiyear-contracts.md#section-3533) as this section.
+2018—Pub. L. 115–232 renumbered [section 3533 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3533&num=0&edition=prelim) as this section.
 
 1966—Pub. L. 89–718 struck out provisions requiring the recommendation of the Chief of Engineers in order to transfer officers of the Corps of Engineers to or from the civil functions of the Corps of Engineers.
 
@@ -59,7 +59,7 @@ A prior section 7214 was renumbered [section 8614 of this title](./chapter-861-s
 A prior section 7215, act Aug. 10, 1956, ch. 1041, 70A Stat. 445, authorized Secretary of the Navy to maintain and operate naval prisons and prison farms and to provide for subsistence, welfare, recreation, and education of naval prisoners, prior to repeal by Pub. L. 90–377, § 6(2), July 5, 1968, 82 Stat. 288.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 3534 of this title](./chapter-249-multiyear-contracts.md#section-3534) as this section.
+2018—Pub. L. 115–232 renumbered [section 3534 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3534&num=0&edition=prelim) as this section.
 
 1980—Pub. L. 96–513 substituted “Mayor” for “Commissioner” in section catchline and text.
 

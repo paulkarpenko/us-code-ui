@@ -46,7 +46,7 @@ Minor changes were made in phraseology.
 
 
 <a id="section-1073"></a>
-## § 1073. Flight to avoid prosecution or giving testi­mony
+## § 1073. Flight to avoid prosecution or giving testimony
 
 Whoever moves or travels in interstate or foreign commerce with intent either (1) to avoid prosecution, or custody or confinement after conviction, under the laws of the place from which he flees, for a crime, or an attempt to commit a crime, punishable by death or which is a felony under the laws of the place from which the fugitive flees, or (2) to avoid giving testimony in any criminal proceedings in such place in which the commission of an offense punishable by death or which is a felony under the laws of such place, is charged, or (3) to avoid service of, or contempt proceedings for alleged disobedience of, lawful process requiring attendance and the giving of testimony or the production of documentary evidence before an agency of a State empowered by the law of such State to conduct investigations of alleged criminal activities, shall be fined under this title or imprisoned not more than five years, or both. For the purposes of clause (3) of this paragraph, the term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 

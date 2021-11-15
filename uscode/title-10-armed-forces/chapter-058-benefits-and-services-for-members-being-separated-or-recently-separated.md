@@ -267,6 +267,9 @@ Subsec. (b)(10). Pub. L. 102–484, § 4401(b), added par. (10).
 #### Effective Date of 2011 Amendment
 Pub. L. 112–56, title II, § 221(c), Nov. 21, 2011, 125 Stat. 716, provided that: “The amendments made by subsections (a) and (b) [amending this section and [section 1144 of this title](./chapter-058-benefits-and-services-for-members-being-separated-or-recently-separated.md#section-1144)] shall take effect on the date that is 1 year after the date of the enactment of this Act [Nov. 21, 2011].”
 
+#### Notice of Options for Naturalization Upon Separation
+Pub. L. 117–81, div. A, title V, § 523(b), Dec. 27, 2021, 135 Stat. 1687, provided that: “The Secretary of Homeland Security, acting through the Director of U.S. Citizenship and Immigration Services, and in coordination with the Secretary of Defense, shall provide to a member of the Armed Forces who is not a citizen of the United States, upon separation of such member, notice of options for naturalization under title III of the Immigration and Nationality Act ([8 U.S.C. 1401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1401&num=0&edition=prelim) et seq.)[.] Such notice shall inform the member of existing programs or services that may aid in the naturalization process of such member.”
+
 #### Inclusion of Question Regarding Immigration Status on Preseparation Counseling Checklist (DD Form 2648)
 Pub. L. 116–92, div. A, title V, § 570C, Dec. 20, 2019, 133 Stat. 1399, provided that: “Not later than September 30, 2020, the Secretary of Defense shall modify the preseparation counseling checklist for active component, active guard reserve, active reserve, full time support, and reserve program administrator service members (DD Form 2648) to include a specific block wherein a member of the Armed Forces may indicate that the member would like to receive information regarding the immigration status of that member and expedited naturalization.”
 
@@ -646,7 +649,7 @@ Pub. L. 101–510, div. A, title V, § 502(c), Nov. 5, 1990, 104 Stat. 1557, dir
 
 (5)
 
-  (A) The Secretary concerned shall require a member of the armed forces scheduled to be separated from active duty as described in paragraph (2) to undergo a physical examination and a mental health assessment conducted pursuant to [section 1074n of this title](./chapter-055-medical-and-dental-care.md#section-1074n) immediately before that separation. The physical examination shall be conducted in accordance with regulations prescribed by the Secretary of Defense.
+  (A) Except as provided in subparagraph (D), the Secretary concerned shall require a member of the armed forces scheduled to be separated from active duty as described in paragraph (2) to undergo a physical examination and a mental health assessment conducted pursuant to [section 1074n of this title](./chapter-055-medical-and-dental-care.md#section-1074n) immediately before that separation. The physical examination shall be conducted in accordance with regulations prescribed by the Secretary of Defense.
 
   (B) Notwithstanding subparagraph (A), if a member of the armed forces scheduled to be separated from active duty as described in paragraph (2) has otherwise undergone a physical examination within 12 months before the scheduled date of separation from active duty, the requirement for a physical examination under subparagraph (A) may be waived in accordance with regulations prescribed under this paragraph. Such regulations shall require that such a waiver may be granted only with the consent of the member and with the concurrence of the member’s unit commander.
 
@@ -655,6 +658,8 @@ Pub. L. 101–510, div. A, title V, § 502(c), Nov. 5, 1990, 104 Stat. 1557, dir
     (i) based or stationed at a location where an open burn pit, as defined in subsection (c) of section 201 of the Dignified Burial and Other Veterans’ Benefits Improvement Act of 2012 (Public Law 112–260; [38 U.S.C. 527](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section527&num=0&edition=prelim) note), was used; or
 
     (ii) exposed to toxic airborne chemicals or other airborne contaminants, including any information recorded as part of the registry established by the Secretary of Veterans Affairs under such section 201.
+
+  (D) The requirement for a physical examination and mental health assessment under subparagraph (A) shall not apply with respect to a member of a reserve component described in paragraph (2)(B) unless the member is retiring, or being discharged or dismissed, from the armed forces.
 
 (6)
 
@@ -733,6 +738,10 @@ Pub. L. 101–510, div. A, title V, § 502(c), Nov. 5, 1990, 104 Stat. 1557, dir
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (a)(5)(A). Pub. L. 117–81, § 717(1), substituted “Except as provided in subparagraph (D), the Secretary” for “The Secretary”.
+
+Subsec. (a)(5)(D). Pub. L. 117–81, § 717(2), added subpar. (D).
+
 2019—Subsec. (a)(5)(C). Pub. L. 116–92 added subpar. (C).
 
 2017—Subsec. (a)(2)(B). Pub. L. 115–91, § 511(b), substituted “under [section 12304b of this title](./chapter-1209-active-duty.md#section-12304b) or a provision of law referred to in [section 101(a)(13)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a/13/B&num=0&edition=prelim)” for “in support of a contingency operation”.
@@ -1189,7 +1198,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 (8) **Additional terms.—** — The terms “elementary school”, “local educational agency”, “secondary school”, and “State” have the meanings given those terms in section 8101 of the Elementary and Secondary Education Act of 1965.
 
-**(b) Program Authorization.—** The Secretary of Defense may carry out a Troops-to-Teachers Program—
+**(b) Program Authorization.—** The Secretary of Defense shall carry out a Troops-to-Teachers Program—
 
 (1) to assist eligible members of the armed forces described in subsection (d) to meet the requirements necessary to become a teacher in a school described in paragraph (2); and
 
@@ -1341,7 +1350,27 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
   (B) The total amount of grants made under subparagraph (A) in any fiscal year may not exceed $5,000,000.
 
-**(i) Limitation on Total Fiscal-year Obligations.—** The total amount obligated by the Secretary under the Program for any fiscal year may not exceed $15,000,000.
+**(i) Annual Report.—**
+
+(1) Not later than December 1, 2022, and annually thereafter, the Secretary of Defense shall submit to the appropriate congressional committees a report on the Program.
+
+(2) The report required under paragraph (1) shall include the following elements:
+
+  (A) The total cost of the Program for the most recent fiscal year.
+
+  (B) The total number of teachers placed during such fiscal year and the locations of such placements.
+
+  (C) An assessment of the STEM backgrounds of the teachers placed, the number of placements in high-need schools, and any other metric or information the Secretary considers appropriate to illustrate the cost and benefits of the program to members of the armed forces, veterans, and local educational agencies.
+
+(3) In this subsection, the term “appropriate congressional committees” means—
+
+  (A) the Committee on Armed Services and the Committee on Help, Education, Labor, and Pensions of the Senate; and
+
+  (B) the Committee on Armed Services and the Committee on Education and Labor of the House of Representatives.
+
+**(j) Limitation on Total Fiscal-year Obligations.—** The total amount obligated by the Secretary under the Program for any fiscal year may not exceed $15,000,000.
+
+**(k) Sunset.—** The Program shall terminate on July 1, 2025, with respect to the selection of new participants for the program. Participants in the Program as of that date may complete their program, and remain eligible for benefits under this section.
 
 ### Statutory Notes
 
@@ -1357,6 +1386,12 @@ The Social Security Act, referred to in subsec. (a)(3)(A), is act Aug. 14, 1935,
 The Higher Education Act of 1965, referred to in subsec. (e)(4), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2021—Subsec. (b). Pub. L. 117–81, § 551(a), substituted “shall” for “may” in introductory provisions.
+
+Subsecs. (i), (j). Pub. L. 117–81, § 551(b), added subsec. (i) and redesignated former subsec. (i) as (j).
+
+Subsec. (k). Pub. L. 117–81, § 551(c), added subsec. (k).
+
 2018—Subsec. (d)(2)(B). Pub. L. 115–232, § 554(a), inserted “(A)(iii),” after “(A)(i),” and “transferred to the Retired Reserve, or” after “member is retired,” and substituted “separated or released” for “separated, or released”.
 
 Subsec. (d)(3)(D). Pub. L. 115–232, § 554(b), inserted “, the transfer of the member to the Retired Reserve,” after “retirement of the member” and “transfer,” after “after the retirement,”.

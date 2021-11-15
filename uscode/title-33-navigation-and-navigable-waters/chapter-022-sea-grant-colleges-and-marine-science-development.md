@@ -7,12 +7,34 @@ source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33&num=0&edition=prelim
 ---
 <a id="section-1101"></a>
-## § 1101. Transferred
+## § 1101. Congressional declaration of policy and objectives
+**(a)** It is hereby declared to be the policy of the United States to develop, encourage, and maintain a coordinated, comprehensive, and long-range national program in marine science for the benefit of mankind to assist in protection of health and property, enhancement of commerce, transportation, and national security, rehabilitation of our commercial fisheries, and increased utilization of these and other resources.
+
+**(b)** The marine science activities of the United States should be conducted so as to contribute to the following objectives:
+
+(1) The accelerated development of the resources of the marine environment.
+
+(2) The expansion of human knowledge of the marine environment.
+
+(3) The encouragement of private investment enterprise in exploration, technological development, marine commerce, and economic utilization of the resources of the marine environment.
+
+(4) The preservation of the role of the United States as a leader in marine science and resource development.
+
+(5) The advancement of education and training in marine science.
+
+(6) The development and improvement of the capabilities, performance, use, and efficiency of vehicles, equipment, and instruments for use in exploration, research, surveys, the recovery of resources, and the transmission of energy in the marine environment.
+
+(7) The effective utilization of the scientific and engineering resources of the Nation, with close cooperation among all interested agencies, public and private, in order to avoid unnecessary duplication of effort, facilities, and equipment, or waste.
+
+(8) The cooperation by the United States with other nations and groups of nations and international organizations in marine science activities when such cooperation is in the national interest.
 
 ### Statutory Notes
 
-#### Codification
-Section transferred to [section 1293a of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1293a).
+#### Short Title of 2021 Amendment
+Pub. L. 116–289, § 1, Jan. 5, 2021, 134 Stat. 4886, provided that: “This Act [enacting subchapter III of this chapter] may be cited as the ‘Young Fishermen’s Development Act’.”
+
+#### Short Title
+Section 1 of title I of Pub. L. 89–454, as renumbered and amended by Pub. L. 89–688, § 2(a), Oct. 15, 1966, 80 Stat. 1001, provided that: “This title [enacting this subchapter] may be cited as the ‘Marine Resources and Engineering Development Act of 1966’.”
 
 
 <a id="section-1102"></a>
@@ -21,500 +43,1120 @@ Section transferred to [section 1293a of this title](./chapter-026-water-polluti
 ### Statutory Notes
 
 #### Codification
-Sections 1166 to 1175 of this title were omitted as superseded by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816. See section 1251 et seq. of this title.
-
-Section 1166, act June 30, 1948, ch. 758, § 16, as added Pub. L. 91–224, title I, § 102, Apr. 3, 1970, 84 Stat. 104; amended 1970 Reorg. Plan No. 3, § 2(a)(1), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2087, related to training grants to and contracts with institutions of higher education for water quality control programs or projects.
-
-Section 1167, act June 30, 1948, ch. 758, § 17, as added Pub. L. 91–224, title I, § 102, Apr. 3, 1970, 84 Stat. 105; amended 1970 Reorg. Plan No. 3, § 2(a)(1), eff. Dec. 3, 1970, 35 F.R. 15623, 84 Stat. 2087, related to applications for training grants or contracts.
-
-A prior section 17 of act June 30, 1948, formerly classified to [section 466m of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section466m&num=0&edition=prelim), was repealed by Pub. L. 91–224, title 1, § 102, Apr. 3, 1970, 84 Stat. 91, in the general reorganization of act June 30, 1948 by Pub. L. 91–224.
-
-Section 1168, act June 30, 1948, ch. 758, § 18, as added Pub. L. 91–224, title I, § 102, Apr. 3, 1970, 84 Stat. 105; amended 1970 Reorg. Plan No. 3, § 2(a)(1), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2087, related to awarding of scholarships for undergraduate study of operation and maintenance of treatment works.
-
-A prior section 18 of act June 30, 1948, formerly classified to [section 466n of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section466n&num=0&edition=prelim), was repealed by Pub. L. 91–224, title I, § 102, Apr. 3, 1970, 84 Stat. 91, in the general reorganization of act June 30, 1948 by Pub. L. 91–224.
-
-Section 1169, act June 30, 1948, ch. 758, § 19, as added Pub. L. 91–224, title I, § 102, Apr. 3, 1970, 84 Stat. 106; amended 1970 Reorg. Plan No. 3, § 2(a)(1), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2087, related to an annual report by the Administrator of the Environmental Protection Agency, appropriations for certain fiscal years, and defined certain terms as used in this chapter.
-
-Section 1170, act June 30, 1948, ch. 758, § 20, as added Pub. L. 91–224, title I, § 102, Apr. 3, 1970, 84 Stat. 107; amended 1970 Reorg. Plan No. 3, § 2(a)(1), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2087, related to Alaska village safe water and pollution elimination or control projects.
-
-Section 1171, act June 30, 1948, ch. 758, § 21, formerly § 9, 62 Stat. 1160; July 9, 1956, ch. 518, § 1, 70 Stat. 506; Pub. L. 87–88, § 8, July 20, 1961, 75 Stat. 210; renumbered § 11 and amended Pub. L. 89–234, §§ 2(a), 7(e), Oct. 2, 1965, 79 Stat. 903, 910; 1966 Reorg. Plan No. 2, § 1(a), eff. May 10, 1966, 31 F.R. 6857, 80 Stat. 1608; renumbered § 21 and amended Pub. L. 91–224, title I, §§ 102, 103, Apr. 3, 1970, 84 Stat. 91, 107; 1970 Reorg. Plan No. 3, § 2(a)(1), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2087, related to cooperation by all Federal agencies in pollution control.
-
-Section 1172, act June 30, 1948, ch. 758, § 22, formerly § 10, 62 Stat. 1160; July 9, 1956, ch. 518, § 1, 70 Stat. 506; Pub. L. 87–88, § 1(b), (d), (e), July 20, 1961, 75 Stat. 204; renumbered § 12 and amended Pub. L. 89–234, §§ 2(a), 6, Oct. 2, 1965, 79 Stat. 903, 909; 1966 Reorg. Plan No. 2, § 1(a), eff. May 10, 1966, 31 F.R. 6857, 80 Stat. 1608; renumbered § 22 and amended Pub. L. 91–224, title I, §§ 102, 104, Apr. 3, 1970, 84 Stat. 91, 110; 1970 Reorg. Plan No. 3, § 2(a)(1), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2087, related to administration of water pollution control program under this chapter.
-
-Section 1173, act June 30, 1948, ch. 758, § 23, formerly § 11, 62 Stat. 1161; July 9, 1956, ch. 518, § 1, 70 Stat. 506; Pub. L. 86–70, § 28(b), June 25, 1959, 73 Stat. 148; Pub. L. 86–624, § 23(b), July 12, 1960, 74 Stat. 418; Pub. L. 87–88, § 9, July 20, 1961, 75 Stat. 210; renumbered § 13, Pub. L. 89–234, § 2(a), Oct. 2, 1965, 79 Stat. 903; amended Pub. L. 89–753, title II, § 209, Nov. 3, 1966, 80 Stat. 1251; renumbered § 23, Pub. L. 91–224, title I, § 102, Apr. 3, 1970, 84 Stat. 91, related to definitions of terms used in this chapter.
-
-Section 1174, act June 30, 1948, ch. 758, § 24, formerly § 12, as added July 9, 1956, ch. 518, § 1, 70 Stat. 506; renumbered § 14, Pub. L. 89–234, § 2(a), Oct. 2, 1965, 79 Stat. 903; renumbered § 24 and amended Pub. L. 91–224, §§ 102, 107, Apr. 3, 1970, 84 Stat. 91, 113, related to application of this chapter to other laws.
-
-Section 1175, act June 30, 1948, ch. 758, § 26, formerly § 16, as added Pub. L. 89–753, title II, § 210, Nov. 3, 1966, 80 Stat. 1252; renumbered § 26, Pub. L. 91–224, title I, § 102, Apr. 3, 1970, 84 Stat. 91; amended 1970 Reorg. Plan No. 3, § 2(a)(1), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2087, related to cost estimates, studies, and analysis by the Administrator of Environmental Protection Agency.
+Section, Pub. L. 89–454, title I, § 3, June 17, 1966, 80 Stat. 204; Pub. L. 89–670, § 8(j), Oct. 15, 1966, 80 Stat. 943; Pub. L. 90–242, § 2, Jan. 2, 1968, 81 Stat. 780; Pub. L. 91–15, § 1, May 23, 1969, 83 Stat. 10; Pub. L. 91–414, Sept. 25, 1970, 84 Stat. 865, established the National Council on Marine Resources and Engineering Development. The provisions of this chapter with respect to the Council expired on June 30, 1971, and the Council terminated on Apr. 30, 1971, for lack of funds.
 
 
 <a id="section-1103"></a>
-## § 1103. Statement of purpose
+## § 1103. Executive responsibilities; utilization of staff, interagency, and non-Government advisory arrangements; consultation with agencies; solicitation of views of non-Federal agencies
+**(a)** In conformity with the provisions of [section 1101 of this title](./chapter-022-sea-grant-colleges-and-marine-science-development.md#section-1101), it shall be the duty of the President with the advice and assistance of the Council to—
 
-It is the purpose of this chapter to provide a positive means whereby the operators of approaching vessels can communicate their intentions to one another through voice radio, located convenient to the operator’s navigation station. To effectively accomplish this, there is need for a specific frequency or frequencies dedicated to the exchange of navigational information, on navigable waters of the United States.
+(1) survey all significant marine science activities, including the policies, plans, programs, and accomplishments of all departments and agencies of the United States engaged in such activities;
 
-### Statutory Notes
+(2) develop a comprehensive program of marine science activities, including, but not limited to, exploration, description and prediction of the marine environment, exploitation and conservation of the resources of the marine environment, marine engineering, studies of air-sea interaction, transmission of energy, and communications, to be conducted by departments and agencies of the United States, independently or in cooperation with such non-Federal organizations as States, institutions and industry;
 
-#### Short Title
-Pub. L. 92–63, § 1, Aug. 4, 1971, 85 Stat. 164, provided: “That this Act [enacting this chapter] may be cited as the ‘Vessel Bridge-to-Bridge Radiotelephone Act’.”
+(3) designate and fix responsibility for the conduct of the foregoing marine science activities by departments and agencies of the United States;
 
-#### Effective Date
-Pub. L. 92–63, § 10, Aug. 4, 1971, 85 Stat. 165, provided that: “This Act [enacting this chapter] shall become effective May 1, 1971, or six months after the promulgation of regulations which would implement its provisions, whichever is later.” See 47 CFR 83.701 et seq.
+(4) insure cooperation and resolve differences arising among departments and agencies of the United States with respect to marine science activities under this subchapter, including differences as to whether a particular project is a marine science activity;
 
+(5) undertake a comprehensive study, by contract or otherwise, of the legal problems arising out of the management, use, development, recovery, and control of the resources of the marine environment;
 
-<a id="section-1104-1105"></a>
-## § 1104, 1105. Definitions
+(6) establish long-range studies of the potential benefits to the United States economy, security, health, and welfare to be gained from marine resources, engineering, and science, and the costs involved in obtaining such benefits; and
 
-For the purpose of this chapter—
+(7) review annually all marine science activities conducted by departments and agencies of the United States in light of the policies, plans, programs, and priorities developed pursuant to this Act.
 
-(1) “Secretary” means the Secretary of the Department in which the Coast Guard is operating;
-
-(2) “power-driven vessel” means any vessel propelled by machinery; and
-
-(3) “towing vessel” means any commercial vessel engaged in towing another vessel astern, alongside, or by pushing ahead.
-
-### Statutory Notes
-
-#### Effective Date
-Section effective May 1, 1971, or six months after the promulgation of regulations which would implement its provisions, whichever is later, see section 10 of Pub. L. 92–63, set out as a note under [section 1201 of this title](./chapter-024-vessel-bridge-to-bridge-communication.md#section-1201).
-
-#### Transfer of Functions
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
-
-
-<a id="section-1106"></a>
-## § 1106. Radiotelephone requirement
-**(a) Vessel coverage; exchange of navigational information** Except as provided in [section 1206 of this title](./chapter-024-vessel-bridge-to-bridge-communication.md#section-1206)—
-
-(1) every power-driven vessel of twenty meters or over in length while navigating;
-
-(2) every vessel of one hundred gross tons as measured under [section 14502 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section14502&num=0&edition=prelim), or an alternate tonnage measured under section 14302 of that title as prescribed by the Secretary under section 14104 of that title, and upward carrying one or more passengers for hire while navigating;
-
-(3) every towing vessel of twenty-six feet or over in length while navigating; and
-
-(4) every dredge and floating plant engaged in or near a channel or fairway in operations likely to restrict or affect navigation of other vessels—
-shall have a radiotelephone capable of operation from its navigational bridge or, in the case of a dredge, from its main control station and capable of transmitting and receiving on the frequency or frequencies within the 156–162 Mega-Hertz band using the classes of emissions designated by the Federal Communications Commission, after consultation with other cognizant agencies, for the exchange of navigational information.
-
-**(b) Vessels upon navigable waters of United States inside high seas lines** The radiotelephone required by subsection (a) shall be carried on board the described vessels, dredges, and floating plants upon the navigable waters of the United States, which includes all waters of the territorial sea of the United States as described in Presidential Proclamation 5928 of December 27, 1988.
+**(b)** In the planning and conduct of a coordinated Federal program the President and the Council shall utilize such staff, interagency, and non-Government advisory arrangements as they may find necessary and appropriate and shall consult with departments and agencies concerned with marine science activities and solicit the views of non-Federal organizations and individuals with capabilities in marine sciences.
 
 ### Statutory Notes
 
 #### References in Text
-Presidential Proclamation 5928 of December 27, 1988, referred to in subsec. (b), is set out as a note under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim), Public Lands.
+This Act, referred to in subsec. (a)(7), is Pub. L. 89–454, June 17, 1966, 80 Stat. 203, which, at the time this section was enacted, consisted only of sections 1 to 9, which are classified generally to this subchapter. Pub. L. 89–688, § 2, Oct. 15, 1966, 80 Stat. 1001, redesignated the Act as title I and made conforming amendments, substituting references to title I for previous references to the Act as a whole, but not in subsec. (a)(7) of this section. Pub. L. 89–454 was amended by Pub. L. 89–688 by adding title II, which is classified generally to subchapter II of this chapter, and later by Pub. L. 92–583 by adding title III, which is classified generally to chapter 33 (§ 1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
-2002—Subsec. (b). Pub. L. 107–295 substituted “United States, which includes all waters of the territorial sea of the United States as described in Presidential Proclamation 5928 of December 27, 1988” for “United States inside the lines established pursuant to [section 151 of this title](./chapter-003-navigation-rules-for-harbors-rivers-and-inland-waters-generally.md#section-151)”.
+1966—Subsec. (a). Pub. L. 89–688, in par. (4), substituted “this title” for “this Act”, which, for purposes of codification has been changed to “this subchapter”.
 
-1996—Subsec. (a)(2). Pub. L. 104–324 inserted “as measured under [section 14502 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section14502&num=0&edition=prelim), or an alternate tonnage measured under section 14302 of that title as prescribed by the Secretary under section 14104 of that title,” after “one hundred gross tons”.
+#### Termination of Council
+National Council on Marine Resources and Engineering, established under [section 1102 of this title](./chapter-022-sea-grant-colleges-and-marine-science-development.md#section-1102), terminated Apr. 30, 1971, for lack of funds. See Codification note set out under [section 1102 of this title](./chapter-022-sea-grant-colleges-and-marine-science-development.md#section-1102).
 
-1991—Subsec. (a)(1). Pub. L. 102–241 amended par. (1) generally, substituting “twenty meters or over in length” for “three hundred gross tons and upward”.
 
-#### Effective Date
-Section effective May 1, 1971, or six months after the promulgation of regulations which would implement its provisions, whichever is later, see section 10 of Pub. L. 92–63, set out as a note under [section 1201 of this title](./chapter-024-vessel-bridge-to-bridge-communication.md#section-1201).
+<a id="section-1104-1105"></a>
+## § 1104, 1105. Omitted
 
-#### Vessel Communication Equipment Regulations
-Pub. L. 101–380, title IV, § 4118, Aug. 18, 1990, 104 Stat. 523, provided that: “The Secretary shall, not later than one year after the date of the enactment of this Act [Aug. 18, 1990], issue regulations necessary to ensure that vessels subject to the Vessel Bridge-to-Bridge Radiotelephone Act of 1971 ([33 U.S.C. 1203](./chapter-024-vessel-bridge-to-bridge-communication.md#section-1203)) are also equipped as necessary to— “(1) receive radio marine navigation safety warnings; and “(2) engage in radio communications on designated frequencies with the Coast Guard, and such other vessels and stations as may be specified by the Secretary.”
+### Statutory Notes
+
+#### Codification
+Section 1104, Pub. L. 89–454, title I, § 5, June 17, 1966, 80 Stat. 205; Pub. L. 89–688, § 2(b), Oct. 15, 1966, 80 Stat. 1001; Pub. L. 90–242, § 1, Jan. 2, 1968, 81 Stat. 780, established the Commission on Marine Science, Engineering, and Resources. For expiration of the Commission, see Codification note set out under [section 1102 of this title](./chapter-022-sea-grant-colleges-and-marine-science-development.md#section-1102).
+
+Section 1105, Pub. L. 89–454, title I, § 6, June 17, 1966, 80 Stat. 207, provided for the National Council on Marine Resources and Engineering Development to coordinate a program of international cooperation with respect to work done pursuant to this chapter. For expiration of the Council, see Codification note set out under [section 1102 of this title](./chapter-022-sea-grant-colleges-and-marine-science-development.md#section-1102).
+
+
+<a id="section-1106"></a>
+## § 1106. Reports to Congress
+**(a)** The President shall transmit to the Congress biennially in January a report, which shall include (1) a comprehensive description of the activities and the accomplishments of all agencies and departments of the United States in the field of marine science during the preceding fiscal year, and (2) an evaluation of such activities and accomplishments in terms of the objectives set forth pursuant to this Act.
+
+**(b)** Reports made under this section shall contain such recommendations for legislation as the President may consider necessary or desirable for the attainment of the objectives of this Act, and shall contain an estimate of funding requirements of each agency and department of the United States for marine science activities during the succeeding fiscal year.
+
+### Statutory Notes
+
+#### References in Text
+This Act, referred to in text, is Pub. L. 89–454, June 17, 1966, 80 Stat. 203, which, at the time this section was enacted, consisted only of sections 1 to 9, which are classified generally to this subchapter. Pub. L. 89–688, § 2, Oct. 15, 1966, 80 Stat. 1001, redesignated the Act as title I and made conforming amendments, substituting references to title I for previous references to the Act as a whole, but not in this section. Pub. L. 89–454 was amended by Pub. L. 89–688 by adding title II, which is classified generally to subchapter II of this chapter, and later by Pub. L. 92–583 by adding title III, which is classified generally to chapter 33 (§ 1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Tables.
+
+#### Amendments
+1986—Subsec. (a). Pub. L. 99–386 substituted “biennially in January” for “in January of each year”.
 
 
 <a id="section-1107"></a>
-## § 1107. Radiotelephone for exclusive use of master, person in charge, or pilot; frequency listening watch; portable radiotelephone equipment
+## § 1107. Definitions
 
-The radiotelephone required by this chapter is for the exclusive use of the master or person in charge of the vessel, or the person designated by the master or person in charge to pilot or direct the movement of the vessel, who shall maintain a listening watch on the designated frequency. Nothing contained herein shall be interpreted as precluding the use of portable radiotelephone equipment to satisfy the requirements of this chapter.
+For the purposes of this subchapter, the term “marine science” shall be deemed to apply to oceanographic and scientific endeavors and disciplines, and engineering and technology in and with relation to the marine environment; and the term “marine environment” shall be deemed to include (a) the oceans, (b) the Continental Shelf of the United States, (c) the Great Lakes, (d) seabed and subsoil of the submarine areas adjacent to the coasts of the United States to the depth of two hundred meters, or beyond that limit, to where the depths of the superjacent waters admit of the exploitation of the natural resources of such areas, (e) the seabed and subsoil of similar submarine areas adjacent to the coasts of islands which comprise United States territory, and (f) the resources thereof.
 
 ### Statutory Notes
 
-#### Effective Date
-Section effective May 1, 1971, or six months after the promulgation of regulations which would implement its provisions, whichever is later, see section 10 of Pub. L. 92–63, set out as a note under [section 1201 of this title](./chapter-024-vessel-bridge-to-bridge-communication.md#section-1201).
+#### Amendments
+1966—Pub. L. 89–688 substituted “this title” for “this Act”, which, for purposes of codification, has been changed to “this subchapter”.
 
 
 <a id="section-1108"></a>
-## § 1108. Radiotelephone capability; maintenance; restoration; consequences of loss: navigation of vessel
+## § 1108. Authorization of appropriations
 
-Whenever radiotelephone capability is required by this chapter, a vessel’s radiotelephone equipment shall be maintained in effective operating condition. If the radiotelephone equipment carried aboard a vessel ceases to operate, the master shall exercise due diligence to restore it or cause it to be restored to effective operating condition at the earliest practicable time. The failure of a vessel’s radiotelephone equipment shall not, in itself, constitute a violation of this chapter, nor shall it obligate the master of any vessel to moor or anchor his vessel; however, the loss of radiotelephone capability shall be given consideration in the navigation of the vessel.
+There are hereby authorized to be appropriated such sums as may be necessary to carry out this subchapter, but sums appropriated for any one fiscal year shall not exceed $1,200,000.
 
 ### Statutory Notes
 
-#### Effective Date
-Section effective May 1, 1971, or six months after the promulgation of regulations which would implement its provisions, whichever is later, see section 10 of Pub. L. 92–63, set out as a note under [section 1201 of this title](./chapter-024-vessel-bridge-to-bridge-communication.md#section-1201).
+#### Amendments
+1969—Pub. L. 91–15 substituted “$1,200,000” for “$1,500,000”.
+
+1966—Pub. L. 89–688 substituted “this title” for “this Act”, which, for purposes of codification, has been changed to “this subchapter”.
 
 
 <a id="section-1121"></a>
-## § 1121. Exemptions; terms and conditions
+## § 1121. Congressional declaration of policy
+**(a) Findings** The Congress finds and declares the following:
 
-The Secretary may, if he considers that marine navigational safety will not be adversely affected or where a local communication system fully complies with the intent of this concept but does not conform in detail, issue exemptions from any provisions of this chapter, on such terms and conditions as he considers appropriate.
+(1) The national interest requires a strategy to—
+
+  (A) provide for the understanding and wise use of ocean, coastal, and Great Lakes resources and the environment;
+
+  (B) foster economic competitiveness;
+
+  (C) promote public stewardship and wise economic development of the coastal ocean and its margins, the Great Lakes, and the exclusive economic zone;
+
+  (D) encourage the development of preparation, forecast, analysis, mitigation, response, and recovery systems for coastal hazards;
+
+  (E) understand global environmental processes and their impacts on ocean, coastal, and Great Lakes resources; and
+
+  (F) promote domestic and international cooperative solutions to ocean, coastal, and Great Lakes issues.
+
+(2) Investment in a strong program of integrated research, education, extension, training, technology transfer, and public service is essential for this strategy.
+
+(3) The expanding use and development of ocean, coastal, and Great Lakes resources resulting from growing coastal area populations and the increasing pressures on the coastal and Great Lakes environment challenge the ability of the United States to manage such resources wisely.
+
+(4) The vitality of the Nation and the quality of life of its citizens depend increasingly on the understanding, assessment, development, management, utilization, and conservation of ocean, coastal, and Great Lakes resources. These resources supply food, energy, and minerals and contribute to human health, the quality of the environment, national security, and the enhancement of commerce.
+
+(5) The understanding, assessment, development, management, utilization, and conservation of such resources require a broad commitment and an intense involvement on the part of the Federal Government in continuing partnership with State and local governments, private industry, universities, organizations, and individuals concerned with or affected by ocean, coastal, and Great Lakes resources.
+
+(6) The National Oceanic and Atmospheric Administration, through the national sea grant college program, offers the most suitable locus and means for such commitment and engagement through the promotion of activities that will result in greater such understanding, assessment, development, management, management,11 So in original. utilization, and conservation of ocean, coastal, and Great Lakes resources. The most cost-effective way to promote such activities is through continued and increased Federal support of the establishment, development, management, and operation of programs and projects by sea grant colleges, sea grant institutes, and other institutions, including strong collaborations between Administration scientists and research and outreach personnel at academic institutions.
+
+**(b) Objective** The objective of this subchapter is to increase the understanding, assessment, development, management, utilization, and conservation of the Nation’s ocean, coastal, and Great Lakes resources by providing assistance to promote a strong educational base, responsive research and training activities, broad and prompt dissemination of knowledge and techniques, and multidisciplinary approaches to environmental problems.
+
+**(c) Purpose** It is the purpose of the Congress to achieve the objective of this subchapter by extending and strengthening the national sea grant program, initially established in 1966, to promote integrated research, education, training, and extension services and activities in fields related to ocean, coastal, and Great Lakes resources.
 
 ### Statutory Notes
 
-#### Effective Date
-Section effective May 1, 1971, or six months after the promulgation of regulations which would implement its provisions, whichever is later, see section 10 of Pub. L. 92–63, set out as a note under [section 1201 of this title](./chapter-024-vessel-bridge-to-bridge-communication.md#section-1201).
+#### Amendments
+2008—Subsec. (a). Pub. L. 110–394, § 3(c), inserted “management,” after “development,” wherever appearing.
+
+Subsec. (a)(1)(D), (E). Pub. L. 110–394, § 3(a)(1), added subpars. (D) and (E) and struck out former subpars. (D) and (E) which read as follows:
+
+“(D) encourage the development of forecast and analysis systems for coastal hazards;
+
+“(E) understand global environmental processes; and”.
+
+Subsec. (a)(2). Pub. L. 110–394, § 3(a)(2), substituted “program of integrated research, education, extension,” for “program of research, education,”.
+
+Subsec. (a)(6). Pub. L. 110–394, § 3(a)(3), added par. (6) and struck out former par. (6) which read as follows: “The National Oceanic and Atmospheric Administration, through the national sea grant college program, offers the most suitable locus and means for such commitment and involvement through the promotion of activities that will result in greater such understanding, assessment, development, utilization, and conservation. The most cost-effective way to promote such activities is through continued and increased Federal support of the establishment, development, and operation of programs and projects by sea grant colleges, sea grant institutes, and other institutions, including strong collaborations between Administration scientists and scientists at academic institutions.”
+
+Subsec. (b). Pub. L. 110–394, § 3(c), inserted “management,” after “development,”.
+
+Subsec. (c). Pub. L. 110–394, § 3(b), substituted “to promote integrated research, education, training, and extension services and activities” for “to promote research, education, training, and advisory service activities”.
+
+2002—Subsec. (a)(6). Pub. L. 107–299 inserted “, including strong collaborations between Administration scientists and scientists at academic institutions” before period at end.
+
+1998—Subsec. (a)(1)(D) to (F). Pub. L. 105–160, § 3(a), added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
+
+Subsec. (a)(6). Pub. L. 105–160, § 3(b), substituted “The most cost-effective way to promote such activities is through continued and increased Federal support of the establishment, development, and operation of programs and projects by sea grant colleges, sea grant institutes, and other institutions.” for “Continued and increased Federal support of the establishment, development, and operation of programs and projects by sea grant colleges, sea grant regional consortia, institutions of higher education, institutes, laboratories, and other appropriate public and private entities is the most cost-effective way to promote such activities.”
+
+1987—Subsec. (a). Pub. L. 100–220, §§ 3103(1), 3104(b)(1)(A), added pars. (1) to (3), redesignated former pars. (1) to (3) as (4) to (6), respectively, and substituted “ocean, coastal, and Great Lakes resources” for “ocean and coastal resources” in pars. (4) and (5).
+
+Subsec. (b). Pub. L. 100–220, § 3103(2), substituted “ocean, coastal, and Great Lakes resources by providing assistance to promote a strong educational base, responsive research and training activities, broad and prompt dissemination of knowledge and techniques, and multidisciplinary approaches to environmental problems.” for “ocean and coastal resources by providing assistance to promote a strong educational base, responsive research and training activities, and broad and prompt dissemination of knowledge and techniques.”
+
+Subsec. (c). Pub. L. 100–220, § 3104(b)(1)(B), substituted “ocean, coastal, and Great Lakes resources” for “ocean and coastal resources”.
+
+1978—Subsec. (a)(3). Pub. L. 95–428 substituted “national sea grant college program” for “national sea grant program”.
+
+1976—Pub. L. 94–461 completely rewrote the Congressional statement of findings, objectives, and purposes of the National Sea Grant Program Act to reflect the extension and strengthening of the national sea grant program to promote research, education, training, and advisory service activities in fields related to ocean and coastal resources through federal support to sea grant colleges, sea grant regional consortia, and other institutions through the National Oceanic and Atmospheric Administration, and to make education, training, research, and advisory services responsive to state, local, regional, or national needs and problems.
+
+#### Short Title of 2020 Amendment
+Pub. L. 116–221, § 1, Dec. 18, 2020, 134 Stat. 1057, provided that: “This Act [amending sections 1123, 1126, 1127, 1128, and 1131 of this title, repealing [section 857–20 of this title](./chapter-017-national-oceanic-and-atmospheric-administration.md#section-857-20), and enacting provisions set out as notes under sections 1123 and 1127 of this title] may be cited as the ‘National Sea Grant College Program Amendments Act of 2020’.”
+
+#### Short Title of 2008 Amendment
+Pub. L. 110–394, § 1, Oct. 13, 2008, 122 Stat. 4205, provided that: “This Act [amending this section and sections 1122 to 1124, 1126 to 1128, and 1131 of this title and enacting provisions set out as a note under [section 1128 of this title](./chapter-022-sea-grant-colleges-and-marine-science-development.md#section-1128)] may be cited as the ‘National Sea Grant College Program Amendments Act of 2008’.”
+
+#### Short Title of 2002 Amendment
+Pub. L. 107–299, § 1, Nov. 26, 2002, 116 Stat. 2345, provided that: “This Act [enacting [section 857–20 of this title](./chapter-017-national-oceanic-and-atmospheric-administration.md#section-857-20), amending this section and sections 1123, 1124, 1126 to 1128, and 1131 of this title, and enacting provisions set out as a note under [section 1123 of this title](./chapter-022-sea-grant-colleges-and-marine-science-development.md#section-1123)] may be cited as the ‘National Sea Grant College Program Act Amendments of 2002’.”
+
+#### Short Title of 1998 Amendment
+Pub. L. 105–160, § 1, Mar. 6, 1998, 112 Stat. 21, provided that: “This Act [enacting [section 1541 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1541&num=0&edition=prelim), Commerce and Trade, amending this section and sections 1122, 1123, 1126 to 1128, and 1131 of this title, repealing [section 1124a of this title](./chapter-022-sea-grant-colleges-and-marine-science-development.md#section-1124a), and enacting provisions set out as notes under sections 1123 and 1131 of this title] may be cited as the ‘National Sea Grant College Program Reauthorization Act of 1998’.”
+
+#### Short Title of 1991 Amendment
+Pub. L. 102–186, § 1, Dec. 4, 1991, 105 Stat. 1282, provided that: “This Act [amending sections 1122 to 1124, 1127, 1128, and 1131 of this title and [section 4741 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4741&num=0&edition=prelim), Conservation, and repealing sections 1125 and 1130 of this title] may be cited as the ‘National Sea Grant College Program Authorization Act of 1991’.”
+
+#### Short Title of 1987 Amendment
+Pub. L. 100–220, title III, § 3001, Dec. 29, 1987, 101 Stat. 1469, provided that: “This title [amending this section and sections 1122 to 1131 of this title and enacting provisions set out as notes under this section and sections 883a and 1125 of this title] may be cited as the ‘Marine Science, Technology, and Policy Development Act of 1987’.”
+
+Section 3101 of subtitle A (§§ 3101–3111) of title III of Pub. L. 100–220 provided that: “This subtitle [amending this section and sections 1122 to 1131 of this title and enacting provisions set out as a note under [section 1125 of this title](./chapter-022-sea-grant-colleges-and-marine-science-development.md#section-1125)] may be cited as the ‘National Sea Grant College Program Authorization Act of 1987’.”
+
+#### Short Title of 1976 Amendment
+Pub. L. 94–461, § 1, Oct. 8, 1976, 90 Stat. 1961, provided: “That this Act [enacting sections 1124a, 1125, 1126, 1127, 1128, 1129, 1130, and 1131 of this title and amending this section, sections 1122, 1123, and 1124 of this title, sections 5314 and 5315 of Title 5, Government Organization and Employees, and provisions set out as notes under this section, [section 1511 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1511&num=0&edition=prelim), Commerce and Trade, and in the Appendix to Title 5, Government Organization and Employees] may be cited as the ‘Sea Grant Program Improvement Act of 1976’.”
+
+#### Short Title
+Pub. L. 89–454, title II, § 201, as added by Pub. L. 89–688, § 1, Oct. 15, 1966, 80 Stat. 998, and amended by Pub. L. 94–461, § 2, Oct. 8, 1976, 90 Stat. 1961; Pub. L. 95–428, § 2(a), Oct. 7, 1978, 92 Stat. 999, provided that: “This title [enacting this subchapter] may be cited as the ‘National Sea Grant College Program Act’.”
 
 
 <a id="section-1122"></a>
-## § 1122. Regulations
-**(a) Operating and technical conditions and characteristics; frequencies, emission, and power of radiotelephone equipment** The Federal Communications Commission shall, after consultation with other cognizant agencies, prescribe regulations necessary to specify operating and technical conditions and characteristics including frequencies, emission, and power of radiotelephone equipment required under this chapter.
+## § 1122. Definitions
 
-**(b) Enforcement** The Secretary shall, subject to the concurrence of the Federal Communications Commission, prescribe regulations for the enforcement of this chapter.
+As used in this subchapter—
+
+(1) The term “Administration” means the National Oceanic and Atmospheric Administration.
+
+(2) The term “Director” means the Director of the national sea grant college program, appointed pursuant to section 1123(b) 11 See References in Text note below. of this title.
+
+(3) the 22 So in original. Probably should be capitalized. term “director of a sea grant college” means a person designated by his or her institution to direct a sea grant college or sea grant institute.
+
+(4) The term “field related to ocean, coastal, and Great Lakes resources” means any discipline or field, including marine affairs, resource management, technology, education, or science, which is concerned with or likely to improve the understanding, assessment, development, management, utilization, or conservation of ocean, coastal, or Great Lakes resources.
+
+(5) The term “institution” means any public or private institution of higher education, institute, laboratory, or State or local agency.
+
+(6) The term “includes” and variants thereof should be read as if the phrase “but is not limited to” were also set forth.
+
+(7) The term “ocean, coastal, and Great Lakes resources” means the resources that are located in, derived from, or traceable to, the seabed, subsoil, and waters of—
+
+  (A) the coastal zone, as defined in [section 1453(1) of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1453/1&num=0&edition=prelim);
+
+  (B) the Great Lakes;
+
+  (C) Lake Champlain (to the extent that such resources have hydrological, biological, physical, or geological characteristics and problems similar or related to those of the Great Lakes);
+
+  (D) the territorial sea;
+
+  (E) the exclusive economic zone;
+
+  (F) the Outer Continental Shelf; and
+
+  (G) the high seas.
+
+(8) The term “resource” means—
+
+  (A) living resources (including natural and cultured plant life, fish, shellfish, marine mammals, and wildlife);
+
+  (B) nonliving resources (including energy sources, minerals, and chemical substances);
+
+  (C) the habitat of a living resource, the coastal space, the ecosystems, the nutrient-rich areas, and the other components of the marine environment that contribute to or provide (or which are capable of contributing to or providing) recreational, scenic, esthetic, biological, habitational, commercial, economic, or conservation values; and
+
+  (D) man-made, tangible, intangible, actual, or potential resources.
+
+(9) The term “Board” means the National Sea Grant Advisory Board established under [section 1128 of this title](./chapter-022-sea-grant-colleges-and-marine-science-development.md#section-1128).
+
+(10) The term “person” means any individual; any public or private corporation, partnership, or other association or entity (including any sea grant college, sea grant institute or other institution); or any State, political subdivision of a State, or agency or officer thereof.
+
+(11) The term “project” means any individually described activity in a field related to ocean, coastal, and Great Lakes resources involving research, education, training, or extension services administered by a person with expertise in such a field.
+
+(12) The term “sea grant college” means any institution, or any association or alliance of two or more such institutions, designated as such by the Secretary under [section 1126 of this title](./chapter-022-sea-grant-colleges-and-marine-science-development.md#section-1126).
+
+(13) The term “sea grant institute” means any institution, or any association or alliance of two or more such institutions, designated as such by the Secretary under [section 1126 of this title](./chapter-022-sea-grant-colleges-and-marine-science-development.md#section-1126).
+
+(14) The term “sea grant program” means a program of research and outreach which is administered by one or more sea grant colleges or sea grant institutes.
+
+(15) The term “Secretary” means the Secretary of Commerce, acting through the Under Secretary of Commerce for Oceans and Atmosphere.
+
+(16) The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Mariana Islands, or any other territory or possession of the United States.
 
 ### Statutory Notes
 
-#### Effective Date
-Section effective May 1, 1971, or six months after the promulgation of regulations which would implement its provisions, whichever is later, see section 10 of Pub. L. 92–63, set out as a note under [section 1201 of this title](./chapter-024-vessel-bridge-to-bridge-communication.md#section-1201).
+#### References in Text
+[Section 1123 of this title](./chapter-022-sea-grant-colleges-and-marine-science-development.md#section-1123), referred to in par. (2), was amended generally by Pub. L. 105–160, § 5, Mar. 6, 1998, 112 Stat. 22, and, as so amended, provisions relating to appointment of the Director of the National Sea Grant College Program, which formerly appeared in subsec. (b), are contained in subsec. (d).
+
+#### Amendments
+2008—Par. (4). Pub. L. 110–394, § 4(a)(1), inserted “management,” after “development,”.
+
+Par. (6)(F), (G). Pub. L. 110–394, § 4(b), repealed section 307(a) of Pub. L. 102–251. See 1992 Amendment note below.
+
+Par. (9). Pub. L. 110–394, § 9(a)(4)(B), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “The term ‘panel’ means the sea grant review panel established under [section 1128 of this title](./chapter-022-sea-grant-colleges-and-marine-science-development.md#section-1128).”
+
+Par. (11). Pub. L. 110–394, § 4(a)(2), substituted “extension services” for “advisory services”.
+
+Pars. (12), (13). Pub. L. 110–394, § 4(a)(3), made technical amendment to reference in original act which appears in text as reference to “[section 1126 of this title](./chapter-022-sea-grant-colleges-and-marine-science-development.md#section-1126)”, requiring no change in text.
+
+1998—Par. (3). Pub. L. 105–160, § 4(a)(1), substituted “his or her” for “their university or” and “college or sea grant institute” for “college, programs, or regional consortium”.
+
+Par. (4). Pub. L. 105–160, § 4(a)(2), added par. (4) and struck out former par. (4) which read as follows: “The term ‘field related to ocean, coastal, and Great Lakes resources’ means any discipline or field (including marine science (and the physical, natural, and biological sciences, and engineering, included therein), marine technology, education, marine affairs and resource management, economics, sociology, communications, planning, law, international affairs, and public administration) which is concerned with or likely to improve the understanding, assessment, development, utilization, or conservation of ocean, coastal, and Great Lakes resources.”
+
+Par. (5). Pub. L. 105–174, § 10003(1), redesignated par. (6) as (5) and struck out former par. (5) which read as follows: “The term ‘Great Lakes’ includes Lake Champlain.”
+
+Pub. L. 105–160, § 4(a)(3), added par. (5). Former par. (5) redesignated (7).
+
+Par. (6). Pub. L. 105–174, § 10003(1), redesignated par. (7) as (6). Former par. (6) redesignated (5).
+
+Pub. L. 105–160, § 4(a)(3), added par. (6). Former par. (6) redesignated (8).
+
+Par. (7). Pub. L. 105–174, § 10003, redesignated par. (8) as (7), added subpar. (C), and redesignated former subpars. (C) to (F) as (D) to (G), respectively. Former par. (7) redesignated (6).
+
+Pub. L. 105–160, § 4(a)(3), redesignated par. (5) as (7). Former par. (7) redesignated (9).
+
+Pars. (8) to (10). Pub. L. 105–174, § 10003(1), redesignated pars. (9) to (11) as (8) to (10), respectively. Former par. (8) redesignated (7).
+
+Pub. L. 105–160, § 4(a)(3), redesignated pars. (6) to (8) as (8) to (10), respectively. Former pars. (9) and (10) redesignated (11) and (12), respectively.
+
+Par. (11). Pub. L. 105–174, § 10003(1), redesignated par. (12) as (11). Former par. (11) redesignated (10).
+
+Pub. L. 105–160, § 4(a)(3), (4), redesignated par. (9) as (11) and substituted “institute or other institution” for “regional consortium, institution of higher education, institute, or laboratory”. Former par. (11) redesignated (13).
+
+Pars. (12) to (17). Pub. L. 105–174, § 10003(1), redesignated pars. (13) to (17) as (12) to (16), respectively. Former par. (12) redesignated (11).
+
+Pub. L. 105–160, § 4(a)(5), added pars. (12) to (17) and struck out former pars. (12) to (17) which defined “sea grant college”, “sea grant program”, “sea grant regional consortium”, “Secretary”, “State”, and “Under Secretary”, respectively.
+
+Pub. L. 105–160, § 4(a)(3), redesignated pars. (10) to (15) as (12) to (17), respectively.
+
+1992—Par. (6)(F), (G). Pub. L. 102–251, § 307(a), which directed addition of subpar. (F) and redesignation of former subpar. (F) as (G), was repealed by section 4(b) of Pub. L. 110–394. See Effective Date of 1992 Amendment note below.
+
+1991—Par. (4). Pub. L. 102–186 inserted “marine affairs and resource management,” after “education,”.
+
+1987—Pars. (2), (3). Pub. L. 100–220, § 3104(a)(1), (2), added par. (3), redesignated former par. (3) as (2), and struck out former par. (2) which read as follows: “The term ‘Administrator’ means the Administrator of the National Oceanic and Atmospheric Administration.”
+
+Par. (4). Pub. L. 100–220, § 3104(b)(1)(C), substituted “ocean, coastal, and Great Lakes resources” for “ocean and coastal resources” in two places.
+
+Par. (6). Pub. L. 100–220, § 3104(a)(3), added par. (6) and struck out former par. (6) which read as follows: “The term ‘marine environment’ means the coastal zone, as defined in [section 1453(1) of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1453/1&num=0&edition=prelim); the seabed, subsoil, and waters of the Great Lakes and the territorial sea of the United States; the waters of any zone over which the United States asserts exclusive fishery management authority; the waters of the high seas; and the seabed and subsoil of and beyond the outer Continental Shelf.”
+
+Par. (7). Pub. L. 100–220, § 3104(a)(3), added par. (7) and struck out former par. (7) which read as follows: “The term ‘ocean and coastal resource’ means any resource (whether living, nonliving, manmade, tangible, intangible, actual, or potential) which is located in, derived from, or traceable to, the marine environment. Such term includes the habitat of any such living resource, the coastal space, the ecosystems, the nutrient-rich areas, and the other components of the marine environment which contribute to or provide (or which are capable of contributing to or providing) recreational, scenic, esthetic, biological, habitational, commercial, economic, or conservation values. Living resources include natural and cultured plant life, fish, shellfish, marine mammals, and wildlife. Nonliving resources include energy sources, minerals, and chemical substances.”
+
+Par. (11). Pub. L. 100–220, § 3104(b)(1)(C), substituted “ocean, coastal, and Great Lakes resources” for “ocean and coastal resources”.
+
+Par. (15). Pub. L. 100–220, § 3104(a)(4), added par. (15).
+
+1980—Par. (6). Pub. L. 96–289 extended term “marine environment” to include waters of Great Lakes.
+
+1978—Pub. L. 95–428 substituted “national sea grant college program” for “national sea grant program”.
+
+1976—Pub. L. 94–461 substituted provisions defining terms used in this subchapter for provisions designating Secretary of Commerce as administering authority for national sea grant program and authorizing appropriations through fiscal 1976.
+
+1973—Subsec. (a). Pub. L. 93–73, § 1(5), substituted “Secretary of Commerce” and “Secretary” for “National Science Foundation” and “Foundation”, respectively.
+
+Subsec. (b)(1). Pub. L. 93–73, § 1(1), (5), authorized appropriations of $30,000,000; $40,000,000; and $50,000,000 for fiscal years ending June 30, 1974, 1975, and 1976, and substituted “Secretary” for “Foundation”.
+
+1970—Subsec. (b)(1). Pub. L. 91–349 authorized appropriations for fiscal year ending June 30, 1971, not to exceed the sum of $20,000,000, for fiscal year ending June 30, 1972, not to exceed the sum of $25,000,000, and for fiscal year ending June 30, 1973, not to exceed the sum of $30,000,000.
+
+1968—Subsec. (b)(1). Pub. L. 90–477 authorized appropriations for fiscal year ending June 30, 1969, not to exceed the sum of $6,000,000, and for fiscal year ending June 30, 1970, not to exceed the sum of $15,000,000.
+
+#### Effective Date of 1992 Amendment
+Amendment by Pub. L. 102–251 effective on date on which Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until date on which Agreement enters into force for United States, see section 308 of Pub. L. 102–251, set out as a note under [section 773 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section773&num=0&edition=prelim), Conservation.
+
+#### Territorial Sea of United States
+For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim), Public Lands.
 
 
 <a id="section-1123"></a>
-## § 1123. Penalties
-**(a) Master, person in charge, or pilot subject to penalty** Whoever, being the master or person in charge of a vessel subject to this chapter, fails to enforce or comply with this chapter or the regulation, hereunder; or Whoever, being designated by the master or person in charge of a vessel subject to this chapter to pilot or direct the movement of the vessel, fails to enforce or comply with this chapter or the regulations hereunder— Is liable to a civil penalty of not more than $500 to be assessed by the Secretary.
+## § 1123. National sea grant college program
+**(a) Program maintenance** The Secretary shall maintain within the Administration a program to be known as the national sea grant college program. The national sea grant college program shall be administered by a national sea grant office within the Administration.
 
-**(b) Vessels subject to penalty; jurisdiction** Every vessel navigating in violation of this chapter or the regulations hereunder is liable to a civil penalty of not more than $500 to be assessed by the Secretary for which the vessel may be proceeded against in any district court of the United States having jurisdiction.
+**(b) Program elements** The national sea grant college program shall consist of the financial assistance for research, education, extension, training, technology transfer, and public service and other activities authorized in this subchapter, and shall provide support for the following elements—
 
-**(c) Remission or mitigation** Any penalty assessed under this section may be remitted or mitigated by the Secretary upon such terms as he may deem proper.
+(1) sea grant programs that comprise a national sea grant college program network, including international projects conducted within such programs and regional and national projects conducted among such programs;
+
+(2) administration of the national sea grant college program and this subchapter by the national sea grant office and the Administration;
+
+(3) the fellowship program under [section 1127 of this title](./chapter-022-sea-grant-colleges-and-marine-science-development.md#section-1127); and
+
+(4) any regional or national strategic investments in fields relating to ocean, coastal, and Great Lakes resources developed in consultation with the Board and with the approval of the sea grant colleges and the sea grant institutes.
+
+**(c) Responsibilities of Secretary**
+
+(1) The Secretary, in consultation with the Board, sea grant colleges, and sea grant institutes, shall develop at least every 4 years a strategic plan that establishes priorities for the national sea grant college program, provides an appropriately balanced response to local, regional, and national needs, and is reflective of integration with the relevant portions of the strategic plans of the Department of Commerce and of the Administration.
+
+(2) The Secretary, in consultation with the Board, sea grant colleges, and sea grant institutes, shall establish guidelines related to the activities and responsibilities of sea grant colleges and sea grant institutes. Such guidelines shall include requirements for the conduct of merit review by the sea grant colleges and sea grant institutes of proposals for grants and contracts to be awarded under [section 1124 of this title](./chapter-022-sea-grant-colleges-and-marine-science-development.md#section-1124), providing, at a minimum, for standardized documentation of such proposals and peer review of all research projects.
+
+(3) The Secretary shall by regulation prescribe the qualifications required for designation of sea grant colleges and sea grant institutes under [section 1126 of this title](./chapter-022-sea-grant-colleges-and-marine-science-development.md#section-1126).
+
+(4) To carry out the provisions of this subchapter, the Secretary may—
+
+  (A) appoint, assign the duties, transfer, and fix the compensation of such personnel as may be necessary, in accordance with civil service laws;
+
+  (B) make appointments with respect to temporary and intermittent services to the extent authorized by [section 3109 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109&num=0&edition=prelim);
+
+  (C) publish or arrange for the publication of, and otherwise disseminate, in cooperation with other offices and programs in the Administration and without regard to [section 501 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section501&num=0&edition=prelim), any information of research, educational, training or other value in fields related to ocean, coastal, or Great Lakes resources;
+
+  (D) enter into contracts, cooperative agreements, and other transactions without regard to [section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim);
+
+  (E) accept donations of money and, notwithstanding [section 1342 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1342&num=0&edition=prelim), of voluntary and uncompensated services;
+
+  (F) accept funds from other Federal departments and agencies, including agencies within the Administration, to pay for and add to grants made and contracts entered into by the Secretary; and
+
+  (G) promulgate such rules and regulations as may be necessary and appropriate.
+
+**(d) Director of National Sea Grant College Program**
+
+(1) The Secretary shall appoint, as the Director of the National Sea Grant College Program, a qualified individual who has appropriate administrative experience and knowledge or expertise in fields related to ocean, coastal, and Great Lakes resources. The Director shall be appointed and compensated, without regard to the provisions of title 5 governing appointments in the competitive service, at a rate payable under [section 5376 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).
+
+(2) Subject to the supervision of the Secretary, the Director shall administer the national sea grant college program and oversee the operation of the national sea grant office. In addition to any other duty prescribed by law or assigned by the Secretary, the Director shall—
+
+  (A) facilitate and coordinate the development of a strategic plan under subsection (c)(1);
+
+  (B) advise the Secretary with respect to the expertise and capabilities which are available within or through the national sea grant college program and encourage the use of such expertise and capabilities, on a cooperative or other basis, by other offices and activities within the Administration, and other Federal departments and agencies;
+
+  (C) advise the Secretary on the designation of sea grant colleges and sea grant institutes, and, if appropriate, on the termination or suspension of any such designation; and
+
+  (D) encourage the establishment and growth of sea grant programs, and cooperation and coordination with other Federal activities in fields related to ocean, coastal, and Great Lakes resources.
+
+(3) With respect to sea grant colleges, sea grant institutes, sea grant programs, and sea grant projects, the Director shall—
+
+  (A) evaluate and assess the performance of the programs of sea grant colleges and sea grant institutes, using the priorities, guidelines, and qualifications established by the Secretary under subsection (c), and determine which of the programs are the best managed and carry out the highest quality research, education, extension, and training activities;
+
+  (B) subject to the availability of appropriations, allocate funding among sea grant colleges, sea grant institutes, sea grant programs, and sea grant projects so as to—
+
+    (i) promote healthy competition among sea grant colleges and institutes;
+
+    (ii) encourage collaborations among sea grant colleges and sea grant institutes to address regional and national priorities established under subsection (c)(1);
+
+    (iii) ensure successful implementation of sea grant programs;
+
+    (iv) to the maximum extent consistent with other provisions of this subchapter, provide a stable base of funding for sea grant colleges and institutes;
+
+    (v) encourage and promote coordination and cooperation between the research, education, and outreach programs of the Administration and those of academic institutions; and
+
+    (vi) encourage cooperation with Minority Serving Institutions to enhance collaborative research opportunities and increase the number of such students graduating in NOAA science areas; and
+
+  (C) ensure compliance with the guidelines for merit review under subsection (c)(2).
 
 ### Statutory Notes
 
-#### Effective Date
-Section effective May 1, 1971, or six months after the promulgation of regulations which would implement its provisions, whichever is later, see section 10 of Pub. L. 92–63, set out as a note under [section 1201 of this title](./chapter-024-vessel-bridge-to-bridge-communication.md#section-1201).
+#### References in Text
+The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (d)(1), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
+
+This subchapter, referred to in subsec. (d)(3)(B)(iv), was in the original “this Act” and was translated as reading “this title” meaning title II of Pub. L. 89–454, which enacted this subchapter, to reflect the probable intent of Congress.
+
+#### Codification
+In subsec. (c)(4)(D), “[section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim)” substituted for “[section 5 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section5&num=0&edition=prelim), United States Code” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+#### Amendments
+2020—Subsec. (b). Pub. L. 116–221, § 6, inserted “for research, education, extension, training, technology transfer, and public service” after “financial assistance” in introductory provisions.
+
+Subsec. (c)(4)(E). Pub. L. 116–221, § 4(a), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “notwithstanding [section 1342 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1342&num=0&edition=prelim), accept donations and voluntary and uncompensated services;”.
+
+Subsec. (d)(3). Pub. L. 116–221, § 9(c)(1)(A), substituted “With respect to sea grant colleges, sea grant institutes, sea grant programs, and sea grant projects” for “With respect to sea grant colleges and sea grant institutes” in introductory provisions.
+
+Subsec. (d)(3)(B). Pub. L. 116–221, § 9(c)(1)(B), substituted “funding among sea grant colleges, sea grant institutes, sea grant programs, and sea grant projects” for “funding among sea grant colleges and sea grant institutes” in introductory provisions.
+
+Subsec. (d)(3)(B)(vi). Pub. L. 116–221, § 11(1), realigned margin.
+
+2008—Subsec. (b)(1). Pub. L. 110–394, § 5(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “sea grant programs which comprise a national sea grant college program network, including international projects conducted within such programs;”.
+
+Subsec. (b)(2). Pub. L. 110–394, § 5(a)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “administration of the national sea grant college program and this subchapter by the national sea grant office, the Administration, and the panel;”.
+
+Subsec. (b)(4). Pub. L. 110–394, § 5(a)(3), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “any national strategic investments in fields relating to ocean, coastal, and Great Lakes resources developed with the approval of the panel, the sea grant colleges, and the sea grant institutes.”
+
+Subsec. (c)(1). Pub. L. 110–394, § 9(a)(4)(C)(i), substituted “Board” for “panel”.
+
+Subsec. (c)(2). Pub. L. 110–394, §§ 5(b), 9(a)(4)(C)(i), substituted “The” for “Within 6 months of March 6, 1998, the” and “Board” for “panel”.
+
+Subsec. (d)(2)(A). Pub. L. 110–394, § 5(c)(1), which directed the striking out of “long range”, was executed by striking out “long-range” before “strategic plan” to reflect the probable intent of Congress.
+
+Subsec. (d)(3)(A). Pub. L. 110–394, § 5(c)(2), substituted “evaluate and assess” for “evaluate” and “activities;” for “activities; and”, struck out cl. (i) designation before “evaluate”, and struck out cl. (ii) which read as follows: “rate the programs according to their relative performance (as determined under clause (i)) into no less than 5 categories, with each of the 2 best-performing categories containing no more than 25 percent of the programs;”.
+
+Subsec. (d)(3)(B)(ii). Pub. L. 110–394, § 5(c)(3)(A), added cl. (ii). Former cl. (ii) redesignated (iii).
+
+Subsec. (d)(3)(B)(iii). Pub. L. 110–394, § 5(c)(3)(A), (B), redesignated cl. (ii) as (iii) and substituted “ensure” for “encourage”. Former cl. (iii) redesignated (iv).
+
+Subsec. (d)(3)(B)(iv), (v). Pub. L. 110–394, § 5(c)(3)(A), redesignated cls. (iii) and (iv) as (iv) and (v), respectively.
+
+Subsec. (d)(3)(B)(vi). Pub. L. 110–394, § 5(c)(3)(C), (D), added cl. (vi).
+
+2002—Subsec. (c)(1). Pub. L. 107–299, § 3(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary, in consultation with the panel, sea grant colleges, and sea grant institutes, shall develop a long-range strategic plan which establishes priorities for the national sea grant college program and which provides an appropriately balanced response to local, regional, and national needs.”
+
+Subsec. (d)(3)(A). Pub. L. 107–299, § 3(b)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “evaluate the programs of sea grant colleges and sea grant institutes, using the priorities, guidelines, and qualifications established by the Secretary;”.
+
+Subsec. (d)(3)(B)(iv). Pub. L. 107–299, § 3(c), added cl. (iv).
+
+1998—Pub. L. 105–160 amended section catchline and text generally. Prior to amendment text consisted of subsecs. (a) to (d) relating to maintenance within the Administration of the National Sea Grant College Program, appointment and compensation of a Director of the program, duties of the Director, and powers of the Secretary to carry out the provisions of this subchapter.
+
+1991—Subsec. (a). Pub. L. 102–186, § 2(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary shall maintain, within the Administration, a program to be known as the national sea grant college program. The national sea grant college program shall consist of the financial assistance and other activities provided for in this subchapter. The Secretary shall establish long-range planning guidelines and priorities for, and adequately evaluate, this program.”
+
+Subsec. (c)(3). Pub. L. 102–186, § 4(b)(1)(A), substituted “section 1124” for “sections 1124 and 1125”.
+
+Subsec. (c)(8). Pub. L. 102–186, § 2(b), added par. (8).
+
+Subsec. (d)(6). Pub. L. 102–186, § 2(c), inserted “and add” after “to pay for”.
+
+1987—Subsec. (b)(1)(A). Pub. L. 100–220, § 3104(b)(1)(D), substituted “ocean, coastal, and Great Lakes resources” for “ocean and coastal resources”.
+
+Subsec. (c). Pub. L. 100–220, § 3104(c), substituted “Under Secretary” for “Administrator” wherever appearing in introductory provisions and par. (2).
+
+Subsec. (c)(5). Pub. L. 100–220, § 3104(b)(2), substituted “ocean, coastal, and Great Lakes resources” for “ocean and coastal resource”.
+
+Subsec. (d)(3). Pub. L. 100–220, § 3104(b)(1)(D), substituted “ocean, coastal, and Great Lakes resources” for “ocean and coastal resources” in two places.
+
+Subsec. (d)(6). Pub. L. 100–220, § 3105(b), struck out “under [section 1124(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1124/a&num=0&edition=prelim)” after “Secretary”.
+
+1980—Subsec. (c)(5) to (7). Pub. L. 96–289 added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively.
+
+1978—Subsecs. (a) to (c). Pub. L. 95–428, § 2(b), substituted “national sea grant college program” for “national sea grant program” wherever appearing.
+
+Subsec. (d)(6), (7). Pub. L. 95–428, § 3(1)(B), (C), added par. (6) and redesignated former par. (6) as (7).
+
+1976—Pub. L. 94–461 substituted provisions covering the establishment and administration of the national sea grant program for provisions covering the marine resource development programs.
+
+1973—Subsec. (a). Pub. L. 93–73, § 1(2), (5), deleted item (1) designation for provision respecting consultation with experts and Federal agencies, deleted item (2) provision for seeking advice and counsel from the National Council on Marine Resources and Engineering Development, and substituted “Secretary” for “Foundation”.
+
+Subsec. (b). Pub. L. 93–73, § 1(5), substituted “Secretary” for “Foundation” and “his authority” for “its authority”.
+
+Subsec. (d)(1). Pub. L. 93–73, § 1(3), (5), authorized Federal contributions exceeding percentage limitation to programs limited to one percent of appropriations for the fiscal year when reducing or eliminating matching payments by a participant when Secretary determines it would be inequitable relevant to the benefits derived by the participant from the program to require the participant to make a one-third payment of the cost, and substituted “Secretary” for “Foundation” in last sentence.
+
+Subsec. (d)(2). Pub. L. 93–73, § 1(4), (5), made prohibitions of paragraph inapplicable to non-self-propelled habitats, buoys, platforms, or other similar devices or structures, used principally for research purposes and substituted “Secretary” for “foundation”.
+
+Subsecs. (d)(3), (e). Pub. L. 93–73, § 1(5), substituted “Secretary” for “Foundation”.
+
+Subsec. (f). Pub. L. 93–73, § 1(5), substituted “Secretary” for “Foundation” and “his functions” for “its functions”.
+
+Subsec. (g). Pub. L. 93–73, § 1(6), substituted provisions for exercise of powers and authority under this subchapter by the Secretary rather than the Foundation under the powers and authority of the National Science Foundation Act of 1950, as amended.
+
+Subsec. (h). Pub. L. 93–73, § 1(5), substituted “Secretary” for “Foundation” and “his functions” for “its functions”.
+
+Subsec. (i)(3). Pub. L. 93–73, § 1(7), inserted “and which is so designated by the Secretary” after “marine resources”.
+
+Subsec. (i)(4)(A) to (C). Pub. L. 93–73, § 1(5), substituted “Secretary” for “Foundation”.
+
+1968—Subsec. (d)(1). Pub. L. 90–477 struck out “in any fiscal year” after “The total amount of payments” and “by any participants”.
+
+#### Construction
+Pub. L. 116–221, § 4(d), Dec. 18, 2020, 134 Stat. 1058, provided that: “Nothing in this section [amending this section and enacting provisions set out as a note below] shall be construed to limit or otherwise affect any other amounts available for marine policy fellowships under section 208(b) of the National Sea Grant College Program Act ([33 U.S.C. 1127(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1127/b&num=0&edition=prelim)), including amounts— “(1) accepted under section 204(c)(4)(F) of that Act ([33 U.S.C. 1123(c)(4)(F)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1123/c/4/F&num=0&edition=prelim)); or “(2) appropriated pursuant to the authorization of appropriations under section 212 of that Act ([33 U.S.C. 1131](./chapter-022-sea-grant-colleges-and-marine-science-development.md#section-1131)).”
+
+#### Priorities
+Pub. L. 116–221, § 4(b), Dec. 18, 2020, 134 Stat. 1058, provided that: “The Secretary of Commerce, acting through the Under Secretary of Commerce for Oceans and Atmosphere, shall establish priorities for the use of donations accepted under section 204(c)(4)(E) of the National Sea Grant College Program Act ([33 U.S.C. 1123(c)(4)(E)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1123/c/4/E&num=0&edition=prelim)), and shall consider among those priorities the possibility of expanding the Dean John A. Knauss Marine Policy Fellowship’s placement of additional fellows in relevant legislative offices under section 208(b) of that Act ([33 U.S.C. 1127(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1127/b&num=0&edition=prelim)), in accordance with the recommendations under subsection (c) of this section [134 Stat. 1058].”
+
+#### Review of Evaluation and Rating Process
+Pub. L. 107–299, § 3(b)(2), Nov. 26, 2002, 116 Stat. 2346, provided that after 3 years after Nov. 26, 2002, the Secretary of Commerce, acting through the Under Secretary of Commerce for Oceans and Atmosphere, was to contract with the National Academy of Sciences to review the effectiveness of the evaluation and rating system under this section in determining the relative performance of programs of sea grant colleges and sea grant institutes and provided that the National Academy of Sciences would submit a report to the Congress on the findings and recommendations of the panel not later than 4 years after Nov. 26, 2002.
+
+#### Notice of Reorganization
+Pub. L. 105–160, § 9(d), Mar. 6, 1998, 112 Stat. 27, provided that: “The Secretary of Commerce shall provide notice to the Committees on Science [now Science, Space, and Technology], Resources [now Natural Resources], and Appropriations of the House of Representatives and the Committees on Commerce, Science, and Transportation and Appropriations of the Senate, not later than 45 days before any major reorganization of any program, project, or activity of the National Sea Grant College Program.”
 
 
 <a id="section-1124"></a>
-## § 1124. Repealed. Pub. L. 115–282, title IV, § 402(e), Dec. 4, 2018, 132 Stat. 4264
+## § 1124. Program or project grants and contracts
+**(a) Authorization; purposes; limitation on amount** The Secretary may make grants and enter into contracts under this subsection to assist any sea grant program or project if the Secretary finds that such program or project will—
+
+(1) implement the objective set forth in [section 1121(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1121/b&num=0&edition=prelim); and
+
+(2) be responsive to the needs or problems of individual States or regions.
+The total amount paid pursuant to any such grant or contract may equal 66⅔ percent, or any lesser percent, of the total cost of the sea grant program or project involved; except that this limitation shall not apply in the case of grants or contracts paid for with funds accepted by the Secretary under [section 1123(c)(4)(F) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1123/c/4/F&num=0&edition=prelim) or that are appropriated under [section 1127(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1127/b&num=0&edition=prelim).
+
+**(b) Special grants; maximum amount; prerequisites** The Secretary may make special grants under this subsection to implement the objective set forth in [section 1121(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1121/b&num=0&edition=prelim). The amount of any such grant may equal 100 percent, or any lesser percent, of the total cost of the project involved. No grant may be made under this subsection unless the Secretary finds that—
+
+(1) no reasonable means is available through which the applicant can meet the matching requirement for a grant under subsection (a);
+
+(2) the probable benefit of such project outweighs the public interest in such matching requirement; and
+
+(3) the same or equivalent benefit cannot be obtained through the award of a contract or grant under subsection (a).
+The total amount that may be provided for grants under this subsection during any fiscal year shall not exceed an amount equal to 5 percent of the total funds appropriated for such year under [section 1131 of this title](./chapter-022-sea-grant-colleges-and-marine-science-development.md#section-1131).
+
+**(c) Eligibility and procedure** Any person may apply to the Secretary for a grant or contract under this section. Application shall be made in such form and manner, and with such content and other submissions, as the Secretary shall by regulation prescribe. The Secretary shall act upon each such application within 6 months after the date on which all required information is received.
+
+**(d) Terms and conditions**
+
+(1) Any grant made, or contract entered into, under this section shall be subject to the limitations and provisions set forth in paragraphs (2), (3), and (4) and to such other terms, conditions, and requirements as the Secretary deems necessary or appropriate. Terms, conditions, and requirements imposed by the Secretary under this paragraph shall minimize any requirement of prior Federal approval.
+
+(2) No payment under any grant or contract under this section may be applied to—
+
+  (A) the purchase or rental of any land; or
+
+  (B) the purchase, rental, construction, preservation, or repair of any building, dock, or vessel;
+  except that payment under any such grant or contract may be applied to the short-term rental of buildings or facilities for meetings which are in direct support of any sea grant program or project and may, if approved by the Secretary, be applied to the purchase, rental, construction, preservation, or repair of non-self-propelled habitats, buoys, platforms, and other similar devices or structures, or to the rental of any research vessel which is used in direct support of activities under any sea grant program or project.
+
+(3) The total amount which may be obligated for payment pursuant to grants made to, and contracts entered into with, persons under this section within any one State in any fiscal year shall not exceed an amount equal to 15 percent of the total funds appropriated for such year pursuant to [section 1131 of this title](./chapter-022-sea-grant-colleges-and-marine-science-development.md#section-1131).
+
+(4) Any person who receives or utilizes any proceeds of any grant or contract under this section shall keep such records as the Secretary shall by regulation prescribe as being necessary and appropriate to facilitate effective audit and evaluation, including records which fully disclose the amount and disposition by such recipient of such proceeds, the total cost of the program or project in connection with which such proceeds were used, and the amount, if any, of such cost which was provided through other sources. Such records shall be maintained for 3 years after the completion of such a program or project. The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access, for the purpose of audit and evaluation, to any books, documents, papers, and records of receipts which, in the opinion of the Secretary or of the Comptroller General, may be related or pertinent to such grants and contracts.
 
 ### Statutory Notes
 
-Section 1221, Pub. L. 92–340, § 2, formerly title I, § 101, July 10, 1972, 86 Stat. 424; renumbered and amended Pub. L. 95–474, § 2, Oct. 17, 1978, 92 Stat. 1471; Pub. L. 107–295, title IV, § 443(1), Nov. 25, 2002, 116 Stat. 2132, related to statement of policy.
+#### Amendments
+2008—Subsec. (a). Pub. L. 110–394, § 6(1), substituted “1123(c)(4)(F) of this title or that are appropriated under [section 1127(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1127/b&num=0&edition=prelim).” for “1123(c)(4)(F) of this title.”
 
-Section 1222, Pub. L. 92–340, § 3, formerly title I, § 102, July 10, 1972, 86 Stat. 425; renumbered and amended Pub. L. 95–474, § 2, Oct. 17, 1978, 92 Stat. 1471; Pub. L. 105–383, title III, § 301(a), Nov. 13, 1998, 112 Stat. 3417; Pub. L. 108–293, title III, § 304, Aug. 9, 2004, 118 Stat. 1042, provided definitions for the chapter.
+Subsec. (b). Pub. L. 110–394, § 6(2), inserted concluding provisions and struck out former concluding provisions which read as follows: “The total amount which may be provided for grants under this subsection during any fiscal year shall not exceed an amount equal to 1 percent of the total funds appropriated for such year pursuant to [section 1131 of this title](./chapter-022-sea-grant-colleges-and-marine-science-development.md#section-1131).”
 
-Section 1223, Pub. L. 92–340, § 4, formerly title I, § 103, July 10, 1972, 86 Stat. 426; renumbered and amended Pub. L. 95–474, § 2, Oct. 17, 1978, 92 Stat. 1472; Pub. L. 101–380, title IV, § 4107(a), Aug. 18, 1990, 104 Stat. 514; Pub. L. 104–324, title VII, § 705, Oct. 19, 1996, 110 Stat. 3934; Pub. L. 108–293, title III, § 302, Aug. 9, 2004, 118 Stat. 1041; Pub. L. 109–241, title IX, § 901(d), July 11, 2006, 120 Stat. 564; Pub. L. 115–44, title III, § 315(b)(1), Aug. 2, 2017, 131 Stat. 949, related to vessel operating requirements. See [section 70001 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70001&num=0&edition=prelim), Shipping.
+2002—Subsec. (a). Pub. L. 107–299 substituted “section 1123(c)(4)(F)” for “section 1123(d)(6)” in concluding provisions.
 
-#### Short Title of 1986 Amendment
-Pub. L. 99–399, title IX, § 901, Aug. 27, 1986, 100 Stat. 889, provided that: “This title [enacting [section 1226 of this title](./chapter-025-ports-and-waterways-safety-program.md#section-1226) and sections 1801 to 1809 of the former Appendix to Title 46, Shipping] may be cited as the ‘International Maritime and Port Security Act’.”
+1991—Subsec. (b)(3). Pub. L. 102–186 struck out reference to [section 1125 of this title](./chapter-022-sea-grant-colleges-and-marine-science-development.md#section-1125) after reference to subsection (a) of this section.
 
-#### Short Title of 1978 Amendment
-Pub. L. 95–474, § 1, Oct. 17, 1978, 92 Stat. 1471, provided: “That this Act [enacting sections 1225, 1228 to 1231, and 1232 of this title, amending this section, sections 1222 to 1224, 1226, and 1227 of this title, and sections 214 and 391a of Title 46, Shipping, and enacting provisions set out as notes under this section and [section 1224 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1224&num=0&edition=prelim) and section 391a of former Title 46] may be cited as the ‘Port and Tanker Safety Act of 1978’.”
+1987—Subsec. (d)(1). Pub. L. 100–220 inserted at end “Terms, conditions, and requirements imposed by the Secretary under this paragraph shall minimize any requirement of prior Federal approval.”
 
-#### Short Title
-Pub. L. 92–340, § 1, July 10, 1972, 86 Stat. 424, as amended by Pub. L. 95–474, § 2, Oct. 17, 1978, 92 Stat. 1471, which provided that Pub. L. 92–340, enacting this chapter, could be cited as the “Ports and Waterways Safety Act”, was repealed by Pub. L. 115–282, title IV, § 402(e), Dec. 4, 2018, 132 Stat. 4264.
+1980—Subsec. (d)(2). Pub. L. 96–289 authorized application of any payment under a grant or contract to the short-term rental of buildings or facilities for meetings which are in direct support of any sea grant program or project.
 
-#### Transitional and Savings Provisions
-For transitional and savings provisions and treatment of references to former provisions of this chapter in other laws, see section 403 of Pub. L. 115–282, set out as a note preceding [section 101 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section101&num=0&edition=prelim), Shipping.
+1978—Subsec. (a). Pub. L. 95–428 made the percentage limitation inapplicable to grants or contracts paid for with funds accepted by the Secretary under [section 1123(d)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1123/d/6&num=0&edition=prelim).
 
-#### Separability
-Pub. L. 95–474, § 6(c), Oct. 17, 1978, 92 Stat. 1493, provided that: “If a provision of this Act [see Short Title of 1978 Amendment note above] or the application of such provision to any person or circumstances shall be held invalid, the remainder of the Act and the application of such provision to persons or circumstances other than those to which it is held invalid shall not be affected thereby.”
+1976—Pub. L. 94–461 substituted provisions covering program or project grants and contracts for provisions authorizing the study of ways to share with other countries the results of marine research useful in the exploration, development, conservation, and management of marine resources.
+
+1973—Pub. L. 93–73 substituted provisions for study of international marine technology transfer for prior provisions respecting advisory functions of National Council on Marine Resources and Development.
 
 
 <a id="section-1124a"></a>
-## § 1124a. Transferred
+## § 1124a. Repealed. Pub. L. 105–160, § 6, Mar. 6, 1998, 112 Stat. 24
 
 ### Statutory Notes
 
-#### Codification
-Section, Pub. L. 92–340, § 4A, as added Pub. L. 108–293, title IV, § 410, Aug. 9, 2004, 118 Stat. 1045, was redesignated and transferred to [section 3105 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section3105&num=0&edition=prelim), Shipping, by Pub. L. 115–282, title IV, § 402(a)(1)(A), Dec. 4, 2018, 132 Stat. 4263.
+Section, Pub. L. 94–461, § 3, Oct. 8, 1976, 90 Stat. 1969; Pub. L. 95–58, § 2, June 29, 1977, 91 Stat. 254; Pub. L. 95–428, § 4(2), (3), Oct. 7, 1978, 92 Stat. 1000; Pub. L. 96–289, §§ 2, 3, June 28, 1980, 94 Stat. 605; Pub. L. 98–623, title V, § 501(b), Nov. 8, 1984, 98 Stat. 3410; Pub. L. 100–220, title III, § 3111, Dec. 29, 1987, 101 Stat. 1474; Pub. L. 102–251, title III, § 307(b), Mar. 9, 1992, 106 Stat. 66, related to sea grant international program.
 
 
 <a id="section-1125"></a>
-## § 1125. Repealed. Pub. L. 115–282, title IV, § 402(e), Dec. 4, 2018, 132 Stat. 4264
+## § 1125. Repealed. Pub. L. 102–186, § 4(a), Dec. 4, 1991, 105 Stat. 1283
 
 ### Statutory Notes
 
-Section 1224, Pub. L. 92–340, § 5, formerly title I, § 104, July 10, 1972, 86 Stat. 427; renumbered and amended Pub. L. 95–474, § 2, Oct. 17, 1978, 92 Stat. 1474; Pub. L. 107–295, title IV, § 443(2), Nov. 25, 2002, 116 Stat. 2132, related to considerations by the Secretary in carrying out certain duties and responsibilities. See [section 70004 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70004&num=0&edition=prelim), Shipping.
-
-Section 1225, Pub. L. 92–340, § 6, formerly title I, § 105, July 10, 1972, 86 Stat. 427; renumbered and amended Pub. L. 95–474, § 2, Oct. 17, 1978, 92 Stat. 1475, related to waterfront safety. See [section 70011 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70011&num=0&edition=prelim).
+Section, Pub. L. 89–454, title II, § 206, as added Pub. L. 94–461, § 2, Oct. 8, 1976, 90 Stat. 1965; amended Pub. L. 95–58, § 1, June 29, 1977, 91 Stat. 254; Pub. L. 95–428, § 3(3), Oct. 7, 1978, 92 Stat. 999; Pub. L. 96–289, § 1(4), June 28, 1980, 94 Stat. 605; Pub. L. 100–220, title III, § 3106(a), Dec. 29, 1987, 101 Stat. 1471, required development of a sea grant strategic research plan and authorized grants and contracts to carry out the program.
 
 
 <a id="section-1126"></a>
-## § 1126. Transferred
+## § 1126. Sea grant colleges and sea grant institutes
+**(a) Designation**
+
+(1) A sea grant college or sea grant institute shall meet the following qualifications—
+
+  (A) have an existing broad base of competence in fields related to ocean, coastal, and Great Lakes resources;
+
+  (B) make a long-term commitment to the objective in [section 1121(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1121/b&num=0&edition=prelim), as determined by the Secretary;
+
+  (C) cooperate with other sea grant colleges and institutes and other persons to solve problems or meet needs relating to ocean, coastal, and Great Lakes resources;
+
+  (D) have received financial assistance under [section 1124 of this title](./chapter-022-sea-grant-colleges-and-marine-science-development.md#section-1124);
+
+  (E) be recognized for excellence in fields related to ocean, coastal, and Great Lakes resources (including marine resources management and science), as determined by the Secretary; and
+
+  (F) meet such other qualifications as the Secretary, in consultation with the Board, considers necessary or appropriate.
+
+(2) The Secretary may designate an institution, or an association or alliance of two or more such institutions, as a sea grant college if the institution, association, or alliance—
+
+  (A) meets the qualifications in paragraph (1); and
+
+  (B) maintains a program of research, extension services, training, and education in fields related to ocean, coastal, and Great Lakes resources.
+
+(3) The Secretary may designate an institution, or an association or alliance of two or more such institutions, as a sea grant institute if the institution, association, or alliance—
+
+  (A) meets the qualifications in paragraph (1); and
+
+  (B) maintains a program which includes, at a minimum, research and extension services.
+
+**(b) Additional designations**
+
+(1) **Notification to Congress of designations**
+
+  (A) *In general* — Not less than 30 days before designating an institution, or an association or alliance of two or more such institutions, as a sea grant college or sea grant institute under subsection (a), the Secretary shall notify Congress in writing of the proposed designation. The notification shall include an evaluation and justification for the designation.
+
+  (B) *Effect of joint resolution of disapproval* — The Secretary may not designate an institution, or an association or alliance of two or more such institutions, as a sea grant college or sea grant institute under subsection (a) if, before the end of the 30-day period described in subparagraph (A), a joint resolution disapproving the designation is enacted.
+
+(2) **Existing designees** — Any institution, or association or alliance of two or more such institutions, designated as a sea grant college or awarded institutional program status by the Director prior to March 6, 1998, shall not have to reapply for designation as a sea grant college or sea grant institute, respectively, after March 6, 1998, if the Director determines that the institution, or association or alliance of institutions, meets the qualifications in subsection (a).
+
+**(c) Suspension or termination of designation** The Secretary may, for cause and after an opportunity for hearing, suspend or terminate any designation under subsection (a).
+
+**(d) Duties** Subject to any regulations prescribed or guidelines established by the Secretary, it shall be the responsibility of each sea grant college and sea grant institute—
+
+(1) to develop and implement, in consultation with the Secretary and the Board, a program that is consistent with the guidelines and priorities established under [section 1123(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1123/c&num=0&edition=prelim); and
+
+(2) to conduct a merit review of all proposals for grants and contracts to be awarded under [section 1124 of this title](./chapter-022-sea-grant-colleges-and-marine-science-development.md#section-1124).
 
 ### Statutory Notes
 
-#### Codification
-Section was comprised of Pub. L. 92–340, § 7, as added Pub. L. 99–399, title IX, § 906, Aug. 27, 1986, as amended. Subsections (a) and (b) of section 7 of Pub. L. 92–340 were redesignated and transferred to [section 70116 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70116&num=0&edition=prelim), Shipping, by Pub. L. 115–282, title IV, § 402(b)(1), Dec. 4, 2018, 132 Stat. 4264. Subsection (c) of section 7 of Pub. L. 92–340 was redesignated subsec. (f) and transferred to [section 70103 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70103&num=0&edition=prelim) by Pub. L. 115–282, title IV, § 402(c)(1), Dec. 4, 2018, 132 Stat. 4264. Pub. L. 115–282, title IV, § 408(a), (d)(1), Dec. 4, 2018, 132 Stat. 4268, concurrently redesignated and transferred subsections (a) and (b) of section 7 of Pub. L. 92–340 to [section 70102a of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70102a&num=0&edition=prelim) and identically redesignated subsection (c) of section 7 of Pub. L. 92–340 as subsec. (f) and transferred it to [section 70103 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70103&num=0&edition=prelim). However, Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8507(d)(1), (7), Jan. 1, 2021, 134 Stat. 4754, subsequently repealed section 408 of Pub. L. 115–282, effective on the date of enactment of Pub. L. 115–282 (Dec. 4, 2018), and provided that the provisions of law redesignated, transferred, or otherwise amended by such section 408 were amended to read as if that section had not been enacted.
+#### Amendments
+2020—Subsec. (b). Pub. L. 116–221, § 7(2), added par. (1), designated existing provisions as par. (2), and inserted par. (2) heading.
 
-#### Prior Provisions
-A prior section 1226, Pub. L. 92–340, § 7, formerly title I, § 106, July 10, 1972, 86 Stat. 427; renumbered § 7 and amended Pub. L. 95–474, § 2, Oct. 17, 1978, 92 Stat. 1475, related to requirement respecting federally licensed pilots on any foreign or domestic self-propelled vessel engaged in the foreign trade when operating in the navigable waters of the United States in areas, etc., where a pilot is not otherwise required by State law, prior to repeal by Pub. L. 98–557, § 29(g), Oct. 30, 1984, 98 Stat. 2875.
+Pub. L. 116–221, § 7(1), substituted “Additional designations” for “Existing designees” in heading.
 
-#### Effective Date of 2021 Amendment
-Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8507(d)(7), Jan. 1, 2021, 134 Stat. 4754, provided that: “This section [probably means “subsection”] [amending this section, [section 70103 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70103&num=0&edition=prelim), Shipping, and [section 312 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section312&num=0&edition=prelim), Transportation, and repealing [section 70102a of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70102a&num=0&edition=prelim)] shall take effect on the date of the enactment of the Frank LoBiondo Coast Guard Authorization Act of 2018 (Public Law 115–282) [Dec. 4, 2018] and apply as if included therein.”
+2014—Subsec. (e). Pub. L. 113–188, which directed amendment of section 207 of the National Sea Grant Program Act by striking subsec. (e), was executed to this section, which is section 207 of the National Sea Grant College Program Act, to reflect the probable intent of Congress. Prior to amendment, subsec. (e) related to annual reports on progress made by colleges, universities, institutions, associations, and alliances to become designated under this section as sea grant colleges or sea grant institutes.
+
+2008—Subsec. (a)(1)(F). Pub. L. 110–394, § 9(a)(4)(C)(ii), substituted “Board” for “panel”.
+
+Subsec. (a)(2)(B), (3)(B). Pub. L. 110–394, § 7, substituted “extension services” for “advisory services”.
+
+Subsec. (d)(1). Pub. L. 110–394, § 9(a)(4)(C)(ii), substituted “Board” for “panel”.
+
+2002—Subsec. (e). Pub. L. 107–299 added subsec. (e).
+
+1998—Pub. L. 105–160 amended section catchline and text generally. Prior to amendment text consisted of subsecs. (a) to (c) relating to authorization of the Secretary to designate sea grant college and sea grant regional consortia with certain prerequisites, requirement of regulations to prescribe qualifications and guidelines, and authorization of the Secretary to suspend or terminate any designation.
+
+1987—Subsec. (a)(2)(A), (3)(A), (B). Pub. L. 100–220 substituted “ocean, coastal, and Great Lakes resources” for “ocean and coastal resources”.
 
 
 <a id="section-1127"></a>
-## § 1127. Repealed. Pub. L. 115–282, title IV, § 402(e), Dec. 4, 2018, 132 Stat. 4264
+## § 1127. Fellowships
+**(a) In general** To carry out the educational and training objectives of this subchapter, the Secretary shall support a program of fellowships for qualified individuals at the graduate and post-graduate level. The fellowships shall be related to ocean, coastal, and Great Lakes resources and awarded pursuant to guidelines established by the Secretary. The Secretary shall strive to ensure equal access for minority and economically disadvantaged students to the program carried out under this subsection.
+
+**(b) Dean John A. Knauss Marine Policy Fellowship**
+
+(1) **In general** — The Secretary shall award marine policy fellowships to support the placement of individuals at the graduate level of education in fields related to ocean, coastal and Great Lakes resources in positions with the executive and legislative branches of the United States Government.
+
+(2) **Placement priorities**
+
+  (A) *In general* — In each year in which the Secretary awards a legislative fellowship under this subsection, when considering the placement of fellows, the Secretary shall prioritize placement of fellows in the following:
+
+    (i) Positions in offices of, or with Members on, committees of Congress that have jurisdiction over the National Oceanic and Atmospheric Administration.
+
+    (ii) Positions in offices of Members of Congress that have a demonstrated interest in ocean, coastal, or Great Lakes resources.
+
+  (B) *Equitable distribution* — In placing fellows in offices described in subparagraph (A), the Secretary shall ensure that placements are equitably distributed among the political parties.
+
+(3) **Duration** — A fellowship awarded under this subsection shall be for a period of not more than 1 year.
+
+**(c) Restriction on use of funds** Amounts available for fellowships under this section, including amounts accepted under [section 1123(c)(4)(F) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1123/c/4/F&num=0&edition=prelim) or appropriated under [section 1131 of this title](./chapter-022-sea-grant-colleges-and-marine-science-development.md#section-1131) to implement this section, shall be used only for award of such fellowships and administrative costs of implementing this section.
 
 ### Statutory Notes
 
-Section 1227, Pub. L. 92–340, § 8, formerly title I, § 107, July 10, 1972, 86 Stat. 427; renumbered and amended Pub. L. 95–474, § 2, Oct. 17, 1978, 92 Stat. 1476, related to investigatory powers of the Secretary. See [section 70035 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70035&num=0&edition=prelim), Shipping.
+#### References in Text
+This subchapter, referred to in subsec. (a), was in the original “this Act” and was translated as reading “this title” meaning title II of Pub. L. 89–454, which enacted this subchapter, to reflect the probable intent of Congress.
 
-Section 1228, Pub. L. 92–340, § 9, as added Pub. L. 95–474, § 2, Oct. 17, 1978, 92 Stat. 1476; amended Pub. L. 101–380, title IV, § 4106(c), Aug. 18, 1990, 104 Stat. 514, related to conditions for entry to ports in the United States. See [section 70021 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70021&num=0&edition=prelim).
+#### Amendments
+2020—Subsec. (b). Pub. L. 116–221 designated first sentence as par. (1) and inserted heading, substituted “shall award” for “may award”, added par. (2), and designated second sentence as par. (3) and inserted heading.
 
-Section 1229, Pub. L. 92–340, § 10, as added Pub. L. 95–474, § 2, Oct. 17, 1978, 92 Stat. 1477; amended Pub. L. 98–557, § 29(h), Oct. 30, 1984, 98 Stat. 2875, related to delegations of authority with respect to the Saint Lawrence Seaway. See [section 70032 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70032&num=0&edition=prelim).
+2014—Subsec. (a). Pub. L. 113–188, which directed amendment of section 208(a) of the National Sea Grant Program Act by striking the fourth sentence, was executed to this section, which is section 208(a) of the National Sea Grant College Program Act, to reflect the probable intent of Congress. Prior to amendment, fourth sentence read as follows: “Every 2 years, the Secretary shall submit a report to the Congress describing the efforts by the Secretary to ensure equal access for minority and economically disadvantaged students to the program carried out under this subsection, and the results of such efforts.”
 
-Section 1230, Pub. L. 92–340, § 11, as added Pub. L. 95–474, § 2, Oct. 17, 1978, 92 Stat. 1477; amended Pub. L. 105–383, title III, § 313, Nov. 13, 1998, 112 Stat. 3424, related to international agreements. See [section 70005 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70005&num=0&edition=prelim).
+2008—Subsec. (a). Pub. L. 110–394, § 8(1), substituted “Every 2 years,” for “Not later than 1 year after November 26, 2002, and every 2 years thereafter,”.
 
-Section 1231, Pub. L. 92–340, § 12, as added Pub. L. 95–474, § 2, Oct. 17, 1978, 92 Stat. 1477, related to regulations necessary to implement this chapter. See [section 70034 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70034&num=0&edition=prelim).
+Subsec. (c). Pub. L. 110–394, § 8(2), added subsec. (c).
+
+2002—Subsec. (a). Pub. L. 107–299, § 5(a), inserted at end “The Secretary shall strive to ensure equal access for minority and economically disadvantaged students to the program carried out under this subsection. Not later than 1 year after November 26, 2002, and every 2 years thereafter, the Secretary shall submit a report to the Congress describing the efforts by the Secretary to ensure equal access for minority and economically disadvantaged students to the program carried out under this subsection, and the results of such efforts.”
+
+Subsec. (c). Pub. L. 107–299, § 5(b), struck out heading and text of subsec. (c). Text read as follows: “The Secretary shall establish and administer a program of postdoctoral fellowships to accelerate research in critical subject areas. The fellowship awards—
+
+“(1) shall be for 2 years;
+
+“(2) may be renewed once for not more than 2 years;
+
+“(3) shall be awarded on a nationally competitive basis;
+
+“(4) may be used at any institution of post-secondary education involved in the national sea grant college program;
+
+“(5) shall be for up to 100 percent of the total cost of the fellowship; and
+
+“(6) may be made to recipients of terminal professional degrees, as well as doctoral degree recipients.”
+
+1998—Pub. L. 105–160 substituted “Secretary” for “Under Secretary” in subsec. (a) in two places and in subsecs. (b) and (c).
+
+1991—Subsec. (c)(5) to (7). Pub. L. 102–186 inserted “and” after semicolon at end of par. (5), redesignated par. (7) as (6), and struck out former par. (6) which read as follows: “may be made for any of the priority areas of research identified in the sea grant strategic research plan in effect under [section 1125 of this title](./chapter-022-sea-grant-colleges-and-marine-science-development.md#section-1125); and”.
+
+1987—Subsec. (a). Pub. L. 100–220 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary shall support a sea grant fellowship program to provide educational and training assistance to qualified individuals at the undergraduate and graduate levels of education in fields related to ocean and coastal resources. Such fellowships shall be awarded pursuant to guidelines established by the Secretary. Except as provided in subsection (b) of this section, sea grant fellowships may only be awarded by sea grant colleges, sea grant regional consortia, institutions of higher education, and professional associations and institutes.”
+
+Pub. L. 100–66, § 3(1), substituted “Except as provided in subsection (b) of this section, sea” for “Sea”.
+
+Subsec. (b). Pub. L. 100–220 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
+
+“(1) As part of the sea grant fellowship program, the Secretary may award sea grant fellowships to support the placement of qualified individuals in positions with the executive and legislative branches of the United States Government. No fellowship may be awarded under this paragraph for a period exceeding one year.
+
+“(2) For purposes of this subsection, the term ‘qualified individual’ means an individual at the graduate level of education in fields related to ocean and coastal resources.”
+
+Pub. L. 100–66, § 3(2), (3), added subsec. (b) and redesignated former subsec. (b) as (c).
+
+Subsec. (c). Pub. L. 100–220 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The total amount which may be provided for grants under the sea grant fellowship program during any fiscal year shall not exceed an amount equal to 5 percent of the total funds appropriated for such year pursuant to [section 1131 of this title](./chapter-022-sea-grant-colleges-and-marine-science-development.md#section-1131).”
+
+Pub. L. 100–66, § 3(2), redesignated former subsec. (b) as (c).
+
+#### Effective Date of 2020 Amendment
+Pub. L. 116–221, § 3(c), Dec. 18, 2020, 134 Stat. 1058, provided that: “The amendments made by this section [amending this section] shall apply with respect to the first calendar year beginning after the date of the enactment of this Act [Dec. 18, 2020].”
+
+#### Effective Date of 1987 Amendment
+Pub. L. 100–66, § 4, July 10, 1987, 101 Stat. 385, provided that: “The amendment made by section 3 [amending this section] shall take effect January 1, 1978.”
+
+#### Direct Hire Authority; Dean John A. Knauss Marine Policy Fellowship
+Pub. L. 116–221, § 8, Dec. 18, 2020, 134 Stat. 1059, provided that: “(a) In General.—During fiscal year 2021 and any fiscal year thereafter, the head of any Federal agency may appoint, without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code, other than sections 3303 and 3328 of that title, a qualified candidate described in subsection (b) directly to a position with the Federal agency for which the candidate meets Office of Personnel Management qualification standards. “(b) Dean John A. Knauss Marine Policy Fellowship.—Subsection (a) applies with respect to a former recipient of a Dean John A. Knauss Marine Policy Fellowship under section 208(b) of the National Sea Grant College Program Act ([33 U.S.C. 1127(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1127/b&num=0&edition=prelim)) who—“(1) earned a graduate or post-graduate degree in a field related to ocean, coastal, and Great Lakes resources or policy from an accredited institution of higher education; and “(2) successfully fulfilled the requirements of the fellowship within the executive or legislative branch of the United States Government. “(c) Limitation.—The direct hire authority under this section shall be exercised with respect to a specific qualified candidate not later than 2 years after the date that the candidate completed the fellowship described in subsection (b).”
 
 
 <a id="section-1128"></a>
-## § 1128. Repealed. Pub. L. 115–282, title VI, § 601(c)(6)(A), Dec. 4, 2018, 132 Stat. 4290
+## § 1128. National Sea Grant Advisory Board
+**(a) Establishment** There shall be an independent committee to be known as the National Sea Grant Advisory Board.
+
+**(b) Duties**
+
+(1) **In general** — The Board shall advise the Secretary and the Director concerning—
+
+  (A) strategies for utilizing the sea grant college program to address the Nation’s highest priorities regarding the understanding, assessment, development, management, utilization, and conservation of ocean, coastal, and Great Lakes resources;
+
+  (B) the designation of sea grant colleges and sea grant institutes; and
+
+  (C) such other matters as the Secretary refers to the Board for review and advice.
+
+(2) **Periodic report** — The Board shall report to Congress at least once every four years on the state of the national sea grant college program and shall notify Congress of any significant changes to the state of the program not later than two years after the submission of such a report. The Board shall indicate in each such report the progress made toward meeting the priorities identified in the strategic plan in effect under [section 1123(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1123/c&num=0&edition=prelim) and provide a summary of research conducted under the program.
+
+(3) **Availability of resources of Department of Commerce** — The Secretary shall make available to the Board such information, personnel, and administrative services and assistance as it may reasonably require to carry out its duties under this subchapter.
+
+**(c) Membership, terms, and powers**
+
+(1) The Board shall consist of 15 voting members who shall be appointed by the Secretary. The Director and a director of a sea grant program who is elected by the various directors of sea grant programs shall serve as nonvoting members of the Board. Not less than 8 of the voting members of the Board shall be individuals who, by reason of knowledge, experience, or training, are especially qualified in one or more of the disciplines and fields included in marine science. The other voting members shall be individuals who, by reason of knowledge, experience, or training, are especially qualified in, or representative of, education, marine affairs and resource management, coastal management, extension services, State government, industry, economics, planning, or any other activity which is appropriate to, and important for, any effort to enhance the understanding, assessment, development, management, utilization, or conservation of ocean, coastal, and Great Lakes resources. No individual is eligible to be a voting member of the Board if the individual is (A) the director of a sea grant college or sea grant institute; (B) an applicant for, or beneficiary (as determined by the Secretary) of, any grant or contract under [section 1124 of this title](./chapter-022-sea-grant-colleges-and-marine-science-development.md#section-1124); or (C) a full-time officer or employee of the United States.
+
+(2) The term of office of a voting member of the Board shall be 3 years for a member appointed before November 26, 2002, and 4 years for a member appointed or reappointed after November 26, 2002. The Director may extend the term of office of a voting member of the Board appointed before November 26, 2002, by up to 1 year. At least once each year, the Secretary shall publish a notice in the Federal Register soliciting nominations for membership on the Board.
+
+(3) Any individual appointed to a partial or full term may be reappointed for one additional full term. The Director may extend the term of office of a voting member of the Board once by up to 1 year.
+
+(4) The Board shall select one voting member to serve as the Chairman and another voting member to serve as the Vice Chairman. The Vice Chairman shall act as Chairman in the absence or incapacity of the Chairman.
+
+(5) Voting members of the Board shall—
+
+  (A) receive compensation at a rate established by the Secretary, not to exceed the maximum daily rate payable under [section 5376 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim), when actually engaged in the performance of duties for such Board; and
+
+  (B) be reimbursed for actual and reasonable expenses incurred in the performance of such duties.
+
+(6) The Board shall meet on a biannual basis and, at any other time, at the call of the Chairman or upon the request of a majority of the voting members or of the Director.
+
+(7) The Board may exercise such powers as are reasonably necessary in order to carry out its duties under subsection (b).
+
+(8) The Board may establish such subcommittees as are reasonably necessary to carry out its duties under subsection (b). Such subcommittees may include individuals who are not Board members.
 
 ### Statutory Notes
 
-Section, Pub. L. 96–380, Oct. 6, 1980, 94 Stat. 1521; Pub. L. 97–322, title I, § 118(d), Oct. 15, 1982, 96 Stat. 1587; Pub. L. 98–557, § 16(a), Oct. 30, 1984, 98 Stat. 2866; Pub. L. 101–225, title I, § 105(b), Dec. 12, 1989, 103 Stat. 1910; Pub. L. 104–324, title III, § 304(c), Oct. 19, 1996, 110 Stat. 3917; Pub. L. 107–295, title III, § 336, Nov. 25, 2002, 116 Stat. 2105; Pub. L. 108–293, title IV, § 418(g), Aug. 9, 2004, 118 Stat. 1049; Pub. L. 111–281, title VI, § 621(e), Oct. 15, 2010, 124 Stat. 2976, established the Towing Safety Advisory Committee. See [section 15108 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section15108&num=0&edition=prelim), Shipping.
+#### Amendments
+2020—Subsec. (b)(2). Pub. L. 116–221, § 5, substituted “Periodic” for “Biennial” in heading, substituted “The Board shall report to Congress at least once every four years on the state of the national sea grant college program and shall notify Congress of any significant changes to the state of the program not later than two years after the submission of such a report.” for “The Board shall report to the Congress every two years on the state of the national sea grant college program.” in first sentence, and inserted “and provide a summary of research conducted under the program” after “[section 1123(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1123/c&num=0&edition=prelim)” in second sentence. Former third sentence redesignated subsec. (b)(3).
+
+Subsec. (b)(3). Pub. L. 116–221, § 11(2), designated third sentence of subsec. (b)(2) as par. (3) and inserted heading.
+
+2008—Pub. L. 110–394, § 9(a)(4)(A), substituted “National Sea Grant Advisory Board” for “Sea grant review panel” in section catchline.
+
+Subsec. (a). Pub. L. 110–394, § 9(a)(4)(A), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “There shall be established an independent committee to be known as the sea grant review panel.”
+
+Subsec. (b). Pub. L. 110–394, § 9(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to duties of sea grant review panel.
+
+Subsec. (c). Pub. L. 110–394, § 9(a)(4)(C)(iii), substituted “Board” for “panel” wherever appearing.
+
+Subsec. (c)(1). Pub. L. 110–394, § 9(c), inserted “coastal management,” after “resource management,” and “management,” after “development,”.
+
+Subsec. (c)(3). Pub. L. 110–394, § 9(d), substituted “The Director may extend the term of office of a voting member of the Board once by up to 1 year.” for “A voting member may serve after the date of the expiration of the term of office for which appointed until his or her successor has taken office.”
+
+Subsec. (c)(8). Pub. L. 110–394, § 9(e), added par. (8).
+
+2002—Subsec. (c)(2). Pub. L. 107–299 inserted first and second sentences and struck out former first sentence which read as follows: “The term of office of a voting member of the panel shall be 3 years, except that of the original appointees, five shall be appointed for a term of 1 year, five shall be appointed for a term of 2 years, and five shall be appointed for a term of 3 years.”
+
+1998—Subsec. (a). Pub. L. 105–160, § 8(a), struck out at end “The panel shall, on the 60th day after October 8, 1976, supersede the sea grant advisory panel in existence before October 8, 1976.”
+
+Subsec. (b). Pub. L. 105–160, §§ 4(b)(1), 8(b)(1), inserted heading and in introductory provisions substituted “The panel” for “The Panel” and struck out “, the Under Secretary,” after “the Secretary”.
+
+Subsec. (b)(1). Pub. L. 105–160, § 8(b)(2), struck out “and [section 1124a of this title](./chapter-022-sea-grant-colleges-and-marine-science-development.md#section-1124a)” before semicolon at end.
+
+Subsec. (b)(3). Pub. L. 105–160, § 8(b)(3), substituted “institutes” for “regional consortia”.
+
+Subsec. (c)(1)(A). Pub. L. 105–160, § 8(c)(1), substituted “college or sea grant institute” for “college, sea grant regional consortium, or sea grant program”.
+
+Subsec. (c)(5)(A). Pub. L. 105–160, § 8(c)(2), added subpar. (A) and struck out former subpar. (A) which read as follows: “receive compensation at the daily rate for GS–18 of the General Schedule under [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim) when actually engaged in the performance of duties for such panel; and”.
+
+1991—Subsec. (b)(1). Pub. L. 102–186, § 4(b)(1)(E), substituted “section 1124” for “sections 1124 and 1125”.
+
+Subsec. (c)(1). Pub. L. 102–186, §§ 4(b)(1)(F), 5(b)(2), inserted “marine affairs and resource management,” after “education,” in fourth sentence and struck out “or 1125” after “1124” in last sentence.
+
+1987—Subsec. (b). Pub. L. 100–220, § 3108(1), in introductory provisions, substituted “The Panel shall advise the Secretary, the Under Secretary, and the Director concerning—” for “The panel shall take such steps as may be necessary to review, and shall advise the Secretary, the Administrator, and the Director with respect to—”, and in par. (1), inserted “and [section 1124a of this title](./chapter-022-sea-grant-colleges-and-marine-science-development.md#section-1124a)”.
+
+Subsec. (c)(1). Pub. L. 100–220, §§ 3104(b)(1)(F), 3108(2)(A), (B), amended second sentence generally, substituted “8” for “five” in third sentence, and substituted “ocean, coastal, and Great Lakes resources” for “ocean and coastal resources” in fourth sentence. Prior to amendment, second sentence read as follows: “The Director shall serve as a nonvoting member of the panel.”
+
+Subsec. (c)(2). Pub. L. 100–220, § 3108(2)(C), inserted at end “At least once each year, the Secretary shall publish a notice in the Federal Register soliciting nominations for membership on the panel.”
+
+Subsec. (c)(3). Pub. L. 100–220, § 3108(2)(D), struck out “, or until 90 days after such date, whichever is earlier” after “office” at end of second sentence.
+
+1980—Subsec. (c)(3). Pub. L. 96–289 substituted authorization for reappointment for one additional full term of an appointee to a partial or full term for prior authorization for filling vacancies for remainder of appointee’s term and prohibition against status as a voting member after service of one full term as such voting member.
+
+#### Change of Name
+Pub. L. 110–394, § 9(a)(1)–(3), Oct. 13, 2008, 122 Stat. 4207, provided that: “(1) Redesignation.—The sea grant review panel established by section 209 of the National Sea Grant College Program Act ([33 U.S.C. 1128](./chapter-022-sea-grant-colleges-and-marine-science-development.md#section-1128)), as in effect before the date of the enactment of this Act [Oct. 13, 2008], is redesignated as the National Sea Grant Advisory Board. “(2) Membership not affected.—An individual serving as a member of the sea grant review panel immediately before date of the enactment of this Act may continue to serve as a member of the National Sea Grant Advisory Board until the expiration of such member’s term under section 209(c) of such Act ([33 U.S.C. 1128(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1128/c&num=0&edition=prelim)). “(3) References.—Any reference in a law, map, regulation, document, paper, or other record of the United States to such sea grant review panel is deemed to be a reference to the National Sea Grant Advisory Board.”
 
 
 <a id="section-1129"></a>
-## § 1129. Repealed. Pub. L. 115–282, title IV, § 402(e), Dec. 4, 2018, 132 Stat. 4264
+## § 1129. Interagency cooperation
+
+Each department, agency, or other instrumentality of the Federal Government which is engaged in or concerned with, or which has authority over, matters relating to ocean, coastal, and Great Lakes resources—
+
+(1) may, upon a written request from the Secretary, make available, on a reimbursable basis or otherwise any personnel (with their consent and without prejudice to their position and rating), service, or facility which the Secretary deems necessary to carry out any provision of this subchapter;
+
+(2) shall, upon a written request from the Secretary, furnish any available data or other information which the Secretary deems necessary to carry out any provision of this subchapter; and
+
+(3) shall cooperate with the Administration and duly authorized officials thereof.
 
 ### Statutory Notes
 
-Section 1232, Pub. L. 92–340, § 13, as added Pub. L. 95–474, § 2, Oct. 17, 1978, 92 Stat. 1478; amended Pub. L. 101–380, title IV, § 4302(j), Aug. 18, 1990, 104 Stat. 539; Pub. L. 104–324, title III, § 312(b), Oct. 19, 1996, 110 Stat. 3920; Pub. L. 115–44, title III, § 315(b)(2), Aug. 2, 2017, 131 Stat. 949, related to enforcement provisions. See [section 70036 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70036&num=0&edition=prelim), Shipping.
-
-Section 1232a, Pub. L. 92–340, § 14, as added Pub. L. 101–599, § 2, Nov. 16, 1990, 104 Stat. 3040, related to navigational hazards. See [section 70012 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70012&num=0&edition=prelim).
-
-Section 1232b, Pub. L. 92–340, § 15, as added Pub. L. 109–241, title VI, § 602, July 11, 2006, 120 Stat. 553, related to requirement to notify Coast Guard of release of objects into the navigable waters of the United States. See [section 70013 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70013&num=0&edition=prelim).
+#### Amendments
+1987—Pub. L. 100–220 substituted “ocean, coastal, and Great Lakes resources” for “ocean and coastal resources” in introductory provisions.
 
 
 <a id="section-1130"></a>
-## § 1130. Transferred
+## § 1130. Repealed. Pub. L. 102–186, § 5(a), Dec. 4, 1991, 105 Stat. 1283
 
 ### Statutory Notes
 
-#### Codification
-Section, Pub. L. 92–340, § 16, as added Pub. L. 115–44, title III, § 315(a), Aug. 2, 2017, 131 Stat. 948, was redesignated and transferred to [section 70022 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70022&num=0&edition=prelim), Shipping, by Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8508, Jan. 1, 2021, 134 Stat. 4755, effective upon the enactment of section 401 of Pub. L. 115–282 and notwithstanding section 402(e) of Pub. L. 115–282, which repealed this chapter.
+Section, Pub. L. 89–454, title II, § 211, as added Pub. L. 94–461, § 2, Oct. 8, 1976, 90 Stat. 1968; amended Pub. L. 95–428, §§ 2(b), 3(4), Oct. 7, 1978, 92 Stat. 999; Pub. L. 100–220, title III, § 3109, Dec. 29, 1987, 101 Stat. 1473, authorized grants for graduate programs in marine affairs and resource management during fiscal years 1988 through 1990.
 
 
 <a id="section-1131"></a>
-## § 1131. Repealed. Pub. L. 115–282, title IV, § 406(c), Dec. 4, 2018, 132 Stat. 4266
+## § 1131. Authorization of appropriations
+**(a) Authorization**
+
+(1) **In general** — There are authorized to be appropriated to the Secretary to carry out this subchapter—
+
+  (A) $87,520,000 for fiscal year 2021;
+
+  (B) $91,900,000 for fiscal year 2022;
+
+  (C) $96,500,000 for fiscal year 2023;
+
+  (D) $101,325,000 for fiscal year 2024; and
+
+  (E) $105,700,000 for fiscal year 2025.
+
+(2) **Priority activities for fiscal years 2021 through 2025** — In addition to the amounts authorized to be appropriated under paragraph (1), there are authorized to be appropriated $6,000,000 for each of fiscal years 2021 through 2025 for competitive grants for the following:
+
+  (A) University research on the biology, prevention, and control of aquatic nonnative species.
+
+  (B) University research on oyster diseases, oyster restoration, and oyster-related human health risks.
+
+  (C) University research on the biology, prevention, and forecasting of harmful algal blooms.
+
+  (D) University research, education, training, and extension services and activities focused on coastal resilience and United States working waterfronts and other regional or national priority issues identified in the strategic plan under [section 1123(c)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1123/c/1&num=0&edition=prelim).
+
+  (E) University research and extension on sustainable aquaculture techniques and technologies.
+
+  (F) Fishery research and extension activities conducted by sea grant colleges or sea grant institutes to enhance, and not supplant, existing core program funding.
+
+**(b) Limitations**
+
+(1) **Administration**
+
+  (A) *In general* — There may not be used for administration of programs under this subchapter in a fiscal year more than 5.5 percent of the lesser of—
+
+    (i) the amount authorized to be appropriated under this subchapter for the fiscal year; or
+
+    (ii) the amount appropriated under this subchapter for the fiscal year.
+
+  (B) *Critical staffing requirements*
+
+    (i) *In general* — The Director shall use the authority under subchapter VI of chapter 33 of title 5, and under [section 1129 of this title](./chapter-022-sea-grant-colleges-and-marine-science-development.md#section-1129), to meet any critical staffing requirement while carrying out the activities authorized under this subchapter.
+
+    (ii) *Exception from cap* — For purposes of subparagraph (A), any costs incurred as a result of an exercise of authority as described in clause (i) shall not be considered an amount used for administration of programs under this subchapter in a fiscal year.
+
+(2) **Use for other offices or programs** — Sums appropriated under the authority of subsection (a)(2) shall not be available for administration of this subchapter by the National Sea Grant Office, for any other Administration or department program, or for any other administrative expenses.
+
+**(c) Availability of sums** Sums appropriated pursuant to this section shall remain available until expended.
+
+**(d) Reversion of unobligated amounts** The amount of any grant, or portion of a grant, made to a person under any section of this subchapter that is not obligated by that person during the first fiscal year for which it was authorized to be obligated or during the next fiscal year thereafter shall revert to the Secretary. The Secretary shall add that reverted amount to the funds available for grants under the section for which the reverted amount was originally made available.
 
 ### Statutory Notes
 
-Section 1233, act Apr. 28, 1908, ch. 151, § 1, 35 Stat. 69; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736, related to regulations as to regattas or marine parades. See [section 70041(a) of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70041/a&num=0&edition=prelim), Shipping.
+#### References in Text
+This subchapter, referred to in subsec. (e), was in the original “this Act” and was translated as reading “this title” meaning title II of Pub. L. 89–454, which enacted this subchapter, to reflect the probable intent of Congress.
 
-Section 1234, act Apr. 28, 1908, ch. 151, § 2, 35 Stat. 69; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736, related to enforcement of regulations and use of public or private vessels. See [section 70041(b) of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70041/b&num=0&edition=prelim).
+#### Amendments
+2020—Subsec. (a)(1). Pub. L. 116–221, § 9(a)(1), amended par. (1) generally. Prior to amendment, par. (1) authorized appropriations for fiscal years 2009 through 2014.
 
-Section 1235, act Apr. 28, 1908, ch. 151, § 3, 35 Stat. 69; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736, related to transfer of authority to regulate to head of other department. See [section 70041(c) of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70041/c&num=0&edition=prelim).
+Subsec. (a)(2). Pub. L. 116–221, § 9(a)(2), amended par. (2) generally. Prior to amendment, par. (2) related to priority activities for fiscal years 2009 through 2014.
 
-Section 1236, act Apr. 28, 1908, ch. 151, § 4, 35 Stat. 69; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736; Pub. L. 101–380, title IV, § 4302(k), Aug. 18, 1990, 104 Stat. 539, related to penalties for violations of regulations. See [section 70041(d) of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70041/d&num=0&edition=prelim).
+Subsec. (b)(1). Pub. L. 116–221, § 9(b), amended par. (1) generally. Prior to amendment, par. (1) related to limitations on amounts for administration of programs.
+
+Subsecs. (c) to (e). Pub. L. 116–221, § 9(c)(2), redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out former subsec. (c) which related to distribution of excess funds.
+
+2008—Subsec. (a)(1). Pub. L. 110–394, § 10(1), added par. (1) and struck out former par. (1) which authorized appropriations for fiscal years 2003 through 2008.
+
+Subsec. (a)(2). Pub. L. 110–394, § 10(2)(A), substituted “fiscal years 2009 through 2014—” for “fiscal years 2003 through 2008—” in introductory provisions.
+
+Subsec. (a)(2)(A). Pub. L. 110–394, § 10(2)(B), substituted “biology, prevention, and control of aquatic” for “biology and control of zebra mussels and other important aquatic”.
+
+Subsec. (a)(2)(C). Pub. L. 110–394, § 10(2)(C), substituted “blooms; and” for “blooms, including Pfiesteria piscicida; and”.
+
+Subsec. (c)(1). Pub. L. 110–394, § 10(3), substituted “performance assessments” for “rating under [section 1123(d)(3)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1123/d/3/A&num=0&edition=prelim)”.
+
+Subsec. (c)(2). Pub. L. 110–394, § 10(4), added par. (2) and struck out former par. (2) which read as follows: “national strategic investments authorized under [section 1123(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1123/b/4&num=0&edition=prelim);”.
+
+2002—Subsecs. (a) to (c). Pub. L. 107–299 amended subsecs. (a) to (c) generally, substituting provisions relating to authorization, limitations, and distribution of funds for provisions relating to authorization, program elements, and priority oyster disease research.
+
+1998—Subsec. (a). Pub. L. 105–160, § 9(a), inserted heading and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “There is authorized to be appropriated to carry out the provisions of sections 1124 and 1127 of this title, and [section 1124a of this title](./chapter-022-sea-grant-colleges-and-marine-science-development.md#section-1124a), an amount—
+
+“(1) for fiscal year 1991, not to exceed $44,398,000;
+
+“(2) for fiscal year 1992, not to exceed $46,014,000;
+
+“(3) for fiscal year 1993, not to exceed $47,695,000;
+
+“(4) for fiscal year 1994, not to exceed $49,443,000; and
+
+“(5) for fiscal year 1995, not to exceed $51,261,000.”
+
+Subsec. (b). Pub. L. 105–160, § 9(b), inserted subsec. heading and amended par. (1) generally. Prior to amendment, par. (1) read as follows: “There is authorized to be appropriated for administration of this subchapter, including [section 1128 of this title](./chapter-022-sea-grant-colleges-and-marine-science-development.md#section-1128), by the National Sea Grant Office and the Administration, an amount—
+
+“(A) for fiscal year 1991, not to exceed $2,500,000;
+
+“(B) for fiscal year 1992, not to exceed $2,600,000;
+
+“(C) for fiscal year 1993, not to exceed $2,700,000;
+
+“(D) for fiscal year 1994, not to exceed $2,800,000; and
+
+“(E) for fiscal year 1995, not to exceed $2,900,000.”
+
+1991—Subsecs. (a) to (c). Pub. L. 102–186 amended subsecs. (a) to (c) generally. Prior to amendment, subsecs. (a) to (c) read as follows:
+
+“(a) There is authorized to be appropriated to carry out the provisions of this subchapter other than sections 1125 and 1130 of this title, an amount—
+
+“(1) for fiscal year 1988, not to exceed $41,500,000;
+
+“(2) for fiscal year 1989, not to exceed $50,500,000; and
+
+“(3) for fiscal year 1990, not to exceed $51,000,000.
+
+“(b) There is authorized to be appropriated to carry out [section 1125 of this title](./chapter-022-sea-grant-colleges-and-marine-science-development.md#section-1125) and [section 1127(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1127/c&num=0&edition=prelim), an amount—
+
+“(1) for fiscal year 1988, not to exceed $500,000;
+
+“(2) for fiscal year 1989, not to exceed $5,000,000; and
+
+“(3) for fiscal year 1990, not to exceed $10,000,000.
+
+“(c) There is authorized to be appropriated to carry out [section 1130 of this title](./chapter-022-sea-grant-colleges-and-marine-science-development.md#section-1130), an amount—
+
+“(1) for fiscal year 1988, not to exceed $2,000,000;
+
+“(2) for fiscal year 1989, not to exceed $2,500,000; and
+
+“(3) for fiscal year 1990, not to exceed $3,000,000.”
+
+1987—Pub. L. 100–220 amended section generally, substituting provisions of subsecs. (a) to (e) relating to appropriations authorizations for fiscal years 1988, 1989, and 1990, for provisions formerly contained in a single unlettered paragraph relating to appropriations authorizations for fiscal years 1978 to 1983 and 1985 to 1987.
+
+1984—Par. (4). Pub. L. 98–623 added par. (4).
+
+1980—Par. (3). Pub. L. 96–289 added par. (3).
+
+1978—Pub. L. 95–428 substituted appropriations authorization of $50,000,000 for fiscal years 1977, and 1978, for prior $50,000,000 authorization for fiscal years ending Sept. 30, 1977, and 1978, and authorized appropriation of $55,000,000 for fiscal years 1979 and 1980.
+
+1977—Pub. L. 95–58 substituted “each of the fiscal years ending September 30, 1977, and September 30, 1978” for “the fiscal year ending September 30, 1977”.
+
+#### Notice of Reprogramming
+Pub. L. 105–160, § 9(c), Mar. 6, 1998, 112 Stat. 26, provided that: “If any funds authorized by this section are subject to a reprogramming action that requires notice to be provided to the Appropriations Committees of the House of Representatives and the Senate, notice of such action shall concurrently be provided to the Committees on Science [now Science, Space, and Technology] and Resources [now Natural Resources] of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.”
 
 
 <a id="section-1141"></a>
-## § 1141. Congressional declaration of goals and policy
-**(a) Restoration and maintenance of chemical, physical and biological integrity of Nation’s waters; national goals for achievement of objective** The objective of this chapter is to restore and maintain the chemical, physical, and biological integrity of the Nation’s waters. In order to achieve this objective it is hereby declared that, consistent with the provisions of this chapter—
+## § 1141. Definitions
 
-(1) it is the national goal that the discharge of pollutants into the navigable waters be eliminated by 1985;
+In this subchapter:
 
-(2) it is the national goal that wherever attainable, an interim goal of water quality which provides for the protection and propagation of fish, shellfish, and wildlife and provides for recreation in and on the water be achieved by July 1, 1983;
+(1) **Sea Grant Institution** — The term “Sea Grant Institution” means a sea grant college or sea grant institute, as those terms are defined in [section 1122 of this title](./chapter-022-sea-grant-colleges-and-marine-science-development.md#section-1122).
 
-(3) it is the national policy that the discharge of toxic pollutants in toxic amounts be prohibited;
+(2) **Tribal organization** — The term “Tribal organization” has the meaning given the term “tribal organization” in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim).
 
-(4) it is the national policy that Federal financial assistance be provided to construct publicly owned waste treatment works;
+(3) **Young fisherman** — The term “young fisherman” means an individual who—
 
-(5) it is the national policy that areawide waste treatment management planning processes be developed and implemented to assure adequate control of sources of pollutants in each State;
+  (A) desires to participate in the commercial fisheries of the United States, including the Great Lakes fisheries;
 
-(6) it is the national policy that a major research and demonstration effort be made to develop technology necessary to eliminate the discharge of pollutants into the navigable waters, waters of the contiguous zone, and the oceans; and
+  (B) has worked as a captain, crew member, or deckhand on a commercial fishing vessel for not more than 10 years of cumulative service; or
 
-(7) it is the national policy that programs for the control of nonpoint sources of pollution be developed and implemented in an expeditious manner so as to enable the goals of this chapter to be met through the control of both point and nonpoint sources of pollution.
-
-**(b) Congressional recognition, preservation, and protection of primary responsibilities and rights of States** It is the policy of the Congress to recognize, preserve, and protect the primary responsibilities and rights of States to prevent, reduce, and eliminate pollution, to plan the development and use (including restoration, preservation, and enhancement) of land and water resources, and to consult with the Administrator in the exercise of his authority under this chapter. It is the policy of Congress that the States manage the construction grant program under this chapter and implement the permit programs under sections 1342 and 1344 of this title. It is further the policy of the Congress to support and aid research relating to the prevention, reduction, and elimination of pollution and to provide Federal technical services and financial aid to State and interstate agencies and municipalities in connection with the prevention, reduction, and elimination of pollution.
-
-**(c) Congressional policy toward Presidential activities with foreign countries** It is further the policy of Congress that the President, acting through the Secretary of State and such national and international organizations as he determines appropriate, shall take such action as may be necessary to insure that to the fullest extent possible all foreign countries shall take meaningful action for the prevention, reduction, and elimination of pollution in their waters and in international waters and for the achievement of goals regarding the elimination of discharge of pollutants and the improvement of water quality to at least the same extent as the United States does under its laws.
-
-**(d) Administrator of Environmental Protection Agency to administer chapter** Except as otherwise expressly provided in this chapter, the Administrator of the Environmental Protection Agency (hereinafter in this chapter called “Administrator”) shall administer this chapter.
-
-**(e) Public participation in development, revision, and enforcement of any regulation, etc.** Public participation in the development, revision, and enforcement of any regulation, standard, effluent limitation, plan, or program established by the Administrator or any State under this chapter shall be provided for, encouraged, and assisted by the Administrator and the States. The Administrator, in cooperation with the States, shall develop and publish regulations specifying minimum guidelines for public participation in such processes.
-
-**(f) Procedures utilized for implementing chapter** It is the national policy that to the maximum extent possible the procedures utilized for implementing this chapter shall encourage the drastic minimization of paperwork and interagency decision procedures, and the best use of available manpower and funds, so as to prevent needless duplication and unnecessary delays at all levels of government.
-
-**(g) Authority of States over water** It is the policy of Congress that the authority of each State to allocate quantities of water within its jurisdiction shall not be superseded, abrogated or otherwise impaired by this chapter. It is the further policy of Congress that nothing in this chapter shall be construed to supersede or abrogate rights to quantities of water which have been established by any State. Federal agencies shall co-operate with State and local agencies to develop comprehensive solutions to prevent, reduce and eliminate pollution in concert with programs for managing water resources.
-
-### Statutory Notes
-
-#### Amendments
-1987—Subsec. (a)(7). Pub. L. 100–4 added par. (7).
-
-1977—Subsec. (b). Pub. L. 95–217, § 26(b), inserted provisions expressing Congressional policy that the States manage the construction grant program under this chapter and implement the permit program under sections 1342 and 1344 of this title.
-
-Subsec. (g). Pub. L. 95–217, § 5(a), added subsec. (g).
-
-#### Short Title of 2021 Amendment
-Pub. L. 116–337, § 1, Jan. 13, 2021, 134 Stat. 5120, provided that: “This Act [amending [section 1330 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1330)] may be cited as the ‘Protect and Restore America’s Estuaries Act’.”
-
-Pub. L. 116–294, § 1, Jan. 5, 2021, 134 Stat. 4899, provided that: “This Act [amending [section 1268 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1268)] may be cited as the ‘Great Lakes Restoration Initiative Act of 2019’ or the ‘GLRI Act of 2019’.”
-
-#### Short Title of 2019 Amendment
-Pub. L. 115–436, § 1, Jan. 14, 2019, 132 Stat. 5558, provided that: “This Act [enacting [section 1377a of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1377a) and [section 4370j of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4370j&num=0&edition=prelim), The Public Health and Welfare, amending sections 1319, 1342, and 1362 of this title, enacting provisions set out as a note under [section 4370j of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4370j&num=0&edition=prelim), and renumbering provisions set out as a note under this section] may be cited as the ‘Water Infrastructure Improvement Act’.”
-
-#### Short Title of 2018 Amendment
-Pub. L. 115–282, title IX, § 901, Dec. 4, 2018, 132 Stat. 4322, provided that: “This title [enacting sections 4729 and 4730 of Title 16, Conservation, amending sections 1319, 1322, 1365, and 1369 of this title, sections 4712 and 4725 of Title 16, [section 42 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section42&num=0&edition=prelim), Crimes and Criminal Procedure, and [section 11301 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section11301&num=0&edition=prelim), Shipping, repealing [section 4711 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4711&num=0&edition=prelim), enacting provisions set out as a note under [section 1322 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1322) and [section 4711 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4711&num=0&edition=prelim), and repealing provisions set out as a note under [section 1342 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1342)] may be cited as the ‘Vessel Incidental Discharge Act of 2018’.”
-
-#### Short Title of 2017 Amendment
-Pub. L. 115–91, div. C, title XXXV, § 3508(a), Dec. 12, 2017, 131 Stat. 1915, provided that: “This section [amending sections 1321, 2701, and 2715 of this title] may be cited as the ‘Foreign Spill Protection Act of 2017’.”
-
-#### Short Title of 2008 Amendment
-Pub. L. 110–365, § 1, Oct. 8, 2008, 122 Stat. 4021, provided that: “This Act [amending sections 1268 and 1271a of this title] may be cited as the ‘Great Lakes Legacy Reauthorization Act of 2008’.”
-
-Pub. L. 110–288, § 1, July 29, 2008, 122 Stat. 2650, provided that: “This Act [amending sections 1322, 1342, and 1362 of this title] may be cited as the ‘Clean Boating Act of 2008’.”
-
-#### Short Title of 2002 Amendment
-Pub. L. 107–303, § 1(a), Nov. 27, 2002, 116 Stat. 2355, provided that: “This Act [enacting [section 1271a of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1271a), amending sections 1254, 1266, 1268, 1270, 1285, 1290, 1324, 1329, 1330, and 1375 of this title, enacting provisions set out as notes under this section, [section 1254 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1254), and [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and repealing provisions set out as a note under [section 50 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section50&num=0&edition=prelim), Education] may be cited as the ‘Great Lakes and Lake Champlain Act of 2002’.”
-
-Pub. L. 107–303, title I, § 101, Nov. 27, 2002, 116 Stat. 2355, provided that: “This title [enacting [section 1271a of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1271a) and amending [section 1268 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1268)] may be cited as the ‘Great Lakes Legacy Act of 2002’.”
-
-Pub. L. 107–303, title II, § 201, Nov. 27, 2002, 116 Stat. 2358, provided that: “This title [amending [section 1270 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1270)] may be cited as the ‘Daniel Patrick Moynihan Lake Champlain Basin Program Act of 2002’.”
-
-#### Short Title of 2000 Amendments
-Pub. L. 106–457, title II, § 201, Nov. 7, 2000, 114 Stat. 1967, provided that: “This title [amending [section 1267 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1267) and enacting provisions set out as a note under [section 1267 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1267)] may be cited as the ‘Chesapeake Bay Restoration Act of 2000’.”
-
-Pub. L. 106–457, title IV, § 401, Nov. 7, 2000, 114 Stat. 1973, provided that: “This title [amending [section 1269 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1269)] may be cited as the ‘Long Island Sound Restoration Act’.”
-
-Pub. L. 106–457, title V, § 501, Nov. 7, 2000, 114 Stat. 1973, provided that: “This title [enacting [section 1273 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1273)] may be cited as the ‘Lake Pontchartrain Basin Restoration Act of 2000’.”
-
-Pub. L. 106–457, title VI, § 601, Nov. 7, 2000, 114 Stat. 1975, provided that: “This title [enacting [section 1300 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1300)] may be cited as the ‘Alternative Water Sources Act of 2000’.”
-
-Pub. L. 106–284, § 1, Oct. 10, 2000, 114 Stat. 870, provided that: “This Act [enacting sections 1346 and 1375a of this title and amending sections 1254, 1313, 1314, 1362, and 1377 of this title] may be cited as the ‘Beaches Environmental Assessment and Coastal Health Act of 2000’.”
-
-#### Short Title of 1994 Amendment
-Pub. L. 103–431, § 1, Oct. 31, 1994, 108 Stat. 4396, provided that: “This Act [amending [section 1311 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1311)] may be cited as the ‘Ocean Pollution Reduction Act’.”
-
-#### Short Title of 1990 Amendment
-Pub. L. 101–596, § 1, Nov. 16, 1990, 104 Stat. 3000, provided that: “This Act [enacting sections 1269 and 1270 of this title, amending sections 1268, 1324, and 1416 of this title, and enacting provisions set out as notes under this section and [section 1270 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1270)] may be cited as the ‘Great Lakes Critical Programs Act of 1990’.”
-
-Pub. L. 101–596, title II, § 201, Nov. 16, 1990, 104 Stat. 3004, provided that: “This part [probably means title, enacting [section 1269 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1269) and amending [section 1416 of this title](./chapter-027-ocean-dumping.md#section-1416)] may be cited as the ‘Long Island Sound Improvement Act of 1990’.”
-
-Pub. L. 101–596, title III, § 301, Nov. 16, 1990, 104 Stat. 3006, provided that: “This title [enacting [section 1270 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1270), amending [section 1324 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1324), and enacting provisions set out as a note under [section 1270 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1270)] may be cited as the ‘Lake Champlain Special Designation Act of 1990’.”
-
-#### Short Title of 1988 Amendment
-Pub. L. 100–653, title X, § 1001, Nov. 14, 1988, 102 Stat. 3835, provided that: “This title [amending [section 1330 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1330) and enacting provisions set out as notes under [section 1330 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1330)] may be cited as the ‘Massachusetts Bay Protection Act of 1988’.”
-
-#### Short Title of 1987 Amendment
-Pub. L. 100–4, § 1(a), Feb. 4, 1987, 101 Stat. 7, provided that: “This Act [enacting sections 1254a, 1267, 1268, 1281b, 1329, 1330, 1377, 1381 to 1387, and 1414a of this title, amending this section and sections 1254, 1256, 1262, 1281, 1282 to 1285, 1287, 1288, 1291, 1311 to 1313, 1314, 1317 to 1322, 1324, 1342, 1344, 1345, 1361, 1362, 1365, 1369, 1375, and 1376 of this title, and enacting provisions set out as notes under this section, sections 1284, 1311, 1317, 1319, 1330, 1342, 1345, 1362, 1375, and 1414a of this title, and [section 1962d–20 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962d–20&num=0&edition=prelim), The Public Health and Welfare] may be cited as the ‘Water Quality Act of 1987’.”
-
-#### Short Title of 1981 Amendment
-Pub. L. 97–117, § 1, Dec. 29, 1981, 95 Stat. 1623, provided that: “This Act [enacting sections 1298, 1299, and 1313a of this title, amending sections 1281 to 1285, 1287, 1291, 1292, 1296, 1311, and 1314 of this title, and enacting provisions set out as notes under sections 1311 and 1375 of this title] may be cited as the ‘Municipal Wastewater Treatment Construction Grant Amendments of 1981’.”
-
-#### Short Title of 1977 Amendment
-Pub. L. 95–217, § 1, Dec. 27, 1977, 91 Stat. 1566, provided: “That this Act [enacting sections 1281a, 1294 to 1296, and 1297 of this title, amending this section and sections 1252, 1254 to 1256, 1259, 1262, 1263, 1281, 1282 to 1288, 1291, 1292, 1311, 1314, 1315, 1317 to 1319, 1321 to 1324, 1328, 1341, 1342, 1344, 1345, 1362, 1364, 1375, and 1376 of this title, enacting provisions set out as notes under this section and sections 1284, 1286, 1314, 1321, 1342, 1344, and 1376 of this title, and amending provisions set out as a note under this section] may be cited as the ‘Clean Water Act of 1977’.”
-
-#### Short Title
-Pub. L. 92–500, § 1, Oct. 18, 1972, 86 Stat. 816, provided that: “That this Act [enacting this chapter, amending [section 24 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section24&num=0&edition=prelim), Banks and Banking, sections 633 and 636 of Title 15, Commerce and Trade, and section 711 of former Title 31, Money and Finance, and enacting provisions set out as notes under this section and sections 1281 and 1361 of this title] may be cited as the ‘Federal Water Pollution Control Act Amendments of 1972’.”
-
-Act June 30, 1948, ch. 758, title V, § 520, formerly § 518, as added by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 896, amended Pub. L. 95–217, § 2, Dec. 27, 1977, 91 Stat. 1566, renumbered § 519, Pub. L. 100–4, title V, § 506, Feb. 4, 1987, 101 Stat. 76, renumbered § 520, Pub. L. 115–436, § 5(b)(1), Jan. 14, 2019, 132 Stat. 5561, provided that: “This Act [this chapter] may be cited as the ‘Federal Water Pollution Control Act’ (commonly referred to as the Clean Water Act).”
-
-#### Savings Provision
-Pub. L. 92–500, § 4, Oct. 18, 1972, 86 Stat. 896, provided that: “(a) No suit, action, or other proceeding lawfully commenced by or against the Administrator or any other officer or employee of the United States in his official capacity or in relation to the discharge of his official duties under the Federal Water Pollution Control Act as in effect immediately prior to the date of enactment of this Act [Oct. 18, 1972] shall abate by reason of the taking effect of the amendment made by section 2 of this Act [which enacted this chapter]. The court may, on its own motion or that of any party made at any time within twelve months after such taking effect, allow the same to be maintained by or against the Administrator or such officer or employee. “(b) All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to the Federal Water Pollution Control Act as in effect immediately prior to the date of enactment of this Act [Oct. 18, 1972], and pertaining to any functions, powers, requirements, and duties under the Federal Water Pollution Control Act as in effect immediately prior to the date of enactment of this Act [Oct. 18, 1972] shall continue in full force and effect after the date of enactment of this Act [Oct. 18, 1972] until modified or rescinded in accordance with the Federal Water Pollution Control Act as amended by this Act [this chapter]. “(c) The Federal Water Pollution Control Act as in effect immediately prior to the date of enactment of this Act [Oct. 18, 1972] shall remain applicable to all grants made from funds authorized for the fiscal year ending June 30, 1972, and prior fiscal years, including any increases in the monetary amount of any such grant which may be paid from authorizations for fiscal years beginning after June 30, 1972, except as specifically otherwise provided in section 202 of the Federal Water Pollution Control Act as amended by this Act [[section 1282 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1282)] and in subsection (c) of section 3 of this Act.”
-
-#### Separability
-Act June 30, 1948, ch. 758, title V, § 512, as added by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 894, provided that: “If any provision of this Act [this chapter], or the application of any provision of this Act [this chapter] to any person or circumstance, is held invalid, the application of such provision to other persons or circumstances, and the remainder of this Act [this chapter], shall not be affected thereby.”
-
-#### National Shellfish Indicator Program
-Pub. L. 102–567, title III, § 308, Oct. 29, 1992, 106 Stat. 4286; as amended by Pub. L. 105–362, title II, § 201(b), Nov. 10, 1998, 112 Stat. 3282, provided that: “(a) Establishment of a Research Program.—The Secretary of Commerce, in cooperation with the Secretary of Health and Human Services and the Administrator of the Environmental Protection Agency, shall establish and administer a 5-year national shellfish research program (hereafter in this section referred to as the ‘Program’) for the purpose of improving existing classification systems for shellfish growing waters using the latest technological advancements in microbiology and epidemiological methods. Within 12 months after the date of enactment of this Act [Oct. 29, 1992], the Secretary of Commerce, in cooperation with the advisory committee established under subsection (b) and the Consortium, shall develop a comprehensive 5-year plan for the Program which shall at a minimum provide for—“(1) an environmental assessment of commercial shellfish growing areas in the United States, including an evaluation of the relationships between indicators of fecal contamination and human enteric pathogens; “(2) the evaluation of such relationships with respect to potential health hazards associated with human consumption of shellfish; “(3) a comparison of the current microbiological methods used for evaluating indicator bacteria and human enteric pathogens in shellfish and shellfish growing waters with new technological methods designed for this purpose; “(4) the evaluation of current and projected systems for human sewage treatment in eliminating viruses and other human enteric pathogens which accumulate in shellfish; “(5) the design of epidemiological studies to relate microbiological data, sanitary survey data, and human shellfish consumption data to actual hazards to health associated with such consumption; and “(6) recommendations for revising Federal shellfish standards and improving the capabilities of Federal and State agencies to effectively manage shellfish and ensure the safety of shellfish intended for human consumption. “(b) Advisory Committee.—(1) For the purpose of providing oversight of the Program on a continuing basis, an advisory committee (hereafter in this section referred to as the ‘Committee’) shall be established under a memorandum of understanding between the Interstate Shellfish Sanitation Conference and the National Marine Fisheries Service. “(2) The Committee shall—“(A) identify priorities for achieving the purpose of the Program; “(B) review and recommend approval or disapproval of Program work plans and plans of operation; “(C) review and comment on all subcontracts and grants to be awarded under the Program; “(D) receive and review progress reports from the Consortium and program subcontractors and grantees; and “(E) provide such other advice on the Program as is appropriate. “(3) The Committee shall consist of at least ten members and shall include—“(A) three members representing agencies having authority under State law to regulate the shellfish industry, of whom one shall represent each of the Atlantic, Pacific, and Gulf of Mexico shellfish growing regions; “(B) three members representing persons engaged in the shellfish industry in the Atlantic, Pacific, and Gulf of Mexico shellfish growing regions (who shall be appointed from among at least six recommendations by the industry members of the Interstate Shellfish Sanitation Conference Executive Board), of whom one shall represent the shellfish industry in each region; “(C) three members, of whom one shall represent each of the following Federal agencies: the National Oceanic and Atmospheric Administration, the Environmental Protection Agency, and the Food and Drug Administration; and “(D) one member representing the Shellfish Institute of North America. “(4) The Chairman of the Committee shall be selected from among the Committee members described in paragraph (3)(A). “(5) The Committee shall establish and maintain a subcommittee of scientific experts to provide advice, assistance, and information relevant to research funded under the Program, except that no individual who is awarded, or whose application is being considered for, a grant or subcontract under the Program may serve on such subcommittee. The membership of the subcommittee shall, to the extent practicable, be regionally balanced with experts who have scientific knowledge concerning each of the Atlantic, Pacific, and Gulf of Mexico shellfish growing regions. Scientists from the National Academy of Sciences and appropriate Federal agencies (including the National Oceanic and Atmospheric Administration, Food and Drug Administration, Centers for Disease Control, National Institutes of Health, Environmental Protection Agency, and National Science Foundation) shall be considered for membership on the subcommittee. “(6) Members of the Committee and its scientific subcommittee established under this subsection shall not be paid for serving on the Committee or subcommittee, but shall receive travel expenses as authorized by [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim), United States Code. “(c) Contract With Consortium.—Within 30 days after the date of enactment of this Act [Oct. 29, 1992], the Secretary of Commerce shall seek to enter into a cooperative agreement or contract with the Consortium under which the Consortium will—“(1) be the academic administrative organization and fiscal agent for the Program; “(2) award and administer such grants and subcontracts as are approved by the Committee under subsection (b); “(3) develop and implement a scientific peer review process for evaluating grant and subcontractor applications prior to review by the Committee; “(4) in cooperation with the Secretary of Commerce and the Committee, procure the services of a scientific project director; “(5) develop and submit budgets, progress reports, work plans, and plans of operation for the Program to the Secretary of Commerce and the Committee; and “(6) make available to the Committee such staff, information, and assistance as the Committee may reasonably require to carry out its activities. “(d) Authorization of Appropriations.—(1) Of the sums authorized under section 4(a) of the National Oceanic and Atmospheric Administration Marine Fisheries Program Authorization Act (Public Law 98–210; 97 Stat. 1409), there are authorized to be appropriated to the Secretary of Commerce $5,200,000 for each of the fiscal years 1993 through 1997 for carrying out the Program. Of the amounts appropriated pursuant to this authorization, not more than 5 percent of such appropriation may be used for administrative purposes by the National Oceanic and Atmospheric Administration. The remaining 95 percent of such appropriation shall be used to meet the administrative and scientific objectives of the Program. “(2) The Interstate Shellfish Sanitation Conference shall not administer appropriations authorized under this section, but may be reimbursed from such appropriations for its expenses in arranging for travel, meetings, workshops, or conferences necessary to carry out the Program. “(e) Definitions.—As used in this section, the term—“(1) ‘Consortium’ means the Louisiana Universities Marine Consortium; and “(2) ‘shellfish’ means any species of oyster, clam, or mussel that is harvested for human consumption.”
-
-#### Limitation on Payments
-Pub. L. 100–4, § 2, Feb. 4, 1987, 101 Stat. 8, provided that: “No payments may be made under this Act [see Short Title of 1987 Amendment note above] except to the extent provided in advance in appropriation Acts.”
-
-#### Seafood Processing Study; Submittal of Results to Congress not Later Than January 1, 1979
-Pub. L. 95–217, § 74, Dec. 27, 1977, 91 Stat. 1609, provided that the Administrator of the Environmental Protection Agency conduct a study to examine the geographical, hydrological, and biological characteristics of marine waters to determine the effects of seafood processes which dispose of untreated natural wastes into such waters and to include in this study an examination of technologies which may be used in such processes to facilitate the use of the nutrients in these wastes or to reduce the discharge of such wastes into the marine environment and to submit the result of this study to Congress not later than Jan. 1, 1979.
-
-#### Oversight Study
-Pub. L. 92–500, § 5, Oct. 18, 1972, 86 Stat. 897, authorized the Comptroller General of the United States to conduct a study and review of the research, pilot, and demonstration programs related to prevention and control of water pollution conducted, supported, or assisted by any Federal agency pursuant to any Federal law or regulation and assess conflicts between these programs and their coordination and efficacy, and to report to Congress thereon by Oct. 1, 1973.
-
-#### International Trade Study
-Pub. L. 92–500, § 6, Oct. 18, 1972, 86 Stat. 897, provided that: “(a) The Secretary of Commerce, in cooperation with other interested Federal agencies and with representatives of industry and the public, shall undertake immediately an investigation and study to determine—“(1) the extent to which pollution abatement and control programs will be imposed on, or voluntarily undertaken by, United States manufacturers in the near future and the probable short- and long-range effects of the costs of such programs (computed to the greatest extent practicable on an industry-by-industry basis) on (A) the production costs of such domestic manufacturers, and (B) the market prices of the goods produced by them; “(2) the probable extent to which pollution abatement and control programs will be implemented in foreign industrial nations in the near future and the extent to which the production costs (computed to the greatest extent practicable on an industry-by-industry basis) of foreign manufacturers will be affected by the costs of such programs; “(3) the probable competitive advantage which any article manufactured in a foreign nation will likely have in relation to a comparable article made in the United States if that foreign nation—“(A) does not require its manufacturers to implement pollution abatement and control programs. “(B) requires a lesser degree of pollution abatement and control in its programs, or “(C) in any way reimburses or otherwise subsidizes its manufacturers for the costs of such program; “(4) alternative means by which any competitive advantage accruing to the products of any foreign nation as a result of any factor described in paragraph (3) may be (A) accurately and quickly determined, and (B) equalized, for example, by the imposition of a surcharge or duty, on a foreign product in an amount necessary to compensate for such advantage; and “(5) the impact, if any, which the imposition of a compensating tariff of other equalizing measure may have in encouraging foreign nations to implement pollution and abatement control programs. “(b) The Secretary shall make an initial report to the President and Congress within six months after the date of enactment of this section [Oct. 18, 1972] of the results of the study and investigation carried out pursuant to this section and shall make additional reports thereafter at such times as he deems appropriate taking into account the development of relevant data, but not less than once every twelve months.”
-
-#### International Agreements
-Pub. L. 92–500, § 7, Oct. 18, 1972, 86 Stat. 898, provided that: “The President shall undertake to enter into international agreement to apply uniform standards of performance for the control of the discharge and emission of pollutants from new sources, uniform controls over the discharge and emission of toxic pollutants, and uniform controls over the discharge of pollutants into the ocean. For this purpose the President shall negotiate multilateral treaties, conventions, resolutions, or other agreements, and formulate, present, or support proposals at the United Nations and other appropriate international forums.”
-
-#### National Policies and Goal Study
-Pub. L. 92–500, § 10, Oct. 18, 1972, 86 Stat. 899, directed President to make a full and complete investigation and study of all national policies and goals established by law to determine what the relationship should be between these policies and goals, taking into account the resources of the Nation, and to report results of his investigation and study together with his recommendations to Congress not later than two years after Oct. 18, 1972.
-
-#### Efficiency Study
-Pub. L. 92–500, § 11, Oct. 18, 1972, 86 Stat. 899, directed President, by utilization of the General Accounting Office, to conduct a full and complete investigation and study of ways and means of most effectively using all of the various resources, facilities, and personnel of the Federal Government in order to most efficiently carry out the provisions of this chapter and to report results of his investigation and study together with his recommendations to Congress not later than two hundred and seventy days after Oct. 18, 1972.
-
-#### Sex Discrimination
-Pub. L. 92–500, § 13, Oct. 18, 1972, 86 Stat. 903, provided that: “No person in the United States shall on the ground of sex be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any program or activity receiving Federal assistance under this Act [see Short Title note above] the Federal Water Pollution Control Act [this chapter], or the Environmental Financing Act [set out as a note under [section 1281 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1281)]. This section shall be enforced through agency provisions and rules similar to those already established, with respect to racial and other discrimination, under title VI of the Civil Rights Act of 1964 [section 2000d et seq. of Title 42, The Public Health and Welfare]. However, this remedy is not exclusive and will not prejudice or cut off any other legal remedies available to a discriminatee.”
-
-#### Definition of “Administrator”
-Pub. L. 100–4, § 1(d), Feb. 4, 1987, 101 Stat. 8, provided that: “For purposes of this Act [see Short Title of 1987 Amendment note above], the term ‘Administrator’ means the Administrator of the Environmental Protection Agency.”
-
-#### Standards
-For provisions relating to the responsibility of the head of each Executive agency for compliance with applicable pollution control standards, see Ex. Ord. No. 12088, Oct. 13, 1978, 43 F.R. 47707, set out as a note under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim), The Public Health and Welfare.
-
-#### Contiguous Zone of United States
-For extension of contiguous zone of United States, see Proc. No. 7219, set out as a note under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim), Public Lands.
-
-#### Prevention, Control, and Abatement of Environmental Pollution at Federal Facilities
-Ex. Ord. No. 12088, Oct. 13, 1978, 43 F.R. 47707, set out as a note under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim), The Public Health and Welfare, provides for the prevention, control, and abatement of environmental pollution at federal facilities.
-
-#### Executive Order No. 11548
-Ex. Ord. No. 11548, July 20, 1970, 35 F.R. 11677, which related to the delegation of Presidential functions, was superseded by Ex. Ord. No. 11735, Aug. 3, 1973, 38 F.R. 21243, formerly set out as a note under [section 1321 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1321).
-
-#### Ex. Ord. No. 11742. Delegation of Functions to Secretary of State Respecting the Negotiation of International Agreements Relating to the Enhancement of the Environment
-Ex. Ord. No. 11742, Oct. 23, 1973, 38 F.R. 29457, provided:
-
-Under and by virtue of the authority vested in me by [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim) of the United States Code and as President of the United States, I hereby authorize and empower the Secretary of State, in coordination with the Council on Environmental Quality, the Environmental Protection Agency, and other appropriate Federal agencies, to perform, without the approval, ratification, or other action of the President, the functions vested in the President by Section 7 of the Federal Water Pollution Control Act Amendments of 1972 (Public Law 92–500; 86 Stat. 898) with respect to international agreements relating to the enhancement of the environment.
-
-Richard Nixon.
-
-
-<a id="section-1142"></a>
-## § 1142. Comprehensive programs for water pollution control
-**(a) Preparation and development** The Administrator shall, after careful investigation, and in cooperation with other Federal agencies, State water pollution control agencies, interstate agencies, and the municipalities and industries involved, prepare or develop comprehensive programs for preventing, reducing, or eliminating the pollution of the navigable waters and ground waters and improving the sanitary condition of surface and underground waters. In the development of such comprehensive programs due regard shall be given to the improvements which are necessary to conserve such waters for the protection and propagation of fish and aquatic life and wildlife, recreational purposes, and the withdrawal of such waters for public water supply, agricultural, industrial, and other purposes. For the purpose of this section, the Administrator is authorized to make joint investigations with any such agencies of the condition of any waters in any State or States, and of the discharges of any sewage, industrial wastes, or substance which may adversely affect such waters.
-
-**(b) Planning for reservoirs; storage for regulation of streamflow**
-
-(1) In the survey or planning of any reservoir by the Corps of Engineers, Bureau of Reclamation, or other Federal agency, consideration shall be given to inclusion of storage for regulation of streamflow, except that any such storage and water releases shall not be provided as a substitute for adequate treatment or other methods of controlling waste at the source.
-
-(2) The need for and the value of storage for regulation of streamflow (other than for water quality) including but not limited to navigation, salt water intrusion, recreation, esthetics, and fish and wildlife, shall be determined by the Corps of Engineers, Bureau of Reclamation, or other Federal agencies.
-
-(3) The need for, the value of, and the impact of, storage for water quality control shall be determined by the Administrator, and his views on these matters shall be set forth in any report or presentation to Congress proposing authorization or construction of any reservoir including such storage.
-
-(4) The value of such storage shall be taken into account in determining the economic value of the entire project of which it is a part, and costs shall be allocated to the purpose of regulation of streamflow in a manner which will insure that all project purposes, share equitably in the benefit of multiple-purpose construction.
-
-(5) Costs of regulation of streamflow features incorporated in any Federal reservoir or other impoundment under the provisions of this chapter shall be determined and the beneficiaries identified and if the benefits are widespread or national in scope, the costs of such features shall be nonreimbursable.
-
-(6) No license granted by the Federal Energy Regulatory Commission for a hydroelectric power project shall include storage for regulation of streamflow for the purpose of water quality control unless the Administrator shall recommend its inclusion and such reservoir storage capacity shall not exceed such proportion of the total storage required for the water quality control plan as the drainage area of such reservoir bears to the drainage area of the river basin or basins involved in such water quality control plan.
-
-**(c) Basins; grants to State agencies**
-
-(1) The Administrator shall, at the request of the Governor of a State, or a majority of the Governors when more than one State is involved, make a grant to pay not to exceed 50 per centum of the administrative expenses of a planning agency for a period not to exceed three years, which period shall begin after October 18, 1972, if such agency provides for adequate representation of appropriate State, interstate, local, or (when appropriate) international interests in the basin or portion thereof involved and is capable of developing an effective, comprehensive water quality control plan for a basin or portion thereof.
-
-(2) Each planning agency receiving a grant under this subsection shall develop a comprehensive pollution control plan for the basin or portion thereof which—
-
-  (A) is consistent with any applicable water quality standards effluent and other limitations, and thermal discharge regulations established pursuant to current law within the basin;
-
-  (B) recommends such treatment works as will provide the most effective and economical means of collection, storage, treatment, and elimination of pollutants and recommends means to encourage both municipal and industrial use of such works;
-
-  (C) recommends maintenance and improvement of water quality within the basin or portion thereof and recommends methods of adequately financing those facilities as may be necessary to implement the plan; and
-
-  (D) as appropriate, is developed in cooperation with, and is consistent with any comprehensive plan prepared by the Water Resources Council, any areawide waste management plans developed pursuant to [section 1288 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1288), and any State plan developed pursuant to [section 1313(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1313/e&num=0&edition=prelim).
-
-(3) For the purposes of this subsection the term “basin” includes, but is not limited to, rivers and their tributaries, streams, coastal waters, sounds, estuaries, bays, lakes, and portions thereof as well as the lands drained thereby.
-
-### Statutory Notes
-
-#### Amendments
-1995—Subsec. (d). Pub. L. 104–66 struck out subsec. (d) which read as follows: “The Administrator, after consultation with the States, and River Basin Commissions established under the Water Resources Planning Act, shall submit a report to Congress on or before July 1, 1978, which analyzes the relationship between programs under this chapter, and the programs by which State and Federal agencies allocate quantities of water. Such report shall include recommendations concerning the policy in [section 1251(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251/g&num=0&edition=prelim) to improve coordination of efforts to reduce and eliminate pollution in concert with programs for managing water resources.”
-
-1977—Subsec. (d). Pub. L. 95–217 added subsec. (d).
-
-#### Transfer of Functions
-“Federal Energy Regulatory Commission” substituted for “Federal Power Commission” in subsec. (b)(6) on authority of Pub. L. 95–91, title IV, § 402(a)(1)(A), Aug. 4, 1977, 91 Stat. 583, which is classified to [section 7172(a)(1)(A) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7172/a/1/A&num=0&edition=prelim), The Public Health and Welfare.
-
-#### Executive Order No. 10014
-Ex. Ord. No. 10014, Nov. 3, 1948, 13 F.R. 6601, which related to the cooperation of Federal and State agencies to prevent pollution of surface and underground waters, was superseded by Ex. Ord. No. 11258, Nov. 17, 1965, 30 F.R. 14483.
-
-
-<a id="section-1143"></a>
-## § 1143. Reservoir projects, water storage; modification; storage for other than for water quality, opinion of Federal agency, committee resolutions of approval; provisions inapplicable to projects with certain prescribed water quality benefits in relation to total project benefits
-
-In the case of any reservoir project authorized for construction by the Corps of Engineers, Bureau of Reclamation, or other Federal agency when the Administrator of the Environmental Protection Agency determines pursuant to [section 1252(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1252/b&num=0&edition=prelim) that any storage in such project for regulation of streamflow for water quality is not needed, or is needed in a different amount, such project may be modified accordingly by the head of the appropriate agency, and any storage no longer required for water quality may be utilized for other authorized purposes of the project when, in the opinion of the head of such agency, such use is justified. Any such modification of a project where the benefits attributable to water quality are 15 per centum or more but not greater than 25 per centum of the total project benefits shall take effect only upon the adoption of resolutions approving such modification by the appropriate committees of the Senate and House of Representatives. The provisions of the section shall not apply to any project where the benefits attributable to water quality exceed 25 per centum of the total project benefits.
+  (C) is a beginning commercial fisherman.
 
 ### Statutory Notes
 
 #### Codification
-Section was not enacted as part of the Federal Water Pollution Control Act which comprises this chapter.
+Section was enacted as part of the Young Fishermen’s Development Act, and not as part of titles I and II of Pub. L. 89–454 which comprise this chapter.
+
+
+<a id="section-1142"></a>
+## § 1142. Establishment of program
+
+The Secretary of Commerce, acting through the National Sea Grant Office, shall establish a program to provide training, education, outreach, and technical assistance initiatives for young fishermen, to be known as the ‘Young Fishermen’s Development Grant Program’ (referred to in this section 11 So in original. Probably should refer to this subchapter. as the ‘Program’).
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Young Fishermen’s Development Act, and not as part of titles I and II of Pub. L. 89–454 which comprise this chapter.
+
+
+<a id="section-1143"></a>
+## § 1143. Grants
+**(a) In general** In carrying out the Program, the Secretary shall make competitive grants to support new and established local and regional training, education, outreach, and technical assistance initiatives for young fishermen, including programs, workshops, and services relating to—
+
+(1) seamanship, navigation, electronics, and safety;
+
+(2) vessel and engine care, maintenance, and repair;
+
+(3) innovative conservation fishing gear engineering and technology;
+
+(4) sustainable fishing practices;
+
+(5) entrepreneurship and good business practices;
+
+(6) direct marketing, supply chain, and traceability;
+
+(7) financial and risk management, including vessel, permit, and quota purchasing;
+
+(8) State and Federal legal requirements for specific fisheries, including reporting, monitoring, licenses, and regulations;
+
+(9) State and Federal fisheries policy and management;
+
+(10) mentoring, apprenticeships, or internships; and
+
+(11) any other activities, opportunities, or programs, as the Secretary determines appropriate.
+
+**(b) Eligibility**
+
+(1) **Applicants** — To be eligible to receive a grant under the Program, a recipient shall be a collaborative State, Tribal, local, or regionally based network or partnership of public or private entities, which may include—
+
+  (A) a Sea Grant Institution;
+
+  (B) a Federal or State agency or a Tribal organization;
+
+  (C) a community-based nongovernmental organization;
+
+  (D) fishermen’s cooperatives or associations;
+
+  (E) an institution of higher education (including an institution awarding an associate’s degree), or a foundation maintained by an institution of higher education; or
+
+  (F) any other appropriate entity, as the Secretary determines appropriate.
+
+(2) **Participants** — All young fishermen seeking to participate in the commercial fisheries of the United States and the Great Lakes are eligible to participate in the activities funded through grants provided for in this section, except that participants in such activities shall be selected by each grant recipient.
+
+**(c) Maximum term and amount of grant**
+
+(1) **In general** — A grant under this section shall—
+
+  (A) have a term of no more than 3 fiscal years; and
+
+  (B) be in an amount that is not more than $200,000 for each fiscal year.
+
+(2) **Consecutive grants** — An eligible recipient may receive consecutive grants under this section.
+
+**(d) Matching requirement** To be eligible to receive a grant under this section, a recipient shall provide a match in the form of cash or in-kind contributions from the recipient in the amount equal to or greater than 25 percent of the funds provided by the grant.
+
+**(e) Regional balance** In making grants under this section, the Secretary shall, to the maximum extent practicable, ensure geographic diversity.
+
+**(f) Cooperation and evaluation criteria** In carrying out this section and in developing criteria for evaluating grant applications, the Secretary shall consult, to the maximum extent practicable, with—
+
+(1) Sea Grant Institutions and extension agents of such institutions;
+
+(2) community-based nongovernmental fishing organizations;
+
+(3) Federal and State agencies, including Regional Fishery Management Councils established under the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1851](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1851&num=0&edition=prelim) et seq.); 11 See References in Text note below.
+
+(4) institutions of higher education with fisheries expertise and programs; and
+
+(5) partners, as the Secretary determines.
+
+**(g) Prohibition** A grant under this section may not be used to purchase any fishing license, permit, quota, or other harvesting right.
+
+### Statutory Notes
+
+#### References in Text
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (f)(3), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of Title 16, Conservation. Title III of the Act is classified generally to subchapter IV (§ 1851 et seq.) of chapter 38 of Title 16. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1801&num=0&edition=prelim) and Tables.
+
+#### Codification
+Section was enacted as part of the Young Fishermen’s Development Act, and not as part of titles I and II of Pub. L. 89–454 which comprise this chapter.
 
 
 <a id="section-1144"></a>
-## § 1144. Interstate cooperation and uniform laws
-**(a)** The Administrator shall encourage cooperative activities by the States for the prevention, reduction, and elimination of pollution, encourage the enactment of improved and, so far as practicable, uniform State laws relating to the prevention, reduction, and elimination of pollution; and encourage compacts between States for the prevention and control of pollution.
+## § 1144. Funding
+**(a) Authorizations** There are authorized to be appropriated to carry out this subchapter $2,000,000 for each of fiscal years 2022 through 2026.
 
-**(b)** The consent of the Congress is hereby given to two or more States to negotiate and enter into agreements or compacts, not in conflict with any law or treaty of the United States, for (1) cooperative effort and mutual assistance for the prevention and control of pollution and the enforcement of their respective laws relating thereto, and (2) the establishment of such agencies, joint or otherwise, as they may deem desirable for making effective such agreements and compacts. No such agreement or compact shall be binding or obligatory upon any State a party thereto unless and until it has been approved by the Congress.
+**(b) Derivation** Funds to carry out the activities under this subchapter shall be derived from amounts authorized to be appropriated pursuant to the preceding subsection that are enacted after January 5, 2021.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Young Fishermen’s Development Act, and not as part of titles I and II of Pub. L. 89–454 which comprise this chapter.

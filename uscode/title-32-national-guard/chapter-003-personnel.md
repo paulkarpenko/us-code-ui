@@ -2,7 +2,7 @@
 title: 32
 chapter: '3'
 heading: PERSONNEL
-section_count: 26
+section_count: 27
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32&num=0&edition=prelim
 ---
@@ -768,12 +768,21 @@ Pub. L. 107–314, div. A, title V, § 512(e), Dec. 2, 2002, 116 Stat. 2537, pro
 A prior section 328, act Aug. 10, 1956, ch. 1041, 70A Stat. 608, related to special courts-martial of the National Guard not in Federal service, prior to repeal by Pub. L. 107–314, div. A, title V, § 512(c), Dec. 2, 2002, 116 Stat. 2537, applicable with respect to courts-martial convened after Dec. 2, 2002.
 
 
-<a id="section-329-to-333"></a>
-## § 329 to 333. Repealed. Pub. L. 107–314, div. A, title V, § 512(c)(1), Dec. 2, 2002, 116 Stat. 2537]
+<a id="section-329"></a>
+## § 329. Prohibition on private funding for interstate deployment
+
+A member of the National Guard may not be ordered to cross a border of a State to perform duty (under this title or title 10) if such duty is paid for with private funds, unless such duty is in response to a major disaster or emergency under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5170](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5170&num=0&edition=prelim)).
 
 ### Statutory Notes
 
-Section 329, act Aug. 10, 1956, ch. 1041, 70A Stat. 608, related to summary courts-martial of National Guard not in Federal service.
+#### Prior Provisions
+A prior section 329, act Aug. 10, 1956, ch. 1041, 70A Stat. 608, which related to summary courts-martial of National Guard not in Federal service, was repealed by Pub. L. 107–314, div. A, title V, § 512(c)(1), Dec. 2, 2002, 116 Stat. 2537.
+
+
+<a id="section-330-to-333"></a>
+## § 330 to 333. Repealed. Pub. L. 107–314, div. A, title V, § 512(c)(1), Dec. 2, 2002, 116 Stat. 2537]
+
+### Statutory Notes
 
 Section 330, act Aug. 10, 1956, ch. 1041, 70A Stat. 609, related to confinement instead of fine for a court-martial in the National Guard not in Federal service.
 

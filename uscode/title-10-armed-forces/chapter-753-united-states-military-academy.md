@@ -2,7 +2,7 @@
 title: 10
 chapter: '753'
 heading: UNITED STATES MILITARY ACADEMY
-section_count: 31
+section_count: 32
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -94,6 +94,12 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Effective Date of 1980 Amendment
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+
+#### Regulations on Certain Parental Guardianship Rights of Cadets and Midshipmen
+Pub. L. 117–81, div. A, title V, § 559A, Dec. 27, 2021, 135 Stat. 1742, provided that: “(a) Regulations Required.—Not later than one year after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of Defense, after consultation with the Secretaries of the military departments and the Superintendent of each military service academy, shall prescribe regulations that include the option to preserve parental guardianship rights of a cadet or midshipman who becomes pregnant or fathers a child while attending a military service academy, consistent with the individual and academic responsibilities of such cadet or midshipman. “(b) Briefings; Report.—“(1) Interim briefing.—Not later than May 1, 2022, the Secretary of Defense shall provide to the Committees on Armed Services of the Senate and House of Representatives an interim briefing on the development of the regulations prescribed under subsection (a). “(2) Report.—Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on any legislation the Secretary determines necessary to implement the regulations prescribed under subsection (a). “(3) Final briefing.—Not later than one year after the date of the enactment of this Act, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a final briefing on the regulations prescribed under subsection (a). “(c) Rule of Construction.—Nothing in this section shall be construed to change, or require a change to, any admission requirement at a military service academy. “(d) Military Service Academy Defined.—In this section, the term ‘military service academy’ means the following:“(1) The United States Military Academy. “(2) The United States Naval Academy. “(3) The United States Air Force Academy.”
+
+#### Pilot Program on Cardiac Screening at Certain Military Service Academies
+Pub. L. 117–81, div. A, title VII, § 733, Dec. 27, 2021, 135 Stat. 1798, provided that: “(a) Pilot Program.—The Secretary of Defense shall establish a pilot program to furnish mandatory electrocardiograms to individuals who have been admitted to a covered military service academy in connection with the military accession screening process, at no cost to such candidates. “(b) Scope.—The scope of the pilot program under subsection (a) shall include at least 25 percent of the incoming class of individuals who have been admitted to a covered military service academy during the first fall semester that follows the date of the enactment of this Act [Dec. 27, 2021], and the pilot program shall terminate on the date on which the Secretary determines the military accession screening process for such class has concluded. “(c) Furnishing of Electrocardiograms.—In carrying out the pilot program under subsection (a), the Secretary shall furnish each mandatory electrocardiogram under the pilot program in a facility of the Department of Defense or by medical personnel within the military health system. “(d) Briefing.—Not later than 180 days after the date on which the pilot program under subsection (a) terminates, the Secretary shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing on the pilot program. Such briefing shall include the following:“(1) The results of all electrocardiograms furnished to individuals under the pilot program, disaggregated by military service academy, race, and gender. “(2) The rate of significant cardiac issues detected pursuant to electrocardiograms furnished under the pilot program, disaggregated by military service academy, race, and gender. “(3) The cost of carrying out the pilot program. “(4) The number of individuals, if any, who were disqualified from admission based solely on the result of an electrocardiogram furnished under the pilot program. “(e) Covered Military Service Academy Defined.—In this section, the term ‘covered military service academy’ does not include the United States Coast Guard Academy or the United States Merchant Marine Academy.”
 
 #### Speech Disorders of Cadets and Midshipmen
 Pub. L. 116–92, div. A, title V, § 558, Dec. 20, 2019, 133 Stat. 1392, provided that: “(a) Testing.—The Superintendent of a military service academy shall provide testing for speech disorders to incoming cadets or midshipmen under the jurisdiction of that Superintendent. “(b) No Effect on Admission.—The testing under subsection (a) may not have any effect on admission to a military service academy. “(c) Results.—The Superintendent shall provide each cadet or midshipman under the jurisdiction of that Superintendent the result of the testing under subsection (a) and a list of warfare unrestricted line officer positions and occupation specialities that require successful performance on the speech test. “(d) Therapy.—The Superintendent shall furnish speech therapy to a cadet or midshipman under the jurisdiction of that Superintendent at the election of the cadet or midshipman. “(e) Report.—Not later than 180 days after the date of the enactment of this Act [Dec. 20, 2019], the Secretaries of the military departments shall submit to the Committees on Armed Services of the Senate and the House of Representatives a joint report that includes the following:“(1) The number of cadets or midshipmen with an identified speech disorder in each military service academy. “(2) A list of the health care and administrative resources related to speech disorders available to cadets and midshipmen described in paragraph (1). “(3) A list of positions and specialties described in subsection (c) pursued by the cadets and midshipmen described in paragraph (1) at the time of graduation.”
@@ -814,6 +820,15 @@ Pub. L. 94–106, title VIII, § 803(a), Oct. 7, 1975, 89 Stat. 537, provided th
 Pub. L. 94–106, title VIII, § 803(c), Oct. 7, 1975, 89 Stat. 538, provided that: “It is the sense of Congress that, subject to the provisions of subsection (a) [note set out above], the Secretaries of the military departments shall, under the direction of the Secretary of Defense, continue to exercise the authority granted them in chapters 403, 603 and 903 [now 753, 853, and 953] of title 10, United States Code, but such authority must be exercised within a program providing for the orderly and expeditious admission of women to the academies, consistent with the needs of the services, with the implementation of such program upon enactment of this Act [Oct. 7, 1975].”
 
 
+<a id="section-7442a"></a>
+## § 7442a. Cadets: nomination in event of death, resignation, or expulsion from office of Member of Congress otherwise authorized to nominate
+**(a) Senators.—** In the event a Senator does not submit all nominations for cadets allocated to such Senator for an academic year in accordance with [section 7442(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7442/a/3&num=0&edition=prelim), due to death, resignation from office, or expulsion from office, and the date of the swearing-in of the Senator’s successor as Senator occurs after the date of the deadline for submittal of nominations for cadets for the academic year, the nominations for cadets for such academic year, otherwise authorized to be made by the Senator pursuant to such section, may be made instead by the other Senator from the State of such Representative.
+
+**(b) Representatives.—** In the event a Representative does not submit all nominations for cadets allocated to such Representative for an academic year in accordance with [section 7442(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7442/a/4&num=0&edition=prelim), due to death, resignation from office, or expulsion from office, and the date of the swearing-in of the Representative’s successor as Representative occurs after the date of the deadline for submittal of nominations for cadets for the academic year, the nominations for cadets for such academic year, otherwise authorized to be made by the Representative pursuant to such section, may be made instead by the Senators from the State of such Representative, with such nominations divided equally among such Senators and any remainder going to the senior Senator from the State.
+
+**(c) Rule of Construction.—** The nomination of a cadet by a Member of Congress pursuant to this section shall not be construed to permanently reallocate nominations under [section 7442 of this title](./chapter-753-united-states-military-academy.md#section-7442).
+
+
 <a id="section-7443"></a>
 ## § 7443. Cadets: appointment; to bring Corps to full strength
 
@@ -1104,7 +1119,7 @@ In subsection (a), the words “while owing the United States for pay advanced f
 In subsection (b), the word “accouterments” is omitted as surplusage. The words “by the Government” and “such restrictions and” are omitted as surplusage. The words “at cost” are omitted to reflect Title IV of the National Security Act of 1947, as amended (63 Stat. 585), which authorized the Secretary of Defense to prescribe regulations governing the use and sale of certain inventories at cost, including applicable administrative expenses. (See opinion of the Assistant General Counsel (Fiscal Matters) of the Office of the Secretary of Defense, January 4, 1955.)
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 4350 of this title](./chapter-324-program-status-selected-acquisition-reports.md#section-4350) as this section.
+2018—Pub. L. 115–232 renumbered [section 4350 of this title](./chapter-324-selected-acquisition-reports.md#section-4350) as this section.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -1134,7 +1149,7 @@ In subsection (b), the words “is entitled to” are substituted for the words 
 In subsection (c), the words “by reason of sickness, or deficiency in his studies, or other cause” are omitted as surplusage.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 4351 of this title](./chapter-324-program-status-selected-acquisition-reports.md#section-4351) as this section.
+2018—Pub. L. 115–232 renumbered [section 4351 of this title](./chapter-324-selected-acquisition-reports.md#section-4351) as this section.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -1173,7 +1188,7 @@ In subsection (c), the words “a regular component” are inserted, since the s
 #### Amendments
 2021—Subsec. (c). Pub. L. 116–283 substituted “Marine Corps, or Space Force” for “or Marine Corps”.
 
-2018—Pub. L. 115–232 renumbered [section 4352 of this title](./chapter-324-program-status-selected-acquisition-reports.md#section-4352) as this section.
+2018—Pub. L. 115–232 renumbered [section 4352 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4352&num=0&edition=prelim) as this section.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -1206,7 +1221,7 @@ In subsection (b), the words “except [section 541 of this title](./chapter-033
 It is unnecessary to include a reference to section 541, since that section does not derogate from the authority granted in this section.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 4353 of this title](./chapter-324-program-status-selected-acquisition-reports.md#section-4353) as this section.
+2018—Pub. L. 115–232 renumbered [section 4353 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4353&num=0&edition=prelim) as this section.
 
 1980—Subsec. (b). Pub. L. 96–513 inserted “under [section 531 of this title](./chapter-033-original-appointments-of-regular-officers-in-grades-above-warrant-officer-grades.md#section-531)” after “Regular Army”.
 
@@ -1241,7 +1256,7 @@ In subsection (a), the words “and to prevent the introduction of unworthy subj
 In subsection (b), the words “in his discretion” and “Government of” are omitted as surplusage. The words “United States” are substituted for the word “Government”.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 4354 of this title](./chapter-324-program-status-selected-acquisition-reports.md#section-4354) as this section.
+2018—Pub. L. 115–232 renumbered [section 4354 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4354&num=0&edition=prelim) as this section.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -1261,7 +1276,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 (5) six persons designated by the President.
 
-**(b)** The persons designated by the President serve for three years each except that any member whose term of office has expired shall continue to serve until his successor is appointed. The President shall designate two persons each year to succeed the members whose terms expire that year.
+**(b)** The persons designated by the President serve for three years each except that any member whose term of office has expired shall continue to serve until his successor is appointed by the President. The President shall designate two persons each year to succeed the members whose terms expire that year.
 
 **(c)** If a member of the Board dies or resigns, a successor shall be designated for the unexpired portion of the term by the official who designated the member.
 
@@ -1274,6 +1289,16 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 **(g)** Upon approval by the Secretary, the Board may call in advisers for consultation.
 
 **(h)** While performing his duties, each member of the Board and each adviser shall be reimbursed under Government travel regulations for his travel expenses.
+
+**(i)**
+
+(1) A majority of the members of the Board may call an official meeting of the Board once per year.
+
+(2) A member may attend such meeting—
+
+  (A) in person, at the Academy; or
+
+  (B) remotely, at the election of such member.
 
 ### Statutory Notes
 
@@ -1299,7 +1324,11 @@ In subsection (g), the words “as it may deem necessary or advisable effectuate
 In subsection (h), the words “called for consultation by the Board in connection with the business of the Board” are omitted as surplusage.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 4355 of this title](./chapter-324-program-status-selected-acquisition-reports.md#section-4355) as this section.
+2021—Subsec. (b). Pub. L. 117–81, § 554(a), substituted “is appointed by the President” for “is appointed”.
+
+Subsec. (i). Pub. L. 117–81, § 555(a), added subsec. (i).
+
+2018—Pub. L. 115–232 renumbered [section 4355 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4355&num=0&edition=prelim) as this section.
 
 1999—Subsec. (a)(3). Pub. L. 106–65, substituted “Committee on Armed Services” for “Committee on National Security”.
 
@@ -1328,7 +1357,7 @@ Under regulations prescribed by the Secretary of the Army, the Superintendent of
 The word “Academy” is substituted for “United States Military Academy” for consistency in title 10.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 4356 of this title](./chapter-324-program-status-selected-acquisition-reports.md#section-4356) as this section.
+2018—Pub. L. 115–232 renumbered [section 4356 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4356&num=0&edition=prelim) as this section.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -1392,7 +1421,7 @@ Pub. L. 97–252, title XI, § 1133, Sept. 8, 1982, 96 Stat. 761, provided that:
 ### Statutory Notes
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 4357 of this title](./chapter-324-program-status-selected-acquisition-reports.md#section-4357) as this section.
+2018—Pub. L. 115–232 renumbered [section 4357 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4357&num=0&edition=prelim) as this section.
 
 2003—Subsec. (c). Pub. L. 108–136 inserted before period at end “or, if earlier, the expiration of 14 days following the date on which a copy of the report is provided in an electronic medium pursuant to [section 480 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-480)”.
 
@@ -1419,7 +1448,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 ### Statutory Notes
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 4358 of this title](./chapter-324-program-status-selected-acquisition-reports.md#section-4358) as this section.
+2018—Pub. L. 115–232 renumbered [section 4358 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4358&num=0&edition=prelim) as this section.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -1603,7 +1632,7 @@ Pub. L. 109–364, div. A, title V, § 532(b), Oct. 17, 2006, 120 Stat. 2205, pr
 ## § 7462. Support of athletic programs
 **(a) Authority.—**
 
-(1) **Contracts and cooperative agreements.—** — The Secretary of the Army may enter into contracts and cooperative agreements with the Army West Point Athletic Association for the purpose of supporting the athletic programs of the Academy. Notwithstanding [section 2304(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304/k&num=0&edition=prelim), the Secretary may enter such contracts or cooperative agreements on a sole source basis pursuant to [section 2304(c)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304/c/5&num=0&edition=prelim). Notwithstanding chapter 63 of title 31, a cooperative agreement under this section may be used to acquire property or services for the direct benefit or use of the Academy.
+(1) **Contracts and cooperative agreements.—** — The Secretary of the Army may enter into contracts and cooperative agreements with the Army West Point Athletic Association for the purpose of supporting the athletic programs of the Academy. Notwithstanding [section 3201(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3201/e&num=0&edition=prelim), the Secretary may enter such contracts or cooperative agreements on a sole source basis pursuant to [section 3204(a)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3204/a/5&num=0&edition=prelim). Notwithstanding chapter 63 of title 31, a cooperative agreement under this section may be used to acquire property or services for the direct benefit or use of the Academy.
 
 (2) **Financial controls.—**
 
@@ -1664,9 +1693,6 @@ Pub. L. 109–364, div. A, title V, § 532(b), Oct. 17, 2006, 120 Stat. 2205, pr
 **(h) Association Defined.—** In this section, the term “Association” means the Army West Point Athletic Association.
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, except as otherwise provided in title XVIII of Pub. L. 116–283, in title 10, United States Code, each reference in the text of such title to a source section that is redesignated by title XVIII of Pub. L. 116–283, is amended by striking such reference and inserting a reference to the appropriate section as so redesignated. See 2021 Amendment note below.
 
 #### References in Text
 Section 501(c)(3) of the Internal Revenue Code of 1986, referred to in subsec. (g)(1), is classified to [section 501(c)(3) of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim), Internal Revenue Code.

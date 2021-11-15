@@ -109,9 +109,9 @@ Functions of Federal Security Administrator transferred to Secretary of Health, 
 
 
 <a id="section-1385"></a>
-## § 1385. Use of Army and Air Force as posse comitatus
+## § 1385. Use of Army, Navy, Marine Corps, Air Force, and Space Force as posse comitatus
 
-Whoever, except in cases and under circumstances expressly authorized by the Constitution or Act of Congress, willfully uses any part of the Army or the Air Force as a posse comitatus or otherwise to execute the laws shall be fined under this title or imprisoned not more than two years, or both.
+Whoever, except in cases and under circumstances expressly authorized by the Constitution or Act of Congress, willfully uses any part of the Army, the Navy, the Marine Corps, the Air Force, or the Space Force as a posse comitatus or otherwise to execute the laws shall be fined under this title or imprisoned not more than two years, or both.
 
 ### Statutory Notes
 
@@ -123,6 +123,8 @@ Whoever, except in cases and under circumstances expressly authorized by the Con
 This section is revised to conform to the style and terminology used in title 18. It is not enacted as a part of title 10, United States Code, since it is more properly allocated to title 18.
 
 #### Amendments
+2021—Pub. L. 117–81 substituted “Army, Navy, Marine Corps, Air Force, and Space Force” for “Army and Air Force” in section catchline, and in text substituted “Army, the Navy, the Marine Corps,” for “Army or” and inserted “, or the Space Force” after “Air Force”.
+
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
 
 1959—Pub. L. 86–70 struck out provisions which made section inapplicable in Alaska.

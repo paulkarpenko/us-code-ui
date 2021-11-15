@@ -126,7 +126,7 @@ Section was enacted as part of the Wildfire Suppression Funding and Forest Manag
 ## § 2607. Protection of Oregon and California Railroad grant lands
 **(a) Definitions** For purposes of this section:
 
-(1) **O & C land** — The term “O & C land” means the land (commonly known as “Oregon and California Railroadgrant land”) that—
+(1) **O & C land** — The term “O & C land” means the land (commonly known as “Oregon and California Railroad grant land”) that—
 
   (A) revested in the United States under the Act of June 9, 1916 (39 Stat. 218, chapter 137); and
 
@@ -138,7 +138,7 @@ Section was enacted as part of the Wildfire Suppression Funding and Forest Manag
 
   (B) is managed by the Secretary of the Interior through the Bureau of Land Management under the Act of August 28, 1937 ([43 U.S.C. 1181a](./chapter-028-miscellaneous-provisions-relating-to-public-lands.md#section-1181a) et seq.).
 
-(3) **Geographic area** — The term “geographic area” means the area in the State of Oregon within the boundaries of theMedford District, Roseburg District, Eugene District, Salem District, Coos Bay District, and Klamath Resource Area of the Lakeview District of the Bureau of Land Management, as the districts and the resource area were constituted on January 1, 1998.
+(3) **Geographic area** — The term “geographic area” means the area in the State of Oregon within the boundaries of the Medford District, Roseburg District, Eugene District, Salem District, Coos Bay District, and Klamath Resource Area of the Lakeview District of the Bureau of Land Management, as the districts and the resource area were constituted on January 1, 1998.
 
 (4) **Secretary** — The term “Secretary” means the Secretary of the Interior.
 

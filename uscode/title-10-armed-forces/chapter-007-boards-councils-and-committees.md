@@ -175,7 +175,7 @@ Pub. L. 98–36, § 1, May 27, 1983, 97 Stat. 200, provided: “That this Act [e
 
   (D) The enhanced polar system.
 
-(3) In this subsection, the terms “Milestone A approval” and “Milestone B approval” have the meanings given such terms in sections 2366(e) and 2366a(d) of this title.
+(3) In this subsection, the terms “Milestone A approval” and “Milestone B approval” have the meanings given such terms in sections 4172(e) and 4251(d) of this title.
 
 **(j) Notification of Reduction of Certain Warning Time.—**
 
@@ -227,17 +227,12 @@ Pub. L. 98–36, § 1, May 27, 1983, 97 Stat. 200, provided: “That this Act [e
 
 ### Statutory Notes
 
-#### Amendment of Section
-Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, except as otherwise provided in title XVIII of Pub. L. 116–283, in title 10, United States Code, each reference in the text of such title to a source section that is redesignated by title XVIII of Pub. L. 116–283, is amended by striking such reference and inserting a reference to the appropriate section as so redesignated. See 2021 Amendment note(s) below.
-
-Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1845(c)(2), Jan. 1, 2021, 134 Stat. 4151, 4247, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, subsection (i)(3) of this section is amended by striking “section 2366(e)” and inserting “sections 4172(e)”. See 2021 Amendment note below.
-
 #### Amendments
 2021—Subsec. (i)(1). Pub. L. 116–283, § 1081(a)(10), substituted “Acquisition” for “Acquisitions”.
 
-Subsec. (i)(3). Pub. L. 116–283, § 1883(b)(2), substituted “4251(d)” for “2366a(d)”.
+Subsec. (i)(3). Pub. L. 117–81, § 1702(a)(1), substituted “4251(d)” for “2366a(d)”.
 
-Pub. L. 116–283, § 1845(c)(2), which directed substitution of “sections 4172(e)” for “section 2366(e)”, was executed by making substitution for “sections 2366(e)”, to reflect the probably intent of Congress.
+Pub. L. 116–283, § 1845(c)(2), as amended by Pub. L. 117–81, § 1701(b)(14), substituted “sections 4172(e)” for “sections 2366(e)”.
 
 2019—Pub. L. 116–92 substituted “and Sustainment” for “, Technology, and Logistics” wherever appearing.
 
@@ -262,7 +257,9 @@ Subsecs. (i) to (k). Pub. L. 114–328, § 1661(b), added subsecs. (i) and (j) a
 Subsecs. (f) to (i). Pub. L. 114–92, § 1651(1), (2), added subsec. (f) and redesignated former subsecs. (f) to (h) as (g) to (i), respectively.
 
 #### Effective Date of 2021 Amendment
-Amendment by sections 1845(c)(2) and 1883(b)(2) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+Amendment by section 1701(b)(14) of Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out as a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
+
+Amendment by section 1845(c)(2) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Department of Defense Instruction
 Pub. L. 115–91, div. A, title XVI, § 1654(a)(2), Dec. 12, 2017, 131 Stat. 1759, provided that: “The Secretary of Defense shall issue a Department of Defense Instruction, or revise such an Instruction, to ensure that program managers carry out subsection (k)(1) of [section 171a of title 10](./chapter-007-boards-councils-and-committees.md#section-171a), United States Code, as added by paragraph (1).”
@@ -290,7 +287,7 @@ Pub. L. 115–91, div. A, title XVI, § 1654(b), Dec. 12, 2017, 131 Stat. 1759, 
 
 (4) To direct the staff of the explosive safety board.
 
-(5) To performs other functions relating to explosives safety management, as directed by the Assistant Secretary of Defense for Sustainment.
+(5) To performs 11 So in original. other functions relating to explosives safety management, as directed by the Assistant Secretary of Defense for Sustainment.
 
 (6) To provide impartial and objective advice related to explosives safety management to the Secretary of Defense and the heads of the military departments.
 
@@ -302,11 +299,11 @@ Pub. L. 115–91, div. A, title XVI, § 1654(b), Dec. 12, 2017, 131 Stat. 1759, 
 
 (10) To develop and recommend issuances to define the functions of the explosive safety board.
 
-(11) To establishes joint hazard classification procedures with covered components of the Department.
+(11) To establishes 1 joint hazard classification procedures with covered components of the Department.
 
 (12) To make recommendations to the Under Secretary of Defense for Acquisition and Sustainment with respect to explosives and chemical agent safety tenets and requirements.
 
-(13) To conducts oversight of Department of Defense explosive safety management programs.
+(13) To conducts 1 oversight of Department of Defense explosive safety management programs.
 
 (14) To carry out such other responsibilities as the Secretary of Defense determines appropriate.
 
@@ -799,24 +796,26 @@ Pub. L. 116–92, div. A, title VII, § 733(c), Dec. 20, 2019, 133 Stat. 1461, p
 
   (A) The term “budget” has the meaning given that term in [section 231(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section231/f&num=0&edition=prelim).
 
-  (B) The term “defense budget materials” has the meaning given that term in [section 231(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section231/f&num=0&edition=prelim).e
+  (B) The term “defense budget materials” has the meaning given that term in [section 231(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section231/f&num=0&edition=prelim).
 
   (C) The term “proposed transfer of estimated nuclear budget request authority” means, in preparing a budget, a request for the Secretary of Defense to transfer an estimated amount of the proposed budget authority of the Secretary to the Secretary of Energy for purposes relating to nuclear weapons.
 
-**(g) Semiannual Briefings.—**
+**(g) Semiannual Updates on Council Meetings.—**
 
-(1) Not later than February 1 and August 1 of each year, the Council shall provide to the congressional defense committees a briefing on, with respect to the six-month period preceding the briefing—
+(1) Not later than February 1 and August 1 of each year, the Council shall provide to the congressional defense committees a semiannual update including, with respect to the six-month period preceding the update—
 
   (A) the dates on which the Council met; and
 
   (B) except as provided by paragraph (2), a summary of any decisions made by the Council pursuant to subsection (d) at each such meeting and the rationale for and options that informed such decisions.
 
-(2) The Council shall not be required to include in a briefing under paragraph (1) the matters described in subparagraph (B) of that paragraph with respect to decisions of the Council relating to the budget of the President for a fiscal year if the budget for that fiscal year has not been submitted to Congress under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim) as of the date of the briefing.
+(2) The Council shall not be required to include in a semiannual update under paragraph (1) the matters described in subparagraph (B) of that paragraph with respect to decisions of the Council relating to the budget of the President for a fiscal year if the budget for that fiscal year has not been submitted to Congress under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim) as of the date of the semiannual update.
+
+(3) The Council may provide a semiannual update under paragraph (1) either in the form of a briefing or a written report.
 
 ### Statutory Notes
 
 #### Amendments
-2021—Subsec. (d)(9) to (12). Pub. L. 116–283, § 1632(a), added subsec. (9) and redesignated former subsecs. (9) to (11) as (10) to (12), respectively.
+2021—Subsec. (d)(9) to (12). Pub. L. 116–283, § 1632(a), added par. (9) and redesignated former pars. (9) to (11) as (10) to (12), respectively.
 
 Subsec. (g). Pub. L. 116–283, § 1631(a), amended subsec. (g) generally. Prior to amendment, subsec. (g) related to semiannual briefings to Congress.
 
@@ -975,19 +974,21 @@ Pub. L. 99–661, div. C, title I, § 3137(b), Nov. 14, 1986, 100 Stat. 4066, pr
 
 (1) assessing joint military capabilities, and identifying, approving, and prioritizing gaps in such capabilities, to meet applicable requirements in the national defense strategy under [section 113(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section113/g&num=0&edition=prelim);
 
-(2) reviewing and validating whether a capability proposed by an armed force, Defense Agency, or other entity of the Department of Defense fulfills a gap in joint military capabilities;
+(2) increasing awareness of global trends, threats, and adversary capabilities to address gaps in joint military capabilities and validate joint requirements developed by the military departments;
 
-(3) establishing and approving joint performance requirements that—
+(3) reviewing and validating whether a capability proposed by an armed force, Defense Agency, or other entity of the Department of Defense fulfills a gap in joint military capabilities;
+
+(4) establishing and approving joint performance requirements that—
 
   (A) ensure interoperability, where appropriate, between and among joint military capabilities; and
 
   (B) are necessary, as designated by the Chairman of the Joint Chiefs of Staff, to fulfill capability gaps of more than one armed force, Defense Agency, or other entity of the Department;
 
-(4) reviewing performance requirements for any existing or proposed capability that the Chairman of the Joint Chiefs of Staff determines should be reviewed by the Council;
+(5) reviewing performance requirements for any existing or proposed capability that the Chairman of the Joint Chiefs of Staff determines should be reviewed by the Council;
 
-(5) identifying new joint military capabilities based on advances in technology and concepts of operation; and
+(6) identifying new joint military capabilities based on advances in technology and concepts of operation; and
 
-(6) identifying alternatives to any acquisition program that meets approved joint military capability requirements for the purposes of sections 2366a(b), 2366b(a)(4), and 2433(e)(2) of this title.
+(7) identifying alternatives to any acquisition program that meets approved joint military capability requirements for the purposes of sections 4251(b), 4252(a)(4), and 4375(b) of this title.
 
 **(c) Composition.—**
 
@@ -1019,7 +1020,11 @@ Pub. L. 99–661, div. C, title I, § 3137(b), Nov. 14, 1986, 100 Stat. 4066, pr
 
   (C) The Under Secretary of Defense for Acquisition and Sustainment.
 
-  (D) The Under Secretary of Defense for Research and Engineering.
+  (D) The Under Secretary of Defense for Research and Engineering who shall serve as the Chief Technical Advisor to the Council and—
+
+    (i) shall provide assistance in evaluating the technical feasibility of requirements under development; and
+
+    (ii) shall identify options for expanding or generating new requirements based on opportunities provided by new or emerging technologies.
 
   (E) The Under Secretary of Defense (Comptroller).
 
@@ -1053,19 +1058,22 @@ Pub. L. 99–661, div. C, title I, § 3137(b), Nov. 14, 1986, 100 Stat. 4066, pr
 
 ### Statutory Notes
 
-#### Amendment of Section
-Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, except as otherwise provided in title XVIII of Pub. L. 116–283, in title 10, United States Code, each reference in the text of such title to a source section that is redesignated by title XVIII of Pub. L. 116–283, is amended by striking such reference and inserting a reference to the appropriate section as so redesignated. See 2021 Amendment note below.
-
-Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1850(m), Jan. 1, 2021, 134 Stat. 4151, 4271, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, subsection (b)(6) of this section is amended by striking “2433(e)(2)” and inserting “4375(b)”. See 2021 Amendment note below.
-
 #### Amendments
-2021—Subsec. (b)(6). Pub. L. 116–283, § 1883(b)(2), substituted “4251(b)” for “2366a(b)” and “4252(a)(4)” for “2366b(a)(4)”.
+2021—Subsec. (b)(2)–(5). Pub. L. 117–81, § 903(a)(1), added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively. Former par. (5) redesignated (6).
 
-Pub. L. 116–283, § 1850(m), substituted “4375(b)” for “2433(e)(2)”.
+Subsec. (b)(6). Pub. L. 117–81, § 903(a)(1)(A), redesignated par. (5) as (6). Former par. (6) redesignated (7).
+
+Subsec. (b)(7). Pub. L. 117–81, § 1702(a)(2), which directed amendment of par. (6) by substituting “sections 4251(b), 4252(a)(4),” for “sections 2366a(b), 2366b(a)(4),”, was executed by making the substitution in par. (7) to reflect the probable intent of Congress and the redesignation of par. (6) as (7) by Pub. L. 117–81, § 903(a)(1)(A). See below.
+
+Pub. L. 117–81, § 903(a)(1)(A), redesignated par. (6) as (7).
+
+Pub. L. 116–283, § 1850(m), which directed amendment of par. (6) by substituting “4375(b)” for “2433(e)(2)” effective Jan. 1, 2022, was executed by making the substitution in par. (7) to reflect the probable intent of Congress and the redesignation of par. (6) as (7) by Pub. L. 117–81, § 903(a)(1)(A), effective Dec. 27, 2021. See above.
 
 Subsec. (c)(1)(F). Pub. L. 116–283, § 924(b)(9), added subpar. (F).
 
-Subsec. (d)(1)(D). Pub. L. 116–283, § 906(b), substituted “The” for “the”.
+Subsec. (d)(1)(D). Pub. L. 117–81, § 903(a)(2), substituted “who shall serve as the Chief Technical Advisor to the Council and—” and cls. (i) and (ii) for period at end.
+
+Pub. L. 116–283, § 906(b), substituted “The” for “the”.
 
 Subsec. (d)(4). Pub. L. 116–283, § 906(a), added par. (4).
 
@@ -1075,7 +1083,7 @@ Subsec. (d)(1)(C). Pub. L. 116–92, § 902(7)(A), substituted “Under Secretar
 
 Subsec. (d)(1)(D) to (H). Pub. L. 116–92, § 902(7)(B), (C), added subpar. (D) and redesignated former subpars. (D) to (G) as (E) to (H), respectively.
 
-2018—Subsec. (b)(3) to (7). Pub. L. 115–232 redesignated pars. (4) to (7) as (3) to (6), respectively, and struck out former par. (3) which related to development of recommendations for program cost and fielding targets pursuant to [section 2448a of this title](./chapter-144b-weapon-systems-development-and-related-matters.md#section-2448a).
+2018—Subsec. (b)(3) to (7). Pub. L. 115–232 redesignated pars. (4) to (7) as (3) to (6), respectively, and struck out former par. (3) which related to development of recommendations for program cost and fielding targets pursuant to [section 2448a of this title](./chapter-chapter-144b-chapter-chapter-144b.md#section-2448a).
 
 2017—Subsec. (b)(1). Pub. L. 115–91 substituted “section 113(g)” for “section 118”.
 
@@ -1136,7 +1144,7 @@ Subsec. (g). Pub. L. 110–181, § 942(d), added subsec. (g).
 1996—Subsec. (d). Pub. L. 104–201 added subsec. (d).
 
 #### Effective Date of 2021 Amendment
-Amendment by sections 1850(m) and 1883(b)(2) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date
 Pub. L. 104–106, div. A, title IX, § 905(b), Feb. 10, 1996, 110 Stat. 404, provided that: “The amendments made by this section [enacting this section] shall take effect on January 31, 1997.”
@@ -1292,6 +1300,8 @@ Pub. L. 110–181, div. A, title IX, § 906(a)(3), Jan. 28, 2008, 122 Stat. 277,
 
   (B) After the Clearinghouse issues a notice under subparagraph (A) with respect to an energy project, the parties should seek to identify feasible and affordable actions that can be taken by the Department, the developer of such energy project, or others to mitigate any adverse impact on military operations and readiness.
 
+  (C) A notice of presumed risk issued under subparagraph (A) is a preliminary assessment only and does not represent a formal objection pursuant to subsection (e). Discussions of possible mitigation actions under such subparagraph could favorably resolve any concerns identified in the notice of presumed risk.
+
 (3) At the same time that the Clearinghouse issues to the applicant a notice of presumed risk under paragraph (2), the Clearinghouse shall provide the same notice to the governor of the State in which the project is located and request that the governor provide the Clearinghouse any comments the governor believes of relevance to the application. The Secretary of Defense shall consider the comments of the governor in the Secretary’s evaluation of whether the project presents an unacceptable risk to the national security of the United States and shall include the comments with the finding provided to the Secretary of Transportation pursuant to [section 44718(f) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44718/f&num=0&edition=prelim).
 
 (4) If, after issuing the notices of presumed risk required by paragraphs (2) and (3), the Secretary of Defense later concludes for any reason that the energy project will not have an adverse impact on military readiness, the Clearinghouse shall notify the applicant and the governor in writing of that conclusion.
@@ -1301,6 +1311,8 @@ Pub. L. 110–181, div. A, title IX, § 906(a)(3), Jan. 28, 2008, 122 Stat. 277,
 (6) The Clearinghouse shall establish procedures for the Department of Defense for the coordinated consideration of and response to a request for a review received from another Federal agency, a State government, an Indian tribal government, a local government, a landowner, or the developer of an energy project, including guidance to personnel at each military installation in the United States on how to initiate such procedures and ensure a coordinated Department response.
 
 (7) The Clearinghouse shall develop procedures for conducting early outreach to parties carrying out energy projects that could have an adverse impact on military operations and readiness and to clearly communicate to such parties actions being taken by the Department of Defense under this section. The procedures shall provide for filing by such parties of a project area and preliminary project layout at least one year before expected construction of any project proposed within a military training route or within line-of-sight of any air route surveillance radar, airport surveillance radar, or wide area surveillance over-the-horizon radar operated or used by the Department of Defense in order to provide adequate time for analysis and negotiation of mitigation options. Material marked as proprietary or competition sensitive by a party filing for this preliminary review shall be protected from public release by the Department of Defense.
+
+(8) If, in reviewing an application for an energy project pursuant to paragraph (1), the Clearinghouse finds no adverse impact on military operations under [section 44718(b)(1) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44718/b/1&num=0&edition=prelim), the Clearinghouse shall communicate to the Secretary of Transportation in writing, not later than five business days after making such finding, the following: “No Part 77 concerns, national security review ongoing.”
 
 **(d) Comprehensive Review.—**
 
@@ -1383,9 +1395,13 @@ Pub. L. 110–181, div. A, title IX, § 906(a)(3), Jan. 28, 2008, 122 Stat. 277,
 #### Amendments
 2021—Subsec. (c)(2). Pub. L. 116–283, § 311(1), designated existing provisions as subpar. (A) and added subpar. (B).
 
-Subsec. (c)(4) to (6). Pub. L. 116–283, § 311(2), (3), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
+Subsec. (c)(2)(C). Pub. L. 117–81, § 371(b)(1), added subpar. (C).
+
+Subsec. (c)(4) to (6). Pub. L. 116–283, § 311(2), (3), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively. Former par. (6) redesignated (7).
 
 Subsec. (c)(7). Pub. L. 116–283, § 311(2), (4), redesignated par. (6) as (7) and struck out “Any setback for a project pursuant to the previous sentence shall not be more than what is determined to be necessary by a technical analysis conducted by the Lincoln Laboratory at the Massachusetts Institute of Technology or any successor entity.” before “Material marked”.
+
+Subsec. (c)(8). Pub. L. 117–81, § 371(b)(2), added par. (8).
 
 2019—Subsec. (c)(1). Pub. L. 116–92, § 311, substituted “75 days” for “60 days” in introductory provisions.
 
@@ -1411,7 +1427,116 @@ Pub. L. 115–91, div. A, title III, § 311(d), Dec. 12, 2017, 131 Stat. 1348, p
 
 
 <a id="section-184"></a>
-## § 184. Renumbered § 342]
+## § 184. Joint Safety Council
+**(a) In General.—** There is established, within the Office of the Deputy Secretary of Defense, a Joint Safety Council (in this section referred to as the “Council”).
+
+**(b) Membership; Appointment; Compensation.—**
+
+(1) The Council shall be composed of voting members as follows:
+
+  (A) The Director of Safety for each military department.
+
+  (B) An employee of the Department of Defense who is a career member of the Senior Executive Service and has a demonstrated record of success in the implementation of programs within the Department of Defense (as determined by the Deputy Secretary of Defense), appointed by the Deputy Secretary of Defense.
+
+  (C) One member of the armed forces or civilian employee from each military department, appointed by the Secretary concerned.
+
+  (D) Such additional members as may be determined by the Deputy Secretary of Defense.
+
+(2)
+
+  (A) Each member of the Council shall serve at the will of the official who appointed that member.
+
+  (B) Any vacancy on the Council shall be filled in the same manner as the original appointment.
+
+(3) Members of the Council may not receive additional pay, allowances, or benefits by reason of their service on the Council.
+
+**(c) Chairperson and Vice Chairperson.—**
+
+(1)
+
+  (A) The Secretary of Defense, or the designee of the Secretary, shall select one of the members of the Council who is a member of the armed forces to serve as the Chairperson of the Council.
+
+  (B) The Chairperson shall serve for a term of two years and shall be responsible for—
+
+    (i) serving as the Director of Safety for the Department of Defense;
+
+    (ii) serving as principal advisor to the Secretary of Defense regarding military safety and related regulations and policy reforms, including issues regarding maintenance, supply chains, personnel management, and training;
+
+    (iii) overseeing all duties and activities of the Council, including the conduct of military safety studies and the issuance of safety guidance to the military departments;
+
+    (iv) working with, and advising, the Secretaries of the military departments through appointed safety chiefs to implement standardized safety guidance across the military departments;
+
+    (v) submitting to the Secretary of Defense and Congress an annual report reviewing the compliance of each military department with the guidance described in clause (iv);
+
+    (vi) advising Congress on issues relating to military safety and reforms; and
+
+    (vii) overseeing coordination with other Federal agencies, including the Federal Aviation Administration, to inform military aviation safety guidance and reforms.
+
+(2) The individual appointed under subsection (b)(1)(B) shall serve as the Vice Chairperson. The Vice Chairperson shall report to the Chairperson and shall serve as Chairperson in the absence of the Chairperson.
+
+**(d) Responsibilities.—** The Council shall carry out the following responsibilities:
+
+(1) Subject to subsection (e), issuing, publishing, and updating regulations related to joint safety, including regulations on the reporting and investigation of mishaps.
+
+(2) With respect to mishap data—
+
+  (A) establishing uniform data collection standards and a repository, that is accessible Department-wide, of data for mishaps in the Department of Defense;
+
+  (B) reviewing the compliance of each military department in adopting and using the uniform data collection standards established under subparagraph (A); and
+
+  (C) reviewing mishap data to assess, identify, and prioritize risk mitigation efforts and safety improvement efforts across the Department.
+
+(3) With respect to non-mishap data—
+
+  (A) establishing standards and requirements for the collection of aircraft, equipment, simulator, airfield, range, pilot, and operator data;
+
+  (B) establishing standards and requirements for the collection of ground vehicle equipment and crew data; and
+
+  (C) establishing requirements for each military department to collect and analyze any waivers issued relating to pilot or operator qualifications or standards.
+
+(4) Reviewing and assessing civil and commercial aviation safety programs and practices to determine the suitability of such programs and practices for implementation in the military departments.
+
+(5) Establishing, in consultation with the Administrator of the Federal Aviation Administration, a requirement for each military department to implement an aviation safety management system.
+
+(6) Establishing, in consultation with the heads of appropriate Federal departments and agencies, a requirement for each military department to implement a separate safety management program for ground vehicles and ships.
+
+(7) Reviewing the proposal of each military department for the safety management systems described in paragraphs (9) and (10).11 So in original. No par. (10) has been enacted.
+
+(8) Reviewing the implementation of such systems by each military department.
+
+(9) Ensuring each military department has in place a system to monitor the implementation of recommendations made in safety and legal investigation reports of mishap incidents.
+
+**(e) Oversight.—** The decisions and recommendations of the Council are subject to review and approval by the Deputy Secretary of Defense.
+
+**(f) Staff.—**
+
+(1) The Council may appoint staff in accordance with [section 3101 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3101&num=0&edition=prelim).
+
+(2) The Council may accept persons on detail from within the Department of Defense and from other Federal departments or agencies on a reimbursable or non-reimbursable basis.
+
+**(g) Contract Authority.—** The Council may enter into contracts for the acquisition of administrative supplies, equipment, and personnel services for use by the Council, to the extent that funds are available for such purposes.
+
+**(h) Procurement of Temporary and Intermittent Services.—** The Chairperson may procure temporary and intermittent services under [section 3109(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109/b&num=0&edition=prelim) at rates for individuals which do not exceed the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of such title.
+
+**(i) Data Collection.—**
+
+(1) Under regulations issued by the Secretary of Defense, the Council shall have access to Department of Defense databases necessary to carry out its responsibilities, including causal factors to be used for mishap reduction purposes.
+
+(2) Under regulations issued by the Secretary of Defense, the Council may enter into agreements with the Federal Aviation Administration, the National Transportation Safety Board, and any other Federal agency regarding the sharing of safety data.
+
+(3) Data collected by the Council pursuant to this subsection may include privileged safety information that is protected from disclosure or discovery to any person.
+
+**(j) Meetings.—** The Council shall meet quarterly and at the call of the Chairperson.
+
+**(k) Report.—** The Chair of the Council shall submit to the congressional defense committees semi-annual reports on the activities of the Council.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 184 was renumbered [section 342 of this title](./chapter-016-security-cooperation.md#section-342).
+
+#### Deadlines
+Pub. L. 117–81, div. A, title III, § 372(c), Dec. 27, 2021, 135 Stat. 1666, provided that: “(1) Establishment.—The Secretary of Defense shall ensure the establishment of the Joint Safety Council under [section 184 of title 10](./chapter-007-boards-councils-and-committees.md#section-184), United States Code (as added by subsection (a)), by not later than the date that is 120 days after the date of the enactment of this Act [Dec. 27, 2021]. “(2) Appointment of first members.—The initial members of the Joint Safety Council established under such section 184 shall be appointed by not later than the date that is 120 days after the date of the enactment of this Act. “(3) Directors of safety.—Not later than 30 days after the date of the enactment of this Act, the Secretary of each military department shall ensure there is appointed as the Director of Safety for the military department concerned an officer of that military department in pay grade O–8 or above.”
 
 
 <a id="section-185"></a>
@@ -1458,7 +1583,7 @@ Section, added Pub. L. 108–375, div. A, title III, § 332(b)(1), Oct. 28, 2004
 
 (4) recommend such other strategies to the Secretary as the Board considers appropriate to strengthen the industrial base with respect to materials critical to national security; and
 
-(5) publish not less frequently than once every two years in the Federal Register recommendations regarding materials critical to national security, including a list of specialty metals, if any, recommended for addition to, or removal from, the definition of “specialty metal” for purposes of [section 2533b of this title](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2533b).
+(5) publish not less frequently than once every two years in the Federal Register recommendations regarding materials critical to national security, including a list of specialty metals, if any, recommended for addition to, or removal from, the definition of “specialty metal” for purposes of [section 4863 of this title](./chapter-385-other-technology-base-policies-and-programs.md#section-4863).
 
 **(c) Meetings.—** The Board shall meet as determined necessary by the Deputy Assistant Secretary of Defense for Manufacturing and Industrial Base Policy but not less frequently than once every two years to make recommendations regarding materials critical to national security as described in subsection (b)(5).
 
@@ -1481,9 +1606,6 @@ Section, added Pub. L. 108–375, div. A, title III, § 332(b)(1), Oct. 28, 2004
 (3) The term “secure supply”, with respect to a material, means the availability of a source or sources for the material, including the full supply chain for the material and components containing the material.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (b)(5)
-Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1870(c)(6)(C), Jan. 1, 2021, 134 Stat. 4151, 4285, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, subsection (b)(5) of this section is amended by striking “section 2533b” and inserting “section 4863”. See 2021 Amendment note below.
 
 #### Amendments
 2021—Subsec. (b)(5). Pub. L. 116–283 substituted “section 4863” for “section 2533b”.
@@ -1599,7 +1721,7 @@ Pub. L. 112–239, div. A, title X, § 1040(c), Jan. 2, 2013, 126 Stat. 1930, pr
 
 **(c) Responsibilities.—** The Board shall—
 
-(1) monitor the overall communications security, cryptographic modernization, and key management efforts of the Department, including activities under major defense acquisition programs (as defined in [section 2430(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2430/a&num=0&edition=prelim)), by—
+(1) monitor the overall communications security, cryptographic modernization, and key management efforts of the Department, including activities under major defense acquisition programs (as defined in [section 4201 of this title](./chapter-321-general-matters.md#section-4201)), by—
 
   (A) requiring each Chief Information Officer of each military department to report the communications security activities of the military department to the Board;
 
@@ -1618,9 +1740,6 @@ Pub. L. 112–239, div. A, title X, § 1040(c), Jan. 2, 2013, 126 Stat. 1930, pr
 **(d) Exclusion of Certain Programs.—** The Board shall not include the consideration of programs funded under the National Intelligence Program (as defined in section 3(6) of the National Security Act of 1947 ([50 U.S.C. 3003(6)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003/6&num=0&edition=prelim))) in carrying out this section.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (c)(1)
-Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1846(i)(2), Jan. 1, 2021, 134 Stat. 4151, 4252, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, subsection (c)(1) of this section is amended by striking “section 2430(a)” and inserting “section 4201”. See 2021 Amendment note below.
 
 #### Amendments
 2021—Subsec. (c)(1). Pub. L. 116–283 substituted “section 4201” for “section 2430(a)”.

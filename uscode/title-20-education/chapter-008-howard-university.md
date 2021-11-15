@@ -16,10 +16,6 @@ The president and directors of Howard University shall report to the Secretary o
 #### Transfer of Functions
 “Secretary of Education” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to sections 301(a)(2)(M) and 507 of Pub. L. 96–88, which are classified to sections 3441(a)(2)(M) and 3507 of this title and which transferred all functions of Secretary of Health, Education, and Welfare under this subchapter to Secretary of Education.
 
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out in the Appendix to Title 5, Government Organization and Employees. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
-
-Functions of Department of the Interior relating to administration of Howard University transferred to Federal Security Agency to be administered under direction and supervision of Federal Security Administrator, and annual report required to be furnished to Secretary of the Interior by President and directors of said University was directed to be furnished to Federal Security Administrator, by Reorg. Plan No. IV of 1940, set out in the Appendix to Title 5.
-
 #### Similar Provisions
 A similar requirement of a report of the expenditures of the University accompanied the appropriation for the same purposes in the following prior acts:
 
@@ -29,6 +25,11 @@ Aug. 5, 1892, ch. 380, 27 Stat. 372.
 
 Mar. 3, 1891, ch. 542, 26 Stat. 973.
 
+#### Transfer of Functions
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out in the Appendix to Title 5, Government Organization and Employees. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
+
+Functions of Department of the Interior relating to administration of Howard University transferred to Federal Security Agency to be administered under direction and supervision of Federal Security Administrator, and annual report required to be furnished to Secretary of the Interior by President and directors of said University was directed to be furnished to Federal Security Administrator, by Reorg. Plan No. IV of 1940, set out in the Appendix to Title 5.
+
 
 <a id="section-122"></a>
 ## § 122. Limitation on use of appropriations
@@ -37,15 +38,16 @@ No part of the appropriations made by Congress for the Howard University shall b
 
 ### Statutory Notes
 
+#### Prior Provisions
+Similar prior provisions were contained in act July 1, 1898, ch. 546, 30 Stat. 624.
+
 #### Transfer of Functions
 “Secretary of Education” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to sections 301(a)(2)(M) and 507 of Pub. L. 96–88, which are classified to sections 3441(a)(2)(M) and 3507 of this title and which transferred all functions of Secretary of Health, Education, and Welfare under this subchapter to Secretary of Education.
 
+#### Transfer of Functions
 Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out in the Appendix to Title 5, Government Organization and Employees. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
 Functions of Department of the Interior relating to administration of Howard University transferred to Federal Security Agency to be administered under direction and supervision of Federal Security Administrator by Reorg. Plan No. IV of 1940, set out as a note in the Appendix to Title 5.
-
-#### Prior Provisions
-Similar prior provisions were contained in act July 1, 1898, ch. 546, 30 Stat. 624.
 
 
 <a id="section-123"></a>
@@ -68,11 +70,12 @@ Amendment by Pub. L. 98–480 effective Oct. 1, 1984, see section 209 of Pub. L.
 #### Transfer of Functions
 “Secretary of Education” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to sections 301(a)(2)(M) and 507 of Pub. L. 96–88 which are classified to sections 3441(a)(2)(M) and 3507 of this title and which transferred all functions of Secretary of Health, Education, and Welfare under this subchapter to Secretary of Education.
 
+Office of Education created and placed in Department of the Interior by the act of July 20, 1868, ch. 176, 15 Stat. 106, which abolished the Department of Education. In the appropriation act of July 12, 1870, ch. 251, 16 Stat. 242, the Office was designated the Bureau of Education. This designation was retained until the act of May 14, 1930, ch. 273, 46 Stat. 281, 319, which made appropriations for the “Office of Education.”
+
+#### Transfer of Functions
 Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631, set out in the Appendix to Title 5, Government Organization and Employees. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
 Office of Education transferred to Federal Security Agency by Reorg. Plan No. I of 1939, §§ 201, 204, eff. July 1, 1939, set out in the Appendix to Title 5.
-
-Office of Education created and placed in Department of the Interior by the act of July 20, 1868, ch. 176, 15 Stat. 106, which abolished the Department of Education. In the appropriation act of July 12, 1870, ch. 251, 16 Stat. 242, the Office was designated the Bureau of Education. This designation was retained until the act of May 14, 1930, ch. 273, 46 Stat. 281, 319, which made appropriations for the “Office of Education.”
 
 #### Reports Continued
 Office of Education was directed to continue its inspections of Howard University in accordance with provisions of existing law, by Reorg. Plan No. IV of 1940, set out in the Appendix to Title 5, Government Organization and Employees.

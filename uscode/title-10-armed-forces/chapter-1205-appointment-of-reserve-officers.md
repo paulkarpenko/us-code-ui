@@ -178,11 +178,11 @@ Amendment by sections 1662(c)(2) and 1675(b)(1) of Pub. L. 103–337 effective D
 #### Effective Date of 1980 Amendment
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
 
-#### Delegation of Functions
-For assignment of functions of President under first sentence of subsec. (a) of this section, see sections 1(b) and 2(b) of Ex. Ord. No. 13358, Sept. 28, 2004, 69 F.R. 58797, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
-
 #### Indefinite Appointments for Certain Reserve Officers
 Act Aug. 10, 1956, ch. 1041, § 41, 70A Stat. 636, provided that: “Each person who was a reserve officer on July 9, 1952, and who did not hold an appointment for an indefinite term on that date, shall be given an appointment for an indefinite term in place of the appointment he then held, if after written notification by competent authority before July 2, 1953, the officer agrees in writing to have that appointment continued for an indefinite term. In the event such officer does not agree in writing, the term of his current appointment shall not be changed by this section.”
+
+#### Delegation of Functions
+For assignment of functions of President under first sentence of subsec. (a) of this section, see sections 1(b) and 2(b) of Ex. Ord. No. 13358, Sept. 28, 2004, 69 F.R. 58797, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
 
 
 <a id="section-12204"></a>
@@ -372,7 +372,7 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 Provisions similar to those in this section were contained in sections 3353, 5600, and 8353 of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(1), (c)(1) and Pub. L. 104–106, § 1501(c)(26).
 
 #### Amendments
-2021—Subsec. (b)(1). Pub. L. 116–283, § 502(b)(1), which directed “in the matter preceding subparagraph (A), ‘or a designation in’ and all that follows through ‘education or training,’ and inserting ‘and who has special training or experience, or advanced education (if applicable),’ ”, was executed by substituting “and who has special training or experience, or advanced education (if applicable),” for “or a designation in, or an assignment to, an officer category in which advanced education or training is required and who has advanced education or training,” in introductory provisions to reflect the probable intent of Congress.
+2021—Subsec. (b)(1). Pub. L. 116–283, § 502(b)(1), substituted “and who has special training or experience, or advanced education (if applicable),” for “or a designation in, or an assignment to, an officer category in which advanced education or training is required and who has advanced education or training,” in introductory provisions. Amendment was executed to reflect the probable intent of Congress due to omission of words “by striking” in directory language.
 
 Subsec. (b)(1)(D). Pub. L. 116–283, § 502(b)(2), added subpar. (D) and struck out former subpar. (D) which read as follows: “Additional credit for special training or experience in a particular officer career field as designated by the Secretary concerned, if such training or experience is directly related to the operational needs of the armed force concerned.”
 
@@ -400,6 +400,9 @@ Subsec. (b)(3). Pub. L. 110–181, § 512(b), substituted “officers covered by
 
 #### Effective Date
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+
+#### Annual Report
+For provisions requiring submission to Congress of reports on the use of the authorities in subsec. (b)(1)(D) of this section, see section 502(c) of Pub. L. 116–283, set out as a note under [section 533 of this title](./chapter-033-original-appointments-of-regular-officers-in-grades-above-warrant-officer-grades.md#section-533).
 
 
 <a id="section-12208"></a>

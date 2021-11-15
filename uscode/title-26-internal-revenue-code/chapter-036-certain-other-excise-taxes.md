@@ -271,11 +271,13 @@ A prior section 4472 was contained in subchapter C of this chapter prior to repe
 
 **(e) Electronic filing** Any taxpayer who files a return under this section with respect to 25 or more vehicles for any taxable period shall file such return electronically.
 
-**(f) Period tax in effect** The tax imposed by this section shall apply only to use before October 1, 2023.
+**(f) Period tax in effect** The tax imposed by this section shall apply only to use before October 1, 2029.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (f). Pub. L. 117–58 substituted “2029” for “2023”.
+
 2018—Subsec. (d). Pub. L. 115–141 amended subsec. (d) generally. Prior to amendment, text read as follows:
 
 “(1) In general.—To the extent that the tax imposed by this section is paid with respect to any highway motor vehicle for any taxable period, no further tax shall be imposed by this section for such taxable period with respect to such vehicle.
@@ -351,6 +353,9 @@ Subsec. (d). Pub. L. 87–61, § 203(b)(2)(B), made conforming changes to refer 
 
 Subsec. (e). Pub. L. 87–61, § 203(b)(1), substituted “before October 1, 1972” for “after June 30, 1956, and before July 1, 1972”.
 
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 80102(f) of Pub. L. 117–58, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
+
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–94 effective Oct. 1, 2016, see section 31102(f) of Pub. L. 114–94, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
 
@@ -424,15 +429,17 @@ Taxable gross weight shall be determined under regulations prescribed by the Sec
 
 (3) **Use** — The term “use” means use in the United States on the public highways.
 
-(4) **Taxable period** — The term “taxable period” means any year beginning before July 1, 2023, and the period which begins on July 1, 2023, and ends at the close of September 30, 2023.
+(4) **Taxable period** — The term “taxable period” means any year beginning before July 1, 2029, and the period which begins on July 1, 2029, and ends at the close of September 30, 2029.
 
 (5) **Customary use** — A semitrailer or trailer shall be treated as customarily used in connection with a highway motor vehicle if such vehicle is equipped to tow such semitrailer or trailer.
 
-**(d) Special rule for taxable period in which termination date occurs** In the case of the taxable period which ends on September 30, 2023, the amount of the tax imposed by section 4481 with respect to any highway motor vehicle shall be determined by reducing each dollar amount in the table contained in section 4481(a) by 75 percent.
+**(d) Special rule for taxable period in which termination date occurs** In the case of the taxable period which ends on September 30, 2029, the amount of the tax imposed by section 4481 with respect to any highway motor vehicle shall be determined by reducing each dollar amount in the table contained in section 4481(a) by 75 percent.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Subsecs. (c)(4), (d). Pub. L. 117–58 substituted “2029” for “2023” wherever appearing.
+
 2015—Subsecs. (c)(4), (d). Pub. L. 114–94 substituted “2023” for “2017” wherever appearing.
 
 2012—Subsec. (c)(4). Pub. L. 112–141, § 40102(b)(2)(A), amended par. (4) generally. Prior to amendment, text read as follows: “The term ‘taxable period’ means any year beginning before July 1, 2013, and the period which begins on July 1, 2013, and ends at the close of September 30, 2013.”
@@ -478,6 +485,9 @@ Subsec. (c)(4). Pub. L. 94–280 substituted “1979” for “1977” wherever 
 1970—Subsec. (c)(4). Pub. L. 91–605 substituted “1977” for “1972” wherever appearing.
 
 1961—Subsec. (c)(4). Pub. L. 87–61 added par. (4).
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 80102(f) of Pub. L. 117–58, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
 
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–94 effective Oct. 1, 2016, see section 31102(f) of Pub. L. 114–94, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
@@ -592,7 +602,7 @@ Amendment by section 513(c) of Pub. L. 97–424 effective July 1, 1984, in the c
 
 (4) **Qualified blood collector organization** — The term “qualified blood collector organization” has the meaning given such term by section 7701(a)(49).
 
-**(i) Termination of exemptions** Subsections (a) and (c) shall not apply on and after October 1, 2023.
+**(i) Termination of exemptions** Subsections (a) and (c) shall not apply on and after October 1, 2029.
 
 ### Statutory Notes
 
@@ -600,6 +610,8 @@ Amendment by section 513(c) of Pub. L. 97–424 effective July 1, 1984, in the c
 The date of the enactment of the Energy Tax Act of 1978, referred to in subsec. (c), is the date of enactment of Pub. L. 95–618, which was approved Nov. 9, 1978.
 
 #### Amendments
+2021—Subsec. (i). Pub. L. 117–58 substituted “October 1, 2029” for “October 1, 2023”.
+
 2015—Subsec. (i). Pub. L. 114–94 substituted “October 1, 2023” for “October 1, 2017”.
 
 2012—Subsec. (i). Pub. L. 112–141 substituted “October 1, 2017” for “July 1, 2012”.
@@ -645,6 +657,9 @@ Subsec. (e). Pub. L. 97–424, § 516(b)(3), added subsec. (e).
 1976—Subsecs. (a), (c). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
 Subsec. (b). Pub. L. 94–455, § 1906(b)(13)(B), inserted “of the Treasury” after “Secretary”.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 80102(f) of Pub. L. 117–58, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
 
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–94 effective Oct. 1, 2016, see section 31102(f) of Pub. L. 114–94, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).

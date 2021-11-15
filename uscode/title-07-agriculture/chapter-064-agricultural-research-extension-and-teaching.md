@@ -466,14 +466,14 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 #### Effective Date
 Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
 
-#### Termination of Trust Territory of the Pacific Islands
-For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
-
 #### Construction of 2002 Amendment
 Pub. L. 107–171, title VII, § 7502(b), May 13, 2002, 116 Stat. 463, provided that: “The amendments made by subsection (a) [amending this section] shall not affect any basis for distribution of funds by formula (in effect on the date of enactment of this Act [May 13, 2002]) to— “(1) the Federated States of Micronesia; “(2) the Republic of the Marshall Islands; or “(3) the Republic of Palau.”
 
 #### Designation Review
 Pub. L. 115–334, title VII, § 7102(b), Dec. 20, 2018, 132 Stat. 4781, provided that: “(1) In general.—Not later than 90 days after the date of the enactment of this Act [Dec. 20, 2018], the Secretary [of Agriculture] shall establish a process to review each designated NLGCA Institution (as defined in section 1404(14)(A) of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 ([7 U.S.C. 3103(14)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section3103/14/A&num=0&edition=prelim))) to ensure compliance with such section, as amended by this subsection [probably means “as amended by this section”]. “(2) Revocation.—An NLGCA Institution that the Secretary determines under subparagraph (A) to be not in compliance shall have the designation of such institution revoked.”
+
+#### Termination of Trust Territory of the Pacific Islands
+For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
 
 
 <a id="section-3104"></a>
@@ -4123,9 +4123,6 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
-#### Effective Date
-Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
-
 #### Amendments
 2018—Subsec. (d). Pub. L. 115–334 substituted “2023” for “2018”.
 
@@ -4134,6 +4131,9 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 Subsec. (a). Pub. L. 113–79, § 7113(a)(1), amended subsec. (a) generally. Prior to amendment, text read as follows: “It is the intent of Congress to assist the land-grant institutions in the insular areas in efforts to acquire, alter, or repair facilities or relevant equipment necessary for conducting agricultural research.”
 
 Subsec. (d). Pub. L. 113–79, § 7113(b), substituted “2018” for “2012”.
+
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 
 <a id="section-3222c"></a>
@@ -5807,7 +5807,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 (6) **Other transaction authorities**
 
-  (A) *In general* — In carrying out the pilot program under this section, the Secretary shall have the authority to enter into other transactions in the same manner and subject to the same terms and conditions as transactions that the Secretary of Defense may enter into under [section 2371 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2371&num=0&edition=prelim).
+  (A) *In general* — In carrying out the pilot program under this section, the Secretary shall have the authority to enter into other transactions in the same manner and subject to the same terms and conditions as transactions that the Secretary of Defense may enter into under [section 4021 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4021&num=0&edition=prelim).
 
   (B) *Scope* — The authority of the Secretary to enter into contracts, cooperative agreements, and other transactions under this subsection shall be in addition to the authorities under this chapter and title I of the Department of Agriculture and Related Agencies Appropriation Act, 1964 ([7 U.S.C. 3318a](./chapter-064-agricultural-research-extension-and-teaching.md#section-3318a)), to use contracts, cooperative agreements, and grants in carrying out the pilot program under this section.
 
@@ -5885,7 +5885,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
   (A) for the purpose of carrying out this section; and
 
-  (B) in the same manner and subject to the same terms and conditions as are applicable to the Secretary of Defense under [section 2371 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2371&num=0&edition=prelim).
+  (B) in the same manner and subject to the same terms and conditions as are applicable to the Secretary of Defense under [section 4021 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4021&num=0&edition=prelim).
 
 (2) **Deposits into fund**
 
@@ -5911,6 +5911,9 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### References in Text
 This chapter, referred to in subsec. (b)(6)(B), was in the original “this Act”, and was translated as reading “this title”, meaning title XIV of Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 981, known as the National Agricultural Research, Extension, and Teaching Policy Act of 1977, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title XIV to the Code, see References in Text note set out under [section 3102 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3102) and Tables.
+
+#### Amendments
+2021—Subsec. (b)(6)(A), (d)(1)(B). Pub. L. 117–81 which directed amendment of section 1473H of the National Agriculture Advanced Research, Extension, and Teaching Policy Act of 1977 by substituting “section 4021” for “section 2371” in subsecs. (b)(6)(A) and (d)(1)(B) was executed to this section, to reflect the probable intent of Congress.
 
 
 <a id="section-3321"></a>

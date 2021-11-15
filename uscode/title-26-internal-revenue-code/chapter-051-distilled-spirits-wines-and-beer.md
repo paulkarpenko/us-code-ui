@@ -126,7 +126,7 @@ A prior section 5001, acts Aug. 16, 1954, ch. 736, 68A Stat. 595; Mar. 30, 1955,
 #### Amendments
 2020—Subsec. (c). Pub. L. 116–260, § 106(g)(1)(A), substituted “Reduced Rate” for “Temporary reduced rate” in heading.
 
-Subsec. (c)(2)(D). Pub. L. 116–260, § 110(c), substituted “under a license” for “marketed under a similar brand, license”.
+Subsec. (c)(2)(D). Pub. L. 116–260, § 110(c), substituted “under a license” for “marketed under a similar brand, license” and inserted “or process” after “that produce”.
 
 Subsec. (c)(3)(B). Pub. L. 116–260, § 106(g)(1)(B), substituted “The Secretary of the Treasury, after consultation with the Secretary of the Department of Homeland Security,” for “The Secretary” in introductory provisions.
 
@@ -1003,7 +1003,7 @@ Repeal effective Jan. 1, 1980, see section 810 of Pub. L. 96–39, set out as an
 
   (B) shall be allowable at the time any tax described in paragraph (1) is payable as if the credit allowable by this subsection constituted a reduction in the rate of such tax.
 
-(3) **Controlled groups** — Rules similar to rules of section 5051(a)(5) 11 See Codification note below. shall apply for purposes of this subsection.
+(3) **11 See Codification note below. Controlled groups** — Rules similar to rules of section 5051(a)(5) shall apply for purposes of this subsection.
 
 (4) **Denial of deduction** — Any deduction under subtitle A with respect to any tax against which a credit is allowed under this subsection shall only be for the amount of such tax as reduced by such credit.
 
@@ -1016,9 +1016,7 @@ Repeal effective Jan. 1, 1980, see section 810 of Pub. L. 96–39, set out as an
   (C) such producer holds title to such wine at the time of its removal and provides to the transferee such information as is necessary to properly determine the transferee’s credit under this paragraph,
   then, the transferee (and not the producer) shall be allowed the credit under paragraph (1) which would be allowed to the producer if the wine removed by the transferee had been removed by the producer on that date.
 
-(7) **22 So in original. Par. (6) appears after par. (7). Regulations** — The Secretary may prescribe such regulations as may be necessary to carry out the purposes of this subsection, including regulations to ensure proper calculation of the credit provided in this subsection.
-
-(6) **2 Allowance of credit for foreign manufacturers and importers**
+(6) **Allowance of credit for foreign manufacturers and importers**
 
   (A) *In general* — In the case of any wine gallons of wine which have been produced outside of the United States and imported into the United States, the credit allowable under paragraph (1) (referred to in this paragraph as the “tax credit”) may be assigned by the person who produced such wine (referred to in this paragraph as the “foreign producer”), provided that such person makes an election described in subparagraph (B)(ii), to any electing importer of such wine gallons pursuant to the requirements established by the Secretary under subparagraph (B).
 
@@ -1037,6 +1035,8 @@ Repeal effective Jan. 1, 1980, see section 810 of Pub. L. 96–39, set out as an
     (iv) procedures that allow for revocation of eligibility of the foreign producer and the importer for the tax credit provided under this paragraph in the case of any erroneous or fraudulent information provided under clause (iii) which the Secretary deems to be material to qualifying for such credit.
 
   (C) *Controlled group* — For purposes of this section, any importer making an election described in subparagraph (B)(ii) shall be deemed to be a member of the controlled group of the foreign producer, as described under paragraph (3).
+
+(7) **Regulations** — The Secretary may prescribe such regulations as may be necessary to carry out the purposes of this subsection, including regulations to ensure proper calculation of the credit provided in this subsection.
 
 **(d) Wine gallon** For the purpose of this chapter, the term “wine gallon” means a United States gallon of liquid measure equivalent to the volume of 231 cubic inches. On lesser quantities the tax shall be paid proportionately (fractions of less than one-tenth gallon being converted to the nearest one-tenth gallon, and five-hundredths gallon being converted to the next full one-tenth gallon).
 
@@ -1130,7 +1130,7 @@ For purposes of refunds allowed under this paragraph, section 6611(e) shall be a
 See 2020 Amendment note below.
 
 #### Codification
-Section 5051(a)(5), referred to in subsec. (c)(3), was subsequently amended by Pub. L. 116–260 applicable to beer, wine, and distilled spirits removed after Dec. 31, 2020.
+Pub. L. 116–260, div. EE, title I, § 110(b), Dec. 27, 2020, 134 Stat. 3049, provided that, for single taxpayer rules relating to wine, see the cross reference under subsec. (c)(3) of this section.
 
 #### Prior Provisions
 A prior section 5041, acts Aug. 16, 1954, ch. 736, 68A Stat. 609; Mar. 30, 1955, ch. 18, § 3(a)(7), 69 Stat. 14; Mar. 29, 1956, ch. 115, § 3(a)(7), 70 Stat. 66; Mar. 29, 1957, Pub. L. 85–12, § 3(a)(5), 71 Stat. 9; June 30, 1958, Pub. L. 85–475, § 3(a)(5), 72 Stat. 259, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
@@ -1144,9 +1144,9 @@ Subsec. (c)(1). Pub. L. 116–260, § 106(d)(1)(B), amended par. (1) generally. 
 
 Subsec. (c)(1)(A). Pub. L. 116–260, § 106(d)(2)(A), inserted “but only if the importer is an electing importer under paragraph (6) and the wine gallons of wine have been assigned to the importer pursuant to such paragraph” after “into the United States during the calendar year” in concluding provisions.
 
-Subsec. (c)(2) to (5). Pub. L. 116–260, § 106(d)(1)(C), (D), struck out par. (2) and redesignated former pars. (3) to (6) as (2) to (5), respectively. Prior to amendment, text of par. (2) read as follows: “The credit allowable by paragraph (1) shall be reduced (but not below zero) by 1 percent for each 1,000 wine gallons of wine produced in excess of 150,000 wine gallons of wine during the calendar year.”
+Subsec. (c)(2) to (5). Pub. L. 116–260, § 106(d)(1)(C), (D), redesignated pars. (3) to (6) as (2) to (5), respectively, and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “The credit allowable by paragraph (1) shall be reduced (but not below zero) by 1 percent for each 1,000 wine gallons of wine produced in excess of 150,000 wine gallons of wine during the calendar year.”
 
-Subsec. (c)(6). Pub. L. 116–260, § 106(d)(1)(E), redesignated par. (9) as (6). Former par. (6) redesignated (5).
+Subsec. (c)(6). Pub. L. 116–260, § 106(d)(1)(E), which directed only the redesignation of par. (9) as (6), was executed by redesignating par. (9) as (6) and transferring it so as to appear after par. (5), to reflect the probable intent of Congress. Former par. (6) redesignated (5).
 
 Subsec. (c)(6)(A). Pub. L. 116–260, § 106(d)(2)(B)(i), substituted “paragraph (1)” for “paragraph (8)”.
 
@@ -1164,7 +1164,7 @@ Pub. L. 116–260, § 106(d)(1)(F), amended par. (7) generally. Prior to amendme
 
 Subsec. (c)(8). Pub. L. 116–260, § 107(c)(1), redesignated par. (7) as (8).
 
-Pub. L. 116–260, § 106(d)(1)(C), struck out par. (8), which related to a special rule for wine and hard cider removed between Dec. 31, 2017, and Jan. 1, 2021.
+Pub. L. 116–260, § 106(d)(1)(C), struck out par. (8) which related to a special rule for wine and hard cider removed between Dec. 31, 2017, and Jan. 1, 2021.
 
 Subsec. (c)(9). Pub. L. 116–260, § 106(d)(1)(E), redesignated par. (9) as (6).
 

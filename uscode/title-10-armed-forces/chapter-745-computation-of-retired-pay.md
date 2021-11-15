@@ -136,7 +136,7 @@ Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 
 #### Effective Date of 1958 Amendment
 Pub. L. 85–422, § 6, May 20, 1958, 72 Stat. 129, provided in part that: “The amendments made by clauses (1)–(3), (6), (7), (8), and (9) of this section [to Formulas 1 and 2 and footnote 4 of section 1401, Formulas C and D and footnote 1 of this section, sections 5083, 5201, and 6326, and Formulas C and D and footnote 1 of [section 8991 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8991&num=0&edition=prelim)] do not apply to any person who is retired, or to whom retired pay (including temporary disability retired pay) is granted, before the effective date of this Act [June 1, 1958].”
 
-Amendment by Pub. L. 85–422 effective June 1, 1958, see section 9 of Pub. L. 85–422.
+Amendment by Pub. L. 85–422 effective June 1, 1958, see section 9 of Pub. L. 85–422, May 20, 1958, 72 Stat. 130.
 
 
 <a id="section-7362"></a>
@@ -176,7 +176,7 @@ Another prior section 7363, act Aug. 10, 1956, ch. 1041, 70A Stat. 455, related 
 
 A prior section 7364 was renumbered [section 8704 of this title](./chapter-865-salvage-facilities.md#section-8704).
 
-Another prior section 7364, act Aug. 10, 1956, ch. 1041, 70A Stat. 455, related to advancement of funds by the Secretary of the Navy to private companies for salvage operations, prior to repeal by Pub. L. 103–355, title II, § 2001(j)(1), Oct. 13, 1994, 108 Stat. 3303. See [section 2307(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2307/g&num=0&edition=prelim).
+Another prior section 7364, act Aug. 10, 1956, ch. 1041, 70A Stat. 455, related to advancement of funds by the Secretary of the Navy to private companies for salvage operations, prior to repeal by Pub. L. 103–355, title II, § 2001(j)(1), Oct. 13, 1994, 108 Stat. 3303. See [section 3808 of this title](./chapter-277-contract-financing.md#section-3808).
 
 A prior section 7365, acts Aug. 10, 1956, ch. 1041, 70A Stat. 456; Aug. 29, 1972, Pub. L. 92–417, § 1(4), 86 Stat. 654, related to settlement of claims, prior to the general amendment of this chapter by Pub. L. 104–106. See [section 8703 of this title](./chapter-865-salvage-facilities.md#section-8703).
 

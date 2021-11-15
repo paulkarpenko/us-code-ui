@@ -48,7 +48,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(c)** All naval aviation shall be integrated with the naval service as part thereof within the Department of the Navy. Naval aviation consists of combat and service and training forces, and includes land-based naval aviation, air transport essential for naval operations, all air weapons and air techniques involved in the operations and activities of the Navy, and the entire remainder of the aeronautical organization of the Navy, together with the personnel necessary therefor.
 
-**(d)** The Navy shall develop aircraft, weapons, tactics, technique, organization, and equipment of naval combat and service elements. Matters of joint concern as to these functions shall be coordinated between the Army, the Air Force, and the Navy.
+**(d)** The Navy shall develop aircraft, weapons, tactics, technique, organization, and equipment of naval combat and service elements. Matters of joint concern as to these functions shall be coordinated between the Army, the Air Force, the Coast Guard, the Space Force, and the Navy.
 
 **(e)** The Secretary of the Navy shall ensure that—
 
@@ -75,7 +75,9 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 A prior section 8062 was renumbered [section 9062 of this title](./chapter-907-the-air-force.md#section-9062).
 
 #### Amendments
-2021—Subsec. (f). Pub. L. 116–283 added subsec. (f).
+2021—Subsec. (d). Pub. L. 117–81 inserted “the Coast Guard, the Space Force,” after “the Air Force,”.
+
+Subsec. (f). Pub. L. 116–283 added subsec. (f).
 
 2018—Pub. L. 115–232 renumbered [section 5062 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section5062&num=0&edition=prelim) as this section.
 

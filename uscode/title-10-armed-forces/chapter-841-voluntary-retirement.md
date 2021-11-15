@@ -226,13 +226,13 @@ Secretaries authorized until July 1, 1972, to convene boards of officers to cons
 
 <a id="section-8325"></a>
 ## § 8325. Officers: retired grade and pay
-**(a)** Except as provided in subsection (b) or [section 1370 of this title](./chapter-069-retired-grade.md#section-1370), each officer who is retired under section 8321 or 8322 of this title—
+**(a)** Except as provided in subsection (b) or section 1370 11 See References in Text note below. of this title, each officer who is retired under section 8321 or 8322 of this title—
 
 (1) unless otherwise entitled to a higher grade, shall be retired in the grade in which he was serving at the time of retirement; and
 
 (2) unless otherwise entitled to higher pay, is entitled to retired pay computed under [section 8333 of this title](./chapter-841-voluntary-retirement.md#section-8333).
 
-**(b)** Each officer who is retired while serving in the grade of admiral, vice admiral, general, or lieutenant general by virtue of an appointment under [section 601 of this title](./chapter-035-temporary-appointments-in-officer-grades.md#section-601) or who is retired while serving in a grade to which he was appointed or promoted under [section 603 of this title](./chapter-035-temporary-appointments-in-officer-grades.md#section-603) or promoted under section 602 11 See References in Text note below. (as in effect before February 1, 1992) or section 5721 1 of this title—
+**(b)** Each officer who is retired while serving in the grade of admiral, vice admiral, general, or lieutenant general by virtue of an appointment under [section 601 of this title](./chapter-035-temporary-appointments-in-officer-grades.md#section-601) or who is retired while serving in a grade to which he was appointed or promoted under [section 603 of this title](./chapter-035-temporary-appointments-in-officer-grades.md#section-603) or promoted under section 602 1 (as in effect before February 1, 1992) or section 5721 1 of this title—
 
 (1) unless otherwise entitled to a higher grade, shall be retired in the grade he would hold if he had not received such an appointment; and
 
@@ -270,6 +270,8 @@ Subsection (b) is added for clarity. With respect to officers appointed under §
 The reference to section 6323 is deleted, since it is no longer appropriate to include in this section officers retired under section 6323.
 
 #### References in Text
+[Section 1370 of this title](./chapter-069-retired-grade.md#section-1370), referred to in subsec. (a), was repealed and new sections 1370 and 1370a of this title were enacted by Pub. L. 116–283, div. A, title V, § 508(a)(1), Jan. 1, 2021, 134 Stat. 3574, 3580. In determining the retired grade of certain commissioned officers of the Armed Forces who retire after Jan. 1, 2021, any reference to [section 1370 of this title](./chapter-069-retired-grade.md#section-1370) in such determination with respect to such officers deemed to be a reference to [section 1370a of this title](./chapter-069-retired-grade.md#section-1370a), see section 508(c) of Pub. L. 116–283, set out as a note under [section 1370 of this title](./chapter-069-retired-grade.md#section-1370).
+
 [Section 602 of this title](./chapter-035-temporary-appointments-in-officer-grades.md#section-602), referred to in subsec. (b), was repealed by Pub. L. 102–190, div. A, title XI, § 1113(a), Dec. 5, 1991, 105 Stat. 1502.
 
 [Section 5721 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section5721&num=0&edition=prelim), referred to in subsec. (b), was repealed by Pub. L. 115–232, div. A, title V, § 503(b)(1), Aug. 13, 2018, 132 Stat. 1742.
@@ -326,7 +328,7 @@ Amendment by section 503(47) of Pub. L. 96–513 effective Sept. 15, 1981, and a
 Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 88–132, set out as a note under [section 201 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section201&num=0&edition=prelim), Pay and Allowances of the Uniformed Services.
 
 #### Effective Date of 1958 Amendment
-Amendment by Pub. L. 85–422 effective June 1, 1958, see section 9 of Pub. L. 85–422.
+Amendment by Pub. L. 85–422 effective June 1, 1958, see section 9 of Pub. L. 85–422, May 20, 1958, 72 Stat. 130.
 
 #### Recomputation of Retired Pay of Admirals and Vice Admirals
 Officers entitled to retired pay on May 31, 1958, who served on active duty before that day in the grade of admiral or vice admiral for a period of at least 180 days, authorized to recompute retired pay, see section 7(b), (c) of Pub. L. 85–422.
@@ -399,7 +401,7 @@ Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 
 #### Effective Date of 1958 Amendment
 Amendment by Pub. L. 85–422 inapplicable to retired persons or to persons to whom retired pay is granted before May 31, 1958, see section 6 of Pub. L. 85–422, set out in part under [section 7361 of this title](./chapter-745-computation-of-retired-pay.md#section-7361).
 
-Amendment by Pub. L. 85–422 effective June 1, 1958, see section 9 of Pub. L. 85–422.
+Amendment by Pub. L. 85–422 effective June 1, 1958, see section 9 of Pub. L. 85–422, May 20, 1958, 72 Stat. 130.
 
 
 <a id="section-8327"></a>

@@ -88,14 +88,14 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 #### Repeals
 The directory language of, but not the amendment made by, Pub. L. 89–718, § 8(a), Nov. 2, 1966, 80 Stat. 1117, cited as a credit to this section, was repealed by Pub. L. 97–295, § 6(b), Oct. 12, 1982, 96 Stat. 1314.
 
-#### Transfer of Functions
-For transfer of functions of Public Health Service, see note set out under [section 802 of this title](./chapter-047-uniform-code-of-military-justice.md#section-802).
-
 #### Final Settlement of Accounts of Members Who Died Before January 1, 1960
 Pub. L. 85–861, § 29, Sept. 2, 1958, 72 Stat. 1563, authorized the General Accounting Office, in the settlement of the accounts of a member of the Army, Navy, Air Force, or Marine Corps who died before Jan. 1, 1956, to allow any amount due to the person highest on a list of persons living on the date of settlement and to provide reimbursement for funeral expenses from the amount due the decedent’s estate.
 
 #### Designation of Beneficiary Made Before January 1, 1956
 Pub. L. 85–861, § 31, Sept. 2, 1958, 72 Stat. 1563, provided that: “The designation of a beneficiary made for the purposes of any six months’ death gratuity, including the designation of a person whose right to the gratuity does not depend upon that designation, and received in the military department concerned, the Department of the Treasury, the Department of Commerce, or the Department of Health, Education, and Welfare, as the case may be, before January 1, 1956, is considered as the designation of a beneficiary for the purposes of [section 2771 of title 10](./chapter-165-accountability-and-responsibility.md#section-2771), United States Code [this section], [section 714 of title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section714&num=0&edition=prelim), United States Code, and sections 3 and 4 of this Act [amending [section 857a of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section857a&num=0&edition=prelim), and [section 213a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section213a&num=0&edition=prelim)], in the absence of a designation under one of those sections, unless the member making the designation was missing, missing in action, in the hands of a hostile force, or interned in a foreign country any time after July 11, 1955, and before January 1, 1956.”
+
+#### Transfer of Functions
+For transfer of functions of Public Health Service, see note set out under [section 802 of this title](./chapter-047-uniform-code-of-military-justice.md#section-802).
 
 
 <a id="section-2772"></a>
@@ -665,91 +665,9 @@ Pub. L. 102–484, div. A, title III, § 361, Oct. 23, 1992, 106 Stat. 2379, dir
 
 
 <a id="section-2784"></a>
-## § 2784. Management of purchase cards
-**(a) Management of Purchase Cards.—** The Secretary of Defense shall prescribe regulations governing the use and control of all purchase cards and convenience checks that are issued to Department of Defense personnel for official use. Those regulations shall be consistent with regulations that apply Government-wide regarding use of purchase cards by Government personnel for official purposes.
-
-**(b) Required Safeguards and Internal Controls.—** Regulations under subsection (a) shall include safeguards and internal controls to ensure the following:
-
-(1) That there is a record in the Department of Defense of each holder of a purchase card issued by the Department of Defense for official use, annotated with the limitations on amounts that are applicable to the use of each such card by that purchase card holder.
-
-(2) That each purchase card holder and individual issued a convenience check is assigned an approving official other than the card holder with the authority to approve or disapprove transactions.
-
-(3) That the holder of a purchase card and each official with authority to authorize expenditures charged to the purchase card are responsible for—
-
-  (A) reconciling the charges appearing on each statement of account for that purchase card with receipts and other supporting documentation; and
-
-  (B) forwarding that statement after being so reconciled to the designated disbursing office in a timely manner.
-
-(4) That any disputed purchase card charge, and any discrepancy between a receipt and other supporting documentation and the purchase card statement of account, is resolved in the manner prescribed in the applicable Government-wide purchase card contract entered into by the Administrator of General Services.
-
-(5) That payments on purchase card accounts are made promptly within prescribed deadlines to avoid interest penalties.
-
-(6) That rebates and refunds based on prompt payment on purchase card accounts are properly recorded.
-
-(7) That records of each purchase card transaction (including records on associated contracts, reports, accounts, and invoices) are retained in accordance with standard Government policies on the disposition of records.
-
-(8) That periodic reviews are performed to determine whether each purchase card holder has a need for the purchase card.
-
-(9) That appropriate training is provided to each purchase card holder and each official with responsibility for overseeing the use of purchase cards issued by the Department of Defense.
-
-(10) That the Department of Defense has specific policies regarding the number of purchase cards issued by various organizations and categories of organizations, the credit limits authorized for various categories of card holders, and categories of employees eligible to be issued purchase cards, and that those policies are designed to minimize the financial risk to the Federal Government of the issuance of the purchase cards and to ensure the integrity of purchase card holders.
-
-(11) That the Department of Defense uses effective systems, techniques, and technologies to prevent or identify potential fraudulent purchases.
-
-(12) That the Department of Defense takes appropriate steps to invalidate the purchase card of each card holder who—
-
-  (A) in the case of an employee of the Department—
-
-    (i) ceases to be employed by the Department, immediately upon termination of the employment of the employee; or
-
-    (ii) transfers to another unit of the Department, immediately upon the transfer of the employee unless the Secretary of Defense determines that the units are covered by the same purchase card authority; and
-
-  (B) in the case of a member of the armed forces, is separated or released from active duty or full-time National Guard duty.
-
-(13) That the Department of Defense takes steps to recover the cost of any illegal, improper, or erroneous purchase made with a purchase card or convenience check by an employee or member of the armed forces, including, as necessary, through salary offsets.
-
-(14) That the Inspector General of the Department of Defense, the Inspector General of the Army, the Naval Inspector General, and the Inspector General of the Air Force perform periodic audits to identify—
-
-  (A) potentially fraudulent, improper, and abusive uses of purchase cards;
-
-  (B) any patterns of improper card holder transactions, such as purchases of prohibited items; and
-
-  (C) categories of purchases that should be made by means other than purchase cards in order to better aggregate purchases and obtain lower prices.
-
-(15) That the Inspector General of the Department of Defense conducts periodic audits or reviews of purchase card or convenience check programs to identify and analyze risks of illegal, improper, or erroneous purchases and payments and that the findings of such audits or reviews, along with recommendations to prevent abuse of purchase cards or convenience checks, are reported to the Director of the Office of Management and Budget and Congress.
-
-**(c) Penalties for Violations.—** The regulations prescribed under subsection (a) shall—
-
-(1) provide—
-
-  (A) for the reimbursement of charges for unauthorized or erroneous purchases, in appropriate cases; and
-
-  (B) for appropriate adverse personnel actions or other punishment to be imposed in cases in which employees of the Department of Defense violate such regulations or are negligent or engage in misuse, abuse, or fraud with respect to a purchase card, including removal in appropriate cases; and
-
-(2) provide that a violation of such regulations by a person subject to chapter 47 of this title (the Uniform Code of Military Justice) is punishable as a violation of [section 892 of this title](./chapter-047-uniform-code-of-military-justice.md#section-892) (article 92 of the Uniform Code of Military Justice).
+## § 2784. Renumbered § 4754]
 
 ### Statutory Notes
-
-#### Transfer of Section
-Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1864(b), Jan. 1, 2021, 134 Stat. 4151, 4279, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 367 of such title, as amended by section 1864(a) of Pub. L. 116–283, inserted after the table of sections, and redesignated as [section 4754 of this title](./chapter-367-other-administrative-matters.md#section-4754). See Effective Date of 2021 Amendment note below.
-
-#### Amendments
-2012—Subsec. (b)(2) to (15). Pub. L. 112–194 added pars. (2), (11) to (13), and (15) and redesignated former pars. (2) to (7) and (8) as (3) to (8) and (14), respectively.
-
-2008—Subsec. (c)(1). Pub. L. 110–417 substituted “provide—” for “provide”, added subpar. (A), and substituted “(B) for” for “for”.
-
-2002—Pub. L. 107–314, § 1007(b)(1)(A), substituted “purchase” for “credit” in section catchline.
-
-Subsec. (a). Pub. L. 107–314, § 1007(a)(1), (b)(1)(B), (C), substituted “Purchase” for “Credit” in heading and “purchase” for “credit” in two places in text and struck out “, acting through the Under Secretary of Defense (Comptroller),” after “Secretary of Defense”.
-
-Subsec. (b)(1) to (6). Pub. L. 107–314, § 1007(b)(1)(C), substituted “purchase” for “credit” wherever appearing.
-
-Subsec. (b)(7) to (10). Pub. L. 107–314, § 1007(a)(2), added pars. (7) to (10).
-
-Subsec. (c). Pub. L. 107–314, § 1007(a)(2), added subsec. (c).
-
-#### Effective Date of 2021 Amendment
-Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Regulations
 Pub. L. 106–65, div. A, title IX, § 933(b)(1), Oct. 5, 1999, 113 Stat. 730, provided that: “Regulations under [section 2784 of title 10](./chapter-165-accountability-and-responsibility.md#section-2784), United States Code, as added by subsection (a), shall be prescribed not later than 180 days after the date of the enactment of this Act [Oct. 5, 1999].”
@@ -769,7 +687,7 @@ Pub. L. 107–248, title VIII, § 8149, Oct. 23, 2002, 116 Stat. 1572, as amende
 
 (2) The Secretary of Defense may waive the requirement for a direct payment to a travel card issuer under paragraph (1) in any case the Secretary determines appropriate.
 
-(3) For the purposes of this subsection, the travel and transportation allowances referred to in paragraph (1) are amounts to which an employee of the Department of Defense is entitled under [section 5702 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5702&num=0&edition=prelim) or a member of the armed forces is entitled under [section 474 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section474&num=0&edition=prelim).
+(3) For the purposes of this subsection, the travel and transportation allowances referred to in paragraph (1) are amounts to which an employee of the Department of Defense is entitled under [section 5702 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5702&num=0&edition=prelim) or a member of the armed forces is entitled under [section 452 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section452&num=0&edition=prelim).
 
 **(b) Offsets for Delinquent Travel Card Charges.—**
 
@@ -824,6 +742,8 @@ Pub. L. 107–248, title VIII, § 8149, Oct. 23, 2002, 116 Stat. 1572, as amende
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (a)(3). Pub. L. 117–81 substituted “section 452” for “section 474”.
+
 2013—Subsec. (a)(3). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
 
 2011—Subsec. (a)(3). Pub. L. 112–81, § 631(f)(4)(A), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “474” for “404”.

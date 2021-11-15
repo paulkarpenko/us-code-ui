@@ -100,7 +100,7 @@ In subsection (h), the words “authorized and” and “for wear during such co
 In subsection (i), the words “Air Force school” are substituted for the words “Air Force advanced flying schools or Air Force service schools”. The words “in such manner” are omitted as surplusage.
 
 #### Constitutionality
-For information regarding constitutionality of certain provisions of this section as enacted by act Aug. 10, 1956, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For information regarding constitutionality of certain provisions of this section as enacted by act Aug. 10, 1956, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
 
 #### Amendments
 2021—Pub. L. 116–283 substituted “Marine Corps, or Space Force” for “or Marine Corps” wherever appearing.

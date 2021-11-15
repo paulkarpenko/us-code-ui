@@ -2,7 +2,7 @@
 title: 29
 heading: LABOR
 positive_law: false
-sections: 830
+sections: 831
 chapters: 36
 ---
 # Title 29. LABOR

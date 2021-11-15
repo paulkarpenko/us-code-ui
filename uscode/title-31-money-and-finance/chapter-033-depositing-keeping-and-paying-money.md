@@ -2021,7 +2021,7 @@ Section 3(b) of the Improper Payments Elimination and Recovery Improvement Act o
 
   (B) *Matching programs.—*
 
-    (i) *In general.—* — The head of the agency operating the Working System may, in consultation with the Office of Management and Budget, waive the requirements of [section 552a(o) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a/o&num=0&edition=prelim) in any case or class of cases for computer matching activities conducted under this section.
+    (i) *In general.—* — The head of the agency operating the Working System may, in consultation with the Office of Management and Budget, waive the requirements of section 552a(o) of title 5 in any case or class of cases for computer matching activities conducted under this section.
 
     (ii) *Guidance.—* — The Director of the Office of Management and Budget may issue guidance that establishes requirements governing waivers under clause (i).
 

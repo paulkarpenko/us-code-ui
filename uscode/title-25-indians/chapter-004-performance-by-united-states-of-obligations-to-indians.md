@@ -2,7 +2,7 @@
 title: 25
 chapter: '4'
 heading: PERFORMANCE BY UNITED STATES OF OBLIGATIONS TO INDIANS
-section_count: 82
+section_count: 83
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25&num=0&edition=prelim
 ---
@@ -657,6 +657,25 @@ Appropriations for specified buildings in the Indian Service shall be used for t
 ## § 148. Appropriations for supplies; transfer to Indian Service supply fund; expenditure
 
 From time to time there is authorized to be transferred from each or any appropriation or fund available for the purchase of supplies for the Indian Service, to a fund to be set up and carried on the books of the Treasury as an Indian Service supply fund, such amounts as the Secretary of the Interior may estimate to be required to pay for supplies purchased through Indian warehouses for the Indian field service; and the expenditure of the said Indian Service supply fund for the purpose stated is hereby authorized, necessary adjustments to be made thereafter to the end that each appropriation and fund ultimately will be charged only with the cost of the supplies legally chargeable thereto.
+
+
+<a id="section-149"></a>
+## § 149. Indian Water Rights Settlement Completion Fund
+**(a) Establishment** There is established in the Treasury of the United States a fund to be known as the “Indian Water Rights Settlement Completion Fund” (referred to in this section as the “Fund”).
+
+**(b) Deposits**
+
+(1) **In general** — On the later of October 1, 2021, and November 15, 2021, out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall deposit in the Fund $2,500,000,000, to remain available until expended.
+
+(2) **Availability** — Amounts deposited in the Fund under paragraph (1) shall be available to the Secretary of the Interior, without further appropriation or fiscal year limitation, for the uses described in subsection (c).
+
+**(c) Uses** Subject to subsection (d), amounts deposited in the Fund under subsection (b) shall be used by the Secretary of the Interior for transfers to funds or accounts authorized to receive discretionary appropriations, or to satisfy other obligations identified by the Secretary of the Interior, under an Indian water settlement approved and authorized by an Act of Congress before November 15, 2021.
+
+**(d) Scope of transfers**
+
+(1) **In general** — Transfers authorized under subsection (c) shall be made in such amounts as are determined by the Secretary of the Interior to be appropriate to satisfy the obligations of the United States, including appropriate indexing, pursuant to the applicable Indian water settlement.
+
+(2) **Sequence and timing** — The Secretary of the Interior shall have the discretion to determine the sequence and timing of transfers from the Fund under subsection (c) in order to substantially complete the eligible Indian water settlements as expeditiously as practicable.
 
 
 <a id="section-151"></a>

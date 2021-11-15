@@ -31,13 +31,13 @@ Act Oct. 27, 1949, ch. 772, § 1, 63 Stat. 945, provided that: “This Act [enac
 #### Transfer of Functions
 Economic Cooperation Administration abolished by act Oct. 10, 1951, ch. 479, 65 Stat. 373. Its functions are exercised by Agency for International Development. See [section 2381 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2381&num=0&edition=prelim), Foreign Relations and Intercourse.
 
-#### Exceptions From Transfer of Functions
-Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201).
-
 #### References to International Wheat Agreement of 1949
 Act Aug. 3, 1956, ch. 911, § 2, 70 Stat. 966, provided that: “Reference in any law to the International Wheat Agreement of 1949 shall be deemed to include the Agreement (International Wheat Agreement, 1956) revising and renewing the International Wheat Agreement for a period ending July 31, 1959.”
 
 Act Aug. 1, 1953, ch. 306, § 2, 67 Stat. 358, provided that: “Reference in any law to the International Wheat Agreement of 1949 shall be deemed to include the agreement revising and renewing the International Wheat Agreement.”
+
+#### Exceptions From Transfer of Functions
+Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201).
 
 
 <a id="section-1642"></a>

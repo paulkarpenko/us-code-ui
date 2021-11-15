@@ -27,6 +27,9 @@ A prior section 10401, Pub. L. 98–457, title III, § 302, Oct. 9, 1984, 98 Sta
 
 A prior section 301 of Pub. L. 98–457, title III, Oct. 9, 1984, 98 Stat. 1757, provided a short title for title III of Pub. L. 98–457 and was set out as a note under former [section 10401 of this title](./chapter-110-family-violence-prevention-and-services.md#section-10401), prior to the general amendment of this chapter by Pub. L. 111–320.
 
+#### Programs for Survivors of Sexual Assault and Domestic Violence
+Pub. L. 117–2, title II, § 2204(b)–(d), Mar. 11, 2021, 135 Stat. 34, provided that: “(b) COVID–19 Public Health Emergency Defined.—In this section [amending [section 10403 of this title](./chapter-110-family-violence-prevention-and-services.md#section-10403)], the term ‘COVID–19 public health emergency’ means the public health emergency declared by the Secretary of Health and Human Services under section 319 of the Public Health Service Act ([42 U.S.C. 247d](./chapter-6a-public-health-service.md#section-247d)) on January 31, 2020, with respect to COVID–19, including any renewal of the declaration. “(c) Grants to Support Culturally Specific Populations.—“(1) In general.—In addition to amounts otherwise made available, there is appropriated, out of any amounts in the Treasury not otherwise appropriated, to the Secretary of Health and Human Services (in this section referred to as the ‘Secretary’), $49,500,000 for fiscal year 2021, to be available until expended, to carry out this subsection (excluding Federal administrative costs, for which funds are appropriated under subsection (e)). “(2) Use of funds.—From amounts appropriated under paragraph (1), the Secretary acting through the Director of the Family Violence Prevention and Services Program, shall—“(A) support culturally specific community-based organizations to provide culturally specific activities for survivors of sexual assault and domestic violence, to address emergent needs resulting from the COVID–19 public health emergency and other public health concerns; and “(B) support culturally specific community-based organizations that provide culturally specific activities to promote strategic partnership development and collaboration in responding to the impact of COVID–19 and other public health concerns on survivors of sexual assault and domestic violence. “(d) Grants to Support Survivors of Sexual Assault.—“(1) In general.—In addition to amounts otherwise made available, there is appropriated, out of any amounts in the Treasury not otherwise appropriated, to the Secretary, $198,000,000 for fiscal year 2021, to be available until expended, to carry out this subsection (excluding Federal administrative costs, for which funds are appropriated under subsection (e)). “(2) Use of funds.—From amounts appropriated under paragraph (1), the Secretary acting through the Director of the Family Violence Prevention and Services Program, shall assist rape crisis centers in transitioning to virtual services and meeting the emergency needs of survivors.”
+
 #### Study of Training Needs of Health Professionals
 Pub. L. 105–392, title IV, § 407(b), Nov. 13, 1998, 112 Stat. 3589, related to study by the Institute of Medicine concerning the training needs of health professionals with respect to the detection and referral of victims of family or acquaintance violence and required the Institute to submit a report to Congress concerning such study not later than 2 years after Nov. 13, 1998.
 
@@ -126,12 +129,31 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
 **(c) Domestic Violence Prevention Enhancement and Leadership Through Alliances** There is authorized to be appropriated to carry out [section 10414 of this title](./chapter-110-family-violence-prevention-and-services.md#section-10414) $6,000,000 for each of fiscal years 2011 through 2015.
 
+**(d) Additional funding** For the purposes of carrying out this chapter, in addition to amounts otherwise made available for such purposes, there are appropriated, out of any amounts in the Treasury not otherwise appropriated, for fiscal year 2021, to remain available until expended except as otherwise provided in this subsection, each of the following:
+
+(1) $180,000,000 to carry out sections 10401 through 10412 of this title, to be allocated in the manner described in subsection (a)(2), except that—
+
+  (A) a reference in subsection (a)(2) to an amount appropriated under subsection (a)(1) shall be considered to be a reference to an amount appropriated under this paragraph;
+
+  (B) the matching requirement in [section 10406(c)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10406/c/4&num=0&edition=prelim) and condition in [section 10408(d)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10408/d/3&num=0&edition=prelim) shall not apply; and
+
+  (C) each reference in [section 10405(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10405/e&num=0&edition=prelim) to “the end of the following fiscal year” shall be considered to be a reference to “the end of fiscal year 2025”; and
+
+  (D) funds made available to a State in a grant under [section 10406(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10406/a&num=0&edition=prelim) and obligated in a timely manner shall be available for expenditure, by the State or a recipient of funds from the grant, through the end of fiscal year 2025;
+
+(2) $18,000,000 to carry out [section 10409 of this title](./chapter-110-family-violence-prevention-and-services.md#section-10409).
+
+(3) $2,000,000 to carry out [section 10413 of this title](./chapter-110-family-violence-prevention-and-services.md#section-10413), of which $1,000,000 shall be allocated to support Indian communities.
+
 ### Statutory Notes
 
 #### Prior Provisions
 A prior section 10403, Pub. L. 98–457, title III, § 304, Oct. 9, 1984, 98 Stat. 1759; Pub. L. 102–295, title III, § 312, May 28, 1992, 106 Stat. 204; Pub. L. 104–208, div. A, title I, § 101(e) [title II, § 213], Sept. 30, 1996, 110 Stat. 3009–233, 3009–254; Pub. L. 104–235, title II, § 202, Oct. 3, 1996, 110 Stat. 3089; Pub. L. 106–386, div. B, title II, § 1202(b), Oct. 28, 2000, 114 Stat. 1505, related to allotment of funds, prior to the general amendment of this chapter by Pub. L. 111–320. See [section 10405 of this title](./chapter-110-family-violence-prevention-and-services.md#section-10405).
 
 A prior section 303 of Pub. L. 98–457 was classified to [section 10402 of this title](./chapter-110-family-violence-prevention-and-services.md#section-10402) prior to the general amendment of this chapter by Pub. L. 111–320.
+
+#### Amendments
+2021—Subsec. (d). Pub. L. 117–2 added subsec. (d).
 
 
 <a id="section-10404"></a>

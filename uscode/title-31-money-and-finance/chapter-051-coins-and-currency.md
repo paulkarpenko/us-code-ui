@@ -212,6 +212,12 @@ All assets and liabilities of Coinage Profit Fund and Coinage Metal Fund transfe
 #### Commemorative Medals
 Provisions authorizing commemorative medals were contained in the following acts:
 
+Pub. L. 117–72, Dec. 16, 2021, 135 Stat. 1511, recognizing the 13 United States servicemembers killed at the Hamid Karzai International Airport in Kabul, Afghanistan, on Aug. 26, 2021.
+
+Pub. L. 117–38, Aug. 25, 2021, 135 Stat. 333, recognizing the 369th Infantry Regiment, commonly known as the “Harlem Hellfighters”, for service during World War I.
+
+Pub. L. 117–32, Aug. 5, 2021, 135 Stat. 322, recognizing the United States Capitol Police and those who protected the U.S. Capitol on January 6, 2021.
+
 Pub. L. 116–208, Dec. 4, 2020, 134 Stat. 1008, recognizing Greg LeMond.
 
 Pub. L. 116–195, Dec. 3, 2020, 134 Stat. 984, recognizing female individuals who held employment or volunteered in support of the war efforts during World War II, known as “Rosie the Riveter”.
@@ -1202,7 +1208,7 @@ This paragraph does not apply with respect to business operations conducted by a
 
   (B) *Quarter dollars.—* — The Secretary may issue quarter dollars in 2026 with up to five different designs emblematic of the United States semiquincentennial. One of the quarter dollar designs must be emblematic of a woman’s or women’s contribution to the birth of the Nation or the Declaration of Independence or any other monumental moments in American History.
 
-  (C) *Dollars.—* — The Secretary may, in addition to the coins produced under subsections (r) and (w), mint for issuance during the one-year period beginning January 1, 2026, $1 dollar coins with designs emblematic of the United States semiquincentennial.
+  (C) *Dollars.—* — The Secretary may, in addition to the coins produced under subsections (r) and (w), mint for issuance during the one-year period beginning January 1, 2026, $1 dollar [sic] coins with designs emblematic of the United States semiquincentennial.
 
   (D) *Designs after end of the program.—* — Beginning in 2027, any coin redesigned under this subsection shall revert to the immediately previous designs, with the exception of the quarter dollar and the half dollar, which shall bear designs in accordance with subsection (z).
 
@@ -2000,9 +2006,6 @@ In subsection (c)(2), the words “any suit commenced prior to August 27, 1935, 
 In subsection (c)(3), the words “may be expended” are substituted for “an amount appropriated or authorized to be expended” and “shall be available for or expended in”, and the words “dollar for dollar” are substituted for “on an equal and uniform dollar for dollar basis”, to eliminate unnecessary words.
 
 In subsection (d)(1), the words “including every obligation of and to the United States” are omitted as surplus. The text of 31:463(b)(words after semicolon) is omitted as unnecessary because of the restatement.
-
-#### Constitutionality
-For information regarding constitutionality of section 1 of act June 5, 1933, cited in the Historical and Revision Notes as a source for provisions of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
 #### Amendments
 1997—Subsec. (d)(2). Pub. L. 105–61 struck out at end “This paragraph shall apply to any obligation issued on or before October 27, 1977, notwithstanding any assignment or novation of such obligation after October 27, 1977, unless all parties to the assignment or novation specifically agree to include a gold clause in the new agreement. Nothing in the preceding sentence shall be construed to affect the enforceability of a Gold Clause contained in any obligation issued after October 27, 1977 if the enforceability of that Gold Clause has been finally adjudicated before the date of enactment of the Economic Growth and Regulatory Paperwork Reduction Act of 1996.”

@@ -1573,12 +1573,15 @@ Subsec. (d). Pub. L. 110–289, § 1127(2), added subsec. (d).
 
 (3) **Rule of construction** — Nothing in this subsection shall be interpreted as preventing the Director from initiating and implementing an enforcement action against an enterprise, at a time the Director deems necessary, under other existing enforcement authority.
 
-**(f) Expiration** The provisions of this section shall expire on October 1, 2021.
+**(f) Expiration** The provisions of this section shall expire on October 1, 2032.
 
 ### Statutory Notes
 
 #### Prior Provisions
 A prior section 4547, Pub. L. 102–550, title XIII, § 1327, Oct. 28, 1992, 106 Stat. 3956; Pub. L. 110–289, div. A, title I, § 1122(a)(1), July 30, 2008, 122 Stat. 2689, related to authority to require reports by enterprises, prior to repeal by Pub. L. 110–289, div. A , title I, § 1104(b), July 30, 2008, 122 Stat. 2667.
+
+#### Amendments
+2021—Subsec. (f). Pub. L. 117–58 substituted “2032” for “2021”.
 
 
 <a id="section-4563"></a>

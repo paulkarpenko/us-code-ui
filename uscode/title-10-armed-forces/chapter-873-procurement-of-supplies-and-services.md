@@ -2,7 +2,7 @@
 title: 10
 chapter: '873'
 heading: PROCUREMENT OF SUPPLIES AND SERVICES
-section_count: 4
+section_count: 5
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -14,14 +14,11 @@ source: >-
 
 ### Statutory Notes
 
-#### Renumbering of Section
-Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1878(a), Jan. 1, 2021, 134 Stat. 4151, 4292, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, [section 2339b of this title](./chapter-137-procurement-generally.md#section-2339b) is renumbered as this section. See Effective Date of 2021 Amendment note below.
-
 #### Prior Provisions
 A prior section 8751 was renumbered [section 9281 of this title](./chapter-937-decorations-and-awards.md#section-9281).
 
 #### Amendments
-2021—Pub. L. 116–283 renumbered [section 2339b of this title](./chapter-137-procurement-generally.md#section-2339b) as this section.
+2021—Pub. L. 116–283 renumbered [section 2339b of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2339b) as this section.
 
 #### Effective Date of 2021 Amendment
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -62,7 +59,7 @@ A prior section 8752 was renumbered [section 9282 of this title](./chapter-937-d
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 1994 Amendment
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 2302 of this title](./chapter-137-procurement-generally.md#section-2302).
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 2302 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2302).
 
 #### Effective Date of 1980 Amendment
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
@@ -110,3 +107,12 @@ Prior sections 8754 to 8756 were renumbered sections 9284 to 9286 of this title,
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+
+<a id="section-8755"></a>
+## § 8755. Disclosures for offerors for certain shipbuilding major defense acquisition program contracts
+
+### Statutory Notes
+
+#### Codification
+Pub. L. 117–81, div. A, title XVII, § 1701(e)(1)(A), Dec. 27, 2021, 135 Stat. 2138, attempted to transfer [section 2339c of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2339c) to this chapter, insert such section after [section 8754 of this title](./chapter-873-procurement-of-supplies-and-services.md#section-8754), redesignate such section as [section 8755 of this title](./chapter-873-procurement-of-supplies-and-services.md#section-8755), and amend subsec. (d)(3) of such section by striking “section 2430” and inserting “section 4201”, all of which was to take effect immediately after the amendments made by title XVIII of Pub. L. 116–283 took effect, pursuant to section 1701(a)(3) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001). However, chapter 137 of this title, which included [section 2339c of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2339c), was repealed by Pub. L. 116–283, div. A, title XVIII, § 1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, pursuant to Pub. L. 116–283, div. A, title XVIII, § 1801(d), Jan. 1, 2021, 134 Stat. 4151, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).

@@ -7,214 +7,53 @@ source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33&num=0&edition=prelim
 ---
 <a id="section-2501"></a>
-## § 2501. Contribution
+## § 2501. Findings
 
-A person may bring a civil action for contribution against any other person who is liable or potentially liable under this Act or another law. The action shall be brought in accordance with [section 2717 of this title](./chapter-040-oil-pollution.md#section-2717).
+The Congress finds the following:
+
+(1) The washing ashore of potentially infectious medical wastes from public vessels of the United States may pose serious and widespread risks to public health and to the welfare of coastal communities.
+
+(2) Current Federal law provides inadequate protections against the disposal of such wastes from such vessels into ocean waters.
+
+(3) Operators of such vessels must take immediate action to stop disposing of such wastes into ocean waters.
 
 ### Statutory Notes
 
-#### References in Text
-This Act, referred to in text, is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701) and Tables.
+#### Short Title
+Pub. L. 100–688, title III, § 3101, Nov. 18, 1988, 102 Stat. 4152, provided that: “This subtitle [subtitle A (§§ 3101–3105) of title III of Pub. L. 100–688, enacting this chapter] may be cited as the ‘United States Public Vessel Medical Waste Anti-Dumping Act of 1988’.”
 
 
 <a id="section-2502"></a>
-## § 2502. Indemnification agreements
-**(a) Agreements not prohibited** Nothing in this Act prohibits any agreement to insure, hold harmless, or indemnify a party to such agreement for any liability under this Act.
+## § 2502. Definitions
 
-**(b) Liability not transferred** No indemnification, hold harmless, or similar agreement or conveyance shall be effective to transfer liability imposed under this Act from a responsible party or from any person who may be liable for an incident under this Act to any other person.
+For the purposes of this chapter:
 
-**(c) Relationship to other causes of action** Nothing in this Act, including the provisions of subsection (b), bars a cause of action that a responsible party subject to liability under this Act, or a guarantor, has or would have, by reason of subrogation or otherwise, against any person.
+(1) **Potentially infectious medical waste** — The term “potentially infectious medical waste” includes isolation wastes; infectious agents; human blood and blood products; pathological wastes; sharps; body parts; contaminated bedding; surgical wastes; and other disposable medical equipment and material that may pose a risk to the public health, welfare or the marine environment.
 
-### Statutory Notes
-
-#### References in Text
-This Act, referred to in text, is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701) and Tables.
+(2) **Public vessel** — The term “public vessel” means a vessel of any type whatsoever (including hydrofoils, air-cushion vehicles, submersibles, floating craft whether propelled or not, and fixed or floating platforms) that is owned, or demise chartered, and operated by the United States Government, and is not engaged in commercial service.
 
 
 <a id="section-2503"></a>
-## § 2503. Consultation on removal actions
+## § 2503. Prohibition
 
-The President shall consult with the affected trustees designated under [section 2706 of this title](./chapter-040-oil-pollution.md#section-2706) on the appropriate removal action to be taken in connection with any discharge of oil. For the purposes of the National Contingency Plan, removal with respect to any discharge shall be considered completed when so determined by the President in consultation with the Governor or Governors of the affected States. However, this determination shall not preclude additional removal actions under applicable State law.
+After 6 months after November 18, 1988, no public vessel shall dispose of potentially infectious medical waste into ocean waters unless—
 
-### Statutory Notes
+(1)
 
-#### Delegation of Functions
-Functions of President under this section delegated to Administrator of Environmental Protection Agency for inland zone and to Secretary of Department in which Coast Guard is operating for coastal zone by section 3 of Ex. Ord. No. 12777, Oct. 18, 1991, 56 F.R. 54757, set out as a note under [section 1321 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1321).
+  (A) the health or safety of individuals on board the vessel is threatened; or
+
+  (B) during time of war or a declared national emergency;
+
+(2) the waste is disposed of beyond 50 nautical miles from the nearest land; and
+
+(3)
+
+  (A) in the case of a public vessel which is not a submersible, the waste is sterilized, properly packaged, and sufficiently weighted to prevent the waste from coming ashore after disposal; and
+
+  (B) in the case of a public vessel which is a submersible, the waste is properly packaged and sufficiently weighted to prevent the waste from coming ashore after disposal.
 
 
 <a id="section-2504"></a>
-## § 2504. Uses of Fund
-**(a) Uses generally** The Fund shall be available to the President for—
+## § 2504. Guidance
 
-(1) the payment of removal costs, including the costs of monitoring removal actions, determined by the President to be consistent with the National Contingency Plan—
-
-  (A) by Federal authorities; or
-
-  (B) by a Governor or designated State official under subsection (d);
-
-(2) the payment of costs incurred by Federal, State, or Indian tribe trustees in carrying out their functions under [section 2706 of this title](./chapter-040-oil-pollution.md#section-2706) for assessing natural resource damages and for developing and implementing plans for the restoration, rehabilitation, replacement, or acquisition of the equivalent of damaged resources determined by the President to be consistent with the National Contingency Plan;
-
-(3) the payment of removal costs determined by the President to be consistent with the National Contingency Plan as a result of, and damages resulting from, a discharge, or a substantial threat of a discharge, of oil from a foreign offshore unit;
-
-(4) the payment of claims in accordance with [section 2713 of this title](./chapter-040-oil-pollution.md#section-2713) for uncompensated removal costs determined by the President to be consistent with the National Contingency Plan or uncompensated damages; and
-
-(5) the payment of Federal administrative, operational, and personnel costs and expenses reasonably necessary for and incidental to the implementation, administration, and enforcement of this Act (including, but not limited to, sections 1004(d)(2), 1006(e), 4107, 4110, 4111, 4112, 4117, 5006, 8103, and title VII) and subsections (b), (c), (d), (j), and (l) of [section 1321 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1321) with respect to prevention, removal, and enforcement related to oil discharges, provided that—
-
-  (A) not more than $25,000,000 in each fiscal year shall be available to the Secretary for operations and support incurred by the Coast Guard;
-
-  (B) not more than $15,000,000 in each fiscal year shall be available to the Under Secretary of Commerce for Oceans and Atmosphere for expenses incurred by, and activities related to, response and damage assessment capabilities of the National Oceanic and Atmospheric Administration;
-
-  (C) not more than $30,000,000 each year through the end of fiscal year 1992 shall be available to establish the National Response System under [section 1321(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1321/j&num=0&edition=prelim), including the purchase and prepositioning of oil spill removal equipment; and
-
-  (D) not more than $27,250,000 in each fiscal year shall be available to carry out subchapter IV of this chapter.
-
-**(b) Defense to liability for Fund** The Fund shall not be available to pay any claim for removal costs or damages to a particular claimant, to the extent that the incident, removal costs, or damages are caused by the gross negligence or willful misconduct of that claimant.
-
-**(c) Obligation of Fund by Federal officials** The President may promulgate regulations designating one or more Federal officials who may obligate money in accordance with subsection (a).
-
-**(d) Access to Fund by State officials**
-
-(1) **Immediate removal** — In accordance with regulations promulgated under this section, the President, upon the request of the Governor of a State or pursuant to an agreement with a State under paragraph (2), may obligate the Fund for payment in an amount not to exceed $250,000 for removal costs consistent with the National Contingency Plan required for the immediate removal of a discharge, or the mitigation or prevention of a substantial threat of a discharge, of oil.
-
-(2) **Agreements**
-
-  (A) *In general* — The President shall enter into an agreement with the Governor of any interested State to establish procedures under which the Governor or a designated State official may receive payments from the Fund for removal costs pursuant to paragraph (1).
-
-  (B) *Terms* — Agreements under this paragraph—
-
-    (i) may include such terms and conditions as may be agreed upon by the President and the Governor of a State;
-
-    (ii) shall provide for political subdivisions of the State to receive payments for reasonable removal costs; and
-
-    (iii) may authorize advance payments from the Fund to facilitate removal efforts.
-
-**(e) Regulations** The President shall—
-
-(1) not later than 6 months after August 18, 1990, publish proposed regulations detailing the manner in which the authority to obligate the Fund and to enter into agreements under this subsection shall be exercised; and
-
-(2) not later than 3 months after the close of the comment period for such proposed regulations, promulgate final regulations for that purpose.
-
-**(f) Rights of subrogation** Payment of any claim or obligation by the Fund under this Act shall be subject to the United States Government acquiring by subrogation all rights of the claimant or State to recover from the responsible party.
-
-**(g) Repealed. Pub. L. 115–282, title VIII, § 816(1), Dec. 4, 2018, 132 Stat. 4305**
-
-**(h) Period of limitations for claims**
-
-(1) **Removal costs** — No claim may be presented under this subchapter for recovery of removal costs for an incident unless the claim is presented within 6 years after the date of completion of all removal actions for that incident.
-
-(2) **Damages** — No claim may be presented under this section for recovery of damages unless the claim is presented within 3 years after the date on which the injury and its connection with the discharge in question were reasonably discoverable with the exercise of due care, or in the case of natural resource damages under [section 2702(b)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2702/b/2/A&num=0&edition=prelim), if later, the date of completion of the natural resources damage assessment under [section 2706(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2706/e&num=0&edition=prelim).
-
-(3) **Minors and incompetents** — The time limitations contained in this subsection shall not begin to run—
-
-  (A) against a minor until the earlier of the date when such minor reaches 18 years of age or the date on which a legal representative is duly appointed for the minor, or
-
-  (B) against an incompetent person until the earlier of the date on which such incompetent’s incompetency ends or the date on which a legal representative is duly appointed for the incompetent.
-
-**(i) Limitation on payment for same costs** In any case in which the President has paid an amount from the Fund for any removal costs or damages specified under subsection (a), no other claim may be paid from the Fund for the same removal costs or damages.
-
-**(j) Obligation in accordance with plan**
-
-(1) **In general** — Except as provided in paragraph (2), amounts may be obligated from the Fund for the restoration, rehabilitation, replacement, or acquisition of natural resources only in accordance with a plan adopted under [section 2706(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2706/c&num=0&edition=prelim).
-
-(2) **Exception** — Paragraph (1) shall not apply in a situation requiring action to avoid irreversible loss of natural resources or to prevent or reduce any continuing danger to natural resources or similar need for emergency action.
-
-**(k) Preference for private persons in area affected by discharge**
-
-(1) **In general** — In the expenditure of Federal funds for removal of oil, including for distribution of supplies, construction, and other reasonable and appropriate activities, under a contract or agreement with a private person, preference shall be given, to the extent feasible and practicable, to private persons residing or doing business primarily in the area affected by the discharge of oil.
-
-(2) **Limitation** — This subsection shall not be considered to restrict the use of Department of Defense resources.
-
-**(l) Reports**
-
-(1) **In general** — Each year, on the date on which the President submits to Congress a budget under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), the President, through the Secretary of the Department in which the Coast Guard is operating, shall—
-
-  (A) provide a report on disbursements for the preceding fiscal year from the Fund, regardless of whether those disbursements were subject to annual appropriations, to—
-
-    (i) the Senate Committee on Commerce, Science, and Transportation; and
-
-    (ii) the House of Representatives Committee on Transportation and Infrastructure; and
-
-  (B) make the report available to the public on the National Pollution Funds Center Internet website.
-
-(2) **Contents** — The report shall include—
-
-  (A) a list of each incident that—
-
-    (i) occurred in the preceding fiscal year; and
-
-    (ii) resulted in disbursements from the Fund, for removal costs and damages, totaling $500,000 or more;
-
-  (B) a list of each incident that—
-
-    (i) occurred in the fiscal year preceding the preceding fiscal year; and
-
-    (ii) resulted in disbursements from the Fund, for removal costs and damages, totaling $500,000 or more; and
-
-  (C) an accounting of any amounts reimbursed to the Fund in the preceding fiscal year that were recovered from a responsible party for an incident that resulted in disbursements from the Fund, for removal costs and damages, totaling $500,000 or more.
-
-(3) **Agency recordkeeping** — Each Federal agency that receives amounts from the Fund shall maintain records describing the purposes for which such funds were obligated or expended in such detail as the Secretary may require for purposes of the report required under paragraph (1).
-
-### Statutory Notes
-
-#### Amendment of Subsection (b)
-Pub. L. 116–283, div. G, title LVXXXIII [LXXXIII], § 8302, Jan. 1, 2021, 134 Stat. 4692, provided that, effective 180 days after Jan. 1, 2021, subsection (b) of this section is amended—
-
-(1) by striking “The” and inserting the following:
-
-“(1) In general
-
-The”; and
-
-(2) by adding at the end the following:
-
-“(2) Subrogated rights
-
-“Except for a guarantor claim pursuant to a defense under [section 2716(f)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2716/f/1&num=0&edition=prelim), Fund compensation of any claim by an insurer or other indemnifier of a responsible party or injured third party is subject to the subrogated rights of that responsible party or injured third party to such compensation.”
-
-See 2021 Amendment note below.
-
-#### References in Text
-This Act, referred to in subsecs. (a)(5) and (f), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. Sections 1004(d)(2) and 1006(e) are classified to sections 2704(d)(2) and 2706(e), respectively, of this title. Section 4107 amended former [section 1223 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1223&num=0&edition=prelim) and enacted provisions formerly set out as a note under [section 1223 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1223&num=0&edition=prelim). Sections 4110 and 4111 enacted provisions set out as a note and formerly set out as a note under [section 3703 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section3703&num=0&edition=prelim), Shipping. Section 4112 is not classified to the Code. Section 4117 enacted provisions set out as a note under section 1295 of the former Appendix to Title 46. Section 5006 is classified to [section 2736 of this title](./chapter-040-oil-pollution.md#section-2736). Section 8103 enacted provisions formerly set out as a note under [section 1651 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1651&num=0&edition=prelim), Public Lands. Title VII is classified to subchapter IV of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701) and Tables.
-
-#### Amendments
-2021—Subsec. (a)(5)(A). Pub. L. 116–283, § 8513(c), substituted “operations and support” for “operating expenses”.
-
-Subsec. (a)(6). Pub. L. 116–283, § 8303(b), struck out par. (6) which read as follows: “the making of loans pursuant to the program established under [section 2713(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2713/f&num=0&edition=prelim).”
-
-Subsec. (b). Pub. L. 116–283, § 8302(a), designated existing provisions as par. (1), inserted heading, and added par. (2).
-
-2018—Subsec. (g). Pub. L. 115–282, § 816(1), struck out subsec. (g) which related to audits.
-
-Subsec. (l)(1). Pub. L. 115–282, § 816(2), substituted “Each year, on the date on which the President submits to Congress a budget under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim),” for “Within one year after October 15, 2010, and annually thereafter,” in introductory provisions.
-
-Subsec. (l)(2). Pub. L. 115–282, § 816(3), amended par. (2) generally. Prior to amendment, text read as follows: “The report shall include—
-
-“(A) a list of each disbursement of $250,000 or more from the Fund during the preceding fiscal year; and
-
-“(B) a description of how each such use of the Fund meets the requirements of subsection (a).”
-
-2010—Subsec. (a)(5)(B) to (D). Pub. L. 111–281, § 708(a), added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
-
-Subsec. (g). Pub. L. 111–281, § 708(b)(1), added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: “The Comptroller General shall audit all payments, obligations, reimbursements, and other uses of the Fund, to assure that the Fund is being properly administered and that claims are being appropriately and expeditiously considered. The Comptroller General shall submit to the Congress an interim report one year after August 18, 1990. The Comptroller General shall thereafter audit the Fund as is appropriate. Each Federal agency shall cooperate with the Comptroller General in carrying out this subsection.”
-
-Subsec. (l). Pub. L. 111–281, § 708(b)(2), added subsec. (l).
-
-2004—Subsec. (a)(6). Pub. L. 108–293 added par. (6).
-
-#### Effective Date of 2021 Amendment
-Pub. L. 116–283, div. G, title LVXXXIII [LXXXIII], § 8302(b), Jan. 1, 2021, 134 Stat. 4692, provided that: “This section [amending this section] and the amendments made by this section shall take effect 180 days after the date of enactment of this Act [Jan. 1, 2021].”
-
-#### Use of Fund for Spills of National Significance
-Pub. L. 112–74, div. D, title V, § 563, Dec. 23, 2011, 125 Stat. 981, provided that: “For fiscal year 2012 and thereafter, notwithstanding section 1012(a)(5) of the Oil Pollution Act of 1990 ([33 U.S.C. 2712(a)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2712/a/5&num=0&edition=prelim)) and [31 U.S.C. 3302](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3302&num=0&edition=prelim), in the event that a spill of national significance occurs, any payment of amounts from the Oil Spill Liability Trust Fund pursuant to section 1012(a)(1) of the Oil Pollution Act of 1990 ([33 U.S.C. 2712(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2712/a/1&num=0&edition=prelim)) for the removal costs incurred by the Coast Guard for such spill, shall be credited directly to the accounts of the Coast Guard current at the time such removal costs were incurred or when reimbursement is received: Provided, That such amounts shall be merged with and, without further appropriations, made available for the same time period and the same purpose as the appropriation to which it is credited.”
-
-#### Transfer of Functions
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
-
-#### Delegation of Functions
-Functions of President under subsecs. (a)(1), (3), (4), (d), and (e) of this section delegated to Secretary of Department in which Coast Guard is operating by section 7(a)(1)(A), (c)(1), (3) of Ex. Ord. No. 12777, Oct. 18, 1991, 56 F.R. 54766, 54767, set out as a note under [section 1321 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1321).
-
-Functions of President under subsec. (a)(2) of this section delegated to Federal trustees designated in National Contingency Plan by section 7(a)(2) of Ex. Ord. No. 12777.
-
-Functions of President under subsecs. (a)(5) and (c) of this section delegated to each head of departments and agencies having responsibility for implementation, administration, and enforcement of the Oil Pollution Act of 1990 (Pub. L. 101–380, see Tables for classification) and section 1321(b), (c), (d), (j), (l) of this title by section 7(a)(3), (b) of Ex. Ord. No. 12777.
-
-Memorandum of the President of the United States, Aug. 24, 1990, 55 F.R. 35291, which delegated to the Secretary of the Department in which the Coast Guard is operating authority to make available from the Oil Spill Liability Trust Fund not to exceed $50,000,000 in any fiscal year to remove discharged oil or hazardous substances from navigable waters, was revoked by Ex. Ord. No. 12777, § 8(i), Oct. 18, 1991, 56 F.R. 54769, set out as a note under [section 1321 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1321).
+Not later than 3 months after November 18, 1988, the Secretary of Defense and the head of each affected agency, in consultation with the Administrator of the Environmental Protection Agency, shall each issue guidance for public vessels under the jurisdiction of their agency regarding implementation of [section 2503 of this title](./chapter-038-dumping-of-medical-waste-by-public-vessels.md#section-2503).

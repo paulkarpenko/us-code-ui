@@ -73,20 +73,21 @@ In connection with the investigation, construction, or operation and maintenance
 1940—Act Oct. 14, 1940, reenacted section.
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
-
-Works Projects Administration and its functions transferred to Federal Works Agency by Reorg. Plan No. 1 of 1939, §§ 301, 306, eff. July 1, 1939, 4 F.R. 2729, 53 Stat. 1426, set out in the Appendix to Title 5.
-
 Functions of Federal Works Agency transferred to General Services Administration by act June 30, 1949, ch. 288, title I, § 103, 63 Stat. 380. See Historical and Revision Notes under [section 303(b) of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section303/b&num=0&edition=prelim), Public Buildings, Property, and Works. [Section 303(b) of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section303/b&num=0&edition=prelim) was amended generally by Pub. L. 109–313, § 2(a)(1), Oct. 6, 2006, 120 Stat. 1734, and, as so amended, no longer relates to the Federal Works Agency and Commissioner of Public Buildings. See 2006 Amendment note under [section 303 of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section303&num=0&edition=prelim).
-
-Civilian Conservation Corps and its functions consolidated with other agencies under Federal Security Agency, to be administered by Director of Corps under direction and supervision of Federal Security Administration by Reorg. Plan No. 1 of 1939, §§ 201, 207, eff. July 1, 1939, 4 F.R. 2728, 2729, 53 Stat. 1425, set out in the Appendix to Title 5, Government Organization and Employees.
-
-Federal Security Agency was abolished by section 8 of Reorg. Plan No. 1 of 1953, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631, set out in the Appendix to Title 5, and its functions transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953.
 
 Department of Health, Education, and Welfare was redesignated Department of Health and Human Services by [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
 #### Drainage Facilities and Minor Construction
 Contracts with repayment organizations for construction of drainage facilities and minor items in irrigation works, see [section 505 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section505&num=0&edition=prelim), Public Lands.
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+
+Works Projects Administration and its functions transferred to Federal Works Agency by Reorg. Plan No. 1 of 1939, §§ 301, 306, eff. July 1, 1939, 4 F.R. 2729, 53 Stat. 1426, set out in the Appendix to Title 5.
+
+Civilian Conservation Corps and its functions consolidated with other agencies under Federal Security Agency, to be administered by Director of Corps under direction and supervision of Federal Security Administration by Reorg. Plan No. 1 of 1939, §§ 201, 207, eff. July 1, 1939, 4 F.R. 2728, 2729, 53 Stat. 1425, set out in the Appendix to Title 5.
+
+Federal Security Agency was abolished by section 8 of Reorg. Plan No. 1 of 1953, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631, set out in the Appendix to Title 5, and its functions transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953.
 
 
 <a id="section-590z-1"></a>
@@ -133,9 +134,10 @@ Department of War designated Department of the Army and title of Secretary of Wa
 Section as amended and modified by act Dec. 22, 1944, ch. 665, § 1(c), 58 Stat. 665, see [section 701–1(c) of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section701–1/c&num=0&edition=prelim), Navigation and Navigable Waters.
 
 #### Transfer of Functions
-Works Projects Administration and its functions transferred to Federal Works Agency by Reorg. Plan No. 1 of 1939, §§ 301, 306, eff. July 1, 1939, 4 F.R. 2729, 53 Stat. 1426, set out in the Appendix to Title 5, Government Organization and Employees.
-
 Functions of Federal Works Agency transferred to General Services Administration by act June 30, 1949, ch. 288, title I, § 103, 63 Stat. 380. See Historical and Revision Notes under [section 303(b) of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section303/b&num=0&edition=prelim), Public Buildings, Property, and Works. [Section 303(b) of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section303/b&num=0&edition=prelim) was amended generally by Pub. L. 109–313, § 2(a)(1), Oct. 6, 2006, 120 Stat. 1734, and, as so amended, no longer relates to the Federal Works Agency and Commissioner of Public Buildings. See 2006 Amendment note under [section 303 of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section303&num=0&edition=prelim).
+
+#### Transfer of Functions
+Works Projects Administration and its functions transferred to Federal Works Agency by Reorg. Plan No. 1 of 1939, §§ 301, 306, eff. July 1, 1939, 4 F.R. 2729, 53 Stat. 1426, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-590z-10"></a>
@@ -192,11 +194,11 @@ A prior section 4 of act Aug. 11, 1939, ch. 717, 53 Stat. 1419, covered authoriz
 #### Amendments
 1943—Subsec. (d). Act July 16, 1943, added subsec. (d).
 
-#### Expiration of Subsection (d)
-Subsection (d) of this section, by the terms thereof, ceased to be of force and effect, except as to certain projects, six months after cessation of hostilities of World War II, which was proclaimed at 12 o’clock noon of December 31, 1946, by Proc. No. 2714, 12 F.R. 1, set out as a note preceding [section 1 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1&num=0&edition=prelim), War and National Defense.
-
 #### Extension of Variable Payment Plan
 Authority of Secretary to extend benefits of variable payment plan to organizations with which he contracts or has contracted for the repayment of construction costs allocated to irrigation on any project undertaken by the United States, including contracts under this subchapter, see section 2 of Pub. L. 85–611, Aug. 8, 1958, 72 Stat. 542, set out as a note under [section 485h of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section485h&num=0&edition=prelim), Public Lands.
+
+#### Expiration of Subsection (d)
+Subsection (d) of this section, by the terms thereof, ceased to be of force and effect, except as to certain projects, six months after cessation of hostilities of World War II, which was proclaimed at 12 o’clock noon of December 31, 1946, by Proc. No. 2714, 12 F.R. 1, set out as a note preceding [section 1 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1&num=0&edition=prelim), War and National Defense.
 
 
 <a id="section-590z-3"></a>
@@ -219,15 +221,16 @@ In subsec. (c), “[section 6101 of title 41](https://uscode.house.gov/view.xhtm
 1943—Subsec. (c). Act July 16, 1943, added subsec. (c).
 
 #### Transfer of Functions
-Works Projects Administration and its functions transferred to Federal Works Agency by Reorg. Plan No. 1 of 1939, §§ 301, 306, eff. July 1, 1939, 4 F.R. 2729, 53 Stat. 1426, set out in the Appendix to Title 5, Government Organization and Employees.
-
 Functions of Federal Works Agency transferred to General Services Administration by act June 30, 1949, ch. 288, title I, § 103, 63 Stat. 380. See Historical and Revision Notes under [section 303(b) of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section303/b&num=0&edition=prelim), Public Buildings, Property, and Works. [Section 303(b) of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section303/b&num=0&edition=prelim) was amended generally by Pub. L. 109–313, § 2(a)(1), Oct. 6, 2006, 120 Stat. 1734, and, as so amended, no longer relates to the Federal Works Agency and Commissioner of Public Buildings. See 2006 Amendment note under [section 303 of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section303&num=0&edition=prelim).
+
+Department of Health, Education, and Welfare redesignated Department of Health and Human Services by [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
+#### Transfer of Functions
+Works Projects Administration and its functions transferred to Federal Works Agency by Reorg. Plan No. 1 of 1939, §§ 301, 306, eff. July 1, 1939, 4 F.R. 2729, 53 Stat. 1426, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Civilian Conservation Corps and its functions consolidated with other agencies under Federal Security Agency, to be administered by Director of Corps under direction and supervision of Federal Security Administration by Reorg. Plan No. 1 of 1939, §§ 201, 207, eff. July 1, 1939, 4 F.R. 2728, 2729, 53 Stat. 1425, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Federal Security Agency abolished by section 8 of Reorg. Plan No. 1 of 1953, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631, set out in the Appendix to Title 5, and its functions transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan. No. 1 of 1953.
-
-Department of Health, Education, and Welfare redesignated Department of Health and Human Services by [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
 
 <a id="section-590z-4"></a>

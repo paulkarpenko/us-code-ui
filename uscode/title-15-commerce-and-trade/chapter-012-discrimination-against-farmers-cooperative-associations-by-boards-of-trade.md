@@ -11,7 +11,7 @@ source: >-
 
 When used in this chapter (a) the term “agricultural products”, means agricultural, horticultural, viticultural, and dairy products, food products of livestock, the products of poultry and bee raising, the edible products of forestry, and any and all products raised or produced on farms and processed or manufactured products thereof, transported or intended to be transported in interstate and/or foreign commerce.
 
-**(b)** The words “board of trade” shall be held to include and mean any exchange or association, whether incorporated or unincorporated, of persons who shall be engaged in the business of buying or selling agricultural products or receiving the same for sale on consignment, except markets designated as contract markets under the Commodity Exchange Act [[7 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) et seq.].
+**(b)** The words “board of trade” shall be held to include and mean any exchange or association, whether incorporated or unincorporated, of persons who shall be engaged in the business of buying or selling agricultural products or receiving the same for sale on consignment, except markets designated as contract markets under the Grain Futures Act 11 See References in Text note below. [[7 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) et seq.].
 
 **(c)** The words “interstate commerce” shall be construed to mean commerce between any State, Territory, or possession, or the District of Columbia, and any place outside thereof; or between points within the same State, Territory, or possession, or the District of Columbia, but through any place outside thereof, or within any Territory or possession, or the District of Columbia.
 
@@ -24,10 +24,7 @@ When used in this chapter (a) the term “agricultural products”, means agricu
 ### Statutory Notes
 
 #### References in Text
-The Commodity Exchange Act, referred to in subsec. (b), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) and Tables.
-
-#### Amendments
-1936—Subsec. (b). Act June 15, 1936, substituted “Commodity Exchange Act” for “Grain Futures Act”.
+The Grain Futures Act, referred to in subsec. (b), was act Sept. 21, 1922, ch. 369, 42 Stat. 998. The Act was renamed the Commodity Exchange Act by act June 15, 1936, ch. 545, § 1, 49 Stat. 1491, and is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) and Tables.
 
 
 <a id="section-432"></a>

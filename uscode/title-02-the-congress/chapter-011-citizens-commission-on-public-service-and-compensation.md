@@ -298,8 +298,7 @@ Ronald Reagan.
 
 1 Editorial note. This is the text of identical letters addressed to the Speaker of the House of Representatives and the President of the Senate, which were transmitted on January 9, 1989.
 
-#### Disapproval of Salary Recommendations for 1989 Increases
-Pub. L. 101–1, Feb. 7, 1989, 102 Stat. 3, provided: “That the Congress disapproves in their entirety the recommendations transmitted to the Congress by the President on January 9, 1989, under section 225(h) of the Federal Salary Act of 1967.”
+[Pub. L. 101–1, Feb. 7, 1989, 103 Stat. 3, provided: “That the Congress disapproves in their entirety the recommendations transmitted to the Congress by the President on January 9, 1989, under section 225(h) of the Federal Salary Act of 1967.” ]
 
 #### Prior Salary Recommendations
 A prior recommendation of the President for increases in executive, legislative, and judicial salaries, which was transmitted to Congress on Jan. 5, 1987 (52 F.R. 4125; 101 Stat. 1967), was disapproved by Pub. L. 100–6, § 3, Feb. 12, 1987, 101 Stat. 94. However, such recommendation became effective pursuant to [section 359 of this title](./chapter-011-citizens-commission-on-public-service-and-compensation.md#section-359).

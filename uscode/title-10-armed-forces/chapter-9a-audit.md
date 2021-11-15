@@ -81,7 +81,7 @@ Pub. L. 115–91, div. A, title X, § 1006, Dec. 12, 2017, 131 Stat. 1544, provi
 
     (xii) An identification of the manner in which the corrective action plan or plans of each department, agency, component, or element of the Department of Defense, and the corrective action plan of the Department as a whole, support the National Defense Strategy (NDS) of the United States.
 
-    (xiii) An 11 So in original. Probably should be “A”. description of the incentives available pursuant to the guidance required by section 1004(a) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, including a detailed explanation of how such incentives were provided during the fiscal year covered by the report.
+    (xiii) A description of the incentives available pursuant to the guidance required by section 1004(a) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, including a detailed explanation of how such incentives were provided during the fiscal year covered by the report.
 
   (C) *Additional requirements.—*
 
@@ -102,7 +102,7 @@ Pub. L. 115–91, div. A, title X, § 1006, Dec. 12, 2017, 131 Stat. 1544, provi
 ### Statutory Notes
 
 #### References in Text
-Section 1004(a) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, referred to in subsec. (b)(1)(B)(xiii), is section 1004(a) of Pub. L. 116–283, div. A, title X, Jan. 1, 2021, 134 Stat. 3837, which is set out as a note below.
+Section 1004(a) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, referred to in subsec. (b)(1)(B)(xiii), is section 1004(a) of Pub. L. 116–283, which is set out as a note below.
 
 #### Codification
 Subsec. (a) of this section, as added by Pub. L. 115–91, is based on text of subsec. (a) of section 1003 of Pub. L. 111–84, div. A, title X, Oct. 28, 2009, 123 Stat. 2439, which was formerly set out as a note under [section 2222 of this title](./chapter-131-planning-and-coordination.md#section-2222), prior to repeal by Pub. L. 115–91, div. A, title X, § 1002(c)(4), Dec. 12, 2017, 131 Stat. 1540.
@@ -114,7 +114,9 @@ Subsec. (b)(1)(B)(ix). Pub. L. 116–283, § 1081(a)(14)(A), substituted “subs
 
 Subsec. (b)(1)(B)(xii). Pub. L. 116–283, § 1081(a)(14)(B), inserted “of” after “identification”.
 
-Subsec. (b)(1)(B)(xiii). Pub. L. 116–283, § 1004(b), added cl. (xiii).
+Subsec. (b)(1)(B)(xiii). Pub. L. 117–81 substituted “A description” for “An description”.
+
+Pub. L. 116–283, § 1004(b), added cl. (xiii).
 
 2019—Subsec. (b)(1)(B)(i). Pub. L. 116–92, § 1009(b), substituted “section 240c” for “section 253a”.
 
@@ -267,7 +269,7 @@ Pub. L. 115–232, div. A, title X, § 1006, Aug. 13, 2018, 132 Stat. 1947, as a
 
 <a id="section-240e"></a>
 ## § 240e. Audits: use of commercial data integration and analysis products in preparing audits
-**(a) Deployment of Data Analytics Capabilities.—** The Secretary of Defense shall use competitive procedures under chapter 137 of this title to procure or develop technologies or services, including those based on commercially available information technologies and services to improve data collection and analyses to support preparation of auditable financial statements for the Department of Defense.
+**(a) Deployment of Data Analytics Capabilities.—** The Secretary of Defense shall use competitive procedures under chapter 137 11 See References in Text note below. of this title to procure or develop technologies or services, including those based on commercially available information technologies and services to improve data collection and analyses to support preparation of auditable financial statements for the Department of Defense.
 
 **(b) Use of Funding and Resources.—** The Secretary of Defense may use science and technology funding, prototypes, and test and evaluation resources as appropriate in support of deployment of technologies and services as described in subsection (a).
 
@@ -275,6 +277,9 @@ Pub. L. 115–232, div. A, title X, § 1006, Aug. 13, 2018, 132 Stat. 1947, as a
 
 #### Codification
 Text of section, as added by Pub. L. 115–91, is based on text of subsecs. (a) and (b) of section 1003 of Pub. L. 114–328, div. A, title X, Dec. 23, 2016, 130 Stat. 2380, which were formerly set out in a note under [section 2222 of this title](./chapter-131-planning-and-coordination.md#section-2222), prior to repeal by Pub. L. 115–91, div. A, title X, § 1002(f)(3), Dec. 12, 2017, 131 Stat. 1542.
+
+#### References in Text
+Chapter 137 of this title, referred to in subsec. (a), was repealed by Pub. L. 116–283, div. A, title XVIII, § 1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, in conjunction with the transfer and reorganization of acquisition provisions in this title by Pub. L. 116–283, div. A, title XVIII, Jan. 1, 2022, 134 Stat. 4149.
 
 #### Amendments
 2018—Pub. L. 115–232 renumbered [section 254a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section254a&num=0&edition=prelim) as this section.
@@ -292,7 +297,7 @@ The Department of Defense shall select service providers for auditing services b
 ### Statutory Notes
 
 #### Codification
-Text of section, as added by Pub. L. 115–91, is based on text of section 892 of Pub. L. 114–328, div. A, title VIII, Dec. 23, 2016, 130 Stat. 2324, which was formerly set out as a note under [section 2331 of this title](./chapter-137-procurement-generally.md#section-2331), prior to repeal by Pub. L. 115–91, div. A, title X, § 1002(g)(3), Dec. 12, 2017, 131 Stat. 1542.
+Text of section, as added by Pub. L. 115–91, is based on text of section 892 of Pub. L. 114–328, div. A, title VIII, Dec. 23, 2016, 130 Stat. 2324, which was formerly set out as a note under [section 2331 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2331), prior to repeal by Pub. L. 115–91, div. A, title X, § 1002(g)(3), Dec. 12, 2017, 131 Stat. 1542.
 
 #### Amendments
 2018—Pub. L. 115–232 renumbered [section 254b of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section254b&num=0&edition=prelim) as this section.
@@ -311,7 +316,7 @@ Pub. L. 115–91, div. A, title X, § 1007, Dec. 12, 2017, 131 Stat. 1545, provi
 
 (2) current cost-to-complete estimates for each affected defense business system;
 
-(3) dependencies both between the various defense business systems and between the introduction, replacement, update, modification, and retirement of such systems; and 11 So in original. The word “and” probably should not appear.
+(3) dependencies both between the various defense business systems and between the introduction, replacement, update, modification, and retirement of such systems;
 
 (4) the amount spent by the Department on operating and maintaining financial management systems during the preceding five fiscal years; and
 
@@ -328,7 +333,9 @@ Pub. L. 115–91, div. A, title X, § 1007, Dec. 12, 2017, 131 Stat. 1545, provi
 ### Statutory Notes
 
 #### Amendments
-2021—Subsec. (a)(4), (5). Pub. L. 116–283 added pars. (4) and (5).
+2021—Subsec. (a)(3). Pub. L. 117–81, substituted a semicolon for “; and” at end.
+
+Subsec. (a)(4), (5). Pub. L. 116–283 added pars. (4) and (5).
 
 
 <a id="section-240h"></a>
@@ -395,7 +402,7 @@ Pub. L. 115–91, div. A, title X, § 1007, Dec. 12, 2017, 131 Stat. 1545, provi
 ### Statutory Notes
 
 #### References in Text
-The Chief Financial Officer Act, referred to in subsec. (c), probably should be Chief Financial Officers Act of 1990, Pub. L. 101–576, Nov. 15, 1990, 104 Stat. 2838. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under [section 501 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section501&num=0&edition=prelim), Money and Finance, and Tables.
+The Chief Financial Officer Act, referred to in subsec. (c), probably means the Chief Financial Officers Act of 1990, Pub. L. 101–576, Nov. 15, 1990, 104 Stat. 2838. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under [section 501 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section501&num=0&edition=prelim), Money and Finance, and Tables.
 
 
 <a id="section-251-to-254b"></a>

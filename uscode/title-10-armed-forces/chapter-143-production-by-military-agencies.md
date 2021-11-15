@@ -83,7 +83,7 @@ In subsection (d), the words “after the termination of the present war” are 
 1994—Subsec. (c). Pub. L. 103–355 added subsec. (c).
 
 #### Effective Date of 1996 Amendment
-For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under [section 2302 of this title](./chapter-137-procurement-generally.md#section-2302).
+For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under [section 2302 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2302).
 
 #### Operation of Stars and Stripes Bookstores Overseas by Military Exchanges
 Pub. L. 103–160, div. A, title III, § 353, Nov. 30, 1993, 107 Stat. 1627, provided that: “(a) Requirement.—The Secretary of Defense shall provide for the commencement, not later than October 1, 1994, of the operation of Stars and Stripes bookstores outside of the United States by the military exchanges. “(b) Regulations.—The Secretary of Defense shall prescribe regulations to carry out subsection (a).”

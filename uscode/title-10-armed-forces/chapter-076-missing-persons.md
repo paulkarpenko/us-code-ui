@@ -164,7 +164,7 @@ Pub. L. 104–106, div. A, title V, § 569(a), Feb. 10, 1996, 110 Stat. 336, pro
 
 (1) **In general.—** — The Secretary of Defense may enter into a cooperative agreement with, or make a grant to, a private entity for purposes related to support of the activities of the designated Defense Agency.
 
-(2) **Inapplicability of certain contract requirements.—** — Notwithstanding [section 2304(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304/k&num=0&edition=prelim), the Secretary may enter such cooperative agreements or grants on a sole-source basis pursuant to [section 2304(c)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304/c/5&num=0&edition=prelim).
+(2) **Inapplicability of certain contract requirements.—** — Notwithstanding [section 3201(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3201/e&num=0&edition=prelim), the Secretary may enter such cooperative agreements or grants on a sole-source basis pursuant to [section 3204(a)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3204/a/5&num=0&edition=prelim).
 
 **(d) Use of Department of Defense Personal Property.—** The Secretary may allow a private entity to use, at no cost, personal property of the Department of Defense to assist the entity in supporting the activities of the designated Defense Agency.
 
@@ -195,9 +195,6 @@ Pub. L. 104–106, div. A, title V, § 569(a), Feb. 10, 1996, 110 Stat. 336, pro
 (3) **Gift.—** — The term “gift” includes a devise or bequest.
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, except as otherwise provided in title XVIII of Pub. L. 116–283, in title 10, United States Code, each reference in the text of such title to a source section that is redesignated by title XVIII of Pub. L. 116–283, is amended by striking such reference and inserting a reference to the appropriate section as so redesignated. See 2021 Amendment note below.
 
 #### Amendments
 2021—Subsec. (c)(2). Pub. L. 116–283 substituted “3201(e) of this title” for “2304(k) of this title” and “3204(a)(5) of this title” for “2304(c)(5) of this title”.

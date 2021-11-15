@@ -125,6 +125,7 @@ Pub. L. 100–387, title IV, § 402, as added Pub. L. 101–82, title V, § 503,
 
 ### Statutory Notes
 
+#### Editorial Notes
 2018—Pub. L. 115–334, § 2403(e), inserted section catchline; designated first, third, and fourth sentences as subsecs. (a), (c), and (d), respectively, and inserted headings; in subsec. (a), inserted “, to remain available until expended” before period at end; in subsec. (c), substituted “In implementing this chapter” for “In implementing the provisions of this chapter”; in subsec. (d), substituted “The Commodity Credit Corporation” for “The Corporation”; added subsec. (b); and struck out former second sentence which read as follows: “Such funds shall remain available until expended.”
 
 Pub. L. 115–334, § 2403(a)(2)(A), substituted “Secretary” for“Secretary of Agriculture” in third sentence.

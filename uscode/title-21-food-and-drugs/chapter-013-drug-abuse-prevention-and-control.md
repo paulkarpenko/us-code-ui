@@ -39,6 +39,11 @@ This subchapter, referred to in par. (1), was in the original “this title”, 
 #### Effective Date
 Pub. L. 91–513, title II, § 704, Oct. 27, 1970, 84 Stat. 1284, provided that: “(a) Except as otherwise provided in this section, this title [see Short Title note below] shall become effective on the first day of the seventh calendar month that begins after the day immediately preceding the date of enactment [Oct. 27, 1970]. “(b) Parts A, B, E, and F of this title [Parts A, B, E, and F of this subchapter], section 702 [set out as a note under [section 321 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-321)], this section, and sections 705 through 709 [sections 901 to 904 of this title and note set out below], shall become effective upon enactment [Oct. 27, 1970]. “(c) Sections 305 (relating to labels and labeling) [[section 825 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-825)], and 306 (relating to manufacturing quotas) [[section 826 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-826)] shall become effective on the date specified in subsection (a) of this section, except that the Attorney General may by order published in the Federal Register postpone the effective date of either or both of these sections for such period as he may determine to be necessary for the efficient administration of this title [see Short Title note below].”
 
+#### Short Title of 2021 Amendment
+Pub. L. 117–53, § 1, Nov. 10, 2021, 135 Stat. 411, provided that: “This Act [amending [section 822 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-822)] may be cited as the ‘Ensuring Compliance Against Drug Diversion Act of 2021’.”
+
+Pub. L. 117–36, § 1, Aug. 6, 2021, 135 Stat. 328, provided that: “This Act [amending [section 824 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-824)] may be cited as the ‘Debarment Enforcement of Bad Actor Registrants Act of 2021’ or the ‘DEBAR Act of 2021’.”
+
 #### Short Title of 2018 Amendment
 Pub. L. 115–271, title III, § 3211, Oct. 24, 2018, 132 Stat. 3947, provided that: “This chapter [chapter 2 (§§ 3211, 3212) of subtitle B of title III of Pub. L. 115–271, enacting provisions set out as a note under [section 829 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-829)] may be cited as the ‘Empowering Pharmacists in the Fight Against Opioid Abuse Act’.”
 
@@ -1740,7 +1745,7 @@ Schedule III
 
 (1) Any substance which contains any quantity of a derivative of barbituric acid, or any salt of a derivative of barbituric acid.
 
-(2) Chorhexadol.
+(2) Chorhexadol. 44 So in original. Probably should be “Chlorhexadol.”
 
 (3) Glutethimide.
 
@@ -1958,6 +1963,30 @@ Section effective on first day of seventh calendar month that begins after Oct. 
 
 (2) Every person who dispenses, or who proposes to dispense, any controlled substance, shall obtain from the Attorney General a registration issued in accordance with the rules and regulations promulgated by him. The Attorney General shall, by regulation, determine the period of such registrations. In no event, however, shall such registrations be issued for less than one year nor for more than three years.
 
+(3)
+
+  (A) Except as provided in subparagraph (C), the registration of any registrant under this subchapter to manufacture, distribute, or dispense controlled substances or list I chemicals terminates if and when such registrant—
+
+    (i) dies;
+
+    (ii) ceases legal existence;
+
+    (iii) discontinues business or professional practice; or
+
+    (iv) surrenders such registration.
+
+  (B) In the case of such a registrant who ceases legal existence or discontinues business or professional practice, such registrant shall promptly notify the Attorney General in writing of such fact.
+
+  (C) No registration under this subchapter to manufacture, distribute, or dispense controlled substances or list I chemicals, and no authority conferred thereby, may be assigned or otherwise transferred except upon such conditions as the Attorney General may specify and then only pursuant to written consent. A registrant to whom a registration is assigned or transferred pursuant to the preceding sentence may not manufacture, distribute, or dispense controlled substances or list I chemicals pursuant to such registration until the Attorney General receives such written consent.
+
+  (D) In the case of a registrant under this subchapter to manufacture, distribute, or dispense controlled substances or list I chemicals desiring to discontinue business or professional practice altogether or with respect to controlled substances and list I chemicals (without assigning or transferring such business or professional practice to another entity), such registrant shall return to the Attorney General for cancellation—
+
+    (i) the registrant’s certificate of registration;
+
+    (ii) any unexecuted order forms in the registrant’s possession; and
+
+    (iii) any other documentation that the Attorney General may require.
+
 **(b) Authorized activities** Persons registered by the Attorney General under this subchapter to manufacture, distribute, or dispense controlled substances or list I chemicals are authorized to possess, manufacture, distribute, or dispense such substances or chemicals (including any such activity in the conduct of research) to the extent authorized by their registration and in conformity with the other provisions of this subchapter.
 
 **(c) Exceptions** The following persons shall not be required to register and may lawfully possess any controlled substance or list I chemical under this subchapter:
@@ -2047,11 +2076,13 @@ Section effective on first day of seventh calendar month that begins after Oct. 
 ### Statutory Notes
 
 #### References in Text
-This subchapter, referred to in subsecs. (b), (c), and (g)(1), was in the original “this title”, meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, and is popularly known as the “Controlled Substances Act”. For complete classification of title II to the Code, see second paragraph of Short Title note set out under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801) and Tables.
+This subchapter, referred to in subsecs. (a)(3), (b), (c), and (g)(1), was in the original “this title”, meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, and is popularly known as the “Controlled Substances Act”. For complete classification of title II to the Code, see second paragraph of Short Title note set out under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801) and Tables.
 
 [Section 802(25) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section802/25&num=0&edition=prelim), referred to in subsec. (c)(3), was redesignated [section 802(26) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section802/26&num=0&edition=prelim) by Pub. L. 98–473, title II, § 507(a), Oct. 12, 1984, 98 Stat. 2071, and was further redesignated [section 802(27) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section802/27&num=0&edition=prelim) by Pub. L. 99–570, title I, § 1003(b)(2), Oct. 27, 1986, 100 Stat. 3207–6.
 
 #### Amendments
+2021—Subsec. (a)(3). Pub. L. 117–53 added par. (3).
+
 2018—Subsec. (g)(5). Pub. L. 115–271 added par. (5).
 
 2014—Subsec. (e). Pub. L. 113–143 designated existing provisions as par. (1) and added par. (2).
@@ -2683,14 +2714,22 @@ A registration pursuant to [section 823(g)(1) of this title](https://uscode.hous
 
 **(g) Seizure or placement under seal of controlled substances or list I chemicals** The Attorney General may, in his discretion, seize or place under seal any controlled substances or list I chemicals owned or possessed by a registrant whose registration has expired or who has ceased to practice or do business in the manner contemplated by his registration. Such controlled substances or list I chemicals shall be held for the benefit of the registrant, or his successor in interest. The Attorney General shall notify a registrant, or his successor in interest, who has any controlled substance or list I chemical seized or placed under seal of the procedures to be followed to secure the return of the controlled substance or list I chemical and the conditions under which it will be returned. The Attorney General may not dispose of any controlled substance or list I chemical seized or placed under seal under this subsection until the expiration of one hundred and eighty days from the date such substance or chemical was seized or placed under seal.
 
+**(h) Order to prohibit registration based on prior history** The Attorney General may issue an order to prohibit, conditionally or unconditionally, and permanently or for such period as the Attorney General may determine, any person from being registered under this subchapter to manufacture, distribute, or dispense a controlled substance or a list I chemical, if the Attorney General finds that—
+
+(1) such person meets or has met any of the conditions for suspension or revocation of registration under subsection (a); and
+
+(2) such person has a history of prior suspensions or revocations of registration.
+
 ### Statutory Notes
 
 #### References in Text
-This subchapter, referred to in subsecs. (a)(1), (2), (c)(4), and (d)(2), was in the original “this title”, meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, and is popularly known as the “Controlled Substances Act”. For complete classification of title II to the Code, see second paragraph of Short Title note set out under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801) and Tables.
+This subchapter, referred to in subsecs. (a)(1), (2), (c)(4), (d)(2), and (h), was in the original “this title”, meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, and is popularly known as the “Controlled Substances Act”. For complete classification of title II to the Code, see second paragraph of Short Title note set out under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801) and Tables.
 
 Subchapter II, referred to in subsecs. (a)(1), (2) and (d)(2), was in the original “title III”, meaning title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285. Part A of title III comprises subchapter II of this chapter. For classification of Part B, consisting of sections 1101 to 1105 of title III, see Tables.
 
 #### Amendments
+2021—Subsec. (h). Pub. L. 117–36 added subsec. (h).
+
 2016—Subsec. (c). Pub. L. 114–145, § 2(b), struck out “The order to show cause shall contain a statement of the basis thereof and shall call upon the applicant or registrant to appear before the Attorney General at a time and place stated in the order, but in no event less than thirty days after the date of receipt of the order. Proceedings to deny, revoke, or suspend shall be conducted pursuant to this section in accordance with subchapter II of chapter 5 of title 5. Such proceedings shall be independent of, and not in lieu of, criminal prosecutions or other proceedings under this subchapter or any other law of the United States.” after “denied, revoked, or suspended.”, designated existing provisions as par. (1), and added pars. (2) to (5).
 
 Subsec. (d). Pub. L. 114–145, § 2(a)(2), designated existing provisions as par. (1) and added par. (2).
@@ -6043,14 +6082,14 @@ Amendment by section 6059 of Pub. L. 100–690 effective 120 days after Nov. 18,
 
 Pub. L. 100–690, title VI, § 6077(c), Nov. 18, 1988, 102 Stat. 4325, as amended by Pub. L. 101–162, title II, § 208, Nov. 21, 1989, 103 Stat. 1005, provided that: “Section 551(e)(3)(B) of the Controlled Substances Act [probably means section 511(e)(3)(B) of the Controlled Substances Act, [21 U.S.C. 881(e)(3)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section881/e/3/B&num=0&edition=prelim)], as enacted by subsection (a), shall apply with respect to fiscal years beginning after September 30, 1991.”
 
-#### Transfer of Functions
-Bureau of Narcotics and Dangerous Drugs, including office of Director thereof, in Department of Justice abolished by Reorg. Plan No. 2 of 1973, eff. July 1, 1973, 38 F.R. 15932, 87 Stat. 1091, set out in the Appendix to Title 5, Government Organization and Employees. Reorg. Plan No. 2 of 1973 also created in Department of Justice a single, comprehensive agency for enforcement of drug laws to be known as Drug Enforcement Administration, empowered Attorney General to authorize performance by officers, employees, and agencies of Department of functions transferred to him, and directed Attorney General to coordinate all drug law enforcement functions to assure maximum cooperation between Drug Enforcement Administration, Federal Bureau of Investigation, and other units of Department of Justice involved in drug law enforcement.
-
 #### Constructive Seizure Procedures
 Pub. L. 101–225, title II, § 210, Dec. 12, 1989, 103 Stat. 1913, provided that: “Not later than 6 months after the date of enactment of this Act [Dec. 12, 1989], the Secretary of Transportation and the Secretary of the Treasury, in order to avoid the devastating economic effects on innocent owners of seizures of their vessels, shall develop a procedure for constructive seizure of vessels of the United States engaged in commercial service as defined in [section 2101 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section2101&num=0&edition=prelim), United States Code, that are suspected of being used for committing violations of law involving personal use quantities of controlled substances.”
 
 #### Regulations for Expedited Administrative Forfeiture Procedures
 Pub. L. 100–690, title VI, § 6079, Nov. 18, 1988, 102 Stat. 4325, provided that: “(a) In General.—Not later than 90 days after the date of enactment of this Act [Nov. 18, 1988], the Attorney General and the Secretary of the Treasury shall consult, and after providing a 30-day public comment period, shall prescribe regulations for expedited administrative procedures for seizures under section 511(a)(4), (6), and (7) of the Controlled Substances Act ([21 U.S.C. 881(a)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section881/a/4&num=0&edition=prelim), (6), and (7)); section 596 of the Tariff Act of 1930 ([19 U.S.C. 1595a(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1595a/a&num=0&edition=prelim)); and section 2 of the Act of August 9, 1939 (53 Stat. 1291; 49 U.S.C. App. 782 [now [49 U.S.C. 80303](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section80303&num=0&edition=prelim)]) for violations involving the possession of personal use quantities of a controlled substance. “(b) Specifications.—The regulations prescribed pursuant to subsection (a) shall—“(1) minimize the adverse impact caused by prolonged detention, and “(2) provide for a final administrative determination of the case within 21 days of seizure, or provide a procedure by which the defendant can obtain release of the property pending a final determination of the case. Such regulations shall provide that the appropriate agency official rendering a final determination shall immediately return the property if the following conditions are established:“(A) the owner or interested party did not know of or consent to the violation; “(B) the owner establishes a valid, good faith interest in the seized property as owner or otherwise; and “(C)(1) the owner establishes that the owner at no time had any knowledge or reason to believe that the property in which the owner claims an interest was being or would be used in a violation of the law; and “(2) if the owner at any time had, or should have had, knowledge or reason to believe that the property in which the owner claims an interest was being or would be used in a violation of the law, that the owner did what reasonably could be expected to prevent the violation. An owner shall not have the seized property returned under this subsection if the owner had not acted in a normal and customary manner to ascertain how the property would be used. “(c) Notice.—At the time of seizure or upon issuance of a summons to appear under subsection (d), the officer making the seizure shall furnish to any person in possession of the conveyance a written notice specifying the procedures under this section. At the earliest practicable opportunity after determining ownership of the seized conveyance, the head of the department or agency that seizes the conveyance shall furnish a written notice to the owner and other interested parties (including lienholders) of the legal and factual basis of the seizure. “(d) Summons in Lieu of Seizure of Commercial Fishing Industry Vessels.—Not later than 90 days after the enactment of this Act [Nov. 18, 1988], the Attorney General, the Secretary of the Treasury, and the Secretary of Transportation shall prescribe joint regulations, after a public comment period of at least 30 days, providing for issuance of a summons to appear in lieu of seizure of a commercial fishing industry vessel as defined in section 2101(11a), (11b), and (11c) [now 2101(12), (13), and (14)] of title 46, United States Code, for violations involving the possession of personal use quantities of a controlled substance. These regulations shall apply when the violation is committed on a commercial fishing industry vessel that is proceeding to or from a fishing area or intermediate port of call, or is actively engaged in fishing operations. The authority provided under this section shall not affect existing authority to arrest an individual for drug-related offenses or to release that individual into the custody of the vessel’s master. Upon answering a summons to appear, the procedures set forth in subsections (a), (b), and (c) of this section shall apply. The jurisdiction of the district court for any forfeiture incurred shall not be affected by the use of a summons under this section. “(e) Personal Use Quantities of a Controlled Substance.—For the purposes of this section, personal use quantities of a controlled substance shall not include sweepings or other evidence of non-personal use amounts.”
+
+#### Transfer of Functions
+Bureau of Narcotics and Dangerous Drugs, including office of Director thereof, in Department of Justice abolished by Reorg. Plan No. 2 of 1973, eff. July 1, 1973, 38 F.R. 15932, 87 Stat. 1091, set out in the Appendix to Title 5, Government Organization and Employees. Reorg. Plan No. 2 of 1973 also created in Department of Justice a single, comprehensive agency for enforcement of drug laws to be known as Drug Enforcement Administration, empowered Attorney General to authorize performance by officers, employees, and agencies of Department of functions transferred to him, and directed Attorney General to coordinate all drug law enforcement functions to assure maximum cooperation between Drug Enforcement Administration, Federal Bureau of Investigation, and other units of Department of Justice involved in drug law enforcement.
 
 
 <a id="section-881-1-881a"></a>

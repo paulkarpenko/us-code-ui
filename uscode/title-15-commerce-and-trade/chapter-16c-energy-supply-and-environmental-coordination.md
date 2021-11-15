@@ -119,7 +119,7 @@ Executive Order 10485 of September 3, 1953, referred to in subsec. (d), is Ex. O
 “Department of Health and Human Services” substituted for “Department of Health, Education, and Welfare” in subsec. (b), pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
 #### Transfer of Functions
-Federal Power Commission terminated and functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a)(1), 7291, and 7293 of Title 42, The Public Health and Welfare.
+The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a)(1), 7291, and 7293 of Title 42, The Public Health and Welfare.
 
 
 <a id="section-794"></a>
@@ -262,7 +262,7 @@ Pub. L. 94–163, title V, § 505(b), Dec. 22, 1975, 89 Stat. 960, provided that
 #### Transfer of Functions
 Federal Energy Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of Title 42, The Public Health and Welfare.
 
-Federal Power Commission terminated and functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a)(1), 7291, and 7293 of Title 42.
+The Federal Power Commission was terminated and its functions, personnel, property, funds, etc., were transferred to Secretary of Energy (except for certain functions transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a)(1), 7291, and 7293 of Title 42.
 
 
 <a id="section-797"></a>

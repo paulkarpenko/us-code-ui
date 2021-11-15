@@ -147,6 +147,9 @@ Subsec. (b)(3). Pub. L. 100–461 struck out par. (3) which read as follows: “
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under [section 2651a of this title](./chapter-038-department-of-state.md#section-2651a).
 
+#### Overseas Security Briefings
+Pub. L. 117–81, div. E, title LII, § 5210, Dec. 27, 2021, 135 Stat. 2358, provided that: “Not later than one year after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of State shall revise the Foreign Affairs Manual to stipulate that information on the current threat environment shall be provided to all United States Government employees under chief of mission authority traveling to a foreign country on official business. To the extent practicable, such material shall be provided to such employees prior to their arrival at a United States diplomatic post or as soon as possible thereafter.”
+
 #### Direct Reporting
 Pub. L. 114–323, title I, § 103, Dec. 16, 2016, 130 Stat. 1909, provided that: “The Assistant Secretary for Diplomatic Security shall report directly to the Secretary [of State], without being required to obtain the approval or concurrence of any other official of the Department [of State], as threats and circumstances require.”
 
@@ -387,13 +390,13 @@ This Act, referred to in text, is Pub. L. 99–399, Aug. 27, 1986, 100 Stat. 853
 
 (2) **Department of Defense facilities and personnel** — The Secretary of State is not required to convene a Board in the case of an incident described in paragraph (1) that involves any facility, installation, or personnel of the Department of Defense with respect to which the Secretary has delegated operational control of overseas security functions to the Secretary of Defense pursuant to [section 4805 of this title](./chapter-058-diplomatic-security.md#section-4805). In any such case, the Secretary of Defense shall conduct an appropriate inquiry. The Secretary of Defense shall report the findings and recommendations of such inquiry, and the action taken with respect to such recommendations, to the Secretary of State and Congress.
 
-(3) **Facilities in Afghanistan and Iraq**
+(3) **Facilities in Afghanistan, Yemen, Syria, and Iraq**
 
   (A) *Limited exemptions from requirement to convene Board* — The Secretary of State is not required to convene a Board in the case of an incident that—
 
-    (i) involves serious injury, loss of life, or significant destruction of property at, or related to, a United States Government mission in Afghanistan or Iraq; and
+    (i) involves serious injury, loss of life, or significant destruction of property at, or related to, a United States Government mission in Afghanistan, Yemen, Syria, or Iraq; and
 
-    (ii) occurs during the period beginning on October 1, 2005, and ending on September 30, 2009.
+    (ii) occurs during the period beginning on October 1, 2020, and ending on September 30, 2022.
 
   (B) *Reporting requirements* — In the case of an incident described in subparagraph (A), the Secretary shall—
 
@@ -423,6 +426,12 @@ This Act, referred to in text, is Pub. L. 99–399, Aug. 27, 1986, 100 Stat. 853
 This chapter, referred to in subsec. (a)(1), was in the original “titles I through IV”, meaning titles I through IV of Pub. L. 99–399, Aug. 27, 1986, 100 Stat. 855, known as the Diplomatic Security Act, which is classified principally to this chapter. For complete classification of titles I through IV of Pub. L. 99–399 to the Code, see Short Title note set out under [section 4801 of this title](./chapter-058-diplomatic-security.md#section-4801) and Tables.
 
 #### Amendments
+2021—Subsec. (a)(3). Pub. L. 117–81, § 5316(1), substituted “Afghanistan, Yemen, Syria, and” for “Afghanistan and” in heading.
+
+Subsec. (a)(3)(A)(i). Pub. L. 117–81, § 5316(2)(A), substituted “Afghanistan, Yemen, Syria, or” for “Afghanistan or”.
+
+Subsec. (a)(3)(A)(ii). Pub. L. 117–81, § 5316(2)(B), substituted “beginning on October 1, 2020, and ending on September 30, 2022” for “beginning on October 1, 2005, and ending on September 30, 2009”.
+
 2005—Subsec. (a)(1). Pub. L. 109–140, § 3(1), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
 
 Subsec. (a)(3). Pub. L. 109–140, § 3(2), added par. (3).
@@ -470,11 +479,11 @@ Pub. L. 111–117, div. F, title VII, § 7034(r), Dec. 16, 2009, 123 Stat. 3363.
 
 ### Statutory Notes
 
-#### References in Other Laws to GS–16, 17, or 18 Pay Rates
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under [section 5376 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).
-
 #### Change of Name
 Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under [section 3001 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3001&num=0&edition=prelim), War and National Defense.
+
+#### References in Other Laws to GS–16, 17, or 18 Pay Rates
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under [section 5376 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).
 
 
 <a id="section-4833"></a>
@@ -643,6 +652,11 @@ Subsec. (h)(3). Pub. L. 103–236, § 122(b), struck out heading and text of par
 #### Effective Date of 1994 Amendment
 Pub. L. 103–236, title I, § 101(c), Apr. 30, 1994, 108 Stat. 388, provided that the amendment made by that section is effective Oct. 1, 1995.
 
+#### Embassy Security Requests and Deficiencies
+Pub. L. 117–81, div. E, title LII, § 5209, Dec. 27, 2021, 135 Stat. 2357, provided that: “The Secretary of State shall provide to the appropriate congressional committees, the Committee on Armed Services of the House of Representatives, and the Committee on Armed Services of the Senate upon request information on physical security deficiencies at United States diplomatic posts, including relating to the following: “(1) Requests made over the previous year by United States diplomatic posts for security upgrades. “(2) Significant security deficiencies at United States diplomatic posts that are not operating out of a new embassy compound or new consulate compound.”
+
+[For definition of “appropriate congressional committees” as used in section 5209 of Pub. L. 117–81, set out above, see section 5002 of Pub. L. 117–81, set out as a note under [section 263c of this title](./chapter-007-international-bureaus-congresses-etc.md#section-263c).]
+
 #### Construction Security Certification
 Pub. L. 100–204, title I, § 160, Dec. 22, 1987, 101 Stat. 1356, as amended by Pub. L. 101–246, title I, § 135, Feb. 16, 1990, 104 Stat. 33, provided that: “(a) Certification.—Before undertaking any new construction or major renovation project in any foreign facility intended for the storage of classified materials or the conduct of classified activities, or approving occupancy of a similar facility for which construction or major renovation began before the effective date of this section [Dec. 22, 1987], the Secretary of State, after consultation with the Director of Central Intelligence, shall certify to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate that—“(1) appropriate and adequate steps have been taken to ensure the security of the construction project (including an evaluation of how all security-related factors with respect to such project are being addressed); “(2) the facility resulting from such project incorporates—“(A) adequate measures for protecting classified information and national security-related activities; and “(B) adequate protection for the personnel working in the diplomatic facility; and “(3) a plan has been put into place for the continued evaluation and maintenance of adequate security at such facility, which plan shall specify the physical security methods and technical countermeasures necessary to ensure secure operations, including any personnel requirements for such purposes. “(b) Availability of Documentation.—All documentation with respect to a certification referred to in subsection (a) and any dissenting views thereto shall be available, in an appropriately classified form, to the Chairman of the Committee on Foreign Affairs of the House of Representatives and the Chairman of the Committee on Foreign Relations of the Senate. “(c) Director of Central Intelligence.—The Director of Central Intelligence shall provide to the Secretary of State such assistance with respect to the implementation of this section as the Secretary of State may request. “(d) Dissenting Views.—If the Director of Central Intelligence disagrees with the Secretary of State with respect to any project certification made pursuant to subsection (a), the Director shall submit in writing disagreeing views to the Secretary of State.”
 
@@ -686,7 +700,7 @@ Pub. L. 99–500, § 101(b) [title III, § 302], Oct. 18, 1986, 100 Stat. 1783�
 
   (D) has performed within the United States or at a United States diplomatic or consular establishment abroad administrative and technical, professional, or construction services similar in complexity, type of construction, and value to the project being bid;
 
-  (E) with respect to a construction project under subsection (a)(1), has achieved total business volume equal to or greater than the value of the project being bid in 3 years of the 5-year period before the date specified in subparagraph (C)(i);
+  (E) with respect to a construction project under subsection (a)(1), has achieved total business volume equal to or greater than the value of the project being bid cumulatively over 3 years of the 5-year period before the date specified in subparagraph (C)(i);
 
   (F)
 
@@ -712,6 +726,8 @@ Pub. L. 99–500, § 101(b) [title III, § 302], Oct. 18, 1986, 100 Stat. 1783�
 Title II of the State Department Basic Authorities Act of 1956, referred to in subsec. (b), is title II of act Aug. 1, 1956, ch. 841, as added Aug. 24, 1982, Pub. L. 97–241, title II, § 202(b), 96 Stat. 283, known as the Foreign Missions Act, which is classified principally to chapter 53 (§ 4301 et seq.) of this title. For complete classification of title II to the Code, see Short Title note set out under [section 4301 of this title](./chapter-053-authorities-relating-to-the-regulation-of-foreign-missions.md#section-4301) and Tables.
 
 #### Amendments
+2021—Subsec. (c)(2)(E). Pub. L. 117–81 substituted “cumulatively over 3 years” for “in 3 years”.
+
 2002—Subsec. (c)(2)(D). Pub. L. 107–228 inserted “or at a United States diplomatic or consular establishment abroad” after “United States”.
 
 1994—Subsec. (a)(2). Pub. L. 103–236 substituted “Secretary of State” for “Assistant Secretary for Diplomatic Security”.

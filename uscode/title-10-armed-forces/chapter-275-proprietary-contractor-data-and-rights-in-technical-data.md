@@ -104,6 +104,42 @@ source: >-
 
 ### Statutory Notes
 
+#### Codification
+The text of subsec. (a) of [section 2320 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2320&num=0&edition=prelim), which was transferred to this section and amended by Pub. L. 116–283, § 1833(b), was based on Pub. L. 98–525, title XII, § 1216(a), Oct. 19, 1984, 98 Stat. 2595; Pub. L. 98–577, title III, § 301(b), Oct. 30, 1984, 98 Stat. 3076; Pub. L. 99–145, title IX, § 961(d)(1), Nov. 8, 1985, 99 Stat. 703; Pub. L. 99–500, § 101(c) [title X, § 953(a)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–169, and Pub. L. 99–591, § 101(c) [title X, § 953(a)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–169; Pub. L. 99–661, div. A, title IX, formerly title IV, § 953(a), Nov. 14, 1986, 100 Stat. 3949, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, § 7(a)(4), Apr. 21, 1987, 101 Stat. 275; Pub. L. 100–180, div. A, title VIII, § 808(a), Dec. 4, 1987, 101 Stat. 1128; Pub. L. 101–189, div. A, title VIII, § 853(b)(2), Nov. 29, 1989, 103 Stat. 1518; Pub. L. 111–383, div. A, title VIII, § 824(b), Jan. 7, 2011, 124 Stat. 4269; Pub. L. 112–81, div. A, title VIII, § 815(a)(1), Dec. 31, 2011, 125 Stat. 1491; Pub. L. 114–328, div. A, title VIII, § 809(a), (b), (e), Dec. 23, 2016, 130 Stat. 2266, 2267; Pub. L. 116–283, div. A, title VIII, § 804(b)(2)(A)(i), Jan. 1, 2021, 134 Stat. 3738. Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 generally amended section 2320(a) substantially identically; as executed, text reflected amendment by Pub. L. 99–661.
+
+#### Amendments
+2021—Pub. L. 116–283, § 1833(b)(1), (2)(A), transferred subsec. (a) of [section 2320 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2320&num=0&edition=prelim) to this section, effectively redesignated par. (1) as subsec. (a), and redesignated pars. (2) and (3) as subsecs. (b) and (c), respectively.
+
+Subsec. (a). Pub. L. 116–283, § 1833(b)(2)(A), (B)(i), after redesignation of par. (1) of [section 2320(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2320/a&num=0&edition=prelim) as subsec. (a) of this section, inserted subsec. heading and, in existing provisions, designated first two sentences as par. (1) and the remainder as par. (2) and inserted par. headings. Amendment designating “the third sentence as paragraph (2)” was executed by including the fourth sentence within par. (2) as well, to reflect the probable intent of Congress.
+
+Subsec. (a)(2). Pub. L. 116–283, § 1833(b)(2)(B), substituted “Regulations prescribed under paragraph (1) may not” for “Such regulations may not”, inserted dash after “impair”, reorganized remainder of text into designated subpars. (A) and (B), and, at end of subpar. (A), substituted “by law; or” for “by law. Such regulations also may not impair”.
+
+Subsec. (b). Pub. L. 116–283, § 1833(b)(3)(A), (B), after redesignation of par. (2) of [section 2320(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2320/a&num=0&edition=prelim) as subsec. (b) of this section, inserted heading, substituted “Regulations prescribed under subsection (a)” for “Such regulations” in introductory provisions, and redesignated subpars. (A) to (I) as pars. (1) to (9), respectively.
+
+Subsec. (b)(1). Pub. L. 116–283, § 1833(b)(3)(C), redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively.
+
+Subsec. (b)(2). Pub. L. 116–283, § 1833(b)(3)(D), substituted “paragraphs (3), (4), and (7)” for “subparagraphs (C), (D), and (G)”.
+
+Subsec. (b)(3). Pub. L. 116–283, § 1833(b)(3)(E), substituted “paragraph (2)” for “subparagraph (b)” in heading and “Paragraph (2) does not” for “Subparagraph (B) does not” in introductory provisions and redesignated cls. (i) to (iv) as subpars. (A) to (D), respectively.
+
+Subsec. (b)(4). Pub. L. 116–283, § 1833(b)(3)(F), substituted “paragraph (2)” for “subparagraph (b)” in heading and “Notwithstanding paragraph (2)” for “Notwithstanding subparagraph (B)” in introductory provisions and redesignated cl. (i), its subcls. (I) to (III), cl. (ii), and cl. (iii) as subpar. (A), cls. (i) to (iii), subpar. (B), and subpar. (C), respectively.
+
+Subsec. (b)(5). Pub. L. 116–283, § 1833(b)(3)(G), in existing provisions, designated first sentence as subpar. (A), inserted heading, and substituted “Except as provided in paragraphs (6) and (7),” for “Except as provided in subparagraphs (F) and (G),” and designated second sentence as subpar. (B), inserted heading, and realigned margin.
+
+Subsec. (b)(6). Pub. L. 116–283, § 1833(b)(3)(H), substituted “paragraph (5)” for “subparagraph (E)”.
+
+Subsec. (b)(7). Pub. L. 116–283, § 1833(b)(3)(I), in existing provisions, designated first sentence as subpar. (A) and substituted “Notwithstanding paragraphs (2) and (5)” for “Notwithstanding subparagraphs (B) and (E)” and “section 4401” for “section 2446a” and designated second and third sentences as subpars. (B) and (C), respectively.
+
+Subsec. (b)(8). Pub. L. 116–283, § 1833(b)(3)(J)(i), (ii), inserted heading and redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively.
+
+Subsec. (b)(8)(A). Pub. L. 116–283, § 1833(b)(3)(J)(iii)–(vi), redesignated subcl. (I) as cl. (i) and substituted “paragraph (1)” for “subparagraph (A)”, redesignated subcl. (II) as cl. (ii) and substituted “paragraph (3)” for “subparagraph (C)”, and redesignated subcl. (III) as cl. (iii) and substituted “paragraph (4)” for “subparagraph (D)”.
+
+Subsec. (b)(8)(B). Pub. L. 116–283, § 1833(b)(3)(J)(vii), substituted “paragraph (2)” for “subparagraph (B)”.
+
+Subsec. (b)(9). Pub. L. 116–283, § 1833(b)(3)(K), inserted heading, redesignated cl. (i) as subpar. (A) and substituted “paragraph (3) or (4)” for “subparagraph (C) or (D)”, redesignated cl. (ii) as subpar. (B) and substituted “this subchapter” for “this section”, and redesignated cl. (iii) as subpar. (C).
+
+Subsec. (c). Pub. L. 116–283, § 1833(b)(4), inserted heading, substituted “subsection (a)” for “paragraph (1)” and “this subsection” for “this paragraph”, inserted dash after “terms, the Secretary”, and reorganized remainder of text into designated pars. (1) and (2).
+
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
@@ -148,7 +184,7 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 (10) providing that the United States is not foreclosed from requiring the delivery of the technical data by a failure to challenge, in accordance with the requirements of [section 3782 of this title](./chapter-275-proprietary-contractor-data-and-rights-in-technical-data.md#section-3782), the contractor’s assertion of a use or release restriction on the technical data.
 
-**(b)** Nothing in this subchapter or in section 3208 11 Amendment by section 1833(c)(3)(A) of Pub. L. 116–283 executed to reflect the probable intent of Congress. of this title prohibits the Secretary of Defense from—
+**(b)** Nothing in this subchapter or in [section 3208 of this title](./chapter-221-planning-and-solicitation-generally.md#section-3208) prohibits the Secretary of Defense from—
 
 (1) prescribing standards for determining whether a contract entered into by the Department of Defense shall provide for a time to be specified in the contract after which the United States shall have the right to use (or have used) for any purpose of the United States all technical data required to be delivered to the United States under the contract or providing for such a period of time (not to exceed 7 years) as a negotiation objective;
 
@@ -157,6 +193,30 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 (3) prescribing reasonable and flexible guidelines, including negotiation objectives, for the conduct of negotiations regarding the respective rights in technical data of the United States and the contractor.
 
 ### Statutory Notes
+
+#### Codification
+The text of subsec. (b) of [section 2320 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2320&num=0&edition=prelim), which was transferred to this section, redesignated as subsec. (a), and amended by Pub. L. 116–283, § 1833(c)(1), (2), was based on Pub. L. 98–525, title XII, § 1216(a), Oct. 19, 1984, 98 Stat. 2596; Pub. L. 103–355, title VIII, § 8106(a), Oct. 13, 1994, 108 Stat. 3393; Pub. L. 108–136, div. A, title VIII, § 844, Nov. 24, 2003, 117 Stat. 1553; Pub. L. 112–81, div. A, title VIII, 815(a), Dec. 31, 2011, 125 Stat. 1492; Pub. L. 114–328, div. A, title VIII, § 809(c), Dec. 23, 2016, 130 Stat. 2267; Pub. L. 115–232, div. A, title VIII, § 836(c)(7), Aug. 13, 2018, 132 Stat. 1866.
+
+The text of subsec. (c) of [section 2320 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2320&num=0&edition=prelim), which was transferred to this section, redesignated as subsec. (b), and amended by Pub. L. 116–283, § 1833(c)(1), (3), was based on Pub. L. 98–525, title XII, § 1216(a), Oct. 19, 1984, 98 Stat. 2596; Pub. L. 100–180, div. A, title VIII, § 808(b), Dec. 4, 1987, 101 Stat. 1130; Pub. L. 111–84, div. A, title VIII, § 821(a), Oct. 28, 2009, 123 Stat. 2411; Pub. L. 111–383, div. A, title VIII, § 801(a)(1), Jan. 7, 2011, 124 Stat. 4253; Pub. L. 112–81, div. A, title VIII, § 802(b)(1), Dec. 31, 2011, 125 Stat. 1485.
+
+#### Amendments
+2021—Subsec. (a). Pub. L. 116–283, § 1833(c)(1), (2)(A)–(C), redesignated subsec. (b) of [section 2320 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2320&num=0&edition=prelim) as subsec. (a) of this section, inserted heading, and substituted “[section 3771 of this title](./chapter-275-proprietary-contractor-data-and-rights-in-technical-data.md#section-3771)” for “subsection (a)” and “section 3063” for “section 2303” in introductory provisions.
+
+Subsec. (a)(1). Pub. L. 116–283, § 1833(c)(2)(D), substituted “section 3784” for “section 2321(f)”.
+
+Subsec. (a)(6). Pub. L. 116–283, § 1833(c)(2)(E), inserted dash after “the contractor” and reorganized remainder of text into designated subpars. (A) and (B).
+
+Subsec. (a)(7). Pub. L. 116–283, § 1833(c)(2)(F), inserted dash after “is found” and reorganized remainder of text into designated subpars. (A) and (B).
+
+Subsec. (a)(9)(B)(ii). Pub. L. 116–283, § 1833(c)(2)(G), substituted “paragraphs (4)(A)(ii), (6), and (7) of [section 3771(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3771/b&num=0&edition=prelim)” for “subparagraphs (D)(i)(II), (F), and (G) of subsection (a)(2)”.
+
+Subsec. (a)(10). Pub. L. 116–283, § 1833(c)(2)(H), substituted “section 3782” for “section 2321(d)”.
+
+Subsec. (b). Pub. L. 116–283, § 1833(c)(3)(A), which directed substitution of “in this subchapter or in section 3208” for “in this section or in section 2305(a)”, was executed by making the substitution for “in this section or in section 2305(d)” in introductory provisions to reflect the probable intent of Congress.
+
+Pub. L. 116–283, § 1833(c)(1) redesignated subsec. (c) of [section 2320 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2320&num=0&edition=prelim) as subsec. (b) of this section.
+
+Subsec. (b)(2). Pub. L. 116–283, § 1833(c)(3)(B), substituted “[section 3771 of this title](./chapter-275-proprietary-contractor-data-and-rights-in-technical-data.md#section-3771)” for “subsection (a)”.
 
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -168,6 +228,12 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 The Secretary of Defense shall by regulation establish programs which provide domestic business concerns an opportunity to purchase or borrow replenishment parts from the United States for the purpose of design replication or modification, to be used by such concerns in the submission of subsequent offers to sell the same or like parts to the United States. Nothing in this section limits the authority of the head of an agency to impose restrictions on such a program related to national security considerations, inventory needs of the United States, the improbability of future purchases of the same or like parts, or any additional restriction otherwise required by law.
 
 ### Statutory Notes
+
+#### Codification
+The text of subsec. (d) of [section 2320 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2320&num=0&edition=prelim), which was transferred to this section and amended by Pub. L. 116–283, § 1833(d), was based on Pub. L. 98–525, title XII, § 1216(a), Oct. 19, 1984, 98 Stat. 2597.
+
+#### Amendments
+2021—Pub. L. 116–283, § 1833(d), transferred subsec. (d) of [section 2320 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2320&num=0&edition=prelim) to this section, struck out subsec. (d) designation at beginning, and substituted “this section” for “this subsection”.
 
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -207,6 +273,22 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 ### Statutory Notes
 
+#### Codification
+The text of subsec. (e) of [section 2320 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2320&num=0&edition=prelim), which was transferred to this section, redesignated as subsecs. (a) and (b), and amended by Pub. L. 116–283, § 1833(e)(1)–(4), was based on Pub. L. 109–364, div. A, title VIII, § 802(a), Oct. 17, 2006, 120 Stat. 2312.
+
+The text of subsec. (f) of [section 2320 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2320&num=0&edition=prelim), which was transferred to this section, redesignated as subsec. (c), and amended by Pub. L. 116–283, § 1833(e)(1), (5), was based on Pub. L. 115–91, div. A, title VIII, § 835(c)(2), Dec. 12, 2017, 131 Stat. 1471.
+
+#### Amendments
+2021—Subsec. (a). Pub. L. 116–283, § 1833(e)(1), (3)(A), (B), redesignated subsec. (e) of [section 2320 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2320&num=0&edition=prelim) as subsec. (a) of this section, inserted heading, and designated first and second sentences of existing provisions as pars. (1) and (2), respectively. Third sentence of subsec. (a) designated subsec. (b).
+
+Subsec. (a)(1). Pub. L. 116–283, § 1833(e)(3)(C), inserted dash after “major weapon systems to” and reorganized remainder of text into designated subpars. (A) and (B).
+
+Subsec. (a)(2). Pub. L. 116–283, § 1833(e)(3)(D), inserted dash after “may include” and reorganized remainder of text into designated subpars. (A) and (B).
+
+Subsec. (b). Pub. L. 116–283, § 1833(e)(2), (4), designated third sentence of subsec. (a) as subsec. (b), inserted heading, and substituted “developed under subsection (a) with respect to” for “developed under this section with respect to” in introductory provisions.
+
+Subsec. (c). Pub. L. 116–283, § 1833(e)(1), (5), redesignated subsec. (f) of [section 2320 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2320&num=0&edition=prelim) as subsec. (c) of this section, designated first and second sentences of existing provisions as pars. (1) and (2), respectively, and, in par. (2), substituted “subsection (a)” for “subsection (e)”.
+
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
@@ -237,6 +319,16 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 ### Statutory Notes
 
+#### Codification
+The text of subsec. (g) of [section 2320 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2320&num=0&edition=prelim), which was transferred to this section, redesignated as subsec. (a), and amended by Pub. L. 116–283, § 1833(f)(1), (2)(A), was based on Pub. L. 111–84, div. A, title VIII, § 821(b), Oct. 28, 2009, 123 Stat. 2411; Pub. L. 114–328, div. A, title VIII, § 809(d)(1), Dec. 23, 2016, 130 Stat. 2267; Pub. L. 115–91, div. A, title VIII, § 835(c)(1), Dec. 12, 2017, 131 Stat. 1471.
+
+The text of subsec. (h) of [section 2320 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2320&num=0&edition=prelim), which was transferred to this section, redesignated as subsec. (b), and amended by Pub. L. 116–283, § 1833(f), was based on Pub. L. 114–328, div. A, title VIII, § 809(d)(2), Dec. 23, 2016, 130 Stat. 2267; Pub. L. 115–91, div. A, title VIII, § 835(c)(1), Dec. 12, 2017, 131 Stat. 1471; Pub. L. 116–283, div. A, title VIII, § 804(b)(2)(A)(ii), Jan. 1, 2021, 134 Stat. 3739.
+
+#### Amendments
+2021—Subsec. (a). Pub. L. 116–283, § 1833(f)(1), (2)(A), redesignated subsec. (g) of [section 2320 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2320&num=0&edition=prelim) as subsec. (a) of this section and substituted “In this subchapter,” for “In this section,” in introductory provisions.
+
+Subsec. (b). Pub. L. 116–283, § 1833(f), redesignated subsec. (h) of [section 2320 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2320&num=0&edition=prelim) as subsec. (b) of this section and substituted “In this subchapter,” for “In this section,” and “section 4401” for “section 2446a”.
+
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
@@ -258,6 +350,21 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
   (B) the date on which the technical data is delivered under the contract.
 
 ### Statutory Notes
+
+#### Codification
+The text of subsecs. (a), (b), and (c) of [section 2321 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2321&num=0&edition=prelim), which were transferred to this section and amended by Pub. L. 116–283, § 1833(h), was based on Pub. L. 100–26, § 7(a)(5)(A)(ii), Apr. 21, 1987, 101 Stat. 276.
+
+#### Prior Provisions
+A prior section 3781, act Aug. 10, 1956, ch. 1041, 70A Stat. 218; Pub. L. 86–616, § 2(a), July 12, 1960, 74 Stat. 386, authorized Secretary of the Army to convene at any time a board of officers to review record of any commissioned officer on active list of Regular Army to determine whether he should be required, because of substandard performance of duty, to show cause for his retention on active list, prior to repeal by Pub. L. 96–513, title II, § 213, title VII, § 701, Dec. 12, 1980, 94 Stat. 2885, 2955, effective Sept. 15, 1981. See [section 1181(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1181/a&num=0&edition=prelim).
+
+#### Amendments
+2021—Subsec. (a). Pub. L. 116–283, § 1833(h)(1), (2), transferred subsec. (a) of [section 2321 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2321&num=0&edition=prelim) to this section and substituted “by Subchapter” for “by Section” in heading and “This subchapter” for “This section” in text.
+
+Subsec. (b). Pub. L. 116–283, § 1833(h)(1), (3), transferred subsec. (b) of [section 2321 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2321&num=0&edition=prelim) to this section and substituted “this subchapter” for “this section” and “(as defined in [section 3786 of this title](./chapter-275-proprietary-contractor-data-and-rights-in-technical-data.md#section-3786)) asserted” for “(as defined in subsection (i)) asserted”.
+
+Subsec. (c). Pub. L. 116–283, § 1833(h)(1), (4)(A), (C), transferred subsec. (c) of [section 2321 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2321&num=0&edition=prelim) to this section and realigned margins of pars. (1) and (2).
+
+Subsec. (c)(1). Pub. L. 116–283, § 1833(h)(4)(B), substituted “this subchapter” for “this section”.
 
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -305,6 +412,31 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 ### Statutory Notes
 
+#### Codification
+The text of subsec. (d) of [section 2321 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2321&num=0&edition=prelim), which was transferred to this section and amended by Pub. L. 116–283, § 1833(i), was based on Pub. L. 100–26, § 7(a)(5)(A)(ii), Apr. 21, 1987, 101 Stat. 276; Pub. L. 100–180, div. A, title XII, § 1231(6)(A), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 103–35, title II, § 201(g)(4), May 31, 1993, 107 Stat. 100; Pub. L. 111–383, div. A, title VIII, § 824(c), Jan. 7, 2011, 124 Stat. 4269; Pub. L. 112–81, div. A, title VIII, § 815(b), Dec. 31, 2011, 125 Stat. 1492.
+
+#### Prior Provisions
+A prior section 3782, act Aug. 10, 1956, ch. 1041, 70A Stat. 218; Pub. L. 86–616, § 2(a), July 12, 1960, 74 Stat. 387, provided for boards of inquiry, composed of three or more officers, to be convened at such places as Secretary of the Army prescribes, to receive evidence and make findings and recommendations whether an officer, required to show cause under [section 3781 of this title](./chapter-275-proprietary-contractor-data-and-rights-in-technical-data.md#section-3781), should be retained on active list of Regular Army, prior to repeal by Pub. L. 96–513, title II, § 213, title VII, § 701, Dec. 12, 1980, 94 Stat. 2885, 2955, effective Sept. 15, 1981. See [section 1182 of this title](./chapter-060-separation-of-regular-officers-for-substandard-performance-of-duty-or-for-certain-other-reasons.md#section-1182).
+
+#### Amendments
+2021—Pub. L. 116–283, § 1833(i)(1)(A), transferred subsec. (d) of [section 2321 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2321&num=0&edition=prelim) to this section and struck out subsec. (d) designation and heading “Challenges to Restrictions” at beginning.
+
+Subsec. (a). Pub. L. 116–283, § 1833(i)(1)(B), (2), redesignated par. (1) of [section 2321(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2321/d&num=0&edition=prelim) as subsec. (a) of this section, inserted heading, substituted “this subchapter” for “this section” in introductory provisions, and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively.
+
+Subsec. (b). Pub. L. 116–283, § 1833(i)(1)(B), (3)(A), (B), redesignated par. (2) of [section 2321(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2321/d&num=0&edition=prelim) as subsec. (b) of this section, inserted heading, and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, and realigned margins.
+
+Subsec. (b)(1). Pub. L. 116–283, § 1833(i)(3)(C), substituted “subsection (a)” for “paragraph (1)” and “paragraph (2)” for “subparagraph (B)” in introductory provisions and redesignated cls. (i) to (iv) as subpars. (A) to (D), respectively.
+
+Subsec. (b)(2). Pub. L. 116–283, § 1833(i)(3)(D), substituted “paragraph (1)” for “subparagraph (A)” in introductory provisions and redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively.
+
+Subsec. (c). Pub. L. 116–283, § 1833(i)(1)(B), (4)(A)–(C), redesignated par. (3) of [section 2321(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2321/d&num=0&edition=prelim) as subsec. (c) of this section, inserted heading, substituted “subsection (a)” for “paragraph (1)” in introductory provisions, and redesignated subpars. (A) to (C) as pars. (1) to (3), respectively.
+
+Subsec. (c)(3). Pub. L. 116–283, § 1833(i)(4)(D), substituted “subsection (d)” for “paragraph (4)”.
+
+Subsec. (d). Pub. L. 116–283, § 1833(i)(1)(B), (5)(A)–(C), redesignated par. (4) of [section 2321(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2321/d&num=0&edition=prelim) as subsec. (d) of this section, inserted heading, substituted “subsection (a)” for “paragraph (1)” in introductory provisions, and redesignated subparagraphs (A) and (B) as pars. (1) and (2), respectively.
+
+Subsec. (d)(1). Pub. L. 116–283, § 1833(i)(5)(D), substituted “this section” for “this subsection”.
+
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
@@ -317,6 +449,15 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 ### Statutory Notes
 
+#### Codification
+The text of subsec. (e) of [section 2321 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2321&num=0&edition=prelim), which was transferred to this section and amended by Pub. L. 116–283, § 1833(j), was based on Pub. L. 98–525, title XII, § 1216(a), Oct. 19, 1984, 98 Stat. 2597; Pub. L. 100–26, § 7(a)(5)(A)(i), (B), Apr. 21, 1987, 101 Stat. 276, 277.
+
+#### Prior Provisions
+A prior section 3783, act Aug. 10, 1956, ch. 1041, 70A Stat. 218; Pub. L. 86–616, § 2(a), July 12, 1960, 74 Stat. 387, provided for boards of review, composed of three or more officers, to be convened by Secretary of the Army, at such places as he prescribes, to review records of cases of officers recommended by boards of inquiry for removal from active list of Regular Army, prior to repeal by Pub. L. 96–513, title II, § 213, title VII, § 701, Dec. 12, 1980, 94 Stat. 2885, 2955, effective Sept. 15, 1981.
+
+#### Amendments
+2021—Pub. L. 116–283, § 1833(j), transferred subsec. (e) of [section 2321 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2321&num=0&edition=prelim) to this section, struck out subsec. (e) designation and heading “Time for Contractors to Submit Justifications” at beginning, and designated first and second sentences of existing provisions as subsecs. (a) and (b), respectively, and inserted headings.
+
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
@@ -324,9 +465,18 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 <a id="section-3784"></a>
 ## § 3784. Technical data under contracts for commercial items: presumption of development exclusively at private expense
 
-In the case of a challenge to a use or release restriction that is asserted with respect to technical data of a contractor or subcontractor under a contract for commercial products, the contracting officer shall presume that the contractor or subcontractor has justified the restriction on the basis that commercial products was 11 So in original. developed exclusively at private expense, whether or not the contractor or subcontractor submits a justification in response to the notice provided pursuant to [section 3782(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3782/c&num=0&edition=prelim). In such a case, the challenge to the use or release restriction may be sustained only if information provided by the Department of Defense demonstrates that commercial products was 1 not developed exclusively at private expense.
+In the case of a challenge to a use or release restriction that is asserted with respect to technical data of a contractor or subcontractor under a contract for commercial products, the contracting officer shall presume that the contractor or subcontractor has justified the restriction on the basis that the commercial product was developed exclusively at private expense, whether or not the contractor or subcontractor submits a justification in response to the notice provided pursuant to [section 3782(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3782/c&num=0&edition=prelim). In such a case, the challenge to the use or release restriction may be sustained only if information provided by the Department of Defense demonstrates that the commercial product was not developed exclusively at private expense.
 
 ### Statutory Notes
+
+#### Codification
+The text of subsec. (f) of [section 2321 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2321&num=0&edition=prelim), which was transferred to this section and amended by Pub. L. 116–283, § 1833(k), was based on Pub. L. 103–355, title VIII, § 8106(b)(2), Oct. 13, 1994, 108 Stat. 3394; Pub. L. 109–364, div. A, title VIII, § 802(b), Oct. 17, 2006, 120 Stat. 2313; Pub. L. 110–181, div. A, title VIII, § 815(a)(2), Jan. 28, 2008, 122 Stat. 223; Pub. L. 113–291, div. A, title X, § 1071(a)(5), Dec. 19, 2014, 128 Stat. 3504; Pub. L. 114–92, div. A, title VIII, § 813(a), Nov. 25, 2015, 129 Stat. 891; Pub. L. 115–232, div. A, title VIII, §§ 836(c)(8), 865, Aug. 13, 2018, 132 Stat. 1866, 1901, as amended by Pub. L. 116–283, div. A, title X, § 1081(d)(4)(B)(ii), Jan. 1, 2021, 134 Stat. 3874; Pub. L. 117–81, div. A, title X, § 1081(a)(28), Dec. 27, 2021, 135 Stat. 1921.
+
+#### Prior Provisions
+A prior section 3784, act Aug. 10, 1956, ch. 1041, 70A Stat. 219; Pub. L. 86–616, § 2(a), July 12, 1960, 74 Stat. 387, authorized Secretary of the Army to remove an officer from active list of Regular Army if his removal is recommended by a board of review and provided that decision of Secretary in such a case is final and conclusive, prior to repeal by Pub. L. 96–513, title II, § 213, title VII, § 701, Dec. 12, 1980, 94 Stat. 2885, 2955, effective Sept. 15, 1981. See [section 1184 of this title](./chapter-060-separation-of-regular-officers-for-substandard-performance-of-duty-or-for-certain-other-reasons.md#section-1184).
+
+#### Amendments
+2021—Pub. L. 116–283, § 1833(k), transferred subsec. (f) of [section 2321 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2321&num=0&edition=prelim) to this section, struck out subsec. (f) designation and heading “Presumption of Development Exclusively at Private Expense” at beginning, and substituted “[section 3782(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3782/c&num=0&edition=prelim)” for “subsection (d)(3)”.
 
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -336,7 +486,7 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 ## § 3785. Technical data: decision by contracting officer; claims; rights and liability upon final disposition
 **(a) Decision by Contracting Officer.—**
 
-(1) Upon failure 11 Amendment by section 1833(l)(2)(B) of Pub. L. 116–283 executed to reflect the probable intent of Congress. by the contractor or subcontractor to submit any response under [section 3782(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3782/c&num=0&edition=prelim), the contracting officer shall issue a decision pertaining to the validity of the asserted restriction.
+(1) Upon failure by the contractor or subcontractor to submit any response under [section 3782(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3782/c&num=0&edition=prelim), the contracting officer shall issue a decision pertaining to the validity of the asserted restriction.
 
 (2) After review of any justification submitted in response to the notice provided pursuant to [section 3782(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3782/c&num=0&edition=prelim), the contracting officer shall, within 60 days of receipt of any justification submitted, issue a decision or notify the party asserting the restriction of the time within which a decision will be issued.
 
@@ -358,6 +508,25 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 ### Statutory Notes
 
+#### Codification
+The text of subsec. (g) of [section 2321 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2321&num=0&edition=prelim), which was transferred to this section, redesignated as subsec. (a), and amended by Pub. L. 116–283, § 1833(l)(1), (2), was based on Pub. L. 98–525, title XII, § 1216(a), Oct. 19, 1984, 98 Stat. 2597; Pub. L. 100–26, § 7(a)(5)(A)(i), (C), Apr. 21, 1987, 101 Stat. 276, 277; Pub. L. 103–355, title VIII, § 8106(b)(1), Oct. 13, 1994, 108 Stat. 3393.
+
+The text of subsec. (h) of [section 2321 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2321&num=0&edition=prelim), which was transferred to this section, redesignated as subsec. (b), and amended by Pub. L. 116–283, § 1833(l)(1), was based on Pub. L. 98–525, title XII, § 1216(a), Oct. 19, 1984, 98 Stat. 2598; Pub. L. 100–26, § 7(a)(5)(A)(i), (D), Apr. 21, 1987, 101 Stat. 276, 277; Pub. L. 103–355, title VIII, § 8106(b)(1), Oct. 13, 1994, 108 Stat. 3393; Pub. L. 111–350, § 5(b)(18), Jan. 4, 2011, 124 Stat. 3844.
+
+The text of subsec. (i) of [section 2321 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2321&num=0&edition=prelim), which was transferred to this section, redesignated as subsec. (c), and amended by Pub. L. 116–283, § 1833(l)(1), (3), was based on Pub. L. 98–525, title XII, § 1216(a), Oct. 19, 1984, 98 Stat. 2598; Pub. L. 100–26, § 7(a)(5)(A)(i), (E), Apr. 21, 1987, 101 Stat. 276, 277; Pub. L. 103–355, title VIII, § 8106(b)(1), Oct. 13, 1994, 108 Stat. 3393; Pub. L. 115–232, div. A, title VIII, 866(a), Aug. 13, 2018, 132 Stat. 1901; Pub. L. 116–92, div. A, title VIII, § 808(b), Dec. 20, 2019, 133 Stat. 1486.
+
+#### Prior Provisions
+A prior section 3785, act Aug. 10, 1956, ch. 1041, 70A Stat. 219; Pub. L. 86–616, § 2(a), July 12, 1960, 74 Stat. 387, provided that each officer under consideration for removal from active list of Regular Army under this chapter be given written notification, at least 30 days prior to a board of inquiry hearing, that he is being required to show cause for retention on active list, be allowed reasonable time to prepare a defense, be allowed to appear in person and by counsel at proceedings before a board of inquiry, and be allowed full access to, and furnished copies of, records relevant to his case at all stages of proceeding, prior to repeal by Pub. L. 96–513, title II, § 213, title VII, § 701, Dec. 12, 1980, 94 Stat. 2885, 2955, effective Sept. 15, 1981. See [section 1185 of this title](./chapter-060-separation-of-regular-officers-for-substandard-performance-of-duty-or-for-certain-other-reasons.md#section-1185).
+
+#### Amendments
+2021—Subsec. (a). Pub. L. 116–283, § 1833(l)(1), (2), redesignated subsec. (g) of [section 2321 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2321&num=0&edition=prelim) as subsec. (a) of this section, substituted “[section 3782(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3782/c&num=0&edition=prelim)” for “subsection (d)(3)” in two places, and realigned margins of pars. (1) and (2). Amendment directing substitution of “(1) Upon failure” for “(1) Upon failure” as part of margin realignment was executed by substituting “(1) Upon failure” for “(1) Upon a failure” to reflect the probable intent of Congress.
+
+Subsec. (b). Pub. L. 116–283, § 1833(l)(1), redesignated subsec. (h) of [section 2321 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2321&num=0&edition=prelim) as subsec. (b) of this section.
+
+Subsec. (c). Pub. L. 116–283, § 1833(l)(3), which directed amendment of subsec. (c) of [section 3786 of this title](./chapter-275-proprietary-contractor-data-and-rights-in-technical-data.md#section-3786) by realigning the margins of pars. (1) and (2), was executed to subsec. (c) of this section to reflect the probable intent of Congress.
+
+Pub. L. 116–283, § 1833(l)(1), redesignated subsec. (i) of [section 2321 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2321&num=0&edition=prelim) as subsec. (c) of this section.
+
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
@@ -372,6 +541,19 @@ In this subchapter, the term “use or release restriction”, with respect to t
 (2) to release or disclose such technical data to persons outside the Government or permit the use of such technical data by persons outside the Government.
 
 ### Statutory Notes
+
+#### Codification
+The text of subsec. (j) of [section 2321 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2321&num=0&edition=prelim), which was transferred to this section and amended by Pub. L. 116–283, § 1833(m), was based on Pub. L. 100–26, § 7(a)(5), Apr. 21, 1987, 101 Stat. 277; Pub. L. 100–180, div. A, title XII, § 1231(6), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 103–355, title VIII, § 8106(b)(1), Oct. 13, 1994, 108 Stat. 3393.
+
+#### Prior Provisions
+Prior sections 3786 and 3787 were repealed by Pub. L. 96–513, title II, § 213, title VII, § 701, Dec. 12, 1980, 94 Stat. 2885, 2955, effective Sept. 15, 1981.
+
+Section 3786, acts Aug. 10, 1956, ch. 1041, 70A Stat. 219; July 12, 1960, Pub. L. 86–616, § 2(a), 74 Stat. 387, authorized Secretary of the Army, at any time during proceedings under this chapter and before removal of an officer from active list of Regular Army, to grant that officer’s request for voluntary retirement, if he is otherwise qualified therefor, or for honorable discharge with severance benefits. See [section 1186 of this title](./chapter-060-separation-of-regular-officers-for-substandard-performance-of-duty-or-for-certain-other-reasons.md#section-1186).
+
+Section 3787, added Pub. L. 86–616, § 2(a), July 12, 1960, 74 Stat. 388, provided that no officer serve on a board under this chapter unless he holds a regular or temporary grade above lieutenant colonel, and is senior in regular grade to, and outranks, any officer considered by board and that no person be a member of more than one board convened under this chapter for same officer. See [section 1187 of this title](./chapter-060-separation-of-regular-officers-for-substandard-performance-of-duty-or-for-certain-other-reasons.md#section-1187).
+
+#### Amendments
+2021—Pub. L. 116–283, § 1833(m), transferred subsec. (j) of [section 2321 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2321&num=0&edition=prelim) to this section, struck out subsec. (j) designation and heading “Use or Release Restriction Defined” at beginning, and substituted “In this subchapter” for “In this section” in introductory provisions.
 
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -390,6 +572,24 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 **(b) Cadre of Intellectual Property Experts.—** For a provision requiring establishment of a cadre of personnel who are experts in intellectual property matters, see [section 1707 of this title](./chapter-087-defense-acquisition-workforce.md#section-1707).
 
 ### Statutory Notes
+
+#### Codification
+The text of subsec. (a) of [section 2322 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2322&num=0&edition=prelim), which was transferred to this section by Pub. L. 116–283, § 1833(o)(1), was based on Pub. L. 115–91, div. A, title VIII, § 802(a)(1), Dec. 12, 2017, 131 Stat. 1450.
+
+#### Prior Provisions
+Prior sections 3791 and 3792 were repealed by Pub. L. 96–513, title II, § 213, title VII, § 701, Dec. 12, 1980, 94 Stat. 2885, 2955, effective Sept. 15, 1981.
+
+Section 3791, added Pub. L. 86–616, § 3(a), July 12, 1960, 74 Stat. 388, authorized Secretary of the Army to convene at any time a board of general officers to review record of any commissioned officer on active list of Regular Army to determine whether he should be required, because of moral dereliction, professional dereliction, or because his retention is not clearly consistent with interests of national security, to show cause for his retention on active list. See [section 1181(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1181/b&num=0&edition=prelim).
+
+Section 3792, added Pub. L. 86–616, § 3(a), July 12, 1960, 74 Stat. 388, provided for boards of inquiry, composed of three or more general officers, to be convened at such places as Secretary of the Army prescribes, to receive evidence and make findings and recommendations whether an officer, required to show cause under [section 3791 of this title](./chapter-275-proprietary-contractor-data-and-rights-in-technical-data.md#section-3791), should be retained on active list of Regular Army. See [section 1182 of this title](./chapter-060-separation-of-regular-officers-for-substandard-performance-of-duty-or-for-certain-other-reasons.md#section-1182).
+
+#### Amendments
+2021—Pub. L. 117–81, § 1701(b)(12)(A), which directed amendment of section 1833(n) of Pub. L. 116–283, which enacted this section, by substituting “DEPARTMENT OF DEFENSE” for “DEPARTMENT OF DEFENSE” in text of section catchline, could not be executed.
+
+Subsec. (a). Pub. L. 116–283, § 1833(o)(1), transferred subsec. (a) of [section 2322 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2322&num=0&edition=prelim) to this section.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
 
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -410,7 +610,32 @@ Funds appropriated for a military department available for making or procuring s
 
 ### Statutory Notes
 
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Revised section | Source (U.S. Code) | Source (Statutes at Large) |
+| 2386 | 31:649b. | Aug. 1, 1953, ch. 305, § 609, 67 Stat. 350. |
+
+The words “equipment, and materials” are omitted as covered by the word “supplies”. The word “hereafter” is omitted as executed. The words “may be used” are substituted for the words “shall * * * be available”. The words “if the acquisition relates to” are substituted for 31:649b (1st 8 words of last sentence). In clauses (1), (2), and (4), the word “patents” is substituted for the words “letters patent”.
+
+#### Prior Provisions
+A prior section 3793, added Pub. L. 86–616, § 3(a), July 12, 1960, 74 Stat. 389, provided for boards of review, composed of three or more general officers, to be convened by Secretary of the Army, at such places as he prescribes, to review records of cases of officers recommended by boards of inquiry for removal from active list of Regular Army, prior to repeal by Pub. L. 96–513, title II, § 213, title VII, § 701, Dec. 12, 1980, 94 Stat. 2885, 2955, effective Sept. 15, 1981.
+
+#### Amendments
+2021—Pub. L. 116–283, § 1833(o)(2), as amended by Pub. L. 117–81, § 1701(b)(12)(B), renumbered [section 2386 of this title](./chapter-141-miscellaneous-provisions-relating-to-property.md#section-2386) as this section.
+
+1996—Par. (3). Pub. L. 104–106 amended par. (3) generally, substituting “Design and process data, technical data, and computer software” for “Technical data and computer software”.
+
+1994—Pars. (3), (4). Pub. L. 103–355 added pars. (3) and (4) and struck out former pars. (3) and (4) which read as follows:
+
+“(3) Designs, processes, and manufacturing data.
+
+“(4) Releases, before suit is brought, for past infringement of patents or copyrights.”
+
+1960—Pub. L. 86–726 inserted “or copyrights” after “patents” in cl. (4).
+
 #### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
+
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 
@@ -438,5 +663,42 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 ### Statutory Notes
 
+#### Codification
+Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
+
+Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical sections.
+
+#### Prior Provisions
+Prior sections 3794 to 3797 were repealed by Pub. L. 96–513, title II, § 213, title VII, § 701, Dec. 12, 1980, 94 Stat. 2885, 2955, effective Sept. 15, 1981.
+
+Section 3794, added Pub. L. 86–616, § 3(a), July 12, 1960, 74 Stat. 389, authorized Secretary of the Army to remove an officer from active list of Regular Army if his removal is recommended by a board of review and provided that decision of Secretary in such a case is final and conclusive. See [section 1184 of this title](./chapter-060-separation-of-regular-officers-for-substandard-performance-of-duty-or-for-certain-other-reasons.md#section-1184).
+
+Section 3795, added Pub. L. 86–616, § 3(a), July 12, 1960, 74 Stat. 389, provided that each officer under consideration for removal from active list of Regular Army under this chapter be given written notification, at least 30 days prior to a board of inquiry hearing, that he is being required to show cause for retention on active list, be allowed reasonable time to prepare a defense, be allowed to appear in person and by counsel at proceedings before board of inquiry, and be allowed full access to, and furnished copies of, records relevant to his case at all stages of proceedings, except records that Secretary determines be withheld in interests of national security, in which case, a summary, to extent national security permits, be furnished. See [section 1185 of this title](./chapter-060-separation-of-regular-officers-for-substandard-performance-of-duty-or-for-certain-other-reasons.md#section-1185).
+
+Section 3796, added Pub. L. 86–616, § 3(a), July 12, 1960, 74 Stat. 389, authorized Secretary of the Army, at any time during proceedings under this chapter and before removal of an officer from active list of Regular Army, to grant that officer’s request for voluntary retirement, if he is otherwise qualified therefor, or for honorable discharge with severance benefits. See [section 1186 of this title](./chapter-060-separation-of-regular-officers-for-substandard-performance-of-duty-or-for-certain-other-reasons.md#section-1186).
+
+Section 3797, added Pub. L. 86–616, § 3(a), July 12, 1960, 74 Stat. 390, provided that no officer serve on a board under this chapter unless he holds a regular or temporary grade above lieutenant colonel, and is senior in regular grade to, and outranks, any officer considered by that board and that no person be a member of more than one board convened under this chapter for same officer. See [section 1187 of this title](./chapter-060-separation-of-regular-officers-for-substandard-performance-of-duty-or-for-certain-other-reasons.md#section-1187).
+
+#### Amendments
+2021—Pub. L. 116–283, § 1833(o)(2), as amended by Pub. L. 117–81, § 1701(b)(12)(B), renumbered [section 2328 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2328) as this section.
+
+1987—Pub. L. 100–26, § 7(a)(7)(B)(i), substituted “Release of technical data under Freedom of Information Act: recovery of costs” for “Release of technical data” in section catchline.
+
+Subsec. (a)(1). Pub. L. 100–26, § 7(a)(7)(A)(i)(I), substituted “such technical data to the person requesting the” for “technical data to a person requesting such a”.
+
+Pub. L. 100–26, § 7(a)(7)(A)(i)(II), substituted “search, duplication, and review” for “search and duplication”.
+
+Subsec. (b). Pub. L. 100–26, § 7(a)(7)(A)(ii), substituted “Crediting of receipts” for “Disposition of costs” in heading.
+
+Subsec. (c)(3). Pub. L. 100–26, § 7(a)(7)(A)(iii), substituted “section 552(a)(4)(A)(iii)” for “section 552(a)(4)(A)”.
+
 #### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out as a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
+
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Effective Date of 1987 Amendment
+Pub. L. 100–26, § 12(d)(2), Apr. 21, 1987, 101 Stat. 289, provided that: “The amendment to section 2328 of such title [now [10 U.S.C. 3794](./chapter-275-proprietary-contractor-data-and-rights-in-technical-data.md#section-3794)] made by section 7(a)(7)(A)(i)(II) shall take effect on the same date and in the same manner as provided in section 1804(b) of Public Law 99–570 [set out as an Effective Date of 1986 Amendment note under [section 552 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim), Government Organization and Employees] for the amendment made by section 1803 of that Public Law to [section 552a of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), United States Code [probably means amendment by section 1803 of Pub. L. 99–570 to [section 552(a) of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/a&num=0&edition=prelim)].”
+
+#### Effective Date
+Pub. L. 99–500, § 101(c) [title X, § 954(b)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–173, Pub. L. 99–591, § 101(c) [title X, § 954(b)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–173, and Pub. L. 99–661, div. A, title IX, formerly title IV, § 954(b), Nov. 14, 1986, 100 Stat. 3953, renumbered title IX by Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “The amendments made by this section [enacting this section] shall take effect at the end of the 90-day period beginning on the date of the enactment of this Act [Oct. 18, 1986].”

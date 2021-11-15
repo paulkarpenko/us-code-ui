@@ -34,9 +34,6 @@ Act Sept. 2, 1937, ch. 899, § 14, formerly § 13, as added by Pub. L. 106–408
 
 Act Sept. 2, 1937, ch. 899, as amended, is also popularly known as the “Federal Aid in Wildlife Restoration Act”.
 
-#### Transfer of Functions
-Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, transferred functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds to Secretary of the Interior.
-
 #### Statement of Purpose and Definition in Pub. L. 106–553
 Pub. L. 106–553, § 1(a)(2) [title IX, § 902(a), (b)], Dec. 21, 2000, 114 Stat. 2762, 2762A–119, provided that: “(a) Purposes.—The purposes of this section [amending sections 669a, 669b, 669c, 669g, and 4406 of this title, and enacting provisions set out as notes under this section] are—“(1) to extend financial and technical assistance to the States under the Federal Aid to [in] Wildlife Restoration Act [[16 U.S.C. 669](./chapter-5b-wildlife-restoration.md#section-669) et seq.] for the benefit of a diverse array of wildlife and associated habitats, including species that are not hunted or fished, to fulfill unmet needs of wildlife within the States in recognition of the primary role of the States to conserve all wildlife; “(2) to assure sound conservation policies through the development, revision, and implementation of a comprehensive wildlife conservation and restoration plan; “(3) to encourage State fish and wildlife agencies to participate with the Federal Government, other State agencies, wildlife conservation organizations and outdoor recreation and conservation interests through cooperative planning and implementation of this title [enacting [section 1356a of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1356a&num=0&edition=prelim), Public Lands, amending sections 669a, 669b, 669c, 669g, and 4406 of this title, and enacting provisions set out as notes under this section]; and “(4) to encourage State fish and wildlife agencies to provide for public involvement in the process of development and implementation of a wildlife conservation and restoration program. “(b) Reference to Law.—In this section, the term ‘Federal Aid in Wildlife Restoration Act’ means the Act of September 2, 1937 ([16 U.S.C. 669](./chapter-5b-wildlife-restoration.md#section-669) et seq.), commonly referred to as the Federal Aid in Wildlife Restoration Act or the Pittman-Robertson Act.”
 
@@ -48,6 +45,9 @@ Pub. L. 106–553, § 1(a)(2) [title IX, § 902(h)], Dec. 21, 2000, 114 Stat. 27
 
 #### Designation of Programs
 Pub. L. 106–408, title I, § 131, Nov. 1, 2000, 114 Stat. 1775, provided that: “The programs established under the Pittman-Robertson Wildlife Restoration Act ([16 U.S.C. 669](./chapter-5b-wildlife-restoration.md#section-669) et seq.) and the Dingell-Johnson Sport Fish Restoration Act ([16 U.S.C. 777](./chapter-10b-fish-restoration-and-management-projects.md#section-777) et seq.) shall be known as the ‘Federal Assistance Program for State Wildlife and Sport Fish Restoration’.”
+
+#### Transfer of Functions
+Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, transferred functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds to Secretary of the Interior.
 
 
 <a id="section-669a"></a>
@@ -218,25 +218,31 @@ Section was not enacted as part of the Pittman-Robertson Wildlife Restoration Ac
 
   (B) *Available amounts* — The available amount referred to in subparagraph (A) is—
 
-    (i) for each of fiscal years 2001 and 2002, $9,000,000;
+    (i) for the fiscal year that includes November 15, 2021, the sum obtained by adding—
 
-    (ii) for fiscal year 2003, $8,212,000; and
+      (I) the available amount specified in this subparagraph for the preceding fiscal year; and
 
-    (iii) for fiscal year 2004 and each fiscal year thereafter, the sum of—
+      (II) $979,500; and
 
-      (I) the available amount for the preceding fiscal year; and
+    (ii) for each fiscal year thereafter, the sum obtained by adding—
 
-      (II) the amount determined by multiplying—
+      (I) the available amount specified in this subparagraph for the preceding fiscal year; and
 
-        (aa) the available amount for the preceding fiscal year; and
+      (II) the product obtained by multiplying—
+
+        (aa) the available amount specified in this subparagraph for the preceding fiscal year; and
 
         (bb) the change, relative to the preceding fiscal year, in the Consumer Price Index for All Urban Consumers published by the Department of Labor.
 
 (2) **Period of availability; apportionment of unobligated amounts**
 
-  (A) *Period of availability* — For each fiscal year, the available amount under paragraph (1) shall remain available for obligation for use under that paragraph until the end of the fiscal year.
+  (A) *Period of availability* — For each fiscal year, the available amount under paragraph (1) shall remain available for obligation for use under that paragraph until the end of the subsequent fiscal year.
 
-  (B) *Apportionment of unobligated amounts* — Not later than 60 days after the end of a fiscal year, the Secretary of the Interior shall apportion among the States any of the available amount under paragraph (1) that remains unobligated at the end of the fiscal year, on the same basis and in the same manner as other amounts made available under this chapter are apportioned among the States for the fiscal year.
+  (B) *Apportionment of unobligated amounts*
+
+    (i) *In general* — Not later than 60 days after the end of a fiscal year, the Secretary of the Interior shall apportion among the States any of the available amount under paragraph (1) that remained available for obligation pursuant to subparagraph (A) during that fiscal year and remains unobligated at the end of that fiscal year.
+
+    (ii) *Requirement* — The available amount apportioned under clause (i) shall be apportioned on the same basis and in the same manner as other amounts made available under this chapter were apportioned among the States for the fiscal year in which the amount was originally made available.
 
 **(b) Apportionment to States** The Secretary of the Interior, after deducting the available amount under subsection (a), the amount apportioned under subsection (c), any amount apportioned under [section 669g–1 of this title](./chapter-5b-wildlife-restoration.md#section-669g-1), and amounts provided as grants under sections 669h–1 and 669h–2 of this title, shall apportion the remainder of the revenue in said fund for each fiscal year among the several States in the following manner: One-half in the ratio which the area of each State bears to the total area of all the States, and one-half in the ratio which the number of paid hunting-license holders of each State in the second fiscal year preceding the fiscal year for which such apportionment is made, as certified to said Secretary by the State fish and game departments, bears to the total number of paid hunting-license holders of all the States. Such apportionments shall be adjusted equitably so that no State shall receive less than one-half of 1 per centum nor more than 5 per centum of the total amount apportioned. The term fiscal year as used in this chapter shall be a period of twelve consecutive months from October 1 through the succeeding September 30, except that the period for enumeration of paid hunting-license holders shall be a State’s fiscal or license year.
 
@@ -320,6 +326,12 @@ Section was not enacted as part of the Pittman-Robertson Wildlife Restoration Ac
 Subsection (d), as redesignated, referred to in subsec. (e)(3), probably refers to the redesignation of a second subsec. (c) of this section as (d) by Pub. L. 116–94, div. P, title V, § 501(d)(2)(A), Dec. 20, 2019, 133 Stat. 3192. See 2019 Amendment note below.
 
 #### Amendments
+2021—Subsec. (a)(1)(B). Pub. L. 117–58, § 28001(b)(1)(A), added subpar. (B) and struck out former subpar. (B), which provided amounts available for fiscal years 2001 and thereafter.
+
+Subsec. (a)(2)(A). Pub. L. 117–58, § 28001(b)(1)(B)(i), inserted “subsequent” before “fiscal year.”
+
+Subsec. (a)(2)(B). Pub. L. 117–58, § 28001(b)(1)(B)(ii), added subpar. (B) and struck out former subpar. (B), which related to apportionment of unobligated amounts.
+
 2019—Subsec. (c). Pub. L. 116–94, § 501(d)(1)(A), inserted heading.
 
 Subsec. (c)(1). Pub. L. 116–94, § 501(d)(1)(B), (C), designated the portion of the first sentence of existing provisions preceding the proviso as par. (1), inserted heading, and substituted “Subject to paragraph (2), ½” for “One-half” and a period for “: Provided, That”.
@@ -358,11 +370,11 @@ Amendment by Pub. L. 101–233 effective Oct. 1, 1989, see section 7(a)(3) of Pu
 #### Effective Date of 1972 Amendment
 Amendment by Pub. L. 92–558 effective Jan. 1, 1975, see section 101(c) of Pub. L. 92–558, set out as a note under [section 669b of this title](./chapter-5b-wildlife-restoration.md#section-669b).
 
-#### Transfer of Functions
-Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, transferred functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds to Secretary of the Interior.
-
 #### Suspension of Expense Limitation
 The Interior Department Appropriation Act, 1945, act June 28, 1944, ch. 298, § 1, 58 Stat. 504, provided that the limitations in this chapter were waived to the extent necessary to provide overtime under the provisions of the War Overtime Pay Act, 1943, former sections 1401 to 1415 of the former Appendix to Title 50, War and National Defense, which act expired June 30, 1945.
+
+#### Transfer of Functions
+Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, transferred functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds to Secretary of the Interior.
 
 
 <a id="section-669d"></a>
@@ -505,37 +517,35 @@ Act May 19, 1956, ch. 313, ch. VI, § 601, 70 Stat. 169, authorized increases of
 ## § 669h. Requirements and restrictions concerning use of amounts for expenses for administration
 **(a) Authorized expenses for administration** Except as provided in subsection (b), the Secretary of the Interior may use available amounts under [section 669c(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section669c/a/1&num=0&edition=prelim) only for expenses for administration that directly support the implementation of this chapter that consist of—
 
-(1) personnel costs of employees who directly administer this chapter on a full-time basis;
+(1) personnel costs of employees for the work hours of each employee spent directly administering this chapter, as those hours are certified by the supervisor of the employee;
 
-(2) personnel costs of employees who directly administer this chapter on a part-time basis for at least 20 hours each week, not to exceed the portion of those costs incurred with respect to the work hours of the employee during which the employee directly administers this chapter, as those hours are certified by the supervisor of the employee;
+(2) support costs directly associated with personnel costs authorized under paragraph (1), excluding costs associated with staffing and operation of regional offices of the United States Fish and Wildlife Service and the Department of the Interior other than for the purposes of this chapter;
 
-(3) support costs directly associated with personnel costs authorized under paragraphs (1) and (2), excluding costs associated with staffing and operation of regional offices of the United States Fish and Wildlife Service and the Department of the Interior other than for the purposes of this chapter;
+(3) costs of determining under [section 669e(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section669e/a&num=0&edition=prelim) whether State comprehensive plans and projects are substantial in character and design;
 
-(4) costs of determining under [section 669e(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section669e/a&num=0&edition=prelim) whether State comprehensive plans and projects are substantial in character and design;
-
-(5) overhead costs, including the costs of general administrative services, that are directly attributable to administration of this chapter and are based on—
+(4) overhead costs, including the costs of general administrative services, that are directly attributable to administration of this chapter and are based on—
 
   (A) actual costs, as determined by a direct cost allocation methodology approved by the Director of the Office of Management and Budget for use by Federal agencies; and
 
-  (B) in the case of costs that are not determinable under subparagraph (A), an amount per full-time equivalent employee authorized under paragraphs (1) and (2) that does not exceed the amount charged or assessed for costs per full-time equivalent employee for any other division or program of the United States Fish and Wildlife Service;
+  (B) in the case of costs that are not determinable under subparagraph (A), an amount per employee authorized under paragraph (1) that does not exceed the amount charged or assessed for costs per full-time equivalent employee for any other division or program of the United States Fish and Wildlife Service;
 
-(6) costs incurred in auditing, every 5 years, the wildlife and sport fish activities of each State fish and game department and the use of funds under [section 669e of this title](./chapter-5b-wildlife-restoration.md#section-669e) by each State fish and game department;
+(5) costs incurred in auditing, every 5 years, the wildlife and sport fish activities of each State fish and game department and the use of funds under [section 669e of this title](./chapter-5b-wildlife-restoration.md#section-669e) by each State fish and game department;
 
-(7) costs of audits under subsection (d);
+(6) costs of audits under subsection (d);
 
-(8) costs of necessary training of Federal and State full-time personnel who administer this chapter to improve administration of this chapter;
+(7) costs of necessary training of Federal and State full-time personnel who administer this chapter to improve administration of this chapter;
 
-(9) costs of travel to States, territories, and Canada by personnel who—
+(8) costs of travel to States, territories, and Canada by personnel who—
 
-  (A) administer this chapter on a full-time basis for purposes directly related to administration of State programs or projects; or
+  (A) administer this chapter for purposes directly related to administration of State programs or projects; or
 
   (B) administer grants under section 669e, 669h–1, or 669h–2 of this title;
 
-(10) costs of travel outside the United States (except travel to Canada), by personnel who administer this chapter on a full-time basis, for purposes that directly relate to administration of this chapter and that are approved directly by the Assistant Secretary for Fish and Wildlife and Parks;
+(9) costs of travel outside the United States (except travel to Canada), by personnel who administer this chapter on a full-time basis, for purposes that directly relate to administration of this chapter and that are approved directly by the Assistant Secretary for Fish and Wildlife and Parks;
 
-(11) relocation expenses for personnel who, after relocation, will administer this chapter on a full-time basis for at least 1 year, as certified by the Director of the United States Fish and Wildlife Service at the time at which the relocation expenses are incurred; and
+(10) relocation expenses for personnel who, after relocation, will administer this chapter on a full-time or part-time basis for at least 1 year, as certified by the Director of the United States Fish and Wildlife Service at the time at which the relocation expenses are incurred, subject to the condition that the percentage of the relocation expenses paid with funds made available pursuant to this chapter may not exceed the percentage of the work hours of the employee that are spent administering this chapter; and
 
-(12) costs to audit, evaluate, approve, disapprove, and advise concerning grants under sections 669e, 669h–1, and 669h–2 of this title.
+(11) costs to audit, evaluate, approve, disapprove, and advise concerning grants under sections 669e, 669h–1, and 669h–2 of this title.
 
 **(b) Reporting of other uses**
 
@@ -571,6 +581,24 @@ Act May 19, 1956, ch. 313, ch. VI, § 601, 70 Stat. 169, authorized increases of
 In subsec. (d)(2)(A), “[section 132 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section132&num=0&edition=prelim)” substituted for “section 4 of the Office of Federal Procurement Policy Act ([41 U.S.C. 403](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section403&num=0&edition=prelim))” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
+2021—Subsec. (a)(1). Pub. L. 117–58, § 28001(b)(2)(A), added par. (1) and struck out former par. (1) which read as follows: “personnel costs of employees who directly administer this chapter on a full-time basis;”.
+
+Subsec. (a)(2). Pub. L. 117–58, § 28001(b)(2)(C), substituted “paragraph (1)” for “paragraphs (1) and (2)”.
+
+Pub. L. 117–58, § 28001(b)(2)(B), redesignated par. (3) as (2).
+
+Pub. L. 117–58, § 28001(b)(2)(A), struck out par. (2) which read as follows: “personnel costs of employees who directly administer this chapter on a part-time basis for at least 20 hours each week, not to exceed the portion of those costs incurred with respect to the work hours of the employee during which the employee directly administers this chapter, as those hours are certified by the supervisor of the employee;”.
+
+Subsec. (a)(3), (4). Pub. L. 117–58, § 28001(b)(2)(B), redesignated pars. (4) and (5) as (3) and (4), respectively.
+
+Subsec. (a)(4)(B). Pub. L. 117–58, § 28001(b)(2)(D), substituted “employee authorized under paragraph (1)” for “full-time equivalent employee authorized under paragraphs (1) and (2)”.
+
+Subsec. (a)(5) to (8). Pub. L. 117–58, § 28001(b)(2)(B), redesignated pars. (6) to (9) as (5) to (8), respectively.
+
+Subsec. (a)(8)(A). Pub. L. 117–58, § 28001(b)(2)(E), struck out “on a full-time basis” after “administer this chapter”.
+
+Subsec. (a)(9) to (12). Pub. L. 117–58, § 28001(b)(2)(B), (F), redesignated pars. (10) to (12) as (9) to (11), respectively, and in par. (10), inserted “or part-time” after “full-time” and “, subject to the condition that the percentage of the relocation expenses paid with funds made available pursuant to this chapter may not exceed the percentage of the work hours of the employee that are spent administering this chapter” after “incurred”.
+
 2000—Pub. L. 106–408 amended section generally. Prior to amendment, section read as follows: “Out of the deductions set aside for administering and executing this chapter and the Migratory Bird Conservation Act, the Secretary of the Interior is authorized to employ such assistants, clerks, and other persons in the city of Washington and elsewhere, to be taken from the eligible lists of the Civil Service; to rent or construct buildings outside of the city of Washington; to purchase such supplies, materials, equipment, office fixtures, and apparatus; and to incur such travel and other expenses, including purchase, maintenance, and hire of passenger-carrying motor vehicles, as he may deem necessary for carrying out the purposes of this chapter.”
 
 #### Change of Name

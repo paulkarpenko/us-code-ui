@@ -7,458 +7,337 @@ source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33&num=0&edition=prelim
 ---
 <a id="section-1951"></a>
-## § 1951. Inland waterway transportation
-**(a) Construction** One-half of the costs of construction—
+## § 1951. Purpose
 
-(1) of each project authorized by title III of this Act,
-
-(2) of the project authorized by [section 652(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section652/j&num=0&edition=prelim), and
-
-(3) allocated to inland navigation for the project authorized by section 844 of this Act,
-shall be paid only from amounts appropriated from the general fund of the Treasury. One-half of such costs shall be paid only from amounts appropriated from the Inland Waterways Trust Fund. For purposes of this subsection, the term “construction” shall include planning, designing, engineering, surveying, the acquisition of all lands, easements, and rights-of-way necessary for the project, including lands for disposal of dredged material, and relocations necessary for the project.
-
-**(b) Operation and maintenance** The Federal share of the cost of operation and maintenance of any project for navigation on the inland waterways is 100 percent.
-
-**(c) Floodgates on the Inland Waterways**
-
-(1) **Operation and maintenance carried out by the Secretary** — Notwithstanding any other provision of law, the Secretary shall be responsible for the operation and maintenance, including repair, of any flood gate, as well as any pumping station constructed within the channel as a single unit with that flood gate, that—
-
-  (A) was constructed as of June 10, 2014, as a feature of an authorized hurricane and storm damage reduction project; and
-
-  (B) crosses an inland or intracoastal waterway described in [section 1804 of this title](./chapter-032-inland-waterways-trust-fund.md#section-1804).
-
-(2) **Non-Federal cost share** — The non-Federal share of the cost of operation, maintenance, repair, rehabilitation, and replacement of any structure under this subsection shall be 35 percent.
-
-**(d) Authorizations from general fund** Any Federal responsibility—
-
-(1) with respect to a project authorized by title III or [section 652(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section652/j&num=0&edition=prelim), or
-
-(2) with respect to the portion of the project authorized by section 844 allocated to inland navigation,
-which responsibility is not provided for in subsection (a) of this section shall be paid only from amounts appropriated from the general fund of the Treasury.
+The purpose of this chapter is to address the adverse impacts of marine debris on the United States economy, the marine environment (including waters in the jurisdiction of the United States, the high seas, and waters in the jurisdiction of other countries), and navigation safety through the identification, determination of sources, assessment, prevention, reduction, and removal of marine debris.
 
 ### Statutory Notes
 
-#### References in Text
-Title III of this Act, referred to in subsecs. (a)(1) and (d)(1), is title III of Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4109, consisting of sections 301 and 302. The projects authorized by title III probably mean the projects authorized by section 301 of Pub. L. 99–662, which is not classified to the Code. Section 302 of Pub. L. 99–662, which established the Inland Waterways Users Board, is classified to [section 2251 of this title](./chapter-036-water-resources-development.md#section-2251).
-
-Section 844 of this Act, referred to in subsecs. (a)(3) and (d)(2), is section 844 of Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4177, which is not classified to the Code.
-
 #### Amendments
-2014—Subsecs. (c), (d). Pub. L. 113–121 added subsec. (c) and redesignated former subsec. (c) as (d).
+2020—Pub. L. 116–224 substituted “marine environment (including waters in the jurisdiction of the United States, the high seas, and waters in the jurisdiction of other countries),” for “marine environment,”.
 
-#### Inland Waterway Projects
-Pub. L. 116–260, div. AA, title I, § 109, Dec. 27, 2020, 134 Stat. 2624, provided that: “Notwithstanding section 102 of the Water Resources Development Act of 1986 ([33 U.S.C. 2212](./chapter-036-water-resources-development.md#section-2212)), for a project for navigation on the inland waterways receiving a construction appropriation during any of fiscal years 2021 through 2031, 35 percent of the costs of construction of the project shall be paid from amounts appropriated from the Inland Waterways Trust Fund until such construction of the project is complete.”
+2012—Pub. L. 112–213 amended section generally. Prior to amendment, text read as follows: “The purposes of this chapter are—
 
-#### Acceptance of Contributed Funds To Increase Lock Operations
-Pub. L. 113–121, title I, § 1017, June 10, 2014, 128 Stat. 1223, as amended by Pub. L. 115–270, title I, § 1135, Oct. 23, 2018, 132 Stat. 3783, provided that: “(a) In General.—The Secretary [of the Army], after providing public notice, shall establish a pilot program for the acceptance and expenditure of funds contributed by non-Federal interests to increase the hours of operation of locks at water resources development projects. “(b) Applicability.—The establishment of the pilot program under this section shall not affect the periodic review and adjustment of hours of operation of locks based on increases in commercial traffic carried out by the Secretary. “(c) Public Comment.—Not later than 180 days before a proposed modification to the operation of a lock at a water resources development project will be carried out, the Secretary shall—“(1) publish the proposed modification in the Federal Register; and “(2) accept public comment on the proposed modification. “(d) Reports.—“(1) In general.—Not later than 1 year after the date of enactment of this Act [June 10, 2014], the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and make publicly available a report that evaluates the cost-savings resulting from reduced lock hours and any economic impacts of modifying lock operations. “(2) Review of pilot program.—Not later than September 30, 2017, and each year thereafter, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that describes the effectiveness of the pilot program under this section. “(e) Annual Review.—The Secretary shall carry out an annual review of the commercial use of locks and make any necessary adjustments to lock operations based on that review. “(f) Termination.—The authority to accept funds under this section shall terminate 10 years after the date of enactment of this Act.”
+“(1) to help identify, determine sources of, assess, reduce, and prevent marine debris and its adverse impacts on the marine environment and navigation safety;
+
+“(2) to reactivate the Interagency Marine Debris Coordinating Committee; and
+
+“(3) to develop a Federal marine debris information clearinghouse.”
+
+#### Short Title of 2012 Amendment
+Pub. L. 112–213, title VI, § 601, Dec. 20, 2012, 126 Stat. 1576, provided that: “This title [amending this section and sections 1952 to 1956 of this title, transferring [section 1914 of this title](./chapter-033-prevention-of-pollution-from-ships.md#section-1914) to [section 1954 of this title](./chapter-33a-marine-debris-research-prevention-and-reduction.md#section-1954), repealing sections 1915 and 1954 of this title, and amending provisions set out as a note under this section] may be cited as the ‘Marine Debris Act Amendments of 2012’.”
+
+#### Short Title
+Pub. L. 109–449, § 1, Dec. 22, 2006, 120 Stat. 3333, as amended by Pub. L. 112–213, title VI, § 602(a), Dec. 20, 2012, 126 Stat. 1576, provided that: “This Act [enacting and amending this chapter] may be cited as the ‘Marine Debris Act’.”
 
 
 <a id="section-1952"></a>
-## § 1952. Flood control and other purposes
-**(a) Flood control**
+## § 1952. NOAA Marine Debris Program
+**(a) Establishment of Program** There is established, within the National Oceanic and Atmospheric Administration, a Marine Debris Program to identify, determine sources of, assess, prevent, reduce, and remove marine debris and address the adverse impacts of marine debris on the economy of the United States, the marine environment, and navigation safety.
 
-(1) **General rule** — The non-Federal interests for a project with costs assigned to flood control (other than a nonstructural project) shall—
+**(b) Program components** The Administrator, acting through the Program and subject to the availability of appropriations, shall—
 
-  (A) pay 5 percent of the cost of the project assigned to flood control during construction of the project;
+(1) identify, determine sources of, assess, prevent, reduce, and remove marine debris, with a focus on marine debris posing a threat to living marine resources and navigation safety;
 
-  (B) provide all lands, easements, rights-of-way, and dredged material disposal areas required only for flood control and perform all related necessary relocations; and
+(2) provide national and regional coordination to assist States, Indian tribes, and regional organizations in the identification, determination of sources, assessment, prevention, reduction, and removal of marine debris;
 
-  (C) provide that portion of the joint costs of lands, easements, rights-of-way, dredged material disposal areas, and relocations which is assigned to flood control.
+(3) undertake efforts to reduce the adverse impacts of lost and discarded fishing gear on living marine resources and navigation safety, including—
 
-(2) **35 percent minimum contribution** — If the value of the contributions required under paragraph (1) of this subsection is less than 35 percent of the cost of the project assigned to flood control, the non-Federal interest shall pay during construction of the project such additional amounts as are necessary so that the total contribution of the non-Federal interests under this subsection is equal to 35 percent of the cost of the project assigned to flood control.
+  (A) research and development of alternatives to gear posing threats to the marine environment and methods for marking gear used in certain fisheries to enhance the tracking, recovery, and identification of lost and discarded gear; and
 
-(3) **50 percent maximum** — The non-Federal share under paragraph (1) shall not exceed 50 percent of the cost of the project assigned to flood control. The preceding sentence does not modify the requirement of paragraph (1)(A) of this subsection.
+  (B) the development of effective nonregulatory measures and incentives to cooperatively reduce the volume of lost and discarded fishing gear and to aid in gear recovery;
 
-(4) **Deferred payment of amount exceeding 30 percent** — If the total amount of the contribution required under paragraph (1) of this subsection exceeds 30 percent of the cost of the project assigned to flood control, the non-Federal interests may pay the amount of the excess to the Secretary over a 15-year period (or such shorter period as may be agreed to by the Secretary and the non-Federal interests) beginning on the date construction of the project or separable element is completed, at an interest rate determined pursuant to [section 2216 of this title](./chapter-036-water-resources-development.md#section-2216). The preceding sentence does not modify the requirement of paragraph (1)(A) of this subsection.
+(4) undertake outreach and education activities for the public and other stakeholders on sources of marine debris, threats associated with marine debris, and approaches to identifying, determining sources of, assessing, preventing, reducing, and removing marine debris and its adverse impacts on the United States economy, the marine environment, and navigation safety, including outreach and education activities through public-private initiatives;
 
-**(b) Projects using nonstructural, natural, or nature-based features**
+(5) develop, in consultation with the Interagency Committee, interagency plans for the timely response to events determined by the Administrator to be severe marine debris events, including plans to—
 
-(1) **In general** — The non-Federal share of the cost of a flood risk management or hurricane and storm damage risk reduction measure using a nonstructural feature, or a natural feature or nature-based feature (as those terms are defined in [section 2289a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2289a/a&num=0&edition=prelim)), shall be 35 percent of the cost of such measures. The non-Federal interests for any such measures shall be required to provide all lands, easements, rights-of-way, dredged material disposal areas, and relocations necessary for the project, but shall not be required to contribute any amount in cash during construction for a nonstructural feature if the costs of land, easements, rights-of-way, dredged material disposal areas, and relocations for such feature are estimated to exceed 35 percent.
+  (A) coordinate across agencies and with relevant State, tribal, and local governments to ensure adequate, timely, and efficient response;
 
-(2) **Non-Federal contribution in excess of 35 percent** — At any time during construction of a project, if the Secretary determines that the costs of land, easements, rights-of-way, dredged material disposal areas, and relocations for the project, in combination with other costs contributed by the non-Federal interests, will exceed 35 percent, any additional costs for the project (not to exceed 65 percent of the total costs of the project) shall be a Federal responsibility and shall be contributed during construction as part of the Federal share.
+  (B) assess the composition, volume, and trajectory of marine debris associated with a severe marine debris event; and
 
-**(c) Other purposes** The non-Federal share of the cost assigned to other project purposes shall be as follows:
+  (C) estimate the potential impacts of a severe marine debris event, including economic impacts on human health, navigation safety, natural resources, tourism, and livestock, including aquaculture;
 
-(1) hydroelectric power: 100 percent, except that the marketing of such power and the recovery of costs of constructing, operating, maintaining, and rehabilitating such projects shall be in accordance with existing law: Provided, That after November 17, 1986, the Secretary shall not submit to Congress any proposal for the authorization of any water resources project that has a hydroelectric power component unless such proposal contains the comments of the appropriate Power Marketing Administrator designated pursuant to [section 7152 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7152&num=0&edition=prelim) concerning the appropriate Power Marketing Administration’s ability to market the hydroelectric power expected to be generated and not required in the operation of the project under the applicable Federal power marketing law, so that, 100 percent of operation, maintenance and replacement costs, 100 percent of the capital investment allocated to the purpose of hydroelectric power (with interest at rates established pursuant to or prescribed by applicable law), and any other costs assigned in accordance with law for return from power revenues can be returned within the period set for the return of such costs by or pursuant to such applicable Federal power marketing law;
+(6) work to develop outreach and education strategies with other Federal agencies to address sources of marine debris;
 
-(2) municipal and industrial water supply: 100 percent;
+(7) except for discharges of marine debris from vessels, in consultation with the Department of State and other Federal agencies, promote international action, as appropriate, to reduce the incidence of marine debris, including providing technical assistance to expand waste management systems internationally; and
 
-(3) agricultural water supply: 35 percent;
+(8) in the case of an event determined to be a severe marine debris event under subsection (c)—
 
-(4) recreation, including recreational navigation: 50 percent of separable costs and, in the case of any harbor or inland harbor or channel project, 50 percent of joint and separable costs allocated to recreational navigation;
+  (A) assist in the cleanup and response required by the severe marine debris event; or
 
-(5) hurricane and storm damage reduction: 35 percent;
+  (B) conduct such other activity as the Administrator determines is appropriate in response to the severe marine debris event.
 
-(6) aquatic plant control: 50 percent of control operations; and
+**(c) Severe marine debris events** At the discretion of the Administrator or at the request of the Governor of an affected State, the Administrator shall determine whether there is a severe marine debris event.
 
-(7) environmental protection and restoration: 35 percent; except that nothing in this paragraph shall affect or limit the applicability of [section 2283 of this title](./chapter-036-water-resources-development.md#section-2283).
+**(d) Grants, cooperative agreements, and contracts**
 
-**(d) Certain other costs assigned to project purposes**
+(1) **In general** — The Administrator, acting through the Program, shall enter into cooperative agreements and contracts and provide financial assistance in the form of grants for projects to accomplish the purpose set forth in [section 1951 of this title](./chapter-33a-marine-debris-research-prevention-and-reduction.md#section-1951).
 
-(1) **Construction** — Costs of constructing projects or measures for beach erosion control and water quality enhancement shall be assigned to appropriate project purposes listed in subsections (a), (b), and (c) and shall be shared in the same percentage as the purposes to which the costs are assigned, except that all costs assigned to benefits to privately owned shores (where use of such shores is limited to private interests) or to prevention of losses of private lands shall be borne by non-Federal interests and all costs assigned to the protection of federally owned shores shall be borne by the United States.
+(2) **Grant cost sharing requirement**
 
-(2) **Periodic nourishment**
+  (A) *In general* — Except as provided in subparagraphs (B) and (C), Federal funds for any grant under this section may not exceed 50 percent of the total cost of such project. For purposes of this subparagraph, the non-Federal share of project costs may be provided by in-kind contributions and other noncash support.
 
-  (A) *In general* — In the case of a project authorized for construction after December 31, 1999, except for a project for which a District Engineer’s Report is completed by that date, the non-Federal cost of the periodic nourishment of the project, or any measure for shore protection or beach erosion control for the project, that is carried out—
+  (B) *Waiver* — The Administrator may waive all or part of the matching requirement under subparagraph (A) if the Administrator determines that no reasonable means are available through which applicants can meet the matching requirement and the probable benefit of such project outweighs the public interest in such matching requirement.
 
-    (i) after January 1, 2001, shall be 40 percent;
+  (C) *Severe marine debris events* — Notwithstanding subparagraph (A), the Federal share of the cost of an activity carried out under a determination made under subsection (c) shall be—
 
-    (ii) after January 1, 2002, shall be 45 percent; and
+    (i) 100 percent of the cost of the activity, for an activity funded wholly by funds made available by a person, including the government of a foreign country, to the Federal Government for the purpose of responding to a severe marine debris event; or
 
-    (iii) after January 1, 2003, shall be 50 percent.
+    (ii) 75 percent of the cost of the activity, for any activity other than an activity funded as described in clause (i).
 
-  (B) *Benefits to privately owned shores* — All costs assigned to benefits of periodic nourishment projects or measures to privately owned shores (where use of such shores is limited to private interests) or to prevention of losses of private land shall be borne by the non-Federal interest.
+(3) **Amounts paid and services rendered under consent**
 
-  (C) *Benefits to federally owned shores* — All costs assigned to the protection of federally owned shores for periodic nourishment measures shall be borne by the United States.
+  (A) *Consent decrees and orders* — If authorized by the Administrator or the Attorney General, as appropriate, the non-Federal share of the cost of a project carried out under this chapter may include money paid pursuant to, or the value of any in-kind service performed under, an administrative order on consent or judicial consent decree that will remove or prevent marine debris.
 
-**(e) Applicability**
+  (B) *Other decrees and orders* — The non-Federal share of the cost of a project carried out under this chapter may not include any money paid pursuant to, or the value of any in-kind service performed under, any other administrative order or court order.
 
-(1) **In general** — This section applies to any project (including any small project which is not specifically authorized by Congress and for which the Secretary has not approved funding before November 17, 1986), or separable element thereof, on which physical construction is initiated after April 30, 1986, as determined by the Secretary, except as provided in paragraph (2). For the purpose of the preceding sentence, physical construction shall be considered to be initiated on the date of the award of a construction contract.
+(4) **Eligibility** — Any State, local, or tribal government whose activities affect research or regulation of marine debris, and any institution of higher education, nonprofit organization, or commercial organization with expertise in a field related to marine debris, is eligible to submit to the Administrator a marine debris proposal under the grant program.
 
-(2) **Exceptions** — This section shall not apply to the Yazoo Basin, Mississippi, Demonstration Erosion Control Program, authorized by Public Law 98–8, or to the Harlan, Kentucky, or Barbourville, Kentucky, elements of the project authorized by section 202 of Public Law 96–367.
+(5) **Project review and approval** — The Administrator shall—
 
-**(f) “Separable element” defined** For purposes of this Act, the term “separable element” means a portion of a project—
+  (A) review each marine debris project proposal to determine if it meets the grant criteria and supports the goals of this chapter;
 
-(1) which is physically separable from other portions of the project; and
+  (B) after considering any written comments and recommendations based on the review, approve or disapprove the proposal; and
 
-(2) which—
+  (C) provide notification of that approval or disapproval to the person who submitted the proposal.
 
-  (A) achieves hydrologic effects, or
-
-  (B) produces physical or economic benefits,
-  which are separately identifiable from those produced by other portions of the project.
-
-**(g) Deferral of payment**
-
-(1) With respect to the projects listed in paragraph (2), no amount of the non-Federal share required under this section shall be required to be paid during the three-year period beginning on November 17, 1986.
-
-(2) The projects referred to in paragraph (1) are the following:
-
-  (A) Boeuf and Tensas Rivers, Tensas Basin, Louisiana and Arkansas, authorized by the Flood Control Act of 1946;
-
-  (B) Eight Mile Creek, Arkansas, authorized by Public Law 99–88; and
-
-  (C) Rocky Bayou Area, Yazoo Backwater Area, Yazoo Basin, Mississippi, authorized by the Flood Control Act approved August 18, 1941.
-
-**(h) Assigned joint and separable costs** The share of the costs specified under this section for each project purpose shall apply to the joint and separable costs of construction of each project assigned to that purpose, except as otherwise specified in this Act.
-
-**(i) Lands, easements, rights-of-way, dredged material disposal areas, and relocations** Except as provided under [section 2283(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2283/c&num=0&edition=prelim), the non-Federal interests for a project to which this section applies shall provide all lands, easements, rights-of-way, and dredged material disposal areas required for the project and perform all necessary relocations, except to the extent limited by any provision of this section. The value of any contribution under the preceding sentence shall be included in the non-Federal share of the project specified in this section.
-
-**(j) Agreement**
-
-(1) **Requirement for agreement**
-
-  (A) *In general* — Any project to which this section applies (other than a project for hydroelectric power) shall be initiated only after non-Federal interests have entered into binding agreements with the Secretary to pay 100 percent of the operation, maintenance, and replacement and rehabilitation costs of the project, to pay the non-Federal share of the costs of construction required by this section, and to hold and save the United States free from damages due to the construction or operation and maintenance of the project, except for damages due to the fault or negligence of the United States or its contractors.
-
-  (B) *Inclusion* — An agreement under subparagraph (A) shall include a brief description and estimation of the anticipated operations, maintenance, and replacement and rehabilitation costs of the non-Federal interest for the project.
-
-(2) **Elements of agreement** — The agreement required pursuant to paragraph (1) shall be in accordance with the requirements of [section 1962d–5b of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962d–5b&num=0&edition=prelim) and shall provide for the rights and duties of the United States and the non-Federal interest with respect to the construction, operation, and maintenance of the project, including, but not limited to, provisions specifying that, in the event the non-Federal interest fails to provide the required non-Federal share of costs for such work, the Secretary—
-
-  (A) shall terminate or suspend work on the project unless the Secretary determines that continuation of the work is in the interest of the United States or is necessary in order to satisfy agreements with other non-Federal interests in connection with the project; and
-
-  (B) may terminate or adjust the rights and privileges of the non-Federal interest to project outputs under the terms of the agreement.
-
-**(k) Payment options**
-
-(1) **In general** — Except as otherwise provided in this section, the Secretary may permit the full non-Federal contribution to be made without interest during construction of the project or separable element, or with interest at a rate determined pursuant to [section 2216 of this title](./chapter-036-water-resources-development.md#section-2216) over a period of not more than thirty years from the date of completion of the project or separable element. Repayment contracts shall provide for recalculation of the interest rate at five-year intervals.
-
-(2) **Renegotiation of terms**
-
-  (A) *In general* — At the request of a non-Federal interest, the Secretary and the non-Federal interest may renegotiate the terms and conditions of an eligible deferred payment, including—
-
-    (i) permitting the non-Federal contribution to be made without interest, pursuant to paragraph (1);
-
-    (ii) recalculation of the interest rate;
-
-    (iii) full or partial forgiveness of interest accrued during the period of construction; and
-
-    (iv) a credit against construction interest for a non-Federal investment that benefits the completion or performance of the project or separable element.
-
-  (B) *Eligible deferred payment* — An eligible deferred payment agreement under subparagraph (A) is an agreement for which—
-
-    (i) the non-Federal contribution was made with interest;
-
-    (ii) the period of project construction exceeds 10 years from the execution of a project partnership agreement or appropriation of funds; and
-
-    (iii) the construction interest exceeds $45,000,000.
-
-(3) **Credit for non-Federal contribution**
-
-  (A) *In general* — The Secretary is authorized to credit any costs incurred by the non-Federal interest (including in-kind contributions) to remedy a design or construction deficiency of a covered project or separable element toward the non-Federal share of the cost of the covered project, if the Secretary determines the remedy to be integral to the completion or performance of the covered project.
-
-  (B) *Credit of costs* — If the non-Federal interest incurs costs or in-kind contributions for a project to remedy a design or construction deficiency of a project or separable element which has a 100 percent Federal cost share, and the Secretary determines the remedy to be integral to the completion or performance of the project, the Secretary is authorized to credit such costs to any interest accrued on a deferred non-Federal contribution.
-
-(4) **Treatment of pre-payment** — Notwithstanding a deferred payment agreement with a non-Federal interest, the Secretary shall accept, without interest of any type, the repayment of a non-Federal contribution for any eligible deferred payment described in paragraph (2)(B) for which—
-
-  (A) the non-Federal interest makes a payment of at least $200 million for that eligible deferred payment agreement on or before September 30, 2021; and
-
-  (B) the non-Federal interest repays the remaining principal by September 30, 2023.
-
-**(l) Delay of initial payment** At the request of any non-Federal interest the Secretary may permit such non-Federal interest to delay the initial payment of any non-Federal contribution under this section or [section 2211 of this title](./chapter-036-water-resources-development.md#section-2211) for up to one year after the date when construction is begun on the project for which such contribution is to be made. Any such delay in initial payment shall be subject to interest charges for up to six months at a rate determined pursuant to [section 2216 of this title](./chapter-036-water-resources-development.md#section-2216).
-
-**(m) Ability to pay**
-
-(1) **In general** — Any cost-sharing agreement under this section for a feasibility study, or for construction of an environmental protection and restoration project, a flood control project, a project for navigation, storm damage protection, shoreline erosion, hurricane protection, or recreation, or an agricultural water supply project, shall be subject to the ability of the non-Federal interest to pay.
-
-(2) **Criteria and procedures** — The ability of a non-Federal interest to pay shall be determined by the Secretary in accordance with criteria and procedures in effect under paragraph (3) on the day before December 11, 2000; except that such criteria and procedures shall be revised, and new criteria and procedures shall be developed, not later than December 31, 2007, to reflect the requirements of such paragraph (3).
-
-(3) **Revision of criteria and procedures** — In revising criteria and procedures pursuant to paragraph (2), the Secretary—
-
-  (A) shall consider—
-
-    (i) per capita income data for the county or counties in which the project is to be located; and
-
-    (ii) the per capita non-Federal cost of construction of the project for the county or counties in which the project is to be located; and
-
-  (B) may consider additional criteria relating to the non-Federal interest’s financial ability to carry out its cost-sharing responsibilities, to the extent that the application of such criteria does not eliminate areas from eligibility for a reduction in the non-Federal share as determined under subparagraph (A).
-
-(4) **Non-Federal share** — Notwithstanding subsection (a), the Secretary may reduce the requirement that a non-Federal interest make a cash contribution for any project that is determined to be eligible for a reduction in the non-Federal share under criteria and procedures in effect under paragraphs (1), (2), and (3).
-
-**(n) Non-Federal contributions**
-
-(1) **Prohibition on solicitation of excess contributions** — The Secretary may not—
-
-  (A) solicit contributions from non-Federal interests for costs of constructing authorized water resources projects or measures in excess of the non-Federal share assigned to the appropriate project purposes listed in subsections (a), (b), and (c); or
-
-  (B) condition Federal participation in such projects or measures on the receipt of such contributions.
-
-(2) **Limitation on statutory construction** — Nothing in this subsection shall be construed to affect the Secretary’s authority under section 903(c).11 See References in Text note below.
+(6) **Project reporting** — Each grantee under this section shall provide periodic reports as required by the Administrator. Each report shall include all information required by the Administrator for evaluating the progress and success in meeting its stated goals, and impact of the grant activities on the marine debris problem.
 
 ### Statutory Notes
 
-#### References in Text
-Public Law 98–8, referred to in subsec. (e)(2), is Pub. L. 98–8, Mar. 24, 1983, 97 Stat. 13. For complete classification of this Act to the Code, see Tables.
-
-Section 202 of Public Law 96–367, referred to in subsec. (e)(2), is section 202 of Pub. L. 96–367, title II, Oct. 1, 1980, 94 Stat. 1339, which is not classified to the Code.
-
-This Act, referred to in subsecs. (f) and (h), is Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4082, as amended, known as the Water Resources Development Act of 1986. For complete classification of this Act to the Code, see Short Title note set out under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201) and Tables.
-
-The Flood Control Act of 1946, referred to in subsec. (g)(2)(A), is act July 24, 1946, ch. 596, 60 Stat. 641, as amended. For complete classification of this Act to the Code, see Tables.
-
-Public Law 99–88, referred to in subsec. (g)(2)(B), is Pub. L. 99–88, Aug. 15, 1985, 99 Stat. 293, known as the Supplemental Appropriations Act, 1985. Provisions of Pub. L. 99–88 authorizing the project for Eight Mile Creek, Arkansas, are not classified to the Code. For complete classification of this Act to the Code, see Tables.
-
-The Flood Control Act approved August 18, 1941, referred to in subsec. (g)(2)(C), is act Aug. 18, 1941, ch. 377, 55 Stat. 638. For complete classification of this Act to the Code, see Tables.
-
-Section 903(c), referred to in subsec. (n)(2), is section 903(c) of Pub. L. 99–662, title IX, Nov. 17, 1986, 100 Stat. 4184, which is not classified to the Code.
-
 #### Amendments
-2020—Subsec. (b). Pub. L. 116–260, § 115(b)(1), substituted “Projects using nonstructural, natural, or nature-based features” for “Nonstructural flood control projects” in heading.
+2018—Subsec. (b)(6) to (8). Pub. L. 115–265, § 101(1), added pars. (6) to (8).
 
-Subsec. (b)(1). Pub. L. 116–260, § 115(b)(2), substituted “a flood risk management or hurricane and storm damage risk reduction measure using a nonstructural feature, or a natural feature or nature-based feature (as those terms are defined in [section 2289a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2289a/a&num=0&edition=prelim)),” for “nonstructural flood control measures” and “cash during construction for a nonstructural feature if the costs of land, easements, rights-of-way, dredged material disposal areas, and relocations for such feature are estimated to exceed 35 percent” for “cash during construction of the project”.
+Subsecs. (c), (d). Pub. L. 115–265, § 101(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-Subsec. (j)(1). Pub. L. 116–260, § 143, designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+Subsec. (d)(2)(A). Pub. L. 115–265, § 101(4)(A), substituted “subparagraphs (B) and (C)” for “subparagraph (B)”.
 
-Subsec. (k). Pub. L. 116–260, § 351, designated existing provisions as par. (1), inserted heading, and added pars. (2) to (4).
+Subsec. (d)(2)(C). Pub. L. 115–265, § 101(4)(B), added subpar. (C).
 
-2007—Subsec. (m)(2). Pub. L. 110–114, § 2019(a), substituted “December 31, 2007” for “180 days after December 11, 2000”.
+2012—Pub. L. 112–213, § 604(a)(1), struck out “Prevention and Removal” before “Program” in section catchline.
 
-Subsec. (n). Pub. L. 110–114, § 2001, added subsec. (n).
+Subsec. (a). Pub. L. 112–213, § 604(a)(2), substituted “Program to identify, determine sources of, assess, prevent, reduce, and remove marine debris and address the” for “Prevention and Removal Program to reduce and prevent the occurrence and” and “marine debris on the economy of the United States, the marine environment, and” for “marine debris on the marine environment and”.
 
-2000—Subsec. (m)(1), (2). Pub. L. 106–541, § 204(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which required any cost-sharing agreement to be subject to the ability of a non-Federal interest to pay and required the Secretary to determine ability to pay using certain criteria and procedures.
+Subsec. (b). Pub. L. 112–213, § 604(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) described components of the Marine Debris Prevention and Removal Program.
 
-Subsec. (m)(3)(B), (C). Pub. L. 106–541, § 204(2), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “shall not consider criteria (other than criteria described in subparagraph (A)) in effect on the day before October 12, 1996; and”.
+Subsec. (c)(1). Pub. L. 112–213, § 604(c)(1), substituted “section 1951” for “section 1951(1)”.
 
-1999—Subsec. (b). Pub. L. 106–53, § 219(c)(1), which directed insertion of the par. (1) designation and heading before “The non-Federal”, was executed by making the insertion before that phrase the first place it appeared to reflect the probable intent of Congress.
-
-Subsec. (b)(2). Pub. L. 106–53, § 219(c)(2), added par. (2).
-
-Subsec. (d). Pub. L. 106–53, § 215(a), designated existing provisions as par. (1), inserted heading, and added par. (2).
-
-Subsec. (d)(2)(A). Pub. L. 106–109 substituted “except for a project for which a District Engineer’s Report is completed by that date,” for “or for which a feasibility study is completed after that date,”.
-
-1996—Subsecs. (a)(2), (b). Pub. L. 104–303, § 202(a)(1)(A), substituted “35 percent” for “25 percent” wherever appearing.
-
-Subsec. (c)(7). Pub. L. 104–303, § 210(a), added par. (7).
-
-Subsec. (e)(1). Pub. L. 104–303, § 202(a)(2), inserted at end “For the purpose of the preceding sentence, physical construction shall be considered to be initiated on the date of the award of a construction contract.”
-
-Subsec. (m). Pub. L. 104–303, § 202(b)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Any cost-sharing agreement under this section for flood control or agricultural water supply shall be subject to the ability of a non-Federal interest to pay. The ability of any non-Federal interest to pay shall be determined by the Secretary in accordance with procedures established by the Secretary.”
-
-1992—Subsec. (i). Pub. L. 102–580, § 333(b)(2), substituted “Except as provided under [section 2283(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2283/c&num=0&edition=prelim), the non-Federal” for “The non-Federal”.
-
-Subsec. (m). Pub. L. 102–580, § 201(a), amended subsec. (m) generally. Prior to amendment, subsec. (m) read as follows:
-
-“(1) General rule.—Any cost-sharing agreement under this section for flood control or agricultural water supply shall be subject to the ability of a non-Federal interest to pay.
-
-“(2) Procedures.—
-
-“(A) In general.—The ability of any non-Federal interest to pay shall be determined by the Secretary in accordance with procedures established by the Secretary.
-
-“(B) Limitations.—The procedures established pursuant to this subsection shall provide for a reduction in any non-Federal cash contribution required under subsection (a)(2) of this section. In addition, such procedures shall provide for determination of the eligibility of the non-Federal interest for a reduction in the required cash contribution on the basis of local, not statewide, economic and financial data.
-
-“(C) Regulations.—Not later than 1 year after November 28, 1990, the Secretary shall issue regulations establishing the procedures required by this paragraph.”
-
-1990—Subsec. (m). Pub. L. 101–640 amended subsec. (m) generally. Prior to amendment, subsec. (m) read as follows: “Any cost-sharing agreement under this section for flood control or agricultural water supply shall be subject to the ability of a non-Federal interest to pay. The ability of any non-Federal interest to pay shall be determined by the Secretary in accordance with procedures established by the Secretary.”
-
-#### Effective Date of 1996 Amendment
-Pub. L. 104–303, title II, § 202(a)(1)(B), Oct. 12, 1996, 110 Stat. 3673, provided that: “The amendments made by subparagraph (A) [amending this section] shall apply to any project authorized after the date of the enactment of this Act [Oct. 12, 1996] and to any flood control project that is not specifically authorized by Congress for which a Detailed Project Report is approved after such date of enactment or, in the case of a project for which no Detailed Project Report is prepared, construction is initiated after such date of enactment.”
-
-Pub. L. 104–303, title II, § 202(b)(2), Oct. 12, 1996, 110 Stat. 3674, provided that: “(A) Generally.—Subject to subparagraph (C), the amendment made by paragraph (1) [amending this section] shall apply to any project, or separable element thereof, with respect to which the Secretary and the non-Federal interest enter into a project cooperation agreement after December 31, 1997. “(B) Amendment of cooperation agreement.—If requested by the non-Federal interest, the Secretary shall amend a project cooperation agreement executed on or before the date of the enactment of this Act [Oct. 12, 1996] to reflect the application of the amendment made by paragraph (1) to any project for which a contract for construction has not been awarded on or before such date of enactment. “(C) Non-federal option.—If requested by the non-Federal interest, the Secretary shall apply the criteria and procedures established pursuant to section 103(m) of the Water Resources Development Act of 1986 [subsec. (m) of this section] as in effect on the day before the date of the enactment of this Act for projects that are authorized before the date of the enactment of this Act.”
-
-[Reference to “project cooperation agreement” deemed to be reference to “project partnership agreement”, see section 2003(f)(2) of Pub. L. 110–114, set out as a note under [section 1962d–5b of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962d–5b&num=0&edition=prelim), The Public Health and Welfare.]
-
-Pub. L. 104–303, title II, § 210(b), Oct. 12, 1996, 110 Stat. 3681, provided that: “The amendments made by subsection (a) [amending this section] apply only to projects authorized after the date of the enactment of this Act [Oct. 12, 1996].”
-
-#### Continuation of Existing Regulations
-Pub. L. 101–640, title III, § 305(b), Nov. 28, 1990, 104 Stat. 4635, provided that: “Regulations issued to carry out section 103(m) of the Water Resources Development Act of 1986 [[33 U.S.C. 2213(m)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2213/m&num=0&edition=prelim)] before the date of the enactment of this Act [Nov. 28, 1990] and in effect on such date shall continue in effect until regulations are issued pursuant to paragraph (2)(C) of such section, as added by subsection (a) of this section.”
-
-#### Reports to Congress
-Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 401, provided that: “The Secretary of the Army shall file a report with the appropriate committees of the House of Representatives and the Senate within ninety days after a written request is made pursuant to the provisions of subsection (m) of section 103 of Public Law 99–662 [[33 U.S.C. 2213(m)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2213/m&num=0&edition=prelim)] indicating the action taken on the request. In addition, the Secretary of the Army shall file a report with the appropriate committees of the House of Representatives and the Senate within ninety days after enactment of this Act [July 11, 1987] listing any project or study falling under the provisions of subsection (e)(1) of section 103 of Public Law 99–662.”
+Subsec. (c)(5) to (7). Pub. L. 112–213, § 604(c)(2), (3), redesignated pars. (6) and (7) as (5) and (6), respectively, and struck out former par. (5) which required the Administrator to promulgate necessary guidelines for implementation of the grant program within 180 days after Dec. 22, 2006.
 
 
 <a id="section-1953"></a>
-## § 1953. Treatment of certain benefits and costs
-**(a) In general** In the case of a flood risk management project that incidentally generates seismic safety benefits in regions of moderate or high seismic hazard, for the purpose of a benefit-cost analysis for the project, the Secretary shall not include in that analysis any additional design and construction costs resulting from addressing seismic concerns.
+## § 1953. Coast Guard program
 
-**(b) Savings provision** Except with respect to the benefit-cost analysis, the additional costs referred to in subsection (a) shall be—
+The Commandant of the Coast Guard, in consultation with the Interagency Committee, shall—
 
-(1) included in the total project cost; and
+(1) take actions to reduce violations of and improve implementation of MARPOL Annex V and the Act to Prevent Pollution from Ships ([33 U.S.C. 1901](./chapter-033-prevention-of-pollution-from-ships.md#section-1901) et seq.) with respect to the discard of plastics and other garbage from vessels;
 
-(2) subject to cost-share requirements otherwise applicable to the project.
+(2) take actions to cost-effectively monitor and enforce compliance with MARPOL Annex V and the Act to Prevent Pollution from Ships ([33 U.S.C. 1901](./chapter-033-prevention-of-pollution-from-ships.md#section-1901) et seq.), including through cooperation and coordination with other Federal and State enforcement programs;
+
+(3) take actions to improve compliance with requirements under MARPOL Annex V and section 6 of the Act to Prevent Pollution from Ships ([33 U.S.C. 1905](./chapter-033-prevention-of-pollution-from-ships.md#section-1905)) that all United States ports and terminals maintain and monitor the adequacy of receptacles for the disposal of plastics and other garbage, including through promoting voluntary government-industry partnerships;
+
+(4) develop and implement a plan, in coordination with industry and recreational boaters, to improve ship-board waste management, including recordkeeping, and access to waste reception facilities for ship-board waste;
+
+(5) take actions to improve international cooperation to reduce marine debris; and
+
+(6) establish a voluntary reporting program for commercial vessel operators and recreational boaters to report incidents of damage to vessels and disruption of navigation caused by marine debris, and observed violations of laws and regulations relating to the disposal of plastics and other marine debris.
 
 ### Statutory Notes
 
-#### Codification
-Section was enacted as part of the Water Resources Development Act of 2020, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+#### References in Text
+The Act to Prevent Pollution from Ships, referred to in pars. (1) and (2), is Pub. L. 96–478, Oct. 21, 1980, 94 Stat. 2297, which is classified principally to chapter 33 (§ 1901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1901 of this title](./chapter-033-prevention-of-pollution-from-ships.md#section-1901) and Tables.
 
-#### “Secretary” Defined
-Secretary means the Secretary of the Army, see section 2 of div. AA of Pub. L. 116–260, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
+#### Amendments
+2012—Pub. L. 112–213 struck out subsec. (a) designation and heading “Strategy” and struck out subsecs. (b) and (c) which required reports on the Coast Guard’s progress in implementing former subsec. (a) and on the effectiveness of international and national measures to prevent and reduce marine debris and its impact.
 
 
 <a id="section-1954"></a>
-## § 1954. General credit for flood control
-**(a) Guidelines** Within one year after November 17, 1986, the Secretary shall issue guidelines to carry out this section, consistent with the principles and guidelines on project formulation. The guidelines shall include criteria for determining whether work carried out by non-Federal interests is compatible with a project for flood control and procedures for making such determinations. The guidelines under this section shall be promulgated after notice in the Federal Register and opportunity for comment.
+## § 1954. Coordination
+**(a) Establishment of Interagency Marine Debris Coordinating Committee** There is established an Interagency Marine Debris Coordinating Committee to coordinate a comprehensive program of marine debris research and activities among Federal agencies, in cooperation and coordination with non-governmental organizations, industry, universities, and research institutions, States, Indian tribes, and other nations, as appropriate.
 
-**(b) Analysis of costs and benefits** The guidelines established under subsection (a) shall provide for the Secretary to consider, in analyzing the costs and benefits of a proposed project for flood control, the costs and benefits produced by any flood control work carried out by non-Federal interests that the Secretary determines to be compatible with the project. For purposes of the preceding sentence the Secretary may consider only work carried out after the date which is 5 years before the first obligation of funds for the reconnaissance study for such project. In no case may work which was carried out more than 5 years before November 17, 1986, be considered under this subsection, unless otherwise provided in this Act.
+**(b) Membership** The Committee shall include a senior official from—
 
-**(c) Crediting of non-Federal share** The guidelines established under subsection (a) shall provide for crediting the cost of work carried out by the non-Federal interests against the non-Federal share of the cost of an authorized project for flood control as follows:
+(1) the National Oceanic and Atmospheric Administration, who shall serve as the Chairperson of the Committee;
 
-(1) Work which is carried out after the end of the reconnaissance study and before the submission to Congress of the final report of the Chief of Engineers on the project and which is determined by the Secretary to be compatible with the project shall be included as part of the project and shall be recommended by the Secretary in the final report for credit against the non-Federal share of the cost of the project.
+(2) the Environmental Protection Agency;
 
-(2) Work which is carried out after submission of the final report of the Chief of Engineers to Congress and which is determined by the Secretary to be compatible with the project shall be considered as part of the project and shall be credited by the Secretary against the non-Federal share of the cost of the project in accordance with the guidelines promulgated pursuant to subsection (a).
-In no event may work which was carried out more than 5 years before November 17, 1986, be considered under this subsection, unless otherwise provided in this Act.
+(3) the United States Coast Guard;
 
-**(d) Procedure for work done before November 17, 1986** The Secretary shall consider, under subsections (b) and (c), work carried out before November 17, 1986, by non-Federal interests on a project for flood control, if the non-Federal interests apply to the Secretary for consideration of such work not later than March 31, 1987. The Secretary shall make determinations under subsections (b) and (c) with respect to such work not later than 6 months after guidelines are issued under subsection (a).
+(4) the United States Navy;
 
-**(e) Procedure for work done after November 17, 1986** The Secretary shall consider work carried out after November 17, 1986, by non-Federal interests on a project for flood control under subsections (b) and (c) in accordance with the guidelines issued under subsection (a). The guidelines shall require prior approval by the Secretary of any flood control work carried out after November 17, 1986, in order to be considered under this section, taking into account the economic and environmental feasibility of the project.
+(5) the Department of State;
 
-**(f) Limitation not applicable** Any flood control work included as part of the non-Federal share of the cost of a project under this section shall not be subject to the limitation contained in the last sentence of [section 1962d–5a(a) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962d–5a/a&num=0&edition=prelim).
+(6) the Department of the Interior; and
 
-**(g) Cash contribution not affected** Nothing in this section affects the requirement of [section 2213(a)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2213/a/1/A&num=0&edition=prelim).
+(7) such other Federal agencies that have an interest in ocean issues or water pollution prevention and control as the Secretary of Commerce determines appropriate.
+
+**(c) Meetings** The Committee shall meet at least twice a year to provide a public, interagency forum to ensure the coordination of national and international research, monitoring, education, and regulatory actions addressing the persistent marine debris problem.
+
+**(d) Monitoring** The Secretary of Commerce, acting through the Administrator of the National Oceanic and Atmospheric Administration, in cooperation with the Administrator of the Environmental Protection Agency, shall utilize the marine debris data derived under title V of the Marine Protection, Research, and Sanctuaries Act of 1972 ([33 U.S.C. 2801](./chapter-041-national-coastal-monitoring.md#section-2801) et seq.) to assist—
+
+(1) the Committee in ensuring coordination of research, monitoring, education and regulatory actions; and
+
+(2) the United States Coast Guard in assessing the effectiveness of the Marine Plastic Pollution Research and Control Act of 1987 and the Act to Prevent Pollution from Ships [[33 U.S.C. 1901](./chapter-033-prevention-of-pollution-from-ships.md#section-1901) et seq.] in ensuring compliance under section 2201 of the Marine Plastic Pollution Research and Control Act of 1987 [[33 U.S.C. 1913](./chapter-033-prevention-of-pollution-from-ships.md#section-1913)].
+
+**(e) Biennial progress reports** Biennially, the Committee, through the Chairperson, shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure and the Committee on Natural Resources of the House of Representatives a report that evaluates United States and international progress in meeting the purpose of this chapter. The report shall include—
+
+(1) the status of implementation of any recommendations and strategies of the Committee and analysis of their effectiveness;
+
+(2) a summary of the marine debris inventory to be maintained by the National Oceanic and Atmospheric Administration;
+
+(3) a review of the National Oceanic and Atmospheric Administration program authorized by [section 1952 of this title](./chapter-33a-marine-debris-research-prevention-and-reduction.md#section-1952), including projects funded and accomplishments relating to reduction and prevention of marine debris;
+
+(4) a review of Coast Guard programs and accomplishments relating to marine debris removal, including enforcement and compliance with MARPOL requirements; and
+
+(5) estimated Federal and non-Federal funding provided for marine debris and recommendations for priority funding needs.
 
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsecs. (b) and (c), is Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4082, as amended, known as the Water Resources Development Act of 1986. For complete classification of this Act to the Code, see Short Title note set out under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201) and Tables.
+The Marine Protection, Research, and Sanctuaries Act of 1972, referred to in subsec. (d), is Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052. Title V of the Act, popularly known as the National Coastal Monitoring Act, is classified generally to chapter 41 (§ 2801 et seq.) of this title. For complete classification of title V to the Code, see Short Title note set out under [section 2801 of this title](./chapter-041-national-coastal-monitoring.md#section-2801) and Tables.
+
+The Marine Plastic Pollution Research and Control Act of 1987, referred to in subsec. (d)(2), is Pub. L. 100–220, title II, Dec. 29, 1987, 101 Stat. 1460. For complete classification of this Act to the Code, see Short Title of 1987 Amendment note set out under [section 1901 of this title](./chapter-033-prevention-of-pollution-from-ships.md#section-1901) and Tables.
+
+The Act to Prevent Pollution from Ships, referred to in subsec. (d)(2), is Pub. L. 96–478, Oct. 21, 1980, 94 Stat. 2297, which is classified principally to chapter 33 (§ 1901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1901 of this title](./chapter-033-prevention-of-pollution-from-ships.md#section-1901) and Tables.
+
+#### Codification
+Former [section 1954(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1954/c/2&num=0&edition=prelim), which was transferred and redesignated as subsec. (e) of this section by Pub. L. 112–213, title VI, § 606(b)(1), Dec. 20, 2012, 126 Stat. 1578, was based on Pub. L. 109–449, § 5(c)(2), Dec. 22, 2006, 120 Stat. 3338.
+
+Section was formerly section 2203 of Pub. L. 100–220 and was classified to [section 1914 of this title](./chapter-033-prevention-of-pollution-from-ships.md#section-1914).
+
+#### Prior Provisions
+A prior section 5 of Pub. L. 109–449, Dec. 22, 2006, 120 Stat. 3337, which related to interagency coordination to address problems of marine debris, was classified to this section prior to repeal by Pub. L. 112–213, title VI, § 606(a)(1), Dec. 20, 2012, 126 Stat. 1578. Subsec. (a) of such prior section 5 of Pub. L. 109–449 amended section 2203 of Pub. L. 100–220, which was renumbered as a new section 5 of Pub. L. 109–449 by Pub. L. 112–213 and was transferred to this section.
+
+#### Amendments
+2018—Subsec. (b)(5) to (7). Pub. L. 115–265 added pars. (5) and (6) and redesignated former par. (5) as (7).
+
+2012—Subsec. (d)(2). Pub. L. 112–213, § 606(a)(2), substituted “the Marine Plastic Pollution Research and Control Act of 1987” for “this Act” and inserted “of the Marine Plastic Pollution Research and Control Act of 1987” after “section 2201”.
+
+Subsec. (e). Pub. L. 112–213, § 606(b)(2), in heading, substituted “Biennial progress reports” for “Annual progress reports” and in text, substituted “Biennially” for “Not later than 3 years after December 22, 2006, and biennially thereafter” and “Chairperson” for “chairperson”, inserted “Natural” before “Resources”, and struck out “Interagency” before “Committee, through” and before “Committee and”, redesignated subpars. (A) to (E) as pars. (1) to (5), respectively, and realigned margins.
+
+Pub. L. 112–213, § 606(b)(1), transferred subsec. (c)(2) of former [section 1954 of this title](./chapter-33a-marine-debris-research-prevention-and-reduction.md#section-1954) and redesignated it as subsec. (e) of this section. See Codification note above.
+
+2006—Subsec. (a). Pub. L. 109–449, § 5(a)(1), added subsec. (a) and struck out former subsec. (a). Text read as follows: “The Secretary of Commerce shall establish a Marine Debris Coordinating Committee.”
+
+Subsec. (c). Pub. L. 109–449, § 5(a)(2), inserted “public, interagency” before “forum”.
+
+1996—Pub. L. 104–324 amended section generally. Prior to amendment, section read as follows: “Not later than September 30, 1988, the Secretary of Commerce shall submit to the Congress a report on the effects of plastic materials on the marine environment. The report shall—
+
+“(1) identify and quantify the harmful effects of plastic materials on the marine environment;
+
+“(2) assess the specific effects of plastic materials on living marine resources in the marine environment;
+
+“(3) identify the types and classes of plastic materials that pose the greatest potential hazard to living marine resources;
+
+“(4) analyze, in consultation with the Director of the National Bureau of Standards, plastic materials which are claimed to be capable of reduction to environmentally benign submits under the action of normal environmental forces (including biological decomposition, photodegradation, and hydrolysis); and
+
+“(5) recommend legislation which is necessary to prohibit, tax, or regulate sources of plastic materials that enter the marine environment.”
+
+#### Transfer of Functions
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
 
 <a id="section-1955"></a>
-## § 1955. Feasibility studies; planning, engineering, and design
-**(a) Feasibility studies**
+## § 1955. Federal information clearinghouse
 
-(1) **Cost sharing**
+The Administrator, in coordination with the Interagency Committee, shall—
 
-  (A) *In general* — The Secretary shall not initiate any feasibility study for a water resources project after November 17, 1986, until appropriate non-Federal interests agree, by contract, to contribute 50 percent of the cost of the study.
+(1) maintain a Federal information clearinghouse on marine debris that will be available to researchers and other interested persons to improve marine debris source identification, data sharing, and monitoring efforts through collaborative research and open sharing of data; and
 
-  (B) *Payment of cost share during period of study* — During the period of the study, the non-Federal share of the cost of the study payable under subparagraph (A) shall be 50 percent of the sum of—
-
-    (i) the cost estimate for the study as contained in the feasibility cost-sharing agreement; and
-
-    (ii) any excess of the cost of the study over the cost estimate if the excess results from—
-
-      (I) a change in Federal law; or
-
-      (II) a change in the scope of the study requested by the non-Federal interests.
-
-  (C) *Payment of cost share on authorization of project or termination of study*
-
-    (i) *Project timely authorized* — Except as otherwise agreed to by the Secretary and the non-Federal interests and subject to clause (ii), the non-Federal share of any excess of the cost of the study over the cost estimate (excluding any excess cost described in subparagraph (B)(ii)) shall be payable on the date on which the Secretary and the non-Federal interests enter into an agreement pursuant to section 2211(e) or 2213(j) of this title with respect to the project.
-
-    (ii) *Project not timely authorized* — If the project that is the subject of the study is not authorized by the date that is 5 years after the completion of the final report of the Chief of Engineers concerning the study or the date that is 2 years after the termination of the study, the non-Federal share of any excess of the cost of the study over the cost estimate (excluding any excess cost described in subparagraph (B)(ii)) shall be payable to the United States on that date.
-
-  (D) *Amendment of cost estimate* — The cost estimate referred to in subparagraph (B)(i) may be amended only by agreement of the Secretary and the non-Federal interests.
-
-  (E) *In-kind contributions* — The non-Federal share required under this paragraph may be satisfied by the provision of services, materials, supplies, or other in-kind services necessary to prepare the feasibility report.
-
-(2) **Applicability** — This subsection shall not apply to any water resources study primarily designed for the purposes of navigational improvements in the nature of dams, locks, and channels on the Nation’s system of inland waterways.
-
-(3) **Detailed project reports** — The requirements of this subsection that apply to a feasibility study also shall apply to a study that results in a detailed project report, except that—
-
-  (A) the first $100,000 of the costs of a study that results in a detailed project report shall be a Federal expense; and
-
-  (B) paragraph (1)(C)(ii) shall not apply to such a study.
-
-**(b) Planning and engineering** The Secretary shall not initiate any planning or engineering for a water resources project until appropriate non-Federal interests agree, by contract, to contribute 50 percent of the cost of the planning and engineering during the period of the planning and engineering. Costs of planning and engineering of projects for which non-Federal interests contributed 50 percent of the cost of the feasibility study shall be treated as costs of construction.
-
-**(c) Design** Costs of design of a water resources project shall be shared in the same percentage as the purposes of such project.
-
-**(d) Definitions** In this section, the following definitions apply:
-
-(1) **Detailed project report** — The term “detailed project report” means a report for a project not specifically authorized by Congress in law or otherwise that determines the feasibility of the project with a level of detail appropriate to the scope and complexity of the recommended solution and sufficient to proceed directly to the preparation of contract plans and specifications. The term includes any associated environmental impact statement and mitigation plan. For a project for which the Federal cost does not exceed $1,000,000, the term includes a planning and design analysis document.
-
-(2) **Feasibility study** — The term “feasibility study” means a study that results in a feasibility report under [section 2282 of this title](./chapter-036-water-resources-development.md#section-2282), and any associated environmental impact statement and mitigation plan, prepared by the Corps of Engineers for a water resources project. The term includes a study that results in a project implementation report prepared under title VI of the Water Resources Development Act of 2000 (114 Stat. 2680–2694), a general reevaluation report, and a limited reevaluation report.
+(2) take the necessary steps to ensure the confidentiality of such information (especially proprietary information), for any information required by the Administrator to be submitted under this section.
 
 ### Statutory Notes
 
-#### References in Text
-The Water Resources Development Act of 2000, referred to in subsec. (d)(2), is Pub. L. 106–541, Dec. 11, 2000, 114 Stat. 2572. Title VI of the Act is not classified to the Code. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201) and Tables.
-
 #### Amendments
-2007—Subsec. (a)(3). Pub. L. 110–114, § 2043(a)(1), added par. (3).
-
-Subsec. (b). Pub. L. 110–114, § 2043(a)(2), struck out “authorized by this Act” before “for a water resources project”.
-
-Subsec. (d). Pub. L. 110–114, § 2043(a)(3), added subsec. (d).
-
-2000—Subsec. (a)(1)(E). Pub. L. 106–541 substituted “The” for “Not more than ½ of the”.
-
-1996—Subsec. (a)(1). Pub. L. 104–303, § 203(a)(1), inserted heading and amended text of par. (1) generally. Prior to amendment text read as follows: “The Secretary shall not initiate any feasibility study for a water resources project after November 17, 1986, until appropriate non-Federal interests agree, by contract, to contribute 50 percent of the cost for such study during the period of such study. Not more than one-half of such non-Federal contribution may be made by the provision of services, materials, supplies, or other in-kind services necessary to prepare the feasibility report.”
-
-Subsec. (a)(2). Pub. L. 104–303, § 203(a)(2), inserted heading.
-
-1990—Subsec. (b). Pub. L. 101–640 inserted at end “Costs of planning and engineering of projects for which non-Federal interests contributed 50 percent of the cost of the feasibility study shall be treated as costs of construction.”
-
-#### Effective Date of 1996 Amendment
-Pub. L. 104–303, title II, § 203(b), Oct. 12, 1996, 110 Stat. 3678, provided that: “The amendments made by subsection (a) [amending this section] shall apply notwithstanding any feasibility cost-sharing agreement entered into by the Secretary and the non-Federal interests. On request of the non-Federal interest, the Secretary shall amend any feasibility cost-sharing agreements in effect on the date of the enactment of this Act [Oct. 12, 1996] so as to conform the agreements with the amendments.”
-
-#### No Requirement of Reimbursement
-Pub. L. 104–303, title II, § 203(c), Oct. 12, 1996, 110 Stat. 3678, provided that: “Nothing in this section [amending this section and enacting provisions set out above] or any amendment made by this section requires the Secretary to reimburse the non-Federal interests for funds previously contributed for a study.”
+2012—Par. (2). Pub. L. 112–213 struck out “by the fishing industry” after “to be submitted”.
 
 
 <a id="section-1956"></a>
-## § 1956. Rate of interest
+## § 1956. Definitions
 
-Whenever a non-Federal interest is required or elects to repay an amount under this Act over a period of time, the amount to be repaid shall include interest at a rate determined by the Secretary of the Treasury, taking into consideration the average market yields on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the reimbursement period, during the month preceding the fiscal year in which costs for the construction of the project are first incurred (or in the case of recalculation the fiscal year in which the recalculation is made), plus a premium of one-eighth of one percentage point for transaction costs; except that such rates for hydroelectric power shall be in accordance with existing law.
+In this chapter:
+
+(1) **Administrator** — The term “Administrator” means the Administrator of the National Oceanic and Atmospheric Administration.
+
+(2) **Interagency Committee** — The term “Interagency Committee” means the Interagency Marine Debris Coordinating Committee established under [section 1954 of this title](./chapter-33a-marine-debris-research-prevention-and-reduction.md#section-1954).
+
+(3) **Marine debris** — The term “marine debris” means any persistent solid material that is manufactured or processed and directly or indirectly, intentionally or unintentionally, disposed of or abandoned into the marine environment or the Great Lakes.
+
+(4) **MARPOL; Annex V; Convention** — The terms “MARPOL”, “Annex V”, and “Convention” have the meaning given those terms under [section 1901(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1901/a&num=0&edition=prelim).
+
+(5) **Program** — The term “Program” means the Marine Debris Program established under [section 1952 of this title](./chapter-33a-marine-debris-research-prevention-and-reduction.md#section-1952).
+
+(6) **Severe marine debris event** — The term “severe marine debris event” means atypically large amounts of marine debris caused by a natural disaster, including a tsunami, flood, landslide, or hurricane, or other source.
+
+(7) **State** — The term “State” means—
+
+  (A) any State of the United States that is impacted by marine debris within its seaward or Great Lakes boundaries;
+
+  (B) the District of Columbia;
+
+  (C) American Samoa, Guam, the Northern Mariana Islands, Puerto Rico, and the Virgin Islands; and
+
+  (D) any other territory or possession of the United States, or separate sovereign in free association with the United States, that is impacted by marine debris within its seaward boundaries.
 
 ### Statutory Notes
 
-#### References in Text
-This Act, referred to in text, is Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4082, as amended, known as the Water Resources Development Act of 1986. For complete classification of this Act to the Code, see Short Title note set out under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201) and Tables.
+#### Amendments
+2012—Par. (2). Pub. L. 112–213, § 608(1), substituted “[section 1954 of this title](./chapter-33a-marine-debris-research-prevention-and-reduction.md#section-1954)” for “[section 1914 of this title](./chapter-033-prevention-of-pollution-from-ships.md#section-1914)”.
+
+Par. (3). Pub. L. 112–213, § 608(2), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The term ‘United States exclusive economic zone’ means the zone established by Presidential Proclamation Numbered 5030, dated March 10, 1983, including the ocean waters of the areas referred to as ‘eastern special areas’ in article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990.”
+
+Par. (5). Pub. L. 112–213, § 608(3)–(5), redesignated par. (7) as (5), struck out “Prevention and Removal” before “Program”, and struck out former par. (5). Prior to amendment, text of par. (5) read as follows: “The term ‘navigable waters’ means waters of the United States, including the territorial sea.”
+
+Par. (6). Pub. L. 112–213, § 608(6), added par. (6) and struck out former par. (6). Prior to amendment, text read as follows: “The term ‘territorial sea’ means the waters of the United States referred to in Presidential Proclamation No. 5928, dated December 27, 1988.”
+
+Pars. (7), (8). Pub. L. 112–213, § 608(7), redesignated par. (8) as (7). Former par. (7) redesignated (5).
 
 
 <a id="section-1957"></a>
-## § 1957. Limitation on applicability of certain provisions in reports
+## § 1957. Relationship to Outer Continental Shelf Lands Act
 
-If any provision in any report designated by this Act recommends that a State contribute in cash 5 percent of the construction costs allocated to non-vendible project purposes and 10 percent of the construction costs allocated to vendible project purposes, such provision shall not apply to the project recommended in such report.
+Nothing in this chapter supersedes, or limits the authority of the Secretary of the Interior under, the Outer Continental Shelf Lands Act ([43 U.S.C. 1331](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim) et seq.).
 
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4082, as amended, known as the Water Resources Development Act of 1986. For complete classification of this Act to the Code, see Short Title note set out under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 109–449, Dec. 22, 2006, 120 Stat. 3333, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1951 of this title](./chapter-33a-marine-debris-research-prevention-and-reduction.md#section-1951) and Tables.
+
+The Outer Continental Shelf Lands Act, referred to in text, is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim) and Tables.
 
 
 <a id="section-1958"></a>
-## § 1958. General applicability of cost sharing
+## § 1958. Authorization of appropriations
+**(a) In general** There is authorized to be appropriated to the Administrator $15,000,000 for each of fiscal years 2018 through 2022 for carrying out sections 1952, 1954, and 1955 of this title, of which not more than 7 percent is authorized for each fiscal year for administrative costs.
 
-Unless otherwise specified, the cost sharing provisions of this subchapter shall apply to all projects in this Act. The Federal share of any cost of a project authorized by this Act for which cost a Federal share is not established in this subchapter, shall be the share of such cost otherwise provided by law.
+**(b) Amounts authorized for Coast Guard** Of the amounts authorized for each fiscal year under section 2702(1) 11 See References in Text note below. of title 14, up to $2,000,000 is authorized for the Secretary of the department in which the Coast Guard is operating for use by the Commandant of the Coast Guard to carry out [section 1953 of this title](./chapter-33a-marine-debris-research-prevention-and-reduction.md#section-1953), of which not more than 5 percent is authorized for each fiscal year for administrative costs.
 
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4082, as amended, known as the Water Resources Development Act of 1986. For complete classification of this Act to the Code, see Short Title note set out under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201) and Tables.
+[Section 2702 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2702&num=0&edition=prelim), referred to in subsec. (b), was redesignated [section 4902 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section4902&num=0&edition=prelim) by Pub. L. 115–282, title I, § 121(b), Dec. 4, 2018, 132 Stat. 4238, and references to [section 2702 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2702&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
+
+#### Amendments
+2020—Subsec. (a). Pub. L. 116–224 substituted “$15,000,000” for “$10,000,000” and “7 percent” for “5 percent”.
+
+2018—Pub. L. 115–265 amended section generally. Prior to amendment, section read as follows: “There are authorized to be appropriated for each fiscal year 2006 through 2010—
+
+“(1) to the Administrator for carrying out sections 1952 and 1955 of this title, $10,000,000, of which no more than 10 percent may be for administrative costs; and
+
+“(2) to the Secretary of the Department in which the Coast Guard is operating, for the use of the Commandant of the Coast Guard in carrying out [section 1953 of this title](./chapter-33a-marine-debris-research-prevention-and-reduction.md#section-1953), $2,000,000, of which no more than 10 percent may be used for administrative costs.”
 
 
 <a id="section-1959"></a>
-## § 1959. Definitions
+## § 1959. Prioritization of marine debris in existing innovation and entrepreneurship programs
 
-For purposes of this subchapter, terms shall have the meanings given by [section 2241 of this title](./chapter-036-water-resources-development.md#section-2241).
+In carrying out any relevant innovation and entrepreneurship programs that improve the innovation, effectiveness, and efficiency of the Marine Debris Program established under [section 1952 of this title](./chapter-33a-marine-debris-research-prevention-and-reduction.md#section-1952) without undermining the purpose for which such program was established, the Secretary of Commerce, the Secretary of Energy, the Administrator of the Environmental Protection Agency, and the heads of other relevant Federal agencies, shall prioritize efforts to combat marine debris, including by—
+
+(1) increasing innovation in methods and the effectiveness of efforts to identify, determine sources of, assess, prevent, reduce, and remove marine debris; and
+
+(2) addressing the impacts of marine debris on—
+
+  (A) the economy of the United States;
+
+  (B) the marine environment; and
+
+  (C) navigation safety.

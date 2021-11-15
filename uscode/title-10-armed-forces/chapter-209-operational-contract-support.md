@@ -13,6 +13,12 @@ The Secretary of Defense, in consultation with the Chairman of the Joint Chiefs 
 
 ### Statutory Notes
 
+#### Codification
+The text of subsec. (a) of [section 2333 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2333&num=0&edition=prelim), which was transferred to this section and amended by Pub. L. 116–283, § 1810(b)(1), was based on Pub. L. 109–364, div. A, title VIII, § 854(a)(1), Oct. 17, 2006, 120 Stat. 2343.
+
+#### Amendments
+2021—Pub. L. 116–283, § 1810(b)(1), transferred subsec. (a) of [section 2333 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2333&num=0&edition=prelim) to this section and struck out subsec. (a) designation and heading “Joint Policy Requirement” at beginning.
+
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
@@ -27,6 +33,12 @@ The joint policy for requirements definition required by [section 3151 of this t
 (2) An organizational approach to requirements definition and coordination during combat operations, post-conflict operations, and contingency operations that is designed to ensure that requirements are defined in a way that effectively implements United States Government and Department of Defense objectives, policies, and decisions regarding the allocation of resources, coordination of interagency efforts in the theater of operations, and alignment of requirements with the proper use of funds.
 
 ### Statutory Notes
+
+#### Codification
+The text of subsec. (b) of [section 2333 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2333&num=0&edition=prelim), which was transferred to this section and amended by Pub. L. 116–283, § 1810(b)(2), was based on Pub. L. 109–364, div. A, title VIII, § 854(a)(1), Oct. 17, 2006, 120 Stat. 2343.
+
+#### Amendments
+2021—Pub. L. 116–283, § 1810(b)(2), transferred subsec. (b) of [section 2333 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2333&num=0&edition=prelim) to this section and, in introductory provisions, struck out subsec. (b) designation and heading “Requirements Definition Matters Covered” at beginning and substituted “[section 3151 of this title](./chapter-209-operational-contract-support.md#section-3151)” for “subsection (a)”.
 
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -58,6 +70,12 @@ The joint policy for contingency program management required by [section 3151 of
 (7) Such steps as may be needed to ensure jointness and cross-service coordination in the area of program management during contingency operations.
 
 ### Statutory Notes
+
+#### Codification
+The text of subsec. (c) of [section 2333 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2333&num=0&edition=prelim), which was transferred to this section and amended by Pub. L. 116–283, § 1810(b)(3), was based on Pub. L. 109–364, div. A, title VIII, § 854(a)(1), Oct. 17, 2006, 120 Stat. 2343.
+
+#### Amendments
+2021—Pub. L. 116–283, § 1810(b)(3), transferred subsec. (c) of [section 2333 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2333&num=0&edition=prelim) to this section and, in introductory provisions, struck out subsec. (c) designation and heading “Contingency Program Management Matters Covered” at beginning and substituted “[section 3151 of this title](./chapter-209-operational-contract-support.md#section-3151)” for “subsection (a)”.
 
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -91,6 +109,21 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 ### Statutory Notes
 
+#### References in Text
+Section 1035 of the John Warner National Defense Authorization Act for Fiscal Year 2007, referred to in subsec. (b), is section 1035 of Pub. L. 109–364, div. A, title X, Oct. 17, 2006, 120 Stat. 2388, which is not classified to the Code.
+
+#### Codification
+The text of subsec. (d) of [section 2333 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2333&num=0&edition=prelim), which was transferred to this section and amended by Pub. L. 116–283, § 1810(b)(4), (c), was based on Pub. L. 109–364, div. A, title VIII, § 854(a)(1), Oct. 17, 2006, 120 Stat. 2343Pub. L. 111–84, div. A, title X, § 1073(a)(23)(A), (B), Oct. 28, 2009, 123 Stat. 2473.
+
+#### Amendments
+2021—Subsec. (a). Pub. L. 116–283, § 1810(b)(4)(A), (C), (D), substituted “In General” for “Contingency Contracting Matters Covered” in heading and “[section 3151 of this title](./chapter-209-operational-contract-support.md#section-3151)” for “subsection (a)” in introductory provisions, struck out par. (1) designation at beginning, redesignated subpars. (A) to (F) as pars. (1) to (6), respectively, and, in par. (4), redesignated cls. (i) to (iv) as subpars. (A) to (D), respectively. Former par. (2) redesignated subsec. (b).
+
+Pub. L. 116–283, § 1810(b)(4), redesignated subsec. (d) of [section 2333 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2333&num=0&edition=prelim) as subsec. (a) of this section.
+
+Subsec. (a)(4)(B). Pub. L. 116–283, § 1810(c), substituted “sections 3201 through 3205” for “section 2304”.
+
+Subsec. (b). Pub. L. 116–283, § 1810(b)(4)(B), (C), redesignated par. (2) of subsec. (a) as subsec. (b), inserted heading, and substituted “[section 3151 of this title](./chapter-209-operational-contract-support.md#section-3151)” for “subsection (a)”.
+
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
@@ -113,6 +146,14 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 ### Statutory Notes
 
+#### Codification
+The text of subsec. (e)(1) and (2) of [section 2333 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2333&num=0&edition=prelim), which was transferred to this section and amended by Pub. L. 116–283, § 1810(b)(5), was based on Pub. L. 110–181, div. A, title VIII, § 849(a), Jan. 28, 2008, 122 Stat. 245.
+
+#### Amendments
+2021—Subsec. (a). Pub. L. 116–283, § 1810(b)(5)(A), (B), redesignated subsec. (e)(1) and (2) of [section 2333 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2333&num=0&edition=prelim) as subsec. (a) of this section, in heading, substituted “Required Training” for “Training for Personnel Outside Acquisition Workforce”, and, in text, struck out par. (1) designation at beginning and substituted “[section 3151 of this title](./chapter-209-operational-contract-support.md#section-3151)” for “subsection (a)”. Par. (2) subsequently redesignated subsec. (b).
+
+Subsec. (b). Pub. L. 116–283, § 1810(b)(5)(C), redesignated subsec. (a)(2) as (b), inserted heading, and substituted “Training under subsection (a)” for “Training under paragraph (1)” and “referred to in that subsection—” and pars. (1) and (2) for “referred to in that paragraph understand the scope and scale of contractor support they will experience in contingency operations and are prepared for their roles and responsibilities with regard to requirements definition, program management (including contractor oversight), and contingency contracting.”
+
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
@@ -123,6 +164,12 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 The joint policy required by [section 3151 of this title](./chapter-209-operational-contract-support.md#section-3151) shall also provide for the incorporation of contractors and contract operations in mission readiness exercises for operations that will include contracting and contractor support.
 
 ### Statutory Notes
+
+#### Codification
+The text of subsec. (e)(3) of [section 2333 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2333&num=0&edition=prelim), which was transferred to this section and amended by Pub. L. 116–283, § 1810(b)(6), was based on Pub. L. 110–181, div. A, title VIII, § 849(a), Jan. 28, 2008, 122 Stat. 245.
+
+#### Amendments
+2021—Pub. L. 116–283, § 1810(b)(6), transferred subsec. (e)(3) of [section 2333 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2333&num=0&edition=prelim) to this section, struck out par. (3) designation at beginning, and inserted “required by [section 3151 of this title](./chapter-209-operational-contract-support.md#section-3151)” after “The joint policy”.
 
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -143,27 +190,41 @@ In this subchapter:
 
 ### Statutory Notes
 
+#### Codification
+The text of subsec. (f)(1), (2), (5), and (6) of [section 2333 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2333&num=0&edition=prelim), which was transferred to this section and amended by Pub. L. 116–283, § 1810(b)(7), was based on Pub. L. 109–364, div. A, title VIII, § 854(a)(1), Oct. 17, 2006, 120 Stat. 2343; Pub. L. 110–181, div. A, title VIII, § 849(a), Jan. 28, 2008, 122 Stat. 245.
+
+#### Amendments
+2021—Pub. L. 116–283, § 1810(b)(7), redesignated pars. (6), (5), (2), and (1) of subsec. (f) of [section 2333 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2333&num=0&edition=prelim) as pars. (1) to (4), respectively, of this section.
+
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 
 <a id="section-3171"></a>
-## § 3171. Contracts for property or services in support of a contingency operation: competition and review
-
-[Reserved].
+## § 3171. [Reserved]
 
 ### Statutory Notes
+
+#### Amendments
+2021—Pub. L. 117–81, § 1701(i)(2)(B), amended Pub. L. 116–283, § 1810(d), which enacted this section, by substituting “[Reserved]” for “Contracts for property or services in support of a contingency operation: competition and review” in section catchline.
+
+#### Effective Date of 2021 Amendment
+Amendment made to Pub. L. 116–283 by Pub. L. 117–81, resulting in omission of this section, applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
 
 #### Effective Date
 Section effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 
 <a id="section-3172"></a>
-## § 3172. Operational contract support: chain of authority and responsibility within Department of Defense
-
-[Reserved].
+## § 3172. [Reserved]
 
 ### Statutory Notes
+
+#### Amendments
+2021—Pub. L. 117–81, § 1701(i)(2)(B), amended Pub. L. 116–283, § 1810(d), which enacted this section, by substituting “[Reserved]” for “Operational contract support: chain of authority and responsibility within Department of Defense” in section catchline.
+
+#### Effective Date of 2021 Amendment
+Amendment made to Pub. L. 116–283 by Pub. L. 117–81, resulting in omission of this section, applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
 
 #### Effective Date
 Section effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).

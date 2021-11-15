@@ -119,7 +119,7 @@ Pub. L. 116–127, div. E, Mar. 18, 2020, 134 Stat. 195, as amended by Pub. L. 1
 
 “(ii) Special rule for care of family members.—Subject to subparagraph (A)(ii), with respect to any paid sick time provided for any use described in paragraph (4), (5), or (6) of section 5102(a), the employee’s required compensation under this subparagraph shall be two-thirds of the amount described in clause (B)(i).
 
-“(C) Varying schedule hours calculation.—In the case of a part-time employee described in section 5102(b)(2)(B) whose schedule varies from week to week to such an extent that an employer is unable to determine with certainty the number of hours the employee would have worked if such employee had not taken paid sick time under section 2(a), the employer shall use the following in place of such number:
+“(C) Varying schedule hours calculation.—In the case of a part-time employee described in section 5102(b)(2)(B) whose schedule varies from week to week to such an extent that an employer is unable to determine with certainty the number of hours the employee would have worked if such employee had not taken paid sick time under section 2(a) [probably means section 5102(a)], the employer shall use the following in place of such number:
 
 “(i) Subject to clause (ii), a number equal to the average number of hours that the employee was scheduled per day over the 6-month period ending on the date on which the employee takes the paid sick time, including hours for which the employee took leave of any type.
 
@@ -141,7 +141,7 @@ Pub. L. 116–127, div. E, Mar. 18, 2020, 134 Stat. 195, as amended by Pub. L. 1
 
 “SEC. 5112. AUTHORITY TO EXCLUDE CERTAIN EMPLOYEES.
 
-“The Director of the Office of Management and Budget shall have the authority to exclude for good cause from the definition of employee under section 5110(1) certain employees described in subparagraphs (E) and (F) of such section, including by exempting certain United States Government employers covered by section 5110(2)(A)(i)(V) from the requirements of this title [probably should be “this Act”] with respect to certain categories of Executive Branch employees.”
+“The Director of the Office of Management and Budget shall have the authority to exclude for good cause from the definition of employee under section 5110(1) certain employees described in subparagraphs (E) and (F) of such section [sic], including by exempting certain United States Government employers covered by section 5110(2)(A)(i)(V) from the requirements of this title [probably should be “this Act”] with respect to certain categories of Executive Branch employees.”
 
 
 <a id="section-2612"></a>
@@ -265,9 +265,6 @@ As used in this subchapter:
 (19) **Veteran** — The term “veteran” has the meaning given the term in [section 101 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101&num=0&edition=prelim).
 
 ### Statutory Notes
-
-#### Applicability of Amendment
-Amendment of section by section 7604(b) of Pub. L. 116–92 not effective with respect to any birth or placement occurring before Oct. 1, 2020. See 2019 Amendment note below.
 
 #### Amendments
 2019—Par. (2)(E). Pub. L. 116–92 added subpar. (E).
@@ -411,14 +408,11 @@ Pub. L. 111–84, div. A, title V, § 565(a)(5), Oct. 28, 2009, 123 Stat. 2311, 
 
 ### Statutory Notes
 
-#### Applicability of Amendment
-Amendment of section by section 7604(a) of Pub. L. 116–92 not effective with respect to any birth or placement occurring before Oct. 1, 2020. See 2019 Amendment notes below.
-
 #### References in Text
 The date the Emergency Family and Medical Leave Expansion Act takes effect, referred to in subsec. (a)(1)(F), is the effective date of div. C of Pub. L. 116–127, which is set out as an Effective Date note under [section 2620 of this title](./chapter-028-family-and-medical-leave.md#section-2620).
 
 #### Constitutionality
-For information regarding constitutionality of certain provisions of section 102 of Pub. L. 103–3, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For information regarding constitutionality of certain provisions of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
 
 #### Amendments
 2020—Subsec. (a)(1)(F). Pub. L. 116–127, § 3102(a)(1), added subpar. (F).
@@ -779,14 +773,14 @@ The Civil Rights Act of 1964, referred to in subsec. (b), is Pub. L. 88–352, J
 #### Amendments
 2015—Subsec. (a)(1)(A). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim).
 
-#### Effective Date of 2015 Amendment
-Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
-
 2008—Subsecs. (c)(1), (d)(2), (3). Pub. L. 110–181 inserted “or under [section 2612(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2612/a/3&num=0&edition=prelim)” after “[section 2612(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2612/a/1&num=0&edition=prelim)”.
 
 2002—Subsec. (a)(1)(A). Pub. L. 107–110 substituted “[section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim)” for “[section 8801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section8801&num=0&edition=prelim)”.
 
 1994—Subsec. (a)(1)(A). Pub. L. 103–382 substituted “[section 8801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section8801&num=0&edition=prelim)” for “[section 2891(12) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2891/12&num=0&edition=prelim)”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
@@ -907,7 +901,7 @@ This Act, referred to in subsec. (a)(3)(C), is Pub. L. 103–3, Feb. 5, 1993, 10
 The Families First Coronavirus Response Act, referred to in subsec. (a)(3)(C), is Pub. L. 116–127, Mar. 18, 2020, 134 Stat. 178. Division E (§§ 5101–5112) of the Act, known as the Emergency Paid Sick Leave Act, is set out as a note under [section 2601 of this title](./chapter-028-family-and-medical-leave.md#section-2601). Division G (§§ 7001–7005) of the Act is set out as notes under sections 1401 and 3111 of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see Short Title of 2020 Amendment note set out under [section 2601 of this title](./chapter-028-family-and-medical-leave.md#section-2601) and Tables.
 
 #### Amendments
-2020—Subsec. (a)(1)(A). Pub. L. 116–136, § 19008(1), which directed amendment of subpar. (A) by inserting cl. (i) designation and heading before “In lieu of”, could not be executed due to intervening amendment by Pub. L. 116–136, § 3605, see below.
+2020—Subsec. (a)(1)(A). Pub. L. 116–136, § 19008(1), which directed amendment of subpar. (A) by inserting cl. (i) designation and heading before “In lieu of”, was not executed due to intervening amendment by Pub. L. 116–136, § 3605, see below.
 
 Pub. L. 116–136, § 3605, amended subpar. (A) generally. Prior to amendment, text read as follows: “In lieu of the definition in sections 2611(2)(A) and 2611(2)(B)(ii) of this title, the term ‘eligible employee’ means an employee who has been employed for at least 30 calendar days by the employer with respect to whom leave is requested under [section 2612(a)(1)(F) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2612/a/1/F&num=0&edition=prelim).”
 

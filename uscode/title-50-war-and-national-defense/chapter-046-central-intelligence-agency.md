@@ -80,7 +80,7 @@ Section was formerly classified to [section 403c of this title](./chapter-015-na
 
 In subsecs. (a) and (d), references to the appropriate sections of title 10 were substituted for references to sections 2(c)(1) to (6), (10), (12), (15), (17), 3, 4, 5, 6, and 10 of the Armed Services Procurement Act of 1947 (Public Law 413, 80th Congress), on authority of section 49(b) of act Aug. 10, 1956, ch. 1041, 70A Stat. 640, section 1 of which enacted Title 10, Armed Forces. Prior to the enactment of Title 10, sections 2 to 6 and 10 of the Armed Services Procurement Act of 1947 were classified to sections 151 to 155 and 159 of former Title 41, Public Contracts. Cited sections of the Act were restated in sections of Title 10 as follows: ActTitle 10 2(c)2304(a) 32305(a)–(c) 42306, 2313 52307 5(a)2307(a) 62312 102308, 2309
 
-Sections 2304 and 2305 of title 10 were amended generally by Pub. L. 98–369, and as so amended contain provisions differing from those referred to in subsecs. (a) and (d). [Section 2308 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2308&num=0&edition=prelim) was repealed by Pub. L. 103–355, title I, § 1503(b)(1), Oct. 13, 1994, 108 Stat. 3297. For similar provisions, see [section 2311 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2311&num=0&edition=prelim).
+Sections 2304 and 2305 of Title 10 were amended generally by Pub. L. 98–369, and as so amended contain provisions differing from those referred to in subsecs. (a) and (d). [Section 2308 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2308&num=0&edition=prelim) was repealed by Pub. L. 103–355, title I, § 1503(b)(1), Oct. 13, 1994, 108 Stat. 3297, and a new section 2308 was added by Pub. L. 107–314, div. A, title VIII, § 801(a)(1), Dec. 2, 2002, 116 Stat. 2600, and subsequently transferred to [section 3069 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3069&num=0&edition=prelim) by Pub. L. 116–283, div. A, title XVIII, § 1807(f), Jan. 1, 2021, 134 Stat. 4159. [Section 2309 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2309&num=0&edition=prelim) was transferred to [section 3134 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3134&num=0&edition=prelim) by Pub. L. 116–283, div. A, title XVIII, § 1809(e)(1), Jan. 1, 2021, 134 Stat. 4161. [Section 2312 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2312&num=0&edition=prelim) was transferred to [section 4752 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4752&num=0&edition=prelim) by Pub. L. 116–283, div. A, title XVIII, § 1864(b), Jan. 1, 2021, 134 Stat. 4279. Sections 2304, 2305, 2306, 2307, and 2313 of Title 10 were repealed by Pub. L. 116–283, div. A, title XVIII, § 1881(a), Jan. 1, 2021, 134 Stat. 4293; see sections 3201 to 3208, 3301 to 3309, 3321 to 3323, 3801 to 3808, and 3841 of Title 10.
 
 #### Amendments
 1996—Subsec. (e). Pub. L. 104–106 struck out subsec. (e) which read as follows: “Notwithstanding subsection (e) of [section 759 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section759&num=0&edition=prelim), the provisions of [section 759 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section759&num=0&edition=prelim) relating to the procurement of automatic data processing equipment or services shall not apply with respect to such procurement by the Central Intelligence Agency.”
@@ -1501,7 +1501,7 @@ Pub. L. 104–293, title IV, § 402, Oct. 11, 1996, 110 Stat. 3468, provided tha
 
       (II) that was not the result of the willful misconduct of the covered employee or the covered individual.
 
-**(b) Adjustment of compensation for certain injuries**
+**(b) Adjustment of compensation for total disability resulting from certain injuries**
 
 (1) **Increase** — The Director may increase the amount of monthly compensation paid to a covered employee under [section 8105 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8105&num=0&edition=prelim). Subject to paragraph (2), the Director may determine the amount of each such increase by taking into account—
 
@@ -1515,15 +1515,55 @@ Pub. L. 104–293, title IV, § 402, Oct. 11, 1996, 110 Stat. 3468, provided tha
 
 **(c) Costs for treating qualifying injuries** The Director may pay the costs of treating a qualifying injury of a covered employee, a covered individual, or a covered dependent, or may reimburse a covered employee, a covered individual, or a covered dependent for such costs, that are not otherwise covered by chapter 81 of title 5, or other provision of Federal law.
 
+**(d) Authority to make payments for qualifying injuries to the brain**
+
+(1) **Definitions** — In this subsection:
+
+  (A) *Covered dependent* — The term “covered dependent” has the meaning given such term in subsection (a), except that the assigned duty station need not be in a foreign country.
+
+  (B) *Qualifying injury* — The term “qualifying injury” has the meaning given such term in subsection (a), except that the assigned duty station need not be in a foreign country.
+
+(2) **Authority** — Notwithstanding any other provision of law but subject to paragraph (3), the Director may provide payment to a covered dependent, a covered employee, and a covered individual for a qualifying injury to the brain.
+
+(3) **Limitations**
+
+  (A) *Appropriations required* — Payment under paragraph (2) in a fiscal year may only be made using amounts appropriated in advance specifically for payments under such paragraph in such fiscal year.
+
+  (B) *Matter of payments* — Payments under paragraph (2) using amounts appropriated for such purpose shall be made on a first come, first serve, or pro rata basis.
+
+  (C) *Amounts of payments* — The total amount of funding obligated for payments under paragraph (2) may not exceed the amount specifically appropriated for providing payments under such paragraph during its period of availability.
+
+(4) **Regulations**
+
+  (A) *In general* — The Director shall prescribe regulations to carry out this subsection.
+
+  (B) *Elements* — The regulations prescribed under subparagraph (A) shall include regulations detailing fair and equitable criteria for payment under paragraph (2).
+
 ### Statutory Notes
 
+#### Editorial Notes
+2021—Subsec. (b). Pub. L. 117–46, § 2(f), inserted “total disability resulting from” before “certain injuries” in heading.
+
+Subsec. (d). Pub. L. 117–46, § 2(b), added subsec. (d).
+
 #### Applicability
+Pub. L. 117–46, § 2(c), Oct. 8, 2021, 135 Stat. 392, provided that: “Payment under subsection (d) of such section [meaning [50 U.S.C. 3519b(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3519b/d&num=0&edition=prelim)], as added by subsection (b) of this section, may be made available for a qualifying injury to the brain that occurs before, on, or after the date of the enactment of this Act [Oct. 8, 2021] as the Director of the Central Intelligence Agency considers appropriate.”
+
+[For definition of “qualifying injury” as used in section 2(c) of Pub. L. 117–46, set out above, see section 2(a) of Pub. L. 117–46, set out below.]
+
 Pub. L. 116–92, div. E, title LXIV, § 6412(c), Dec. 20, 2019, 133 Stat. 2198, provided that: “Section 19A of the Central Intelligence Agency Act of 1949 [[50 U.S.C. 3519b](./chapter-046-central-intelligence-agency.md#section-3519b)], as added by subsection (a), shall apply with respect to— “(1) payments made to covered employees (as defined in such section) under [section 8105 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8105&num=0&edition=prelim), United States Code, beginning on or after the date of the enactment of this Act [Dec. 20, 2019]; and “(2) treatment described in subsection (b) of such section 19A occurring on or after the date of the enactment of this Act.”
 
 #### Regulations
+Pub. L. 117–46, § 2(e), Oct. 8, 2021, 135 Stat. 393, provided that: “(1) In general.—Not later than 180 days after the date of the enactment of this Act [Oct. 8, 2021], the Director shall prescribe regulations required under section 19A(d)(4)(A) of such Act [meaning act June 20, 1949, [50 U.S.C. 3519b(d)(4)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3519b/d/4/A&num=0&edition=prelim)], as added by subsection (b) of this section. “(2) Notice to congress.—Not later than 210 days after the date of the enactment of this Act, the Director shall submit to the appropriate congressional committees the regulations prescribed in accordance with paragraph (1).”
+
+[For definition of “appropriate congressional committees” as used in section 2(e) of Pub. L. 117–46, set out above, see section 2(a) of Pub. L. 117–46, set out below.]
+
 Pub. L. 116–92, div. E, title LXIV, § 6412(b), Dec. 20, 2019, 133 Stat. 2198, provided that: “Not later than 120 days after the date of the enactment of this Act [Dec. 20, 2019], the Director of the Central Intelligence Agency shall— “(1) prescribe regulations ensuring the fair and equitable implementation of section 19A of the Central Intelligence Agency Act of 1949 [[50 U.S.C. 3519b](./chapter-046-central-intelligence-agency.md#section-3519b)], as added by subsection (a); and “(2) submit to the congressional intelligence committees such regulations.”
 
 [For definition of “congressional intelligence committees” as used in section 6412(b) of Pub. L. 116–92, set out above, see section 5003 of div. E of Pub. L. 116–92, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).]
+
+#### Definitions
+Pub. L. 117–46, § 2(a), Oct. 8, 2021, 135 Stat. 391, provided that: “(a) Definitions.—In this section [amending this section and enacting provisions set out as notes above]:“(1) Appropriate congressional committees.—The term ‘appropriate congressional committees’ mean—“(A) the congressional intelligence committees (as that term is defined in section 3 of the National Security Act of 1947 ([50 U.S.C. 3003](./chapter-044-national-security.md#section-3003))); “(B) the Committee on Homeland Security and Governmental Affairs and the Committee on Appropriations of the Senate; and “(C) the Committee on Homeland Security and the Committee on Appropriations of the House of Representatives. “(2) Covered dependent.—The term ‘covered dependent’ has the meaning given such term in subsection (d)(1) of section 19 [probably should be “19A”] of the Central Intelligence Agency Act of 1949 ([50 U.S.C. 3519](./chapter-046-central-intelligence-agency.md#section-3519)) [[50 U.S.C. 3519b](./chapter-046-central-intelligence-agency.md#section-3519b)], as added by subsection (b). “(3) Covered employee.—The term ‘covered employee’ has the meaning given such term in section 19A(a) of the Central Intelligence Agency Act of 1949 ([50 U.S.C. 3519b(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3519b/a&num=0&edition=prelim)). “(4) Covered individual.—The term ‘covered individual’ has the meaning given such term in section 19A(a) of the Central Intelligence Agency Act of 1949 ([50 U.S.C. 3519b(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3519b/a&num=0&edition=prelim)). “(5) Qualifying injury.—The term ‘qualifying injury’ has the meaning given such term in subsection (d)(1) of section 19 [probably should be “19A”] of the Central Intelligence Agency Act of 1949 ([50 U.S.C. 3519](./chapter-046-central-intelligence-agency.md#section-3519)) [[50 U.S.C. 3519b](./chapter-046-central-intelligence-agency.md#section-3519b)], as added by subsection (b).”
 
 
 <a id="section-3520"></a>

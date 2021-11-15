@@ -13,9 +13,6 @@ It is declared that the disruption of the orderly exchange of commodities in int
 
 ### Statutory Notes
 
-#### Constitutionality
-For information regarding constitutionality of act May 12, 1933, and act Aug. 24, 1935, cited throughout this chapter, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
-
 #### Short Title of 2006 Amendment
 Pub. L. 109–215, § 1, Apr. 11, 2006, 120 Stat. 328, provided that: “This Act [amending [section 608c of this title](./chapter-026-agricultural-adjustment.md#section-608c) and enacting provisions set out as notes under [section 608c of this title](./chapter-026-agricultural-adjustment.md#section-608c)] may be cited as the ‘Milk Regulatory Equity Act of 2005’.”
 
@@ -70,7 +67,7 @@ Subsec. (2). Act Aug. 24, 1935, amended subsec. (2).
 Amendment by act July 3, 1948, effective Jan. 1, 1950, see section 303 of act July 3, 1948, set out as a note under [section 1301 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1301).
 
 #### Validity of Section Affirmed
-Section 1 of act June 3, 1937, affirmed and validated, and reenacted without change the provisions of this section except for the amendment to subsec. (1) by section 2 of said act. See note set out under [section 601 of this title](./chapter-026-agricultural-adjustment.md#section-601).
+Act June 3, 1937, ch. 296, § 1, 50 Stat. 246, affirmed and validated, and reenacted without change the provisions of this section except for the amendment to subsec. (1) by section 2 of said act. See note set out under [section 601 of this title](./chapter-026-agricultural-adjustment.md#section-601).
 
 
 <a id="section-603"></a>
@@ -91,6 +88,9 @@ When full legal title to the cotton referred to in this subsection has been acqu
 
 ### Statutory Notes
 
+#### Farm Credit Administration
+Establishment of Farm Credit Administration as independent agency, and other changes in status, functions, etc., see section 2241 et seq., of Title 12, Banks and Banking.
+
 #### Change of Name
 Ex. Ord. No. 6084, set out as a note preceding [section 2241 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2241&num=0&edition=prelim), Banks and Banking, changed the name of “Federal Farm Board” to “Farm Credit Administration”.
 
@@ -103,9 +103,6 @@ Farm Credit Administration transferred to Department of Agriculture by 1939 Reor
 
 #### Exceptions From Transfer of Functions
 Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201).
-
-#### Farm Credit Administration
-Establishment of Farm Credit Administration as independent agency, and other changes in status, functions, etc., see section 2241 et seq., of Title 12, Banks and Banking.
 
 
 <a id="section-604"></a>
@@ -242,11 +239,11 @@ Subsec. (7). Act Aug. 24, 1935, § 10, inserted last sentence.
 #### Change of Name
 Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorneys” for “district attorneys” in subsec. (7). See [section 541 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section541&num=0&edition=prelim), Judiciary and Judicial Procedure, and Historical and Revision Notes thereunder.
 
-#### Admission of Hawaii as State
-Admission of Hawaii into the Union was accomplished Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74, as required by sections 1 and 7(c) of Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as notes preceding 491 of Title 48, Territories and Insular Possessions.
-
 #### Validity of Section Affirmed
 Act June 3, 1937, affirmed and validated, and reenacted without change the provisions of subsections (5), (6), (7), (8), and (9) of this section, except for the amendment to subsection (6) by section 2 of the act. See note set out under [section 601 of this title](./chapter-026-agricultural-adjustment.md#section-601).
+
+#### Admission of Hawaii as State
+Admission of Hawaii into the Union was accomplished Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74, as required by sections 1 and 7(c) of Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as notes preceding 491 of Title 48, Territories and Insular Possessions.
 
 
 <a id="section-608a-1"></a>
@@ -1240,18 +1237,18 @@ Subsec. (i). Act Aug. 24, 1935, § 18, added subsec. (i).
 #### Repeals
 Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
 
+#### Validity of Section Affirmed
+Act June 3, 1937, § 1, affirmed, validated, and reenacted without change the provisions of subsecs. (a), (b) (2), (c), and (f) to (i) of this section, except for the amendments to subsecs. (c) and (f) by section 2 of the act. See note set out under [section 601 of this title](./chapter-026-agricultural-adjustment.md#section-601).
+
+#### Appropriations for Refunds and Payments of Processing and Related Taxes and Limitations Thereon
+Acts June 25, 1938, ch. 681, 52 Stat. 1150; May 6, 1939, ch. 115, § 1, 53 Stat. 661, 662; Feb. 12, 1940, ch. 28, § 1, 54 Stat. 36; Mar. 25, 1940, ch. 71, title I, 54 Stat. 61; May 31, 1941, ch. 156, title I, § 1, 55 Stat. 218; Mar. 10, 1942, ch. 178, title I, § 1, 56 Stat. 156; June 30, 1943, ch. 179, title I, 57 Stat. 257; Apr. 22, 1944, ch. 175, title I, § 1, 58 Stat. 201; Apr. 24, 1945, ch. 92, title I, 59 Stat. 62; July 20, 1946, ch. 588, title I, 60 Stat. 574.
+
 #### Transfer of Functions
 Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201).
 
 Executive and administrative functions of Federal Trade Commission, with certain reservations, transferred to Chairman of Commission by 1950 Reorg. Plan No. 8, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out in the Appendix to Title 5, Government Organization and Employees.
 
 1946 Reorg. Plan No. 3, § 501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100, set out in the Appendix to Title 5, transferred functions of Agricultural Adjustment Administration to Secretary of Agriculture. In his letter to Congress, the President stated that purpose of this transfer was to permit Secretary of Agriculture to continue consolidation already effected in Production and Marketing Administration. By temporary Executive Orders 9069 and 9577, and Ex. Ord. No. 9280, Dec. 5, 1942, 7 F.R. 10, 179, and Ex. Ord. No. 9322, Mar. 26, 1943, 8 F.R. 3807, as amended by Ex. Ord. No. 9334, Apr. 19, 1943, 8 F.R. 5423, the Agricultural Adjustment Administration had been successively consolidated into Agricultural Conservation and Adjustment Administration, Food Production Administration, and War Food Administration, which was terminated and its functions transferred to Secretary of Agriculture by said Ex. Ord. 9577. Secretary of Agriculture consolidated functions of Agricultural Adjustment Administration into Production and Marketing Administration by Memorandum 1118, Aug. 18, 1945.
-
-#### Validity of Section Affirmed
-Act June 3, 1937, § 1, affirmed, validated, and reenacted without change the provisions of subsecs. (a), (b) (2), (c), and (f) to (i) of this section, except for the amendments to subsecs. (c) and (f) by section 2 of the act. See note set out under [section 601 of this title](./chapter-026-agricultural-adjustment.md#section-601).
-
-#### Appropriations for Refunds and Payments of Processing and Related Taxes and Limitations Thereon
-Acts June 25, 1938, ch. 681, 52 Stat. 1150; May 6, 1939, ch. 115, § 1, 53 Stat. 661, 662; Feb. 12, 1940, ch. 28, § 1, 54 Stat. 36; Mar. 25, 1940, ch. 71, title I, 54 Stat. 61; May 31, 1941, ch. 156, title I, § 1, 55 Stat. 218; Mar. 10, 1942, ch. 178, title I, § 1, 56 Stat. 156; June 30, 1943, ch. 179, title I, 57 Stat. 257; Apr. 22, 1944, ch. 175, title I, § 1, 58 Stat. 201; Apr. 24, 1945, ch. 92, title I, 59 Stat. 62; July 20, 1946, ch. 588, title I, 60 Stat. 574.
 
 #### Ex. Ord. No. 10199. Regulations Without Approval of President
 Ex. Ord. No. 10199, Dec. 21, 1950, 15 F.R. 9217, provided:
@@ -1364,13 +1361,6 @@ Section was not enacted as part of the Agricultural Adjustment Act which compris
 
 #### Effective Date of 1948 Amendment
 Amendment by act July 3, 1948, effective Jan. 1, 1950, see section 303 of act July 3, 1948, set out as a note under [section 1301 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1301).
-
-#### Transfer of Functions
-Functions of all officers, agencies, and employees of the Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201).
-
-Federal Surplus Relief Corporation changed to Federal Surplus Commodities Corporation by amendment of its charter in 1935. It consolidated with Division of Marketing and Marketing Agreements of Agricultural Adjustment Administration to form Surplus Marketing Administration by 1940 Reorg. Plan No. III, § 5, 5 F.R. 2108, 54 Stat. 1232, set out in the Appendix to Title 5, Government Organization and Employees. By Executive orders under First War Powers Act, former section 601 et seq. of the former Appendix to Title 50, War and National Defense, Surplus Marketing Administration merged into Agricultural Marketing Administration, which consolidated into Food Distribution Administration, which consolidated into War Food Administration, which terminated and its functions transferred to Secretary of Agriculture. By Memorandum 1118, Secretary of Agriculture, Aug. 18, 1945, functions of Federal Surplus Commodities Corporation transferred to Production and Marketing Administration. 1946 Reorg. Plan No. 3, § 501(a), eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100, transferred functions of Surplus Marketing Administration to Secretary of Agriculture. In his letter to Congress, the President stated that purpose of this transfer was to permit Secretary of Agriculture to continue the consolidation already effected in Production and Marketing Administration.
-
-Federal Surplus Commodities Corporation and Division of Marketing and Marketing Agreements of Agricultural Adjustment Administration and their functions consolidated into Surplus Marketing Administration in Department of Agriculture by Reorg. Plan No. III, § 5, eff. June 30, 1940, set out in the Appendix to Title 5. See, also, sections 8 and 9 of said plan for provisions relating to transfer of records, property, personnel, and funds.
 
 #### Additional Appropriations
 Joint Res. July 1, 1941, ch. 266, § 34, 55 Stat. 407, appropriated, in addition to the funds already provided, $25,000,000, to be used by the Secretary of Agriculture, for the purpose of effectuating this section, subject to the provisions of law relating to the expenditure of such funds.
@@ -1535,6 +1525,13 @@ Use of funds made available under this section for distribution of surplus fishe
 
 #### Home Economics Training
 Authorization of schools to use surplus foods received under this section to train students in home economics, see note set out under [section 1431 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1431).
+
+#### Transfer of Functions
+Functions of all officers, agencies, and employees of the Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201).
+
+Federal Surplus Relief Corporation changed to Federal Surplus Commodities Corporation by amendment of its charter in 1935. It consolidated with Division of Marketing and Marketing Agreements of Agricultural Adjustment Administration to form Surplus Marketing Administration by 1940 Reorg. Plan No. III, § 5, 5 F.R. 2108, 54 Stat. 1232, set out in the Appendix to Title 5, Government Organization and Employees. By Executive orders under First War Powers Act, former section 601 et seq. of the former Appendix to Title 50, War and National Defense, Surplus Marketing Administration merged into Agricultural Marketing Administration, which consolidated into Food Distribution Administration, which consolidated into War Food Administration, which terminated and its functions transferred to Secretary of Agriculture. By Memorandum 1118, Secretary of Agriculture, Aug. 18, 1945, functions of Federal Surplus Commodities Corporation transferred to Production and Marketing Administration. 1946 Reorg. Plan No. 3, § 501(a), eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100, transferred functions of Surplus Marketing Administration to Secretary of Agriculture. In his letter to Congress, the President stated that purpose of this transfer was to permit Secretary of Agriculture to continue the consolidation already effected in Production and Marketing Administration.
+
+Federal Surplus Commodities Corporation and Division of Marketing and Marketing Agreements of Agricultural Adjustment Administration and their functions consolidated into Surplus Marketing Administration in Department of Agriculture by Reorg. Plan No. III, § 5, eff. June 30, 1940, set out in the Appendix to Title 5. See, also, sections 8 and 9 of said plan for provisions relating to transfer of records, property, personnel, and funds.
 
 
 <a id="section-612c-1"></a>
@@ -1808,6 +1805,9 @@ Subsec. (f). Act May 9, 1934, § 8, added subsec. (f).
 #### Separability
 Validity of remainder of this chapter as not affected should any of the provisions of this chapter be declared unconstitutional, see [section 614 of this title](./chapter-026-agricultural-adjustment.md#section-614).
 
+#### Appropriations
+Appropriations for refunds, etc., see note under [section 610 of this title](./chapter-026-agricultural-adjustment.md#section-610).
+
 #### Abolition of Offices and Transfer of Functions
 The office of Internal Revenue Collector was abolished by 1952 Reorg. Plan No. 1, § 1, eff. Mar. 14, 1952, 17 F.R. 2243, 66 Stat. 823, set out in the Appendix to Title 5, Government Organization and Employees, and by section 2 thereof a new office of district commissioner of internal revenue was established. Section 4 of the Plan transferred all functions, that had been vested by statute in any officer or employee of the Bureau of Internal Revenue since the effective date of 1950 Reorg. Plan No. 26, §§ 1, 2, 15 F.R. 4935, 64 Stat. 1280, 1281, to the Secretary of the Treasury.
 
@@ -1815,9 +1815,6 @@ All functions of all officers of the Department of the Treasury, and all functio
 
 #### Admission of Hawaii to Statehood
 Hawaii was admitted into the Union on Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 25, 1959, 24 F.R. 6868, 73 Stat. c74. For Hawaii statehood law, see Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as a note preceding [section 491 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section491&num=0&edition=prelim), Territories and Insular Possessions.
-
-#### Appropriations
-Appropriations for refunds, etc., see note under [section 610 of this title](./chapter-026-agricultural-adjustment.md#section-610).
 
 
 <a id="section-616"></a>
@@ -1889,11 +1886,11 @@ Subsec. (d). Act May 9, 1934, § 17, added subsec. (d).
 #### Separability
 Validity of remainder of this chapter as not affected should any of the provisions of this chapter be declared unconstitutional. See [section 614 of this title](./chapter-026-agricultural-adjustment.md#section-614).
 
-#### Transfer of Functions
-Functions of all officers of Department of the Treasury, and functions of all agencies and employees of such Department, transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by 1950 Reorg. Plan No. 26, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees. Commissioner of Internal Revenue, referred to in this section, is an officer of Department of the Treasury.
-
 #### Appropriations
 Appropriations for refunds, etc., see note set out under [section 610 of this title](./chapter-026-agricultural-adjustment.md#section-610).
+
+#### Transfer of Functions
+Functions of all officers of Department of the Treasury, and functions of all agencies and employees of such Department, transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by 1950 Reorg. Plan No. 26, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees. Commissioner of Internal Revenue, referred to in this section, is an officer of Department of the Treasury.
 
 
 <a id="section-617"></a>
@@ -1927,11 +1924,11 @@ Subsec. (b). Act May 9, 1934, § 13, substituted “partly” for “in chief va
 #### Separability
 Validity of remainder of this chapter as not affected should any of the provisions of this chapter be declared unconstitutional, see [section 614 of this title](./chapter-026-agricultural-adjustment.md#section-614).
 
-#### Transfer of Functions
-Functions of all officers of Department of the Treasury, and functions of all agencies and employees of such Department, transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by 1950 Reorg. Plan. No. 26, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees. Commissioner of Internal Revenue, referred to in this section, is an officer of Department the Treasury.
-
 #### Appropriations
 Appropriations for refunds, etc., see note set out under [section 610 of this title](./chapter-026-agricultural-adjustment.md#section-610).
+
+#### Transfer of Functions
+Functions of all officers of Department of the Treasury, and functions of all agencies and employees of such Department, transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by 1950 Reorg. Plan. No. 26, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees. Commissioner of Internal Revenue, referred to in this section, is an officer of Department the Treasury.
 
 
 <a id="section-618"></a>

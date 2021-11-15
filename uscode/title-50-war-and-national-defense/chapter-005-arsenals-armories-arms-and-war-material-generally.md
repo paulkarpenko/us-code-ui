@@ -111,7 +111,7 @@ Section, act Apr. 23, 1904, ch. 1485, 33 Stat. 276, related to disposition of pr
 
 ### Statutory Notes
 
-Section 74, act Jan. 22, 1923, ch. 28, 42 Stat. 1142, provided that net proceeds of sales of useless ordnance material by Navy Department should be covered into Treasury as “Miscellaneous receipts”. See [section 7543 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7543&num=0&edition=prelim), Armed Forces.
+Section 74, act Jan. 22, 1923, ch. 28, 42 Stat. 1142, provided that net proceeds of sales of useless ordnance material by Navy Department should be covered into Treasury as “Miscellaneous receipts”. See [section 8763 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8763&num=0&edition=prelim), Armed Forces.
 
 Section 75, act Aug. 24, 1912, ch. 391, § 1, 37 Stat. 589, related to payment for transfers of ordnance or stores to bureaus or departments.
 
@@ -123,7 +123,7 @@ Section 78, act June 3, 1916, ch. 134, § 123, 39 Stat. 215, related to gauges, 
 
 Section 79, act June 3, 1916, ch. 134, § 124, 39 Stat. 215, related to nitrate plants.
 
-Section 80, act June 3, 1916, ch. 134, § 120, 39 Stat. 213, 214, related to procurement of war material and mobilization of industries. See sections 2538 to 2540 of Title 10.
+Section 80, act June 3, 1916, ch. 134, § 120, 39 Stat. 213, 214, related to procurement of war material and mobilization of industries. See sections 4882 to 4884, 4892, and 4971 of Title 10.
 
 Section 81, act May 14, 1928, ch. 544, 45 Stat. 509, authorized Secretary of War to secure assistance, whenever practicable, of Geological Survey, Coast and Geodetic Survey, or other mapping agencies of the Government in execution of military surveys and maps. Provisions similar to former section 81 were contained in the following appropriation acts:
 
@@ -314,6 +314,33 @@ Sec. 4. In executing the functions delegated to him by this Order, the Secretary
 
 Ronald Reagan.
 
+#### Ex. Ord. No. 14051. Designation To Exercise Authority Over the National Defense Stockpile
+Ex. Ord. No. 14051, Oct. 31, 2021, 86 F.R. 60747, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Strategic and Critical Materials Stock Piling Act, as amended ([50 U.S.C. 98](./chapter-005-arsenals-armories-arms-and-war-material-generally.md#section-98) et seq.), section 1413 of the National Defense Authorization Act for Fiscal Year 2013 (Public Law 112–239) [amending sections 98f and 98h–7 of this title], and [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, it is hereby ordered as follows:
+
+Section 1. Policy and Purpose. The United States needs resilient, diverse, and secure supply chains to ensure our economic prosperity, national security, and national competitiveness. In Executive Order 14017 of February 24, 2021 (America’s Supply Chains) [86 F.R. 11849], I directed a comprehensive review of America’s supply chains to ensure that they are resilient in the face of a range of risks. One critical component of safeguarding supply chain resilience and industrial base health is ensuring that both the Federal Government and the private sector maintain adequate quantities of supplies, equipment, or raw materials on hand to create a buffer against potential shortages and import dependencies. Some of the Federal Government’s key tools to maintain adequate quantities of supplies to guard against such shortages and dependencies are the United States national stockpiles, including the National Defense Stockpile. By strengthening the National Defense Stockpile, the Federal Government will both ensure that it is keeping adequate quantities of goods on hand and provide a model for the private sector, while recognizing that private sector stockpiles and reserves can differ from government ones. This order confers authority related to the release of strategic and critical materials from the National Defense Stockpile to improve Federal Government efforts around stockpiling for national defense purposes.
+
+Sec. 2. Designation. In accordance with [section 98f of title 50](./chapter-005-arsenals-armories-arms-and-war-material-generally.md#section-98f), United States Code, the Under Secretary of Defense for Acquisition and Sustainment (Under Secretary) is designated to have authority to release strategic and critical materials from the National Defense Stockpile.
+
+Sec. 3. Execution and Consultation. In executing the authority conferred by this order, the Under Secretary may release strategic and critical materials from the National Defense Stockpile for use, sale, or other disposition only when required for use, manufacture, or production for purposes of national defense. No release is authorized for economic or budgetary purposes. Prior to ordering the release of strategic and critical materials from the National Defense Stockpile, the Under Secretary shall consult with the heads of relevant executive departments and agencies.
+
+Sec. 4. Authority. (a) All previously issued orders, regulations, rulings, certificates, directives, and other actions relating to any function affected by this order shall remain in effect except to the extent that they are inconsistent with this order or are subsequently amended or revoked under proper authority. Nothing in this order shall affect the validity or force of anything done under previous delegations or another assignment of authority under the Strategic and Critical Materials Stock Piling Act.
+
+(b) Nothing in this order shall affect the authorities assigned under Executive Order 13603 of March 16, 2012 (National Defense Resources Preparedness) [[50 U.S.C. 4553](./chapter-055-defense-production.md#section-4553) note].
+
+Sec. 5. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+J.R. Biden, Jr.
+
 
 <a id="section-98a"></a>
 ## § 98a. Congressional findings and declaration of purpose
@@ -496,9 +523,6 @@ Pub. L. 98–525, title IX, § 903(b), Oct. 19, 1984, 98 Stat. 2573, as amended 
 #### Effective Date of 1981 Amendment
 Pub. L. 97–35, title II, § 203(f), Aug. 13, 1981, 95 Stat. 382, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to funds appropriated for fiscal years beginning after September 30, 1981.”
 
-#### Delegation of Functions
-Functions of President under this section delegated to Secretary of Defense by section 1 of Ex. Ord. No. 12636, Feb. 25, 1988, 53 F.R. 6114, set out under [section 98 of this title](./chapter-005-arsenals-armories-arms-and-war-material-generally.md#section-98).
-
 #### Prohibition of Reductions in Stockpile Goals
 Pub. L. 99–145, title XVI, § 1612, Nov. 8, 1985, 99 Stat. 776, as amended by Pub. L. 99–661, div. C, title II, § 3201, Nov. 14, 1986, 100 Stat. 4067, prohibited action before Oct. 1, 1987, to implement or administer any change in a stockpile goal in effect on Oct. 1, 1984, that would result in a reduction in the quality or quantity of any strategic and critical material acquired for the National Defense Stockpile.
 
@@ -572,11 +596,14 @@ Act June 22, 1956, ch. 426, 70 Stat. 329, directed Federal Facilities Corporatio
 #### Maintenance of Domestic Tin-Smelting Industry; Transfer of Functions, Etc.
 Act June 28, 1947, ch. 159, 61 Stat. 190, as amended June 29, 1948, ch. 722, 62 Stat. 1101; June 30, 1949, ch. 284, 63 Stat. 350; Aug. 21, 1950, ch. 766, 64 Stat. 468; July 30, 1953, ch. 282, title I, § 103, 67 Stat. 230; June 22, 1956, ch. 426, § 5(a), 70 Stat. 329, declared tin to be a highly strategic and critical material in short supply, directed that it was in the public interest that Congress make a thorough investigation on the advisability of the maintenance of a permanent tin-smelting industry and study the availability of adequate tin supplies, provided that the powers, functions, duties, and authority of the United States exercised by the Reconstruction Finance Corporation to buy, sell, and transport tin, and tin ore and concentrates, to improve, develop, maintain, and operate by lease or otherwise the Government-owned tin smelter at Texas City, Texas, to finance research in tin smelting and processing, and to do all other things necessary to the accomplishment of the foregoing continue in effect until Jan. 31, 1957, or until such earlier time as the Congress shall otherwise provide, and be exercised and performed by such officer, agency, or instrumentality of the United States as the President may designate, authorized diversification of tin-recovery facilities in the United States, and required the Reconstruction Finance Corporation to report to Congress on its activities not later than Dec. 31, 1947, and at the end of each six months thereafter.
 
-#### Federal Facilities Corporation; Abolition and Dissolution of Reconstruction Finance Corporation and Federal Facilities Corporation
-Ex. Ord. No. 10539, eff. June 22, 1954, 19 F.R. 3827, designated the Federal Facilities Corporation to perform and exercise the functions formerly performed and exercised by the Reconstruction Finance Corporation under act June 28, 1947, set out as a note above. The Reconstruction Finance Corporation, which was created by the Reconstruction Finance Corporation Act, act Jan. 22, 1932, ch. 8, 47 Stat. 5, was subsequently abolished by section 6(a) of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647, set out in the Appendix to Title 5, Government Organization and Employees. The Federal Facilities Corporation was, in turn, dissolved by Pub. L. 87–190, § 6, Aug. 30, 1961, 75 Stat. 419, effective Sept. 30, 1961, formerly set out as a note under sections 1921 to 1929 of the former Appendix to this title.
-
 #### Disposal of Government-Owned Tin Smelter at Texas City, Texas; Cancellation of Obligations
 Cancellation of obligation of General Services Administration to Federal Facilities Corporation existing by virtue of section 5(b) of act June 22, 1956, set out as a note above, see section 4(b) of Pub. L. 87–190, Aug. 30, 1961, 75 Stat. 418, formerly set out as a note under sections 1921 to 1929 of the former Appendix to this title.
+
+#### Delegation of Functions
+Functions of President under this section delegated to Secretary of Defense by section 1 of Ex. Ord. No. 12636, Feb. 25, 1988, 53 F.R. 6114, set out under [section 98 of this title](./chapter-005-arsenals-armories-arms-and-war-material-generally.md#section-98).
+
+#### Federal Facilities Corporation; Abolition and Dissolution of Reconstruction Finance Corporation and Federal Facilities Corporation
+Ex. Ord. No. 10539, eff. June 22, 1954, 19 F.R. 3827, designated the Federal Facilities Corporation to perform and exercise the functions formerly performed and exercised by the Reconstruction Finance Corporation under act June 28, 1947, set out as a note above. The Reconstruction Finance Corporation, which was created by the Reconstruction Finance Corporation Act, act Jan. 22, 1932, ch. 8, 47 Stat. 5, was subsequently abolished by section 6(a) of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647, set out in the Appendix to Title 5, Government Organization and Employees. The Federal Facilities Corporation was, in turn, dissolved by Pub. L. 87–190, § 6, Aug. 30, 1961, 75 Stat. 419, effective Sept. 30, 1961, formerly set out as a note under sections 1921 to 1929 of the former Appendix to this title.
 
 
 <a id="section-98e"></a>
@@ -601,7 +628,7 @@ Cancellation of obligation of General Services Administration to Federal Facilit
 
 (1) competitive procedures shall be used in the acquisition and disposal of such materials; and
 
-(2) efforts shall be made in the acquisition and disposal of such materials to avoid undue disruption of the usual markets of producers, processors, and consumers of such materials and to protect the United States against avoidable loss.
+(2) efforts shall be made in the acquisition and disposal of such materials to consult with producers and processors of such materials to avoid undue disruption of the usual markets of producers, processors, and consumers of such materials and to protect the United States against avoidable loss.
 
 **(c) Barter; use of stockpile materials as payment for expenses of acquiring, refining, processing, or rotating materials**
 
@@ -621,6 +648,14 @@ Cancellation of obligation of General Services Administration to Federal Facilit
 
 **(e) Leasehold interests in property** The President may acquire leasehold interests in property, for periods not in excess of twenty years, for storage, security, and maintenance of materials in the stockpile.
 
+**(f) Loan of stockpile materials** The President may loan stockpile materials to the Department of Energy or the military departments if the President—
+
+(1) has a reasonable assurance that stockpile materials of a similar or superior quantity and quality to the materials loaned will be returned to the stockpile or paid for;
+
+(2) notifies the congressional defense committees (as defined in [section 101(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a&num=0&edition=prelim)), in writing, not less than 30 days before making any such loan; and
+
+(3) includes in the written notification under paragraph (2) sufficient support for the assurance described in paragraph (1).
+
 ### Statutory Notes
 
 #### Prior Provisions
@@ -629,6 +664,10 @@ A prior section 98e, acts June 7, 1939, ch. 190, § 6, 53 Stat. 812; May 28, 194
 Provisions similar to those in this section were contained in former [section 98b of this title](./chapter-005-arsenals-armories-arms-and-war-material-generally.md#section-98b) prior to repeal by Pub. L. 96–41.
 
 #### Amendments
+2021—Subsec. (b)(2). Pub. L. 117–81, § 1411(1), inserted “to consult with producers and processors of such materials” before “to avoid”.
+
+Subsec. (f). Pub. L. 117–81, § 1412, added subsec. (f).
+
 2013—Subsec. (a)(5) to (7). Pub. L. 113–66 added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively.
 
 1999—Subsec. (d)(1). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
@@ -663,11 +702,11 @@ Subsec. (d)(1). Pub. L. 101–189, § 3314(2), substituted “paragraph (1) or (
 
 1981—Subsec. (a)(6). Pub. L. 97–35 inserted reference to [section 98d(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98d/b&num=0&edition=prelim).
 
-#### Delegation of Functions
-Functions of President under this section delegated to Secretary of Defense by section 1 of Ex. Ord. No. 12636, Feb. 25, 1988, 53 F.R. 6114, set out under [section 98 of this title](./chapter-005-arsenals-armories-arms-and-war-material-generally.md#section-98).
-
 #### Acquisition of Depleted Uranium for National Defense Stockpile
 Pub. L. 101–511, title VIII, § 8095, Nov. 5, 1990, 104 Stat. 1896, directed President, using funds available in National Defense Stockpile Transaction Fund, to acquire over a period of ten years from current domestic sources not less than thirty-six million pounds of depleted uranium to be held in National Defense Stockpile, prior to repeal by Pub. L. 102–172, title VIII, § 8027A, Nov. 26, 1991, 105 Stat. 1177.
+
+#### Delegation of Functions
+Functions of President under this section delegated to Secretary of Defense by section 1 of Ex. Ord. No. 12636, Feb. 25, 1988, 53 F.R. 6114, set out under [section 98 of this title](./chapter-005-arsenals-armories-arms-and-war-material-generally.md#section-98).
 
 
 <a id="section-98e-1"></a>
@@ -855,7 +894,7 @@ Pub. L. 100–202, § 101(m) [title V, § 519], Dec. 22, 1987, 101 Stat. 1329–
 Pub. L. 99–500, § 101(m) [title V, § 520], Oct. 18, 1986, 100 Stat. 1783–308, 1783–326, and Pub. L. 99–591, § 101(m) [title V, § 520], Oct. 30, 1986, 100 Stat. 3341–308, 3341–326.
 
 #### Deposit of Funds Accruing From Naval Petroleum Reserves
-Pub. L. 98–525, title IX, § 905, Oct. 19, 1984, 98 Stat. 2574, as amended by Pub. L. 99–145, title XVI, § 1611(a), Nov. 8, 1985, 99 Stat. 776, provided that: “There shall be deposited into the National Defense Stockpile Transaction Fund established under section 9 of the Act ([50 U.S.C. 98h](./chapter-005-arsenals-armories-arms-and-war-material-generally.md#section-98h)) 30 percent of all money accruing to the United States during fiscal years 1985 and 1986 from lands in the naval petroleum and oil shale reserves (less amounts spent for exploration, development and operation of those reserves and related expenses during that period). Moneys deposited into the Fund under this subsection shall be deemed to have been covered into the Fund under section 9(b) of the Act.”
+Pub. L. 98–525, title IX, § 905, Oct. 19, 1984, 98 Stat. 2574, as amended by Pub. L. 99–145, title XVI, § 1611(a), Nov. 8, 1985, 99 Stat. 776, authorized the deposit into the National Defense Stockpile Transaction Fund, established under this section, of 30 percent of all money accruing to the United States during fiscal years 1985 and 1986 from lands in the naval petroleum and oil shale reserves.
 
 
 <a id="section-98h-1"></a>
@@ -895,14 +934,14 @@ For transfer of all functions, personnel, assets, components, authorities, grant
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
-#### Delegation of Functions
-Functions of President under this section delegated to Secretary of Defense by section 1 of Ex. Ord. No. 12636, Feb. 25, 1988, 53 F.R. 6114, set out under [section 98 of this title](./chapter-005-arsenals-armories-arms-and-war-material-generally.md#section-98).
-
 #### Termination of Advisory Committees
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Advisory Committee Regarding Operation and Modernization of Stockpile
 Pub. L. 102–484, div. C, title XXXIII, § 3306, Oct. 23, 1992, 106 Stat. 2652, provided that: “(a) Appointment.—Not later than March 15, 1993, the President shall appoint an advisory committee under section 10(a) of the Strategic and Critical Materials Stock Piling Act ([50 U.S.C. 98h–1(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98h–1/a&num=0&edition=prelim)) to make recommendations to the President concerning the operation and modernization of the National Defense Stockpile. “(b) Membership.—The committee shall consist of members who have expertise regarding strategic and critical materials, including—“(1) employees of Federal agencies (including the Department of Defense, the Department of State, the Department of Commerce, the Department of Energy, the Department of the Treasury, the Department of the Interior, and the Federal Emergency Management Agency); “(2) representatives of mining, processing, and fabricating industries and consumers that would be affected by the acquisition of materials for the stockpile or the disposal of materials from the stockpile; and “(3) other interested persons or representatives of interested organizations.”
+
+#### Delegation of Functions
+Functions of President under this section delegated to Secretary of Defense by section 1 of Ex. Ord. No. 12636, Feb. 25, 1988, 53 F.R. 6114, set out under [section 98 of this title](./chapter-005-arsenals-armories-arms-and-war-material-generally.md#section-98).
 
 
 <a id="section-98h-2"></a>
@@ -985,6 +1024,13 @@ For the purposes of this subchapter:
 (1) The term “strategic and critical materials” means materials that (A) would be needed to supply the military, industrial, and essential civilian needs of the United States during a national emergency, and (B) are not found or produced in the United States in sufficient quantities to meet such need.
 
 (2) The term “national emergency” means a general declaration of emergency with respect to the national defense made by the President or by the Congress.
+
+(3) The term “national technology and industrial base” has the meaning given such term in [section 2500 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2500&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Amendments
+2021—Par. (3). Pub. L. 117–81 added par. (3).
 
 
 <a id="section-98h-4"></a>
@@ -1070,9 +1116,11 @@ Pub. L. 102–190, div. C, title XXXIII, § 3313(b)(3), Dec. 5, 1991, 105 Stat. 
 
 (2) by contracting with domestic facilities, or making a commitment to contract with domestic facilities, for the processing or refining of strategic and critical materials in the stockpile when processing or refining is necessary to convert such materials into a form more suitable for storage and subsequent disposition;
 
-(3) by qualifying existing domestic facilities and domestically produced strategic and critical materials to meet the requirements of defense and essential civilian industries in times of national emergency when existing domestic sources of supply are either insufficient or vulnerable to single points of failure; and
+(3) by qualifying existing domestic facilities and domestically produced strategic and critical materials to meet the requirements of defense and essential civilian industries in times of national emergency when existing domestic sources of supply are either insufficient or vulnerable to single points of failure;
 
-(4) by contracting with domestic facilities to recycle strategic and critical materials, thereby increasing domestic supplies when such materials would otherwise be insufficient to support defense and essential civilian industries in times of national emergency.
+(4) by contracting with domestic facilities to recycle strategic and critical materials, thereby increasing domestic supplies when such materials would otherwise be insufficient to support defense and essential civilian industries in times of national emergency; and
+
+(5) if domestic sources are unavailable to meet the requirements defined in paragraphs (1) through (4), by making efforts to prioritize the purchase of strategic and critical materials from the national technology and industrial base.
 
 **(b) Terms and conditions of contracts and commitments** A contract or commitment made under subsection (a) may not exceed five years from the date of the contract or commitment. Such purchases and commitments to purchase may be made for such quantities and on such terms and conditions, including advance payments, as the President considers to be necessary.
 
@@ -1093,6 +1141,8 @@ Pub. L. 102–190, div. C, title XXXIII, § 3313(b)(3), Dec. 5, 1991, 105 Stat. 
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (a)(5). Pub. L. 117–81 added par. (5).
+
 2016—Subsec. (a)(3), (4). Pub. L. 114–328 added pars. (3) and (4).
 
 2013—Subsec. (a). Pub. L. 113–66 inserted “and appropriate conservation” after “development” in introductory provisions.
@@ -1127,11 +1177,11 @@ Subsec. (d). Pub. L. 101–189, § 3313(b)(1), (3), substituted “sections 98f 
 #### Savings Provision
 Pub. L. 100–180, div. C, title II, § 3203(c), Dec. 4, 1987, 101 Stat. 1247, provided that: “Unless otherwise directed by the President under section 6A [renumbered § 16] of the Strategic and Critical Materials Stock Piling Act [this section], as amended by subsection (a), the designation of a National Defense Stockpile Manager in effect on the day before the date of the enactment of this Act [Dec. 4, 1987] shall remain in effect until the individual so designated ceases to hold the office held by the individual at the time of the designation.”
 
-#### Designation of National Defense Stockpile Manager; Delegation of Functions
-The Secretary of Defense was designated National Defense Stockpile Manager and functions of the President under this section were delegated to the Secretary of Defense by section 1 of Ex. Ord. No. 12636, Feb. 25, 1988, 53 F.R. 6114, set out under [section 98 of this title](./chapter-005-arsenals-armories-arms-and-war-material-generally.md#section-98).
-
 #### Deadline for Designation of Manager
 Pub. L. 99–661, div. C, title II, § 3202(b), Nov. 14, 1986, 100 Stat. 4067, directed President, not later than Feb. 15, 1987, to designate an official as National Defense Stockpile Manager, as required by this section.
+
+#### Designation of National Defense Stockpile Manager; Delegation of Functions
+The Secretary of Defense was designated National Defense Stockpile Manager and functions of the President under this section were delegated to the Secretary of Defense by section 1 of Ex. Ord. No. 12636, Feb. 25, 1988, 53 F.R. 6114, set out under [section 98 of this title](./chapter-005-arsenals-armories-arms-and-war-material-generally.md#section-98).
 
 
 <a id="section-98i"></a>

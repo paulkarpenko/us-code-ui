@@ -40,16 +40,17 @@ Act Mar. 24, 1943, ch. 26, 57 Stat. 45, which enacted this chapter, is popularly
 #### Transfer of Functions
 War Shipping Administration terminated as of Sept. 1, 1946, and functions, powers, duties, etc., transferred to United States Maritime Commission for period Sept. 1, 1946, to Dec. 31, 1946, for purpose of liquidating Administration, by act July 8, 1946, ch. 543, title II, § 202, 60 Stat. 501.
 
+Maritime Administration transferred from Department of Commerce to Department of Transportation by Maritime Act of 1981, Pub. L. 97–31, Aug. 6, 1981, 95 Stat. 151, which was repealed in part by Pub. L. 109–304, § 19, Oct. 6, 2006, 120 Stat. 1710. See [section 109 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section109&num=0&edition=prelim), Transportation.
+
+#### Vessel Operations Under Revolving Fund
+Vessel operations conducted under Vessel Operations Revolving Fund, applicability of subsecs. (a) and (c) of this section to, see section 50301(a) to (e) of Title 46, Shipping.
+
+#### Transfer of Functions
 United States Maritime Commission abolished by Reorg. Plan No. 21 of 1950, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1273, set out in the Appendix to Title 5, Government Organization and Employees, which transferred part of its functions and part of functions of its Chairman to Federal Maritime Board and Chairman thereof, that Board having been created by that Plan as an agency within Department of Commerce with an independent status in some respects, and transferred remainder of Commission’s functions and functions of its Chairman to Secretary of Commerce, with power vested in Secretary to authorize their performance by Maritime Administrator, the head of Maritime Administration, which likewise was established by the Plan in Department of Commerce with provision that Chairman of Federal Maritime Board should, ex officio, be that Administrator.
 
 Federal Maritime Board, including offices of members of Board, abolished by section 304 of Reorg. Plan No. 7 of 1961, eff. Aug. 12, 1961, 26 F.R. 7315, 75 Stat. 843, set out in the Appendix to Title 5, Government Organization and Employees. Functions of Board transferred either to Federal Maritime Commission or to Secretary of Commerce by sections 103 and 202 of Reorg. Plan No. 7 of 1961.
 
-Maritime Administration transferred from Department of Commerce to Department of Transportation by Maritime Act of 1981, Pub. L. 97–31, Aug. 6, 1981, 95 Stat. 151, which was repealed in part by Pub. L. 109–304, § 19, Oct. 6, 2006, 120 Stat. 1710. See [section 109 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section109&num=0&edition=prelim), Transportation.
-
 Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, 31 F.R. 8855, 80 Stat. 1610, effective June 25, 1966, set out in the Appendix to Title 5, Government Organization and Employees. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
-
-#### Vessel Operations Under Revolving Fund
-Vessel operations conducted under Vessel Operations Revolving Fund, applicability of subsecs. (a) and (c) of this section to, see section 50301(a) to (e) of Title 46, Shipping.
 
 
 <a id="section-4702"></a>
@@ -90,11 +91,12 @@ Act Aug. 8, 1946, ch. 905, 60 Stat. 937, provided that the amendment made by tha
 #### Transfer of Functions
 War Shipping Administration terminated as of Sept. 1, 1946, and functions, powers, duties, etc., transferred to United States Maritime Commission for period Sept. 1, 1946, to Dec. 31, 1946, for purpose of liquidating Administration, by act July 8, 1946, ch. 543, title II, § 202, 60 Stat. 501.
 
+Maritime Administration transferred from Department of Commerce to Department of Transportation by Maritime Act of 1981, Pub. L. 97–31, Aug. 6, 1981, 95 Stat. 151, which was repealed in part by Pub. L. 109–304, § 19, Oct. 6, 2006, 120 Stat. 1710. See [section 109 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section109&num=0&edition=prelim), Transportation.
+
+#### Transfer of Functions
 Maritime Commission, meaning United States Maritime Commission, abolished by Reorg. Plan No. 21 of 1950, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1273, set out in the Appendix to Title 5, Government Organization and Employees, which transferred part of its functions and part of functions of its Chairman to Federal Maritime Board and Chairman thereof, that Board having been created by that Plan as an agency within Department of Commerce with an independent status in some respects, and transferred remainder of that Commission’s functions and functions of its Chairman to Secretary of Commerce, with power vested in Secretary to authorize their performance by Maritime Administrator, the head of Maritime Administration, which likewise was established by the Plan in Department of Commerce with provision that Chairman of Federal Maritime Board should, ex officio, be that Administrator.
 
 Federal Maritime Board, including offices of members of Board, abolished by section 304 of Reorg. Plan No. 7 of 1961, eff. Aug. 12, 1961, 26 F.R. 7315, 75 Stat. 843, set out in the Appendix to Title 5, Government Organization and Employees. Functions of Board transferred either to Federal Maritime Commission or to Secretary of Commerce by sections 103 and 202 of Reorg. Plan No. 7 of 1961.
-
-Maritime Administration transferred from Department of Commerce to Department of Transportation by Maritime Act of 1981, Pub. L. 97–31, Aug. 6, 1981, 95 Stat. 151, which was repealed in part by Pub. L. 109–304, § 19, Oct. 6, 2006, 120 Stat. 1710. See [section 109 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section109&num=0&edition=prelim), Transportation.
 
 
 <a id="section-4703"></a>
@@ -120,14 +122,15 @@ In subsec. (c), “chapter 563 of title 46” substituted for “section 902 of 
 #### Transfer of Functions
 War Shipping Administration terminated as of Sept. 1, 1946, and functions, powers, duties, etc., transferred to United States Maritime Commission for period Sept. 1, 1946, to Dec. 31, 1946, for purpose of liquidating Administration, by act July 8, 1946, ch. 543, title II, § 202, 60 Stat. 501.
 
-United States Maritime Commission abolished by Reorg. Plan No. 21, 1950, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1273, set out in the Appendix to Title 5, Government Organization and Employees, which transferred part of its functions and part of functions of its Chairman to Federal Maritime Board and Chairman thereof, that Board having been created by that Plan as an agency within Department of Commerce with an independent status in some respects, and transferred remainder of Commission’s functions and functions of its Chairman to Secretary of Commerce, with power vested in Secretary to authorize their performance by Maritime Administrator, the head of Maritime Administration, which likewise was established by the Plan in Department of Commerce with provision that Chairman of Federal Maritime Board should, ex officio, be that Administrator.
-
-Federal Maritime Board, including offices of members of Board, abolished by section 304 of Reorg. Plan No. 7 of 1961, eff. Aug. 12, 1961, 26 F.R. 7315, 75 Stat. 843, set out in the Appendix to Title 5, Government Organization and Employees. Functions of Board transferred either to Federal Maritime Commission or to Secretary of Commerce by sections 103 and 202 of Reorg. Plan No. 7 of 1961.
-
 Maritime Administration transferred from Department of Commerce to Department of Transportation by Maritime Act of 1981, Pub. L. 97–31, Aug. 6, 1981, 95 Stat. 151, which was repealed in part by Pub. L. 109–304, § 19, Oct. 6, 2006, 120 Stat. 1710. See [section 109 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section109&num=0&edition=prelim), Transportation.
 
 #### Vessel Operations Under Revolving Fund
 Vessel operations conducted under Vessel Operations Revolving Fund, applicability of subsec. (c) of this section to, see section 50301(a) to (e) of Title 46, Shipping.
+
+#### Transfer of Functions
+United States Maritime Commission abolished by Reorg. Plan No. 21, 1950, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1273, set out in the Appendix to Title 5, Government Organization and Employees, which transferred part of its functions and part of functions of its Chairman to Federal Maritime Board and Chairman thereof, that Board having been created by that Plan as an agency within Department of Commerce with an independent status in some respects, and transferred remainder of Commission’s functions and functions of its Chairman to Secretary of Commerce, with power vested in Secretary to authorize their performance by Maritime Administrator, the head of Maritime Administration, which likewise was established by the Plan in Department of Commerce with provision that Chairman of Federal Maritime Board should, ex officio, be that Administrator.
+
+Federal Maritime Board, including offices of members of Board, abolished by section 304 of Reorg. Plan No. 7 of 1961, eff. Aug. 12, 1961, 26 F.R. 7315, 75 Stat. 843, set out in the Appendix to Title 5, Government Organization and Employees. Functions of Board transferred either to Federal Maritime Commission or to Secretary of Commerce by sections 103 and 202 of Reorg. Plan No. 7 of 1961.
 
 
 <a id="section-4704"></a>
@@ -143,14 +146,15 @@ Section was formerly classified to section 1294 of the former Appendix to this t
 #### Transfer of Functions
 War Shipping Administration terminated as of Sept. 1, 1946, and functions, powers, duties, etc., transferred to United States Maritime Commission for period Sept. 1, 1946, to Dec. 31, 1946, for purpose of liquidating Administration, by act July 8, 1946, ch. 543, title II, § 202, 60 Stat. 501.
 
-United States Maritime Commission abolished by Reorg. Plan No. 21, 1950, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1273, set out in the Appendix to Title 5, Government Organization and Employees, which transferred part of its functions and part of functions of its Chairman to Federal Maritime Board and Chairman thereof, that Board having been created by that Plan as an agency within Department of Commerce with an independent status in some respects, and transferred remainder of Commission’s functions and functions of its Chairman to Secretary of Commerce, with power vested in Secretary to authorize their performance by Maritime Administrator, the head of Maritime Administration, which likewise was established by the Plan in Department of Commerce with provision that Chairman of Federal Maritime Board should, ex officio, be that Administrator.
-
-Federal Maritime Board, including offices of members of Board, abolished by section 304 of Reorg. Plan No. 7 of 1961, eff. Aug. 12, 1961, 26 F.R. 7315, 75 Stat. 843, set out in the Appendix to Title 5, Government Organization and Employees. Functions of Board transferred either to Federal Maritime Commission or to Secretary of Commerce by sections 103 and 202 of Reorg. Plan No. 7 of 1961.
-
 Maritime Administration transferred from Department of Commerce to Department of Transportation by Maritime Act of 1981, Pub. L. 97–31, Aug. 6, 1981, 95 Stat. 151, which was repealed in part by Pub. L. 109–304, § 19, Oct. 6, 2006, 120 Stat. 1710. See [section 109 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section109&num=0&edition=prelim), Transportation.
 
 #### Vessel Operations Under Revolving Fund
 Vessel operations conducted under Vessel Operations Revolving Fund, applicability of this section to, see section 50301(a) to (e) of Title 46, Shipping.
+
+#### Transfer of Functions
+United States Maritime Commission abolished by Reorg. Plan No. 21, 1950, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1273, set out in the Appendix to Title 5, Government Organization and Employees, which transferred part of its functions and part of functions of its Chairman to Federal Maritime Board and Chairman thereof, that Board having been created by that Plan as an agency within Department of Commerce with an independent status in some respects, and transferred remainder of Commission’s functions and functions of its Chairman to Secretary of Commerce, with power vested in Secretary to authorize their performance by Maritime Administrator, the head of Maritime Administration, which likewise was established by the Plan in Department of Commerce with provision that Chairman of Federal Maritime Board should, ex officio, be that Administrator.
+
+Federal Maritime Board, including offices of members of Board, abolished by section 304 of Reorg. Plan No. 7 of 1961, eff. Aug. 12, 1961, 26 F.R. 7315, 75 Stat. 843, set out in the Appendix to Title 5, Government Organization and Employees. Functions of Board transferred either to Federal Maritime Commission or to Secretary of Commerce by sections 103 and 202 of Reorg. Plan No. 7 of 1961.
 
 
 <a id="section-4705"></a>
@@ -169,8 +173,9 @@ Section was formerly classified to section 1295 of the former Appendix to this t
 #### Transfer of Functions
 War Shipping Administration terminated as of Sept. 1, 1946, and functions, powers, duties, etc., transferred to United States Maritime Commission for period Sept. 1, 1946, to Dec. 31, 1946, for purpose of liquidating Administration, by act July 8, 1946, ch. 543, title II, § 202, 60 Stat. 501.
 
+Maritime Administration transferred from Department of Commerce to Department of Transportation by Maritime Act of 1981, Pub. L. 97–31, Aug. 6, 1981, 95 Stat. 151, which was repealed in part by Pub. L. 109–304, § 19, Oct. 6, 2006, 120 Stat. 1710. See [section 109 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section109&num=0&edition=prelim), Transportation.
+
+#### Transfer of Functions
 United States Maritime Commission abolished by Reorg. Plan No. 21, 1950, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1273, set out in the Appendix to Title 5, Government Organization and Employees, which transferred part of its functions and part of functions of its Chairman to Federal Maritime Board and Chairman thereof, that Board having been created by that Plan as an agency within Department of Commerce with an independent status in some respects, and transferred remainder of Commission’s functions and functions of its Chairman to Secretary of Commerce, with power vested in Secretary to authorize their performance by Maritime Administrator, the head of Maritime Administration, which likewise was established by the Plan in Department of Commerce with provision that Chairman of Federal Maritime Board should, ex officio, be that Administrator.
 
 Federal Maritime Board, including offices of members of Board, abolished by section 304 of Reorg. Plan No. 7 of 1961, eff. Aug. 12, 1961, 26 F.R. 7315, 75 Stat. 843, set out in the Appendix to Title 5, Government Organization and Employees. Functions of Board transferred either to Federal Maritime Commission or to Secretary of Commerce by sections 103 and 202 of Reorg. Plan No. 7 of 1961.
-
-Maritime Administration transferred from Department of Commerce to Department of Transportation by Maritime Act of 1981, Pub. L. 97–31, Aug. 6, 1981, 95 Stat. 151, which was repealed in part by Pub. L. 109–304, § 19, Oct. 6, 2006, 120 Stat. 1710. See [section 109 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section109&num=0&edition=prelim), Transportation.

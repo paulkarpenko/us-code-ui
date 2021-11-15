@@ -102,7 +102,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 (4) exercise supervision, consistent with the authority assigned to commanders of unified or specified combatant commands under chapter 6 of this title, over such of the members and organizations of the Marine Corps and the Navy as the Secretary determines;
 
-(5) perform the duties prescribed for him by sections 171 and 2547 of this title and other provisions of law; and
+(5) perform the duties prescribed for him by sections 171 and 3104 of this title and other provisions of law; and
 
 (6) perform such other military duties, not otherwise assigned by law, as are assigned to him by the President, the Secretary of Defense, or the Secretary of the Navy.
 
@@ -116,9 +116,6 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 ### Statutory Notes
 
-#### Amendment of Subsection (e)(5)
-Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1847(e)(6)(B), Jan. 1, 2021, 134 Stat. 4151, 4257, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, subsection (e)(5) of this section is amended by striking “and 2547” and inserting “, 3103, and 4274”. See 2021 Amendment note below.
-
 #### References in Text
 [Section 664(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section664/f&num=0&edition=prelim), referred to in subsec. (a)(2)(B), was redesignated as [section 664(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section664/d&num=0&edition=prelim) by Pub. L. 114–328, div. A, title V, § 510(g)(1), Dec. 23, 2016, 130 Stat. 2111.
 
@@ -126,7 +123,9 @@ Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1847(e)(6)(B), Jan. 1, 202
 Provisions similar to those in this section were contained in [section 5201 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section5201&num=0&edition=prelim) prior to enactment of Pub. L. 99–433.
 
 #### Amendments
-2021—Subsec. (e)(5). Pub. L. 116–283 substituted “, 3103, and 4274” for “and 2547”.
+2021—Subsec. (e)(5). Pub. L. 116–283, § 1847(e)(6)(B), which directed substitution of “, 3103, and 4274” for “and 2547”, was repealed by Pub. L. 117–81, § 1701(r)(1)(B).
+
+Pub. L. 116–283, § 1808(d)(3), as added by Pub. L. 117–81, § 1701(r)(2), substituted “and 3104” for “and 2547”.
 
 2018—Pub. L. 115–232, § 807(a)(1), renumbered [section 5043 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section5043&num=0&edition=prelim) as this section.
 
@@ -143,6 +142,8 @@ Subsec. (d). Pub. L. 115–232, § 809(a), substituted “section 8013(f)” for
 1988—Subsec. (a)(2)(B). Pub. L. 100–456 substituted “full tour of duty in a joint duty assignment (as defined in [section 664(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section664/f&num=0&edition=prelim))” for “joint duty assignment”.
 
 #### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
+
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 2018 Amendment

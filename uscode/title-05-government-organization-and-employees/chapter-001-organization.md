@@ -55,10 +55,14 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 Amendment by Pub. L. 89–670 effective Apr. 1, 1967, as prescribed by the President and published in the Federal Register, see section 16(a), formerly § 15(a), of Pub. L. 89–670 and Ex. Ord. No. 11340, Mar. 30, 1967, 32 F.R. 5453.
 
 #### Short Title of 2021 Amendment
+Pub. L. 117–81, div. F, title LXII, § 6201, Dec. 27, 2021, 135 Stat. 2389, provided that: “This title [title LXII of div. F of Pub. L. 117–81, enacting [section 4087 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4087&num=0&edition=prelim), Foreign Relations and Intercourse, amending [section 6502 of this title](./chapter-065-telework.md#section-6502), [section 1015d of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1015d&num=0&edition=prelim), Education, and sections 3951 and 4026 of Title 22, and enacting provisions set out as notes under [section 6502 of this title](./chapter-065-telework.md#section-6502) and [section 1015d of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1015d&num=0&edition=prelim)] may be cited as the ‘Foreign Service Families Act of 2021’.”
+
+Pub. L. 117–17, § 1, June 17, 2021, 135 Stat. 287, provided that: “This Act [amending [section 6103 of this title](./chapter-061-hours-of-work.md#section-6103)] may be cited as the ‘Juneteenth National Independence Day Act’.”
+
 Pub. L. 116–283, div. A, title XI, § 1131, Jan. 1, 2021, 134 Stat. 3900, provided that: “This subtitle [subtitle B (§§ 1131–1138) of title XI of div. A of Pub. L. 116–283, amending [section 2302 of this title](./chapter-023-merit-system-principles.md#section-2302) and enacting and amending provisions set out as notes under [section 2301 of this title](./chapter-023-merit-system-principles.md#section-2301)] may be cited as the ‘Elijah E. Cummings Federal Employee Antidiscrimination Act of 2020’.”
 
 #### Short Title of 2020 Amendment
-Pub. L. 116–269, § 1, Dec. 30, 2020, 134 Stat. 3323, provided that: “This Act [amending provisions set out as a note under [section 5547 of this title](./chapter-055-pay-administration.md#section-5547)] may be cited as the ’Secret Service Overtime Pay Extension Act’.”
+Pub. L. 116–269, § 1, Dec. 30, 2020, 134 Stat. 3323, provided that: “This Act [amending provisions set out as a note under [section 5547 of this title](./chapter-055-pay-administration.md#section-5547)] may be cited as the ‘Secret Service Overtime Pay Extension Act’.”
 
 Pub. L. 116–126, § 1, Mar. 18, 2020, 134 Stat. 174, provided that: “This Act [enacting sections 8345a and 8466a of this title, amending sections 8331, 8345, 8348, 8401, and 8466 of this title, and enacting provisions set out as notes under [section 8331 of this title](./chapter-083-retirement.md#section-8331)] may be cited as the ‘Representative Payee Fraud Prevention Act of 2019’.”
 

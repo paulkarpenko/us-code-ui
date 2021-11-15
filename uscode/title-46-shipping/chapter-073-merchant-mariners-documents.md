@@ -118,7 +118,7 @@ For provisions that a merchant mariner’s document issued before Aug. 18, 1990,
 <a id="section-7303"></a>
 ## § 7303. Possession and description of merchant mariners’ documents
 
-A merchant mariner’s document shall be retained by the seaman to whom issued. The document shall contain the signature, notations of nationality, age, and physical description, the photograph, and the home address of the seaman. In addition, the document shall specify the rate or ratings in which the seaman is qualified to serve.
+A merchant mariner’s document shall be retained by the individual to whom issued. The document shall contain the signature, notations of nationality, age, and physical description, the photograph, and the home address of the individual. In addition, the document shall specify the rate or ratings in which the individual is qualified to serve.
 
 ### Statutory Notes
 
@@ -130,6 +130,8 @@ A merchant mariner’s document shall be retained by the seaman to whom issued. 
 Section 7303 requires seamen to retain their merchant mariner’s documents. It also specifies the information that is to be contained in the document.
 
 #### Amendments
+2021—Pub. L. 116–283 substituted “individual” for “seaman” wherever appearing.
+
 2002—Pub. L. 107–295 struck out “the thumbprint,” after “photograph,”.
 
 
@@ -488,7 +490,7 @@ Section 7318 specifies that radiotelegraph operators on the Great Lakes shall ha
 <a id="section-7319"></a>
 ## § 7319. Records of merchant mariners’ documents
 
-The Secretary shall maintain records on each merchant mariner’s document issued, including the name and address of the seaman to whom issued and the next of kin of the seaman.
+The Secretary shall maintain records on each merchant mariner’s document issued, including the name and address of the individual to whom issued and the next of kin of the individual.
 
 ### Statutory Notes
 
@@ -500,4 +502,6 @@ The Secretary shall maintain records on each merchant mariner’s document issue
 Section 7319 requires the Secretary to maintain records on each merchant mariner’s document issued and the seaman’s next of kin. However, these records are not open for general or public inspection.
 
 #### Amendments
+2021—Pub. L. 116–283 substituted “individual” for “seaman” in two places.
+
 2004—Pub. L. 108–293 struck out at end “The records are not open to general or public inspection.”

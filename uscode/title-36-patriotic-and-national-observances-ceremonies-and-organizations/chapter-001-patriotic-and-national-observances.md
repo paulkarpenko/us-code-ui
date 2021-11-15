@@ -2,7 +2,7 @@
 title: 36
 chapter: '1'
 heading: PATRIOTIC AND NATIONAL OBSERVANCES
-section_count: 45
+section_count: 46
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36&num=0&edition=prelim
 ---
@@ -925,3 +925,13 @@ The President shall issue each year a proclamation calling on the people of the 
 (6) 10:11 a.m. Alaska standard time; and
 
 (7) 9:11 a.m. Hawaii-Aleutian standard time.
+
+
+<a id="section-146"></a>
+## § 146. National Atomic Veterans Day
+
+The President shall issue each year a proclamation calling on the people of the United States to—
+
+(1) observe Atomic Veterans Day with appropriate ceremonies and activities; and
+
+(2) remember and honor the atomic veterans of the United States whose brave service and sacrifice played an important role in the defense of the Nation.

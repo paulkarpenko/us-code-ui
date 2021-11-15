@@ -58,7 +58,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 (1) There is a Secretary of the Army, appointed from civilian life by the President, by and with the advice and consent of the Senate. The Secretary shall, to the greatest extent practicable, be appointed from among persons most highly qualified for the position by reason of background and experience, including persons with appropriate management or leadership experience. The Secretary is the head of the Department of the Army.
 
-(2) A person may not be appointed as Secretary of the Army within five years after relief from active duty as a commissioned officer of a regular component of an armed force.
+(2) A person may not be appointed as Secretary of the Army within seven years after relief from active duty as a commissioned officer of a regular component of an armed force.
 
 **(b)** Subject to the authority, direction, and control of the Secretary of Defense and subject to the provisions of chapter 6 of this title, the Secretary of the Army is responsible for, and has the authority necessary to conduct, all affairs of the Department of the Army, including the following functions:
 
@@ -119,6 +119,8 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (a)(2). Pub. L. 117–81 substituted “seven” for “five”.
+
 2018—Pub. L. 115–232 renumbered [section 3013 of this title](./chapter-201-definitions.md#section-3013) as this section.
 
 2016—Subsec. (a)(1). Pub. L. 114–328 inserted “The Secretary shall, to the greatest extent practicable, be appointed from among persons most highly qualified for the position by reason of background and experience, including persons with appropriate management or leadership experience.” after first sentence.
@@ -127,8 +129,14 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 1986—Subsec. (a)(2). Pub. L. 99–661 substituted “five years” for “10 years”.
 
+#### 4Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–81 applicable with respect to appointments made on or after Dec. 27, 2021, see section 901(g) of Pub. L. 117–81, set out as a note under [section 113 of this title](./chapter-002-department-of-defense.md#section-113).
+
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Access to Tour of Duty System
+Pub. L. 117–81, div. A, title V, § 513, Dec. 27, 2021, 135 Stat. 1683, provided that: “(a) Access.—“(1) In general.—Not later than one year after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of the Army shall ensure, subject to paragraph (2), that a member of the reserve components of the Army may access the Tour of Duty system using a personal internet-enabled device. “(2) Exception.—The Secretary of the Army may restrict access to the Tour of Duty system on personal internet-enabled devices if the Secretary determines such restriction is necessary to ensure the security and integrity of information systems and data of the United States. “(b) Tour of Duty System Defined.—In this Act [Pub. L. 117–81, see Tables for classification], the term ‘Tour of Duty system’ means the online system of listings for opportunities to serve on active duty for members of the reserve components of the Army and through which such a member may apply for such an opportunity, known as ‘Tour of Duty’, or any successor to such system.”
 
 #### Pilot Program on Use of Retired Senior Enlisted Members of the Army National Guard as Army National Guard Recruiters
 Pub. L. 115–91, div. A, title V, § 514, Dec. 12, 2017, 131 Stat. 1378, as amended by Pub. L. 115–232, div. A, title V, § 520, Aug. 13, 2018, 132 Stat. 1754, provided that: “(a) Pilot Program Authorized.—The Secretary of the Army may carry out a pilot program for the Army National Guard under which retired senior enlisted members of the Army National Guard would serve as contract recruiters for the Army National Guard. “(b) Objectives of Pilot Program.—The Secretary of the Army shall design any pilot program conducted under this section to determine the following:“(1) The feasibility and effectiveness of hiring retired senior enlisted members of the Army National Guard who have retired within the previous two years to serve as recruiters. “(2) The merits of hiring such retired senior enlisted members as contractors or as employees of the Department of Defense. “(3) The best method of providing a competitive compensation package for such retired senior enlisted members. “(4) The merits of requiring such retired senior enlisted members to wear a military uniform while performing recruiting duties under the pilot program. “(c) Consultation.—In developing a pilot program under this section, the Secretary of the Army shall consult with the operators of a previous pilot program carried out by the Army involving the use of contract recruiters. “(d) Commencement and Duration.—The Secretary of the Army may commence a pilot program under this section on or after January 1, 2018, and all activities under such a pilot program shall terminate no later than December 31, 2021. “(e) Funding Source.—If a pilot program is conducted under this section, the Secretary of the Army shall use funds otherwise available for the National Guard Bureau to carry out the program. “(f) Reporting Requirement.—If a pilot program is conducted under this section, the Secretary of the Army shall submit to the Committees on Armed Services of the House of Representatives and the Senate a report containing an evaluation of the success of the pilot program, including the determinations described in subsection (b). The report shall be submitted not later than January 1, 2020.”

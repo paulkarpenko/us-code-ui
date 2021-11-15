@@ -801,11 +801,11 @@ Pub. L. 91–609, title IX, § 908, Dec. 31, 1970, 84 Stat. 1811, repealed secti
 #### Effective Date of 1960 Amendment
 Amendment by Pub. L. 86–671 effective Jan. 1, 1961, see section 7 of Pub. L. 86–671, set out as a note under [section 1817 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1817).
 
-#### Termination of Trust Territory of the Pacific Islands
-For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
-
 #### Conditions Governing Employment of Personnel Not Repealed, Modified, or Affected
 Pub. L. 89–695, title II, § 206, Oct. 16, 1966, 80 Stat. 1055, provided that: “Nothing contained in this title [amending this section and sections 1817 to 1820 of this title and repealing [section 77 of this title](./chapter-002-national-banks.md#section-77)] shall be construed to repeal, modify, or affect the provisions of section 19 of the Federal Deposit Insurance Act ([12 U.S.C. 1829](./chapter-016-federal-deposit-insurance-corporation.md#section-1829)).”
+
+#### Termination of Trust Territory of the Pacific Islands
+For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
 
 
 <a id="section-1814"></a>
@@ -2428,9 +2428,6 @@ Pub. L. 111–203, title III, § 334(c)–(e), July 21, 2010, 124 Stat. 1539, pr
 
 [For definitions of terms used in section 334(c)–(e) of Pub. L. 111–203, set out above, see [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).]
 
-#### Termination of Trust Territory of the Pacific Islands
-For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
-
 #### Report to Congress on Refunds, Dividends, and Credits From Deposit Insurance Fund
 Pub. L. 109–173, § 5, Feb. 15, 2006, 119 Stat. 3606, required that any determination under former subsection (e)(2)(E) of this section be submitted to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives not later than 270 days after making such determination and provided that the report submitted include a detailed explanation for the determination and a discussion of the factors required to be considered under former subsection (e)(2)(F) of this section.
 
@@ -2442,6 +2439,9 @@ Pub. L. 102–242, title I, § 122, Dec. 19, 1991, 105 Stat. 2251, as amended by
 
 #### Conditions Governing Employment of Personnel Not Repealed, Modified, or Affected
 Nothing contained in section 201 of Pub. L. 89–695, which amended this section, to be construed as repealing, modifying, or affecting [section 1829 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1829), see section 206 of Pub. L. 89–695, set out as a note under [section 1813 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1813).
+
+#### Termination of Trust Territory of the Pacific Islands
+For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
 
 
 <a id="section-1818"></a>
@@ -6246,9 +6246,6 @@ Amendment by Pub. L. 89–695 not applicable to any claim arising out of the clo
 #### Regulations
 Pub. L. 102–242, title III, § 311(b)(4), Dec. 19, 1991, 105 Stat. 2365, provided that: “(A) Review of coverage.—For the purpose of prescribing regulations, during the 1-year period beginning on the date of the enactment of this Act [Dec. 19, 1991], the Board of Directors shall review the capacities and rights in which deposit accounts are maintained and for which deposit insurance coverage is provided by the Corporation. “(B) Regulations.—After the end of the 1-year period referred to in subparagraph (A), the Board of Directors may prescribe regulations that provide for separate insurance coverage for the different capacities and rights in which deposit accounts are maintained if a determination is made by the Board of Directors that such separate insurance coverage is consistent with—“(i) the purpose of protecting small depositors and limiting the undue expansion of deposit insurance coverage; and “(ii) the insurance provisions of the Federal Deposit Insurance Act [[12 U.S.C. 1811](./chapter-016-federal-deposit-insurance-corporation.md#section-1811) et seq.]. “(C) Delayed effective date for regulations.—No regulation prescribed under subparagraph (B) may take effect before the 2-year period beginning on the date of the enactment of this Act [Dec. 19, 1991].”
 
-#### Termination of Trust Territory of the Pacific Islands
-For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
-
 #### Temporary Adjustment in Standard Maximum Deposit Insurance Amount
 Subsec. (a)(1)(E) of this section to apply with “$250,000” substituted for “$100,000” during period beginning on Oct. 3, 2008, and ending on Dec. 31, 2009, see [section 5241(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5241/a/1&num=0&edition=prelim).
 
@@ -6274,6 +6271,9 @@ Pub. L. 102–242, title IV, § 451, Dec. 19, 1991, 105 Stat. 2382, as amended b
 
 #### Definitions
 Pub. L. 104–208, div. A, title II, § 2710, Sept. 30, 1996, 110 Stat. 3009–498, provided that: “For purposes of this subtitle [subtitle G (§§ 2701–2711) of title II of div. A of Pub. L. 104–208, see Short Title of 1996 Amendment note set out under [section 1811 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1811)], the following definitions shall apply: “(1) Bank insurance fund.—The term ‘Bank Insurance Fund’ means the fund established pursuant to section (11)(a)(5)(A) of the Federal Deposit Insurance Act [former [12 U.S.C. 1821(a)(5)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1821/a/5/A&num=0&edition=prelim)], as that section existed on the day before the date of enactment of this Act [Sept. 30, 1996]. “(2) BIF member, saif member.—The terms ‘Bank Insurance Fund member’ and ‘Savings Association Insurance Fund member’ have the same meanings as in section 7(l) of the Federal Deposit Insurance Act [[12 U.S.C. 1817](./chapter-016-federal-deposit-insurance-corporation.md#section-1817)(l)]. “(3) Various banking terms.—The terms ‘bank’, ‘Board of Directors’, ‘Corporation’, ‘deposit’, ‘insured depository institution’, ‘Federal savings association’, ‘savings association’, ‘State savings bank’, and ‘State depository institution’ have the same meanings as in section 3 of the Federal Deposit Insurance Act [[12 U.S.C. 1813](./chapter-016-federal-deposit-insurance-corporation.md#section-1813)]. “(4) Deposit insurance fund.—The term ‘Deposit Insurance Fund’ means the fund established under section 11(a)(4) of the Federal Deposit Insurance Act [former [12 U.S.C. 1821(a)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1821/a/4&num=0&edition=prelim)] (as amended by section 2704(d) of this subtitle). “(5) Depository institution holding company.—The term ‘depository institution holding company’ has the same meaning as in section 3 of the Federal Deposit Insurance Act [[12 U.S.C. 1813](./chapter-016-federal-deposit-insurance-corporation.md#section-1813)]. “(6) Designated reserve ratio.—The term ‘designated reserve ratio’ has the same meaning as in section 7(b)(2)(A)(iv) of the Federal Deposit Insurance Act [former [12 U.S.C. 1817(b)(2)(A)(iv)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1817/b/2/A/iv&num=0&edition=prelim), see [12 U.S.C. 1817(b)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1817/b/3&num=0&edition=prelim)]. “(7) SAIF.—The term ‘Savings Association Insurance Fund’ means the fund established pursuant to section 11(a)(6)(A) of the Federal Deposit Insurance Act [former [12 U.S.C. 1821(a)(6)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1821/a/6/A&num=0&edition=prelim)], as that section existed on the day before the date of enactment of this Act [Sept. 30, 1996]. “(8) SAIF-assessable deposit.—The term ‘SAIF-assessable deposit’—“(A) means a deposit that is subject to assessment for purposes of the Savings Association Insurance Fund under the Federal Deposit Insurance Act [[12 U.S.C. 1811](./chapter-016-federal-deposit-insurance-corporation.md#section-1811) et seq.] (including a deposit that is treated as insured by the Savings Association Insurance Fund under section 5(d)(3) of the Federal Deposit Insurance Act [[12 U.S.C. 1815(d)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1815/d/3&num=0&edition=prelim)]); and “(B) includes any deposit described in subparagraph (A) which is assumed after March 31, 1995, if the insured depository institution, the deposits of which are assumed, is not an insured depository institution when the special assessment is imposed under section 2702(a) [former [12 U.S.C. 1817](./chapter-016-federal-deposit-insurance-corporation.md#section-1817) note].”
+
+#### Termination of Trust Territory of the Pacific Islands
+For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
 
 
 <a id="section-1821a"></a>
@@ -12812,7 +12812,7 @@ Subsec. (c)(2). Pub. L. 107–100, § 4(b)(2)(B)(i), which directed the substitu
 
 Subsec. (c)(3). Pub. L. 107–100, § 4(b)(2)(A), (B)(ii), (C), added par. (3).
 
-Subsec. (d) to (h). Pub. L. 107–100, § 4(b)(1), (2)(D), designated concluding provisions of subsec. (c) as (d), inserted heading, and redesignated former subsecs. (d) to (g) as (e) to (h), respectively.
+Subsecs. (d) to (h). Pub. L. 107–100, § 4(b)(1), (2)(D), designated concluding provisions of subsec. (c) as (d), inserted heading, and redesignated former subsecs. (d) to (g) as (e) to (h), respectively.
 
 1996—Subsec. (b)(3)(B). Pub. L. 104–208, § 2704(d)(15)(A), which directed substitution of “Deposit Insurance Fund” for “Bank Insurance Fund, the Savings Association Insurance Fund,”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 

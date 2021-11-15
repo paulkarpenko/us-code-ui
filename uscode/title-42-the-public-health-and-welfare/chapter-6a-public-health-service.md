@@ -2,7 +2,7 @@
 title: 42
 chapter: 6A
 heading: PUBLIC HEALTH SERVICE
-section_count: 1463
+section_count: 1471
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
@@ -112,7 +112,7 @@ Subsec. (o). Act June 24, 1948, added subsec. (o).
 1946—Subsecs. (l), (m). Act July 3, 1946, added subsecs. (l) and (m).
 
 #### Change of Name
-Coast and Geodetic Survey consolidated with Weather Bureau to form a new agency in Department of Commerce to be known as Environmental Science Services Administration, and commissioned officers of Survey transferred to ESSA, by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out in the Appendix to Title 5, Government Organization and Employees. Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, abolished Environmental Science Services Administration, established National Oceanic and Atmospheric Administration, and redesignated Commissioned Officer Corps of ESSA as Commissioned Officer Corps of NOAA. For further details, see Transfer of Functions note set out under [section 851 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section851&num=0&edition=prelim), Navigation and Navigable Waters.
+“Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
 #### Effective Date of 2000 Amendment
 Pub. L. 106–310, div. A, title XXIX, § 2901, Oct. 17, 2000, 114 Stat. 1168, provided that: “This division [see Tables for classification] and the amendments made by this division take effect October 1, 2000, or upon the date of the enactment of this Act [Oct. 17, 2000], whichever occurs later.”
@@ -138,6 +138,10 @@ Pub. L. 86–624, § 47(f), July 12, 1960, 74 Stat. 423, provided that: “The a
 Amendment by Pub. L. 86–70 effective Jan. 3, 1959, see section 47(d) of Pub. L. 86–70.
 
 #### Short Title of 2021 Amendment
+Pub. L. 117–15, § 1, May 26, 2021, 135 Stat. 277, provided that: “This Act [amending sections 274k, 274m, and 282 of this title and enacting and amending provisions set out as notes under [section 274k of this title](./chapter-6a-public-health-service.md#section-274k)] may be cited as the ‘Timely ReAuthorization of Necessary Stem-cell Programs Lends Access to Needed Therapies Act of 2021’ or the ‘TRANSPLANT Act of 2021’.”
+
+Pub. L. 117–8, § 1, Apr. 23, 2021, 135 Stat. 254, provided that: “This Act [enacting [section 263–1 of this title](./chapter-6a-public-health-service.md#section-263-1)] may be cited as the ‘Advancing Education on Biosimilars Act of 2021’.”
+
 Pub. L. 116–324, § 1, Jan. 5, 2021, 134 Stat. 5085, provided that: “This Act [amending sections 300ii–3 and 300ii–4 of this title] may be cited as the ‘Lifespan Respite Care Reauthorization Act of 2020’.”
 
 Pub. L. 116–292, § 1, Jan. 5, 2021, 134 Stat. 4896, provided that: “This Act [amending [section 280g of this title](./chapter-6a-public-health-service.md#section-280g)] may be cited as the ‘School-Based Allergies and Asthma Management Program Act’.”
@@ -487,7 +491,7 @@ Pub. L. 104–73, § 1(a), Dec. 26, 1995, 109 Stat. 777, provided that: “This 
 #### Short Title of 1993 Amendments
 Pub. L. 103–183, § 1(a), Dec. 14, 1993, 107 Stat. 2226, provided that: “This Act [enacting sections 247b–6, 247b–7, 256d, 280b–1a, 285f–2, 300n–4a, and 300u–8 of this title, amending sections 233, 238j, 242b, 242k, 242l, 242m, 247b, 247b–1, 247b–5, 247c, 247c–1, 254j, 280b, 280b–1, 280b–2, 280b–3, 280e–4, 300d, 300d–2, 300d–3, 300d–12, 300d–13, 300d–16, 300d–22, 300d–31, 300d–32, 300k, 300m, 300n, 300n–1, 300n–4, 300n–5, 300u–5, 300w, and 300aa–26 of this title, repealing sections 300d–1 and 300d–33 of this title, and enacting provisions set out as notes under sections 238j, 263b, 285f–2, and 300m of this title] may be cited as the ‘Preventive Health Amendments of 1993’.”
 
-Section 1(a) of Pub. L. 103–43 provided that: “This Act [see Tables for classification] may be cited as the ‘National Institutes of Health Revitalization Act of 1993’.”
+Pub. L. 103–43, § 1(a), June 10, 1993, 107 Stat. 122, provided that: “This Act [see Tables for classification] may be cited as the ‘National Institutes of Health Revitalization Act of 1993’.”
 
 #### Short Title of 1992 Amendments
 Pub. L. 102–539, § 1, Oct. 27, 1992, 106 Stat. 3547, provided that: “This Act [enacting [section 263b of this title](./chapter-6a-public-health-service.md#section-263b) and provisions set out as a note under [section 263b of this title](./chapter-6a-public-health-service.md#section-263b)] may be cited as the ‘Mammography Quality Standards Act of 1992’.”
@@ -832,13 +836,6 @@ Act July 1, 1944, ch. 373, title XIII, § 1314, formerly title VI, § 612, 58 St
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3, of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
-
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim).
-
-#### Termination of Trust Territory of the Pacific Islands
-For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
-
 #### Congressional Declaration of Purpose for Comprehensive Alcohol Abuse, Drug Abuse, and Mental Health Amendments Act of 1988
 Pub. L. 100–690, title II, § 2012, Nov. 18, 1988, 102 Stat. 4193, provided that: “The purposes of this subtitle [subtitle A (§§ 2011–2081) of title II of Pub. L. 100–690, see Tables for classification] with respect to substance abuse are— “(1) to prevent the transmission of the etiologic agent for acquired immune deficiency syndrome by ensuring that treatment services for intravenous drug abuse are available to intravenous drug abusers; “(2) to continue the Federal Government’s partnership with the States in the development, maintenance, and improvement of community-based alcohol and drug abuse programs; “(3) to provide financial and technical assistance to the States and communities in their efforts to develop and maintain a core of prevention services for the purpose of reducing the incidence of substance abuse and the demand for alcohol and drug abuse treatment; “(4) to assist and encourage States in the initiation and expansion of prevention and treatment services to underserved populations; “(5) to increase, to the greatest extent possible, the availability and quality of treatment services so that treatment on request may be provided to all individuals desiring to rid themselves of their substance abuse problem; and “(6) to increase understanding about the extent of alcohol abuse and other forms of drug abuse by expanding data collection activities and supporting research on the comparative cost and efficacy of substance abuse prevention and treatment services.”
 
@@ -865,6 +862,17 @@ Pub. L. 90–574, title V, § 507, Oct. 15, 1968, 82 Stat. 1013, as amended by P
 
 Pub. L. 90–174, § 15, Dec. 5, 1967, 81 Stat. 542, as amended by Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695, provided that: “As used in the amendments made by this Act [enacting sections 217b, 243(c), 251(b), 254a, 263a, and 291m–1 and amending sections 242b, 242g(c), 246(d)(1), (e), and 296e(c)(1) of this title] the term ‘Secretary’ means the Secretary of Health and Human Services.”
 
+#### Change of Name
+Coast and Geodetic Survey consolidated with Weather Bureau to form a new agency in Department of Commerce to be known as Environmental Science Services Administration, and commissioned officers of Survey transferred to ESSA, by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out in the Appendix to Title 5, Government Organization and Employees. Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, abolished Environmental Science Services Administration, established National Oceanic and Atmospheric Administration, and redesignated Commissioned Officer Corps of ESSA as Commissioned Officer Corps of NOAA. For further details, see Transfer of Functions note set out under [section 851 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section851&num=0&edition=prelim), Navigation and Navigable Waters.
+
+#### Transfer of Functions
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3, of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202).
+
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
+
+#### Termination of Trust Territory of the Pacific Islands
+For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
+
 #### Executive Order No. 13507
 Ex. Ord. No. 13507, Apr. 8, 2009, 74 F.R. 17071, which established the White House Office of Health Reform, was revoked by Ex. Ord. No. 13569, § 6, Apr. 5, 2011, 76 F.R. 19891, set out as a note preceding [section 101 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section101&num=0&edition=prelim), The President.
 
@@ -879,11 +887,11 @@ The Public Health Service in the Department of Health and Human Services shall b
 #### Amendments
 1993—Pub. L. 103–43 substituted “Health and Human Services” for “Health, Education, and Welfare” and “Assistant Secretary for Health” for “Surgeon General”.
 
-#### Transfer of Functions
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+#### Change of Name
+“Secretary of Health and Human Services” and “Department of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” and “Department of Health, Education, and Welfare”, respectively, pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
-#### International Health Administration
-Ex. Ord. No. 10399, Sept. 27, 1952, 17 F.R. 8648, designated Surgeon General to perform certain duties under International Sanitary Regulations of World Health Organization.
+#### Transfer of Functions
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
 #### Eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610
 Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, April 25, 1966, pursuant to the provisions of the Reorganization Act of 1949, 63 Stat. 203, as amended [see [5 U.S.C. 901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section901&num=0&edition=prelim) et seq.].
@@ -1014,6 +1022,9 @@ Lyndon B. Johnson.
 
 The White House, April 25, 1966.
 
+#### International Health Administration
+Ex. Ord. No. 10399, Sept. 27, 1952, 17 F.R. 8648, designated Surgeon General to perform certain duties under International Sanitary Regulations of World Health Organization.
+
 #### Executive Order No. 10506
 Ex. Ord. No. 10506, Dec. 10, 1953, 18 F.R. 8219, which delegated certain functions of the President relating to the Public Health Service, was superseded by Ex. Ord. No. 11140, Jan. 30, 1964, 29 F.R. 1637, set out below.
 
@@ -1069,10 +1080,13 @@ Pub. L. 103–43, § 2008(g)(1), which directed the amendment of this section by
 
 1948—Act June 16, 1948, substituted “National Institutes of Health” for “National Institute of Health” in cl. (2).
 
-#### Transfer of Functions
-Bureau of Medical Services, Bureau of State Services, National Institutes of Health, excluding several research Institutes in agency, and Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and all functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
+#### Change of Name
+“Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare, and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim).
+#### Transfer of Functions
+Bureau of Medical Services, Bureau of State Services, National Institutes of Health, excluding several research Institutes in agency, and Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and all functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
+
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare, and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
 
 <a id="section-204a"></a>
@@ -1260,8 +1274,11 @@ The Surgeon General shall be appointed from the Regular Corps for a four-year te
 
 Pub. L. 97–25 inserted provision that the President may appoint to office of Surgeon General an individual who is sixty-four years of age or older.
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Transfer of Functions
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
 
 
 <a id="section-207"></a>
@@ -1291,15 +1308,19 @@ Subsec. (c). Pub. L. 96–76, § 303, designated existing provisions as par. (1)
 
 Subsecs. (c), (d). Act Feb. 28, 1948, added subsec. (c) and redesignated former subsec. (c) as (d).
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (c)(1) pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Effective Date of 1979 Amendment
 Pub. L. 96–76, title III, § 314, Sept. 29, 1979, 93 Stat. 587, provided that: “The amendments made by sections 303, 304, 305, 306, 307, and 313 [amending this section, sections 207, 209, 210b, and 211 of this title, and sections 201, 415, and 1006 of Title 37, Pay and Allowances of the Uniformed Services] shall take effect on October 1, 1979.”
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
-Office of Surgeon General, together with office held by Deputy Surgeon General, Bureau of Medical Services, including office of Chief of Bureau of Medical Services, Bureau of State Services, including office of Chief of Bureau of State Services, and National Institutes of Health, including office of Director of National Institutes of Health, abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+#### Transfer of Functions
+Office of Surgeon General, together with office held by Deputy Surgeon General, Bureau of Medical Services, including office of Chief of Bureau of Medical Services, Bureau of State Services, including office of Chief of Bureau of State Services, and National Institutes of Health, including office of Director of National Institutes of Health, abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202).
 
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare, by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim).
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare, by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
 
 <a id="section-208"></a>
@@ -1367,6 +1388,9 @@ Subsec. (d). Pub. L. 96–76, § 304(c), substituted “warrant officer (W–1)�
 
 Subsecs. (c), (d). Act Feb. 28, 1948, added subsecs. (c) and (d).
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsecs. (a) and (d) pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Effective Date of 1990 Amendment
 Amendment by Pub. L. 101–502 effective Dec. 1, 1990, see section 5(k)(3) of Pub. L. 101–502, set out as a note under [section 201 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section201&num=0&edition=prelim), Pay and Allowances of the Uniformed Services.
 
@@ -1379,9 +1403,10 @@ Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
-Office of Surgeon General, together with office held by Deputy Surgeon General, abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
+#### Transfer of Functions
+Office of Surgeon General, together with office held by Deputy Surgeon General, abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
 
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim).
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
 #### Delegation of Functions
 Functions of President delegated to Secretary of Health and Human Services, see Ex. Ord. No. 11140, Jan. 30, 1964, 29 F.R. 1637, as amended, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202).
@@ -1498,6 +1523,9 @@ Subsec. (h). Act Feb. 28, 1948, redesignated former subsec. (f) as (h).
 
 Subsec. (b)(2). Act Aug. 13, 1946, inserted “(A)” before “to assist”, substituted “clause” for “paragraphs”, and inserted cl. (B).
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsecs. (c), (e)(3), and (i), and “Department of Health and Human Services” substituted for “Department of Health, Education, and Welfare” in subsec. (c), pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Effective Date of 1979 Amendment
 Amendment by Pub. L. 96–76 effective Oct. 1, 1979, see section 314 of Pub. L. 96–76, set out as a note under [section 206 of this title](./chapter-6a-public-health-service.md#section-206).
 
@@ -1506,14 +1534,6 @@ Pub. L. 86–415, § 8(a), Apr. 8, 1960, 74 Stat. 36, provided that: “The amen
 
 #### Effective Date of 1949 Amendment
 Amendment by act Oct. 12, 1949, effective Oct. 1, 1949, see section 533(a) of act Oct. 12, 1949, set out as a note under [section 854a of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section854a&num=0&edition=prelim), Navigation and Navigable Waters.
-
-#### Transfer of Functions
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
-
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim).
-
-#### Delegation of Functions
-Functions of President delegated to Secretary of Health and Human Services and Surgeon General, see Ex. Ord. No. 11140, Jan. 30, 1964, 29 F.R. 1637, as amended, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202).
 
 #### Personal Services Contracting
 Pub. L. 109–149, title II, § 216, Dec. 30, 2005, 119 Stat. 2861, provided that: “The Division of Federal Occupational Health hereafter may utilize personal services contracting to employ professional management/administrative and occupational health professionals.”
@@ -1543,6 +1563,14 @@ Pub. L. 104–134, title I, § 101(d) [title II], Apr. 26, 1996, 110 Stat. 1321�
 
 #### Term of Reserve Commissions in Effect on April 27, 1956
 Act Apr. 27, 1956, ch. 211, § 3(c)(2), 70 Stat. 117, provided that: “The enactment of paragraph (1) of this subsection [amending this section] shall not affect the term of the commission of any officer in the Reserve Corps in effect on the date of such enactment [Apr. 27, 1956] unless such officer consents in writing to the extension of his commission for an indefinite period, in which event his commission shall be so extended without the necessity of a new appointment.”
+
+#### Transfer of Functions
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202).
+
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
+
+#### Delegation of Functions
+Functions of President delegated to Secretary of Health and Human Services and Surgeon General, see Ex. Ord. No. 11140, Jan. 30, 1964, 29 F.R. 1637, as amended, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202).
 
 
 <a id="section-209c"></a>
@@ -1577,10 +1605,13 @@ This Act, referred to in text, is act Feb. 28, 1948, ch. 83, 62 Stat. 38. For co
 #### Codification
 Section was not enacted as a part of the Public Health Service Act which comprises this chapter.
 
-#### Transfer of Functions
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+#### Change of Name
+“Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim).
+#### Transfer of Functions
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202).
+
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
 
 <a id="section-210a"></a>
@@ -1606,14 +1637,14 @@ Subsec. (c). Pub. L. 87–649 repealed last sentence which authorized a lump-sum
 
 Subsec. (d). Pub. L. 87–649 repealed subsec. (d) insofar as it was applicable to the last sentence of subsec. (c). See Amendment note above.
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Effective Date of 1962 Amendment
 Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as an Effective Date note preceding [section 101 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section101&num=0&edition=prelim), Pay and Allowances of the Uniformed Services.
 
 #### Effective Date
 Section effective July 1, 1950, see section 3(a) of act Aug. 9, 1950, set out as an Effective Date of 1950 Amendment note under [section 210 of this title](./chapter-6a-public-health-service.md#section-210).
-
-#### Transfer of Functions
-Functions of Public Health Service, of Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
 #### Authorization To Accumulate Excess Annual Leave
 Pub. L. 116–159, div. C, title I, § 2106, Oct. 1, 2020, 134 Stat. 729, provided that: “(a) In General.—Notwithstanding section 219 of the Public Health Service Act ([42 U.S.C. 210–1](./chapter-6a-public-health-service.md#section-210-1)), a commissioned officer of the Public Health Service who, except for this section, would lose at the end of the fiscal year 2020 accumulated annual leave in excess of 60 days, may retain such amounts of accumulated annual leave in excess of 60 days. “(b) Use of Excess Leave.—Annual leave retained pursuant to subsection (a) shall be lost unless it is used by the officer no later than September 30, 2023. “(c) Applicability.—This section shall not apply to an officer on terminal leave preceding separation, retirement, or release from active duty, as of the effective date specified in subsection (d). “(d) Effective Date.—This section shall become effective on the earlier of—“(1) the date of the enactment of this Act [Oct. 1, 2020]; or “(2) September 30, 2020.”
@@ -1626,6 +1657,9 @@ Act Aug. 9, 1950, ch. 654, § 4, 64 Stat. 427, provided for the availability of 
 
 #### Leave Regulations
 Act Aug. 9, 1950, ch. 654, § 5, 64 Stat. 427, provided that: “Except insofar as the provisions of this Act [enacting this section, amending [section 210 of this title](./chapter-6a-public-health-service.md#section-210), and enacting provisions set out as notes under this section and [section 210 of this title](./chapter-6a-public-health-service.md#section-210)] are inconsistent therewith, leave regulations adopted prior to the enactment of this Act [Aug. 9, 1950], pursuant to the Public Health Service Act [[42 U.S.C. 201](./chapter-6a-public-health-service.md#section-201) et seq.], shall remain in effect until repealed, amended, or superseded.”
+
+#### Transfer of Functions
+Functions of Public Health Service, of Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202).
 
 #### Delegation of Functions
 Functions of President delegated to Secretary of Health and Human Services, see Ex. Ord. No. 11140, Jan. 30, 1964, 29 F.R. 1637, as amended, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202).
@@ -1749,6 +1783,8 @@ Subsec. (h). Act Feb. 28, 1948, substituted “[section 209(f) of this title](ht
 #### Change of Name
 Reference to the Gillis W. Long Hansen’s Disease Center deemed to refer to the National Hansen’s Disease Programs Center, pursuant to section 2 of Pub. L. 107–220, set out as a note under [section 247e of this title](./chapter-6a-public-health-service.md#section-247e).
 
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsecs. (c) and (g) pursuant section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Effective Date of 1986 Amendment
 Pub. L. 99–272, title XVII, § 17002(a)(2), Apr. 7, 1986, 100 Stat. 359, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as of October 7, 1985.”
 
@@ -1780,16 +1816,6 @@ Amendment by act Oct. 12, 1949, effective Oct. 1, 1949, see section 533(a) of ac
 #### Repeals
 Act July 31, 1956, ch. 804, title I, § 117(b), 70 Stat. 741, cited as a credit to this section, which amended subsec. (g) of this section to increase the salary rates, was repealed by Pub. L. 88–426, title III, § 305(1), Aug. 14, 1964, 78 Stat. 422.
 
-#### Transfer of Functions
-“Director of the Office of Personnel Management” substituted for “Civil Service Commission” in subsec. (g) pursuant to Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under [section 1101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1101&num=0&edition=prelim), Government Organization and Employees, which transferred functions vested by statute in United States Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under [section 1101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1101&num=0&edition=prelim).
-
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
-
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim).
-
-#### Delegation of Functions
-Functions of President delegated to Secretary of Health and Human Services, see Ex. Ord. No. 11140, eff. Jan. 30, 1964, 29 F.R. 1637, as amended, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202).
-
 #### Termination of Advisory Committees
 Pub. L. 93–641, § 6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under [section 217a of this title](./chapter-6a-public-health-service.md#section-217a), provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 
@@ -1814,6 +1840,16 @@ Pub. L. 98–139, title II, § 208, Oct. 31, 1983, 97 Stat. 888.
 #### Nurses and Allied Health Professionals
 Pub. L. 100–436, title II, § 214, Sept. 20, 1988, 102 Stat. 1700, provided that: “Funds made available for fiscal year 1989 and hereafter to the National Institutes of Health shall be available for payment of nurses and allied health professionals using pay, schedule options, benefits, and other authorities as provided for the nurses of the Veterans’ Administration under 38 U.S.C. chapter 73.”
 
+#### Transfer of Functions
+“Director of the Office of Personnel Management” substituted for “Civil Service Commission” in subsec. (g) pursuant to Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under [section 1101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1101&num=0&edition=prelim), Government Organization and Employees, which transferred functions vested by statute in United States Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under [section 1101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1101&num=0&edition=prelim).
+
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202).
+
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
+
+#### Delegation of Functions
+Functions of President delegated to Secretary of Health and Human Services, see Ex. Ord. No. 11140, eff. Jan. 30, 1964, 29 F.R. 1637, as amended, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202).
+
 
 <a id="section-211"></a>
 ## § 211. Professional categories
@@ -1837,13 +1873,16 @@ A prior section 209 of act July 1, 1944, was renumbered section 208 and is class
 #### Amendments
 1979—Subsec. (c). Pub. L. 96–76 substituted “warrant officer (W–1)” for “assistant”.
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (a) pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Effective Date of 1979 Amendment
 Amendment by Pub. L. 96–76 effective Oct. 1, 1979, see section 314 of Pub. L. 96–76, set out as a note under [section 206 of this title](./chapter-6a-public-health-service.md#section-206).
 
 #### Transfer of Functions
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
 
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim).
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
 
 <a id="section-211a"></a>
@@ -1928,6 +1967,9 @@ Subsec. (g). Pub. L. 96–76, § 307(b), in provision before par. (1), inserted 
 
 1948—Act Feb. 28, 1948, amended subsecs. (a) to (c) generally and added subsecs. (d) to (m).
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (l) pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under [section 113 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section113&num=0&edition=prelim), Domestic Security.
 
@@ -1941,9 +1983,9 @@ Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 
 Amendment by act Oct. 12, 1949, effective Oct. 1, 1949, see section 533(a) of act Oct. 12, 1949, set out as a note under [section 854a of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section854a&num=0&edition=prelim), Navigation and Navigable Waters.
 
 #### Transfer of Functions
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202).
 
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim).
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
 #### Delegation of Functions
 Functions of President delegated to Secretary of Health and Human Services, see Ex. Ord. No. 11140, Jan. 30, 1964, 29 F.R. 1637, as amended, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202).
@@ -1985,8 +2027,11 @@ shall be credited with one year for purposes of promotion and seniority in grade
 #### References in Text
 For “the effective date of this section”, referred to in text, see section 7 of act Apr. 30, 1956, which provided in part that this section shall become effective the first day of the month following the day of enactment, Apr. 30, 1956.
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Transfer of Functions
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202).
 
 
 <a id="section-212a"></a>
@@ -2109,11 +2154,13 @@ Subsecs. (g), (h). Act Feb. 28, 1948, added subsecs. (g) and (h).
 #### Change of Name
 Senior Biomedical Research Service changed to Silvio O. Conte Senior Biomedical Research Service by Pub. L. 103–43, title XX, § 2001, June 10, 1993, 107 Stat. 208. See [section 237 of this title](./chapter-6a-public-health-service.md#section-237).
 
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (a) pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Effective Date of 2015 Amendment; Implementation
 Amendment by Pub. L. 114–92 effective Jan. 1, 2018, with certain implementation requirements, see section 635 of Pub. L. 114–92, set out as a note under [section 8432 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8432&num=0&edition=prelim), Government Organization and Employees.
 
 #### Effective Date of 1990 Amendment
-Section 529 [title III, § 304(c)] of Pub. L. 101–509 provided that: “Except as otherwise provided, the provisions of this section [enacting [section 237 of this title](./chapter-6a-public-health-service.md#section-237) and amending this section] shall be effective on the 90th day following the date of the enactment of this Act [Nov. 5, 1990].”
+Pub. L. 101–509, title V, § 529 [title III, § 304(c)], Nov. 5, 1990, 104 Stat. 1427, 1464, provided that: “Except as otherwise provided, the provisions of this section [enacting [section 237 of this title](./chapter-6a-public-health-service.md#section-237) and amending this section] shall be effective on the 90th day following the date of the enactment of this Act [Nov. 5, 1990].”
 
 #### Effective Date of 1983 Amendment
 Amendment by section 922(d) of Pub. L. 98–94 effective Oct. 1, 1983, see section 922(e) of Pub. L. 98–94, set out as a note under [section 1401 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1401&num=0&edition=prelim), Armed Forces.
@@ -2132,16 +2179,16 @@ Amendment by act Oct. 12, 1949, effective Oct. 1, 1949, see section 533(a) of ac
 #### Savings Provision
 Pub. L. 86–415, § 8(c), (d), Apr. 8, 1960, 74 Stat. 36, provided that: “(c) An officer in the Regular Corps on active duty on the date of enactment of this Act [Apr. 8, 1960] may be retired and have his retired pay computed under section 211 of the Public Health Service Act [[42 U.S.C. 212](./chapter-6a-public-health-service.md#section-212)], as amended by this Act, or, if he so elects, under such section as in effect prior to the date of enactment of this Act [Apr. 8, 1960]. “(d) The limitation under subsection (f) of section 211 of the Public Health Service Act [[42 U.S.C. 212(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section212/f&num=0&edition=prelim)], as amended by this Act, on the amount of active service with the Public Health Service, other than as a commissioned officer, which may be counted for purposes of retirement or separation for physical disability, shall not apply in the case of any officer of the Reserve Corps of the Public Health Service on active duty on June 30, 1960.”
 
-#### Transfer of Functions
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+#### Coverage Under Civil Service Retirement Act
+Creditable service for purposes of the Civil Service Retirement Act for certain commissioned officers of the Regular or Reserve Corps of the Public Health Service, see section 6(a), (b) of Pub. L. 86–415, set out as a note under [section 8332 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8332&num=0&edition=prelim), Government Organization and Employees.
 
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim).
+#### Transfer of Functions
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202).
+
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
 #### Delegation of Functions
 Functions of President delegated to Secretary of Health and Human Services, see Ex. Ord. No. 11140, eff. Jan. 30, 1964, 29 F.R. 1637, as amended, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202).
-
-#### Coverage Under Civil Service Retirement Act
-Creditable service for purposes of the Civil Service Retirement Act for certain commissioned officers of the Regular or Reserve Corps of the Public Health Service, see section 6(a), (b) of Pub. L. 86–415, set out as a note under [section 8332 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8332&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-212b"></a>
@@ -2201,13 +2248,14 @@ The Servicemembers Civil Relief Act, referred to in subsec. (e), is act Oct. 17,
 
 1954—Subsec. (a)(1). Act July 15, 1954, struck out “burial payments in the event of death,” after “limited to,”.
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Effective Date of 1956 Amendment; Applicability
 Act Aug. 1, 1956, ch. 837, title V, § 501(b)(2), 70 Stat. 882, provided that: “The amendment made by this subsection [amending this section] (A) shall apply only with respect to service performed on or after July 4, 1952, (B) shall not be construed to affect the entitlement of any person to benefits under the Veterans’ Readjustment Assistance Act of 1952 [act July 16, 1952, ch. 875, 66 Stat. 633], (C) shall not be construed to authorize any payment under section 202(i) of the Social Security Act [[42 U.S.C. 402(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402/i&num=0&edition=prelim)], or under Veterans Regulation Numbered 9(a), for any death occurring prior to January 1, 1957, and (D) shall not be construed to authorize payment of any benefits for any period prior to January 1, 1957.”
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
-
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
 #### Recomputation of Social Security Benefits for Officers Entitled to Old-Age Insurance Benefits Prior to January 1, 1957, or for Survivors of Officers Who Died Prior to January 1, 1957
 Act Aug. 1, 1956, ch. 837, title V, § 501(b)(3), 70 Stat. 882, provided that: “In the case of any individual—“(A) who performed active service (i) as a commissioned officer of the Public Health Service at any time during the period beginning July 4, 1952, and ending December 31, 1956, or (ii) as a commissioned officer of the Coast and Geodetic Survey at any time during the period beginning July 29, 1945, and ending December 31, 1956; and “(B)(i) who became entitled to old-age insurance benefits under section 202(a) of the Social Security Act [[42 U.S.C. 402(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402/a&num=0&edition=prelim)] prior to January 1, 1957, or “(ii) who died prior to January 1, 1957, and whose widow, child, or parent is entitled for the month of January 1957, on the basis of his wages and self-employment income, to a monthly survivor’s benefit under section 202 of such act [[42 U.S.C. 402](./chapter-007-social-security.md#section-402)]; and “(C) any part of whose service described in subparagraph (A) was not included in the computation of his primary insurance amount under section 215 of such act [[42 U.S.C. 415](./chapter-007-social-security.md#section-415)] but would have been included in such computation if the amendment made by paragraph (1) of this subsection or paragraph (1) of subsection (d) had been effective prior to the date of such computation, the Secretary of Health, Education, and Welfare [now Health and Human Services] shall, notwithstanding the provisions of section 215(f)(1) of the Social Security Act [[42 U.S.C. 415(f)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section415/f/1&num=0&edition=prelim)], recompute the primary insurance amount of such individual upon the filing of an application, after December 1956, by him or (if he dies without filing such an application) by any person entitled to monthly survivor’s benefits under section 202 of such act [[42 U.S.C. 402](./chapter-007-social-security.md#section-402)] on the basis of his wages and self-employment income. Such recomputation shall be made only in the manner, provided in title II of the Social Security Act [[42 U.S.C. 401](./chapter-007-social-security.md#section-401) et seq.] as in effect at the time of the last previous computation or recomputation of such individual’s primary insurance amount, and as though application therefor was filed in the month in which application for such last previous computation or recomputation was filed. No recomputation made under this paragraph shall be regarded as a recomputation under section 215(f) of the Social Security Act [[42 U.S.C. 415(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section415/f&num=0&edition=prelim)]. Any such recomputation shall be effective for and after the twelfth month before the month in which the application was filed, but in no case for any month before January 1957.”
@@ -2217,6 +2265,9 @@ Recovery, care, and disposition of the remains of deceased members of the unifor
 
 #### Burial of Certain Commissioned Officers
 Act Apr. 30, 1956, ch. 227, 70 Stat. 124, provided: “That burial in national cemeteries of the remains of commissioned officers of the United States Public Health Service who were detailed for duty with the Army or Navy during World War I pursuant to the act of July 1, 1902 (32 Stat. 712, 713), as amended, and Executive Order Numbered 2571 dated April 3, 1917, and of the wife, widow, minor child and, in the discretion of the Secretary of the Army, unmarried adult child of these officers is authorized: Provided, That the remains of the wife, widow, and children may, in the discretion of the Secretary of the Army, be removed from a national cemetery proper and interred in the post section of a national cemetery if, upon death, the related officer is not buried in the same or an adjoining gravesite.”
+
+#### Transfer of Functions
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202).
 
 #### Delegation of Authority
 Memorandum of President of the United States, Dec. 30, 1992, 58 F.R. 3485, provided:
@@ -2331,6 +2382,9 @@ Subsec. (b). Pub. L. 112–144, § 1129(b), inserted at end “For purposes of p
 
 1958—Subsec. (a). Pub. L. 85–861 substituted “provisions” for “chapters” in opening clause, struck out former cl. (1) which related to chapter 55 of title 10, renumbered former cls. (2) to (6) as (1) to (5), amended cl. (1), as renumbered, to make sections 1201 to 1203 of title 10, inapplicable to commissioned officers of the Public Health Service who have been ordered to active duty for training for a period of more than 30 days, inserted a reference to [section 1374 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1374&num=0&edition=prelim) in cl. (2), as renumbered, struck out “Care of the Dead” after “Benefits” in cl. (5), as renumbered, and added cl. (6).
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (b) pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Effective Date of 1997 Amendment
 Pub. L. 105–85, div. A, title VI, § 653(c), Nov. 18, 1997, 111 Stat. 1804, provided that: “The amendments made by this section [amending this section and former [section 857a of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section857a&num=0&edition=prelim), Navigation and Navigable Waters] shall apply only to adoptions that are completed on or after the date of the enactment of this Act [Nov. 18, 1997].”
 
@@ -2340,14 +2394,14 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. 
 #### Effective Date of 1963 Amendment
 Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 88–132, set out as an Effective Date note under [section 201 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section201&num=0&edition=prelim), Pay and Allowances of the Uniformed Services.
 
-#### Transfer of Functions
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
-
 #### Rules and Regulations; Savings Deposit Benefits
 Regulations prescribed by the Secretary of Health, Education, and Welfare [now Health and Human Services] concerning savings deposit benefits for Public Health Service personnel to be prescribed jointly with regulations prescribed by the Secretaries concerned under [section 1035 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1035&num=0&edition=prelim), Armed Forces, see section 3(c) of Pub. L. 89–538, set out as a note under [section 1035 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1035&num=0&edition=prelim).
 
 #### Designation of Beneficiary Made Before January 1, 1956
 Designation of beneficiary made before Jan. 1, 1956, considered as the designation of a beneficiary for the purposes of section 4 of Pub. L. 85–861, which amended this section, see section 31 of Pub. L. 85–861, set out as a note under [section 2771 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2771&num=0&edition=prelim), Armed Forces.
+
+#### Transfer of Functions
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202).
 
 
 <a id="section-214a"></a>
@@ -2403,18 +2457,22 @@ Subsec. (d). Pub. L. 96–76, § 309(b), inserted provisions relating to agreeme
 
 1946—Subsec. (b). Act July 3, 1946, provided for detail of personnel on request from a State mental health authority.
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsecs. (a), (d), and (e), and “Department of Health and Human Services” substituted for “Department of Health, Education, and Welfare” in subsec. (e), pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Effective Date of 1949 Amendment
 Amendment by act Oct. 12, 1949, effective Oct. 1, 1949, see section 533(a) of act Oct. 12, 1949, set out as a note under [section 854a of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section854a&num=0&edition=prelim), Navigation and Navigable Waters.
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education. Office of Surgeon General, abolished by section 3 of Reorg. Plan No. 3 of 1966, reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
-
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim).
-
 #### Transfers of Personnel Occasioned by Creation of the Environmental Protection Agency
-Pub. L. 91–604, § 15(b)(1)–(8)(A), Dec. 31, 1970, 84 Stat. 1710–1712, as amended by Pub. L. 112–81, div. A, title VI, § 631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: “(1) Subject to such requirements as the Civil Service Commission may prescribe, any commissioned officer of the Public Health Service (other than an officer who retires under section 211 of the Public Health Service Act [[42 U.S.C. 212](./chapter-6a-public-health-service.md#section-212)] after his election but prior to his transfer pursuant to this paragraph and paragraph (2)) who, upon the day before the effective date of Reorganization Plan Numbered 3 of 1970 (hereinafter in this subsection referred to as the ‘plan’), is serving as such officer (A) primarily in the performance of functions transferred by such plan to the Environmental Protection Agency or its Administrator (hereinafter in this subsection referred to as the ‘Agency’ and the ‘Administrator,’ respectively), may, if such officer so elects, acquire competitive status and be transferred to a competitive position in the Agency; or (B) primarily in the performance of functions determined by the Secretary of Health, Education, and Welfare (hereinafter in this subsection referred to as the ‘Secretary’) to be materially related to the functions so transferred, may, if authorized by agreement between the Secretary and the Administrator, and if such officer so elects, acquire such status and be so transferred. “(2) An election pursuant to paragraph (1) shall be effective only if made in accordance with such procedures as may be prescribed by the Civil Service Commission (A) before the close of the 24th month after the effective date of the plan [Dec. 2, 1970], or (B) in the case of a commissioned officer who would be liable for training and service under the Military Selective Service Act of 1967 [[50 U.S.C. 3801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3801&num=0&edition=prelim) et seq.] but for the operation of section 6(b)(3) thereof (50 U.S.C. App. 456(b)(3)) [now [50 U.S.C. 3806(b)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3806/b/3&num=0&edition=prelim)], before (if it occurs later than the close of such 24th month) the close of the 90th day after the day upon which he has completed his 24th month of service as such officer. “(3)(A) Except as provided in subparagraph (B), any commissioned officer of the Public Health Service who, pursuant to paragraphs (1) and (2), elects to transfer to a position in the Agency which is subject to chapter 51 and subchapter III of chapter 53 of title 5, United States Code (hereinafter in this subsection referred to as the ‘transferring officer’), shall receive a pay rate of the General Schedule grade of such position which is not less than the sum of the following amounts computed as of the day preceding the date of such election:“(i) the basic pay, the special pay, the continuation pay, and the subsistence and quarters allowances, to which he is annually entitled as a commissioned officer of the Public Health Service pursuant to title 37, United States Code; “(ii) the amount of Federal income tax, as determined by estimate of the Secretary, which the transferring officer, had he remained a commissioned officer, would have been required to pay on his subsistence and quarters allowances for the taxable year then current if they had not been tax free; “(iii) an amount equal to the biweekly average cost of the coverages designated ‘high option, self and family’ under the Government-wide Federal employee health benefits programs plans, multiplied by twenty-six; and “(iv) an amount equal to 7 per centum of the sum of the amounts determined under clauses (i) through (iii), inclusive. “(B) A transferring officer shall in no event receive, pursuant to subparagraph (A), a pay rate in excess of the maximum rate applicable under the General Schedule to the class of position, as established under chapter 51 of title 5, United States Code, to which such officer is transferred pursuant to paragraphs (1) and (2). “(4)(A) A transferring officer shall be credited, on the day of his transfer pursuant to his election under paragraphs (1) and (2), with one hour of sick leave for each week of active service, as defined by section 211(d) of the Public Health Service Act [[42 U.S.C. 212(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section212/d&num=0&edition=prelim)]. “(B) The annual leave to the credit of a transferring officer on the day before the day of his transfer, shall, on such day of transfer, be transferred to his credit in the Agency on an adjusted basis under regulations prescribed by the Civil Service Commission. The portion of such leave, if any, that is in excess of the sum of (i) 240 hours, and (ii) the number of hours that have accrued to the credit of the transferring officer during the calendar year then current and which remain unused, shall thereafter remain to his credit until used, and shall be reduced in the manner described by subsection (c) of [section 6304 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section6304&num=0&edition=prelim), United States Code. “(5) A transferring officer who is required to change his official station as a result of his transfer under this subsection shall be paid such travel, transportation, and related expenses and allowances, as would be provided pursuant to subchapter II of chapter 57 of title 5, United States Code, in the case of a civilian employee so transferred in the interest of the Government. Such officer shall not (either at the time of such transfer or upon a subsequent separation from the competitive service) be deemed to have separated from, or changed permanent station within, a uniformed service for purposes of [section 474 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section474&num=0&edition=prelim), United States Code. “(6) Each transferring officer who prior to January 1, 1958, was insured pursuant to the Federal Employees’ Group Life Insurance Act of 1954, and who subsequently waived such insurance, shall be entitled to become insured under chapter 87 of title 5, United States Code, upon his transfer to the Agency regardless of age and insurability. “(7)(A) Effective as of the date a transferring officer acquires competitive status as an employee of the Agency, there shall be considered as the civilian service of such officer for all purposes of chapter 83, title 5, United States Code, (i) his active service as defined by section 211(d) of the Public Health Service Act [[42 U.S.C. 212(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section212/d&num=0&edition=prelim)], or (ii) any period for which he would have been entitled, upon his retirement as a commissioned officer of the Public Health Service, to receive retired pay pursuant to section 211(a)(4)(B) of such Act [[42 U.S.C. 212(a)(4)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section212/a/4/B&num=0&edition=prelim)]; however, no transferring officer may become entitled to benefits under both subchapter III of such chapter and title II of the Social Security Act [[42 U.S.C. 401](./chapter-007-social-security.md#section-401) et seq.] based on service as such a commissioned officer performed after 1956, but the individual (or his survivors) may irrevocably elect to waive benefit credit for the service under one such law to secure credit under the other. “(B) A transferring officer on whose behalf a deposit is required to be made by subparagraph (C) and who, after transfer to a competitive position in the Agency under paragraphs (1) and (2), is separated from Federal service or transfers to a position not covered by subchapter III of chapter 83 of title 5, United States Code, shall not be entitled, nor shall his survivors be entitled, to a refund of any amount deposited on his behalf in accordance with this section. In the event he transfers, after transfer under paragraphs (1) and (2), to a position covered by another Government staff requirement system under which credit is allowable for service with respect to which a deposit is required under subparagraph (C), no credit shall be allowed under such subchapter III with respect to such service. “(C) The Secretary shall deposit in the Treasury of the United States to the credit of the Civil Service Retirement and Disability Fund, on behalf of and to the credit of such transferring officer, an amount equal to that which such individual would be required to deposit in such fund to cover the years of service credited to him for purposes of his retirement under subparagraph (A), had such service been service as an employee as defined in [section 8331(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8331/1&num=0&edition=prelim), United States Code. The amount so required to be deposited with respect to any transferring officer shall be computed on the basis of the sum of each of the amounts described in paragraph (3)(A) which were received by, or accrued to the benefit of, such officer during the years so credited. The deposits which the Secretary is required to make under this subparagraph with respect to any transferring officer shall be made within two years after the date of his transfer as provided in paragraphs (1) and (2), and the amounts due under this subparagraph shall include interest computed from the period of service credited to the date of payment in accordance with [section 8334(e) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8334/e&num=0&edition=prelim), United States Code. “(8)(A) A commissioned officer of the Public Health Service, who, upon the day before the effective date of the plan, is on active service therewith primarily assigned to the performance of functions described in paragraph (1)(A), shall, while he remains in active service, as defined by section 211(d) of the Public Health Service Act [[42 U.S.C. 212(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section212/d&num=0&edition=prelim)], be assigned to the performance of duties with the Agency, except as the Secretary and the Administrator may jointly otherwise provide.”
+Pub. L. 91–604, § 15(b)(1)–(8)(A), Dec. 31, 1970, 84 Stat. 1710–1712, as amended by Pub. L. 112–81, div. A, title VI, § 631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: “(1) Subject to such requirements as the Civil Service Commission may prescribe, any commissioned officer of the Public Health Service (other than an officer who retires under section 211 of the Public Health Service Act [[42 U.S.C. 212](./chapter-6a-public-health-service.md#section-212)] after his election but prior to his transfer pursuant to this paragraph and paragraph (2)) who, upon the day before the effective date of Reorganization Plan Numbered 3 of 1970 (hereinafter in this subsection referred to as the ‘plan’), is serving as such officer (A) primarily in the performance of functions transferred by such plan to the Environmental Protection Agency or its Administrator (hereinafter in this subsection referred to as the ‘Agency’ and the ‘Administrator,’ respectively), may, if such officer so elects, acquire competitive status and be transferred to a competitive position in the Agency; or (B) primarily in the performance of functions determined by the Secretary of Health, Education, and Welfare (hereinafter in this subsection referred to as the ‘Secretary’) to be materially related to the functions so transferred, may, if authorized by agreement between the Secretary and the Administrator, and if such officer so elects, acquire such status and be so transferred. “(2) An election pursuant to paragraph (1) shall be effective only if made in accordance with such procedures as may be prescribed by the Civil Service Commission (A) before the close of the 24th month after the effective date of the plan [Dec. 2, 1970], or (B) in the case of a commissioned officer who would be liable for training and service under the Military Selective Service Act of 1967 [[50 U.S.C. 3801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3801&num=0&edition=prelim) et seq.] but for the operation of section 6(b)(3) thereof (50 U.S.C. App. 456(b)(3)) [now [50 U.S.C. 3806(b)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3806/b/3&num=0&edition=prelim)], before (if it occurs later than the close of such 24th month) the close of the 90th day after the day upon which he has completed his 24th month of service as such officer. “(3)(A) Except as provided in subparagraph (B), any commissioned officer of the Public Health Service who, pursuant to paragraphs (1) and (2), elects to transfer to a position in the Agency which is subject to chapter 51 and subchapter III of chapter 53 of title 5, United States Code (hereinafter in this subsection referred to as the ‘transferring officer’), shall receive a pay rate of the General Schedule grade of such position which is not less than the sum of the following amounts computed as of the day preceding the date of such election:“(i) the basic pay, the special pay, the continuation pay, and the subsistence and quarters allowances, to which he is annually entitled as a commissioned officer of the Public Health Service pursuant to title 37, United States Code; “(ii) the amount of Federal income tax, as determined by estimate of the Secretary, which the transferring officer, had he remained a commissioned officer, would have been required to pay on his subsistence and quarters allowances for the taxable year then current if they had not been tax free; “(iii) an amount equal to the biweekly average cost of the coverages designated ‘high option, self and family’ under the Government-wide Federal employee health benefits programs plans, multiplied by twenty-six; and “(iv) an amount equal to 7 per centum of the sum of the amounts determined under clauses (i) through (iii), inclusive. “(B) A transferring officer shall in no event receive, pursuant to subparagraph (A), a pay rate in excess of the maximum rate applicable under the General Schedule to the class of position, as established under chapter 51 of title 5, United States Code, to which such officer is transferred pursuant to paragraphs (1) and (2). “(4)(A) A transferring officer shall be credited, on the day of his transfer pursuant to his election under paragraphs (1) and (2), with one hour of sick leave for each week of active service, as defined by section 211(d) of the Public Health Service Act [[42 U.S.C. 212(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section212/d&num=0&edition=prelim)]. “(B) The annual leave to the credit of a transferring officer on the day before the day of his transfer, shall, on such day of transfer, be transferred to his credit in the Agency on an adjusted basis under regulations prescribed by the Civil Service Commission. The portion of such leave, if any, that is in excess of the sum of (i) 240 hours, and (ii) the number of hours that have accrued to the credit of the transferring officer during the calendar year then current and which remain unused, shall thereafter remain to his credit until used, and shall be reduced in the manner described by subsection (c) of [section 6304 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section6304&num=0&edition=prelim), United States Code. “(5) A transferring officer who is required to change his official station as a result of his transfer under this subsection shall be paid such travel, transportation, and related expenses and allowances, as would be provided pursuant to subchapter II of chapter 57 of title 5, United States Code, in the case of a civilian employee so transferred in the interest of the Government. Such officer shall not (either at the time of such transfer or upon a subsequent separation from the competitive service) be deemed to have separated from, or changed permanent station within, a uniformed service for purposes of [former] [section 474 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section474&num=0&edition=prelim), United States Code. “(6) Each transferring officer who prior to January 1, 1958, was insured pursuant to the Federal Employees’ Group Life Insurance Act of 1954, and who subsequently waived such insurance, shall be entitled to become insured under chapter 87 of title 5, United States Code, upon his transfer to the Agency regardless of age and insurability. “(7)(A) Effective as of the date a transferring officer acquires competitive status as an employee of the Agency, there shall be considered as the civilian service of such officer for all purposes of chapter 83, title 5, United States Code, (i) his active service as defined by section 211(d) of the Public Health Service Act [[42 U.S.C. 212(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section212/d&num=0&edition=prelim)], or (ii) any period for which he would have been entitled, upon his retirement as a commissioned officer of the Public Health Service, to receive retired pay pursuant to section 211(a)(4)(B) of such Act [[42 U.S.C. 212(a)(4)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section212/a/4/B&num=0&edition=prelim)]; however, no transferring officer may become entitled to benefits under both subchapter III of such chapter and title II of the Social Security Act [[42 U.S.C. 401](./chapter-007-social-security.md#section-401) et seq.] based on service as such a commissioned officer performed after 1956, but the individual (or his survivors) may irrevocably elect to waive benefit credit for the service under one such law to secure credit under the other. “(B) A transferring officer on whose behalf a deposit is required to be made by subparagraph (C) and who, after transfer to a competitive position in the Agency under paragraphs (1) and (2), is separated from Federal service or transfers to a position not covered by subchapter III of chapter 83 of title 5, United States Code, shall not be entitled, nor shall his survivors be entitled, to a refund of any amount deposited on his behalf in accordance with this section. In the event he transfers, after transfer under paragraphs (1) and (2), to a position covered by another Government staff requirement system under which credit is allowable for service with respect to which a deposit is required under subparagraph (C), no credit shall be allowed under such subchapter III with respect to such service. “(C) The Secretary shall deposit in the Treasury of the United States to the credit of the Civil Service Retirement and Disability Fund, on behalf of and to the credit of such transferring officer, an amount equal to that which such individual would be required to deposit in such fund to cover the years of service credited to him for purposes of his retirement under subparagraph (A), had such service been service as an employee as defined in [section 8331(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8331/1&num=0&edition=prelim), United States Code. The amount so required to be deposited with respect to any transferring officer shall be computed on the basis of the sum of each of the amounts described in paragraph (3)(A) which were received by, or accrued to the benefit of, such officer during the years so credited. The deposits which the Secretary is required to make under this subparagraph with respect to any transferring officer shall be made within two years after the date of his transfer as provided in paragraphs (1) and (2), and the amounts due under this subparagraph shall include interest computed from the period of service credited to the date of payment in accordance with [section 8334(e) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8334/e&num=0&edition=prelim), United States Code. “(8)(A) A commissioned officer of the Public Health Service, who, upon the day before the effective date of the plan, is on active service therewith primarily assigned to the performance of functions described in paragraph (1)(A), shall, while he remains in active service, as defined by section 211(d) of the Public Health Service Act [[42 U.S.C. 212(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section212/d&num=0&edition=prelim)], be assigned to the performance of duties with the Agency, except as the Secretary and the Administrator may jointly otherwise provide.”
+
+#### Transfer of Functions
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Office of Surgeon General, abolished by section 3 of Reorg. Plan No. 3 of 1966, reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
+
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
 
 <a id="section-217"></a>
@@ -2430,13 +2488,16 @@ Pub. L. 91–604, § 15(b)(1)–(8)(A), Dec. 31, 1970, 84 Stat. 1710–1712, as 
 #### Amendments
 1949—Subsec. (b). Act Oct. 12, 1949, struck out references to travel and transportation of household goods and effects.
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (b) pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Effective Date of 1949 Amendment
 Amendment by act Oct. 12, 1949, effective Oct. 1, 1949, see section 533(a) of act Oct. 12, 1949, set out as a note under [section 854a of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section854a&num=0&edition=prelim), Navigation and Navigable Waters.
 
 #### Transfer of Functions
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202).
 
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim).
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
 #### Delegation of Functions
 Functions of President delegated to Secretary of Health and Human Services, see Ex. Ord. No. 11140, January 30, 1964, 29 F.R. 1637, as amended, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202).
@@ -2455,11 +2516,14 @@ The Uniform Code of Military Justice, referred to in text, is classified to chap
 #### Amendments
 1956—Act Apr. 27, 1956, empowered President to declare commissioned corps of the Service to be a military service in time of emergency involving national defense, and substituted “the Uniform Code of Military Justice” for “the Articles of War and to the Articles for the Government of the Navy”.
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Repeal of Prior Acts Continuing Section
 Section 6 of Joint Res. July 3, 1952, ch. 570, 66 Stat. 334, repealed Joint Res. Apr. 14, 1952, ch. 204, 66 Stat. 54 as amended by Joint Res. May 28, 1952, ch. 339, 66 Stat. 96; Joint Res. June 14, 1952, ch. 437, 66 Stat. 137; Joint Res. June 30, 1952, ch. 526, 66 Stat. 296, which continued provisions until July 3, 1952. This repeal shall take effect as of June 16, 1952, by section 7 of said Joint Res. July 3, 1952.
 
 #### Transfer of Functions
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202).
 
 #### Executive Order No. 9575
 Ex. Ord. No. 9575, eff. June 28, 1945, 10 F.R. 7895, which declared the Commissioned Corps of the Public Health Service to be a military service subject to the Articles for the Government of the Navy as therein prescribed, was superseded by Ex. Ord. No. 10349, eff. Apr. 28, 1952, 17 F.R. 3769.
@@ -2499,11 +2563,14 @@ Subsec. (b). Pub. L. 91–515, § 601(a)(3), inserted “council or” before �
 
 Subsec. (c). Pub. L. 91–515, § 601(a)(3), (c)(2), inserted “council or” before “committee” wherever appearing, and “or programs” after “projects”.
 
-#### Transfer of Functions
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
+#### Change of Name
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsecs. (a) and (c) pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
 #### Termination of Advisory Committees; Report by Secretary to Congressional Committees Relating to Termination
 Pub. L. 93–641, § 6, Jan. 4, 1975, 88 Stat. 2275, provided that: “(a) An advisory committee established by or pursuant to the Public Health Service Act [[42 U.S.C. 201](./chapter-6a-public-health-service.md#section-201) et seq.], the Mental Retardation Facilities and Community Mental Health Centers Construction Act of 1963 [former [42 U.S.C. 2689](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2689&num=0&edition=prelim) et seq., 6001 et seq.], or the Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970 [[42 U.S.C. 4541](./chapter-060-comprehensive-alcohol-abuse-and-alcoholism-prevention-treatment-and-rehabilitation-program.md#section-4541) et seq.] shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after the date of the enactment of this Act [Jan. 4, 1975]. “(b) The Secretary of Health, Education, and Welfare shall report, within one year after the date of the enactment of the Act [Jan. 4, 1975], to the Committee on Labor and Public Welfare of the Senate and the Committee on Interstate and Foreign Commerce of the House of Representatives (1) the purpose and use of each advisory committee established by or pursuant to the Public Health Service Act, the Mental Retardation Facilities and Community Mental Health Centers Construction Act of 1963, or the Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970 and (2) his recommendations respecting the termination of each such advisory committee.”
+
+#### Transfer of Functions
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
 
 
 <a id="section-217b"></a>
@@ -2636,6 +2703,9 @@ Subsec. (b). Act July 3, 1946, inserted “or of the National Advisory Mental He
 
 Subsecs. (d), (e). Act July 3, 1946, added subsecs. (d) and (e).
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsecs. (a) and (c) pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Effective Date of 1978 Amendment
 Pub. L. 95–622, title III, § 302(b), Nov. 9, 1978, 92 Stat. 3442, provided that the amendment made by that section is effective Nov. 1, 1978.
 
@@ -2654,13 +2724,6 @@ Pub. L. 92–218, § 7, Dec. 23, 1971, 85 Stat. 785, provided that: “(a) This 
 #### Effective Date of 1950 Amendment
 Act Aug. 15, 1950, ch. 714, § 3(a), (c), 64 Stat. 446, provided that the amendments and repeals made by section 3(a) and (c) are effective Oct. 1, 1950.
 
-#### Transfer of Functions
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
-
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim).
-
-For transfer of certain membership functions, insofar as they pertain to the Air Force, which functions were not previously transferred from Secretary of the Army to Secretary of the Air Force and from Department of the Army to Department of the Air Force, see Secretary of Defense Transfer Order No. 40 [App. C(7)], July 22, 1949.
-
 #### Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center
 Reference to community health center, migrant health center, public housing health center, or homeless health center considered reference to health center, see section 4(c) of Pub. L. 104–299, set out as a note under [section 254b of this title](./chapter-6a-public-health-service.md#section-254b).
 
@@ -2672,6 +2735,13 @@ Pub. L. 99–158, § 3(a)(1), Nov. 20, 1985, 99 Stat. 878, provided that: “The
 
 #### Termination of Advisory Committees
 Pub. L. 93–641, § 6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under [section 217a of this title](./chapter-6a-public-health-service.md#section-217a), provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+
+#### Transfer of Functions
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202).
+
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
+
+For transfer of certain membership functions, insofar as they pertain to the Air Force, which functions were not previously transferred from Secretary of the Army to Secretary of the Air Force and from Department of the Army to Department of the Air Force, see Secretary of Defense Transfer Order No. 40 [App. C(7)], July 22, 1949.
 
 
 <a id="section-219-to-224"></a>
@@ -2693,8 +2763,11 @@ Pub. L. 93–641, § 6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under [se
 
 Subsec. (b). Act Apr. 27, 1956, § 6(b), required reimbursement of tuition and fees by officers who receive training in excess of 30 days and who voluntarily leave the Service within a period of time which is equal to twice the period of such training, with a minimum period of six months of service, and a maximum period of two years, and permitted the Surgeon General to waive any reimbursement.
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (c) pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Transfer of Functions
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202).
 
 #### Delegation of Functions
 Functions of President delegated to Secretary of Health and Human Services, see Ex. Ord. No. 11140, Jan. 30, 1964, 29 F.R. 1637, as amended, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202).
@@ -2812,13 +2885,16 @@ Section is from the Federal Security Appropriation Act, 1946, act July 3, 1945, 
 #### Amendments
 1983—Pub. L. 97–414 inserted “, or in advance,” after “stock furnished”.
 
-#### Transfer of Functions
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
-
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim).
+#### Change of Name
+“Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
 #### HHS Services and Supply Fund
 Pub. L. 116–159, div. C, title I, § 2107, Oct. 1, 2020, 134 Stat. 730, provided that: “Effective as if included in the enactment of the paragraph beginning with ‘Service and supply fund:’ under the heading ‘Public Health Service’ in the Federal Security Agency Appropriation Act, 1946 ([42 U.S.C. 231](./chapter-6a-public-health-service.md#section-231)), such paragraph shall be applied with respect to any fiscal year as though the phrase ‘central services’ referred to central services for any Federal agency.”
+
+#### Transfer of Functions
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202).
+
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
 
 <a id="section-233"></a>
@@ -2834,13 +2910,17 @@ This Act, referred to in text, is act July 3, 1946, ch. 538, 60 Stat. 421, as am
 #### Codification
 Section was enacted as a part of the National Mental Health Act, and not as a part of the Public Health Service Act which comprises this chapter.
 
-#### Transfer of Functions
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+#### Change of Name
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
+#### Transfer of Functions
 Functions of Federal Works Agency and of all agencies thereof, together with functions of Federal Works Administrator transferred to Administrator of General Services by section 103(a) of act June 30, 1949. Both Federal Works Agency and office of Federal Works Administrator abolished by section 103(b) of that act. See Historical and Revision Notes under [section 303(b) of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section303/b&num=0&edition=prelim), Public Buildings, Property, and Works. [Section 303(b) of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section303/b&num=0&edition=prelim) was amended generally by Pub. L. 109–313, § 2(a)(1), Oct. 6, 2006, 120 Stat. 1734, and, as so amended, no longer relates to the Federal Works Agency and Commissioner of Public Buildings. See 2006 Amendment note under [section 303 of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section303&num=0&edition=prelim).
 
 #### Effective Date of Transfer of Functions
 Transfer of functions by act June 30, 1949, effective July 1, 1949, see section 605, formerly section 505, of act June 30, 1949, ch. 288, 63 Stat. 403; renumbered by act Sept. 5, 1950, ch. 849, § 6(a), (b), 64 Stat. 583.
+
+#### Transfer of Functions
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202).
 
 
 <a id="section-234"></a>
@@ -3718,10 +3798,13 @@ Section was formerly classified to [section 300aaa of this title](https://uscode
 
 1946—Subsec. (e). Act July 3, 1946, inserted reference to National Institute of Mental Health.
 
-#### Transfer of Functions
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+#### Change of Name
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsecs. (a), (c), and (d) pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim).
+#### Transfer of Functions
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202).
+
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
 
 <a id="section-238b"></a>
@@ -3737,13 +3820,16 @@ Subsec. (a) of [section 249 of this title](./chapter-6a-public-health-service.md
 #### Codification
 Section was formerly classified to [section 300aaa–1 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300aaa–1&num=0&edition=prelim) prior to renumbering by Pub. L. 103–43, to [section 300cc–1 of this title](./chapter-6a-public-health-service.md#section-300cc-1) prior to renumbering by Pub. L. 100–607, to [section 300aa–1 of this title](./chapter-6a-public-health-service.md#section-300aa-1) prior to renumbering by Pub. L. 99–660, and to [section 220 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section220&num=0&edition=prelim) prior to renumbering by Pub. L. 98–24.
 
-#### Transfer of Functions
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
-
-Functions of all other officers of Department of Justice and functions of all agencies and employees of such Department, with a few exceptions, transferred to Attorney General, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by sections 1 and 2 of Reorg. Plan No. 2 of 1950, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, which were repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 662. Immigration and Naturalization Service, referred to in this section, was a bureau in Department of Justice.
+#### Change of Name
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under [section 1551 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1551&num=0&edition=prelim), Aliens and Nationality.
+
+#### Transfer of Functions
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202).
+
+Functions of all other officers of Department of Justice and functions of all agencies and employees of such Department, with a few exceptions, transferred to Attorney General, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by sections 1 and 2 of Reorg. Plan No. 2 of 1950, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, which were repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 662. Immigration and Naturalization Service, referred to in this section, was a bureau in Department of Justice.
 
 
 <a id="section-238c"></a>
@@ -3770,11 +3856,14 @@ Section was formerly classified to [section 300aaa–3 of this title](https://us
 #### Amendments
 1954—Act July 15, 1954, inserted sentence at end relating to availability of appropriations for paying expenses relating to recovery, care, and disposition of the remains of personnel or their dependents.
 
-#### Transfer of Functions
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+#### Change of Name
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
 #### Disposition of Remains of Deceased Personnel
 Recovery, care and disposition of the remains of deceased members of the uniformed services and other deceased personnel, see section 1481 et seq. of Title 10, Armed Forces.
+
+#### Transfer of Functions
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202).
 
 
 <a id="section-238e"></a>
@@ -3816,10 +3905,13 @@ For the purpose of any reorganization under [section 203 of this title](./chapte
 #### Codification
 Section was formerly classified to [section 300aaa–5 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300aaa–5&num=0&edition=prelim) prior to renumbering by Pub. L. 103–43, to [section 300cc–7 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300cc–7&num=0&edition=prelim) prior to renumbering by Pub. L. 100–607, to [section 300aa–7 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300aa–7&num=0&edition=prelim) prior to renumbering by Pub. L. 99–660, and to [section 226 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section226&num=0&edition=prelim) prior to renumbering by Pub. L. 98–24.
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Transfer of Functions
 Functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau of the Budget transferred to President of the United States by section 101 of Reorg. Plan No. 2 of 1970, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, set out in the Appendix to Title 5, Government Organization and Employees. Section 102 of Reorg. Plan No. 2 of 1970 redesignated Bureau of the Budget as Office of Management and Budget.
 
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
 
 <a id="section-238g"></a>
@@ -3837,10 +3929,8 @@ Section was formerly classified to [section 300aaa–6 of this title](https://us
 
 Act June 16, 1948, substituted “National Institutes of Health” for “National Institute of Health”.
 
-#### Transfer of Functions
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
-
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim).
+#### Change of Name
+“Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
 #### Buy American Provisions
 Pub. L. 103–43, title XX, § 2004, June 10, 1993, 107 Stat. 209, as amended by Pub. L. 105–392, title IV, § 416(a), (b), Nov. 13, 1998, 112 Stat. 3590, provided that: “(a) Sense of Congress Regarding Purchase of American-Made Equipment and Products.—In the case of any equipment or product that may be authorized to be purchased with financial assistance provided pursuant to this Act for any of the fiscal years 1994 through 1996, it is the sense of the Congress that entities receiving such assistance should, in expending the assistance, purchase only American-made equipment and products. “(b) Notice to Recipients of Assistance.—In providing financial assistance pursuant to this Act, the Secretary of Health and Human Services shall provide to each recipient of the assistance a notice describing the statement made in subsection (a) by the Congress.”
@@ -3885,6 +3975,11 @@ Pub. L. 101–517, title II, § 206, Nov. 5, 1990, 104 Stat. 2209.
 
 Pub. L. 101–166, title II, § 207, Nov. 21, 1989, 103 Stat. 1177.
 
+#### Transfer of Functions
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202).
+
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
+
 
 <a id="section-238h"></a>
 ## § 238h. Wearing of uniforms
@@ -3899,11 +3994,14 @@ Section was formerly classified to [section 300aaa–7 of this title](https://us
 #### Amendments
 1948—Act June 25, 1948, struck out penal provisions. See [section 702 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section702&num=0&edition=prelim), Crimes and Criminal Procedure.
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Effective Date of 1948 Amendment
 Amendment effective Sept. 1, 1948, see section 20 of act June 25, 1948.
 
 #### Transfer of Functions
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202).
 
 #### Delegation of Functions
 Functions of President delegated to Secretary of Health and Human Services, see Ex. Ord. No. 11140, Jan. 30, 1964, 29 F.R. 1637, as amended, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202).
@@ -3922,16 +4020,19 @@ Section was formerly classified to [section 300aaa–8 of this title](https://us
 #### Amendments
 1995—Pub. L. 104–66 amended section catchline and text generally. Prior to amendment, text read as follows: “The Surgeon General shall transmit to the Secretary, for submission to the Congress at the beginning of each regular session, a full report of the administration of the functions of the Service under this chapter, including a detailed statement of receipts and disbursements.”
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Termination of Reporting Requirements
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which item 3 on page 101 identifies a reporting provision which, as subsequently amended, is contained in this section), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) [div. A, § 1402(1)] of Pub. L. 106–554, set out as notes under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance.
 
-#### Transfer of Functions
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
-
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim).
-
 #### Agency Reporting Requirements; Report by Secretary of Health, Education, and Welfare to Congressional Committees Relating to Requirements, Termination, etc.
 Pub. L. 93–641, § 7, Jan. 4, 1975, 88 Stat. 2275, provided that by Jan. 4, 1976, the Secretary of Health, Education, and Welfare report to specific committees of the Senate and the House of Representatives on the identity, due date, etc., of certain reports required under the Public Health Service Act, the Mental Retardation Facilities and Community Mental Health Centers Construction Act of 1963, or the Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment and Rehabilitation Act of 1970.
+
+#### Transfer of Functions
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
+
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
 
 <a id="section-238j"></a>
@@ -4620,7 +4721,7 @@ Except as explicitly provided herein, nothing in this part shall be construed to
 
 (6) make available, to health officials, scientists, and appropriate public and other nonprofit institutions and organizations, technical advice and assistance on the application of statistical methods to experiments, studies, and surveys in health and medical fields;
 
-(7) enter into contracts, including contracts for research in accordance with and subject to the provisions of law applicable to contracts entered into by the military departments under sections 2353 and 2354 of title 10, except that determination, approval, and certification required thereby shall be by the Secretary of Health and Human Services; and
+(7) enter into contracts, including contracts for research in accordance with and subject to the provisions of law applicable to contracts entered into by the military departments under sections 3861 and 4141 of title 10, except that determination, approval, and certification required thereby shall be by the Secretary of Health and Human Services; and
 
 (8) adopt, upon recommendations of the advisory councils to the appropriate entities of the Department or, with respect to mental health, the National Advisory Mental Health Council, such additional means as the Secretary considers necessary or appropriate to carry out the purposes of this section.
 
@@ -4726,6 +4827,8 @@ Except as explicitly provided herein, nothing in this part shall be construed to
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (a)(7). Pub. L. 117–81, § 1702(j)(1)(A), substituted “sections 3861 and 4141” for “sections 2353 and 2354”.
+
 2016—Subsec. (a). Pub. L. 114–255, § 2043(1), redesignated concluding provisions of subsec. (a) as par. (1) of subsec. (h).
 
 Subsec. (d). Pub. L. 114–255, § 2012(a), amended subsec. (d) generally. Prior to amendment, text read as follows: “The Secretary may authorize persons engaged in biomedical, behavioral, clinical, or other research (including research on mental health, including research on the use and effect of alcohol and other psychoactive drugs) to protect the privacy of individuals who are the subject of such research by withholding from all persons not connected with the conduct of such research the names or other identifying characteristics of such individuals. Persons so authorized to protect the privacy of such individuals may not be compelled in any Federal, State, or local civil, criminal, administrative, legislative, or other proceedings to identify such individuals.”
@@ -4797,7 +4900,7 @@ Subsec. (g). Acts June 16, 1948, § 4(f), and June 24, 1948, § 4(f), made provi
 Subsec. (g). Act July 3, 1946, gave National Advisory Health Council the right to make recommendations to carry out purposes of this section.
 
 #### Change of Name
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (a)(7), and “Department of Health and Human Services” substituted for “Department of Health, Education, and Welfare” in subsec. (b)(1), (3), and (4)(D)(I), (II), pursuant to section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (a)(7), and “Department of Health and Human Services” substituted for “Department of Health, Education, and Welfare” in subsec. (b)(1), (3), and (4)(D)(I), (II), pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
 #### Effective Date of 1978 Amendment
 Sections 261 and 262 of Pub. L. 95–622 provided that the amendments made by those sections are effective Oct. 1, 1978.
@@ -4932,17 +5035,20 @@ The Controlled Substances Import and Export Act, referred to in subsec. (a), is 
 #### Amendments
 1970—Subsec. (a). Pub. L. 91–513 inserted references to drug dependency, drugs other than narcotic drugs, and substances subject to control under the Controlled Substances Act and the Controlled Substances Import and Export Act, substituted the first day of April of each year for the first day of September of each year as the date by which the study results must be submitted, substituted the Attorney General for the Secretary of the Treasury as the officer to whom the report is to be submitted, and struck out references to the Narcotic Drugs Import and Export Act.
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Effective Date of 1970 Amendment
 Amendment by Pub. L. 91–513 effective on first day of seventh calendar month that begins after Oct. 26, 1970, see section 704 of Pub. L. 91–513, set out as an Effective Date note under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim), Food and Drugs.
 
 #### Savings Provision
 Amendment by Pub. L. 91–513 not to affect or abate any prosecutions for violation of law or any civil seizures or forfeitures and injunctive proceedings commenced prior to the effective date of such amendment, and all administrative proceedings pending before the Bureau of Narcotics and Dangerous Drugs on Oct. 27, 1970, to be continued and brought to final determination in accord with laws and regulations in effect prior to Oct. 27, 1970, see section 702 of Pub. L. 91–513, set out as a note under [section 321 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section321&num=0&edition=prelim), Food and Drugs.
 
-#### Transfer of Functions
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
-
 #### Marihuana and Health Reporting
 Pub. L. 91–296, title V, June 30, 1970, 84 Stat. 352, as amended by Pub. L. 95–461, § 3(a), Oct. 14, 1978, 92 Stat. 1268; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695, known as the Marihuana and Health Reporting Act, which required the Secretary of Health and Human Services, after consultation with the Surgeon General and other appropriate individuals, to transmit a report to the Congress on or before January 31, 1971, and biennially thereafter (1) containing current information on the health consequences of using marihuana, and (2) containing such recommendations for legislative and administrative action as he may deem appropriate, was repealed by Pub. L. 98–24, § 2(d), Apr. 26, 1983, 97 Stat. 182.
+
+#### Transfer of Functions
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
 
 
 <a id="section-242a"></a>
@@ -5048,6 +5154,9 @@ Pub. L. 91–296 struck out provisions authorizing use of appropriated funds for
 
 1956—Act Aug. 2, 1956, changed heading of section 304 of act July 1, 1944 from “Grants for special projects in mental health” to “Mental health study grants”. Section heading has been changed for purposes of codification.
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Effective Date of 1970 Amendments
 Pub. L. 91–515, title II, § 201(d), Oct. 30, 1970, 84 Stat. 1303, provided that: “The amendments made by subsection (c) of this section [amending this section] shall be effective only with respect to fiscal years ending after June 30, 1970.”
 
@@ -5055,9 +5164,6 @@ Pub. L. 91–296, title IV, § 401(b)(1), June 30, 1970, 84 Stat. 352, provided 
 
 #### Effective Date of 1956 Amendment
 Amendment of section by act Aug. 2, 1956, effective July 1, 1956, see section 503 of act Aug. 2, 1956.
-
-#### Transfer of Functions
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
 
 #### Commission on Systemic Interoperability
 Pub. L. 108–173, title X, § 1012, Dec. 8, 2003, 117 Stat. 2435, directed the Secretary of Health and Human Services to establish a commission to be known as the “Commission on Systemic Interoperability”, which would develop a comprehensive strategy for the adoption and implementation of health care information technology standards, and which would terminate 30 days after submitting a report, not later than Oct. 31, 2005, to the Secretary and to Congress, describing the strategy developed.
@@ -5073,6 +5179,9 @@ Joint Res. July 28, 1955, ch. 417, § 2, 69 Stat. 382, provided a Congressional 
 
 #### Children’s Emotional Illness Study; Program Grants; Conditions; Definitions; Appropriations; Terms of Grant
 Pub. L. 89–97, title II, § 231, July 30, 1965, 79 Stat. 360, as amended by Pub. L. 90–248, title III, § 305, Jan. 2, 1968, 81 Stat. 929, authorized the Secretary of Health, Education, and Welfare upon the recommendation of the National Advisory Mental Health Council and after securing the advice of experts in pediatrics and child welfare, to make grants to organizations on certain conditions for carrying out a program of research into and study of resources, methods, and practices for diagnosing or preventing emotional illness in children and of treating, caring for, and rehabilitating children with emotional illnesses, defined “organization”, and authorized appropriations for the making of such grants for fiscal years ending June 30, 1966, and June 30, 1967, with such research and study to be completed not later than three years from the date it was inaugurated.
+
+#### Transfer of Functions
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
 
 
 <a id="section-242c"></a>
@@ -6375,6 +6484,9 @@ Subsec. (d). Act July 3, 1946, provided that Surgeon General shall give special 
 
 Subsecs. (f), (h), (i). Act July 3, 1946, provided that in matters relating to work in field of mental health Surgeon General shall deal with State mental health authorities where they differ from general health authorities.
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Effective Date of 1981 Amendment
 Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 902(h) of Pub. L. 97–35, set out as a note under section 238l of this title.
 
@@ -6425,8 +6537,6 @@ The directory language of, but not the amendment made by, Pub. L. 96–398, titl
 #### Transfer of Functions
 Functions, powers, and duties of Secretary of Health and Human Services under subsecs. (a)(2)(F) and (d)(2)(F) of this section, insofar as relates to the prescription of personnel standards on a merit basis, transferred to Office of Personnel Management, see [section 4728(a)(3)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4728/a/3/C&num=0&edition=prelim).
 
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
-
 #### Year 2000 Health Objectives Planning
 Pub. L. 101–582, Nov. 15, 1990, 104 Stat. 2867, provided for grants for State plans regarding health objectives for year 2000, prior to repeal by Pub. L. 102–531, title I, § 105, Oct. 27, 1992, 106 Stat. 3474.
 
@@ -6445,6 +6555,9 @@ The Poliomyelitis Vaccination Assistance Act of 1955, act Aug. 12, 1955, ch. 863
 
 #### Applicability of Reorganization Plan No. 3 of 1966
 Pub. L. 89–749, § 7, Nov. 3, 1966, 80 Stat. 1190, provided that: “The provisions enacted by this Act [amending this section and sections 242g and 243 of this title] shall be subject to the provisions of Reorganization Plan No. 3 of 1966 [[42 U.S.C. 202](./chapter-6a-public-health-service.md#section-202) note].”
+
+#### Transfer of Functions
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
 
 <a id="section-246a"></a>
@@ -6526,7 +6639,7 @@ Another prior section 247a, act July 1, 1944, ch. 373, title III, § 316, as add
 
 (2) with respect to each such program (A) the amount of Federal, State, and other funds obligated by the applicant in its latest annual accounting period for the provision of such program, (B) a description of the services provided by the applicant in such program in such period, (C) the amount of Federal funds needed by the applicant to continue providing such services in such program, and (D) if the applicant proposes changes in the provision of the services in such program, the priorities of such proposed changes, reasons for such changes, and the amount of Federal funds needed by the applicant to make such changes;
 
-(3) assurances satisfactory to the Secretary that the program which will be provided with funds under a grant under subsection (a) will be provided in a manner consistent with the State health plan in effect under section 300m–3(c) 11 See References in Text note below. of this title and in those cases where the applicant is a State, that such program will be provided, where appropriate, in a manner consistent with any plans in effect under an application approved under section 247 1 of this title;
+(3) assurances satisfactory to the Secretary that the program which will be provided with funds under a grant under subsection (a) will be provided in a manner consistent with the State health plan in effect under section 300m–3(c) 22 See References in Text note below. of this title and in those cases where the applicant is a State, that such program will be provided, where appropriate, in a manner consistent with any plans in effect under an application approved under section 247 2 of this title;
 
 (4) assurances satisfactory to the Secretary that the applicant will provide for such fiscal control and fund accounting procedures as the Secretary by regulation prescribes to assure the proper disbursement of and accounting for funds received under grants under subsection (a);
 
@@ -6659,7 +6772,7 @@ when the furnishing of such supplies or equipment or the detail of such an offic
 
 (5) **Evaluation** — Not later than 3 years after the date on which a State receives a grant under this subsection, the State shall submit to the Secretary an evaluation of progress made toward improving immunization coverage rates among high-risk populations within the State.
 
-(6) **Report to Congress** — Not later than 4 years after March 23, 2010,1 the Secretary shall submit to Congress a report concerning the effectiveness of the demonstration program established under this subsection together with recommendations on whether to continue and expand such program.
+(6) **Report to Congress** — Not later than 4 years after March 23, 2010,2 the Secretary shall submit to Congress a report concerning the effectiveness of the demonstration program established under this subsection together with recommendations on whether to continue and expand such program.
 
 (7) **Authorization of appropriations** — There is authorized to be appropriated to carry out this subsection, such sums as may be necessary for each of fiscal years 2010 through 2014.
 
@@ -9134,11 +9247,632 @@ Committee on Commerce of House of Representatives changed to Committee on Energy
 #### Effective Date of 2002 Amendment
 Pub. L. 107–188, title I, § 144(b), June 12, 2002, 116 Stat. 630, provided that: “The amendment made by subsection (a) [amending this section] applies to any public health emergency under section 319(a) of the Public Health Service Act [[42 U.S.C. 247d(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d/a&num=0&edition=prelim)], including any such emergency that was in effect as of the day before the date of the enactment of this Act [June 12, 2002]. In the case of such an emergency that was in effect as of such day, the 90-day period described in such section with respect to the termination of the emergency is deemed to begin on such date of enactment.”
 
+#### Funding for COVID–19 Vaccine Activities at the Centers for Disease Control and Prevention
+Pub. L. 117–2, title II, § 2301, Mar. 11, 2021, 135 Stat. 37, provided that: “(a) In General.—In addition to amounts otherwise available, there is appropriated to the Secretary of Health and Human Services (in this subtitle [Subtitle D (§§ 2301–2305) of title II of Pub. L. 117–2, see Tables for classification] referred to as the ‘Secretary’) for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $7,500,000,000, to remain available until expended, to carry out activities to plan, prepare for, promote, distribute, administer, monitor, and track COVID–19 vaccines. “(b) Use of Funds.—The Secretary, acting through the Director of the Centers for Disease Control and Prevention, and in consultation with other agencies, as applicable, shall, in conducting activities referred to in subsection (a)—“(1) conduct activities to enhance, expand, and improve nationwide COVID–19 vaccine distribution and administration, including activities related to distribution of ancillary medical products and supplies related to vaccines; and “(2) provide technical assistance, guidance, and support to, and award grants or cooperative agreements to, State, local, Tribal, and territorial public health departments for enhancement of COVID–19 vaccine distribution and administration capabilities, including—“(A) the distribution and administration of vaccines licensed under section 351 of the Public Health Service Act ([42 U.S.C. 262](./chapter-6a-public-health-service.md#section-262)) or authorized under section 564 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 360bbb–3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360bbb–3&num=0&edition=prelim)) and ancillary medical products and supplies related to vaccines; “(B) the establishment and expansion, including staffing support, of community vaccination centers, particularly in underserved areas; “(C) the deployment of mobile vaccination units, particularly in underserved areas; “(D) information technology, standards-based data, and reporting enhancements, including improvements necessary to support standards-based sharing of data related to vaccine distribution and vaccinations and systems that enhance vaccine safety, effectiveness, and uptake, particularly among underserved populations; “(E) facilities enhancements; “(F) communication with the public regarding when, where, and how to receive COVID–19 vaccines; and “(G) transportation of individuals to facilitate vaccinations, including at community vaccination centers and mobile vaccination units, particularly for underserved populations. “(c) Supplemental Funding for State Vaccination Grants.—“(1) Definitions.—In this subsection:“(A) Base formula.—The term ‘base formula’ means the allocation formula that applied to the Public Health Emergency Preparedness cooperative agreement in fiscal year 2020. “(B) Alternative allocation.—The term ‘alternative allocation’ means an allocation to each State, territory, or locality calculated using the percentage derived from the allocation received by such State, territory, or locality of the aggregate amount of fiscal year 2020 Public Health Emergency Preparedness cooperative agreement awards under section 319C–1 of the Public Health Service Act ([42 U.S.C. 247d–3a](./chapter-6a-public-health-service.md#section-247d-3a)). “(2) Supplemental funding.—“(A) In general.—Not later than 21 days after the date of enactment of this Act [Mar. 11, 2021], the Secretary shall, out of amounts described in subsection (a), provide supplemental funding to any State, locality, or territory that received less of the amounts that were appropriated under title III of division M of Public Law 116–260 [see Tables for classification] for vaccination grants to be issued by the Centers for Disease Control and Prevention than such State, locality, or territory would have received had such amounts been allocated using the alternative allocation. “(B) Amount.—The amount of supplemental funding provided under this subsection shall be equal to the difference between—“(i) the amount the State, locality, or territory received, or would receive, under the base formula; and “(ii) the amount the State, locality, or territory would receive under the alternative allocation.”
+
+#### Funding for COVID–19 Testing, Contact Tracing, and Mitigation Activities
+Pub. L. 117–2, title II, § 2401, Mar. 11, 2021, 135 Stat. 40, provided that: “(a) In General.—In addition to amounts otherwise available, there is appropriated to the Secretary of Health and Human Services (in this subtitle [Subtitle E (§§ 2401–2404) of title II of Pub. L. 117–2, see Tables for classification] referred to as the ‘Secretary’) for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $47,800,000,000, to remain available until expended, to carry out activities to detect, diagnose, trace, and monitor SARS–CoV–2 and COVID–19 infections and related strategies to mitigate the spread of COVID–19. “(b) Use of Funds.—From amounts appropriated by subsection (a), the Secretary shall—“(1) implement a national, evidence-based strategy for testing, contact tracing, surveillance, and mitigation with respect to SARS–CoV–2 and COVID–19, including through activities authorized under section 319(a) of the Public Health Service Act [[42 U.S.C. 247d(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d/a&num=0&edition=prelim)]; “(2) provide technical assistance, guidance, and support, and award grants or cooperative agreements to State, local, and territorial public health departments for activities to detect, diagnose, trace, and monitor SARS–CoV–2 and COVID–19 infections and related strategies and activities to mitigate the spread of COVID–19; “(3) support the development, manufacturing, procurement, distribution, and administration of tests to detect or diagnose SARS–CoV–2 and COVID–19, including through—“(A) support for the development, manufacture, procurement, and distribution of supplies necessary for administering tests, such as personal protective equipment; and “(B) support for the acquisition, construction, alteration, or renovation of non-federally owned facilities for the production of diagnostics and ancillary medical products and supplies where the Secretary determines that such an investment is necessary to ensure the production of sufficient amounts of such supplies; “(4) establish and expand Federal, State, local, and territorial testing and contact tracing capabilities, including—“(A) through investments in laboratory capacity, such as—“(i) academic and research laboratories, or other laboratories that could be used for processing of COVID–19 testing; “(ii) community-based testing sites and community-based organizations; or “(iii) mobile health units, particularly in medically underserved areas; and “(B) with respect to quarantine and isolation of contacts; “(5) enhance information technology, data modernization, and reporting, including improvements necessary to support sharing of data related to public health capabilities; “(6) award grants to, or enter into cooperative agreements or contracts with, State, local, and territorial public health departments to establish, expand, and sustain a public health workforce; and “(7) to cover administrative and program support costs necessary to conduct activities related to subparagraph (a).”
+
 #### Importance of the Blood Supply
 Pub. L. 116–136, div. A, title III, § 3226, Mar. 27, 2020, 134 Stat. 383, provided that: “(a) In General.—The Secretary of Health and Human Services (referred to in this section as the ‘Secretary’) shall carry out a national campaign to improve awareness of, and support outreach to the public and health care providers about the importance and safety of blood donation and the need for donations for the blood supply during the public health emergency declared by the Secretary under section 319 of the Public Health Service Act ([42 U.S.C. 247d](./chapter-6a-public-health-service.md#section-247d)) with respect to COVID–19. “(b) Awareness Campaign.—In carrying out subsection (a), the Secretary may enter into contracts with one or more public or private nonprofit entities, to establish a national blood donation awareness campaign that may include television, radio, internet, and newspaper public service announcements, and other activities to provide for public and professional awareness and education. “(c) Consultation.—In carrying out subsection (a), the Secretary shall consult with the Commissioner of Food and Drugs, the Assistant Secretary for Health, the Director of the Centers for Disease Control and Prevention, the Director of the National Institutes of Health, and the heads of other relevant Federal agencies, and relevant accrediting bodies and representative organizations. “(d) Report to Congress.—Not later than 2 years after the date of enactment of this Act [Mar. 27, 2020], the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, a report that shall include—“(1) a description of the activities carried out under subsection (a); “(2) a description of trends in blood supply donations; and “(3) an evaluation of the impact of the public awareness campaign, including any geographic or population variations.”
 
 #### Reporting by Laboratories of Results of Tests To Detect SARS–CoV–2 or To Diagnose COVID–19
 Pub. L. 116–136, div. B, title VIII, § 18115(a)–(c), Mar. 27, 2020, 134 Stat. 574, provided that: “(a) In General.—Every laboratory that performs or analyzes a test that is intended to detect SARS–CoV–2 or to diagnose a possible case of COVID–19 shall report the results from each such test, to the Secretary of Health and Human Services in such form and manner, and at such timing and frequency, as the Secretary may prescribe until the end of the Secretary’s Public Health Emergency declaration with respect to COVID–19 or any extension of such declaration. “(b) Laboratories Covered.—The Secretary may prescribe which laboratories must submit reports pursuant to this section. “(c) Implementation.—The Secretary may make prescriptions under this section by regulation, including by interim final rule, or by guidance, and may issue such regulations or guidance without regard to the procedures otherwise required by [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), United States Code.”
+
+#### Ex. Ord. No. 13987. Organizing and Mobilizing the United States Government To Provide a Unified and Effective Response To Combat COVID–19 and To Provide United States Leadership on Global Health and Security
+Ex. Ord. No. 13987, Jan. 20, 2021, 86 F.R. 7019, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. Purpose. The Federal Government must act swiftly and aggressively to combat coronavirus disease 2019 (COVID–19). To that end, this order creates the position of Coordinator of the COVID–19 Response and Counselor to the President and takes other steps to organize the White House and activities of the Federal Government to combat COVID–19 and prepare for future biological and pandemic threats.
+
+Sec. 2. Organizing the White House to Combat COVID–19. (a) In order to effectively, fully, and immediately respond to COVID–19, there is established within the Executive Office of the President the position of Coordinator of the COVID–19 Response and Counselor to the President (COVID–19 Response Coordinator) and the position of Deputy Coordinator of the COVID–19 Response. The COVID–19 Response Coordinator shall report directly to the President; advise and assist the President and executive departments and agencies (agencies) in responding to the COVID–19 pandemic; coordinate all elements of the COVID–19 response; and perform such duties as the President may otherwise direct. These duties shall include:
+
+(i) coordinating a Government-wide effort to reduce disparities in the response, care, and treatment of COVID–19, including racial and ethnic disparities;
+
+(ii) coordinating the Federal Government’s efforts to produce, supply, and distribute personal protective equipment, vaccines, tests, and other supplies for the Nation’s COVID–19 response, including through the use of the Defense Production Act, as amended ([50 U.S.C. 4501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4501&num=0&edition=prelim) et seq.);
+
+(iii) coordinating the Federal Government’s efforts to expand COVID–19 testing and the use of testing as an effective public health response;
+
+(iv) coordinating the Federal Government’s efforts to support the timely, safe, and effective delivery of COVID–19 vaccines to the United States population;
+
+(v) coordinating the Federal Government’s efforts to support the safe reopening and operation of schools, child care providers, and Head Start programs, and to help ensure the continuity of educational and other services for young children and elementary and secondary students during the COVID–19 pandemic; and
+
+(vi) coordinating, as appropriate, with State, local, Tribal, and territorial authorities.
+
+(b) The COVID–19 Response Coordinator shall have the authority to convene principals from relevant agencies, in consultation with the Assistant to the President for Domestic Policy (APDP) on matters involving the domestic COVID–19 response, and in consultation with the Assistant to the President for National Security Affairs (APNSA) on matters involving the global COVID–19 response. The COVID–19 Response Coordinator shall also coordinate any corresponding deputies and interagency processes.
+
+(c) The COVID–19 Response Coordinator may act through designees in performing these or any other duties.
+
+Sec. 3. United States Leadership on Global Health and Security and the Global COVID–19 Response.
+
+(a) Preparing to Respond to Biological Threats and Pandemics. To identify, monitor, prepare for, and, if necessary, respond to emerging biological and pandemic threats:
+
+(i) The APNSA shall convene the National Security Council (NSC) Principals Committee as necessary to coordinate the Federal Government’s efforts to address such threats and to advise the President on the global response to and recovery from COVID–19, including matters regarding: the intersection of the COVID–19 response and other national security equities; global health security; engaging with and strengthening the World Health Organization; public health, access to healthcare, and the secondary impacts of COVID–19; and emerging biological risks and threats, whether naturally occurring, deliberate, or accidental.
+
+(ii) Within 180 days of the date of this order [Jan. 20, 2021], the APNSA shall, in coordination with relevant agencies, the COVID–19 Response Coordinator, and the APDP, complete a review of and recommend actions to the President concerning emerging domestic and global biological risks and national biopreparedness policies. The review and recommended actions shall incorporate lessons from the COVID–19 pandemic and, among other things, address: the readiness of the pandemic supply chain, healthcare workforce, and hospitals; the development of a framework of pandemic readiness with specific triggers for when agencies should take action in response to large-scale biological events; pandemic border readiness; the development and distribution of medical countermeasures; epidemic forecasting and modeling; public health data modernization; bio-related intelligence; bioeconomic investments; biotechnology risks; the development of a framework for coordinating with and distributing responsibilities as between the Federal Government and State, local, Tribal, and territorial authorities; and State, local, Tribal, and territorial preparedness for biological events.
+
+(b) NSC Directorate on Global Health Security and Biodefense. There shall be an NSC Directorate on Global Health Security and Biodefense, which shall be headed by a Senior Director for Global Health Security and Biodefense. The Senior Director shall be responsible for monitoring current and emerging biological threats, and shall report concurrently to the APNSA and to the COVID–19 Response Coordinator on matters relating to COVID–19. The Senior Director shall oversee the Global Health Security Agenda Interagency Review Council, which was established pursuant to Executive Order 13747 of November 4, 2016 (Advancing the Global Health Security Agenda To Achieve a World Safe and Secure From Infectious Disease Threats) [[50 U.S.C. 3021](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021&num=0&edition=prelim) note], and is hereby reconvened as described in that order.
+
+(c) Responsibility for National Biodefense Preparedness. Notwithstanding any statements in the National Security Presidential Memorandum–14 of September 18, 2018 (Support for National Biodefense), the APNSA shall be responsible for coordinating the Nation’s biodefense preparedness efforts, and, as stated in sections 1 and 2 of this order, the COVID–19 Response Coordinator shall be responsible for coordinating the Federal Government’s response to the COVID–19 pandemic.
+
+Sec. 4. Prompt Resolution of Issues Related to the United States COVID–19 Response. The heads of agencies shall, as soon as practicable, bring any procedural, departmental, legal, or funding obstacle to the COVID–19 response to the attention of the COVID–19 Response Coordinator. The COVID–19 Response Coordinator shall, in coordination with relevant agencies, the APDP, and the APNSA, as appropriate, immediately bring to the President’s attention any issues that require Presidential guidance or decision-making.
+
+Sec. 5. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+J.R. Biden, Jr.
+
+#### Ex. Ord. No. 13991. Protecting the Federal Workforce and Requiring Mask-Wearing
+Ex. Ord. No. 13991, Jan. 20, 2021, 86 F.R. 7045, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 7902(c) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7902/c&num=0&edition=prelim), United States Code, it is hereby ordered as follows:
+
+Section 1. Policy. It is the policy of my Administration to halt the spread of coronavirus disease 2019 (COVID–19) by relying on the best available data and science-based public health measures. Such measures include wearing masks when around others, physical distancing, and other related precautions recommended by the Centers for Disease Control and Prevention (CDC). Put simply, masks and other public health measures reduce the spread of the disease, particularly when communities make widespread use of such measures, and thus save lives.
+
+Accordingly, to protect the Federal workforce and individuals interacting with the Federal workforce, and to ensure the continuity of Government services and activities, on-duty or on-site Federal employees, on-site Federal contractors, and other individuals in Federal buildings and on Federal lands should all wear masks, maintain physical distance, and adhere to other public health measures, as provided in CDC guidelines.
+
+Sec. 2. Immediate Action Regarding Federal Employees, Contractors, Buildings, and Lands. (a) The heads of executive departments and agencies (agencies) shall immediately take action, as appropriate and consistent with applicable law, to require compliance with CDC guidelines with respect to wearing masks, maintaining physical distance, and other public health measures by: on-duty or on-site Federal employees; on-site Federal contractors; and all persons in Federal buildings or on Federal lands.
+
+(b) The Director of the Office of Management and Budget (OMB), the Director of the Office of Personnel Management (OPM), and the Administrator of General Services, in coordination with the President’s Management Council and the Coordinator of the COVID–19 Response and Counselor to the President (COVID–19 Response Coordinator), shall promptly issue guidance to assist heads of agencies with implementation of this section.
+
+(c) Heads of agencies shall promptly consult, as appropriate, with State, local, Tribal, and territorial government officials, Federal employees, Federal employee unions, Federal contractors, and any other interested parties concerning the implementation of this section.
+
+(d) Heads of agencies may make categorical or case-by-case exceptions in implementing subsection (a) of this section to the extent that doing so is necessary or required by law, and consistent with applicable law. If heads of agencies make such exceptions, they shall require appropriate alternative safeguards, such as additional physical distancing measures, additional testing, or reconfiguration of workspace, consistent with applicable law. Heads of agencies shall document all exceptions in writing.
+
+(e) Heads of agencies shall review their existing authorities and, to the extent permitted by law and subject to the availability of appropriations and resources, seek to provide masks to individuals in Federal buildings when needed.
+
+(f) The COVID–19 Response Coordinator shall coordinate the implementation of this section. Heads of the agencies listed in [31 U.S.C. 901(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section901/b&num=0&edition=prelim) shall update the COVID–19 Response Coordinator on their progress in implementing this section, including any categorical exceptions established under subsection (d) of this section, within 7 days of the date of this order [Jan. 20, 2021] and regularly thereafter. Heads of agencies are encouraged to bring to the attention of the COVID–19 Response Coordinator any questions regarding the scope or implementation of this section.
+
+Sec. 3. Encouraging Masking Across America. (a) The Secretary of Health and Human Services (HHS), including through the Director of CDC, shall engage, as appropriate, with State, local, Tribal, and territorial officials, as well as business, union, academic, and other community leaders, regarding mask-wearing and other public health measures, with the goal of maximizing public compliance with, and addressing any obstacles to, mask-wearing and other public health best practices identified by CDC.
+
+(b) The COVID–19 Response Coordinator, in coordination with the Secretary of HHS, the Secretary of Homeland Security, and the heads of other relevant agencies, shall promptly identify and inform agencies of options to incentivize, support, and encourage widespread mask-wearing consistent with CDC guidelines and applicable law.
+
+Sec. 4. Safer Federal Workforce Task Force.
+
+(a) Establishment. There is hereby established the Safer Federal Workforce Task Force (Task Force).
+
+(b) Membership. The Task Force shall consist of the following members:
+
+(i) the Director of OPM, who shall serve as Co-Chair;
+
+(ii) the Administrator of General Services, who shall serve as Co-Chair;
+
+(iii) the COVID–19 Response Coordinator, who shall serve as Co-Chair;
+
+(iv) the Director of OMB;
+
+(v) the Director of the Federal Protective Service;
+
+(vi) the Director of the United States Secret Service;
+
+(vii) the Administrator of the Federal Emergency Management Agency;
+
+(viii) the Director of CDC; and
+
+(ix) the heads of such other agencies as the Co-Chairs may individually or jointly invite to participate.
+
+(c) Organization. A member of the Task Force may designate, to perform the Task Force functions of the member, a senior-level official who is a full-time officer or employee of the member’s agency. At the direction of the Co-Chairs, the Task Force may establish subgroups consisting exclusively of Task Force members or their designees, as appropriate.
+
+(d) Administration. The General Services Administration shall provide funding and administrative support for the Task Force to the extent permitted by law and within existing appropriations. The Co-Chairs shall convene regular meetings of the Task Force, determine its agenda, and direct its work.
+
+(e) Mission. The Task Force shall provide ongoing guidance to heads of agencies on the operation of the Federal Government, the safety of its employees, and the continuity of Government functions during the COVID–19 pandemic. Such guidance shall be based on public health best practices as determined by CDC and other public health experts, and shall address, at a minimum, the following subjects as they relate to the Federal workforce:
+
+(i) testing methodologies and protocols;
+
+(ii) case investigation and contact tracing;
+
+(iii) requirements of and limitations on physical distancing, including recommended occupancy and density standards;
+
+(iv) equipment needs and requirements, including personal protective equipment;
+
+(v) air filtration;
+
+(vi) enhanced environmental disinfection and cleaning;
+
+(vii) safe commuting and telework options;
+
+(viii) enhanced technological infrastructure to support telework;
+
+(ix) vaccine prioritization, distribution, and administration;
+
+(x) approaches for coordinating with State, local, Tribal, and territorial health officials, as well as business, union, academic, and other community leaders;
+
+(xi) any management infrastructure needed by agencies to implement public health guidance; and
+
+(xii) circumstances under which exemptions might appropriately be made to agency policies in accordance with CDC guidelines, such as for mission-critical purposes.
+
+(f) Agency Cooperation. The head of each agency listed in [31 U.S.C. 901(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section901/b&num=0&edition=prelim) shall, consistent with applicable law, promptly provide the Task Force a report on COVID–19 safety protocols, safety plans, or guidance regarding the operation of the agency and the safety of its employees, and any other information that the head of the agency deems relevant to the Task Force’s work.
+
+Sec. 5. Federal Employee Testing. The Secretary of HHS, through the Director of CDC, shall promptly develop and submit to the COVID–19 Response Coordinator a testing plan for the Federal workforce. This plan shall be based on community transmission metrics and address the populations to be tested, testing types, frequency of testing, positive case protocols, and coordination with local public health authorities for contact tracing.
+
+Sec. 6. Research and Development. The Director of the Office of Science and Technology Policy, in consultation with the Secretary of HHS (through the National Science and Technology Council), the Director of OMB, the Director of CDC, the Director of the National Institutes of Health, the Director of the National Science Foundation, and the heads of any other appropriate agencies, shall assess the availability of Federal research grants to study best practices for implementing, and innovations to better implement, effective mask-wearing and physical distancing policies, with respect to both the Federal workforce and the general public.
+
+Sec. 7. Scope. (a) For purposes of this order:
+
+(i) “Federal employees” and “Federal contractors” mean employees (including members of the Armed Forces and members of the National Guard in Federal service) and contractors (including such contractors’ employees) working for the executive branch;
+
+(ii) “Federal buildings” means buildings, or office space within buildings, owned, rented, or leased by the executive branch of which a substantial portion of occupants are Federal employees or Federal contractors; and
+
+(iii) “Federal lands” means lands under executive branch control.
+
+(b) The Director of OPM and the Administrator of General Services shall seek to consult, in coordination with the heads of any other relevant agencies and the COVID–19 Response Coordinator, with the Sergeants at Arms of the Senate and the House of Representatives and the Director of the Administrative Office of the United States Courts (or such other persons designated by the Majority and Minority Leaders of the Senate, the Speaker and Minority Leader of the House, or the Chief Justice of the United States, respectively), to promote mask-wearing, physical distancing, and adherence to other public health measures within the legislative and judicial branches, and shall provide requested technical assistance as needed to facilitate compliance with CDC guidelines.
+
+Sec. 8. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) Independent agencies are strongly encouraged to comply with the requirements of this order.
+
+(d) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+J.R. Biden, Jr.
+
+#### Ex. Ord. No. 13994. Ensuring a Data-Driven Response to COVID–19 and Future High-Consequence Public Health Threats
+Ex. Ord. No. 13994, Jan. 21, 2021, 86 F.R. 7189, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. Policy. It is the policy of my Administration to respond to the coronavirus disease 2019 (COVID–19) pandemic through effective approaches guided by the best available science and data, including by building back a better public health infrastructure. This stronger public health infrastructure must help the Nation effectively prevent, detect, and respond to future biological threats, both domestically and internationally.
+
+Consistent with this policy, the heads of all executive departments and agencies (agencies) shall facilitate the gathering, sharing, and publication of COVID–19-related data, in coordination with the Coordinator of the COVID–19 Response and Counselor to the President (COVID–19 Response Coordinator), to the extent permitted by law, and with appropriate protections for confidentiality, privacy, law enforcement, and national security. These efforts shall assist Federal, State, local, Tribal, and territorial authorities in developing and implementing policies to facilitate informed community decision-making, to further public understanding of the pandemic and the response, and to deter the spread of misinformation and disinformation.
+
+Sec. 2. Enhancing Data Collection and Collaboration Capabilities for High-Consequence Public Health Threats, Such as the COVID–19 Pandemic. (a) The Secretary of Defense, the Attorney General, the Secretary of Commerce, the Secretary of Labor, the Secretary of Health and Human Services (HHS), the Secretary of Education, the Director of the Office of Management and Budget (OMB), the Director of National Intelligence, the Director of the Office of Science and Technology Policy (OSTP), and the Director of the National Science Foundation shall each promptly designate a senior official to serve as their agency’s lead to work on COVID–19- and pandemic-related data issues. This official, in consultation with the COVID–19 Response Coordinator, shall take steps to make data relevant to high-consequence public health threats, such as the COVID–19 pandemic, publicly available and accessible.
+
+(b) The COVID–19 Response Coordinator shall, as necessary, convene appropriate representatives from relevant agencies to coordinate the agencies’ collection, provision, and analysis of data, including key equity indicators, regarding the COVID–19 response, as well as their sharing of such data with State, local, Tribal, and territorial authorities.
+
+(c) The Director of OMB, in consultation with the Director of OSTP, the United States Chief Technology Officer, and the COVID–19 Response Coordinator, shall promptly review the Federal Government’s existing approaches to open data, and shall issue supplemental guidance, as appropriate and consistent with applicable law, concerning how to de-identify COVID–19-related data; how to make data open to the public in human- and machine-readable formats as rapidly as possible; and any other topic the Director of OMB concludes would appropriately advance the policy of this order. Any guidance shall include appropriate protections for the information described in section 5 of this order.
+
+(d) The Director of the Office of Personnel Management, in consultation with the Director of OMB, shall promptly:
+
+(i) review the ability of agencies to hire personnel expeditiously into roles related to information technology and the collection, provision, analysis, or other use of data to address high-consequence public health threats, such as the COVID–19 pandemic; and
+
+(ii) take action, as appropriate and consistent with applicable law, to support agencies in such efforts.
+
+Sec. 3. Public Health Data Systems. The Secretary of HHS, in consultation with the COVID–19 Response Coordinator and the heads of relevant agencies, shall promptly:
+
+(a) review the effectiveness, interoperability, and connectivity of public health data systems supporting the detection of and response to high-consequence public health threats, such as the COVID–19 pandemic;
+
+(b) review the collection of morbidity and mortality data by State, local, Tribal, and territorial governments during high-consequence public health threats, such as the COVID–19 pandemic; and
+
+(c) issue a report summarizing the findings of the reviews detailed in subsections (a) and (b) of this section and any recommendations for addressing areas for improvement identified in the reviews.
+
+Sec. 4. Advancing Innovation in Public Health Data and Analytics. The Director of OSTP, in coordination with the National Science and Technology Council, as appropriate, shall develop a plan for advancing innovation in public health data and analytics in the United States.
+
+Sec. 5. Privileged Information. Nothing in this order shall compel or authorize the disclosure of privileged information, law-enforcement information, national-security information, personal information, or information the disclosure of which is prohibited by law.
+
+Sec. 6. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+J.R. Biden, Jr.
+
+#### Ex. Ord. No. 13995. Ensuring an Equitable Pandemic Response and Recovery
+Ex. Ord. No. 13995, Jan. 21, 2021, 86 F.R. 7193, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to address the disproportionate and severe impact of coronavirus disease 2019 (COVID–19) on communities of color and other underserved populations, it is hereby ordered as follows:
+
+Section 1. Purpose. The COVID–19 pandemic has exposed and exacerbated severe and pervasive health and social inequities in America. For instance, people of color experience systemic and structural racism in many facets of our society and are more likely to become sick and die from COVID–19. The lack of complete data, disaggregated by race and ethnicity, on COVID–19 infection, hospitalization, and mortality rates, as well as underlying health and social vulnerabilities, has further hampered efforts to ensure an equitable pandemic response. Other communities, often obscured in the data, are also disproportionately affected by COVID–19, including sexual and gender minority groups, those living with disabilities, and those living at the margins of our economy. Observed inequities in rural and Tribal communities, territories, and other geographically isolated communities require a place-based approach to data collection and the response. Despite increased State and local efforts to address these inequities, COVID–19’s disparate impact on communities of color and other underserved populations remains unrelenting.
+
+Addressing this devastating toll is both a moral imperative and pragmatic policy. It is impossible to change the course of the pandemic without tackling it in the hardest-hit communities. In order to identify and eliminate health and social inequities resulting in disproportionately higher rates of exposure, illness, and death, I am directing a Government-wide effort to address health equity. The Federal Government must take swift action to prevent and remedy differences in COVID–19 care and outcomes within communities of color and other underserved populations.
+
+Sec. 2. COVID–19 Health Equity Task Force. There is established within the Department of Health and Human Services (HHS) a COVID–19 Health Equity Task Force (Task Force).
+
+(a) Membership. The Task Force shall consist of the Secretary of HHS; an individual designated by the Secretary of HHS to Chair the Task Force (COVID–19 Health Equity Task Force Chair); the heads of such other executive departments, agencies, or offices (agencies) as the Chair may invite; and up to 20 members from sectors outside of the Federal Government appointed by the President.
+
+(i) Federal members may designate, to perform the Task Force functions of the member, a senior-level official who is a part of the member’s agency and a full-time officer or employee of the Federal Government.
+
+(ii) Nonfederal members shall include individuals with expertise and lived experience relevant to groups suffering disproportionate rates of illness and death in the United States; individuals with expertise and lived experience relevant to equity in public health, health care, education, housing, and community-based services; and any other individuals with expertise the President deems relevant. Appointments shall be made without regard to political affiliation and shall reflect a diverse set of perspectives.
+
+(iii) Members of the Task Force shall serve without compensation for their work on the Task Force, but members shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service ([5 U.S.C. 5701–570](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5701–570&num=0&edition=prelim)7).
+
+(iv) At the direction of the Chair, the Task Force may establish subgroups consisting exclusively of Task Force members or their designees under this section, as appropriate.
+
+(b) Mission and Work.
+
+(i) Consistent with applicable law and as soon as practicable, the Task Force shall provide specific recommendations to the President, through the Coordinator of the COVID–19 Response and Counselor to the President (COVID–19 Response Coordinator), for mitigating the health inequities caused or exacerbated by the COVID–19 pandemic and for preventing such inequities in the future. The recommendations shall include:
+
+(A) recommendations for how agencies and State, local, Tribal, and territorial officials can best allocate COVID–19 resources, in light of disproportionately high rates of COVID–19 infection, hospitalization, and mortality in certain communities and disparities in COVID–19 outcomes by race, ethnicity, and other factors, to the extent permitted by law;
+
+(B) recommendations for agencies with responsibility for disbursing COVID–19 relief funding regarding how to disburse funds in a manner that advances equity; and
+
+(C) recommendations for agencies regarding effective, culturally aligned communication, messaging, and outreach to communities of color and other underserved populations.
+
+(ii) The Task Force shall submit a final report to the COVID–19 Response Coordinator addressing any ongoing health inequities faced by COVID–19 survivors that may merit a public health response, describing the factors that contributed to disparities in COVID–19 outcomes, and recommending actions to combat such disparities in future pandemic responses.
+
+(c) Data Collection. To address the data shortfalls identified in section 1 of this order, and consistent with applicable law, the Task Force shall:
+
+(i) collaborate with the heads of relevant agencies, consistent with the Executive Order entitled “Ensuring a Data-Driven Response to COVID–19 and Future High-Consequence Public Health Threats,” [Ex. Ord. No. 13994, set out above] to develop recommendations for expediting data collection for communities of color and other underserved populations and identifying data sources, proxies, or indices that would enable development of short-term targets for pandemic-related actions for such communities and populations;
+
+(ii) develop, in collaboration with the heads of relevant agencies, a set of longer-term recommendations to address these data shortfalls and other foundational data challenges, including those relating to data intersectionality, that must be tackled in order to better prepare and respond to future pandemics; and
+
+(iii) submit the recommendations described in this subsection to the President, through the COVID–19 Response Coordinator.
+
+(d) External Engagement. Consistent with the objectives set out in this order and with applicable law, the Task Force may seek the views of health professionals; policy experts; State, local, Tribal, and territorial health officials; faith-based leaders; businesses; health providers; community organizations; those with lived experience with homelessness, incarceration, discrimination, and other relevant issues; and other stakeholders.
+
+(e) Administration. Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.), may apply to the Task Force, any functions of the President under the Act, except for those in section 6 of the Act, shall be performed by the Secretary of HHS in accordance with the guidelines that have been issued by the Administrator of General Services. HHS shall provide funding and administrative support for the Task Force to the extent permitted by law and within existing appropriations. The Chair shall convene regular meetings of the Task Force, determine its agenda, and direct its work. The Chair shall designate an Executive Director of the Task Force, who shall coordinate the work of the Task Force and head any staff assigned to the Task Force.
+
+(f) Termination. Unless extended by the President, the Task Force shall terminate within 30 days of accomplishing the objectives set forth in this order, including the delivery of the report and recommendations specified in this section, or 2 years from the date of this order [Jan. 21, 2021], whichever comes first.
+
+Sec. 3. Ensuring an Equitable Pandemic Response. To address the inequities identified in section 1 of this order, it is hereby directed that:
+
+(a) The Secretary of Agriculture, the Secretary of Labor, the Secretary of HHS, the Secretary of Housing and Urban Development, the Secretary of Education, the Administrator of the Environmental Protection Agency, and the heads of all other agencies with authorities or responsibilities relating to the pandemic response and recovery shall, as appropriate and consistent with applicable law:
+
+(i) consult with the Task Force to strengthen equity data collection, reporting, and use related to COVID–19;
+
+(ii) assess pandemic response plans and policies to determine whether personal protective equipment, tests, vaccines, therapeutics, and other resources have been or will be allocated equitably, including by considering:
+
+(A) the disproportionately high rates of COVID–19 infection, hospitalization, and mortality in certain communities; and
+
+(B) any barriers that have restricted access to preventive measures, treatment, and other health services for high-risk populations;
+
+(iii) based on the assessments described in subsection (a)(ii) of this section, modify pandemic response plans and policies to advance equity, with consideration to:
+
+(A) the effect of proposed policy changes on the distribution of resources to, and access to health care by, communities of color and other underserved populations;
+
+(B) the effect of proposed policy changes on agencies’ ability to collect, analyze, and report data necessary to monitor and evaluate the impact of pandemic response plans and policies on communities of color and other underserved populations; and
+
+(C) policy priorities expressed by communities that have suffered disproportionate rates of illness and death as a result of the pandemic;
+
+(iv) strengthen enforcement of anti-discrimination requirements pertaining to the availability of, and access to, COVID–19 care and treatment; and
+
+(v) partner with States, localities, Tribes, and territories to explore mechanisms to provide greater assistance to individuals and families experiencing disproportionate economic or health effects from COVID–19, such as by expanding access to food, housing, child care, or income support.
+
+(b) The Secretary of HHS shall:
+
+(i) provide recommendations to State, local, Tribal, and territorial leaders on how to facilitate the placement of contact tracers and other workers in communities that have been hardest hit by the pandemic, recruit such workers from those communities, and connect such workers to existing health workforce training programs and other career advancement programs; and
+
+(ii) conduct an outreach campaign to promote vaccine trust and uptake among communities of color and other underserved populations with higher levels of vaccine mistrust due to discriminatory medical treatment and research, and engage with leaders within those communities.
+
+Sec. 4. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+J.R. Biden, Jr.
+
+#### Ex. Ord. No. 13996. Establishing the COVID–19 Pandemic Testing Board and Ensuring a Sustainable Public Health Workforce for COVID–19 and Other Biological Threats
+Ex. Ord. No. 13996, Jan. 21, 2021, 86 F.R. 7197, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, it is hereby ordered as follows:
+
+Section 1. Policy. It is the policy of my Administration to control coronavirus disease 2019 (COVID–19) by using a Government-wide, unified approach that includes: establishing a national COVID–19 testing and public health workforce strategy; working to expand the supply of tests; working to bring test manufacturing to the United States, where possible; working to enhance laboratory testing capacity; working to expand the public health workforce; supporting screening testing for schools and priority populations; and ensuring a clarity of messaging about the use of tests and insurance coverage.
+
+Sec. 2. COVID–19 Pandemic Testing Board.
+
+(a) Establishment and Membership. There is established a COVID–19 Pandemic Testing Board (Testing Board), chaired by the Coordinator of the COVID–19 Response and Counselor to the President (COVID–19 Response Coordinator) or his designee. The Testing Board shall include representatives from executive departments and agencies (agencies) that are designated by the President. The heads of agencies so designated shall designate officials from their respective agencies to represent them on the Testing Board.
+
+(b) Mission and Functions. To support the implementation and oversight of the policy laid out in section 1 of this order, the Testing Board shall:
+
+(i) coordinate Federal Government efforts to promote COVID–19 diagnostic, screening, and surveillance testing;
+
+(ii) make recommendations to the President with respect to prioritizing the Federal Government’s assistance to State, local, Tribal, and territorial authorities, in order to expand testing and reduce disparities in access to testing;
+
+(iii) identify barriers to access and use of testing in, and coordinate Federal Government efforts to increase testing for:
+
+(A) priority populations, including healthcare workers and other essential workers;
+
+(B) communities with major shortages in testing availability and use;
+
+(C) at-risk settings, including long-term care facilities, correctional facilities, immigration custodial settings, detention facilities, schools, child care settings, and food processing and manufacturing facilities; and
+
+(D) high-risk groups, including people experiencing homelessness, migrants, and seasonal workers;
+
+(iv) identify methods to expand State, local, Tribal, and territorial capacity to conduct testing, contact tracing, and isolation and quarantine, in order for schools, businesses, and travel to be conducted safely;
+
+(v) provide guidance on how to enhance the clarity, consistency, and transparency of Federal Government communication with the public about the goals and purposes of testing;
+
+(vi) identify options for the Federal Government to maximize testing capacity of commercial labs and academic labs; and
+
+(vii) propose short- and long-term reforms for the Federal Government to: increase State, local, Tribal, and territorial capacity to conduct testing; expand genomic sequencing; and improve the effectiveness and speed of the Federal Government’s response to future pandemics and other biological emergencies.
+
+(d) The Chair of the Testing Board shall coordinate with the Secretary of Health and Human Services (HHS) and the heads of other relevant agencies or their designees, as necessary, to ensure that the Testing Board’s work is coordinated with the Public Health Emergency Countermeasures Enterprise within HHS.
+
+Sec. 3. Actions to Address the Cost of COVID–19 Testing. (a) The Secretary of the Treasury, the Secretary of HHS, and the Secretary of Labor, in coordination with the COVID–19 Response Coordinator, shall promptly, and as appropriate and consistent with applicable law:
+
+(i) facilitate the provision of COVID–19 testing free of charge to those who lack comprehensive health insurance; and
+
+(ii) clarify group health plans’ and health insurance issuers’ obligations to provide coverage for COVID–19 testing.
+
+(b) The Secretary of HHS, the Secretary of Education, and the Secretary of Homeland Security, through the Administrator of the Federal Emergency Management Agency (FEMA), in coordination with the COVID–19 Response Coordinator, shall promptly, and as appropriate and consistent with applicable law:
+
+(i) provide support for surveillance tests for settings such as schools; and
+
+(ii) expand equitable access to COVID–19 testing.
+
+Sec. 4. Establishing a Public Health Workforce Program. (a) The Secretary of HHS and the Secretary of Labor shall promptly consult with State, local, Tribal, and territorial leaders to understand the challenges they face in pandemic response efforts, including challenges recruiting and training sufficient personnel to ensure adequate and equitable community-based testing, and testing in schools and high-risk settings.
+
+(b) The Secretary of HHS shall, as appropriate and consistent with applicable law, as soon as practicable:
+
+(i) provide technical support to State, local, Tribal, and territorial public health agencies with respect to testing and contact-tracing efforts; and
+
+(ii) assist such authorities in the training of public health workers. This may include technical assistance to non-Federal public health workforces in connection with testing, contact tracing, and mass vaccinations, as well as other urgent public health workforce needs, such as combating opioid use.
+
+(c) The Secretary of HHS shall submit to the President, through the COVID–19 Response Coordinator, the Assistant to the President for Domestic Policy (APDP), and the Assistant to the President for National Security Affairs (APNSA), a plan detailing:
+
+(i) how the Secretary of HHS would deploy personnel in response to future high-consequence public health threats; and
+
+(ii) five-year targets and budget requirements for achieving a sustainable public health workforce, as well as options for expanding HHS capacity, such as by expanding the U.S. Public Health Service Commissioned Corps and Epidemic Intelligence Service, so that the Department can better respond to future pandemics and other biological threats.
+
+(d) The Secretary of HHS, the Secretary of Homeland Security, the Secretary of Labor, the Secretary of Education, and the Chief Executive Officer of the Corporation for National and Community Service, in coordination with the COVID–19 Response Coordinator, the APDP, and the APNSA, shall submit a plan to the President for establishing a national contact tracing and COVID–19 public health workforce program, to be known as the U.S. Public Health Job Corps, which shall be modeled on or developed as a component of the FEMA Corps program. Such plan shall include means by which the U.S. Public Health Job Corps can be part of the National Civilian Community Corps program, as well as recommendations about whether it would be appropriate for the U.S. Public Health Job Corps to immediately assign personnel from any of the agencies involved in the creation of the plan, including existing AmeriCorps members, to join or aid the U.S. Public Health Job Corps. The U.S. Public Health Job Corps will:
+
+(i) conduct and train individuals in contact tracing related to the COVID–19 pandemic;
+
+(ii) assist in outreach for vaccination efforts, including by administering vaccination clinics;
+
+(iii) assist with training programs for State, local, Tribal, and territorial governments to provide testing, including in schools; and
+
+(iv) provide other necessary services to Americans affected by the COVID–19 pandemic.
+
+Sec. 5. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+J.R. Biden, Jr.
+
+#### Ex. Ord. No. 13997. Improving and Expanding Access to Care and Treatments for COVID–19
+Ex. Ord. No. 13997, Jan. 21, 2021, 86 F.R. 7201, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. Policy. It is the policy of my Administration to improve the capacity of the Nation’s healthcare systems to address coronavirus disease 2019 (COVID–19), to accelerate the development of novel therapies to treat COVID–19, and to improve all Americans’ access to quality and affordable healthcare.
+
+Sec. 2. Accelerating the Development of Novel Therapies. To enhance the Nation’s ability to quickly develop the most promising COVID–19 interventions, the Secretary of Health and Human Services (HHS), in consultation with the Director of the National Institutes of Health, shall:
+
+(a) develop a plan for supporting a range of studies, including large-scale randomized trials, for identifying optimal clinical management strategies, and for supporting the most promising treatments for COVID–19 and future high-consequence public health threats, that can be easily manufactured, distributed, and administered, both domestically and internationally;
+
+(b) develop a plan, in consultation with non-governmental partners, as appropriate, to support research:
+
+(i) in rural hospitals and other rural locations; and
+
+(ii) that studies the emerging evidence concerning the long-term impact of COVID–19 on patient health; and
+
+(c) consider steps to ensure that clinical trials include populations that have been historically underrepresented in such trials.
+
+Sec. 3. Improving the Capacity of the Nation’s Healthcare Systems to Address COVID–19. To bolster the capacity of the Nation’s healthcare systems to support healthcare workers and patients:
+
+(a) The Secretary of Defense, the Secretary of HHS, the Secretary of Veterans Affairs, and the heads of other relevant executive departments and agencies (agencies), in coordination with the Coordinator of the COVID–19 Response and Counselor to the President (COVID–19 Response Coordinator), shall promptly, as appropriate and consistent with applicable law, provide targeted surge assistance to critical care and long-term care facilities, including nursing homes and skilled nursing facilities, assisted living facilities, intermediate care facilities for individuals with disabilities, and residential treatment centers, in their efforts to combat the spread of COVID–19.
+
+(b) The COVID–19 Response Coordinator, in coordination with the Secretary of Defense, the Secretary of HHS, the Secretary of Veterans Affairs, and the heads of other relevant agencies, shall review the needs of Federal facilities providing care to COVID–19 patients and develop recommendations for further actions such facilities can take to support active military personnel, veterans, and Tribal nations during this crisis.
+
+(c) The Secretary of HHS shall promptly:
+
+(i) issue recommendations on how States and healthcare providers can increase the capacity of their healthcare workforces to address the COVID–19 pandemic; and
+
+(ii) through the Administrator of the Health Resources and Services Administration and the Administrator of the Substance Abuse and Mental Health Services Administration, take appropriate actions, as consistent with applicable law, to expand access to programs and services designed to meet the long-term health needs of patients recovering from COVID–19, including through technical assistance and support to community health centers.
+
+Sec. 4. Improving Access to Quality and Affordable Healthcare. (a) To facilitate the equitable and effective distribution of therapeutics and bolster clinical care capacity where needed to support patient care, the Secretary of Defense, the Secretary of HHS, and the Secretary of Veterans Affairs, in coordination with the COVID–19 Response Coordinator, shall establish targets for the production, allocation, and distribution of COVID–19 treatments. To meet those targets, the Secretary of Defense, the Secretary of HHS, and the Secretary of Veterans Affairs shall consider prioritizing, including through grants for research and development, investments in therapeutics that can be readily administered and scaled.
+
+(b) To facilitate the utilization of existing COVID–19 treatments, the Secretary of HHS shall identify barriers to maximizing the effective and equitable use of existing COVID–19 treatments and shall, as appropriate and consistent with applicable law, provide support to State, local, Tribal, and territorial authorities aimed at overcoming those barriers.
+
+(c) To address the affordability of treatments and clinical care, the Secretary of HHS shall, promptly and as appropriate and consistent with applicable law:
+
+(i) evaluate the COVID–19 Uninsured Program, operated by the Health Resources and Services Administration within HHS, and take any available steps to promote access to treatments and clinical care for those without adequate coverage, to support safety-net providers in delivering such treatments and clinical care, and to make the Program easy to use and accessible for patients and providers, with information about the Program widely disseminated; and
+
+(ii) evaluate Medicare, Medicaid, group health plans, and health insurance issuers, and take any available steps to promote insurance coverage for safe and effective COVID–19 treatments and clinical care.
+
+Sec. 5. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+J.R. Biden, Jr.
+
+#### Ex. Ord. No. 13998. Promoting COVID–19 Safety in Domestic and International Travel
+Ex. Ord. No. 13998, Jan. 21, 2021, 86 F.R. 7205, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. Policy. Science-based public health measures are critical to preventing the spread of coronavirus disease 2019 (COVID–19) by travelers within the United States and those who enter the country from abroad. The Centers for Disease Control and Prevention (CDC), the Surgeon General, and the National Institutes of Health have concluded that mask-wearing, physical distancing, appropriate ventilation, and timely testing can mitigate the risk of travelers spreading COVID–19. Accordingly, to save lives and allow all Americans, including the millions of people employed in the transportation industry, to travel and work safely, it is the policy of my Administration to implement these public health measures consistent with CDC guidelines on public modes of transportation and at ports of entry to the United States.
+
+Sec. 2. Immediate Action to Require Mask-Wearing on Certain Domestic Modes of Transportation.
+
+(a) Mask Requirement. The Secretary of Labor, the Secretary of Health and Human Services (HHS), the Secretary of Transportation (including through the Administrator of the Federal Aviation Administration (FAA)), the Secretary of Homeland Security (including through the Administrator of the Transportation Security Administration (TSA) and the Commandant of the United States Coast Guard), and the heads of any other executive departments and agencies (agencies) that have relevant regulatory authority (heads of agencies) shall immediately take action, to the extent appropriate and consistent with applicable law, to require masks to be worn in compliance with CDC guidelines in or on:
+
+(i) airports;
+
+(ii) commercial aircraft;
+
+(iii) trains;
+
+(iv) public maritime vessels, including ferries;
+
+(v) intercity bus services; and
+
+(vi) all forms of public transportation as defined in [section 5302 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5302&num=0&edition=prelim), United States Code.
+
+(b) Consultation. In implementing this section, the heads of agencies shall consult, as appropriate, with interested parties, including State, local, Tribal, and territorial officials; industry and union representatives from the transportation sector; and consumer representatives.
+
+(c) Exceptions. The heads of agencies may make categorical or case-by-case exceptions to policies developed under this section, consistent with applicable law, to the extent that doing so is necessary or required by law. If the heads of agencies do make exceptions, they shall require alternative and appropriate safeguards, and shall document all exceptions in writing.
+
+(d) Preemption. To the extent permitted by applicable law, the heads of agencies shall ensure that any action taken to implement this section does not preempt State, local, Tribal, and territorial laws or rules imposing public health measures that are more protective of public health than those required by the heads of agencies.
+
+(e) Coordination. The Coordinator of the COVID–19 Response and Counselor to the President (COVID–19 Response Coordinator) shall coordinate the implementation of this section. The heads of agencies shall update the COVID–19 Response Coordinator on their progress in implementing this section, including any categorical exceptions established under subsection (c) of this section, within 7 days of the date of this order [Jan. 21, 2021] and regularly thereafter. The heads of agencies are encouraged to bring to the attention of the COVID–19 Response Coordinator any questions regarding the scope or implementation of this section.
+
+Sec. 3. Action to Implement Additional Public Health Measures for Domestic Travel.
+
+(a) Recommendations. The Secretary of Transportation (including through the Administrator of the FAA) and the Secretary of Homeland Security (including through the Administrator of the TSA and the Commandant of the Coast Guard), in consultation with the Director of CDC, shall promptly provide to the COVID–19 Response Coordinator recommendations concerning how their respective agencies may impose additional public health measures for domestic travel.
+
+(b) Consultation. In implementing this section, the Secretary of Transportation and the Secretary of Homeland Security shall engage with interested parties, including State, local, Tribal, and territorial officials; industry and union representatives from the transportation sector; and consumer representatives.
+
+Sec. 4. Support for State, Local, Tribal, and Territorial Authorities. The COVID–19 Response Coordinator, in coordination with the Secretary of Transportation and the heads of any other relevant agencies, shall promptly identify and inform agencies of options to incentivize, support, and encourage widespread mask-wearing and physical distancing on public modes of transportation, consistent with CDC guidelines and applicable law.
+
+Sec. 5. International Travel.
+
+(a) Policy. It is the policy of my Administration that, to the extent feasible, travelers seeking to enter the United States from a foreign country shall be:
+
+(i) required to produce proof of a recent negative COVID–19 test prior to entry; and
+
+(ii) required to comply with other applicable CDC guidelines concerning international travel, including recommended periods of self-quarantine or self-isolation after entry into the United States.
+
+(b) Air Travel.
+
+(i) The Secretary of HHS, including through the Director of CDC, and in coordination with the Secretary of Transportation (including through the Administrator of the FAA) and the Secretary of Homeland Security (including through the Administrator of the TSA), shall, within 14 days of the date of this order [Jan. 21, 2021], assess the CDC order of January 12, 2021, regarding the requirement of a negative COVID–19 test result for airline passengers traveling into the United States, in light of subsection (a) of this section. Based on such assessment, the Secretary of HHS and the Secretary of Homeland Security shall take any further appropriate regulatory action, to the extent feasible and consistent with CDC guidelines and applicable law. Such assessment and regulatory action shall include consideration of:
+
+(A) the timing and types of COVID–19 tests that should satisfy the negative test requirement, including consideration of additional testing immediately prior to departure;
+
+(B) the proof of test results that travelers should be required to provide;
+
+(C) the feasibility of implementing alternative and sufficiently protective public health measures, such as testing, self-quarantine, and self-isolation on arrival, for travelers entering the United States from countries where COVID–19 tests are inaccessible, particularly where such inaccessibility of tests would affect the ability of United States citizens and lawful permanent residents to return to the United States; and
+
+(D) measures to prevent fraud.
+
+(ii) The Secretary of HHS, in coordination with the Secretary of Transportation (including through the Administrator of the FAA) and the Secretary of Homeland Security (including through the Administrator of the TSA), shall promptly provide to the President, through the COVID–19 Response Coordinator, a plan for how the Secretary and other Federal Government actors could implement the policy stated in subsection (a) of this section with respect to CDC-recommended periods of self-quarantine or self-isolation after a flight to the United States from a foreign country, as he deems appropriate and consistent with applicable law. The plan shall identify agencies’ tools and mechanisms to assist travelers in complying with such policy.
+
+(iii) The Secretary of State, in consultation with the Secretary of HHS (including through the Director of CDC), the Secretary of Transportation (including through the Administrator of the FAA), and the Secretary of Homeland Security, shall seek to consult with foreign governments, the World Health Organization, the International Civil Aviation Organization, the International Air Transport Association, and any other relevant stakeholders to establish guidelines for public health measures associated with safe international travel, including on aircraft and at ports of entry. Any such guidelines should address quarantine, testing, COVID–19 vaccination, follow-up testing and symptom-monitoring, air filtration requirements, environmental decontamination standards, and contact tracing.
+
+(c) Land Travel. The Secretary of State, in consultation with the Secretary of HHS, the Secretary of Transportation, the Secretary of Homeland Security, and the Director of CDC, shall immediately commence diplomatic outreach to the governments of Canada and Mexico regarding public health protocols for land ports of entry. Based on this diplomatic engagement, within 14 days of the date of this order, the Secretary of HHS (including through the Director of CDC), the Secretary of Transportation, and the Secretary of Homeland Security shall submit to the President a plan to implement appropriate public health measures at land ports of entry. The plan should implement CDC guidelines, consistent with applicable law, and take into account the operational considerations relevant to the different populations who enter the United States by land.
+
+(d) Sea Travel. The Secretary of Homeland Security, through the Commandant of the Coast Guard and in consultation with the Secretary of HHS and the Director of CDC, shall, within 14 days of the date of this order, submit to the President a plan to implement appropriate public health measures at sea ports. The plan should implement CDC guidelines, consistent with applicable law, and take into account operational considerations.
+
+(e) International Certificates of Vaccination or Prophylaxis. Consistent with applicable law, the Secretary of State, the Secretary of HHS, and the Secretary of Homeland Security (including through the Administrator of the TSA), in coordination with any relevant international organizations, shall assess the feasibility of linking COVID–19 vaccination to International Certificates of Vaccination or Prophylaxis (ICVP) and producing electronic versions of ICVPs.
+
+(f) Coordination. The COVID–19 Response Coordinator, in consultation with the Assistant to the President for National Security Affairs and the Assistant to the President for Domestic Policy, shall coordinate the implementation of this section. The Secretary of State, the Secretary of HHS, the Secretary of Transportation, and the Secretary of Homeland Security shall update the COVID–19 Response Coordinator on their progress in implementing this section within 7 days of the date of this order and regularly thereafter. The heads of all agencies are encouraged to bring to the attention of the COVID–19 Response Coordinator any questions regarding the scope or implementation of this section.
+
+Sec. 6. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+J.R. Biden, Jr.
+
+#### Ex. Ord. No. 13999. Protecting Worker Health and Safety
+Ex. Ord. No. 13999, Jan. 21, 2021, 86 F.R. 7211, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. Policy. Ensuring the health and safety of workers is a national priority and a moral imperative. Healthcare workers and other essential workers, many of whom are people of color and immigrants, have put their lives on the line during the coronavirus disease 2019 (COVID–19) pandemic. It is the policy of my Administration to protect the health and safety of workers from COVID–19.
+
+The Federal Government must take swift action to reduce the risk that workers may contract COVID–19 in the workplace. That will require issuing science-based guidance to help keep workers safe from COVID–19 exposure, including with respect to mask-wearing; partnering with State and local governments to better protect public employees; enforcing worker health and safety requirements; and pushing for additional resources to help employers protect employees.
+
+Sec. 2. Protecting Workers from COVID–19 Under the Occupational Safety and Health Act. The Secretary of Labor, acting through the Assistant Secretary of Labor for Occupational Safety and Health, in furtherance of the policy described in section 1 of this order and consistent with applicable law, shall:
+
+(a) issue, within 2 weeks of the date of this order [Jan. 21, 2021] and in conjunction or consultation with the heads of any other appropriate executive departments and agencies (agencies), revised guidance to employers on workplace safety during the COVID–19 pandemic;
+
+(b) consider whether any emergency temporary standards on COVID–19, including with respect to masks in the workplace, are necessary, and if such standards are determined to be necessary, issue them by March 15, 2021;
+
+(c) review the enforcement efforts of the Occupational Safety and Health Administration (OSHA) related to COVID–19 and identify any short-, medium-, and long-term changes that could be made to better protect workers and ensure equity in enforcement;
+
+(d) launch a national program to focus OSHA enforcement efforts related to COVID–19 on violations that put the largest number of workers at serious risk or are contrary to anti-retaliation principles; and
+
+(e) coordinate with the Department of Labor’s Office of Public Affairs and Office of Public Engagement and all regional OSHA offices to conduct, consistent with applicable law, a multilingual outreach campaign to inform workers and their representatives of their rights under applicable law. This campaign shall include engagement with labor unions, community organizations, and industries, and place a special emphasis on communities hit hardest by the pandemic.
+
+Sec. 3. Protecting Other Categories of Workers from COVID–19. (a) The Secretary of Labor, acting through the Assistant Secretary of Labor for Occupational Safety and Health and consistent with applicable law, shall:
+
+(i) coordinate with States that have occupational safety and health plans approved under section 18 of the Occupational Safety and Health Act (Act) ([29 U.S.C. 667](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section667&num=0&edition=prelim)) to seek to ensure that workers covered by such plans are adequately protected from COVID–19, consistent with any revised guidance or emergency temporary standards issued by OSHA; and
+
+(ii) in States that do not have such plans, consult with State and local government entities with responsibility for public employee safety and health and with public employee unions to bolster protection from COVID–19 for public sector workers.
+
+(b) The Secretary of Agriculture, the Secretary of Labor, the Secretary of Health and Human Services, the Secretary of Transportation, and the Secretary of Energy, in consultation with the heads of any other appropriate agencies, shall, consistent with applicable law, explore mechanisms to protect workers not protected under the Act [[29 U.S.C. 651](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section651&num=0&edition=prelim) et seq.] so that they remain healthy and safe on the job during the COVID–19 pandemic.
+
+(c) The Secretary of Labor, acting through the Assistant Secretary of Labor for Mine Safety and Health, shall consider whether any emergency temporary standards on COVID–19 applicable to coal and metal or non-metal mines are necessary, and if such standards are determined to be necessary and consistent with applicable law, issue them as soon as practicable.
+
+Sec. 4. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+J.R. Biden, Jr.
+
+#### Ex. Ord. No. 14000. Supporting the Reopening and Continuing Operation of Schools and Early Childhood Education Providers
+Ex. Ord. No. 14000, Jan. 21, 2021, 86 F.R. 7215, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, to ensure that students receive a high-quality education during the coronavirus disease 2019 (COVID–19) pandemic, and to support the safe reopening and continued operation of schools, child care providers, Head Start programs, and institutions of higher education, it is hereby ordered as follows:
+
+Section 1. Policy. Every student in America deserves a high-quality education in a safe environment. This promise, which was already out of reach for too many, has been further threatened by the COVID–19 pandemic. School and higher education administrators, educators, faculty, child care providers, custodians and other staff, and families have gone above and beyond to support children’s and students’ learning and meet their needs during this crisis. Students and teachers alike have found new ways to teach and learn. Many child care providers continue to provide care and learning opportunities to children in homes and centers across the country. However, leadership and support from the Federal Government is needed. Two principles should guide the Federal Government’s response to the COVID–19 crisis with respect to schools, child care providers, Head Start programs, and higher education institutions. First, the health and safety of children, students, educators, families, and communities is paramount. Second, every student in the United States should have the opportunity to receive a high-quality education, during and beyond the pandemic.
+
+Accordingly, it is the policy of my Administration to provide support to help create the conditions for safe, in-person learning as quickly as possible; ensure high-quality instruction and the delivery of essential services often received by students and young children at school, institutions of higher education, child care providers, and Head Start programs; mitigate learning loss caused by the pandemic; and address educational disparities and inequities that the pandemic has created and exacerbated.
+
+Sec. 2. Agency Roles and Responsibilities. The following assignments of responsibility shall be exercised in furtherance of the policy described in section 1 of this order:
+
+(a) The Secretary of Education shall, consistent with applicable law:
+
+(i) provide, in consultation with the Secretary of Health and Human Services, evidence-based guidance to assist States and elementary and secondary schools in deciding whether and how to reopen, and how to remain open, for in-person learning; and in safely conducting in-person learning, including by implementing mitigation measures such as cleaning, masking, proper ventilation, and testing;
+
+(ii) provide, in consultation with the Secretary of Health and Human Services, evidence-based guidance to institutions of higher education on safely reopening for in-person learning, which shall take into account considerations such as the institution’s setting, resources, and the population it serves;
+
+(iii) provide advice to State, local, Tribal, and territorial educational authorities, institutions of higher education, local education agencies, and elementary and secondary schools regarding distance and online learning, blended learning, and in-person learning; and the promotion of mental health, social-emotional well-being, and communication with parents and families;
+
+(iv) develop a Safer Schools and Campuses Best Practices Clearinghouse to enable schools and institutions of higher education to share lessons learned and best practices for operating safely during the pandemic;
+
+(v) provide technical assistance to schools and institutions of higher education so that they can ensure high-quality learning during the pandemic;
+
+(vi) direct the Department of Education’s Assistant Secretary for Civil Rights to deliver a report as soon as practicable on the disparate impacts of COVID–19 on students in elementary, secondary, and higher education, including those attending historically black colleges and universities, Tribal colleges and universities, Hispanic-serving institutions, and other minority-serving institutions;
+
+(vii) coordinate with the Director of the Institute of Education Sciences to facilitate, consistent with applicable law, the collection of data necessary to fully understand the impact of the COVID–19 pandemic on students and educators, including data on the status of in-person learning. These data shall be disaggregated by student demographics, including race, ethnicity, disability, English-language-learner status, and free or reduced lunch status or other appropriate indicators of family income; and
+
+(viii) consult with those who have been struggling for months with the enormous challenges the COVID–19 pandemic poses for education, including students; educators; unions; families; State, local, Tribal, and territorial officials; and members of civil rights and disability rights organizations, in carrying out the directives in this order.
+
+(b) The Secretary of Health and Human Services shall, consistent with applicable law:
+
+(i) facilitate the collection of data needed to inform the safe reopening and continued operation of elementary and secondary schools, child care providers, and Head Start programs, and ensure that such data are readily available to State, local, Tribal, and territorial leaders and the public, consistent with privacy interests, and that such data are disaggregated by race, ethnicity, and other factors as appropriate;
+
+(ii) ensure, in coordination with the Coordinator of the COVID–19 Response and Counselor to the President (COVID–19 Response Coordinator) and other relevant agencies, that COVID–19-related supplies the Secretary administers, including testing materials, are equitably allocated to elementary and secondary schools, child care providers, and Head Start programs to support in-person care and learning;
+
+(iii) to the maximum extent possible, support the development and operation of contact tracing programs at the State, local, Tribal, and territorial level, by providing guidance and technical support to ensure that contact tracing is available to facilitate the reopening and safe operation of elementary and secondary schools, child care providers, Head Start programs, and institutions of higher education;
+
+(iv) provide guidance needed for child care providers and Head Start programs for safely reopening and operating, including procedures for mitigation measures such as cleaning, masking, proper ventilation, and testing, as well as guidance related to meeting the needs of children, families, and staff who have been affected by the COVID–19 pandemic, including trauma-informed care, behavioral and mental health support, and family support, as appropriate; and
+
+(v) provide technical assistance to States, localities, Tribes, and territories to support the accelerated distribution of Federal COVID–19 relief funds to child care providers, and identify strategies to help child care providers safely remain open during the pandemic and beyond while the sector experiences widespread financial disruption due to increased costs and less revenue.
+
+(c) The Secretary of Education and the Secretary of Health and Human Services shall submit a report to the Assistant to the President for Domestic Policy and the COVID–19 Response Coordinator identifying strategies to address the impact of COVID–19 on educational outcomes, especially along racial and socioeconomic lines, and shall share those strategies with State, local, Tribal, and territorial officials. In developing these strategies, the Secretaries shall, as appropriate and consistent with applicable law, consult with such officials, as well as with education experts; educators; unions; civil rights advocates; Tribal education experts; public health experts; child development experts; early educators, including child care providers; Head Start staff; school technology practitioners; foundations; families; students; community advocates; and others.
+
+(d) The Federal Communications Commission is encouraged, consistent with applicable law, to increase connectivity options for students lacking reliable home broadband, so that they can continue to learn if their schools are operating remotely.
+
+Sec. 3. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+J.R. Biden, Jr.
 
 
 <a id="section-247d-1"></a>
@@ -10467,14 +11201,14 @@ Previous extension of term of Presidential Advisory Council on Combating Antibio
 
 Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30, 2017.
 
-#### Delegation of Authority to Re-establish the Presidential Advisory Council on Combating Antibiotic-Resistant Bacteria
+#### Delegation of Authority to Re-Establish the Presidential Advisory Council on Combating Antibiotic-Resistant Bacteria
 Memorandum of President of the United States, Mar. 3, 2020, 85 F.R. 13469, provided:
 
 Memorandum for the Secretary of Health and Human Services
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, it is hereby ordered as follows:
 
-Section 1. Delegation of Re-establishment Authority. The Secretary of Health and Human Services is delegated the authority under section 9(a)(1) of the Federal Advisory Committee Act, as amended (5 U.S.C. App.), to re-establish the Presidential Advisory Council on Combating Antibiotic-Resistant Bacteria (Council). In exercising this authority, the Secretary may direct the Council to perform duties consistent with those assigned to the Council in section 505(b) of Public Law 116–22 [[22 U.S.C. 247d–5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section247d–5&num=0&edition=prelim) note], and may, at the Secretary’s discretion, specify the membership of the Council, consistent with the requirements of the Federal Advisory Committee Act, as amended (5 U.S.C. App.).
+Section 1. Delegation of Re-establishment Authority. The Secretary of Health and Human Services is delegated the authority under section 9(a)(1) of the Federal Advisory Committee Act, as amended (5 U.S.C. App.), to re-establish the Presidential Advisory Council on Combating Antibiotic-Resistant Bacteria (Council). In exercising this authority, the Secretary may direct the Council to perform duties consistent with those assigned to the Council in section 505(b) of Public Law 116–22 [[42 U.S.C. 247d–5](./chapter-6a-public-health-service.md#section-247d-5) note], and may, at the Secretary’s discretion, specify the membership of the Council, consistent with the requirements of the Federal Advisory Committee Act, as amended (5 U.S.C. App.).
 
 Sec. 2. General Provisions. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
 
@@ -10985,6 +11719,12 @@ Pub. L. 108–276, § 8, July 21, 2004, 118 Stat. 863, provided that: “(a) Ens
 
   (B) *Submission* — Not later than 6 months after completing a classified version of the review under subparagraph (A), the Comptroller General shall submit an unclassified version of the review to the congressional committees of jurisdiction.
 
+(6) **Transfers of items** — The Secretary, in coordination with the Secretary of Homeland Security, may sell drugs, vaccines and other biological products, medical devices, or other supplies maintained in the stockpile under paragraph (1) to a Federal agency or private, nonprofit, State, local, tribal, or territorial entity for immediate use and distribution, provided that any such items being sold are—
+
+  (A) within 1 year of their expiration date; or
+
+  (B) determined by the Secretary to no longer be needed in the stockpile due to advances in medical or technical capabilities.
+
 **(b) Smallpox vaccine development**
 
 (1) **In general** — The Secretary shall award contracts, enter into cooperative agreements, or carry out such other activities as may reasonably be required in order to ensure that the stockpile under subsection (a) includes an amount of vaccine against smallpox as determined by such Secretary to be sufficient to meet the health security needs of the United States.
@@ -11254,6 +11994,8 @@ In subsec. (c)(7)(B)(vii), “[section 3306(a)(1)(B) of title 41](https://uscode
 Section was formerly classified to [section 300hh–12 of this title](./chapter-6a-public-health-service.md#section-300hh-12) prior to renumbering by Pub. L. 108–276.
 
 #### Amendments
+2021—Subsec. (a)(6). Pub. L. 117–58 added par. (6).
+
 2020—Subsec. (a)(1). Pub. L. 116–136 inserted “(including personal protective equipment, ancillary medical supplies, and other applicable supplies required for the administration of drugs, vaccines and other biological products, medical devices, and diagnostic tests in the stockpile)” after “other supplies”.
 
 2019—Subsec. (a)(1). Pub. L. 116–22, § 403(a)(2), inserted “the Assistant Secretary for Preparedness and Response and” after “collaboration with”, “and optimize” after “provide for” and “and, as informed by existing recommendations of, or consultations with, the Public Health Emergency Medical Countermeasure Enterprise established under [section 300hh–10a of this title](./chapter-6a-public-health-service.md#section-300hh-10a), make necessary additions or modifications to the contents of such stockpile or stockpiles based on the review conducted under paragraph (2)” after “public health emergency”, and struck out at end “The Secretary shall conduct an annual review (taking into account at-risk individuals) of the contents of the stockpile, including non-pharmaceutical supplies, and make necessary additions or modifications to the contents based on such review and shall submit such review annually to the appropriate congressional committees of jurisdiction to the extent that disclosure of such information does not compromise national security.”
@@ -11417,7 +12159,7 @@ Section 1. Policy. The United States must protect our citizens, critical infrast
 
 I am therefore directing each executive department and agency involved in the procurement of Essential Medicines, Medical Countermeasures, and Critical Inputs (agency) to consider a variety of actions to increase their domestic procurement of Essential Medicines, Medical Countermeasures, and Critical Inputs, and to identify vulnerabilities in our Nation’s supply chains for these products. Under this order, agencies will have the necessary flexibility to increase their domestic procurement in appropriate and responsible ways, while protecting our Nation’s service members, veterans, and their families from increases in drug prices and without interfering with our Nation’s ability to respond to the spread of COVID–19.
 
-Sec. 2. Maximizing Domestic Production in Procurement. (a) Agencies shall, as appropriate, to the maximum extent permitted by applicable law, and in consultation with the Commissioner of Food and Drugs (FDA Commissioner) with respect to Critical Inputs, use their respective authorities under [section 2304(c) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304/c&num=0&edition=prelim), United States Code; [section 3304(a) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section3304/a&num=0&edition=prelim), United States Code; and subpart 6.3 of the Federal Acquisition Regulation, title 48, Code of Federal Regulations, to conduct the procurement of Essential Medicines, Medical Countermeasures, and Critical Inputs by:
+Sec. 2. Maximizing Domestic Production in Procurement. (a) Agencies shall, as appropriate, to the maximum extent permitted by applicable law, and in consultation with the Commissioner of Food and Drugs (FDA Commissioner) with respect to Critical Inputs, use their respective authorities under [section 2304(c) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304/c&num=0&edition=prelim), United States Code [now [10 U.S.C. 3204(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3204/a&num=0&edition=prelim)]; [section 3304(a) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section3304/a&num=0&edition=prelim), United States Code; and subpart 6.3 of the Federal Acquisition Regulation, title 48, Code of Federal Regulations, to conduct the procurement of Essential Medicines, Medical Countermeasures, and Critical Inputs by:
 
 (i) using procedures to limit competition to only those Essential Medicines, Medical Countermeasures, and Critical Inputs that are produced in the United States; and
 
@@ -11437,7 +12179,7 @@ Sec. 2. Maximizing Domestic Production in Procurement. (a) Agencies shall, as ap
 
 (d) No later than 30 days after the FDA Commissioner has identified, pursuant to section 3(c) of this order, the initial list of Essential Medicines, Medical Countermeasures, and Critical Inputs, the United States Trade Representative shall, to the extent permitted by law, take all appropriate action to modify United States Federal procurement product coverage under all relevant Free Trade Agreements and the World Trade Organization Agreement on Government Procurement to exclude coverage of Essential Medicines, Medical Countermeasures, and Critical Inputs. The United States Trade Representative shall further modify United States Federal procurement product coverage, as appropriate, to reflect updates by the FDA Commissioner. After the modifications to United States Federal procurement coverage take effect, the United States Trade Representative shall make any necessary, corresponding modifications of existing waivers under section 301 of the Trade Agreements Act of 1979 [[19 U.S.C. 2511](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2511&num=0&edition=prelim)]. The United States Trade Representative shall notify the President, through the Director of OMB, once it has taken the actions described in this subsection.
 
-(e) No later than 60 days after the FDA Commissioner has identified, pursuant to section 3(c) of this order, the initial list of Essential Medicines, Medical Countermeasures, and Critical Inputs, and notwithstanding the public interest exception in subsection (f)(i)(1) of this section, the Secretary of Defense shall, to the maximum extent permitted by applicable law, use his authority under section 225.872–-1(c) of the Defense Federal Acquisition Regulation Supplement to restrict the procurement of Essential Medicines, Medical Countermeasures, and Critical Inputs to domestic sources and to reject otherwise acceptable offers of such products from sources in Qualifying Countries in instances where considered necessary for national defense reasons.
+(e) No later than 60 days after the FDA Commissioner has identified, pursuant to section 3(c) of this order, the initial list of Essential Medicines, Medical Countermeasures, and Critical Inputs, and notwithstanding the public interest exception in subsection (f)(i)(1) of this section, the Secretary of Defense shall, to the maximum extent permitted by applicable law, use his authority under section 225.872–1(c) of the Defense Federal Acquisition Regulation Supplement to restrict the procurement of Essential Medicines, Medical Countermeasures, and Critical Inputs to domestic sources and to reject otherwise acceptable offers of such products from sources in Qualifying Countries in instances where considered necessary for national defense reasons.
 
 (f) Subsections (a), (d), and (e) of this section shall not apply:
 
@@ -11544,6 +12286,114 @@ Sec. 10. General Provisions. (a) Nothing in this order shall be construed to imp
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Donald J. Trump.
+
+#### Ex. Ord. No. 13962. Ensuring Access to United States Government COVID–19 Vaccines
+Ex. Ord. No. 13962, Dec. 8, 2020, 85 F.R. 79777, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. Purpose. Through unprecedented collaboration across the United States Government, industry, and international partners, the United States expects to soon have safe and effective COVID–19 vaccines available for the American people. To ensure the health and safety of our citizens, to strengthen our economy, and to enhance the security of our Nation, we must ensure that Americans have priority access to COVID–19 vaccines developed in the United States or procured by the United States Government (“United States Government COVID–19 Vaccines”).
+
+Sec. 2. Policy. It is the policy of the United States to ensure Americans have priority access to free, safe, and effective COVID–19 vaccines. After ensuring the ability to meet the vaccination needs of the American people, it is in the interest of the United States to facilitate international access to United States Government COVID–19 Vaccines.
+
+Sec. 3. American Access to COVID–19 Vaccines. (a) The Secretary of Health and Human Services, through Operation Warp Speed and with the support of the Secretary of Defense, shall ensure safe and effective COVID–19 vaccines are available to the American people, coordinating with public and private entities—including State, territorial, and tribal governments, where appropriate—to enable the timely distribution of such vaccines.
+
+(b) The Secretary of Health and Human Services, in consultation with the Secretary of Defense and the heads of other executive departments and agencies (agencies), as appropriate, shall ensure that Americans have priority access to United States Government COVID–19 Vaccines, and shall ensure that the most vulnerable United States populations have first access to such vaccines.
+
+(c) The Secretary of Health and Human Services shall ensure that a sufficient supply of COVID–19 vaccine doses is available for all Americans who choose to be vaccinated in order to safeguard America from COVID–19.
+
+Sec. 4. International Access to United States Government COVID–19 Vaccines. After determining that there exists a sufficient supply of COVID–19 vaccine doses for all Americans who choose to be vaccinated, as required by section 3(b) of this order, the Secretary of Health and Human Services and the Secretary of State, in coordination with the Administrator of the United States Agency for International Development, the Chief Executive Officer of the United States International Development Finance Corporation, the Chairman and President of the Export-Import Bank of the United States, and the heads of other agencies, shall facilitate international access to United States Government COVID–19 Vaccines for allies, partners, and others, as appropriate and consistent with applicable law.
+
+Sec. 5. Coordination of International Access to United States Government COVID–19 Vaccines. Within 30 days of the date of this order [Dec. 8, 2020], the Assistant to the President for National Security Affairs shall coordinate development of an interagency strategy for the implementation of section 4 of this order.
+
+Sec. 6. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
+
+#### Ex. Ord. No. 14001. A Sustainable Public Health Supply Chain
+Ex. Ord. No. 14001, Jan. 21, 2021, 86 F.R. 7219, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Defense Production Act of 1950, as amended ([50 U.S.C. 4501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4501&num=0&edition=prelim) et seq.), sections 319 and 361 of the Public Health Service Act ([42 U.S.C. 247d](./chapter-6a-public-health-service.md#section-247d) and 264), sections 306 and 307 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5149](./chapter-068-disaster-relief.md#section-5149) and 5150), and [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, it is hereby ordered as follows:
+
+Section 1. Purpose. The Federal Government must act urgently and effectively to combat the coronavirus disease 2019 (COVID–19) pandemic. To that end, this order directs immediate actions to secure supplies necessary for responding to the pandemic, so that those supplies are available, and remain available, to the Federal Government and State, local, Tribal, and territorial authorities, as well as to America’s health care workers, health systems, and patients. These supplies are vital to the Nation’s ability to reopen its schools and economy as soon and safely as possible.
+
+Sec. 2. Immediate Inventory of Response Supplies and Identification of Emergency Needs. (a) The Secretary of State, the Secretary of Defense, the Secretary of Health and Human Services, the Secretary of Homeland Security, and the heads of appropriate executive departments and agencies (agencies), in coordination with the COVID–19 Response Coordinator, shall:
+
+(i) immediately review the availability of critical materials, treatments, and supplies needed to combat COVID–19 (pandemic response supplies), including personal protective equipment (PPE) and the resources necessary to effectively produce and distribute tests and vaccines at scale; and
+
+(ii) assess, including by reviewing prior such assessments, whether United States industry can be reasonably expected to provide such supplies in a timely manner.
+
+(b) Where a review and assessment described in section 2(a)(i) of this order identifies shortfalls in the provision of pandemic response supplies, the head of the relevant agency shall:
+
+(i) promptly revise its operational assumptions and planning factors being used to determine the scope and prioritization, acquisition, and distribution of such supplies; and
+
+(ii) take appropriate action using all available legal authorities, including the Defense Production Act, to fill those shortfalls as soon as practicable by acquiring additional stockpiles, improving distribution systems, building market capacity, or expanding the industrial base.
+
+(c) Upon completing the review and assessment described in section 2(a)(i) of this order, the Secretary of Health and Human Services shall provide to the President, through the COVID–19 Response Coordinator, a report on the status and inventory of the Strategic National Stockpile.
+
+(d) The Secretary of State, the Secretary of Defense, the Secretary of Health and Human Services, the Secretary of Homeland Security, and the heads of any other agencies relevant to inventorying pandemic response supplies shall, as soon as practicable, provide to the President, through the COVID–19 Response Coordinator, a report consisting of:
+
+(i) an assessment of the need for, and an inventory of current supplies of, key pandemic response supplies;
+
+(ii) an analysis of their agency’s capacity to produce, provide, and distribute pandemic response supplies;
+
+(iii) an assessment of their agency’s procurement of pandemic response supplies on the availability of such supplies on the open market;
+
+(iv) an account of all existing or ongoing agency actions, contracts, and investment agreements regarding pandemic response supplies;
+
+(v) a list of any gaps between the needs identified in section 2(a)(i) of this order and supply chain delivery, and recommendations on how to close such gaps; and
+
+(vi) a compilation and summary of their agency’s existing distribution and prioritization plans for pandemic response supplies, which shall include any assumptions or planning factors used to determine such needs and any recommendations for changes to such assumptions or factors.
+
+(e) The COVID–19 Response Coordinator, in coordination with the heads of appropriate agencies, shall review the report described in section 2(d) of this order and submit recommendations to the President that address:
+
+(i) whether additional use of the Defense Production Act, by the President or agencies exercising delegated authority under the Act, would be helpful; and
+
+(ii) the extent to which liability risk, regulatory requirements, or other factors impede the development, production, and procurement of pandemic response supplies, and any actions that can be taken, consistent with law, to remove those impediments.
+
+(f) The heads of agencies responsible for completing the requirements of this section, as appropriate and in coordination with the COVID–19 Response Coordinator, shall consult with State, local, Tribal, and territorial authorities, as well as with other entities critical to assessing the availability of and need for pandemic response supplies.
+
+Sec. 3. Pricing. To take steps to address the pricing of pandemic response supplies:
+
+(a) The Secretary of Health and Human Services shall promptly recommend to the President, through the COVID–19 Response Coordinator, whether any changes should be made to the authorities delegated to the Secretary by Executive Order 13910 of March 23, 2020 (Preventing Hoarding of Health and Medical Resources To Respond to the Spread of COVID–19) [[50 U.S.C. 4512](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4512&num=0&edition=prelim) note], with respect to scarce materials or materials the supply of which would be threatened by accumulation for the purpose of hoarding or price gouging.
+
+(b) The Secretary of Defense, the Secretary of Health and Human Services, and the Secretary of Homeland Security shall promptly review and provide to the President, through the COVID–19 Response Coordinator, recommendations for how to address the pricing of pandemic response supplies, including whether and how to direct the use of reasonable pricing clauses in Federal contracts and investment agreements, or other related vehicles, and whether to use General Services Administration Schedules to facilitate State, local, Tribal, and territorial government buyers and compacts in purchasing pandemic response supplies using Federal supply schedules.
+
+Sec. 4. Pandemic Supply Chain Resilience Strategy. Within 180 days of the date of this order [Jan. 21, 2021], the Secretary of Defense, the Secretary of Health and Human Services, and the Secretary of Homeland Security, in coordination with the Assistant to the President for National Security Affairs (APNSA), the Assistant to the President for Domestic Policy, the COVID–19 Response Coordinator, and the heads of any agencies or entities selected by the APNSA and COVID–19 Response Coordinator, shall provide to the President a strategy to design, build, and sustain a long-term capability in the United States to manufacture supplies for future pandemics and biological threats. This strategy shall include:
+
+(a) mechanisms to respond to emergency supply needs of State, local, Tribal, and territorial authorities, which should include standards and processes to prioritize requests and delivery and to ensure equitable distribution based on public health criteria;
+
+(b) an analysis of the role of foreign supply chains in America’s pandemic supply chain, America’s role in the international public health supply chain, and options for strengthening and better coordinating global supply chain systems in future pandemics;
+
+(c) mechanisms to address points of failure in the supply chains and to ensure necessary redundancies;
+
+(d) the roles of the Strategic National Stockpile and other Federal and military stockpiles in providing pandemic supplies on an ongoing or emergency basis, including their roles in allocating supplies across States, localities, tribes, and territories, sustaining supplies during a pandemic, and in contingency planning to ensure adequate preparedness for future pandemics and public health emergencies;
+
+(e) approaches to assess and maximize the value and efficacy of public/private partnerships and the value of Federal investments in latent manufacturing capacity; and
+
+(f) an approach to develop a multi-year implementation plan for domestic production of pandemic supplies.
+
+Sec. 5. Access to Strategic National Stockpile. The Secretary of Health and Human Services shall consult with Tribal authorities and take steps, as appropriate and consistent with applicable law, to facilitate access to the Strategic National Stockpile for federally recognized Tribal governments, Indian Health Service healthcare providers, Tribal health authorities, and Urban Indian Organizations.
+
+Sec. 6. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+J.R. Biden, Jr.
 
 #### Designation and Authorization To Perform Functions Under Section 319F–2 of the Public Health Service Act
 Memorandum of President of the United States, Oct. 21, 2004, 69 F.R. 70349, provided:
@@ -12908,8 +13758,11 @@ The Surgeon General, pursuant to regulations, shall—
 
 Subsec. (e). Act June 25, 1948, § 2(b), added subsec. (e).
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Transfer of Functions
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202).
 
 #### Delegation of Functions
 Functions of President delegated to Secretary of Health and Human Services, see Ex. Ord. No. 11140, Jan. 30, 1964, 29 F.R. 1637, as amended, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202).
@@ -12952,7 +13805,7 @@ Section was enacted as part of the Department of Defense Appropriation Authoriza
 Provisions similar to those comprising this section were contained in Pub. L. 92–585, § 3, Oct. 27, 1972, 86 Stat. 1292, setting out procedure to be followed in closing or transferring control of hospitals or other health care delivery facilities of Public Health Service, prior to repeal by Pub. L. 93–155, § 818(c).
 
 #### Change of Name
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (a) pursuant to section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (a) pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
 
 <a id="section-248b"></a>
@@ -13044,13 +13897,11 @@ Subsecs. (d), (e). Pub. L. 97–35, § 986(b)(2), redesignated subsecs. (d) and 
 
 1948—Subsec. (e). Act June 25, 1948, permitted Service to provide for care and treatment of individuals detained in accordance with our quarantine laws.
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Effective Date of 1981 Amendment
 Pub. L. 97–35, title IX, § 986(c), Aug. 13, 1981, 95 Stat. 603, provided that: “The amendments and repeals made by this section [amending this section and sections 201 and 254e of this title] shall take effect on October 1, 1981.”
-
-#### Transfer of Functions
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
-
-Functions of all other officers of Department of Justice and functions of all agencies and employees of such Department transferred, with a few exceptions, to Attorney General, with power vested in him to authorize their performance or the performance of any of his functions by any of such officers, agencies, and employees, by sections 1 and 2 of Reorg. Plan No. 2 of 1950, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, which were repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 662. Immigration and Naturalization Service, referred to in this section, was a bureau in Department of Justice.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under [section 1551 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1551&num=0&edition=prelim), Aliens and Nationality.
@@ -13060,6 +13911,11 @@ Pub. L. 97–35, title IX, § 988, Aug. 13, 1981, 95 Stat. 604, provided that: �
 
 #### Foreign Seamen
 Section 810(c), formerly § 710(c), of act July 1, 1944, as renumbered by acts Aug. 13, 1946, ch. 958, § 5, 60 Stat. 1049; July 30, 1956, ch. 779, § 3(b), 70 Stat. 721, which gave foreign seamen the same benefits as accorded seamen employed on United States vessels under subsec. (a)(1) of this section, was repealed effective Jan. 25, 1948, by Joint Res. July 25, 1947, ch. 327, § 2(b), 61 Stat. 451.
+
+#### Transfer of Functions
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202).
+
+Functions of all other officers of Department of Justice and functions of all agencies and employees of such Department transferred, with a few exceptions, to Attorney General, with power vested in him to authorize their performance or the performance of any of his functions by any of such officers, agencies, and employees, by sections 1 and 2 of Reorg. Plan No. 2 of 1950, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, which were repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 662. Immigration and Naturalization Service, referred to in this section, was a bureau in Department of Justice.
 
 
 <a id="section-250"></a>
@@ -13072,8 +13928,11 @@ The Service shall supervise and furnish medical treatment and other necessary me
 #### Codification
 “[Section 4005 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section4005&num=0&edition=prelim)” substituted in text for “the Act of May 13, 1930, as amended (U.S.C., 1940 edition, title 18, secs. 751, 752)” on authority of act June 25, 1948, ch. 645, 62 Stat. 684, the first section of which enacted Title 18, Crimes and Criminal Procedure.
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Transfer of Functions
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202).
 
 
 <a id="section-250a"></a>
@@ -13249,6 +14108,9 @@ In subsec. (a), “subchapter I of chapter 81 of title 5” substituted for “U
 
 Subsec. (b). Pub. L. 90–174, § 10(b), added subsec. (b).
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (b) pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–426 effective Sept. 28, 1984, see section 28(e)(1) of Pub. L. 98–426, set out as a note under [section 901 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section901&num=0&edition=prelim), Navigation and Navigable Waters.
 
@@ -13258,7 +14120,7 @@ Amendment by Pub. L. 97–468 effective on date of transfer of Alaska Railroad t
 #### Transfer of Functions
 “Director of the Office of Personnel Management” substituted for “Civil Service Commission” in subsec. (a)(2), pursuant to Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under [section 1101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1101&num=0&edition=prelim), Government Organization and Employees, which transferred all functions vested by statute in United States Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under [section 1101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1101&num=0&edition=prelim).
 
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202).
 
 
 <a id="section-252"></a>
@@ -13268,13 +14130,16 @@ The Surgeon General shall provide for making, at places within the United States
 
 ### Statutory Notes
 
-#### Transfer of Functions
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
-
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim).
+#### Change of Name
+“Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under [section 1551 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1551&num=0&edition=prelim), Aliens and Nationality.
+
+#### Transfer of Functions
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
+
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
 
 <a id="section-253"></a>
@@ -13314,9 +14179,9 @@ Subsec. (c). Pub. L. 88–71, § 2(b), inserted “or Coast and Geodetic Survey�
 1956—Subsec. (b). Act June 7, 1956, repealed subsec. (b) except insofar as it related to dependent members of families of ships’ officers and members of crews of vessels of Coast and Geodetic Survey.
 
 #### Change of Name
-Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 402(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402/c/3&num=0&edition=prelim).
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 204(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section204/c/3&num=0&edition=prelim).
 
-Coast and Geodetic Survey consolidated with Weather Bureau to form a new agency in Department of Commerce to be known as Environmental Science Services Administration, and commissioned officers of Survey transferred to ESSA, by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out in the Appendix to Title 5, Government Organization and Employees. Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, abolished Environmental Science Services Administration, established National Oceanic and Atmospheric Administration, and redesignated Commissioned Officer Corps of ESSA as Commissioned Officer Corps of NOAA. For further details, see Transfer of Functions note set out under [section 851 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section851&num=0&edition=prelim), Navigation and Navigable Waters.
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (b) pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
 #### Effective Date of 1956 Amendment
 Amendment by act June 7, 1956, effective six months after June 7, 1956, see section 307 of act June 7, 1956.
@@ -13324,7 +14189,11 @@ Amendment by act June 7, 1956, effective six months after June 7, 1956, see sect
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+#### Change of Name
+Coast and Geodetic Survey consolidated with Weather Bureau to form a new agency in Department of Commerce to be known as Environmental Science Services Administration, and commissioned officers of Survey transferred to ESSA, by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out in the Appendix to Title 5, Government Organization and Employees. Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, abolished Environmental Science Services Administration, established National Oceanic and Atmospheric Administration, and redesignated Commissioned Officer Corps of ESSA as Commissioned Officer Corps of NOAA. For further details, see Transfer of Functions note set out under [section 851 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section851&num=0&edition=prelim), Navigation and Navigable Waters.
+
+#### Transfer of Functions
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202).
 
 
 <a id="section-253a"></a>
@@ -13346,10 +14215,13 @@ Section was not enacted as part of the Public Health Service Act which comprises
 Subsec. (b). Pub. L. 98–498, § 310(c), struck out “at its hospitals and relief stations” before “and, if suitable accommodations” and substituted “by the Public Health Service if” for “at hospitals of the Public Health Service: Provided, That”.
 
 #### Change of Name
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
+#### Change of Name
 Coast and Geodetic Survey consolidated with Weather Bureau to form a new agency in Department of Commerce to be known as Environmental Science Services Administration, and commissioned officers of Survey transferred to ESSA, by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out in the Appendix to Title 5, Government Organization and Employees. Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, abolished Environmental Science Services Administration, established National Oceanic and Atmospheric Administration, and redesignated Commissioned Officer Corps of ESSA as Commissioned Officer Corps of NOAA. For further details, see Transfer of Functions note set out under [section 851 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section851&num=0&edition=prelim), Navigation and Navigable Waters.
 
 #### Transfer of Functions
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202).
 
 #### Ex. Ord. No. 11160. Regulations Relating to Medical Care for Retired Personnel of Coast and Geodetic Survey [Now National Oceanic and Atmospheric Administration] and Their Dependents
 Ex. Ord. No. 11160, July 6, 1964, 29 F.R. 9315, provided:
@@ -13436,10 +14308,13 @@ Nothing contained in this part shall affect the authority of the Service to furn
 #### Codification
 “Sections 1535 and 1536 of title 31” substituted in text for “section 7 of the Act of May 21, 1920, as amended (U.S.C., 1940 edition, title 31, sec. 686)” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
-#### Transfer of Functions
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+#### Change of Name
+“Department of Health and Human Services” substituted in text for “Department of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim).
+#### Transfer of Functions
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202).
+
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
 
 <a id="section-254a"></a>
@@ -14269,6 +15144,9 @@ Pub. L. 104–299, § 3(b), Oct. 11, 1996, 110 Stat. 3644, provided that: “The
 #### Negotiated Rulemaking for Development of Methodology and Criteria for Designating Medically Underserved Populations and Health Professions Shortage Areas
 Pub. L. 111–148, title V, § 5602, Mar. 23, 2010, 124 Stat. 677, provided that: “(a) Establishment.—“(1) In general.—The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall establish, through a negotiated rulemaking process under subchapter 3 [III] of chapter 5 of title 5, United States Code, a comprehensive methodology and criteria for designation of—“(A) medically underserved populations in accordance with section 330(b)(3) of the Public Health Service Act ([42 U.S.C. 254b(b)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section254b/b/3&num=0&edition=prelim)); “(B) health professions shortage areas under section 332 of the Public Health Service Act ([42 U.S.C. 254e](./chapter-6a-public-health-service.md#section-254e)). “(2) Factors to consider.—In establishing the methodology and criteria under paragraph (1), the Secretary—“(A) shall consult with relevant stakeholders who will be significantly affected by a rule (such as national, State and regional organizations representing affected entities), State health offices, community organizations, health centers and other affected entities, and other interested parties; and “(B) shall take into account—“(i) the timely availability and appropriateness of data used to determine a designation to potential applicants for such designations; “(ii) the impact of the methodology and criteria on communities of various types and on health centers and other safety net providers; “(iii) the degree of ease or difficulty that will face potential applicants for such designations in securing the necessary data; and “(iv) the extent to which the methodology accurately measures various barriers that confront individuals and population groups in seeking health care services. “(b) Publication of Notice.—In carrying out the rulemaking process under this subsection, the Secretary shall publish the notice provided for under [section 564(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section564/a&num=0&edition=prelim), United States Code, by not later than 45 days after the date of the enactment of this Act [Mar. 23, 2010]. “(c) Target Date for Publication of Rule.—As part of the notice under subsection (b), and for purposes of this subsection, the ‘target date for publication’, as referred to in [section 564(a)(5) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section564/a/5&num=0&edition=prelim), United Sates [sic] Code, shall be July 1, 2010. “(d) Appointment of Negotiated Rulemaking Committee and Facilitator.—The Secretary shall provide for—“(1) the appointment of a negotiated rulemaking committee under [section 565(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section565/a&num=0&edition=prelim), United States Code, by not later than 30 days after the end of the comment period provided for under section 564(c) of such title; and “(2) the nomination of a facilitator under section 566(c) of such title 5 by not later than 10 days after the date of appointment of the committee. “(e) Preliminary Committee Report.—The negotiated rulemaking committee appointed under subsection (d) shall report to the Secretary, by not later than April 1, 2010, regarding the committee’s progress on achieving a consensus with regard to the rulemaking proceeding and whether such consensus is likely to occur before one month before the target date for publication of the rule. If the committee reports that the committee has failed to make significant progress toward such consensus or is unlikely to reach such consensus by the target date, the Secretary may terminate such process and provide for the publication of a rule under this section through such other methods as the Secretary may provide. “(f) Final Committee Report.—If the committee is not terminated under subsection (e), the rulemaking committee shall submit a report containing a proposed rule by not later than one month before the target publication date. “(g) Interim Final Effect.—The Secretary shall publish a rule under this section in the Federal Register by not later than the target publication date. Such rule shall be effective and final immediately on an interim basis, but is subject to change and revision after public notice and opportunity for a period (of not less than 90 days) for public comment. In connection with such rule, the Secretary shall specify the process for the timely review and approval of applications for such designations pursuant to such rules and consistent with this section. “(h) Publication of Rule After Public Comment.—The Secretary shall provide for consideration of such comments and republication of such rule by not later than 1 year after the target publication date.”
 
+#### Funding for Community Health Centers and Community Care
+Pub. L. 117–2, title II, § 2601, Mar. 11, 2021, 135 Stat. 43, provided that: “(a) In General.—In addition to amounts otherwise available, there is appropriated to the Secretary of Health and Human Services (in this subtitle [Subtitle G (§§ 2601–2605 of title II of Pub. L 117–2, see Tables for classification] referred to as the ‘Secretary’) for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $7,600,000,000, to remain available until expended, for necessary expenses for awarding grants and cooperative agreements under section 330 of the Public Health Service Act ([42 U.S.C. 254b](./chapter-6a-public-health-service.md#section-254b)) to be awarded without regard to the time limitation in subsection (e)(3) and subsections (e)(6)(A)(iii), (e)(6)(B)(iii), and (r)(2)(B) of such section 330 , and for necessary expenses for awarding grants to Federally qualified health centers, as described in section 1861(aa)(4)(B) of the Social Security Act ([42 U.S.C. 1395x(aa)(4)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/aa/4/B&num=0&edition=prelim)), and for awarding grants or contracts to Papa Ola Lokahi and to qualified entities under sections 4 and 6 of the Native Hawaiian Health Care Improvement Act ([42 U.S.C. 11703](./chapter-122-native-hawaiian-health-care.md#section-11703), 11705). Of the total amount appropriated by the preceding sentence, not less than $20,000,000 shall be for grants or contracts to Papa Ola Lokahi and to qualified entities under sections 4 and 6 of the Native Hawaiian Health Care Improvement Act ([42 U.S.C. 11703](./chapter-122-native-hawaiian-health-care.md#section-11703), 11705). “(b) Use of Funds.—Amounts made available to an awardee pursuant to subsection (a) shall be used—“(1) to plan, prepare for, promote, distribute, administer, and track COVID–19 vaccines, and to carry out other vaccine-related activities; “(2) to detect, diagnose, trace, and monitor COVID–19 infections and related activities necessary to mitigate the spread of COVID–19, including activities related to, and equipment or supplies purchased for, testing, contact tracing, surveillance, mitigation, and treatment of COVID–19; “(3) to purchase equipment and supplies to conduct mobile testing or vaccinations for COVID–19, to purchase and maintain mobile vehicles and equipment to conduct such testing or vaccinations, and to hire and train laboratory personnel and other staff to conduct such mobile testing or vaccinations, particularly in medically underserved areas; “(4) to establish, expand, and sustain the health care workforce to prevent, prepare for, and respond to COVID–19, and to carry out other health workforce-related activities; “(5) to modify, enhance, and expand health care services and infrastructure; and “(6) to conduct community outreach and education activities related to COVID–19. “(c) Past Expenditures.—An awardee may use amounts awarded pursuant to subsection (a) to cover the costs of the awardee carrying out any of the activities described in subsection (b) during the period beginning on the date of the declaration of a public health emergency by the Secretary under section 319 of the Public Health Service Act ([42 U.S.C. 247d](./chapter-6a-public-health-service.md#section-247d)) on January 31, 2020, with respect to COVID–19 and ending on the date of such award.”
+
 #### Studies Relating to Community Health Centers
 Pub. L. 110–355, § 2(b)(1)–(3), Oct. 8, 2008, 122 Stat. 3988, 3989, provided that: “(1) Definitions.—For purposes of this subsection—“(A) the term ‘community health center’ means a health center receiving assistance under section 330 of the Public Health Service Act ([42 U.S.C. 254b](./chapter-6a-public-health-service.md#section-254b)); and “(B) the term ‘medically underserved population’ has the meaning given that term in such section 330. “(2) School-based health center study.—“(A) In general.—Not later than 2 years after the date of enactment of this Act [Oct. 8, 2008], the Comptroller General of the United States shall issue a study of the economic costs and benefits of school-based health centers and the impact on the health of students of these centers. “(B) Content.—In conducting the study under subparagraph (A), the Comptroller General of the United States shall analyze—“(i) the impact that Federal funding could have on the operation of school-based health centers; “(ii) any cost savings to other Federal programs derived from providing health services in school-based health centers; “(iii) the effect on the Federal Budget and the health of students of providing Federal funds to school-based health centers and clinics, including the result of providing disease prevention and nutrition information; “(iv) the impact of access to health care from school-based health centers in rural or underserved areas; and “(v) other sources of Federal funding for school-based health centers. “(3) Health care quality study.—“(A) In general.—Not later than 1 year after the date of enactment of this Act [Oct. 8, 2008], the Secretary of Health and Human Services (referred to in this Act [see Short Title of 2008 Amendment note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201)] as the ‘Secretary’), acting through the Administrator of the Health Resources and Services Administration, and in collaboration with the Agency for Healthcare Research and Quality, shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that describes agency efforts to expand and accelerate quality improvement activities in community health centers. “(B) Content.—The report under subparagraph (A) shall focus on—“(i) Federal efforts, as of the date of enactment of this Act, regarding health care quality in community health centers, including quality data collection, analysis, and reporting requirements; “(ii) identification of effective models for quality improvement in community health centers, which may include models that—“(I) incorporate care coordination, disease management, and other services demonstrated to improve care; “(II) are designed to address multiple, co-occurring diseases and conditions; “(III) improve access to providers through non-traditional means, such as the use of remote monitoring equipment; “(IV) target various medically underserved populations, including uninsured patient populations; “(V) increase access to specialty care, including referrals and diagnostic testing; and “(VI) enhance the use of electronic health records to improve quality; “(iii) efforts to determine how effective quality improvement models may be adapted for implementation by community health centers that vary by size, budget, staffing, services offered, populations served, and other characteristics determined appropriate by the Secretary; “(iv) types of technical assistance and resources provided to community health centers that may facilitate the implementation of quality improvement interventions; “(v) proposed or adopted methodologies for community health center evaluations of quality improvement interventions, including any development of new measures that are tailored to safety-net, community-based providers; “(vi) successful strategies for sustaining quality improvement interventions in the long-term; and “(vii) partnerships with other Federal agencies and private organizations or networks as appropriate, to enhance health care quality in community health centers. “(C) Dissemination.—The Administrator of the Health Resources and Services Administration shall establish a formal mechanism or mechanisms for the ongoing dissemination of agency initiatives, best practices, and other information that may assist health care quality improvement efforts in community health centers.”
 
@@ -15082,7 +15960,7 @@ Section was enacted as part of the Lupus Research and Care Amendments of 2000, a
 
 Subsec. (d)(1)(A). Pub. L. 116–136, § 3212(1)(A)(ii), substituted “access to, and the quality of,” for “the quality of” and inserted “and” after semicolon.
 
-Subsec. (d)(1)(B). Pub. L. 116–136, § 3212(1)(A)(iii)–(v), redesignated subpar. (C) as (B), substituted “, patients, and their families” for “and patients and their families, for decisionmaking”, and struck out former subpar. (B) which read as follows: “improve and expand the training of health care providers; and”.
+Subsec. (d)(1)(B), (C). Pub. L. 116–136, § 3212(1)(A)(iii)–(v), redesignated subpar. (C) as (B), substituted “, patients, and their families” for “and patients and their families, for decisionmaking”, and struck out former subpar. (B) which read as follows: “improve and expand the training of health care providers; and”.
 
 Subsec. (d)(2). Pub. L. 116–136, § 3212(1)(B), substituted “support initiatives that utilize telehealth technologies” for “demonstrate how telehealth technologies can be used” and struck out “, to establish telehealth resource centers” before period at end.
 
@@ -15856,7 +16734,7 @@ Pub. L. 108–7, div. F, title II, Feb. 20, 2003, 117 Stat. 261, provided in par
 #### References in Text
 The effective date of this section, referred to in subsec. (a)(2), is the date of enactment of Pub. L. 106–310, which was approved Oct. 17, 2000.
 
-The Social Security Act, referred to in subsecs. (b)(1) and (c), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title V of the Act is classified generally to subchapter V (§ 701 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Act, referred to in subsecs. (b)(1) and (c)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title V of the Act is classified generally to subchapter V (§ 701 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 #### Amendments
 2020—Subsec. (a)(1). Pub. L. 116–136, § 3225(1)(A), struck out “, during fiscal year 2001 and subsequent years,” after “and may”.
@@ -15869,7 +16747,7 @@ Subsec. (b)(2)(A). Pub. L. 116–136, § 3225(2)(B)(i), substituted “including
 
 Subsec. (b)(2)(B). Pub. L. 116–136, § 3225(2)(B)(iii), added subpar. (B). Former subpar. (B) redesignated (C).
 
-Subsec. (b)(2)(C). Pub. L. 116–136, § 3225(2)(B)(iv), added cl. (i), redesignated former cls. (i) and (ii) as (ii) and (iii), respectively, and added cl. (iv).
+Subsec. (b)(2)(C). Pub. L. 116–136, § 3225(2)(B)(iv), added cl. (i) and (iv) and redesignated former cls. (i) and (ii) as (ii) and (iii), respectively.
 
 Pub. L. 116–136, § 3225(2)(B)(ii), redesignated subpar. (B) as (C).
 
@@ -16116,19 +16994,19 @@ Subsec. (g). Pub. L. 97–35, § 2701(e), substituted provisions relating to con
 Subsec. (h). Pub. L. 97–35, § 2701(f), in par. (1) substituted “Health and Human Services” for “Health, Education, and Welfare”, in par. (2) substituted “254l” for “294t”, and in par. (3) inserted reference to Commonwealth with respect to the Northern Mariana Islands.
 
 #### Change of Name
-Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 402(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402/c/3&num=0&edition=prelim).
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 204(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section204/c/3&num=0&edition=prelim).
 
 #### Effective Date of 1990 Amendment
 Pub. L. 101–597, title V, § 501, Nov. 16, 1990, 104 Stat. 3036, provided that: “This Act and the amendments made by this Act [enacting sections 254f–1, 254o–1, and 254r of this title, amending this section, sections 242a, 254e to 254i, 254k, 254l to 254q–1, 254s, 294h, 294n, 294aa, 295g–1, 296m, 1320c–5, 1395l, 1395u, 1395x, 3505d, and 9840 of this title, and [section 2123 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2123&num=0&edition=prelim), Armed Forces, and enacting provisions set out as notes under sections 201, 254l–1, and 254o of this title] shall take effect October 1, 1990, or upon the date of the enactment of this Act [Nov. 16, 1990], whichever occurs later.”
-
-#### Termination of Trust Territory of the Pacific Islands
-For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
 
 #### Special Report on Present and Future Direction of National Health Service Corps; Submission to Congress Not Later Than February 1, 1979
 Pub. L. 95–626, title I, § 116(c), Nov. 10, 1978, 92 Stat. 3569, directed Secretary, not later than Feb. 1, 1979, in consultation with National Advisory Council of National Health Service Corps and National Advisory Council on Health Professions Education, to submit to Congress a report on the direction of the National Health Service Corps, particularly its role as a health manpower program and as a health services delivery program, the use of members of the Corps in health manpower shortage areas to meet urban and rural health needs, the types of health professions needed to meet urban and rural health needs, and the projected size, composition, and use of the Corps through 1985.
 
 #### Effective Date; Other Provisions: Health Manpower Shortage Area; Approval of Applications for Assignment of Corps Personnel; Assignment Period, Commencement; Credit for Months of Prior Health Care and Services for Additional Pay Benefit; National Advisory Council on the National Health Service Corps, Continuation of Council and Appointment of Members
 Pub. L. 94–484, title IV, § 407(c), Oct. 12, 1976, 90 Stat. 2278, provided that: “(1) The amendment made by subsections (a) and (b) [enacting this subpart and repealing [section 254b of this title](./chapter-6a-public-health-service.md#section-254b)] shall apply only with respect to fiscal years beginning after September 30, 1977, except that the Secretary of Health, Education, and Welfare [now Health and Human Services] shall carry out the activities described in section 332 of the Public Health Service Act (as added by such amendment) [[42 U.S.C. 254e](./chapter-6a-public-health-service.md#section-254e)] after the date of enactment of this Act [Oct. 12, 1976]. “(2)(A) Any area for which a designation under section 329(b) of the Public Health Service Act (as in effect on September 30, 1977) [former [42 U.S.C. 254b(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section254b/b&num=0&edition=prelim)] was in effect on such date and in which National Health Service Corps personnel were, on such date, providing, under an assignment made under such section (as so in effect), health care and services for persons residing in such area shall, effective October 1, 1977, be considered under subpart II of part C of title III of such Act (as added by subsection (b) of this section) [[42 U.S.C. 254d](./chapter-6a-public-health-service.md#section-254d) et seq.] to (i) be designated a health manpower shortage area (as defined by section 332 of such Act (as so added)) [[42 U.S.C. 254e](./chapter-6a-public-health-service.md#section-254e)], and (ii) have had an application approved under section 333 of such Act (as so added)) [[42 U.S.C. 254f](./chapter-6a-public-health-service.md#section-254f)] for the assignment of Corps personnel unless, as determined under subparagraph (B) of this paragraph, the assignment period applicable to such area (within the meaning of section 334 (as so added)) [former [42 U.S.C. 254g](./chapter-6a-public-health-service.md#section-254g)] has expired. “(B) The assignment period (within the meaning of such section 334) [former [42 U.S.C. 254g](./chapter-6a-public-health-service.md#section-254g)] applicable to an area described in subparagraph (A) of this paragraph shall be considered to have begun on the date Corps personnel were first assigned to such area under section 329 of such Act (as in effect on September 30, 1977) [former [42 U.S.C. 254b](./chapter-6a-public-health-service.md#section-254b)]. “(C) In the case of any physician or dentist member of the Corps who was providing health care and services on September 30, 1977, under an assignment made under section 329(b) of such Act (as in effect on September 30, 1977) [former [42 U.S.C. 254b(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section254b/b&num=0&edition=prelim)], the number of the months during which such member provided such care and services before October 1, 1977, shall be counted in determining the application of the additional pay provisions of section 331(d) of such Act (as added by subsection (b) of this section) [[42 U.S.C. 254d(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section254d/d&num=0&edition=prelim)] to such number. “(3) The amendment made by subsection (b) which established an Advisory Council previously established under section 329 of the Public Health Service Act [former [42 U.S.C. 254b](./chapter-6a-public-health-service.md#section-254b)] shall not be construed as requiring the establishment of a new Advisory Council under such section 337 [[42 U.S.C. 254j](./chapter-6a-public-health-service.md#section-254j)], and the amendment made by such subsection with respect to the composition of such Advisory Council shall apply with respect to appointments made to the Advisory Council after October 1, 1977, and the Secretary of Health, Education, and Welfare [now Health and Human Services] shall make appointments to the Advisory Council after such date in a manner which will bring about, at the earliest feasible time, the Advisory Council composition prescribed by the amendment.”
+
+#### Termination of Trust Territory of the Pacific Islands
+For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
 
 
 <a id="section-254e"></a>
@@ -17102,7 +17980,7 @@ Subsec. (i). Pub. L. 95–623 substituted March 1 for December 1 as the date for
 1977—Subsec. (d)(2). Pub. L. 95–215 substituted provisions relating to the school years beginning in calendar years 1978 and 1979 for provisions relating to the school year ending in the fiscal year beginning Oct. 1, 1977.
 
 #### Change of Name
-Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 402(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402/c/3&num=0&edition=prelim).
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 204(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section204/c/3&num=0&edition=prelim).
 
 #### Effective Date of 2003 Amendment
 Amendment by Pub. L. 108–163 deemed to have taken effect immediately after the enactment of Pub. L. 107–251, see section 3 of Pub. L. 108–163, set out as a note under [section 233 of this title](./chapter-6a-public-health-service.md#section-233).
@@ -17359,7 +18237,7 @@ Pub. L. 101–597, § 202(h), amended subsec. (i) generally. Prior to amendment,
 1988—Subsec. (b)(1). Pub. L. 100–607 substituted “osteopathic medicine” for “osteopathy” wherever appearing.
 
 #### Change of Name
-Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 402(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402/c/3&num=0&edition=prelim).
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 204(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section204/c/3&num=0&edition=prelim).
 
 #### Effective Date of 2003 Amendment
 Amendment by Pub. L. 108–163 deemed to have taken effect immediately after the enactment of Pub. L. 107–251, see section 3 of Pub. L. 108–163, set out as a note under [section 233 of this title](./chapter-6a-public-health-service.md#section-233).
@@ -17488,7 +18366,7 @@ Subsec. (b)(5)(B). Pub. L. 96–76, § 202(b)(3), substituted “referred to in 
 1978—Subsec. (d). Pub. L. 95–626 substituted “subpart II of part D” for “subpart II of part C”.
 
 #### Change of Name
-Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 402(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402/c/3&num=0&edition=prelim).
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 204(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section204/c/3&num=0&edition=prelim).
 
 #### Effective Date of 1981 Amendment
 Pub. L. 97–35, title XXVII, § 2709(h), Aug. 13, 1981, 95 Stat. 912, provided that: “The amendments made by paragraphs (2), (3), and (5)(B) of subsection (c) [amending this section] shall apply with respect to contracts entered into under the National Health Service Corps scholarship program under subpart III of part C of title VII of the Public Health Service Act [[42 U.S.C. 294r](./chapter-6a-public-health-service.md#section-294r) et seq.] after the date of the enactment of this Act [Aug. 13, 1981]. An individual who before such date has entered into such a contract and who has not begun the period of obligated service required under such contract shall be given the opportunity to revise such contract to permit the individual to serve such period as a member of the National Health Service Corps who is not an employee of the United States.”
@@ -19726,6 +20604,9 @@ Pub. L. 115–63 substituted “2015, $60,000,000” for “2015 and $60,000,000
 
 2015—Subsec. (g). Pub. L. 114–10 inserted “and $60,000,000 for each of fiscal years 2016 and 2017” before period at end.
 
+#### Funding for Teaching Health Centers That Operate Graduate Medical Education
+Pub. L. 117–2, title II, § 2604, Mar. 11, 2021, 135 Stat. 44, provided that: “(a) In General.—In addition to amounts otherwise available, and notwithstanding the capped amount referenced in sections 340H(b)(2) and 340H(d)(2) of the Public Health Service Act ([42 U.S.C. 256h(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section256h/b/2&num=0&edition=prelim) and (d)(2)), there is appropriated to the Secretary [of Health and Human Services] for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $330,000,000, to remain available until September 30, 2023, for the program of payments to teaching health centers that operate graduate medical education under section 340H of the Public Health Service Act ([42 U.S.C. 256h](./chapter-6a-public-health-service.md#section-256h)) and for teaching health center development grants authorized under section 749A of the Public Health Service Act ([42 U.S.C. 293l–1](./chapter-6a-public-health-service.md#section-293l-1)). “(b) Use of Funds.—Amounts made available pursuant to subsection (a) shall be used for the following activities:“(1) For making payments to establish new approved graduate medical residency training programs pursuant to section 340H(a)(1)(C) of the Public Health Service Act ([42 U.S.C. 256h(a)(1)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section256h/a/1/C&num=0&edition=prelim)). “(2) To provide an increase to the per resident amount described in section 340H(a)(2) of the Public Health Service Act ([42 U.S.C. 256h(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section256h/a/2&num=0&edition=prelim)) of $10,000. “(3) For making payments under section 340H(a)(1)(A) of the Public Health Service Act ([42 U.S.C. 256h(a)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section256h/a/1/A&num=0&edition=prelim))) to qualified teaching health centers for maintenance of filled positions at existing approved graduate medical residency training programs. “(4) For making payments under section 340H(a)(1)(B) of the Public Health Service Act ([42 U.S.C. 256h(a)(1)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section256h/a/1/B&num=0&edition=prelim)) for the expansion of existing approved graduate medical residency training programs. “(5) For making awards under section 749A of the Public Health Service Act ([42 U.S.C. 293l–1](./chapter-6a-public-health-service.md#section-293l-1)) to teaching health centers for the purpose of establishing new accredited or expanded primary care residency programs. “(6) To cover administrative costs and activities necessary for qualified teaching health centers receiving payments under section 340H of the Public Health Service Act ([42 U.S.C. 256h](./chapter-6a-public-health-service.md#section-256h)) to carry out activities under such section.”
+
 #### Payments for Previous Fiscal Years
 Pub. L. 115–123, div. E, title IX, § 50901(d)(7), Feb. 9, 2018, 132 Stat. 289, provided that: “The provisions of section 340H of the Public Health Service Act ([42 U.S.C. 256h](./chapter-6a-public-health-service.md#section-256h)), as in effect on the day before the date of enactment of Public Law 115–96 [Dec. 22, 2017], shall continue to apply with respect to payments under such section for fiscal years before fiscal year 2018.”
 
@@ -20311,6 +21192,9 @@ Subsec. (h). Pub. L. 99–660, § 105(a), added subsec. (h).
 
 1958—Subsec. (d). Pub. L. 85–881 struck out “made jointly by the Surgeon General, the Surgeon General of the Army, and the Surgeon General of the Navy, and approved by the Secretary” after “regulations” in first sentence.
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsecs. (a), (c), (d), (h), and (k) to (n), and “Department of Health and Human Services” substituted for “Department of Health, Education, and Welfare” in subsec. (c), pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Effective Date of 2007 Amendment
 Amendment by Pub. L. 110–85 effective 180 days after Sept. 27, 2007, see section 909 of Pub. L. 110–85, set out as a note under [section 331 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section331&num=0&edition=prelim), Food and Drugs.
 
@@ -20324,11 +21208,6 @@ Amendment by Pub. L. 105–115 effective 90 days after Nov. 21, 1997, except as 
 Pub. L. 99–660, title I, § 105(b), Nov. 14, 1986, 100 Stat. 3752, provided that: “Paragraph (1) of section 351(h) of the Public Health Service Act [former [42 U.S.C. 262(h)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/h/1&num=0&edition=prelim)] as added by subsection (a) shall take effect upon the expiration of 90 days after the date of the enactment of this Act [Nov. 14, 1986].”
 
 Amendment by section 315 of Pub. L. 99–660 effective Dec. 22, 1987, see section 323 of Pub. L. 99–660, as amended, set out as an Effective Date note under [section 300aa–1 of this title](./chapter-6a-public-health-service.md#section-300aa-1).
-
-#### Transfer of Functions
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
-
-References to Secretary and Department of Health, Education, and Welfare substituted for references to Federal Security Administrator and Federal Security Agency, respectively, pursuant to Reorg. Plan No. 1 of 1953, § 5, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501), which transferred all functions of Federal Security Administrator to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency to Department of Health, Education, and Welfare. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim).
 
 #### Products Previously Approved Under the Federal Food, Drug, and Cosmetic Act
 Pub. L. 111–148, title VII, § 7002(e), Mar. 23, 2010, 124 Stat. 817, as amended by Pub. L. 116–94, div. N, title I, § 607, Dec. 20, 2019, 133 Stat. 3127, provided that: “(1) Requirement to follow section 351.—Except as provided in paragraph (2), an application for a biological product shall be submitted under section 351 of the Public Health Service Act ([42 U.S.C. 262](./chapter-6a-public-health-service.md#section-262)) (as amended by this Act). “(2) Exception.—An application for a biological product may be submitted under section 505 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355&num=0&edition=prelim)) if—“(A) such biological product is in a product class for which a biological product in such product class is the subject of an application approved under such section 505 not later than the date of enactment of this Act [Mar. 23, 2010]; and “(B) such application—“(i) has been submitted to the Secretary of Health and Human Services (referred to in this subtitle [subtitle A (§§ 7001–7003) of title VII of Pub. L. 111–148, see Short Title of 2010 Amendment note under [section 201 of this title](./chapter-6a-public-health-service.md#section-201)] as the ‘Secretary’) before the date of enactment of this Act; or “(ii) is submitted to the Secretary not later than the date that is 10 years after the date of enactment of this Act. “(3) Limitation.—Notwithstanding paragraph (2), an application for a biological product may not be submitted under section 505 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355&num=0&edition=prelim)) if there is another biological product approved under subsection (a) of section 351 of the Public Health Service Act [[42 U.S.C. 262](./chapter-6a-public-health-service.md#section-262)] that could be a reference product with respect to such application (within the meaning of such section 351) if such application were submitted under subsection (k) of such section 351. “(4) Deemed approved under section 351.—“(A) In general.—An approved application for a biological product under section 505 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355&num=0&edition=prelim)) shall be deemed to be a license for the biological product under such section 351 on the date that is 10 years after the date of enactment of this Act. “(B) Treatment of certain applications.—“(i) In general.—With respect to an application for a biological product submitted under subsection (b) or (j) of section 505 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355&num=0&edition=prelim)) that is filed not later than March 23, 2019, and is not approved as of March 23, 2020, the Secretary shall continue to review such application under such section 505 after March 23, 2020. “(ii) Effect on listed drugs.—Only for purposes of carrying out clause (i), with respect to any applicable listed drug with respect to such application, the following shall apply:“(I) Any drug that is a biological product that has been deemed licensed under section 351 of the Public Health Service Act ([42 U.S.C. 262](./chapter-6a-public-health-service.md#section-262)) pursuant to subparagraph (A) and that is referenced in an application described in clause (i), shall continue to be identified as a listed drug on the list published pursuant to section 505(j)(7) of the Federal Food, Drug, and Cosmetic Act, and the information for such drug on such list shall not be revised after March 20, 2020, until— “(aa) such drug is removed from such list in accordance with subclause (III) or subparagraph (C) of such section 505(j)(7); or “(bb) this subparagraph no longer has force or effect. “(II) Any drug that is a biological product that has been deemed licensed under section 351 of the Public Health Service Act ([42 U.S.C. 262](./chapter-6a-public-health-service.md#section-262)) pursuant to subparagraph (A) and that is referenced in an application described in clause (i) shall be subject only to requirements applicable to biological products licensed under such section. “(III) Upon approval under subsection (c) or (j) of section 505 of the Federal Food, Drug, and Cosmetic Act of an application described in clause (i), the Secretary shall remove from the list published pursuant to section 505(j)(7) of the Federal Food, Drug, and Cosmetic Act any listed drug that is a biological product that has been deemed licensed under section 351 of the Public Health Service Act pursuant to subparagraph (A) and that is referenced in such approved application, unless such listed drug is referenced in one or more additional applications described in clause (i). “(iii) Deemed licensure.—Upon approval of an application described in clause (i), such approved application shall be deemed to be a license for the biological product under section 351 of the Public Health Service Act. “(iv) Rule of construction.—“(I) Application of certain provisions.— “(aa) Patent certification or statement.—An application described in clause (i) shall contain a patent certification or statement described in, as applicable, section 505(b)(2) of the Federal Food, Drug, and Cosmetic Act or clauses (vii) and (viii) of section 505(j)(2)(A) of such Act and, with respect to any listed drug referenced in such application, comply with related requirements concerning any timely filed patent information listed pursuant to section 505(j)(7) of such Act. “(bb) Date of approval.—The earliest possible date on which any pending application described in clause (i) may be approved shall be determined based on—“(AA) the last expiration date of any applicable period of exclusivity that would prevent such approval and that is described in section 505(c)(3)(E), 505(j)(5)(B)(iv), 505(j)(5)(F), 505A [[21 U.S.C. 355a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355a&num=0&edition=prelim)], 505E [[21 U.S.C. 355f](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355f&num=0&edition=prelim)], or 527 [[21 U.S.C. 360cc](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360cc&num=0&edition=prelim)] of the Federal Food, Drug, and Cosmetic Act; and “(BB) if the application was submitted pursuant to section 505(b)(2) of the Federal Food, Drug, and Cosmetic Act and references any listed drug, the last applicable date determined under subparagraph (A), (B), or (C) of section 505(c)(3) of such Act, or, if the application was submitted under section 505(j) of such Act, the last applicable date determined under clause (i), (ii), or (iii) of section 505(j)(5)(B) of such Act. “(II) Exclusivity.—Nothing in this subparagraph shall be construed to affect section 351(k)(7)(D) of the Public Health Service Act. “(v) Listing.—The Secretary may continue to review an application after March 23, 2020, pursuant to clause (i), and continue to identify any applicable listed drug pursuant to clause (ii) on the list published pursuant to section 505(j)(7) of the Federal Food, Drug, and Cosmetic Act, even if such review or listing may reveal the existence of such application and the identity of any listed drug for which the investigations described in section 505(b)(1)(A) of the Federal Food, Drug, and Cosmetic Act are relied upon by the applicant for approval of the pending application. Nothing in this subparagraph shall be construed as authorizing the Secretary to disclose any other information that is a trade secret or confidential information described in [section 552(b)(4) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b/4&num=0&edition=prelim), United States Code. “(vi) Sunset.—Beginning on October 1, 2022, this subparagraph shall have no force or effect and any applications described in clause (i) that have not been approved shall be deemed withdrawn. “(5) Definitions.—For purposes of this subsection, the term ‘biological product’ has the meaning given such term under section 351 of the Public Health Service Act ([42 U.S.C. 262](./chapter-6a-public-health-service.md#section-262)) (as amended by this Act).”
@@ -20344,6 +21223,11 @@ Pub. L. 111–148, title VII, § 7003, Mar. 23, 2010, 124 Stat. 821, provided th
 
 #### Enhanced Penalties and Control of Biological Agents
 Pub. L. 104–132, title V, § 511, Apr. 24, 1996, 110 Stat. 1284, as amended by Pub. L. 107–188, title II, § 204, June 12, 2002, 116 Stat. 647, provided that: “(a) Findings.—The Congress finds that—“(1) certain biological agents have the potential to pose a severe threat to public health and safety; “(2) such biological agents can be used as weapons by individuals or organizations for the purpose of domestic or international terrorism or for other criminal purposes; “(3) the transfer and possession of potentially hazardous biological agents should be regulated to protect public health and safety; and “(4) efforts to protect the public from exposure to such agents should ensure that individuals and groups with legitimate objectives continue to have access to such agents for clinical and research purposes. “(b) Criminal Enforcement.— [Amended sections 175, 177, and 178 of Title 18, Crimes and Criminal Procedure.] “(c) Terrorism.— [Amended [section 2332a of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2332a&num=0&edition=prelim).]”
+
+#### Transfer of Functions
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202).
+
+References to Secretary and Department of Health, Education, and Welfare substituted for references to Federal Security Administrator and Federal Security Agency, respectively, pursuant to Reorg. Plan No. 1 of 1953, § 5, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501), which transferred all functions of Federal Security Administrator to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency to Department of Health, Education, and Welfare. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
 
 <a id="section-262a"></a>
@@ -20760,8 +21644,11 @@ Barack Obama.
 
 ### Statutory Notes
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Transfer of Functions
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202).
 
 
 <a id="section-263a"></a>
@@ -21979,6 +22866,39 @@ Pub. L. 103–183, title VII, § 707, Dec. 14, 1993, 107 Stat. 2241, provided th
 Section 3 of Pub. L. 102–539 directed Comptroller General of United States to conduct a study of the certification program authorized by this section to determine if the program has resulted in improvement of quality and accessibility of mammography services, and if the program has reduced the frequency of poor quality mammography and improved early detection of breast cancer, with Comptroller General, not later than 3 years from Oct. 27, 1992, submit to Congress an interim report of results of study and, not later than 5 years from such date to submit a final report.
 
 
+<a id="section-263-1"></a>
+## § 263–1. Education on biological products
+**(a) Internet website**
+
+(1) **In general** — The Secretary may maintain and operate an internet website to provide educational materials for health care providers, patients, and caregivers, regarding the meaning of the terms, and the standards for review and licensing of, biological products, including biosimilar biological products and interchangeable biosimilar biological products.
+
+(2) **Content** — Educational materials provided under paragraph (1) may include—
+
+  (A) explanations of key statutory and regulatory terms, including “biosimilar” and “interchangeable”, and clarification regarding the use of interchangeable biosimilar biological products;
+
+  (B) information related to development programs for biological products, including biosimilar biological products and interchangeable biosimilar biological products and relevant clinical considerations for prescribers, which may include, as appropriate and applicable, information related to the comparability of such biological products;
+
+  (C) an explanation of the process for reporting adverse events for biological products, including biosimilar biological products and interchangeable biosimilar biological products; and
+
+  (D) an explanation of the relationship between biosimilar biological products and interchangeable biosimilar biological products licensed under [section 262(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/k&num=0&edition=prelim) and reference products (as defined in [section 262(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/i&num=0&edition=prelim)), including the standards for review and licensing of each such type of biological product.
+
+(3) **Format** — The educational materials provided under paragraph (1) may be—
+
+  (A) in formats such as webinars, continuing education modules, videos, fact sheets, infographics, stakeholder toolkits, or other formats as appropriate and applicable; and
+
+  (B) tailored for the unique needs of health care providers, patients, caregivers, and other audiences, as the Secretary determines appropriate.
+
+(4) **Other information** — In addition to the information described in paragraph (2), the Secretary shall continue to publish—
+
+  (A) the action package of each biological product licensed under subsection (a) or (k) of [section 262 of this title](./chapter-6a-public-health-service.md#section-262); or
+
+  (B) the summary review of each biological product licensed under subsection (a) or (k) of [section 262 of this title](./chapter-6a-public-health-service.md#section-262).
+
+(5) **Confidential and trade secret information** — This subsection does not authorize the disclosure of any trade secret, confidential commercial or financial information, or other matter described in [section 552(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b&num=0&edition=prelim).
+
+**(b) Continuing education** The Secretary shall advance education and awareness among health care providers regarding biological products, including biosimilar biological products and interchangeable biosimilar biological products, as appropriate, including by developing or improving continuing education programs that advance the education of such providers on the prescribing of, and relevant clinical considerations with respect to, biological products, including biosimilar biological products and interchangeable biosimilar biological products.
+
+
 <a id="section-264"></a>
 ## § 264. Regulations to control communicable diseases
 **(a) Promulgation and enforcement by Surgeon General** The Surgeon General, with the approval of the Secretary, is authorized to make and enforce such regulations as in his judgment are necessary to prevent the introduction, transmission, or spread of communicable diseases from foreign countries into the States or possessions, or from one State or possession into any other State or possession. For purposes of carrying out and enforcing such regulations, the Surgeon General may provide for such inspection, fumigation, disinfection, sanitation, pest extermination, destruction of animals or articles found to be so infected or contaminated as to be sources of dangerous infection to human beings, and other measures, as in his judgment may be necessary.
@@ -22014,19 +22934,22 @@ Subsec. (e). Pub. L. 107–188, § 142(c), added subsec. (e).
 
 1960—Subsec. (c). Pub. L. 86–624 struck out reference to Territory of Hawaii.
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsecs. (a) and (b) pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Effective Date of 1960 Amendment
 Amendment by Pub. L. 86–624 effective Aug. 21, 1959, see section 47(f) of Pub. L. 86–624, set out as a note under [section 201 of this title](./chapter-6a-public-health-service.md#section-201).
-
-#### Transfer of Functions
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
-
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim).
 
 #### Extension of Eviction Moratorium
 Pub. L. 116–260, div. N, title V, § 502, Dec. 27, 2020, 134 Stat. 2078, provided that: “The order issued by the Centers for Disease Control and Prevention under section 361 of the Public Health Service Act ([42 U.S.C. 264](./chapter-6a-public-health-service.md#section-264)), entitled ‘Temporary Halt in Residential Evictions To Prevent the Further Spread of COVID–19’ (85 Fed. Reg. 55292 (September 4, 2020)[)] is extended through January 31, 2021, notwithstanding the effective dates specified in such Order.”
 
 #### Evaluation of Public Health Authorities
 Pub. L. 110–392, title I, § 121, Oct. 13, 2008, 122 Stat. 4200, provided that: “(a) In General.—Not later than 180 days after the date of enactment of the Comprehensive Tuberculosis Elimination Act of 2008 [Oct. 13, 2008], the Secretary of Health and Human Services shall prepare and submit to the appropriate committees of Congress a report that evaluates and provides recommendations on changes needed to Federal and State public health authorities to address current disease containment challenges such as isolation and quarantine. “(b) Contents of Evaluation.—The report described in subsection (a) shall include—“(1) an evaluation of the effectiveness of current policies to detain patients with active tuberculosis; “(2) an evaluation of whether Federal laws should be strengthened to expressly address the movement of individuals with active tuberculosis; and “(3) specific legislative recommendations for changes to Federal laws, if any. “(c) Update of Quarantine Regulations.—Not later than 240 days after the date of enactment of this Act [Oct. 13, 2008], the Secretary of Health and Human Services shall promulgate regulations to update the current interstate and foreign quarantine regulations found in parts 70 and 71 of title 42, Code of Federal Regulations.”
+
+#### Transfer of Functions
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
+
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
 #### Executive Order No. 12452
 Ex. Ord. No. 12452, Dec. 22, 1983, 48 F.R. 56927, which specified certain communicable diseases for regulations providing for the apprehension, detention, or conditional release of individuals to prevent the introduction, transmission, or spread of such diseases, was revoked by Ex. Ord. No. 13295, § 5, Apr. 4, 2003, 68 F.R. 17255, set out below.
@@ -22060,8 +22983,11 @@ Whenever the Surgeon General determines that by reason of the existence of any c
 
 ### Statutory Notes
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Transfer of Functions
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
 
 #### Delegation of Functions
 For assignment of functions of President under this section, see section 3 of Ex. Ord. No. 13295, Apr. 4, 2003, 68 F.R. 17255, set out as a note under [section 264 of this title](./chapter-6a-public-health-service.md#section-264).
@@ -22077,11 +23003,14 @@ To protect the military and naval forces and war workers of the United States, i
 #### Amendments
 2002—Pub. L. 107–188, which directed substitution of “the Secretary, in consultation with the Surgeon General,” for “the Surgeon General, on recommendation of the National Advisory Health Council,” and striking out of “in a communicable stage” after “(1) to be infected with such disease”, in section 363 of the Public Health Act, was executed to this section, which is section 363 of the Public Health Service Act, to reflect the probable intent of Congress.
 
-#### Transfer of Functions
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
+#### Change of Name
+“Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
 #### Termination of War and Emergencies
 Joint Res. July 25, 1947, ch. 327, § 3, 61 Stat. 451, provided that in the interpretation of this section, the date July 25, 1947, shall be deemed to be the date of termination of any state of war theretofore declared by Congress and of the national emergencies proclaimed by the President on Sept. 8, 1939, and May 27, 1941.
+
+#### Transfer of Functions
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
 
 
 <a id="section-267"></a>
@@ -22108,10 +23037,11 @@ Title II of the Act of June 15, 1917, referred to in subsec. (a), is act June 15
 
 1957—Subsecs. (c), (d). Pub. L. 85–58 added subsecs. (c) and (d).
 
-#### Transfer of Functions
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (d) pursuant to section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+#### Change of Name
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (d) pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim).
+#### Transfer of Functions
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202).
 
 #### Delegation of Functions
 Functions of President delegated to Secretary of Health Health and Human Services, see Ex. Ord. No. 11140, Jan. 30, 1964, 29 F.R. 1637, as amended, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202).
@@ -22127,12 +23057,16 @@ For assignment of functions of President under subsec. (a) of this section, see 
 
 ### Statutory Notes
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (a) pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
+#### Transfer of Functions
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
 
-Reference to Secretary of Health, Education, and Welfare substituted for reference to Federal Security Administrator pursuant to section 5 of Reorg. Plan No. 1, of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501), which transferred functions of Federal Security Administrator to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency to Department of Health, Education, and Welfare. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim).
+Reference to Secretary of Health, Education, and Welfare substituted for reference to Federal Security Administrator pursuant to section 5 of Reorg. Plan No. 1, of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501), which transferred functions of Federal Security Administrator to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency to Department of Health, Education, and Welfare. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
 
 <a id="section-269"></a>
@@ -22149,8 +23083,11 @@ Reference to Secretary of Health, Education, and Welfare substituted for referen
 
 ### Statutory Notes
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Transfer of Functions
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202).
 
 All offices of collector of customs, comptroller of customs, surveyor of customs, and appraiser of merchandise of Bureau of Customs of Department of the Treasury to which appointments were required to be made by the President with the advice and consent of the Senate ordered abolished, with such offices to be terminated not later than December 31, 1966, by Reorg. Plan No. 1, of 1965, eff. May 25, 1965, 30 F.R. 7035, 79 Stat. 1317, set out in the Appendix to Title 5, Government Organization and Employees. All functions of offices eliminated were already vested in Secretary of the Treasury by Reorg. Plan No. 26 of 1950, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5.
 
@@ -22162,8 +23099,11 @@ The Surgeon General is authorized to provide by regulations for the application 
 
 ### Statutory Notes
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Transfer of Functions
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
 
 
 <a id="section-271"></a>
@@ -22177,12 +23117,14 @@ Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, e
 ### Statutory Notes
 
 #### Change of Name
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorney” for “United States district attorney”. See [section 541 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section541&num=0&edition=prelim), Judiciary and Judicial Procedure, and Historical and Revision note thereunder.
 
 #### Transfer of Functions
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
 
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim).
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
 
 <a id="section-272"></a>
@@ -22961,6 +23903,8 @@ For purposes of this part:
 
 (6) The Secretary, acting through the Administrator of the Health Resources and Services Administration, shall submit to Congress an annual report on the activities carried out under this section.
 
+(7) The Secretary shall convene the Advisory Council at least two times each calendar year.
+
 **(b) Accreditation** The Secretary shall, through a public process, recognize one or more accreditation entities for the accreditation of cord blood banks.
 
 **(c) Informed consent** The Secretary shall, through a public process, examine issues of informed consent, including—
@@ -23020,7 +23964,7 @@ Based on such examination, the Secretary shall require that the standards used b
 
     (viii) with respect to the system under subparagraph (A), collect, analyze, and publish data in a standardized electronic format, as required by the Secretary, on the number and percentage of patients at each of the various stages of the search process, including data regarding the furthest stage reached, the number and percentage of patients who are unable to complete the search process, and the reasons underlying such circumstances.
 
-  (B) *Efforts to increase collection of high quality cord blood units* — In carrying out subparagraph (A)(iv), not later than 1 year after October 8, 2010, and annually thereafter, the Secretary shall set an annual goal of increasing collections of high quality cord blood units,11 See 2015 Amendment note below. consistent with the inventory goal described in section 2(a) of the Stem Cell Therapeutic and Research Act of 2005 (referred to in this subparagraph as the “inventory goal”), and shall identify at least one project under subparagraph (A)(iv) to replicate and expand nationwide, as appropriate. If the Secretary cannot identify a project as described in the preceding sentence, the Secretary shall submit a plan, not later than 180 days after the date on which the Secretary was required to identify such a project, to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives for expanding collection of high quality cord blood units, including remote collection,1 consistent with the requirements under the National Cord Blood Inventory program under section 2 of the Stem Cell Therapeutic and Research Act of 2005 and the inventory goal. Each such plan shall be made available to the public.
+  (B) *Efforts to increase collection of high quality cord blood units* — In carrying out subparagraph (A)(iv), not later than 1 year after October 8, 2010, and annually thereafter, the Secretary shall set an annual goal of increasing collections of high quality cord blood units, including remote collection, consistent with the inventory goal described in section 2(a) of the Stem Cell Therapeutic and Research Act of 2005 (referred to in this subparagraph as the “inventory goal”), and shall identify at least one project under subparagraph (A)(iv) to replicate and expand nationwide, as appropriate.
 
   (C) *Definition* — In this paragraph, the term “remote collection” means the collection of cord blood units at locations that do not have written contracts with cord blood banks for collection support.
 
@@ -23176,13 +24120,31 @@ Based on such examination, the Secretary shall require that the standards used b
 
 **(n) Penalties for disclosure** Any person who discloses the content of any record referred to in subsection (d)(4)(D) or (f)(5)(A) without the prior written consent of the donor or potential donor with respect to whom the record is maintained, or in violation of the standards described in subsection (f)(5)(B), shall be imprisoned for not more than 2 years or fined in accordance with title 18, or both.
 
+**(o) Periodic review of state of science**
+
+(1) **Review** — Not less frequently than every 2 years, the Secretary, in consultation with the Director of the National Institutes of Health, the Commissioner of Food and Drugs, the Administrator of the Health Resources and Services Administration, the Advisory Council, and other stakeholders, where appropriate given relevant expertise, shall conduct a review of the state of the science of using adult stem cells and birthing tissues to develop new types of therapies for patients, for the purpose of considering the potential inclusion of such new types of therapies in the Program.
+
+(2) **Recommendations** — Not later than June 30, 2025, the Secretary shall—
+
+  (A) complete the second review required by paragraph (1); and
+
+  (B) informed by such review, submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives recommendations on the appropriateness of the inclusion of new types of therapies in the Program.
+
 ### Statutory Notes
 
 #### References in Text
 Section 2 of the Stem Cell Therapeutic and Research Act of 2005, referred to in subsec. (d)(2)(A)(iv), (B), is section 2 of Pub. L. 109–129, Dec. 20, 2005, 119 Stat. 2550, which is set out as a note under this section.
 
 #### Amendments
-2015—Subsec. (d)(2)(B). Pub. L. 114–104, § 2(a)(2), which directed insertion of “including remote collection,” after “cord blood units,”, was executed by making the insertion after “cord blood units,” the second place appearing.
+2021—Subsec. (a)(7). Pub. L. 117–15, § 2(a), added par. (7).
+
+Subsec. (d)(2)(B). Pub. L. 117–15, § 2(b)(2), struck out at end “If the Secretary cannot identify a project as described in the preceding sentence, the Secretary shall submit a plan, not later than 180 days after the date on which the Secretary was required to identify such a project, to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives for expanding collection of high quality cord blood units, consistent with the requirements under the National Cord Blood Inventory program under section 2 of the Stem Cell Therapeutic and Research Act of 2005 and the inventory goal. Each such plan shall be made available to the public.”
+
+Pub. L. 117–15, § 2(b)(1), made technical amendment to directory language of Pub. L. 114–104, § 2(a)(2). See 2015 Amendment note below.
+
+Subsec. (o). Pub. L. 117–15, § 2(c), added subsec. (o).
+
+2015—Subsec. (d)(2)(B). Pub. L. 114–104, § 2(a)(2), as amended by Pub. L. 117–15, § 2(b)(1), inserted “including remote collection,” after “goal of increasing collections of high quality cord blood units,”.
 
 Pub. L. 114–104, § 2(a)(1), substituted “expanding collection” for “expanding remote collection”.
 
@@ -23240,6 +24202,9 @@ Subsec. (k). Pub. L. 105–196, § 2(c), (g)(2), redesignated subsec. (i) as (k)
 
 Subsec. (l). Pub. L. 105–196, § 2(f), added subsec. (l).
 
+#### Effective Date of 2021 Amendment
+Pub. L. 117–15, § 2(b)(1), May 26, 2021, 135 Stat. 277, provided that the amendment made by section 2(b)(1) is effective as if included in the enactment of the Stem Cell Therapeutic and Research Reauthorization Act of 2015 (Pub. L. 114–104).
+
 #### Effective Date of 1998 Amendment
 Pub. L. 105–196, § 7, July 16, 1998, 112 Stat. 637, provided that: “This Act [see Short Title of 1998 Amendment note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201)] takes effect October 1, 1998, or upon the date of the enactment of this Act [July 16, 1998], whichever occurs later.”
 
@@ -23247,7 +24212,7 @@ Pub. L. 105–196, § 7, July 16, 1998, 112 Stat. 637, provided that: “This Ac
 Pub. L. 101–616, title I, § 102, Nov. 16, 1990, 104 Stat. 3282, provided that: “(a) In General.—This title [enacting this section and section 274l of this title and amending [section 274a of this title](./chapter-6a-public-health-service.md#section-274a)], and the amendments made by this title, shall not affect any legal document, including any order, regulation, grant, or contract, in effect on the date of enactment of this Act [Nov. 16, 1990], or any administrative proceeding or lawsuit pending on the date, that relates to the bone marrow registry established under section 373(b) of the Public Health Service Act [[42 U.S.C. 274a(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section274a/b&num=0&edition=prelim)] (as it existed before the amendment made by section 101(b) of this Act). “(b) Continued Effect.—A legal document described in subsection (a) or an order issued in a lawsuit described in subsection (a) shall continue in effect until modified, terminated, or revoked. “(c) Proceedings.—In any administrative proceeding or lawsuit described in subsection (a), parties shall take appeals, and officials shall hold proceedings and render judgments, in the same manner and with the same effect as if this title had not been enacted.”
 
 #### Cord Blood Inventory
-Pub. L. 109–129, § 2, Dec. 20, 2005, 119 Stat. 2550, as amended by Pub. L. 111–264, § 2(a), Oct. 8, 2010, 124 Stat. 2789; Pub. L. 114–104, § 3, Dec. 18, 2015, 129 Stat. 2217, provided that: “(a) In General.—The Secretary of Health and Human Services shall enter into contracts with qualified cord blood banks to assist in the collection and maintenance of the inventory goal of at least 150,000 new units of high-quality cord blood to be made available for transplantation through the C.W. Bill Young Cell Transplantation Program and to carry out the requirements of subsection (b). “(b) Requirements.—The Secretary shall require each recipient of a contract under this section—“(1) to acquire, tissue-type, test, cryopreserve, and store donated units of cord blood acquired with the informed consent of the donor, as determined by the Secretary pursuant to section 379(c) of the Public Health Service Act [[42 U.S.C. 274k(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section274k/c&num=0&edition=prelim)], in a manner that complies with applicable Federal and State regulations; “(2) to encourage donation from a genetically diverse population; “(3) to make cord blood units that are collected pursuant to this section or otherwise and meet all applicable Federal standards available to transplant centers for transplantation; “(4) to make cord blood units that are collected, but not appropriate for clinical use, available for peer-reviewed research; “(5) to make data available, as required by the Secretary and consistent with section 379(d)(3) of the Public Health Service Act ([42 U.S.C. 274k(d)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section274k/d/3&num=0&edition=prelim)), as amended by this Act, in a standardized electronic format, as determined by the Secretary, for the C.W. Bill Young Cell Transplantation Program; and “(6) to submit data in a standardized electronic format for inclusion in the stem cell therapeutic outcomes database maintained under section 379A of the Public Health Service Act [[42 U.S.C. 274](./chapter-6a-public-health-service.md#section-274)l], as amended by this Act. “(c) Application.—To seek to enter into a contract under this section, a qualified cord blood bank shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require. At a minimum, an application for a contract under this section shall include a requirement that the applicant—“(1) will participate in the C.W. Bill Young Cell Transplantation Program for a period of at least 10 years beginning on the last date on which the recipient of a contract under this section receives Federal funds under this section; “(2) will make cord blood units collected pursuant to this section available through the C.W. Bill Young Cell Transplantation Program in perpetuity or for such time as determined viable by the Secretary; “(3) will provide a plan to increase cord blood unit collections at collection sites that exist at the time of application, assist with the establishment of new collection sites, or contract with new collection sites; “(4) will annually provide to the Secretary a plan for, and demonstrate, ongoing measurable progress toward achieving self-sufficiency of cord blood unit collection and banking operations; and “(5) if the Secretary determines through an assessment, or through petition by the applicant, that a cord blood bank is no longer operational or does not meet the requirements of section 379(d)(4) of the Public Health Service Act [[42 U.S.C. 274k(d)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section274k/d/4&num=0&edition=prelim)] (as added by this Act) and as a result may not distribute the units, transfer the units collected pursuant to this section to another qualified cord blood bank approved by the Secretary to ensure continued availability of cord blood units. “(d) Duration of Contracts.—“(1) In general.—Except as provided in paragraph (2), the term of each contract entered into by the Secretary under this section shall be for a period of at least 10 years beginning on the last date on which the recipient of a contract under this section receives Federal funds under this section. The Secretary shall ensure that no Federal funds shall be obligated under any such contract after the date that is 5 years after the date on which the contract is entered into, except as provided in paragraphs (2), (3), and (4). “(2) Extensions.—The Secretary may extend the period of funding under a contract under this section to exceed a period of 5 years if—“(A) the Secretary finds that the inventory goal described in subsection (a) has not yet been met; “(B) the Secretary does not receive an application for a contract under this section meeting the requirements under subsection (c) from any qualified cord blood bank that has not previously entered into a contract under this section; or “(C) the Secretary determines that the outstanding inventory need cannot be met by the qualified cord blood banks under contract under this section. “(3) Extension eligibility.—A qualified cord blood bank shall be eligible for a 5-year extension of a contract awarded under this section, as described in paragraph (2), provided that the qualified cord blood bank—“(A) demonstrates a superior ability to satisfy the requirements described in subsection (b) and achieves the overall goals for which the contract was awarded; “(B) provides a plan for how the qualified cord blood bank will increase cord blood unit collections at collection sites that exist at the time of consideration for such extension of a contract, assist with the establishment of new collection sites, or contract with new collection sites; and “(C) annually provides to the Secretary a plan for, and demonstrates, ongoing measurable progress toward achieving self-sufficiency of cord blood unit collection and banking operations. “(4) Consideration of best science.—The Secretary shall take into consideration the best scientific information available in order to maximize the number of cord blood units available for transplant when entering into contracts under this section, or when extending a period of funding under such a contract under paragraph (2). “(5) Consideration of banked units of cord blood.—In extending contracts pursuant to paragraph (3), and determining new allocation amounts for the next contract period or contract extension for such cord blood bank, the Secretary shall take into account the number of cord blood units banked in the National Cord Blood Inventory by a cord blood bank during the previous contract period, in addition to consideration of the ability of such cord blood bank to increase the collection and maintenance of additional, genetically diverse cord blood units. “(e) Regulations.—The Secretary may promulgate regulations to carry out this section. “(f) Definitions.—In this section:“(1) The term ‘C.W. Bill Young Cell Transplantation Program’ means the C.W. Bill Young Cell Transplantation Program under section 379 of the Public Health Service Act [[42 U.S.C. 274k](./chapter-6a-public-health-service.md#section-274k)], as amended by this Act. “(2) The term ‘cord blood donor’ means a mother who has delivered a baby and consents to donate the neonatal blood remaining in the placenta and umbilical cord after separation from the newborn baby. “(3) The term ‘cord blood unit’ means the neonatal blood collected from the placenta and umbilical cord of a single newborn baby. “(4) The term ‘qualified cord blood bank’ has the meaning given to that term in section 379(d)(4) of the Public Health Service Act [[42 U.S.C. 274k(d)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section274k/d/4&num=0&edition=prelim)], as amended by this Act. “(5) The term ‘Secretary’ means the Secretary of Health and Human Services. “(g) Authorization of Appropriations.—“(1) [sic; there is no par. (2)] Authorization of appropriations.—There are authorized to be appropriated to the Secretary to carry out the program under this section $20,000,000 for fiscal year 2015 and $23,000,000 for each of fiscal years 2016 through 2020.”
+Pub. L. 109–129, § 2, Dec. 20, 2005, 119 Stat. 2550, as amended by Pub. L. 111–264, § 2(a), Oct. 8, 2010, 124 Stat. 2789; Pub. L. 114–104, § 3, Dec. 18, 2015, 129 Stat. 2217; Pub. L. 117–15, § 3, May 26, 2021, 135 Stat. 278, provided that: “(a) In General.—The Secretary of Health and Human Services shall enter into contracts with qualified cord blood banks to assist in the collection and maintenance of the inventory goal of at least 150,000 new units of high-quality cord blood to be made available for transplantation through the C.W. Bill Young Cell Transplantation Program and to carry out the requirements of subsection (b). “(b) Requirements.—The Secretary shall require each recipient of a contract under this section—“(1) to acquire, tissue-type, test, cryopreserve, and store donated units of cord blood acquired with the informed consent of the donor, as determined by the Secretary pursuant to section 379(c) of the Public Health Service Act [[42 U.S.C. 274k(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section274k/c&num=0&edition=prelim)], in a manner that complies with applicable Federal and State regulations; “(2) to encourage donation from a genetically diverse population; “(3) to make cord blood units that are collected pursuant to this section or otherwise and meet all applicable Federal standards available to transplant centers for transplantation; “(4) to make cord blood units that are collected, but not appropriate for clinical use, available for peer-reviewed research; “(5) to make data available, as required by the Secretary and consistent with section 379(d)(3) of the Public Health Service Act ([42 U.S.C. 274k(d)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section274k/d/3&num=0&edition=prelim)), as amended by this Act, in a standardized electronic format, as determined by the Secretary, for the C.W. Bill Young Cell Transplantation Program; and “(6) to submit data in a standardized electronic format for inclusion in the stem cell therapeutic outcomes database maintained under section 379A of the Public Health Service Act [[42 U.S.C. 274](./chapter-6a-public-health-service.md#section-274)l], as amended by this Act. “(c) Application.—To seek to enter into a contract under this section, a qualified cord blood bank shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require. At a minimum, an application for a contract under this section shall include a requirement that the applicant—“(1) will participate in the C.W. Bill Young Cell Transplantation Program for a period of at least 10 years beginning on the last date on which the recipient of a contract under this section receives Federal funds under this section; “(2) will make cord blood units collected pursuant to this section available through the C.W. Bill Young Cell Transplantation Program in perpetuity or for such time as determined viable by the Secretary; “(3) will provide a plan to increase cord blood unit collections at collection sites that exist at the time of application, assist with the establishment of new collection sites, or contract with new collection sites; “(4) will annually provide to the Secretary a plan for, and demonstrate, ongoing measurable progress toward achieving self-sufficiency of cord blood unit collection and banking operations; and “(5) if the Secretary determines through an assessment, or through petition by the applicant, that a cord blood bank is no longer operational or does not meet the requirements of section 379(d)(4) of the Public Health Service Act [[42 U.S.C. 274k(d)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section274k/d/4&num=0&edition=prelim)] (as added by this Act) and as a result may not distribute the units, transfer the units collected pursuant to this section to another qualified cord blood bank approved by the Secretary to ensure continued availability of cord blood units. “(d) Duration of Contracts.—“(1) In general.—Except as provided in paragraph (2), the term of each contract entered into by the Secretary under this section shall be for a period of at least 10 years beginning on the last date on which the recipient of a contract under this section receives Federal funds under this section. The Secretary shall ensure that no Federal funds shall be obligated under any such contract after the date that is 5 years after the date on which the contract is entered into, except as provided in paragraphs (2), (3), and (4). “(2) Extensions.—The Secretary may extend the period of funding under a contract under this section to exceed a period of 5 years if—“(A) the Secretary finds that the inventory goal described in subsection (a) has not yet been met; “(B) the Secretary does not receive an application for a contract under this section meeting the requirements under subsection (c) from any qualified cord blood bank that has not previously entered into a contract under this section; or “(C) the Secretary determines that the outstanding inventory need cannot be met by the qualified cord blood banks under contract under this section. “(3) Extension eligibility.—A qualified cord blood bank shall be eligible for a 5-year extension of a contract awarded under this section, as described in paragraph (2), provided that the qualified cord blood bank—“(A) demonstrates a superior ability to satisfy the requirements described in subsection (b) and achieves the overall goals for which the contract was awarded; “(B) provides a plan for how the qualified cord blood bank will increase cord blood unit collections at collection sites that exist at the time of consideration for such extension of a contract, assist with the establishment of new collection sites, or contract with new collection sites; and “(C) annually provides to the Secretary a plan for, and demonstrates, ongoing measurable progress toward achieving self-sufficiency of cord blood unit collection and banking operations. “(4) Consideration of best science.—The Secretary shall take into consideration the best scientific information available in order to maximize the number of cord blood units available for transplant when entering into contracts under this section, or when extending a period of funding under such a contract under paragraph (2). “(5) Consideration of banked units of cord blood.—In extending contracts pursuant to paragraph (3), and determining new allocation amounts for the next contract period or contract extension for such cord blood bank, the Secretary shall take into account the number of cord blood units banked in the National Cord Blood Inventory by a cord blood bank during the previous contract period, in addition to consideration of the ability of such cord blood bank to increase the collection and maintenance of additional, genetically diverse cord blood units. “(e) Regulations.—The Secretary may promulgate regulations to carry out this section. “(f) Definitions.—In this section:“(1) The term ‘C.W. Bill Young Cell Transplantation Program’ means the C.W. Bill Young Cell Transplantation Program under section 379 of the Public Health Service Act [[42 U.S.C. 274k](./chapter-6a-public-health-service.md#section-274k)], as amended by this Act. “(2) The term ‘cord blood donor’ means a mother who has delivered a baby and consents to donate the neonatal blood remaining in the placenta and umbilical cord after separation from the newborn baby. “(3) The term ‘cord blood unit’ means the neonatal blood collected from the placenta and umbilical cord of a single newborn baby. “(4) The term ‘qualified cord blood bank’ has the meaning given to that term in section 379(d)(4) of the Public Health Service Act [[42 U.S.C. 274k(d)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section274k/d/4&num=0&edition=prelim)], as amended by this Act. “(5) The term ‘Secretary’ means the Secretary of Health and Human Services.121“(g) Authorization of Appropriations.—To carry out this section, there is authorized to be appropriated $23,000,000 for each of fiscal years 2022 through 2026.”
 
 #### Report of Inspector General; Plan Regarding Relationship Between Registry and Donor Centers
 Pub. L. 105–196, § 2(b)(2), July 16, 1998, 112 Stat. 632, directed the Secretary of Health and Human Services to ensure that, not later than 1 year after July 16, 1998, the National Bone Marrow Donor Registry (under this section) developed, evaluated, and implemented a plan to effectuate efficiencies in the relationship between such Registry and donor centers.
@@ -23298,11 +24263,13 @@ In this part:
 <a id="section-274m"></a>
 ## § 274m. Authorization of appropriations
 
-For the purpose of carrying out this part, there are authorized to be appropriated $33,000,000 for fiscal year 2015 and $30,000,000 for each of fiscal years 2016 through 2020.
+For the purpose of carrying out this part, there are authorized to be appropriated $31,009,000 for each of fiscal years 2022 through 2026.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Pub. L. 117–15 substituted “$31,009,000 for each of fiscal years 2022 through 2026” for “$33,000,000 for fiscal year 2015 and $30,000,000 for each of fiscal years 2016 through 2020”.
+
 2015—Pub. L. 114–104 struck out “$30,000,000 for each of fiscal years 2011 through 2014 and” after “to be appropriated” and inserted “and $30,000,000 for each of fiscal years 2016 through 2020” after “fiscal year 2015”.
 
 2010—Pub. L. 111–264 substituted “$30,000,000 for each of fiscal years 2011 through 2014 and $33,000,000 for fiscal year 2015.” for “$34,000,000 for fiscal year 2006 and $38,000,000 for each of fiscal years 2007 through 2010.”
@@ -26758,6 +27725,55 @@ The Health Insurance Portability and Accountability Act of 1996, referred to in 
 **(k) Authorization of appropriations** To carry out this section, there is authorized to be appropriated $5,000,000 for each of fiscal years 2018 through 2022.
 
 
+<a id="section-280g-7b"></a>
+## § 280g–7b. HHS public-private partnership for rare neurodegenerative diseases
+**(a) Establishment** Not later than one year after December 23, 2021, the Secretary of Health and Human Services (referred to in this section as the “Secretary”) shall establish and implement a Public-Private Partnership for Neurodegenerative Diseases between the National Institutes of Health, the Food and Drug Administration, and one or more eligible entities (to be known and referred to in this section as the “Partnership”) through cooperative agreements, contracts, or other appropriate mechanisms with such eligible entities, for the purpose of advancing the understanding of neurodegenerative diseases and fostering the development of treatments for amytrophic lateral sclerosis and other rare neurodegenerative diseases. The Partnership shall—
+
+(1) establish partnerships and consortia with other public and private entities and individuals with expertise in amyotrophic lateral sclerosis and other rare neurodegenerative diseases for the purposes described in this subsection;
+
+(2) focus on advancing regulatory science and scientific research that will support and accelerate the development and review of drugs for patients with amyotrophic lateral sclerosis and other rare neurodegenerative diseases; and
+
+(3) foster the development of effective drugs that improve the lives of people that suffer from amyotrophic lateral sclerosis and other rare neurodegenerative diseases.
+
+**(b) Eligible entity** In this section, the term “eligible entity” means an entity that—
+
+(1) is—
+
+  (A) an institution of higher education (as such term is defined in section 1001 11 See References in Text note below. of title 20) or a consortium of such institutions; or
+
+  (B) an organization described in [section 501(c)(3) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim) and exempt from tax under subsection (a) of such section;
+
+(2) has experienced personnel with clinical and other technical expertise in the field of biomedical sciences and demonstrated connection to the patient population;
+
+(3) demonstrates to the Secretary’s satisfaction that the entity is capable of identifying and establishing collaborations between public and private entities and individuals with expertise in neurodegenerative diseases, including patients, in order to facilitate—
+
+  (A) development and critical evaluation of tools, methods, and processes—
+
+    (i) to characterize neurodegenerative diseases and their natural history;
+
+    (ii) to identify molecular targets for neurodegenerative diseases; and
+
+    (iii) to increase efficiency, predictability, and productivity of clinical development of therapies, including advancement of rational therapeutic development and establishment of clinical trial networks; and
+
+  (B) securing funding for the Partnership from Federal and non-Federal governmental sources, foundations, and private individuals; and
+
+(4) provides an assurance that the entity will not accept funding for a Partnership project from any organization that manufactures or distributes products regulated by the Food and Drug Administration unless the entity provides assurances in its agreement with the Secretary that the results of the project will not be influenced by any source of funding.
+
+**(c) Gifts**
+
+(1) **In general** — The Partnership may solicit and accept gifts, grants, and other donations, establish accounts, and invest and expend funds in support of basic research and research associated with phase 3 clinical trials conducted with respect to investigational drugs that are the subjects of expanded access requests under [section 360bbb of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360bbb&num=0&edition=prelim).
+
+(2) **Use** — In addition to any amounts appropriated for purposes of carrying out this section, the Partnership may use, without further appropriation, any funds derived from a gift, grant, or other donation accepted pursuant to paragraph (1).
+
+### Statutory Notes
+
+#### References in Text
+[Section 1001 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim), referred to in subsec. (b)(1)(A), was in the original “section 1001 of the Higher Education Act of 1965” and was translated as if it had read “section 101 of the Higher Education Act of 1965” to reflect the probable intent of Congress. Section 101 of the Higher Education Act of 1965 is classified to [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim), Education, and defines “institution of higher education”.
+
+#### Codification
+Section was enacted as part of the Accelerating Access to Critical Therapies for ALS Act, and not as part of the Public Health Service Act which comprises this chapter.
+
+
 <a id="section-280g-8"></a>
 ## § 280g–8. Support for patients receiving a positive diagnosis of Down syndrome or other prenatally or postnatally diagnosed conditions
 **(a) Definitions** In this section:
@@ -27404,11 +28420,11 @@ Subsec. (e). Pub. L. 113–157, § 3(4), substituted “2019” for “2014”.
 
 2011—Subsec. (e). Pub. L. 112–32 substituted “2014” for “2011”.
 
-#### Termination of Trust Territory of the Pacific Islands
-For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
-
 #### National Autism Spectrum Disorder Initiative
 Pub. L. 113–157, § 2, Aug. 8, 2014, 128 Stat. 1831, provided that: “(a) In General.—The Secretary of Health and Human Services shall designate an existing official within the Department of Health and Human Services to oversee, in consultation with the Secretaries of Defense and Education, national autism spectrum disorder research, services, and support activities. “(b) Duties.—The official designated under subsection (a) shall—“(1) implement autism spectrum disorder activities, taking into account the strategic plan developed by the Interagency Autism Coordinating Committee under section 399CC(b) of the Public Health Service Act ([42 U.S.C. 280i–2(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section280i–2/b&num=0&edition=prelim)); and “(2) ensure that autism spectrum disorder activities of the Department of Health and Human Services and of other Federal departments and agencies are not unnecessarily duplicative.”
+
+#### Termination of Trust Territory of the Pacific Islands
+For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
 
 
 <a id="section-280i-1"></a>
@@ -29289,6 +30305,8 @@ The Federal Advisory Committee Act shall not apply to the duration of a peer rev
 
   (C) for each year in which the institute, center, or office has used such authority in accordance with this subsection, submits a report to the Director of NIH on the activities of the institute, center, or office relating to such research.
 
+**(o) Regenerative medicine** The Director of NIH shall, as appropriate, continue to consult with the directors of relevant institutes and centers of the National Institutes of Health, other relevant experts from such institutes and centers, and relevant experts within the Food and Drug Administration, to further the field of regenerative medicine using adult stem cells, including autologous stem cells, therapeutic tissue engineering products, human cell and tissue products, human gene therapies, and genetically modified cells.
+
 ### Statutory Notes
 
 #### References in Text
@@ -29302,6 +30320,8 @@ The National Literacy Act of 1991, referred to in subsec. (e)(5), is Pub. L. 102
 In subsec. (b)(14)(B), “[section 8141 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section8141&num=0&edition=prelim)” substituted for “the Act of March 3, 1877 ([40 U.S.C. 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section34&num=0&edition=prelim))” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
+2021—Subsec. (o). Pub. L. 117–15 added subsec. (o).
+
 2018—Subsec. (n)(1)(C). Pub. L. 115–271 added subpar. (C).
 
 2016—Subsec. (b)(4). Pub. L. 114–255, § 2038(a)(1), amended par. (4) generally. Prior to amendment, text read as follows: “shall assemble accurate data to be used to assess research priorities, including information to better evaluate scientific opportunity, public health burdens, and progress in reducing minority and other health disparities;”.
@@ -30678,7 +31698,7 @@ Section was enacted as part of the 21st Century Cures Act, and not as part of th
   (L) may accept voluntary and uncompensated services; and
 
   (M) may perform such other functions as the Secretary determines are needed to carry out effectively the purposes of the institute.
-  The indemnification provisions of [section 2354 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2354&num=0&edition=prelim) shall apply with respect to contracts entered into under this subsection and [section 282(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section282/b&num=0&edition=prelim).
+  The indemnification provisions of [section 3861 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3861&num=0&edition=prelim) shall apply with respect to contracts entered into under this subsection and [section 282(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section282/b&num=0&edition=prelim).
 
 (2) Support for an activity or program under this subsection may be provided through grants, contracts, and cooperative agreements. The Secretary, acting through the Director of each national research institute—
 
@@ -30725,6 +31745,8 @@ The Federal Advisory Committee Act shall not apply to the duration of a peer rev
 The Federal Advisory Committee Act, referred to in subsec. (c), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+2021—Subsec. (b)(1). Pub. L. 117–81 substituted “section 3861” for “section 2354” in concluding provisions.
+
 2016—Subsec. (a). Pub. L. 114–255, § 2033(a), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Director of the National Cancer Institute shall be appointed by the President and the Directors of the other national research institutes shall be appointed by the Secretary. Each Director of a national research institute shall report directly to the Director of NIH.”.
 
 Subsec. (b)(1)(C) to (M). Pub. L. 114–255, § 2036(c), added par. (C) and redesignated former pars. (C) to (L) as (D) to (M), respectively.
@@ -38275,6 +39297,11 @@ Pub. L. 107–250, title II, § 214, Oct. 26, 2002, 116 Stat. 1615, which provid
 
 **(e) Report** Not later than 1 year after December 13, 2016, the Secretary shall submit a report on the relevant data access policies and procedures to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives. Such report shall include steps the Secretary has taken to consult with experts or other heads of departments or agencies of the Federal Government in the development of such policies.
 
+### Statutory Notes
+
+#### Funding for SARS–COV–2 Genomic Sequencing and Surveillance
+Pub. L. 117–2, title II, § 2402, Mar. 11, 2021, 135 Stat. 41, provided that: “(a) In General.—In addition to amounts otherwise available, there is appropriated to the Secretary [of Health and Human Services] for fiscal year 2021 out of any money in the Treasury not otherwise appropriated, $1,750,000,000, to remain available until expended, to strengthen and expand activities and workforce related to genomic sequencing, analytics, and disease surveillance. “(b) Use of Funds.—From amounts appropriated by subsection (a), the Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall—“(1) conduct, expand, and improve activities to sequence genomes, identify mutations, and survey the circulation and transmission of viruses and other organisms, including strains of SARS–CoV–2; “(2) award grants or cooperative agreements to State, local, Tribal, or territorial public health departments or public health laboratories—“(A) to increase their capacity to sequence genomes of circulating strains of viruses and other organisms, including SARS–CoV–2; “(B) to identify mutations in viruses and other organisms, including SARS–CoV–2; “(C) to use genomic sequencing to identify outbreaks and clusters of diseases or infections, including COVID–19; and “(D) to develop effective disease response strategies based on genomic sequencing and surveillance data; “(3) enhance and expand the informatics capabilities of the public health workforce; and “(4) award grants for the construction, alteration, or renovation of facilities to improve genomic sequencing and surveillance capabilities at the State and local level.”
+
 
 <a id="section-289h"></a>
 ## § 289h. Repealed. Pub. L. 103–43, title I, § 121(b)(2), June 10, 1993, 107 Stat. 133
@@ -38329,7 +39356,7 @@ Section was enacted as part of the Federal Fire Prevention and Control Act of 19
 2000—Subsec. (a). Pub. L. 106–503 substituted “in cooperation with the Director” for “in cooperation with the Secretary”.
 
 #### Change of Name
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (a) pursuant to section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (a) pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
 #### Transfer of Functions
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see [section 315(a)(1) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section315/a/1&num=0&edition=prelim), Domestic Security.
@@ -38787,12 +39814,11 @@ Subsecs. (e), (f). Pub. L. 98–24, § 2(b)(2)(D), added subsecs. (e) and (f).
 
 1976—Subsec. (d). Pub. L. 94–371 added subsec. (d).
 
-#### Change of Name
+#### Change of Name; References
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
-#### References
 Pub. L. 114–255, div. B, title VI, § 6001(d), Dec. 13, 2016, 130 Stat. 1203, provided that: “After executing subsections (a), (b), and (c) [see Tables for classification], any reference in statute, regulation, or guidance to the Administrator of the Substance Abuse and Mental Health Services Administration shall be construed to be a reference to the Assistant Secretary for Mental Health and Substance Use.”
 
 Centers for Disease Control changed to Centers for Disease Control and Prevention by Pub. L. 102–531, title III, § 312, Oct. 27, 1992, 106 Stat. 3504.
@@ -38810,6 +39836,9 @@ Pub. L. 114–255, div. B, title VI, § 6001(b), Dec. 13, 2016, 130 Stat. 1203, 
 
 #### Transfer Provisions
 Pub. L. 102–321, title I, subtitle D, July 10, 1992, 106 Stat. 370, as amended by Pub. L. 102–352, § 2(b)(1), Aug. 26, 1992, 106 Stat. 939, provided that: “SEC. 141. TRANSFERS.“(a) Substance Abuse and Mental Health Services Administration.—Except as specifically provided otherwise in this Act [see Tables for classification] or an amendment made by this Act, there are transferred to the Administrator of the Substance Abuse and Mental Health Services Administration all service related functions which the Administrator of the Alcohol, Drug Abuse and Mental Health Administration, or the Director of any entity within the Alcohol, Drug Abuse and Mental Health Administration, exercised before the date of the enactment of this Act [July 10, 1992] and all related functions of any officer or employee of the Alcohol, Drug Abuse and Mental Health Administration. “(b) National Institutes.—Except as specifically provided otherwise in this Act or an amendment made by this Act, there are transferred to the appropriate Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health, through the Director of the National Institutes of Health, all research related functions which the Administrator of the Alcohol, Drug Abuse and Mental Health Administration exercised before the date of the enactment of this Act and all related functions of any officer or employee of the Alcohol, Drug Abuse, and Mental Health Administration. “(c) Adequate Personnel and Resources.—The transfers required under this subtitle shall be effectuated in a manner that ensures that the Substance Abuse and Mental Health Services Administration has adequate personnel and resources to carry out its statutory responsibilities and that the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health have adequate personnel and resources to enable such institutes to carry out their respective statutory responsibilities. “SEC. 142. TRANSFER AND ALLOCATIONS OF APPROPRIATIONS AND PERSONNEL.“(a) Substance Abuse and Mental Health Services Administration.—Except as otherwise provided in the Public Health Service Act [[42 U.S.C. 201](./chapter-6a-public-health-service.md#section-201) et seq.], all personnel employed in connection with, and all assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, used, held, arising from, available to, or to be made available in connection with the functions transferred to the Administrator of the Substance Abuse and Mental Health Services Administration by this subtitle, subject to [section 1531 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1531&num=0&edition=prelim), United States Code, shall be transferred to the Substance Abuse and Mental Health Services Administration. Unexpended funds transferred pursuant to this subsection shall be used only for the purposes for which the funds were originally authorized and appropriated. “(b) National Institutes.—Except as otherwise provided in the Public Health Service Act, all personnel employed in connection with, and all assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, used, held, arising from, available to, or to be made available in connection with the functions transferred to the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health by this subtitle, subject to [section 1531 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1531&num=0&edition=prelim), United States Code, shall be transferred to the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health. Unexpended funds transferred pursuant to this subsection shall be used only for the purposes for which the funds were originally authorized and appropriated. “(c) Custody of Balances.—The actual transfer of custody of obligation balances is not required in order to implement this section. “SEC. 143. INCIDENTAL TRANSFERS.“Prior to October 1, 1992, the Secretary of Health and Human Services is authorized to make such determinations as may be necessary with regard to the functions transferred by this subtitle, and to make such additional incidental dispositions of personnel, assets, liabilities, grants, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds held, used, arising from, available to, or to be made available in connection with such functions, as may be necessary to carry out the provisions of this subtitle and the Public Health Service Act [[42 U.S.C. 201](./chapter-6a-public-health-service.md#section-201) et seq.]. Such Secretary shall provide for the termination of the affairs of all entities terminated by this subtitle and for such further measures and dispositions as may be necessary to effectuate the purposes of this subtitle. “SEC. 144. EFFECT ON PERSONNEL.“(a) In General.—Except as otherwise provided by this subtitle and the Public Health Service Act [[42 U.S.C. 201](./chapter-6a-public-health-service.md#section-201) et seq.], the transfer pursuant to this subtitle of full-time personnel (except special Government employees) and part-time personnel holding permanent positions shall not cause any such employee to be separated or reduced in grade or compensation for one year after the date of transfer of such employee under this subtitle. “(b) Executive Schedule Positions.—Any person who, on the day preceding the effective date of this Act [see Effective Date of 1992 Amendment note set out under [section 236 of this title](./chapter-6a-public-health-service.md#section-236)], held a position compensated in accordance with the Executive Schedule prescribed in chapter 53 of title 5, United States Code, and who, without a break in service, is appointed in the Substance Abuse and Mental Health Services Administration to a position having duties comparable to the duties performed immediately preceding such appointment shall continue to be compensated in such new position at not less than the rate provided for such previous position, for the duration of the service of such person in such new position. “SEC. 145. SAVINGS PROVISIONS.“(a) Effect on Previous Determinations.—All orders, determinations, rules, regulations, permits, contracts, certificates, licenses, and privileges that—“(1) have been issued, made, granted, or allowed to become effective by the President, any Federal agency or official thereof, or by a court of competent jurisdiction, in the performance of functions which are transferred by this subtitle; and “(2) are in effect on the date of enactment of this Act [July 10, 1992]; shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law by the President, the Director of the National Institutes of Health, or the Administrator of the Substance Abuse and Mental Health Services Administration, as appropriate, a court of competent jurisdiction, or by operation of law. “(b) Continuation of Proceedings.—“(1) In general.—The provisions of this subtitle shall not affect any proceedings, including notices of proposed rule making, or any application for any license, permit, certificate, or financial assistance pending on the date of enactment of this Act before the Department of Health and Human Services, which relates to the Alcohol, Drug Abuse and Mental Health Administration or the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, or the National Institute of Mental Health, or any office thereof with respect to functions transferred by this subtitle. Such proceedings or applications, to the extent that they relate to functions transferred, shall be continued. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made under such orders, as if this Act [see Tables for classification] had not been enacted, and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by the Administrator of the Substance Abuse and Mental Health Services Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health by a court of competent jurisdiction, or by operation of law. Nothing in this subsection prohibits the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this subtitle had not been enacted. “(2) Regulations.—The Secretary of Health and Human Services is authorized to issue regulations providing for the orderly transfer of proceedings continued under paragraph (1). “(c) Effect on Legal Actions.—Except as provided in subsection (e)—“(1) the provisions of this subtitle do not affect actions commenced prior to the date of enactment of this Act [July 10, 1992]; and “(2) in all such actions, proceedings shall be had, appeals taken, and judgments rendered in the same manner and effect as if this Act had not been enacted. “(d) No Abatement of Actions or Proceedings.—No action or other proceeding commenced by or against any officer in his official capacity as an officer of the Department of Health and Human Services with respect to functions transferred by this subtitle shall abate by reason of the enactment of this Act [see Tables for classification]. No cause of action by or against the Department of Health and Human Services with respect to functions transferred by this subtitle, or by or against any officer thereof in his official capacity, shall abate by reason of the enactment of this Act. Causes of action and actions with respect to a function transferred by this subtitle, or other proceedings may be asserted by or against the United States or the Administrator of the Alcohol, Drug Abuse and Mental Health Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, and the National Institute of Mental Health, as may be appropriate, and, in an action pending when this Act takes effect [see Effective Date of 1992 Amendment note set out under [section 236 of this title](./chapter-6a-public-health-service.md#section-236)], the court may at any time, on its own motion or that of any party, enter an order which will give effect to the provisions of this subsection. “(e) Substitution.—If, before the date of enactment of this Act [July 10, 1992], the Department of Health and Human Services, or any officer thereof in the official capacity of such officer, is a party to an action, and under this subtitle any function of such Department, Office, or officer is transferred to the Administrator of the Substance Abuse and Mental Health Services Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health, then such action shall be continued with the Administrator of the Substance Abuse and Mental Health Services Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health, as the case may be, substituted or added as a party. “(f) Judicial Review.—Orders and actions of the Administrator of the Substance Abuse and Mental Health Services Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health in the exercise of functions transferred to the Directors by this subtitle shall be subject to judicial review to the same extent and in the same manner as if such orders and actions had been by the Administrator of the Alcohol, Drug Abuse and Mental Health Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, and the National Institute of Mental Health, or any office or officer thereof, in the exercise of such functions immediately preceding their transfer. Any statutory requirements relating to notice, hearings, action upon the record, or administrative review that apply to any function transferred by this subtitle shall apply to the exercise of such function by the Administrator of the Substance Abuse and Mental Health Services Administration or the Directors. “SEC. 146. TRANSITION.“With the consent of the Secretary of Health and Human Services, the Administrator of the Substance Abuse and Mental Health Services Administration and the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health are authorized to utilize—“(1) the services of such officers, employees, and other personnel of the Department with respect to functions transferred to the Administrator of the Substance Abuse and Mental Health Services Administration and the Director of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health by this subtitle; and “(2) funds appropriated to such functions for such period of time as may reasonably be needed to facilitate the orderly implementation of this subtitle. “SEC. 147. PEER REVIEW.“With respect to fiscal years 1993 through 1996, the peer review systems, advisory councils and scientific advisory committees utilized, or approved for utilization, by the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health prior to the transfer of such Institutes to the National Institute of Health shall be utilized by such Institutes. “SEC. 148. MERGERS.“Notwithstanding the provisions of section 401(c)(2) of the Public Health Service Act ([42 U.S.C. 281(c)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section281/c/2&num=0&edition=prelim)), the Secretary of Health and Human Services may not merge the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse or the National Institute of Mental Health with any other institute or entity (or with each other) within the national research institutes for a 5-year period beginning on the date of enactment of this Act [July 10, 1992]. “SEC. 149. CONDUCT OF MULTI-YEAR RESEARCH PROJECTS.“With respect to multi-year grants awarded prior to fiscal year 1993 by the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, and the National Institute of Mental Health with amounts received under section 1911(b) [former [42 U.S.C. 300x(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300x/b&num=0&edition=prelim)], as such section existed one day prior to the date of enactment of this Act [July 10, 1992], such grants shall be continued for the entire period of the grant through the utilization of funds made available pursuant to sections 464H, 464L, and 464R [[42 U.S.C. 285n](./chapter-6a-public-health-service.md#section-285n), 285o, 285p], as appropriate, subject to satisfactory performance. “SEC. 150. SEPARABILITY.“If a provision of this subtitle or its application to any person or circumstance is held invalid, neither the remainder of this Act [see Tables for classification] nor the application of the provision to other persons or circumstances shall be affected. “SEC. 151. BUDGETARY AUTHORITY.“With respect to fiscal years 1994 and 1995, the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, and the National Institute of Mental Health shall notwithstanding section 405(a) [[42 U.S.C. 284(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section284/a&num=0&edition=prelim)], prepare and submit, directly to the President for review and transmittal to Congress, an annual budget estimate (including an estimate of the number and type of personnel needs for the Institute) for their respective Institutes, after reasonable opportunity for comment (but without change) by the Secretary of Health and Human Services, the Director of the National Institutes of Health, and the Institute’s advisory council.”
+
+#### Funding for Community-Based Funding for Local Behavioral Health Needs
+Pub. L. 117–2, title II, § 2707, Mar. 11, 2021, 135 Stat. 47, provided that: “(a) In General.—In addition to amounts otherwise available, there is appropriated to the Secretary [of Health and Human Services] for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $50,000,000, to remain available until expended, to carry out the purpose described in subsection (b). “(b) Use of Funds.—“(1) In general.—The Secretary, acting through the Assistant Secretary for Mental Health and Substance Use, shall award grants to State, local, Tribal, and territorial governments, Tribal organizations, nonprofit community-based entities, and primary care and behavioral health organizations to address increased community behavioral health needs worsened by the COVID–19 public health emergency. “(2) Use of grant funds.—Grant funds awarded under this section to eligible entities shall be used for promoting care coordination among local entities; training the mental and behavioral health workforce, relevant stakeholders, and community members; expanding evidence-based integrated models of care; addressing surge capacity for mental and behavioral health needs; providing mental and behavioral health services to individuals with mental health needs (including co-occurring substance use disorders) as delivered by behavioral and mental health professionals utilizing telehealth services; and supporting, enhancing, or expanding mental and behavioral health preventive and crisis intervention services.”
 
 #### Interdepartmental Substance Use Disorders Coordinating Committee
 Pub. L. 115–271, title VII, § 7022, Oct. 24, 2018, 132 Stat. 4010, provided that: “(a) Establishment.—Not later than 3 months after the date of the enactment of this Act [Oct. 24, 2018], the Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall, in coordination with the Director of National Drug Control Policy, establish a committee, to be known as the Interdepartmental Substance Use Disorders Coordinating Committee (in this section referred to as the ‘Committee’), to coordinate Federal activities related to substance use disorders. “(b) Membership.—“(1) Federal members.—The Committee shall be composed of the following Federal representatives, or the designees of such representatives:“(A) The Secretary, who shall serve as the Chair of the Committee. “(B) The Attorney General of the United States. “(C) The Secretary of Labor. “(D) The Secretary of Housing and Urban Development. “(E) The Secretary of Education. “(F) The Secretary of Veterans Affairs. “(G) The Commissioner of Social Security. “(H) The Assistant Secretary for Mental Health and Substance Use. “(I) The Director of National Drug Control Policy. “(J) Representatives of other Federal agencies that support or conduct activities or programs related to substance use disorders, as determined appropriate by the Secretary. “(2) Non-federal members.—The Committee shall include a minimum of 15 non-Federal members appointed by the Secretary, of which—“(A) at least two such members shall be an individual who has received treatment for a diagnosis of a substance use disorder; “(B) at least two such members shall be a director of a State substance abuse agency; “(C) at least two such members shall be a representative of a leading research, advocacy, or service organization for adults with substance use disorder; “(D) at least two such members shall—“(i) be a physician, licensed mental health professional, advance practice registered nurse, or physician assistant; and “(ii) have experience in treating individuals with substance use disorders; “(E) at least one such member shall be a substance use disorder treatment professional who provides treatment services at a certified opioid treatment program; “(F) at least one such member shall be a substance use disorder treatment professional who has research or clinical experience in working with racial and ethnic minority populations; “(G) at least one such member shall be a substance use disorder treatment professional who has research or clinical mental health experience in working with medically underserved populations; “(H) at least one such member shall be a State-certified substance use disorder peer support specialist; “(I) at least one such member shall be a drug court judge or a judge with experience in adjudicating cases related to substance use disorder; “(J) at least one such member shall be a public safety officer with extensive experience in interacting with adults with a substance use disorder; and “(K) at least one such member shall be an individual with experience providing services for homeless individuals with a substance use disorder. “(c) Terms.—“(1) In general.—A member of the Committee appointed under subsection (b)(2) shall be appointed for a term of 3 years and may be reappointed for one or more 3-year terms. “(2) Vacancies.—A vacancy on the Committee shall be filled in the same manner in which the original appointment was made. Any individual appointed to fill a vacancy for an unexpired term shall be appointed for the remainder of such term and may serve after the expiration of such term until a successor has been appointed. “(d) Meetings.—The Committee shall meet not fewer than two times each year. “(e) Duties.—The Committee shall—“(1) identify areas for improved coordination of activities, if any, related to substance use disorders, including research, services, supports, and prevention activities across all relevant Federal agencies; “(2) identify and provide to the Secretary recommendations for improving Federal programs for the prevention and treatment of, and recovery from, substance use disorders, including by expanding access to prevention, treatment, and recovery services; “(3) analyze substance use disorder prevention and treatment strategies in different regions of and populations in the United States and evaluate the extent to which Federal substance use disorder prevention and treatment strategies are aligned with State and local substance use disorder prevention and treatment strategies; “(4) make recommendations to the Secretary regarding any appropriate changes with respect to the activities and strategies described in paragraphs (1) through (3); “(5) make recommendations to the Secretary regarding public participation in decisions relating to substance use disorders and the process by which public feedback can be better integrated into such decisions; and “(6) make recommendations to ensure that substance use disorder research, services, supports, and prevention activities of the Department of Health and Human Services and other Federal agencies are not unnecessarily duplicative. “(f) Annual Report.—Not later than 1 year after the date of the enactment of this Act [Oct. 24, 2018], and annually thereafter for the life of the Committee, the Committee shall publish on the Internet website of the Department of Health and Human Services, which may include the public information dashboard established under section 1711 of the Public Health Service Act [[42 U.S.C. 300u–16](./chapter-6a-public-health-service.md#section-300u-16)], as added by section 7021, a report summarizing the activities carried out by the Committee pursuant to subsection (e), including any findings resulting from such activities. “(g) Working Groups.—The Committee may establish working groups for purposes of carrying out the duties described in subsection (e). Any such working group shall be composed of members of the Committee (or the designees of such members) and may hold such meetings as are necessary to enable the working group to carry out the duties delegated to the working group. “(h) Federal Advisory Committee Act.—The Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the Committee only to the extent that the provisions of such Act do not conflict with the requirements of this section. “(i) Sunset.—The Committee shall terminate on the date that is 6 years after the date on which the Committee is established under subsection (a).”
@@ -40835,7 +41864,7 @@ Services shall be provided under paragraphs (2) through (8) by a public health n
 
 (1) a description of the population that is to receive services under this section and a description of such services that are to be provided and measurable goals and objectives;
 
-(2) a description of the mechanism that will be used to involve the local public agencies responsible for health, including maternal and child health 22 So in original. Probably should be followed by a comma. mental health, child welfare, education, juvenile justice, developmental disabilities, and substance abuse in planning and providing services under this section, as well as evidence that the proposal has been coordinated with the State agencies responsible for administering those programs, the State agency responsible for administering alcohol and drug programs, the State lead agency, and the State Interagency Coordinating Council under part H 33 See References in Text note below. of the Individuals with Disabilities Education Act; and; 44 So in original. The semicolon probably should not appear after “and”.
+(2) a description of the mechanism that will be used to involve the local public agencies responsible for health, including maternal and child health 22 So in original. Probably should be followed by a comma. mental health, child welfare, education, juvenile justice, developmental disabilities, and substance abuse in planning and providing services under this section, as well as evidence that the proposal has been coordinated with the State agencies responsible for administering those programs, the State agency responsible for administering alcohol and drug programs, the State lead agency, and the State Interagency Coordinating Council under part H 1 of the Individuals with Disabilities Education Act; and; 33 So in original. The semicolon probably should not appear after “and”.
 
 (3) such other information as the Secretary determines to be appropriate.
 
@@ -40881,7 +41910,7 @@ Services shall be provided under paragraphs (2) through (8) by a public health n
 
 (4) in improving parental and family functioning, including increased participation in work or employment-related activities and decreased participation in welfare programs.
 
-**(l) Report to Congress** Not later than 2 years after the date on which amounts are first appropriated under subjection 55 So in original. Probably should be “subsection”. (o), the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report that contains a description of programs carried out under this section. At a minimum, the report shall contain—
+**(l) Report to Congress** Not later than 2 years after the date on which amounts are first appropriated under subjection 44 So in original. Probably should be “subsection”. (o), the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report that contains a description of programs carried out under this section. At a minimum, the report shall contain—
 
 (1) information concerning the number and type of programs receiving grants;
 
@@ -40891,8 +41920,8 @@ Services shall be provided under paragraphs (2) through (8) by a public health n
 
   (A) the number and characteristics of families, parents, and children served; and
 
-  (B) the number of children served who remained with their parents during or after the period in which entities provided services under this section.66 So in original. The period probably should be a semicolon.
-  analyzed by the type of entity described in subsection (e) that provided services; 77 So in original. The semicolon probably should be a period.
+  (B) the number of children served who remained with their parents during or after the period in which entities provided services under this section.55 So in original. The period probably should be a semicolon.
+  analyzed by the type of entity described in subsection (e) that provided services; 66 So in original. The semicolon probably should be a period.
 
 **(m) Data collection** The Secretary shall periodically collect and report on information concerning the numbers of children in substance abusing families, including information on the age, gender and ethnicity of the children, the composition and income of the family, and the source of health care finances. The periodic report shall include a quantitative estimate of the prevalence of alcohol and drug problems in families involved in the child welfare system, the barriers to treatment and prevention services facing these families, and policy recommendations for removing the identified barriers, including training for child welfare workers.
 
@@ -41542,7 +42571,7 @@ Section was not enacted as part of the Public Health Service Act which comprises
 Section was formerly classified to [section 257a of this title](./chapter-6a-public-health-service.md#section-257a).
 
 #### Change of Name
-“Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+“Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
 
 <a id="section-290bb-3-to-290bb-5"></a>
@@ -43696,9 +44725,6 @@ The prohibitions of this section do not apply to the reporting under State law o
 
 ### Statutory Notes
 
-#### Applicability of Amendment
-Amendments by Pub. L. 116–136 to be applicable with respect to uses and disclosures of information occurring on or after the date that is 12 months after Mar. 27, 2020, based on required revisions to implementing regulations, see 2020 Amendment notes and Regulations note set out below.
-
 #### References in Text
 The Social Security Act, referred to in subsec. (f), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part C of title XI of the Act is classified generally to part C (§ 1320d et seq.) of subchapter XI of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
@@ -43842,6 +44868,9 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (a)(1) and (c)
 
 #### Prior Provisions
 A prior section 290dd–3, act July 1, 1944, ch. 373, title V, § 544, formerly Pub. L. 91–616, title III, § 333, Dec. 31, 1970, 84 Stat. 1853, as amended Pub. L. 93–282, title I, § 122(a), May 14, 1974, 88 Stat. 131; Pub. L. 94–581, title I, § 111(c)(4), Oct. 21, 1976, 90 Stat. 2852; renumbered § 523 of act July 1, 1944, Apr. 26, 1983, Pub. L. 98–24, § 2(b)(13), 97 Stat. 181; Aug. 27, 1986, Pub. L. 99–401, title I, § 106(a), 100 Stat. 907; renumbered § 544, July 22, 1987, Pub. L. 100–77, title VI, § 611(2), 101 Stat. 516; June 13, 1991, Pub. L. 102–54, § 13(q)(1)(A)(ii), 105 Stat. 278, which related to confidentiality of patient records for alcohol abuse and alcoholism programs, was omitted in the general revision of this part by Pub. L. 102–321. See [section 290dd–2 of this title](./chapter-6a-public-health-service.md#section-290dd-2).
+
+#### Funding for Community-Based Funding for Local Substance Use Disorder Services
+Pub. L. 117–2, title II, § 2706, Mar. 11, 2021, 135 Stat. 47, provided that: “(a) In General.—In addition to amounts otherwise available, there is appropriated to the Secretary [of Health and Human Services] for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $30,000,000, to remain available until expended, to carry out the purpose described in subsection (b). “(b) Use of Funds.—“(1) In general.—The Secretary, acting through the Assistant Secretary for Mental Health and Substance Use and in consultation with the Director of the Centers for Disease Control and Prevention, shall award grants to support States; local, Tribal, and territorial governments; Tribal organizations; nonprofit community-based organizations; and primary and behavioral health organizations to support community-based overdose prevention programs, syringe services programs, and other harm reduction services. “(2) Use of grant funds.—Grant funds awarded under this section to eligible entities shall be used for preventing and controlling the spread of infectious diseases and the consequences of such diseases for individuals with substance use disorder, distributing opioid overdose reversal medication to individuals at risk of overdose, connecting individuals at risk for, or with, a substance use disorder to overdose education, counseling, and health education, and encouraging such individuals to take steps to reduce the negative personal and public health impacts of substance use or misuse.”
 
 #### Improving Access to Overdose Treatment
 Pub. L. 114–198, title I, § 107(b), July 22, 2016, 130 Stat. 705, provided that: “(1) Information on best practices.—Not later than 180 days after the date of enactment of this Act [July 22, 2016]:“(A) The Secretary of Health and Human Services may provide information to prescribers within Federally qualified health centers (as defined in paragraph (4) of section 1861(aa) of the Social Security Act ([42 U.S.C. 1395x(aa)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/aa&num=0&edition=prelim))), and the health care facilities of the Indian Health Service, on best practices for prescribing or co-prescribing a drug or device approved or cleared under the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) et seq.) for emergency treatment of known or suspected opioid overdose, including for patients receiving chronic opioid therapy and patients being treated for opioid use disorders. “(B) The Secretary of Defense may provide information to prescribers within Department of Defense medical facilities on best practices for prescribing or co-prescribing a drug or device approved or cleared under the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) et seq.) for emergency treatment of known or suspected opioid overdose, including for patients receiving chronic opioid therapy and patients being treated for opioid use disorders. “(C) The Secretary of Veterans Affairs may provide information to prescribers within Department of Veterans Affairs medical facilities on best practices for prescribing or co-prescribing a drug or device approved or cleared under the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) et seq.) for emergency treatment of known or suspected opioid overdose, including for patients receiving chronic opioid therapy and patients being treated for opioid use disorders. “(2) Rule of construction.—Nothing in this subsection should be construed to establish or contribute to a medical standard of care.”
@@ -45679,6 +46708,9 @@ Subsec. (e). Pub. L. 91–296, § 104, authorized any State to make transfers of
 
 Subsec. (e)(2)(E). Pub. L. 90–574, § 402(b)(2), added subpar. (E).
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsecs. (a)(2), (e), and (f) pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Effective Date of 1970 Amendment
 Pub. L. 91–296, title I, § 103(a), June 30, 1970, 84 Stat. 338, provided that the amendment made by that section is effective with respect to appropriations made pursuant to [section 291a of this title](./chapter-6a-public-health-service.md#section-291a) for fiscal years beginning after June 30, 1970.
 
@@ -45690,12 +46722,6 @@ Pub. L. 91–296, title I, § 119(e), June 30, 1970, 84 Stat. 343, provided that
 
 Pub. L. 91–296, title I, § 122, June 30, 1970, 84 Stat. 344, provided that the amendment made by that section is effective with respect to allotments made from appropriations under [section 291a of this title](./chapter-6a-public-health-service.md#section-291a) for fiscal years beginning after June 30, 1970.
 
-#### Transfer of Functions
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
-
-#### Termination of Trust Territory of the Pacific Islands
-For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
-
 #### Availability of Funds for Obligation From Allotment for Administration of Plan
 Pub. L. 93–641, § 5(b), Jan. 4, 1975, 88 Stat. 2274, provided that any State having in the fiscal year ending June 30, 1975 or the next fiscal year funds available for obligation from its allotments under section 291a et seq. of this title, may in such fiscal year use for the proper and efficient administration during such year of its State plan an amount of such funds not exceeding 4 percentum of such funds or $100,000, whichever is less.
 
@@ -45704,6 +46730,12 @@ Pub. L. 91–296, title I, § 103(c), June 30, 1970, 84 Stat. 338, directed Secr
 
 #### Approval of Application for Modernization Prior to July 1, 1965, or Before Approval of a State Plan
 Pub. L. 88–443, § 3(b)(5), Aug. 18, 1964, 78 Stat. 462, providing that no application for modernization of any facility may be approved for purposes of receiving funds before the approval of a State plan, as well as other requirements, is set out as an Effective Date note under [section 291 of this title](./chapter-6a-public-health-service.md#section-291).
+
+#### Transfer of Functions
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
+
+#### Termination of Trust Territory of the Pacific Islands
+For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
 
 
 <a id="section-291d"></a>
@@ -45747,6 +46779,9 @@ Provisions similar to those comprising this section were contained in a prior se
 
 1964—Subsec. (a)(4). Pub. L. 88–581 struck out cl. (4) relating to hospital facilities which “will include new or expanded facilities for nurse training”.
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Effective Date of 1970 Amendment
 Pub. L. 91–296, title I, § 110, June 30, 1970, 84 Stat. 339, provided that the amendment made by that section is effective with respect to applications approved under this subchapter after June 30, 1970.
 
@@ -45754,9 +46789,7 @@ Pub. L. 91–296, title I, § 110, June 30, 1970, 84 Stat. 339, provided that th
 Pub. L. 88–581, § 3(b), Sept. 4, 1964, 78 Stat. 919, provided that the amendments made by such section 3(b) [amending this section and sections 291o and 293c of this title] are effective with respect to applications for grants from appropriations for fiscal years beginning after June 30, 1965.
 
 #### Transfer of Functions
-“Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
-
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim). Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
 
 
 <a id="section-291e"></a>
@@ -45817,16 +46850,20 @@ Subsec. (a)(5). Pub. L. 91–296, § 116(c), substituted “outpatient facilitie
 
 Subsec. (a)(13). Pub. L. 91–296, § 123, added par. (13).
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (a)(13) pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Effective Date of 1970 Amendment
 Pub. L. 91–296, title I, § 115, June 30, 1970, 84 Stat. 341, provided that the amendment made by that section is effective July 1, 1970.
 
 #### Transfer of Functions
 Functions, powers, and duties of Secretary of Health and Human Services under subsec. (a)(8) of this section, insofar as relates to the prescription of personnel standards on a merit basis, transferred to Office of Personnel Management, see [section 4728(a)(3)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4728/a/3/C&num=0&edition=prelim).
 
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
-
 #### Funds for Modernization Projects; Conditions To Be Met Before Approval
 Pub. L. 88–443, § 3(b)(5), Aug. 18, 1964, 78 Stat. 462, provided that no application with respect to a modernization project may be approved for purposes of receiving funds from an allotment under [section 291(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section291/a/2&num=0&edition=prelim) before July 1, 1965, or before a State plan has been approved, as well as certain other requirements. See Effective Date note under [section 291 of this title](./chapter-6a-public-health-service.md#section-291).
+
+#### Transfer of Functions
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
 
 
 <a id="section-291f"></a>
@@ -45873,21 +46910,22 @@ A prior section 291v(d), act July 1, 1944, ch. 373, title VI, § 654, as added J
 
 Subsec. (e). Pub. L. 91–296, § 116(e), substituted “an outpatient facility” for “a diagnostic or treatment center” and inserted provisions extending coverage to include corporations and associations which, although not owning or operating hospitals offer services of a general hospital to patients in need of hospital care.
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (b) pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Effective Date of 1970 Amendment
 Pub. L. 91–296, title I, § 111(a), June 30, 1970, 84 Stat. 340, provided that the amendment made by that section is effective with respect to applications approved under this subchapter after June 30, 1970.
 
 Pub. L. 91–296, title I, § 116(e), June 30, 1970, 84 Stat. 342, applicable with respect to applications approved under this subchapter after June 30, 1970, see section 116(g) of Pub. L. 91–296, set out as a note under section 291o of this title.
-
-#### Transfer of Functions
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (b) pursuant to section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
-
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim). Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
 
 #### Applications Approved Prior to Aug. 18, 1964
 Pub. L. 88–443, § 3(b)(1), Aug. 18, 1964, 78 Stat. 462, providing that applications approved, and allotments appropriated prior to Aug. 18, 1964, shall be governed by this subchapter as in effect prior to such date, is set out as an Effective Date note under [section 291 of this title](./chapter-6a-public-health-service.md#section-291).
 
 #### Funds for Modernization Projects; Conditions To Be Met Before Approval
 Pub. L. 88–443, § 3(b)(5), Aug. 18, 1964, 78 Stat. 462, provided that no application with respect to a modernization project may be approved for purposes of receiving funds from an allotment under [section 291(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section291/a/2&num=0&edition=prelim) before July 1, 1965, or before a State plan has been approved, as well as certain other requirements. See Effective Date note set out under [section 291 of this title](./chapter-6a-public-health-service.md#section-291).
+
+#### Transfer of Functions
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
 
 
 <a id="section-291g"></a>
@@ -45914,11 +46952,14 @@ Provisions similar to those comprising subsec. (a) of this section were containe
 
 Subsec. (c)(2). Pub. L. 91–296, § 112(2), substituted “June 30, 1970” for “June 30, 1964”.
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Effective Date of 1970 Amendment
 Pub. L. 91–296, title I, § 112, June 30, 1970, 84 Stat. 340, provided that the amendment made by that section is effective with respect to expenditures under a State plan approved under this subchapter which are made for administration of such plan during any fiscal year beginning after June 30, 1970.
 
 #### Transfer of Functions
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
 
 
 <a id="section-291h"></a>
@@ -45947,8 +46988,11 @@ A prior section 291g, act July 1, 1944, ch. 373, title VI, § 624, as added Aug.
 
 Provisions similar to those comprising this section were contained in former section 291j(a), acts July 1, 1944, ch. 373, title VI, § 632, as added Aug. 13, 1946, ch. 958, § 2, 60 Stat. 1041; amended Oct. 25, 1949, ch. 722, § 4, 63 Stat. 900; July 12, 1954, ch. 471, § 4(g), 68 Stat. 466, prior to the general amendment of this subchapter by Pub. L. 88–443.
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Transfer of Functions
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
 
 
 <a id="section-291i"></a>
@@ -45966,8 +47010,11 @@ A prior section 291h, act July 1, 1944, ch. 373, title VI, § 625, as added Aug.
 
 Provisions similar to those comprising this section were contained in former section 291j(b), act July 1, 1944, ch. 373, title VI, § 632, as added Aug. 13, 1946, ch. 958, § 2, 60 Stat. 1041; amended June 28, 1948, ch. 646, § 32(a), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; July 12, 1954, ch. 471, § 4(g), 68 Stat. 466; Aug. 28, 1958, Pub. L. 85–791, § 27, 72 Stat. 950, prior to the general amendment of this subchapter by Pub. L. 88–443.
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Transfer of Functions
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
 
 
 <a id="section-291j"></a>
@@ -46037,11 +47084,14 @@ the United States shall be entitled to recover from either the transferor or the
 
 1970—Cl. (b). Pub. L. 91–296 substituted “outpatient facility” for “diagnostic or treatment center”.
 
-#### Transfer of Functions
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
+#### Change of Name
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsecs. (b), (c), and (d) pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
 #### Regulations and Personnel
 Pub. L. 98–369, div. B, title III, § 2381(c), July 18, 1984, 98 Stat. 1116, provided that: “Not later than the expiration of the one-hundred-and-eighty-day period beginning on the date of the enactment of this section [July 18, 1984], the Secretary shall have in effect regulations and personnel to place in effect the amendments made by this section [amending sections 291i and 300s–1a of this title].”
+
+#### Transfer of Functions
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
 
 
 <a id="section-291j-1"></a>
@@ -46070,8 +47120,11 @@ A prior section 291j, act July 1, 1944, ch. 373, title VI, § 632, as added Aug.
 
 Provisions similar to those comprising this section were contained in sections 291w to 291z of this title, prior to the general amendment of this subchapter by Pub. L. 88–443.
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Transfer of Functions
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
 
 
 <a id="section-291j-10"></a>
@@ -46282,10 +47335,8 @@ Provisions similar to those comprising this section were contained in subsec. (b
 
 1970—Subsec. (e). Pub. L. 91–515 struck out subsec. (e) which related to payment of compensation and travel expenses of appointed Council members and members of advisory or technical committees while serving on Council business.
 
-#### Transfer of Functions
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (a) pursuant to section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
-
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim). Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
+#### Change of Name
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (a) pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
 #### Terms of Federal Hospital Council Members
 Pub. L. 88–443, § 3(b)(3), Aug. 18, 1964, 78 Stat. 462, providing that the terms of members serving on the Council prior to Aug. 18, 1964, shall expire on the date they would have expired had Pub. L. 88–443 not been enacted, is set out as an Effective Date note under [section 291 of this title](./chapter-6a-public-health-service.md#section-291).
@@ -46295,6 +47346,9 @@ Pub. L. 93–641, § 6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under [se
 
 #### Definitions
 For meaning of references to an intellectual disability and to individuals with intellectual disabilities in provisions amended by section 2 of Pub. L. 111–256, see section 2(k) of Pub. L. 111–256, set out as a note under [section 1400 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1400&num=0&edition=prelim), Education.
+
+#### Transfer of Functions
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
 
 
 <a id="section-291m"></a>
@@ -46307,8 +47361,11 @@ Whenever in his opinion the purposes of this subchapter would be promoted by a c
 #### Prior Provisions
 A prior section 291l, act July 1, 1944, ch. 373, title VI, § 634, as added Aug. 13, 1946, ch. 958, § 2, 60 Stat. 1041, contained provisions similar to this section, prior to the general amendment of this subchapter by Pub. L. 88–443.
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Transfer of Functions
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
 
 
 <a id="section-291m-1"></a>
@@ -46438,6 +47495,9 @@ Subsec. (i). Pub. L. 91–296, § 118, inserted reference to equipment of any bu
 
 1964—Subsec. (c). Pub. L. 88–581 substituted “nurses’ home facilities” for “nurses’ home and training facilities”.
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (b) pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Effective Date of 1970 Amendment
 Pub. L. 91–296, title I, § 113, June 30, 1970, 84 Stat. 340, provided that the amendment made by that section is effective with respect to projects approved under this subchapter after June 30, 1970.
 
@@ -46455,7 +47515,7 @@ Amendment by section 119(d) of Pub. L. 91–296 applicable with respect to allot
 Amendment by Pub. L. 88–581 effective with respect to applications for grants from appropriations for fiscal years beginning after June 30, 1965, see section 3(b) of Pub. L. 88–581, set out as a note under [section 291c of this title](./chapter-6a-public-health-service.md#section-291c).
 
 #### Transfer of Functions
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
 
 #### Termination of Trust Territory of the Pacific Islands
 For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
@@ -50151,6 +51211,9 @@ Another prior section 765 of act July 1, 1944, was classified to [section 295d o
 #### Amendments
 2010—Subsec. (d)(8), (9). Pub. L. 111–148 added par. (8) and redesignated former par. (8) as (9).
 
+#### Funding for Public Health Workforce
+Pub. L. 117–2, title II, § 2501, Mar. 11, 2021, 135 Stat. 42, provided that: “(a) In General.—In addition to amounts otherwise available, there is appropriated to the Secretary of Health and Human Services (in this subtitle [Subtitle F (§§ 2501, 2502) of title II of Pub. L. 117–2, enacting this note] referred to as the ‘Secretary’) for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $7,660,000,000, to remain available until expended, to carry out activities related to establishing, expanding, and sustaining a public health workforce, including by making awards to State, local, and territorial public health departments. “(b) Use of Funds for Public Health Departments.—Amounts made available to an awardee pursuant to subsection (a) shall be used for the following:“(1) Costs, including wages and benefits, related to the recruiting, hiring, and training of individuals—“(A) to serve as case investigators, contact tracers, social support specialists, community health workers, public health nurses, disease intervention specialists, epidemiologists, program managers, laboratory personnel, informaticians, communication and policy experts, and any other positions as may be required to prevent, prepare for, and respond to COVID–19; and “(B) who are employed by—“(i) the State, territorial, or local public health department involved; or “(ii) a nonprofit private or public organization with demonstrated expertise in implementing public health programs and established relationships with such State, territorial, or local public health departments, particularly in medically underserved areas. “(2) Personal protective equipment, data management and other technology, or other necessary supplies. “(3) Administrative costs and activities necessary for awardees to implement activities funded under this section. “(4) Subawards from recipients of awards under subsection (a) to local health departments for the purposes of the activities funded under this section.”
+
 
 <a id="section-295a"></a>
 ## § 295a. Public health training centers
@@ -51235,9 +52298,6 @@ Pars. (16), (17). Pub. L. 111–148, § 5002(c)(2), added pars. (16) and (17).
 #### Savings Provision
 Pub. L. 105–392, title I, § 124, Nov. 13, 1998, 112 Stat. 3574, provided that: “In the case of any authority for making awards of grants or contracts that is terminated by the amendment made by section 123 [enacting sections 296, 296a to 296f, 296j, 296m, 296p, 297q, and 297t of this title, transferring [section 298b–2 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section298b–2&num=0&edition=prelim) to [section 296g of this title](./chapter-6a-public-health-service.md#section-296g), and repealing sections 296k to 296m, 296r, 297, 297–1, 297c, 298, 298a, 298b, 298b–1, 298b–3 to 298b–5, and 298b–7 of this title], the Secretary of Health and Human Services may, notwithstanding the termination of the authority, continue in effect any grant or contract made under the authority that is in effect on the day before the date of the enactment of this Act [Nov. 13, 1998], subject to the duration of any such grant or contract not exceeding the period determined by the Secretary in first approving such financial assistance, or in approving the most recent request made (before the date of such enactment) for continuation of such assistance, as the case may be.”
 
-#### Termination of Trust Territory of the Pacific Islands
-For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
-
 #### Reports by Government Accountability Office
 Pub. L. 107–205, title II, § 204, Aug. 1, 2002, 116 Stat. 818, provided that: “(a) National Variations.—Not later than 4 years after the date of the enactment of this Act [Aug. 1, 2002], the Comptroller General of the United States shall conduct a survey to determine national variations in the nursing shortage at hospitals, nursing homes, and other health care providers, and submit a report, including recommendations, to the Congress on Federal remedies to ease nursing shortages. The Comptroller General shall submit to the Congress this report describing the findings relating to ownership status and associated remedies. “(b) Hiring Differences Among Certain Private Entities.—The Comptroller General of the United States shall conduct a study to determine differences in the hiring of nurses by nonprofit private entities as compared to the hiring of nurses by private entities that are not nonprofit. In carrying out the study, the Comptroller General shall determine the effect of the inclusion of private entities that are not nonprofit in the program under section 846 of the Public Health Service Act [[42 U.S.C. 297n](./chapter-6a-public-health-service.md#section-297n)]. Not later than 4 years after the date of the enactment of this Act [Aug. 1, 2002], the Comptroller General shall submit to the Congress a report describing the findings of the study. “(c) Nursing Scholarships.—The Comptroller General of the United States shall conduct an evaluation of whether the program carried out under section 846(d) of the Public Health Service Act [[42 U.S.C. 297n(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section297n/d&num=0&edition=prelim)] has demonstrably increased the number of applicants to schools of nursing and, not later than 4 years after the date of the enactment of this Act [Aug. 1, 2002], submit a report to the Congress on the results of such evaluation.”
 
@@ -51246,6 +52306,9 @@ Pub. L. 105–392, title I, § 122, Nov. 13, 1998, 112 Stat. 3562, provided that
 
 #### Information Respecting Supply and Distribution of and Requirements for Nurses; Determination Procedures; Surveys and Collection of Dates; Annual Report to Congress on Determinations, Etc.; Review by Office of Management and Budget of Report Prior to Submission
 Pub. L. 94–63, title IX, § 951, July 29, 1975, 89 Stat. 367, as amended by Pub. L. 95–623, § 12(h), Nov. 9, 1978, 92 Stat. 3457, provided that: “(a)(1) Using procedures developed in accordance with paragraph (3), the Secretary of Health, Education, and Welfare [now Health and Human Services] (hereinafter in this section referred to as the ‘Secretary’) shall determine on a continuing basis—“(A) the supply (both current and projected and within the United States and within each State) of registered nurses, licensed practical and vocational nurses, nurse’s aides, registered nurses with advanced training or graduate degrees, and nurse practitioners; “(B) the distribution within the United States and within each State, of such nurses so as to determine (i) those areas of the United States which are oversupplied or undersupplied, or which have an adequate supply of such nurses in relation to the population of the area, and (ii) the demand for the services which such nurses provide; and “(C) the current and future requirements for such nurses, nationally and within each State. “(2) The Secretary shall survey and gather data, on a continuing basis, on—“(A) the number and distribution of nurses, by type of employment and location of practice; “(B) the number of nurses who are practicing full time and those who are employed part time, within the United States and within each State; “(C) the average rates of compensation for nurses, by type of practice and location of practice; “(D) the activity status of the total number of registered nurses within the United States and within each State; “(E) the number of nurses with advanced training or graduate degrees in nursing, by specialty, including nurse practitioners, nurse clinicians, nurse researchers, nurse educators, and nurse supervisors and administrators; and “(F) the number of registered nurses entering the United States annually from other nations, by country of nurse training and by immigrant status. “(3) Within six months of the date of the enactment of this Act [July 29, 1975], the Secretary shall develop procedures for determining (on both a current and projected basis) the supply and distribution of and requirements for nurses within the United States and within each State. “(b) Not later than October 1, 1979, and October 1 of each odd-numbered year thereafter, the Secretary shall report to the Congress—“(1) his determinations under subsection (a)(1) and the data gathered under subsection (a)(2); “(2) an analysis of such determination and data; and “(3) recommendations for such legislation as the Secretary determines, based on such determinations and data, will achieve (A) an equitable distribution of nurses within the United States and within each State, and (B) adequate supplies of nurses within the United States and within each State. “(c) The Office of Management and Budget may review the Secretary’s report under subsection (b) before its submission to the Congress, but the Office may not revise the report or delay its submission, and it may submit to the Congress its comments (and those of other departments or agencies of the Government) respecting such report.”
+
+#### Termination of Trust Territory of the Pacific Islands
+For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
 
 
 <a id="section-296a"></a>
@@ -52342,7 +53405,7 @@ A prior section 846 of act July 1, 1944, was classified to [section 297k of this
 
 Subsec. (b)(1). Pub. L. 116–136, § 3404(a)(8)(B), substituted “the individual began such practice” for “he began such practice”.
 
-Subsec. (i). Pub. L. 116–136, § 3404(a)(8)(C), substituted “Allocations” for “Funding” in subsec. (i) heading and substituted “Of the amounts appropriated under [section 298d(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section298d/b&num=0&edition=prelim),” for the following: par. (1) heading, par. (1) text which read “For the purpose of payments under agreements entered into under subsection (a) or (d), there are authorized to be appropriated such sums as may be necessary for each of fiscal years 2003 through 2007.”, par. (2) heading, and “Of the amounts appropriated under paragraph (1)”.
+Subsec. (i). Pub. L. 116–136, § 3404(a)(8)(C), substituted “Allocations” for “Funding” in heading, struck out par. (1) and par. (2) designation and heading, and substituted “Of the amounts appropriated under [section 298d(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section298d/b&num=0&edition=prelim),” for “Of the amounts appropriated under paragraph (1)”. Prior to amendment, text of par. (1) read as follows: “For the purpose of payments under agreements entered into under subsection (a) or (d), there are authorized to be appropriated such sums as may be necessary for each of fiscal years 2003 through 2007.”
 
 2010—Subsec. (a)(3). Pub. L. 111–148 inserted “, or in a accredited school of nursing, as defined by [section 296(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section296/2&num=0&edition=prelim), as nurse faculty” before semicolon at end.
 
@@ -52584,11 +53647,11 @@ Pub. L. 116–136, § 3404(a)(11)(B), substituted “2 years after the date of e
 
 Subsec. (g). Pub. L. 116–136, § 3404(a)(11)(C), substituted “for carrying out parts B, C, and D” for “under this subchapter”.
 
-#### Termination of Advisory Committees
-Pub. L. 93–641, § 6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under [section 217a of this title](./chapter-6a-public-health-service.md#section-217a), provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
-
 #### Effective Date of 2020 Amendment
 Amendment by Pub. L. 116–260 effective as if included in the enactment of Pub. L. 116–136, see section 331(d) of div. BB of Pub. L. 116–260, set out as a note under [section 294c of this title](./chapter-6a-public-health-service.md#section-294c).
+
+#### Termination of Advisory Committees
+Pub. L. 93–641, § 6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under [section 217a of this title](./chapter-6a-public-health-service.md#section-217a), provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 
 
 <a id="section-297w-297x"></a>
@@ -52598,11 +53661,11 @@ Amendment by Pub. L. 116–260 effective as if included in the enactment of Pub.
 
 Section 297w, act July 1, 1944, ch. 373, title VIII, § 861, formerly § 851, as added Pub. L. 107–205, title I, § 102, Aug. 1, 2002, 116 Stat. 812; renumbered § 861, Pub. L. 111–148, title V, § 5310(b)(9)(A), Mar. 23, 2010, 124 Stat. 631, related to public service announcements by the Secretary to promote the nursing profession.
 
-Section 297x, act July 1, 1944, ch. 373, title VIII, § 862, formerly § 852, as added Pub. L. 107–205, title I, § 102, Aug. 1, 2002, 116 Stat. 812; renumbered § 862, Pub. L. 111–148, title V, § 5310(b)(9)(A), Mar. 23, 2010, 124 Stat. 631, related to State and local public service announcements to promote the nursing profession.
-
 A prior section 861 of act July 1, 1944, was classified to [section 298c of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section298c&num=0&edition=prelim), prior to the reorganization and amendment of this subchapter by Pub. L. 90–490.
 
 Another prior section 861 of act July 1, 1944, was classified to [section 298c–1 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section298c–1&num=0&edition=prelim), prior to renumbering as section 846 by Pub. L. 94–63, transfer to [section 297k of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section297k&num=0&edition=prelim), and subsequent repeal.
+
+Section 297x, act July 1, 1944, ch. 373, title VIII, § 862, formerly § 852, as added Pub. L. 107–205, title I, § 102, Aug. 1, 2002, 116 Stat. 812; renumbered § 862, Pub. L. 111–148, title V, § 5310(b)(9)(A), Mar. 23, 2010, 124 Stat. 631, related to State and local public service announcements to promote the nursing profession.
 
 A prior section 862 of act July 1, 1944, was classified to [section 298c–1 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section298c–1&num=0&edition=prelim), prior to the reorganization and amendment of this subchapter by Pub. L. 90–490.
 
@@ -52764,11 +53827,11 @@ Another prior section 299, act July 1, 1944, ch. 373, title IX, § 900, as added
 
 A prior section 901 of act July 1, 1944, was classified to [section 299a of this title](./chapter-6a-public-health-service.md#section-299a) prior to repeal by Pub. L. 99–117.
 
-#### Construction
-Pub. L. 106–129, § 2(b), Dec. 6, 1999, 113 Stat. 1670, provided that: “(1) In general.—Section 901(a) of the Public Health Service Act [[42 U.S.C. 299(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section299/a&num=0&edition=prelim)] (as added by subsection (a) of this section) applies as a redesignation of the agency that carried out title IX of such Act [[42 U.S.C. 299](./chapter-6a-public-health-service.md#section-299) et seq.] on the day before the date of the enactment of this Act [Dec. 6, 1999], and not as the termination of such agency and the establishment of a different agency. The amendment made by subsection (a) of this section [enacting this subchapter] does not affect appointments of the personnel of such agency who were employed at the agency on the day before such date, including the appointments of members of advisory councils or study sections of the agency who were serving on the day before such date of enactment. “(2) References.—Any reference in law to the Agency for Health Care Policy and Research is deemed to be a reference to the Agency for Healthcare Research and Quality, and any reference in law to the Administrator for Health Care Policy and Research is deemed to be a reference to the Director of the Agency for Healthcare Research and Quality.”
-
 #### Transitional and Savings Provisions
 Pub. L. 101–239, title VI, § 6103(f), Dec. 19, 1989, 103 Stat. 2208, provided that personnel of the Department of Health and Human Services employed, and Department assets used in connection with Department functions, on Dec. 19, 1989, be transferred to the Administrator for Health Care Policy and Research for appropriate allocation, and provided that orders, rules, regulations, grants, contracts, certificates, licenses, privileges, and other determinations, actions, or official documents would continue in effect according to their terms unless changed pursuant to law.
+
+#### Construction
+Pub. L. 106–129, § 2(b), Dec. 6, 1999, 113 Stat. 1670, provided that: “(1) In general.—Section 901(a) of the Public Health Service Act [[42 U.S.C. 299(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section299/a&num=0&edition=prelim)] (as added by subsection (a) of this section) applies as a redesignation of the agency that carried out title IX of such Act [[42 U.S.C. 299](./chapter-6a-public-health-service.md#section-299) et seq.] on the day before the date of the enactment of this Act [Dec. 6, 1999], and not as the termination of such agency and the establishment of a different agency. The amendment made by subsection (a) of this section [enacting this subchapter] does not affect appointments of the personnel of such agency who were employed at the agency on the day before such date, including the appointments of members of advisory councils or study sections of the agency who were serving on the day before such date of enactment. “(2) References.—Any reference in law to the Agency for Health Care Policy and Research is deemed to be a reference to the Agency for Healthcare Research and Quality, and any reference in law to the Administrator for Health Care Policy and Research is deemed to be a reference to the Director of the Agency for Healthcare Research and Quality.”
 
 #### IOM Reports on Best Practices for Developing Clinical Protocols
 Pub. L. 110–275, title III, § 304(b), July 15, 2008, 122 Stat. 2595, as amended by Pub. L. 111–148, title X, § 10303(c), Mar. 23, 2010, 124 Stat. 938, provided that: “(1) Study.—Not later than 60 days after the date of the enactment of this Act [July 15, 2008], the Secretary of Health and Human Services shall enter into a contract with the Institute of Medicine of the National Academies (in this section [this note] referred to as the ‘Institute’) under which the Institute shall conduct a study on the best methods used in developing clinical practice guidelines in order to ensure that organizations developing such guidelines have information on approaches that are objective, scientifically valid, and consistent. “(2) Report.—Not later than 18 months after the effective date of the contract under paragraph (1), the Institute, as part of such contract, shall submit to the Secretary of Health and Human Services and the appropriate committees of jurisdiction of Congress a report containing the results of the study conducted under paragraph (1), together with recommendations for such legislation and administrative action as the Institute determines appropriate. “(3) Participation.—The contract under paragraph (1) shall require that stakeholders with expertise in making clinical recommendations participate on the panel responsible for conducting the study under paragraph (1) and preparing the report under paragraph (2). “(4) Identification.—“(A) In general.—Following receipt of the report submitted under paragraph (2), and not less than every 3 years thereafter, the Secretary shall contract with the Institute to employ the results of the study performed under paragraph (1) and the best methods identified by the Institute for the purpose of identifying existing and new clinical practice guidelines that were developed using such best methods, including guidelines listed in the National Guideline Clearinghouse. “(B) Consultation.—In carrying out the identification process under subparagraph (A), the Secretary shall allow for consultation with professional societies, voluntary health care organizations, and expert panels.”
@@ -54657,6 +55720,55 @@ You are hereby authorized and directed to publish this memorandum in the Federal
 
 William J. Clinton.
 
+#### Protecting Women’s Health at Home and Abroad
+Memorandum of President of the United States, Jan. 28, 2021, 86 F.R. 33077, provided:
+
+Memorandum for the Secretary of State[,] the Secretary of Defense[,] the Secretary of Health and Human Services[, and] the Administrator of the United States Agency for International Development
+
+Section 1. Policy. Women should have access to the healthcare they need. For too many women today, both at home and abroad, that is not possible. Undue restrictions on the use of Federal funds have made it harder for women to obtain necessary healthcare. The Federal Government must take action to ensure that women at home and around the world are able to access complete medical information, including with respect to their reproductive health.
+
+In the United States, Title X of the Public Health Services [sic] Act ([42 U.S.C. 300](./chapter-6a-public-health-service.md#section-300) to 300a–6) provides Federal funding for family planning services that primarily benefit low-income patients. The Act specifies that Title X funds may not be used in programs where abortion is a method of family planning, but places no further abortion-related restrictions on recipients of Title X funds. See [42 U.S.C. 300a–6](./chapter-6a-public-health-service.md#section-300a-6). In 2019, the Secretary of Health and Human Services finalized changes to regulations governing the Title X program and issued a final rule entitled “Compliance With Statutory Program Integrity Requirements,” 84 FR 7714 (Mar. 4, 2019) (Title X Rule), which prohibits recipients of Title X funds from referring patients to abortion providers and imposes other onerous requirements on abortion providers. The Title X Rule has caused the termination of Federal family planning funding for many women’s healthcare providers and puts women’s health at risk by making it harder for women to receive complete medical information.
+
+It is the policy of my Administration to support women’s and girls’ sexual and reproductive health and rights in the United States, as well as globally. The Foreign Assistance Act of 1961 ([22 U.S.C. 2151b(f)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2151b/f/1&num=0&edition=prelim)), prohibits nongovernmental organizations (NGOs) that receive Federal funds from using those funds “to pay for the performance of abortions as a method of family planning, or to motivate or coerce any person to practice abortions.” The August 1984 announcement by President Reagan of what has become known as the “Mexico City Policy” directed the United States Agency for International Development (USAID) to expand this limitation and withhold USAID family planning funds from NGOs that use non-USAID funds to perform abortions, provide advice, counseling, or information regarding abortion, or lobby a foreign government to legalize abortion or make abortion services more easily available. These restrictions were rescinded by President Clinton in 1993, reinstated by President George W. Bush in 2001, and rescinded by President Obama in 2009. President Trump substantially expanded these restrictions by applying the policy to global health assistance provided by all executive departments and agencies (agencies). These excessive conditions on foreign and development assistance undermine the United States’ efforts to advance gender equality globally by restricting our ability to support women’s health and programs that prevent and respond to gender-based violence. The expansion of the policy has also affected all other areas of global health assistance, limiting the United States’ ability to work with local partners around the world and inhibiting their efforts to confront serious health challenges such as HIV/AIDS, tuberculosis, and malaria, among others. Such restrictions on global health assistance are particularly harmful in light of the coronavirus disease 2019 (COVID–19) pandemic. Accordingly, I hereby order as follows:
+
+Sec. 2. Agency Revocations and Other Actions. (a) The Secretary of Health and Human Services shall review the Title X Rule and any other regulations governing the Title X program that impose undue restrictions on the use of Federal funds or women’s access to complete medical information and shall consider, as soon as practicable, whether to suspend, revise, or rescind, or publish for notice and comment proposed rules suspending, revising, or rescinding, those regulations, consistent with applicable law, including the Administrative Procedure Act [see [5 U.S.C. 551](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section551&num=0&edition=prelim) to 559, 701 to 706].
+
+(b) The Presidential Memorandum of January 23, 2017 (The Mexico City Policy) [82 F.R. 8495], is revoked.
+
+(c) The Secretary of State, the Secretary of Defense, the Secretary of Health and Human Services, the Administrator of USAID, and appropriate officials at all other agencies involved in foreign assistance shall take all steps necessary to implement this memorandum, as appropriate and consistent with applicable law. This shall include the following actions with respect to conditions in assistance awards that were imposed pursuant to the January 2017 Presidential Memorandum and that are not required by the Foreign Assistance Act [[22 U.S.C. 2151](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2151&num=0&edition=prelim) et seq.] or any other law:
+
+(i) immediately waive such conditions in any current grants;
+
+(ii) notify current grantees, as soon as possible, that these conditions have been waived; and
+
+(iii) immediately cease imposing these conditions in any future assistance awards.
+
+(d) The Secretary of State, the Secretary of Defense, the Secretary of Health and Human Services, and the Administrator of USAID, as appropriate and consistent with applicable law, shall suspend, revise, or rescind any regulations, orders, guidance documents, policies, and any other similar agency actions that were issued pursuant to the January 2017 Presidential Memorandum.
+
+(e) The Secretary of State and the Secretary of Health and Human Services, in a timely and appropriate manner, shall withdraw co-sponsorship and signature from the Geneva Consensus Declaration (Declaration) and notify other co-sponsors and signatories to the Declaration and other appropriate parties of the United States’ withdrawal.
+
+(f) The Secretary of State, consistent with applicable law and subject to the availability of appropriations, shall:
+
+(i) take the steps necessary to resume funding to the United Nations Population Fund; and
+
+(ii) work with the Administrator of USAID and across United States Government foreign assistance programs to ensure that adequate funds are being directed to support women’s health needs globally, including sexual and reproductive health and reproductive rights.
+
+(g) The Secretary of State, in coordination with the Secretary of Health and Human Services, shall provide guidance to agencies consistent with this memorandum.
+
+Sec. 3. General Provisions. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(d) The Secretary of State is authorized and directed to publish this memorandum in the Federal Register.
+
+J.R. Biden, Jr.
+
 
 <a id="section-300a"></a>
 ## § 300a. Formula grants to States for family planning services
@@ -54673,11 +55785,11 @@ William J. Clinton.
 #### Amendments
 1976—Subsec. (c). Pub. L. 94–484 defined “State” to include Northern Mariana Islands.
 
-#### Termination of Trust Territory of the Pacific Islands
-For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
-
 #### Study of State Delivery of Services; Report to Congress
 Pub. L. 97–35, title IX, § 931(c), Aug. 13, 1981, 95 Stat. 570, directed Secretary of Health and Human Services to conduct a study of possible ways of State delivery of services for which assistance is authorized by title X of the Public Health Service Act [[42 U.S.C. 300](./chapter-6a-public-health-service.md#section-300) et seq.] and to report to Congress on results of such study 18 months after Aug. 13, 1981.
+
+#### Termination of Trust Territory of the Pacific Islands
+For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
 
 
 <a id="section-300aa-1"></a>
@@ -54782,7 +55894,7 @@ Subpart effective Oct. 1, 1988, see section 323 of Pub. L. 99–660, as amended,
 
 (9) This subsection applies only to a person who has sustained a vaccine-related injury or death and who is qualified to file a petition for compensation under the Program.
 
-(10) The Clerk of the United States Claims Court 22 See Change of Name note below. is authorized to continue to receive, and forward, petitions for compensation for a vaccine-related injury or death associated with the administration of a vaccine on or after October 1, 1992.
+(10) The Clerk of the United States Claims Court 11 See Change of Name note below. is authorized to continue to receive, and forward, petitions for compensation for a vaccine-related injury or death associated with the administration of a vaccine on or after October 1, 1992.
 
 **(b) Petitioners**
 
@@ -55072,7 +56184,7 @@ For applicability of amendments by Pub. L. 101–239 to petitions filed after De
 
 (3) In the absence of a motion under paragraph (1) respecting the special master’s decision or if the United States Court of Federal Claims takes the action described in paragraph (2)(A) with respect to the special master’s decision, the clerk of the United States Court of Federal Claims shall immediately enter judgment in accordance with the special master’s decision.
 
-**(f) Appeals** The findings of fact and conclusions of law of the United States Court of Federal Claims on a petition shall be final determinations of the matters involved, except that the Secretary or any petitioner aggrieved by the findings or conclusions of the court may obtain review of the judgment of the court in the United States court of appeals for the Federal Circuit upon petition filed within 60 days of the date of the judgment with such court of appeals within 60 days of the date of entry of the United States Claims Court’s 22 So in original. Probably should be a reference to the United States Court of Federal Claims. judgment with such court of appeals.
+**(f) Appeals** The findings of fact and conclusions of law of the United States Court of Federal Claims on a petition shall be final determinations of the matters involved, except that the Secretary or any petitioner aggrieved by the findings or conclusions of the court may obtain review of the judgment of the court in the United States court of appeals for the Federal Circuit upon petition filed within 60 days of the date of the judgment with such court of appeals within 60 days of the date of entry of the United States Claims Court’s 1 judgment with such court of appeals.
 
 **(g) Notice** If—
 
@@ -56476,7 +57588,7 @@ Subsec. (a) of this section amended section 601 of Pub. L. 91–296, which is se
 Subsec. (d). Pub. L. 93–348, § 214(b), added subsec. (d).
 
 #### Change of Name
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsecs. (c)(2) and (d), pursuant to section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsecs. (c)(2) and (d) pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
 
 <a id="section-300a-8"></a>
@@ -56773,7 +57885,7 @@ Section 2701, referred to in subsec. (b)(3), is a reference to section 2701 of a
 #### Amendments
 2002—Pub. L. 107–210 designated existing provisions as subsec. (a), inserted subsec. heading, and added subsec. (b).
 
-1986—Par. (2). Pub. L. 99–514 inserted “of continuation coverage” after “any election” and inserted at end “If there is a choice among types of coverage under the plan, each qualified beneficiary is entitled to make a separate selection among such types of coverage.”.
+1986—Par. (2). Pub. L. 99–514 inserted “of continuation coverage” after “any election” and inserted at end “If there is a choice among types of coverage under the plan, each qualified beneficiary is entitled to make a separate selection among such types of coverage.”
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–210 applicable to petitions for certification filed under part 2 or 3 of subchapter II of chapter 12 of Title 19, Customs Duties, on or after the date that is 90 days after Aug. 6, 2002, except as otherwise provided, see section 151 of Pub. L. 107–210, set out as a note preceding [section 2271 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2271&num=0&edition=prelim).
@@ -59047,7 +60159,7 @@ For purposes of this subchapter:
 ### Statutory Notes
 
 #### Prior Provisions
-A prior section 300c–11, July 1, 1944, ch. 373, title XI, § 1121, as added Apr. 22, 1974, Pub. L. 93–270, § 3(a), 88 Stat. 91; amended Apr. 22, 1976, Pub. L. 94–278, title IV, § 403(b)(1), 90 Stat. 409; S. Res. 4, Feb. 4, 1977; Aug. 1, 1977, Pub. L. 95–83, title III, § 306(a), 91 Stat. 389; Dec. 19, 1977, Pub. L. 95–215, § 8(a), 91 Stat. 1507; Nov. 8, 1978, Pub. L. 95–613, § 2, 92 Stat. 3094; Dec. 12, 1979, Pub. L. 96–142, title II, § 202, 93 Stat. 1070; H. Res. 549, Mar. 25, 1980; Aug. 13, 1981, Pub. L. 97–35, title XXI, § 2193(a)(1)(C), 95 Stat. 827, related to sudden infant death syndrome counseling, information, educational, and statistical programs, prior to repeal by Pub. L. 97–35, title XXI, § 2193(b)(1), Aug. 13, 1981, 95 Stat. 827. For effective date, savings, and transitional provisions relating to the amendment and repeal of prior section by Pub. L. 97–35, see section 2194 of Pub. L. 97–35, set out as a note under [section 701 of this title](./chapter-007-social-security.md#section-701).
+A prior section 300c–11, act July 1, 1944, ch. 373, title XI, § 1121, as added Apr. 22, 1974, Pub. L. 93–270, § 3(a), 88 Stat. 91; amended Apr. 22, 1976, Pub. L. 94–278, title IV, § 403(b)(1), 90 Stat. 409; S. Res. 4, Feb. 4, 1977; Aug. 1, 1977, Pub. L. 95–83, title III, § 306(a), 91 Stat. 389; Dec. 19, 1977, Pub. L. 95–215, § 8(a), 91 Stat. 1507; Nov. 8, 1978, Pub. L. 95–613, § 2, 92 Stat. 3094; Dec. 12, 1979, Pub. L. 96–142, title II, § 202, 93 Stat. 1070; H. Res. 549, Mar. 25, 1980; Aug. 13, 1981, Pub. L. 97–35, title XXI, § 2193(a)(1)(C), 95 Stat. 827, related to sudden infant death syndrome counseling, information, educational, and statistical programs, prior to repeal by Pub. L. 97–35, title XXI, § 2193(b)(1), Aug. 13, 1981, 95 Stat. 827. For effective date, savings, and transitional provisions relating to the amendment and repeal of prior section by Pub. L. 97–35, see section 2194 of Pub. L. 97–35, set out as a note under [section 701 of this title](./chapter-007-social-security.md#section-701).
 
 
 <a id="section-300c-12"></a>
@@ -59107,7 +60219,7 @@ Section was enacted as part of the Sudden Unexpected Death Data Enhancement and 
 
 (3) a description of the activities carried out under [section 300c–11 of this title](./chapter-6a-public-health-service.md#section-300c-11).
 
-**(b) Definitions** In this section, the terms ‘sudden unexpected infant death’ and ‘sudden unexpected death in childhood’ have the meanings given such terms in 300c–11 of this title.
+**(b) Definitions** In this section, the terms “sudden unexpected infant death” and “sudden unexpected death in childhood” have the meanings given such terms in [section 300c–11 of this title](./chapter-6a-public-health-service.md#section-300c-11).
 
 ### Statutory Notes
 
@@ -62317,7 +63429,7 @@ Section was enacted as part of the Health Maintenance Organization Act of 1973, 
 1978—Pub. L. 95–626 substituted “section 254b” for “section 247d”.
 
 #### Change of Name
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in text, pursuant to section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+“Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
 
 <a id="section-300e-15"></a>
@@ -62960,8 +64072,8 @@ Pub. L. 104–182, § 2(b), Aug. 6, 1996, 110 Stat. 1614, provided that: “Exce
 #### Short Title
 This subchapter is known as the “Safe Drinking Water Act”, see note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201).
 
-#### Termination of Trust Territory of the Pacific Islands
-For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
+#### Termination of Advisory Committees
+Pub. L. 93–641, § 6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under [section 217a of this title](./chapter-6a-public-health-service.md#section-217a), provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 
 #### Effect of Public Law 104–182 on Federal Water Pollution Control Act
 Pub. L. 104–182, § 2(c), Aug. 6, 1996, 110 Stat. 1614, provided that: “Except for the provisions of section 302 [[42 U.S.C. 300j–12](./chapter-6a-public-health-service.md#section-300j-12) note] (relating to transfers of funds), nothing in this Act [see Effective Date of 1996 Amendment note above] or in any amendments made by this Act to title XIV of the Public Health Service Act [[42 U.S.C. 300f](./chapter-6a-public-health-service.md#section-300f) et seq.] (commonly known as the ‘Safe Drinking Water Act’) or any other law shall be construed by the Administrator of the Environmental Protection Agency or the courts as affecting, modifying, expanding, changing, or altering—“(1) the provisions of the Federal Water Pollution Control Act [[33 U.S.C. 1251](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251&num=0&edition=prelim) et seq.]; “(2) the duties and responsibilities of the Administrator under that Act; or “(3) the regulation or control of point or nonpoint sources of pollution discharged into waters covered by that Act. The Administrator shall identify in the agency’s annual budget all funding and full-time equivalents administering such title XIV separately from funding and staffing for the Federal Water Pollution Control Act.”
@@ -62981,11 +64093,11 @@ Pub. L. 95–190, § 3(e)(2), Nov. 16, 1977, 91 Stat. 1394, provided that: “No
 #### Rural Water Survey; Report to President and Congress; Authorization of Appropriations
 Pub. L. 93–523, § 3, Dec. 16, 1974, 88 Stat. 1693, as amended by Pub. L. 95–190, §§ 2(d), 3(d), Nov. 16, 1977, 91 Stat. 1393, 1394, directed Administrator of Environmental Protection Agency, after consultation with Secretary of Agriculture and the several States, to enter into arrangements with public or private entities to conduct a survey of quantity, quality, and availability of rural drinking water supplies, which survey was to include, but not be limited to, consideration of number of residents in each rural area who presently are being inadequately served by a public or private drinking water supply system, or by an individual home drinking water supply system, or who presently have limited or otherwise inadequate access to drinking water, or who, due to absence or inadequacy of a drinking water supply system, are exposed to an increased health hazard, and who have experienced incidents of chronic or acute illness, which may be attributed to inadequacy of a drinking water supply system. Survey to be completed within eighteen months of Dec. 16, 1974, and a final report thereon submitted, not later than six months after completion of survey, to President and to Congress.
 
+#### Termination of Trust Territory of the Pacific Islands
+For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
+
 #### Federal Compliance With Pollution Control Standards
 For provisions relating to the responsibility of the head of each Executive agency for compliance with applicable pollution control standards, see Ex. Ord. No. 12088, Oct. 13, 1978, 43 F.R. 47707, set out as a note under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321).
-
-#### Termination of Advisory Committees
-Pub. L. 93–641, § 6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under [section 217a of this title](./chapter-6a-public-health-service.md#section-217a), provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 
 
 <a id="section-300ff"></a>
@@ -67969,13 +69081,13 @@ Pub. L. 111–148, title I, § 1004, Mar. 23, 2010, 124 Stat. 140, provided that
 
     (i) subject to clause (iii), in the case of such item or service furnished in a State that has in effect a specified State law with respect to such plan, coverage, or issuer, respectively; such a nonparticipating provider or nonparticipating emergency facility; and such an item or service, the amount determined in accordance with such law;
 
-    (ii) subject to clause (iii), in the case of such item or service furnished in a State that does not have in effect a specified State law, with respect to such plan, coverage, or issuer, respectively; such a nonparticipating provider or nonparticipating emergency facility; and such an item or service, the amount that is the qualifying payment amount (as defined in subparagraph (E)) for such year and determined in accordance with rulemaking described in paragraph (2)(B)) for such item or service; or
+    (ii) subject to clause (iii), in the case of such item or service furnished in a State that does not have in effect a specified State law, with respect to such plan, coverage, or issuer, respectively; such a nonparticipating provider or nonparticipating emergency facility; and such an item or service, the amount that is the qualifying payment amount (as defined in subparagraph (E)) 22 Closing parentheses so in original. for such year and determined in accordance with rulemaking described in paragraph (2)(B)) 2 for such item or service; or
 
     (iii) in the case of such item or service furnished in a State with an All-Payer Model Agreement under section 1115A of the Social Security Act [[42 U.S.C. 1315a](./chapter-007-social-security.md#section-1315a)], the amount that the State approves under such system for such item or service so furnished.
 
   (I) *Specified State law* — The term “specified State law” means, with respect to a State, an item or service furnished by a nonparticipating provider or nonparticipating emergency facility during a year and a group health plan or group or individual health insurance coverage offered by a health insurance issuer, a State law that provides for a method for determining the total amount payable under such a plan, coverage, or issuer, respectively (to the extent such State law applies to such plan, coverage, or issuer, subject to [section 1144 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1144&num=0&edition=prelim)) in the case of a participant, beneficiary, or enrollee covered under such plan or coverage and receiving such item or service from such a nonparticipating provider or nonparticipating emergency facility.
 
-  (J) *Stabilize* — The term “to stabilize”, with respect to an emergency medical condition (as defined in subparagraph (B)), has the meaning give in section 1867(e)(3) of the Social Security Act ([42 U.S.C. 1395dd(e)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395dd/e/3&num=0&edition=prelim)).
+  (J) *Stabilize* — The term “to stabilize”, with respect to an emergency medical condition (as defined in subparagraph (B)), has the meaning give 33 So in original. Probably should be “given”. in section 1867(e)(3) of the Social Security Act ([42 U.S.C. 1395dd(e)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395dd/e/3&num=0&edition=prelim)).
 
   (K) *Out-of-network rate* — The term “out-of-network rate” means, with respect to an item or service furnished in a State during a year to a participant, beneficiary, or enrollee of a group health plan or group or individual health insurance coverage offered by a health insurance issuer receiving such item or service from a nonparticipating provider or nonparticipating emergency facility—
 
@@ -68051,7 +69163,7 @@ Pub. L. 111–148, title I, § 1004, Mar. 23, 2010, 124 Stat. 140, provided that
 
     (iii) such items and services are related to the treatment of a similar condition; and
 
-    (iv) such items and services were furnished during the 30 day 22 So in original. Probably should be “30-day”. period following the date on which the first item or service included with respect to such determination was furnished or an alternative period as determined by the Secretary, for use in limited situations, such as by the consent of the parties or in the case of low-volume items and services, to encourage procedural efficiency and minimize health plan and provider administrative costs.
+    (iv) such items and services were furnished during the 30 day 44 So in original. Probably should be “30-day”. period following the date on which the first item or service included with respect to such determination was furnished or an alternative period as determined by the Secretary, for use in limited situations, such as by the consent of the parties or in the case of low-volume items and services, to encourage procedural efficiency and minimize health plan and provider administrative costs.
 
   (B) *Treatment of bundled payments* — In carrying out subparagraph (A), the Secretary shall provide that, in the case of items and services which are included by a provider or facility as part of a bundled payment, such items and services included in such bundled payment may be part of a single determination under this subsection.
 
@@ -68099,7 +69211,7 @@ Pub. L. 111–148, title I, § 1004, Mar. 23, 2010, 124 Stat. 140, provided that
 
     (ii) that requires, in the case such parties do not make such selection by such last day, the Secretary to, not later than 6 business days after such date of initiation—
 
-      (I) select such an entity that satisfies subclauses (I) through (III) of clause (i)); and
+      (I) select such an entity that satisfies subclauses (I) through (III) of clause (i)); 2 and
 
       (II) provide notification of such selection to the provider or facility (as applicable) and the plan or issuer (as applicable) party to such determination.
 An entity selected pursuant to the previous sentence to make a determination described in such sentence shall be referred to in this subsection as the “certified IDR entity” with respect to such determination.
@@ -68212,7 +69324,7 @@ An entity selected pursuant to the previous sentence to make a determination des
 
 (8) **Administrative fee**
 
-  (A) *In general* — Each party to a determination under paragraph (5) to which an entity is selected under paragraph (3) 33 So in original. Probably should be “paragraph (4)”. in a year shall pay to the Secretary, at such time and in such manner as specified by the Secretary, a fee for participating in the IDR process with respect to such determination in an amount described in subparagraph (B) for such year.
+  (A) *In general* — Each party to a determination under paragraph (5) to which an entity is selected under paragraph (3) 55 So in original. Probably should be “paragraph (4)”. in a year shall pay to the Secretary, at such time and in such manner as specified by the Secretary, a fee for participating in the IDR process with respect to such determination in an amount described in subparagraph (B) for such year.
 
   (B) *Amount of fee* — The amount described in this subparagraph for a year is an amount established by the Secretary in a manner such that the total amount of fees paid under this paragraph for such year is estimated to be equal to the amount of expenditures estimated to be made by the Secretary for such year in carrying out the IDR process.
 
@@ -68226,7 +69338,7 @@ An entity selected pursuant to the previous sentence to make a determination des
 
 (2) Any out-of-pocket maximum limitation applicable to such plan or coverage.
 
-(3) A telephone number and Internet website address through which such individual may seek consumer assistance information, such as information related to hospitals and urgent care facilities that have in effect a contractual relationship with such plan or coverage for furnishing items and services under such plan or coverage 44 So in original. Probably should be followed by a period.
+(3) A telephone number and Internet website address through which such individual may seek consumer assistance information, such as information related to hospitals and urgent care facilities that have in effect a contractual relationship with such plan or coverage for furnishing items and services under such plan or coverage 66 So in original. Probably should be followed by a period.
 
 **(f) Advanced explanation of benefits**
 
@@ -68906,7 +70018,7 @@ Beginning not later than January 1, 2022, each health care provider and health c
 
 (2) **Failure to implement requirements** — In the case of a determination by the Secretary that a State has failed to substantially enforce the requirements to which paragraph (1) applies with respect to applicable providers and facilities in the State, the Secretary shall enforce such requirements under subsection (b) insofar as they relate to violations of such requirements occurring in such State.
 
-(3) **Notification of applicable secretary** — A State may notify the Secretary of Labor, Secretary of Health and Human Services, or the Secretary of the Treasury, as applicable, of instances of violations of sections 300gg–131, 300gg–132, or 300gg–135 of this title with respect to participants, beneficiaries, or enrollees under a group health plan or group or individual health insurance coverage, as applicable offered by a health insurance issuer and any enforcement actions taken against providers or facilities as a result of such violations, including the disposition of any such enforcement actions.
+(3) **Notification of applicable Secretary** — A State may notify the Secretary of Labor, Secretary of Health and Human Services, or the Secretary of the Treasury, as applicable, of instances of violations of sections 300gg–131, 300gg–132, or 300gg–135 of this title with respect to participants, beneficiaries, or enrollees under a group health plan or group or individual health insurance coverage, as applicable 11 So in original. Probably should be followed by a comma. offered by a health insurance issuer and any enforcement actions taken against providers or facilities as a result of such violations, including the disposition of any such enforcement actions.
 
 **(b) Secretarial enforcement authority**
 
@@ -68920,7 +70032,7 @@ Beginning not later than January 1, 2022, each health care provider and health c
 
 (5) **Hardship exemption** — The Secretary may establish a hardship exemption to the penalties under this subsection.
 
-**(c) Continued applicability of State law** The sections specified in subsection (a)(1) 11 So in original. Subsec. (a)(1) specifies “this part”, but does not specify individual sections. shall not be construed to supersede any provision of State law which establishes, implements, or continues in effect any requirement or prohibition except to the extent that such requirement or prohibition prevents the application of a requirement or prohibition of such a section.
+**(c) Continued applicability of State law** The sections specified in subsection (a)(1) 22 So in original. Subsec. (a)(1) specifies “this part”, but does not specify individual sections. shall not be construed to supersede any provision of State law which establishes, implements, or continues in effect any requirement or prohibition except to the extent that such requirement or prohibition prevents the application of a requirement or prohibition of such a section.
 
 
 <a id="section-300gg-135"></a>
@@ -69555,7 +70667,7 @@ A prior section 2722 of act July 1, 1944, was renumbered section 2723 and is cla
 #### Amendments
 2020—Subsecs. (a)(1), (b), (c)(1), (2). Pub. L. 116–260, § 102(a)(3)(B)(i)–(iv), inserted “and part D” after “subparts 1 and 2” in introductory provisions of subsecs. (a)(1) and (c)(1), (2) and in subsec. (b).
 
-Subsecs. (c)(3), (d). Pub. L. 116–260, § 102(a)(3)(B)(v), (vi), inserted “and part D” after “this part” in subsec. (c)(3) and in introductory provisions of subsec. (d).
+Subsecs. (c)(3), (d). Pub. L. 116–260, § 102(a)(3)(B)(v), (vi), inserted “and part D” after “this part”.
 
 2010—Pub. L. 111–148, § 1563(c)(12)(B), formerly § 1562(c)(12)(B), as renumbered by Pub. L. 111–148, § 10107(b)(1), which directed amendment of section by substituting “subpart 1” for “subparts 1 through 3” wherever appearing, could not be executed because the words “subparts 1 through 3” did not appear subsequent to amendments by section 1563(a)(2)(A), (B)(ii), (3), (4)(A), (B)(i) of Pub. L. 111–148. See below.
 
@@ -69745,7 +70857,7 @@ A prior section 2723 of act July 1, 1944, was renumbered section 2724 and is cla
 #### Amendments
 2020—Subsec. (a)(1). Pub. L. 116–260, § 102(a)(3)(C)(i), inserted “and part D” after “this part”.
 
-Subsecs. (a)(2), (b)(1), (2)(A). Pub. L. 116–260, § 102(a)(3)(C)(ii)–(iv), inserted “or part D” after “this part” in subsecs. (a)(2) and (b)(2)(A) and in introductory provisions of subsec. (b)(1).
+Subsecs. (a)(2), (b)(1), (2)(A). Pub. L. 116–260, § 102(a)(3)(C)(ii)–(iv), inserted “or part D” after “this part”.
 
 Subsec. (b)(2)(C)(ii). Pub. L. 116–260, § 102(a)(3)(C)(v), inserted “and part D” after “this part”.
 
@@ -72363,6 +73475,85 @@ Pub. L. 104–182, title I, § 102(b), Aug. 6, 1996, 110 Stat. 1620, provided th
 Pub. L. 104–182, title I, § 104(b), Aug. 6, 1996, 110 Stat. 1625, provided that: “The Administrator of the Environmental Protection Agency may use the authority of section 1412(b)(5) of the Safe Drinking Water Act [[42 U.S.C. 300g–1(b)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300g–1/b/5&num=0&edition=prelim)] (as amended by this Act) to promulgate the Stage I and Stage II Disinfectants and Disinfection Byproducts Rules as proposed in volume 59, Federal Register, page 38668 (July 29, 1994). The considerations used in the development of the July 29, 1994, proposed national primary drinking water regulation on disinfectants and disinfection byproducts shall be treated as consistent with such section 1412(b)(5) for purposes of such Stage I and Stage II rules.”
 
 
+<a id="section-300g-10"></a>
+## § 300g–10. Cybersecurity support for public water systems
+**(a) Definitions** In this section:
+
+(1) **Appropriate Congressional committees** — The term “appropriate Congressional committees” means—
+
+  (A) the Committee on Environment and Public Works of the Senate;
+
+  (B) the Committee on Homeland Security and Governmental Affairs of the Senate;
+
+  (C) the Committee on Energy and Commerce of the House of Representatives; and
+
+  (D) the Committee on Homeland Security of the House of Representatives.
+
+(2) **Director** — The term “Director” means the Director of the Cybersecurity and Infrastructure Security Agency.
+
+(3) **Incident** — The term “incident” has the meaning given the term in [section 3552 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3552&num=0&edition=prelim).
+
+(4) **Prioritization Framework** — The term “Prioritization Framework” means the prioritization framework developed by the Administrator under subsection (b)(1)(A).
+
+(5) **Support Plan** — The term “Support Plan” means the Technical Cybersecurity Support Plan developed by the Administrator under subsection (b)(2)(A).
+
+**(b) Identification of and support for public water systems**
+
+(1) **Prioritization Framework**
+
+  (A) *In general* — Not later than 180 days after November 15, 2021, the Administrator, in coordination with the Director, shall develop a prioritization framework to identify public water systems (including sources of water for those public water systems) that, if degraded or rendered inoperable due to an incident, would lead to significant impacts on the health and safety of the public.
+
+  (B) *Considerations* — In developing the Prioritization Framework, to the extent practicable, the Administrator shall incorporate consideration of—
+
+    (i) whether cybersecurity vulnerabilities for a public water system have been identified under [section 300i–2 of this title](./chapter-6a-public-health-service.md#section-300i-2);
+
+    (ii) the capacity of a public water system to remediate a cybersecurity vulnerability without additional Federal support;
+
+    (iii) whether a public water system serves a defense installation or critical national security asset; and
+
+    (iv) whether a public water system, if degraded or rendered inoperable due to an incident, would cause a cascading failure of other critical infrastructure.
+
+(2) **Technical Cybersecurity Support Plan**
+
+  (A) *In general* — Not later than 270 days after November 15, 2021, the Administrator, in coordination with the Director and using existing authorities of the Administrator and the Director for providing voluntary support to public water systems and the Prioritization Framework, shall develop a Technical Cybersecurity Support Plan for public water systems.
+
+  (B) *Requirements* — The Support Plan—
+
+    (i) shall establish a methodology for identifying specific public water systems for which cybersecurity support should be prioritized;
+
+    (ii) shall establish timelines for making voluntary technical support for cybersecurity available to specific public water systems;
+
+    (iii) may include public water systems identified by the Administrator, in coordination with the Director, as needing technical support for cybersecurity;
+
+    (iv) shall include specific capabilities of the Administrator and the Director that may be utilized to provide support to public water systems under the Support Plan, including—
+
+      (I) site vulnerability and risk assessments;
+
+      (II) penetration tests; and
+
+      (III) any additional support determined to be appropriate by the Administrator; and
+
+    (v) shall only include plans for providing voluntary support to public water systems.
+
+(3) **Consultation required** — In developing the Prioritization Framework pursuant to paragraph (1) and the Support Plan pursuant to paragraph (2), the Administrator shall consult with such Federal or non-Federal entities as determined to be appropriate by the Administrator.
+
+(4) **Reports required**
+
+  (A) *Prioritization Framework* — Not later than 190 days after November 15, 2021, the Administrator shall submit to the appropriate Congressional committees a report describing the Prioritization Framework.
+
+  (B) *Technical Cybersecurity Support Plan* — Not later than 280 days after November 15, 2021, the Administrator shall submit to the appropriate Congressional committees—
+
+    (i) the Support Plan; and
+
+    (ii) a list describing any public water systems identified by the Administrator, in coordination with the Director, as needing technical support for cybersecurity during the development of the Support Plan.
+
+**(c) Rules of construction** Nothing in this section—
+
+(1) alters the existing authorities of the Administrator; or
+
+(2) compels a public water system to accept technical support offered by the Administrator.
+
+
 <a id="section-300g-2"></a>
 ## § 300g–2. State primary enforcement responsibility
 **(a) In general** For purposes of this subchapter, a State has primary enforcement responsibility for public water systems during any period for which the Administrator determines (pursuant to regulations prescribed under subsection (b)) that such State—
@@ -73881,8 +75072,6 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 The National Emergencies Act, referred to in subsec. (b)(5), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§ 1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) and Tables.
 
-Section 301 of the Pandemic and All-Hazards Preparedness Act, referred to in subsec. (c)(1)(A), is section 301 of Pub. L. 109–417, title III, Dec. 19, 2006, 120 Stat. 2853, which amended sections 247d–6 and 300hh–11 of this title and sections 313 and 314 of Title 6, Domestic Security, and enacted provisions set out as notes under [section 300hh–11 of this title](./chapter-6a-public-health-service.md#section-300hh-11) and [section 313 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section313&num=0&edition=prelim).
-
 The Consolidated Appropriations Act, 2018, referred to in subsec. (f)(2)(C), is Pub. L. 115–141, Mar. 23, 2018, 132 Stat. 348. Title II of division H of the Act is title II of div. H of Pub. L. 115–141, Mar. 23, 2018, 132 Stat. 714, which is not classified to the Code. For complete classification of this Act to the Code, see Tables.
 
 #### Prior Provisions
@@ -74260,7 +75449,7 @@ Subsec. (g). Pub. L. 116–22, § 305(a)(4), (6), redesignated subsec. (f) as (g
 
   (A) *In general* — If the Secretary determines that the number of intermittent disaster response personnel within the National Disaster Medical System under this section is insufficient to address a public health emergency or potential public health emergency, the Secretary may appoint candidates directly to personnel positions for intermittent disaster response within such system. The Secretary shall provide updates on the number of vacant or unfilled positions within such system to the congressional committees of jurisdiction each quarter for which this authority is in effect.
 
-  (B) *Sunset* — The authority under this paragraph shall expire on September 30, 2021.
+  (B) *Sunset* — The authority under this paragraph shall expire on February 18, 2022.
 
 (5) **Service benefit** — Individuals appointed to serve under this subsection shall be considered eligible for benefits under part L of title I of the Omnibus Crime Control and Safe Streets Act of 1968 [[42 U.S.C. 10281](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10281&num=0&edition=prelim) et seq.]. The Secretary shall provide notification to any eligible individual of any effect such designation may have on other benefits for which such individual is eligible, including benefits from private entities.
 
@@ -74303,6 +75492,10 @@ For termination of amendment by section 301(d)(3) of Pub. L. 116–22, see Termi
 The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (c)(5), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Part L of title I of the Act is classified generally to subchapter XI (§ 10281 et seq.) of chapter 101 of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under [section 10101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10101&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2021—Subsec. (c)(4)(B). Pub. L. 117–70 substituted “February 18, 2022” for “December 3, 2021”.
+
+Pub. L. 117–43 substituted “December 3, 2021” for “September 30, 2021”.
+
 2019—Subsec. (a)(3)(A)(ii). Pub. L. 116–22, § 301(a)(1), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “be present at locations, and for limited periods of time, specified by the Secretary on the basis that the Secretary has determined that a location is at risk of a public health emergency during the time specified.”
 
 Subsec. (b)(2). Pub. L. 116–22, § 301(a)(2), amended par. (2) generally. Prior to amendment, text read as follows: “Not later than 180 days after December 19, 2006, the Secretary, in coordination with the Secretary of Homeland Security, the Secretary of Defense, and the Secretary of Veterans Affairs, shall conduct a joint review of the National Disaster Medical System. Such review shall include an evaluation of medical surge capacity, as described by [section 300hh–2(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300hh–2/a&num=0&edition=prelim). As part of the National Health Security Strategy under [section 300hh–1 of this title](./chapter-6a-public-health-service.md#section-300hh-1), the Secretary shall update the findings from such review and further modify the policies of the National Disaster Medical System as necessary.”
@@ -74366,7 +75559,7 @@ Subsec. (h). Pub. L. 109–417, § 301(a)(3), redesignated subsec. (h) as (g).
 Pub. L. 109–417, § 102(a)(4), substituted “Assistant Secretary for Preparedness and Response” for “Assistant Secretary for Public Health Emergency Preparedness”.
 
 #### Change of Name
-Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 402(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402/c/3&num=0&edition=prelim).
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 204(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section204/c/3&num=0&edition=prelim).
 
 #### Termination Date of 2019 Amendment
 Amendment by section 301(d)(1) of Pub. L. 116–22 to cease to have force or effect on Oct. 1, 2021, see section 301(d)(3) of Pub. L. 116–22, set out as a note under [section 10284 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10284&num=0&edition=prelim), Crime Control and Law Enforcement.
@@ -75285,6 +76478,33 @@ Subsec. (k). Pub. L. 104–182, § 120(b), inserted table item relating to fisca
 **(e) Evaluations and reports** Not later than 3 years after August 6, 1996, and every 3 years thereafter, the Administrator shall evaluate the State ground water protection programs that are the subject of grants awarded pursuant to this section and report to the Congress on the status of ground water quality in the United States and the effectiveness of State programs for ground water protection.
 
 **(f) Authorization of appropriations** There are authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 1997 through 2003.
+
+
+<a id="section-300h-9"></a>
+## § 300h–9. Secure geologic storage permitting
+**(a) Definitions** In this section:
+
+(1) **Administrator** — The term “Administrator” means the Administrator of the Environmental Protection Agency.
+
+(2) **Class VI well** — The term “Class VI well” means a well described in section 144.6(f) of title 40, Code of Federal Regulations (or successor regulations).
+
+**(b) Authorization of appropriations for geologic sequestration permitting** There is authorized to be appropriated to the Administrator for the permitting of Class VI wells by the Administrator for the injection of carbon dioxide for the purpose of geologic sequestration in accordance with the requirements of the Safe Drinking Water Act ([42 U.S.C. 300f](./chapter-6a-public-health-service.md#section-300f) et seq.) and the final rule of the Administrator entitled “Federal Requirements Under the Underground Injection Control (UIC) Program for Carbon Dioxide (CO2) Geologic Sequestration (GS) Wells” (75 Fed. Reg. 77230 (December 10, 2010)), $5,000,000 for each of fiscal years 2022 through 2026.
+
+**(c) State permitting program grants**
+
+(1) **Establishment** — The Administrator shall award grants to States that, pursuant to section 1422 of the Safe Drinking Water Act ([42 U.S.C. 300h–1](./chapter-6a-public-health-service.md#section-300h-1)), receive the approval of the Administrator for a State underground injection control program for permitting Class VI wells for the injection of carbon dioxide.
+
+(2) **Use of funds** — A State that receives a grant under paragraph (1) shall use the amounts received under the grant to defray the expenses of the State related to the establishment and operation of a State underground injection control program described in paragraph (1).
+
+(3) **Authorization of appropriations** — There is authorized to be appropriated to the Administrator to carry out this subsection $50,000,000 for the period of fiscal years 2022 through 2026.
+
+### Statutory Notes
+
+#### References in Text
+The Safe Drinking Water Act, referred to in subsec. (b), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, § 2(a), 88 Stat. 1660, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
+
+#### Codification
+Section was enacted as part of the Infrastructure Investment and Jobs Act, and not as part of the Public Health Service Act which comprises this chapter.
 
 
 <a id="section-300i"></a>
@@ -77287,7 +78507,17 @@ March 23, 2010, referred to in subsec. (a)(1), was in the original “the date o
 
 (10) The Administrator shall carry out a study of the reaction of chlorine and humic acids and the effects of the contaminants which result from such reaction on public health and on the safety of drinking water, including any carcinogenic effect.
 
-**(b) Emergency situations** The Administrator is authorized to provide technical assistance and to make grants to States, or publicly owned water systems to assist in responding to and alleviating any emergency situation affecting public water systems (including sources of water for such systems) which the Administrator determines to present substantial danger to the public health. Grants provided under this subsection shall be used only to support those actions which (i) are necessary for preventing, limiting or mitigating danger to the public health in such emergency situation and (ii) would not, in the judgment of the Administrator, be taken without such emergency assistance. The Administrator may carry out the program authorized under this subsection as part of, and in accordance with the terms and conditions of, any other program of assistance for environmental emergencies which the Administrator is authorized to carry out under any other provision of law. No limitation on appropriations for any such other program shall apply to amounts appropriated under this subsection.
+(11) **Compliance Evaluation.—**
+
+  (A) *In general.—* — Not later than 1 year after November 15, 2021, the Administrator shall—
+
+    (i) evaluate, based on the compliance data found in the Safe Drinking Water Information System of the Administrator, the compliance of community water systems and wastewater systems with environmental, health, and safety requirements under this subchapter, including water quality sampling, testing, and reporting requirements; and
+
+    (ii) submit to Congress a report describing trends seen as a result of the evaluation under clause (i), including trends that demonstrate how the characteristics of community water systems and wastewater systems correlate to trends in compliance or noncompliance with the requirements described in that clause.
+
+  (B) *Requirement.—* — To the extent practicable, in carrying out subparagraph (A), the Administrator shall determine whether, in aggregate, community water systems and wastewater systems maintain asset management plans.
+
+**(b) Emergency situations** The Administrator is authorized to provide technical assistance and to make grants to States, or publicly owned water systems to assist in responding to and alleviating any emergency situation (including an emergency situation resulting from a cybersecurity event) affecting public water systems (including sources of water for such systems) which the Administrator determines to present substantial danger to the public health, including a threat to public health resulting from contaminants, such as, but not limited to, heightened exposure to lead in drinking water. Grants provided under this subsection shall be used only to support those actions which (i) are necessary for preventing, limiting or mitigating danger to the public health in such emergency situation and (ii) would not, in the judgment of the Administrator, be taken without such emergency assistance. The Administrator may carry out the program authorized under this subsection as part of, and in accordance with the terms and conditions of, any other program of assistance for environmental emergencies which the Administrator is authorized to carry out under any other provision of law. No limitation on appropriations for any such other program shall apply to amounts appropriated under this subsection.
 
 **(c) Establishment of training programs and grants for training; training fees** The Administrator shall—
 
@@ -77304,7 +78534,7 @@ March 23, 2010, referred to in subsec. (a)(1), was in the original “the date o
   (C) to develop and expand the capability of programs of States and municipalities to carry out the purposes of this subchapter (other than by carrying out State programs of public water system supervision or underground water source protection (as defined in [section 300j–2(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300j–2/c&num=0&edition=prelim))).
 Reasonable fees may be charged for training provided under paragraph (1)(B) to persons other than personnel of State or local agencies but such training shall be provided to personnel of State or local agencies without charge.
 
-**(d) Authorization of appropriations** There are authorized to be appropriated to carry out subsection (b) not more than $35,000,000 for the fiscal year 2002 and such sums as may be necessary for each fiscal year thereafter.
+**(d) Authorization of appropriations** There is authorized to be appropriated to carry out subsection (b) $35,000,000 for each of fiscal years 2022 through 2026.
 
 **(e) Technical assistance to small public water systems**
 
@@ -77316,7 +78546,7 @@ Reasonable fees may be charged for training provided under paragraph (1)(B) to p
 
 (4) Each nonprofit organization receiving assistance under this subsection shall consult with the State in which the assistance is to be expended or otherwise made available before using assistance to undertake activities to carry out this subsection.
 
-(5) There are authorized to be appropriated to the Administrator to be used for such technical assistance $15,000,000 for each of the fiscal years 2015 through 2020.
+(5) **Authorization of appropriations.—** — There is authorized to be appropriated to the Administrator to carry out this subsection $15,000,000 for each of fiscal years 2022 through 2026.
 
 (6) No portion of any State loan fund established under [section 300j–12 of this title](./chapter-6a-public-health-service.md#section-300j-12) (relating to State loan funds) and no portion of any funds made available under this subsection may be used for lobbying expenses.
 
@@ -77330,7 +78560,13 @@ Reasonable fees may be charged for training provided under paragraph (1)(B) to p
 
   (C) *Limitation.—* — No grant or cooperative agreement provided or otherwise made available under this section may be used for litigation pursuant to [section 300j–8 of this title](./chapter-6a-public-health-service.md#section-300j-8).
 
-**(f) Technical assistance for innovative water technologies**
+**(f) State-based nonprofit organizations**
+
+(1) **In general** — The Administrator may provide technical assistance consistent with the authority provided under subsection (e) to State-based nonprofit organizations that are governed by community water systems.
+
+(2) **Communication** — Each State-based nonprofit organization that receives funding under paragraph (1) shall, before using that funding to undertake activities to carry out this subsection, consult with the State in which the assistance is to be expended or otherwise made available.
+
+**(g) Technical assistance for innovative water technologies**
 
 (1) The Administrator may provide technical assistance to public water systems to facilitate use of innovative water technologies.
 
@@ -77339,6 +78575,16 @@ Reasonable fees may be charged for training provided under paragraph (1)(B) to p
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (a)(11). Pub. L. 117–58, § 50101(1), added par. (11).
+
+Subsec. (b). Pub. L. 117–58, § 50101(2), inserted “(including an emergency situation resulting from a cybersecurity event)” after “any emergency situation” and “, including a threat to public health resulting from contaminants, such as, but not limited to, heightened exposure to lead in drinking water” after “substantial danger to the public health”.
+
+Subsec. (d). Pub. L. 117–58, § 50101(3), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out subsection (b) not more than $35,000,000 for the fiscal year 2002 and such sums as may be necessary for each fiscal year thereafter.”
+
+Subsec. (e)(5). Pub. L. 117–58, § 50101(4), added par. (5) and struck out former par. (5) which read as follows: “There are authorized to be appropriated to the Administrator to be used for such technical assistance $15,000,000 for each of the fiscal years 2015 through 2020.”
+
+Subsecs. (f), (g). Pub. L. 117–58, § 50101(5), (6), added subsec. (f) and redesignated former subsec. (f) as (g).
+
 2016—Subsec. (a)(1)(F). Pub. L. 114–322, § 2109(a), added subpar. (F).
 
 Subsec. (e). Pub. L. 114–322, § 2109(b)(1), inserted “to small public water systems” after “assistance” in heading.
@@ -77406,7 +78652,7 @@ Subsecs. (c), (d). Pub. L. 95–190, §§ 3(b), 4, added subsecs. (c) and (d). F
 Subsec. (e). Pub. L. 95–190, §§ 2(a), 3(b), redesignated former subsec. (c) as (e) and inserted provisions authorizing appropriations for fiscal years 1978 and 1979, and provisions relating to appropriations for subsec. (a)(2)(B) of this section and for research.
 
 #### Report on Innovative Water Technologies
-Pub. L. 114–322, title II, § 2109(c), Dec. 16, 2016, 130 Stat. 1729, provided that: “Not later than 1 year after the date of enactment of the Water and Waste Act of 2016 [Dec. 16, 2016], and not less frequently than every 5 years thereafter, the Administrator [of the Environmental Protection Agency] shall report to Congress on— “(1) the amount of funding used to provide technical assistance under section 1442(f) of the Safe Drinking Water Act [[42 U.S.C. 300j–1(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300j–1/f&num=0&edition=prelim)] to deploy innovative water technologies; “(2) the barriers impacting greater use of innovative water technologies; and “(3) the cost-saving potential to cities and future infrastructure investments from innovative water technologies.”
+Pub. L. 114–322, title II, § 2109(c), Dec. 16, 2016, 130 Stat. 1729, provided that: “Not later than 1 year after the date of enactment of the Water and Waste Act of 2016 [Dec. 16, 2016], and not less frequently than every 5 years thereafter, the Administrator [of the Environmental Protection Agency] shall report to Congress on— “(1) the amount of funding used to provide technical assistance under section 1442(f) [now 1442(g)] of the Safe Drinking Water Act [[42 U.S.C. 300j–1(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300j–1/g&num=0&edition=prelim)] to deploy innovative water technologies; “(2) the barriers impacting greater use of innovative water technologies; and “(3) the cost-saving potential to cities and future infrastructure investments from innovative water technologies.”
 
 #### Findings
 Pub. L. 114–98, § 2, Dec. 11, 2015, 129 Stat. 2199, provided that: “Congress finds that— “(1) the Safe Drinking Water Act Amendments of 1996 (Public Law 104–182) [see Short Title of 1996 Amendments note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201)] authorized technical assistance for small and rural communities to assist those communities in complying with regulations promulgated pursuant to the Safe Drinking Water Act ([42 U.S.C. 300f](./chapter-6a-public-health-service.md#section-300f) et seq.); “(2) technical assistance and compliance training—“(A) ensures that Federal regulations do not overwhelm the resources of small and rural communities; and “(B) provides small and rural communities lacking technical resources with the necessary skills to improve and protect water resources; “(3) across the United States, more than 90 percent of the community water systems serve a population of less than 10,000 individuals; “(4) small and rural communities have the greatest difficulty providing safe, affordable public drinking water and wastewater services due to limited economies of scale and lack of technical expertise; and “(5) in addition to being the main source of compliance assistance, small and rural water technical assistance has been the main source of emergency response assistance in small and rural communities.”
@@ -77542,7 +78788,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 (4) **American iron and steel products**
 
-  (A) *In general* — During fiscal years 2019 through 2023, funds made available from a State loan fund established pursuant to this section may not be used for a project for the construction, alteration, or repair of a public water system unless all of the iron and steel products used in the project are produced in the United States.
+  (A) *In general* — Funds made available from a State loan fund established pursuant to this section may not be used for a project for the construction, alteration, or repair of a public water system unless all of the iron and steel products used in the project are produced in the United States.
 
   (B) *Definition of iron and steel products* — In this paragraph, the term “iron and steel products” means the following products made primarily of iron or steel:
 
@@ -77612,13 +78858,17 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 **(d) Assistance for disadvantaged communities**
 
-(1) **Loan subsidy** — Notwithstanding any other provision of this section, in any case in which the State makes a loan pursuant to subsection (a)(2) to a disadvantaged community or to a community that the State expects to become a disadvantaged community as the result of a proposed project, the State may provide additional subsidization (including forgiveness of principal).
+(1) **Loan subsidy**
+
+  (A) *In general* — Notwithstanding any other provision of this section, in any case in which the State makes a loan pursuant to subsection (a)(2) to a disadvantaged community or to a community that the State expects to become a disadvantaged community as the result of a proposed project, the State may provide additional subsidization (including forgiveness of principal, grants, negative interest loans, other loan forgiveness, and through buying, refinancing, or restructuring debt).
+
+  (B) *Exclusion* — A loan from a State loan fund with an interest rate equal to or greater than 0 percent shall not be considered additional subsidization for purposes of this subsection.
 
 (2) **Total amount of subsidies** — For each fiscal year, of the amount of the capitalization grant received by the State for the year, the total amount of loan subsidies made by a State pursuant to paragraph (1)—
 
   (A) may not exceed 35 percent; and
 
-  (B) to the extent that there are sufficient applications for loans to communities described in paragraph (1), may not be less than 6 percent.
+  (B) to the extent that there are sufficient applications for loans to communities described in paragraph (1), may not be less than 12 percent.
 
 (3) **“Disadvantaged community” defined** — In this subsection, the term “disadvantaged community” means the service area of a public water system that meets affordability criteria established after public review and comment by the State in which the public water system is located. The Administrator may publish information to assist States in establishing affordability criteria.
 
@@ -77773,9 +79023,17 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
   (A) $1,174,000,000 for fiscal year 2019;
 
-  (B) $1,300,000,000 for fiscal year 2020; and
+  (B) $1,300,000,000 for fiscal year 2020;
 
-  (C) $1,950,000,000 for fiscal year 2021.
+  (C) $1,950,000,000 for fiscal year 2021;
+
+  (D) $2,400,000,000 for fiscal year 2022;
+
+  (E) $2,750,000,000 for fiscal year 2023;
+
+  (F) $3,000,000,000 for fiscal year 2024; and
+
+  (G) $3,250,000,000 for each of fiscal years 2025 and 2026.
 
 (2) To the extent amounts authorized to be appropriated under this subsection in any fiscal year are not appropriated in that fiscal year, such amounts are authorized to be appropriated in a subsequent fiscal year. Such sums shall remain available until expended.
 
@@ -77785,7 +79043,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 **(p) Demonstration project for State of Virginia** Notwithstanding the other provisions of this section limiting the use of funds deposited in a State loan fund from any State allotment, the State of Virginia may, as a single demonstration and with the approval of the Virginia General Assembly and the Administrator, conduct a program to demonstrate alternative approaches to intergovernmental coordination to assist in the financing of new drinking water facilities in the following rural communities in southwestern Virginia where none exists on August 6, 1996, and where such communities are experiencing economic hardship: Lee County, Wise County, Scott County, Dickenson County, Russell County, Buchanan County, Tazewell County, and the city of Norton, Virginia. The funds allotted to that State and deposited in the State loan fund may be loaned to a regional endowment fund for the purpose set forth in this subsection under a plan to be approved by the Administrator. The plan may include an advisory group that includes representatives of such counties.
 
-**(q) Small system technical assistance** The Administrator may reserve up to 2 percent of the total funds made available to carry out this section for each of fiscal years 2016 through 2021 to carry out the provisions of [section 300j–1(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300j–1/e&num=0&edition=prelim) (relating to technical assistance for small systems), except that the total amount of funds made available for such purpose in any fiscal year through appropriations (as authorized by [section 300j–1(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300j–1/e&num=0&edition=prelim)) and reservations made pursuant to this subsection shall not exceed the amount authorized by [section 300j–1(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300j–1/e&num=0&edition=prelim).
+**(q) Small system technical assistance** The Administrator may reserve up to 2 percent of the total funds made available to carry out this section for each of fiscal years 2022 through 2026 to carry out the provisions of [section 300j–1(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300j–1/e&num=0&edition=prelim) (relating to technical assistance for small systems), except that the total amount of funds made available for such purpose in any fiscal year through appropriations (as authorized by [section 300j–1(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300j–1/e&num=0&edition=prelim)) and reservations made pursuant to this subsection shall not exceed the amount authorized by [section 300j–1(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300j–1/e&num=0&edition=prelim).
 
 **(r) Evaluation** The Administrator shall conduct an evaluation of the effectiveness of the State loan funds through fiscal year 2001. The evaluation shall be submitted to the Congress at the same time as the President submits to the Congress, pursuant to [section 1108 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1108&num=0&edition=prelim), an appropriations request for fiscal year 2003 relating to the budget of the Environmental Protection Agency.
 
@@ -77829,6 +79087,16 @@ The Internal Revenue Code of 1986, referred to in subsec. (a)(2)(G)(iii), is cla
 The Safe Drinking Water Act Amendments of 1996, referred to in subsec. (n), is Pub. L. 104–182, Aug. 6, 1996, 110 Stat. 1613. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
 
 #### Amendments
+2021—Subsec. (a)(4)(A). Pub. L. 117–58, § 50102(a)(1), substituted “Funds” for “During fiscal years 2019 through 2023, funds”.
+
+Subsec. (d)(1). Pub. L. 117–58, § 50102(b)(1), designated existing provisions as subpar. (A), inserted subpar. heading, inserted “, grants, negative interest loans, other loan forgiveness, and through buying, refinancing, or restructuring debt” after “forgiveness of principal”, and added subpar. (B).
+
+Subsec. (d)(2)(B). Pub. L. 117–58, § 50102(b)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “to the extent that there are sufficient applications for loans to communities described in paragraph (1), may not be less than 6 percent.”
+
+Subsec. (m)(1)(D) to (G). Pub. L. 117–58, § 50102(a)(2), added subpars. (D) to (G).
+
+Subsec. (q). Pub. L. 117–58, § 50102(a)(3), substituted “2022 through 2026” for “2016 through 2021”.
+
 2019—Subsec. (a)(2)(G). Pub. L. 116–92, § 7312(1), added subpar. (G).
 
 Subsec. (m)(1). Pub. L. 116–92, § 7312(2), substituted “this section, except for subsections (a)(2)(G) and (t)” for “this section” in introductory provisions.
@@ -77970,7 +79238,7 @@ The Federal Water Pollution Control Act, referred to in subsec. (a)(6)(E), is ac
 
 (1) **In general**
 
-  (A) *Establishment* — A State may establish a program under which an owner or operator of a community water system in the State, or a municipal or local government or political subdivision of a State, may submit a source water quality protection partnership petition to the State requesting that the State assist in the local development of a voluntary, incentive-based partnership, among the owner, operator, or government and other persons likely to be affected by the recommendations of the partnership, to—
+  (A) *Establishment* — A State may establish a program under which an owner or operator of a community water system in the State, or a municipal or local government or political subdivision of a State (including a county that is designated by the State to act on behalf of an unincorporated area within that county, with the agreement of that unincorporated area), may submit a source water quality protection partnership petition to the State requesting that the State assist in the local development of a voluntary, incentive-based partnership, among the owner, operator, or government and other persons likely to be affected by the recommendations of the partnership, to—
 
     (i) reduce the presence in drinking water of contaminants that may be addressed by a petition by considering the origins of the contaminants, including to the maximum extent practicable the specific activities that affect the drinking water supply of a community;
 
@@ -78010,7 +79278,7 @@ The Federal Water Pollution Control Act, referred to in subsec. (a)(6)(E), is ac
 
   (D) specify the efforts made to establish the voluntary local partnership and obtain the participation of—
 
-    (i) the municipal or local government or other political subdivision of the State with jurisdiction over the source water area delineated under [section 300j–13 of this title](./chapter-6a-public-health-service.md#section-300j-13); and
+    (i) the municipal or local government or other political subdivision of the State (including a county that is designated by the State to act on behalf of an unincorporated area within that county) with jurisdiction over the source water area delineated under [section 300j–13 of this title](./chapter-6a-public-health-service.md#section-300j-13); and
 
     (ii) each person in the source water area delineated under [section 300j–13 of this title](./chapter-6a-public-health-service.md#section-300j-13)—
 
@@ -78021,6 +79289,8 @@ The Federal Water Pollution Control Act, referred to in subsec. (a)(6)(E), is ac
   (E) outline how the voluntary local partnership has or will, during development and implementation of recommendations of the voluntary local partnership, identify, recognize and take into account any voluntary or other activities already being undertaken by persons in the source water area delineated under [section 300j–13 of this title](./chapter-6a-public-health-service.md#section-300j-13) under Federal or State law to reduce the likelihood that contaminants will occur in drinking water at levels of public health concern; and
 
   (F) specify the technical, financial, or other assistance that the voluntary local partnership requests of the State to develop the partnership or to implement recommendations of the partnership.
+
+(5) **Savings provision** — Unless otherwise provided within the agreement, an agreement between an unincorporated area and a county for the county to submit a petition under paragraph (1)(A) on behalf of the unincorporated area shall not authorize the county to act on behalf of the unincorporated area in any matter not within a program under this section.
 
 **(b) Approval or disapproval of petitions**
 
@@ -78088,7 +79358,7 @@ The Federal Water Pollution Control Act, referred to in subsec. (a)(6)(E), is ac
 
   (D) describe technical or financial assistance pursuant to Federal and State programs that is available to address the contamination of sources of drinking water and to develop and respond to petitions submitted under subsection (a).
 
-**(e) Authorization of appropriations** There are authorized to be appropriated to carry out this section $5,000,000 for each of the fiscal years 2020 through 2021. Each State with a plan for a program approved under subsection (b) shall receive an equitable portion of the funds available for any fiscal year.
+**(e) Authorization of appropriations** There are authorized to be appropriated to carry out this section $5,000,000 for each of the fiscal years 2020 through 2026. Each State with a plan for a program approved under subsection (b) shall receive an equitable portion of the funds available for any fiscal year.
 
 **(f) Statutory construction** Nothing in this section—
 
@@ -78108,6 +79378,14 @@ The Federal Water Pollution Control Act, referred to in subsec. (b)(2)(A)(iii), 
 The Food Security Act of 1985, referred to in subsec. (b)(2)(B)(iii), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Chapter 2 of subtitle D of title XII of the Act means chapter 2 of subtitle D of title XII of Pub. L. 99–198, as added by Pub. L. 101–624, title XIV, § 1439, Nov. 28, 1990, 104 Stat. 3590, which was classified generally to part II (§ 3838 et seq.) of subchapter IV of chapter 58 of Title 16, Conservation, prior to repeal by Pub. L. 104–127, title III, § 336(h), Apr. 4, 1996, 110 Stat. 1007. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1281&num=0&edition=prelim), Agriculture, and Tables.
 
 #### Amendments
+2021—Subsec. (a)(1)(A). Pub. L. 117–58, § 50103(1)(A), substituted “political subdivision of a State (including a county that is designated by the State to act on behalf of an unincorporated area within that county, with the agreement of that unincorporated area),” for “political subdivision of a State,” in introductory provisions.
+
+Subsec. (a)(4)(D)(i). Pub. L. 117–58, § 50103(1)(B), inserted “(including a county that is designated by the State to act on behalf of an unincorporated area within that county)” after “of the State”.
+
+Subsec. (a)(5). Pub. L. 117–58, § 50103(1)(C), added par. (5).
+
+Subsec. (e). Pub. L. 117–58, § 50103(2), substituted “2026” for “2021”.
+
 2018—Subsec. (e). Pub. L. 115–270 substituted “2020 through 2021” for “1997 through 2003”.
 
 
@@ -78199,6 +79477,25 @@ In addition to the substances referred to in [section 346a(p)(3)(B) of title 21]
 
 #### Public Health Assessment of Exposure to Perchlorate
 Pub. L. 108–136, div. A, title III, § 323, Nov. 24, 2003, 117 Stat. 1440, provided that: “(a) Epidemiological Study of Exposure to Perchlorate.—The Secretary of Defense shall provide for an independent epidemiological study of exposure to perchlorate in drinking water. The entity conducting the study shall—“(1) assess the incidence of thyroid disease and measurable effects of thyroid function in relation to exposure to perchlorate; “(2) ensure that the study is of sufficient scope and scale to permit the making of meaningful conclusions of the measurable public health threat associated with exposure to perchlorate, especially the threat to sensitive subpopulations; and “(3) examine thyroid function, including measurements of urinary iodine and thyroid hormone levels, in a sufficient number of pregnant women, neonates, and infants exposed to perchlorate in drinking water and match measurements of perchlorate levels in the drinking water of each study participant in order to permit the development of meaningful conclusions on the public health threat to individuals exposed to perchlorate. “(b) Review of Effects of Perchlorate on Endocrine System.—The Secretary shall provide for an independent review of the effects of perchlorate on the human endocrine system. The entity conducting the review shall assess—“(1) available data on human exposure to perchlorate, including clinical data and data on exposure of sensitive subpopulations, and the levels at which health effects were observed; and “(2) available data on other substances that have endocrine effects similar to perchlorate to which the public is frequently exposed. “(c) Performance of Study and Review.—(1) The Secretary shall provide for the performance of the study under subsection (a) through the Centers for Disease Control and Prevention, the National Institutes of Health, or another Federal entity with experience in environmental toxicology selected by the Secretary. “(2) The Secretary shall provide for the performance of the review under subsection (b) through the Centers for Disease Control and Prevention, the National Institutes of Health, or another appropriate Federal research entity with experience in human endocrinology selected by the Secretary. The Secretary shall ensure that the panel conducting the review is composed of individuals with expertise in human endocrinology. “(d) Reporting Requirements.—Not later than June 1, 2005, the Federal entities conducting the study and review under this section shall submit to the Secretary reports containing the results of the study and review.”
+
+
+<a id="section-300j-18a"></a>
+## § 300j–18a. Annual study on boil water advisories
+**(a) In general** Not later than 1 year after November 15, 2021, and annually thereafter, the Administrator shall conduct a study on the prevalence of boil water advisories issued in the United States.
+
+**(b) Report**
+
+(1) **In general** — The Administrator shall submit to Congress a report describing the results of the most recent study conducted under subsection (a) as part of the annual budget request transmitted to Congress under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim).
+
+(2) **Requirement** — In the annual report required under paragraph (1), the Administrator shall include a description of the reasons for which boil water advisories were issued during the year covered by the report.
+
+### Statutory Notes
+
+#### Codification
+Section enacted as part of the Drinking Water and Wastewater Infrastructure Act of 2021 and also as part of the Infrastructure Investment and Jobs Act, and not as part of the Public Health Service Act which comprises this chapter.
+
+#### Definition of Administrator
+Pub. L. 117–58, div. E, § 50002, Nov. 15, 2021, 135 Stat. 1135, provided that: “In this division [see Short Title of 2021 Amendment note set out under [section 1251 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251&num=0&edition=prelim), Navigation and Navigable Waters], the term ‘Administrator’ means the Administrator of the Environmental Protection Agency.”
 
 
 <a id="section-300j-19"></a>
@@ -78296,11 +79593,25 @@ Pub. L. 108–136, div. A, title III, § 323, Nov. 24, 2003, 117 Stat. 1440, pro
 
   (A) investments necessary for the public water system to comply with the requirements of this subchapter;
 
-  (B) assistance that directly and primarily benefits the disadvantaged community on a per-household basis; and
+  (B) assistance that directly and primarily benefits the disadvantaged community on a per-household basis;
 
-  (C) programs to provide household water quality testing, including testing for unregulated contaminants.
+  (C) programs to provide household water quality testing, including testing for unregulated contaminants;
 
-**(c) Eligible entities** An eligible entity under this section—
+  (D) the purchase of point-of-entry or point-of-use filters and filtration systems that are certified by a third party using science-based test methods for the removal of contaminants of concern;
+
+  (E) investments necessary for providing accurate and current information about—
+
+    (i) the need for filtration and filter safety, including proper use and maintenance practices; and
+
+    (ii) the options for replacing lead service lines (as defined in [section 300j–19b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300j–19b/a&num=0&edition=prelim)) and removing other sources of lead in water; and
+
+  (F) entering into contracts, including contracts with nonprofit organizations that have water system technical expertise, to assist—
+
+    (i) an eligible entity; or
+
+    (ii) the State of an eligible entity, on behalf of that eligible entity.
+
+**(c) Eligible entities** Except for purposes of subsections (j) and (m), an eligible entity under this section—
 
 (1) is—
 
@@ -78328,7 +79639,7 @@ Pub. L. 108–136, div. A, title III, § 323, Nov. 24, 2003, 117 Stat. 1440, pro
 
 **(g) Cost sharing** Before providing a grant to an eligible entity under this section, the Administrator shall enter into a binding agreement with the eligible entity to require the eligible entity—
 
-(1) to pay not less than 45 percent of the total costs of the project or activity, which may include services, materials, supplies, or other in-kind contributions;
+(1) except as provided in subsection (l)(5) and subject to subsection (h), to pay not less than 10 percent of the total costs of the project or activity, which may include services, materials, supplies, or other in-kind contributions;
 
 (2) to provide any land, easements, rights-of-way, and relocations necessary to carry out the project or activity; and
 
@@ -78340,11 +79651,11 @@ Pub. L. 108–136, div. A, title III, § 323, Nov. 24, 2003, 117 Stat. 1440, pro
 
 **(j) State response to contaminants**
 
-(1) **In general** — The Administrator may, subject to the terms and conditions of this section, issue a grant to a requesting State, on behalf of an underserved community, so the State may assist in, or otherwise carry out, necessary and appropriate activities related to a contaminant—
+(1) **In general** — The Administrator may, subject to the terms and conditions of this section, issue a grant to a requesting State, on behalf of a community described in subsection (c)(2), so the State may assist in, or otherwise carry out, necessary and appropriate activities related to a contaminant—
 
   (A) that is determined by the State to—
 
-    (i) be present in, or likely to enter into, a public water system serving, or an underground source of drinking water for, such underserved community; and
+    (i) be present in, or likely to enter into, a public water system serving, or an underground source of drinking water for, that community; and
 
     (ii) potentially present an imminent and substantial endangerment to the health of persons; and
 
@@ -78356,13 +79667,23 @@ Pub. L. 108–136, div. A, title III, § 323, Nov. 24, 2003, 117 Stat. 1440, pro
 
   (B) promptly pay the Administrator an amount equal to the amount of such funds.
 
-**(k) Authorization of appropriations** There are authorized to be appropriated to carry out subsections (a) through (j) of this section, $60,000,000 for each of fiscal years 2017 through 2021.
+**(k) Authorization of appropriations** There are authorized to be appropriated to carry out subsections (a) through (j)—
+
+(1) $70,000,000 for fiscal year 2022;
+
+(2) $80,000,000 for fiscal year 2023;
+
+(3) $100,000,000 for fiscal year 2024;
+
+(4) $120,000,000 for fiscal year 2025; and
+
+(5) $140,000,000 for fiscal year 2026.
 
 **(l) Drinking water infrastructure resilience and sustainability**
 
 (1) **Resilience and natural hazard** — The terms “resilience” and “natural hazard” have the meaning given such terms in [section 300i–2(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300i–2/h&num=0&edition=prelim).
 
-(2) **In general** — The Administrator may establish and carry out a program, to be known as the Drinking Water System Infrastructure Resilience and Sustainability Program, under which the Administrator, subject to the availability of appropriations for such purpose, shall award grants in each of fiscal years 2019 and 2020 to eligible entities for the purpose of increasing resilience to natural hazards.
+(2) **In general** — The Administrator shall establish and carry out a program, to be known as the Drinking Water System Infrastructure Resilience and Sustainability Program, under which the Administrator, subject to the availability of appropriations for such purpose, shall award grants in each of fiscal years 2022 through 2026 to eligible entities for the purpose of increasing resilience to natural hazards.
 
 (3) **Use of funds** — An eligible entity may only use grant funds received under this subsection to assist in the planning, design, construction, implementation, operation, or maintenance of a program or project that increases resilience to natural hazards through—
 
@@ -78392,16 +79713,95 @@ Pub. L. 108–136, div. A, title III, § 323, Nov. 24, 2003, 117 Stat. 1440, pro
 
   (F) explains how the proposed program or project is expected to enhance the resilience of the system to the anticipated natural hazards.
 
-(5) **Authorization of appropriations** — There is authorized to be appropriated to carry out this subsection $4,000,000 for each of fiscal years 2019 and 2020.
+(5) **Federal share for small, rural, and disadvantaged communities**
+
+  (A) *In general* — Subject to subparagraph (B), with respect to a program or project that serves an eligible entity and is carried out using a grant under this subsection, the Federal share of the cost of the program or project shall be 90 percent.
+
+  (B) *Waiver* — The Administrator may increase the Federal share under subparagraph (A) to 100 percent if the Administrator determines that an eligible entity is unable to pay, or would experience significant financial hardship if required to pay, the non-Federal share.
+
+(6) **Authorization of appropriations** — There is authorized to be appropriated to carry out this subsection $25,000,000 for each of fiscal years 2022 through 2026.
+
+**(m) Connection to public water systems**
+
+(1) **Definitions** — In this subsection:
+
+  (A) *Eligible entity* — The term “eligible entity” means—
+
+    (i) an owner or operator of a public water system that assists or is seeking to assist eligible individuals with connecting the household of the eligible individual to the public water system; or
+
+    (ii) a nonprofit entity that assists or is seeking to assist eligible individuals with the costs associated with connecting the household of the eligible individual to a public water system.
+
+  (B) *Eligible individual* — The term “eligible individual” has the meaning given the term in [section 1383(j) of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1383/j&num=0&edition=prelim).
+
+  (C) *Program* — The term “program” means the competitive grant program established under paragraph (2).
+
+(2) **Establishment** — Subject to the availability of appropriations, the Administrator shall establish a competitive grant program for the purpose of improving the general welfare under which the Administrator awards grants to eligible entities to provide funds to assist eligible individuals in covering the costs incurred by the eligible individual in connecting the household of the eligible individual to a public water system.
+
+(3) **Application** — An eligible entity seeking a grant under the program shall submit to the Administrator an application at such time, in such manner, and containing such information as the Administrator may require.
+
+(4) **Voluntary connection** — Before providing funds to an eligible individual for the costs described in paragraph (2), an eligible entity shall ensure and certify to the Administrator that—
+
+  (A) the eligible individual is voluntarily seeking connection to the public water system;
+
+  (B) if the eligible entity is not the owner or operator of the public water system to which the eligible individual seeks to connect, the public water system to which the eligible individual seeks to connect has agreed to the connection; and
+
+  (C) the connection of the household of the eligible individual to the public water system meets all applicable local and State regulations, requirements, and codes.
+
+(5) **Report** — Not later than 3 years after November 15, 2021, the Administrator shall submit to Congress a report that describes the implementation of the program, which shall include a description of the use and deployment of amounts made available under the program.
+
+(6) **Authorization of appropriations** — There is authorized to be appropriated to carry out the program $20,000,000 for each of fiscal years 2022 through 2026.
+
+**(n) State competitive grants for underserved communities**
+
+(1) **In general** — In addition to amounts authorized to be appropriated under subsection (k), there is authorized to be appropriated to carry out subsections (a) through (j) $50,000,000 for each of fiscal years 2022 through 2026 in accordance with paragraph (2).
+
+(2) **Competitive grants**
+
+  (A) *In general* — Notwithstanding any other provision of this section, the Administrator shall distribute amounts made available under paragraph (1) to States through a competitive grant program.
+
+  (B) *Applications* — To seek a grant under the competitive grant program under subparagraph (A), a State shall submit to the Administrator an application at such time, in such manner, and containing such information as the Administrator may require.
+
+  (C) *Criteria* — In selecting recipients of grants under the competitive grant program under subparagraph (A), the Administrator shall establish criteria that give priority to States with a high proportion of underserved communities that meet the condition described in subsection (a)(2)(A).
+
+(3) **Report** — Not later than 2 years after November 15, 2021, the Administrator shall submit to Congress a report that describes the implementation of the competitive grant program under paragraph (2)(A), which shall include a description of the use and deployment of amounts made available under the competitive grant program.
+
+(4) **Savings provision** — Nothing in this paragraph affects the distribution of amounts made available under subsection (k), including any methods used by the Administrator for distribution of amounts made available under that subsection as in effect on the day before November 15, 2021.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (b)(2)(D) to (F). Pub. L. 117–58, § 50104(a)(1), added subpars. (D) to (F).
+
+Subsec. (c). Pub. L. 117–58, § 50104(a)(2), substituted “Except for purposes of subsections (j) and (m), an eligible entity” for “An eligible entity” in introductory provisions.
+
+Subsec. (g)(1). Pub. L. 117–58, § 50104(a)(3), substituted “except as provided in subsection (l)(5) and subject to subsection (h), to pay not less than 10 percent” for “to pay not less than 45 percent”.
+
+Subsec. (j)(1). Pub. L. 117–58, § 50114(1), substituted “a community described in subsection (c)(2)” for “an underserved community” in introductory provisions.
+
+Subsec. (j)(1)(A)(i). Pub. L. 117–58, § 50114(2), substituted “that” for “such underserved”.
+
+Subsec. (k). Pub. L. 117–58, § 50104(a)(4), added subsec. (k) and struck out former subsec. (k). Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out subsections (a) through (j) of this section, $60,000,000 for each of fiscal years 2017 through 2021.”
+
+Subsec. (l)(2). Pub. L. 117–58, § 50104(a)(5)(A), substituted “The Administrator shall” for “The Administrator may” and “fiscal years 2022 through 2026” for “fiscal years 2019 and 2020”.
+
+Subsec. (l)(5). Pub. L. 117–58, § 50104(a)(5)(C), (D), added par. (5) and redesignated former par. (5) as (6).
+
+Pub. L. 117–58, § 50104(a)(5)(B), substituted “$25,000,000 for each of fiscal years 2022 through 2026” for “$4,000,000 for each of fiscal years 2019 and 2020”.
+
+Subsec. (l)(6). Pub. L. 117–58, § 50104(a)(5)(C), redesignated par. (5) as (6).
+
+Subsec. (m). Pub. L. 117–58, § 50104(b), added subsec. (m).
+
+Subsec. (n). Pub. L. 117–58, § 50104(c), added subsec. (n).
+
 2018—Subsec. (j). Pub. L. 115–270, § 2005(3), added subsec. (j). Former subsec. (j) redesignated (k).
 
 Subsec. (k). Pub. L. 115–270, § 2005(1), (2), redesignated subsec. (j) as (k) and substituted “subsections (a) through (j) of this section” for “this section”.
 
 Subsec. (l). Pub. L. 115–270, § 2005(4), added subsec. (l).
+
+#### Rural and Urban Low-Income Community Water Assistance; Needs Assessment; Pilot Program
+Pub. L. 117–58, div. E, title I, §§ 50108, 50109, Nov. 15, 2021, 135 Stat. 1146, 1148, provided that: “SEC. 50108. NEEDS ASSESSMENT FOR NATIONWIDE RURAL AND URBAN LOW-INCOME COMMUNITY WATER ASSISTANCE.“(a) Definitions.—In this section and section 50109:“(1) Community water system.—The term ‘community water system’ has the meaning given the term in section 1401 of the Safe Drinking Water Act ([42 U.S.C. 300f](./chapter-6a-public-health-service.md#section-300f)). “(2) Large water service provider.—The term ‘large water service provider’ means a community water system, treatment works, or municipal separate storm sewer system that serves more than 100,000 people. “(3) Medium water service provider.—The term ‘medium water service provider’ means a community water system, treatment works, or municipal separate storm sewer system that serves more than 10,000 people and not more than 100,000 people. “(4) Need.—The term ‘need’, with respect to a qualifying household, means the expenditure of a disproportionate amount of household income on access to public drinking water or wastewater services. “(5) Qualifying household.—The term ‘qualifying household’ means a household that—“(A) includes an individual who is—“(i) the holder of an account for drinking water or wastewater service that is provided to that household by a large water service provider, a medium water service provider, or a rural water service provider; or “(ii) separately billed by a landlord that holds an account with a large water service provider, a medium water service provider, or a rural water service provider for the cost of drinking water or wastewater service provided to that household by the respective large water service provider, medium water service provider, or rural water service provider; and “(B) is determined—“(i) by a large water service provider, a medium water service provider, or a rural water service provider to be eligible for assistance through a low-income ratepayer assistance program; “(ii) by the Governor of the State in which the household is located to be low-income, based on the affordability criteria established by the State under section 1452(d)(3) of the Safe Drinking Water Act ([42 U.S.C. 300j–12(d)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300j–12/d/3&num=0&edition=prelim)); “(iii) by the Administrator [of the Environmental Protection Agency] to experience drinking water and wastewater service costs that exceed the metrics of affordability established in the most recent guidance of the Administrator entitled ‘Financial Capability Assessment Guidance’; or “(iv) in the case of a household serviced by a rural water service provider, by the State in which the household is located to have an annual income that does not exceed the greater of— “(I) an amount equal to 150 percent of the poverty level of that State; and “(II) an amount equal to 60 percent of the State median income for that State. “(6) Rural water service provider.—The term ‘rural water service provider’ means a community water system, treatment works, or municipal separate storm sewer system that serves not more than 10,000 people. “(7) Treatment works.—The term ‘treatment works’ has the meaning given the term in section 212 of the Federal Water Pollution Control Act ([33 U.S.C. 1292](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1292&num=0&edition=prelim)). “(b) Study; Report.—“(1) In general.—The Administrator shall conduct, and submit to Congress a report describing the results of, a study that examines the prevalence throughout the United States of municipalities, public entities, or Tribal governments that—“(A) are serviced by rural water service providers, medium water service providers, or large water service providers that service a disproportionate percentage, as determined by the Administrator, of qualifying households with need; or “(B) as determined by the Administrator, have taken on an unsustainable level of debt due to customer nonpayment for the services provided by a large water service provider, a medium water service provider, or a rural water service provider. “(2) Affordability inclusions.—The report under paragraph (1) shall include—“(A) a definition of the term ‘affordable access to water services’; “(B) a description of the criteria used in defining ‘affordable access to water services’ under subparagraph (A); “(C) a definition of the term ‘lack of affordable access to water services’; “(D) a description of the methodology and criteria used in defining ‘lack of affordable access to water services’ under subparagraph (C); “(E) a determination of the prevalence of a lack of affordable access to water services, as defined under subparagraph (C); “(F) the methodology and criteria used to determine the prevalence of a lack of affordable access to water services under subparagraph (E); “(G) any additional information with respect to the affordable access to water services, as defined under subparagraph (A), provided by rural water service providers, medium water service providers, and large water service providers; “(H) with respect to the development of the report, a consultation with all relevant stakeholders, including rural advocacy associations; “(I) recommendations of the Administrator regarding the best methods to reduce the prevalence of a lack of affordable access to water services, as defined under subparagraph (C); and “(J) a description of the cost of each method described in subparagraph (I). “(3) Agreements.—The Administrator may enter into an agreement with another Federal agency to carry out the study under paragraph (1). “SEC. 50109. RURAL AND LOW-INCOME WATER ASSISTANCE PILOT PROGRAM.“(a) Definitions.—In this section:“(1) Eligible entity.—The term ‘eligible entity’ means—“(A) a municipality, Tribal government, or other entity that—“(i) owns or operates a community water system, treatment works, or municipal separate storm sewer system; or “(ii) as determined by the Administrator [of the Environmental Protection Agency], has taken on an unsustainable level of debt due to customer nonpayment for the services provided by a community water system, treatment works, or municipal separate storm sewer system; and “(B) a State exercising primary enforcement responsibility over a rural water service provider under the Safe Drinking Water Act ([42 U.S.C. 300f](./chapter-6a-public-health-service.md#section-300f) et seq.) or the Federal Water Pollution Control Act ([33 U.S.C. 1251](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251&num=0&edition=prelim) et seq.), as applicable. “(2) Pilot program.—The term ‘pilot program’ means the pilot program established by the Administrator under subsection (b)(1). “(3) Water services needs assessment.—The term ‘water services needs assessment’ means the report required under section 50108(b)(1). “(b) Establishment.—“(1) In general.—Not later than 2 years after the date of enactment of this Act [Nov. 15, 2021], the Administrator shall establish a pilot program to award grants to eligible entities to develop and implement programs to assist qualifying households with need in maintaining access to drinking water and wastewater treatment. “(2) Requirement.—In establishing the pilot program, the Administrator shall ensure that data from the water services needs assessment directly contributes to the structure of the pilot program by informing the types of assistance and criteria used for priority consideration with the demonstrated need from the study conducted under section 50108(b)(1) and the water services needs assessment. “(3) Use of funds limitations.—A grant under the pilot program—“(A) shall not be used to replace funds for any existing similar program; but “(B) may be used to supplement or enhance an existing program, including a program that receives assistance from other Federal grants. “(4) Term.—The term of a grant awarded under the pilot program shall be subject to the availability of appropriations. “(5) Types of assistance.—In establishing the pilot program, the Administrator may include provisions for—“(A) direct financial assistance; “(B) a lifeline rate; “(C) bill discounting; “(D) special hardship provisions; “(E) a percentage-of-income payment plan; or “(F) debt relief for the eligible entity or the community water system owned by the eligible entity for debt that is due to customer nonpayment for the services provided by the eligible entity or the community water system that is determined by the Administrator to be in the interest of public health. “(6) Requirement.—The Administrator shall award not more than 40 grants under the pilot program, of which—“(A) not more than 8 shall be to eligible entities that own, operate, or exercise primary enforcement responsibility over a rural water service provider under the Safe Drinking Water Act ([42 U.S.C. 300f](./chapter-6a-public-health-service.md#section-300f) et seq.) or the Federal Water Pollution Control Act ([33 U.S.C. 1251](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251&num=0&edition=prelim) et seq.), as applicable; “(B) not more than 8 shall be to eligible entities that own or operate a medium water service provider; “(C) not more than 8 shall be to eligible entities that own or operate a large water service provider that serves not more than 500,000 people; “(D) not more than 8 shall be to eligible entities that own or operate a large water service provider that serves more than 500,000 people; and “(E) not more than 8 shall be to eligible entities that own or operate a community water system, treatment works, or municipal separate storm sewer system that services a disadvantaged community (consistent with the affordability criteria established by the applicable State under section 1452(d)(3) of the Safe Drinking Water Act ([42 U.S.C. 300j–12(d)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300j–12/d/3&num=0&edition=prelim)) or section 603(i)(2) of the Federal Water Pollution Control Act ([33 U.S.C. 1383(i)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1383/i/2&num=0&edition=prelim)), as applicable). “(7) Criteria.—In addition to any priority criteria established by the Administrator in response to the findings in the water services needs assessment, in awarding grants under the pilot program, the Administrator shall give priority consideration to eligible entities that—“(A) serve a disproportionate percentage, as determined by the Administrator, of qualifying households with need, as identified in the water services needs assessment; “(B) are subject to State or Federal enforcement actions relating to compliance with the Federal Water Pollution Control Act ([33 U.S.C. 1251](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251&num=0&edition=prelim) et seq.) or the Safe Drinking Water Act ([42 U.S.C. 300f](./chapter-6a-public-health-service.md#section-300f) et seq.); or “(C) maintain or participate in an existing community assistance program with objectives similar to the objectives of the pilot program, as determined by the Administrator. “(8) Reporting requirements.—“(A) In general.—In addition to any other applicable Federal or agency-specific grant reporting requirements, as a condition of receiving a grant under the pilot program, an eligible entity (or a State, on behalf of an eligible entity) shall submit to the Administrator an annual report that summarizes, in a manner determined by the Administrator, the use of grant funds by the eligible entity, including—“(i) key features of the assistance provided by the eligible entity; “(ii) sources of funding used to supplement Federal funds; and “(iii) eligibility criteria. “(B) Publication.—The Administrator shall publish each report submitted under subparagraph (A). “(c) Technical Assistance.—The Administrator shall provide technical assistance to each eligible entity, and each State, on behalf of an eligible entity, that receives a grant under the pilot program to support implementation of the program. “(d) Report.—Not later than 2 years after the date on which grant funds are first disbursed to an eligible entity (or a State, on behalf of an eligible entity) under the program, and every year thereafter for the duration of the terms of the grants, the Administrator shall submit to Congress a report on the results of the pilot program.”
 
 
 <a id="section-300j-19b"></a>
@@ -78416,7 +79816,7 @@ Subsec. (l). Pub. L. 115–270, § 2005(4), added subsec. (l).
 
   (C) a nontransient noncommunity water system;
 
-  (D) a qualified nonprofit organization, as determined by the Administrator, servicing a public water system; and
+  (D) a qualified nonprofit organization with experience in lead reduction, as determined by the Administrator; and
 
   (E) a municipality or State, interstate, or intermunicipal agency.
 
@@ -78424,15 +79824,15 @@ Subsec. (l). Pub. L. 115–270, § 2005(4), added subsec. (l).
 
   (A) *In general* — The term “lead reduction project” means a project or activity the primary purpose of which is to reduce the concentration of lead in water for human consumption by—
 
-    (i) replacement of publicly owned lead service lines;
+    (i) replacement of lead service lines;
 
     (ii) testing, planning, or other relevant activities, as determined by the Administrator, to identify and address conditions (including corrosion control) that contribute to increased concentration of lead in water for human consumption; and
 
-    (iii) providing assistance to low-income homeowners to replace lead service lines.
+    (iii) providing assistance to eligible entities to replace lead service lines, with priority for disadvantaged communities based on the affordability criteria established by the applicable State under [section 300j–12(d)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300j–12/d/3&num=0&edition=prelim), low-income homeowners, and landlords or property owners providing housing to low-income renters.
 
   (B) *Limitation* — The term “lead reduction project” does not include a partial lead service line replacement if, at the conclusion of the service line replacement, drinking water is delivered to a household through a publicly or privately owned portion of a lead service line.
 
-(3) **Low-income** — The term “low-income”, with respect to an individual provided assistance under this section, has such meaning as may be given the term by the Governor of the State in which the eligible entity is located, based upon the affordability criteria established by the State under [section 300j–12(d)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300j–12/d/3&num=0&edition=prelim).
+(3) **Low-income** — The term “low-income”, with respect to assistance under this section, has such meaning as may be given the term by the Governor of the State in which the eligible entity is located, based upon the affordability criteria established by the State under [section 300j–12(d)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300j–12/d/3&num=0&edition=prelim).
 
 (4) **Lead service line** — The term “lead service line” means a pipe and its fittings, which are not lead free (as defined in [section 300g–6(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300g–6/d&num=0&edition=prelim)), that connect the drinking water main to the building inlet.
 
@@ -78466,35 +79866,96 @@ Subsec. (l). Pub. L. 115–270, § 2005(4), added subsec. (l).
 
 (5) **Low-income assistance**
 
-  (A) *In general* — Subject to subparagraph (B), an eligible entity may use a grant provided under this subsection to provide assistance to low-income homeowners to replace the lead service lines of such homeowners.
+  (A) *In general* — Subject to subparagraph (B), an eligible entity may use a grant provided under this subsection to replace lead service lines, with first priority given to assisting disadvantaged communities based on the affordability criteria established by the applicable State under [section 300j–12(d)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300j–12/d/3&num=0&edition=prelim), low-income homeowners, and landlords or property owners providing housing to low-income renters.
 
-  (B) *Limitation* — The amount of a grant provided to a low-income homeowner under this paragraph shall not exceed the standard cost of replacement of the privately owned portion of the lead service line.
+  (B) *Limitation* — The amount of a grant provided to a low-income homeowner under this paragraph shall not exceed the standard cost of replacement of the privately owned portion of the lead service lines.
 
 (6) **Special consideration for lead service line replacement** — In carrying out lead service line replacement using a grant under this subsection, an eligible entity—
 
-  (A) shall notify customers of the replacement of any publicly owned portion of the lead service line;
+  (A) shall notify customers of the replacement of the lead service line;
 
   (B) may, in the case of a homeowner who is not low-income, offer to replace the privately owned portion of the lead service line at the cost of replacement for that homeowner’s property;
 
-  (C) may, in the case of a low-income homeowner, offer to replace the privately owned portion of the lead service line at a cost that is equal to the difference between—
+  (C) shall, in the case of a low-income homeowner, and may, for other homeowners, offer to replace the privately owned portion of the lead service line at no cost to the homeowner;
 
-    (i) the cost of replacement; and
+  (D) shall notify each customer that a planned replacement of any publicly owned portion of a lead service line that is funded by a grant made under this subsection will not be carried out unless the customer agrees to the simultaneous replacement of the privately owned portion of the lead service line;
 
-    (ii) the amount of assistance available to the low-income homeowner under paragraph (5);
+  (E) shall demonstrate that the eligible entity has considered feasible alternatives for reducing the concentration of lead in drinking water, such as corrosion control; and
 
-  (D) shall notify each customer that a planned replacement of any publicly owned portion of a lead service line that is funded by a grant made under this subsection will not be carried out unless the customer agrees to the simultaneous replacement of the privately owned portion of the lead service line; and
-
-  (E) shall demonstrate that the eligible entity has considered other options for reducing the concentration of lead in its drinking water, including an evaluation of options for corrosion control.
+  (F) shall notify the State of any planned replacement of lead service lines under this program and coordinate, where practicable, with other relevant infrastructure projects.
 
 **(c) Limitation on use of funds** Not more than 4 percent of funds made available for grants under this section may be used to pay the administrative costs of the Administrator.
 
-**(d) Authorization of appropriations** There is authorized to be appropriated to carry out this section $60,000,000 for each of fiscal years 2017 through 2021.
+**(d) Lead inventorying utilization grant pilot program**
 
-**(e) Savings clause** Nothing in this section affects whether a public water system is responsible for the replacement of a lead service line that is—
+(1) **Definitions** — In this subsection:
+
+  (A) *Eligible entity* — The term “eligible entity” means a municipality that is served by a community water system or a nontransient noncommunity water system in which not less than 30 percent of the service lines are known, or suspected, to contain lead, based on available data, information, or resources, including existing lead inventorying.
+
+  (B) *Pilot program* — The term “pilot program” means the pilot program established under paragraph (2).
+
+(2) **Establishment** — The Administrator shall establish a pilot program under which the Administrator shall provide grants to eligible entities to carry out lead reduction projects that are demonstrated to exist or are suspected to exist, based on available data, information, or resources, including existing lead inventorying of those eligible entities.
+
+(3) **Selection**
+
+  (A) *Application* — To be eligible to receive a grant under the pilot program, an eligible entity shall submit to the Administrator an application at such time, in such manner, and containing such information as the Administrator may require.
+
+  (B) *Prioritization* — In selecting recipients under the pilot program, the Administrator shall give priority to—
+
+    (i) an eligible entity that meets the affordability criteria of the applicable State established under [section 300j–12(d)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300j–12/d/3&num=0&edition=prelim); and
+
+    (ii) an eligible entity that is located in an area other than a State that has established affordability criteria under [section 300j–12(d)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300j–12/d/3&num=0&edition=prelim).
+
+(4) **Report** — Not later 2 years after the Administrator first awards a grant under the pilot program, the Administrator shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Energy and Commerce of the House of Representatives a report describing—
+
+  (A) the recipients of grants under the pilot program;
+
+  (B) the existing lead inventorying that was available to recipients of grants under the pilot program; and
+
+  (C) how useful and accurate the lead inventorying described in subparagraph (B) was in locating lead service lines of the eligible entity.
+
+(5) **Authorization of appropriations** — There is authorized to be appropriated to carry out the pilot program $10,000,000, to remain available until expended.
+
+**(e) Authorization of appropriations** There is authorized to be appropriated to carry out this section (except for subsection (d)) $100,000,000 for each of fiscal years 2022 through 2026.
+
+**(f) Savings clause** Nothing in this section affects whether a public water system is responsible for the replacement of a lead service line that is—
 
 (1) subject to the control of the public water system; and
 
 (2) located on private property.
+
+### Statutory Notes
+
+#### Amendments
+2021—Subsec. (a)(1)(D). Pub. L. 117–58, § 50105(1)(A), added subpar. (D) and struck out former subpar. (D) which read as follows: “a qualified nonprofit organization, as determined by the Administrator, servicing a public water system; and”.
+
+Subsec. (a)(2)(A)(i). Pub. L. 117–58, § 50105(1)(B)(i), struck out “publicly owned” before “lead”.
+
+Subsec. (a)(2)(A)(iii). Pub. L. 117–58, § 50105(1)(B)(ii), added cl. (iii) and struck out former cl. (iii) which read as follows: “providing assistance to low-income homeowners to replace lead service lines.”
+
+Subsec. (a)(3). Pub. L. 117–58, § 50105(1)(C), struck out “an individual provided” before “assistance”.
+
+Subsec. (b)(5)(A). Pub. L. 117–58, § 50105(2)(A)(i), substituted “to replace lead service lines, with first priority given to assisting disadvantaged communities based on the affordability criteria established by the applicable State under [section 300j–12(d)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300j–12/d/3&num=0&edition=prelim), low-income homeowners, and landlords or property owners providing housing to low-income renters.” for “to provide assistance to low-income homeowners to replace the lead service lines of such homeowners.”
+
+Subsec. (b)(5)(B). Pub. L. 117–58, § 50105(2)(A)(ii), substituted “lines” for “line”.
+
+Subsec. (b)(6)(A). Pub. L. 117–58, § 50105(2)(B)(i), struck out “any publicly owned portion of” before “the lead”.
+
+Subsec. (b)(6)(C). Pub. L. 117–58, § 50105(2)(B)(ii), substituted “shall, in the case of a low-income homeowner, and may, for other homeowners, offer to replace the privately owned portion of the lead service line at no cost to the homeowner;” for “may, in the case of a low-income homeowner, offer to replace the privately owned portion of the lead service line at a cost that is equal to the difference between—
+
+“(i) the cost of replacement; and
+
+“(ii) the amount of assistance available to the low-income homeowner under paragraph (5);”.
+
+Subsec. (b)(6)(E). Pub. L. 117–58, § 50105(2)(B)(iv), substituted “feasible alternatives for reducing the concentration of lead in drinking water, such as corrosion control; and” for “other options for reducing the concentration of lead in its drinking water, including an evaluation of options for corrosion control.”.
+
+Subsec. (b)(6)(F). Pub. L. 117–58, § 50105(2)(B)(iii), (v), added subpar. (F).
+
+Subsec. (d). Pub. L. 117–58, § 50105(4), (5), added subsec. (d) and redesignated former subsec. (d) as (e).
+
+Pub. L. 117–58, § 50105(3), substituted “this section (except for subsection (d)) $100,000,000 for each of fiscal years 2022 through 2026” for “this section $60,000,000 for each of fiscal years 2017 through 2021”.
+
+Subsecs. (e), (f). Pub. L. 117–58, § 50105(4), redesignated subsecs. (d) and (e) as (e) and (f), respectively.
 
 
 <a id="section-300j-19c"></a>
@@ -78561,7 +80022,9 @@ Subsec. (l). Pub. L. 115–270, § 2005(4), added subsec. (l).
 
 <a id="section-300j-19e"></a>
 ## § 300j–19e. Water infrastructure and workforce investment
-**(a) Sense of Congress** It is the sense of Congress that—
+**(a) Definition of public works department or agency** In this section, the term “public works department or agency” means a political subdivision of a local, county, or regional government that designs, builds, operates, and maintains water infrastructure, sewage and refuse disposal systems, and other public water systems and facilities.
+
+**(b) Sense of Congress** It is the sense of Congress that—
 
 (1) water and wastewater utilities provide a unique opportunity for access to stable, high-quality careers;
 
@@ -78569,27 +80032,39 @@ Subsec. (l). Pub. L. 115–270, § 2005(4), added subsec. (l).
 
 (3) to further the goal of ensuring a strong pipeline of skilled and diverse workers in the water and wastewater utilities sector, Congress urges—
 
-  (A) increased collaboration among Federal, State, and local governments; and
+  (A) increased collaboration among Federal, State, Tribal, and local governments; and
 
-  (B) institutions of higher education, apprentice programs, high schools, and other community-based organizations to align workforce training programs and community resources with water and wastewater utilities to accelerate career pipelines and provide access to workforce opportunities.
+  (B) institutions of higher education, apprentice programs, high schools, and other community-based organizations and public works departments or agencies to align water and wastewater utility workforce recruitment efforts, training programs, retention efforts, and community resources with water and wastewater utilities—
 
-**(b) Innovative water infrastructure workforce development program**
+    (i) to accelerate career pipelines;
 
-(1) **Grants authorized** — The Administrator of the Environmental Protection Agency (referred to in this section as the “Administrator”), in consultation with the Secretary of Agriculture, shall establish a competitive grant program—
+    (ii) to ensure the sustainability of the water and wastewater utility workforce; and
 
-  (A) to assist the development and utilization of innovative activities relating to workforce development and career opportunities in the water utility sector; and
+    (iii) to provide access to workforce opportunities.
 
-  (B) to expand public awareness about water utilities and connect individuals to careers in the water utility sector.
+**(c) Innovative water infrastructure workforce development program**
 
-(2) **Selection of grant recipients** — In awarding grants under paragraph (1), the Administrator shall, to the extent practicable, select nonprofit professional or service organizations, labor organizations, community colleges, institutions of higher education, or other training and educational institutions—
+(1) **Grants authorized** — The Administrator of the Environmental Protection Agency (referred to in this section as the “Administrator”), in consultation with the Secretary of Agriculture, shall establish a competitive grant program to assist the development and utilization of innovative activities relating to workforce development and career opportunities in the water utility sector, which may include—
+
+  (A) expanding the use and availability of activities and resources that relate to the recruitment, including the promotion of diversity within that recruitment, of individuals to careers in the water and wastewater utility sector;
+
+  (B) expanding the availability of training opportunities for—
+
+    (i) individuals entering into the water and wastewater utility sector; and
+
+    (ii) individuals seeking to advance careers within the water and wastewater utility sector; and
+
+  (C) expanding the use and availability of activities and strategies, including the development of innovative activities and strategies, that relate to the maintenance and retention of a sustainable workforce in the water and wastewater utility sector.
+
+(2) **Selection of grant recipients** — In awarding grants under paragraph (1), the Administrator shall, to the extent practicable, select nonprofit professional or service organizations, labor organizations, community colleges, institutions of higher education, or other training and educational institutions, or public works departments and agencies—
 
   (A) that have qualifications and experience—
 
-    (i) in the development of training programs and curricula relevant to workforce needs of water utilities;
+    (i) in the development of educational or recruitment materials and activities, including those materials and activities that specifically promote diversity within recruitment, for the water and wastewater utility workforce;
 
-    (ii) working in cooperation with water utilities; or
+    (ii) in the development of training programs and curricula relevant to workforce needs of water utilities; or
 
-    (iii) developing public education materials appropriate for communicating with groups of different ages and educational backgrounds; and
+    (iii) developing activities and strategies that relate to the maintenance and retention of a sustainable workforce in the water and wastewater utility sector; and
 
   (B) that will address the human resources and workforce needs of water utilities that—
 
@@ -78627,18 +80102,286 @@ Subsec. (l). Pub. L. 115–270, § 2005(4), added subsec. (l).
 
     (i) hands-on, contextualized learning opportunities;
 
-    (ii) dual enrollment credit for post-secondary education and training programs; and
+    (ii) dual enrollment credit for post-secondary education and training or certification programs; and
 
     (iii) direct connection to industry employers; and
 
-  (E) leadership development, occupational training, mentoring, or cross-training programs that ensure that incumbent water and waste water utilities workers are prepared for higher level supervisory or management-level positions.
+  (E) leadership development, occupational training, mentoring, or cross-training programs that are designed to retain incumbent water and wastewater utility workforce workers by ensuring that those workers are prepared for higher level supervisory or management-level positions.
 
-(4) **Authorization of appropriations** — There is authorized to be appropriated to carry out this subsection $1,000,000 for each of fiscal years 2019 and 2020.
+(4) **Working group; report**
+
+  (A) *In general* — The Administrator shall establish and coordinate a Federal interagency working group to address recruitment, training, and retention challenges in the water and wastewater utility workforce, which shall include representatives from—
+
+    (i) the Department of Education;
+
+    (ii) the Department of Labor;
+
+    (iii) the Department of Agriculture;
+
+    (iv) the Department of Veterans Affairs; and
+
+    (v) other Federal agencies, as determined to be appropriate by the Administrator.
+
+  (B) *Report* — Not later than 2 years after November 15, 2021, the Administrator, in coordination with the working group established under subparagraph (A), shall submit to Congress a report describing potential solutions to recruitment, training, and retention challenges in the water and wastewater utility workforce.
+
+  (C) *Consultation* — In carrying out the duties of the working group established under subparagraph (A), the working group shall consult with State operator certification programs.
+
+(5) **Authorization of appropriations** — There is authorized to be appropriated to carry out this subsection $5,000,000 for each of fiscal years 2022 through 2026.
 
 ### Statutory Notes
 
 #### Codification
 Section enacted as part of the America’s Water Infrastructure Act of 2018, and not as part of the Public Health Service Act which comprises this chapter.
+
+#### Amendments
+2021—Subsec. (a). Pub. L. 117–58, § 50211(4), added subsec. (a). Former subsec. (a) redesignated (b).
+
+Subsec. (a)(3)(A). Pub. L. 117–58, § 50211(1)(A), inserted “Tribal,” after “State,”.
+
+Subsec. (a)(3)(B). Pub. L. 117–58, § 50211(1)(B), substituted “community-based organizations and public works departments or agencies to align water and wastewater utility workforce recruitment efforts, training programs, retention efforts, and community resources with water and wastewater utilities—” and cls. (i) to (iii) for “community-based organizations to align workforce training programs and community resources with water and wastewater utilities to accelerate career pipelines and provide access to workforce opportunities.”
+
+Subsec. (b). Pub. L. 117–58, § 50211(3), redesignated subsec. (a) as (b). Former subsec. (b) redesignated (c).
+
+Subsec. (b)(1). Pub. L. 117–58, § 50211(2)(A), added subpars. (A) to (C), struck out former subpar. (A) designation before “to assist”, substituted “program” for “program—” and “, which may include—” for “; and” in introductory provsions, and struck out former subpar. (B) which read as follows: “to expand public awareness about water utilities and connect individuals to careers in the water utility sector.”
+
+Subsec. (b)(2). Pub. L. 117–58, § 50211(2)(B)(i), substituted “institutions, or public works departments and agencies—” for “institutions—” in introductory provisions.
+
+Subsec. (b)(2)(A). Pub. L. 117–58, § 50211(2)(B)(ii), added cls. (i) and (iii), redesignated former cl. (i) as (ii), and struck out former cls. (ii) and (iii) which read as follows:
+
+“(ii) working in cooperation with water utilities; or
+
+“(iii) developing public education materials appropriate for communicating with groups of different ages and educational backgrounds; and”.
+
+Subsec. (b)(3)(D)(ii). Pub. L. 117–58, § 50211(2)(C)(i), inserted “or certification” after “training”.
+
+Subsec. (b)(3)(E). Pub. L. 117–58, § 50211(2)(C)(ii), substituted “are designed to retain incumbent water and wastewater utility workforce workers by ensuring that those workers” for “ensure that incumbent water and waste water utilities workers”.
+
+Subsec. (b)(4), (5). Pub. L. 117–58, § 50211(2)(D), added pars. (4) and (5) and struck out former par. (4). Prior to amendment, text of par. (4) read as follows: “There is authorized to be appropriated to carry out this subsection $1,000,000 for each of fiscal years 2019 and 2020.”
+
+Subsec. (c). Pub. L. 117–58, § 50211(3), redesignated subsec. (b) as (c).
+
+
+<a id="section-300j-19f"></a>
+## § 300j–19f. Operational sustainability of small public water systems
+**(a) Definitions** In this section:
+
+(1) **Eligible entity** — The term “eligible entity” means—
+
+  (A) a State;
+
+  (B) a unit of local government;
+
+  (C) a public corporation established by a unit of local government to provide water service;
+
+  (D) a nonprofit corporation, public trust, or cooperative association that owns or operates a public water system;
+
+  (E) an Indian Tribe that owns or operates a public water system;
+
+  (F) a nonprofit organization that provides technical assistance to public water systems; and
+
+  (G) a Tribal consortium.
+
+(2) **Operational sustainability** — The term “operational sustainability” means the ability to improve the operation of a small system through the identification and prevention of potable water loss due to leaks, breaks, and other metering or infrastructure failures.
+
+(3) **Program** — The term “program” means the grant program established under subsection (b).
+
+(4) **Small system** — The term “small system”, for the purposes of this section, means a public water system that—
+
+  (A) serves fewer than 10,000 people; and
+
+  (B) is owned or operated by—
+
+    (i) a unit of local government;
+
+    (ii) a public corporation;
+
+    (iii) a nonprofit corporation;
+
+    (iv) a public trust;
+
+    (v) a cooperative association; or
+
+    (vi) an Indian Tribe.
+
+**(b) Establishment** Subject to the availability of appropriations, the Administrator shall establish a program to award grants to eligible entities for the purpose of improving the operational sustainability of 1 or more small systems.
+
+**(c) Applications** To be eligible to receive a grant under the program, an eligible entity shall submit to the Administrator an application at such time, in such manner, and containing such information as the Administrator may require, including—
+
+(1) a proposal of the project to be carried out using grant funds under the program;
+
+(2) documentation provided by the eligible entity describing the deficiencies or suspected deficiencies in operational sustainability of 1 or more small systems that are to be addressed through the proposed project;
+
+(3) a description of how the proposed project will improve the operational sustainability of 1 or more small systems;
+
+(4) a description of how the improvements described in paragraph (3) will be maintained beyond the life of the proposed project, including a plan to maintain and update any asset data collected as a result of the proposed project; and
+
+(5) any additional information the Administrator may require.
+
+**(d) Additional required information** Before the award of funds for a grant under the program to a grant recipient, the grant recipient shall submit to the Administrator—
+
+(1) if the grant recipient is located in a State that has established a State drinking water treatment revolving loan fund under [section 300j–12 of this title](./chapter-6a-public-health-service.md#section-300j-12), a copy of a written agreement between the grant recipient and the State in which the grant recipient agrees to provide a copy of any data collected under the proposed project to the State agency administering the State drinking water treatment revolving loan fund (or a designee); or
+
+(2) if the grant recipient is located in an area other than a State that has established a State drinking water treatment revolving loan fund under [section 300j–12 of this title](./chapter-6a-public-health-service.md#section-300j-12), a copy of a written agreement between the grant recipient and the Administrator in which the eligible entity agrees to provide a copy of any data collected under the proposed project to the Administrator (or a designee).
+
+**(e) Use of funds** An eligible entity that receives a grant under the program shall use the grant funds to carry out projects that improve the operational sustainability of 1 or more small systems through—
+
+(1) the development of a detailed asset inventory, which may include drinking water sources, wells, storage, valves, treatment systems, distribution lines, hydrants, pumps, controls, and other essential infrastructure;
+
+(2) the development of an infrastructure asset map, including a map that uses technology such as—
+
+  (A) geographic information system software; and
+
+  (B) global positioning system software;
+
+(3) the deployment of leak detection technology;
+
+(4) the deployment of metering technology;
+
+(5) training in asset management strategies, techniques, and technologies for appropriate staff employed by—
+
+  (A) the eligible entity; or
+
+  (B) the small systems for which the grant was received;
+
+(6) the deployment of strategies, techniques, and technologies to enhance the operational sustainability and effective use of water resources through water reuse; and
+
+(7) the development or deployment of other strategies, techniques, or technologies that the Administrator may determine to be appropriate under the program.
+
+**(f) Cost share**
+
+(1) **In general** — Subject to paragraph (2), the Federal share of the cost of a project carried out using a grant under the program shall be 90 percent of the total cost of the project.
+
+(2) **Waiver** — The Administrator may increase the Federal share under paragraph (1) to 100 percent.
+
+**(g) Report** Not later than 2 years after November 15, 2021, the Administrator shall submit to Congress a report that describes the implementation of the program, which shall include a description of the use and deployment of amounts made available under the program.
+
+**(h) Authorization of appropriations** There is authorized to be appropriated to carry out this section $50,000,000 for each of fiscal years 2022 through 2026.
+
+
+<a id="section-300j-19g"></a>
+## § 300j–19g. Midsize and Large Drinking Water System Infrastructure Resilience and Sustainability Program
+**(a) Definitions** In this section:
+
+(1) **Eligible entity** — The term “eligible entity” means a public water system that serves a community with a population of 10,000 or more.
+
+(2) **Natural hazard; resilience** — The terms “resilience” and “natural hazard” have the meanings given those terms in [section 300i–2(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300i–2/h&num=0&edition=prelim).
+
+(3) **Resilience and sustainability program** — The term “resilience and sustainability program” means the Midsize and Large Drinking Water System Infrastructure Resilience and Sustainability Program established under subsection (b).
+
+**(b) Establishment** The Administrator shall establish and carry out a program, to be known as the “Midsize and Large Drinking Water System Infrastructure Resilience and Sustainability Program”, under which the Administrator, subject to the availability of appropriations for the resilience and sustainability program, shall award grants to eligible entities for the purpose of—
+
+(1) increasing resilience to natural hazards and extreme weather events; and
+
+(2) reducing cybersecurity vulnerabilities.
+
+**(c) Use of funds** An eligible entity may only use grant funds received under the resilience and sustainability program to assist in the planning, design, construction, implementation, operation, or maintenance of a program or project that increases resilience to natural hazards and extreme weather events, or reduces cybersecurity vulnerabilities, through—
+
+(1) the conservation of water or the enhancement of water-use efficiency;
+
+(2) the modification or relocation of existing drinking water system infrastructure made, or that is at risk of being, significantly impaired by natural hazards or extreme weather events, including risks to drinking water from flooding;
+
+(3) the design or construction of new or modified desalination facilities to serve existing communities;
+
+(4) the enhancement of water supply through the use of watershed management and source water protection;
+
+(5) the enhancement of energy efficiency or the use and generation of renewable energy in the conveyance or treatment of drinking water;
+
+(6) the development and implementation of measures—
+
+  (A) to increase the resilience of the eligible entity to natural hazards and extreme weather events; or
+
+  (B) to reduce cybersecurity vulnerabilities;
+
+(7) the conservation of water or the enhancement of a water supply through the implementation of water reuse measures; or
+
+(8) the formation of regional water partnerships to collaboratively address documented water shortages.
+
+**(d) Application** To seek a grant under the resilience and sustainability program, an eligible entity shall submit to the Administrator an application at such time, in such manner, and containing such information as the Administrator may require, including—
+
+(1) a proposal of the program or project to be planned, designed, constructed, implemented, operated, or maintained by the eligible entity;
+
+(2) an identification of the natural hazard risks, extreme weather events, or potential cybersecurity vulnerabilities, as applicable, to be addressed by the proposed program or project;
+
+(3) documentation prepared by a Federal, State, regional, or local government agency of the natural hazard risk, potential cybersecurity vulnerability, or risk for extreme weather events to the area where the proposed program or project is to be located;
+
+(4) a description of any recent natural hazards, cybersecurity events, or extreme weather events that have affected the community water system of the eligible entity;
+
+(5) a description of how the proposed program or project would improve the performance of the community water system of the eligible entity under the anticipated natural hazards, cybersecurity vulnerabilities, or extreme weather events; and
+
+(6) an explanation of how the proposed program or project is expected—
+
+  (A) to enhance the resilience of the community water system of the eligible entity to the anticipated natural hazards or extreme weather events; or
+
+  (B) to reduce cybersecurity vulnerabilities.
+
+**(e) Report** Not later than 2 years after November 15, 2021, the Administrator shall submit to Congress a report that describes the implementation of the resilience and sustainability program, which shall include a description of the use and deployment of amounts made available to carry out the resilience and sustainability program.
+
+**(f) Authorization of appropriations**
+
+(1) **In general** — There is authorized to be appropriated to carry out the resilience and sustainability program $50,000,000 for each of fiscal years 2022 through 2026.
+
+(2) **Use of funds** — Of the amounts made available under paragraph (1) for grants to eligible entities under the resilience and sustainability program—
+
+  (A) 50 percent shall be used to provide grants to eligible entities that serve a population of—
+
+    (i) equal to or greater than 10,000; and
+
+    (ii) fewer than 100,000; and
+
+  (B) 50 percent shall be used to provide grants to eligible entities that serve a population equal to or greater than 100,000.
+
+(3) **Administrative costs** — Of the amounts made available under paragraph (1), not more than 2 percent may be used by the Administrator for the administrative costs of carrying out the resilience and sustainability program.
+
+
+<a id="section-300j-19h"></a>
+## § 300j–19h. Advanced drinking water technologies
+**(a) Study**
+
+(1) **In general** — Subject to the availability of appropriations, not later than 1 year after November 15, 2021, the Administrator shall carry out a study that examines the state of existing and potential future technology, including technology that could address cybersecurity vulnerabilities, that enhances or could enhance the treatment, monitoring, affordability, efficiency, and safety of drinking water provided by a public water system.
+
+(2) **Report** — The Administrator shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that describes the results of the study under paragraph (1).
+
+**(b) Advanced drinking water technology grant program**
+
+(1) **Definitions** — In this subsection:
+
+  (A) *Eligible entity* — The term “eligible entity” means the owner or operator of a public water system that—
+
+    (i) serves—
+
+      (I) a population of not more than 100,000 people; or
+
+      (II) a community described in [section 300j–19a(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300j–19a/c/2&num=0&edition=prelim);
+
+    (ii) has plans to identify or has identified opportunities in the operations of the public water system to employ new, existing, or emerging, yet proven, technologies, including technology that could address cybersecurity vulnerabilities, as determined by the Administrator, that enhance treatment, monitoring, affordability, efficiency, or safety of the drinking water provided by the public water system, including technologies not identified in the study conducted under subsection (a)(1); and
+
+    (iii) has expressed an interest in the opportunities in the operation of the public water system to employ new, existing, or emerging, yet proven, technologies, including technology that could address cybersecurity vulnerabilities, as determined by the Administrator, that enhance treatment, monitoring, affordability, efficiency, or safety of the drinking water provided by the public water system, including technologies not identified in the study conducted under subsection (a)(1).
+
+  (B) *Program* — The term “program” means the competitive grant program established under paragraph (2).
+
+(2) **Establishment** — The Administrator shall establish a competitive grant program under which the Administrator shall award grants to eligible entities for the purpose of identifying, deploying, or identifying and deploying technologies described in paragraph (1)(A)(ii).
+
+(3) **Requirements**
+
+  (A) *Applications* — To be eligible to receive a grant under the program, an eligible entity shall submit to the Administrator an application at such time, in such manner, and containing such information as the Administrator may require.
+
+  (B) *Federal share*
+
+    (i) *In general* — Subject to clause (ii), the Federal share of the cost of a project carried out using a grant under the program shall not exceed 90 percent of the total cost of the project.
+
+    (ii) *Waiver* — The Administrator may increase the Federal share under clause (i) to 100 percent if the Administrator determines that an eligible entity is unable to pay, or would experience significant financial hardship if required to pay, the non-Federal share.
+
+(4) **Report** — Not later than 2 years after the date on which the Administrator first awards a grant under the program, and annually thereafter, the Administrator shall submit to Congress a report describing—
+
+  (A) each recipient of a grant under the program during the previous 1-year period; and
+
+  (B) a summary of the activities carried out using grants awarded under the program.
+
+(5) **Funding**
+
+  (A) *Authorization of appropriations* — There is authorized to be appropriated to carry out the program $10,000,000 for each of fiscal years 2022 through 2026, to remain available until expended.
+
+  (B) *Administrative costs* — Not more than 2 percent of the amount made available for a fiscal year under subparagraph (A) to carry out the program may be used by the Administrator for the administrative costs of carrying out the program.
 
 
 <a id="section-300j-1a"></a>
@@ -78896,11 +80639,11 @@ The Consumer Product Safety Act, referred to in text, is Pub. L. 92–573, Oct. 
 ## § 300j–24. Lead contamination in school drinking water
 **(a) Distribution of drinking water cooler list** Within 100 days after October 31, 1988, the Administrator shall distribute to the States a list of each brand and model of drinking water cooler identified and listed by the Administrator under [section 300j–23(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300j–23/a&num=0&edition=prelim).
 
-**(b) Guidance document and testing protocol** The Administrator shall publish a guidance document and a testing protocol to assist schools in determining the source and degree of lead contamination in school drinking water supplies and in remedying such contamination. The guidance document shall include guidelines for sample preservation. The guidance document shall also include guidance to assist States, schools, and the general public in ascertaining the levels of lead contamination in drinking water coolers and in taking appropriate action to reduce or eliminate such contamination. The guidance document shall contain a testing protocol for the identification of drinking water coolers which contribute to lead contamination in drinking water. Such document and protocol may be revised, republished and redistributed as the Administrator deems necessary. The Administrator shall distribute the guidance document and testing protocol to the States within 100 days after October 31, 1988.
+**(b) Guidance document and testing protocol** The Administrator shall publish a guidance document and a testing protocol to assist public water systems and schools in determining the source and degree of lead contamination in school drinking water supplies and in remedying such contamination. The guidance document shall include guidelines for sample preservation. The guidance document shall also include guidance to assist States, schools, public water systems, and the general public in ascertaining the levels of lead contamination in drinking water coolers and in taking appropriate action to reduce or eliminate such contamination. The guidance document shall contain a testing protocol for the identification of drinking water coolers which contribute to lead contamination in drinking water. Such document and protocol may be revised, republished and redistributed as the Administrator deems necessary. The Administrator shall distribute the guidance document and testing protocol to the States within 100 days after October 31, 1988.
 
 **(c) Dissemination to schools, etc.** Each State shall provide for the dissemination to local educational agencies, private nonprofit elementary or secondary schools and to day care centers of the guidance document and testing protocol published under subsection (b), together with the list of drinking water coolers published under [section 300j–23(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300j–23/a&num=0&edition=prelim).
 
-**(d) Voluntary school and child care program lead testing grant program**
+**(d) Voluntary school and child care program lead testing and reduction grant program**
 
 (1) **Definitions** — In this subsection:
 
@@ -78916,13 +80659,29 @@ The Consumer Product Safety Act, referred to in text, is Pub. L. 92–573, Oct. 
 
 (2) **Establishment**
 
-  (A) *In general* — Not later than 180 days after December 16, 2016, the Administrator shall establish a voluntary school and child care program lead testing grant program to make grants available to States to assist local educational agencies in voluntary testing for lead contamination in drinking water at schools and child care programs under the jurisdiction of the local educational agencies.
+  (A) *In general* — Not later than 180 days after December 16, 2016, the Administrator shall establish a voluntary school and child care program lead testing, compliance monitoring, and lead reduction grant program to make grants available to—
 
-  (B) *Direct grants to local educational agencies* — The Administrator may make a grant for the voluntary testing described in subparagraph (A) directly available to—
+    (i) States to assist local educational agencies, public water systems that serve schools and child care programs under the jurisdiction of those local educational agencies, and qualified nonprofit organizations in voluntary testing or compliance monitoring for and remediation of lead contamination in drinking water at schools and child care programs under the jurisdiction of those local educational agencies; and
 
-    (i) any local educational agency described in clause (i) or (iii) of paragraph (1)(B) located in a State that does not participate in the voluntary grant program established under subparagraph (A); or
+    (ii) tribal consortia to assist tribal education agencies (as defined in [section 5502 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section5502&num=0&edition=prelim)), public water systems that serve schools and child care programs under the jurisdiction of those tribal education agencies, and qualified nonprofit organizations in voluntary testing or compliance monitoring for and remediation of lead contamination in drinking water at schools and child care programs under the jurisdiction of those tribal education agencies.
 
-    (ii) any local educational agency described in clause (ii) of paragraph (1)(B).
+  (B) *Direct grants to local educational agencies* — The Administrator may make a grant for the voluntary testing or compliance monitoring for or remediation of lead contamination described in subparagraph (A) directly available to—
+
+    (i) any local educational agency described in clause (i) or (iii) of paragraph (1)(B) located in a State that does not participate in the voluntary grant program established under subparagraph (A);
+
+    (ii) any local educational agency described in clause (ii) of paragraph (1)(B);
+
+    (iii) any public water system that is located in a State that does not participate in the voluntary grant program established under subparagraph (A) that—
+
+      (I) assists schools or child care programs in lead testing;
+
+      (II) assists schools or child care programs with compliance monitoring;
+
+      (III) assists schools with carrying out projects to remediate lead contamination in drinking water; or
+
+      (IV) provides technical assistance to schools or child care programs in carrying out lead testing; or
+
+    (iv) a qualified nonprofit organization, as determined by the Administrator.
 
   (C) *Technical assistance* — In carrying out the grant program under subparagraph (A), beginning not later than 1 year after October 23, 2018, the Administrator shall provide technical assistance to recipients of grants under this subsection—
 
@@ -78934,33 +80693,73 @@ The Consumer Product Safety Act, referred to in text, is Pub. L. 92–573, Oct. 
 
     (iv) to connect grant recipients with nonprofit and other organizations that may be able to assist with the elimination of lead contamination described in clause (i).
 
-(3) **Application** — To be eligible to receive a grant under this subsection, a State or local educational agency shall submit to the Administrator an application at such time, in such manner, and containing such information as the Administrator may require.
+(3) **Application** — To be eligible to receive a grant under this subsection, a State, local educational agency, public water system, tribal consortium, or qualified nonprofit organization shall submit to the Administrator an application at such time, in such manner, and containing such information as the Administrator may require.
 
-(4) **Priority** — In making grants under this subsection, the Administrator shall give priority to States and local educational agencies that will assist in voluntary testing for lead contamination in drinking water at schools and child care programs that are in low-income areas.
+(4) **Priority** — In making grants under this subsection, the Administrator shall give priority to States, local educational agencies, public water systems, tribal consortia, and qualified nonprofit organizations that will assist in voluntary testing for or the remediation of lead contamination in drinking water at schools and child care programs that are in low-income areas.
 
-(5) **Limitation on use of funds** — Not more than 4 percent of grant funds accepted by a State or local educational agency for a fiscal year under this subsection shall be used to pay the administrative costs of carrying out this subsection.
+(5) **Limitation on use of funds** — Not more than 4 percent of grant funds accepted by a State, local educational agency, public water system, tribal consortium, or qualified nonprofit organization for a fiscal year under this subsection shall be used to pay the administrative costs of carrying out this subsection.
 
-(6) **Guidance; public availability** — As a condition of receiving a grant under this subsection, the recipient State or local educational agency shall ensure that each local educational agency to which grant funds are distributed shall—
+(6) **Guidance; public availability** — As a condition of receiving a grant under this subsection, the recipient State, local educational agency, public water system, tribal consortium, or qualified nonprofit organization shall ensure that each local educational agency, public water system, tribal consortium, or qualified nonprofit organization to which grant funds are distributed shall—
 
   (A) expend grant funds in accordance with—
 
     (i) the guidance of the Environmental Protection Agency entitled “3Ts for Reducing Lead in Drinking Water in Schools: Revised Technical Guidance” and dated October 2006 (or any successor guidance); or
 
-    (ii) applicable State regulations or guidance regarding reducing lead in drinking water in schools and child care programs that are not less stringent than the guidance referred to in clause (i); and
+    (ii) applicable State or tribal regulations or guidance regarding voluntary testing or compliance monitoring for and remediation of lead contamination in drinking water in schools and child care programs that are not less stringent than the guidance referred to in clause (i); and
 
   (B)
 
-    (i) make available, if applicable, in the administrative offices and, to the extent practicable, on the Internet website of the local educational agency for inspection by the public (including teachers, other school personnel, and parents) a copy of the results of any voluntary testing for lead contamination in school and child care program drinking water carried out using grant funds under this subsection; and
+    (i) make available, if applicable, in the administrative offices and, to the extent practicable, on the Internet website of the applicable local educational agency for inspection by the public (including teachers, other school personnel, and parents) a copy of the results of any voluntary testing for lead contamination in school and child care program drinking water carried out using grant funds under this subsection; and
 
     (ii) notify parent, teacher, and employee organizations of the availability of the results described in clause (i).
 
-(7) **Maintenance of effort** — If resources are available to a State or local educational agency from any other Federal agency, a State, or a private foundation for testing for lead contamination in drinking water, the State or local educational agency shall demonstrate that the funds provided under this subsection will not displace those resources.
+(7) **Maintenance of effort** — If resources are available to a State, local educational agency, public water system, tribal consortium, or qualified nonprofit organization from any other Federal agency, a State, or a private foundation for testing or compliance monitoring for or remediation of lead contamination in drinking water, the State, local educational agency, public water system, tribal consortium, or qualified nonprofit organization shall demonstrate that the funds provided under this subsection will not displace those resources.
 
-(8) **Authorization of appropriations** — There are authorized to be appropriated to carry out this subsection $20,000,000 for each of fiscal years 2017 through 2019, and $25,000,000 for each of fiscal years 2020 and 2021.
+(8) **Authorization of appropriations** — There are authorized to be appropriated to carry out this subsection—
+
+  (A) $30,000,000 for fiscal year 2022;
+
+  (B) $35,000,000 for fiscal year 2023;
+
+  (C) $40,000,000 for fiscal year 2024;
+
+  (D) $45,000,000 for fiscal year 2025; and
+
+  (E) $50,000,000 for fiscal year 2026.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (b). Pub. L. 117–58, § 50110(1), inserted “public water systems and” after “protocol to assist” and “public water systems,” after “schools,”.
+
+Subsec. (d). Pub. L. 117–58, § 50110(2)(A), inserted “and reduction” after “lead testing” in heading.
+
+Subsec. (d)(2)(A). Pub. L. 117–58, § 50110(2)(B)(i), substituted “the Administrator shall establish a voluntary school and child care program lead testing, compliance monitoring, and lead reduction grant program to make grants available to—” and cls. (i) and (ii) for “the Administrator shall establish a voluntary school and child care program lead testing grant program to make grants available to States to assist local educational agencies in voluntary testing for lead contamination in drinking water at schools and child care programs under the jurisdiction of the local educational agencies.”
+
+Subsec. (d)(2)(B). Pub. L. 117–58, § 50110(2)(B)(ii)(I), inserted “or compliance monitoring for or remediation of lead contamination” after “voluntary testing” in introductory provisions.
+
+Subsec. (d)(2)(B)(iii), (iv). Pub. L. 117–58, § 50110(2)(B)(ii)(II)–(IV), added cls. (iii) and (iv).
+
+Subsec. (d)(3). Pub. L. 117–58, § 50110(2)(C), substituted “State, local educational agency, public water system, tribal consortium, or qualified nonprofit organization” for “State or local educational agency”.
+
+Subsec. (d)(4). Pub. L. 117–58, § 50110(2)(D), substituted “States, local educational agencies, public water systems, tribal consortia, and qualified nonprofit organizations” for “States and local educational agencies” and inserted “or the remediation of” after “testing for”.
+
+Subsec. (d)(5). Pub. L. 117–58, § 50110(2)(C), substituted “State, local educational agency, public water system, tribal consortium, or qualified nonprofit organization” for “State or local educational agency”.
+
+Subsec. (d)(6). Pub. L. 117–58, § 50110(2)(E)(i)(II), inserted “, public water system, tribal consortium, or qualified nonprofit organization” after “each local educational agency” in introductory provisions.
+
+Pub. L. 117–58, § 50110(2)(E)(i)(I), which directed substitution of “State, local educational agency, public water system, tribal consortium, or qualified nonprofit agency” for “State or local educational agency” in introductory provisions, could not be executed because of the intervening amendment by Pub. L. 117–58, § 50110(2)(C). See Amendment note below.
+
+Pub. L. 117–58, § 50110(2)(C), substituted “State, local educational agency, public water system, tribal consortium, or qualified nonprofit organization” for “State or local educational agency” in introductory provisions.
+
+Subsec. (d)(6)(A)(ii). Pub. L. 117–58, § 50110(2)(E)(ii), inserted “or tribal” after “applicable State” and substituted “voluntary testing or compliance monitoring for and remediation of lead contamination” for “reducing lead”.
+
+Subsec. (d)(6)(B)(i). Pub. L. 117–58, § 50110(2)(E)(iii), inserted “applicable” before “local educational agency”.
+
+Subsec. (d)(7). Pub. L. 117–58, § 50110(2)(C), (F), substituted “State, local educational agency, public water system, tribal consortium, or qualified nonprofit organization” for “State or local educational agency” in two places and “testing or compliance monitoring for or remediation of” for “testing for”.
+
+Subsec. (d)(8). Pub. L. 117–58, § 50110(2)(G), added par. (8) and struck out former par. (8). Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this subsection $20,000,000 for each of fiscal years 2017 through 2019, and $25,000,000 for each of fiscal years 2020 and 2021.”
+
 2018—Subsec. (d)(2)(C). Pub. L. 115–270, § 2006(a)(1), added subpar. (C).
 
 Subsec. (d)(4) to (7). Pub. L. 115–270, § 2006(a)(2), (3), added par. (4) and redesignated former pars. (4) to (6) as (5) to (7), respectively. Former par. (7) redesignated (8).
@@ -79209,7 +81008,7 @@ Section was enacted as part of the Environmental Research, Development, and Demo
 Section was enacted as part of the Safe Drinking Water Act Amendments of 1996, and not as part of the Public Health Service Act which comprises this chapter.
 
 #### Indian Reservation Drinking Water Program
-Pub. L. 115–270, title II, § 2001, Oct. 23, 2018, 132 Stat. 3840, provided that: “(a) In General.—Subject to the availability of appropriations, the Administrator of the Environmental Protection Agency shall carry out a program to implement—“(1) 10 eligible projects described in subsection (b) that are within the Upper Missouri River Basin; and “(2) 10 eligible projects described in subsection (b) that are within the Upper Rio Grande Basin. “(b) Eligible Projects.—A project eligible to participate in the program under subsection (a) is a project—“(1) that is on a reservation (as defined in section 3 of the Indian Financing Act of 1974 ([25 U.S.C. 1452](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1452&num=0&edition=prelim))) that serves a federally recognized Indian Tribe; and “(2) the purpose of which is to connect, expand, or repair an existing public water system, as defined in section 1401(4) of the Safe Drinking Water Act ([42 U.S.C. 300f(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300f/4&num=0&edition=prelim)), in order to improve water quality, water pressure, or water services. “(c) Requirement.—In carrying out the program under subsection (a)(1), the Administrator of the Environmental Protection Agency shall select not less than one eligible project for a reservation that serves more than one federally recognized Indian Tribe. “(d) Authorization of Appropriations.—There is authorized to be appropriated to carry out the program under subsection (a) $20,000,000 for each of fiscal years 2019 through 2022.”
+Pub. L. 115–270, title II, § 2001, Oct. 23, 2018, 132 Stat. 3840, as amended by Pub. L. 117–58, div. E, title I, § 50111, Nov. 15, 2021, 135 Stat. 1152, provided that: “(a) In General.—The Administrator of the Environmental Protection Agency (referred to in this section as the ‘Administrator’) shall carry out a program to implement eligible projects described in subsection (b). “(b) Eligible Projects.—A project eligible to participate in the program under subsection (a) is a project—“(1) that is on a reservation (as defined in section 3 of the Indian Financing Act of 1974 ([25 U.S.C. 1452](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1452&num=0&edition=prelim))) that serves a federally recognized Indian Tribe; and “(2) that will—“(A) improve water quality, water pressure, or water services through means such as connecting to, expanding, repairing, improving, or obtaining water from a public water system (as defined in section 1401 of the Safe Drinking Water Act ([42 U.S.C. 300f](./chapter-6a-public-health-service.md#section-300f))); or “(B) improve water quality or sanitation or wastewater services at a treatment works (as defined in section 212 of the Federal Water Pollution Control Act ([33 U.S.C. 1292](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1292&num=0&edition=prelim))). “(c) Required Projects.—“(1) In general.—If sufficient projects exist, of the funds made available to carry out this section, the Administrator shall use 50 percent to carry out—“(A) 10 eligible projects described in subsection (b) that are within the Upper Missouri River Basin; “(B) 10 eligible projects described in subsection (b) that are within the Upper Rio Grande Basin; “(C) 10 eligible projects described in subsection (b) that are within the Columbia River Basin; “(D) 10 eligible projects described in subsection (b) that are within the Lower Colorado River Basin; and “(E) 10 eligible projects described in subsection (b) that are within the Arkansas-White-Red River Basin. “(2) Requirement.—In carrying out paragraph (1)(A), the Administrator shall select not fewer than 2 eligible projects for a reservation that serves more than 1 federally recognized Indian Tribe. “(d) Priority.—In selecting projects to carry out under this section, the Administrator shall give priority to projects that—“(1) respond to emergency situations occurring due to or resulting in a lack of access to clean drinking water that threatens the health of Tribal populations; “(2) would serve a Tribal population that would qualify as a disadvantaged community based on the affordability criteria established by the applicable State under section 1452(d)(3) of the Safe Drinking Water Act ([42 U.S.C. 300j–12(d)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300j–12/d/3&num=0&edition=prelim)); or “(3) would address the underlying factors contributing to—“(A) an enforcement action commenced pursuant to the Safe Drinking Water Act ([42 U.S.C. 300f](./chapter-6a-public-health-service.md#section-300f) et seq.) against the applicable public water system (as defined in section 1401 of that Act ([42 U.S.C. 300f](./chapter-6a-public-health-service.md#section-300f))) as of the date of enactment of this subparagraph [Nov. 15, 2021]; or “(B) an enforcement action commenced pursuant to the Federal Water Pollution Control Act ([33 U.S.C. 1251](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251&num=0&edition=prelim) et seq.) against the applicable treatment works (as defined in section 212 of that Act ([33 U.S.C. 1292](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1292&num=0&edition=prelim))) as of the date of enactment of this subparagraph. “(e) Federal Share.—The Federal share of the cost of a project carried out under this section shall be 100 percent. “(f) Report.—Not later than 2 years after the date of enactment of this subsection [Nov. 15, 2021], the Administrator shall submit to Congress a report that describes the implementation of the program established under subsection (a), which shall include a description of the use and deployment of amounts made available under that program. “(g) Authorization of Appropriations.—There are authorized to be appropriated to carry out the program under subsection (a)—“(1) $20,000,000 for each of fiscal years 2019 through 2021; and “(2) $50,000,000 for each of fiscal years 2022 through 2026.”
 
 
 <a id="section-300j-3d"></a>
@@ -82114,7 +83913,7 @@ The Secretary shall provide (either through the Department of Health and Human S
 1979—Pub. L. 96–79, § 203(f), substituted “other entity” for “other nonprofit entity” and “section 300s–1 or 300t–12 of this title” for “section 300o–3 of this title.”
 
 #### Change of Name
-“Department of Health and Human Services” substituted in text for “Department of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+“Department of Health and Human Services” substituted in text for “Department of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
 #### Effective Date of 1979 Amendment
 Amendment by Pub. L. 96–79 effective Oct. 1, 1979, see section 204 of Pub. L. 96–79, set out as a note under [section 300q of this title](./chapter-6a-public-health-service.md#section-300q).
@@ -82244,7 +84043,7 @@ Section 302 of Pub. L. 96–79, as amended by Pub. L. 96–88, title V, § 509(b
   (B) one hundred and twenty days from such date if the Secretary of Labor has by regulation prescribed the circumstances under which the review will require at least one hundred and twenty days.
   If within the applicable period, the Secretary of Labor does not notify the Secretary of Health and Human Services respecting his determination, the Secretary of Health and Human Services shall review the application to determine if the applicant has made the arrangements described in paragraph (1) and if such arrangements are satisfactory. The Secretary may not approve the application unless he determines that such arrangements have been made and that they are satisfactory.
 
-**(d) Records and audits requirements** The records and audits requirements of section 292e 22 See References in Text note below. of this title shall apply with respect to grants made under subsection (a).
+**(d) Records and audits requirements** The records and audits requirements of section 292e 1 of this title shall apply with respect to grants made under subsection (a).
 
 **(e) “Hospital” defined** For purposes of this part, the term “hospital” means, with respect to any fiscal year, an institution (including a distinct part of an institution participating in the programs established under title XVIII of the Social Security Act [[42 U.S.C. 1395](./chapter-007-social-security.md#section-1395) et seq.])—
 
@@ -82270,7 +84069,7 @@ The Social Security Act, referred to in subsec. (e), is act Aug. 14, 1935, ch. 5
 In subsec. (b)(1)(D), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Act of March 3, 1931 ([40 U.S.C. 276a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section276a&num=0&edition=prelim)—276a–5, known as the Davis-Bacon Act)” and “[section 3145 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section3145&num=0&edition=prelim)” substituted for “section 2 of the Act of June 13, 1934 ([40 U.S.C. 276c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section276c&num=0&edition=prelim))” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Change of Name
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (c)(2) and (3), pursuant to section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsecs. (a), (b), and (c) pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
 
 <a id="section-300u"></a>
@@ -83809,7 +85608,7 @@ such excess shall be allotted among each of the remaining States in proportion t
 
 (4) In order for an Indian tribe or tribal organization to be eligible for a grant for a fiscal year under this subsection, it shall submit to the Secretary a plan for such fiscal year which meets such criteria as the Secretary may prescribe.
 
-(5) The terms “Indian tribe” and “tribal organization” have the same meaning given such terms in section 5304(b) and (c) 22 See References in Text note below. of title 25.
+(5) The terms “Indian tribe” and “tribal organization” have the same meaning given such terms in section 5304(b) and (c) 1 of title 25.
 
 **(e) Report on equitable distribution of available funds** The Secretary shall conduct a study for the purpose of devising a formula for the equitable distribution of funds available for allotment to the States under this section. In conducting the study, the Secretary shall take into account—
 
@@ -84702,9 +86501,6 @@ A prior section 1924 of act July 1, 1944, was classified to [section 300x–10 o
 
 Another prior section 1924 of act July 1, 1944, was classified to [section 300y–3 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300y–3&num=0&edition=prelim) prior to repeal by Pub. L. 99–280.
 
-#### Change of Name
-Centers for Disease Control changed to Centers for Disease Control and Prevention by Pub. L. 102–531, title III, § 312, Oct. 27, 1992, 106 Stat. 3504.
-
 #### Amendments
 2016—Subsec. (a)(1). Pub. L. 114–255, § 8002(c)(1)(A), substituted “substance use disorders” for “substance abuse” in introductory provisions.
 
@@ -84719,6 +86515,9 @@ Subsec. (b)(3). Pub. L. 114–255, § 8002(c)(2)(C), substituted “use disorder
 Subsec. (b)(6)(B). Pub. L. 114–255, § 8002(c)(2)(D), substituted “substance use disorders” for “substance abuse”.
 
 Subsecs. (d), (e). Pub. L. 114–255, § 8002(c)(3), (4), redesignated subsec. (e) as (d) and struck out former subsec. (d). Prior to amendment, text of subsec. (d) read as follows: “With respect to services provided for by a State for purposes of compliance with this section, a funding agreement for a grant under [section 300x–21 of this title](./chapter-6a-public-health-service.md#section-300x-21) is that the State will maintain expenditures of non-Federal amounts for such services at a level that is not less than average level of such expenditures maintained by the State for 2-year period preceding the first fiscal year for which the State receives such a grant.”
+
+#### Change of Name
+Centers for Disease Control changed to Centers for Disease Control and Prevention by Pub. L. 102–531, title III, § 312, Oct. 27, 1992, 106 Stat. 3504.
 
 
 <a id="section-300x-25"></a>

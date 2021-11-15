@@ -187,7 +187,7 @@ The words “and other military supplies” are substituted for the words “cam
 <a id="section-9840"></a>
 ## § 9840. Final settlement of officer’s accounts
 
-Before final payment upon discharge may be made to an officer of the Air Force or the Space Force who has been accountable or responsible for public property, the officer must obtain a certificate of nonindebtedness to the United States from each officer to whom the officer was accountable or responsible for property. He 11 So in original. Probably should be “The officer”. must also make an affidavit, certified by the officer’s commanding officer to be correct, that the officer is not accountable or responsible for property to any other officer. An officer who has not been responsible for public property must make an affidavit of that fact, certified by the officer’s commanding officer. Compliance with this section warrants the final payment of the officer concerned.
+Before final payment upon discharge may be made to an officer of the Air Force or the Space Force who has been accountable or responsible for public property, the officer must obtain a certificate of nonindebtedness to the United States from each officer to whom the officer was accountable or responsible for property. The officer must also make an affidavit, certified by the officer’s commanding officer to be correct, that the officer is not accountable or responsible for property to any other officer. An officer who has not been responsible for public property must make an affidavit of that fact, certified by the officer’s commanding officer. Compliance with this section warrants the final payment of the officer concerned.
 
 ### Statutory Notes
 
@@ -199,7 +199,9 @@ Before final payment upon discharge may be made to an officer of the Air Force o
 The words “Before final payment upon discharge may be made” are substituted for the words “shall warrant their final payment”. The words “at any time” are omitted as surplusage. The word “must” is substituted for the words “shall be required * * * to”. The words “He must also make” are substituted for the words “accompanied by”. The words “from each officer to whom he was accountable or responsible for property” are substituted for the words “from only such of the bureaus of the Department of the Army to which the property for which they were accountable or responsible pertains”, since the Air Force does not have organic bureaus created by statute. The words “that he is not accountable or responsible for property to any other officer” are substituted for the words “accompanied by the affidavits of officers, of nonaccountability, or nonresponsibility to other bureaus of the Department of the Army” for the same reason. The reference to certificates from the General Accounting Office is omitted as obsolete. The last sentence is substituted for 10:878 (last 18 words). The last proviso of section 2 of the Act of January 12, 1899, ch. 46, 30 Stat. 784, is not contained in 10:878. It is also omitted from the revised section, since it related to authority of mustering officers to administer oaths, and the general authority to administer oaths is now contained in [section 936 of this title](./chapter-047-uniform-code-of-military-justice.md#section-936) (article 136 of the Uniform Code of Military Justice).
 
 #### Amendments
-2021—Pub. L. 116–283 inserted “or the Space Force” after “Air Force”, and substituted “the officer” for “he” wherever appearing and “the officer’s” for “his” in two places.
+2021—Pub. L. 117–81 substituted “The officer must” for “He must”.
+
+Pub. L. 116–283 inserted “or the Space Force” after “Air Force” and substituted “the officer” for “he” wherever appearing and “the officer’s” for “his” in two places.
 
 
 <a id="section-9841"></a>

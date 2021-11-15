@@ -314,13 +314,78 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 ### Statutory Notes
 
+#### Amendment of Subsections (b) and (c)
+Pub. L. 117–58, div. H, title II, § 80201(a)(1), (b)(1), (d), Nov. 15, 2021, 135 Stat. 1328–1330, provided that, effective July 1, 2022, subsections (b) and (c) of this section are amended to read as follows:
+
+“(b) Amount of Tax
+
+“The amount of tax imposed by subsection (a) shall be determined in accordance with the following table:
+
+| “In the case of: | The tax is the following amount per ton: |
+| --- | --- |
+| Acetylene | $9.74 |
+| Benzene | 9.74 |
+| Butane | 9.74 |
+| Butylene | 9.74 |
+| Butadiene | 9.74 |
+| Ethylene | 9.74 |
+| Methane | 6.88 |
+| Napthalene | 9.74 |
+| Propylene | 9.74 |
+| Toluene | 9.74 |
+| Xylene | 9.74 |
+| Ammonia | 5.28 |
+| Antimony | 8.90 |
+| Antimony trioxide | 7.50 |
+| Arsenic | 8.90 |
+| Arsenic trioxide | 6.82 |
+| Barium sulfide | 4.60 |
+| Bromine | 8.90 |
+| Cadmium | 8.90 |
+| Chlorine | 5.40 |
+| Chromium | 8.90 |
+| Chromite | 3.04 |
+| Potassium dichromate | 3.38 |
+| Sodium dichromate | 3.74 |
+| Cobalt | 8.90 |
+| Cupric sulfate | 3.74 |
+| Cupric oxide | 7.18 |
+| Cuprous oxide | 7.94 |
+| Hydrochloric acid | 0.58 |
+| Hydrogen fluoride | 8.46 |
+| Lead oxide | 8.28 |
+| Mercury | 8.90 |
+| Nickel | 8.90 |
+| Phosphorus | 8.90 |
+| Stannous chloride | 5.70 |
+| Stannic chloride | 4.24 |
+| Zinc chloride | 4.44 |
+| Zinc sulfate | 3.80 |
+| Potassium hydroxide | 0.44 |
+| Sodium hydroxide | 0.56 |
+| Sulfuric acid | 0.52 |
+| Nitric acid | 0.48.” |
+
+“(c) Termination
+
+“No tax shall be imposed by this section after December 31, 2031.”
+
+See 2021 Amendment notes below.
+
 #### Codification
 Amendment by Pub. L. 99–509, title VIII, § 8031(d)(2), Oct. 21, 1986, 100 Stat. 1956, to subsec. (c) of this section was not executed to text pursuant to Pub. L. 99–509, title VIII, § 8031(e)(2), which provided that the amendments made by section 8031 shall not take effect if the Superfund Amendments and Reauthorization Act of 1986 is enacted. The Superfund Amendments and Reauthorization Act of 1986 was enacted as Pub. L. 99–499, approved Oct. 17, 1986.
 
 #### Amendments
+2021—Subsec. (b). Pub. L. 117–58, § 80201(b)(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) set out the amount of tax on certain taxable chemicals.
+
+Subsec. (c). Pub. L. 117–58, § 80201(a)(1), amended subsec. (c) generally. Prior to amendment, text read as follows: “No tax shall be imposed under this section during any period during which the Hazardous Substance Superfund financing rate under section 4611 does not apply.”
+
 1986—Subsec. (b). Pub. L. 99–499 inserted at end “For periods before 1992, the item relating to xylene in the preceding table shall be applied by substituting ‘10.13’ for ‘4.87’.”
 
 Subsec. (c). Pub. L. 99–509 substituted “the Hazardous Substance Superfund financing rate under section 4611 does not apply” for “no tax is imposed under section 4611(a)”.
+
+#### Effective Date of 2021 Amendment
+Pub. L. 117–58, div. H, title II, § 80201(d), Nov. 15, 2021, 135 Stat. 1330, provided that: “The amendments made by this section [amending this section and sections 4671 and 4672 of this title] shall take effect on July 1, 2022.”
 
 #### Effective Date of 1986 Amendments
 Amendment by Pub. L. 99–509 effective on commencement date as defined in former section 4611(f)(2), see section 8032(d) of Pub. L. 99–509, set out as a note under [section 4611 of this title](./chapter-038-1-1-a-new-chapter-38-4611-et-seq-follows-repealed.md#section-4611).
@@ -636,8 +701,28 @@ Pub. L. 98–369, div. A, title X, § 1019(d), July 18, 1984, 98 Stat. 1024, pro
 
 ### Statutory Notes
 
+#### Amendment of Subsections (b)(2) and (e)
+Pub. L. 117–58, div. H, title II, § 80201(a)(2), (b)(2), (d), Nov. 15, 2021, 135 Stat. 1328, 1330, provided that, effective July 1, 2022, this section is amended as follows—
+
+(1) Subsection (b)(2) of this section is amended by striking “5 percent” and inserting “10 percent”; and
+
+(2) Subsection (e) of this section is amended to read as follows:
+
+“(e) Termination
+
+“No tax shall be imposed by this section after December 31, 2031.”
+
+See 2021 Amendment notes below.
+
 #### Amendments
+2021—Subsec. (b)(2). Pub. L. 117–58, § 80201(b)(2), substituted “10 percent” for “5 percent”.
+
+Subsec. (e). Pub. L. 117–58, § 80201(a)(2), amended subsec. (e) generally. Prior to amendment, text read as follows: “No tax shall be imposed under this section during any period during which the Hazardous Substance Superfund financing rate under section 4611 does not apply.”
+
 1986—Subsec. (e). Pub. L. 99–509 substituted “the Hazardous Substance Superfund financing rate under section 4611 does not apply” for “no tax is imposed under section 4611(a)”.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–58 effective July 1, 2022, see section 80201(d) of Pub. L. 117–58, set out as a note under [section 4661 of this title](./chapter-038-1-1-a-new-chapter-38-4611-et-seq-follows-repealed.md#section-4661).
 
 #### Effective Date of 1986 Amendment
 Amendment by Pub. L. 99–509 effective on commencement date as defined in former section 4611(f)(2), see section 8032(d) of Pub. L. 99–509, set out as a note under [section 4611 of this title](./chapter-038-1-1-a-new-chapter-38-4611-et-seq-follows-repealed.md#section-4611).
@@ -676,7 +761,12 @@ Pub. L. 99–499, title V, § 515(d), Oct. 17, 1986, 100 Stat. 1769, directed th
 
 ### Statutory Notes
 
+#### Amendment of Subsection (a)(2)(B)
+Pub. L. 117–58, div. H, title II, § 80201(c)(1), (d), Nov. 15, 2021, 135 Stat. 1330, provided that, effective July 1, 2022, subsection (a)(2)(B) of this section is amended by striking “50 percent” each place it appears and inserting “20 percent”. See 2021 Amendment note below.
+
 #### Amendments
+2021—Subsec. (a)(2)(B). Pub. L. 117–58 substituted “20 percent” for “50 percent” in two places.
+
 1988—Subsec. (a)(2). Pub. L. 100–647, § 2001(b)(2), inserted at end “If an importer or exporter of any substance requests that the Secretary determine whether such substance be listed as a taxable substance under paragraph (1) or be removed from such listing, the Secretary shall make such determination within 180 days after the date the request was filed.”
 
 Subsec. (a)(2)(B). Pub. L. 100–647, § 2001(b)(1), inserted “(or more than 50 percent of the value)” after “weight”.
@@ -690,6 +780,9 @@ Subsec. (a)(4). Pub. L. 100–647, § 2001(b)(3), amended par. (4) generally. Pr
 #### Change of Name
 “Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in subsec. (a)(2)(B) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), Domestic Security.
 
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–58 effective July 1, 2022, see section 80201(d) of Pub. L. 117–58, set out as a note under [section 4661 of this title](./chapter-038-1-1-a-new-chapter-38-4611-et-seq-follows-repealed.md#section-4661).
+
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Superfund Revenue Act of 1986, Pub. L. 99–499, title V, to which it relates, see section 2001(e) of Pub. L. 100–647, set out as a note under [section 56 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-56).
 
@@ -698,6 +791,12 @@ Section effective Jan. 1, 1989, see section 515(c) of Pub. L. 99–499, set out 
 
 #### Transfer of Functions
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
+
+#### Presumption As a Taxable Substance for Prior Determinations
+Pub. L. 117–58, div. H, title II, § 80201(c)(2), Nov. 15, 2021, 135 Stat. 1330, provided that: “Except as otherwise determined by the Secretary of the Treasury (or the Secretary’s delegate), any substance which was determined to be a taxable substance by reason of section 4672(a)(2) of the Internal Revenue Code of 1986 prior to the date of enactment of this Act [Nov. 15, 2021] shall continue to be treated as a taxable substance for purposes of such section after such date.”
+
+#### Publication of Initial List
+Pub. L. 117–58, div. H, title II, § 80201(c)(3), Nov. 15, 2021, 135 Stat. 1330, provided that: “Not later than January 1, 2022, the Secretary of the Treasury (or the Secretary’s delegate) shall publish an initial list of taxable substances under section 4672(a) of the Internal Revenue Code of 1986.”
 
 
 <a id="section-4681"></a>

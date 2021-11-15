@@ -2,7 +2,7 @@
 title: 30
 chapter: '28'
 heading: 'MATERIALS AND MINERALS POLICY, RESEARCH, AND DEVELOPMENT'
-section_count: 6
+section_count: 7
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30&num=0&edition=prelim
 ---
@@ -32,7 +32,7 @@ source: >-
 
 ### Statutory Notes
 
-#### Editorial Notes
+#### Amendments
 2020—Subsec. (b). Pub. L. 116–260 inserted subsec. heading, substituted “In this chapter:” for “As used in this chapter,” designated remainder of existing provisions as par. (2), inserted heading, and substituted “The term” for “the term”, and added par. (1).
 
 #### Short Title
@@ -313,6 +313,13 @@ A report summarizing actions required by this subsection shall be made available
 
 ### Statutory Notes
 
+#### References in Text
+The National Science and Technology Policy, Organization, and Priorities Act of 1976, referred to in subsec. (b), is Pub. L. 94–282, May 11, 1976, 90 Stat. 459, as amended, which is classified principally to chapter 79 (§ 6601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 6601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6601&num=0&edition=prelim) and Tables.
+
+The Defense Production Act of 1950, referred to in subsec. (d), is act Sept. 8, 1950, ch. 932, 64 Stat. 798, which was classified to section 2061 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 55 (§ 4501 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
+
+The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (d), is act June 7, 1939, ch. 190, as revised generally by Pub. L. 96–41, § 2, July 30, 1979, 93 Stat. 319, which is classified generally to subchapter III (§ 98 et seq.) of chapter 5 of Title 50. For complete classification of this Act to the Code, see [section 98 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98&num=0&edition=prelim) and Tables.
+
 #### Amendments
 2020—Pub. L. 116–260, § 7002(m)(1)(A), which directed substitution of “date of enactment of the Energy Act of 2020” for “date of enactment of this Act” wherever appearing, was executed by substituting “December 27, 2020” for “October 21, 1980” in subsecs. (a), (d), and (e). Substitutions in subsecs. (d) and (e) were made for original text reading “enactment of this Act” and “the enactment of this Act”, to reflect the probable intent of Congress.
 
@@ -328,14 +335,7 @@ Subsec. (c)(2). Pub. L. 116–260, § 7002(m)(1)(C)(v), added par. (2). Former p
 
 Subsec. (c)(3). Pub. L. 116–260, § 7002(m)(1)(C)(ii), struck out par. (3) which read as follows: “continually thereafter identify and assess additional cases, as necessary, to ensure an adequate and stable supply of materials to meet national security, economic well-being and industrial production needs.”
 
-Subsec. (e). Pub. L. 116–260, § 7002(m)(1)(D), substituted “United States Geological Survey” for “Bureau of Mines” in pars. (1) and (2)
-
-#### References in Text
-The National Science and Technology Policy, Organization, and Priorities Act of 1976, referred to in subsec. (b), is Pub. L. 94–282, May 11, 1976, 90 Stat. 459, as amended, which is classified principally to chapter 79 (§ 6601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 6601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6601&num=0&edition=prelim) and Tables.
-
-The Defense Production Act of 1950, referred to in subsec. (d), is act Sept. 8, 1950, ch. 932, 64 Stat. 798, which was classified to section 2061 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 55 (§ 4501 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
-
-The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (d), is act June 7, 1939, ch. 190, as revised generally by Pub. L. 96–41, § 2, July 30, 1979, 93 Stat. 319, which is classified generally to subchapter III (§ 98 et seq.) of chapter 5 of Title 50. For complete classification of this Act to the Code, see [section 98 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98&num=0&edition=prelim) and Tables.
+Subsec. (e). Pub. L. 116–260, § 7002(m)(1)(D), substituted “United States Geological Survey” for “Bureau of Mines” in pars. (1) and (2).
 
 
 <a id="section-1605"></a>
@@ -831,3 +831,82 @@ An amendment made by this section, referred to in subsec. (n)(3)(A), (B), means 
 Section was enacted as part of the Energy Act of 2020, and not as part of the National Materials and Minerals Policy, Research and Development Act of 1980 which comprises this chapter.
 
 Section is comprised of section 7002 of div. Z of Pub. L. 116–260. Subsec. (b) of section 7002 amended sections 1601 and 1602 of this title. Subsec. (l) of section 7002 amended [section 15908 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15908&num=0&edition=prelim), The Public Health and Welfare. Subsec. (m) of section 7002 amended sections 1602 to 1604 of this title. Subsec. (n)(1) of section 7002 repealed chapter 30 (§ 1801 et seq.) of this title. Subsec. (n)(2) of section 7002 amended [section 5202 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section5202&num=0&edition=prelim), Commerce and Trade.
+
+#### Department of Defense Research and Development Priorities
+Pub. L. 117–81, div. A, title VIII, § 845, Dec. 27, 2021, 135 Stat. 1842, provided that: “The Secretary of Defense shall cooperate with the Secretary of Energy to ensure that the priorities of the Department of Defense with respect to the research and development of alternative technologies to, and methods for the extraction, processing, and recycling of, critical minerals (as defined in section 2(b) of the National Materials and Minerals Policy, Research, and Development Act of 1980 ([30 U.S.C. 1601(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1601/b&num=0&edition=prelim))) are considered and included where feasible in the associated research and development activities funded by the Secretary of Energy pursuant to the program established under paragraph [probably should be “subsection”] (g) of section 7002 of division Z of the Consolidated Appropriations Act, 2021 (Public Law 116–260) [[30 U.S.C. 1606(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1606/g&num=0&edition=prelim)].”
+
+
+<a id="section-1607"></a>
+## § 1607. Critical minerals supply chains and reliability
+**(a) Definition of critical mineral** In this section, the term “critical mineral” has the meaning given the term in [section 1606(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1606/a&num=0&edition=prelim).
+
+**(b) Sense of Congress** It is the sense of Congress that—
+
+(1) critical minerals are fundamental to the economy, competitiveness, and security of the United States;
+
+(2) many critical minerals are only economic to recover when combined with the production of a host mineral;
+
+(3) to the maximum extent practicable, the critical mineral needs of the United States should be satisfied by minerals responsibly produced and recycled in the United States; and
+
+(4) the Federal permitting process has been identified as an impediment to mineral production and the mineral security of the United States.
+
+**(c) Federal permitting and review performance improvements** To improve the quality and timeliness of Federal permitting and review processes with respect to critical mineral production on Federal land, the Secretary of the Interior, acting through the Director of the Bureau of Land Management, and the Secretary of Agriculture, acting through the Chief of the Forest Service (referred to in this section as the “Secretaries”), to the maximum extent practicable, shall complete the Federal permitting and review processes with maximum efficiency and effectiveness, while supporting vital economic growth, by—
+
+(1) establishing and adhering to timelines and schedules for the consideration of, and final decisions regarding, applications, operating plans, leases, licenses, permits, and other use authorizations for critical mineral-related activities on Federal land;
+
+(2) establishing clear, quantifiable, and temporal permitting performance goals and tracking progress against those goals;
+
+(3) engaging in early collaboration among agencies, project sponsors, and affected stakeholders—
+
+  (A) to incorporate and address the interests of those parties; and
+
+  (B) to minimize delays;
+
+(4) ensuring transparency and accountability by using cost-effective information technology to collect and disseminate information regarding individual projects and agency performance;
+
+(5) engaging in early and active consultation with State, local, and Tribal governments—
+
+  (A) to avoid conflicts or duplication of effort;
+
+  (B) to resolve concerns; and
+
+  (C) to allow for concurrent, rather than sequential, reviews;
+
+(6) providing demonstrable improvements in the performance of Federal permitting and review processes, including lower costs and more timely decisions;
+
+(7) expanding and institutionalizing Federal permitting and review process improvements that have proven effective;
+
+(8) developing mechanisms to better communicate priorities and resolve disputes among agencies at the national, regional, State, and local levels; and
+
+(9) developing other practices, such as preapplication procedures.
+
+**(d) Review and report** Not later than 1 year after November 15, 2021, the Secretaries shall submit to Congress a report that—
+
+(1) identifies additional measures, including regulatory and legislative proposals, if appropriate, that would increase the timeliness of permitting activities for the exploration and development of domestic critical minerals;
+
+(2) identifies options, including cost recovery paid by permit applicants, for ensuring adequate staffing and training of Federal entities and personnel responsible for the consideration of applications, operating plans, leases, licenses, permits, and other use authorizations for critical mineral-related activities on Federal land;
+
+(3) quantifies the period of time typically required to complete each step associated with the development and processing of applications, operating plans, leases, licenses, permits, and other use authorizations for critical mineral-related activities on Federal land, including by—
+
+  (A) calculating the range, the mean, the median, the variance, and other statistical measures or representations of the period of time; and
+
+  (B) taking into account other aspects that affect the period of time that are outside the control of the Executive branch, such as judicial review, applicant decisions, or State and local government involvement; and
+
+(4) describes actions carried out pursuant to subsection (c).
+
+**(e) Performance metric** Not later than 90 days after the date of submission of the report under subsection (d), and after providing public notice and an opportunity to comment, the Secretaries, using as a baseline the period of time quantified under paragraph (3) of that subsection, shall develop and publish a performance metric for evaluating the progress made by the Executive branch to expedite the permitting of activities that will increase exploration for, and development of, domestic critical minerals, while maintaining environmental standards.
+
+**(f) Annual reports** Not later than the date on which the President submits the first budget of the President under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), after publication of the performance metric required under subsection (e), and annually thereafter, the Secretaries shall submit to Congress a report that—
+
+(1) summarizes the implementation of recommendations, measures, and options identified in paragraphs (1) and (2) of subsection (d);
+
+(2) using the performance metric developed under subsection (e), describes progress made by the Executive branch, as compared to the baseline developed pursuant to subsection (d)(3), in expediting the permitting of activities that will increase exploration for, and development of, domestic critical minerals; and
+
+(3) compares the United States to other countries in terms of permitting efficiency and any other criteria relevant to the globally competitive critical minerals industry.
+
+**(g) Individual projects** Each year, using data contained in the reports submitted under subsection (f), the Director of the Office of Management and Budget shall prioritize inclusion of individual critical mineral projects on the website operated by the Office of Management and Budget in accordance with [section 1122 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1122&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Infrastructure Investment and Jobs Act, and not as part of the National Materials and Minerals Policy, Research and Development Act of 1980 which comprises this chapter.

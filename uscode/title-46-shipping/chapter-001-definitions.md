@@ -20,6 +20,9 @@ In this title, the term “agency” means a department, agency, or instrumental
 
 A definition of “agency” is added to avoid having to repeat the substance of the definition at various places in the revised title.
 
+#### Short Title of 2021 Amendment
+Pub. L. 117–14, § 1, May 24, 2021, 135 Stat. 273, provided that: “This Act [enacting [section 3510 of this title](./chapter-035-carriage-of-passengers.md#section-3510)] may be cited as the ‘Alaska Tourism Restoration Act’.”
+
 #### Short Title of 2019 Amendment
 Pub. L. 116–92, div. C, title XXXV, § 3514(a), Dec. 20, 2019, 133 Stat. 1980, provided that: “This section [amending [section 50302 of this title](./chapter-503-administrative.md#section-50302), enacting provisions set out as a note under [section 50302 of this title](./chapter-503-administrative.md#section-50302), and amending provisions set out as notes under [section 51318 of this title](./chapter-513-united-states-merchant-marine-academy.md#section-51318) and [section 9620 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9620&num=0&edition=prelim), The Public Health and Welfare] may be cited as the ‘Ports Improvement Act’.”
 

@@ -17,6 +17,8 @@ Section, acts June 25, 1948, ch. 645, 62 Stat. 684; Oct. 30, 1984, Pub. L. 98–
 Repeal of section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under [section 3551 of this title](./chapter-227-sentences.md#section-3551).
 
 #### Short Title of 2021 Amendment
+Pub. L. 117–59, § 1, Nov. 18, 2021, 135 Stat. 1468, provided that: “This Act [amending sections 111, 115, and 1114 of this title and enacting provisions set out as a note under [section 1114 of this title](./chapter-051-homicide.md#section-1114)] may be cited as the ‘Jaime Zapata and Victor Avila Federal Officers and Employees Protection Act’.”
+
 Pub. L. 116–309, § 1, Jan. 5, 2021, 134 Stat. 4922, provided that: “This Act [enacting [section 41312 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section41312&num=0&edition=prelim), Crime Control and Law Enforcement, amending [section 116 of this title](./chapter-007-assault.md#section-116), and enacting provisions set out as notes under [section 116 of this title](./chapter-007-assault.md#section-116)] may be cited as the ‘Strengthening the Opposition to Female Genital Mutilation Act of 2020’ or the ‘STOP FGM Act of 2020’.”
 
 #### Short Title of 2020 Amendment
@@ -560,7 +562,7 @@ The term “crime of violence” means—
 ### Statutory Notes
 
 #### Constitutionality
-For information regarding constitutionality of this section, as added by section 1001(a) of Pub. L. 98–473, see Government Publishing Office, The Constitution of the United States of America: Analysis and Interpretation, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States, 2018 Supplement, prepared by the Congressional Research Service.
+For information regarding constitutionality of this section, as added by section 1001(a) of Pub. L. 98–473, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
 
 
 <a id="section-17"></a>

@@ -42,7 +42,7 @@ Pub. L. 109–59, title IV, § 4128, Aug. 10, 2005, 119 Stat. 1742, which provid
 Pub. L. 109–59, title IV, § 4139(a), Aug. 10, 2005, 119 Stat. 1745, provided that: “(1) Training and outreach.—Not later than 180 days after the date of enactment of this Act [Aug. 10, 2005], the Administrator of the Federal Motor Carrier Safety Administration shall conduct outreach and provide training as necessary to State personnel engaged in the enforcement of Federal motor carrier safety regulations to ensure their awareness of the process to be used for verification of the operating authority of motor carriers, including motor carriers of passengers, and to ensure proper enforcement when motor carriers are found to be in violation of operating authority requirements. “(2) Assessment.—The Inspector General of the Department of Transportation may periodically assess the implementation and effectiveness of the training and outreach program.”
 
 #### Motor Carrier Safety Advisory Committee
-Pub. L. 109–59, title IV, § 4144, Aug. 10, 2005, 119 Stat. 1748, as amended by Pub. L. 111–147, title IV, § 422(i), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, § 2202(i), Dec. 22, 2010, 124 Stat. 3525; Pub. L. 112–5, title II, § 202(i), Mar. 4, 2011, 125 Stat. 17; Pub. L. 112–30, title I, § 122(h), Sept. 16, 2011, 125 Stat. 349; Pub. L. 112–102, title II, § 202(h), Mar. 30, 2012, 126 Stat. 274; Pub. L. 112–140, title II, § 202(h), June 29, 2012, 126 Stat. 395; Pub. L. 112–141, div. C, title II, § 32912, July 6, 2012, 126 Stat. 818, provided that: “(a) Establishment and Duties.—The Secretary [of Transportation] shall establish in the Federal Motor Carrier Safety Administration a motor carrier safety advisory committee. The committee shall—“(1) provide advice and recommendations to the Administrator of the Federal Motor Carrier Safety Administration about needs, objectives, plans, approaches, content, and accomplishments of the motor carrier safety programs carried out by the Administration; and “(2) provide advice and recommendations to the Administrator on motor carrier safety regulations. “(b) Members, Chairman, Pay, and Expenses.—“(1) In general.—The committee shall be composed of not more than 20 members appointed by the Administrator from among individuals who are not employees of the Administration and who are specially qualified to serve on the committee because of their education, training, or experience. The members shall include representatives of the motor carrier industry, safety advocates, and safety enforcement officials. Representatives of a single enumerated interest group may not constitute a majority of the members of the advisory committee. “(2) Chairman.—The Administrator shall designate the chairman of the committee. “(3) Pay.—A member of the committee shall serve without pay; except that the Administrator may allow a member, when attending meetings of the committee or a subcommittee of the committee, expenses authorized under [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim), relating to per diem, travel, and transportation expenses. “(c) Support Staff, Information, and Services.—The Administrator shall provide support staff for the committee. On request of the committee, the Administrator shall provide information, administrative services, and supplies that the Administrator considers necessary for the committee to carry out its duties and powers. “(d) Termination Date.—Notwithstanding the Federal Advisory Committee Act (5 U.S.C. App.), the advisory committee shall terminate on September 30, 2013.”
+Pub. L. 109–59, title IV, § 4144, Aug. 10, 2005, 119 Stat. 1748, as amended by Pub. L. 111–147, title IV, § 422(i), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, § 2202(i), Dec. 22, 2010, 124 Stat. 3525; Pub. L. 112–5, title II, § 202(i), Mar. 4, 2011, 125 Stat. 17; Pub. L. 112–30, title I, § 122(h), Sept. 16, 2011, 125 Stat. 349; Pub. L. 112–102, title II, § 202(h), Mar. 30, 2012, 126 Stat. 274; Pub. L. 112–140, title II, § 202(h), June 29, 2012, 126 Stat. 395; Pub. L. 112–141, div. C, title II, § 32912, July 6, 2012, 126 Stat. 818; Pub. L. 117–58, div. B, title III, § 23002, Nov. 15, 2021, 135 Stat. 758, provided that: “(a) Establishment and Duties.—The Secretary [of Transportation] shall establish in the Federal Motor Carrier Safety Administration a motor carrier safety advisory committee. The committee shall—“(1) provide advice and recommendations to the Administrator of the Federal Motor Carrier Safety Administration about needs, objectives, plans, approaches, content, and accomplishments of the motor carrier safety programs carried out by the Administration; and “(2) provide advice and recommendations to the Administrator on motor carrier safety regulations. “(b) Members, Chairman, Pay, and Expenses.—“(1) In general.—The committee shall be composed of not more than 20 members appointed by the Administrator from among individuals who are not employees of the Administration and who are specially qualified to serve on the committee because of their education, training, or experience. The members shall include representatives of the motor carrier industry, including small business motor carriers, safety advocates, and safety enforcement officials. Representatives of a single enumerated interest group may not constitute a majority of the members of the advisory committee. “(2) Chairman.—The Administrator shall designate the chairman of the committee. “(3) Pay.—A member of the committee shall serve without pay; except that the Administrator may allow a member, when attending meetings of the committee or a subcommittee of the committee, expenses authorized under [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim), relating to per diem, travel, and transportation expenses. “(c) Support Staff, Information, and Services.—The Administrator shall provide support staff for the committee. On request of the committee, the Administrator shall provide information, administrative services, and supplies that the Administrator considers necessary for the committee to carry out its duties and powers. “(d) Termination Date.—Notwithstanding the Federal Advisory Committee Act (5 U.S.C. App.), the advisory committee shall terminate on September 30, 2025.”
 
 #### Motor Carrier Safety Strategy
 Pub. L. 106–159, title I, § 104, Dec. 9, 1999, 113 Stat. 1754, provided that: “(a) Safety Goals.—In conjunction with existing federally required strategic planning efforts, the Secretary shall develop a long-term strategy for improving commercial motor vehicle, operator, and carrier safety. The strategy shall include an annual plan and schedule for achieving, at a minimum, the following goals:“(1) Reducing the number and rates of crashes, injuries, and fatalities involving commercial motor vehicles. “(2) Improving the consistency and effectiveness of commercial motor vehicle, operator, and carrier enforcement and compliance programs. “(3) Identifying and targeting enforcement efforts at high-risk commercial motor vehicles, operators, and carriers. “(4) Improving research efforts to enhance and promote commercial motor vehicle, operator, and carrier safety and performance. “(b) Contents of Strategy.—“(1) Measurable goals.—The strategy and annual plans under subsection (a) shall include, at a minimum, specific numeric or measurable goals designed to achieve the strategic goals of subsection (a). The purposes of the numeric or measurable goals are as follows:“(A) To increase the number of inspections and compliance reviews to ensure that all high-risk commercial motor vehicles, operators, and carriers are examined. “(B) To eliminate, with meaningful safety measures, the backlog of rulemakings. “(C) To improve the quality and effectiveness of data bases by ensuring that all States and inspectors accurately and promptly report complete safety information. “(D) To eliminate, with meaningful civil and criminal penalties for violations, the backlog of enforcement cases. “(E) To provide for a sufficient number of Federal and State safety inspectors, and provide adequate facilities and equipment, at international border areas. “(2) Resource needs.—In addition, the strategy and annual plans shall include estimates of the funds and staff resources needed to accomplish each activity. Such estimates shall also include the staff skills and training needed for timely and effective accomplishment of each goal. “(3) Savings clause.—In developing and assessing progress toward meeting the measurable goals set forth in this subsection, the Secretary and the Federal Motor Carrier Safety Administrator shall not take any action that would impinge on the due process rights of motor carriers and drivers. “(c) Submission With the President’s Budget.—Beginning with fiscal year 2001 and each fiscal year thereafter, the Secretary shall submit to Congress the strategy and annual plan at the same time as the President’s budget submission. “(d) Annual Performance.—“(1) Annual performance agreement.—For each of fiscal years 2001 through 2003, the following officials shall enter into annual performance agreements:“(A) The Secretary and the Federal Motor Carrier Safety Administrator. “(B) The Administrator and the Deputy Federal Motor Carrier Safety Administrator. “(C) The Administrator and the Chief Safety Officer of the Federal Motor Carrier Safety Administration. “(D) The Administrator and the regulatory ombudsman of the Administration designated by the Administrator under subsection (f). “(2) Goals.—Each annual performance agreement entered into under paragraph (1) shall include the appropriate numeric or measurable goals of subsection (b). “(3) Progress assessment.—Consistent with the current performance appraisal system of the Department of Transportation, the Secretary shall assess the progress of each official (other than the Secretary) referred to in paragraph (1) toward achieving the goals in his or her performance agreement. The Secretary shall convey the assessment to such official, including identification of any deficiencies that should be remediated before the next progress assessment. “(4) Administration.—In deciding whether or not to award a bonus or other achievement award to an official of the Administration who is a party to a performance agreement required by this subsection, the Secretary shall give substantial weight to whether the official has made satisfactory progress toward meeting the goals of his or her performance agreement. “(e) Achievement of Goals.—“(1) Progress assessment.—No less frequently than semiannually, the Secretary and the Administrator shall assess the progress of the Administration toward achieving the strategic goals of subsection (a). The Secretary and the Administrator shall convey their assessment to the employees of the Administration and shall identify any deficiencies that should be remediated before the next progress assessment. “(2) Report to congress.—The Secretary shall report annually to Congress the contents of each performance agreement entered into under subsection (d) and the official’s performance relative to the goals of the performance agreement. In addition, the Secretary shall report to Congress on the performance of the Administration relative to the goals of the motor carrier safety strategy and annual plan under subsection (a). “(f) Expediting Regulatory Proceedings.—The Administrator shall designate a regulatory ombudsman to expedite rulemaking proceedings. The Secretary and the Administrator shall each delegate to the ombudsman such authority as may be necessary for the ombudsman to expedite rulemaking proceedings of the Administration to comply with statutory and internal departmental deadlines, including authority to—“(1) make decisions to resolve disagreements between officials in the Administration who are participating in a rulemaking process; and “(2) ensure that sufficient staff are assigned to rulemaking projects to meet all deadlines.”
@@ -247,7 +247,7 @@ Pub. L. 105–178, title IV, § 4003(h), June 9, 1998, 112 Stat. 398, provided t
 
 (2) for documented enforcement of State traffic laws and regulations designed to promote the safe operation of commercial motor vehicles, including documented enforcement of such laws and regulations relating to noncommercial motor vehicles when necessary to promote the safe operation of commercial motor vehicles, if—
 
-  (A) the number of motor carrier safety activities, including roadside safety inspections, conducted in the State is maintained at a level at least equal to the average level of such activities conducted in the State in fiscal years 2004 and 2005; and
+  (A) the number of motor carrier safety activities, including roadside safety inspections, conducted in the State is maintained at a level at least equal to the average level of such activities conducted in the State in fiscal years 2014 and 2015; and
 
   (B) the State does not use more than 10 percent of the basic amount the State receives under a grant awarded under section 31104(a)(1) for enforcement activities relating to noncommercial motor vehicles necessary to promote the safe operation of commercial motor vehicles unless the Secretary determines that a higher percentage will result in significant increases in commercial motor vehicle safety.
 
@@ -287,7 +287,7 @@ Pub. L. 105–178, title IV, § 4003(h), June 9, 1998, 112 Stat. 398, provided t
 
 **(l) High Priority Program.—**
 
-(1) **In general.—** — The Secretary shall administer a high priority program funded under section 31104(a)(2) for the purposes described in paragraphs (2) and (3).
+(1) **In general.—** — The Secretary shall administer a high priority program funded under section 31104(a)(2) for the purposes described in paragraphs (2) through (5).
 
 (2) **Activities related to motor carrier safety.—** — The Secretary may make discretionary grants to and enter into cooperative agreements with States, local governments, federally recognized Indian tribes, other political jurisdictions as necessary, and any person to carry out high priority activities and projects that augment motor carrier safety activities and projects planned in accordance with subsections (b) and (c), including activities and projects that—
 
@@ -315,9 +315,23 @@ Pub. L. 105–178, title IV, § 4003(h), June 9, 1998, 112 Stat. 398, provided t
 
     (i) that complete or exceed the requirements under subsection (c)(2)(P) for entities not responsible for submitting the plan under subsection (c); or
 
-    (ii) that exceed the requirements under subsection (c)(2)(P) for entities responsible for submitting the plan under subsection (c); and
+    (ii) that exceed the requirements under subsection (c)(2)(P) for entities responsible for submitting the plan under subsection (c);
 
-  (H) otherwise improve commercial motor vehicle safety and compliance with commercial motor vehicle safety regulations.
+  (H) support, through the use of funds otherwise available for such purposes—
+
+    (i) the recognition, prevention, and reporting of human trafficking, including the trafficking of human beings—
+
+      (I) in a commercial motor vehicle; or
+
+      (II) by any occupant, including the operator, of a commercial motor vehicle;
+
+    (ii) the detection of criminal activity or any other violation of law relating to human trafficking; and
+
+    (iii) enforcement of laws relating to human trafficking;
+
+  (I) otherwise support the recognition, prevention, and reporting of human trafficking; and
+
+  (J) otherwise improve commercial motor vehicle safety and compliance with commercial motor vehicle safety regulations.
 
 (3) **Innovative technology deployment grant program.—**
 
@@ -351,11 +365,63 @@ Pub. L. 105–178, title IV, § 4003(h), June 9, 1998, 112 Stat. 398, provided t
 
     (i) for deployment activities and activities to develop new and innovative advanced technology solutions that support commercial motor vehicle information systems and networks;
 
-    (ii) for planning activities, including the development or updating of program or top level design plans in order to become eligible or maintain eligibility under subparagraph (C); and
+    (ii) for planning activities, including the development or updating of program or top level design plans in order to become eligible or maintain eligibility under subparagraph (C);
 
-    (iii) for the operation and maintenance costs associated with innovative technology.
+    (iii) for the operation and maintenance costs associated with innovative technology;
+
+    (iv) for the detection of, and enforcement actions taken as a result of, criminal activity (including the trafficking of human beings)—
+
+      (I) in a commercial motor vehicle; or
+
+      (II) by any occupant, including the operator, of a commercial motor vehicle; and
+
+    (v) in addition to any funds otherwise made available for the recognition, prevention, and reporting of human trafficking, to support the recognition, prevention, and reporting of human trafficking.
 
   (E) *Secretary authorization.—* — The Secretary is authorized to award a State funding for the operation and maintenance costs associated with innovative technology deployment with funds made available under sections 31104(a)(1) and 31104(a)(2).
+
+(4) **Immobilization grant program.—**
+
+  (A) *Definition of passenger-carrying commercial motor vehicle.—* — In this paragraph, the term “passenger-carrying commercial motor vehicle” has the meaning given the term “commercial motor vehicle” in section 31301.
+
+  (B) *Establishment.—* — The Secretary shall establish an immobilization grant program under which the Secretary shall provide to States discretionary grants for the immobilization or impoundment of passenger-carrying commercial motor vehicles that—
+
+    (i) are determined to be unsafe; or
+
+    (ii) fail inspection.
+
+  (C) *List of criteria for immobilization.—* — The Secretary, in consultation with State commercial motor vehicle entities, shall develop a list of commercial motor vehicle safety violations and defects that the Secretary determines warrant the immediate immobilization of a passenger-carrying commercial motor vehicle.
+
+  (D) *Eligibility.—* — A State shall be eligible to receive a grant under this paragraph only if the State has the authority to require the immobilization or impoundment of a passenger-carrying commercial motor vehicle—
+
+    (i) with respect to which a motor vehicle safety violation included in the list developed under subparagraph (C) is determined to exist; or
+
+    (ii) that is determined to have a defect included in that list.
+
+  (E) *Use of funds.—* — A grant provided under this paragraph may be used for—
+
+    (i) the immobilization or impoundment of passenger-carrying commercial motor vehicles described in subparagraph (D);
+
+    (ii) safety inspections of those passenger-carrying commercial motor vehicles; and
+
+    (iii) any other activity relating to an activity described in clause (i) or (ii), as determined by the Secretary.
+
+  (F) *Secretary authorization.—* — The Secretary may provide to a State amounts for the costs associated with carrying out an immobilization program using funds made available under section 31104(a)(2).
+
+(5) **Commercial motor vehicle enforcement training and support grant program.—**
+
+  (A) *In general.—* — The Secretary shall administer a commercial motor vehicle enforcement training and support grant program funded under section 31104(a)(3), under which the Secretary shall make discretionary grants to eligible entities described in subparagraph (C) for the purposes described in subparagraph (B).
+
+  (B) *Purposes.—* — The purposes of the grant program under subparagraph (A) are—
+
+    (i) to train non-Federal employees who conduct commercial motor vehicle enforcement activities; and
+
+    (ii) to develop related training materials.
+
+  (C) *Eligible entities.—* — An entity eligible for a discretionary grant under the program described in subparagraph (A) is a nonprofit organization that has—
+
+    (i) expertise in conducting a training program for non-Federal employees; and
+
+    (ii) the ability to reach and involve in a training program a target population of commercial motor vehicle safety enforcement employees.
 
 ### Statutory Notes
 
@@ -383,6 +449,18 @@ In subsection (d), the words “the regulations, standards, or orders” are sub
 Sections 5106 and 5107 of the FAST Act, referred to in subsecs. (f)(1), (2) and (j)(3), are sections 5106 and 5107 of Pub. L. 114–94, which are set out as notes below.
 
 #### Amendments
+2021—Subsec. (h)(2)(A). Pub. L. 117–58, § 23001(c), substituted “2014 and 2015” for “2004 and 2005”.
+
+Subsec. (l)(1). Pub. L. 117–58, § 23005(1), substituted “(2) through (5)” for “(2) and (3)”.
+
+Subsec. (l)(2)(H) to (J). Pub. L. 117–58, § 23003(1), added subpars. (H) and (I) and redesignated former subpar. (H) as (J).
+
+Subsec. (l)(3)(D)(iv), (v). Pub. L. 117–58, § 23003(2), added cls. (iv) and (v).
+
+Subsec. (l)(4). Pub. L. 117–58, § 23004, added par. (4).
+
+Subsec. (l)(5). Pub. L. 117–58, § 23005(2), added par. (5).
+
 2015—Pub. L. 114–94 amended section generally. Prior to amendment, section related to grants to States for programs to improve motor carrier safety.
 
 2012—Subsec. (b). Pub. L. 112–141, § 32601(a)(1), amended heading generally, substituting “Motor Carrier Safety Assistance Program” for “State Plan Procedures and Contents”.
@@ -492,7 +570,10 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 #### Effective Date of 1995 Amendment
 Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
-#### Relief for Recipients of Financial Assistance Awards For Fiscal Years 2019 and 2020
+#### Report on Human Trafficking Violations Involving Commercial Motor Vehicles
+Pub. L. 117–58, div. B, title III, § 23020, Nov. 15, 2021, 135 Stat. 777, provided that: “Not later than 3 years after the date of enactment of this Act [Nov. 15, 2021], and every 3 years thereafter, the Secretary [of Transportation], acting through the Department of Transportation Advisory Committee on Human Trafficking established under section 5(a) of the Combating Human Trafficking in Commercial Vehicles Act (Public Law 115–99; 131 Stat. 2243), shall coordinate with the Attorney General to prepare and submit to Congress a report relating to human trafficking violations involving commercial motor vehicles, which shall include recommendations for countering human trafficking, including an assessment of previous best practices by transportation stakeholders.”
+
+#### Relief for Recipients of Financial Assistance Awards for Fiscal Years 2019 and 2020
 Pub. L. 116–260, div. N, title IV, § 441, Dec. 27, 2020, 134 Stat. 2068, provided that: “(a) Definition of Secretary.—In this section, the term ‘Secretary’ means the Secretary of Transportation. “(b) Relief for Recipients of Financial Assistance Awarded for Fiscal Years 2019 and 2020.—“(1) In general.—Notwithstanding any provision of chapter 311 of title 49, United States Code (including any applicable period of availability under section 31104(f) of that title), and any regulations promulgated under that chapter and subject to paragraph (2), the period of availability during which a recipient may expend amounts made available to the recipient under a grant or cooperative agreement described in subparagraphs (A) through (E) shall be—“(A) for a grant made under section 31102 of that title (other than subsection (l) of that section)—“(i) the fiscal year in which the Secretary approves the financial assistance agreement with respect to the grant; and “(ii) the following 2 fiscal years; “(B) for a grant made or a cooperative agreement entered into under section 31102(l)(2) of that title—“(i) the fiscal year in which the Secretary approves the financial assistance agreement with respect to the grant or cooperative agreement; and “(ii) the following 3 fiscal years; “(C) for a grant made under section 31102(l)(3) of that title—“(i) the fiscal year in which the Secretary approves the financial assistance agreement with respect to the grant; and “(ii) the following 5 fiscal years; “(D) for a grant made under section 31103 of that title—“(i) the fiscal year in which the Secretary approves the financial assistance agreement with respect to the grant; and “(ii) the following 2 fiscal years; and “(E) for a grant made or a cooperative agreement entered into under section 31313 of that title—“(i) the year in which the Secretary approves the financial assistance agreement with respect to the grant or cooperative agreement; and “(ii) the following 5 fiscal years. “(2) Applicability.—“(A) Amounts awarded for fiscal years 2019 and 2020.—The periods of availability described in paragraph (1) shall apply only—“(i) to amounts awarded for fiscal year 2019 or 2020 under a grant or cooperative agreement described in subparagraphs (A) through (E) of that paragraph; and “(ii) for the purpose of expanding the period of availability during which the recipient may expend the amounts described in clause (i). “(B) Amounts awarded for other years.—The periods of availability described in paragraph (1) shall not apply to any amounts awarded under a grant or cooperative agreement described in subparagraphs (A) through (E) of that paragraph for any fiscal year other than fiscal year 2019 or 2020, and those amounts shall be subject to the period of availability otherwise applicable to those amounts under Federal law.”
 
 #### Transition
@@ -551,63 +632,86 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2016, subject to a transition pr
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
 
+#### Relief for Recipients of Financial Assistance Awards for Fiscal Years 2019 and 2020
+Period of availability during which a recipient may expend grant amounts under this section extended for amounts awarded for fiscal years 2019 and 2020, see section 441 of div. N of Pub. L. 116–260, set out as a note under [section 31102 of this title](./chapter-311-commercial-motor-vehicle-safety.md#section-31102).
+
 #### Relationship to Other Laws
 Except as provided in sections 14504, 14504a, and 14506 of this title, subtitle C (§§ 4301–4308) of title IV of Pub. L. 109–59 is not intended to prohibit any State or any political subdivision of any State from enacting, imposing, or enforcing any law or regulation with respect to a motor carrier, motor private carrier, broker, freight forwarder, or leasing company that is not otherwise prohibited by law, see section 4302 of Pub. L. 109–59, set out as a note under [section 13902 of this title](./chapter-139-registration.md#section-13902).
 
 
 <a id="section-31104"></a>
 ## § 31104. Authorization of appropriations
-**(a) Financial Assistance Programs.—** The following sums are authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account):
+**(a) Financial Assistance Programs.—** There are authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account)—
 
-(1) **Motor carrier safety assistance program.—** — Subject to paragraph (2) and subsection (c), to carry out section 31102 (except subsection (l))—
+(1) subject to subsection (c), to carry out the motor carrier safety assistance program under section 31102 (other than the high priority program under subsection (l) of that section)—
 
-  (A) $292,600,000 for fiscal year 2017;
+  (A) $390,500,000 for fiscal year 2022;
 
-  (B) $298,900,000 for fiscal year 2018;
+  (B) $398,500,000 for fiscal year 2023;
 
-  (C) $304,300,000 for fiscal year 2019; and
+  (C) $406,500,000 for fiscal year 2024;
 
-  (D) $308,700,000 for fiscal year 2020.
+  (D) $414,500,000 for fiscal year 2025; and
 
-(2) **High priority activities program.—** — Subject to subsection (c), to carry out section 31102(l)—
+  (E) $422,500,000 for fiscal year 2026;
 
-  (A) $42,200,000 for fiscal year 2017;
+(2) subject to subsection (c), to carry out the high priority program under section 31102(l) (other than the commercial motor vehicle enforcement training and support grant program under paragraph (5) of that section)—
 
-  (B) $43,100,000 for fiscal year 2018;
+  (A) $57,600,000 for fiscal year 2022;
 
-  (C) $44,000,000 for fiscal year 2019; and
+  (B) $58,800,000 for fiscal year 2023;
 
-  (D) $44,900,000 for fiscal year 2020.
+  (C) $60,000,000 for fiscal year 2024;
 
-(3) **Commercial motor vehicle operators grant program.—** — To carry out section 31103—
+  (D) $61,200,000 for fiscal year 2025; and
 
-  (A) $1,000,000 for fiscal year 2017;
+  (E) $62,400,000 for fiscal year 2026;
 
-  (B) $1,000,000 for fiscal year 2018;
+(3) to carry out the commercial motor vehicle enforcement training and support grant program under section 31102(l)(5), $5,000,000 for each of fiscal years 2022 through 2026;
 
-  (C) $1,000,000 for fiscal year 2019; and
+(4) to carry out the commercial motor vehicle operators grant program under section 31103—
 
-  (D) $1,000,000 for fiscal year 2020.
+  (A) $1,100,000 for fiscal year 2022;
 
-(4) **Commercial driver’s license program implementation program.—** — Subject to subsection (c), to carry out section 31313—
+  (B) $1,200,000 for fiscal year 2023;
 
-  (A) $31,200,000 for fiscal year 2017;
+  (C) $1,300,000 for fiscal year 2024;
 
-  (B) $31,800,000 for fiscal year 2018;
+  (D) $1,400,000 for fiscal year 2025; and
 
-  (C) $32,500,000 for fiscal year 2019; and
+  (E) $1,500,000 for fiscal year 2026; and
 
-  (D) $33,200,000 for fiscal year 2020.
+(5) subject to subsection (c), to carry out the financial assistance program for commercial driver’s license implementation under section 31313—
+
+  (A) $41,800,000 for fiscal year 2022;
+
+  (B) $42,650,000 for fiscal year 2023;
+
+  (C) $43,500,000 for fiscal year 2024;
+
+  (D) $44,350,000 for fiscal year 2025; and
+
+  (E) $45,200,000 for fiscal year 2026.
 
 **(b) Reimbursement and Payment to Recipients for Government Share of Costs.—**
 
 (1) **In general.—** — Amounts made available under subsection (a) shall be used to reimburse financial assistance recipients proportionally for the Federal Government’s share of the costs incurred.
 
-(2) **Reimbursement amounts.—** — The Secretary shall reimburse a recipient, in accordance with a financial assistance agreement made under section 31102, 31103, or 31313, an amount that is at least 85 percent of the costs incurred by the recipient in a fiscal year in developing and implementing programs under such sections. The Secretary shall pay the recipient an amount not more than the Federal Government share of the total costs approved by the Federal Government in the financial assistance agreement. The Secretary shall include a recipient’s in-kind contributions in determining the reimbursement.
+(2) **Reimbursement amounts.—**
+
+  (A) *Reimbursement percentage.—*
+
+    (i) *In general.—* — The Secretary shall reimburse a recipient, in accordance with a financial assistance agreement made under section 31102 (except subsection (l)(5) of that section), 31103, or 31313, an amount that is at least 85 percent of the costs incurred by the recipient in a fiscal year in developing and implementing programs under such sections.
+
+    (ii) *Commercial motor vehicle enforcement training and support grant program.—* — The Secretary shall reimburse a recipient, in accordance with a financial assistance agreement made under section 31102(l)(5), an amount that is equal to 100 percent of the costs incurred by the recipient in a fiscal year in developing and implementing a training program under that section.
+
+  (B) *Limitation.—* — The Secretary shall pay the recipient an amount not more than the Federal Government share of the total costs approved by the Federal Government in the financial assistance agreement.
+
+  (C) *In-kind contributions.—* — The Secretary shall include a recipient’s in-kind contributions in determining the reimbursement.
 
 (3) **Vouchers.—** — Each recipient shall submit vouchers at least quarterly for costs the recipient incurs in developing and implementing programs under sections 31102, 31103, and 31313.
 
-**(c) Deductions for Partner Training and Program Support.—** On October 1 of each fiscal year, or as soon after that date as practicable, the Secretary may deduct from amounts made available under paragraphs (1), (2), and (4) of subsection (a) for that fiscal year not more than 1.50 percent of those amounts for partner training and program support in that fiscal year. The Secretary shall use at least 75 percent of those deducted amounts to train non-Federal Government employees and to develop related training materials in carrying out such programs.
+**(c) Deductions for Program Support.—** On October 1 of each fiscal year, or as soon after that date as practicable, the Secretary may deduct from amounts made available under paragraphs (1), (2), and (5) of subsection (a) for that fiscal year not more than 1.50 percent of those amounts for program support in that fiscal year.
 
 **(d) Grants and Cooperative Agreements as Contractual Obligations.—** The approval of a financial assistance agreement by the Secretary under section 31102, 31103, or 31313 is a contractual obligation of the Federal Government for payment of the Federal Government’s share of costs in carrying out the provisions of the grant or cooperative agreement.
 
@@ -615,21 +719,27 @@ Except as provided in sections 14504, 14504a, and 14506 of this title, subtitle 
 
 **(f) Period of Availability of Financial Assistance Agreement Funds for Recipient Expenditures.—** The period of availability for a recipient to expend funds under a grant or cooperative agreement authorized under subsection (a) is as follows:
 
-(1) For grants made for carrying out section 31102, other than section 31102(l), for the fiscal year in which the Secretary approves the financial assistance agreement and for the next fiscal year.
+(1) For grants made for carrying out section 31102, other than section 31102(l), for the fiscal year in which the Secretary approves the financial assistance agreement and for the next 2 fiscal years.
 
 (2) For grants made or cooperative agreements entered into for carrying out section 31102(l)(2), for the fiscal year in which the Secretary approves the financial assistance agreement and for the next 2 fiscal years.
 
 (3) For grants made for carrying out section 31102(l)(3), for the fiscal year in which the Secretary approves the financial assistance agreement and for the next 4 fiscal years.
 
-(4) For grants made for carrying out section 31103, for the fiscal year in which the Secretary approves the financial assistance agreement and for the next fiscal year.
+(4) For grants made for carrying out section 31102(l)(5), for the fiscal year in which the Secretary approves the financial assistance agreement and for the next 4 fiscal years.
 
-(5) For grants made or cooperative agreements entered into for carrying out section 31313, for the fiscal year in which the Secretary approves the financial assistance agreement and for the next 4 fiscal years.
+(5) For grants made for carrying out section 31103, for the fiscal year in which the Secretary approves the financial assistance agreement and for the next 2 fiscal years.
+
+(6) For grants made or cooperative agreements entered into for carrying out section 31313, for the fiscal year in which the Secretary approves the financial assistance agreement and for the next 4 fiscal years.
 
 **(g) Contract Authority; Initial Date of Availability.—** Amounts authorized from the Highway Trust Fund (other than the Mass Transit Account) by this section shall be available for obligation on the date of their apportionment or allocation or on October 1 of the fiscal year for which they are authorized, whichever occurs first.
 
 **(h) Availability of Funding.—** Amounts made available under this section shall remain available until expended.
 
-**(i) Reallocation.—** Amounts not expended by a recipient during the period of availability shall be released back to the Secretary for reallocation for any purpose under section 31102, 31103, or 31313 or this section to ensure, to the maximum extent possible, that all such amounts are obligated.
+**(i) Reallocation.—**
+
+(1) **In general.—** — Except as provided in paragraph (2), amounts not expended by a recipient during the period of availability shall be released back to the Secretary for reallocation for any purpose under section 31102, 31103, or 31313 or this section to ensure, to the maximum extent possible, that all such amounts are obligated.
+
+(2) **Motor carrier safety assistance program.—** — Amounts made available for the motor carrier safety assistance program established under section 31102 (other than amounts made available to carry out section 31102(l)) that are not expended by a recipient during the period of availability shall be released back to the Secretary for reallocation under that program.
 
 ### Statutory Notes
 
@@ -665,6 +775,26 @@ In subsection (i), before clause (1), the words “Not later than 6 months after
 In subsection (j), the words “Not later than 9 months after December 18, 1991” are omitted as obsolete. The word “final” is omitted as unnecessary. The words “regulations to be enforced under [section 31102(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31102/a&num=0&edition=prelim)” are substituted for “under the motor carrier safety assistance program” for clarity and because of the restatement.
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 117–58, § 23001(b)(1), added subsec. (a) and struck out former subsec. (a) which authorized appropriations for various programs for fiscal years 2017 to 2020.
+
+Subsec. (b)(2)(A). Pub. L. 117–58, § 23001(b)(2)(C), (D), designated first sentence of subsec. (b)(2) as (b)(2)(A)(i), inserted subpar. and cl. headings, inserted “(except subsection (l)(5) of that section)” after “section 31102”, and added cl. (ii).
+
+Subsec. (b)(2)(B). Pub. L. 117–58, § 23001(b)(2)(B), designated second sentence of subsec. (b)(2) as (b)(2)(B) and inserted heading.
+
+Subsec. (b)(2)(C). Pub. L. 117–58, § 23001(b)(2)(A), designated third sentence of subsec. (b)(2) as (b)(2)(C) and inserted heading.
+
+Subsec. (c). Pub. L. 117–58, § 23001(b)(3), in heading, struck out “Partner Training and” before “Program Support” and, in text, substituted “(5)” for “(4)”, struck out “partner training and” before “program support”, and struck out at end “The Secretary shall use at least 75 percent of those deducted amounts to train non-Federal Government employees and to develop related training materials in carrying out such programs.”
+
+Subsec. (f)(1). Pub. L. 117–58, § 23001(b)(4)(A), substituted “for the next 2 fiscal years” for “for the next fiscal year”.
+
+Subsec. (f)(4). Pub. L. 117–58, § 23001(b)(4)(D), added par. (4). Former par. (4) redesignated (5).
+
+Pub. L. 117–58, § 23001(b)(4)(B), substituted “for the next 2 fiscal years” for “for the next fiscal year”.
+
+Subsec. (f)(5), (6). Pub. L. 117–58, § 23001(b)(4)(C), redesignated pars. (4) and (5) as (5) and (6), respectively.
+
+Subsec. (i). Pub. L. 117–58, § 23001(b)(5), designated existing provisions as par. (1), inserted heading, substituted “Except as provided in paragraph (2), amounts not expended” for “Amounts not expended”, and added par. (2).
+
 2015—Pub. L. 114–94, § 5101(c), amended section generally. Prior to amendment, section related to availability of appropriated amounts.
 
 Subsec. (a)(10). Pub. L. 114–94, § 5105(a), added par. (10) and struck out former par. (10) which read as follows: “$218,000,000 for fiscal year 2015; and”.
@@ -962,7 +1092,7 @@ In subsection (d), the text of 49 App.:2305(e) (last sentence) is omitted as unn
 2007—Pub. L. 110–53 amended text of section generally. Prior to amendment, section related to, in subsec. (a), prohibition against discharge or discipline of, or discrimination against, an employee regarding pay, terms, or privileges of employment for certain actions, in subsec. (b), procedures for filing of complaint, in subsec. (c), judicial review and venue, and, in subsec. (d), civil action to enforce an order.
 
 #### Employee Protections
-Pub. L. 105–178, title IV, § 4023, June 9, 1998, 112 Stat. 415, provided that: “Not later than 2 years after the date of enactment of this Act [June 9, 1998], the Secretary [of Transportation], in conjunction with the Secretary of Labor, shall report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on the effectiveness of existing statutory employee protections provided for under [section 31105 of title 49](./chapter-311-commercial-motor-vehicle-safety.md#section-31105), United States Code. The report shall include recommendations to address any statutory changes necessary to strengthen the enforcement of such employee protection provisions.”
+Pub. L. 105–178, title IV, § 4023, June 9, 1998, 112 Stat. 415, provided that, not later than 2 years after June 9, 1998, the Secretary of Transportation, in conjunction with the Secretary of Labor, was to report to Congress on the effectiveness of existing statutory employee protections under this section, with recommendations to address any statutory changes necessary to strengthen the enforcement of these provisions.
 
 
 <a id="section-31106"></a>
@@ -1186,17 +1316,17 @@ Repeal effective Oct. 1, 2016, subject to a transition provision, see section 51
 
 <a id="section-31110"></a>
 ## § 31110. Authorization of appropriations
-**(a) Administrative Expenses.—** There is authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) for the Secretary of Transportation to pay administrative expenses of the Federal Motor Carrier Safety Administration—
+**(a) Administrative Expenses.—** There are authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) for the Secretary of Transportation to pay administrative expenses of the Federal Motor Carrier Safety Administration—
 
-(1) $267,400,000 for fiscal year 2016;
+(1) $360,000,000 for fiscal year 2022;
 
-(2) $277,200,000 for fiscal year 2017;
+(2) $367,500,000 for fiscal year 2023;
 
-(3) $283,000,000 for fiscal year 2018;
+(3) $375,000,000 for fiscal year 2024;
 
-(4) $284,000,000 for fiscal year 2019; and
+(4) $382,500,000 for fiscal year 2025; and
 
-(5) $288,000,000 for fiscal year 2020.
+(5) $390,000,000 for fiscal year 2026.
 
 **(b) Use of Funds.—** The funds authorized by this section shall be used for—
 
@@ -1235,6 +1365,8 @@ Repeal effective Oct. 1, 2016, subject to a transition provision, see section 51
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 117–58 added subsec. (a) and struck out former subsec. (a) which authorized appropriations for administrative expenses of the Federal Motor Carrier Safety Administration for fiscal years 2016 to 2020.
+
 2018—Subsec. (c)(1). Pub. L. 115–99 inserted at end “The program authorized under this subsection may support, in addition to funds otherwise available for such purposes, the recognition, prevention, and reporting of human trafficking, while deferring to existing resources, as practicable.”
 
 #### Effective Date
@@ -1960,6 +2092,9 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 #### Effective Date of 2005 Amendment
 Amendment by Pub. L. 109–59 effective on the 365th day following Aug. 10, 2005, see section 4116(f) of Pub. L. 109–59, set out as an Effective Date note under [section 31149 of this title](./chapter-311-commercial-motor-vehicle-safety.md#section-31149).
 
+#### Automatic Emergency Braking
+Pub. L. 117–58, div. B, title III, § 23010, Nov. 15, 2021, 135 Stat. 766, provided that: “(a) Definitions.—In this section:“(1) Automatic emergency braking system.—The term ‘automatic emergency braking system’ means a system on a commercial motor vehicle that, based on a predefined distance and closing rate with respect to an obstacle in the path of the commercial motor vehicle—“(A) alerts the driver of the obstacle; and “(B) if necessary to avoid or mitigate a collision with the obstacle, automatically applies the brakes of the commercial motor vehicle. “(2) Commercial motor vehicle.—The term ‘commercial motor vehicle’ has the meaning given the term in [section 31101 of title 49](./chapter-311-commercial-motor-vehicle-safety.md#section-31101), United States Code. “(b) Federal Motor Vehicle Safety Standard.—“(1) In general.—Not later than 2 years after the date of enactment of this Act [Nov. 15, 2021], the Secretary [of Transportation] shall—“(A) prescribe a motor vehicle safety standard under [section 30111 of title 49](./chapter-301-motor-vehicle-safety.md#section-30111), United States Code, that requires any commercial motor vehicle subject to section 571.136 of title 49, Code of Federal Regulations (relating to Federal Motor Vehicle Safety Standard Number 136) (or a successor regulation) that is manufactured after the effective date of the standard prescribed under this subparagraph to be equipped with an automatic emergency braking system; and “(B) as part of the standard under subparagraph (A), establish performance requirements for automatic emergency braking systems. “(2) Considerations.—Prior to prescribing the motor vehicle safety standard under paragraph (1)(A), the Secretary shall—“(A) conduct a review of automatic emergency braking systems in use in applicable commercial motor vehicles and address any identified deficiencies with respect to those automatic emergency braking systems in the rulemaking proceeding to prescribe the standard, if practicable; and “(B) consult with representatives of commercial motor vehicle drivers regarding the experiences of drivers with automatic emergency braking systems in use in applicable commercial motor vehicles, including any malfunctions or unwarranted activations of those automatic emergency braking systems. “(c) Federal Motor Carrier Safety Regulation.—Not later than 1 year after the date of enactment of this Act, the Secretary shall prescribe a regulation under [section 31136 of title 49](./chapter-311-commercial-motor-vehicle-safety.md#section-31136), United States Code, that requires that an automatic emergency braking system installed in a commercial motor vehicle manufactured after the effective date of the standard prescribed under subsection (b)(1)(A) that is in operation on or after that date and is subject to section 571.136 of title 49, Code of Federal Regulations (relating to Federal Motor Vehicle Safety Standard Number 136) (or a successor regulation) be used at any time during which the commercial motor vehicle is in operation. “(d) Report on Automatic Emergency Braking in Other Commercial Motor Vehicles.—“(1) Study.—Not later than 2 years after the date of enactment of this Act, the Secretary shall complete a study on equipping a variety of commercial motor vehicles not subject to section 571.136 of title 49, Code of Federal Regulations (relating to Federal Motor Vehicle Safety Standard Number 136) (or a successor regulation) as of that date of enactment with automatic emergency braking systems to avoid or mitigate a collision with an obstacle in the path of the commercial motor vehicle, including an assessment of the feasibility, benefits, and costs associated with installing automatic emergency braking systems on a variety of newly manufactured commercial motor vehicles with a gross vehicle weight rating greater than 10,001 pounds. “(2) Independent research.—If the Secretary enters into a contract with a third party to perform research relating to the study required under paragraph (1), the Secretary shall ensure that the third party does not have any financial or contractual ties to, or relationships with—“(A) a motor carrier that transports passengers or property for compensation; “(B) the motor carrier industry; or “(C) an entity producing or supplying automatic emergency braking systems. “(3) Public comment.—Not later than 90 days after the date on which the study under paragraph (1) is completed, the Secretary shall—“(A) issue a notice in the Federal Register containing the findings of the study; and “(B) provide an opportunity for public comment. “(4) Report to congress.—Not later than 90 days after the conclusion of the public comment period under paragraph (3)(B), the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committees on Transportation and Infrastructure and Energy and Commerce of the House of Representatives a report that includes—“(A) the results of the study under paragraph (1); “(B) a summary of any comments received under paragraph (3)(B); and “(C) a determination as to whether the Secretary intends to develop performance requirements for automatic emergency braking systems for applicable commercial motor vehicles, including any analysis that led to that determination. “(5) Rulemaking.—Not later than 2 years after the date on which the study under paragraph (1) is completed, the Secretary shall—“(A) determine whether a motor vehicle safety standard relating to equipping the commercial motor vehicles described in that paragraph with automatic emergency braking systems would meet the requirements and considerations described in subsections (a) and (b) of [section 30111 of title 49](./chapter-301-motor-vehicle-safety.md#section-30111), United States Code; and “(B) if the Secretary determines that a motor vehicle safety standard described in subparagraph (A) would meet the requirements and considerations described in that subparagraph, initiate a rulemaking to prescribe such a motor vehicle safety standard.”
+
 #### Windshield Technology
 Pub. L. 114–94, div. A, title V, § 5301, Dec. 4, 2015, 129 Stat. 1543, provided that: “(a) In General.—Not later than 180 days after the date of enactment of this Act [Dec. 4, 2015], the Secretary [of Transportation] shall revise the regulations in section 393.60(e) of title 49, Code of Federal Regulations (relating to the prohibition on obstructions to the driver’s field of view) to exempt from that section the voluntary mounting on a windshield of vehicle safety technology likely to achieve a level of safety that is equivalent to or greater than the level of safety that would be achieved absent the exemption. “(b) Vehicle Safety Technology Defined.—In this section, the term ‘vehicle safety technology’ includes a fleet-related incident management system, performance or behavior management system, speed management system, lane departure warning system, forward collision warning or mitigation system, and active cruise control system and any other technology that the Secretary considers applicable. “(c) Rule of Construction.—For purposes of this section, any windshield mounted technology with a short term exemption under part 381 of title 49, Code of Federal Regulations, on the date of enactment of this Act, shall be considered likely to achieve a level of safety that is equivalent to or greater than the level of safety that would be achieved absent an exemption under subsection (a).”
 
@@ -1988,7 +2123,7 @@ Pub. L. 109–59, title IV, § 4136, Aug. 10, 2005, 119 Stat. 1745, provided tha
 Pub. L. 106–159, title I, § 101(f), Dec. 9, 1999, 113 Stat. 1752, provided that: “The authority under title 49, United States Code, to promulgate safety standards for commercial motor vehicles and equipment subsequent to initial manufacture is vested in the Secretary and may be delegated.”
 
 #### Certain Exemptions
-Pub. L. 106–159, title II, § 229, as added and amended by Pub. L. 109–59, title IV, §§ 4115(a), (c), 4130–4132, 4147, Aug. 10, 2005, 119 Stat. 1726, 1743, 1744, 1749; Pub. L. 110–244, title III, § 301(i), June 6, 2008, 122 Stat. 1616; Pub. L. 112–141, div. C, title II, § 32101(d), July 6, 2012, 126 Stat. 778; Pub. L. 114–94, div. A, title V, §§ 5508(c), 5522, Dec. 4, 2015, 129 Stat. 1554, 1559, provided that: “(a) Exemptions.—“(1) Transportation of agricultural commodities and farm supplies.—Regulations prescribed by the Secretary [of Transportation] under sections 31136 and 31502 of title 49, United States Code, regarding maximum driving and on-duty time for drivers used by motor carriers shall not apply during planting and harvest periods, as determined by each State, to—“(A) drivers transporting agricultural commodities from the source of the agricultural commodities to a location within a 150 air-mile radius from the source; “(B) drivers transporting farm supplies for agricultural purposes from a wholesale or retail distribution point of the farm supplies to a farm or other location where the farm supplies are intended to be used within a 150 air-mile radius from the distribution point; or “(C) drivers transporting farm supplies for agricultural purposes from a wholesale distribution point of the farm supplies to a retail distribution point of the farm supplies within a 150 air-mile radius from the wholesale distribution point. “(2) Transportation and operation of ground water well drilling rigs.—Such regulations shall, in the case of a driver of a commercial motor vehicle who is used primarily in the transportation and operation of a ground water well drilling rig, permit any period of 7 or 8 consecutive days to end with the beginning of an off-duty period of 24 or more consecutive hours for the purposes of determining maximum driving and on-duty time. Except as required in section 395.3 of title 49, Code of Federal Regulations, as in effect on the date of enactment of this sentence [Aug. 10, 2005], no additional off-duty time shall be required in order to operate such vehicle. “(3) Transportation of construction materials and equipment.—Such regulations shall, in the case of a driver of a commercial motor vehicle who is used primarily in the transportation of construction materials and equipment, permit any period of 7 or 8 consecutive days to end with the beginning of an off-duty period of 24 or more consecutive hours for the purposes of determining maximum driving and on-duty time. “(4) Operators of utility service vehicles.—“(A) Inapplicability of federal regulations.—Such regulations shall not apply to a driver of a utility service vehicle. “(B) Prohibition on state regulations.—A State, a political subdivision of a State, an interstate agency, or other entity consisting of two or more States, shall not enact or enforce any law, rule, regulation, or standard that imposes requirements on a driver of a utility service vehicle that are similar to the requirements contained in such regulations. “(5) Snow and ice removal.—A State may waive the requirements of chapter 313 of title 49, United States Code, with respect to a vehicle that is being operated within the boundaries of an eligible unit of local government by an employee of such unit for the purpose of removing snow or ice from a roadway by plowing, sanding, or salting. Such waiver authority shall only apply in a case where the employee is needed to operate the vehicle because the employee of the eligible unit of local government who ordinarily operates the vehicle and who has a commercial drivers license is unable to operate the vehicle or is in need of additional assistance due to a snow emergency. “(b) Preemption.—Except as provided in subsection (a)(4), nothing contained in this section shall require the preemption of State laws and regulations concerning the safe operation of commercial motor vehicles as the result of exemptions from Federal requirements provided under this section. “(c) Review by the Secretary.—The Secretary [of Transportation] may conduct a rulemaking proceeding to determine whether granting any exemption provided by subsection (a) (other than paragraph (1), (2), or (4)) is not in the public interest and would have a significant adverse impact on the safety of commercial motor vehicles. If, at any time as a result of such a proceeding, the Secretary determines that granting such exemption would not be in the public interest and would have a significant adverse impact on the safety of commercial motor vehicles, the Secretary may prevent the exemption from going into effect, modify the exemption, or revoke the exemption. The Secretary may develop a program to monitor the exemption, including agreements with carriers to permit the Secretary to examine insurance information maintained by an insurer on a carrier. “(d) Report.—The Secretary shall monitor the commercial motor vehicle safety performance of drivers of vehicles that are subject to an exemption under this section. If the Secretary determines that public safety has been adversely affected by an exemption granted under this section, the Secretary shall report to Congress on the determination. “(e) Definitions.—In this section, the following definitions apply:“(1) 7 or 8 consecutive days.—The term ‘7 or 8 consecutive days’ means the period of 7 or 8 consecutive days beginning on any day at the time designated by the motor carrier for a 24-hour period. “(2) 24-hour period.—The term ‘24-hour period’ means any 24 consecutive hour period beginning at the time designated by the motor carrier for the terminal from which the driver is normally dispatched. “(3) Ground water well drilling rig.—The term ‘ground water well drilling rig’ means any vehicle, machine, tractor, trailer, semi-trailer, or specialized mobile equipment propelled or drawn by mechanical power and used on highways to transport water well field operating equipment, including water well drilling and pump service rigs equipped to access ground water. “(4) Transportation of construction materials and equipment.—The term ‘transportation of construction materials and equipment’ means the transportation of construction and pavement materials, construction equipment, and construction maintenance vehicles, by a driver to or from an active construction site (a construction site between initial mobilization of equipment and materials to the site to the final completion of the construction project) within a 75 air mile radius of the normal work reporting location of the driver, except that a State, upon notice to the Secretary, may establish a different air mile radius limitation for purposes of this paragraph if such limitation is between 50 and 75 air miles and applies only to movements that take place entirely within the State. This paragraph does not apply to the transportation of material found by the Secretary to be hazardous under [section 5103 of title 49](./chapter-051-transportation-of-hazardous-material.md#section-5103), United States Code, in a quantity requiring placarding under regulations issued to carry out such section. “(5) Eligible unit of local government.—The term ‘eligible unit of local government’ means a city, town, borough, county, parish, district, or other public body created by or pursuant to State law which has a total population of 3,000 individuals or less. “(6) Utility service vehicle.—The term ‘utility service vehicle’ means any commercial motor vehicle—“(A) used in the furtherance of repairing, maintaining, or operating any structures or any other physical facilities necessary for the delivery of public utility services, including the furnishing of electric, gas, water, sanitary sewer, telephone, and television cable or community antenna service; “(B) while engaged in any activity necessarily related to the ultimate delivery of such public utility services to consumers, including travel or movement to, from, upon, or between activity sites (including occasional travel or movement outside the service area necessitated by any utility emergency as determined by the utility provider); and “(C) except for any occasional emergency use, operated primarily within the service area of a utility’s subscribers or consumers, without regard to whether the vehicle is owned, leased, or rented by the utility. “(7) Agricultural commodity.—The term ‘agricultural commodity’ means any agricultural commodity, non-processed food, feed, fiber, or livestock (including livestock as defined in section 602 of the Emergency Livestock Feed Assistance Act of 1988 ([7 U.S.C. 1471](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1471&num=0&edition=prelim)) and insects). “(8) Farm supplies for agricultural purposes.—The term ‘farm supplies for agricultural purposes’ means products directly related to the growing or harvesting of agricultural commodities during the planting and harvesting seasons within each State, as determined by the State, and livestock feed at any time of the year. “(f) Emergency Condition Requiring Immediate Response.—“(1) Propane or pipeline emergency.—A regulation prescribed under section 31136 or 31502 of title 49, United States Code, shall not apply to a driver of a commercial motor vehicle which is used primarily in the transportation of propane winter heating fuel or a driver of a motor vehicle used to respond to a pipeline emergency if such regulations would prevent the driver from responding to an emergency condition requiring immediate response. “(2) Definition.—An emergency condition requiring immediate response is any condition that, if left unattended, is reasonably likely to result in immediate serious bodily harm, death, or substantial damage to property. In the case of propane such conditions shall include (but are not limited to) the detection of gas odor, the activation of carbon monoxide alarms, the detection of carbon monoxide poisoning, and any real or suspected damage to a propane gas system following a severe storm or flooding. An ‘emergency condition requiring an immediate response’ does not include requests to re-fill empty gas tanks. In the case of pipelines such conditions include (but are not limited to) indication of an abnormal pressure event, leak, release or rupture.”
+Pub. L. 106–159, title II, § 229, as added and amended by Pub. L. 109–59, title IV, §§ 4115(a), (c), 4130–4132, 4147, Aug. 10, 2005, 119 Stat. 1726, 1743, 1744, 1749; Pub. L. 110–244, title III, § 301(i), June 6, 2008, 122 Stat. 1616; Pub. L. 112–141, div. C, title II, § 32101(d), July 6, 2012, 126 Stat. 778; Pub. L. 114–94, div. A, title V, §§ 5508(c), 5522, Dec. 4, 2015, 129 Stat. 1554, 1559; Pub. L. 117–58, div. B, title III, § 23018, Nov. 15, 2021, 135 Stat. 777, provided that: “(a) Exemptions.—“(1) Transportation of agricultural commodities and farm supplies.—Regulations prescribed by the Secretary [of Transportation] under sections 31136 and 31502 of title 49, United States Code, regarding maximum driving and on-duty time for drivers used by motor carriers shall not apply during planting and harvest periods, as determined by each State, to—“(A) drivers transporting agricultural commodities from the source of the agricultural commodities to a location within a 150 air-mile radius from the source; “(B) drivers transporting farm supplies for agricultural purposes from a wholesale or retail distribution point of the farm supplies to a farm or other location where the farm supplies are intended to be used within a 150 air-mile radius from the distribution point; “(C) drivers transporting farm supplies for agricultural purposes from a wholesale distribution point of the farm supplies to a retail distribution point of the farm supplies within a 150 air-mile radius from the wholesale distribution point; or “(D) drivers transporting livestock (as defined in section 602 of the Emergency Livestock Feed Assistance Act of 1988 ([7 U.S.C. 1471](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1471&num=0&edition=prelim)) including insects) within a 150 air-mile radius from the final destination of the livestock. “(2) Transportation and operation of ground water well drilling rigs.—Such regulations shall, in the case of a driver of a commercial motor vehicle who is used primarily in the transportation and operation of a ground water well drilling rig, permit any period of 7 or 8 consecutive days to end with the beginning of an off-duty period of 24 or more consecutive hours for the purposes of determining maximum driving and on-duty time. Except as required in section 395.3 of title 49, Code of Federal Regulations, as in effect on the date of enactment of this sentence [Aug. 10, 2005], no additional off-duty time shall be required in order to operate such vehicle. “(3) Transportation of construction materials and equipment.—Such regulations shall, in the case of a driver of a commercial motor vehicle who is used primarily in the transportation of construction materials and equipment, permit any period of 7 or 8 consecutive days to end with the beginning of an off-duty period of 24 or more consecutive hours for the purposes of determining maximum driving and on-duty time. “(4) Operators of utility service vehicles.—“(A) Inapplicability of federal regulations.—Such regulations shall not apply to a driver of a utility service vehicle. “(B) Prohibition on state regulations.—A State, a political subdivision of a State, an interstate agency, or other entity consisting of two or more States, shall not enact or enforce any law, rule, regulation, or standard that imposes requirements on a driver of a utility service vehicle that are similar to the requirements contained in such regulations. “(5) Snow and ice removal.—A State may waive the requirements of chapter 313 of title 49, United States Code, with respect to a vehicle that is being operated within the boundaries of an eligible unit of local government by an employee of such unit for the purpose of removing snow or ice from a roadway by plowing, sanding, or salting. Such waiver authority shall only apply in a case where the employee is needed to operate the vehicle because the employee of the eligible unit of local government who ordinarily operates the vehicle and who has a commercial drivers license is unable to operate the vehicle or is in need of additional assistance due to a snow emergency. “(b) Preemption.—Except as provided in subsection (a)(4), nothing contained in this section shall require the preemption of State laws and regulations concerning the safe operation of commercial motor vehicles as the result of exemptions from Federal requirements provided under this section. “(c) Review by the Secretary.—The Secretary [of Transportation] may conduct a rulemaking proceeding to determine whether granting any exemption provided by subsection (a) (other than paragraph (1), (2), or (4)) is not in the public interest and would have a significant adverse impact on the safety of commercial motor vehicles. If, at any time as a result of such a proceeding, the Secretary determines that granting such exemption would not be in the public interest and would have a significant adverse impact on the safety of commercial motor vehicles, the Secretary may prevent the exemption from going into effect, modify the exemption, or revoke the exemption. The Secretary may develop a program to monitor the exemption, including agreements with carriers to permit the Secretary to examine insurance information maintained by an insurer on a carrier. “(d) Report.—The Secretary shall monitor the commercial motor vehicle safety performance of drivers of vehicles that are subject to an exemption under this section. If the Secretary determines that public safety has been adversely affected by an exemption granted under this section, the Secretary shall report to Congress on the determination. “(e) Definitions.—In this section, the following definitions apply:“(1) 7 or 8 consecutive days.—The term ‘7 or 8 consecutive days’ means the period of 7 or 8 consecutive days beginning on any day at the time designated by the motor carrier for a 24-hour period. “(2) 24-hour period.—The term ‘24-hour period’ means any 24 consecutive hour period beginning at the time designated by the motor carrier for the terminal from which the driver is normally dispatched. “(3) Ground water well drilling rig.—The term ‘ground water well drilling rig’ means any vehicle, machine, tractor, trailer, semi-trailer, or specialized mobile equipment propelled or drawn by mechanical power and used on highways to transport water well field operating equipment, including water well drilling and pump service rigs equipped to access ground water. “(4) Transportation of construction materials and equipment.—The term ‘transportation of construction materials and equipment’ means the transportation of construction and pavement materials, construction equipment, and construction maintenance vehicles, by a driver to or from an active construction site (a construction site between initial mobilization of equipment and materials to the site to the final completion of the construction project) within a 75 air mile radius of the normal work reporting location of the driver, except that a State, upon notice to the Secretary, may establish a different air mile radius limitation for purposes of this paragraph if such limitation is between 50 and 75 air miles and applies only to movements that take place entirely within the State. This paragraph does not apply to the transportation of material found by the Secretary to be hazardous under [section 5103 of title 49](./chapter-051-transportation-of-hazardous-material.md#section-5103), United States Code, in a quantity requiring placarding under regulations issued to carry out such section. “(5) Eligible unit of local government.—The term ‘eligible unit of local government’ means a city, town, borough, county, parish, district, or other public body created by or pursuant to State law which has a total population of 3,000 individuals or less. “(6) Utility service vehicle.—The term ‘utility service vehicle’ means any commercial motor vehicle—“(A) used in the furtherance of repairing, maintaining, or operating any structures or any other physical facilities necessary for the delivery of public utility services, including the furnishing of electric, gas, water, sanitary sewer, telephone, and television cable or community antenna service; “(B) while engaged in any activity necessarily related to the ultimate delivery of such public utility services to consumers, including travel or movement to, from, upon, or between activity sites (including occasional travel or movement outside the service area necessitated by any utility emergency as determined by the utility provider); and “(C) except for any occasional emergency use, operated primarily within the service area of a utility’s subscribers or consumers, without regard to whether the vehicle is owned, leased, or rented by the utility. “(7) Agricultural commodity.—The term ‘agricultural commodity’ means any agricultural commodity, non-processed food, feed, fiber, or livestock (including livestock as defined in section 602 of the Emergency Livestock Feed Assistance Act of 1988 ([7 U.S.C. 1471](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1471&num=0&edition=prelim)) and insects). “(8) Farm supplies for agricultural purposes.—The term ‘farm supplies for agricultural purposes’ means products directly related to the growing or harvesting of agricultural commodities during the planting and harvesting seasons within each State, as determined by the State, and livestock feed at any time of the year. “(f) Emergency Condition Requiring Immediate Response.—“(1) Propane or pipeline emergency.—A regulation prescribed under section 31136 or 31502 of title 49, United States Code, shall not apply to a driver of a commercial motor vehicle which is used primarily in the transportation of propane winter heating fuel or a driver of a motor vehicle used to respond to a pipeline emergency if such regulations would prevent the driver from responding to an emergency condition requiring immediate response. “(2) Definition.—An emergency condition requiring immediate response is any condition that, if left unattended, is reasonably likely to result in immediate serious bodily harm, death, or substantial damage to property. In the case of propane such conditions shall include (but are not limited to) the detection of gas odor, the activation of carbon monoxide alarms, the detection of carbon monoxide poisoning, and any real or suspected damage to a propane gas system following a severe storm or flooding. An ‘emergency condition requiring an immediate response’ does not include requests to re-fill empty gas tanks. In the case of pipelines such conditions include (but are not limited to) indication of an abnormal pressure event, leak, release or rupture.”
 
 #### Protection of Existing Exemptions
 Pub. L. 105–178, title IV, § 4007(d), June 9, 1998, 112 Stat. 404, provided that: “The amendments made by this section [amending this section and [section 31315 of this title](./chapter-313-commercial-motor-vehicle-operators.md#section-31315)] shall not apply to or otherwise affect a waiver, exemption, or pilot program in effect on the day before the date of enactment of this Act [June 9, 1998] under chapter 313 or [section 31136(e) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31136/e&num=0&edition=prelim), United States Code.”
@@ -2567,6 +2702,9 @@ In subsection (c)(1), before clause (A), the words “this subchapter and [secti
 
 Subsec. (c)(1)(C). Pub. L. 105–178, § 4008(g), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “prevent a State from enforcing a program for inspection of commercial motor vehicles that meets the requirements for membership in the Commercial Vehicle Safety Alliance, as those requirements were in effect on October 30, 1984; or”.
 
+#### State Inspection of Passenger-Carrying Commercial Motor Vehicles
+Pub. L. 117–58, div. B, title III, § 23008, Nov. 15, 2021, 135 Stat. 764, provided that: “(a) In General.—Not later than 1 year after the date of enactment of this Act [Nov. 15, 2021], the Secretary [of Transportation] shall solicit additional comment on the advance notice of proposed rulemaking entitled ‘State Inspection Programs for Passenger-Carrier Vehicles’ (81 Fed. Reg. 24769 (April 27, 2016)). “(b) Final Rule.—“(1) In general.—After reviewing all comments received in response to the solicitation under subsection (a), if the Secretary determines that data and information exist to support moving forward with a final rulemaking action, the Secretary shall issue a final rule relating to the advance notice of proposed rulemaking described in that subsection. “(2) Considerations.—In determining whether to issue a final rule under paragraph (1), the Secretary shall consider the impact of continuing to allow self-inspection as a means to satisfy periodic inspection requirements on the safety of passenger carrier operations.”
+
 #### Update of Annual Inspection Regulations
 Pub. L. 116–260, div. L, title I, § 131, Dec. 27, 2020, 134 Stat. 1844, provided that: “The Federal Motor Carrier Safety Administration shall update annual inspection regulations under Appendix G to subchapter B of chapter III of title 49, Code of Federal Regulations, as recommended by GAO–19–264.”
 
@@ -2828,6 +2966,9 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 #### Deemed References to Chapters 509 and 511 of Title 51
 General references to “this title” deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under [section 101 of this title](./chapter-001-organization.md#section-101).
+
+#### Improving Federal-State Motor Carrier Safety Enforcement Coordination
+Pub. L. 117–58, div. B, title III, § 23014, Nov. 15, 2021, 135 Stat. 773, provided that: “(a) Definitions.—In this section:“(1) Covered state.—The term ‘covered State’ means a State that receives Federal funds under the motor carrier safety assistance program established under [section 31102 of title 49](./chapter-311-commercial-motor-vehicle-safety.md#section-31102), United States Code. “(2) Imminent hazard.—The term ‘imminent hazard’ has the same meaning as in [section 521 of title 49](./chapter-005-special-authority.md#section-521), United States Code. “(b) Review and Enforcement of State Out-of-service Orders.—As soon as practicable after the date of enactment of this Act [Nov. 15, 2021], the Secretary [of Transportation] shall publish in the Federal Register a process under which the Secretary shall review each out-of-service order issued by a covered State in accordance with [section 31144(d) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31144/d&num=0&edition=prelim), United States Code, by not later than 30 days after the date on which the out-of-service order is submitted to the Secretary by the covered State. “(c) Review and Enforcement of State Imminent Hazard Determinations.—“(1) In general.—As soon as practicable after the date of enactment of this Act, the Secretary shall publish in the Federal Register a process under which the Secretary shall review imminent hazard determinations made by covered States. “(2) Enforcement.—On reviewing an imminent hazard determination under paragraph (1), the Secretary shall pursue enforcement under [section 521 of title 49](./chapter-005-special-authority.md#section-521), United States Code, as the Secretary determines to be appropriate.”
 
 #### High Risk Carrier Reviews
 Pub. L. 114–94, div. A, title V, § 5305(a), (b), Dec. 4, 2015, 129 Stat. 1544, provided that: “(a) In General.—The Secretary [of Transportation] shall ensure that a review is completed on each motor carrier that demonstrates through performance data that it poses the highest safety risk. At a minimum, a review shall be conducted whenever a motor carrier is among the highest risk carriers for 4 consecutive months. “(b) Report.—The Secretary shall post on a public Web site a report on the actions the Secretary has taken to comply with this section, including the number of high risk carriers identified and the high risk carriers reviewed.”

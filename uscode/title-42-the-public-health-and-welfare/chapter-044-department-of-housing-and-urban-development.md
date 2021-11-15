@@ -93,9 +93,6 @@ Section was formerly classified to section 624a of former Title 5, Executive Dep
 #### Effective Date; Interim Appointments
 Nomination and appointment of Secretary of Housing and Urban Development any time after Sept. 9, 1965, and interim designation and compensation of officer of Housing and Home Finance Agency for that office upon nonentry upon the office upon expiration of first period of sixty calendar days following Sept. 9, 1965, or on earlier date specified by Executive order, see section 11 of Pub. L. 89–174, set out as a note under [section 3531 of this title](./chapter-044-department-of-housing-and-urban-development.md#section-3531).
 
-#### Order of Succession
-For order of succession during any period when both Secretary and Deputy Secretary of Housing and Urban Development are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13243, Dec. 18, 2001, 66 F.R. 66262, listed in a table under [section 3345 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3345&num=0&edition=prelim), Government Organization and Employees.
-
 #### Office of Lead Based Paint Abatement and Poisoning Prevention
 Pub. L. 102–389, title II, Oct. 6, 1992, 106 Stat. 1593, provided in part that: “Notwithstanding any other provision of this or any other Act with respect to any fiscal year, the Office of Lead-Based Paint Abatement and Poisoning Prevention shall be contained within the Office of the Secretary, and said Office shall have ultimate responsibility within the Department of Housing and Urban Development, except for the Secretary, for all matters related to the abatement of lead in housing, and research related to lead abatement, consistent with the responsibilities outlined for the Office in Senate Report 102–107.”
 
@@ -103,6 +100,9 @@ Pub. L. 102–139, title II, Oct. 28, 1991, 105 Stat. 753, provided in part: “
 
 #### Condominium and Cooperative Study and Report; Submission to Congress
 Pub. L. 93–383, title VII, § 821, Aug. 22, 1974, 88 Stat. 740, authorized the Secretary of Housing and Urban Development to conduct a full and complete investigation and study, and report to Congress not later than one year after Aug. 22, 1974, with respect to condominiums and cooperatives, and the problems, difficulties, and abuses or potential abuses applicable to condominium and cooperative housing.
+
+#### Order of Succession
+For order of succession during any period when both Secretary and Deputy Secretary of Housing and Urban Development are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13243, Dec. 18, 2001, 66 F.R. 66262, listed in a table under [section 3345 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3345&num=0&edition=prelim), Government Organization and Employees.
 
 #### Ex. Ord. No. 11297. Coordination of Federal Urban Program
 Ex. Ord. No. 11297, Aug. 11, 1966, 31 F.R. 10765, provided:
@@ -896,6 +896,7 @@ For transfer of all functions, personnel, assets, components, authorities, grant
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
+#### Transfer of Functions
 “President” substituted in text for “Director of the Office of Emergency Preparedness” pursuant to section 1 of Reorganization Plan No. 1 of 1973, eff. July 1, 1973, 38 F.R. 9579, 87 Stat. 1089, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Previously, functions of Director of Office of Emergency Preparedness under Disaster Relief Act of 1970, transferred to President by Reorg. Plan No. 1 of 1973, had been transferred to Secretary of Housing and Urban Development by Ex. Ord. No. 11749, Dec. 10, 1973, 38 F.R. 34177, which superseded Ex. Ord. No. 11725, June 27, 1973, 38 F.R. 17175, which had provided for a similar transfer to Secretary of Housing and Urban Development. Both of these Executive Orders were subsequently revoked, see Delegation of Functions note below.

@@ -92,7 +92,6 @@ Department of War designated Department of the Army and title of Secretary of Wa
 #### Transfer of Functions
 For transfer of certain functions relating to real property under jurisdiction of Department of the Air Force from Secretary of the Army to Secretary of the Air Force, see Secretary of Defense Transfer Order Nos. 14 [§ 2(29)], eff. July 1, 1948, and 40 [App. A(53)], July 22, 1949.
 
-#### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 

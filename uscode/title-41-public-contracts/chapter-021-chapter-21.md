@@ -15,7 +15,7 @@ In this chapter:
 
 (2) **Contractor bid or proposal information.—** — The term “contractor bid or proposal information” means any of the following information submitted to a Federal agency as part of, or in connection with, a bid or proposal to enter into a Federal agency procurement contract, if that information previously has not been made available to the public or disclosed publicly:
 
-  (A) Cost or pricing data (as defined in [section 2306a(h) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2306a/h&num=0&edition=prelim) with respect to procurements subject to that section and [section 3501(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section3501/a&num=0&edition=prelim) with respect to procurements subject to that section).
+  (A) Cost or pricing data (as defined in [section 3701 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3701&num=0&edition=prelim) with respect to procurements subject to that section and [section 3501(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section3501/a&num=0&edition=prelim) with respect to procurements subject to that section).
 
   (B) Indirect costs and direct labor rates.
 
@@ -71,6 +71,9 @@ In this chapter:
 | 2101(5) | 41:423(f)(7). |  |
 | 2101(6) | 41:423(f)(6). |  |
 | 2101(7) | 41:423(f)(2). |  |
+
+#### Amendments
+2021—Par. (2)(A). Pub. L. 117–81 substituted “section 3701” for “section 2306a(h)”.
 
 
 <a id="section-2102"></a>

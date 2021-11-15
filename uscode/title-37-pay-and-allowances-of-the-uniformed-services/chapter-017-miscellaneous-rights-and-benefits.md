@@ -321,7 +321,7 @@ Subsec. (e). Pub. L. 116–283, § 641(a)(3), redesignated subsec. (d) as (e).
 Subsec. (b). Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
 
 #### Change of Name
-Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 402(c)(3) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402/c/3&num=0&edition=prelim), The Public Health and Welfare.
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 204(c)(3) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section204/c/3&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Scope of First Report
 Pub. L. 116–92, div. A, title VI, § 651(b), Dec. 20, 2019, 133 Stat. 1431, provided that: “The first report submitted pursuant to subsection (c) of [section 908 of title 37](./chapter-017-miscellaneous-rights-and-benefits.md#section-908), United States Code (as amended by subsection (a) of this section), after the date of the enactment of this Act [Dec. 20, 2019] shall cover the five-year period ending with the year before the year in which such report is submitted.”
@@ -391,12 +391,14 @@ Pub. L. 107–107, div. A, title VI, § 623(b), Dec. 28, 2001, 115 Stat. 1143, p
 
 **(f) Regulations.—** This section shall be administered under regulations to be prescribed by the Secretary of Defense.
 
-**(g) Termination.—** No payment shall be made to a member under this section for months beginning after December 31, 2021, unless the entitlement of the member to payments under this section commenced on or before that date.
+**(g) Termination.—** No payment shall be made to a member under this section for months beginning after December 31, 2022, unless the entitlement of the member to payments under this section commenced on or before that date.
 
 ### Statutory Notes
 
 #### Amendments
-2021—Subsec. (g). Pub. L. 116–283 substituted “December 31, 2021” for “December 31, 2020”.
+2021—Subsec. (g). Pub. L. 117–81 substituted “December 31, 2022” for “December 31, 2021”.
+
+Pub. L. 116–283 substituted “December 31, 2021” for “December 31, 2020”.
 
 2019—Subsec. (g). Pub. L. 116–92 substituted “December 31, 2020” for “December 31, 2019”.
 

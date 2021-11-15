@@ -2595,7 +2595,7 @@ Section was formerly classified to [section 13981 of Title 42](https://uscode.ho
 Section is comprised of section 40302 of Pub. L. 103–322. Subsec. (e)(5) of section 40302 of Pub. L. 103–322 amended [section 1445 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1445&num=0&edition=prelim), Judiciary and Judicial Procedure.
 
 #### Constitutionality
-For constitutionality of section 40302 of Pub. L. 103–322, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For constitutionality of this provision of the Violence Against Women Act, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
 
 
 <a id="section-12372"></a>

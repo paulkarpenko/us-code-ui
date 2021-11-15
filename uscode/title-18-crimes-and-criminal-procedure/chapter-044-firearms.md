@@ -1042,7 +1042,7 @@ Subsec. (r). Pub. L. 101–647, § 2204(b), added subsec. (r).
 
 Subsec. (p). Pub. L. 100–649 added subsec. (p).
 
-1986—Subsec. (a)(1). Pub. L. 99–308, § 102(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “for any person, except a licensed importer, licensed manufacturer, or licensed dealer, to engage in the business of importing, manufacturing, or dealing in firearms or ammunition, or in the course of such business to ship, transport, or receive any firearm or ammunition in interstate or foreign commerce;”
+1986—Subsec. (a)(1). Pub. L. 99–308, § 102(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “for any person, except a licensed importer, licensed manufacturer, or licensed dealer, to engage in the business of importing, manufacturing, or dealing in firearms or ammunition, or in the course of such business to ship, transport, or receive any firearm or ammunition in interstate or foreign commerce;”.
 
 Subsec. (a)(2). Pub. L. 99–308, § 102(2)(A), in provision preceding subpar. (A) struck out “or ammunition” after “any firearm”.
 
@@ -1759,7 +1759,7 @@ The Controlled Substances Act, referred to in subsecs. (c)(2), (d)(3)(B), (e)(2)
 The Controlled Substances Import and Export Act, referred to in subsecs. (c)(2), (d)(3)(B), (e)(2)(A)(i), (g)(2), and (k)(1), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, as amended, which is classified principally to subchapter II (§ 951 et seq.) of chapter 13 of Title 21. For complete classification of this Act to the Code, see Short Title note set out under [section 951 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section951&num=0&edition=prelim) and Tables.
 
 #### Constitutionality
-For information regarding constitutionality of certain provisions of this section, as added by section 1402(b) of Pub. L. 99–570, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For information regarding constitutionality of certain provisions of this section, as added by section 1402(b) of Pub. L. 99–570, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
 
 #### Amendments
 2018—Subsec. (c)(1)(C). Pub. L. 115–391 substituted “violation of this subsection that occurs after a prior conviction under this subsection has become final” for “second or subsequent conviction under this subsection” in introductory provisions.

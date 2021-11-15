@@ -27,6 +27,15 @@ Another prior section 101 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 
 #### Effective Date
 Pub. L. 98–473, title II, § 609AA, Oct. 12, 1984, 98 Stat. 2107, provided that: “(a) Except as provided in subsection (b), this division and the amendments made by this title [probably means division, see Short Title of 1984 Act note below] shall take effect on the date of the enactment of this joint resolution [Oct. 12, 1984] or October 1, 1984, whichever is later. “(b)(1) The amendment made by section 609F [amending sections 10281, 10282, 10284, and 10285 of this title] shall take effect on October 1, 1984, and shall not apply with respect to injuries sustained before October 1, 1984. “(2) Section 609Z [repealing section 204 of Pub. L. 98–411, which had amended sections 10281, 10282, and 10284 of this title and enacted provisions set out as a note under [section 10281 of this title](./chapter-101-justice-system-improvement.md#section-10281)] shall take effect on October 1, 1984.”
 
+#### Short Title of 2021 Amendment
+Pub. L. 117–61, § 1, Nov. 18, 2021, 135 Stat. 1474, provided that: “This Act [amending sections 10225, 10281, 10284, 10285, 10288, and 10306 of this title, and enacting and amending provisions set out as notes under [section 10281 of this title](./chapter-101-justice-system-improvement.md#section-10281)] may be cited as the ‘Protecting America’s First Responders Act of 2021’.”
+
+Pub. L. 117–60, § 1, Nov. 18, 2021, 135 Stat. 1470, provided that: “This Act [enacting chapter 509 of this title] may be cited as the ‘Confidentiality Opportunities for Peer Support Counseling Act’ or the ‘COPS Counseling Act’.”
+
+Pub. L. 117–27, § 1, July 22, 2021, 135 Stat. 301, provided that: “This Act [amending sections 20101 to 20103 of this title] may be cited as the ‘VOCA Fix to Sustain the Crime Victims Fund Act of 2021’.”
+
+Pub. L. 117–13, § 1, May 20, 2021, 135 Stat. 265, provided that: “This Act [enacting [section 30507 of this title](./chapter-305-hate-crimes.md#section-30507), amending [section 249 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section249&num=0&edition=prelim), Crimes and Criminal Procedure, and enacting provisions set out as notes under [section 30501 of this title](./chapter-305-hate-crimes.md#section-30501)] may be cited as the ‘COVID–19 Hate Crimes Act’.”
+
 #### Short Title of 2020 Amendment
 Pub. L. 116–281, § 1, Dec. 31, 2020, 134 Stat. 3381, provided that: “This Act [enacting subchapter XLI of this chapter] may be cited as the ‘Crisis Stabilization and Community Reentry Act of 2020’.”
 
@@ -2133,7 +2142,7 @@ Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistanc
 <a id="section-10225"></a>
 ## § 10225. Subpoena power; employment of hearing officers; authority to hold hearings
 
-The Bureau of Justice Assistance, the National Institute of Justice, and the Bureau of Justice Statistics may appoint such hearing examiners or administrative law judges or request the use of such administrative law judges selected by the Office of Personnel Management pursuant to [section 3344 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3344&num=0&edition=prelim), as shall be necessary to carry out their respective powers and duties under this chapter. The Bureau of Justice Assistance, the National Institute of Justice, and the Bureau of Justice Statistics or upon authorization, any member thereof or any hearing examiner or administrative law judge assigned to or employed thereby shall have the power to hold hearings and issue subpoenas, administer oaths, examine witnesses, and receive evidence at any place in the United States they respectively may designate.
+The Attorney General, the Bureau of Justice Assistance, the National Institute of Justice, and the Bureau of Justice Statistics may appoint (to be assigned or employed on an interim or as-needed basis) such hearing examiners (who shall, if so designated by the Attorney General, be understood to be comprised within the meaning of “special government employee” under [section 202 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section202&num=0&edition=prelim)) such hearing examiners or administrative law judges or request the use of such administrative law judges selected by the Office of Personnel Management pursuant to [section 3344 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3344&num=0&edition=prelim), as shall be necessary to carry out their respective powers and duties or other law. The Attorney General, the Bureau of Justice Assistance, the National Institute of Justice, and the Bureau of Justice Statistics or upon authorization, any member thereof or any hearing examiner or administrative law judge assigned to or employed thereby shall have the power to hold hearings and issue subpoenas, administer oaths, examine witnesses, conduct examinations and receive evidence at any place in the United States they respectively may designate.
 
 ### Statutory Notes
 
@@ -2144,6 +2153,12 @@ Section was formerly classified to [section 3787 of Title 42](https://uscode.hou
 A prior section 806 of Pub. L. 90–351 was classified to [section 3786 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3786&num=0&edition=prelim), The Public Health and Welfare, prior to repeal by section 609B(e) of Pub. L. 98–473.
 
 Provisions similar to this section were contained in part in [section 3788 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3788&num=0&edition=prelim), The Public Health and Welfare, prior to repeal of such section by section 609B(e) of Pub. L. 98–473.
+
+#### Amendments
+2021—Pub. L. 117–61 inserted “Attorney General, the” before “Bureau of Justice Assistance” and “conduct examinations” after “examine witnesses,” and substituted “may appoint (to be assigned or employed on an interim or as-needed basis) such hearing examiners (who shall, if so designated by the Attorney General, be understood to be comprised within the meaning of ‘special government employee’ under [section 202 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section202&num=0&edition=prelim))” for “may appoint” and “or other law. The Attorney General, the” for “under this chapter. The”.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–61 effective Nov. 18, 2021, and applicable to any matter pending, before the Bureau or otherwise, on Nov. 18, 2021, or filed (consistent with pre-existing effective dates) or accruing after that date, see section 8(a) and (b)(2) of Pub. L. 117–61, set out in a note under [section 10281 of this title](./chapter-101-justice-system-improvement.md#section-10281).
 
 #### Effective Date
 Section effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473, set out as a note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101).
@@ -2653,7 +2668,7 @@ Subsec. (a)(13). Pub. L. 98–473, § 609C(b)(6), substituted definition of “c
 Subsecs. (a)(17), (b). Pub. L. 98–473, § 609C(a), substituted “Office” for “Administration”.
 
 #### Effective Date of 2013 Amendment
-Pub. L. 112–239, div. A, title X, § 1086(d), Jan. 2, 2013, 126 Stat. 1969, as amended by Pub. L. 113–66, div. A, title X, § 1091(b)(7), Dec. 26, 2013, 127 Stat. 876; Pub. L. 114–326, § 2(c), Dec. 16, 2016, 130 Stat. 1973, provided that: “(1) In general.—Except as provided in paragraph (2), the amendments made by this section [see Tables for classification] shall—“(A) take effect on the date of enactment of this Act [Jan. 2, 2013]; and “(B) apply to any matter pending, before the Bureau of Justice Assistance or otherwise, on the date of enactment of this Act, or filed (consistent with pre-existing effective dates) or accruing after that date. “(2) Exceptions.—“(A) Rescue squads and ambulance crews.—For a member of a rescue squad or ambulance crew (as defined in section 1204(7) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 [[34 U.S.C. 10284(7)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10284/7&num=0&edition=prelim)], as amended by this section), the amendments made to section 1204 of the Omnibus Crime Control and Safe Streets Act of 1968 ([42 U.S.C. 3796b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796b&num=0&edition=prelim)) [now [34 U.S.C. 10284](./chapter-101-justice-system-improvement.md#section-10284)] by this Act shall apply to injuries sustained on or after June 1, 2009. “(B) Heart attacks, strokes, and vascular ruptures.—Section 1201(k) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 [[34 U.S.C. 10281(k)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10281/k&num=0&edition=prelim)], as amended by this section, shall apply to heart attacks, strokes, and vascular ruptures sustained on or after December 15, 2003.”
+Pub. L. 112–239, div. A, title X, § 1086(d), Jan. 2, 2013, 126 Stat. 1969, as amended by Pub. L. 113–66, div. A, title X, § 1091(b)(7), Dec. 26, 2013, 127 Stat. 876; Pub. L. 114–326, § 2(c), Dec. 16, 2016, 130 Stat. 1973, provided that: “(1) In general.—Except as provided in paragraph (2), the amendments made by this section [see Tables for classification] shall—“(A) take effect on the date of enactment of this Act [Jan. 2, 2013]; and “(B) apply to any matter pending, before the Bureau of Justice Assistance or otherwise, on the date of enactment of this Act, or filed (consistent with pre-existing effective dates) or accruing after that date. “(2) Exceptions.—“(A) Rescue squads and ambulance crews.—For a member of a rescue squad or ambulance crew (as defined in section 1204(7) [now 1204(10)] of title I of the Omnibus Crime Control and Safe Streets Act of 1968 [[34 U.S.C. 10284(10)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10284/10&num=0&edition=prelim)], as amended by this section), the amendments made to section 1204 of the Omnibus Crime Control and Safe Streets Act of 1968 ([42 U.S.C. 3796b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796b&num=0&edition=prelim)) [now [34 U.S.C. 10284](./chapter-101-justice-system-improvement.md#section-10284)] by this Act shall apply to injuries sustained on or after June 1, 2009. “(B) Heart attacks, strokes, and vascular ruptures.—Section 1201(k) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 [[34 U.S.C. 10281(k)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10281/k&num=0&edition=prelim)], as amended by this section, shall apply to heart attacks, strokes, and vascular ruptures sustained on or after December 15, 2003.”
 
 [Pub. L. 114–326, § 2(c)(1)(A), and Pub. L. 113–66, § 1091(b)(7), made identical amendments to section 1086(d) of Pub. L. 112–239 by substituting “paragraph (2)” for “paragraph (1)” in par. (1), effective on the same date. See below.]
 
@@ -3202,7 +3217,7 @@ Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 609AA(a) of P
 
 <a id="section-10281"></a>
 ## § 10281. Payment of death benefits
-**(a) Amount; recipients** In any case in which the Bureau of Justice Assistance (hereinafter in this subchapter referred to as the “Bureau”) determines, under regulations issued pursuant to this subchapter, that a public safety officer has died as the direct and proximate result of a personal injury sustained in the line of duty, the Bureau shall pay a benefit of $250,000, adjusted in accordance with subsection (h), as follows (if the payee indicated is living on the date on which the determination is made)—
+**(a) Amount; recipients** In any case in which the Bureau of Justice Assistance (hereinafter in this subchapter referred to as the “Bureau”) determines, under regulations issued pursuant to this subchapter, that a public safety officer has died as the direct and proximate result of a personal injury sustained in the line of duty, a benefit of $250,000, adjusted in accordance with subsection (h), and calculated in accordance with subsection (i), shall be payable by the Bureau, as follows (if the payee indicated is living on the date on which the determination is made)—
 
 (1) if there is no child who survived the public safety officer, to the surviving spouse of the public safety officer;
 
@@ -3220,9 +3235,9 @@ Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 609AA(a) of P
 
 (6) if there is no individual qualifying under paragraph (1), (2), (3), (4), or (5), to the surviving individual (or individuals, in equal shares) who would qualify under the definition of the term “child” under [section 10284 of this title](./chapter-101-justice-system-improvement.md#section-10284) but for age.
 
-**(b) Benefits for permanent and total disability** In accordance with regulations issued pursuant to this subchapter, in any case in which the Bureau determines that a public safety officer has become permanently and totally disabled as the direct and proximate result of a personal injury sustained in the line of duty, the Bureau shall pay the same benefit to the public safety officer (if living on the date on which the determination is made) that is payable under subsection (a) with respect to the date on which the catastrophic injury occurred, as adjusted in accordance with subsection (h): Provided, That for the purposes of making these benefit payments, there are authorized to be appropriated for each fiscal year such sums as may be necessary: Provided further, That the amount payable under this subsection shall be the amount payable as of the date of catastrophic injury of such public safety officer.
+**(b) Benefits for permanent and total disability** In accordance with regulations issued pursuant to this subchapter, in any case in which the Bureau determines that a public safety officer has become permanently and totally disabled as the direct and proximate result of a personal injury sustained in the line of duty, a benefit shall be payable to the public safety officer (if living on the date on which the determination is made) in the same amount that would be payable, as of the date such injury was sustained (including as adjusted in accordance with subsection (h), and calculated in accordance with subsection (i)), if such determination were a determination under subsection (a): Provided, That for the purposes of making these benefit payments, there are authorized to be appropriated for each fiscal year such sums as may be necessary.
 
-**(c) Interim benefit payment** Whenever the Bureau determines upon showing of need and prior to final action that the death of a public safety officer is one with respect to which a benefit will probably be paid, the Bureau may make an interim benefit payment not exceeding $3,000 to the individual entitled to receive a benefit under subsection (a) of this section.
+**(c) Interim benefit payment** Whenever the Bureau determines upon showing of need and prior to final action that the death of a public safety officer is one with respect to which a benefit will probably be paid, the Bureau may make an interim benefit payment not exceeding $6,000, adjusted in accordance with subsection (h), to the individual entitled to receive a benefit under subsection (a) of this section.
 
 **(d) Deduction of interim payment** The amount of an interim payment under subsection (c) shall be deducted from the amount of any final benefit paid to such individual.
 
@@ -3238,9 +3253,13 @@ Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 609AA(a) of P
 
 **(g) Execution or attachment prohibited** No benefit paid under this subchapter shall be subject to execution or attachment.
 
-**(h) Consumer Price Index adjustment** On October 1 of each fiscal year beginning after June 1, 1988, the Bureau shall adjust the level of the benefit payable immediately before such October 1 under subsection (a), to reflect the annual percentage change in the Consumer Price Index for All Urban Consumers, published by the Bureau of Labor Statistics, occurring in the 1-year period ending on June 1 immediately preceding such October 1.
+**(h) Consumer Price Index adjustment** On October 1 of each fiscal year beginning after June 1, 1988, the Bureau shall adjust the level of the benefit payable immediately before such October 1 under subsections (a) and (b) and the level of the interim benefit payable immediately before such October 1 under subsection (c), to reflect the annual percentage change in the Consumer Price Index for All Urban Consumers, published by the Bureau of Labor Statistics, occurring in the 1-year period ending on June 1 immediately preceding such October 1.
 
-**(i) Amount payable determined as of date of death** The amount payable under subsection (a) with respect to the death of a public safety officer shall be the amount payable under subsection (a) as of the date of death of such officer.
+**(i) Amount payable** The amount payable under subsections (a) and (b), with respect to the death or permanent and total disability of a public safety officer, shall be the greater of—
+
+(1) the amount payable under the relevant subsection as of the date of death or of the catastrophic injury of the public safety officer; or
+
+(2) in any case in which the claim filed thereunder has been pending for more than 365 days at the time of final determination by the Bureau, the amount that would be payable under the relevant subsection if the death or the catastrophic injury of the public safety officer had occurred on the date on which the Bureau makes such final determination.
 
 **(j) Limitations on benefits**
 
@@ -3269,7 +3288,7 @@ unless competent medical evidence establishes that the heart attack, stroke, or 
 
 **(l) Definition** For purposes of subsection (k), “nonroutine stressful or strenuous physical” excludes actions of a clerical, administrative, or nonmanual nature.
 
-**(m) Suspension or end of collection action** The Bureau may suspend or end collection action on an amount disbursed pursuant to a statute enacted retroactively or otherwise disbursed in error under subsection (a) or (c), where such collection would be impractical, or would cause undue hardship to a debtor who acted in good faith.
+**(m) Suspension or end of collection action** The Bureau may suspend or end collection action on an amount disbursed pursuant to a statute enacted retroactively or otherwise disbursed in error under subsection (a), (b), or (c), where such collection would be impractical, or would cause undue hardship to a debtor who acted in good faith.
 
 **(n) Confidentiality** The public safety agency, organization, or unit responsible for maintaining on file an executed designation of beneficiary or executed life insurance policy for purposes of subsection (a)(4) shall maintain the confidentiality of the designation or policy in the same manner as the agency, organization, or unit maintains personnel or other similar records of the public safety officer.
 
@@ -3289,6 +3308,18 @@ A prior section 1201 of title I of Pub. L. 90–351, as added Pub. L. 96–157, 
 Another prior section 1201 of Pub. L. 90–351, title VII, June 19, 1968, 82 Stat. 236, was set out in the Appendix to Title 18, Crimes and Criminal Procedure, prior to repeal by Pub. L. 99–308, § 104(b), May 19, 1986, 100 Stat. 459.
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 117–61, § 2(1), in introductory provisions, struck out “the Bureau shall pay” before “a benefit of $250,000,” and inserted “, and calculated in accordance with subsection (i), shall be payable by the Bureau” after “ subsection (h)”.
+
+Subsec. (b). Pub. L. 117–61, § 2(2), substituted “a benefit shall be payable” for “the Bureau shall pay the same benefit”, “in the same amount that would be payable, as of the date such injury was sustained (including” for “that is payable under subsection (a) with respect to the date on which the catastrophic injury occurred,”, and “necessary.” for “necessary: Provided further, That the amount payable under this subsection shall be the amount payable as of the date of catastrophic injury of such public safety officer.” and inserted “, and calculated in accordance with subsection (i)), if such determination were a determination under subsection (a)” before “: Provided, That”.
+
+Subsec. (c). Pub. L. 117–61, § 2(3), substituted “$6,000, adjusted in accordance with subsection (h),” for “$3,000”.
+
+Subsec. (h). Pub. L. 117–61, § 2(4), substituted “subsections (a) and (b) and the level of the interim benefit payable immediately before such October 1 under subsection (c)” for “subsection (a)”.
+
+Subsec. (i). Pub. L. 117–61, § 2(5), added subsec. (i) and struck out former subsec. (i). Prior to amendment, text read as follows: “The amount payable under subsection (a) with respect to the death of a public safety officer shall be the amount payable under subsection (a) as of the date of death of such officer.”
+
+Subsec. (m). Pub. L. 117–61, § 2(6), inserted “, (b),” after “subsection (a)”.
+
 2013—Subsec. (a). Pub. L. 112–239, § 1086(b)(1)(B)(i), substituted “follows (if the payee indicated is living on the date on which the determination is made)—” for “follows:” in introductory provisions, added pars. (1) to (6), and struck out former pars. (1) to (6) which listed a succession of beneficiaries.
 
 Subsec. (b). Pub. L. 112–239, § 1086(b)(1)(B)(ii), substituted “direct and proximate result of a personal injury sustained in the line of duty, the Bureau shall pay the same benefit to the public safety officer (if living on the date on which the determination is made) that is payable under subsection (a) of this section with respect to the date on which the catastrophic injury occurred, as adjusted in accordance with subsection (h) of this section:” for “direct result of a catastrophic injury sustained in the line of duty, the Bureau shall pay, to the extent that appropriations are provided, the same benefit in any year that is payable under subsection (a) of this section in such year, adjusted in accordance with subsection (h) of this section, to such officer:”, “That for the purposes” for “That the total annual benefits paid under this subsection may not exceed $5,000,000. For the purposes”, and “That the amount payable under this subsection shall be the amount payable as of the date of catastrophic injury of such public safety officer.” for “That these benefit payments are subject to the availability of appropriations and that each beneficiary’s payment shall be reduced by a proportionate share to the extent that sufficient funds are not appropriated.”
@@ -3337,6 +3368,9 @@ Subsec. (a)(4). Pub. L. 100–690, § 6105(c), struck out “dependent” before
 
 Subsecs. (g), (h). Pub. L. 100–690, § 6105(b), added subsecs. (g) and (h).
 
+#### Effective Date of 2021 Amendment
+Pub. L. 117–61, § 8, Nov. 18, 2021, 135 Stat. 1479, provided that: “(a) In General.—Except as otherwise provided in this section, the amendments made by this Act [amending this section and sections 10225, 10284, 10285, 10288, and 10306 of this title, and amending provisions set out as a note below] shall take effect on the date of enactment of this Act [Nov. 18, 2021]. “(b) Applicability.—“(1) Certain injuries.—The amendments made to paragraphs (2) and (7) of section 1204 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ([34 U.S.C. 10284](./chapter-101-justice-system-improvement.md#section-10284)) shall apply with respect to injuries occurring on or after January 1, 2008. “(2) Matters pending.—Except as provided in paragraph (1), the amendments made by this Act shall apply to any matter pending, before the Bureau or otherwise, on the date of enactment of this Act, or filed (consistent with pre-existing effective dates) or accruing after that date. “(c) Effective Date for WTC Responders.—“(1) Certain new claims.—Not later than two years after the effective date of this Act, a WTC responder may file a claim, under section 1201(b) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ([34 U.S.C. 10281(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10281/b&num=0&edition=prelim)), that is predicated on a personal injury sustained in the line of duty by such responder as a result of the September 11, 2001, attacks, where—“(A) no claim under such section 1201(b) so predicated has previously been filed; or “(B) a claim under such section 1201(b) so predicated had previously been denied, in a final agency determination, on the basis (in whole or in part) that the claimant was not totally disabled. “(2) Claims for a deceased wtc responder.—Not later than two years after the effective date of this Act, a claim may be filed, constructively under section 1201(a) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ([34 U.S.C. 10281(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10281/a&num=0&edition=prelim)), where a WTC responder who otherwise could have filed a claim pursuant to paragraph (1) has died before such effective date (or dies not later than 365 days after such effective date), or where a WTC responder has filed such a claim but dies while it is pending before the Bureau: Provided, That—“(A) no claim under such section 1201(a) otherwise shall have been filed, or determined, in a final agency determination; and “(B) if it is determined, in a final agency determination, that a claim under such paragraph (1) would have been payable had the WTC responder not died, then the WTC responder shall irrebutably be presumed (solely for purposes of determining to whom benefits otherwise pursuant to such paragraph (1) may be payable under the claim filed constructively under such section 1201(a)) to have died as the direct and proximate result of the injury on which the claim under such paragraph (1) would have been predicated. “(3) Difference in benefit pay.—In the event that a claim under section 1201(b) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ([34 U.S.C. 10281(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10281/b&num=0&edition=prelim)) and predicated on an injury sustained in the line of duty by a WTC responder as a result of the September 11, 2001, attacks was approved, in a final agency determination, before the effective date of this Act, the Bureau shall, upon application filed (not later than three years after such effective date of this Act) by the payee (or payees) indicated in subparagraphs (A) or (B), pay a bonus in the amount of the difference (if any) between the amount that was paid pursuant to such determination and the amount that would have been payable had the amendments made by this Act, other than those indicated in subsection (b)(1), been in effect on the date of such determination—“(A) to the WTC responder, if living on the date the application is determined, in a final agency determination; or “(B) if the WTC responder is not living on the date indicated in subparagraph (A), to the individual (or individuals), if living on such date, to whom benefits would have been payable on such date under section 1201(a) of such title I ([34 U.S.C. 10281(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10281/a&num=0&edition=prelim)) had the application been, instead, a claim under such section 1201(a). “(4) Special limited rule of construction.—A claim filed pursuant to paragraph (1) or (2) shall be determined as though the date of catastrophic injury of the public safety officer were the date of enactment of this Act [Nov. 18, 2021], for purposes of determining the amount that may be payable.”
+
 #### Effective Date of 2013 Amendment
 Amendment by Pub. L. 112–239 effective Jan. 2, 2013, and applicable to matters pending on Jan. 2, 2013, or filed or accruing after that date, with certain exceptions, see section 1086(d) of Pub. L. 112–239, set out as a note under [section 10251 of this title](./chapter-101-justice-system-improvement.md#section-10251).
 
@@ -3359,7 +3393,7 @@ Pub. L. 100–690, title VI, § 6105(e), Nov. 18, 1988, 102 Stat. 4341, provided
 Subchapter effective Oct. 1, 1984, and inapplicable with respect to injuries sustained before Oct. 1, 1984, see section 609AA(b)(1) of Pub. L. 98–473, set out as a note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101).
 
 #### Safeguarding America’s First Responders
-Pub. L. 116–157, Aug. 14, 2020, 134 Stat. 704, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Safeguarding America’s First Responders Act of 2020’. “SEC. 2. SENSE OF CONGRESS; PURPOSE.“(a) Sense of Congress.—It is the sense of Congress that—“(1) an infectious disease pandemic known as COVID–19 exists; “(2) to date, there is much still unknown about COVID–19, but it is known that COVID–19 and related complications may be fatal; “(3) services provided by public safety officers are nonetheless essential during this pandemic; “(4) due to the COVID–19 pandemic and what is currently known about how the disease is spread, public safety officers are uncharacteristically at risk of contracting the disease; and “(5) although the Public Safety Officers’ Benefits program currently covers deaths and permanent and total disabilities resulting from infectious disease sustained by public safety officers in carrying out their duties, the determination of claims involving personal injuries believed to have resulted from COVID–19 or its complications may be uniquely challenging or delayed given the lack of—“(A) definitive testing and medical records at this time; and “(B) a definitive uniform body of medical information about how the disease is spread or its effects. “(b) Purpose.—The purpose of this Act is to establish a carefully drawn framework wherein claims under the Public Safety Officers’ Benefits program, arising under the unique circumstances described in subsection (a), can be processed expeditiously and under fair and clear standards. “SEC. 3. PUBLIC SAFETY OFFICER BENEFITS.“(a) Death Benefits.—As determined by the Bureau of Justice Assistance, unless competent medical evidence establishes that the death of a public safety officer (as defined in section 1204 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ([34 U.S.C. 10284](./chapter-101-justice-system-improvement.md#section-10284))) was directly and proximately caused by something other than COVID–19, COVID–19 (or complications therefrom) suffered by the public safety officer shall be presumed to constitute a personal injury within the meaning of section 1201(a) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ([34 U.S.C. 10281(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10281/a&num=0&edition=prelim)), sustained in the line of duty by the officer and directly and proximately resulting in death, if—“(1) the officer engaged in a line of duty action or activity between January 1, 2020, and December 31, 2021; “(2) the officer was diagnosed with COVID–19 (or evidence indicates that the officer had COVID–19) during the 45-day period beginning on the last day of duty of the officer; and “(3) evidence indicates that the officer had COVID–19 (or complications therefrom) at the time of the officer’s death. “(b) Disability Benefits.—As determined by the Bureau of Justice Assistance, COVID–19 (or complications therefrom) suffered by a public safety officer shall be presumed to constitute a personal injury within the meaning of section 1201(b) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ([34 U.S.C. 10281(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10281/b&num=0&edition=prelim)), sustained in the line of duty by the officer, if—“(1) the officer engaged in a line of duty action or activity between January 1, 2020, and December 31, 2021; and “(2) the officer was diagnosed with COVID–19 (or evidence indicates that the officer had COVID–19) during the 45-day period beginning on the last day of duty of the officer.”
+Pub. L. 116–157, Aug. 14, 2020, 134 Stat. 704, as amended by Pub. L. 117–61, § 9, Nov. 18, 2021, 135 Stat. 1481, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Safeguarding America’s First Responders Act of 2020’. “SEC. 2. SENSE OF CONGRESS; PURPOSE.“(a) Sense of Congress.—It is the sense of Congress that—“(1) an infectious disease pandemic known as COVID–19 exists; “(2) to date, there is much still unknown about COVID–19, but it is known that COVID–19 and related complications may be fatal; “(3) services provided by public safety officers are nonetheless essential during this pandemic; “(4) due to the COVID–19 pandemic and what is currently known about how the disease is spread, public safety officers are uncharacteristically at risk of contracting the disease; and “(5) although the Public Safety Officers’ Benefits program currently covers deaths and permanent and total disabilities resulting from infectious disease sustained by public safety officers in carrying out their duties, the determination of claims involving personal injuries believed to have resulted from COVID–19 or its complications may be uniquely challenging or delayed given the lack of—“(A) definitive testing and medical records at this time; and “(B) a definitive uniform body of medical information about how the disease is spread or its effects. “(b) Purpose.—The purpose of this Act is to establish a carefully drawn framework wherein claims under the Public Safety Officers’ Benefits program, arising under the unique circumstances described in subsection (a), can be processed expeditiously and under fair and clear standards. “SEC. 3. PUBLIC SAFETY OFFICER BENEFITS.“(a) Death Benefits.—As determined by the Bureau of Justice Assistance, unless competent medical evidence establishes that the death of a public safety officer (as defined in section 1204 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ([34 U.S.C. 10284](./chapter-101-justice-system-improvement.md#section-10284))) was directly and proximately caused by something other than COVID–19, COVID–19 (or complications therefrom) suffered by the public safety officer shall be presumed to constitute a personal injury within the meaning of section 1201(a) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ([34 U.S.C. 10281(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10281/a&num=0&edition=prelim)), sustained in the line of duty by the officer and directly and proximately resulting in death, if—“(1) the officer engaged in a line of duty action or activity during the period beginning on January 1, 2020, and ending on the termination date; “(2) the officer was diagnosed with COVID–19 (or evidence indicates that the officer had COVID–19) during the 45-day period beginning on the last day of duty of the officer; and “(3) evidence indicates that the officer had COVID–19 (or complications therefrom) at the time of the officer’s death. “(b) Disability Benefits.—As determined by the Bureau of Justice Assistance, COVID–19 (or complications therefrom) suffered by a public safety officer shall be presumed to constitute a personal injury within the meaning of section 1201(b) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ([34 U.S.C. 10281(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10281/b&num=0&edition=prelim)), sustained in the line of duty by the officer, if—“(1) the officer engaged in a line of duty action or activity during the period beginning on January 1, 2020, and ending on the termination date; and “(2) the officer was diagnosed with COVID–19 (or evidence indicates that the officer had COVID–19) during the 45-day period beginning on the last day of duty of the officer. “(c) Termination Date.—For purposes of this section, the term ‘termination date’ means the earlier of—“(1) the date on which the public health emergency declared by the Secretary of Health and Human Services under section 319 of the Public Health Service Act ([42 U.S.C. 247d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d&num=0&edition=prelim)) on January 31, 2020, with respect to the Coronavirus Disease (COVID–19), expires; and “(2) December 31, 2023.”
 
 
 <a id="section-10282"></a>
@@ -3445,11 +3479,67 @@ Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistanc
 
 As used in this subchapter—
 
-(1) “catastrophic injury” means an injury, the direct and proximate consequences of which permanently prevent an individual from performing any gainful work;
+(1) “action outside of jurisdiction” means an action, not in the course of any compensated employment involving either the performance of public safety activity or the provision of security services, by a law enforcement officer, firefighter, or member of a rescue squad or ambulance crew that—
 
-(2) “chaplain” includes any individual serving as an officially recognized or designated member of a legally organized volunteer fire department or legally organized police department, or an officially recognized or designated public employee of a legally organized fire or police department who was responding to a fire, rescue, or police emergency;
+  (A) was taken in a jurisdiction where—
 
-(3) “child” means any natural, illegitimate, adopted, or posthumous child or stepchild of a deceased or permanently and totally disabled public safety officer who, at the time of the public safety officer’s fatal or catastrophic injury, is—
+    (i) the law enforcement officer or firefighter then was not authorized to act, in the ordinary course, in an official capacity; or
+
+    (ii) the member of a rescue squad or ambulance crew then was not authorized or licensed to act, in the ordinary course, by law or by the applicable agency or entity;
+
+  (B) then would have been within the authority and line of duty of—
+
+    (i) a law enforcement officer or a firefighter to take, who was authorized to act, in the ordinary course, in an official capacity, in the jurisdiction where the action was taken; or
+
+    (ii) a member of a rescue squad or ambulance crew to take, who was authorized or licensed by law and by a pertinent agency or entity to act, in the ordinary course, in the jurisdiction where the action was taken; and
+
+  (C) was, in an emergency situation that presented an imminent and significant danger or threat to human life or of serious bodily harm to any individual, taken—
+
+    (i) by a law enforcement officer—
+
+      (I) to prevent, halt, or respond to the immediate consequences of a crime (including an incident of juvenile delinquency); or
+
+      (II) while engaging in a rescue activity or in the provision of emergency medical services;
+
+    (ii) by a firefighter—
+
+      (I) while engaging in fire suppression; or
+
+      (II) while engaging in a rescue activity or in the provision of emergency medical services; or
+
+    (iii) by a member of a rescue squad or ambulance crew, while engaging in a rescue activity or in the provision of emergency medical services;
+
+(2) “candidate officer” means an individual who is enrolled or admitted, as a cadet or trainee, in a formal and officially established program of instruction or of training (such as a police or fire academy) that is specifically intended to result upon completion, in the—
+
+  (A) commissioning of such individual as a law enforcement officer;
+
+  (B) conferral upon such individual of official authority to engage in fire suppression (as an officer or employee of a public fire department or as an officially recognized or designated member of a legally organized volunteer fire department); or
+
+  (C) granting to such individual official authorization or license to engage in a rescue activity, or in the provision of emergency medical services, as a member of a rescue squad, or as a member of an ambulance crew that is (or is a part of) the agency or entity that is sponsoring the individual’s enrollment or admission;
+
+(3) “blind” means an individual who has central visual acuity of 20/200 or less in the better eye with the use of a correcting lens or whose eye is accompanied by a limitation in the fields of vision such that the widest diameter of the visual field subtends an angle no greater than 20 degrees;
+
+(4) “catastrophic injury” means an injury, the direct and proximate result of which is to permanently render an individual functionally incapable (including through a directly and proximately resulting neurocognitive disorder), based on the state of medicine on the date on which the claim is determined by the Bureau, of performing work, including sedentary work: Provided, That, if it appears that a claimant may be functionally capable of performing work—
+
+  (A) the Bureau shall disregard work where any compensation provided is de minimis, nominal, honorary, or mere reimbursement of incidental expenses, such as—
+
+    (i) work that involves ordinary or simple tasks, that because of the claimed disability, the claimant cannot perform without significantly more supervision, accommodation, or assistance than is typically provided to an individual without the claimed disability doing similar work;
+
+    (ii) work that involves minimal duties that make few or no demands on the claimant and are of little or no economic value to the employer; or
+
+    (iii) work that is performed primarily for therapeutic purposes and aids the claimant in the physical or mental recovery from the claimed disability; and
+
+  (B) the claimant shall be presumed, absent clear and convincing medical evidence to the contrary as determined by the Bureau, to be functionally incapable of performing such work if the direct and proximate result of the injury renders the claimant—
+
+    (i) blind;
+
+    (ii) parapalegic; 11 So in original. Probably should be “paraplegic;”. or
+
+    (iii) quadriplegic;
+
+(5) “chaplain” includes any individual serving as an officially recognized or designated member of a legally organized volunteer fire department or legally organized police department, or an officially recognized or designated public employee of a legally organized fire or police department who was responding to a fire, rescue, or police emergency;
+
+(6) “child” means any natural, illegitimate, adopted, or posthumous child or stepchild of a deceased or permanently and totally disabled public safety officer who, at the time of the public safety officer’s death or fatal injury (in connection with any claim predicated upon such death or injury) or the date of the public safety officer’s catastrophic injury or of the final determination by the Bureau of any claim predicated upon such catastrophic injury, is—
 
   (A) 18 years of age or under;
 
@@ -3457,18 +3547,18 @@ As used in this subchapter—
 
   (C) over 18 years of age and incapable of self-support because of physical or mental disability;
 
-(4) “firefighter” includes an individual serving as an officially recognized or designated member of a legally organized volunteer fire department;
+(7) “firefighter” includes an individual serving as an officially recognized or designated member of a legally organized volunteer fire department, including an individual who, as such a member, engages in scene security or traffic management as the primary or only duty of the individual during emergency response;
 
-(5) “intoxication” means a disturbance of mental or physical faculties resulting from the introduction of alcohol into the body as evidenced by—
+(8) “intoxication” means a disturbance of mental or physical faculties resulting from the introduction of alcohol into the body as evidenced by—
 
   (A) a post-injury blood alcohol level of .20 per centum or greater; or
 
   (B) a post-injury blood alcohol level of at least .10 per centum but less than .20 per centum unless the Bureau receives convincing evidence that the public safety officer was not acting in an intoxicated manner immediately prior to his fatal or catastrophic injury;
   or resulting from drugs or other substances in the body;
 
-(6) “law enforcement officer” means an individual involved in crime and juvenile delinquency control or reduction, or enforcement of the criminal laws (including juvenile delinquency).,11 So in original. The period probably should not appear. including, but not limited to, police, corrections, probation, parole, and judicial officers;
+(9) “law enforcement officer” means an individual involved in crime and juvenile delinquency control or reduction, or enforcement of the criminal laws (including juvenile delinquency), including, but not limited to, police, corrections, probation, parole, and judicial officers;
 
-(7) “member of a rescue squad or ambulance crew” means an officially recognized or designated employee or volunteer member of a rescue squad or ambulance crew (including a ground or air ambulance service) that—
+(10) “member of a rescue squad or ambulance crew” means an officially recognized or designated employee or volunteer member of a rescue squad or ambulance crew (including a ground or air ambulance service) that—
 
   (A) is a public agency; or
 
@@ -3478,31 +3568,49 @@ As used in this subchapter—
 
     (ii) engages in rescue activities or provides emergency medical services as part of an official emergency response system;
 
-(8) “public agency” means the United States, any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Commonwealth of the Northern Mariana Islands, and any territory or possession of the United States, or any unit of local government, department, agency, or instrumentality of any of the foregoing; and
+(11) “neurocognitive disorder” means a disorder that is characterized by a clinically significant decline in cognitive functioning and may include symptoms and signs such as disturbances in memory, executive functioning (that is, higher-level cognitive processes, such as, regulating attention, planning, inhibiting responses, decision-making), visual-spatial functioning, language, speech, perception, insight, judgment, or an insensitivity to social standards; and
 
-(9) “public safety officer” means—
+(12) “sedentary work” means work that—
 
-  (A) an individual serving a public agency in an official capacity, with or without compensation, as a law enforcement officer, as a firefighter, or as a chaplain;
+  (A) involves lifting articles weighing no more than 10 pounds at a time or occasionally lifting or carrying articles such as docket files, ledgers, or small tools; and
 
-  (B) an employee of the Federal Emergency Management Agency who is performing official duties of the Agency in an area, if those official duties—
+  (B) despite involving sitting on a regular basis, may require walking or standing on an occasional basis.
+
+(13) “public agency” means the United States, any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Commonwealth of the Northern Mariana Islands, and any territory or possession of the United States, or any unit of local government, department, agency, or instrumentality of any of the foregoing, and includes (as may be prescribed by regulation hereunder) a legally organized volunteer fire department that is a nonprofit entity and provides services without regard to any particular relationship (such as a subscription) a member of the public may have with such a department; and
+
+(14) “public safety officer” means—
+
+  (A) an individual serving a public agency in an official capacity, with or without compensation, as a law enforcement officer, as a firefighter, or as a chaplain: Provided, That (notwithstanding section 10285(b)(2) or (3) of this title) the Bureau shall, absent clear and convincing evidence to the contrary as determined by the Bureau, deem the actions outside of jurisdiction taken by any such law enforcement officer or firefighter, to have been taken while serving such public agency in such capacity, in any case in which the principal legal officer of such public agency, and the head of such agency, together, certify that such actions—
+
+    (i) were not unreasonable;
+
+    (ii) would have been within the authority and line of duty of such law enforcement officer or such firefighter to take, had they been taken in a jurisdiction where such law enforcement officer or firefighter was authorized to act, in the ordinary course, in an official capacity; and
+
+    (iii) would have resulted in the payment of full line-of-duty death or disability benefits (as applicable), if any such benefits typically were payable by (or with respect to or on behalf of) such public agency, as of the date the actions were taken;
+
+  (B) a candidate officer who is engaging in an activity or exercise that itself is a formal or required part of the program in which the candidate officer is enrolled or admitted, as provided in this section;
+
+  (C) an employee of the Federal Emergency Management Agency who is performing official duties of the Agency in an area, if those official duties—
 
     (i) are related to a major disaster or emergency that has been, or is later, declared to exist with respect to the area under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) et seq.); and
 
     (ii) are determined by the Administrator of the Federal Emergency Management Agency to be hazardous duties;
 
-  (C) an employee of a State, local, or tribal emergency management or civil defense agency who is performing official duties in cooperation with the Federal Emergency Management Agency in an area, if those official duties—
+  (D) an employee of a State, local, or tribal emergency management or civil defense agency who is performing official duties in cooperation with the Federal Emergency Management Agency in an area, if those official duties—
 
     (i) are related to a major disaster or emergency that has been, or is later, declared to exist with respect to the area under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) et seq.); and
 
     (ii) are determined by the head of the agency to be hazardous duties;
 
-  (D) a member of a rescue squad or ambulance crew who, as authorized or licensed by law and by the applicable agency or entity, is engaging in rescue activity or in the provision of emergency medical services;
+  (E) a member of a rescue squad or ambulance crew who, as authorized or licensed by law and by the applicable agency or entity, is engaging in rescue activity or in the provision of emergency medical services: Provided, That (notwithstanding section 10285(b)(2) or (3) of this title) the Bureau shall, absent clear and convincing evidence to the contrary as determined by the Bureau, deem the actions outside of jurisdiction taken by any such member to have been thus authorized or licensed, in any case in which the principal legal officer of such agency or entity, and the head of such agency or entity, together, certify that such actions—
 
-  (E) an individual appointed to the National Disaster Medical System under [section 300hh–11 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300hh–11&num=0&edition=prelim) who is performing official duties of the Department of Health and Human Services, if those official duties are—
+    (i) were not unreasonable;
 
-    (i) related to responding to a public health emergency or potential public health emergency, or other activities for which the Secretary of Health and Human Services has activated such National Disaster Medical System; and
+    (ii) would have been within the authority and line of duty of such member to take, had they been taken in a jurisdiction where such member was authorized or licensed by law and by a pertinent agency or entity to act, in the ordinary course; and
 
-    (ii) determined by the Secretary of Health and Human Services to be hazardous; or
+    (iii) would have resulted in the payment of full line-of-duty death or disability benefits (as applicable), if any such benefits typically were payable by (or with respect to or on behalf of) such applicable agency or entity, as of the date the action was taken;
+
+  (F) 22 So in original. There are two subpars. designated (F). omitted
 
   (F) an employee or contractor of the Department of Energy who—
 
@@ -3520,13 +3628,12 @@ As used in this subchapter—
 
 ### Statutory Notes
 
-#### Amendment of Section
-For termination of amendment by section 301(d)(3) of Pub. L. 116–22, see Termination Date of 2019 Amendment note below.
-
 #### References in Text
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in par. (9), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in par. (14)(C)(i), (D)(i), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
 
 #### Codification
+Par. (14)(F) of this section, which was originally enacted as par. (9)(E) by section 301(d)(2) of Pub. L. 116–22, ceased to have force or effect on Oct. 1, 2021. Prior to being omitted, par. (14)(F) included within the definition of public safety officer an individual appointed to the National Disaster Medical System under [section 300hh–11 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300hh–11&num=0&edition=prelim), The Public Health and Welfare, performing official duties of the Department of Health and Human Services that were related to responding to a public health emergency, potential public health emergency, or other activities for which the National Disaster Medical System was activated and that were determined by the Secretary of Health and Human Services to be hazardous.
+
 Section was formerly classified to [section 3796b of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796b&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
@@ -3535,9 +3642,45 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 A prior section 1204 of Pub. L. 90–351 was renumbered section 1205 and is classified to [section 10285 of this title](./chapter-101-justice-system-improvement.md#section-10285).
 
 #### Amendments
-2021—Par. (9)(F). Pub. L. 116–283 added subpar. (F).
+2021—Pars. (1) to (3). Pub. L. 117–61, § 3(8), added pars. (1) to (3). Former pars. (1) to (3) redesignated (4) to (6), respectively.
 
-2019—Par. (9)(E). Pub. L. 116–22, § 301(d)(2), (3), temporarily added subpar. (E). See Termination Date of 2019 Amendment note below.
+Par. (4). Pub. L. 117–61, § 3(2), added par. (4) and struck out former par. (4) which read as follows: “ ‘catastrophic injury’ means an injury, the direct and proximate consequences of which permanently prevent an individual from performing any gainful work;”.
+
+Pub. L. 117–61, § 3(1), redesignated par. (1) as (4). Former par. (4) redesignated (7).
+
+Par. (5). Pub. L. 117–61, § 3(1), redesignated par. (2) as (5). Former par. (5) redesignated (8).
+
+Par. (6). Pub. L. 117–61, § 3(1), (3), redesignated par. (3) as (6) and substituted “at the time of the public safety officer’s death or fatal injury (in connection with any claim predicated upon such death or injury) or the date of the public safety officer’s catastrophic injury or of the final determination by the Bureau of any claim predicated upon such catastrophic injury” for “at the time of the public safety officer’s fatal or catastrophic injury” in introductory provisions. Former par. (6) redesignated (9).
+
+Par. (7). Pub. L. 117–61, § 3(1), (4), redesignated par. (4) as (7) and inserted “, including an individual who, as such a member, engages in scene security or traffic management as the primary or only duty of the individual during emergency response” before semicolon at end. Former par. (7) redesignated (10).
+
+Par. (8). Pub. L. 117–61, § 3(1), redesignated par. (5) as (8). Former par. (8) redesignated (13).
+
+Par. (9). Pub. L. 117–61, § 3(1), (5), redesignated par. (6) as (9) and substituted “delinquency),” for “delinquency).,”. Former par. (9) redesignated (14).
+
+Par. (9)(F). Pub. L. 116–283 added subpar. (F) relating to an employee or contractor of the Department of Energy. Par. (9) was subsequently redesignated (14) by Pub. L. 117–61, § 3(1).
+
+Par. (10). Pub. L. 117–61, § 3(1), redesignated par. (7) as (10).
+
+Pars. (11), (12). Pub. L. 117–61, § 3(9), added pars. (11) and (12).
+
+Par. (13). Pub. L. 117–61, § 3(1), (6), redesignated par. (8) as (13) and inserted “, and includes (as may be prescribed by regulation hereunder) a legally organized volunteer fire department that is a nonprofit entity and provides services without regard to any particular relationship (such as a subscription) a member of the public may have with such a department” before “; and”.
+
+Par. (14). Pub. L. 117–61, § 3(1), redesignated par. (9) as (14).
+
+Par. (14)(A). Pub. L. 117–61, § 3(7)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: “an individual serving a public agency in an official capacity, with or without compensation, as a law enforcement officer, as a firefighter, or as a chaplain;”.
+
+Par. (14)(B). Pub. L. 117–61, § 3(7)(C), added subpar. (B). Former subpar. (B) redesignated (C).
+
+Par. (14)(C), (D). Pub. L. 117–61, § 3(7)(B), redesignated subpars. (B) and (C) as (C) and (D), respectively.
+
+Par. (14)(E). Pub. L. 117–61, § 3(7)(D), added subpar. (E) and struck out former subpar. (E) which read as follows: “a member of a rescue squad or ambulance crew who, as authorized or licensed by law and by the applicable agency or entity, is engaging in rescue activity or in the provision of emergency medical services;”.
+
+Pub. L. 117–61, § 3(7)(B), redesignated subpar. (D) as (E). Former subpar. (E), relating to an individual appointed to the National Disaster Medical System under [section 300hh–11 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300hh–11&num=0&edition=prelim) and whose effect ceased Oct. 1, 2021, redesignated (F).
+
+Par. (14)(F). Pub. L. 117–61, § 3(7)(B), redesignated omitted subpar. (E), relating to an individual appointed to the National Disaster Medical System under [section 300hh–11 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300hh–11&num=0&edition=prelim) and whose effect ceased on Oct. 1, 2021, as (F). See Codification note above.
+
+2019—Par. (9)(E). Pub. L. 116–22, § 301(d)(2), (3), temporarily added subpar. (E) which related to an individual appointed to the National Disaster Medical System under [section 300hh–11 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300hh–11&num=0&edition=prelim). See Codification note above and Termination Date of 2019 Amendment note below.
 
 2013—Par. (1). Pub. L. 112–239, § 1086(b)(1)(E)(i), substituted “an injury, the direct and proximate consequences of which” for “consequences of an injury that”.
 
@@ -3580,7 +3723,10 @@ Pars. (3) to (7). Pub. L. 101–647, § 1301(c)(1), redesignated pars. (2) to (6
 1986—Pub. L. 99–500 and Pub. L. 99–591 inserted “and an officially recognized or designated public employee member of a rescue squad or ambulance crew who was responding to a fire, rescue or police emergency” in par. (3), and substituted “, a firefighter, or rescue squad or ambulance crew” for “or a firefighter.” in par. (7).
 
 #### Change of Name
-“Administrator of the Federal Emergency Management Agency” substituted for “Director of the Federal Emergency Management Agency” in par. (9)(B)(ii) on authority of section 612(c) of Pub. L. 109–295, set out as a note under [section 313 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section313&num=0&edition=prelim), Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under [section 313 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section313&num=0&edition=prelim).
+“Administrator of the Federal Emergency Management Agency” substituted for “Director of the Federal Emergency Management Agency” in par. (9)(B)(ii) (now (14)(C)(ii)) on authority of section 612(c) of Pub. L. 109–295, set out as a note under [section 313 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section313&num=0&edition=prelim), Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under [section 313 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section313&num=0&edition=prelim).
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–61 effective Nov. 18, 2021, and applicable to any matter pending, before the Bureau or otherwise, on Nov. 18, 2021, or filed (consistent with pre-existing effective dates) or accruing after that date, except that amendments to pars. (2) and (7) of this section by Pub. L. 117–61 applicable with respect to injuries occurring on or after Jan. 1, 2008, see section 8(a) and (b) of Pub. L. 117–61, set out in a note under [section 10281 of this title](./chapter-101-justice-system-improvement.md#section-10281).
 
 #### Termination Date of 2019 Amendment
 Pub. L. 116–22, title III, § 301(d)(3), June 24, 2019, 133 Stat. 933, provided that: “The amendments made by paragraphs (1) and (2) [amending this section and [section 300hh–11 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300hh–11&num=0&edition=prelim), The Public Health and Welfare] shall cease to have force or effect on October 1, 2021.”
@@ -3592,7 +3738,7 @@ Amendment by Pub. L. 112–239 effective Jan. 2, 2013, and applicable to matters
 Amendment by Pub. L. 107–196 effective Sept. 11, 2001, and applicable to injuries or deaths that occur in the line of duty on or after such date, see section 2(c) of Pub. L. 107–196, set out as a note under [section 10281 of this title](./chapter-101-justice-system-improvement.md#section-10281).
 
 #### Effective Date of 2000 Amendment
-Pub. L. 106–390, title III, § 305(b), Oct. 30, 2000, 114 Stat. 1574, provided that: “The amendment made by subsection (a) [amending this section] applies only to employees described in subparagraphs (B) and (C) of section 1204(7) of the Omnibus Crime Control and Safe Streets Act of 1968 [[34 U.S.C. 10284(7)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10284/7/B&num=0&edition=prelim), (C)] (as amended by subsection (a)) who are injured or who die in the line of duty on or after the date of the enactment of this Act [Oct. 30, 2000].”
+Pub. L. 106–390, title III, § 305(b), Oct. 30, 2000, 114 Stat. 1574, provided that: “The amendment made by subsection (a) [amending this section] applies only to employees described in subparagraphs (B) and (C) of section 1204(7) [now 1204(14)(C) and (D)] of the Omnibus Crime Control and Safe Streets Act of 1968 [[34 U.S.C. 10284(14)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10284/14/C&num=0&edition=prelim), (D)] (as amended by subsection (a)) who are injured or who die in the line of duty on or after the date of the enactment of this Act [Oct. 30, 2000].”
 
 #### Effective Date of 1990 Amendment
 Amendment by Pub. L. 101–647 effective Nov. 29, 1990, and not applicable with respect to injuries occurring before Nov. 29, 1990, see section 1303 of Pub. L. 101–647, set out as a note under [section 10281 of this title](./chapter-101-justice-system-improvement.md#section-10281).
@@ -3691,7 +3837,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
   (A) conduct a study on the compliance of the Bureau with the obligation to offset award amounts under [section 10281(f)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10281/f/3&num=0&edition=prelim); and
 
-  (B) submit to Congress a report on the study conducted under subparagraph (A) that includes an assessment of whether the Bureau has provided the information required under subparagraph (B)(ix) 11 So in original. Probably means subpar. (I) of par. (2). of paragraph (2) of this subsection in each report required under that paragraph.
+  (B) submit to Congress a report on the study conducted under subparagraph (A) that includes an assessment of whether the Bureau has provided the information required under subparagraph (I) of paragraph (2) of this subsection in each report required under that paragraph.
 
 (4) In this subsection, the term “nature of the claim” means whether the claim is a claim for—
 
@@ -3710,6 +3856,8 @@ The September 11th Victim Compensation Fund of 2001, referred to in subsec. (e)(
 Section was formerly classified to [section 3796c of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796c&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2021—Subsec. (e)(3)(B). Pub. L. 117–61 substituted “subparagraph (I)” for “subparagraph (B)(ix)”.
+
 2017—Subsec. (a). Pub. L. 115–36, § 2(1), inserted “Rules, regulations, and procedures issued under this subchapter may include regulations based on standards developed by another Federal agency for programs related to public safety officer death or disability claims.” before “The Bureau may prescribe”.
 
 Subsec. (b). Pub. L. 115–36, § 2(2), designated existing provisions as par. (1) and added pars. (2) and (3).
@@ -3719,6 +3867,9 @@ Subsec. (e). Pub. L. 115–36, § 2(3), added subsec. (e).
 2013—Subsec. (d). Pub. L. 112–239 added subsec. (d).
 
 1998—Subsec. (c). Pub. L. 105–180 added subsec. (c).
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–61 effective Nov. 18, 2021, and applicable to any matter pending, before the Bureau or otherwise, on Nov. 18, 2021, or filed (consistent with pre-existing effective dates) or accruing after that date, see section 8(a) and (b)(2) of Pub. L. 117–61, set out in a note under [section 10281 of this title](./chapter-101-justice-system-improvement.md#section-10281).
 
 #### Effective Date of 2017 Amendment
 Amendment by Pub. L. 115–36 effective June 2, 2017, and applicable to any benefit claim or application under this subchapter pending before the Bureau of Justice Assistance on such date or received by the Bureau on or after such date, see section 6 of Pub. L. 115–36, set out as a note under [section 10282 of this title](./chapter-101-justice-system-improvement.md#section-10282).
@@ -3782,12 +3933,26 @@ Amendment by Pub. L. 112–239 effective Jan. 2, 2013, and applicable to matters
 ## § 10288. Due diligence in paying benefit claims
 **(a) In general** The Bureau, with all due diligence, shall expeditiously attempt to obtain the information and documentation necessary to adjudicate a benefit claim filed under this subchapter, including a claim for financial assistance under part B.
 
-**(b) Sufficient information unavailable** If a benefit claim filed under this subchapter, including a claim for financial assistance under part B, is unable to be adjudicated by the Bureau because of a lack of information or documentation from a third party, such as a public agency, and such information is not readily available to the claimant, the Bureau may not abandon the benefit claim unless the Bureau has utilized the investigative tools available to the Bureau to obtain the necessary information or documentation, including subpoenas.
+**(b) Sufficient information unavailable** If a benefit claim filed under this subchapter, including a claim for financial assistance under part B, is unable to be adjudicated by the Bureau because of a lack of information or documentation from a third party, such as a public agency, and such information is not readily available to the claimant, the Bureau—
+
+(1) may use available investigative tools, including subpoenas, to—
+
+  (A) adjudicate or to expedite the processing of the benefit claim, if the Bureau deems such use to be necessary to adjudicate or conducive to expediting the adjudication of such claim; and
+
+  (B) obtain information or documentation from third parties, including public agencies, if the Bureau deems such use to be necessary to adjudicate or conducive to expediting the adjudication of a claim; and
+
+(2) may not abandon the benefit claim unless the Bureau has used investigative tools, including subpoenas, to obtain the information or documentation deemed necessary to adjudicate such claim by the Bureau under subparagraph (1)(B).
 
 ### Statutory Notes
 
 #### Codification
 Section was formerly classified to [section 3796c–3 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796c–3&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+#### Amendments
+2021—Subsec. (b). Pub. L. 117–61 substituted “the Bureau—” and pars. (1) and (2) for “the Bureau may not”.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–61 effective Nov. 18, 2021, and applicable to any matter pending, before the Bureau or otherwise, on Nov. 18, 2021, or filed (consistent with pre-existing effective dates) or accruing after that date, see section 8(a) and (b)(2) of Pub. L. 117–61, set out in a note under [section 10281 of this title](./chapter-101-justice-system-improvement.md#section-10281).
 
 #### Effective Date
 Section effective June 2, 2017, and applicable to any benefit claim or application under this subchapter pending before the Bureau of Justice Assistance on such date or received by the Bureau on or after such date, see section 6 of Pub. L. 115–36, set out as an Effective Date of 2017 Amendment note under [section 10282 of this title](./chapter-101-justice-system-improvement.md#section-10282).
@@ -3947,7 +4112,7 @@ Section was formerly classified to [section 3796d–4 of Title 42](https://uscod
 ## § 10306. Special rule
 **(a) Retroactive eligibility** Notwithstanding any other provision of law, a spouse or child of a Federal law enforcement officer killed in the line of duty on or after January 1, 1978,,11 So in original. and a spouse or child of a public safety officer killed in the line of duty on or after January 1, 1978, shall be eligible for assistance under this part, subject to the other limitations of this part.
 
-**(b) Retroactive assistance** The Attorney General may provide retroactive assistance to a person eligible under this section for each month in which the person pursued a program of education at an eligible educational institution. The Attorney General shall apply the limitations contained in this part to retroactive assistance.
+**(b) Retroactive assistance** The Attorney General shall (unless prospective assistance has been provided) provide retroactive assistance to a person eligible under this section for each month in which the person pursued a program of education at an eligible educational institution. The Attorney General shall apply the limitations contained in this part to retroactive assistance.
 
 **(c) Prospective assistance** The Attorney General may provide prospective assistance to a person eligible under this section on the same basis as assistance to a person otherwise eligible. In applying the limitations on assistance under this part, the Attorney General shall include assistance provided retroactively. A person eligible under this section may waive retroactive assistance and apply only for prospective assistance on the same basis as a person otherwise eligible.
 
@@ -3957,6 +4122,8 @@ Section was formerly classified to [section 3796d–4 of Title 42](https://uscod
 Section was formerly classified to [section 3796d–5 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796d–5&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2021—Subsec. (b). Pub. L. 117–61 substituted “shall (unless prospective assistance has been provided)” for “may”.
+
 2013—Subsec. (a). Pub. L. 112–239, § 1086(b)(1)(J)(i), substituted “a spouse or child” for “each dependent” in two places.
 
 Subsec. (b). Pub. L. 112–239, § 1086(b)(1)(G), (J)(ii), substituted “to a person” for “to dependents” and “the person” for “the dependent”.
@@ -3966,6 +4133,9 @@ Subsec. (c). Pub. L. 112–239, § 1086(b)(1)(G), (J)(ii), substituted “A pers
 2000—Subsec. (a). Pub. L. 106–276 substituted “January 1, 1978,” for “May 1, 1992” and “January 1, 1978, shall” for “October 1, 1997, shall”.
 
 1998—Subsec. (a). Pub. L. 105–390 inserted “and each dependent of a public safety officer killed in the line of duty on or after October 1, 1997,” after “1992,”.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–61 effective Nov. 18, 2021, and applicable to any matter pending, before the Bureau or otherwise, on Nov. 18, 2021, or filed (consistent with pre-existing effective dates) or accruing after that date, see section 8(a) and (b)(2) of Pub. L. 117–61, set out in a note under [section 10281 of this title](./chapter-101-justice-system-improvement.md#section-10281).
 
 #### Effective Date of 2013 Amendment
 Amendment by Pub. L. 112–239 effective Jan. 2, 2013, and applicable to matters pending on Jan. 2, 2013, or filed or accruing after that date, with certain exceptions, see section 1086(d) of Pub. L. 112–239, set out as a note under [section 10251 of this title](./chapter-101-justice-system-improvement.md#section-10251).

@@ -14,7 +14,7 @@ source: >-
 
 (2) **Vessel features.—** — The design of a vessel hull, deck, or combination of a hull and deck, including a plug or mold, is subject to protection under this chapter, notwithstanding section 1302(4).
 
-(3) **Exceptions.—** — Department of Defense rights in a registered design under this chapter, including the right to build to such registered design, shall be determined solely by operation of [section 2320 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2320&num=0&edition=prelim) or by the instrument under which the design was developed for the United States Government.
+(3) **Exceptions.—** — Department of Defense rights in a registered design under this chapter, including the right to build to such registered design, shall be determined solely by operation of subchapter I of chapter 275 of title 10 or by the instrument under which the design was developed for the United States Government.
 
 **(b) Definitions.—** For the purpose of this chapter, the following terms have the following meanings:
 
@@ -39,6 +39,8 @@ source: >-
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (a)(3). Pub. L. 117–81 substituted “subchapter I of chapter 275” for “section 2320”.
+
 2008—Subsec. (a)(2). Pub. L. 110–434, § 1(b), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The design of a vessel hull, including a plug or mold, is subject to protection under this chapter, notwithstanding section 1302(4).”
 
 Subsec. (a)(3). Pub. L. 110–434, § 1(c), added par. (3).

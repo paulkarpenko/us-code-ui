@@ -1056,6 +1056,10 @@ The provisions respecting court accommodations at Bryson City and Shelby were om
 Changes in arrangement and phraseology were made.
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 117–26, § 1(a)(1), substituted “Wilson, those portions of Hoke, Moore, Scotland, and Richmond counties encompassing the Fort Bragg Military Reservation and Camp Mackall, and” for “and Wilson and”.
+
+Subsec. (b). Pub. L. 117–26, § 1(a)(2), added subsec. (b) and struck out former subsec. (b) which read as follows: “The Middle District comprises the counties of Alamance, Cabarrus, Caswell, Chatham, Davidson, Davie, Durham (excluding that portion of Durham County encompassing the Federal Correctional Institution, Butner, North Carolina), Forsythe, Guilford, Hoke, Lee, Montgomery, Moore, Orange, Person, Randolph, Richmond, Rockingham, Rowan, Scotland, Stanly, Stokes, Surry, and Yadkin.” Amendment directing striking out subsec. (b) was executed only to the first paragraph and not the concluding sentence, to reflect the probable intent of Congress.
+
 1992—Subsec. (a). Pub. L. 102–272, which directed the amendment of subsec. (a) by striking out “Clinton,” and “Washington,” and inserting “Greenville,” after “Fayetteville,”, was executed to the second sentence to reflect the probable intent of Congress.
 
 1980—Subsec. (a). Pub. L. 96–462, § 5(a), added that portion of Durham County encompassing the Federal Correctional Institution, Butner, North Carolina to the Eastern District.
@@ -1065,6 +1069,9 @@ Subsec. (b). Pub. L. 96–462, § 5(b), struck out references to Alleghany, Ashe
 Subsec. (c). Pub. L. 96–462, § 5(c), added Alleghany, Ashe, Watauga, and Wilkes counties to the Western District.
 
 1965—Pub. L. 89–319 provided for holding court at Clinton.
+
+#### Effective Date of 2021 Amendment
+Pub. L. 117–26, § 1(b), July 6, 2021, 135 Stat. 299, provided that “The amendments made by subsection (a) [amending this section] shall not apply to any action commenced or pending in any judicial district of North Carolina before the date of enactment of this Act [July 6, 2021].”
 
 #### Effective Date of 1980 Amendment; Savings Provisions
 Amendment by Pub. L. 96–462 effective Oct. 1, 1981, but not to affect the composition or preclude the service of any grand or petit juror summoned, empaneled, or actually serving in any judicial district on Oct. 1, 1981, see section 7 of Pub. L. 96–462, set out as a note under [section 84 of this title](./chapter-005-district-courts.md#section-84).

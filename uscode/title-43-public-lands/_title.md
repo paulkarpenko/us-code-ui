@@ -2,8 +2,8 @@
 title: 43
 heading: PUBLIC LANDS
 positive_law: false
-sections: 1447
-chapters: 58
+sections: 1457
+chapters: 59
 ---
 # Title 43. PUBLIC LANDS
 
@@ -66,3 +66,4 @@ chapters: 58
 - 47 — RECLAMATION TITLE TRANSFER
 - 48 — RENEWABLE ENERGY PRODUCTION ON FEDERAL LAND
 - 49 — NATIONAL LANDSLIDE PREPAREDNESS
+- 50 — WESTERN WATER INFRASTRUCTURE

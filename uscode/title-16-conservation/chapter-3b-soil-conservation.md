@@ -33,15 +33,15 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 #### Short Title
 See [section 590q of this title](./chapter-3b-soil-conservation.md#section-590q).
 
+#### Policy
+Declaration of policy to continue the Soil Conservation and Domestic Allotment Act, see [section 1282 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1282&num=0&edition=prelim), Agriculture.
+
 #### Transfer of Functions
 Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under [section 719e of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section719e&num=0&edition=prelim), Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by [section 720d(f) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section720d/f&num=0&edition=prelim).
 
 Functions of Soil Conservation Service in Department of Agriculture with respect to soil and moisture conservation operations conducted on lands under jurisdiction of Department of the Interior transferred to Department of the Interior, to be administered under direction and supervision of Secretary of the Interior through such agency or agencies in Department of the Interior as Secretary shall designate, by Reorg. Plan No. IV of 1940, § 6, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1234, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Soil Conservation Service consolidated with other agencies into Agricultural Conservation and Adjustment Administration for duration of World War II, see Ex. Ord. No. 9069, Feb. 23, 1942.
-
-#### Policy
-Declaration of policy to continue the Soil Conservation and Domestic Allotment Act, see [section 1282 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1282&num=0&edition=prelim), Agriculture.
 
 
 <a id="section-590b"></a>
@@ -723,9 +723,6 @@ Amendment by act July 3, 1948, effective July 3, 1948, see section 6 of act July
 #### Effective Date of 1938 Amendment
 Act Feb. 16, 1938, ch. 30, title I, § 105, 52 Stat. 36, as amended by section 1 of act Apr. 7, 1938, provided that the amendments by that act, amending this section, “shall first be effective with respect to farming operations carried out in the calendar year 1938. Notwithstanding such amendments, payments with respect to farming operations carried out in the calendar year 1938 and based upon any soil-depleting crop for which special acreage allotments are established shall be made at not less than 90 per centum of the rates announced by the Secretary prior to the enactment of this act. Nothing contained herein shall require reconstituting, for 1938, any county or other local committee which has been constituted prior to February 1, 1938.”
 
-#### Transfer of Functions
-Functions respecting lands under jurisdiction of Department of the Interior, transfer to Department of the Interior, see Transfer of Functions note set out under [section 590a of this title](./chapter-3b-soil-conservation.md#section-590a).
-
 #### Status of Permanent Employees of County Committees
 Pub. L. 106–78, title VII, § 740, Oct. 22, 1999, 113 Stat. 1166, provided that: “Notwithstanding any other provision of law, in fiscal year 2000 and thereafter, permanent employees of county committees employed on or after October 1, 1998, pursuant to [section] 8(b) of the Soil Conservation and Domestic Allotment Act ([16 U.S.C. 590h(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section590h/b&num=0&edition=prelim)) shall be considered as having Federal Civil Service status only for the purpose of applying for United States Department of Agriculture Civil Service vacancies.”
 
@@ -766,6 +763,9 @@ Pub. L. 86–568, title I, § 115(a), July 1, 1960, 74 Stat. 302, provided that:
 
 #### Two County Committees for Certain Counties in Minnesota and Iowa
 Pub. L. 85–278, Sept. 2, 1957, 71 Stat. 601, provided: “That, notwithstanding the provisions of subsection (b) of section 8 of the Soil Conservation and Domestic Allotment Act [subsec. (b) of this section], two county committees shall be elected annually under such subsection for the counties of Otter Tail, Polk, and Saint Louis, in the State of Minnesota, and for the county of Pottawattamie, in the State of Iowa, and that the actions heretofore or hereafter taken by each of such committees shall be given the same effect in the area served by it as is given to the actions of the county committee in a county served by a single county committee.”
+
+#### Transfer of Functions
+Functions respecting lands under jurisdiction of Department of the Interior, transfer to Department of the Interior, see Transfer of Functions note set out under [section 590a of this title](./chapter-3b-soil-conservation.md#section-590a).
 
 
 <a id="section-590h-1-590h-2"></a>

@@ -7,219 +7,206 @@ source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33&num=0&edition=prelim
 ---
 <a id="section-4101"></a>
-## § 4101. Statement of policy on international cooperation to combat marine debris
+## § 4101. Definitions
 
-It is the policy of the United States to partner, consult, and coordinate with foreign governments (at the national and subnational levels), civil society, international organizations, international financial institutions, subnational coastal communities, commercial and recreational fishing industry leaders, and the private sector, in a concerted effort—
+In this chapter:
 
-(1) to increase knowledge and raise awareness about—
+(1) **Administration** — The term “Administration” means the National Oceanic and Atmospheric Administration.
 
-  (A) the linkages between the sources of plastic waste, mismanaged waste and post-consumer materials, and marine debris; and
+(2) **Administrator** — The term “Administrator” means the Under Secretary of Commerce for Oceans and Atmosphere and Administrator of the National Oceanic and Atmospheric Administration.
 
-  (B) the upstream and downstream causes and effects of plastic waste, mismanaged waste and post-consumer materials, and marine debris on marine environments, marine wildlife, human health, and economic development;
+(3) **Cooperative activities of the Administration** — The terms 11 So in original. Probably should be “term”. “cooperative activities of the Administration” means cooperative activities between the Administration and an external entity, such as the Cooperative Institutes, Sea Grant Colleges, National Estuarine Research Reserves, the National Oceanographic Partnership Program established under chapter 665 of title 10, and regional associations of the Integrated Ocean Observing System.
 
-(2) to support—
+(4) **Data specifications** — The term “data specifications” shall refer to the type, resolution, periodicity, and quality of data required by an program of the Administration.
 
-  (A) strengthening systems for reducing the generation of plastic waste and recovering, managing, reusing, and recycling plastic waste, marine debris, and microfiber pollution in the world’s oceans, emphasizing upstream post-consumer materials management solutions—
+(5) **Test or training range**
 
-    (i) to decrease plastic waste at its source; and
+  (A) *In general* — The term “test or training range” means an area designated for operating unmanned maritime systems and other types of systems for the purpose of—
 
-    (ii) to prevent leakage of plastic waste into the environment;
+    (i) evaluating the performance of such systems; or
 
-  (B) advancing the utilization and availability of safe and affordable reusable alternatives to disposable plastic products in commerce, to the extent practicable, and with consideration for the potential impacts of such alternatives, and other efforts to prevent marine debris;
+    (ii) training personnel on operating procedures for such systems.
 
-  (C) deployment of and access to advanced technologies to capture value from post-consumer materials and municipal solid waste streams through mechanical and other recycling systems;
+  (B) *Inclusions* — The term “test or training range” may include specialized fixed or portable instrumentation for the operation of unmanned maritime systems and other types of systems.
 
-  (D) access to information on best practices in post-consumer materials management, options for post-consumer materials management systems financing, and options for participating in public-private partnerships; and
+(6) **Unmanned maritime systems**
 
-  (E) implementation of management measures to reduce derelict fishing gear, the loss of fishing gear, and other sources of pollution generated from marine activities and to increase proper disposal and recycling of fishing gear; and
+  (A) *In general* — The term “unmanned maritime systems” means remotely operated or autonomous vehicles produced by the commercial sector—
 
-(3) to work cooperatively with international partners—
+    (i) designed to function without an on-board human presence; and
 
-  (A) on establishing—
+    (ii) that may include associated components such as control and communications, instrumentation, data transmission, and processing systems.
 
-    (i) measurable targets for reducing marine debris, lost fishing gear, and plastic waste from all sources; and
+  (B) *Examples* — The term “unmanned maritime systems” includes the following:
 
-    (ii) action plans to achieve those targets with a mechanism to provide regular reporting;
+    (i) Unmanned undersea vehicles.
 
-  (B) to promote consumer education, awareness, and outreach to prevent marine debris;
+    (ii) Unmanned surface vehicles.
 
-  (C) to reduce marine debris by improving advance planning for marine debris events and responses to such events; and
+    (iii) Autonomous underwater vehicles.
 
-  (D) to share best practices in post-consumer materials management systems to prevent the entry of plastic waste into the environment.
+    (iv) Autonomous surface vehicles.
+
+  (C) *Treatment of aerial vehicles* — The term “unmanned maritime systems” includes unmanned aerial vehicles and autonomous aerial vehicles that are used to address maritime issues to the extent the Administrator determines it is necessary and appropriate to achieve the purposes of this chapter.
+
+### Statutory Notes
+
+#### Short Title
+Pub. L. 115–394, § 1(a), Dec. 21, 2018, 132 Stat. 5281, provided that: “This Act [enacting this chapter] may be cited as the ‘Commercial Engagement Through Ocean Technology Act of 2018’ or the ‘CENOTE Act of 2018’.”
 
 
 <a id="section-4102"></a>
-## § 4102. Prioritization of efforts and assistance to combat marine debris and improve plastic waste management
-**(a) In general** The Secretary of State shall, in coordination with the Administrator of the United States Agency for International Development, as appropriate, and the officials specified in subsection (b)—
+## § 4102. Coordination regarding assessment and acquisition by National Oceanic and Atmospheric Administration of unmanned maritime systems
+**(a) Establishment** The Administrator shall direct the Office of Oceanic and Atmospheric Research (in this chapter referred to as “OAR”) and the Office of Marine and Aviation Operations (in this chapter referred to as “OMAO”)—
 
-(1) lead and coordinate efforts to implement the policy described in [section 4261 of this title](./_uncategorized.md#section-4261); and
+(1) to coordinate the Administration’s research, assessment, and acquisition of unmanned maritime systems; and
 
-(2) develop strategies and implement programs that prioritize engagement and cooperation with foreign governments, subnational and local stakeholders, and the private sector to expedite efforts and assistance in foreign countries—
+(2) to consider the use of unmanned maritime systems in cooperative activities of the Administration.
 
-  (A) to partner with, encourage, advise and facilitate national and subnational governments on the development and execution, where practicable, of national projects, programs and initiatives to—
+**(b) Coordination within the Administration**
 
-    (i) improve the capacity, security, and standards of operations of post-consumer materials management systems;
+(1) **Unmanned Systems Executive Oversight Board** — In meeting the requirements described in subsection (a), the Administrator shall—
 
-    (ii) monitor and track how well post-consumer materials management systems are functioning nationwide, based on uniform and transparent standards developed in cooperation with municipal, industrial, and civil society stakeholders;
+  (A) utilize the Unmanned Systems Executive Oversight Board (in this chapter referred to as the “USEOB”) as the coordinating mechanism; and
 
-    (iii) identify the operational challenges of post-consumer materials management systems and develop policy and programmatic solutions;
+  (B) ensure that OAR and OMAO address requirements throughout the Administration.
 
-    (iv) end intentional or unintentional incentives for municipalities, industries, and individuals to improperly dispose of plastic waste; and
+(2) **Included** — In utilizing the USEOB under paragraph (1), the Administrator shall ensure that representation on the USEOB is included from the following:
 
-    (v) conduct outreach campaigns to raise public awareness of the importance of proper waste disposal and the reduction of plastic waste;
+  (A) The Office of Ocean Exploration (OER).
 
-  (B) to facilitate the involvement of municipalities and industries in improving solid waste reduction, collection, disposal, and reuse and recycling projects, programs, and initiatives;
+  (B) The program office of the Integrated Ocean Observing System.
 
-  (C) to partner with and provide technical assistance to investors, and national and local institutions, including private sector actors, to develop new business opportunities and solutions to specifically reduce plastic waste and expand solid waste and post-consumer materials management best practices in foreign countries by—
+  (C) Such other offices of the Administration as the Administrator determines are actively engaged with unmanned maritime systems.
 
-    (i) maximizing the number of people and businesses, in both rural and urban communities, receiving reliable solid waste and post-consumer materials management services;
+**(c) Coordination with the Navy**
 
-    (ii) improving and expanding the capacity of foreign industries to responsibly employ post-consumer materials management practices;
+(1) **In general** — In carrying out this chapter, the Administrator shall—
 
-    (iii) improving and expanding the capacity and transparency of tracking mechanisms for marine debris to reduce the impacts on the marine environment;
+  (A) make efforts to coordinate with the Secretary of the Navy to leverage expertise in the development and operational transition of unmanned maritime systems;
 
-    (iv) eliminating incentives that undermine responsible post-consumer materials management practices and lead to improper waste disposal practices and leakage;
+  (B) align with, utilize, and inform the Deputy Under Secretary of Commerce for Operations and the Oceanographer of the Navy’s strategic and operational priorities, particularly for missions and geography within the Administration’s purview;
 
-    (v) building the capacity of countries—
+  (C) seek to utilize Naval unmanned systems test or training ranges, such as the Gulf of Mexico Unmanned Systems Test and Training Range of the Naval Meteorology and Oceanography Command, and maximize interagency cooperation and sharing of best practices; and
 
-      (I) to reduce, monitor, regulate, and manage waste, post-consumer materials and plastic waste, and pollution appropriately and transparently, including imports of plastic waste from the United States and other countries;
+  (D) to formalize coordination, execute a memorandum of understanding with the Secretary of the Navy that includes—
 
-      (II) to encourage private investment in post-consumer materials management and reduction; and
+    (i) incorporating consideration of priorities and requirements of the Administration into research and development activities conducted by the Secretary of the Navy;
 
-      (III) to encourage private investment, grow opportunities, and develop markets for recyclable, reusable, and repurposed plastic waste and post-consumer materials, and products with high levels of recycled plastic content, at both national and local levels; and
+    (ii) consultation intended to encourage and facilitate efforts by the Administration to partner with the Navy to procure unmanned maritime systems and to establish, instrument, and operate test or training ranges and related facilities;
 
-    (vi) promoting safe and affordable reusable alternatives to disposable plastic products, to the extent practicable; and
+    (iii) adopting procedures defined by the Secretary of the Navy for the Administration to access and utilize test or training ranges or related Naval facilities for purposes identified in paragraph (2)(B); and
 
-  (D) to research, identify, and facilitate opportunities to promote collection and proper disposal of damaged or derelict fishing gear.
+    (iv) such other topics as the Administrator considers necessary or advisable, including mapping, bathymetry, observations, and ocean exploration.
 
-**(b) Officials specified** The officials specified in this subsection are the following:
+(2) **Location** — The Administrator shall, if practicable, carry out the activities authorized by this chapter at a facility where the Navy and the Administration are co-located, for the following purposes:
 
-(1) The United States Trade Representative.
+  (A) Gaining efficiencies through collaboration.
 
-(2) The Under Secretary.
+  (B) Advancing development of unmanned maritime systems, including—
 
-(3) The EPA Administrator.
+    (i) systems research and development;
 
-(4) The Director of the Trade and Development Agency.
+    (ii) systems testing;
 
-(5) The President and the Board of Directors of the Overseas Private Investment Corporation or the Chief Executive Officer and the Board of Directors of the United States International Development Finance Corporation, as appropriate.
+    (iii) systems modifications; and
 
-(6) The Chief Executive Officer and the Board of Directors of the Millennium Challenge Corporation.
+    (iv) systems integration.
 
-(7) The Commandant of the Coast Guard, with respect to pollution from ships.
+  (C) Accelerating transition from concept to manufacturing and acquisition.
 
-(8) The heads of such other agencies as the Secretary of State considers appropriate.
+**(d) Coordination with other Federal agencies** In carrying out this chapter, the Administrator and the Secretary of the Navy may utilize the National Oceanographic Partnership Program, established under chapter 665 of title 10, as a mechanism for providing interagency coordination for the advancement of unmanned maritime systems.
 
-**(c) Prioritization** In carrying out subsection (a), the officials specified in subsection (b) shall prioritize assistance to countries with, and regional organizations in regions with—
+**(e) Coordination with academic sector** In carrying out this chapter, the Administrator, in consultation with the Secretary of the Navy, may coordinate and co-locate with an academic research institution, or consortium of academic research institutions, for the following purposes:
 
-(1) rapidly developing economies; and
+(1) Maximizing opportunities for research and development of unmanned maritime systems.
 
-(2) rivers and coastal areas that are the most severe sources of marine debris, as identified by the best available science.
+(2) Providing training in unmanned maritime systems as part of an accredited certificate or degree program of education.
 
-**(d) Effectiveness measurement** In prioritizing and expediting efforts and assistance under this section, the officials specified in subsection (b) shall use clear, accountable, and metric-based targets to measure the effectiveness of guarantees and assistance in achieving the policy described in [section 4261 of this title](./_uncategorized.md#section-4261).
+(3) Facilitating the commercialization of unmanned maritime systems through public-private partnerships that includes academic research institutions, private industry, and public safety agencies.
 
-**(e) Rule of construction** Nothing in this section may be construed to authorize the modification of or the imposition of limits on the portfolios of any agency or institution led by an official specified in subsection (b).
+(4) Arranging access to and use of additional facilities that support testing and assessment of or training with respect to unmanned maritime systems under environmental conditions of interest, increasing operational tolerance under such conditions, certifying operational capacity under such conditions, whether real or simulated, and training operators of unmanned maritime systems in real or simulated environments.
+
+(5) Facilitating engagement with other academic institutions with interest or relevant expertise in unmanned maritime systems.
+
+(6) Promoting information sharing between the academic, environmental, and military institutions to lead to more robust, mission-oriented unmanned maritime systems.
+
+**(f) Engagement with the private sector** Other than as described in subsection (e), the Administrator, in consultation with the Secretary of the Navy, may, in carrying out this chapter, to the extent practicable, coordinate and consult with the private sector—
+
+(1) to support the commercialization of unmanned maritime systems; and
+
+(2) to assist with their assessment of commercially available unmanned maritime systems to support the missions and goals of the Navy, the Administration, and cooperative activities of the Administration.
 
 
 <a id="section-4103"></a>
-## § 4103. United States leadership in international FORA
+## § 4103. Regular assessment of unmanned maritime systems to support National Oceanic and Atmospheric Administration missions
+**(a) In general** The Administrator, acting through the Assistant Administrator for Oceanic and Atmospheric Research and the Director of the Office of Marine and Aviation Operations and the National Oceanic and Atmospheric Administration Commissioned Officer Corps, shall regularly assess publicly and commercially available unmanned maritime systems for potential use to support missions of the Administration.
 
-In implementing the policy described in [section 4261 of this title](./_uncategorized.md#section-4261), the President shall direct the United States representatives to appropriate international bodies and conferences (including the United Nations Environment Programme, the Association of Southeast Asian Nations, the Asia Pacific Economic Cooperation, the Group of 7, the Group of 20, the Organization for Economic Co-Operation and Development (OECD), and the Our Ocean Conference) to use the voice, vote, and influence of the United States, consistent with the broad foreign policy goals of the United States, to advocate that each such body—
+**(b) Science-based assessments** The Administrator shall carry out subsection (a) through the Assistant Administrator for all matters relating to assessment of the suitability, feasibility, and cost-effectiveness of unmanned maritime systems to meet data specifications required by programs of the Administration.
 
-(1) commit to significantly increasing efforts to promote investment in well-designed post-consumer materials management and plastic waste elimination and mitigation projects and services that increase access to safe post-consumer materials management and mitigation services, in partnership with the private sector and consistent with the constraints of other countries;
+**(c) Assessment of operational utility** The Administrator shall carry out subsection (a) through the Director for all matters relating to assessment of whether unmanned maritime systems are operationally reliable, feasible, and cost effective enough to make observations required by programs of the Administration.
 
-(2) address the post-consumer materials management needs of individuals and communities where access to municipal post-consumer materials management services is historically impractical or cost-prohibitive;
+**(d) Engagement** The Assistant Administrator and the Director shall jointly—
 
-(3) enhance coordination with the private sector—
+(1) convene and consult the Unmanned Maritime Systems Ocean Technology Coordinating Committee established under [section 4102(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section4102/b&num=0&edition=prelim); and
 
-  (A) to increase access to solid waste and post-consumer materials management services;
-
-  (B) to utilize safe and affordable alternatives to disposable plastic products, to the extent practicable;
-
-  (C) to encourage and incentivize the use of recycled content; and
-
-  (D) to grow economic opportunities and develop markets for recyclable, compostable, reusable, and repurposed plastic waste materials and post-consumer materials and other efforts that support the circular economy;
-
-(4) provide technical assistance to foreign regulatory authorities and governments to remove unnecessary barriers to investment in otherwise commercially-viable projects related to—
-
-  (A) post-consumer materials management;
-
-  (B) the use of safe and affordable alternatives to disposable plastic products; or
-
-  (C) beneficial reuse of solid waste, plastic waste, post-consumer materials, plastic products, and refuse;
-
-(5) use clear, accountable, and metric-based targets to measure the effectiveness of such projects; and
-
-(6) engage international partners in an existing multilateral forum (or, if necessary, establish through an international agreement a new multilateral forum) to improve global cooperation on—
-
-  (A) creating tangible metrics for evaluating efforts to reduce plastic waste and marine debris;
-
-  (B) developing and implementing best practices at the national and subnational levels of foreign countries, particularly countries with little to no solid waste or post-consumer materials management systems, facilities, or policies in place for—
-
-    (i) collecting, disposing, recycling, and reusing plastic waste and post-consumer materials, including building capacity for improving post-consumer materials management; and
-
-    (ii) integrating alternatives to disposable plastic products, to the extent practicable;
-
-  (C) encouraging the development of standards and practices, and increasing recycled content percentage requirements for disposable plastic products;
-
-  (D) integrating tracking and monitoring systems into post-consumer materials management systems;
-
-  (E) fostering research to improve scientific understanding of—
-
-    (i) how microfibers and microplastics may affect marine ecosystems, human health and safety, and maritime activities;
-
-    (ii) changes in the amount and regional concentrations of plastic waste in the ocean, based on scientific modeling and forecasting;
-
-    (iii) the role rivers, streams, and other inland waterways play in serving as conduits for mismanaged waste traveling from land to the ocean;
-
-    (iv) effective means to eliminate present and future leakages of plastic waste into the environment; and
-
-    (v) other related areas of research the United States representatives deem necessary;
-
-  (F) encouraging the World Bank and other international finance organizations to prioritize efforts to reduce plastic waste and combat marine debris;
-
-  (G) collaborating on technological advances in post-consumer materials management and recycled plastics;
-
-  (H) growing economic opportunities and developing markets for recyclable, compostable, reusable, and repurposed plastic waste and post-consumer materials and other efforts that support the circular economy; and
-
-  (I) advising foreign countries, at both the national and subnational levels, on the development and execution of regulatory policies, services, including recycling and reuse of plastic, and laws pertaining to reducing the creation and the collection and safe management of—
-
-    (i) solid waste;
-
-    (ii) post-consumer materials;
-
-    (iii) plastic waste; and
-
-    (iv) marine debris.
+(2) consult with the heads of other offices of the Administration, the academic sector, and developers and manufacturers of unmanned maritime systems to conduct the assessments under subsection (a).
 
 
 <a id="section-4104"></a>
-## § 4104. Enhancing international outreach and partnership of United States agencies involved in marine debris activities
-**(a) Findings** Congress recognizes the success of the marine debris program of the National Oceanic and Atmospheric Administration and the Trash-Free Waters program of the Environmental Protection Agency.
+## § 4104. Acquisition of unmanned maritime systems
+**(a) In general** The Administrator shall coordinate and centralize the acquisition by the Administration of unmanned maritime systems to meet the prioritized list of data requirements identified by OAR and OMAO in carrying out this chapter in their regular assessments and approved by the USEOB.
 
-**(b) Authorization of efforts to build foreign partnerships** The Under Secretary and the EPA Administrator shall work with the Secretary of State and the Administrator of the United States Agency for International Development to build partnerships, as appropriate, with the governments of foreign countries and to support international efforts to combat marine debris.
+**(b) Memoranda of understanding** In order to realize greater savings and efficiency, the Administrator may develop and execute a memorandum of agreement with the Secretary of the Navy to—
+
+(1) participate in procurements conducted by the signatories to the memorandum of understanding;
+
+(2) accept decommissioned unmanned maritime systems from the Navy;
+
+(3) develop policies and procedures to share unmanned maritime systems; or
+
+(4) provide for other means of creating efficiency and savings in Federal acquisition of unmanned maritime systems.
+
+**(c) Rule of construction** Nothing in this chapter shall be construed to modify Federal procurement law.
 
 
 <a id="section-4105"></a>
-## § 4105. Consideration of marine debris in negotiating international agreements
+## § 4105. Reports on unmanned maritime systems and usage for mission of the National Oceanic and Atmospheric Administration
+**(a) In general** In carrying out this chapter, the Administrator shall, not later than one year after December 21, 2018, and every 4 years thereafter, submit to the appropriate committees of Congress a report on the usage of unmanned maritime systems for the mission of the Administration.
 
-In negotiating any relevant international agreement with any country or countries after December 18, 2020, the President shall, as appropriate—
+**(b) Contents** Each report submitted under subsection (a) shall include, for the period covered by the report, the following:
 
-(1) consider the impact of land-based sources of plastic waste and other solid waste from that country on the marine and aquatic environment; and
+(1) An inventory of current unmanned maritime systems used by programs of the Administration, a summary of the data they have returned, and the benefits realized from having such data.
 
-(2) ensure that the agreement strengthens efforts to eliminate land-based sources of plastic waste and other solid waste from that country that impact the marine and aquatic environment.
+(2) A prioritized list of data requirements of the Administration that could be met with unmanned maritime systems, and the commercially available unmanned maritime systems with the operational capabilities to collect such data.
+
+**(c) Appropriate committees of Congress defined** In this section, the term “appropriate committees of Congress” means—
+
+(1) the Committee on Appropriations, the Committee on Armed Services, and the Committee on Commerce, Science, and Transportation of the Senate; and
+
+(2) the Committee on Appropriations, the Committee on Armed Services, the Committee on Natural Resources, and the Committee on Science, Space, and Technology of the House of Representatives.
 
 
 <a id="section-4106"></a>
-## § 4106. Strategy for improving post-consumer materials management and water management
-**(a) In general** Not later than 1 year after December 18, 2020, the EPA Administrator shall, in consultation with stakeholders, develop a strategy to improve post-consumer materials management and infrastructure for the purpose of reducing plastic waste and other post-consumer materials in waterways and oceans.
+## § 4106. Funding and additional authorities
+**(a) Funding** The Administrator shall carry out this chapter using existing amounts appropriated or otherwise made available to the Administration.
 
-**(b) Release** On development of the strategy under subsection (a), the EPA Administrator shall—
+**(b) Additional authorities** In carrying out this chapter, the Administrator may—
 
-(1) distribute the strategy to States; and
+(1) enter into contracts, cooperative agreements, and other transactions with any domestic or foreign government;
 
-(2) make the strategy publicly available, including for use by—
+(2) notwithstanding [section 1342 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1342&num=0&edition=prelim), accept donations and voluntary and uncompensated services;
 
-  (A) for-profit private entities involved in post-consumer materials management; and
+(3) accept funds from other Federal departments and agencies;
 
-  (B) other nongovernmental entities.
+(4) utilize the National Oceanographic Partnership Program established under chapter 665 of title 10 to accept funds from other Federal departments and agencies, to accept donations, and to enter into contracts and award grants;
+
+(5) under an agreement entered into under paragraph (1), transfer funds appropriated to carry our this chapter to any organization; and
+
+(6) use, with their consent, with or without reimbursement, and subject to the availability of appropriations, the land, services, equipment, personnel, and facilities of—
+
+  (A) any department, agency, or instrumentality of the United States;
+
+  (B) any State or local government or tribal government; or
+
+  (C) any foreign government or international organization.

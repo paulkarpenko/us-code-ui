@@ -171,7 +171,7 @@ shall be reinstated on motion by the plaintiff not later than 60 days after Dece
 ### Statutory Notes
 
 #### Constitutionality
-For information regarding constitutionality of certain provisions of section 27A of act June 6, 1934, as added by section 476 of Pub. L. 102–242, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For information regarding constitutionality of certain provisions of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
 
 
 <a id="section-78b"></a>
@@ -1601,9 +1601,6 @@ Pub. L. 109–351, title I, § 101(a)(2)–(c), Oct. 13, 2006, 120 Stat. 1968, p
 #### Construction of 1993 Amendment
 Amendment by Pub. L. 103–202 not to be construed to govern initial issuance of any public debt obligation or to grant any authority to (or extend any authority of) the Securities and Exchange Commission, any appropriate regulatory agency, or a self-regulatory organization to prescribe any procedure, term, or condition of such initial issuance, to promulgate any rule or regulation governing such initial issuance, or to otherwise regulate in any manner such initial issuance, see section 111 of Pub. L. 103–202, set out as a note under section 78o–5 of this title.
 
-#### Transfer of Functions
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under [section 78d of this title](./chapter-2b-securities-exchanges.md#section-78d).
-
 #### Rulemaking
 Pub. L. 112–106, title III, § 304(a)(2), Apr. 5, 2012, 126 Stat. 322, provided that: “The [Securities and Exchange] Commission shall issue a rule to carry out section 3(h) of the Securities Exchange Act of 1934 ([15 U.S.C. 78c](./chapter-2b-securities-exchanges.md#section-78c)[(h)]), as added by this subsection, not later than 270 days after the date of enactment of this Act [Apr. 5, 2012].”
 
@@ -1625,6 +1622,9 @@ Pub. L. 106–102, title II, §§ 206A—206C, as added by Pub. L. 106–554, §
 [SECS. 206B, 206C. Repealed. Pub. L. 111–203, title VII, § 762(a), July 21, 2010, 124 Stat. 1759.]
 
 [Amendment by section 762(a), (b) of Pub. L. 111–203 to sections 206A–206C of Pub. L. 106–102, set out above, effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§ 761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B.]
+
+#### Transfer of Functions
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under [section 78d of this title](./chapter-2b-securities-exchanges.md#section-78d).
 
 
 <a id="section-78cc"></a>
@@ -2521,14 +2521,14 @@ For effective date of amendment by Pub. L. 88–426, see section 501 of Pub. L. 
 #### Repeals
 Act Oct. 28, 1949, ch. 782, set out in the credit of this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
 
-#### Transfer of Functions
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out below.
-
 #### Outreach by the Commission
 Pub. L. 112–106, title VII, § 701, Apr. 5, 2012, 126 Stat. 327, provided that: “The Securities and Exchange Commission shall provide online information and conduct outreach to inform small and medium sized businesses, women owned businesses, veteran owned businesses, and minority owned businesses of the changes made by this Act [see Short Title of 2012 Amendment note set out under [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a)].”
 
 #### Pay Authority for Employment of Experts and Consultants
 Pub. L. 111–203, title IX, § 929G(c), July 21, 2010, 124 Stat. 1856, provided that: “The [Securities and Exchange] Commission may set the rate of pay for experts and consultants appointed under the authority of [section 3109 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109&num=0&edition=prelim), United States Code, in the same manner in which it sets the rate of pay for employees of the Commission.”
+
+#### Transfer of Functions
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out below.
 
 #### 1950 REORGANIZATION PLAN NO. 1015 F.R. 3175, 64 Stat. 1265
 Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, March 13, 1950, pursuant to the provisions of the Reorganization Act of 1949, approved June 20, 1949 [see [5 U.S.C. 901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section901&num=0&edition=prelim) et seq.].
@@ -3536,9 +3536,6 @@ Pub. L. 104–290, title IV, § 405(b), Oct. 11, 1996, 110 Stat. 3443, provided 
 #### Effective Date of 1975 Amendment
 Amendment by Pub. L. 94–29 effective Jan. 1, 1976, see section 31(a) of Pub. L. 94–29, set out as a note under [section 78b of this title](./chapter-2b-securities-exchanges.md#section-78b).
 
-#### Transfer of Functions
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under [section 78d of this title](./chapter-2b-securities-exchanges.md#section-78d).
-
 #### Securities and Exchange Commission Overpayment Credit
 Pub. L. 115–174, title V, § 505, May 24, 2018, 132 Stat. 1362, provided that: “(a) Definitions.—In this section—“(1) the term ‘Commission’ means the Securities and Exchange Commission; “(2) the term ‘national securities association’ means an association that is registered under section 15A of the Securities Exchange Act of 1934 ([15 U.S.C. 78](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78&num=0&edition=prelim)o–3); and “(3) the term ‘national securities exchange’ means an exchange that is registered as a national securities exchange under section 6 of the Securities Exchange Act of 1934 ([15 U.S.C. 78f](./chapter-2b-securities-exchanges.md#section-78f)). “(b) Credit for Overpayment of Fees.—Notwithstanding section 31(j) of the Securities Exchange Act of 1934 ([15 U.S.C. 78ee(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78ee/j&num=0&edition=prelim)), and subject to subsection (c) of this section, if a national securities exchange or a national securities association has paid fees and assessments to the Commission in an amount that is more than the amount that the exchange or association was required to pay under section 31 of the Securities Exchange Act of 1934 ([15 U.S.C. 78ee](./chapter-2b-securities-exchanges.md#section-78ee)) and, not later than 10 years after the date of such payment, the exchange or association informs the Commission about the payment of such excess amount, the Commission shall offset future fees and assessments due by that exchange or association in an amount that is equal to the difference between the amount that the exchange or association paid and the amount that the exchange or association was required to pay under such section 31. “(c) Applicability.—Subsection (b) shall apply only to fees and assessments that a national securities exchange or a national securities association was required to pay to the Commission before the date of enactment of this Act [May 24, 2018].”
 
@@ -3552,6 +3549,8 @@ Pub. L. 107–123, § 9, Jan. 16, 2002, 115 Stat. 2400, provided that: “(a) St
 Pub. L. 104–208, div. A, title I, § 101(a) [title V], Sept. 30, 1996, 110 Stat. 3009, 3009–61, provided in part: “That effective January 1, 1997, every national securities association shall pay to the Commission a fee at a rate of one-three-hundredth of one percentum of the aggregate dollar amount of sales transacted by or through any member of such association otherwise than on a national securities exchange (other than bonds, debentures, and other evidences of indebtedness) subject to prompt last sale reporting pursuant to the rules of the Commission or a registered national securities association, excluding any sales for which a fee is paid under section 31 of the Securities Exchange Act of 1934 ([15 U.S.C. 78ee](./chapter-2b-securities-exchanges.md#section-78ee)), and such increase shall be deposited as an offsetting collection to this appropriation, to remain available until expended, to recover the costs to the Government of the supervision and regulation of securities markets and securities professionals: Provided further, That the fee due from every national securities association shall be paid on or before September 30, 1997, with respect to transactions and sales occurring during the period beginning on January 1, 1997, and ending at the close of August 31, 1997”.
 
 #### Adjustment of Transaction Fee Rate
+By order dated Jan. 15, 2021, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $5.10 per $1,000,000, effective Feb. 25, 2021, see 86 F.R. 6694.
+
 By order dated Jan. 9, 2020, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $22.10 per $1,000,000, effective Feb. 18, 2020, see 85 F.R. 2218.
 
 By order dated Mar. 15, 2019, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $20.70 per $1,000,000, effective Apr. 16, 2019, see 84 F.R. 9576.
@@ -3571,6 +3570,9 @@ By order dated Apr. 25, 2013, the Securities and Exchange Commission adjusted th
 By order dated Mar. 1, 2012, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $22.40 per $1,000,000, effective Apr. 1, 2012, see 77 F.R. 13663.
 
 By order dated Jan. 20, 2012, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $18.00 per $1,000,000, effective Feb. 21, 2012, see 77 F.R. 3818.
+
+#### Transfer of Functions
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under [section 78d of this title](./chapter-2b-securities-exchanges.md#section-78d).
 
 
 <a id="section-78f"></a>
@@ -3897,11 +3899,11 @@ Pub. L. 103–202, title III, § 304, Dec. 17, 1993, 107 Stat. 2367, provided th
 #### Effective Date of 1975 Amendment
 Amendment by Pub. L. 94–29 effective June 4, 1975, except for amendment of subsecs. (a) through (d) by Pub. L. 94–29 to be effective 180 days after June 4, 1975, with provisions of subsecs. (b)(2) and (c)(6), as amended by Pub. L. 94–29, or rules or regulations thereunder, not to apply in a way so as to deprive any person of membership in any national securities exchange (or its successor) of which such person was, on June 4, 1975, a member or a member firm as defined in the constitution of such exchange, or so as to deny membership in any such exchange (or its successor) to a natural person who is or becomes associated with such member or member firm, see section 31(a) of Pub. L. 94–29, set out as a note under [section 78b of this title](./chapter-2b-securities-exchanges.md#section-78b).
 
-#### Transfer of Functions
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under [section 78d of this title](./chapter-2b-securities-exchanges.md#section-78d).
-
 #### Changes in Organization and Rules of National Securities Exchanges and Registered Securities Associations
 Pub. L. 94–29, § 31(b), June 4, 1975, 89 Stat. 170, provided that: “If it appears to the Commission at any time within one year of the effective date of any amendment made by this Act [see Short Title of 1975 Amendment note under [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a)] to the Securities Exchange Act of 1934 that the organization or rules of any national securities exchange or registered securities association registered with the Commission on the date of enactment of this Act [June 4, 1975] do not comply with such Act as amended, the Commission shall so notify such exchange or association in writing, specifying the respects in which the exchange or association is not in compliance with such Act. On and after the one hundred eightieth day following the date of receipt of such notice by a national securities exchange or registered securities association, the Commission, without regard to the provisions of section 19(h) of the Securities Exchange Act of 1934 [[section 78s(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78s/h&num=0&edition=prelim)], as amended by this Act, is authorized by order, to suspend the registration of any such exchange or association or impose limitations on the activities, functions, and operations of any such exchange or association, if the Commission finds, after notice and opportunity for hearing, that the organization or rules of such exchange or association do not comply with such Act. Any such suspension or limitation shall continue in effect until the Commission, by order, declares that such exchange or association is in compliance with such requirements.”
+
+#### Transfer of Functions
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under [section 78d of this title](./chapter-2b-securities-exchanges.md#section-78d).
 
 
 <a id="section-78ff"></a>
@@ -4391,14 +4393,14 @@ Pub. L. 111–203, title IX, § 984(b), July 21, 2010, 124 Stat. 1933, provided 
 
 [For definitions of terms used in section 984(b) of Pub. L. 111–203, set out above, see [section 5301 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5301&num=0&edition=prelim), Banks and Banking.]
 
-#### Transfer of Functions
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under [section 78d of this title](./chapter-2b-securities-exchanges.md#section-78d).
-
 #### Prohibition of Insider Trading
 Pub. L. 112–105, § 4(a), Apr. 4, 2012, 126 Stat. 292, provided that: “Members of Congress and employees of Congress are not exempt from the insider trading prohibitions arising under the securities laws, including section 10(b) of the Securities Exchange Act of 1934 [[15 U.S.C. 78j(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78j/b&num=0&edition=prelim)] and Rule 10b–5 thereunder.”
 
 #### Application of Insider Trading Laws
 Pub. L. 112–105, § 9(b)(1), Apr. 4, 2012, 126 Stat. 297, provided that: “Executive branch employees, judicial officers, and judicial employees are not exempt from the insider trading prohibitions arising under the securities laws, including section 10(b) of the Securities Exchange Act of 1934 [[15 U.S.C. 78j(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78j/b&num=0&edition=prelim)] and Rule 10b–5 thereunder.”
+
+#### Transfer of Functions
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under [section 78d of this title](./chapter-2b-securities-exchanges.md#section-78d).
 
 
 <a id="section-78jj"></a>
@@ -5409,9 +5411,6 @@ Amendment by section 3(a), (c) of Pub. L. 88–467 effective July 1, 1964, and a
 #### Effective Date of 1954 Amendment
 Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note under [section 77b of this title](./chapter-2a-securities-and-trust-indentures.md#section-77b).
 
-#### Transfer of Functions
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under [section 78d of this title](./chapter-2b-securities-exchanges.md#section-78d).
-
 #### Rulemaking
 Pub. L. 112–106, title III, § 303(b), Apr. 5, 2012, 126 Stat. 321, provided that: “The [Securities and Exchange] Commission shall issue a rule to carry out section 12(g)(6) of the Securities Exchange Act of 1934 ([15 U.S.C. 78c](./chapter-2b-securities-exchanges.md#section-78c)) [probably should be [15 U.S.C. 78](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78&num=0&edition=prelim)l(g)(6)], as added by this section, not later than 270 days after the date of enactment of this Act [Apr. 5, 2012].”
 
@@ -5423,6 +5422,9 @@ Pub. L. 112–106, title VI, § 602, Apr. 5, 2012, 126 Stat. 327, provided that:
 Pub. L. 111–203, title IX, § 953(b), July 21, 2010, 124 Stat. 1904, as amended by Pub. L. 112–106, title I, § 102(a)(3), Apr. 5, 2012, 126 Stat. 309, provided that: “(1) In general.—The Commission shall amend section 229.402 of title 17, Code of Federal Regulations, to require each issuer, other than an emerging growth company, as that term is defined in section 3(a) of the Securities Exchange Act of 1934 [[15 U.S.C. 78c(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c/a&num=0&edition=prelim)], to disclose in any filing of the issuer described in section 229.10(a) of title 17, Code of Federal Regulations (or any successor thereto)—“(A) the median of the annual total compensation of all employees of the issuer, except the chief executive officer (or any equivalent position) of the issuer; “(B) the annual total compensation of the chief executive officer (or any equivalent position) of the issuer; and “(C) the ratio of the amount described in subparagraph (A) to the amount described in subparagraph (B). “(2) Total compensation.—For purposes of this subsection, the total compensation of an employee of an issuer shall be determined in accordance with section 229.402(c)(2)(x) of title 17, Code of Federal Regulations, as in effect on the day before the date of enactment of this Act [July 21, 2010].”
 
 [For definitions of “Commission” and “issuer” as used in section 953(b) of Pub. L. 111–203, set out above, see [section 5301 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5301&num=0&edition=prelim), Banks and Banking.]
+
+#### Transfer of Functions
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under [section 78d of this title](./chapter-2b-securities-exchanges.md#section-78d).
 
 
 <a id="section-78ll"></a>
@@ -6172,9 +6174,6 @@ Amendment by Pub. L. 94–29 effective June 4, 1975, see section 31(a) of Pub. L
 #### Effective Date of 1964 Amendment
 Amendment by Pub. L. 88–467 effective Aug. 20, 1964, see section 13 of Pub. L. 88–467, set out as a note under [section 78c of this title](./chapter-2b-securities-exchanges.md#section-78c).
 
-#### Transfer of Functions
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under [section 78d of this title](./chapter-2b-securities-exchanges.md#section-78d).
-
 #### Improving Access to Capital
 Pub. L. 115–174, title V, § 508, May 24, 2018, 132 Stat. 1364, provided that: “The Securities and Exchange Commission shall amend— “(1) section 230.251 of title 17, Code of Federal Regulations, to remove the requirement that the issuer not be subject to section 13 or 15(d) of the Securities Exchange Act of 1934 ([15 U.S.C. 78a](./chapter-2b-securities-exchanges.md#section-78a) et seq.) [[15 U.S.C. 78m](./chapter-2b-securities-exchanges.md#section-78m), 78o(d)] immediately before the offering; and “(2) section 230.257 of title 17, Code of Federal Regulations, with respect to an offering described in section 230.251(a)(2) of title 17, Code of Federal Regulations, to deem any issuer that is subject to section 13 or 15(d) of the Securities Exchange Act of 1934 as having met the periodic and current reporting requirements of section 230.257 of title 17, Code of Federal Regulations, if such issuer meets the reporting requirements of section 13 of the Securities Exchange Act of 1934.”
 
@@ -6191,6 +6190,8 @@ Pub. L. 111–203, title XV, § 1502, July 21, 2010, 124 Stat. 2213, as amended 
 Pub. L. 106–102, title II, § 241, Nov. 12, 1999, 113 Stat. 1407, provided that: “(a) In General.—The Securities and Exchange Commission shall consult and coordinate comments with the appropriate Federal banking agency before taking any action or rendering any opinion with respect to the manner in which any insured depository institution or depository institution holding company reports loan loss reserves in its financial statement, including the amount of any such loan loss reserve. “(b) Definitions.—For purposes of subsection (a), the terms ‘insured depository institution’, ‘depository institution holding company’, and ‘appropriate Federal banking agency’ have the same meaning as given in section 3 of the Federal Deposit Insurance Act [[12 U.S.C. 1813](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813&num=0&edition=prelim)].”
 
 #### Adjustment of Registration Fee Rate
+By order dated Aug. 26, 2020, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (e) of this section to $109.10 per $1,000,000, effective Oct. 1, 2020, see 85 F.R. 53890.
+
 By order dated Aug. 23, 2019, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (e) of this section to $129.80 per $1,000,000, effective Oct. 1, 2019, see 84 F.R. 45601.
 
 By order dated Aug. 24, 2018, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (e) of this section to $121.20 per $1,000,000, effective Oct. 1, 2018, see 83 F.R. 44101.
@@ -6208,6 +6209,9 @@ By order dated Aug. 30, 2013, the Securities and Exchange Commission adjusted th
 By order dated Aug. 31, 2012, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (e) of this section to $136.40 per $1,000,000, effective Oct. 1, 2012, see 77 F.R. 55240.
 
 By order dated Aug. 31, 2011, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (e) of this section to $114.60 per $1,000,000, effective Oct. 1, 2011, see 76 F.R. 55139.
+
+#### Transfer of Functions
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under [section 78d of this title](./chapter-2b-securities-exchanges.md#section-78d).
 
 #### Assignment of Function Relating to Granting of Authority for Issuance of Certain Directives
 Memorandum of President of the United States, May 5, 2006, 71 F.R. 27943, provided:
@@ -6637,9 +6641,6 @@ Pub. L. 103–202, title III, § 302(b), Dec. 17, 1993, 107 Stat. 2363, provided
 #### Construction of 1993 Amendment
 Amendment by Pub. L. 103–202 not to limit authority of Securities and Exchange Commission, a registered securities association, or a national securities exchange under any provision of this chapter or preclude the Commission or such association or exchange from imposing a remedy or procedure required to be imposed under such amendment, see section 304(b) of Pub. L. 103–202, set out in an Effective Date of 1993 Amendment note under [section 78f of this title](./chapter-2b-securities-exchanges.md#section-78f).
 
-#### Transfer of Functions
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under [section 78d of this title](./chapter-2b-securities-exchanges.md#section-78d).
-
 #### Study and Report on Shareholder Access to Proxy Statements
 Pub. L. 104–290, title V, § 510(b), Oct. 11, 1996, 110 Stat. 3450, provided that the Securities and Exchange Commission should conduct a study to determine if shareholder access to proxy statements pursuant to this section had been impaired by recent statutory, judicial, or regulatory changes and the ability of shareholders to have proposals relating to corporate practices and social issues included as part of proxy statements, and provided that the Commission report the study and any recommendations to Congress by 1 year after Oct. 11, 1996.
 
@@ -6647,6 +6648,8 @@ Pub. L. 104–290, title V, § 510(b), Oct. 11, 1996, 110 Stat. 3450, provided t
 Pub. L. 103–202, title III, § 302(c), Dec. 17, 1993, 107 Stat. 2363, provided that the Comptroller General of the United States should, within 18 months after Dec. 17, 1993, conduct a study of the use of fairness opinions in limited partnership rollup transactions, the standards which preparers use in making determinations of fairness, the scope of review, quality of analysis, qualifications and methods of selection of preparers, costs of preparation, and any limitations imposed by issuers on such preparers, the nature and quality of disclosures provided with respect to such opinions, any conflicts of interest concerning such opinions, and the usefulness of the opinions to limited partners, with a report required to be sent to Congress by the end of the 18-month period.
 
 #### Adjustment of Registration Fee Rate
+By order dated Aug. 26, 2020, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (g) of this section to $109.10 per $1,000,000, effective Oct. 1, 2020, see 85 F.R. 53890.
+
 By order dated Aug. 23, 2019, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (g) of this section to $129.80 per $1,000,000, effective Oct. 1, 2019, see 84 F.R. 45601.
 
 By order dated Aug. 24, 2018, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (g) of this section to $121.20 per $1,000,000, effective Oct. 1, 2018, see 83 F.R. 44101.
@@ -6664,6 +6667,9 @@ By order dated Aug. 30, 2013, the Securities and Exchange Commission adjusted th
 By order dated Aug. 31, 2012, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (g) of this section to $136.40 per $1,000,000, effective Oct. 1, 2012, see 77 F.R. 55240.
 
 By order dated Aug. 31, 2011, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (g) of this section to $114.60 per $1,000,000, effective Oct. 1, 2011, see 76 F.R. 55139.
+
+#### Transfer of Functions
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under [section 78d of this title](./chapter-2b-securities-exchanges.md#section-78d).
 
 
 <a id="section-78nn"></a>
@@ -7413,9 +7419,6 @@ Nothing in amendment by Pub. L. 104–67 to be deemed to create or ratify any im
 #### Construction of 1993 Amendment
 Amendment by sections 105, 106(b)(2)(B), and 109(b)(2) of Pub. L. 103–202 not to be construed to govern initial issuance of any public debt obligation or to grant any authority to (or extend any authority of) the Securities and Exchange Commission, any appropriate regulatory agency, or a self-regulatory organization to prescribe any procedure, term, or condition of such initial issuance, to promulgate any rule or regulation governing such initial issuance, or to otherwise regulate in any manner such initial issuance, see section 111 of Pub. L. 103–202, set out as a note under section 78o–5 of this title.
 
-#### Transfer of Functions
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under [section 78d of this title](./chapter-2b-securities-exchanges.md#section-78d).
-
 #### Study and Rulemaking Regarding Obligations of Brokers, Dealers, and Investment Advisers
 Pub. L. 111–203, title IX, § 913(a)–(f), July 21, 2010, 124 Stat. 1824–1827, provided that: “(a) Definition.—For purposes of this section, the term ‘retail customer’ means a natural person, or the legal representative of such natural person, who—“(1) receives personalized investment advice about securities from a broker or dealer or investment adviser; and “(2) uses such advice primarily for personal, family, or household purposes. “(b) Study.—The Commission shall conduct a study to evaluate—“(1) the effectiveness of existing legal or regulatory standards of care for brokers, dealers, investment advisers, persons associated with brokers or dealers, and persons associated with investment advisers for providing personalized investment advice and recommendations about securities to retail customers imposed by the Commission and a national securities association, and other Federal and State legal or regulatory standards; and “(2) whether there are legal or regulatory gaps, shortcomings, or overlaps in legal or regulatory standards in the protection of retail customers relating to the standards of care for brokers, dealers, investment advisers, persons associated with brokers or dealers, and persons associated with investment advisers for providing personalized investment advice about securities to retail customers that should be addressed by rule or statute. “(c) Considerations.—In conducting the study required under subsection (b), the Commission shall consider—“(1) the effectiveness of existing legal or regulatory standards of care for brokers, dealers, investment advisers, persons associated with brokers or dealers, and persons associated with investment advisers for providing personalized investment advice and recommendations about securities to retail customers imposed by the Commission and a national securities association, and other Federal and State legal or regulatory standards; “(2) whether there are legal or regulatory gaps, shortcomings, or overlaps in legal or regulatory standards in the protection of retail customers relating to the standards of care for brokers, dealers, investment advisers, persons associated with brokers or dealers, and persons associated with investment advisers for providing personalized investment advice about securities to retail customers that should be addressed by rule or statute; “(3) whether retail customers understand that there are different standards of care applicable to brokers, dealers, investment advisers, persons associated with brokers or dealers, and persons associated with investment advisers in the provision of personalized investment advice about securities to retail customers; “(4) whether the existence of different standards of care applicable to brokers, dealers, investment advisers, persons associated with brokers or dealers, and persons associated with investment advisers is a source of confusion for retail customers regarding the quality of personalized investment advice that retail customers receive; “(5) the regulatory, examination, and enforcement resources devoted to, and activities of, the Commission, the States, and a national securities association to enforce the standards of care for brokers, dealers, investment advisers, persons associated with brokers or dealers, and persons associated with investment advisers when providing personalized investment advice and recommendations about securities to retail customers, including—“(A) the effectiveness of the examinations of brokers, dealers, and investment advisers in determining compliance with regulations; “(B) the frequency of the examinations; and “(C) the length of time of the examinations; “(6) the substantive differences in the regulation of brokers, dealers, and investment advisers, when providing personalized investment advice and recommendations about securities to retail customers; “(7) the specific instances related to the provision of personalized investment advice about securities in which—“(A) the regulation and oversight of investment advisers provide greater protection to retail customers than the regulation and oversight of brokers and dealers; and “(B) the regulation and oversight of brokers and dealers provide greater protection to retail customers than the regulation and oversight of investment advisers; “(8) the existing legal or regulatory standards of State securities regulators and other regulators intended to protect retail customers; “(9) the potential impact on retail customers, including the potential impact on access of retail customers to the range of products and services offered by brokers and dealers, of imposing upon brokers, dealers, and persons associated with brokers or dealers—“(A) the standard of care applied under the Investment Advisers Act of 1940 ([15 U.S.C. 80b–1](./chapter-2d-investment-companies-and-advisers.md#section-80b-1) et seq.) for providing personalized investment advice about securities to retail customers of investment advisers, as interpreted by the Commission and the courts; and “(B) other requirements of the Investment Advisers Act of 1940 ([15 U.S.C. 80b–1](./chapter-2d-investment-companies-and-advisers.md#section-80b-1) et seq.); “(10) the potential impact of eliminating the broker and dealer exclusion from the definition of ‘investment adviser’ under section 202(a)(11)(C) of the Investment Advisers Act of 1940 ([15 U.S.C. 80b–2(a)(11)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80b–2/a/11/C&num=0&edition=prelim)), in terms of—“(A) the impact and potential benefits and harm to retail customers that could result from such a change, including any potential impact on access to personalized investment advice and recommendations about securities to retail customers or the availability of such advice and recommendations; “(B) the number of additional entities and individuals that would be required to register under, or become subject to, the Investment Advisers Act of 1940 ([15 U.S.C. 80b–1](./chapter-2d-investment-companies-and-advisers.md#section-80b-1) et seq.), and the additional requirements to which brokers, dealers, and persons associated with brokers and dealers would become subject, including—“(i) any potential additional associated person licensing, registration, and examination requirements; and “(ii) the additional costs, if any, to the additional entities and individuals; and “(C) the impact on Commission and State resources to—“(i) conduct examinations of registered investment advisers and the representatives of registered investment advisers, including the impact on the examination cycle; and “(ii) enforce the standard of care and other applicable requirements imposed under the Investment Advisers Act of 1940 ([15 U.S.C. 80b–1](./chapter-2d-investment-companies-and-advisers.md#section-80b-1) et seq.); “(11) the varying level of services provided by brokers, dealers, investment advisers, persons associated with brokers or dealers, and persons associated with investment advisers to retail customers and the varying scope and terms of retail customer relationships of brokers, dealers, investment advisers, persons associated with brokers or dealers, and persons associated with investment advisers with such retail customers; “(12) the potential impact upon retail customers that could result from potential changes in the regulatory requirements or legal standards of care affecting brokers, dealers, investment advisers, persons associated with brokers or dealers, and persons associated with investment advisers relating to their obligations to retail customers regarding the provision of investment advice, including any potential impact on—“(A) protection from fraud; “(B) access to personalized investment advice, and recommendations about securities to retail customers; or “(C) the availability of such advice and recommendations; “(13) the potential additional costs and expenses to—“(A) retail customers regarding and the potential impact on the profitability of their investment decisions; and “(B) brokers, dealers, and investment advisers resulting from potential changes in the regulatory requirements or legal standards affecting brokers, dealers, investment advisers, persons associated with brokers or dealers, and persons associated with investment advisers relating to their obligations, including duty of care, to retail customers; and “(14) any other consideration that the Commission considers necessary and appropriate in determining whether to conduct a rulemaking under subsection (f). “(d) Report.—“(1) In general.—Not later than 6 months after the date of enactment of this Act [July 21, 2010], the Commission shall submit a report on the study required under subsection (b) to—“(A) the Committee on Banking, Housing, and Urban Affairs of the Senate; and “(B) the Committee on Financial Services of the House of Representatives. “(2) Content requirements.—The report required under paragraph (1) shall describe the findings, conclusions, and recommendations of the Commission from the study required under subsection (b), including—“(A) a description of the considerations, analysis, and public and industry input that the Commission considered, as required under subsection (b), to make such findings, conclusions, and policy recommendations; and “(B) an analysis of whether [sic] any identified legal or regulatory gaps, shortcomings, or overlap in legal or regulatory standards in the protection of retail customers relating to the standards of care for brokers, dealers, investment advisers, persons associated with brokers or dealers, and persons associated with investment advisers for providing personalized investment advice about securities to retail customers. “(e) Public Comment.—The Commission shall seek and consider public input, comments, and data in order to prepare the report required under subsection (d). “(f) Rulemaking.—The Commission may commence a rulemaking, as necessary or appropriate in the public interest and for the protection of retail customers (and such other customers as the Commission may by rule provide), to address the legal or regulatory standards of care for brokers, dealers, investment advisers, persons associated with brokers or dealers, and persons associated with investment advisers for providing personalized investment advice about securities to such retail customers. The Commission shall consider the findings[,] conclusions, and recommendations of the study required under subsection (b).”
 
@@ -7429,6 +7432,9 @@ Pub. L. 101–429, title V, § 502, Oct. 15, 1990, 104 Stat. 951, provided that:
 
 #### Revision of Sanction Authority With Respect to Penny Stocks; Recommendations to Congress
 Pub. L. 101–429, title V, § 504(b), Oct. 15, 1990, 104 Stat. 953, provided that within 6 months after Oct. 15, 1990, the Securities and Exchange Commission was to submit to each House of Congress any recommendations the Commission considered appropriate with respect to further revision of subsection (b)(6) of this section.
+
+#### Transfer of Functions
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under [section 78d of this title](./chapter-2b-securities-exchanges.md#section-78d).
 
 
 <a id="section-78oo"></a>
@@ -10915,11 +10921,11 @@ Amendment by Pub. L. 94–29 effective June 4, 1975, except for amendment of sub
 #### Construction of 1993 Amendment
 Amendment by Pub. L. 103–202 not to be construed to govern initial issuance of any public debt obligation or to grant any authority to (or extend any authority of) the Securities and Exchange Commission, any appropriate regulatory agency, or a self-regulatory organization to prescribe any procedure, term, or condition of such initial issuance, to promulgate any rule or regulation governing such initial issuance, or to otherwise regulate in any manner such initial issuance, see section 111 of Pub. L. 103–202, set out as a note under section 78o–5 of this title.
 
-#### Transfer of Functions
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under [section 78d of this title](./chapter-2b-securities-exchanges.md#section-78d).
-
 #### Review of Regulatory Structures and Procedures With Respect to Penny Stocks; Report
 Pub. L. 101–429, title V, § 510, Oct. 15, 1990, 104 Stat. 957, directed Comptroller General, in consultation with Securities and Exchange Commission, to conduct a review of rules, procedures, facilities, and oversight and enforcement activities of self-regulatory organizations under Securities Exchange Act of 1934, with respect to penny stocks (within the meaning of [15 U.S.C. 78c(a)(51)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c/a/51&num=0&edition=prelim)), and, within one year after Oct. 15, 1990, to submit a report on the review including a statement of findings and such recommendations as the Comptroller General considered appropriate with respect to legislative or administrative changes.
+
+#### Transfer of Functions
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under [section 78d of this title](./chapter-2b-securities-exchanges.md#section-78d).
 
 
 <a id="section-78t"></a>
@@ -11033,7 +11039,7 @@ Section not applicable to actions occurring before Nov. 19, 1988, see section 9 
 
 (2) **Authority of Court To Prohibit Persons From Serving as Officers and Directors.—** — In any proceeding under paragraph (1) of this subsection, the court may prohibit, conditionally or unconditionally, and permanently or for such period of time as it shall determine, any person who violated [section 78j(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78j/b&num=0&edition=prelim) or the rules or regulations thereunder from acting as an officer or director of any issuer that has a class of securities registered pursuant to section 78l of this title or that is required to file reports pursuant to section 78o(d) of this title if the person’s conduct demonstrates unfitness to serve as an officer or director of any such issuer.
 
-(3) **Civil Money Penalties and Authority to Seek Disgorgement.—**
+(3) **Civil money penalties and authority to seek disgorgement.—**
 
   (A) *Authority of commission.—* — Whenever it shall appear to the Commission that any person has violated any provision of this chapter, the rules or regulations thereunder, or a cease-and-desist order entered by the Commission pursuant to [section 78u–3 of this title](./chapter-2b-securities-exchanges.md#section-78u-3), other than by committing a violation subject to a penalty pursuant to [section 78u–1 of this title](./chapter-2b-securities-exchanges.md#section-78u-1), the Commission may bring an action in a United States district court to seek, and the court shall have jurisdiction to—
 
@@ -11197,7 +11203,7 @@ Section 19(b) of the Securities Act of 1933, referred to in subsec. (h)(2), was 
 Section 21(h) of the Securities Exchange Act of 1934, referred to in the paragraph within quotation marks following subsec. (h)(4)(C), is classified to subsection (h) of this section.
 
 #### Amendments
-2021—Subsec. (d)(3). Pub. L. 116–283, § 6501(a)(1)(A), substituted Civil Money Penalties and Authority to Seek Disgorgement” for “Money Penalties in Civil Actions” in heading.
+2021—Subsec. (d)(3). Pub. L. 116–283, § 6501(a)(1)(A), substituted “Civil money penalties and authority to seek disgorgement” for “Money Penalties in Civil Actions” in heading. Amendment was executed to reflect the probable intent of Congress due to minor errors in formatting of quoted text.
 
 Subsec. (d)(3)(A). Pub. L. 116–283, § 6501(a)(1)(B), substituted “jurisdiction to—” and cls. (i) and (ii) for “jurisdiction to impose, upon a proper showing, a civil penalty to be paid by the person who committed such violation.”
 
@@ -11307,11 +11313,11 @@ Amendment by Pub. L. 91–452 not to affect any immunity to which any individual
 #### Construction of 1995 Amendment
 Nothing in amendment by Pub. L. 104–67 to be deemed to create or ratify any implied right of action, or to prevent Commission, by rule or regulation, from restricting or otherwise regulating private actions under this chapter, see section 203 of Pub. L. 104–67, set out as a Construction note under [section 78j–1 of this title](./chapter-2b-securities-exchanges.md#section-78j-1).
 
-#### Transfer of Functions
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under [section 78d of this title](./chapter-2b-securities-exchanges.md#section-78d).
-
 #### Promotion of Reciprocal Subpoena Enforcement
 Pub. L. 105–353, title I, § 102, Nov. 3, 1998, 112 Stat. 3233, provided that: “(a) Commission Action.—The Securities and Exchange Commission, in consultation with State securities commissions (or any agencies or offices performing like functions), shall seek to encourage the adoption of State laws providing for reciprocal enforcement by State securities commissions of subpoenas issued by another State securities commission seeking to compel persons to attend, testify in, or produce documents or records in connection with an action or investigation by a State securities commission of an alleged violation of State securities laws. “(b) Report.—Not later than 24 months after the date of enactment of this Act [Nov. 3, 1998], the Securities and Exchange Commission (hereafter in this section referred to as the ‘Commission’) shall submit a report to the Congress—“(1) identifying the States that have adopted laws described in subsection (a); “(2) describing the actions undertaken by the Commission and State securities commissions to promote the adoption of such laws; and “(3) identifying any further actions that the Commission recommends for such purposes.”
+
+#### Transfer of Functions
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under [section 78d of this title](./chapter-2b-securities-exchanges.md#section-78d).
 
 
 <a id="section-78u-1"></a>

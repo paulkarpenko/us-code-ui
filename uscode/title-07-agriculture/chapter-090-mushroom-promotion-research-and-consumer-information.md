@@ -37,7 +37,7 @@ source: >-
 ### Statutory Notes
 
 #### Constitutionality
-For information regarding constitutionality of subtitle B of title XIX of Pub. L. 101–624, which enacted this chapter, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For information regarding constitutionality of subtitle B of title XIX of Pub. L. 101–624, which enacted this chapter (sections 6101 et seq.), see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
 
 #### Short Title
 Pub. L. 101–624, title XIX, § 1921, Nov. 28, 1990, 104 Stat. 3854, provided that: “This subtitle [subtitle B (§§ 1921–1933) of title XIX of Pub. L. 101–624, enacting this chapter] may be cited as the ‘Mushroom Promotion, Research, and Consumer Information Act of 1990’.”

@@ -22,7 +22,7 @@ source: >-
 
 (2) contribution by the Government for its proportionate share if the agreement provides for another country to maintain the services.
 
-**(c) Payments.—** Payments received pursuant to subsection (b)(1) shall be credited to the appropriation for operating expenses of the Coast Guard.
+**(c) Payments.—** Payments received pursuant to subsection (b)(1) shall be credited to the appropriation for operations and support of the Coast Guard.
 
 ### Statutory Notes
 
@@ -32,6 +32,8 @@ source: >-
 | 80301 | 46 App.:738. | June 25, 1936, ch. 807, § 1, 49 Stat. 1922. |
 
 #### Amendments
+2021—Subsec. (c). Pub. L. 116–283 substituted “operations and support” for “operating expenses”.
+
 2014—Subsec. (c). Pub. L. 113–281 added subsec. (c).
 
 #### Effective Date of 2014 Amendment

@@ -7,73 +7,136 @@ source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33&num=0&edition=prelim
 ---
 <a id="section-3101"></a>
-## § 3101. Ocean exploration and undersea research technology and infrastructure task force
-**(a) In general** The Administrator of the National Oceanic and Atmospheric Administration, in coordination with the National Science Foundation, the National Aeronautics and Space Administration, the United States Geological Survey, the Department of the Navy, the Mineral Management Service, and relevant governmental, non-governmental, academic, industry, and other experts, shall convene an ocean exploration and undersea research technology and infrastructure task force to develop and implement a strategy—
+## § 3101. Interagency oceans and human health research program
+**(a) Coordination** The President, through the National Science and Technology Council, shall coordinate and support a national research program to improve understanding of the role of the oceans in human health.
 
-(1) to facilitate transfer of new exploration and undersea research technology to the programs authorized under this subchapter and subchapter II of this chapter;
+**(b) Implementation plan** Within 1 year after December 8, 2004, the National Science and Technology Council, through the Director of the Office of Science and Technology Policy shall develop and submit to the Congress a plan for coordinated Federal activities under the program. Nothing in this subsection is intended to duplicate or supersede the activities of the Inter-Agency Task Force on Harmful Algal Blooms and Hypoxia established under section 4001 11 See References in Text note below. of this title. In developing the plan, the Committee will consult with the Inter-Agency Task Force on Harmful Algal Blooms and Hypoxia. Such plan will build on and complement the ongoing activities of the National Oceanic and Atmospheric Administration, the National Science Foundation, and other departments and agencies and shall—
 
-(2) to improve availability of communications infrastructure, including satellite capabilities, to such programs;
+(1) establish, for the 10-year period beginning in the year it is submitted, the goals and priorities for Federal research which most effectively advance scientific understanding of the connections between the oceans and human health, provide usable information for the prediction of marine-related public health problems and use the biological potential of the oceans for development of new treatments of human diseases and a greater understanding of human biology;
 
-(3) to develop an integrated, workable, and comprehensive data management information processing system that will make information on unique and significant features obtained by such programs available for research and management purposes;
+(2) describe specific activities required to achieve such goals and priorities, including the funding of competitive research grants, ocean and coastal observations, training and support for scientists, and participation in international research efforts;
 
-(4) to conduct public outreach activities that improve the public understanding of ocean science, resources, and processes, in conjunction with relevant programs of the National Oceanic and Atmospheric Administration, the National Science Foundation, and other agencies; and
+(3) identify and address, as appropriate, relevant programs and activities of the Federal agencies and departments that would contribute to the program;
 
-(5) to encourage cost-sharing partnerships with governmental and nongovernmental entities that will assist in transferring exploration and undersea research technology and technical expertise to the programs.
+(4) identify alternatives for preventive unnecessary duplication of effort among Federal agencies and departments with respect to the program;
 
-**(b) Budget coordination** The task force shall coordinate the development of agency budgets and identify the items in their annual budget that support the activities identified in the strategy developed under subsection (a).
+(5) consider and use, as appropriate, reports and studies conducted by Federal agencies and departments, the National Research Council, the Ocean Research Advisory Panel, the Commission on Ocean Policy and other expert scientific bodies;
 
+(6) make recommendations for the coordination of program activities with ocean and human health-related activities of other national and international organizations; and
 
-<a id="section-3102"></a>
-## § 3102. Ocean Exploration Advisory Board
-**(a) Establishment** The Administrator of the National Oceanic and Atmospheric Administration shall appoint an Ocean Exploration Advisory Board composed of experts in relevant fields—
+(7) estimate Federal funding for research activities to be conducted under the program.
 
-(1) to advise the Administrator on priority areas for survey and discovery;
+**(c) Program scope** The program may include the following activities related to the role of oceans in human health:
 
-(2) to assist the program in the development of a 5-year strategic plan for the fields of ocean, marine, and Great Lakes science, exploration, and discovery;
+(1) Interdisciplinary research among the ocean and medical sciences, and coordinated research and activities to improve understanding of processes within the ocean that may affect human health and to explore the potential contribution of marine organisms to medicine and research, including—
 
-(3) to annually review the quality and effectiveness of the proposal review process established under [section 3403(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3403/a/4&num=0&edition=prelim); and
+  (A) vector- and water-borne diseases of humans and marine organisms, including marine mammals and fish;
 
-(4) to provide other assistance and advice as requested by the Administrator.
+  (B) harmful algal blooms and hypoxia (through the Inter-Agency Task Force on Harmful Algal Blooms and Hypoxia);
 
-**(b) Federal Advisory Committee Act** Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Board appointed under subsection (a).
+  (C) marine-derived pharmaceuticals;
 
-**(c) Application with Outer Continental Shelf Lands Act** Nothing in subchapter 11 So in original. Probably should be preceded by “this”. supersedes, or limits the authority of the Secretary of the Interior under the Outer Continental Shelf Lands Act ([43 U.S.C. 1331](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim) et seq.).
+  (D) marine organisms as models for biomedical research and as indicators of marine environmental health;
+
+  (E) marine environmental microbiology;
+
+  (F) bioaccumulative and endocrine-disrupting chemical contaminants; and
+
+  (G) predictive models based on indicators of marine environmental health or public health threats.
+
+(2) Coordination with the National Ocean Research Leadership Council ([10 U.S.C. 8932(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8932/a&num=0&edition=prelim)) to ensure that any integrated ocean and coastal observing system provides information necessary to monitor and reduce marine public health problems including health-related data on biological populations and detection of contaminants in marine waters and seafood.
+
+(3) Development through partnerships among Federal agencies, States, academic institutions, or non-profit research organizations of new technologies and approaches for detecting and reducing hazards to human health from ocean sources and to strengthen understanding of the value of marine biodiversity to biomedicine, including—
+
+  (A) genomics and proteomics to develop genetic and immunological detection approaches and predictive tools and to discover new biomedical resources;
+
+  (B) biomaterials and bioengineering;
+
+  (C) in situ and remote sensors used to detect, quantify, and predict the presence and spread of contaminants in marine waters and organisms and to identify new genetic resources for biomedical purposes;
+
+  (D) techniques for supplying marine resources, including chemical synthesis, culturing and aquaculturing marine organisms, new fermentation methods and recombinant techniques; and
+
+  (E) adaptation of equipment and technologies from human health fields.
+
+(4) Support for scholars, trainees and education opportunities that encourage an interdisciplinary and international approach to exploring the diversity of life in the oceans.
+
+**(d) Annual report** Beginning with the first year occurring more than 24 months after December 8, 2004, the National Science and Technology Council, through the Director of the Office of Science and Technology Policy shall prepare and submit to the President and the Congress not later than January 31st of each year an annual report on the activities conducted pursuant to this title during the preceding fiscal year, including—
+
+(1) a summary of the achievements of Federal oceans and human health research, including Federally supported external research, during the preceding fiscal year;
+
+(2) an analysis of the progress made toward achieving the goals and objectives of the plan developed under subsection (b), including identification of trends and emerging trends;
+
+(3) a copy or summary of the plan and any changes made in the plan;
+
+(4) a summary of agency budgets for oceans and human health activities for that preceding fiscal year; and
+
+(5) any recommendations regarding additional action or legislation that may be required to assist in achieving the purposes of this chapter.
 
 ### Statutory Notes
 
 #### References in Text
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (b), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+[Section 4001 of this title](./chapter-053-harmful-algal-bloom-and-hypoxia-research-and-control.md#section-4001), referred to in subsec. (b), was in the original “section 603 of the Harmful Algal Bloom and Hypoxia Research and Control Act of 1998 ([16 U.S.C. 1451](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1451&num=0&edition=prelim) note)”, meaning section 603 of Pub. L. 105–383, which was set out in a note under [section 1451 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1451&num=0&edition=prelim), Conservation, prior to transfer to [section 4001 of this title](./chapter-053-harmful-algal-bloom-and-hypoxia-research-and-control.md#section-4001).
 
-The Outer Continental Shelf Lands Act, referred to in subsec. (c), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim) and Tables.
+#### Amendments
+2018—Subsec. (c)(2). Pub. L. 115–232 substituted “([10 U.S.C. 8932(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8932/a&num=0&edition=prelim))” for “([10 U.S.C. 7902(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7902/a&num=0&edition=prelim))”.
 
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3001&num=0&edition=prelim), Armed Forces.
 
-<a id="section-3103"></a>
-## § 3103. Authorization of appropriations
-
-There are authorized to be appropriated to the National Oceanic and Atmospheric Administration to carry out this subchapter—
-
-(1) $33,550,000 for fiscal year 2009;
-
-(2) $36,905,000 for fiscal year 2010;
-
-(3) $40,596,000 for fiscal year 2011;
-
-(4) $44,655,000 for fiscal year 2012;
-
-(5) $49,121,000 for fiscal year 2013;
-
-(6) $54,033,000 for fiscal year 2014; and
-
-(7) $59,436,000 for fiscal year 2015.
+#### Short Title
+Pub. L. 108–447, div. B, title IX, § 901, Dec. 8, 2004, 118 Stat. 2930, provided that: “This title [enacting this chapter] may be cited as the ‘Oceans and Human Health Act’.”
 
 
-<a id="section-3104"></a>
-## § 3104. Program established
-**(a) In general** The Administrator of the National Oceanic and Atmospheric Administration shall establish and maintain an undersea research program and shall designate a Director of that program.
+<a id="section-3102"></a>
+## § 3102. National Oceanic and Atmospheric Administration Oceans and Human Health Initiative
+**(a) Establishment** As part of the interagency oceans and human health research program, the Secretary of Commerce is authorized to establish an Oceans and Human Health Initiative to coordinate and implement research and activities of the National Oceanic and Atmospheric Administration related to the role of the oceans, the coasts, and the Great Lakes in human health. In carrying out this section, the Secretary shall consult with other Federal agencies conducting integrated oceans and human health research and research in related areas, including the National Science Foundation. The Oceans and Human Health Initiative is authorized to provide support for—
 
-**(b) Purpose** The purpose of the program is to increase scientific knowledge essential for the informed management, use, and preservation of oceanic, marine, and coastal areas and the Great Lakes.
+(1) centralized program and research coordination;
+
+(2) an advisory panel;
+
+(3) one or more National Oceanic and Atmospheric Administration national centers of excellence;
+
+(4) research grants; and
+
+(5) distinguished scholars and traineeships.
+
+**(b) Advisory panel** The Secretary is authorized to establish an oceans and human health advisory panel to assist in the development and implementation of the Oceans and Human Health Initiative. Membership of the advisory group shall provide for balanced representation of individuals with multi-disciplinary expertise in the marine and biomedical sciences. The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the oceans and human health advisory panel.
+
+**(c) National centers**
+
+(1) The Secretary is authorized to identify and provide financial support through a competitive process to develop, within the National Oceanic and Atmospheric Administration, for one or more centers of excellence that strengthen the capabilities of the National Oceanic and Atmospheric Administration to carry out its programs and activities related to the oceans’ role in human health.
+
+(2) The centers shall focus on areas related to agency missions, including use of marine organisms as indicators for marine environmental health, ocean pollutants, marine toxins and pathogens, harmful algal blooms, hypoxia, seafood testing, identification of potential marine products, and biology and pathobiology of marine mammals, and on disciplines including marine genomics, marine environmental microbiology, ecological chemistry and conservation medicine.
+
+(3) In selecting centers for funding, the Secretary will give priority to proposals with strong interdisciplinary scientific merit that encourage educational opportunities and provide for effective partnerships among the Administration, other Federal entities, State, academic, non-profit research organizations, medical, and industry participants.
+
+**(d) Extramural research grants**
+
+(1) The Secretary is authorized to provide grants of financial assistance to the scientific community for critical research and projects that explore the relationship between the oceans and human health and that complement or strengthen programs and activities of the National Oceanic and Atmospheric Administration related to the ocean’s 11 So in original. Probably should be “oceans’ ”. role in human health. Officers and employees of Federal agencies may collaborate with, and participate in, such research and projects to the extent requested by the grant recipient. The Secretary shall consult with the oceans and human health advisory panel established under subsection (b) and may work cooperatively with other agencies participating in the interagency program to establish joint criteria for such research and projects.
+
+(2) Grants under this subsection shall be awarded through a competitive peer-reviewed, merit-based process that may be conducted jointly with other agencies participating in the interagency program.
+
+**(e) Traineeships** The Secretary of Commerce is authorized to establish a program to provide traineeships, training, and experience to pre-doctoral and post-doctoral students and to scientists at the beginning of their careers who are interested in the oceans in human health research conducted under the NOAA initiative.
 
 ### Statutory Notes
 
-#### Short Title
-This subchapter known as the “NOAA Undersea Research Program Act of 2009”, see Short Title note set out under [section 3401 of this title](./chapter-047-ocean-exploration.md#section-3401).
+#### References in Text
+The Federal Advisory Committee Act, referred to in subsec. (b), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+
+<a id="section-3103"></a>
+## § 3103. Public information and outreach
+
+The Secretary of Commerce, in consultation with other Federal agencies, and in cooperation with the National Sea Grant program, shall design and implement a program to disseminate information developed under the NOAA Oceans and Human Health Initiative, including research, assessments, and findings regarding the relationship between oceans and human health, on both a regional and national scale. The information, particularly with respect to potential health risks, shall be made available in a timely manner to appropriate Federal or State agencies, involved industries, and other interested persons through a variety of means, including through the Internet.
+
+### Statutory Notes
+
+#### Amendments
+2016—Pub. L. 114–327 struck out subsec. (a) designation and heading, realigned margins, and struck out subsec. (b) which related to NOAA Oceans and Human Health Initiative annual report.
+
+
+<a id="section-3104"></a>
+## § 3104. Authorization of appropriations
+
+There are authorized to be appropriated to the Secretary of Commerce to carry out the National Oceanic and Atmospheric Administration Oceans and Human Health Initiative, $60,000,000 for fiscal years 2005 through 2008. Not less than 50 percent of the amounts appropriated to carry out the initiative shall be utilized in each fiscal year to support the extramural grant and traineeship programs of the Initiative.

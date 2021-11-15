@@ -1475,7 +1475,7 @@ Amendment by Pub. L. 108–375 not to be construed to authorize the use of a pro
 
     (ii) the date that is 5 days after the debriefing date offered to an unsuccessful offeror for any debriefing that is requested and, when requested, is required.
 
-  (B) For procurements conducted by any component of the Department of Defense, the 5-day period described in subparagraph (A)(ii) does not commence until the day the Government delivers to a disappointed offeror the written responses to any questions submitted pursuant to [section 2305(b)(5)(B)(vii) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2305/b/5/B/vii&num=0&edition=prelim).
+  (B) For procurements conducted by any component of the Department of Defense, the 5-day period described in subparagraph (A)(ii) does not commence until the day the Government delivers to a disappointed offeror the written responses to any questions submitted pursuant to [section 3304(c)(1)(G) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3304/c/1/G&num=0&edition=prelim).
 
 **(e)** The authority of the head of the procuring activity to make findings and to authorize the award and performance of contracts under subsections (c) and (d) of this section may not be delegated.
 
@@ -1496,6 +1496,8 @@ Amendment by Pub. L. 108–375 not to be construed to authorize the use of a pro
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (d)(4)(B). Pub. L. 117–81 substituted “section 3304(c)(1)(G)” for “section 2305(b)(5)(B)(vii)”.
+
 2017—Subsec. (d)(4). Pub. L. 115–91 redesignated existing provisions as subpar. (A) and former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A) and added subpar. (B).
 
 2004—Subsec. (g). Pub. L. 108–375 added subsec. (g).

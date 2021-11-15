@@ -2,7 +2,7 @@
 title: 15
 chapter: '116'
 heading: CORONAVIRUS ECONOMIC STABILIZATION (CARES ACT)
-section_count: 73
+section_count: 83
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15&num=0&edition=prelim
 ---
@@ -19,6 +19,9 @@ In this title— 11 See References in Text note below.
 
 #### References in Text
 This title, referred to in text, is title I of div. A of Pub. L. 116–136, Mar. 27, 2020, 134 Stat. 286, which enacted this subchapter and amended, and enacted provisions set out as notes under, [section 636 of this title](./chapter-14a-aid-to-small-business.md#section-636) and several sections in Title 11, Bankruptcy. For complete classification of title I to the Code, see Tables.
+
+#### Short Title of 2021 Amendment
+Pub. L. 117–2, § 1, Mar. 11, 2021, 135 Stat. 4, provided that: “This Act [see Tables for classification] may be cited as the ‘American Rescue Plan Act of 2021’.”
 
 #### Short Title of 2020 Amendment
 Pub. L. 116–260, div. N, title II, § 200, Dec. 27, 2020, 134 Stat. 1950, provided that: “This chapter [chapter 1 (§§ 200–266) of subtitle A of title II of div. N of Pub. L. 116–260, see Tables for classification] may be cited as the ‘Continued Assistance for Unemployed Workers Act of 2020’.”
@@ -38,6 +41,31 @@ Pub. L. 116–136, div. A, title IV, § 4001, Mar. 27, 2020, 134 Stat. 469, prov
 
 #### Definitions
 Pub. L. 116–260, div. N, title III, § 302, Dec. 27, 2020, 134 Stat. 1993, provided that: “In this Act [probably means “this title”, title III of div. N of Pub. L. 116–260, see Tables for classification]: “(1) Administration; administrator.—The terms ‘Administration’ and ‘Administrator’ mean the Small Business Administration and the Administrator thereof, respectively. “(2) Small business concern.—The term ‘small business concern’ has the meaning given the term in section 3 of the Small Business Act ([15 U.S.C. 632](./chapter-14a-aid-to-small-business.md#section-632)).”
+
+#### Ex. Ord. No. 14002. Economic Relief Related to the COVID–19 Pandemic
+Ex. Ord. No. 14002, Jan. 22, 2021, 86 F.R. 7229, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. Background. The pandemic caused by the coronavirus disease 2019 (COVID–19) has led to an economic crisis marked by the closure of small businesses, job loss, food and housing insecurity, and increased challenges for working families balancing jobs and caregiving responsibilities. The current economic crisis has affected Americans throughout the Nation, but it is particularly dire in communities of color. The problems are exacerbated because State and local governments are being forced to consider steep cuts to critical programs to address revenue shortfalls the pandemic has caused. In addition, many individuals, families, and small businesses have had difficulties navigating relief programs with varying eligibility requirements, and some are not receiving the intended assistance. The economic crisis resulting from the pandemic must be met by the full resources of the Federal Government.
+
+Sec. 2. Providing Relief to Individuals, Families, and Small Businesses; and to State, Local, Tribal, and Territorial Governments. (a) All executive departments and agencies (agencies) shall promptly identify actions they can take within existing authorities to address the current economic crisis resulting from the pandemic. Agencies should specifically consider actions that facilitate better use of data and other means to improve access to, reduce unnecessary barriers to, and improve coordination among programs funded in whole or in part by the Federal Government.
+
+(b) Agencies should take the actions identified in subsection (a) of this section, as appropriate and consistent with applicable law, and in doing so should prioritize actions that provide the greatest relief to individuals, families, and small businesses; and to State, local, Tribal, and territorial governments.
+
+(c) Independent agencies, as enumerated in [44 U.S.C. 3502(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502/5&num=0&edition=prelim), are strongly encouraged to comply with this section.
+
+Sec. 3. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+J.R. Biden, Jr.
 
 
 <a id="section-9002"></a>
@@ -164,7 +192,7 @@ Pub. L. 116–260, div. N, title III, § 346(b), Dec. 27, 2020, 134 Stat. 2052, 
 
 
 <a id="section-9003"></a>
-## § 9003. State trade expansion program
+## § 9003. State Trade Expansion Program
 **(a) In general** Notwithstanding paragraph (3)(C)(iii) of section 649(l) of this title, for grants under the State Trade Expansion Program under such section 649(l) of this title using amounts made available for fiscal year 2018 or fiscal year 2019, the period of the grant shall continue through the end of fiscal year 2021.
 
 **(b) Reimbursement** The Administrator shall reimburse any recipient of assistance under section 649(l) of this title for financial losses relating to a foreign trade mission or a trade show exhibition that was cancelled solely due to a public health emergency declared due to COVID–19 if the reimbursement does not exceed a recipient’s grant funding.
@@ -370,7 +398,7 @@ Amendment by Pub. L. 116–260 effective on Dec. 27, 2020, and applicable to loa
 
   (D) Loan forgiveness under terms and conditions that, to the maximum extent practicable, is consistent with the terms and conditions for loan forgiveness under section 7A of the Small Business Act [[15 U.S.C. 636m](./chapter-14a-aid-to-small-business.md#section-636m)].
 
-**(e) Additional regulations generally** The Secretary may issue regulations and guidance as necessary to carry out the purposes of this section, including to allow additional lenders to originate loans under this title 11 See References in Text note below. and to establish terms and conditions such as compensation, underwriting standards, interest rates, and maturity for under this section.
+**(e) Additional regulations generally** The Secretary may issue regulations and guidance as necessary to carry out the purposes of this section, including to allow additional lenders to originate loans under this title 11 See References in Text note below. and to establish terms and conditions such as compensation, underwriting standards, interest rates, and maturity for under 22 So in original. this section.
 
 **(f) Certification** As a condition of receiving a loan under this section, a borrower shall certify under terms acceptable to the Secretary that the borrower—
 
@@ -404,7 +432,7 @@ The Small Business Act, referred to in subsec. (i), is Pub. L. 85–536, § 2(1 
 Amendment by Pub. L. 116–260 effective as if included in Pub. L. 116–136 and applicable to any loan made pursuant to [section 636(a)(36) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/a/36&num=0&edition=prelim) before, on, or after Dec. 27, 2020, including forgiveness of such a loan, with provisions relating to exclusion of loans already forgiven, see section 304(c) of Pub. L. 116–260, set out as a note under [section 636 of this title](./chapter-14a-aid-to-small-business.md#section-636).
 
 #### Clarification of Tax Treatment of Certain Loan Forgiveness and Other Business Financial Assistance
-Pub. L. 116–260, div. N, title II, § 278, Dec. 27, 2020, 134 Stat. 1980, provided that: “(a) United States Treasury Program Management Authority.—For purposes of the Internal Revenue Code of 1986 [[26 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1&num=0&edition=prelim) et seq.]—“(1) no amount shall be included in the gross income of a borrower by reason of forgiveness of indebtedness described in section 1109(d)(2)(D) of the CARES Act [[20 U.S.C. 9008(d)(2)(D)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9008/d/2/D&num=0&edition=prelim)], “(2) no deduction shall be denied, no tax attribute shall be reduced, and no basis increase shall be denied, by reason of the exclusion from gross income provided by paragraph (1), and “(3) in the case of a borrower that is a partnership or S corporation—“(A) any amount excluded from income by reason of paragraph (1) shall be treated as tax exempt income for purposes of sections 705 and 1366 of the Internal Revenue Code of 1986 [[26 U.S.C. 705](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section705&num=0&edition=prelim), 1366], and “(B) except as provided by the Secretary of the Treasury (or the Secretary’s delegate), any increase in the adjusted basis of a partner’s interest in a partnership under section 705 of the Internal Revenue Code of 1986 with respect to any amount described in subparagraph (A) shall equal the partner’s distributive share of deductions resulting from costs giving rise to forgiveness described in section 1109(d)(2)(D) of the CARES Act. “(b) Emergency EIDL grants and targeted EIDL advances.—For purposes of the Internal Revenue Code of 1986—“(1) any advance described in section 1110(e) of the CARES Act [[15 U.S.C. 9009(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9009/e&num=0&edition=prelim)] or any funding under section 331 of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act [[20 U.S.C. 9009b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9009b&num=0&edition=prelim)] shall not be included in the gross income of the person that receives such advance or funding, “(2) no deduction shall be denied, no tax attribute shall be reduced, and no basis increase shall be denied, by reason of the exclusion from gross income provided by paragraph (1), and “(3) in the case of a partnership or S corporation that receives such advance or funding—“(A) any amount excluded from income by reason of paragraph (1) shall be treated as tax exempt income for purposes of sections 705 and 1366 of the Internal Revenue Code of 1986, and “(B) the Secretary of the Treasury (or the Secretary’s delegate) shall prescribe rules for determining a partner’s distributive share of any amount described in subparagraph (A) for purposes of section 705 of the Internal Revenue Code of 1986. “(c) Subsidy for certain loan payments.—For purposes of the Internal Revenue Code of 1986—“(1) any payment described in section 1112(c) of the CARES Act [[15 U.S.C. 9011(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9011/c&num=0&edition=prelim)] shall not be included in the gross income of the person on whose behalf such payment is made, “(2) no deduction shall be denied, no tax attribute shall be reduced, and no basis increase shall be denied, by reason of the exclusion from gross income provided by paragraph (1), and “(3) in the case of a partnership or S corporation on whose behalf of a payment described in section 1112(c) of the CARES Act is made—“(A) any amount excluded from income by reason of paragraph (1) shall be treated as tax exempt income for purposes of sections 705 and 1366 of the Internal Revenue Code of 1986, and “(B) except as provided by the Secretary of the Treasury (or the Secretary’s delegate), any increase in the adjusted basis of a partner’s interest in a partnership under section 705 of the Internal Revenue Code of 1986 with respect to any amount described in subparagraph (A) shall equal the sum of the partner’s distributive share of deductions resulting from interest and fees described in section 1112(c) of the CARES Act and the partner’s share, as determined under section 752 of the Internal Revenue Code of 1986, of principal described in section 1112(c) of the CARES Act. “(d) Grants for shuttered venue operators.—For purposes of the Internal Revenue Code of 1986—“(1) any grant made under section 324 of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act [[15 U.S.C. 9009a](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9009a)] shall not be included in the gross income of the person that receives such grant, “(2) no deduction shall be denied, no tax attribute shall be reduced, and no basis increase shall be denied, by reason of the exclusion from gross income provided by paragraph (1), and “(3) in the case of a partnership or S corporation that receives such grant—“(A) any amount excluded from income by reason of paragraph (1) shall be treated as tax exempt income for purposes of sections 705 and 1366 of the Internal Revenue Code of 1986, and “(B) the Secretary of the Treasury (or the Secretary’s delegate) shall prescribe rules for determining a partner’s distributive share of any amount described in subparagraph (A) for purposes of section 705 of the Internal Revenue Code of 1986. “(e) Effective dates.—“(1) In general.—Except as otherwise provided in this subsection, subsections (a), (b), and (c) shall apply to taxable years ending after the date of the enactment of the CARES Act [Pub. L. 116–136]. “(2) Grants for shuttered venue operators; targeted eidl advances.—Subsection (d), and so much of subsection (b) as relates to funding under section 331 of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act, shall apply to taxable years ending after the date of the enactment of this Act [Dec. 27, 2020].”
+Pub. L. 116–260, div. N, title II, § 278, Dec. 27, 2020, 134 Stat. 1980, provided that: “(a) United States Treasury Program Management Authority.—For purposes of the Internal Revenue Code of 1986 [[26 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1&num=0&edition=prelim) et seq.]—“(1) no amount shall be included in the gross income of a borrower by reason of forgiveness of indebtedness described in section 1109(d)(2)(D) of the CARES Act [[15 U.S.C. 9008(d)(2)(D)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9008/d/2/D&num=0&edition=prelim)], “(2) no deduction shall be denied, no tax attribute shall be reduced, and no basis increase shall be denied, by reason of the exclusion from gross income provided by paragraph (1), and “(3) in the case of a borrower that is a partnership or S corporation—“(A) any amount excluded from income by reason of paragraph (1) shall be treated as tax exempt income for purposes of sections 705 and 1366 of the Internal Revenue Code of 1986 [[26 U.S.C. 705](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section705&num=0&edition=prelim), 1366], and “(B) except as provided by the Secretary of the Treasury (or the Secretary’s delegate), any increase in the adjusted basis of a partner’s interest in a partnership under section 705 of the Internal Revenue Code of 1986 with respect to any amount described in subparagraph (A) shall equal the partner’s distributive share of deductions resulting from costs giving rise to forgiveness described in section 1109(d)(2)(D) of the CARES Act. “(b) Emergency EIDL Grants and Targeted EIDL Advances.—For purposes of the Internal Revenue Code of 1986—“(1) any advance described in section 1110(e) of the CARES Act [[15 U.S.C. 9009(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9009/e&num=0&edition=prelim)] or any funding under section 331 of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act [[15 U.S.C. 9009b](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9009b)] shall not be included in the gross income of the person that receives such advance or funding, “(2) no deduction shall be denied, no tax attribute shall be reduced, and no basis increase shall be denied, by reason of the exclusion from gross income provided by paragraph (1), and “(3) in the case of a partnership or S corporation that receives such advance or funding—“(A) any amount excluded from income by reason of paragraph (1) shall be treated as tax exempt income for purposes of sections 705 and 1366 of the Internal Revenue Code of 1986, and “(B) the Secretary of the Treasury (or the Secretary’s delegate) shall prescribe rules for determining a partner’s distributive share of any amount described in subparagraph (A) for purposes of section 705 of the Internal Revenue Code of 1986. “(c) Subsidy for Certain Loan Payments.—For purposes of the Internal Revenue Code of 1986—“(1) any payment described in section 1112(c) of the CARES Act [[15 U.S.C. 9011(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9011/c&num=0&edition=prelim)] shall not be included in the gross income of the person on whose behalf such payment is made, “(2) no deduction shall be denied, no tax attribute shall be reduced, and no basis increase shall be denied, by reason of the exclusion from gross income provided by paragraph (1), and “(3) in the case of a partnership or S corporation on whose behalf of a payment described in section 1112(c) of the CARES Act is made—“(A) any amount excluded from income by reason of paragraph (1) shall be treated as tax exempt income for purposes of sections 705 and 1366 of the Internal Revenue Code of 1986, and “(B) except as provided by the Secretary of the Treasury (or the Secretary’s delegate), any increase in the adjusted basis of a partner’s interest in a partnership under section 705 of the Internal Revenue Code of 1986 with respect to any amount described in subparagraph (A) shall equal the sum of the partner’s distributive share of deductions resulting from interest and fees described in section 1112(c) of the CARES Act and the partner’s share, as determined under section 752 of the Internal Revenue Code of 1986, of principal described in section 1112(c) of the CARES Act. “(d) Grants for Shuttered Venue Operators.—For purposes of the Internal Revenue Code of 1986—“(1) any grant made under section 324 of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act [[15 U.S.C. 9009a](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9009a)] shall not be included in the gross income of the person that receives such grant, “(2) no deduction shall be denied, no tax attribute shall be reduced, and no basis increase shall be denied, by reason of the exclusion from gross income provided by paragraph (1), and “(3) in the case of a partnership or S corporation that receives such grant—“(A) any amount excluded from income by reason of paragraph (1) shall be treated as tax exempt income for purposes of sections 705 and 1366 of the Internal Revenue Code of 1986, and “(B) the Secretary of the Treasury (or the Secretary’s delegate) shall prescribe rules for determining a partner’s distributive share of any amount described in subparagraph (A) for purposes of section 705 of the Internal Revenue Code of 1986. “(e) Effective Dates.—“(1) In general.—Except as otherwise provided in this subsection, subsections (a), (b), and (c) shall apply to taxable years ending after the date of the enactment of the CARES Act [Pub. L. 116–136]. “(2) Grants for shuttered venue operators; targeted eidl advances.—Subsection (d), and so much of subsection (b) as relates to funding under section 331 of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act, shall apply to taxable years ending after the date of the enactment of this Act [Dec. 27, 2020].”
 
 
 <a id="section-9009"></a>
@@ -520,6 +548,9 @@ Pub. L. 116–260, div. N, title III, § 333(d), Dec. 27, 2020, 134 Stat. 2046, 
 
 Except as otherwise provided, amendment by Pub. L. 116–260 effective on Dec. 27, 2020, and applicable to loans and grants made on or after Dec. 27, 2020, see section 348 of Pub. L. 116–260, set out as a note under [section 636 of this title](./chapter-14a-aid-to-small-business.md#section-636).
 
+#### Targeted EIDL Advance
+Pub. L. 117–2, title V, § 5002, Mar. 11, 2021, 135 Stat. 85, provided that: “(a) Definitions.—In this section—“(1) the term ‘Administrator’ means the Administrator of the Small Business Administration; and “(2) the terms ‘covered entity’ and ‘economic loss’ have the meanings given the terms in section 331(a) of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act (title III of division N of Public Law 116–260) [[15 U.S.C. 9009b(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9009b/a&num=0&edition=prelim)]. “(b) Appropriations.—In addition to amounts otherwise available, there is appropriated to the Administrator for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $15,000,000,000—“(1) to remain available until expended; and “(2) of which, the Administrator shall use—“(A) $10,000,000,000 to make payments to covered entities that have not received the full amounts to which the covered entities are entitled under section 331 of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act (title III of division N of Public Law 116–260) [[15 U.S.C. 9009b](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9009b)]; and “(B) $5,000,000,000 to make payments under section 1110(e) of the CARES Act ([15 U.S.C. 9009(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9009/e&num=0&edition=prelim)), each of which shall be—“(i) made to a covered entity that— “(I) has suffered an economic loss of greater than 50 percent; and “(II) employs not more than 10 employees; “(ii) in an amount that is $5,000; and “(iii) with respect to the covered entity to which the payment is made, in addition to any payment made to the covered entity under section 1110(e) of the CARES Act ([15 U.S.C. 9009(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9009/e&num=0&edition=prelim)) or section 331 of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act (title III of division N of Public Law 116–260).”
+
 #### Clarification of Tax Treatment of Certain Loan Forgiveness and Other Business Financial Assistance
 Advance described in subsec. (e) of this section not included in gross income of recipient, see section 278 of div. N of Pub. L. 116–260, set out as a note under [section 9008 of this title](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9008).
 
@@ -611,9 +642,7 @@ Pub. L. 116–260, div. N, title III, § 333(a), (e), Dec. 27, 2020, 134 Stat. 2
 
         (cc) Employing more than 500 employees as of February 29, 2020, determined on a full-time equivalent basis in accordance with subparagraph (C).
 
-      (III) The live venue operator or promoter, theatrical producer, or live performing arts organization operator, the relevant museum operator, the motion picture theatre operator, or the talent representative has not received, on or after December 27, 2020, a loan guaranteed under paragraph (36) or (37) of [section 636(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/a&num=0&edition=prelim), as amended and added by this division.
-
-      (IV) For purposes of applying the characteristics described in subclauses (I), (II), and (III) to an entity owned by a State or a political subdivision of a State, the relevant entity—
+      (III) For purposes of applying the characteristics described in subclauses (I) and (II) to an entity owned by a State or a political subdivision of a State, the relevant entity—
 
         (aa) shall be the live venue operator or promoter, theatrical producer, or live performing arts organization operator, the relevant museum operator, the motion picture theatre operator, or the talent representative; and
 
@@ -771,7 +800,7 @@ Pub. L. 116–260, div. N, title III, § 333(a), (e), Dec. 27, 2020, 134 Stat. 2
 
 (1) **Initial grants**
 
-  (A) *In general* — A grant under subsection (b)(2) shall be in the amount equal to the lesser of—
+  (A) *In general* — Subject to subparagraphs (B) and (C), a grant under subsection (b)(2) shall be in the amount equal to the lesser of—
 
     (i)
 
@@ -786,6 +815,16 @@ Pub. L. 116–260, div. N, title III, § 333(a), (e), Dec. 27, 2020, 134 Stat. 2
     (ii) $10,000,000.
 
   (B) *Application to relevant museum operators* — A relevant museum operator may not receive grants under subsection (b)(2) in a total amount that is more than $10,000,000 with respect to all relevant museums operated by the relevant museum operator.
+
+  (C) *Reduction for recipients of new PPP loans*
+
+    (i) *In general* — The otherwise applicable amount of a grant under subsection (b)(2) to an eligible person or entity shall be reduced by the total amount of loans guaranteed under paragraph (36) or (37) of [section 636(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/a&num=0&edition=prelim) that are received on or after December 27, 2020 by the eligible person or entity.
+
+    (ii) *Application to governmental entities* — For purposes of applying clause (i) to an eligible person or entity owned by a State or a political subdivision of a State, the relevant entity—
+
+      (I) shall be the eligible person or entity; and
+
+      (II) shall not include entities of the State or political subdivision other than the eligible person or entity.
 
 (2) **Supplemental grants** — A grant under subsection (b)(3) shall be in the amount equal to 50 percent of the grant received by the eligible person or entity under subsection (b)(2).
 
@@ -900,8 +939,6 @@ Pub. L. 116–260, div. N, title III, § 333(a), (e), Dec. 27, 2020, 134 Stat. 2
 #### References in Text
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(1)(A)(vi)(I)(bb), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
 
-Paragraph (36) or (37) of [section 636(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/a&num=0&edition=prelim), as amended and added by this division, referred to in subsec. (a)(1)(A)(vi)(III), is par. (36) of [section 636(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/a&num=0&edition=prelim), as amended, or par. (37) of [section 636(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/a&num=0&edition=prelim), as added, by div. N of Pub. L. 116–260.
-
 Subparagraph (A) of [section 636(a)(36) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/a/36&num=0&edition=prelim), as amended by this Act, referred to in subsec. (a)(8), probably means subpar. (A) of [section 636(a)(36) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/a/36&num=0&edition=prelim), as amended by title III of div. N of Pub. L. 116–260.
 
 The CARES Act, referred to in subsec. (b)(2)(B)(iii)(I), also known as the Coronavirus Aid, Relief, and Economic Security Act, is Pub. L. 116–136, Mar. 27, 2020, 134 Stat. 281, which enacted this chapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 9001 of this title](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9001) and Tables.
@@ -912,6 +949,13 @@ Section 323(d)(1)(H) of this Act, referred to in subsecs. (b)(2)(B)(iv) and (f)(
 
 #### Codification
 Section was enacted as part of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act, and not as part of the CARES Act which in part comprises this chapter.
+
+#### Amendments
+2021—Subsec. (a)(1)(A)(vi)(III), (IV). Pub. L. 117–2, § 5005(b)(1), redesignated subcl. (IV) as (III), substituted “subclauses (I) and (II)” for “subclauses (I), (II), and (III)”, and struck out former subcl. (III) which read as follows: “The live venue operator or promoter, theatrical producer, or live performing arts organization operator, the relevant museum operator, the motion picture theatre operator, or the talent representative has not received, on or after December 27, 2020, a loan guaranteed under paragraph (36) or (37) of [section 636(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/a&num=0&edition=prelim), as amended and added by this division.”
+
+Subsec. (c)(1)(A). Pub. L. 117–2, § 5005(b)(2)(A), substituted “Subject to subparagraphs (B) and (C), a grant” for “A grant” in introductory provisions.
+
+Subsec. (c)(1)(C). Pub. L. 117–2, § 5005(b)(2)(B), added subpar. (C).
 
 #### Effective Date
 Section effective on Dec. 27, 2020, and applicable to loans and grants made on or after Dec. 27, 2020, see section 348 of Pub. L. 116–260, set out as an Effective Date of 2020 Amendment note under [section 636 of this title](./chapter-14a-aid-to-small-business.md#section-636).
@@ -933,7 +977,7 @@ Grant made under this section not included in gross income of recipient, see sec
 
   (A) means an eligible entity that—
 
-    (i) applies for a loan under section 636(b)(2)of this title during the covered period, including before December 27, 2020;
+    (i) applies for a loan under [section 636(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/b/2&num=0&edition=prelim) during the covered period, including before December 27, 2020;
 
     (ii) is located in a low-income community;
 
@@ -1018,11 +1062,185 @@ Section was enacted as part of the Economic Aid to Hard-Hit Small Businesses, No
 #### Effective Date
 Section effective on Dec. 27, 2020, and applicable to loans and grants made on or after Dec. 27, 2020, see section 348 of Pub. L. 116–260, set out as an Effective Date of 2020 Amendment note under [section 636 of this title](./chapter-14a-aid-to-small-business.md#section-636).
 
+#### Tax Treatment of Targeted EIDL Advances
+Pub. L. 117–2, title IX, § 9672, Mar. 11, 2021, 135 Stat. 184, provided that: “For purposes of the Internal Revenue Code of 1986 [[26 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1&num=0&edition=prelim) et seq.]— “(1) amounts received from the Administrator of the Small Business Administration in the form of a targeted EIDL advance under section 331 of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act (title III of division N of Public Law 116–260) [[15 U.S.C. 9009b](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9009b)] shall not be included in the gross income of the person that receives such amounts, “(2) no deduction shall be denied, no tax attribute shall be reduced, and no basis increase shall be denied, by reason of the exclusion from gross income provided by paragraph (1), and “(3) in the case of a partnership or S corporation that receives such amounts—“(A) any amount excluded from income by reason of paragraph (1) shall be treated as tax exempt income for purposes of sections 705 and 1366 of the Internal Revenue Code of 1986 [[26 U.S.C. 705](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section705&num=0&edition=prelim), 1366], and “(B) the Secretary of the Treasury (or the Secretary’s delegate) shall prescribe rules for determining a partner’s distributive share of any amount described in subparagraph (A) for purposes of section 705 of the Internal Revenue Code of 1986.”
+
 #### Clarification of Tax Treatment of Certain Loan Forgiveness and Other Business Financial Assistance
 Funding under this section not included in gross income of recipient, see section 278 of div. N of Pub. L. 116–260, set out as a note under [section 9008 of this title](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9008).
 
 #### Definitions
 “Administration” and “Administrator” mean the Small Business Administration and Administrator of the Small Business Administration, see section 302 of div. N of Pub. L. 116–260, set out as a note under [section 9001 of this title](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9001).
+
+
+<a id="section-9009c"></a>
+## § 9009c. Support for restaurants
+**(a) Definitions** In this section:
+
+(1) **Administrator** — The term “Administrator” means the Administrator of the Small Business Administration.
+
+(2) **Affiliated business** — The term “affiliated business” means a business in which an eligible entity has an equity or right to profit distributions of not less than 50 percent, or in which an eligible entity has the contractual authority to control the direction of the business, provided that such affiliation shall be determined as of any arrangements or agreements in existence as of March 13, 2020.
+
+(3) **Covered period** — The term “covered period” means the period—
+
+  (A) beginning on February 15, 2020; and
+
+  (B) ending on December 31, 2021, or a date to be determined by the Administrator that is not later than 2 years after March 11, 2021.
+
+(4) **Eligible entity** — The term “eligible entity”—
+
+  (A) means a restaurant, food stand, food truck, food cart, caterer, saloon, inn, tavern, bar, lounge, brewpub, tasting room, taproom, licensed facility or premise of a beverage alcohol producer where the public may taste, sample, or purchase products, or other similar place of business in which the public or patrons assemble for the primary purpose of being served food or drink;
+
+  (B) includes an entity described in subparagraph (A) that is located in an airport terminal or that is a Tribally-owned concern; and
+
+  (C) does not include—
+
+    (i) an entity described in subparagraph (A) that—
+
+      (I) is a State or local government-operated business;
+
+      (II) as of March 13, 2020, owns or operates (together with any affiliated business) more than 20 locations, regardless of whether those locations do business under the same or multiple names; or
+
+      (III) has a pending application for or has received a grant under [section 9009a of this title](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9009a); or
+
+    (ii) a publicly-traded company.
+
+(5) **Exchange; issuer; security** — The terms “exchange”, “issuer”, and “security” have the meanings given those terms in [section 78c(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c/a&num=0&edition=prelim).
+
+(6) **Fund** — The term “Fund” means the Restaurant Revitalization Fund established under subsection (b).
+
+(7) **Pandemic-related revenue loss** — The term “pandemic-related revenue loss” means, with respect to an eligible entity—
+
+  (A) except as provided in subparagraphs (B), (C), and (D), the gross receipts, as established using such verification documentation as the Administrator may require, of the eligible entity during 2020 subtracted from the gross receipts of the eligible entity in 2019, if such sum is greater than zero;
+
+  (B) if the eligible entity was not in operation for the entirety of 2019—
+
+    (i) the difference between—
+
+      (I) the product obtained by multiplying the average monthly gross receipts of the eligible entity in 2019 by 12; and
+
+      (II) the product obtained by multiplying the average monthly gross receipts of the eligible entity in 2020 by 12; or
+
+    (ii) an amount based on a formula determined by the Administrator;
+
+  (C) if the eligible entity opened during the period beginning on January 1, 2020, and ending on the day before March 11, 2021—
+
+    (i) the expenses described in subsection (c)(5)(A) that were incurred by the eligible entity minus any gross receipts received; or
+
+    (ii) an amount based on a formula determined by the Administrator; or
+
+  (D) if the eligible entity has not yet opened as of the date of application for a grant under subsection (c), but has incurred expenses described in subsection (c)(5)(A) as of March 11, 2021—
+
+    (i) the amount of those expenses; or
+
+    (ii) an amount based on a formula determined by the Administrator.
+  For purposes of this paragraph, the pandemic-related revenue losses for an eligible entity shall be reduced by any amounts received from a covered loan made under paragraph (36) or (37) of [section 636(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/a&num=0&edition=prelim) in 2020 or 2021.
+
+(8) **Payroll costs** — The term “payroll costs” has the meaning given the term in [section 636(a)(36)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/a/36/A&num=0&edition=prelim), except that such term shall not include—
+
+  (A) qualified wages (as defined in subsection (c)(3) of section 2301 of the CARES Act) taken into account in determining the credit allowed under such section 2301; or
+
+  (B) premiums taken into account in determining the credit allowed under [section 6432 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6432&num=0&edition=prelim).
+
+(9) **Publicly-traded company** — The term “publicly-traded company” means an entity that is majority owned or controlled by an entity that is an issuer, the securities of which are listed on a national securities exchange under [section 78f of this title](./chapter-2b-securities-exchanges.md#section-78f).
+
+(10) **Tribally-owned concern** — The term “Tribally-owned concern” has the meaning given the term in section 124.3 of title 13, Code of Federal Regulations, or any successor regulation.
+
+**(b) Restaurant Revitalization Fund**
+
+(1) **In general** — There is established in the Treasury of the United States a fund to be known as the Restaurant Revitalization Fund.
+
+(2) **Appropriations**
+
+  (A) *In general* — In addition to amounts otherwise available, there is appropriated to the Restaurant Revitalization Fund for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $28,600,000,000, to remain available until expended.
+
+  (B) *Distribution*
+
+    (i) *In general* — Of the amounts made available under subparagraph (A)—
+
+      (I) $5,000,000,000 shall be available to eligible entities with gross receipts during 2019 of not more than $500,000; and
+
+      (II) $23,600,000,000 shall be available to the Administrator to award grants under subsection (c) in an equitable manner to eligible entities of different sizes based on annual gross receipts.
+
+    (ii) *Adjustments* — The Administrator may make adjustments as necessary to the distribution of funds under clause (i)(II) based on demand and the relative local costs in the markets in which eligible entities operate.
+
+  (C) *Grants after initial period* — Notwithstanding subparagraph (B), on and after the date that is 60 days after March 11, 2021, or another period of time determined by the Administrator, the Administrator may make grants using amounts appropriated under subparagraph (A) to any eligible entity regardless of the annual gross receipts of the eligible entity.
+
+(3) **Use of funds** — The Administrator shall use amounts in the Fund to make grants described in subsection (c).
+
+**(c) Restaurant revitalization grants**
+
+(1) **In general** — Except as provided in subsection (b) and paragraph (3), the Administrator shall award grants to eligible entities in the order in which applications are received by the Administrator.
+
+(2) **Application**
+
+  (A) *Certification* — An eligible entity applying for a grant under this subsection shall make a good faith certification that—
+
+    (i) the uncertainty of current economic conditions makes necessary the grant request to support the ongoing operations of the eligible entity; and
+
+    (ii) the eligible entity has not applied for or received a grant under [section 9009a of this title](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9009a).
+
+  (B) *Business identifiers* — In accepting applications for grants under this subsection, the Administrator shall prioritize the ability of each applicant to use their existing business identifiers over requiring other forms of registration or identification that may not be common to their industry and imposing additional burdens on applicants.
+
+(3) **Priority in awarding grants**
+
+  (A) *In general* — During the initial 21-day period in which the Administrator awards grants under this subsection, the Administrator shall prioritize awarding grants to eligible entities that are small business concerns owned and controlled by women (as defined in [section 632(n) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632/n&num=0&edition=prelim)), small business concerns owned and controlled by veterans (as defined in [section 632(q) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632/q&num=0&edition=prelim)), or socially and economically disadvantaged small business concerns (as defined in [section 637(a)(4)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section637/a/4/A&num=0&edition=prelim)). The Administrator may take such steps as necessary to ensure that eligible entities described in this subparagraph have access to grant funding under this section after the end of such 21-day period.
+
+  (B) *Certification* — For purposes of establishing priority under subparagraph (A), an applicant shall submit a self-certification of eligibility for priority with the grant application.
+
+(4) **Grant amount**
+
+  (A) *Aggregate maximum amount* — The aggregate amount of grants made to an eligible entity and any affiliated businesses of the eligible entity under this subsection—
+
+    (i) shall not exceed $10,000,000; and
+
+    (ii) shall be limited to $5,000,000 per physical location of the eligible entity.
+
+  (B) *Determination of grant amount*
+
+    (i) *In general* — Except as provided in this paragraph, the amount of a grant made to an eligible entity under this subsection shall be equal to the pandemic-related revenue loss of the eligible entity.
+
+    (ii) *Return to Treasury* — Any amount of a grant made under this subsection to an eligible entity based on estimated receipts that is greater than the actual gross receipts of the eligible entity in 2020 shall be returned to the Treasury.
+
+(5) **Use of funds** — During the covered period, an eligible entity that receives a grant under this subsection may use the grant funds for the following expenses incurred as a direct result of, or during, the COVID–19 pandemic:
+
+  (A) Payroll costs.
+
+  (B) Payments of principal or interest on any mortgage obligation (which shall not include any prepayment of principal on a mortgage obligation).
+
+  (C) Rent payments, including rent under a lease agreement (which shall not include any prepayment of rent).
+
+  (D) Utilities.
+
+  (E) Maintenance expenses, including—
+
+    (i) construction to accommodate outdoor seating; and
+
+    (ii) walls, floors, deck surfaces, furniture, fixtures, and equipment.
+
+  (F) Supplies, including protective equipment and cleaning materials.
+
+  (G) Food and beverage expenses that are within the scope of the normal business practice of the eligible entity before the covered period.
+
+  (H) Covered supplier costs, as defined in [section 636m(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636m/a&num=0&edition=prelim) (as redesignated, transferred, and amended by section 304(b) of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act (Public Law 116–260)).
+
+  (I) Operational expenses.
+
+  (J) Paid sick leave.
+
+  (K) Any other expenses that the Administrator determines to be essential to maintaining the eligible entity.
+
+(6) **Returning funds** — If an eligible entity that receives a grant under this subsection fails to use all grant funds or permanently ceases operations on or before the last day of the covered period, the eligible entity shall return to the Treasury any funds that the eligible entity did not use for the allowable expenses under paragraph (5).
+
+### Statutory Notes
+
+#### References in Text
+Section 2301 of the CARES Act, referred to in subsec. (a)(8)(A), is section 2301 of Pub. L. 116–136, which is set out as a note under [section 3111 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3111&num=0&edition=prelim), Internal Revenue Code.
+
+#### Codification
+Section was enacted as part of the American Rescue Plan Act of 2021, and not as part of the CARES Act which in part comprises this chapter.
+
+#### Tax Treatment of Restaurant Revitalization Grants
+Pub. L. 117–2, title IX, § 9673, Mar. 11, 2021, 135 Stat. 184, provided that: “For purposes of the Internal Revenue Code of 1986 [[26 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1&num=0&edition=prelim) et seq.]— “(1) amounts received from the Administrator of the Small Business Administration in the form of a restaurant revitalization grant under section 5003 [[15 U.S.C. 9009c](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9009c)] shall not be included in the gross income of the person that receives such amounts, “(2) no deduction shall be denied, no tax attribute shall be reduced, and no basis increase shall be denied, by reason of the exclusion from gross income provided by paragraph (1), and “(3) in the case of a partnership or S corporation that receives such amounts—“(A) except as otherwise provided by the Secretary of the Treasury (or the Secretary’s delegate), any amount excluded from income by reason of paragraph (1) shall be treated as tax exempt income for purposes of sections 705 and 1366 of the Internal Revenue Code of 1986 [[26 U.S.C. 705](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section705&num=0&edition=prelim), 1366], and “(B) the Secretary of the Treasury (or the Secretary’s delegate) shall prescribe rules for determining a partner’s distributive share of any amount described in subparagraph (A) for purposes of section 705 of the Internal Revenue Code of 1986.”
 
 
 <a id="section-9010"></a>
@@ -1174,7 +1392,7 @@ Funding under this section not included in gross income of recipient, see sectio
 
   (C) how to seek recourse with the Administrator or the lender of the covered loan if the borrower has not received that assistance; and
 
-  (D) the rights of the borrower to request a loan deferral from a lender, and guidance on how to do successfully transition directly to a loan deferral once subsidy payments under this section are concluded.
+  (D) the rights of the borrower to request a loan deferral from a lender, and guidance on how to do 11 So in original. The word “do” probably should not appear. successfully transition directly to a loan deferral once subsidy payments under this section are concluded.
 
 (5) **Monthly reporting** — Not later than the 15th of each month beginning after the date of enactment of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act, the Administrator shall submit to Congress a report on assistance provided under this section, which shall include—
 
@@ -1241,6 +1459,66 @@ This title, referred to in text, is title I of div. A of Pub. L. 116–136, Mar.
 Pub. L. 116–260, div. N, title III, § 303, Dec. 27, 2020, 134 Stat. 1993, provided that: “Not later than 10 days after the date of enactment of this Act [Dec. 27, 2020], the Administrator [of the Small Business Administration] shall issue regulations to carry out this Act [probably means “this title”, title III of div. N of Pub. L. 116–260, see Tables for classification] and the amendments made by this Act without regard to the notice requirements under [section 553(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553/b&num=0&edition=prelim), United States Code.”
 
 
+<a id="section-9013"></a>
+## § 9013. Community Navigator pilot program
+**(a) Definitions** In this section:
+
+(1) **Administration** — The term “Administration” means the Small Business Administration.
+
+(2) **Administrator** — The term “Administrator” means the Administrator of the Small Business Administration.
+
+(3) **Community navigator services** — The term “community navigator services” means the outreach, education, and technical assistance provided by community navigators that target eligible businesses to increase awareness of, and participation in, programs of the Small Business Administration.
+
+(4) **Community navigator** — The term “community navigator” means a community organization, community financial institution as defined in [section 636(a)(36)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/a/36/A&num=0&edition=prelim), or other private nonprofit organization engaged in the delivery of community navigator services.
+
+(5) **Eligible business** — The term “eligible business” means any small business concern, with priority for small business concerns owned and controlled by women (as defined in [section 632(n) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632/n&num=0&edition=prelim)), small business concerns owned and controlled by veterans (as defined in [section 632(q) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632/q&num=0&edition=prelim)), and socially and economically disadvantaged small business concerns (as defined in [section 637(a)(4)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section637/a/4/A&num=0&edition=prelim)).
+
+(6) **Private nonprofit organization** — The term “private nonprofit organization” means an entity that is described in [section 501(c) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c&num=0&edition=prelim) and exempt from tax under section 501(a) of such title.
+
+(7) **Resource partner** — The term “resource partner” means—
+
+  (A) a small business development center (as defined in [section 632 of this title](./chapter-14a-aid-to-small-business.md#section-632));
+
+  (B) a women’s business center (as described in [section 656 of this title](./chapter-14a-aid-to-small-business.md#section-656)); and
+
+  (C) a chapter of the Service Corps of Retired Executives (as defined in [section 637(b)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section637/b/1/B&num=0&edition=prelim)).
+
+(8) **Small business concern** — The term “small business concern” has the meaning given under [section 632 of this title](./chapter-14a-aid-to-small-business.md#section-632).
+
+(9) **State** — The term “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, the Commonwealth of the Northern Mariana Islands, and Guam, or an agency, instrumentality, or fiscal agent thereof.
+
+(10) **Unit of general local government** — The term “unit of general local government” means a county, city, town, village, or other general purpose political subdivision of a State.
+
+**(b) Community Navigator pilot program**
+
+(1) **In general** — The Administrator of the Small Business Administration shall establish a Community Navigator pilot program to make grants to, or enter into contracts or cooperative agreements with, private nonprofit organizations, resource partners, States, Tribes, and units of local government to ensure the delivery of free community navigator services to current or prospective owners of eligible businesses in order to improve access to assistance programs and resources made available because of the COVID–19 pandemic by Federal, State, Tribal, and local entities.
+
+(2) **Appropriations** — In addition to amounts otherwise available, there is appropriated to the Administrator for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $100,000,000, to remain available until September 30, 2022, for carrying out this subsection.
+
+**(c) Outreach and education**
+
+(1) **Promotion** — The Administrator shall develop and implement a program to promote community navigator services to current or prospective owners of eligible businesses.
+
+(2) **Call center** — The Administrator shall establish a telephone hotline to offer information about Federal programs to assist eligible businesses and offer referral services to resource partners, community navigators, potential lenders, and other persons that the Administrator determines appropriate for current or prospective owners of eligible businesses.
+
+(3) **Outreach** — The Administrator shall—
+
+  (A) conduct outreach and education, in the 10 most commonly spoken languages in the United States, to current or prospective owners of eligible businesses on community navigator services and other Federal programs to assist eligible businesses;
+
+  (B) improve the website of the Administration to describe such community navigator services and other Federal programs; and
+
+  (C) implement an education campaign by advertising in media targeted to current or prospective owners of eligible businesses.
+
+(4) **Appropriations** — In addition to amounts otherwise available, there is appropriated to the Administrator for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $75,000,000, to remain available until September 30, 2022, for carrying out this subsection.
+
+**(d) Sunset** The authority of the Administrator to make grants under this section shall terminate on December 31, 2025.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the American Rescue Plan Act of 2021, and not as part of the CARES Act which in part comprises this chapter.
+
+
 <a id="section-9021"></a>
 ## § 9021. Pandemic unemployment assistance
 **(a) Definitions** In this section:
@@ -1299,25 +1577,21 @@ Pub. L. 116–260, div. N, title III, § 303, Dec. 27, 2020, 134 Stat. 1993, pro
 
 **(c) Applicability**
 
-(1) **In general** — Except as provided in paragraphs (2) and (3), the assistance authorized under subsection (b) shall be available to a covered individual—
+(1) **In general** — Except as provided in paragraph (2), the assistance authorized under subsection (b) shall be available to a covered individual—
 
   (A) for weeks of unemployment, partial unemployment, or inability to work caused by COVID–19—
 
     (i) beginning on or after January 27, 2020; and
 
-    (ii) ending on or before March 14, 2021; and
+    (ii) ending on or before September 6, 2021; and
 
   (B) subject to subparagraph (A)(ii), as long as the covered individual’s unemployment, partial unemployment, or inability to work caused by COVID–19 continues.
 
-(2) **Limitation on duration of assistance** — The total number of weeks for which a covered individual may receive assistance under this section shall not exceed 50 weeks and such total shall include any week for which the covered individual received regular compensation or extended benefits under any Federal or State law, except that if after March 27, 2020, the duration of extended benefits is extended, the 50-week period described in this paragraph shall be extended by the number of weeks that is equal to the number of weeks by which the extended benefits were extended.
+(2) **Limitation on duration of assistance** — The total number of weeks for which a covered individual may receive assistance under this section shall not exceed 79 weeks and such total shall include any week for which the covered individual received regular compensation or extended benefits under any Federal or State law, except that if after March 27, 2020, the duration of extended benefits is extended, the 79-week period described in this paragraph shall be extended by the number of weeks that is equal to the number of weeks by which the extended benefits were extended.
 
-(3) **Transition rule for individuals remaining entitled to pandemic unemployment assistance as of March 14, 2021**
+(3) **Assistance for unemployment before March 27, 2020** — The Secretary shall establish a process for making assistance under this section available for weeks beginning on or after January 27, 2020, and before March 27, 2020.
 
-  (A) *In general* — Subject to subparagraph (B), in the case of any individual who, as of the date specified in paragraph (1)(A)(ii), is receiving pandemic unemployment assistance but has not yet exhausted all rights to such assistance under this section, pandemic unemployment assistance shall continue to be payable to such individual for any week beginning on or after such date for which the individual is otherwise eligible for pandemic unemployment assistance.
-
-  (B) *Termination* — Notwithstanding any other provision of this subsection, no pandemic unemployment assistance shall be payable for any week beginning after April 5, 2021.
-
-(4) **Assistance for unemployment before March 27, 2020** — The Secretary shall establish a process for making assistance under this section available for weeks beginning on or after January 27, 2020, and before March 27, 2020.
+(4) **Redesignated (3)**
 
 (5) **Appeals by an individual**
 
@@ -1407,9 +1681,19 @@ Pub. L. 116–260, div. N, title III, § 303, Dec. 27, 2020, 134 Stat. 1993, pro
 This Act, referred to in subsec. (e), is div. A of Pub. L. 116–136, Mar. 27, 2020, 134 Stat. 286. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+2021—Subsec. (c)(1). Pub. L. 117–2, § 9011(a)(1)(A), substituted “paragraph (2)” for “paragraphs (2) and (3)” in introductory provisions.
+
+Subsec. (c)(1)(A)(ii). Pub. L. 117–2, § 9011(a)(1)(B), substituted “September 6, 2021” for “March 14, 2021”.
+
+Subsec. (c)(2). Pub. L. 117–2, § 9011(b), substituted “79 weeks” for “50 weeks” and “79-week period” for “50-week period”.
+
+Subsec. (c)(3), (4). Pub. L. 117–2, § 9011(a)(2), redesignated par. (4) as (3) and struck out former par. (3) which related to a transition rule for individuals remaining entitled to pandemic unemployment assistance as of Mar. 14, 2021.
+
 2020—Subsec. (a)(3)(A)(iii). Pub. L. 116–260, § 241(a), added cl. (iii).
 
-Subsec. (c)(1). Pub. L. 116–260, § 201(a)(1), in introductory provisions, substituted “paragraphs (2) and (3)” for “paragraph (2)”, and in subpar. (A)(ii), substituted “March 14, 2021” for “December 31, 2020”.
+Subsec. (c)(1). Pub. L. 116–260, § 201(a)(1)(A), substituted “paragraphs (2) and (3)” for “paragraph (2)” in introductory provisions.
+
+Subsec. (c)(1)(A)(ii). Pub. L. 116–260, § 201(a)(1)(B), substituted “March 14, 2021” for “December 31, 2020”.
 
 Subsec. (c)(2). Pub. L. 116–260, § 201(b), substituted “50 weeks” for “39 weeks” and “50-week period” for “39-week period”.
 
@@ -1427,10 +1711,13 @@ Subsec. (f)(2)(B). Pub. L. 116–260, § 242(a)(2), inserted “and expenses rel
 
 Subsec. (h). Pub. L. 116–260, § 209(a), substituted “part 625” for “section 625” wherever appearing.
 
-#### Effective Date of 2020 Amendment
-Pub. L. 116–260, div. N, title II, § 201(c)(2), Dec. 27, 2020, 134 Stat. 1952, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as if enacted as part of division A of the CARES Act (Public Law 116–136) [see Tables for classification], except that any decision issued on appeal or review before the date of enactment of this Act [Dec. 27, 2020] shall not be affected by the amendment made by paragraph (1).”
+#### Effective Date of 2021 Amendment
+Pub. L. 117–2, title IX, § 9011(d), Mar. 11, 2021, 135 Stat. 118, provided that: “The amendments made by subsections (a) and (b) [amending this section] shall apply as if included in the enactment of the CARES Act (Public Law 116–136), except that no amount shall be payable by virtue of such amendments with respect to any week of unemployment ending on or before March 14, 2021.”
 
-Pub. L. 116–260, div. N, title II, § 201(g), Dec. 27, 2020, 134 Stat. 1952, provided that: “The amendments made by subsections (a), (b), (c), and (d) [amending this section] shall apply as if included in the enactment of the CARES Act (Public Law 116–136) [see Tables for classification], except that no amount shall be payable by virtue of such amendments with respect to any week of unemployment commencing before the date of the enactment of this Act [Dec. 27, 2020].”
+#### Effective Date of 2020 Amendment
+Pub. L. 116–260, div. N, title II, § 201(c)(2), Dec. 27, 2020, 134 Stat. 1952, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as if enacted as part of division A of the CARES Act (Public Law 116–136), except that any decision issued on appeal or review before the date of enactment of this Act [Dec. 27, 2020] shall not be affected by the amendment made by paragraph (1).”
+
+Pub. L. 116–260, div. N, title II, § 201(g), Dec. 27, 2020, 134 Stat. 1952, provided that: “The amendments made by subsections (a), (b), (c), and (d) [amending this section] shall apply as if included in the enactment of the CARES Act (Public Law 116–136), except that no amount shall be payable by virtue of such amendments with respect to any week of unemployment commencing before the date of the enactment of this Act [Dec. 27, 2020].”
 
 Pub. L. 116–260, div. N, title II, § 209(b), Dec. 27, 2020, 134 Stat. 1956, provided that: “The amendment made by this section [amending this section] shall take effect as if included in section 2102 of the CARES Act (Public Law 116–136) [enacting this section].”
 
@@ -1440,8 +1727,10 @@ Pub. L. 116–260, div. N, title II, § 242(b), Dec. 27, 2020, 134 Stat. 1960, p
 
 Pub. L. 116–260, div. N, title II, § 263(b), Dec. 27, 2020, 134 Stat. 1963, provided that: “(1) In general.—The amendment made by subsection (a) [amending this section] shall apply with respect to weeks beginning on or after the date that is 30 days after the date of enactment of this section [Dec. 27, 2020]. “(2) Special rule.—In the case of any State that made a good faith effort to implement section 2102 of division A of the CARES Act ([15 U.S.C. 9021](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9021)) in accordance with rules similar to those provided in section 625.6 of title 20, Code of Federal Regulations, for weeks ending before the effective date specified in paragraph (1), an individual who received pandemic unemployment assistance from such State for any such week shall not be considered ineligible for such assistance for such week solely by reason of failure to submit a recertification described in subsection (c)(5) of such section 2102.”
 
-#### Hold Harmless for Proper Administration of 2020 Amendment
-Pub. L. 116–260, div. N, title II, § 201(e), Dec. 27, 2020, 134 Stat. 1952, provided that: “In the case of an individual who is eligible to receive pandemic unemployment assistance under section 2102 the CARES Act ([15 U.S.C. 9021](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9021)) as of the day before the date of enactment of this Act [Dec. 27, 2020] and on the date of enactment of this Act becomes eligible for pandemic emergency unemployment compensation under section 2107 of the CARES Act ([15 U.S.C. 9025](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9025)) by reason of the amendments made by section 206(b) of this subtitle [amending [section 9025 of this title](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9025)], any payment of pandemic unemployment assistance under such section 2102 made after the date of enactment of this Act to such individual during an appropriate period of time, as determined by the Secretary of Labor, that should have been made under such section 2107 shall not be considered to be an overpayment of assistance under such section 2102, except that an individual may not receive payment for assistance under section 2102 and a payment for assistance under section 2107 for the same week of unemployment.”
+#### Hold Harmless for Proper Administration of Amendment
+Pub. L. 117–2, title IX, § 9011(c), Mar. 11, 2021, 135 Stat. 118, provided that: “In the case of an individual who is eligible to receive pandemic unemployment assistance under section 2102 of the CARES Act ([15 U.S.C. 9021](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9021)) as of the day before the date of enactment of this Act [Mar. 11, 2021] and on the date of enactment of this Act becomes eligible for pandemic emergency unemployment compensation under section 2107 of the CARES Act ([15 U.S.C. 9025](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9025)) by reason of the amendments made by [section 9016(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9016/b&num=0&edition=prelim) [amending [section 9025 of this title](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9025)], any payment of pandemic unemployment assistance under such section 2102 made after the date of enactment of this Act to such individual during an appropriate period of time, as determined by the Secretary of Labor, that should have been made under such section 2107 shall not be considered to be an overpayment of assistance under such section 2102, except that an individual may not receive payment for assistance under section 2102 and a payment for assistance under section 2107 for the same week of unemployment.”
+
+Pub. L. 116–260, div. N, title II, § 201(e), Dec. 27, 2020, 134 Stat. 1952, provided that: “In the case of an individual who is eligible to receive pandemic unemployment assistance under section 2102 [of] the CARES Act ([15 U.S.C. 9021](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9021)) as of the day before the date of enactment of this Act [Dec. 27, 2020] and on the date of enactment of this Act becomes eligible for pandemic emergency unemployment compensation under section 2107 of the CARES Act ([15 U.S.C. 9025](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9025)) by reason of the amendments made by section 206(b) of this subtitle [amending [section 9025 of this title](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9025)], any payment of pandemic unemployment assistance under such section 2102 made after the date of enactment of this Act to such individual during an appropriate period of time, as determined by the Secretary of Labor, that should have been made under such section 2107 shall not be considered to be an overpayment of assistance under such section 2102, except that an individual may not receive payment for assistance under section 2102 and a payment for assistance under section 2107 for the same week of unemployment.”
 
 #### First Application Limitation
 Pub. L. 116–260, div. N, title II, § 201(f), Dec. 27, 2020, 134 Stat. 1952, provided that: “In the case of a covered individual whose first application for pandemic unemployment assistance under section 2102 of the CARES Act ([15 U.S.C. 9021](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9021)) is filed after the date of enactment of this Act [Dec. 27, 2020], subsection (c)(1)(A)(i) of such section 2102 shall be applied by substituting ‘December 1, 2020’ for ‘January 27, 2020’.”
@@ -1482,7 +1771,7 @@ The Secretary of Labor may issue clarifying guidance to allow States to interpre
 
     (i) For weeks of unemployment beginning after the date on which an agreement is entered into under this section and ending on or before July 31, 2020, $600.
 
-    (ii) For weeks of unemployment beginning after December 26, 2020 (or, if later, the date on which such agreement is entered into), and ending on or before March 14, 2021, $300.
+    (ii) For weeks of unemployment beginning after December 26, 2020 (or, if later, the date on which such agreement is entered into), and ending on or before September 6, 2021, $300.
 
 (4) **Certain documentation required** — An agreement under this section shall include a requirement, similar to the requirement under [section 9021(a)(3)(A)(iii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9021/a/3/A/iii&num=0&edition=prelim), for the substantiation of self-employment income with respect to each applicant for Mixed Earner Unemployment Compensation under paragraph (1)(C).
 
@@ -1512,7 +1801,7 @@ The Secretary of Labor may issue clarifying guidance to allow States to interpre
 
 (1) to weeks of unemployment beginning after the date on which such agreement is entered into and ending on or before July 31, 2020; and
 
-(2) to weeks of unemployment beginning after December 26, 2020 (or, if later, the date on which such agreement is entered into), and ending on or before March 14, 2021.
+(2) to weeks of unemployment beginning after December 26, 2020 (or, if later, the date on which such agreement is entered into), and ending on or before September 6, 2021.
 
 **(f) Fraud and overpayments**
 
@@ -1568,6 +1857,10 @@ The Social Security Act, referred to in subsec. (h), is act Aug. 14, 1935, ch. 5
 Section 205 of the Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsec. (i)(1), (2)(A), is section 205 of Pub. L. 91–373, which is set out in a note under [section 3304 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3304&num=0&edition=prelim), Internal Revenue Code.
 
 #### Amendments
+2021—Subsec. (b)(3)(A)(ii). Pub. L. 117–2, § 9013(b), substituted “September 6, 2021” for “March 14, 2021”.
+
+Subsec. (e)(2). Pub. L. 117–2, § 9013(a), substituted “September 6, 2021” for “March 14, 2021”.
+
 2020—Subsec. (b)(1)(B). Pub. L. 116–260, § 261(a)(1)(A), substituted “, plus” for period at end.
 
 Pub. L. 116–260, § 203(b)(1)(A), substituted “amount equal to the amount specified in paragraph (3)” for “amount of $600”.
@@ -1619,8 +1912,6 @@ Commonwealth Only Transitional Workers to be considered qualified aliens under [
 
 (2) **Terms of payments** — Sums payable to any State by reason of such State’s having an agreement under this section shall be payable, either in advance or by way of reimbursement (as determined by the Secretary), in such amounts as the Secretary estimates the State will be entitled to receive under this section for each calendar month, reduced or increased, as the case may be, by any amount by which the Secretary finds that his estimates for any prior calendar month were greater or less than the amounts which should have been paid to the State. Such estimates may be made on the basis of such statistical, sampling, or other method as may be agreed upon by the Secretary and the State agency of the State involved.
 
-(3) **Partial reimbursement** — With respect to compensation paid to individuals for weeks of unemployment ending after December 31, 2020, paragraph (1) shall be applied by substituting “50 percent” for “100 percent”.
-
 **(d) Funding**
 
 (1) **Compensation**
@@ -1641,7 +1932,7 @@ Commonwealth Only Transitional Workers to be considered qualified aliens under [
 
 (1) beginning after the date on which such agreement is entered into; and
 
-(2) ending on or before March 14, 2021.
+(2) ending on or before September 6, 2021.
 
 **(f) Fraud and overpayments** The provisions of [section 9025(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9025/e&num=0&edition=prelim) shall apply with respect to compensation paid under an agreement under this section to the same extent and in the same manner as in the case of pandemic emergency unemployment compensation under such section.
 
@@ -1655,11 +1946,18 @@ Section 905(g) and section 904(a), referred to in subsec. (d)(1)(A), probably me
 Section 205 of the Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsec. (g), is section 205 of Pub. L. 91–373, which is set out in a note under [section 3304 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3304&num=0&edition=prelim), Internal Revenue Code.
 
 #### Amendments
+2021—Subsec. (c)(3). Pub. L. 117–2, § 9014(b), struck out par. (3). Text read as follows: “With respect to compensation paid to individuals for weeks of unemployment ending after December 31, 2020, paragraph (1) shall be applied by substituting ‘50 percent’ for ‘100 percent’.”
+
+Subsec. (e)(2). Pub. L. 117–2, § 9014(a), substituted “September 6, 2021” for “March 14, 2021”.
+
 2020—Subsec. (c)(1). Pub. L. 116–260, § 204(1)(A), substituted “Except as provided in paragraph (3), there shall be paid” for “There shall be paid” in introductory provisions.
 
 Subsec. (c)(3). Pub. L. 116–260, § 204(1)(B), added par. (3).
 
 Subsec. (e)(2). Pub. L. 116–260, § 204(2), substituted “March 14, 2021” for “December 31, 2020”.
+
+#### Full Reimbursement
+Pub. L. 117–2, title IX, § 9014(b), Mar. 11, 2021, 135 Stat. 119, provided that: “Paragraph (3) of section 2105(c) of such Act ([15 U.S.C. 9024(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9024/c&num=0&edition=prelim)) is repealed and such section shall be applied to weeks of unemployment to which an agreement under section 2105 of such Act applies as if such paragraph had not been enacted. In implementing the preceding sentence, a State may, if necessary, reenter the agreement with the Secretary under section 2105 of such Act, and retroactively pay for the first week of regular compensation without a waiting week consistent with State law (including a waiver of State law) and receive full reimbursement for weeks of unemployment that ended after December 31, 2020.”
 
 
 <a id="section-9025"></a>
@@ -1704,7 +2002,7 @@ Subsec. (e)(2). Pub. L. 116–260, § 204(2), substituted “March 14, 2021” f
 
   (A) *In general* — Subject to subparagraph (B), an agreement under this section shall apply with respect to a State only upon a determination by the Secretary that, under the State law or other applicable rules of such State, the payment of extended compensation for which an individual is otherwise eligible must be deferred until after the payment of any pandemic emergency unemployment compensation under subsection (b) for which the individual is concurrently eligible.
 
-  (B) *Special rule* — In the case of an individual who is receiving extended compensation under the State law for the week that includes December 27, 2020 (without regard to the amendments made by subsections (a) and (b) of section 206 of the Continued Assistance for Unemployed Workers Act of 2020), such individual shall not be eligible to receive pandemic emergency unemployment compensation by reason of such amendments until such individual has exhausted all rights to such extended benefits.
+  (B) *Special rule* — In the case of an individual who is receiving extended compensation under the State law for the week that includes December 27, 2020 (without regard to the amendments made by subsections (a) and (b) of section 206 of the Continued Assistance for Unemployed Workers Act of 2020) or for the week that includes March 11, 2021 (without regard to the amendments made by subsections (a) and (b) of section 9016 of the American Rescue Plan Act of 2021), such individual shall not be eligible to receive pandemic emergency unemployment compensation by reason of such amendments until such individual has exhausted all rights to such extended benefits.
 
 (6) **Nonreduction rule**
 
@@ -1726,7 +2024,7 @@ Subsec. (e)(2). Pub. L. 116–260, § 204(2), substituted “March 14, 2021” f
 
   (B) *Flexibility* — Notwithstanding the requirements under subparagraph (A) and paragraph (2)(D), a State shall provide flexibility in meeting such requirements in case of individuals unable to search for work because of COVID–19, including because of illness, quarantine, or movement restriction.
 
-(8) **Special rule for extended compensation** — At the option of a State, for any weeks of unemployment beginning after December 27, 2020, and before April 12, 2021, an individual’s eligibility period (as described in section 203(c) of the Federal-State Extended Unemployment Compensation Act of 1970 ([26 U.S.C. 3304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3304&num=0&edition=prelim) note)) shall, for purposes of any determination of eligibility for extended compensation under the State law of such State, be considered to include any week which begins—
+(8) **Special rule for extended compensation** — At the option of a State, for any weeks of unemployment beginning after December 27, 2020, and before September 6, 2021, an individual’s eligibility period (as described in section 203(c) of the Federal-State Extended Unemployment Compensation Act of 1970 ([26 U.S.C. 3304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3304&num=0&edition=prelim) note)) shall, for purposes of any determination of eligibility for extended compensation under the State law of such State, be considered to include any week which begins—
 
   (A) after the date as of which such individual exhausts all rights to pandemic emergency unemployment compensation; and
 
@@ -1736,7 +2034,7 @@ Subsec. (e)(2). Pub. L. 116–260, § 204(2), substituted “March 14, 2021” f
 
 (1) **In general** — Any agreement under this section shall provide that the State will establish, for each eligible individual who files an application for pandemic emergency unemployment compensation, an 1 pandemic emergency unemployment compensation account with respect to such individual’s benefit year.
 
-(2) **Amount in account** — The amount established in an account under subsection (a) shall be equal to 24 times the individual’s average weekly benefit amount, which includes the amount of Federal Pandemic Unemployment Compensation under [section 9023 of this title](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9023), for the benefit year.
+(2) **Amount in account** — The amount established in an account under subsection (a) shall be equal to 53 times the individual’s average weekly benefit amount, which includes the amount of Federal Pandemic Unemployment Compensation under [section 9023 of this title](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9023), for the benefit year.
 
 (3) **Weekly benefit amount** — For purposes of this subsection, an individual’s weekly benefit amount for any week is the amount of regular compensation (including dependents’ allowances) under the State law payable to such individual for such week for total unemployment plus the amount of Federal Pandemic Unemployment Compensation under [section 9023 of this title](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9023).
 
@@ -1751,7 +2049,7 @@ Subsec. (e)(2). Pub. L. 116–260, § 204(2), substituted “March 14, 2021” f
     (iii) that individual has remaining entitlement to pandemic emergency unemployment compensation with respect to that benefit year; and
 
     (iv) that individual would qualify for a new benefit year in which the weekly benefit amount of regular compensation is at least $25 less than the individual’s weekly benefit amount in the benefit year referred to in clause (i),
-  then the State shall determine eligibility for compensation as provided in subparagraph (B).
+    then the State shall determine eligibility for compensation as provided in subparagraph (B).
 
   (B) *Determination of eligibility* — For individuals described in subparagraph (A), the State shall determine whether the individual is to be paid pandemic emergency unemployment compensation or regular compensation for a week of unemployment using one of the following methods:
 
@@ -1815,26 +2113,32 @@ Subsec. (e)(2). Pub. L. 116–260, § 204(2), substituted “March 14, 2021” f
 
 **(f) Definitions** In this section, the terms “compensation”, “regular compensation”, “extended compensation”, “benefit year”, “base period”, “State”, “State agency”, “State law”, and “week” have the respective meanings given such terms under section 205 of the Federal-State Extended Unemployment Compensation Act of 1970 ([26 U.S.C. 3304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3304&num=0&edition=prelim) note).
 
-**(g) Applicability**
+**(g) Applicability** An agreement entered into under this section shall apply to weeks of unemployment—
 
-(1) **In general** — Except as provided in paragraphs (2) and (3), an agreement entered into under this section shall apply to weeks of unemployment—
+(1) beginning after the date on which such agreement is entered into; and
 
-  (A) beginning after the date on which such agreement is entered into; and
-
-  (B) ending on or before March 14, 2021.
-
-(2) **Transition rule for individuals remaining entitled to Pandemic Emergency Unemployment Compensation as of March 14, 2021** — In the case of any individual who, as of the date specified in paragraph (1)(B), is receiving Pandemic Emergency Unemployment Compensation but has not yet exhausted all rights to such assistance under this section, Pandemic Emergency Unemployment Compensation shall continue to be payable to such individual for any week beginning on or after such date for which the individual is otherwise eligible for Pandemic Emergency Unemployment Compensation.
-
-(3) **Termination** — Notwithstanding any other provision of this subsection, no Pandemic Emergency Unemployment Compensation shall be payable for any week beginning after April 5, 2021.
+(2) ending on or before September 6, 2021.
 
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (d)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title III of the Act is classified generally to subchapter III (§ 501 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The amendments made by subsections (a) and (b) of section 206 of the Continued Assistance for Unemployed Workers Act of 2020, referred to in subsec. (a)(5)(B), are the amendments made by subsecs. (a) and (b) of section 206 of chapter 1 of subtitle A of title II of div. N of Pub. L. 116–260, which amended this section.
+
+The amendments made by subsections (a) and (b) of section 9016 of the American Rescue Plan Act of 2021, referred to in subsec. (a)(5)(B), are the amendments made by subsecs. (a) and (b) of section 9016 of Pub. L. 117–2, which amended this section.
 
 Sections 203(c) and 205 of the Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsecs. (a)(8) and (f), respectively, are sections 203(c) and 205 of Pub. L. 91–373, which are set out in a note under [section 3304 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3304&num=0&edition=prelim), Internal Revenue Code.
 
+The Social Security Act, referred to in subsec. (d)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title III of the Act is classified generally to subchapter III (§ 501 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+
 #### Amendments
+2021—Subsec. (a)(5)(B). Pub. L. 117–2, § 9016(c), inserted “or for the week that includes March 11, 2021 (without regard to the amendments made by subsections (a) and (b) of section 9016 of American Rescue Plan Act of 2021)” after “2020)”.
+
+Subsec. (a)(8). Pub. L. 117–2, § 9016(d), substituted “September 6, 2021” for “April 12, 2021” in introductory provisions.
+
+Subsec. (b)(2). Pub. L. 117–2, § 9016(b), substituted “53 times” for “24 times”.
+
+Subsec. (g). Pub. L. 117–2, § 9016(a), amended subsec. (g) generally. Prior to amendment, subsec. (g) related to applicability, transition rule, and termination date.
+
 2020—Subsec. (a)(4)(A). Pub. L. 116–260, § 261(b)(2), struck out “and” at end of cl. (i), substituted “[section 9023(b)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9023/b/1/B&num=0&edition=prelim); and” for “[section 9023 of this title](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9023);” in cl. (ii), and added cl. (iii).
 
 Subsec. (a)(5). Pub. L. 116–260, § 206(c)(2)(A), substituted “rules” for “rule” in heading, designated existing provisions as subpar. (A), inserted subpar. heading, substituted “Subject to subparagraph (B), an agreement” for “An agreement”, and added subpar. (B).
@@ -1850,6 +2154,9 @@ Subsec. (g). Pub. L. 116–260, § 206(a), amended subsec. (g) generally. Prior 
 “(1) beginning after the date on which such agreement is entered into; and
 
 “(2) ending on or before December 31, 2020.”
+
+#### Effective Date of 2021 Amendment
+Pub. L. 117–2, title IX, § 9016(e), Mar. 11, 2021, 135 Stat. 120, provided that: “The amendments made by this section [amending this section] shall apply as if included in the enactment of the CARES Act (Public Law 116–136), except that no amount shall be payable by virtue of such amendments with respect to any week of unemployment ending on or before March 14, 2021.”
 
 #### Effective Date of 2020 Amendment
 Pub. L. 116–260, div. N, title II, § 206(d), Dec. 27, 2020, 134 Stat. 1956, provided that: “(1) In general.—Except as provided in paragraph (2), the amendments made by this section [amending this section] shall apply as if included in the enactment of the CARES Act (Public Law 116–136), except that no amount shall be payable by virtue of such amendments with respect to any week of unemployment commencing before the date of the enactment of this Act [Dec. 27, 2020]. “(2) Coordination rules.—The amendments made by subsection (c)(1) shall apply to individuals whose benefit years, as described in section 2107(b)(4)(A)(ii) of the CARES Act [[15 U.S.C. 9025(b)(4)(A)(ii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9025/b/4/A/ii&num=0&edition=prelim)], expire after the date of enactment of this Act.”
@@ -1873,7 +2180,7 @@ Pub. L. 116–260, div. N, title II, § 206(d), Dec. 27, 2020, 134 Stat. 1956, p
 
 (1) beginning on or after March 27, 2020; and
 
-(2) ending on or before March 14, 2021.
+(2) ending on or before September 6, 2021.
 
 **(c) New programs** Subject to subsection (b)(2), if at any point after March 27, 2020, the State enacts a State law providing for the payment of short-time compensation under a short-time compensation program that meets the definition of such a program under [section 3306(v) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3306/v&num=0&edition=prelim), the State shall be eligible for payments under this section after the effective date of such enactment.
 
@@ -1898,6 +2205,8 @@ Section 205 of the Federal-State Extended Unemployment Compensation Act of 1970,
 Section is comprised of section 2108 of Pub. L. 116–136. Subsec. (f) of section 2108 of Pub. L. 116–136 amended [section 3306 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3306&num=0&edition=prelim), Internal Revenue Code.
 
 #### Amendments
+2021—Subsec. (b)(2). Pub. L. 117–2 substituted “September 6, 2021” for “March 14, 2021”.
+
 2020—Subsec. (b)(2). Pub. L. 116–260 substituted “March 14, 2021” for “December 31, 2020”.
 
 
@@ -1939,7 +2248,7 @@ Section is comprised of section 2108 of Pub. L. 116–136. Subsec. (f) of sectio
 
 (1) beginning on or after the date on which such agreement is entered into; and
 
-(2) ending on or before March 14, 2021.
+(2) ending on or before September 6, 2021.
 
 **(e) Special rule** If a State has entered into an agreement under this section and subsequently enacts a State law providing for the payment of short-time compensation under a short-time compensation program that meets the definition of such a program under [section 3306(v) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3306/v&num=0&edition=prelim), the State—
 
@@ -1959,6 +2268,8 @@ Section is comprised of section 2108 of Pub. L. 116–136. Subsec. (f) of sectio
 Section 205 of the Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsec. (f)(2), is section 205 of Pub. L. 91–373, which is set out in a note under [section 3304 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3304&num=0&edition=prelim), Internal Revenue Code.
 
 #### Amendments
+2021—Subsec. (d)(2). Pub. L. 117–2 substituted “September 6, 2021” for “March 14, 2021”.
+
 2020—Subsec. (d)(2). Pub. L. 116–260 substituted “March 14, 2021” for “December 31, 2020”.
 
 
@@ -2066,7 +2377,7 @@ Section is comprised of section 2111 of Pub. L. 116–136. Subsec. (d) of sectio
 
 <a id="section-9030"></a>
 ## § 9030. Waiver of the 7-day waiting period for benefits under the Railroad Unemployment Insurance Act
-**(a) No waiting week** With respect to any registration period beginning after March 27, 2020, and ending on or before March 14, 2021, subparagraphs (A)(ii) and (B)(ii) of section 2(a)(1) of the Railroad Unemployment Insurance Act ([45 U.S.C. 352(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section352/a/1&num=0&edition=prelim)) shall not apply.
+**(a) No waiting week** With respect to any registration period beginning after March 27, 2020, and ending on or before September 6, 2021, subparagraphs (A)(ii) and (B)(ii) of section 2(a)(1) of the Railroad Unemployment Insurance Act ([45 U.S.C. 352(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section352/a/1&num=0&edition=prelim)) shall not apply.
 
 **(b) Operating instructions and regulations** The Railroad Retirement Board may prescribe any operating instructions or regulations necessary to carry out this section.
 
@@ -2077,12 +2388,16 @@ Section is comprised of section 2111 of Pub. L. 116–136. Subsec. (d) of sectio
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 117–2 substituted “September 6, 2021” for “March 14, 2021”.
+
 2020—Subsec. (a). Pub. L. 116–260 substituted “March 14, 2021” for “December 31, 2020”.
 
 #### Regulations
 Pub. L. 116–260, div. N, title II, § 234(b), Dec. 27, 2020, 134 Stat. 1959, provided that: “The Railroad Retirement Board may prescribe any operating instructions or regulations necessary to carry out this section [amending this section and enacting provisions set out as a note under this section].”
 
 #### Clarification on Authority To Use Funds
+Pub. L. 117–2, title II, § 2903(b), Mar. 11, 2021, 135 Stat. 50, provided that: “Funds appropriated under section 2112(c) of the CARES Act ([15 U.S.C. 9030(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9030/c&num=0&edition=prelim)) shall be available to cover the cost of additional benefits payable due to section 2112(a) of such Act by reason of the amendments made by subsection (a) [amending this section] as well as to cover the cost of such benefits payable due to such section 2112(a) as in effect on the day before the date of enactment of this Act [Mar. 11, 2021].”
+
 Pub. L. 116–260, div. N, title II, § 234(c), Dec. 27, 2020, 134 Stat. 1959, provided that: “Funds appropriated under section 2112(c) of the CARES Act ([15 U.S.C. 9030(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9030/c&num=0&edition=prelim)) shall be available to cover the cost of additional benefits payable due to section 2112(a) of such Act [[15 U.S.C. 9030(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9030/a&num=0&edition=prelim)] by reason of the amendments made by subsection (a) [amending this section] as well as to cover the cost of such benefits payable due to such section 2112(a) as in effect on the day before the date of enactment of this Act [Dec. 27, 2020].”
 
 
@@ -2127,6 +2442,30 @@ This subtitle, referred to in text, is subtitle A (§ 2101 et seq.) of title II 
 
 #### Effective Date
 Pub. L. 116–260, div. N, title II, § 251(b), Dec. 27, 2020, 134 Stat. 1961, provided that: “The requirements imposed by this section [enacting this section] shall take effect 30 days from the date of enactment of this Act [Dec. 27, 2020].”
+
+
+<a id="section-9034"></a>
+## § 9034. Funding for fraud prevention, equitable access, and timely payment to eligible workers
+**(a) In general** In addition to amounts otherwise available, there is appropriated to the Secretary of Labor for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $2,000,000,000, to remain available until expended, to detect and prevent fraud, promote equitable access, and ensure the timely payment of benefits with respect to unemployment compensation programs, including programs extended under subtitle A of title IX of the American Rescue Plan Act of 2021.
+
+**(b) Use of funds** Amounts made available under subsection (a) may be used—
+
+(1) for Federal administrative costs related to the purposes described in subsection (a);
+
+(2) for systemwide infrastructure investment and development related to such purposes; and
+
+(3) to make grants to States or territories administering unemployment compensation programs described in subsection (a) (including territories administering the Pandemic Unemployment Assistance program under [section 9021 of this title](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9021)) for such purposes, including the establishment of procedures or the building of infrastructure to verify or validate identity, implement Federal guidance regarding fraud detection and prevention, and accelerate claims processing or process claims backlogs due to the pandemic.
+
+**(c) Restrictions on grants to States and territories** As a condition of receiving a grant under subsection (b)(3), the Secretary may require that a State or territory receiving such a grant shall—
+
+(1) use such program integrity tools as the Secretary may specify; and
+
+(2) as directed by the Secretary, conduct user accessibility testing on any new system developed by the Secretary pursuant to subsection (b)(2).
+
+### Statutory Notes
+
+#### References in Text
+Subtitle A of title IX of the American Rescue Plan Act of 2021, referred to in subsec. (a), is subtitle A (§§ 9011–9042) of title IX of Pub. L. 117–2, Mar. 11, 2021, 135 Stat. 118. For complete classification of subtitle A to the Code, see Tables.
 
 
 <a id="section-9041"></a>
@@ -2329,7 +2668,7 @@ The Railway Labor Act, referred to in par. (5)(B), is act May 20, 1926, ch. 347,
 
   (B) the amount necessary to repay any amount lent from the Treasury to such financing accounts.
 
-(2) After the deposits specified in paragraph (1) of this subsection have been made, into the Federal Old-Age and Survivors Insurance Trust Fund established under [section 401 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim).
+(2) After the deposits specified in paragraph (1) of this subsection have been made, into the Federal Old-Age and Survivors Insurance Trust Fund established under [section 401(a) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401/a&num=0&edition=prelim).
 
 **(f) Administrative provisions** Notwithstanding any other provision of law, the Secretary may use not greater than $100,000,000 of the funds made available under [section 9061 of this title](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9061) to pay costs and administrative expenses associated with the loans, loan guarantees, and other investments authorized under this section. The Secretary is authorized to take such actions as the Secretary deems necessary to carry out the authorities in this part, including, without limitation—
 
@@ -2351,7 +2690,7 @@ The Railway Labor Act, referred to in par. (5)(B), is act May 20, 1926, ch. 347,
 
 (1) **In general** — Any loan made by or guaranteed by the Department of the Treasury under this section shall be treated as indebtedness for purposes of the Internal Revenue Code of 1986, shall be treated as issued for its stated principal amount, and stated interest on such loans shall be treated as qualified stated interest.
 
-(2) **Regulations or guidance** — The Secretary of the Treasury (or the Secretary’s delegate) shall prescribe such regulations or guidance as may be necessary or appropriate to carry out the purposes of this section, including guidance providing that the acquisition of warrants, stock options, common or preferred stock or other equity under this section does not result in an ownership change for purposes of section 382 of the Internal Revenue Code of 1986.
+(2) **Regulations or guidance** — The Secretary of the Treasury (or the Secretary’s delegate) shall prescribe such regulations or guidance as may be necessary or appropriate to carry out the purposes of this section, including guidance providing that the acquisition of warrants, stock options, common or preferred stock or other equity under this section does not result in an ownership change for purposes of section 382 of the Internal Revenue Code of 1986 [[26 U.S.C. 382](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section382&num=0&edition=prelim)].
 
 ### Statutory Notes
 
@@ -2360,7 +2699,7 @@ The Federal Credit Reform Act of 1990, referred to in subsec. (a), is title V of
 
 This part, referred to in subsecs. (e)(1) and (f), was in the original “this subtitle”, meaning subtitle A (§§ 4001–4029) of title IV of div. A of Pub. L. 116–136, which is classified principally to this part. For complete classification of subtitle A to the Code, see section 4001 of Pub. L. 116–136, set out as a Short Title note under [section 9001 of this title](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9001), and Tables.
 
-The Internal Revenue Code of 1986, referred to in subsec. (h), is classified generally to Title 26, Internal Revenue Code.
+The Internal Revenue Code of 1986, referred to in subsec. (h)(1), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
 2020—Subsec. (a). Pub. L. 116–260, § 1003(b)(1)(A), substituted “$0” for “$500,000,000,000”.
@@ -2420,7 +2759,7 @@ This part, referred to in text, was in the original “this subtitle”, meaning
 
 <a id="section-9046"></a>
 ## § 9046. Suspension of certain aviation excise taxes
-**(a) Transportation by air** In the case of any amount paid for transportation by air (including any amount treated as paid for transportation by air by reason of [section 4261(e)(3) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section4261/e/3&num=0&edition=prelim)) during the excise tax holiday period, no tax shall be imposed under section 4261 or 4271 of such Code. The preceding sentence shall not apply to amounts paid on or before March 27, 2020.
+**(a) Transportation by air** In the case of any amount paid for transportation by air (including any amount treated as paid for transportation by air by reason of [section 4261(e)(3) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section4261/e/3&num=0&edition=prelim)) during the excise tax holiday period, no tax shall be imposed under section 4261 or 4271 of title 26. The preceding sentence shall not apply to amounts paid on or before March 27, 2020.
 
 **(b) Use of Kerosene in commercial aviation** In the case of kerosene used in commercial aviation (as defined in [section 4083 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section4083&num=0&edition=prelim)) during the excise tax holiday period—
 
@@ -2504,9 +2843,9 @@ The National Emergencies Act, referred to in subsec. (a)(1), is Pub. L. 94–412
 ### Statutory Notes
 
 #### References in Text
-Section 2 of the Economic Growth, Regulatory Relief, and Consumer Protection Act, referred to in subsec. (a)(1), is section 2 of Pub. L. 115–174, May 24, 2018, 132 Stat. 1297, which is classified as a note under [section 5365 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5365&num=0&edition=prelim), Banks and Banking.
+Section 2 of the Economic Growth, Regulatory Relief, and Consumer Protection Act, referred to in subsec. (a)(1), is section 2 of Pub. L. 115–174, May 24, 2018, 132 Stat. 1297, which is set out as a note under [section 5365 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5365&num=0&edition=prelim), Banks and Banking.
 
-Section 201 of the Economic Growth, Regulatory Relief, and Consumer Protection Act, referred to in subsecs. (a)(2), (b)(1), and (c), is section 201 of Pub. L. 115–174, May 24, 2018, 132 Stat. 1306, which is classified as a note under [section 5371 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5371&num=0&edition=prelim), Banks and Banking.
+Section 201 of the Economic Growth, Regulatory Relief, and Consumer Protection Act, referred to in subsecs. (a)(2), (b)(1), and (c), is section 201 of Pub. L. 115–174, May 24, 2018, 132 Stat. 1306, which is set out as a note under [section 5371 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5371&num=0&edition=prelim), Banks and Banking.
 
 The National Emergencies Act, referred to in subsec. (b)(2)(A), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§ 1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) and Tables.
 
@@ -3061,7 +3400,7 @@ The National Emergencies Act, referred to in subsec. (f)(4), (5)(A), is Pub. L. 
 
     (iv) section 801(d) of such title shall not apply to such payments; and
 
-    (v) section 801(e) of such title 22 See Codification note below. shall be applied —
+    (v) section 801(e) of such title 22 See Codification note below. shall be applied—
 
       (I) by substituting “under [section 9058a of title 15](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9058a)” for “under this section”; and
 
@@ -3170,7 +3509,7 @@ The National Emergencies Act, referred to in subsec. (f)(4), (5)(A), is Pub. L. 
 
 **(e) Availability**
 
-(1) **In general** — Funds provided to an eligible grantee under a payment made under this section shall remain available through December 31, 2021.
+(1) **In general** — Funds provided to an eligible grantee under a payment made under this section shall remain available through September 30, 2022.
 
 (2) **Extension for funds provided pursuant to a reallocation of unused funds** — For funds reallocated to an eligible grantee pursuant to subsection (d), an eligible grantee may request, subject to the approval of the Secretary, a 90-day extension of the deadline established in paragraph (1).
 
@@ -3270,7 +3609,7 @@ The National Emergencies Act, referred to in subsec. (f)(4), (5)(A), is Pub. L. 
 
   (A) *In general* — The term “eligible household” means a household of 1 or more individuals who are obligated to pay rent on a residential dwelling and with respect to which the eligible grantee involved determines—
 
-    (i) that 1 or more individuals within the household has
+    (i) that 1 or more individuals within the household has 33 So in original. Probably should be followed by a dash.
 
       (I) qualified for unemployment benefits or
 
@@ -3321,6 +3660,263 @@ The Alaska Native Claims Settlement Act, referred to in subsec. (k)(2)(C), is Pu
 In subsec. (b)(1)(A)(v), “section 801(e) of such title” was in the original “section 601(e)”, and was translated as meaning “section 601(e) of such Act”, meaning section 601(e) of the Social Security Act, to reflect the probable intent of Congress.
 
 Section was enacted as part of the Consolidated Appropriations Act, 2021, and not as part of the CARES Act which in part comprises this chapter.
+
+#### Amendments
+2021—Subsec. (e)(1). Pub. L. 117–2 substituted “September 30, 2022” for “December 31, 2021”.
+
+
+<a id="section-9058b"></a>
+## § 9058b. Funding for water assistance program
+**(a) In general** In addition to amounts otherwise available, there is appropriated to the Secretary of Health and Human Services (in this section referred to as the “Secretary”) for fiscal year 2021, out of any amounts in the Treasury not otherwise appropriated, $500,000,000, to remain available until expended, for grants to States and Indian Tribes to assist low-income households, particularly those with the lowest incomes, that pay a high proportion of household income for drinking water and wastewater services, by providing funds to owners or operators of public water systems or treatment works to reduce arrearages of and rates charged to such households for such services.
+
+**(b) Allotment** The Secretary shall—
+
+(1) allot amounts appropriated in this section to a State or Indian Tribe based on—
+
+  (A) the percentage of households in the State, or under the jurisdiction of the Indian Tribe, with income equal or less than 150 percent of the Federal poverty line; and
+
+  (B) the percentage of households in the State, or under the jurisdiction of the Indian Tribe, that spend more than 30 percent of monthly income on housing; and
+
+(2) reserve up to 3 percent of the amount appropriated in this section for Indian Tribes and tribal organizations.
+
+**(c) Definition** In this section, the term “State” means each of the 50 States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the American Rescue Plan Act of 2021, and not as part of the CARES Act which in part comprises this chapter.
+
+
+<a id="section-9058c"></a>
+## § 9058c. Emergency rental assistance
+**(a) Funding**
+
+(1) **Appropriation** — In addition to amounts otherwise available, there is appropriated to the Secretary of the Treasury for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $21,550,000,000, to remain available until September 30, 2027, for making payments to eligible grantees under this section—
+
+(2) **Reservation of funds** — Of the amount appropriated under paragraph (1), the Secretary shall reserve—
+
+  (A) $305,000,000 for making payments under this section to the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, the Commonwealth of the Northern Mariana Islands, and American Samoa;
+
+  (B) $30,000,000 for costs of the Secretary for the administration of emergency rental assistance programs and technical assistance to recipients of any grants made by the Secretary to provide financial and other assistance to renters;
+
+  (C) $3,000,000 for administrative expenses of the Inspector General relating to oversight of funds provided in this section; and
+
+  (D) $2,500,000,000 for payments to high-need grantees as provided in this section.
+
+**(b) Allocation of funds to eligible grantees**
+
+(1) **Allocation for States and units of local government**
+
+  (A) *In general* — The amount appropriated under paragraph (1) of subsection (a) that remains after the application of paragraph (2) of such subsection shall be allocated to eligible grantees described in subparagraphs (A) and (B) of subsection (f)(1) in the same manner as the amount appropriated under [section 9058a of this title](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9058a) is allocated to States and units of local government under subsection (b)(1) of such section, except that [section 9058a(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9058a/b&num=0&edition=prelim) shall be applied—
+
+    (i) without regard to clause (i) of paragraph (1)(A);
+
+    (ii) by deeming the amount appropriated under paragraph (1) of subsection (a) of this Act 11 So in original. Probably should be “this section”. that remains after the application of paragraph (2) of such subsection to be the amount deemed to apply for purposes of applying clause (ii) of [section 9058a(b)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9058a/b/1/A&num=0&edition=prelim);
+
+    (iii) by substituting “$152,000,000” for “$200,000,000” each place such term appears;
+
+    (iv) in subclause (I) of such [section 9058a(b)(1)(A)(v) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9058a/b/1/A/v&num=0&edition=prelim), by substituting “under [section 9058c of title 15](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9058c)” for “under [section 9058a of title 15](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9058a)”; and
+
+    (v) in subclause (II) of such [section 9058a(b)(1)(A)(v) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9058a/b/1/A/v&num=0&edition=prelim), by substituting “local government elects to receive funds from the Secretary under [section 9058c of title 15](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9058c) and will use the funds in a manner consistent with such section” for “local government elects to receive funds from the Secretary under [section 9058a of title 15](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9058a) and will use the funds in a manner consistent with such section”.
+
+  (B) *Pro rata adjustment* — The Secretary shall make pro rata adjustments in the amounts of the allocations determined under subparagraph (A) of this paragraph for entities described in such subparagraph as necessary to ensure that the total amount of allocations made pursuant to such subparagraph does not exceed the remainder appropriated amount described in such subparagraph.
+
+(2) **Allocations for territories** — The amount reserved under subsection (a)(2)(A) shall be allocated to eligible grantees described in subsection (f)(1)(C) in the same manner as the amount appropriated under [section 9058a(a)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9058a/a/2/A&num=0&edition=prelim) is allocated under [section 9058a(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9058a/b/3&num=0&edition=prelim) to eligible grantees described under subparagraph (C) of such [section 9058a(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9058a/b/3&num=0&edition=prelim), except that [section 9058a(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9058a/b/3&num=0&edition=prelim) shall be applied—
+
+  (A) in subparagraph (A), by inserting “of [section 9058c of this title](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9058c)” after “the amount reserved under subsection (a)(2)(A)”; and
+
+  (B) in clause (i) of subparagraph (B), by substituting “the amount equal to 0.3 percent of the amount appropriated under subsection (a)(1)” with “the amount equal to 0.3 percent of the amount appropriated under subsection (a)(1) of [section 9058c of this title](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9058c)”.
+
+(3) **High-need grantees** — The Secretary shall allocate funds reserved under subsection (a)(2)(D) to eligible grantees with a high need for assistance under this section, with the number of very low-income renter households paying more than 50 percent of income on rent or living in substandard or overcrowded conditions, rental market costs, and change in employment since February 2020 used as the factors for allocating funds.
+
+**(c) Payment schedule**
+
+(1) **In general** — The Secretary shall pay all eligible grantees not less than 40 percent of each such eligible grantee’s total allocation provided under subsection (b) within 60 days of March 11, 2021.
+
+(2) **Subsequent payments** — The Secretary shall pay to eligible grantees additional amounts in tranches up to the full amount of each such eligible grantee’s total allocation in accordance with a procedure established by the Secretary, provided that any such procedure established by the Secretary shall require that an eligible grantee must have obligated not less than 75 percent of the funds already disbursed by the Secretary pursuant to this section prior to disbursement of additional amounts.
+
+**(d) Use of funds**
+
+(1) **In general** — An eligible grantee shall only use the funds provided from payments made under this section as follows:
+
+  (A) *Financial assistance*
+
+    (i) *In general* — Subject to clause (ii) of this subparagraph, funds received by an eligible grantee from payments made under this section shall be used to provide financial assistance to eligible households, not to exceed 18 months, including the payment of—
+
+      (I) rent;
+
+      (II) rental arrears;
+
+      (III) utilities and home energy costs;
+
+      (IV) utilities and home energy costs arrears; and
+
+      (V) other expenses related to housing, as defined by the Secretary.
+
+    (ii) *Limitation* — The aggregate amount of financial assistance an eligible household may receive under this section, when combined with financial assistance provided under [section 9058a of this title](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9058a), shall not exceed 18 months.
+
+  (B) *Housing stability services* — Not more than 10 percent of funds received by an eligible grantee from payments made under this section may be used to provide case management and other services intended to help keep households stably housed.
+
+  (C) *Administrative costs* — Not more than 15 percent of the total amount paid to an eligible grantee under this section may be used for administrative costs attributable to providing financial assistance, housing stability services, and other affordable rental housing and eviction prevention activities, including for data collection and reporting requirements related to such funds.
+
+  (D) *Other affordable rental housing and eviction prevention activities* — An eligible grantee may use any funds from payments made under this section that are unobligated on October 1, 2022, for purposes in addition to those specified in this paragraph, provided that—
+
+    (i) such other purposes are affordable rental housing and eviction prevention purposes, as defined by the Secretary, serving very low-income families (as such term is defined in [section 1437a(b) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1437a/b&num=0&edition=prelim)); and
+
+    (ii) prior to obligating any funds for such purposes, the eligible grantee has obligated not less than 75 percent of the total funds allocated to such eligible grantee in accordance with this section.
+
+(2) **Distribution of assistance** — Amounts appropriated under subsection (a)(1) of this section shall be subject to the same terms and conditions that apply under paragraph (4) of [section 9058a(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9058a/c&num=0&edition=prelim) to amounts appropriated under subsection (a)(1) of such [section 9058a of this title](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9058a).
+
+**(e) Reallocation of funds**
+
+(1) **In general** — Beginning March 31, 2022, the Secretary shall reallocate funds allocated to eligible grantees in accordance with subsection (b) but not yet paid in accordance with subsection (c)(2) according to a procedure established by the Secretary.
+
+(2) **Eligibility for reallocated funds** — The Secretary shall require an eligible grantee to have obligated 50 percent of the total amount of funds allocated to such eligible grantee under subsection (b) to be eligible to receive funds reallocated under paragraph (1) of this subsection.
+
+(3) **Payment of reallocated funds by the Secretary** — The Secretary shall pay to each eligible grantee eligible for a payment of reallocated funds described in paragraph (2) of this subsection the amount allocated to such eligible grantee in accordance with the procedure established by the Secretary in accordance with paragraph (1) of this subsection.
+
+(4) **Use of reallocated funds** — Eligible grantees may use any funds received in accordance with this subsection only for purposes specified in paragraph (1) of subsection (d).
+
+**(f) Definitions** In this section:
+
+(1) **Eligible grantee** — The term “eligible grantee” means any of the following:
+
+  (A) The 50 States of the United States and the District of Columbia.
+
+  (B) A unit of local government (as defined in paragraph (5)).
+
+  (C) The Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, the Commonwealth of the Northern Mariana Islands, and American Samoa.
+
+(2) **Eligible household** — The term “eligible household” means a household of 1 or more individuals who are obligated to pay rent on a residential dwelling and with respect to which the eligible grantee involved determines that—
+
+  (A) 1 or more individuals within the household has—
+
+    (i) qualified for unemployment benefits; or
+
+    (ii) experienced a reduction in household income, incurred significant costs, or experienced other financial hardship during or due, directly or indirectly, to the coronavirus pandemic;
+
+  (B) 1 or more individuals within the household can demonstrate a risk of experiencing homelessness or housing instability; and
+
+  (C) the household is a low-income family (as such term is defined in [section 1437a(b) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1437a/b&num=0&edition=prelim).
+
+(3) **Inspector general** — The term “Inspector General” means the Inspector General of the Department of the Treasury.
+
+(4) **Secretary** — The term “Secretary” means the Secretary of the Treasury.
+
+(5) **Unit of local government** — The term “unit of local government” has the meaning given such term in [section 9058a of this title](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9058a).
+
+**(g) Availability** Funds provided to an eligible grantee under a payment made under this section shall remain available through September 30, 2025.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the American Rescue Plan Act of 2021, and not as part of the CARES Act which in part comprises this chapter.
+
+Section is comprised of section 3201 of Pub. L. 117–2. Subsec. (h) of section 3201 of Pub. L. 117–2 amended [section 9058a of this title](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9058a).
+
+
+<a id="section-9058d"></a>
+## § 9058d. Homeowner Assistance Fund
+**(a) Appropriation** In addition to amounts otherwise available, there is appropriated to the Secretary of the Treasury for the Homeowner Assistance Fund established under subsection (c) for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $9,961,000,000, to remain available until September 30, 2025, for qualified expenses that meet the purposes specified under subsection (c) and expenses described in subsection (d)(1).
+
+**(b) Definitions** In this section:
+
+(1) **Conforming loan limit** — The term “conforming loan limit” means the applicable limitation governing the maximum original principal obligation of a mortgage secured by a single-family residence, a mortgage secured by a 2-family residence, a mortgage secured by a 3-family residence, or a mortgage secured by a 4-family residence, as determined and adjusted annually under [section 1717(b)(2) of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1717/b/2&num=0&edition=prelim) and [section 1454(a)(2) of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1454/a/2&num=0&edition=prelim).
+
+(2) **Dwelling** — The term “dwelling” means any building, structure, or portion thereof which is occupied as, or designed or intended for occupancy as, a residence by one or more individuals.
+
+(3) **Eligible entity** — The term “eligible entity” means—
+
+  (A) a State; or
+
+  (B) any entity eligible for payment under subsection (f).
+
+(4) **Mortgage** — The term “mortgage” means any credit transaction—
+
+  (A) that is secured by a mortgage, deed of trust, or other consensual security interest on a principal residence of a borrower that is (i) a 1- to 4-unit dwelling, or (ii) residential real property that includes a 1- to 4-unit dwelling; and
+
+  (B) the unpaid principal balance of which was, at the time of origination, not more than the conforming loan limit.
+
+(5) **Fund** — The term “Fund” means the Homeowner Assistance Fund established under subsection (c).
+
+(6) **Secretary** — The term “Secretary” means the Secretary of the Treasury.
+
+(7) **State** — The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
+
+**(c) Establishment of Fund**
+
+(1) **Establishment; qualified expenses** — There is established in the Department of the Treasury a Homeowner Assistance Fund to mitigate financial hardships associated with the coronavirus pandemic by providing such funds as are appropriated by subsection (a) to eligible entities for the purpose of preventing homeowner mortgage delinquencies, defaults, foreclosures, loss of utilities or home energy services, and displacements of homeowners experiencing financial hardship after January 21, 2020, through qualified expenses related to mortgages and housing, which include—
+
+  (A) mortgage payment assistance;
+
+  (B) financial assistance to allow a homeowner to reinstate a mortgage or to pay other housing related costs related to a period of forbearance, delinquency, or default;
+
+  (C) principal reduction;
+
+  (D) facilitating interest rate reductions;
+
+  (E) payment assistance for—
+
+    (i) utilities, including electric, gas, home energy, and water;
+
+    (ii) internet service, including broadband internet access service, as defined in section 8.1(b) of title 47, Code of Federal Regulations (or any successor regulation);
+
+    (iii) homeowner’s insurance, flood insurance, and mortgage insurance; and
+
+    (iv) homeowner’s association, condominium association fees, or common charges;
+
+  (F) reimbursement of funds expended by a State, local government, or designated entity under subsection (f) during the period beginning on January 21, 2020, and ending on the date that the first funds are disbursed by the eligible entity under the Homeowner Assistance Fund, for the purpose of providing housing or utility payment assistance to homeowners or otherwise providing funds to prevent foreclosure or post-foreclosure eviction of a homeowner or prevent mortgage delinquency or loss of housing or utilities as a response to the coronavirus disease (COVID) pandemic; and
+
+  (G) any other assistance to promote housing stability for homeowners, including preventing mortgage delinquency, default, foreclosure, post-foreclosure eviction of a homeowner, or the loss of utility or home energy services, as determined by the Secretary.
+
+(2) **Targeting** — Not less than 60 percent of amounts made to each eligible entity allocated amounts under subsection (d) or (f) shall be used for qualified expenses that assist homeowners having incomes equal to or less than 100 percent of the area median income for their household size or equal to or less than 100 percent of the median income for the United States, as determined by the Secretary of Housing and Urban Development, whichever is greater. The eligible entity shall prioritize remaining funds to socially disadvantaged individuals.
+
+**(d) Allocation of Funds**
+
+(1) **Administration** — Of any amounts made available under this section, the Secretary shall reserve—
+
+  (A) to the Department of the Treasury, an amount not to exceed $40,000,000 to administer and oversee the Fund, and to provide technical assistance to eligible entities for the creation and implementation of State and tribal programs to administer assistance from the Fund; and
+
+  (B) to the Inspector General of the Department of the Treasury, an amount to not exceed $2,600,000 for oversight of the program under this section.
+
+(2) **For States** — After the application of paragraphs (1), (4), and (5) of this subsection and subject to paragraph (3) of this subsection, the Secretary shall allocate the remaining funds available within the Homeowner Assistance Fund to each State of the United States, the District of Columbia, and the Commonwealth of Puerto Rico based on homeowner need, for such State relative to all States of the United States, the District of Columbia, and the Commonwealth of Puerto Rico, as of March 11, 2021, which is determined by reference to—
+
+  (A) the average number of unemployed individuals measured over a period of time not fewer than 3 months and not more than 12 months; and
+
+  (B) the total number of mortgagors with—
+
+    (i) mortgage payments that are more than 30 days past due; or
+
+    (ii) mortgages in foreclosure.
+
+(3) **Small State minimum**
+
+  (A) *In general* — Each State of the United States, the District of Columbia, and the Commonwealth of Puerto Rico shall receive no less than $50,000,000 for the purposes established in (c) 11 So in original. Probably should be preceded by “subsection”..
+
+  (B) *Pro rata adjustments* — The Secretary shall adjust on a pro rata basis the amount of the payments for each State of the United States, the District of Columbia, and the Commonwealth of Puerto Rico determined under this subsection without regard to this subparagraph to the extent necessary to comply with the requirements of subparagraph (A).
+
+(4) **Territory set-aside** — Notwithstanding any other provision of this section, of the amounts appropriated under subsection (a), the Secretary shall reserve $30,000,000 to be disbursed to Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands based on each such territory’s share of the combined total population of all such territories, as determined by the Secretary. For the purposes of this paragraph, population shall be determined based on the most recent year for which data are available from the United States Census Bureau.
+
+(5) **Tribal set-aside** — The Secretary shall allocate funds to any eligible entity designated under subsection (f) pursuant to the requirements of that subsection.
+
+**(e) Distribution of funds to States**
+
+(1) **In general** — The Secretary shall make payments, beginning not later than 45 days after March 11, 2021, from amounts allocated under subsection (d) to eligible entities that have notified the Secretary that they request to receive payment from the Fund and that the eligible entity will use such payments in compliance with this section.
+
+(2) If a State does not request allocated funds by the 45th day after March 11, 2021, such State shall not be eligible for a payment from the Secretary pursuant to this section, and the Secretary shall, by the 180th day after March 11, 2021, reallocate any funds that were not requested by such State among the States that have requested funds by the 45th day after March 11, 2021. For any such reallocation of funds, the Secretary shall adhere to the requirements of subsection (d), except for paragraph (1), to the greatest extent possible, provided that the Secretary shall also take into consideration in determining such reallocation a State’s remaining need and a State’s record of using payments from the Fund to serve homeowners at disproportionate risk of mortgage default, foreclosure, or displacement, including homeowners having incomes equal to or less than 100 percent of the area median income for their household size or 100 percent of the median income for the United States, as determined by the Secretary of Housing and Urban Development, whichever is greater, and minority homeowners.
+
+**(f) Tribal set-aside**
+
+(1) **Set-aside** — Notwithstanding any other provision of this section, of the amounts appropriated under subsection (a), the Secretary shall use 5 percent to make payments to entities that are eligible for payments under clauses (i) and (ii) of [section 9058a(b)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9058a/b/2/A&num=0&edition=prelim) for the purposes described in subsection (c).
+
+(2) **Allocation and payment** — The Secretary shall allocate the funds set aside under paragraph (1) using the allocation formulas described in clauses (i) and (ii) of [section 9058a(b)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9058a/b/2/A&num=0&edition=prelim), and shall make payments of such amounts beginning no later than 45 days after March 11, 2021, to entities eligible for payment under clauses (i) and (ii) of [section 9058a(b)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9058a/b/2/A&num=0&edition=prelim) that notify the Secretary that they request to receive payments allocated from the Fund by the Secretary for purposes described under subsection (c) and will use such payments in compliance with this section.
+
+(3) **Adjustment** — Allocations provided under this subsection may be further adjusted as provided by [section 9058a(b)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9058a/b/2/B&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the American Rescue Plan Act of 2021, and not as part of the CARES Act which in part comprises this chapter.
 
 
 <a id="section-9059"></a>
@@ -3595,7 +4191,7 @@ Unless otherwise specified, the terms in [section 40102(a) of title 49](https://
 
 (1) **In general** — If, after December 27, 2020, a contractor expends any funds made available pursuant to [section 9072 of this title](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9072) and distributed pursuant to [section 9073 of this title](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9073), the assurances in paragraphs (1) through (3) of subsection (a) shall continue to apply until the dates included in such paragraphs, or the date on which the contractor fully expends such financial assistance, whichever is later.
 
-(2) **Special rule** — Not later than April 5, 2021, each contractor described in section 9071(3)(A)(i) that has received funds pursuant to such [section 9072 of this title](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9072) shall report to the Secretary on the amount of such funds that the contractor has expended through March 31, 2021. If the contractor has expended an amount that is less than 100 percent of the total amount of funds the contractor received under such section, the Secretary shall initiate an action to recover any funds that remain unexpended as of April 30, 2021.
+(2) **Special rule** — Not later than April 5, 2021, each contractor described in [section 9071(3)(A)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9071/3/A/i&num=0&edition=prelim) that has received funds pursuant to such [section 9072 of this title](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9072) shall report to the Secretary on the amount of such funds that the contractor has expended through March 31, 2021. If the contractor has expended an amount that is less than 100 percent of the total amount of funds the contractor received under such section, the Secretary shall initiate an action to recover any funds that remain unexpended as of April 30, 2021.
 
 **(d) Recall of employees**
 
@@ -3705,6 +4301,9 @@ Unless otherwise specified, the definitions in [section 40102(a) of title 49](ht
 #### References in Text
 This part, referred to in text, was in the original “this subtitle”, meaning subtitle A (§§ 401–412) of title IV of div. N of Pub. L. 116–260, Dec. 27, 2020, 134 Stat. 2052, which enacted this part and amended sections 9041, 9071, and 9074 of this title. For complete classification of subtitle A to the Code, see Tables.
 
+#### Codification
+Section was enacted as part of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act, and also as part of the Consolidated Appropriations Act, 2021, and not as part of the CARES Act which in part comprises this chapter.
+
 
 <a id="section-9092"></a>
 ## § 9092. Pandemic relief for aviation workers
@@ -3720,6 +4319,9 @@ This part, referred to in text, was in the original “this subtitle”, meaning
 
 #### References in Text
 This part, referred to in subsec. (b), was in the original “this subtitle”, meaning subtitle A (§§ 401–412) of title IV of div. N of Pub. L. 116–260, Dec. 27, 2020, 134 Stat. 2052, which enacted this part and amended sections 9041, 9071, and 9074 of this title. For complete classification of subtitle A to the Code, see Tables.
+
+#### Codification
+Section was enacted as part of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act, and also as part of the Consolidated Appropriations Act, 2021, and not as part of the CARES Act which in part comprises this chapter.
 
 
 <a id="section-9093"></a>
@@ -3775,6 +4377,9 @@ This part, referred to in subsec. (b), was in the original “this subtitle”, 
 #### References in Text
 This part, referred to in subsecs. (a) and (b)(1), was in the original “this subtitle”, meaning subtitle A (§§ 401–412) of title IV of div. N of Pub. L. 116–260, Dec. 27, 2020, 134 Stat. 2052, which enacted this part and amended sections 9041, 9071, and 9074 of this title. For complete classification of subtitle A to the Code, see Tables.
 
+#### Codification
+Section was enacted as part of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act, and also as part of the Consolidated Appropriations Act, 2021, and not as part of the CARES Act which in part comprises this chapter.
+
 
 <a id="section-9094"></a>
 ## § 9094. Required assurances
@@ -3802,7 +4407,7 @@ This part, referred to in subsecs. (a) and (b)(1), was in the original “this s
 
 **(b) Recalls of employees** An agreement or certification under this section shall require a passenger air carrier or contractor to perform the following actions:
 
-(1) In the case of a passenger air carrier or contractor that received financial assistance under parts A or B of this subchapter—
+(1) In the case of a passenger air carrier or contractor that received financial assistance under title IV of the CARES Act [[15 U.S.C. 9041](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9041) et seq., 9071 et seq.] —
 
   (A) recall (as defined in [section 9091 of this title](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9091)), not later than 72 hours after executing such agreement or certification, any employees involuntarily furloughed by such passenger air carrier or contractor between October 1, 2020, and the date such passenger air carrier or contractor enters into an agreement with the Secretary with respect to financial assistance under this part;
 
@@ -3814,7 +4419,7 @@ This part, referred to in subsecs. (a) and (b)(1), was in the original “this s
 
   (C) restore the rights and protections for such returning employees as if such employees had not been involuntarily furloughed.
 
-(2) In the case of a passenger air carrier or contractor that did not receive financial assistance under parts A or B of this subchapter to—
+(2) In the case of a passenger air carrier or contractor that did not receive financial assistance under title IV of the CARES Act [[15 U.S.C. 9041](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9041) et seq., 9071 et seq.] to—
 
   (A) recall (as defined in [section 9091 of this title](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9091)), within 72 hours after executing such agreement or certification, any employees involuntarily furloughed by such passenger air carrier or contractor between March 27, 2020, and the date such passenger air carrier or contractor enters into an agreement with the Secretary for financial assistance under this part;
 
@@ -3831,7 +4436,10 @@ This part, referred to in subsecs. (a) and (b)(1), was in the original “this s
 #### References in Text
 This part, referred to in text, was in the original “this subtitle”, meaning subtitle A (§§ 401–412) of title IV of div. N of Pub. L. 116–260, Dec. 27, 2020, 134 Stat. 2052, which enacted this part and amended sections 9041, 9071, and 9074 of this title. For complete classification of subtitle A to the Code, see Tables.
 
-Parts A or B of this subchapter, referred to in subsec. (b), was in the original “title IV of the CARES Act”, meaning title IV of div. A of Pub. L. 116–136, Mar. 27, 2020, 134 Stat. 469, which is classified principally to parts A and B of this subchapter. For complete classification of title IV to the Code, see Tables.
+Title IV of the CARES Act, referred to in subsec. (b), is title IV of div. A of Pub. L. 116–136, Mar. 27, 2020, 134 Stat. 469, which is classified principally to parts A (§ 9041 et seq.) and B (§ 9071 et seq.) of this subchapter. For complete classification of title IV to the Code, see Tables.
+
+#### Codification
+Section was enacted as part of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act, and also as part of the Consolidated Appropriations Act, 2021, and not as part of the CARES Act which in part comprises this chapter.
 
 
 <a id="section-9095"></a>
@@ -3850,6 +4458,9 @@ This part, referred to in text, was in the original “this subtitle”, meaning
 The Railway Labor Act, referred to in subsec. (a), is act May 20, 1926, ch. 347, 44 Stat. 577, which is classified principally to chapter 8 (§ 151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see [section 151 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section151&num=0&edition=prelim) and Tables.
 
 The National Labor Relations Act, referred to in subsec. (a), is act July 5, 1935, ch. 372, 49 Stat. 449, which is classified generally to subchapter II (§ 151 et seq.) of chapter 7 of Title 29, Labor. For complete classification of this Act to the Code, see [section 167 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section167&num=0&edition=prelim) and Tables.
+
+#### Codification
+Section was enacted as part of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act, and also as part of the Consolidated Appropriations Act, 2021, and not as part of the CARES Act which in part comprises this chapter.
 
 
 <a id="section-9096"></a>
@@ -3874,6 +4485,9 @@ The National Labor Relations Act, referred to in subsec. (a), is act July 5, 193
 
 #### References in Text
 This part, referred to in subsec. (a), was in the original “this subtitle”, meaning subtitle A (§§ 401–412) of title IV of div. N of Pub. L. 116–260, Dec. 27, 2020, 134 Stat. 2052, which enacted this part and amended sections 9041, 9071, and 9074 of this title. For complete classification of subtitle A to the Code, see Tables.
+
+#### Codification
+Section was enacted as part of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act, and also as part of the Consolidated Appropriations Act, 2021, and not as part of the CARES Act which in part comprises this chapter.
 
 
 <a id="section-9097"></a>
@@ -3901,6 +4515,9 @@ This part, referred to in subsec. (a), was in the original “this subtitle”, 
 #### References in Text
 This part, referred to in subsec. (a), was in the original “this subtitle”, meaning subtitle A (§§ 401–412) of title IV of div. N of Pub. L. 116–260, Dec. 27, 2020, 134 Stat. 2052, which enacted this part and amended sections 9041, 9071, and 9074 of this title. For complete classification of subtitle A to the Code, see Tables.
 
+#### Codification
+Section was enacted as part of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act, and also as part of the Consolidated Appropriations Act, 2021, and not as part of the CARES Act which in part comprises this chapter.
+
 
 <a id="section-9098"></a>
 ## § 9098. Taxpayer protection
@@ -3914,6 +4531,9 @@ This part, referred to in subsec. (a), was in the original “this subtitle”, 
 The CARES Act, referred to in subsec. (a), also known as the Coronavirus Aid, Relief, and Economic Security Act, is Pub. L. 116–136, Mar. 27, 2020, 134 Stat. 281, which enacted this chapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 9001 of this title](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9001) and Tables.
 
 This part, referred to in text, was in the original “this subtitle”, meaning subtitle A (§§ 401–412) of title IV of div. N of Pub. L. 116–260, Dec. 27, 2020, 134 Stat. 2052, which enacted this part and amended sections 9041, 9071, and 9074 of this title. For complete classification of subtitle A to the Code, see Tables.
+
+#### Codification
+Section was enacted as part of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act, and also as part of the Consolidated Appropriations Act, 2021, and not as part of the CARES Act which in part comprises this chapter.
 
 
 <a id="section-9099"></a>
@@ -3941,6 +4561,9 @@ This part, referred to in text, was in the original “this subtitle”, meaning
 #### References in Text
 This part, referred to in subsecs. (a) and (b), was in the original “this subtitle”, meaning subtitle A (§§ 401–412) of title IV of div. N of Pub. L. 116–260, Dec. 27, 2020, 134 Stat. 2052, which enacted this part and amended sections 9041, 9071, and 9074 of this title. For complete classification of subtitle A to the Code, see Tables.
 
+#### Codification
+Section was enacted as part of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act, and also as part of the Consolidated Appropriations Act, 2021, and not as part of the CARES Act which in part comprises this chapter.
+
 
 <a id="section-9100"></a>
 ## § 9100. Coordination
@@ -3952,6 +4575,9 @@ In implementing this part, the Secretary shall coordinate with the Secretary of 
 #### References in Text
 This part, referred to in text, was in the original “this subtitle”, meaning subtitle A (§§ 401–412) of title IV of div. N of Pub. L. 116–260, Dec. 27, 2020, 134 Stat. 2052, which enacted this part and amended sections 9041, 9071, and 9074 of this title. For complete classification of subtitle A to the Code, see Tables.
 
+#### Codification
+Section was enacted as part of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act, and also as part of the Consolidated Appropriations Act, 2021, and not as part of the CARES Act which in part comprises this chapter.
+
 
 <a id="section-9101"></a>
 ## § 9101. Funding
@@ -3962,6 +4588,9 @@ There is appropriated, out of amounts in the Treasury not otherwise appropriated
 
 #### References in Text
 This part, referred to in text, was in the original “this subtitle”, meaning subtitle A (§§ 401–412) of title IV of div. N of Pub. L. 116–260, Dec. 27, 2020, 134 Stat. 2052, which enacted this part and amended sections 9041, 9071, and 9074 of this title. For complete classification of subtitle A to the Code, see Tables.
+
+#### Codification
+Section was enacted as part of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act, and also as part of the Consolidated Appropriations Act, 2021, and not as part of the CARES Act which in part comprises this chapter.
 
 
 <a id="section-9111"></a>
@@ -4080,7 +4709,7 @@ This part, referred to in text, was in the original “this subtitle”, meaning
 
       (I) on March 1, 2020, had more than 500 full-time, part-time, or temporary employees; and
 
-      (II) has not received assistance under paragraph (1), (2), or (3) of [section 9042(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9042/b&num=0&edition=prelim), or part B of this subchapter.
+      (II) has not received assistance under paragraph (1), (2), or (3) of [section 9042(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9042/b&num=0&edition=prelim), or subtitle B of title IV of division A, of the Coronavirus Aid, Relief, and Economic Security Act (Public Law 116–136; 134 Stat. 281) [[15 U.S.C. 9071](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9071) et seq.].
 
   (B) *Scope of eligibility for certain companies*
 
@@ -4223,10 +4852,305 @@ This part, referred to in text, was in the original “this subtitle”, meaning
 ### Statutory Notes
 
 #### References in Text
-The Emergency Appropriations for Coronavirus Health Response and Agency Operations, referred to in subsec. (c)(2)(B)(ii) to (iv), is div. B of Pub. L. 116–136, Mar. 27, 2020, 134 Stat. 505. Provisions in the Act relating to funds for transportation services are not classified to the Code.
+The Coronavirus Aid, Relief, and Economic Security Act, referred to in subsec. (c)(2)(A)(ii)(II), (3)(B)(i), also known as the CARES Act, is Pub. L. 116–136, Mar. 27, 2020, 134 Stat. 281, which enacted this chapter and enacted, amended, and repealed numerous other sections and notes in the Code. Subtitle B of title IV of division A of the Act is classified generally to part B (§ 9071 et seq.) of this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 9001 of this title](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9001) and Tables.
 
-The Coronavirus Aid, Relief, and Economic Security Act, referred to in subsec. (c)(3)(B)(i), also known as the CARES Act, is Pub. L. 116–136, Mar. 27, 2020, 134 Stat. 281, which enacted this chapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 9001 of this title](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9001) and Tables.
+The Emergency Appropriations for Coronavirus Health Response and Agency Operations, referred to in subsec. (c)(2)(B)(ii) to (iv), is div. B of Pub. L. 116–136, Mar. 27, 2020, 134 Stat. 505. Provisions in the Act relating to funds for transportation services are not classified to the Code.
 
 The Paycheck Protection Program and Health Care Enhancement Act, referred to in subsec. (c)(3)(B)(i), is Pub. L. 116–139, Apr. 24, 2020, 134 Stat. 620, which amended sections 636, 9006, and 9009 of this title. For complete classification of this Act to the Code, see Short Title of 2020 Amendment note set out under [section 9001 of this title](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9001) and Tables.
 
 Section 205 of the Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsec. (e)(2)(B), is section 205 of Pub. L. 91–373, which is set out as a note under [section 3304 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3304&num=0&edition=prelim), Internal Revenue Code.
+
+#### Codification
+Section was enacted as part of the Coronavirus Economic Relief for Transportation Services Act and also as part of the Consolidated Appropriations Act, 2021, and not as part of the CARES Act which in part comprises this chapter.
+
+
+<a id="section-9121"></a>
+## § 9121. Relief for airports
+**(a) In general**
+
+(1) **In general** — In addition to amounts otherwise available, there is appropriated for fiscal year 2021, out of any funds in the Treasury not otherwise appropriated, $8,000,000,000, to remain available until September 30, 2024, for assistance to sponsors of airports, as such terms are defined in [section 47102 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section47102&num=0&edition=prelim), to be made available to prevent, prepare for, and respond to coronavirus.
+
+(2) **Requirements and limitations** — Amounts made available under this section—
+
+  (A) may not be used for any purpose not directly related to the airport; and
+
+  (B) may not be provided to any airport that was allocated in excess of 4 years of operating funds to prevent, prepare for, and respond to coronavirus in fiscal year 2020.
+
+**(b) Allocations** The following terms shall apply to the amounts made available under this section:
+
+(1) **Operating expenses and debt service payments**
+
+  (A) *In general* — Not more than $6,492,000,000 shall be made available for primary airports, as such term is defined in [section 47102 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section47102&num=0&edition=prelim), and certain cargo airports, for costs related to operations, personnel, cleaning, sanitization, janitorial services, combating the spread of pathogens at the airport, and debt service payments.
+
+  (B) *Distribution* — Amounts made available under this paragraph—
+
+    (i) shall not be subject to the reduced apportionments under [section 47114(f) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section47114/f&num=0&edition=prelim);
+
+    (ii) shall first be apportioned as set forth in sections 47114(c)(1)(A), 47114(c)(1)(C)(i), 47114(c)(1)(C)(ii), 47114(c)(2)(A), 47114(c)(2)(B), and 47114(c)(2)(E) of title 49; and
+
+    (iii) shall not be subject to a maximum apportionment limit set forth in [section 47114(c)(1)(B) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section47114/c/1/B&num=0&edition=prelim).
+
+  (C) *Remaining amounts* — Any amount remaining after distribution under subparagraph (B) shall be distributed to the sponsor of each primary airport (as such term is defined in [section 47102 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section47102&num=0&edition=prelim)) based on each such primary airport’s passenger enplanements compared to the total passenger enplanements of all such primary airports in calendar year 2019.
+
+(2) **Federal share for development projects**
+
+  (A) *In general* — Not more than $608,000,000 allocated under subsection (a)(1) shall be available to pay a Federal share of 100 percent of the costs for any grant awarded in fiscal year 2021, or in fiscal year 2020 with less than a 100-percent Federal share, for an airport development project (as such term is defined in [section 47102 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section47102&num=0&edition=prelim)).
+
+  (B) *Remaining amounts* — Any amount remaining under this paragraph shall be distributed as described in paragraph (1)(C).
+
+(3) **Nonprimary airports**
+
+  (A) *In general* — Not more than $100,000,000 shall be made available for general aviation and commercial service airports that are not primary airports (as such terms are defined in [section 47102 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section47102&num=0&edition=prelim)) for costs related to operations, personnel, cleaning, sanitization, janitorial services, combating the spread of pathogens at the airport, and debt service payments.
+
+  (B) *Distribution* — Amounts made available under this paragraph shall be apportioned to each non-primary airport based on the categories published in the most current National Plan of Integrated Airport Systems, reflecting the percentage of the aggregate published eligible development costs for each such category, and then dividing the allocated funds evenly among the eligible airports in each category, rounding up to the nearest thousand dollars.
+
+  (C) *Remaining amounts* — Any amount remaining under this paragraph shall be distributed as described in paragraph (1)(C).
+
+(4) **Airport concessions**
+
+  (A) *In general* — Not more than $800,000,000 shall be made available for sponsors of primary airports to provide relief from rent and minimum annual guarantees to airport concessions, of which at least $640,000,000 shall be available to provide relief to eligible small airport concessions and of which at least $160,000,000 shall be available to provide relief to eligible large airport concessions located at primary airports.
+
+  (B) *Distribution* — The amounts made available for each set-aside in this paragraph shall be distributed to the sponsor of each primary airport (as such term is defined in [section 47102 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section47102&num=0&edition=prelim)) based on each such primary airport’s passenger enplanements compared to the total passenger enplanements of all such primary airports in calendar year 2019.
+
+  (C) *Conditions* — As a condition of approving a grant under this paragraph—
+
+    (i) the sponsor shall provide such relief from March 21, 2021, until the sponsor has provided relief equaling the total grant amount, to the extent practicable and to the extent permissible under State laws, local laws, and applicable trust indentures; and
+
+    (ii) for each set-aside, the sponsor shall provide relief from rent and minimum annual guarantee obligations to each eligible airport concession in an amount that reflects each eligible airport concession’s proportional share of the total amount of the rent and minimum annual guarantees of those eligible airport concessions at such airport.
+
+**(c) Administration**
+
+(1) **Administrative expenses** — The Administrator of the Federal Aviation Administration may retain up to 0.1 percent of the funds provided under this section to fund the award of, and oversight by the Administrator of, grants made under this section.
+
+(2) **Workforce retention requirements**
+
+  (A) *Required retention* — As a condition for receiving funds provided under this section, an airport shall continue to employ, through September 30, 2021, at least 90 percent of the number of individuals employed (after making adjustments for retirements or voluntary employee separations) by the airport as of March 27, 2020.
+
+  (B) *Waiver of retention requirement* — The Secretary shall waive the workforce retention requirement if the Secretary determines that—
+
+    (i) the airport is experiencing economic hardship as a direct result of the requirement; or
+
+    (ii) the requirement reduces aviation safety or security.
+
+  (C) *Exception* — The workforce retention requirement shall not apply to nonhub airports or nonprimary airports receiving funds under this section.
+
+  (D) *Noncompliance* — Any financial assistance provided under this section to an airport that fails to comply with the workforce retention requirement described in subparagraph (A), and does not otherwise qualify for a waiver or exception under this paragraph, shall be subject to clawback by the Secretary.
+
+**(d) Definitions** In this section:
+
+(1) **Eligible large airport concession** — The term “eligible large airport concession” means a concession (as defined in section 23.3 of title 49, Code of Federal Regulations), that is in-terminal and has maximum gross receipts, averaged over the previous three fiscal years, of more than $56,420,000.
+
+(2) **Eligible small airport concession** — The term “eligible small airport concession” means a concession (as defined in section 23.3 of title 49, Code of Federal Regulations), that is in-terminal and—
+
+  (A) a small business with maximum gross receipts, averaged over the previous 3 fiscal years, of less than $56,420,000; or
+
+  (B) is a joint venture (as defined in section 23.3 of title 49, Code of Federal Regulations).
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the American Rescue Plan Act of 2021, and not as part of the CARES Act which in part comprises this chapter.
+
+
+<a id="section-9131"></a>
+## § 9131. Definitions
+
+In this part:
+
+(1) **Eligible employee group** — The term “eligible employee group” means the portion of an employer’s United States workforce that—
+
+  (A) does not exceed 25 percent of the employer’s total United States workforce as of April 1, 2020; and
+
+  (B) contains only employees with a total compensation level of $200,000 or less per year; and
+
+  (C) is engaged in aviation manufacturing activities and services, or maintenance, repair, and overhaul activities and services.
+
+(2) **Aviation manufacturing company** — The term “aviation manufacturing company” means a corporation, firm, or other business entity—
+
+  (A) that—
+
+    (i) actively manufactures an aircraft, aircraft engine, propeller, or a component, part, or systems of an aircraft or aircraft engine under a Federal Aviation Administration production approval;
+
+    (ii) holds a certificate issued under part 145 of title 14, Code of Federal Regulations, for maintenance, repair, and overhaul of aircraft, aircraft engines, components, or propellers; or
+
+    (iii) operates a process certified to SAE AS9100 related to the design, development, or provision of an aviation product or service, including a part, component, or assembly;
+
+  (B) which—
+
+    (i) is established, created, or organized in the United States or under the laws of the United States; and
+
+    (ii) has significant operations in, and a majority of its employees engaged in aviation manufacturing activities and services, or maintenance, repair, and overhaul activities and services based in the United States;
+
+  (C) which has involuntarily furloughed or laid off at least 10 percent of its workforce in 2020 as compared to 2019 or has experienced at least a 15 percent decline in 2020 revenues as compared to 2019;
+
+  (D) that, as supported by sworn financial statements or other appropriate data, has identified the eligible employee group and the amount of total compensation level for the eligible employee group;
+
+  (E) that agrees to provide private contributions and maintain the total compensation level for the eligible employee group for the duration of an agreement under this part;
+
+  (F) that agrees to provide immediate notice and justification to the Secretary of involuntary furloughs or layoffs exceeding 10 percent of the workforce that is not included in an eligible employee group for the duration of an agreement and receipt of public contributions under this part;
+
+  (G) that has not conducted involuntary furloughs or reduced pay rates or benefits for the eligible employee group, subject to the employer’s right to discipline or terminate an employee in accordance with employer policy, between the date of application and the date on which such a corporation, firm, or other business entity enters into an agreement with the Secretary under this part; and
+
+  (H) that—
+
+    (i) in the case of a corporation, firm, or other business entity including any parent company or subsidiary of such a corporation, firm, or other business entity, that holds any type or production certificate or similar authorization issued under [section 44704 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44704&num=0&edition=prelim), United States Code, with respect to a transport-category airplane covered under part 25 of title 14, Code of Federal Regulations, certificated with a passenger seating capacity of 50 or more, agrees to refrain from conducting involuntary layoffs or furloughs, or reducing pay rates and benefits, for the eligible employee group, subject to the employer’s right to discipline or terminate an employee in accordance with employer policy from the date of agreement until September 30, 2021, or the duration of the agreement and receipt of public contributions under this part, whichever period ends later; or
+
+    (ii) in the case of corporation, firm, or other business entity not specified under subparagraph (i), agrees to refrain from conducting involuntary layoffs or furloughs, or reducing pay rates and benefits, for the eligible employee group, subject to the employer’s right to discipline or terminate an employee in accordance with employer policy for the duration of the agreement and receipt of public contributions under this part.
+
+(3) **Employee** — The term “employee” has the meaning given that term in [section 203 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section203&num=0&edition=prelim).
+
+(4) **Employer** — The term “employer” means an aviation manufacturing company that is an employer (as defined in [section 203 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section203&num=0&edition=prelim)).
+
+(5) **Private contribution** — The term “private contribution” means the contribution funded by the employer under this part to maintain 50 percent of the eligible employee group’s total compensation level, and combined with the public contribution, is sufficient to maintain the total compensation level for the eligible employee group as of April 1, 2020.
+
+(6) **Public contribution** — The term “public contribution” means the contribution funded by the Federal Government under this part to provide 50 percent of the eligible employees group’s total compensation level, and combined with the private contribution, is sufficient to maintain the total compensation level for those in the eligible employee group as of April 1, 2020.
+
+(7) **Secretary** — The term “Secretary” means the Secretary of Transportation.
+
+(8) **Total compensation level** — The term “total compensation level” means the level of total base compensation and benefits being provided to an eligible employee group employee, excluding overtime and premium pay, and excluding any Federal, State, or local payroll taxes paid, as of April 1, 2020.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the American Rescue Plan Act of 2021, and not as part of the CARES Act which in part comprises this chapter.
+
+
+<a id="section-9132"></a>
+## § 9132. Payroll support program
+**(a) In General** The Secretary shall establish a payroll support program and enter into agreements with employers who meet the eligibility criteria specified in subsection (b) and are not ineligible under subsection (c), to provide public contributions to supplement compensation of an eligible employee group. There is appropriated for fiscal year 2021, out of amounts in the Treasury not otherwise appropriated, $3,000,000,000, to remain available until September 30, 2023, for the Secretary to carry out the payroll support program authorized under the preceding sentence for which 1 percent of the funds may be used for implementation costs and administrative expenses.
+
+**(b) Eligibility** The Secretary shall enter into an agreement and provide public contributions, for a term no longer than 6 months, solely with an employer that agrees to use the funds received under an agreement exclusively for the continuation of employee wages, salaries, and benefits, to maintain the total compensation level for the eligible employee group as of April 1, 2020 for the duration of the agreement, and to facilitate the retention, rehire, or recall of employees of the employer, except that such funds may not be used for back pay of returning rehired or recalled employees.
+
+**(c) Ineligibility** The Secretary may not enter into any agreement under this section with an employer who was allowed a credit under section 2301 of the CARES Act ([26 U.S.C. 3111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3111&num=0&edition=prelim) note) for the immediately preceding calendar quarter ending before such agreement is entered into, who received financial assistance under [section 9073 of this title](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9073), or who is currently expending financial assistance under the paycheck protection program established under [section 636(a)(36) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/a/36&num=0&edition=prelim), as of the date the employer submits an application under the payroll support program established under subsection (a).
+
+**(d) Reductions** To address any shortfall in assistance that would otherwise be provided under this part, the Secretary shall reduce, on a pro rata basis, the financial assistance provided under this part.
+
+**(e) Agreement Deadline** No agreement may be entered into by the Secretary under the payroll support program established under subsection (a) after the last day of the 6 month period that begins on the effective date of the first agreement entered into under such program.
+
+### Statutory Notes
+
+#### References in Text
+Section 2301 of the CARES Act, referred to in subsec. (c), is section 2301 of Pub. L. 116–136, which is set out as a note under [section 3111 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3111&num=0&edition=prelim), Internal Revenue Code.
+
+#### Codification
+Section was enacted as part of the American Rescue Plan Act of 2021, and not as part of the CARES Act which in part comprises this chapter.
+
+
+<a id="section-9141"></a>
+## § 9141. Air transportation payroll support program extension
+**(a) Definitions** The definitions in [section 40102(a) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40102/a&num=0&edition=prelim) shall apply with respect to terms used in this section, except that—
+
+(1) the term “catering functions” means preparation, assembly, or both, of food, beverages, provisions and related supplies for delivery, and the delivery of such items, directly to aircraft or to a location on or near airport property for subsequent delivery to aircraft;
+
+(2) the term “contractor” means—
+
+  (A) a person that performs, under contract with a passenger air carrier conducting operations under part 121 of title 14, Code of Federal Regulations—
+
+    (i) catering functions; or
+
+    (ii) functions on the property of an airport that are directly related to the air transportation of persons, property, or mail, including the loading and unloading of property on aircraft, assistance to passengers under part 382 of title 14, Code of Federal Regulations, security, airport ticketing and check-in functions, ground-handling of aircraft, or aircraft cleaning and sanitization functions and waste removal; or
+
+  (B) a subcontractor that performs such functions;
+
+(3) the term “employee” means an individual, other than a corporate officer, who is employed by an air carrier or a contractor;
+
+(4) the term “eligible air carrier” means an air carrier that—
+
+  (A) received financial assistance pursuant 11 So in original. Probably should be followed by “to”. [section 9092(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9092/a/1&num=0&edition=prelim);
+
+  (B) provides air transportation as of March 31, 2021;
+
+  (C) has not conducted involuntary furloughs or reduced pay rates or benefits between March 31, 2021, and the date on which the air carrier makes a certification to the Secretary pursuant to subparagraph (D); and
+
+  (D) certifies to the Secretary that such air carrier will—
+
+    (i) refrain from conducting involuntary furloughs or reducing pay rates or benefits until September 30, 2021, or the date on which assistance provided under this section is exhausted, whichever is later;
+
+    (ii) refrain from purchasing an equity security of the air carrier or the parent company of the air carrier that is listed on a national securities exchange through September 30, 2022;
+
+    (iii) refrain from paying dividends, or making other capital distributions, with respect to common stock (or equivalent interest) of such air carrier through September 30, 2022;
+
+    (iv) during the 2-year period beginning April 1, 2021, and ending April 1, 2023, refrain from paying—
+
+      (I) any officer or employee of the air carrier whose total compensation exceeded $425,000 in calendar year 2019 (other than an employee whose compensation is determined through an existing collective bargaining agreement entered into prior to March 11, 2021)—
+
+        (aa) total compensation that exceeds, during any 12 consecutive months of such 2-year period, the total compensation received by the officer or employee from the air carrier in calendar year 2019; or
+
+        (bb) severance pay or other benefits upon termination of employment with the air carrier which exceeds twice the maximum total compensation received by the officer or employee from the air carrier in calendar year 2019; and
+
+      (II) any officer or employee of the air carrier whose total compensation exceeded $3,000,000 in calendar year 2019 during any 12 consecutive months of such period total compensation in excess of the sum of—
+
+        (aa) $3,000,000; and
+
+        (bb) 50 percent of the excess over $3,000,000 of the total compensation received by the officer or employee from the air carrier in calendar year 2019.
+
+(5) the term “eligible contractor” means a contractor that—
+
+  (A) received financial assistance pursuant to [section 9092(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9092/a/2&num=0&edition=prelim);
+
+  (B) performs one or more of the functions described under paragraph (2) as of March 31, 2021;
+
+  (C) has not conducted involuntary furloughs or reduced pay rates or benefits between March 31, 2021, and the date on which the contractor makes a certification to the Secretary pursuant to subparagraph (D); and
+
+  (D) certifies to the Secretary that such contractor will—
+
+    (i) refrain from conducting involuntary furloughs or reducing pay rates or benefits until September 30, 2021, or the date on which assistance provided under this section is exhausted, whichever is later;
+
+    (ii) refrain from purchasing an equity security of the contractor or the parent company of the contractor that is listed on a national securities exchange through September 30, 2022;
+
+    (iii) refrain from paying dividends, or making other capital distributions, with respect to common stock (or equivalent interest) of the contractor through September 30, 2022;
+
+    (iv) during the 2-year period beginning April 1, 2021, and ending April 1, 2023, refrain from paying—
+
+      (I) any officer or employee of the contractor whose total compensation exceeded $425,000 in calendar year 2019 (other than an employee whose compensation is determined through an existing collective bargaining agreement entered into prior to March 11, 2021)—
+
+        (aa) total compensation that exceeds, during any 12 consecutive months of such 2-year period, the total compensation received by the officer or employee from the contractor in calendar year 2019; or
+
+        (bb) severance pay or other benefits upon termination of employment with the contractor which exceeds twice the maximum total compensation received by the officer or employee from the contractor in calendar year 2019; and
+
+      (II) any officer or employee of the contractor whose total compensation exceeded $3,000,000 in calendar year 2019 during any 12 consecutive months of such period total compensation in excess of the sum of—
+
+        (aa) $3,000,000; and
+
+        (bb) 50 percent of the excess over $3,000,000 of the total compensation received by the officer or employee from the contractor in calendar year 2019.
+
+(6) the term “Secretary” means the Secretary of the Treasury.
+
+**(b) Payroll support grants**
+
+(1) **In general** — The Secretary shall make available to eligible air carriers and eligible contractors, financial assistance exclusively for the continuation of payment of employee wages, salaries, and benefits to—
+
+  (A) eligible air carriers, in an aggregate amount of $14,000,000,000; and
+
+  (B) eligible contractors, in an aggregate amount of $1,000,000,000.
+
+(2) **Apportionments**
+
+  (A) *In general* — The Secretary shall apportion funds to eligible air carriers and eligible contractors in accordance with the requirements of this section not later than April 15, 2021.
+
+  (B) *Eligible air carriers* — The Secretary shall apportion funds made available under paragraph (1)(A) to each eligible air carrier in the ratio that—
+
+    (i) the amount received by the air carrier pursuant to [section 9093(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9093/a&num=0&edition=prelim) bears to
+
+    (ii) $15,000,000,000.
+
+  (C) *Eligible contractors* — The Secretary shall apportion, to each eligible contractor, an amount equal to the total amount such contractor received pursuant to [section 9093(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9093/a&num=0&edition=prelim).
+
+(3) **In general**
+
+  (A) *Forms; terms and conditions* — The Secretary shall provide financial assistance to an eligible air carrier or eligible contractor under this section in the same form and on the same terms and conditions as determined by pursuant to 22 So in original. [section 9093(b)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9093/b/1/A&num=0&edition=prelim).
+
+  (B) *Procedures* — The Secretary shall publish streamlined and expedited procedures not later than 5 days after March 11, 2021, for eligible air carriers and eligible contractors to submit requests for financial assistance under this section.
+
+  (C) *Deadline for immediate payroll assistance* — Not later than 10 days after March 11, 2021, the Secretary shall make initial payments to air carriers and contractors that submit requests for financial assistance approved by the Secretary.
+
+(4) **Taxpayer protection** — The Secretary shall receive financial instruments issued by recipients of financial assistance under this section in the same form and amount, and under the same terms and conditions, as determined by the Secretary under [section 9098 of this title](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9098).
+
+(5) **Administrative expenses** — Of the amounts made available under paragraph (1)(A), $10,000,000 shall be made available to the Secretary for costs and administrative expenses associated with providing financial assistance under this section.
+
+**(c) Funding** In addition to amounts otherwise available, there is appropriated for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $15,000,000,000, to remain available until expended, to carry out this section.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the American Rescue Plan Act of 2021, and not as part of the CARES Act which in part comprises this chapter.

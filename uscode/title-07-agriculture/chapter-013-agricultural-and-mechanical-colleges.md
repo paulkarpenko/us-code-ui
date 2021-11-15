@@ -48,10 +48,11 @@ Pub. L. 85–282, Sept. 4, 1957, 71 Stat. 607, provided: “That, notwithstandin
 #### Cooperation in Placement of Domestic Farm Labor
 Act Apr. 28, 1947, ch. 43, § 2(b), 61 Stat. 55, provided that: “The Secretary of Agriculture and the Secretary of Labor shall take such action as may be necessary to assure maximum cooperation between the agricultural extension services of the land-grant colleges and the State public employment agencies in the recruitment and placement of domestic farm labor and in the keeping of such records and information with respect thereto as may be necessary for the proper and efficient administration of the State unemployment compensation laws and of title V of the Servicemen’s Readjustment Act of 1944, as amended (58 Stat. 295).”
 
-#### Admission of Alaska as State; Grants Not To Extend to Alaska
-Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions.
+#### Grants Not To Extend to Alaska
+Land grant under Alaska Statehood provisions as being in lieu of grant of acreage under sections 301 to 305, 307, 308 of this title (declared not to extend to Alaska), see section 6(l) of Pub. L. 85–508, set out as a note preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions.
 
-Land grant under Alaska Statehood provisions as being in lieu of grant of acreage under sections 301 to 305, 307, 308 of this title (declared not to extend to Alaska), see section 6(l) of Pub. L. 85–508, set out as a note preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim).
+#### Admission of Alaska as State
+Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions.
 
 
 <a id="section-302"></a>

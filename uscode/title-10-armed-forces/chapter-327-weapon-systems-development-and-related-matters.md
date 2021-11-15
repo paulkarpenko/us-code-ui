@@ -70,8 +70,48 @@ source: >-
 
 ### Statutory Notes
 
+#### References in Text
+Section 804 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, referred to in subsec. (b)(1)(B)(ii), is section 804 of Pub. L. 116–283, which is set out as a note below.
+
+#### Amendments
+2021—Pub. L. 116–283, § 1851(b)(1), renumbered [section 2446a of this title](./chapter-chapter-144b-chapter-chapter-144b.md#section-2446a) as this section.
+
+Subsec. (a). Pub. L. 116–283, § 804(b)(1)(A), inserted at end “Other defense acquisition programs shall also be designed and developed, to the maximum extent practicable, with a modular open system approach to enable incremental development and enhance competition, innovation, and interoperability.”
+
+Subsec. (b)(1)(A). Pub. L. 116–283, § 804(b)(1)(B)(i)(I), substituted “modular system interfaces between major systems, major system components and modular systems;” for “major system interfaces between a major system platform and a major system component, between major system components, or between major system platforms;”.
+
+Subsec. (b)(1)(B). Pub. L. 116–283, § 804(b)(1)(B)(i)(II), substituted “that relevant modular system interfaces—” for “major system interfaces comply with, if available and suitable, widely supported and consensus-based standards;” and added cls. (i) and (ii).
+
+Subsec. (b)(1)(C). Pub. L. 116–283, § 804(b)(1)(B)(i)(III), inserted “and modular systems” after “severable major system components” in introductory provisions.
+
+Subsec. (b)(1)(D). Pub. L. 116–283, § 1851(b)(2)(A), substituted “sections 3771 through 3775” for “section 2320”.
+
+Subsec. (b)(3)(A). Pub. L. 116–283, § 804(b)(1)(B)(ii), substituted “modular system interfaces” for “well-defined major system interfaces”.
+
+Subsec. (b)(4). Pub. L. 116–283, § 804(b)(1)(B)(iii), amended par. (4) generally. Prior to amendment, par. (4) defined major system interface.
+
+Subsec. (b)(5), (6). Pub. L. 116–283, § 804(b)(1)(B)(iv), (v), added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively.
+
+Subsec. (b)(7). Pub. L. 116–283, § 1851(b)(2)(B), which directed amendment of par. (6) of subsec. (b) by substituting “section 4271(a)” for “section 2448a(a)”, was executed by making the substitution in par. (7) to reflect the probable intent of Congress and the intervening amendment by section 804(b)(1)(B)(iv) of Pub. L. 116–283 which redesignated par. (6) as (7). See below.
+
+Pub. L. 116–283, § 804(b)(1)(B)(iv), redesignated par. (6) as (7). Former par. (7) redesignated (8).
+
+Subsec. (b)(8). Pub. L. 116–283, § 1851(b)(2)(C), which directed amendment of par. (7) of subsec. (b) by substituting “section 4201” for “section 2430”, was executed by making the substitution in par. (8) to reflect the probable intent of Congress and the intervening amendment by section 804(b)(1)(B)(iv) of Pub. L. 116–283 which redesignated par. (7) as (8). See below.
+
+Pub. L. 116–283, § 804(b)(1)(B)(iv), redesignated par. (7) as (8). Former par. (8) redesignated (9).
+
+Subsec. (b)(9). Pub. L. 116–283, § 1851(b)(2)(D), which directed amendment of par. (8) of subsec. (b) by substituting “section 3455(f)” for “section 2379(f)”, was executed by making the substitution in par. (9) to reflect the probable intent of Congress and the intervening amendment by section 804(b)(1)(B)(iv) of Pub. L. 116–283 which redesignated par. (8) as (9). See below.
+
+Pub. L. 116–283, § 804(b)(1)(B)(iv), redesignated par. (8) as (9).
+
 #### Effective Date of 2021 Amendment
 Amendment by section 1851(b)(1), (2) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Effective Date
+Pub. L. 114–328, div. A, title VIII, § 805(a)(4), Dec. 23, 2016, 130 Stat. 2255, provided that: “Subchapter I of chapter 144B of title 10, United States Code [see, now, this subchapter], as added by paragraph (1), shall take effect on January 1, 2017.”
+
+#### Implementation of Modular Open Systems Approaches
+Pub. L. 116–283, div. A, title VIII, § 804, Jan. 1, 2021, 134 Stat. 3735, provided that: “(a) Requirements for Interface Delivery.—“(1) In general.—Not later than one year after the date of the enactment of this Act [Jan. 1, 2021], the Under Secretary of Defense for Acquisition and Sustainment, in coordination with the Joint All-Domain Command and Control cross-functional team and the Director for Command, Control, Communications, and Computers/Cyber, shall issue regulations and guidance applicable to the military departments, Defense Agencies, Department of Defense Field Activities (as such terms are defined, respectively, in [section 101 of title 10](./chapter-001-definitions.md#section-101), United States Code), and combatant commands, as appropriate, to—“(A) facilitate the Department of Defense’s access to and utilization of modular system interfaces; “(B) fully realize the intent of [former] chapter 144B of title 10, United States Code [see this chapter and sections 4271 and 4272 of this title], by facilitating the implementation of modular open system approaches across major defense acquisition programs (as defined in [section 2430 of title 10](./chapter-chapter-144-chapter-chapter-144.md#section-2430), United States Code [now [10 U.S.C. 4201](./chapter-321-general-matters.md#section-4201)]) and other relevant acquisition programs, including in the acquisition and sustainment of weapon systems, platforms, and components for which no common interface standard has been established, to enable communication between such weapon systems, platforms, and components; and “(C) advance the efforts of the Department to generate diverse and recomposable kill chains. “(2) Elements.—The regulations and guidance required under paragraph (1) shall include requirements that—“(A) the program officer for each weapon system characterizes, in the acquisition strategy required under [section 2431a of title 10](./chapter-chapter-144-chapter-chapter-144.md#section-2431a), United States Code [now [10 U.S.C. 4211](./chapter-322-major-systems-and-major-defense-acquisition-programs-generally.md#section-4211)] or in other documentation, the desired modularity of the weapon system for which the program officer is responsible, including—“(i) identification of— “(I) the modular systems that comprise the weapon system; “(II) the information that should be communicated between individual modular systems (such as tracking and targeting data or command and control instructions); and “(III) the desired function of the communication between modular systems (such as fire control functions); and “(ii) a default configuration specifying which modular systems should communicate with other modular systems, including modular systems of other weapon systems; “(B) each relevant Department of Defense contract entered into after the date on which the regulations and guidance required under paragraph (1) are implemented includes requirements for the delivery of modular system interfaces for modular systems deemed relevant in the acquisition strategy or documentation referred to in subparagraph (A), including—“(i) software-defined interface syntax and properties, specifically governing how values are validly passed and received between major subsystems and components, in machine-readable format; “(ii) a machine-readable definition of the relationship between the delivered interface and existing common standards or interfaces available in the interface repositories established pursuant to subsection (c); and “(iii) documentation with functional descriptions of software-defined interfaces, conveying semantic meaning of interface elements, such as the function of a given interface field; “(C) the relevant program offices, including those responsible for maintaining and upgrading legacy systems—“(i) that have not characterized the desired modularity of the systems nevertheless meet the requirements of paragraph (2)(A), if the program officers make an effort, to the extent practicable, to update the acquisition strategies required under [section 2431a of title 10](./chapter-chapter-144-chapter-chapter-144.md#section-2431a), United States Code [now [10 U.S.C. 4211](./chapter-322-major-systems-and-major-defense-acquisition-programs-generally.md#section-4211)], or to develop or update other relevant documentation; and “(ii) that have awarded contracts that do not include the requirements specified in subparagraph (B) of paragraph (2) nevertheless acquire, to the extent practicable, the items specified in clauses (i) through (iii) of such subparagraph, either through contractual updates, separate negotiations or contracts, or program management mechanisms; and “(D) the relevant program officers deliver modular system interfaces and the associated documentation to at least one of the repositories established pursuant to subsection (c). “(3) Applicability of regulations and guidance.—“(A) Applicability.—The regulations and guidance required under paragraph (1) shall apply to any program office responsible for the prototyping, acquisition, or sustainment of a new or existing weapon system. “(B) Extension of scope.—Not earlier than 1 year before, and not later than 2 years after the regulations and guidance required under paragraph (1) are issued for weapon systems, the Under Secretary of Defense for Acquisition and Sustainment may extend such regulations and guidance to apply to software-based non-weapon systems, including business systems and cybersecurity systems. “(4) Inclusion of components.—For the purposes of paragraph (2)(A), each component that meets the following requirements shall be treated as a modular system:“(A) A component that is able to execute without requiring coincident execution of other weapon systems or components and can communicate across component boundaries and through interfaces. “(B) A component that can be separated from and recombined with other weapon systems or components to achieve various effects, missions, or capabilities. “(C) A component that is covered by a unique contract line item. “(5) Machine-readable definition.—Where appropriate and available, the requirement in paragraph (2)(B)(ii) for a machine-readable definition may be satisfied by using a covered technology. “(b) Extension of Modular Open Systems Approach and Rights in Interface Software.—“(1) Requirement for modular open system approach.— [Amended former [section 2446a of this title](./chapter-chapter-144b-chapter-chapter-144b.md#section-2446a).] “(2) Rights in technical data.—“(A) In general.— [Amended former [section 2320 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2320&num=0&edition=prelim).] “(B) Regulations.—Not later than 180 days after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of Defense shall update the regulations required by [section 2320(a)(1) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2320/a/1&num=0&edition=prelim), United States Code [see [10 U.S.C. 3771(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3771/a&num=0&edition=prelim)], to reflect the amendments made by this paragraph. “(c) Interface Repositories.—“(1) Establishment.—Not later than 90 days after the date of the enactment of this Act [Jan. 1, 2021], the Under Secretary of Defense for Acquisition and Sustainment shall—“(A) direct the Secretaries concerned and the heads of other appropriate Department of Defense components to establish and maintain repositories for interfaces, syntax and properties, documentation, and communication implementations delivered pursuant to the requirements established under subsection (a)(2)(B); “(B) establish and maintain a comprehensive index of interfaces, syntax and properties, documentation, and communication implementations delivered pursuant to the requirements established under subsection (a)(2)(B) and maintained in the repositories required under subparagraph (A); and “(C) if practicable, establish and maintain an alternate reference repository of interfaces, syntax and properties, documentation, and communication implementations delivered pursuant to the requirements established under subsection (a)(2)(B). “(2) Distribution of interfaces.—“(A) In general.—Consistent with the requirements of [section 2320 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2320&num=0&edition=prelim), United States Code [see [10 U.S.C. 3771](./chapter-275-proprietary-contractor-data-and-rights-in-technical-data.md#section-3771) et seq.], the Under Secretary of Defense for Acquisition and Sustainment shall, in coordination with the Director of the Defense Standardization Program Office, use the index and repositories established pursuant to paragraph (1) to provide access to interfaces and relevant documentation to authorized Federal Government and non-Governmental entities. “(B) Non-government recipient use limits.—A non-Governmental entity that receives access under subparagraph (A) may not further release, disclose, or use such data except as authorized. “(d) System of Systems Integration Technology and Experimentation.—“(1) Demonstration and assessment.—“(A) In general.—Not later than one year after the date of the enactment of this Act [Jan. 1, 2021], the Director for Command, Control, Communications, and Computers/Cyber and the Chief Information Officer of the Department of Defense, acting through the Joint All-Domain Command and Control cross-functional team, shall conduct demonstrations and complete an assessment of the technologies developed under the System of Systems Integration Technology and Experimentation program of the Defense Advanced Research Projects Agency, including a covered technology, and the applicability of any such technologies to the Joint All-Domain Command and Control architecture. “(B) Coverage.—The demonstrations and assessment required under subparagraph (A) shall include—“(i) at least three demonstrations of the use of a covered technology to create, under constrained schedules and budgets, novel kill chains involving previously incompatible weapon systems, sensors, and command, control, and communication systems from multiple military services in cooperation with United States Indo-Pacific Command or United States European Command; “(ii) an evaluation as to whether the communications enabled via a covered technology are sufficient for military missions and whether such technology results in any substantial performance loss in communication between systems, major subsystems, and major components; “(iii) an evaluation as to whether a covered technology obviates the need to develop, impose, and maintain strict adherence to common communication and interface standards for weapon systems; “(iv) the appropriate roles and responsibilities of the Chief Information Officer of the Department of Defense, the Under Secretary of Defense for Acquisition and Sustainment, the heads of the combatant commands, the Secretaries concerned, the Defense Advanced Research Projects Agency, and the defense industrial base in using and maintaining a covered technology to generate diverse and recomposable kill chains as part of the Joint All-Domain Command and Control architecture; “(v) for at least one of the demonstrations conducted under clause (i), demonstration of the use of technology developed under the High-Assurance Cyber Military Systems program of the Defense Advanced Research Projects Agency to secure legacy weapon systems and command and control capabilities while facilitating interoperability; “(vi) an evaluation of how the technology referred to in clause (v) and covered technology should be used to improve cybersecurity and interoperability across critical weapon systems and command and control capabilities across the joint forces; and “(vii) coordination with the program manager for the Time Sensitive Targeting Defeat program under the Under Secretary of Defense for Research and Engineering and the Under Secretary of Defense for Intelligence and Security. “(2) Chief information officer assessment.—“(A) In general.—The Chief Information Officer for the Department of Defense, in coordination with the Principal Cyber Advisor to the Secretary of Defense and the Director of the Cybersecurity Directorate of the National Security Agency, shall assess the technologies developed under the System of Systems Integration Technology and Experimentation program of the Defense Advanced Research Projects Agency, including the covered technology, and applicability of such technology to the business systems and cybersecurity tools of the Department. “(B) Coverage.—The assessment required under subparagraph (A) shall include—“(i) an evaluation as to how the technologies referred to in such subparagraph could be used in conjunction with or instead of existing cybersecurity standards, frameworks, and technologies designed to enable communication between, and coordination of, cybersecurity tools; “(ii) as appropriate, demonstrations by the Chief Information Office of the use of such technologies in enabling communication between, and coordination of, previously incompatible cybersecurity tools; and “(iii) as appropriate, demonstrations of the use of such technologies in enabling communication between previously incompatible business systems. “(3) Sustainment of certain engineering resources and capabilities.—During the period the demonstrations and assessments required under this subsection are conducted, and thereafter to the extent required to execute the activities directed by the Joint All-Domain Command and Control cross-functional team, the Joint All-Domain Command and Control cross-functional team shall sustain the System of Systems Technology Integration Tool Chain for Heterogeneous Electronic Systems engineering resources and capabilities developed by the Defense Advanced Research Projects Agency. “(4) Transfer of responsibility.—Not earlier than 1 year before, and not later than 2 years after the date of the enactment of this Act, the Secretary of Defense may transfer responsibility for maintaining the engineering resources and capabilities described in paragraph (3) to a different organization within the Department. “(e) Open Standards.—Nothing in this section shall be construed as requiring, preventing, or interfering with the use or application of any given communication standard or interface. The communication described in subsection (a)(2)(A) may be accomplished by using existing open standards, by the creation and use of new open standards, or through other approaches, provided that such standards meet the requirements of subsection (a)(2)(B). “(f) Definitions.—In this section:“(1) The term ‘covered technology’ means the domain-specific programming language for interface field transformations and its associated compilation toolchain (commonly known as the ‘System of Systems Technology Integration ToolChain for Heterogeneous Electronic Systems’) developed under the Defense Advanced Research Projects Agency System of Systems Integration Technology and Experimentation program, or any other technology that is functionally equivalent. “(2) The term ‘desired modularity’ means the desired degree to which weapon systems, components within a weapon system, and components across weapon systems can function as modules that can communicate across component boundaries and through interfaces and can be separated and recombined to achieve various effects, missions, or capabilities, as determined by the program officer for such weapon system. “(3) The term ‘machine-readable format’ means a format that can be easily processed by a computer without human intervention. “(4) The terms ‘major system’, ‘major system component’, ‘modular open system approach’, ‘modular system’, ‘modular system interface’, and ‘weapon system’ have the meanings given such terms, respectively, in [section 2446a of title 10](./chapter-chapter-144b-chapter-chapter-144b.md#section-2446a), United States Code [now [10 U.S.C. 4401](./chapter-327-weapon-systems-development-and-related-matters.md#section-4401)].”
 
 
 <a id="section-4402"></a>
@@ -116,8 +156,22 @@ Amendment by section 1851(b)(1), (2) of Pub. L. 116–283 effective Jan. 1, 2022
 
 ### Statutory Notes
 
+#### Amendments
+2021—Pub. L. 116–283, § 1851(b)(1), renumbered [section 2446b of this title](./chapter-chapter-144b-chapter-chapter-144b.md#section-2446b) as this section.
+
+Subsec. (c). Pub. L. 116–283, § 1851(b)(3)(A), substituted “section 4211” for “section 2431a” in introductory provisions.
+
+Subsec. (e). Pub. L. 116–283, § 1851(b)(3)(B), substituted “section 4252” for “section 2366b” in introductory provisions.
+
+2019—Subsec. (f). Pub. L. 116–92 added subsec. (f).
+
+2017—Subsec. (e). Pub. L. 115–91 substituted “in writing—” for “in writing that—” in introductory provisions and inserted “, that” after “open system approach” in introductory provisions of par. (1).
+
 #### Effective Date of 2021 Amendment
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Effective Date
+Section effective Jan. 1, 2017, see section 805(a)(4) of Pub. L. 114–328, set out as a note under [section 4401 of this title](./chapter-327-weapon-systems-development-and-related-matters.md#section-4401).
 
 
 <a id="section-4403"></a>
@@ -139,8 +193,23 @@ The Secretary of each military department shall—
 
 ### Statutory Notes
 
+#### Prior Provisions
+Prior sections 4411 to 4414 were renumbered sections 7481 to 7484 of this title, respectively.
+
+A prior section 4415, added Pub. L. 100–180, div. A, title III, § 319(a)(1), Dec. 4, 1987, 101 Stat. 1077; amended Pub. L. 100–526, title I, § 106(c), Oct. 24, 1988, 102 Stat. 2625, related to United States Army School of the Americas, prior to repeal by Pub. L. 106–398, § 1 [[div. A], title IX, § 911(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A-228.
+
+Prior sections 4416 and 4417 were renumbered sections 7486 and 7487 of this title, respectively.
+
+#### Amendments
+2021—Pub. L. 116–283 renumbered [section 2446c of this title](./chapter-chapter-144b-chapter-chapter-144b.md#section-2446c) as this section.
+
+2019—Par. (6). Pub. L. 116–92 added par. (6).
+
 #### Effective Date of 2021 Amendment
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Effective Date
+Section effective Jan. 1, 2017, see section 805(a)(4) of Pub. L. 114–328, set out as a note under [section 4401 of this title](./chapter-327-weapon-systems-development-and-related-matters.md#section-4401).
 
 
 <a id="section-4421"></a>
@@ -163,8 +232,23 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 ### Statutory Notes
 
+#### Amendments
+2021—Pub. L. 116–283 renumbered [section 2447a of this title](./chapter-chapter-144b-chapter-chapter-144b.md#section-2447a) as this section.
+
+2019—Subsec. (a). Pub. L. 116–92 struck out “after fiscal year 2017” after “any fiscal year” in introductory provisions.
+
+2018—Subsec. (a)(2). Pub. L. 115–232, § 836(e)(8)(A), substituted “commercial products and technologies” for “commercial items and technologies”.
+
+Subsec. (c). Pub. L. 115–232, § 836(e)(8)(B), inserted before period at end “and the term ‘commercial product’ has the meaning given that term in [section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim)”.
+
 #### Effective Date of 2021 Amendment
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under [section 453b of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section453b&num=0&edition=prelim), Domestic Security.
+
+#### Effective Date
+Pub. L. 114–328, div. A, title VIII, § 806(a)(2), Dec. 23, 2016, 130 Stat. 2259, provided that: “Subchapter II of chapter 144B of title 10, United States Code [see, now, this subchapter], as added by paragraph (1), shall take effect on January 1, 2017.”
 
 
 <a id="section-4422"></a>
@@ -211,8 +295,16 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 ### Statutory Notes
 
+#### Amendments
+2021—Pub. L. 116–283, § 1851(c)(1), renumbered [section 2447b of this title](./chapter-chapter-144b-chapter-chapter-144b.md#section-2447b) as this section.
+
+Subsec. (c)(3). Pub. L. 116–283, § 1851(c)(2), substituted “section 4423” for “section 2447c”.
+
 #### Effective Date of 2021 Amendment
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Effective Date
+Section effective Jan. 1, 2017, see section 806(a)(2) of Pub. L. 114–328, set out as a note under [section 4421 of this title](./chapter-327-weapon-systems-development-and-related-matters.md#section-4421).
 
 
 <a id="section-4423"></a>
@@ -239,12 +331,25 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 (2) The Secretary of Defense may adjust the amounts (and the base fiscal year) provided in paragraph (1) on the basis of Department of Defense escalation rates.
 
-**(e) Related Prototype Authorities.—** Prototype projects that exceed the duration and funding limits established in this section shall be pursued under the rapid prototyping process established by section 804 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; [10 U.S.C. 2302](./chapter-137-procurement-generally.md#section-2302) note). In addition, nothing in this subchapter shall affect the authority to carry out prototype projects under section 4003 or any other section of this title related to prototyping.
+**(e) Related Prototype Authorities.—** Prototype projects that exceed the duration and funding limits established in this section shall be pursued under the rapid prototyping process established by section 804 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; [10 U.S.C. 2302](./chapter-chapter-137-chapter-chapter-137.md#section-2302) note). In addition, nothing in this subchapter shall affect the authority to carry out prototype projects under section 4003 11 See References in Text note below. or any other section of this title related to prototyping.
 
 ### Statutory Notes
 
+#### References in Text
+Section 4003, referred to in subsec. (e), probably should be a reference to [section 4022 of this title](./chapter-301-research-and-engineering-generally.md#section-4022). Pub. L. 116–283, div. A, title XVIII, § 1841(b)(1), Jan. 1, 2021, 134 Stat. 4243, initially transferred [section 2371b of this title](./chapter-chapter-139-chapter-chapter-139.md#section-2371b) to section 4003, to become effective Jan. 1, 2022. However, Pub. L. 117–81, div. A, title XVII, § 1701(u)(2)(B), Dec. 27, 2021, 135 Stat. 2151, amended section 1841(b)(1) of Pub. L. 116–283, effective as if included therein, so as to eliminate the transfer to section 4003 and instead transfer section 2371b to [section 4022 of this title](./chapter-301-research-and-engineering-generally.md#section-4022).
+
+#### Amendments
+2021—Pub. L. 116–283, § 1851(c)(1), renumbered [section 2447c of this title](./chapter-chapter-144b-chapter-chapter-144b.md#section-2447c) as this section.
+
+Subsec. (b). Pub. L. 116–283, § 1851(c)(3)(A), substituted “section 4422” for “section 2447b”.
+
+Subsec. (e). Pub. L. 116–283, § 1851(c)(3)(B), substituted “section 4003” for “section 2371b”.
+
 #### Effective Date of 2021 Amendment
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Effective Date
+Section effective Jan. 1, 2017, see section 806(a)(2) of Pub. L. 114–328, set out as a note under [section 4421 of this title](./chapter-327-weapon-systems-development-and-related-matters.md#section-4421).
 
 
 <a id="section-4424"></a>
@@ -271,8 +376,16 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 ### Statutory Notes
 
+#### Amendments
+2021—Pub. L. 116–283, § 1851(c)(1), renumbered [section 2447d of this title](./chapter-chapter-144b-chapter-chapter-144b.md#section-2447d) as this section.
+
+Subsec. (a). Pub. L. 116–283, § 1851(c)(4), substituted “sections 3201 through 3205” for “section 2304” in introductory provisions.
+
 #### Effective Date of 2021 Amendment
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Effective Date
+Section effective Jan. 1, 2017, see section 806(a)(2) of Pub. L. 114–328, set out as a note under [section 4421 of this title](./chapter-327-weapon-systems-development-and-related-matters.md#section-4421).
 
 
 <a id="section-4425"></a>
@@ -282,5 +395,13 @@ In this subchapter, the term “weapon system component” has the meaning given
 
 ### Statutory Notes
 
+#### Amendments
+2021—Pub. L. 116–283, § 1851(c)(5), substituted “section 4401” for “section 2446a”.
+
+Pub. L. 116–283, § 1851(c)(1), renumbered [section 2447e of this title](./chapter-chapter-144b-chapter-chapter-144b.md#section-2447e) as this section.
+
 #### Effective Date of 2021 Amendment
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Effective Date
+Section effective Jan. 1, 2017, see section 806(a)(2) of Pub. L. 114–328, set out as a note under [section 4421 of this title](./chapter-327-weapon-systems-development-and-related-matters.md#section-4421).

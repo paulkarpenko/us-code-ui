@@ -65,9 +65,6 @@ Pub. L. 116–92, div. A, title XI, § 1122(b)(1), Dec. 20, 2019, 133 Stat. 1607
 
 ### Statutory Notes
 
-#### Delayed Effective Date of Section
-Section effective 2 years after Dec. 20, 2019, see Effective Date note below.
-
 #### References in Text
 The Civil Rights Act of 1964, referred to in subsec. (c)(2)(B)(i), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VII of the Act is classified generally to subchapter VI (§ 2000e et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000a&num=0&edition=prelim) and Tables.
 

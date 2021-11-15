@@ -540,6 +540,7 @@ Pub. L. 88–332, § 104, June 30, 1964, 78 Stat. 229.
 #### Codification
 Section, act Sept. 26, 1962, Pub. L. 87–701, § 104, 76 Stat. 601, which authorized appropriations for the Atomic Energy Commission for restoration or replacement of facilities, was from an Act authorizing appropriations for the Atomic Energy Commission, and was not enacted as part of the Atomic Energy Act of 1954 which comprises this chapter. See [section 2017(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2017/c&num=0&edition=prelim).
 
+#### Statutory Notes and Related Subsidiaries
 Similar provisions were contained in the following prior appropriation authorization acts:
 
 Sept. 26, 1961, Pub. L. 87–315, § 104, 75 Stat. 678.
@@ -829,6 +830,9 @@ For purposes of sections 2021b to 2021j of this title:
 
 #### Codification
 Section was enacted as part of the Low-Level Radioactive Waste Policy Act, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
+
+#### Constitutionality
+For constitutionality of certain provisions of Low-Level Radioactive Waste Policy Act [sections 2021b to 2021j of this title], see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
 #### Prior Provisions
 A prior section 2021b, Pub. L. 96–573, § 2, Dec. 22, 1980, 94 Stat. 3347, related to definitions respecting low-level radioactive waste policy as used in former sections 2021b to 2021d of this title, prior to repeal by Pub. L. 99–240, § 102.
@@ -1176,7 +1180,7 @@ Pub. L. 99–240, title II, Jan. 15, 1986, 99 Stat. 1859, provided that: “SEC.
 Section was enacted as part of the Low-Level Radioactive Waste Policy Act, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
 
 #### Constitutionality
-For constitutionality of section 102 of Pub. L. 99–240, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For constitutionality of section 102 of Pub. L. 99–240, see note under section 2021b.
 
 
 <a id="section-2021f"></a>
@@ -1786,7 +1790,7 @@ Provisions similar to those comprising this section were contained in section 7(
 
   (A) develop a program plan and annually update the program plan through public workshops; and
 
-  (B) use the Nuclear Science Advisory Committee to conduct annual reviews of the progress made in achieving the program goals and make recommendations to improve program effectiveness.
+  (B) use the Nuclear Science Advisory Committee to conduct triennial reviews of the progress made in achieving the program goals and make recommendations to improve program effectiveness.
 
 **(b) Development assistance** The Secretary shall carry out a program to provide assistance for—
 
@@ -1841,6 +1845,9 @@ This subtitle, referred to in subsec. (c)(5), is subtitle F (§§ 3171–3178) o
 
 #### Codification
 Section was enacted as part of the American Medical Isotopes Production Act of 2012 and also as part of the National Defense Authorization Act for Fiscal Year 2013, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
+
+#### Amendments
+2021—Subsec. (a)(4)(B). Pub. L. 117–81 substituted “triennial reviews” for “annual reviews”.
 
 #### Definitions
 Pub. L. 112–239, div. C, title XXXI, § 3172, Jan. 2, 2013, 126 Stat. 2211, provided that: “In this subtitle [subtitle F (§§ 3171–3178), see Short Title of 2013 Amendment note set out under [section 2011 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) and Tables]: “(1) Department.—The term ‘Department’ means the Department of Energy. “(2) Highly enriched uranium.—The term ‘highly enriched uranium’ means uranium enriched to 20 percent or greater in the isotope U–235. “(3) Low enriched uranium.—The term ‘low enriched uranium’ means uranium enriched to less than 20 percent in the isotope U–235. “(4) Secretary.—The term ‘Secretary’ means the Secretary of Energy.”
@@ -2087,9 +2094,9 @@ The performance of functions under this chapter, as amended by the Nuclear Non-P
 
 <a id="section-2077a"></a>
 ## § 2077a. Interagency review of applications for the transfer of United States civil nuclear technology
-**(a) Report on transfers to covered foreign countries** Not less frequently than every 90 days, the Secretary of Energy shall submit to the appropriate congressional committees a report that includes—
+**(a) Annual Reports on transfers to covered foreign countries** At the same time as the President submits to Congress the annual budget request under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim) for a fiscal year, the Secretary of Energy shall submit to the appropriate congressional committees a report that includes—
 
-(1) a description of the authorizations under [section 2077(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2077/b&num=0&edition=prelim) to transfer United States civil nuclear technology to a covered foreign country during the preceding 90 days; and
+(1) a description of the authorizations under [section 2077(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2077/b&num=0&edition=prelim) to transfer United States civil nuclear technology to a covered foreign country during the preceding year; and
 
 (2) a statement of whether any agency required to be consulted under that section or pursuant to regulation objected to or sought conditions on each such transfer.
 
@@ -2199,6 +2206,8 @@ The performance of functions under this chapter, as amended by the Nuclear Non-P
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2016, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 117–81 substituted “Annual Reports” for “Report” in heading, “At the same time as the President submits to Congress the annual budget request under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim) for a fiscal year,” for “Not less frequently than every 90 days,” in introductory provisions, and “the preceding year” for “the preceding 90 days” in par. (1).
+
 2018—Subsec. (e)(2)(C) to (E). Pub. L. 115–232 added subpar. (C) and redesignated former subpars. (C) and (D) as (D) and (E), respectively.
 
 #### “Congressional Defense Committees” Defined
@@ -2570,9 +2579,6 @@ Provisions similar to this section were contained in [section 1806(a) of this ti
 
 1958—Subsec. (c). Pub. L. 85–479 added subsec. (c).
 
-#### Delegation of Functions
-Authority vested in President by subsec. (c) of this section delegated to Secretary of Defense and Secretary of Energy, see section 2(a)(1) of Ex. Ord. No. 10841, as amended, set out as a note under [section 2153 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2153).
-
 #### Form of Certifications Regarding Safety or Reliability of Nuclear Weapons Stockpile
 Pub. L. 106–398, § 1 [div. C, title XXXI, § 3194], Oct. 30, 2000, 114 Stat. 1654, 1654A–481, which was formerly set out as a note under this section, was renumbered section 4206 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, § 3141(e)(7), Nov. 24, 2003, 117 Stat. 1759, and is classified to [section 2526 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2526&num=0&edition=prelim), War and National Defense.
 
@@ -2628,6 +2634,9 @@ Pub. L. 102–377, title V, § 507, Oct. 2, 1992, 106 Stat. 1343, as amended by 
 
 #### Nuclear Test Ban Readiness Program
 Pub. L. 100–456, div. A, title XIV, § 1436, Sept. 29, 1988, 102 Stat. 2075, as amended by Pub. L. 105–85, div. C, title XXXI, § 3152(i), Nov. 18, 1997, 111 Stat. 2042, which was formerly set out as a note under this section, was renumbered section 4207 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, § 3141(e)(8)(A)–(C), Nov. 24, 2003, 117 Stat. 1759, and is classified to [section 2527 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2527&num=0&edition=prelim), War and National Defense.
+
+#### Delegation of Functions
+Authority vested in President by subsec. (c) of this section delegated to Secretary of Defense and Secretary of Energy, see section 2(a)(1) of Ex. Ord. No. 10841, as amended, set out as a note under [section 2153 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2153).
 
 
 <a id="section-2122"></a>
@@ -3296,17 +3305,17 @@ Section was enacted as part of the Nuclear Non-Proliferation Act of 1978, and no
 #### Effective Date
 Section effective Mar. 10, 1978, except as otherwise provided and regardless of any requirements for the promulgation of implementing regulations, see section 603(c) of Pub. L. 95–242, set out as a note under [section 3201 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3201&num=0&edition=prelim), Foreign Relations and Intercourse.
 
-#### Delegation of Functions
-Secretary of State responsible for performing functions vested in President under this section, see section 2(a) of Ex. Ord. No. 12058, May 11, 1978, 43 F.R. 20947, set out under [section 3201 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3201&num=0&edition=prelim), Foreign Relations and Intercourse.
-
 #### Supply of Additional Low-Enriched Uranium Under International Agreements for Cooperation in Civil Uses of Nuclear Energy
 Pub. L. 96–280, June 18, 1980, 94 Stat. 550, provided that: “Section 1. Limits contained in agreements for cooperation on the amount of low-enriched uranium which may be transferred by or exported from the United States pursuant thereto shall not be construed to preclude transfer or export of amounts of low-enriched uranium in excess of such limits to nations which are parties to the Treaty on the Non-Proliferation of Nuclear Weapons. “Sec. 2. (a) The terms used in this joint resolution shall have the meanings ascribed to them by the Atomic Energy Act of 1954 [this chapter] and by the Nuclear Non-Proliferation Act of 1978 [[22 U.S.C. 3201](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3201&num=0&edition=prelim) et seq.]. “(b) The term ‘low-enriched uranium’ means uranium enriched to less than 20 per centum in the isotope 235.”
 
-#### Performance of Functions Pending Development of Procedures
-The performance of functions under the Nuclear Non-Proliferation Act of 1978, Pub. L. 95–242, Mar. 10, 1978, 92 Stat. 120, not to be delayed pending development of procedures even though as many as 120 days [after Mar. 10, 1978] are allowed for establishing those procedures, see section 5(b) of Ex. Ord. No. 12058, May 11, 1978, 43 F.R. 20947, set out under [section 3201 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3201&num=0&edition=prelim), Foreign Relations and Intercourse.
-
 #### Definitions
 For definitions of terms used in this section, see [section 3203 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3203&num=0&edition=prelim), Foreign Relations and Intercourse.
+
+#### Delegation of Functions
+Secretary of State responsible for performing functions vested in President under this section, see section 2(a) of Ex. Ord. No. 12058, May 11, 1978, 43 F.R. 20947, set out under [section 3201 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3201&num=0&edition=prelim), Foreign Relations and Intercourse.
+
+#### Performance of Functions Pending Development of Procedures
+The performance of functions under the Nuclear Non-Proliferation Act of 1978, Pub. L. 95–242, Mar. 10, 1978, 92 Stat. 120, not to be delayed pending development of procedures even though as many as 120 days [after Mar. 10, 1978] are allowed for establishing those procedures, see section 5(b) of Ex. Ord. No. 12058, May 11, 1978, 43 F.R. 20947, set out under [section 3201 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3201&num=0&edition=prelim), Foreign Relations and Intercourse.
 
 
 <a id="section-2153d"></a>
@@ -3443,19 +3452,10 @@ Amendment by Pub. L. 105–277 effective on earlier of Apr. 1, 1999, or date of 
 #### Effective Date
 Section effective Mar. 10, 1978, except as otherwise provided and regardless of any requirements for the promulgation of implementing regulations, see section 603(c) of Pub. L. 95–242, set out as a note under [section 3201 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3201&num=0&edition=prelim), Foreign Relations and Intercourse.
 
-#### Transfer of Functions
-For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg. Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out as a note under [section 5841 of this title](./chapter-073-development-of-energy-sources.md#section-5841).
-
-#### Delegation of Functions
-Secretary of State responsible for preparation of timely information and recommendations related to the functions vested in President by this section, see section 2(d) of Ex. Ord. No. 12058, May 11, 1978, 43 F.R. 20947, set out under [section 3201 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3201&num=0&edition=prelim), Foreign Relations and Intercourse.
-
 #### Nuclear Export Reporting Requirement
 Pub. L. 105–261, div. A, title XV, § 1523, Oct. 17, 1998, 112 Stat. 2180, as amended by Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XI, § 1135], Nov. 29, 1999, 113 Stat. 1536, 1501A–494, provided that: “(a) Notification of Congress.—The President shall notify the Committee on Foreign Relations of the Senate and the Committee on International Relations [now Committee on Foreign Affairs] of the House of Representatives upon the granting of a license by the Nuclear Regulatory Commission for the export or reexport of any nuclear-related technology or equipment, including source material, special nuclear material, or equipment or material especially designed or prepared for the processing, use, or production of special nuclear material. “(b) Applicability.—The requirements of this section shall apply only to an export or reexport to a country that—“(1) the President has determined is a country that has detonated a nuclear explosive device; and “(2) is not a member of the North Atlantic Treaty Organization. “(c) Content of Notification.—The notification required pursuant to this section shall include—“(1) a detailed description of the articles or services to be exported or reexported, including a brief description of the capabilities of any article to be exported or reexported; “(2) an estimate of the number of officers and employees of the United States Government and of United States Government civilian contract personnel expected to be required in such country to carry out the proposed export or reexport; “(3) the name of each licensee expected to provide the article or service proposed to be sold and a description from the licensee of any offset agreements proposed to be entered into in connection with such sale (if known on the date of transmittal of such statement); “(4) the projected delivery dates of the articles or services to be exported or reexported; and “(5) the extent to which the recipient country in the previous two years has engaged in any of the actions specified in subparagraph (A), (B), or (C) of section 129(2) of the Atomic Energy Act of 1954 [[42 U.S.C. 2158(2)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2158/2/A&num=0&edition=prelim), (B), (C)].”
 
 [Memorandum of President of the United States, July 8, 2004, 69 F.R. 43725, delegated to Secretary of State the functions conferred upon the President by section 1523 of Pub. L. 105–261, set out above.]
-
-#### Performance of Functions Pending Development of Procedures
-The performance of functions under this chapter, as amended by the Nuclear Non-Proliferation Act of 1978, Pub. L. 95–242, Mar. 10, 1978, 92 Stat. 120, not to be delayed pending development of procedures even though as many as 120 days [after Mar. 10, 1978] are allowed for establishing those procedures, see section 5(b) of Ex. Ord. No. 12058, May 11, 1978, 43 F.R. 20947, set out under [section 3201 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3201&num=0&edition=prelim), Foreign Relations and Intercourse.
 
 #### Ex. Ord. No. 12055. Export of Special Nuclear Material to India
 Ex. Ord. No. 12055, Apr. 27, 1978, 43 F.R. 18157, provided:
@@ -3535,6 +3535,15 @@ By the authority vested in me by Title 3, United States Code, Section 301, you a
 This memorandum shall be published in the Federal Register.
 
 Jimmy Carter.
+
+#### Transfer of Functions
+For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg. Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out as a note under [section 5841 of this title](./chapter-073-development-of-energy-sources.md#section-5841).
+
+#### Delegation of Functions
+Secretary of State responsible for preparation of timely information and recommendations related to the functions vested in President by this section, see section 2(d) of Ex. Ord. No. 12058, May 11, 1978, 43 F.R. 20947, set out under [section 3201 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3201&num=0&edition=prelim), Foreign Relations and Intercourse.
+
+#### Performance of Functions Pending Development of Procedures
+The performance of functions under this chapter, as amended by the Nuclear Non-Proliferation Act of 1978, Pub. L. 95–242, Mar. 10, 1978, 92 Stat. 120, not to be delayed pending development of procedures even though as many as 120 days [after Mar. 10, 1978] are allowed for establishing those procedures, see section 5(b) of Ex. Ord. No. 12058, May 11, 1978, 43 F.R. 20947, set out under [section 3201 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3201&num=0&edition=prelim), Foreign Relations and Intercourse.
 
 
 <a id="section-2155a"></a>
@@ -3878,13 +3887,13 @@ Amendment by Pub. L. 105–277 effective on earlier of Apr. 1, 1999, or date of 
 #### Effective Date
 Section effective Mar. 10, 1978, except as otherwise provided and regardless of any requirements for the promulgation of implementing regulations, see section 603(c) of Pub. L. 95–242, set out as a note under [section 3201 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3201&num=0&edition=prelim), Foreign Relations and Intercourse.
 
+#### Limitations on Receipt and Storage of Spent Nuclear Fuel From Foreign Research Reactors
+Pub. L. 103–160, div. C, title XXXI, § 3151, Nov. 30, 1993, 107 Stat. 1949, provided that: “(a) Purpose.—It is the purpose of this section to regulate the receipt and storage of spent nuclear fuel at the Department of Energy defense nuclear facility located at the Savannah River Site, South Carolina (in this section referred to as the ‘Savannah River Site’). “(b) Receipt in Emergency Circumstances.—When the Secretary of Energy determines that emergency circumstances make it necessary to receive spent nuclear fuel, the Secretary shall submit a notification of that determination to the Congress. The Secretary may not receive spent nuclear fuel at the Savannah River Site until the expiration of the 30-day period beginning on the date on which the Congress receives the notification. “(c) Limitation on Storage in Non-emergency Circumstances.—The Secretary of Energy may not, under other than emergency circumstances, receive and store at the Savannah River Site any spent nuclear fuel in excess of the amount that (as of the date of the enactment of this Act [Nov. 30, 1993]) the Savannah River Site is capable of receiving and storing, until, with respect to the receipt and storage of any such spent nuclear fuel—“(1) the completion of an environmental impact statement under section 102(2)(C) of the National Environmental Policy Act of 1969 ([42 U.S.C. 4332(2)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4332/2/C&num=0&edition=prelim)); “(2) the expiration of the 90-day period (as prescribed by regulation pursuant to such Act [[42 U.S.C. 4321](./chapter-055-national-environmental-policy.md#section-4321) et seq.]) beginning on the date of such completion; and “(3) the signing by the Secretary of a record of decision following such completion. “(d) Limitations on Receipt.—The Secretary of Energy may not, under emergency or non-emergency circumstances, receive spent nuclear fuel if the spent nuclear fuel—“(1) cannot be transferred in an expeditious manner from its port of entry in the United States to a storage facility that is located at a Department of Energy facility and is capable of receiving and storing the spent nuclear fuel; or “(2) will remain on a vessel in the port of entry for a period that exceeds the period necessary to unload the fuel from the vessel pursuant to routine unloading procedures. “(e) Criteria for Port of Entry.—The Secretary of Energy shall, if economically feasible and to the maximum extent practicable, provide for the receipt of spent nuclear fuel under this section at a port of entry in the United States which, as determined by the Secretary and compared to each other port of entry in the United States that is capable of receiving the spent nuclear fuel—“(1) has the lowest human population in the area surrounding the port of entry; “(2) is closest in proximity to the facility which will store the spent nuclear fuel; and “(3) has the most appropriate facilities for, and experience in, receiving spent nuclear fuel. “(f) Definition.—In this section, the term ‘spent nuclear fuel’ means nuclear fuel that—“(1) was originally exported to a foreign country from the United States in the form of highly enriched uranium; and “(2) was used in a research reactor by the Government of a foreign country or by a foreign-owned or foreign-controlled entity.”
+
 #### Delegation of Functions
 Delegation or assignment to Secretary of Energy of functions vested in President under subsecs. (a)(2)(G), (b)(1), and (f)(2) of this section, and of function vested in President under subsec. (f)(1)(A)(ii) of this section to extent that such function relates to preparation of a detailed generic plan, see section 1(b) and (c) of Ex. Ord. No. 12058, May 11, 1978, 43 F.R. 20947, set out under [section 3201 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3201&num=0&edition=prelim), Foreign Relations and Intercourse.
 
 Secretary of State responsible for performing function vested in President under subsec. (c) of this section, except that Secretary of State may not waive 60-day requirement for preparation of a Nuclear Non-Proliferation Assessment Statement for more than 60 days without approval of President, see section 2(e) of Ex. Ord. No. 12058, May 11, 1978, 43 F.R. 20947, set out under [section 3201 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3201&num=0&edition=prelim).
-
-#### Limitations on Receipt and Storage of Spent Nuclear Fuel From Foreign Research Reactors
-Pub. L. 103–160, div. C, title XXXI, § 3151, Nov. 30, 1993, 107 Stat. 1949, provided that: “(a) Purpose.—It is the purpose of this section to regulate the receipt and storage of spent nuclear fuel at the Department of Energy defense nuclear facility located at the Savannah River Site, South Carolina (in this section referred to as the ‘Savannah River Site’). “(b) Receipt in Emergency Circumstances.—When the Secretary of Energy determines that emergency circumstances make it necessary to receive spent nuclear fuel, the Secretary shall submit a notification of that determination to the Congress. The Secretary may not receive spent nuclear fuel at the Savannah River Site until the expiration of the 30-day period beginning on the date on which the Congress receives the notification. “(c) Limitation on Storage in Non-emergency Circumstances.—The Secretary of Energy may not, under other than emergency circumstances, receive and store at the Savannah River Site any spent nuclear fuel in excess of the amount that (as of the date of the enactment of this Act [Nov. 30, 1993]) the Savannah River Site is capable of receiving and storing, until, with respect to the receipt and storage of any such spent nuclear fuel—“(1) the completion of an environmental impact statement under section 102(2)(C) of the National Environmental Policy Act of 1969 ([42 U.S.C. 4332(2)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4332/2/C&num=0&edition=prelim)); “(2) the expiration of the 90-day period (as prescribed by regulation pursuant to such Act [[42 U.S.C. 4321](./chapter-055-national-environmental-policy.md#section-4321) et seq.]) beginning on the date of such completion; and “(3) the signing by the Secretary of a record of decision following such completion. “(d) Limitations on Receipt.—The Secretary of Energy may not, under emergency or non-emergency circumstances, receive spent nuclear fuel if the spent nuclear fuel—“(1) cannot be transferred in an expeditious manner from its port of entry in the United States to a storage facility that is located at a Department of Energy facility and is capable of receiving and storing the spent nuclear fuel; or “(2) will remain on a vessel in the port of entry for a period that exceeds the period necessary to unload the fuel from the vessel pursuant to routine unloading procedures. “(e) Criteria for Port of Entry.—The Secretary of Energy shall, if economically feasible and to the maximum extent practicable, provide for the receipt of spent nuclear fuel under this section at a port of entry in the United States which, as determined by the Secretary and compared to each other port of entry in the United States that is capable of receiving the spent nuclear fuel—“(1) has the lowest human population in the area surrounding the port of entry; “(2) is closest in proximity to the facility which will store the spent nuclear fuel; and “(3) has the most appropriate facilities for, and experience in, receiving spent nuclear fuel. “(f) Definition.—In this section, the term ‘spent nuclear fuel’ means nuclear fuel that—“(1) was originally exported to a foreign country from the United States in the form of highly enriched uranium; and “(2) was used in a research reactor by the Government of a foreign country or by a foreign-owned or foreign-controlled entity.”
 
 #### Performance of Functions Pending Development of Procedures
 The performance of functions under this chapter, as amended by the Nuclear Non-Proliferation Act of 1978, Pub. L. 95–242, Mar. 10, 1978, 92 Stat. 120, not to be delayed pending development of procedures even though as many as 120 days [after Mar. 10, 1978] are allowed for establishing those procedures, see section 5(b) of Ex. Ord. No. 12058, May 11, 1978, 43 F.R. 20947, set out under [section 3201 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3201&num=0&edition=prelim), Foreign Relations and Intercourse.
@@ -4560,11 +4569,11 @@ Subsec. (b). Pub. L. 85–479, § 6, authorized communication of design informat
 
 Subsecs. (c), (d). Pub. L. 85–479, § 7, added subsecs. (c) and (d).
 
-#### Delegation of Functions
-Authority vested in President by subsecs. (b) and (c) of this section delegated to Secretary of Defense and Secretary of Energy, see section 2(a)(2) and (3) of Ex. Ord. No. 10841, as amended, set out as a note under [section 2153 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2153).
-
 #### Prohibition on Inspections
 Pub. L. 104–106, div. C, title XXXI, § 3154(a), Feb. 10, 1996, 110 Stat. 624, which was formerly set out as a note under this section, was renumbered section 4501(a) of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, § 3141(h)(2)(A)–(C), Nov. 24, 2003, 117 Stat. 1771, and is classified to [section 2651(a) of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2651/a&num=0&edition=prelim), War and National Defense.
+
+#### Delegation of Functions
+Authority vested in President by subsecs. (b) and (c) of this section delegated to Secretary of Defense and Secretary of Energy, see section 2(a)(2) and (3) of Ex. Ord. No. 10841, as amended, set out as a note under [section 2153 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2153).
 
 
 <a id="section-2165"></a>
@@ -5269,7 +5278,7 @@ References to the United States Enrichment Corporation deemed, as of the privati
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under [section 5376 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).
 
 #### Organizational Conflicts of Interest
-Pub. L. 95–209, § 7, Dec. 13, 1977, 91 Stat. 1483, provided that: “The Commission shall by December 31, 1977, promulgate guidelines to be applied by the Commission in determining whether an organization proposing to enter into a contractual arrangement with the Commission has a conflict of interest which might impair the contractor’s judgment or otherwise give the contractor an unfair competitive advantage.”
+Pub. L. 95–209, § 7, Dec. 13, 1977, 91 Stat. 1483, provided that the Commission would, by Dec. 31, 1977, promulgate guidelines to be applied by the Commission to determine whether an organization proposing to enter into a contractual arrangement with the Commission had a conflict of interest that could impair the contractor’s judgment or give the contractor an unfair competitive advantage.
 
 #### Applicability to Functions Transferred by Department of Energy Organization Act
 Pub. L. 95–91, title VII, § 709(c)(2), Aug. 4, 1977, 91 Stat. 608, provided that: “Section 161(d) of the Atomic Energy Act of 1954 [subsec. (d) of this section] shall not apply to functions transferred by this Act [see Short Title note set out under [section 7101 of this title](./chapter-084-department-of-energy.md#section-7101)].”
@@ -5277,14 +5286,14 @@ Pub. L. 95–91, title VII, § 709(c)(2), Aug. 4, 1977, 91 Stat. 608, provided t
 #### Termination of Advisory Boards
 Advisory boards in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided by law. Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
-#### Emergency Preparedness Functions
-For assignment of certain emergency preparedness functions to Members of the Nuclear Regulatory Commission, see Parts 1, 2, and 21 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under [section 5195 of this title](./chapter-068-disaster-relief.md#section-5195).
-
 #### Principal Office Building for Atomic Energy Commission
 Act May 6, 1955, ch. 34, 69 Stat. 47, as amended by Pub. L. 85–107, July 17, 1957, 71 Stat. 307, authorized Atomic Energy Commission to acquire a suitable site in or near District of Columbia and, notwithstanding any other provision of law, to provide for construction on such site, in accordance with plans and specifications prepared by or under direction of Commission, of a modern office building to serve as principal office of Commission at a total cost of not to exceed $13,300,000 and authorized to be appropriated such sums as were necessary.
 
 #### Report With Respect to Renegotiations, Reappraisals, and Sales Proceedings
 Pub. L. 85–162, title II, § 203, Aug. 21, 1957, 71 Stat. 410, directed Atomic Energy Commission, Federal Housing Administration, and Housing and Home Finance Agency to report to Joint Committee by Jan. 31, 1958, with respect to renegotiations, reappraisals, and sales proceedings authorized under sections 201 and 202 of Pub. L. 85–162 [amending subsec. (e) of this section and enacting [section 2325(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2325/c&num=0&edition=prelim)].
+
+#### Emergency Preparedness Functions
+For assignment of certain emergency preparedness functions to Members of the Nuclear Regulatory Commission, see Parts 1, 2, and 21 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under [section 5195 of this title](./chapter-068-disaster-relief.md#section-5195).
 
 
 <a id="section-2201a"></a>
@@ -6106,7 +6115,7 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 [Section 2251 of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2251&num=0&edition=prelim), referred to in subsec. (d), was amended generally by Pub. L. 100–418, title I, § 1401(a), Aug. 23, 1988, 102 Stat. 1225, and as so amended does not relate to investigations. See [section 2252 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2252&num=0&edition=prelim), Customs Duties.
 
 #### Review of Status of Domestic Uranium Mining and Milling Industry; Availability to Congressional Committees; Scope of Review
-Pub. L. 97–415, § 23(a), Jan. 4, 1983, 96 Stat. 2080, provided that: “(a)(1) Not later than 12 months after the date of enactment of this section [Jan. 4, 1983], the President shall prepare and submit to the Congress a comprehensive review of the status of the domestic uranium mining and milling industry. This review shall be made available to the appropriate committees of the United States Senate and the House of Representatives. “(2) The Comprehensive review prepared for submission under paragraph (1) shall include—“(A) projections of uranium requirements and inventories of domestic utilities; “(B) present and future projected uranium production by the domestic mining and milling industry; “(C) the present and future probable penetration of the domestic market by foreign imports; “(D) the size of domestic and foreign ore reserves; “(E) present and projected domestic uranium exploration expenditures and plans; “(F) present and projected employment and capital investment in the uranium industry; “(G) an estimate of the level of domestic uranium production necessary to ensure the viable existence of a domestic uranium industry and protection of national security interests; “(H) an estimate of the percentage of domestic uranium demand which must be met by domestic uranium production through the year 2000 in order to ensure the level of domestic production estimated to be necessary under subparagraph (G); “(I) a projection of domestic uranium production and uranium price levels which will be in effect both under current policy and in the event that foreign import restrictions were enacted by Congress in order to guarantee domestic production at the level estimated to be necessary under subparagraph (G); “(J) the anticipated effect of spent nuclear fuel reprocessing on the demand for uranium; and “(K) other information relevant to the consideration of restrictions on the importation of source material and special nuclear material from foreign sources.”
+Pub. L. 97–415, § 23(a), Jan. 4, 1983, 96 Stat. 2080, directed the President to prepare and submit to Congress a comprehensive review of the status of the domestic uranium mining and milling industry by no later than 12 months after Jan. 4, 1983.
 
 
 <a id="section-2210c"></a>
@@ -7511,11 +7520,11 @@ Subsec. (b). Pub. L. 107–56, §§ 810(f)(1), (3), 811(h)(2), struck out “or 
 
 (4) The President shall enter into an arrangement with the National Academy of Sciences under which the National Academy shall maintain a list of individuals who meet the qualifications described in paragraph (1) to assist the President in selecting individuals to nominate for positions as members of the Board.
 
-**(c) Chairman, Vice Chairman, and Members**
+**(c) Chairperson, Vice Chairperson, and members**
 
-(1) The President shall designate a Chairman and Vice Chairman of the Board from among members of the Board.
+(1) The President shall designate a Chairperson and Vice Chairperson of the Board from among members of the Board.
 
-(2) In accordance with paragraphs (5) and (6), the Chairman shall be the chief executive officer of the Board and, subject to such policies as the Board may establish, shall exercise the functions of the Board with respect to—
+(2) In accordance with paragraphs (5) and (6), the Chairperson shall be the chief executive officer of the Board and, subject to such policies as the Board may establish, shall exercise the functions of the Board with respect to—
 
   (A) the appointment and supervision of employees of the Board;
 
@@ -7525,9 +7534,9 @@ Subsec. (b). Pub. L. 107–56, §§ 810(f)(1), (3), 811(h)(2), struck out “or 
 
 (3)
 
-  (A) The Chairman may delegate any of the functions under this paragraph to any other member or to any appropriate officer of the Board.
+  (A) The Chairperson may delegate any of the functions under this paragraph to any other member or to any appropriate officer of the Board.
 
-  (B) In carrying out subparagraph (A), the Chairman shall delegate to the Executive Director of Operations established under [section 2286b(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2286b/b/3&num=0&edition=prelim) the following functions:
+  (B) In carrying out subparagraph (A), the Chairperson shall delegate to the Executive Director of Operations established under [section 2286b(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2286b/b/3&num=0&edition=prelim) the following functions:
 
     (i) Administrative functions of the Board.
 
@@ -7543,9 +7552,9 @@ Subsec. (b). Pub. L. 107–56, §§ 810(f)(1), (3), 811(h)(2), struck out “or 
 
       (III) the proposed distribution of funds according to purposes approved by the Board.
 
-(4) The Vice Chairman shall act as Chairman in the event of the absence or incapacity of the Chairman or in case of a vacancy in the office of Chairman.
+(4) The Vice Chairperson shall act as Chairperson in the event of the absence or incapacity of the Chairperson or in case of a vacancy in the office of Chairperson.
 
-(5) Each member of the Board, including the Chairman and Vice Chairman, shall—
+(5) Each member of the Board, including the Chairperson and Vice Chairperson, shall—
 
   (A) have equal responsibility and authority in establishing decisions and determining actions of the Board;
 
@@ -7555,9 +7564,9 @@ Subsec. (b). Pub. L. 107–56, §§ 810(f)(1), (3), 811(h)(2), struck out “or 
 
 (6)
 
-  (A) The Chairman, subject to the approval of the Board, shall appoint the senior employees described in subparagraph (C). Any member of the Board may propose to the Chairman an individual to be so appointed.
+  (A) The Chairperson, subject to the approval of the Board, shall appoint the senior employees described in subparagraph (C). Any member of the Board may propose to the Chairperson an individual to be so appointed.
 
-  (B) The Chairman, subject to the approval of the Board, may remove a senior employee described in subparagraph (C). Any member of the Board may propose to the Chairman an individual to be so removed.
+  (B) The Chairperson, subject to the approval of the Board, may remove a senior employee described in subparagraph (C). Any member of the Board may propose to the Chairperson an individual to be so removed.
 
   (C) The senior employees described in this subparagraph are the following senior employees of the Board:
 
@@ -7567,7 +7576,7 @@ Subsec. (b). Pub. L. 107–56, §§ 810(f)(1), (3), 811(h)(2), struck out “or 
 
 **(d) Terms**
 
-(1) Except as provided under paragraph (2), the members of the Board shall serve for terms of five years. Members of the Board may be reappointed.
+(1) Except as provided under paragraph (2), the members of the Board shall serve for terms of five years. A member may be reappointed for a second term only if the member was confirmed by the Senate more than two years into the member’s first term. A member may not be reappointed for a third term.
 
 (2) Of the members first appointed—
 
@@ -7582,7 +7591,11 @@ Subsec. (b). Pub. L. 107–56, §§ 810(f)(1), (3), 811(h)(2), struck out “or 
   (E) one shall be appointed for a term of five years,
   as designated by the President at the time of appointment.
 
-(3) Any member appointed to fill a vacancy occurring before the expiration of the term of office for which such member’s predecessor was appointed shall be appointed only for the remainder of such term. A member may serve after the expiration of that member’s term until a successor has taken office.
+(3)
+
+  (A) Any member appointed to fill a vacancy occurring before the expiration of the term of office for which such member’s predecessor was appointed shall be appointed only for the remainder of such term.
+
+  (B) A member may not serve after the expiration of the member’s term, unless the departure of the member would result in the loss of a quorum for the Board. If more than one member is serving after the expiration of the member’s term and a new member is appointed to the Board so that one of the members serving after the expiration of the member’s term is no longer necessary to maintain a quorum, the member whose term expired first may no longer serve on the Board.
 
 (4)
 
@@ -7602,24 +7615,9 @@ Subsec. (b). Pub. L. 107–56, §§ 810(f)(1), (3), 811(h)(2), struck out “or 
 
 ### Statutory Notes
 
-#### Amendment of Subsection (d)
-Pub. L. 116–92, div. C, title XXXII, § 3203(b), Dec. 20, 2019, 133 Stat. 1966, provided that, effective on the date that is one year after Dec. 20, 2019, subsection (d) of this section is amended:
-
-(1) in paragraph (1), by striking the second sentence and inserting the following new sentences: “A member may be reappointed for a second term only if the member was confirmed by the Senate more than two years into the member’s first term. A member may not be reappointed for a third term.”; and
-
-(2) in paragraph (3)—
-
-(A) by striking “Any member” and inserting “(A) Any member”;
-
-(B) by striking the second sentence; and
-
-(C) by adding at the end the following new subparagraph:
-
-(B) A member may not serve after the expiration of the member’s term, unless the departure of the member would result in the loss of a quorum for the Board. If more than one member is serving after the expiration of the member’s term and a new member is appointed to the Board so that one of the members serving after the expiration of the member’s term is no longer necessary to maintain a quorum, the member whose term expired first may no longer serve on the Board.
-
-See 2019 Amendment notes below.
-
 #### Amendments
+2021—Subsec. (c). Pub. L. 117–81 substituted “Chairperson, Vice Chairperson” for “Chairman, Vice Chairman” in heading and “Chairperson” for “Chairman” wherever appearing.
+
 2019—Subsec. (b)(4). Pub. L. 116–92, § 3203(a), added par. (4).
 
 Subsec. (c)(2). Pub. L. 116–92, § 3202(a)(2)(A), substituted “paragraphs (5) and (6)” for “paragraphs (5), (6), and (7)”.
@@ -7658,7 +7656,7 @@ Subsec. (c)(7). Pub. L. 114–92, § 3202(b)(1), added par. (7).
 
 2013—Subsec. (b)(4). Pub. L. 112–239, § 3202(a)(1), struck out par. (4) which read as follows: “Not later than 180 days after September 29, 1988, the President shall submit to the Senate nominations for appointment to the Board. In the event that the President is unable to submit the nominations within such 180-day period, the President shall submit to the Committees on Armed Services and on Appropriations of the Senate and to the Speaker of the House of Representatives a report describing the reasons for such inability and a plan for submitting the nominations within the next 90 days. If the President is unable to submit the nominations within that 90-day period, the President shall again submit to such committees and the Speaker such a report and plan. The President shall continue to submit to such committees and the Speaker such a report and plan every 90 days until the nominations are submitted.”
 
-Subsec. (c). Pub. L. 112–239, § 3202(a)(2)(A), substituted “, Vice Chairman, and Members” for “and Vice Chairman” in heading.
+Subsec. (c). Pub. L. 112–239, § 3202(a)(2)(A), substituted “, Vice Chairman, and members” for “and Vice Chairman” in heading.
 
 Subsec. (c)(2). Pub. L. 112–239, § 3202(a)(2)(B), substituted “In accordance with paragraph (5), the Chairman” for “The Chairman”.
 
@@ -7730,7 +7728,7 @@ Subsec. (c). Pub. L. 112–239, § 3202(b)(1)(B), redesignated subsec. (b) as (c
 
 (2)
 
-  (A) Subpoenas may be issued only under the signature of the Chairman or any member of the Board designated by him and shall be served by any person designated by the Chairman, any member, or any person as otherwise provided by law. The attendance of witnesses and the production of evidence may be required from any place in the United States at any designated place of hearing in the United States.
+  (A) Subpoenas may be issued only under the signature of the Chairperson or any member of the Board designated by him and shall be served by any person designated by the Chairperson, any member, or any person as otherwise provided by law. The attendance of witnesses and the production of evidence may be required from any place in the United States at any designated place of hearing in the United States.
 
   (B) Any member of the Board may administer oaths or affirmations to witnesses appearing before the Board.
 
@@ -7754,7 +7752,7 @@ Subsec. (c). Pub. L. 112–239, § 3202(b)(1)(B), redesignated subsec. (b) as (c
 
   (A) The Board shall have an Executive Director of Operations who shall be appointed under [section 2286(c)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2286/c/6&num=0&edition=prelim).
 
-  (B) The Executive Director of Operations shall report to the Chairman.
+  (B) The Executive Director of Operations shall report to the Chairperson.
 
   (C) The Executive Director of Operations shall be the senior employee of the Board responsible for—
 
@@ -7762,9 +7760,9 @@ Subsec. (c). Pub. L. 112–239, § 3202(b)(1)(B), redesignated subsec. (b) as (c
 
     (ii) ensuring that the members of the Board are fully and currently informed with respect to matters for which the members are responsible; and
 
-    (iii) the functions delegated by the Chairman pursuant to [section 2286(c)(3)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2286/c/3/B&num=0&edition=prelim).
+    (iii) the functions delegated by the Chairperson pursuant to [section 2286(c)(3)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2286/c/3/B&num=0&edition=prelim).
 
-(4) Subject to the approval of the Board, the Chairman may organize the staff of the Board as the Chairman considers appropriate to best accomplish the mission of the Board described in [section 2286a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2286a/a&num=0&edition=prelim).
+(4) Subject to the approval of the Board, the Chairperson may organize the staff of the Board as the Chairperson considers appropriate to best accomplish the mission of the Board described in [section 2286a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2286a/a&num=0&edition=prelim).
 
 **(c) Regulations** The Board may prescribe regulations to carry out the responsibilities of the Board under this subchapter.
 
@@ -7824,7 +7822,9 @@ Subsec. (c). Pub. L. 112–239, § 3202(b)(1)(B), redesignated subsec. (b) as (c
 The Federal Rules of Civil Procedure, referred to in subsec. (a)(2)(D), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 #### Amendments
-2021—Subsec. (k). Pub. L. 116–283 added subsec. (k).
+2021—Pub. L. 117–81 substituted “Chairperson” for “Chairman” wherever appearing.
+
+Subsec. (k). Pub. L. 116–283 added subsec. (k).
 
 2019—Subsec. (b)(1)(A). Pub. L. 116–92, § 3202(a)(4)(A), substituted “section 2286(c)(6)” for “section 2286(c)(7)”.
 

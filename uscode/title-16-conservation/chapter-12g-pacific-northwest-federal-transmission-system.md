@@ -2,7 +2,7 @@
 title: 16
 chapter: 12G
 heading: PACIFIC NORTHWEST FEDERAL TRANSMISSION SYSTEM
-section_count: 13
+section_count: 15
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16&num=0&edition=prelim
 ---
@@ -123,7 +123,7 @@ Schedules of rates and charges for the sale, including dispositions to Federal a
 #### Transfer of Functions
 “Secretary of Energy” substituted in text for “Secretary of the Interior” and “Federal Power Commission” pursuant to Pub. L. 95–91, §§ 301(b), 302(a)(1)(D), which are classified to sections 7151(b) and 7152(a)(1)(D) of Title 42, The Public Health and Welfare.
 
-Federal Power Commission terminated and its functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
+The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
 
 Functions of Secretary of the Interior with respect to Bonneville Power Administration transferred to Secretary of Energy by section 7152(a)(1)(D), (2) of Title 42, with Bonneville Power Administration to be preserved as a distinct organizational entity within Department of Energy and headed by an Administrator.
 
@@ -353,3 +353,118 @@ Functions of Secretary of the Interior with respect to Bonneville Power Administ
 Section was enacted as part of the Omnibus Consolidated Rescissions and Appropriations Act of 1996, and not as part of the Federal Columbia River Transmission System Act which comprises this chapter.
 
 Section is comprised of section 3201 of Pub. L. 104–134. Subsec. (h) of section 3201 of Pub. L. 104–134 amended section 6 of Pub. L. 103–436, which is not classified to the Code.
+
+
+<a id="section-838m"></a>
+## § 838m. Power marketing administration transmission borrowing authority
+**(a) Borrowing authority**
+
+(1) **In general** — Subject to paragraph (2), for the purposes of providing funds to assist in the financing of the construction, acquisition, and replacement of the Federal Columbia River Power System and to implement the authority of the Administrator of the Bonneville Power Administration (referred to in this section as the “Administrator”) under the Pacific Northwest Electric Power Planning and Conservation Act ([16 U.S.C. 839](./chapter-12h-pacific-northwest-electric-power-planning-and-conservation.md#section-839) et seq.), an additional $10,000,000,000 in borrowing authority is made available under the Federal Columbia River Transmission System Act ([16 U.S.C. 838](./chapter-12g-pacific-northwest-federal-transmission-system.md#section-838) et seq.), to remain outstanding at any 1 time.
+
+(2) **Limitation** — The obligation of additional borrowing authority under paragraph (1) shall not exceed $6,000,000,000 by fiscal year 2028.
+
+**(b) Financial plan**
+
+(1) **In general** — The Administrator shall issue an updated financial plan by the end of fiscal year 2022.
+
+(2) **Requirement** — As part of the process of issuing an updated financial plan under paragraph (1), the Administrator shall—
+
+  (A) consistent with asset management planning and sound business principles, consider projected and planned use and allocation of the borrowing authority of the Administrator across the mission responsibilities of the Bonneville Power Administration; and
+
+  (B) before issuing the final updated financial plan—
+
+    (i) engage, in a manner determined by the Administrator, with customers with respect to a draft of the updated plan; and
+
+    (ii) consider as a relevant factor any recommendations from customers regarding prioritization of asset investments.
+
+**(c) Stakeholder engagement** The Administrator shall—
+
+(1) engage, in a manner determined by the Administrator, with customers and stakeholders with respect to the financial and cost management efforts of the Administrator through periodic program reviews; and
+
+(2) to the maximum extent practicable, implement those policies that would be expected to be consistent with the lowest possible power and transmission rates consistent with sound business principles.
+
+**(d) Repayment** Any additional Treasury borrowing authority received under this section shall be fully repaid to the Treasury in a manner consistent with the applicable self-financed Federal budget accounts.
+
+### Statutory Notes
+
+#### References in Text
+The Pacific Northwest Electric Power Planning and Conservation Act, referred to in subsec. (a)(1), is Pub. L. 96–501, Dec. 5, 1980, 94 Stat. 2697, which is classified principally to chapter 12H (§ 839 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 839 of this title](./chapter-12h-pacific-northwest-electric-power-planning-and-conservation.md#section-839) and Tables.
+
+The Federal Columbia River Transmission System Act, referred to in subsec. (a)(1), is Pub. L. 93–454, Oct. 18, 1974, 88 Stat. 1376, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 838 of this title](./chapter-12g-pacific-northwest-federal-transmission-system.md#section-838) and Tables.
+
+#### Codification
+Section was enacted as part of the Infrastructure Investment and Jobs Act, and not as part of the Federal Columbia River Transmission System Act which comprises this chapter.
+
+
+<a id="section-838n"></a>
+## § 838n. Columbia Basin power management
+**(a) Definitions** In this section:
+
+(1) **Account** — The term “Account” means the account established by subsection (b)(1).
+
+(2) **Administrator** — The term “Administrator” means the Administrator of the Bonneville Power Administration.
+
+(3) **Canadian Entitlement** — The term “Canadian Entitlement” means the downstream power benefits that Canada is entitled to under Article V of the Treaty Relating to Cooperative Development of the Water Resources of the Columbia River Basin, signed at Washington January 17, 1961 (15 UST 1555; TIAS 5638).
+
+**(b) Transmission coordination and expansion**
+
+(1) **Establishment** — There is established in the Treasury an account for the purposes of making expenditures to increase bilateral transfers of renewable electric generation between the western United States and Canada.
+
+(2) **Criteria**
+
+  (A) *In general* — The Administrator may make expenditures from the Account for activities to improve electric power system coordination by constructing electric power transmission facilities within the western United States that directly or indirectly facilitate non-carbon emitting electric power transactions between the western United States and Canada.
+
+  (B) *Application* — Subparagraph (A) shall be effective after the later of—
+
+    (i) September 16, 2024; and
+
+    (ii) the date on which the Canadian entitlement value calculation is terminated or reduced to the actual electric power value to the United States, as determined by the Administrator.
+
+(3) **Consultation** — The Administrator shall consult with relevant electric utilities in Canada and appropriate regional transmission planning organizations in considering the construction of transmission activities under this subsection.
+
+(4) **Authorization** — There is authorized to be appropriated to the Account a nonreimburseable amount equal to the aggregated amount of the Canadian Entitlement during the 5-year period preceding November 15, 2021.
+
+**(c) Increased hydroelectric capacity**
+
+(1) **In general** — The Commissioner of Reclamation shall rehabilitate and enhance the John W. Keys III Pump Generating Plant—
+
+  (A) to replace obsolete equipment;
+
+  (B) to maintain reliability and improve efficiency in system performance and operation;
+
+  (C) to create more hydroelectric power capacity in the Pacific Northwest; and
+
+  (D) to ensure the availability of water for irrigation in the event that Columbia River water flows from British Columbia into the United States are insufficient after September 16, 2024.
+
+(2) **Authorization of appropriations** — There is authorized to be appropriated $100,000,000, which shall be nonreimburseable, to carry out this subsection.
+
+**(d) Power coordination study**
+
+(1) **In general** — The Administrator shall conduct a study considering the potential hydroelectric power value to the Pacific Northwest of increasing the coordination of the operation of hydroelectric and water storage facilities on rivers located in the United States and Canada.
+
+(2) **Criteria** — The study conducted under paragraph (1) shall analyze—
+
+  (A) projected changes to the Pacific Northwest electricity supply;
+
+  (B) potential reductions in greenhouse gas emissions;
+
+  (C) any potential need to increase transmission capacity; and
+
+  (D) any other factor the Administrator considers to be relevant for increasing bilateral coordination.
+
+(3) **Coordination** — In conducting the study under paragraph (1), the Administrator shall coordinate, to the extent practicable, with—
+
+  (A) the British Columbia or a crown corporation owned by British Columbia;
+
+  (B) the Assistant Secretary;
+
+  (C) the Commissioner of Reclamation; and
+
+  (D) any public utility districts that operate hydroelectric projects on the mainstem of the Columbia River.
+
+(4) **Authorization of appropriations** — There is authorized to be appropriated $10,000,000, which shall be nonreimburseable, to carry out this subsection.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Infrastructure Investment and Jobs Act, and not as part of the Federal Columbia River Transmission System Act which comprises this chapter.

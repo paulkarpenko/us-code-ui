@@ -673,7 +673,7 @@ In this title the following definitions shall apply:
 ### Statutory Notes
 
 #### Amendment of Paragraph (10A)(B)(ii)(V)
-Pub. L. 116–136, div. A, title I, § 1113(b)(2)(A)(i), (B), Mar. 27, 2020, 134 Stat. 311, 312, provided that effective 1 year after Mar. 27, 2020, paragraph (10A)(B)(ii)(V) of this section is amended by striking subclause (V). See 2020 Amendment note below.
+Pub. L. 116–136, div. A, title I, § 1113(b)(2)(A)(i), (B), Mar. 27, 2020, 134 Stat. 311, 312, as amended by Pub. L. 117–5, § 2(a)(2), Mar. 27, 2021, 135 Stat. 249, provided that, effective 2 years after Mar. 27, 2020, paragraph (10A)(B)(ii)(V) of this section is amended by striking subclause (V). See 2020 Amendment note below.
 
 #### legislative statements
 Section 101(2) defines “affiliate.” The House amendment contains a provision that is a compromise between the definition in the House-passed version of H.R. 8200 and the Senate amendment in the nature of a substitute to H.R. 8200. Subparagraphs (A) and (B) are derived from the Senate amendment and subparagraph (D) is taken from the House bill, while subparagraph (C) represents a compromise, taking the House position with respect to a person whose business is operated under a lease or an operating agreement by the debtor and with respect to a person substantially all of whose property is operated under an operating agreement by the debtor and with respect to a person substantially all of whose property is operated under an operating agreement by the debtor and the Senate position on leased property. Thus, the definition of “affiliate” excludes persons substantially all of whose property is operated under a lease agreement by a debtor, such as a small company which owns equipment all of which is leased to a larger nonrelated company.
@@ -1307,7 +1307,7 @@ Pars. (40), (41). Pub. L. 97–222, § 1(a)(1), (d), redesignated former par. (3
 #### Effective Date of 2020 Amendment
 Pub. L. 116–136, div. A, title I, § 1113(b)(1)(D)(i), Mar. 27, 2020, 134 Stat. 312, provided that: “The amendments made by subparagraphs (A) and (B) [amending this section and [section 1325 of this title](./chapter-013-adjustment-of-debts-of-an-individual-with-regular-income.md#section-1325)] shall apply to any case commenced before, on, or after the date of enactment of this Act [Mar. 27, 2020].”
 
-Pub. L. 116–136, div. A, title I, § 1113(b)(2)(B), Mar. 27, 2020, 134 Stat. 312, provided that: “The amendments made by subparagraph (A) [amending this section and sections 1325 and 1329 of this title] shall take effect on the date that is 1 year after the date of enactment of this Act [Mar. 27, 2020].”
+Pub. L. 116–136, div. A, title I, § 1113(b)(2)(B), Mar. 27, 2020, 134 Stat. 312, as amended by Pub. L. 117–5, § 2(a)(2), Mar. 27, 2021, 135 Stat. 249, provided that: “The amendments made by subparagraph (A) [amending this section and sections 1325 and 1329 of this title] shall take effect on the date that is 2 years after the date of enactment of this Act [Mar. 27, 2020].”
 
 #### Effective Date of 2019 Amendment
 Pub. L. 116–54, § 5, Aug. 23, 2019, 133 Stat. 1087, provided that: “This Act [see Short Title of 2019 Amendment note set out under this section] and the amendments made by this Act shall take effect 180 days after the date of enactment of this Act [Aug. 23, 2019].”
@@ -1338,6 +1338,9 @@ Amendment by section 283 of Pub. L. 99–554 effective 30 days after Oct. 27, 19
 
 #### Effective Date of 1984 Amendment
 Pub. L. 98–353, title III, § 552, formerly § 553, July 10, 1984, 98 Stat. 392, as renumbered by Pub. L. 98–531, § 1(2), Oct. 19, 1984, 98 Stat. 2704, provided that: “(a) Except as otherwise provided in this section the amendments made by this title [see Tables for classification] shall become effective to cases filed 90 days after the date of enactment of this Act [July 10, 1984]. “(b) The amendments made by section 426(b) [amending [section 303 of this title](./chapter-003-case-administration.md#section-303)] shall become effective upon the date of enactment of this Act. “(c) The amendments made by subtitle J [enacting [section 1113 of this title](./chapter-011-reorganization.md#section-1113)], shall become effective as provided in section 541(c) [set out as an Effective Date note under [section 1113 of this title](./chapter-011-reorganization.md#section-1113)].”
+
+#### Short Title of 2021 Amendment
+Pub. L. 117–5, § 1, Mar. 27, 2021, 135 Stat. 249, provided that: “This Act [amending [section 1329 of this title](./chapter-013-adjustment-of-debts-of-an-individual-with-regular-income.md#section-1329) and provisions set out as notes under this section and sections 1182 and 1329 of this title] may be cited as the ‘COVID–19 Bankruptcy Relief Extension Act of 2021’.”
 
 #### Short Title of 2019 Amendment
 Pub. L. 116–54, § 1, Aug. 23, 2019, 133 Stat. 1079, provided that: “This Act [enacting subchapter V of chapter 11 of this title, amending this section, sections 103, 322, 326, 347, 363, 364, 523, 524, 547, 557, 1102, and 1146 of this title, and sections 586, 589b, 1409, and 1930 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as a note under this section] may be cited as the ‘Small Business Reorganization Act of 2019’.”

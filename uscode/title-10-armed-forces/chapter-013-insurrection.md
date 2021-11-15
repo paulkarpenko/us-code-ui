@@ -52,6 +52,8 @@ Another section 252 was renumbered [section 240b of this title](./chapter-9a-aud
 
 2006—Pub. L. 109–163 struck out “or Territory” after “in any State”.
 
+Executive Documents
+
 #### Ex. Ord. No. 10730. Assistance for Removal of an Obstruction of Justice Within the State of Arkansas
 Ex. Ord. No. 10730, Sept. 24, 1957, 22 F.R. 7628, authorized the Secretary of Defense to order into the active military service of the United States units of the National Guard of the United States and of the Air National Guard of the United States within the State of Arkansas for an indefinite period and until relieved by appropriate orders in order to enforce any orders of the United States District Court for the Eastern District of Arkansas for the removal of obstructions to justice in respect to enrollment and attendance at public schools in the Little Rock School District, Little Rock, Arkansas; authorized the Secretary of Defense to also use the armed forces of the United States to enforce such orders of the district court; and authorized the Secretary of Defense to delegate his authority to the Secretary of the Army or the Secretary of the Air Force.
 

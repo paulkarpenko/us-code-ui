@@ -92,6 +92,16 @@ Pub. L. 108–293, title IV, § 409(b), Aug. 9, 2004, 118 Stat. 1045, provided t
 
 **(b)** [Section 8904 of this title](./chapter-089-small-vessel-manning.md#section-8904) does not apply to an oil spill response vessel while engaged in oil spill response or training activities.
 
+**(c)** After consultation with the Governor of Alaska and the State boating law administrator of Alaska, the Secretary may exempt an individual operating a self-propelled uninspected passenger vessel from the requirements of [section 8903 of this title](./chapter-089-small-vessel-manning.md#section-8903), if—
+
+(1) the individual only operates such vessel wholly within waters located in Alaska; and
+
+(2) such vessel is—
+
+  (A) 26 feet or less in length; and
+
+  (B) carrying not more than 6 passengers.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |
@@ -107,6 +117,8 @@ Subsection (a) exempts dealer demonstration recreational vessels from the licens
 Subsection (b) exempts an offshore supply vessel of less than 200 gross tons from the licensed operator requirement under section 8904 when used in the offshore mineral and oil industry.
 
 #### Amendments
+2021—Subsec. (c). Pub. L. 116–283 added subsec. (c).
+
 2010—Subsecs. (b), (c). Pub. L. 111–281 redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “[Section 8904 of this title](./chapter-089-small-vessel-manning.md#section-8904) does not apply to a vessel of less than 200 gross tons as measured under [section 14502 of this title](./chapter-145-regulatory-measurement.md#section-14502), or an alternate tonnage measured under [section 14302 of this title](./chapter-143-convention-measurement.md#section-14302) as prescribed by the Secretary under [section 14104 of this title](./chapter-141-general.md#section-14104) engaged in the offshore mineral and oil industry if the vessel has offshore mineral and oil industry sites or equipment as its ultimate destination or place of departure.”
 
 1996—Subsec. (b). Pub. L. 104–324, § 734, inserted “as measured under [section 14502 of this title](./chapter-145-regulatory-measurement.md#section-14502), or an alternate tonnage measured under [section 14302 of this title](./chapter-143-convention-measurement.md#section-14302) as prescribed by the Secretary under [section 14104 of this title](./chapter-141-general.md#section-14104)” after “200 gross tons”.

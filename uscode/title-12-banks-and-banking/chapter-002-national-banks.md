@@ -256,11 +256,11 @@ Act June 16, 1933, ch. 89, § 16, 48 Stat. 184, provided that restrictions of th
 #### Regulations
 Pub. L. 103–325, title III, § 347(c), Sept. 23, 1994, 108 Stat. 2241, provided that: “Not later than 1 year after the date of enactment of this Act [Sept. 23, 1994], the Comptroller of the Currency shall promulgate final regulations, in accordance with the thirteenth sentence of Paragraph Seventh of section 5136 of the Revised Statutes [this section] (as amended by subsection (b)), to carry out the amendments made by this section [amending this section and [section 78c of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c&num=0&edition=prelim), Commerce and Trade].” [Final regulations implementing these amendments were published in the Federal Register on Dec. 2, 1996 [61 F.R. 63972], effective Dec. 31, 1996.]
 
-#### Exception as to Transfer of Functions
-Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under [section 1 of this title](./chapter-001-the-comptroller-of-the-currency.md#section-1).
-
 #### Abolition of Home Owners’ Loan Corporation
 For dissolution and abolishment of Home Owners’ Loan Corporation, by act June 30, 1953, ch. 170, § 21, 67 Stat. 126, see note set out under [section 1463 of this title](./chapter-012-savings-associations.md#section-1463).
+
+#### Exception as to Transfer of Functions
+Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under [section 1 of this title](./chapter-001-the-comptroller-of-the-currency.md#section-1).
 
 
 <a id="section-24a"></a>
@@ -792,9 +792,6 @@ R.S. § 5154 derived from act June 3, 1864, ch. 106, § 44, 13 Stat. 112, which 
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).
 
-#### Exception as to Transfer of Functions
-Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under [section 1 of this title](./chapter-001-the-comptroller-of-the-currency.md#section-1).
-
 #### Exception to Prohibition on Approval of Conversions
 Pub. L. 111–203, title VI, § 612(d), July 21, 2010, 124 Stat. 1613, provided that: “The prohibition on the approval of conversions under the amendments made by subsections (a), (b), and (c) [enacting [section 214d of this title](./chapter-002-national-banks.md#section-214d) and amending this section and [section 1464 of this title](./chapter-012-savings-associations.md#section-1464)] shall not apply, if— “(1) the Federal banking agency that would be the appropriate Federal banking agency after the proposed conversion gives the appropriate Federal banking agency or State bank supervisor that issued the cease and desist order (or other formal enforcement order) or memorandum of understanding, as appropriate, written notice of the proposed conversion including a plan to address the significant supervisory matter in a manner that is consistent with the safe and sound operation of the institution; “(2) within 30 days of receipt of the written notice required under paragraph (1), the appropriate Federal banking agency or State bank supervisor that issued the cease and desist order (or other formal enforcement order) or memorandum of understanding, as appropriate, does not object to the conversion or the plan to address the significant supervisory matter; “(3) after conversion of the insured depository institution, the appropriate Federal banking agency after the conversion implements such plan; and “(4) in the case of a final enforcement action by a State Attorney General, approval of the conversion is conditioned on compliance by the insured depository institution with the terms of such final enforcement action.”
 
@@ -804,6 +801,9 @@ Pub. L. 111–203, title VI, § 612(d), July 21, 2010, 124 Stat. 1613, provided 
 Pub. L. 111–203, title VI, § 612(e), July 21, 2010, 124 Stat. 1613, provided that: “(1) Copy of conversion application.—At the time an insured depository institution files a conversion application, the insured depository institution shall transmit a copy of the conversion application to—“(A) the appropriate Federal banking agency for the insured depository institution; and “(B) the Federal banking agency that would be the appropriate Federal banking agency of the insured depository institution after the proposed conversion. “(2) Notification and access to information.—Upon receipt of a copy of the application described in paragraph (1), the appropriate Federal banking agency for the insured depository institution proposing the conversion shall—“(A) notify the Federal banking agency that would be the appropriate Federal banking agency for the institution after the proposed conversion in writing of any ongoing supervisory or investigative proceedings that the appropriate Federal banking agency for the institution proposing to convert believes is likely to result, in the near term and absent the proposed conversion, in a cease and desist order (or other formal enforcement order) or memorandum of understanding with respect to a significant supervisory matter; and “(B) provide the Federal banking agency that would be the appropriate Federal banking agency for the institution after the proposed conversion access to all investigative and supervisory information relating to the proceedings described in subparagraph (A).”
 
 [For definitions of terms used in section 612(e) of Pub. L. 111–203, set out above, see [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).]
+
+#### Exception as to Transfer of Functions
+Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under [section 1 of this title](./chapter-001-the-comptroller-of-the-currency.md#section-1).
 
 
 <a id="section-36"></a>
@@ -955,14 +955,14 @@ Subsecs. (h) to (l). Pub. L. 103–328, § 102(b)(1)(A), redesignated subsecs. (
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).
 
-#### Exception as to Transfer of Functions
-Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under [section 1 of this title](./chapter-001-the-comptroller-of-the-currency.md#section-1).
-
 #### Right of State To Opt Out
 Nothing in Pub. L. 105–24 to alter right of States under section 525 of Pub. L. 96–221, see section 3 of Pub. L. 105–24, set out as a note under [section 1831a of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1831a).
 
 #### Applicability of McFadden Act to Present Financial Environment; Report and Recommendations by President to Congress
 Pub. L. 95–369, § 14, Sept. 17, 1978, 92 Stat. 625, provided for a report to Congress by the President, not later than one year after Sept. 17, 1978, containing recommendations concerning the applicability of the McFadden Act [Feb. 25, 1927, ch. 191, 44 Stat. 1224] to the then current financial, banking, and economic environment.
+
+#### Exception as to Transfer of Functions
+Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under [section 1 of this title](./chapter-001-the-comptroller-of-the-currency.md#section-1).
 
 
 <a id="section-37"></a>
@@ -1335,11 +1335,11 @@ R.S. § 5210 derived from act June 3, 1864, ch. 106, § 40, 13 Stat. 111, which 
 #### Amendments
 1953—Act May 18, 1953, changed the requirement for annual transmission of a copy of the shareholders list to the Comptroller of the Currency by authorizing the Comptroller to acquire such copy at any time on 10 days’ notice.
 
-#### Exception as to Transfer of Functions
-Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under [section 1 of this title](./chapter-001-the-comptroller-of-the-currency.md#section-1).
-
 #### Application to District of Columbia
 Provisions of this section were made applicable to banks, etc., in the District of Columbia by act Mar. 4, 1933, ch. 274, § 4, 47 Stat. 1567.
+
+#### Exception as to Transfer of Functions
+Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under [section 1 of this title](./chapter-001-the-comptroller-of-the-currency.md#section-1).
 
 
 <a id="section-63-64"></a>
@@ -1399,11 +1399,11 @@ Any receiver of a national banking association is authorized, with the approval 
 
 ### Statutory Notes
 
-#### Exception as to Transfer of Functions
-Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer to Secretary of the Treasury, see note set out under [section 1 of this title](./chapter-001-the-comptroller-of-the-currency.md#section-1).
-
 #### Application to District of Columbia
 Provisions of this section were made applicable to banks, etc., in the District of Columbia by act Mar. 4, 1933, ch. 274, § 4, 47 Stat. 1567.
+
+#### Exception as to Transfer of Functions
+Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer to Secretary of the Treasury, see note set out under [section 1 of this title](./chapter-001-the-comptroller-of-the-currency.md#section-1).
 
 
 <a id="section-71"></a>
@@ -1628,7 +1628,7 @@ R.S. § 5201 derived from act June 3, 1864, ch. 106, § 35, 13 Stat. 110, which 
 
 (6) Loans or extensions of credit secured by a segregated deposit account in the lending bank shall not be subject to any limitation based on capital and surplus.
 
-(7) Loans or extensions of credit to any nonbank financial company (as that term is defined in [section 5311 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5311)), any financial institution, or to any receiver, conservator, superintendent of banks, or other agent in charge of the business and property of such financial institution, when such loans or extensions of credit are approved by the Comptroller of the Currency, shall not be subject to any limitation based on capital and surplus.
+(7) Loans or extensions of credit to any financial institution or to any receiver, conservator, superintendent of banks, or other agent in charge of the business and property of such financial institution, when such loans or extensions of credit are approved by the Comptroller of the Currency, shall not be subject to any limitation based on capital and surplus.
 
 (8)
 
@@ -1646,14 +1646,11 @@ R.S. § 5201 derived from act June 3, 1864, ch. 106, § 35, 13 Stat. 110, which 
 
 **(d) Authority of Comptroller of the Currency**
 
-(1) The Comptroller of the Currency may prescribe rules and regulations to administer and carry out the purposes of this section, including rules or regulations to define or further define terms used in this section and to establish limits or requirements other than those specified in this section for particular classes or categories of loans or extensions of credit. The Comptroller of the Currency may, by order, exempt any transaction or series of transactions from the requirements of this section upon a finding by the Comptroller that such exemption is in the public interest and consistent with the purposes of this section.
+(1) The Comptroller of the Currency may prescribe rules and regulations to administer and carry out the purposes of this section, including rules or regulations to define or further define terms used in this section and to establish limits or requirements other than those specified in this section for particular classes or categories of loans or extensions of credit.
 
 (2) The Comptroller of the Currency also shall have authority to determine when a loan putatively made to a person shall for purposes of this section be attributed to another person.
 
 ### Statutory Notes
-
-#### Amendment of Subsections (c)(7) and (d)(1)
-For termination of amendment by section 4011(a) of Pub. L. 116–136, see Effective and Termination Dates of 2020 Amendment note below.
 
 #### References in Text
 [Section 372 of this title](./chapter-003-federal-reserve-system.md#section-372), referred to in subsec. (c)(2), was in the original a reference to “section 13 of the Federal Reserve Act”. Provisions of section 13 describing bankers’ acceptances are classified to [section 372 of this title](./chapter-003-federal-reserve-system.md#section-372). Other provisions of section 13 are classified to sections 342 to 347, 347c, 347d of this title.
@@ -1747,11 +1744,11 @@ Repealing provisions of Consolidated Farmers Home Administration Act of 1961 as 
 #### Savings Provision
 Act June 16, 1933, ch. 89, § 26(b), 48 Stat. 191, provided: “The amendment made by this section [amending this section] shall not apply to such obligations of subsidiaries held by such association on the date this section takes effect.”
 
-#### Exception as to Transfer of Functions
-Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under [section 1 of this title](./chapter-001-the-comptroller-of-the-currency.md#section-1).
-
 #### Application to District of Columbia
 Provisions of this section were made applicable to banks, etc., in the District of Columbia by act Mar. 4, 1933, ch. 274, § 3, 47 Stat. 1567.
+
+#### Exception as to Transfer of Functions
+Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under [section 1 of this title](./chapter-001-the-comptroller-of-the-currency.md#section-1).
 
 
 <a id="section-85"></a>
@@ -2655,14 +2652,14 @@ Pub. L. 102–242, title I, § 133(g), Dec. 19, 1991, 105 Stat. 2273, provided t
 #### Short Title
 Act June 30, 1876, ch. 156, § 1, as added by Pub. L. 102–550, title XVI, § 1603(d)(7)(A), Oct. 28, 1992, 106 Stat. 4080, provided that: “This Act [enacting this section, sections 65 and 197 of this title, and section 424 of former Title 31, Money and Finance, and amending [section 55 of this title](./chapter-002-national-banks.md#section-55)] may be cited as the ‘National Bank Receivership Act’.”
 
-#### Exception as to Transfer of Functions
-Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under [section 1 of this title](./chapter-001-the-comptroller-of-the-currency.md#section-1).
-
 #### Application to District of Columbia
 Provisions of this section were made applicable to banks, etc., in the District of Columbia by act Mar. 4, 1933, ch. 274, § 4, 47 Stat. 1567.
 
 #### Termination of National Bank Closed Receivership Fund
 Pub. L. 96–221, title VII, §§ 721–723, Mar. 31, 1980, 94 Stat. 190, 191, as amended Pub. L. 97–320, title IV, § 409, Oct. 15, 1982, 96 Stat. 1515, provided that: “Sec. 721. The purpose of this part [enacting this provision] is to terminate the closed receivership fund by—“(1) providing final notice of availability of liquidating dividends to creditors of national banks which have been closed and for which the Comptroller has appointed a receiver other than the Federal Deposit Insurance Corporation; “(2) barring rights of creditors to collect liquidating dividends from the Comptroller of the Currency after a reasonable period of time following such final notice; and “(3) refunding to the Comptroller the principal amount of such fund and any income earned thereon. “Sec. 722. For purposes of this part—“(1) the term ‘closed receivership fund’ means the aggregation of undisbursed liquidating dividends from national banks which have been closed and for which the Comptroller has appointed a receiver other than the Federal Deposit Insurance Corporation, held by the Comptroller in his capacity as successor to receivers of those banks; “(2) the term ‘Comptroller’ means the Comptroller of the Currency; “(3) the term ‘claimant’ means a depositor or other creditor who asserts a claim against a closed national bank for a liquidating dividend; and “(4) the term ‘liquidating dividend’ means an amount of money in the closed receivership fund determined by a receiver of a closed national bank or by the Comptroller to be owed by that bank to a depositor or other creditor. “Sec. 723. (a) The Comptroller shall publish notice once a week for four weeks in the Federal Register that all rights of depositors and other creditors of closed national banks to collect liquidating dividends from the closed receivership fund shall be barred after twelve months following the last date of publication of such notice. “(b) The Comptroller shall pay the principal amount of a liquidating dividend, exclusive of any income earned thereon, to a claimant presenting a valid claim, if the claimant applies to collect within twelve months following the last date notice is published. “(c) If a creditor shall fail to apply to collect a liquidating dividend within twelve months after the last date notice is published, all rights of the claimant against the closed receivership fund with respect to the liquidating dividend shall be barred. “(d) The principal amount of any liquidating dividends (1) for which claims have not been asserted within twelve months following the last date notice is published or (2) for which the Comptroller has determined a valid claim has not been submitted shall, together with any income earned on liquidating dividends and other moneys, if any, remaining in the closed receivership fund, be covered into the general funds of the Comptroller.”
+
+#### Exception as to Transfer of Functions
+Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under [section 1 of this title](./chapter-001-the-comptroller-of-the-currency.md#section-1).
 
 
 <a id="section-192"></a>
@@ -2687,14 +2684,14 @@ R.S. § 5234 derived from act June 3, 1864, ch. 106, § 50, 13 Stat. 114, which 
 
 1935—Act Aug. 23, 1935, inserted second proviso in second par.
 
-#### Transfer of Functions
-For transfer of functions to Secretary of the Treasury, see note set out under [section 55 of this title](./chapter-002-national-banks.md#section-55).
-
 #### Application to District of Columbia
 Provisions of this section were made applicable to banks, etc., in the District of Columbia by act Mar. 4, 1933, ch. 274, § 4, 47 Stat. 1567.
 
 #### Interest on Deposits
 So much of existing law requiring the payment of interest with respect to any funds deposited by the United States or by any public instrumentality, agency, or officer thereof, as is inconsistent with former section 371a, sections 371b, 374, 374a, and 461, former sections 462 to 465, and [section 466 of this title](./chapter-003-federal-reserve-system.md#section-466), repealed, see former [section 371a of this title](./chapter-003-federal-reserve-system.md#section-371a).
+
+#### Transfer of Functions
+For transfer of functions to Secretary of the Treasury, see note set out under [section 55 of this title](./chapter-002-national-banks.md#section-55).
 
 
 <a id="section-193"></a>
@@ -2707,11 +2704,11 @@ The Comptroller shall, upon appointing a receiver, cause notice to be given, by 
 #### Codification
 R.S. § 5235 derived from act June 3, 1864, ch. 106, § 50, 13 Stat. 114, which was part of the National Bank Act. See [section 38 of this title](./chapter-002-national-banks.md#section-38).
 
-#### Exception as to Transfer of Functions
-Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under [section 1 of this title](./chapter-001-the-comptroller-of-the-currency.md#section-1).
-
 #### Application to District of Columbia
 Provisions of this section were made applicable to banks, etc., in the District of Columbia by act Mar. 4, 1933, ch. 274, § 4, 47 Stat. 1567.
+
+#### Exception as to Transfer of Functions
+Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under [section 1 of this title](./chapter-001-the-comptroller-of-the-currency.md#section-1).
 
 
 <a id="section-194"></a>
@@ -2727,11 +2724,11 @@ R.S. § 5236 derived from act June 3, 1864, ch. 106, § 50, 13 Stat. 114, which 
 #### Amendments
 1994—Pub. L. 103–325 struck out “, after full provision has been first made for refunding to the United States any deficiency in redeeming the notes of such association” after “From time to time”.
 
-#### Exception as to Transfer of Functions
-Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under [section 1 of this title](./chapter-001-the-comptroller-of-the-currency.md#section-1).
-
 #### Application to District of Columbia
 Provisions of this section were made applicable to banks, etc. in the District of Columbia by act Mar. 4, 1933, ch. 274, § 4, 47 Stat. 1567.
+
+#### Exception as to Transfer of Functions
+Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under [section 1 of this title](./chapter-001-the-comptroller-of-the-currency.md#section-1).
 
 
 <a id="section-195"></a>
@@ -2775,12 +2772,13 @@ This Act, referred to in subsec. (a), is act June 30, 1876, ch. 156, 19 Stat. 63
 Subsec. (b). Pub. L. 86–230 designated former last sentence of first par. and second par., as subsec. (b), and omitted provisions which related to refusal of agent to serve as a ground for the calling of an election of another agent, to the value of shares as a test to determine whether a majority vote has been cast in a stockholders’ meeting, required the bond of the windup agent to be conditioned for payment of proved claims to the extent possible from the remaining assets instead of payment of the claims in full, only, and provided for the distribution of the balance as shall be deemed advisable by the Federal Deposit Insurance Corporation.
 
 #### Transfer of Functions
-Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see Exception as to Transfer of Functions note set out under [section 1 of this title](./chapter-001-the-comptroller-of-the-currency.md#section-1).
-
 Act Mar. 3, 1911, conferred upon the district courts all powers formerly vested in the former circuit courts.
 
 #### Application to District of Columbia
 Provisions of this section were made applicable to banks, etc., in the District of Columbia by act Mar. 4, 1933, ch. 274, § 4, 47 Stat. 1567.
+
+#### Transfer of Functions
+Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see Exception as to Transfer of Functions note set out under [section 1 of this title](./chapter-001-the-comptroller-of-the-currency.md#section-1).
 
 
 <a id="section-197a"></a>
@@ -2801,11 +2799,11 @@ Whenever the receiver of any national bank duly appointed by the Comptroller of 
 
 ### Statutory Notes
 
-#### Exception as to Transfer of Functions
-Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under [section 1 of this title](./chapter-001-the-comptroller-of-the-currency.md#section-1).
-
 #### Application to District of Columbia
 Provisions of this section were made applicable to banks, etc., in the District of Columbia by act Mar. 4, 1933, ch. 274, § 4, 47 Stat. 1567.
+
+#### Exception as to Transfer of Functions
+Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under [section 1 of this title](./chapter-001-the-comptroller-of-the-currency.md#section-1).
 
 
 <a id="section-199"></a>
@@ -2815,11 +2813,11 @@ Such request, if approved by the Comptroller of the Currency, shall be, together
 
 ### Statutory Notes
 
-#### Transfer of Functions
-For transfer of functions to Secretary of the Treasury, see note set out under [section 55 of this title](./chapter-002-national-banks.md#section-55).
-
 #### Application to District of Columbia
 Provisions of this section were made applicable to banks, etc., in the District of Columbia by act Mar. 4, 1933, ch. 274, § 4, 47 Stat. 1567.
+
+#### Transfer of Functions
+For transfer of functions to Secretary of the Treasury, see note set out under [section 55 of this title](./chapter-002-national-banks.md#section-55).
 
 
 <a id="section-200"></a>
@@ -2829,11 +2827,11 @@ Whenever any such request shall be allowed as hereinbefore provided, the said Co
 
 ### Statutory Notes
 
-#### Transfer of Functions
-For transfer of functions to Secretary of the Treasury, see note set out under [section 55 of this title](./chapter-002-national-banks.md#section-55).
-
 #### Application to District of Columbia
 Provisions of this section were made applicable to banks, etc., in the District of Columbia by act Mar. 4, 1933, ch. 274, § 4, 47 Stat. 1567.
+
+#### Transfer of Functions
+For transfer of functions to Secretary of the Treasury, see note set out under [section 55 of this title](./chapter-002-national-banks.md#section-55).
 
 
 <a id="section-201"></a>

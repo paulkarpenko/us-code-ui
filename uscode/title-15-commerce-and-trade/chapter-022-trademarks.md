@@ -230,7 +230,7 @@ No trademark by which the goods of the applicant may be distinguished from the g
 Acts March 3, 1881, and February 20, 1905, referred to in subsec. (d), are acts Mar. 3, 1881, ch. 138, 21 Stat. 502, and Feb. 20, 1905, ch. 592, 33 Stat. 724, which were repealed insofar as inconsistent with this chapter by act July 5, 1946, ch. 540, § 46(a), 60 Stat. 444. Act Feb. 20, 1905, was classified to sections 81 to 109 of this title.
 
 #### Constitutionality
-For information regarding constitutionality of certain provisions of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For information regarding constitutionality of certain provisions of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
 
 #### Prior Provisions
 Acts Feb. 20, 1905, ch. 592, § 5, 33 Stat. 725; Mar. 2, 1907, ch. 2573, § 1, 34 Stat. 1251; Feb. 18, 1911, ch. 113, 36 Stat. 918; Jan. 8, 1913, ch. 7, 37 Stat. 649; Mar. 19, 1920, ch. 104, § 9, 41 Stat. 535; June 7, 1924, ch. 341, 43 Stat. 647.
@@ -287,14 +287,14 @@ Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 9
 #### Repeal and Effect on Existing Rights
 Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrations and rights under prior acts, see notes set out under [section 1051 of this title](./chapter-022-trademarks.md#section-1051).
 
+#### Marks Registered Under Ten-Year Proviso of Trade-Mark Act of 1905
+Marks registered under the “ten-year proviso” of section 5 of the act of Feb. 20, 1905, as amended, deemed to have become distinctive of the registrant’s goods in commerce under par. (f) of this section, see section 46(b) of act July 5, 1946, set out in note under [section 1051 of this title](./chapter-022-trademarks.md#section-1051).
+
 #### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of Commerce to Secretary of Commerce, with certain exceptions, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Uruguay Round Agreements: Entry Into Force
 The Uruguay Round Agreements, including the World Trade Organization Agreement and agreements annexed to that Agreement, as referred to in [section 3511(d) of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3511/d&num=0&edition=prelim), Customs Duties, entered into force with respect to the United States on Jan. 1, 1995. See note set out under [section 3511 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3511&num=0&edition=prelim).
-
-#### Marks Registered Under Ten-Year Proviso of Trade-Mark Act of 1905
-Marks registered under the “ten-year proviso” of section 5 of the act of Feb. 20, 1905, as amended, deemed to have become distinctive of the registrant’s goods in commerce under par. (f) of this section, see section 46(b) of act July 5, 1946, set out in note under [section 1051 of this title](./chapter-022-trademarks.md#section-1051).
 
 
 <a id="section-1053"></a>
@@ -570,14 +570,14 @@ Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 9
 #### Repeal and Effect on Existing Rights
 Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrations and rights under prior acts, and saving clause, see notes set out under [section 1051 of this title](./chapter-022-trademarks.md#section-1051).
 
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### References to Trademark Act of 1946
 Pub. L. 105–330, title I, § 102, Oct. 30, 1998, 112 Stat. 3064, provided that: “For purposes of this title [see Short Title of 1998 Amendment note set out under [section 1051 of this title](./chapter-022-trademarks.md#section-1051)], the Act entitled ‘An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes’, approved July 5, 1946 ([15 U.S.C. 1051](./chapter-022-trademarks.md#section-1051) et seq.), shall be referred to as the ‘Trademark Act of 1946’.”
 
 #### Pending Applications
 Act July 5, 1946, ch. 540, title XI, § 51, as added Nov. 16, 1988, Pub. L. 100–667, title I, § 135, 102 Stat. 3948, provided that: “All certificates of registration based upon applications for registration pending in the Patent and Trademark Office on the effective date of the Trademark Law Revision Act of 1988 [see Effective Date of 1988 Amendment note set out under [section 1051 of this title](./chapter-022-trademarks.md#section-1051)] shall remain in force for a period of 10 years.”
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-1059"></a>
@@ -919,11 +919,11 @@ Pub. L. 98–620, title I, § 104, Nov. 8, 1984, 98 Stat. 3336, provided that: �
 #### Repeal and Effect on Existing Rights
 Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrations and rights under prior acts, see notes set out under [section 1051 of this title](./chapter-022-trademarks.md#section-1051).
 
-#### Transfer of Functions
-For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under [section 41 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-41).
-
 #### Restriction on Use of Funds To Cancel Registration of Trademarks
 For provisions restricting the use of funds authorized to be appropriated to carry out section 41 et seq. of this title for fiscal year 1980, 1981, or 1982, for the purpose of taking any action under this section with respect to the cancellation of the registration of any mark on the ground that such mark has become the common descriptive name of an article or substance, see section 18 of Pub. L. 96–252, set out as a note under [section 57c of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-57c).
+
+#### Transfer of Functions
+For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under [section 41 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-41).
 
 
 <a id="section-1065"></a>
@@ -1222,11 +1222,11 @@ Pub. L. 85–609, § 3, Aug. 8, 1958, 72 Stat. 541, provided that: “This Act [
 #### Repeal and Effect on Existing Rights
 Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrations and rights under prior acts, see notes set out under [section 1051 of this title](./chapter-022-trademarks.md#section-1051).
 
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Reorganization Plan No. 5 of 1950
 Pub. L. 85–609, § 2, Aug. 8, 1958, 72 Stat. 540, provided that: “The provisions of this Act [amending this section and sections 1070, 1071, 1092, and 1113 of this title] shall be subject to Reorganization Plan No. 5 of 1950 (64 Stat. 1263).”
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-1068"></a>
@@ -1321,11 +1321,11 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 #### Construction of 2020 Amendment
 For construction of amendment made by section 228(a)(2) of div. Q of Pub. L. 116–260 regarding Director’s authority before Dec. 27, 2020, and authority with respect to particular decisions, see section 228(b) of div. Q of Pub. L. 116–260, set out as a note under [section 1068 of this title](./chapter-022-trademarks.md#section-1068).
 
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Reorganization Plan No. 5 of 1950
 Amendment by Pub. L. 85–609 as subject to Reorganization Plan No. 5 of 1950, see note set out under [section 1067 of this title](./chapter-022-trademarks.md#section-1067).
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-1071"></a>
@@ -1447,11 +1447,11 @@ For effective date and applicability of amendment by Pub. L. 85–609, see secti
 #### Repeal and Effect on Existing Rights
 Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrations and rights under prior acts, see notes set out under [section 1051 of this title](./chapter-022-trademarks.md#section-1051).
 
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Reorganization Plan No. 5 of 1950
 Amendment by Pub. L. 85–609 as subject to Reorganization Plan No. 5 of 1950, see note set out under [section 1067 of this title](./chapter-022-trademarks.md#section-1067).
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-1072"></a>
@@ -1578,11 +1578,11 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 #### Construction of 2020 Amendment
 For construction of amendment made by Pub. L. 116–260 regarding Director’s authority before Dec. 27, 2020, and authority with respect to particular decisions, see section 228(b) of div. Q of Pub. L. 116–260, set out as a note under [section 1068 of this title](./chapter-022-trademarks.md#section-1068).
 
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Reorganization Plan No. 5 of 1950
 Amendment by Pub. L. 85–609 as subject to Reorganization Plan No. 5 of 1950, see note set out under [section 1067 of this title](./chapter-022-trademarks.md#section-1067).
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-1093"></a>
@@ -1785,9 +1785,6 @@ For effective date and applicability of amendment by Pub. L. 85–609, see secti
 #### Repeal and Effect on Existing Rights
 Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrations and rights under prior acts, see notes set out under [section 1051 of this title](./chapter-022-trademarks.md#section-1051).
 
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Appropriations and Fees Authorized To Be Carried Over
 For provisions authorizing fees collected under this chapter, and certain appropriations, to remain available until expended, see section 2 of Pub. L. 99–607, set out as a note under [section 42 of Title 35](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section42&num=0&edition=prelim), Patents.
 
@@ -1806,6 +1803,9 @@ Pub. L. 99–607, § 3(a), Nov. 6, 1986, 100 Stat. 3470.
 
 #### Reorganization Plan No. 5 of 1950
 Amendment by Pub. L. 85–609 as subject to Reorganization Plan No. 5 of 1950, see note set out under [section 1067 of this title](./chapter-022-trademarks.md#section-1067).
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-1114"></a>
@@ -2101,6 +2101,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
+#### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
@@ -2323,9 +2324,6 @@ Section, act July 5, 1946, ch. 540, title VI, § 39a, as added Oct. 12, 1982, Pu
 **(c) Remedies** In a suit described in subsection (a) or (b) for a violation described therein, remedies (including remedies both at law and in equity) are available for the violation to the same extent as such remedies are available for such a violation in a suit against any person other than the United States or any agency or instrumentality thereof, or any individual, firm, corporation, or other person acting for the United States and with authorization and consent of the United States, or a State, instrumentality of a State, or officer or employee of a State or instrumentality of a State acting in his or her official capacity. Such remedies include injunctive relief under [section 1116 of this title](./chapter-022-trademarks.md#section-1116), actual damages, profits, costs and attorney’s fees under [section 1117 of this title](./chapter-022-trademarks.md#section-1117), destruction of infringing articles under [section 1118 of this title](./chapter-022-trademarks.md#section-1118), the remedies provided for under sections 1114, 1119, 1120, 1124 and 1125 of this title, and for any other remedies provided under this chapter.
 
 ### Statutory Notes
-
-#### Constitutionality
-For information regarding constitutionality of section 40 of act July 5, 1946, as added by section 3(b) of Pub. L. 102–542, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
 #### Prior Provisions
 A prior section 1122, act July 5, 1946, ch. 540, title VI, § 40, 60 Stat. 440, related to review of cases by the Supreme Court, prior to repeal by act May 24, 1949, ch. 139, § 142, 63 Stat. 109. See [section 1254 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1254&num=0&edition=prelim), Judiciary and Judicial Procedure.
@@ -2575,6 +2573,9 @@ Offices of collector of customs, comptroller of customs, surveyor of customs, an
 
 #### References in Text
 Acts March 3, 1881, and February 20, 1905, referred to in subsec. (c)(2)(A)(iv), (6), are acts Mar. 3, 1881, ch. 138, 21 Stat. 502, and Feb. 20, 1905, ch. 592, 33 Stat. 724, which were repealed insofar as inconsistent with this chapter by act July 5, 1946, ch. 540, § 46(a), 60 Stat. 444. Act Feb. 20, 1905, was classified to sections 81 to 109 of this title.
+
+#### Constitutionality
+For information regarding constitutionality of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
 
 #### Prior Provisions
 Act Mar. 19, 1920, ch. 104, § 3, 41 Stat. 534.

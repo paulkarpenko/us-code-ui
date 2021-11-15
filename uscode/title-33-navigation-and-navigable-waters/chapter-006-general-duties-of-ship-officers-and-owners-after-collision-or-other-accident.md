@@ -7,14 +7,24 @@ source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33&num=0&edition=prelim
 ---
 <a id="section-361-to-368"></a>
-## § 361 to 368. Deposit of debris of mines and stamp works
-
-In places where harbor-lines have not been established, and where deposits of debris of mines or stamp works can be made without injury to navigation, within lines to be established by the Secretary of the Army, said officer may, and is authorized to, cause such lines to be established; and within such lines such deposits may be made, under regulations to be from time to time prescribed by him.
+## § 361 to 368. Repealed. Pub. L. 98–89, § 4(b), Aug. 26, 1983, 97 Stat. 599
 
 ### Statutory Notes
 
-#### Change of Name
-Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
+Section 361, act June 20, 1874, ch. 344, § 10, 18 Stat. 128; 1946 Reorg. Plan. No. 3, §§ 101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097, required filing of reports to Coast Guard on accidents involving United States vessels and provided penalty for failure to comply. See sections 6101, 6103 of Title 46, Shipping.
 
-#### Transfer of Functions
-Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under [section 401 of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-401) to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941, which created Department of Transportation. Pub. L. 97–449 amended [section 401 of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-401) to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
+Section 362, act June 20, 1874, ch. 344, § 11, 18 Stat. 128; 1946 Reorg. Plan No. 3, §§ 101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097, required reporting of probable loss of vessels and provided penalty for failure to comply. See sections 6101, 6103 of Title 46.
+
+Section 363, acts June 20, 1874, ch. 344, § 12, 18 Stat. 128; Feb. 14, 1903, ch. 552, § 10, 32 Stat. 829; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736; 1946 Reorg. Plan No. 3, §§ 101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097, related to transmission of reports by Coast Guard officials to Commandant of Coast Guard.
+
+Section 364, acts June 20, 1874, ch. 344, § 13, 18 Stat. 128; Mar. 3, 1897, ch. 389, § 11, 29 Stat. 689; Feb. 14, 1903, ch. 552, § 10, 32 Stat. 829; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736; 1946 Reorg. Plan No. 3, §§ 101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097, related to remission and recovery of penalties. See [section 2107 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section2107&num=0&edition=prelim).
+
+Section 365, act Mar. 4, 1915, ch. 153, § 15, 38 Stat. 1184; 1946 Reorg. Plan No. 3, §§ 101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097, related to reports by owners of barges in tow. See [section 6101 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section6101&num=0&edition=prelim).
+
+Section 366, act Mar. 4, 1915, ch. 153, § 15, 38 Stat. 1184; 1946 Reorg. Plan No. 3, §§ 101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097, required Commandant of Coast Guard to transmit annually to Congress a summary of reports transmitted to him by Coast Guard officials as required under sections 361 to 365 of this title. See [section 6307 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section6307&num=0&edition=prelim).
+
+Section 367, act Sept. 4, 1890, ch. 875, § 1, 26 Stat. 425, related to duty of master of a vessel in collision to give aid, and to give name of his vessel together with other information about his vessel. See sections 2303, 2304 of Title 46.
+
+Section 368, act Sept. 4, 1890, ch. 875, § 2, 26 Stat. 425, set out penalties for failure to give aid as required by [section 367 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section367&num=0&edition=prelim). See sections 2303, 2304 of Title 46.
+
+Act Sept. 4, 1890, ch. 875, § 3, 26 Stat. 425, which provided that sections 367 and 368 of this title were to take effect at a time to be fixed by President by proclamation (effective Dec. 15, 1890, by Presidential Proclamation of Nov. 18, 1890, 26 Stat. 1561), was repealed by Pub. L. 98–89, § 4(b), 97 Stat. 599.

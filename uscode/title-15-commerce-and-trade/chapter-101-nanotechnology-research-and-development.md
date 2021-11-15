@@ -193,7 +193,7 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (f), is
 2017—Subsec. (d). Pub. L. 114–329 amended subsec. (d) generally. Prior to amendment, text read as follows: “The Advisory Panel shall report, not less frequently than once every 2 fiscal years, to the President on its assessments under subsection (c) and its recommendations for ways to improve the Program. The first report under this subsection shall be submitted within 1 year after December 3, 2003. The Director of the Office of Science and Technology Policy shall transmit a copy of each report under this subsection to the Senate Committee on Commerce, Science, and Technology, the House of Representatives Committee on Science, and other appropriate committees of the Congress.”
 
 #### Transfer of Functions
-President’s Council of Advisors on Science and Technology to serve as the advisory panel identified in this section and to be known as the National Nanotechnology Advisory Panel when performing the functions of such advisory committee, see section 3(a)(iv) of Ex. Ord. No. 13895, set out as a note under [section 6601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6601&num=0&edition=prelim), The Public Health and Welfare.
+President’s Council of Advisors on Science and Technology to serve as the advisory panel identified in this section and to be known as the National Nanotechnology Advisory Panel when performing the functions of such advisory committee, see section 3(b)(iv) of Ex. Ord. No. 14007, set out in a note under [section 6601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6601&num=0&edition=prelim), The Public Health and Welfare.
 
 
 <a id="section-7504"></a>

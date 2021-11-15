@@ -35,7 +35,7 @@ As used in this subchapter:
 
   (B) acts for or on behalf of a foreign power which engages in clandestine intelligence activities in the United States contrary to the interests of the United States, when the circumstances indicate that such person may engage in such activities, or when such person knowingly aids or abets any person in the conduct of such activities or knowingly conspires with any person to engage in such activities;
 
-  (C) engages in international terrorism or activities in preparation therefore;
+  (C) Omitted
 
   (D) engages in the international proliferation of weapons of mass destruction, or activities in preparation therefor; or
 
@@ -133,9 +133,6 @@ As used in this subchapter:
 
 ### Statutory Notes
 
-#### Amendment of Section
-For termination of amendment by Pub. L. 108–458, see Termination Date of 2004 Amendment note below.
-
 #### Amendments
 2015—Subsec. (b)(1)(A). Pub. L. 114–23, § 702(1), inserted “, irrespective of whether the person is inside the United States” before semicolon at end.
 
@@ -155,7 +152,7 @@ Subsec. (p). Pub. L. 110–261, § 110(a)(4), added subsec. (p).
 
 2006—Subsec. (g). Pub. L. 109–177 substituted “, the Deputy Attorney General, or, upon the designation of the Attorney General, the Assistant Attorney General designated as the Assistant Attorney General for National Security under [section 507A of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section507A&num=0&edition=prelim)” for “or the Deputy Attorney General”.
 
-2004—Subsec. (b)(1)(C). Pub. L. 108–458, § 6001, temporarily added subpar. (C). See Termination Date of 2004 Amendment note below.
+2004—Subsec. (b)(1)(C). Pub. L. 108–458, § 6001, temporarily added subpar. (C) which read as follows: “engages in international terrorism or activities in preparation therefore;”. See Termination Date of 2004 Amendment note below.
 
 2001—Subsec. (f)(2). Pub. L. 107–56, § 1003, as amended by Pub. L. 107–108, § 314(c)(2), inserted “, but does not include the acquisition of those communications of computer trespassers that would be permissible under [section 2511(2)(i) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2511/2/i&num=0&edition=prelim)” before semicolon at end.
 
@@ -305,7 +302,7 @@ None of the above officials, nor anyone officially acting in that capacity, may 
 
 (2)
 
-  (A) The court established under this subsection may, on its own initiative, or upon the request of the Government in any proceeding or a party under [section 1861(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1861/f&num=0&edition=prelim) or paragraph (4) or (5) of [section 1881a(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1881a/i&num=0&edition=prelim), hold a hearing or rehearing, en banc, when ordered by a majority of the judges that constitute such court upon a determination that—
+  (A) The court established under this subsection may, on its own initiative, or upon the request of the Government in any proceeding or a party under section 1861(f) 11 See References in Text note below. of this title or paragraph (4) or (5) of [section 1881a(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1881a/i&num=0&edition=prelim), hold a hearing or rehearing, en banc, when ordered by a majority of the judges that constitute such court upon a determination that—
 
     (i) en banc consideration is necessary to secure or maintain uniformity of the court’s decisions; or
 
@@ -323,9 +320,9 @@ None of the above officials, nor anyone officially acting in that capacity, may 
 
 **(e) Jurisdiction and procedures for review of petitions**
 
-(1) Three judges designated under subsection (a) who reside within 20 miles of the District of Columbia, or, if all of such judges are unavailable, other judges of the court established under subsection (a) as may be designated by the presiding judge of such court, shall comprise a petition review pool which shall have jurisdiction to review petitions filed pursuant to section 1861(f)(1) or 1881a(i)(4) of this title.
+(1) Three judges designated under subsection (a) who reside within 20 miles of the District of Columbia, or, if all of such judges are unavailable, other judges of the court established under subsection (a) as may be designated by the presiding judge of such court, shall comprise a petition review pool which shall have jurisdiction to review petitions filed pursuant to section 1861(f)(1) 1 or 1881a(i)(4) of this title.
 
-(2) Not later than 60 days after March 9, 2006, the court established under subsection (a) shall adopt and, consistent with the protection of national security, publish procedures for the review of petitions filed pursuant to section 1861(f)(1) or 1881a(i)(4) of this title by the panel established under paragraph (1). Such procedures shall provide that review of a petition shall be conducted in camera and shall also provide for the designation of an acting presiding judge.
+(2) Not later than 60 days after March 9, 2006, the court established under subsection (a) shall adopt and, consistent with the protection of national security, publish procedures for the review of petitions filed pursuant to section 1861(f)(1) 1 or 1881a(i)(4) of this title by the panel established under paragraph (1). Such procedures shall provide that review of a petition shall be conducted in camera and shall also provide for the designation of an acting presiding judge.
 
 **(f) Stay of order**
 
@@ -419,6 +416,8 @@ None of the above officials, nor anyone officially acting in that capacity, may 
 
 #### References in Text
 This chapter, referred to in subsecs. (a), (b), (c), (f), (g)(1), (h), (i)(6)(B), and (j), was in the original “this Act”, meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801) and Tables.
+
+[Section 1861(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1861/f&num=0&edition=prelim), referred to in subsecs. (a)(2)(A) and (e), means [section 1861(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1861/f&num=0&edition=prelim) prior to the amendment of section 1861 by Pub. L. 109–177, title I, § 102(b), Mar. 9, 2006, 120 Stat. 195, set out as an Effective Date of 2006 Amendment note under [section 1805 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1805), which amended [section 1861 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1861), effective Mar. 15, 2020, so that such section read as it read on Oct. 25, 2001, with certain exceptions.
 
 #### Amendments
 2018—Subsec. (a)(2)(A). Pub. L. 115–118, § 101(b)(2)(A), substituted “section 1881a(i)” for “section 1881a(h)”.
@@ -588,7 +587,7 @@ For designation of certain officials to make certifications required by subsec. 
 
 **(c) Specifications and directions of orders**
 
-(1) **Specifications** — An order approving an electronic surveillance under this section shall specify—
+(1) **Specifications.—** — An order approving an electronic surveillance under this section shall specify—
 
   (A) the identity, if known, or a description of the specific target of the electronic surveillance identified or described in the application pursuant to [section 1804(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1804/a/3&num=0&edition=prelim);
 
@@ -600,17 +599,17 @@ For designation of certain officials to make certifications required by subsec. 
 
   (E) the period of time during which the electronic surveillance is approved.
 
-(2) **Directions** — An order approving an electronic surveillance under this section shall direct—
+(2) direct— 22 So in original.
 
   (A) that the minimization procedures be followed;
 
-  (B) that, upon the request of the applicant, a specified communication or other common carrier, landlord, custodian, or other specified person, or in circumstances where the Court finds, based upon specific facts provided in the application, that the actions of the target of the application may have the effect of thwarting the identification of a specified person, such other persons, furnish the applicant forthwith all information, facilities, or technical assistance necessary to accomplish the electronic surveillance in such a manner as will protect its secrecy and produce a minimum of interference with the services that such carrier, landlord, custodian, or other person is providing that target of electronic surveillance;
+  (B) that, upon the request of the applicant, a specified communication or other common carrier, landlord, custodian, or other specified person furnish the applicant forthwith all information, facilities, or technical assistance necessary to accomplish the electronic surveillance in such a manner as will protect its secrecy and produce a minimum of interference with the services that such carrier, landlord, custodian, or other person is providing that target of electronic surveillance;
 
-  (C) that such carrier, landlord, custodian, or other person maintain under security procedures approved by the Attorney General and the Director of National Intelligence any records concerning the surveillance or the aid furnished that such person wishes to retain; and
+  (C) that such carrier, landlord, custodian, or other person maintain under security procedures approved by the Attorney General and the Director of Central Intelligence any records concerning the surveillance or the aid furnished that such person wishes to retain; and
 
   (D) that the applicant compensate, at the prevailing rate, such carrier, landlord, custodian, or other person for furnishing such aid.
 
-(3) **Special directions for certain orders** — An order approving an electronic surveillance under this section in circumstances where the nature and location of each of the facilities or places at which the surveillance will be directed is unknown shall direct the applicant to provide notice to the court within ten days after the date on which surveillance begins to be directed at any new facility or place, unless the court finds good cause to justify a longer period of up to 60 days, of—
+(3) **Special directions for certain orders.—** — An order approving an electronic surveillance under this section in circumstances where the nature and location of each of the facilities or places at which the surveillance will be directed is unknown shall direct the applicant to provide notice to the court within ten days after the date on which surveillance begins to be directed at any new facility or place, unless the court finds good cause to justify a longer period of up to 60 days, of—
 
   (A) the nature and location of each new facility or place at which the electronic surveillance is directed;
 
@@ -722,23 +721,6 @@ For designation of certain officials to make certifications required by subsec. 
 
 ### Statutory Notes
 
-#### Amendment of Subsection (c)(2)
-Pub. L. 109–177, title I, § 102(b), Mar. 9, 2006, 120 Stat. 195, as amended by Pub. L. 111–118, div. B, § 1004(a), Dec. 19, 2009, 123 Stat. 3470; Pub. L. 111–141, § 1(a), Feb. 27, 2010, 124 Stat. 37; Pub. L. 112–3, § 2(a), Feb. 25, 2011, 125 Stat. 5; Pub. L. 112–14, § 2(a), May 26, 2011, 125 Stat. 216; Pub. L. 114–23, title VII, § 705(a), (c), June 2, 2015, 129 Stat. 300; Pub. L. 116–69, div. B, title VII, § 1703(a), Nov. 21, 2019, 133 Stat. 1143, provided that, effective Mar. 15, 2020, with certain exceptions, subsec. (c)(2) of this section is amended to read as it read on Oct. 25, 2001:
-
-(2) direct—
-
-(A) that the minimization procedures be followed;
-
-(B) that, upon the request of the applicant, a specified communication or other common carrier, landlord, custodian, or other specified person furnish the applicant forthwith all information, facilities, or technical assistance necessary to accomplish the electronic surveillance in such a manner as will protect its secrecy and produce a minimum of interference with the services that such carrier, landlord, custodian, or other person is providing that target of electronic surveillance;
-
-(C) that such carrier, landlord, custodian, or other person maintain under security procedures approved by the Attorney General and the Director of Central Intelligence any records concerning the surveillance or the aid furnished that such person wishes to retain; and
-
-(D) that the applicant compensate, at the prevailing rate, such carrier, landlord, custodian, or other person for furnishing such aid.
-
-See 2006, 2009, 2010, 2011, 2015, and 2019 Amendment notes below.
-
-[Amendment made by Pub. L. 114–23 to section 102(b) of Pub. L. 109–177, delaying the reversion of subsec. (c)(2) of this section from June 1, 2015, to Dec. 15, 2019, was given effect to reflect the probable intent of Congress, notwithstanding that Pub. L. 114–23 was enacted on June 2, 2015.]
-
 #### References in Text
 [Section 1804(a)(7)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1804/a/7/E&num=0&edition=prelim), referred to in subsec. (a)(4), was redesignated [section 1804(a)(6)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1804/a/6/E&num=0&edition=prelim) by Pub. L. 110–261, title I, § 104(1)(B), July 10, 2008, 122 Stat. 2461.
 
@@ -838,7 +820,7 @@ Amendment by Pub. L. 110–261 effective July 10, 2008, except as provided in se
 #### Effective Date of 2006 Amendment
 Pub. L. 109–177, title I, § 102(b), Mar. 9, 2006, 120 Stat. 195, as amended by Pub. L. 111–118, div. B, § 1004(a), Dec. 19, 2009, 123 Stat. 3470; Pub. L. 111–141, § 1(a), Feb. 27, 2010, 124 Stat. 37; Pub. L. 112–3, § 2(a), Feb. 25, 2011, 125 Stat. 5; Pub. L. 112–14, § 2(a), May 26, 2011, 125 Stat. 216; Pub. L. 114–23, title VII, § 705(a), (c), June 2, 2015, 129 Stat. 300; Pub. L. 116–69, div. B, title VII, § 1703(a), Nov. 21, 2019, 133 Stat. 1143, provided that: “(1) In general.—Effective March 15, 2020, the Foreign Intelligence Surveillance Act of 1978 [[50 U.S.C. 1801](./chapter-036-foreign-intelligence-surveillance.md#section-1801) et seq.] is amended so that title V and section 105(c)(2) [[50 U.S.C. 1861](./chapter-036-foreign-intelligence-surveillance.md#section-1861) to 1863, and 1805(c)(2)] read as they read on October 25, 2001. “(2) Exception.—With respect to any particular foreign intelligence investigation that began before the date on which the provisions referred to in paragraph (1) cease to have effect, or with respect to any particular offense or potential offense that began or occurred before the date on which such provisions cease to have effect, such provisions shall continue in effect.”
 
-[Pub. L. 109–177, § 102(b)(1), set out above, as amended by Pub. L. 112–14, provided that sections 1861 and 1862 of this title and subsec. (c)(2) of this section were amended, effective June 1, 2015, to read as they read on Oct. 25, 2001. Pub. L. 114–23, § 705(a), amended section 102(b)(1) by substituting “December 15, 2019” for “June 1, 2015”, thereby delaying the reversion of those provisions until Dec. 15, 2019. Such amendment was given effect in those provisions by not executing the reversions on June 1, 2015, to reflect the probable intent of Congress, notwithstanding that Pub. L. 114–23 was enacted on June 2, 2015. See Amendment of Subsection (c)(2) note and 2015 Amendment note for subsec. (c)(2) above and Amendment of Section, Codification, and 2015 Amendment notes under sections 1861 and 1862 of this title.]
+[Pub. L. 109–177, § 102(b)(1), set out above, as amended by Pub. L. 112–14, provided that sections 1861 and 1862 of this title and subsec. (c)(2) of this section were amended, effective June 1, 2015, to read as they read on Oct. 25, 2001. Pub. L. 114–23, § 705(a), amended section 102(b)(1) by substituting “December 15, 2019” for “June 1, 2015”, thereby delaying the reversion of those provisions until Dec. 15, 2019. Such amendment was given effect in those provisions by not executing the reversions on June 1, 2015, to reflect the probable intent of Congress, notwithstanding that Pub. L. 114–23 was enacted on June 2, 2015. See Amendment of Subsection (c)(2) note and 2015 Amendment note for subsec. (c)(2) above and Codification and 2015 Amendment notes under sections 1861 and 1862 of this title.]
 
 #### Effective Date of 2004 Amendment
 For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under [section 3001 of this title](./chapter-044-national-security.md#section-3001).
@@ -1965,237 +1947,7 @@ Subsec. (b)(3). Pub. L. 109–177, § 109(b), added par. (3).
 
 
 <a id="section-1861"></a>
-## § 1861. Access to certain business records for foreign intelligence and international terrorism investigations
-**(a) Application for order; conduct of investigation generally**
-
-(1) Subject to paragraph (3), the Director of the Federal Bureau of Investigation or a designee of the Director (whose rank shall be no lower than Assistant Special Agent in Charge) may make an application for an order requiring the production of any tangible things (including books, records, papers, documents, and other items) for an investigation to obtain foreign intelligence information not concerning a United States person or to protect against international terrorism or clandestine intelligence activities, provided that such investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution.
-
-(2) An investigation conducted under this section shall—
-
-  (A) be conducted under guidelines approved by the Attorney General under Executive Order 12333 (or a successor order); and
-
-  (B) not be conducted of a United States person solely upon the basis of activities protected by the first amendment to the Constitution of the United States.
-
-(3) In the case of an application for an order requiring the production of library circulation records, library patron lists, book sales records, book customer lists, firearms sales records, tax return records, educational records, or medical records containing information that would identify a person, the Director of the Federal Bureau of Investigation may delegate the authority to make such application to either the Deputy Director of the Federal Bureau of Investigation or the Executive Assistant Director for National Security (or any successor position). The Deputy Director or the Executive Assistant Director may not further delegate such authority.
-
-**(b) Recipient and contents of application** Each application under this section—
-
-(1) shall be made to—
-
-  (A) a judge of the court established by [section 1803(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1803/a&num=0&edition=prelim); or
-
-  (B) a United States Magistrate Judge under chapter 43 of title 28, who is publicly designated by the Chief Justice of the United States to have the power to hear applications and grant orders for the production of tangible things under this section on behalf of a judge of that court; and
-
-(2) shall include—
-
-  (A) a specific selection term to be used as the basis for the production of the tangible things sought;
-
-  (B) in the case of an application other than an application described in subparagraph (C) (including an application for the production of call detail records other than in the manner described in subparagraph (C)), a statement of facts showing that there are reasonable grounds to believe that the tangible things sought are relevant to an authorized investigation (other than a threat assessment) conducted in accordance with subsection (a)(2) to obtain foreign intelligence information not concerning a United States person or to protect against international terrorism or clandestine intelligence activities, such things being presumptively relevant to an authorized investigation if the applicant shows in the statement of the facts that they pertain to—
-
-    (i) a foreign power or an agent of a foreign power;
-
-    (ii) the activities of a suspected agent of a foreign power who is the subject of such authorized investigation; or
-
-    (iii) an individual in contact with, or known to, a suspected agent of a foreign power who is the subject of such authorized investigation;
-
-  (C) in the case of an application for the production on an ongoing basis of call detail records created before, on, or after the date of the application relating to an authorized investigation (other than a threat assessment) conducted in accordance with subsection (a)(2) to protect against international terrorism, a statement of facts showing that—
-
-    (i) there are reasonable grounds to believe that the call detail records sought to be produced based on the specific selection term required under subparagraph (A) are relevant to such investigation; and
-
-    (ii) there is a reasonable, articulable suspicion that such specific selection term is associated with a foreign power engaged in international terrorism or activities in preparation therefor, or an agent of a foreign power engaged in international terrorism or activities in preparation therefor; and
-
-  (D) an enumeration of the minimization procedures adopted by the Attorney General under subsection (g) that are applicable to the retention and dissemination by the Federal Bureau of Investigation of any tangible things to be made available to the Federal Bureau of Investigation based on the order requested in such application.
-
-**(c) Ex parte judicial order of approval**
-
-(1) Upon an application made pursuant to this section, if the judge finds that the application meets the requirements of subsections (a) and (b) and that the minimization procedures submitted in accordance with subsection (b)(2)(D) meet the definition of minimization procedures under subsection (g), the judge shall enter an ex parte order as requested, or as modified, approving the release of tangible things. Such order shall direct that minimization procedures adopted pursuant to subsection (g) be followed.
-
-(2) An order under this subsection—
-
-  (A) shall describe the tangible things that are ordered to be produced with sufficient particularity to permit them to be fairly identified, including each specific selection term to be used as the basis for the production;
-
-  (B) shall include the date on which the tangible things must be provided, which shall allow a reasonable period of time within which the tangible things can be assembled and made available;
-
-  (C) shall provide clear and conspicuous notice of the principles and procedures described in subsection (d);
-
-  (D) may only require the production of a tangible thing if such thing can be obtained with a subpoena duces tecum issued by a court of the United States in aid of a grand jury investigation or with any other order issued by a court of the United States directing the production of records or tangible things;
-
-  (E) shall not disclose that such order is issued for purposes of an investigation described in subsection (a); and
-
-  (F) in the case of an application described in subsection (b)(2)(C), shall—
-
-    (i) authorize the production on a daily basis of call detail records for a period not to exceed 180 days;
-
-    (ii) provide that an order for such production may be extended upon application under subsection (b) and the judicial finding under paragraph (1) of this subsection;
-
-    (iii) provide that the Government may require the prompt production of a first set of call detail records using the specific selection term that satisfies the standard required under subsection (b)(2)(C)(ii);
-
-    (iv) provide that the Government may require the prompt production of a second set of call detail records using session-identifying information or a telephone calling card number identified by the specific selection term used to produce call detail records under clause (iii);
-
-    (v) provide that, when produced, such records be in a form that will be useful to the Government;
-
-    (vi) direct each person the Government directs to produce call detail records under the order to furnish the Government forthwith all information, facilities, or technical assistance necessary to accomplish the production in such a manner as will protect the secrecy of the production and produce a minimum of interference with the services that such person is providing to each subject of the production; and
-
-    (vii) direct the Government to—
-
-      (I) adopt minimization procedures that require the prompt destruction of all call detail records produced under the order that the Government determines are not foreign intelligence information; and
-
-      (II) destroy all call detail records produced under the order as prescribed by such procedures.
-
-(3) No order issued under this subsection may authorize the collection of tangible things without the use of a specific selection term that meets the requirements of subsection (b)(2).
-
-(4) A denial of the application made under this subsection may be reviewed as provided in [section 1803 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1803).
-
-**(d) Nondisclosure**
-
-(1) No person shall disclose to any other person that the Federal Bureau of Investigation has sought or obtained tangible things pursuant to an order issued or an emergency production required under this section, other than to—
-
-  (A) those persons to whom disclosure is necessary to comply with such order or such emergency production;
-
-  (B) an attorney to obtain legal advice or assistance with respect to the production of things in response to the order or the emergency production; or
-
-  (C) other persons as permitted by the Director of the Federal Bureau of Investigation or the designee of the Director.
-
-(2)
-
-  (A) A person to whom disclosure is made pursuant to paragraph (1) shall be subject to the nondisclosure requirements applicable to a person to whom an order or emergency production is directed under this section in the same manner as such person.
-
-  (B) Any person who discloses to a person described in subparagraph (A), (B), or (C) of paragraph (1) that the Federal Bureau of Investigation has sought or obtained tangible things pursuant to an order or emergency production under this section shall notify such person of the nondisclosure requirements of this subsection.
-
-  (C) At the request of the Director of the Federal Bureau of Investigation or the designee of the Director, any person making or intending to make a disclosure under subparagraph (A) or (C) of paragraph (1) shall identify to the Director or such designee the person to whom such disclosure will be made or to whom such disclosure was made prior to the request.
-
-**(e) Liability for good faith disclosure; waiver**
-
-(1) No cause of action shall lie in any court against a person who—
-
-  (A) produces tangible things or provides information, facilities, or technical assistance in accordance with an order issued or an emergency production required under this section; or
-
-  (B) otherwise provides technical assistance to the Government under this section or to implement the amendments made to this section by the USA FREEDOM Act of 2015.
-
-(2) A production or provision of information, facilities, or technical assistance described in paragraph (1) shall not be deemed to constitute a waiver of any privilege in any other proceeding or context.
-
-**(f) Judicial review of FISA orders**
-
-(1) In this subsection—
-
-  (A) the term “production order” means an order to produce any tangible thing under this section; and
-
-  (B) the term “nondisclosure order” means an order imposed under subsection (d).
-
-(2)
-
-  (A)
-
-    (i) A person receiving a production order may challenge the legality of the production order or any nondisclosure order imposed in connection with the production order by filing a petition with the pool established by [section 1803(e)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1803/e/1&num=0&edition=prelim).
-
-    (ii) The presiding judge shall immediately assign a petition under clause (i) to 1 of the judges serving in the pool established by [section 1803(e)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1803/e/1&num=0&edition=prelim). Not later than 72 hours after the assignment of such petition, the assigned judge shall conduct an initial review of the petition. If the assigned judge determines that the petition is frivolous, the assigned judge shall immediately deny the petition and affirm the production order or nondisclosure order. If the assigned judge determines the petition is not frivolous, the assigned judge shall promptly consider the petition in accordance with the procedures established under [section 1803(e)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1803/e/2&num=0&edition=prelim).
-
-    (iii) The assigned judge shall promptly provide a written statement for the record of the reasons for any determination under this subsection. Upon the request of the Government, any order setting aside a nondisclosure order shall be stayed pending review pursuant to paragraph (3).
-
-  (B) A judge considering a petition to modify or set aside a production order may grant such petition only if the judge finds that such order does not meet the requirements of this section or is otherwise unlawful. If the judge does not modify or set aside the production order, the judge shall immediately affirm such order, and order the recipient to comply therewith.
-
-  (C)
-
-    (i) A judge considering a petition to modify or set aside a nondisclosure order may grant such petition only if the judge finds that there is no reason to believe that disclosure may endanger the national security of the United States, interfere with a criminal, counterterrorism, or counterintelligence investigation, interfere with diplomatic relations, or endanger the life or physical safety of any person.
-
-    (ii) If the judge denies a petition to modify or set aside a nondisclosure order, the recipient of such order shall be precluded for a period of 1 year from filing another such petition with respect to such nondisclosure order.
-
-  (D) Any production or nondisclosure order not explicitly modified or set aside consistent with this subsection shall remain in full effect.
-
-(3) A petition for review of a decision under paragraph (2) to affirm, modify, or set aside an order by the Government or any person receiving such order shall be made to the court of review established under [section 1803(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1803/b&num=0&edition=prelim), which shall have jurisdiction to consider such petitions. The court of review shall provide for the record a written statement of the reasons for its decision and, on petition by the Government or any person receiving such order for writ of certiorari, the record shall be transmitted under seal to the Supreme Court of the United States, which shall have jurisdiction to review such decision.
-
-(4) Judicial proceedings under this subsection shall be concluded as expeditiously as possible. The record of proceedings, including petitions filed, orders granted, and statements of reasons for decision, shall be maintained under security measures established by the Chief Justice of the United States, in consultation with the Attorney General and the Director of National Intelligence.
-
-(5) All petitions under this subsection shall be filed under seal. In any proceedings under this subsection, the court shall, upon request of the Government, review ex parte and in camera any Government submission, or portions thereof, which may include classified information.
-
-**(g) Minimization procedures**
-
-(1) **In general** — The Attorney General shall adopt, and update as appropriate, specific minimization procedures governing the retention and dissemination by the Federal Bureau of Investigation of any tangible things, or information therein, received by the Federal Bureau of Investigation in response to an order under this subchapter.
-
-(2) **Defined** — In this section, the term “minimization procedures” means—
-
-  (A) specific procedures that are reasonably designed in light of the purpose and technique of an order for the production of tangible things, to minimize the retention, and prohibit the dissemination, of nonpublicly available information concerning unconsenting United States persons consistent with the need of the United States to obtain, produce, and disseminate foreign intelligence information;
-
-  (B) procedures that require that nonpublicly available information, which is not foreign intelligence information, as defined in [section 1801(e)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1801/e/1&num=0&edition=prelim), shall not be disseminated in a manner that identifies any United States person, without such person’s consent, unless such person’s identity is necessary to understand foreign intelligence information or assess its importance; and
-
-  (C) notwithstanding subparagraphs (A) and (B), procedures that allow for the retention and dissemination of information that is evidence of a crime which has been, is being, or is about to be committed and that is to be retained or disseminated for law enforcement purposes.
-
-(3) **Rule of construction** — Nothing in this subsection shall limit the authority of the court established under [section 1803(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1803/a&num=0&edition=prelim) to impose additional, particularized minimization procedures with regard to the production, retention, or dissemination of nonpublicly available information concerning unconsenting United States persons, including additional, particularized procedures related to the destruction of information within a reasonable time period.
-
-**(h) Use of information** Information acquired from tangible things received by the Federal Bureau of Investigation in response to an order under this subchapter concerning any United States person may be used and disclosed by Federal officers and employees without the consent of the United States person only in accordance with the minimization procedures adopted pursuant to subsection (g). No otherwise privileged information acquired from tangible things received by the Federal Bureau of Investigation in accordance with the provisions of this subchapter shall lose its privileged character. No information acquired from tangible things received by the Federal Bureau of Investigation in response to an order under this subchapter may be used or disclosed by Federal officers or employees except for lawful purposes.
-
-**(i) Emergency authority for production of tangible things**
-
-(1) Notwithstanding any other provision of this section, the Attorney General may require the emergency production of tangible things if the Attorney General—
-
-  (A) reasonably determines that an emergency situation requires the production of tangible things before an order authorizing such production can with due diligence be obtained;
-
-  (B) reasonably determines that the factual basis for the issuance of an order under this section to approve such production of tangible things exists;
-
-  (C) informs, either personally or through a designee, a judge having jurisdiction under this section at the time the Attorney General requires the emergency production of tangible things that the decision has been made to employ the authority under this subsection; and
-
-  (D) makes an application in accordance with this section to a judge having jurisdiction under this section as soon as practicable, but not later than 7 days after the Attorney General requires the emergency production of tangible things under this subsection.
-
-(2) If the Attorney General requires the emergency production of tangible things under paragraph (1), the Attorney General shall require that the minimization procedures required by this section for the issuance of a judicial order be followed.
-
-(3) In the absence of a judicial order approving the production of tangible things under this subsection, the production shall terminate when the information sought is obtained, when the application for the order is denied, or after the expiration of 7 days from the time the Attorney General begins requiring the emergency production of such tangible things, whichever is earliest.
-
-(4) A denial of the application made under this subsection may be reviewed as provided in [section 1803 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1803).
-
-(5) If such application for approval is denied, or in any other case where the production of tangible things is terminated and no order is issued approving the production, no information obtained or evidence derived from such production shall be received in evidence or otherwise disclosed in any trial, hearing, or other proceeding in or before any court, grand jury, department, office, agency, regulatory body, legislative committee, or other authority of the United States, a State, or a political subdivision thereof, and no information concerning any United States person acquired from such production shall subsequently be used or disclosed in any other manner by Federal officers or employees without the consent of such person, except with the approval of the Attorney General if the information indicates a threat of death or serious bodily harm to any person.
-
-(6) The Attorney General shall assess compliance with the requirements of paragraph (5).
-
-**(j) Compensation** The Government shall compensate a person for reasonable expenses incurred for—
-
-(1) producing tangible things or providing information, facilities, or assistance in accordance with an order issued with respect to an application described in subsection (b)(2)(C) or an emergency production under subsection (i) that, to comply with subsection (i)(1)(D), requires an application described in subsection (b)(2)(C); or
-
-(2) otherwise providing technical assistance to the Government under this section or to implement the amendments made to this section by the USA FREEDOM Act of 2015.
-
-**(k) Definitions** In this section:
-
-(1) **In general** — The terms “foreign power”, “agent of a foreign power”, “international terrorism”, “foreign intelligence information”, “Attorney General”, “United States person”, “United States”, “person”, and “State” have the meanings provided those terms in [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801).
-
-(2) **Address** — The term “address” means a physical address or electronic address, such as an electronic mail address or temporarily assigned network address (including an Internet protocol address).
-
-(3) **Call detail record** — The term “call detail record”—
-
-  (A) means session-identifying information (including an originating or terminating telephone number, an International Mobile Subscriber Identity number, or an International Mobile Station Equipment Identity number), a telephone calling card number, or the time or duration of a call; and
-
-  (B) does not include—
-
-    (i) the contents (as defined in [section 2510(8) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2510/8&num=0&edition=prelim)) of any communication;
-
-    (ii) the name, address, or financial information of a subscriber or customer; or
-
-    (iii) cell site location or global positioning system information.
-
-(4) **Specific selection term**
-
-  (A) *Tangible things*
-
-    (i) *In general* — Except as provided in subparagraph (B), a “specific selection term”—
-
-      (I) is a term that specifically identifies a person, account, address, or personal device, or any other specific identifier; and
-
-      (II) is used to limit, to the greatest extent reasonably practicable, the scope of tangible things sought consistent with the purpose for seeking the tangible things.
-
-    (ii) *Limitation* — A specific selection term under clause (i) does not include an identifier that does not limit, to the greatest extent reasonably practicable, the scope of tangible things sought consistent with the purpose for seeking the tangible things, such as an identifier that—
-
-      (I) identifies an electronic communication service provider (as that term is defined in [section 1881 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1881)) or a provider of remote computing service (as that term is defined in [section 2711 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2711&num=0&edition=prelim)), when not used as part of a specific identifier as described in clause (i), unless the provider is itself a subject of an authorized investigation for which the specific selection term is used as the basis for the production; or
-
-      (II) identifies a broad geographic region, including the United States, a city, a county, a State, a zip code, or an area code, when not used as part of a specific identifier as described in clause (i).
-
-    (iii) *Rule of construction* — Nothing in this paragraph shall be construed to preclude the use of multiple terms or identifiers to meet the requirements of clause (i).
-
-  (B) *Call detail record applications* — For purposes of an application submitted under subsection (b)(2)(C), the term “specific selection term” means a term that specifically identifies an individual, account, or personal device.
-
-### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 109–177, title I, § 102(b), Mar. 9, 2006, 120 Stat. 195, as amended by Pub. L. 111–118, div. B, § 1004(a), Dec. 19, 2009, 123 Stat. 3470; Pub. L. 111–141, § 1(a), Feb. 27, 2010, 124 Stat. 37; Pub. L. 112–3, § 2(a), Feb. 25, 2011, 125 Stat. 5; Pub. L. 112–14, § 2(a), May 26, 2011, 125 Stat. 216; Pub. L. 114–23, title VII, § 705(a), (c), June 2, 2015, 129 Stat. 300; Pub. L. 116–69, div. B, title VII, § 1703(a), Nov. 21, 2019, 133 Stat. 1143, provided that, effective Mar. 15, 2020, with certain exceptions, this section is amended to read as it read on Oct. 25, 2001:
-
-§ 1861. Definitions
+## § 1861. Definitions
 
 As used in this subchapter:
 
@@ -2209,20 +1961,13 @@ As used in this subchapter:
 
 (5) The term “vehicle rental facility” means any person or entity that provides vehicles for rent, lease, loan, or other similar use to the public or any segment thereof.
 
-See 2006, 2009, 2010, 2011, 2015, and 2019 Amendment notes below.
-
-[Amendment made by Pub. L. 114–23 to section 102(b) of Pub. L. 109–177, delaying the reversion of this section from June 1, 2015, to Dec. 15, 2019, was given effect to reflect the probable intent of Congress, notwithstanding that Pub. L. 114–23 was enacted on June 2, 2015.]
-
-#### References in Text
-Executive Order No. 12333, referred to in subsec. (a)(2)(A), is set out as a note under [section 3001 of this title](./chapter-044-national-security.md#section-3001).
-
-The USA FREEDOM Act of 2015, referred to in subsecs. (e)(1)(B) and (j)(2), also known as the Uniting and Strengthening America by Fulfilling Rights and Ensuring Effective Discipline Over Monitoring Act of 2015, is Pub. L. 114–23, June 2, 2015, 129 Stat. 268. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note set out under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801) and Tables.
+### Statutory Notes
 
 #### Codification
 Pursuant to Pub. L. 109–177, § 102(b)(1), as amended by Pub. L. 112–14, this section was amended, effective June 1, 2015, to read as it read on Oct. 25, 2001. The amendments made by Pub. L. 114–23, which was enacted June 2, 2015, were directed to this section as it read prior to such reversion and were executed as if the reversion had not taken place, to reflect the probable intent of Congress and the extension of the provisions of this section to Dec. 15, 2019, by Pub. L. 114–23, § 705(a), (c). See 2015 Amendment notes below.
 
 #### Prior Provisions
-A prior section 1861, Pub. L. 95–511, title V, § 501, as added Pub. L. 105–272, title VI, § 602, Oct. 20, 1998, 112 Stat. 2410, defined terms used in this subchapter, prior to repeal by Pub. L. 107–56, title II, § 215, Oct. 26, 2001, 115 Stat. 287. See Amendment of Section note above.
+A prior section 1861, Pub. L. 95–511, title V, § 501, as added Pub. L. 105–272, title VI, § 602, Oct. 20, 1998, 112 Stat. 2410, defined terms used in this subchapter, prior to repeal by Pub. L. 107–56, title II, § 215, Oct. 26, 2001, 115 Stat. 287.
 
 #### Amendments
 2019—Pub. L. 116–69 amended directory language of Pub. L. 109–177, § 102(b)(1). See 2006 Amendment note below.
@@ -2324,101 +2069,45 @@ Pub. L. 114–23, title I, § 110, June 2, 2015, 129 Stat. 276, provided that: �
 
 
 <a id="section-1862"></a>
-## § 1862. Congressional oversight
-**(a)** On an annual basis, the Attorney General shall fully inform the Permanent Select Committee on Intelligence and the Committee on the Judiciary of the House of Representatives and the Select Committee on Intelligence and the Committee on the Judiciary of the Senate concerning all requests for the production of tangible things under [section 1861 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1861).
+## § 1862. Access to certain business records for foreign intelligence and international terrorism investigations
+**(a) Application for authorization** The Director of the Federal Bureau of Investigation or a designee of the Director (whose rank shall be no lower than Assistant Special Agent in Charge) may make an application for an order authorizing a common carrier, public accommodation facility, physical storage facility, or vehicle rental facility to release records in its possession for an investigation to gather foreign intelligence information or an investigation concerning international terrorism which investigation is being conducted by the Federal Bureau of Investigation under such guidelines as the Attorney General approves pursuant to Executive Order No. 12333, or a successor order.
 
-**(b)** In April of each year, the Attorney General shall submit to the House and Senate Committees on the Judiciary and the House Permanent Select Committee on Intelligence and the Senate Select Committee on Intelligence a report setting forth with respect to the preceding calendar year—
-
-(1) a summary of all compliance reviews conducted by the Government for the production of tangible things under [section 1861 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1861);
-
-(2) the total number of applications described in [section 1861(b)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1861/b/2/B&num=0&edition=prelim) made for orders approving requests for the production of tangible things;
-
-(3) the total number of such orders either granted, modified, or denied;
-
-(4) the total number of applications described in [section 1861(b)(2)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1861/b/2/C&num=0&edition=prelim) made for orders approving requests for the production of call detail records;
-
-(5) the total number of such orders either granted, modified, or denied;
-
-(6) the total number of applications made for orders approving requests for the production of tangible things under [section 1861 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1861);
-
-(7) the total number of such orders either granted, modified, or denied; and
-
-(8) the number of such orders either granted, modified, or denied for the production of each of the following:
-
-  (A) Library circulation records, library patron lists, book sales records, or book customer lists.
-
-  (B) Firearms sales records.
-
-  (C) Tax return records.
-
-  (D) Educational records.
-
-  (E) Medical records containing information that would identify a person.
-
-**(c)**
-
-(1) In April of each year, the Attorney General shall submit to Congress a report setting forth with respect to the preceding year—
-
-  (A) the total number of applications made for orders approving requests for the production of tangible things under [section 1861 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1861);
-
-  (B) the total number of such orders either granted, modified, or denied;
-
-  (C) the total number of applications made for orders approving requests for the production of tangible things under [section 1861 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1861) in which the specific selection term does not specifically identify an individual, account, or personal device;
-
-  (D) the total number of orders described in subparagraph (C) either granted, modified, or denied; and
-
-  (E) with respect to orders described in subparagraph (D) that have been granted or modified, whether the court established under [section 1803 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1803) has directed additional, particularized minimization procedures beyond those adopted pursuant to [section 1861(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1861/g&num=0&edition=prelim).
-
-(2) Each report under this subsection shall be submitted in unclassified form.
-
-### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 109–177, title I, § 102(b), Mar. 9, 2006, 120 Stat. 195, as amended by Pub. L. 111–118, div. B, § 1004(a), Dec. 19, 2009, 123 Stat. 3470; Pub. L. 111–141, § 1(a), Feb. 27, 2010, 124 Stat. 37; Pub. L. 112–3, § 2(a), Feb. 25, 2011, 125 Stat. 5; Pub. L. 112–14, § 2(a), May 26, 2011, 125 Stat. 216; Pub. L. 114–23, title VII, § 705(a), (c), June 2, 2015, 129 Stat. 300; Pub. L. 116–69, div. B, title VII, § 1703(a), Nov. 21, 2019, 133 Stat. 1143, provided that, effective Mar. 15, 2020, with certain exceptions, this section is amended to read as it read on Oct. 25, 2001:
-
-§ 1862. Access to certain business records for foreign intelligence and international terrorism investigations
-
-(a) Application for authorization
-
-The Director of the Federal Bureau of Investigation or a designee of the Director (whose rank shall be no lower than Assistant Special Agent in Charge) may make an application for an order authorizing a common carrier, public accommodation facility, physical storage facility, or vehicle rental facility to release records in its possession for an investigation to gather foreign intelligence information or an investigation concerning international terrorism which investigation is being conducted by the Federal Bureau of Investigation under such guidelines as the Attorney General approves pursuant to Executive Order No. 12333, or a successor order.
-
-(b) Recipient and contents of application
-
-Each application under this section—
+**(b) Recipient and contents of application** Each application under this section—
 
 (1) shall be made to—
 
-(A) a judge of the court established by [section 1803(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1803/a&num=0&edition=prelim); or
+  (A) a judge of the court established by [section 1803(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1803/a&num=0&edition=prelim); or
 
-(B) a United States Magistrate Judge under chapter 43 of title 28 who is publicly designated by the Chief Justice of the United States to have the power to hear applications and grant orders for the release of records under this section on behalf of a judge of that court; and
+  (B) a United States Magistrate Judge under chapter 43 of title 28 who is publicly designated by the Chief Justice of the United States to have the power to hear applications and grant orders for the release of records under this section on behalf of a judge of that court; and
 
 (2) shall specify that—
 
-(A) the records concerned are sought for an investigation described in subsection (a); and
+  (A) the records concerned are sought for an investigation described in subsection (a); and
 
-(B) there are specific and articulable facts giving reason to believe that the person to whom the records pertain is a foreign power or an agent of a foreign power.
+  (B) there are specific and articulable facts giving reason to believe that the person to whom the records pertain is a foreign power or an agent of a foreign power.
 
-(c) Ex parte judicial order of approval
+**(c) Ex parte judicial order of approval**
 
 (1) Upon application made pursuant to this section, the judge shall enter an ex parte order as requested, or as modified, approving the release of records if the judge finds that the application satisfies the requirements of this section.
 
 (2) An order under this subsection shall not disclose that it is issued for purposes of an investigation described in subsection (a).
 
-(d) Compliance; nondisclosure
+**(d) Compliance; nondisclosure**
 
 (1) Any common carrier, public accommodation facility, physical storage facility, or vehicle rental facility shall comply with an order under subsection (c).
 
 (2) No common carrier, public accommodation facility, physical storage facility, or vehicle rental facility, or officer, employee, or agent thereof, shall disclose to any person (other than those officers, agents, or employees of such common carrier, public accommodation facility, physical storage facility, or vehicle rental facility necessary to fulfill the requirement to disclose information to the Federal Bureau of Investigation under this section) that the Federal Bureau of Investigation has sought or obtained records pursuant to an order under this section.
 
-See 2006, 2009, 2010, 2011, 2015, and 2019 Amendment notes below.
+### Statutory Notes
 
-[Amendment made by Pub. L. 114–23 to section 102(b) of Pub. L. 109–177, delaying the reversion of this section from June 1, 2015, to Dec. 15, 2019, was given effect to reflect the probable intent of Congress, notwithstanding that Pub. L. 114–23 was enacted on June 2, 2015.]
+#### References in Text
+Executive Order No. 12333, referred to in subsec. (a), is set out as a note under [section 3001 of this title](./chapter-044-national-security.md#section-3001).
 
 #### Codification
 Pursuant to Pub. L. 109–177, § 102(b)(1), as amended by Pub. L. 112–14, this section was amended, effective June 1, 2015, to read as it read on Oct. 25, 2001. The amendments made by Pub. L. 114–23, which was enacted June 2, 2015, were directed to this section as it read prior to such reversion and were executed as if the reversion had not taken place, to reflect the probable intent of Congress and the extension of the provisions of this section to Dec. 15, 2019, by Pub. L. 114–23, § 705(a), (c). See 2015 Amendment notes below.
 
 #### Prior Provisions
-A prior section 1862, Pub. L. 95–511, title V, § 502, as added Pub. L. 105–272, title VI, § 602, Oct. 20, 1998, 112 Stat. 2411, which related to access to certain business records for foreign intelligence and international terrorism investigations, was repealed by Pub. L. 107–56, title II, § 215, Oct. 26, 2001, 115 Stat. 287. See [section 1861 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1861) and see Amendment of Section note above.
+A prior section 1862, Pub. L. 95–511, title V, § 502, as added Pub. L. 105–272, title VI, § 602, Oct. 20, 1998, 112 Stat. 2411, which related to access to certain business records for foreign intelligence and international terrorism investigations, was repealed by Pub. L. 107–56, title II, § 215, Oct. 26, 2001, 115 Stat. 287.
 
 #### Amendments
 2019—Pub. L. 116–69 amended directory language of Pub. L. 109–177, § 102(b)(1). See 2006 Amendment note below.
@@ -2458,27 +2147,19 @@ Amendment by section 102(b)(1) of Pub. L. 109–177 effective Mar. 15, 2020, exc
 
 
 <a id="section-1863"></a>
-## § 1863. Repealed. Pub. L. 107–56, title II, § 215, Oct. 26, 2001, 115 Stat. 287
+## § 1863. Congressional oversight
+**(a)** On a semiannual basis, the Attorney General shall fully inform the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate concerning all requests for records under this subchapter.
 
-### Statutory Notes
-
-Section, Pub. L. 95–511, title V, § 503, as added Pub. L. 105–272, title VI, § 602, Oct. 20, 1998, 112 Stat. 2412, related to congressional oversight. See [section 1862 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1862).
-
-#### Revival of Section
-Pub. L. 109–177, title I, § 102(b), Mar. 9, 2006, 120 Stat. 195, as amended by Pub. L. 111–118, div. B, § 1004(a), Dec. 19, 2009, 123 Stat. 3470; Pub. L. 111–141, § 1(a), Feb. 27, 2010, 124 Stat. 37; Pub. L. 112–3, § 2(a), Feb. 25, 2011, 125 Stat. 5; Pub. L. 112–14, § 2(a), May 26, 2011, 125 Stat. 216; Pub. L. 114–23, title VII, § 705(a), (c), June 2, 2015, 129 Stat. 300; Pub. L. 116–69, div. B, title VII, § 1703(a), Nov. 21, 2019, 133 Stat. 1143, provided that, effective Mar. 15, 2020, with certain exceptions, this section is amended to read as it read on Oct. 25, 2001:
-
-§ 1863. Congressional oversight
-
-(a) On a semiannual basis, the Attorney General shall fully inform the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate concerning all requests for records under this subchapter.
-
-(b) On a semiannual basis, the Attorney General shall provide to the Committees on the Judiciary of the House of Representatives and the Senate a report setting forth with respect to the preceding 6-month period—
+**(b)** On a semiannual basis, the Attorney General shall provide to the Committees on the Judiciary of the House of Representatives and the Senate a report setting forth with respect to the preceding 6-month period—
 
 (1) the total number of applications made for orders approving requests for records under this subchapter; and
 
 (2) the total number of such orders either granted, modified, or denied.
 
+### Statutory Notes
+
 #### Effective Date of Revival
-Revival of section by section 102(b)(1) of Pub. L. 109–177 effective Mar. 15, 2020, except that former provisions to continue in effect with respect to any particular foreign intelligence investigation that began before Mar. 15, 2020, or with respect to any particular offense or potential offense that began or occurred before Mar. 15, 2020, see section 102(b) of Pub. L. 109–177, set out as an Effective Date of 2006 Amendment note under [section 1805 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1805).
+Revival of section, which had been repealed by Pub. L. 107–56, title II, § 215, Oct. 26, 2001, 115 Stat. 287, by section 102(b)(1) of Pub. L. 109–177 effective Mar. 15, 2020, except that former provisions to continue in effect with respect to any particular foreign intelligence investigation that began before Mar. 15, 2020, or with respect to any particular offense or potential offense that began or occurred before Mar. 15, 2020, see section 102(b) of Pub. L. 109–177, set out as an Effective Date of 2006 Amendment note under [section 1805 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1805).
 
 
 <a id="section-1864"></a>
@@ -2491,11 +2172,14 @@ Revival of section by section 102(b)(1) of Pub. L. 109–177 effective Mar. 15, 
 
 **(b) Definitions** In this section:
 
-(1) **Call detail record** — The term “call detail record” has the meaning given that term in [section 1861(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1861/k&num=0&edition=prelim).
+(1) **Call detail record** — The term “call detail record” has the meaning given that term in section 1861(k) 11 See References in Text note below. of this title.
 
 (2) **Electronic communication service provider** — The term “electronic communication service provider” has the meaning given that term in [section 1881(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1881/b/4&num=0&edition=prelim).
 
 ### Statutory Notes
+
+#### References in Text
+[Section 1861(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1861/k&num=0&edition=prelim), referred to in subsec. (b)(1), means [section 1861(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1861/k&num=0&edition=prelim) prior to the amendment of section 1861 by Pub. L. 109–177, title I, § 102(b), Mar. 9, 2006, 120 Stat. 195, set out as an Effective Date of 2006 Amendment note under [section 1805 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1805), which amended [section 1861 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1861), effective Mar. 15, 2020, so that such section read as it read on Oct. 25, 2001, with certain exceptions.
 
 #### Codification
 Section was enacted as part of the Intelligence Authorization Act for Fiscal Year 2016, and also as part of the Consolidated Appropriations Act, 2016, and not as part of the Foreign Intelligence Surveillance Act of 1978 which comprises this chapter.
@@ -2516,13 +2200,13 @@ For definition of “congressional intelligence committees” as used in this se
 
   (C) pen registers under [section 1842 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1842);
 
-  (D) access to records under [section 1861 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1861);
+  (D) access to records under section 1861 11 See References in Text note below. of this title;
 
   (E) acquisitions under [section 1881b of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1881b); and
 
   (F) acquisitions under [section 1881c of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1881c);
 
-(2) the number of individuals covered by an order issued pursuant to [section 1801(b)(1)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1801/b/1/C&num=0&edition=prelim);
+(2) the number of individuals covered by an order issued pursuant to section 1801(b)(1)(C) 1 of this title;
 
 (3) the number of times that the Attorney General has authorized that information obtained under this chapter may be used in a criminal proceeding or any information derived therefrom may be used in a criminal proceeding;
 
@@ -2553,6 +2237,10 @@ Pub. L. 110–261, title IV, § 403(b)(2), July 10, 2008, 122 Stat. 2474, as ame
 
 #### References in Text
 This chapter, referred to in subsecs. (a) and (c)(1), was in the original “this Act”, meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801) and Tables.
+
+[Section 1861 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1861), referred to in subsec. (a)(1)(D), means [section 1861 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1861) prior to the amendment of section 1861 by Pub. L. 109–177, title I, § 102(b), Mar. 9, 2006, 120 Stat. 195, set out as an Effective Date of 2006 Amendment note under [section 1805 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1805), which amended [section 1861 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1861), effective Mar. 15, 2020, so that such section read as it read on Oct. 25, 2001, with certain exceptions.
+
+[Section 1801(b)(1)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1801/b/1/C&num=0&edition=prelim), referred to in subsec. (a)(2), was temporarily added by Pub. L. 108–458, title VI, § 6001(a), Dec. 17, 2004, 118 Stat. 3742, and provided that, as used in subchapter I of this chapter, the term “agent of a foreign power” included any person other than a United States person who “engages in international terrorism or activities in preparation therefore”. Such amendment ceased to have effect on Mar. 15, 2020; see section 6001(b) of Pub. L. 108–458, set out as a Termination Date of 2004 Amendment note under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801).
 
 #### Prior Provisions
 A prior section 601 of Pub. L. 95–511 was renumbered section 701 and was set out as a note under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801), prior to repeal by Pub. L. 110–261.
@@ -2595,7 +2283,7 @@ Pub. L. 110–261, title IV, § 403(b)(2), July 10, 2008, 122 Stat. 2474, as ame
 
 (1) **Report required** — The Director of the Administrative Office of the United States Courts shall annually submit to the Permanent Select Committee on Intelligence and the Committee on the Judiciary of the House of Representatives and the Select Committee on Intelligence and the Committee on the Judiciary of the Senate, subject to a declassification review by the Attorney General and the Director of National Intelligence, a report that includes—
 
-  (A) the number of applications or certifications for orders submitted under each of sections 1805, 1824, 1842, 1861, 1881a, 1881b, and 1881c of this title;
+  (A) the number of applications or certifications for orders submitted under each of sections 1805, 1824, 1842, 1861,11 See References in Text note below. 1881a, 1881b, and 1881c of this title;
 
   (B) the number of such orders granted under each of those sections;
 
@@ -2625,7 +2313,7 @@ Pub. L. 110–261, title IV, § 403(b)(2), July 10, 2008, 122 Stat. 2474, as ame
 
   (B) the number of search terms concerning a known United States person used to retrieve the unminimized contents of electronic communications or wire communications obtained through acquisitions authorized under such section, excluding the number of search terms used to prevent the return of information concerning a United States person;
 
-  (C) the number of queries concerning a known United States person of unminimized noncontents information relating to electronic communications or wire communications obtained through acquisitions authorized under such section, excluding the number of queries containing information used to prevent the return of information concerning a United States person; 11 So in original. Probably should be followed by “and”.
+  (C) the number of queries concerning a known United States person of unminimized noncontents information relating to electronic communications or wire communications obtained through acquisitions authorized under such section, excluding the number of queries containing information used to prevent the return of information concerning a United States person; 22 So in original. Probably should be followed by “and”.
 
   (D) the number of instances in which the Federal Bureau of Investigation opened, under the Criminal Investigative Division or any successor division, an investigation of a United States person (who is not considered a threat to national security) based wholly or in part on an acquisition authorized under such section;
 
@@ -2641,13 +2329,13 @@ Pub. L. 110–261, title IV, § 403(b)(2), July 10, 2008, 122 Stat. 2474, as ame
 
 (4) the number of criminal proceedings in which the United States or a State or political subdivision thereof provided notice pursuant to subsection (c) or (d) of [section 1806 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1806) (including with respect to information acquired from an acquisition conducted under [section 1881a of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1881a)) or subsection (d) or (e) of [section 1825 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1825) of the intent of the government to enter into evidence or otherwise use or disclose any information obtained or derived from electronic surveillance, physical search, or an acquisition conducted pursuant to this chapter;
 
-(5) the total number of orders issued pursuant to applications made under [section 1861(b)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1861/b/2/B&num=0&edition=prelim) and a good faith estimate of—
+(5) the total number of orders issued pursuant to applications made under section 1861(b)(2)(B) 1 of this title and a good faith estimate of—
 
   (A) the number of targets of such orders; and
 
   (B) the number of unique identifiers used to communicate information collected pursuant to such orders;
 
-(6) the total number of orders issued pursuant to applications made under [section 1861(b)(2)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1861/b/2/C&num=0&edition=prelim) and a good faith estimate of—
+(6) the total number of orders issued pursuant to applications made under section 1861(b)(2)(C) 1 of this title and a good faith estimate of—
 
   (A) the number of targets of such orders;
 
@@ -2708,6 +2396,8 @@ Pub. L. 110–261, title IV, § 403(b)(2), July 10, 2008, 122 Stat. 2474, as ame
 ### Statutory Notes
 
 #### References in Text
+[Section 1861 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1861), referred to in subsecs. (a)(1)(A) and (b)(5), (6), means [section 1861 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1861) prior to the amendment of section 1861 by Pub. L. 109–177, title I, § 102(b), Mar. 9, 2006, 120 Stat. 195, set out as an Effective Date of 2006 Amendment note under [section 1805 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1805), which amended [section 1861 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1861), effective Mar. 15, 2020, so that such section read as it read on Oct. 25, 2001, with certain exceptions.
+
 This chapter, referred to in subsec. (b)(4), was in the original “this Act”, meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801) and Tables.
 
 #### Amendments
@@ -2746,9 +2436,9 @@ Subsec. (d)(3)(A). Pub. L. 115–118, § 102(b)(2)(C), substituted “subsection
 
     (i) subchapter III;
 
-    (ii) subchapter IV with respect to applications described in [section 1861(b)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1861/b/2/B&num=0&edition=prelim); and
+    (ii) subchapter IV with respect to applications described in section 1861(b)(2)(B) 11 See References in Text note below. of this title; and
 
-    (iii) subchapter IV with respect to applications described in [section 1861(b)(2)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1861/b/2/C&num=0&edition=prelim).
+    (iii) subchapter IV with respect to applications described in section 1861(b)(2)(C) 1 of this title.
 
 (2) A semiannual report that aggregates the number of orders, directives, or national security letters with which the person was required to comply into separate categories of—
 
@@ -2800,6 +2490,8 @@ Subsec. (d)(3)(A). Pub. L. 115–118, § 102(b)(2)(C), substituted “subsection
 
 #### References in Text
 This chapter, referred to in subsecs. (a) and (b)(1)(B), was in the original “this Act”, meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801) and Tables.
+
+Section 1861(b)(2)(B), (C) of this title, referred to in subsec. (a)(1)(F)(ii), (iii), means section 1861(b)(2)(B), (C) of this title prior to the amendment of section 1861 by Pub. L. 109–177, title I, § 102(b), Mar. 9, 2006, 120 Stat. 195, set out as an Effective Date of 2006 Amendment note under [section 1805 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1805), which amended [section 1861 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1861), effective Mar. 15, 2020, so that such section read as it read on Oct. 25, 2001, with certain exceptions.
 
 #### Amendments
 2018—Subsec. (a)(1)(D). Pub. L. 115–118, § 205(a)(4)(A), substituted “contents,” for “contents”.

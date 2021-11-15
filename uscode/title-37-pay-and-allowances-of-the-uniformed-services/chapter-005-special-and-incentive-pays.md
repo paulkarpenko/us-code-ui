@@ -2,7 +2,7 @@
 title: 37
 chapter: '5'
 heading: SPECIAL AND INCENTIVE PAYS
-section_count: 85
+section_count: 86
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37&num=0&edition=prelim
 ---
@@ -1228,7 +1228,7 @@ Subsecs. (b), (c). Pub. L. 95–114 reenacted subsec. (b) without change and add
 1973—Subsec. (a). Pub. L. 93–64 substituted “July 1, 1975” for “July 1, 1973” wherever appearing.
 
 #### Change of Name
-Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 402(c)(3) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402/c/3&num=0&edition=prelim), The Public Health and Welfare.
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 204(c)(3) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section204/c/3&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Effective Date of 1977 Amendment
 Pub. L. 95–114, § 4, Sept. 30, 1977, 91 Stat. 1047, provided that: “The amendments made by sections 2 and 3 of this Act [amending this section and [section 303 of this title](./chapter-005-special-and-incentive-pays.md#section-303)] become effective on October 1, 1977.”
@@ -1516,7 +1516,7 @@ Subsecs. (a), (b). Pub. L. 101–189, § 704(c), inserted headings.
 Subsec. (c). Pub. L. 101–189, § 704(a), added subsec. (c).
 
 #### Change of Name
-Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 402(c)(3) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402/c/3&num=0&edition=prelim), The Public Health and Welfare.
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 204(c)(3) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section204/c/3&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Effective Date of 1997 Amendment
 Pub. L. 105–85, div. A, title X, § 1073(c), Nov. 18, 1997, 111 Stat. 1904, provided that the amendment made by that section is effective as of Sept. 23, 1996, and as if included in the National Defense Authorization Act for Fiscal Year 1997, Pub. L. 104–201, as enacted.
@@ -2072,7 +2072,7 @@ Subsec. (d). Pub. L. 107–314, § 615(g)(3), added subsec. (d) and struck out h
 “(7) $8,000 per year, if the officer has 18 or more years of creditable service.”
 
 #### Change of Name
-Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 402(c)(3) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402/c/3&num=0&edition=prelim), The Public Health and Welfare.
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 204(c)(3) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section204/c/3&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Application of Increase
 In case of amendment by section 615 of Pub. L. 107–314 to increase maximum amount of special pay or bonus that may be paid during any 12-month period, the amended limitation is applicable to 12-month periods beginning after Sept. 30, 2002, see section 615(i) of Pub. L. 107–314, set out as a note under [section 301d of this title](./chapter-005-special-and-incentive-pays.md#section-301d).
@@ -2308,7 +2308,7 @@ Subsecs. (b), (c). Pub. L. 95–114 reenacted subsec. (b) without change and add
 1963—Subsec. (a). Pub. L. 88–2 substituted “July 1, 1967” for “July 1, 1963” wherever appearing.
 
 #### Change of Name
-Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 402(c)(3) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402/c/3&num=0&edition=prelim), The Public Health and Welfare.
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 204(c)(3) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section204/c/3&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Effective Date of 1999 Amendment
 Pub. L. 106–65, div. A, title VI, § 616(b), Oct. 5, 1999, 113 Stat. 652, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on October 1, 1999, and shall apply with respect to months beginning on and after that date.”
@@ -2463,7 +2463,7 @@ Subsec. (c). Pub. L. 101–510, §§ 611(d), 1322(c)(2), 1484(c)(1), inserted �
 Subsec. (b). Pub. L. 96–513, § 506(6)(B), (C), struck out reference to [section 302c of this title](./chapter-005-special-and-incentive-pays.md#section-302c) and inserted reference to separation pay.
 
 #### Change of Name
-Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 402(c)(3) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402/c/3&num=0&edition=prelim), The Public Health and Welfare.
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 204(c)(3) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section204/c/3&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Effective Date of 2008 Amendment
 Amendment by Pub. L. 110–317 applicable with respect to any sole survivorship discharge granted after Sept. 11, 2001, see section 10 of Pub. L. 110–317, set out as a note under [section 2108 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2108&num=0&edition=prelim), Government Organization and Employees.
@@ -6121,12 +6121,14 @@ Pub. L. 109–364, div. A, title VI, § 622(a)(3), Oct. 17, 2006, 120 Stat. 2256
 
 **(g) Repayment.—** A person or member who receives a bonus under this section and who fails to complete the period of service, or meet the conditions of service, for which the bonus is paid, as specified in the written agreement under subsection (d), shall be subject to the repayment provisions of [section 373 of this title](./chapter-005-special-and-incentive-pays.md#section-373).
 
-**(h) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2021.
+**(h) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2022.
 
 ### Statutory Notes
 
 #### Amendments
-2021—Subsec. (h). Pub. L. 116–283 substituted “December 31, 2021” for “December 31, 2020”.
+2021—Subsec. (h). Pub. L. 117–81 substituted “December 31, 2022” for “December 31, 2021”.
+
+Pub. L. 116–283 substituted “December 31, 2021” for “December 31, 2020”.
 
 2019—Subsec. (h). Pub. L. 116–92 substituted “December 31, 2020” for “December 31, 2019”.
 
@@ -6203,12 +6205,14 @@ Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010�
 
 **(f) Repayment.—** A person or officer who receives a bonus under this section and who fails to complete the period of service, or meet the conditions of service, for which the bonus is paid, as specified in the written agreement under subsection (d), shall be subject to the repayment provisions of [section 373 of this title](./chapter-005-special-and-incentive-pays.md#section-373).
 
-**(g) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2021.
+**(g) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2022.
 
 ### Statutory Notes
 
 #### Amendments
-2021—Subsec. (g). Pub. L. 116–283 substituted “December 31, 2021” for “December 31, 2020”.
+2021—Subsec. (g). Pub. L. 117–81 substituted “December 31, 2022” for “December 31, 2021”.
+
+Pub. L. 116–283 substituted “December 31, 2021” for “December 31, 2020”.
 
 2019—Subsec. (g). Pub. L. 116–92 substituted “December 31, 2020” for “December 31, 2019”.
 
@@ -6283,12 +6287,14 @@ Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010�
 
 **(h) Regulations.—** This section shall be administered under regulations prescribed by the Secretary of the Navy.
 
-**(i) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2021.
+**(i) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2022.
 
 ### Statutory Notes
 
 #### Amendments
-2021—Subsec. (i). Pub. L. 116–283 substituted “December 31, 2021” for “December 31, 2020”.
+2021—Subsec. (i). Pub. L. 117–81 substituted “December 31, 2022” for “December 31, 2021”.
+
+Pub. L. 116–283 substituted “December 31, 2021” for “December 31, 2020”.
 
 2019—Subsec. (i). Pub. L. 116–92 substituted “December 31, 2020” for “December 31, 2019”.
 
@@ -6401,12 +6407,14 @@ Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010�
 
 (4) The term “officer” includes an individual enlisted and designated as an aviation cadet under [section 8411 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8411&num=0&edition=prelim).
 
-**(i) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2021.
+**(i) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2022.
 
 ### Statutory Notes
 
 #### Amendments
-2021—Subsec. (i). Pub. L. 116–283 substituted “December 31, 2021” for “December 31, 2020”.
+2021—Subsec. (i). Pub. L. 117–81 substituted “December 31, 2022” for “December 31, 2021”.
+
+Pub. L. 116–283 substituted “December 31, 2021” for “December 31, 2020”.
 
 2019—Subsec. (i). Pub. L. 116–92 substituted “December 31, 2020” for “December 31, 2019”.
 
@@ -6635,7 +6643,7 @@ Amendment by section 809(m)(3) of Pub. L. 115–232 effective Feb. 1, 2019, with
 
 (8) Any health profession performed by officers in the regular or reserve corps 11 See Change of Name note below. of the Public Health Service.
 
-**(k) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2021.
+**(k) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2022.
 
 ### Statutory Notes
 
@@ -6652,7 +6660,9 @@ Subsec. (e)(1)(D)(ii). Pub. L. 116–283, § 612(d)(2) substituted “$50,000”
 
 Subsec. (e)(1)(E). Pub. L. 116–283, § 612(e), substituted “$15,000” for “$6,000”.
 
-Subsec. (k). Pub. L. 116–283, § 611(d)(4), substituted “December 31, 2021” for “December 31, 2020”.
+Subsec. (k). Pub. L. 117–81 substituted “December 31, 2022” for “December 31, 2021”.
+
+Pub. L. 116–283, § 611(d)(4), substituted “December 31, 2021” for “December 31, 2020”.
 
 2019—Subsec. (k). Pub. L. 116–92 substituted “December 31, 2020” for “December 31, 2019”.
 
@@ -6679,7 +6689,7 @@ Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010�
 2008—Subsec. (e)(1)(D)(i). Pub. L. 110–417 substituted “dental officers” for “dental surgeons”.
 
 #### Change of Name
-Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 402(c)(3) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402/c/3&num=0&edition=prelim), The Public Health and Welfare.
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 204(c)(3) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section204/c/3&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Effective Date of 2021 Amendment
 Pub. L. 116–283, div. A, title VI, § 612(f), Jan. 1, 2021, 134 Stat. 3674, provided that: “The amendments made by this section [amending this section] shall apply with respect to special bonus and incentive pays payable under [section 335 of title 37](./chapter-005-special-and-incentive-pays.md#section-335), United States Code, pursuant to agreements entered into under that section on or after the date of the enactment of this Act [Jan. 1, 2021].”
@@ -6710,12 +6720,14 @@ Pub. L. 110–417, [div. A], title VI, § 620(a), Oct. 14, 2008, 122 Stat. 4489,
 
 **(f) Regulations.—** The Secretary concerned shall issue such regulations as may be necessary to carry out this section.
 
-**(g) Termination of Authority.—** No agreement under this section may be entered into after December 31, 2021.
+**(g) Termination of Authority.—** No agreement under this section may be entered into after December 31, 2022.
 
 ### Statutory Notes
 
 #### Amendments
-2021—Subsec. (g). Pub. L. 116–283 substituted “December 31, 2021” for “December 31, 2020”.
+2021—Subsec. (g). Pub. L. 117–81 substituted “December 31, 2022” for “December 31, 2021”.
+
+Pub. L. 116–283 substituted “December 31, 2021” for “December 31, 2020”.
 
 2019—Subsec. (g). Pub. L. 116–92 substituted “December 31, 2020” for “December 31, 2019”.
 
@@ -6780,7 +6792,7 @@ Pub. L. 110–417, [div. A], title VI, § 620(a), Oct. 14, 2008, 122 Stat. 4489,
 
 **(g) Prohibition on Variable Rates.—** The regulations prescribed to administer this section may not include varied criteria or rates for payment of hazardous duty for officers and enlisted members.
 
-**(h) Termination of Authority.—** No hazardous duty pay under this section may be paid after December 31, 2021.
+**(h) Termination of Authority.—** No hazardous duty pay under this section may be paid after December 31, 2022.
 
 ### Statutory Notes
 
@@ -6793,7 +6805,9 @@ Subsec. (c)(2)(B). Pub. L. 116–283, § 614(1)(B), (C), substituted “paragrap
 
 Subsec. (c)(2)(C). Pub. L. 116–283, § 614(1)(C), added subpar. (C).
 
-Subsec. (h). Pub. L. 116–283, §§ 611(d)(6), 614(2), made identical amendments, substituting “December 31, 2021” for “December 31, 2020”.
+Subsec. (h). Pub. L. 117–81 substituted “December 31, 2022” for “December 31, 2021”.
+
+Pub. L. 116–283, §§ 611(d)(6), 614(2), made identical amendments, substituting “December 31, 2021” for “December 31, 2020”.
 
 2019—Subsec. (h). Pub. L. 116–92 substituted “December 31, 2020” for “December 31, 2019”.
 
@@ -6872,12 +6886,14 @@ Subsec. (f). Pub. L. 110–417, § 618(e), substituted “in connection with det
 
 **(f) Repayment.—** A member who receives assignment or special duty pay under this section and who fails to fulfill the eligibility requirements under subsection (a) for receipt of such pay shall be subject to the repayment provisions of [section 373 of this title](./chapter-005-special-and-incentive-pays.md#section-373).
 
-**(g) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2021.
+**(g) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2022.
 
 ### Statutory Notes
 
 #### Amendments
-2021—Subsec. (g). Pub. L. 116–283 substituted “December 31, 2021” for “December 31, 2020”.
+2021—Subsec. (g). Pub. L. 117–81 substituted “December 31, 2022” for “December 31, 2021”.
+
+Pub. L. 116–283 substituted “December 31, 2021” for “December 31, 2020”.
 
 2019—Subsec. (g). Pub. L. 116–92 substituted “December 31, 2020” for “December 31, 2019”.
 
@@ -6961,7 +6977,7 @@ Pub. L. 111–84, div. A, title VI, § 619, Oct. 28, 2009, 123 Stat. 2357, provi
 
 **(h) Relationship to Other Pays and Allowances.—** A member may not be paid more than one pay under this section in any month for the same period of service and skill. A member may be paid skill incentive pay or the proficiency bonus under this section in addition to any other pay and allowances to which the member is entitled, except that a member may not be paid skill incentive pay or a proficiency bonus under this section and hazardous duty pay under [section 351 of this title](./chapter-005-special-and-incentive-pays.md#section-351) for the same period of service in the same career field or skill.
 
-**(i) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2021.
+**(i) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2022.
 
 ### Statutory Notes
 
@@ -6969,7 +6985,9 @@ Pub. L. 111–84, div. A, title VI, § 619, Oct. 28, 2009, 123 Stat. 2357, provi
 Subsection (g)(2), referred to in subsec. (b)(2), was redesignated subsec. (f)(2) by Pub. L. 111–84, div. A, title VI, § 618(d)(1), Oct. 28, 2009, 123 Stat. 2356.
 
 #### Amendments
-2021—Subsec. (i). Pub. L. 116–283 substituted “December 31, 2021” for “December 31, 2020”.
+2021—Subsec. (i). Pub. L. 117–81 substituted “December 31, 2022” for “December 31, 2021”.
+
+Pub. L. 116–283 substituted “December 31, 2021” for “December 31, 2020”.
 
 2019—Subsec. (i). Pub. L. 116–92 substituted “December 31, 2020” for “December 31, 2019”.
 
@@ -7152,12 +7170,14 @@ Pub. L. 107–107, div. A, title VI, § 620(b), Dec. 28, 2001, 115 Stat. 1139, p
 
 **(g) Repayment.—** A member paid a bonus under this section who fails, during the period of service covered by the member’s agreement, reenlistment, or voluntary extension of enlistment under subsection (a), to remain qualified in the critical military skill or to satisfy the other eligibility criteria for which the bonus was paid shall be subject to the repayment provisions of [section 373 of this title](./chapter-005-special-and-incentive-pays.md#section-373).
 
-**(h) Termination of Bonus Authority.—** No bonus may be paid under this section with respect to any reenlistment, or voluntary extension of an enlistment, in the armed forces entered into after December 31, 2021, and no agreement under this section may be entered into after that date.
+**(h) Termination of Bonus Authority.—** No bonus may be paid under this section with respect to any reenlistment, or voluntary extension of an enlistment, in the armed forces entered into after December 31, 2022, and no agreement under this section may be entered into after that date.
 
 ### Statutory Notes
 
 #### Amendments
-2021—Subsec. (h). Pub. L. 116–283 substituted “December 31, 2021” for “December 31, 2020”.
+2021—Subsec. (h). Pub. L. 117–81 substituted “December 31, 2022” for “December 31, 2021”.
+
+Pub. L. 116–283 substituted “December 31, 2021” for “December 31, 2020”.
 
 2019—Subsec. (h). Pub. L. 116–92 substituted “December 31, 2020” for “December 31, 2019”.
 
@@ -7310,6 +7330,17 @@ Pub. L. 114–328, div. A, title VI, § 633(e), Dec. 23, 2016, 130 Stat. 2163, p
 
 #### Effective Date; Implementation
 Section effective Jan. 1, 2018, with certain implementation requirements, see section 635 of Pub. L. 114–92, set out as an Effective Date of 2015 Amendment; Implementation note under [section 8432 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8432&num=0&edition=prelim), Government Organization and Employees.
+
+
+<a id="section-357"></a>
+## § 357. Incentive pay authorities for members of the reserve components of the armed forces
+
+Notwithstanding [section 1004 of this title](./chapter-019-administration.md#section-1004), the Secretary concerned shall pay a member of the reserve component of an armed force incentive pay in the same monthly amount as that paid to a member in the regular component of such armed force performing comparable work requiring comparable skills.
+
+### Statutory Notes
+
+#### Implementation of Section
+Pub. L. 117–81, div. A, title VI, § 602(c), (d), Dec. 27, 2021, 135 Stat. 1765, provided that: “(c) Report.—Not later than September 30, 2022, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing—“(1) the plan of the Secretary to implement section 357 of such title [[37 U.S.C. 357](./chapter-005-special-and-incentive-pays.md#section-357)], as added by subsection (a); “(2) an estimate of the costs of such implementation; “(3) the number of members described in such section; and “(4) any other matter the Secretary determines relevant. “(d) Implementation Date.—The Secretary may not implement section 357 of such title, as added by subsection (a) until after—“(1) submission of the report under subsection (b) [probably means subsec. (c)]; and “(2) the Secretary determines and certifies in writing to the Committees on Armed Services of the Senate and House of Representatives that such implementation shall not have a detrimental effect on the force structure of an Armed Force concerned, including with regard to recruiting or retention of members in the regular component of such Armed Force.”
 
 
 <a id="section-371"></a>

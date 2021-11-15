@@ -2,7 +2,7 @@
 title: 16
 chapter: '2'
 heading: NATIONAL FORESTS
-section_count: 218
+section_count: 219
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16&num=0&edition=prelim
 ---
@@ -554,9 +554,10 @@ The Secretary of Agriculture may permit, under regulations to be prescribed by h
 “National forests” substituted in text for “reservations” on authority of act Mar. 4, 1907, ch. 2907, 34 Stat. 1269, which provided that forest reserves shall hereafter be known as national forests.
 
 #### Transfer of Functions
-Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with provisions of sections 473, 474 to 482, and 551 of this title with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under [section 719e of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section719e&num=0&edition=prelim), Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by [section 720d(f) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section720d/f&num=0&edition=prelim).
-
 Act Feb. 1, 1905 transferred certain functions with regard to administration of public forests from Secretary of the Interior to Secretary of Agriculture.
+
+#### Transfer of Functions
+Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with provisions of sections 473, 474 to 482, and 551 of this title with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under [section 719e of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section719e&num=0&edition=prelim), Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by [section 720d(f) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section720d/f&num=0&edition=prelim).
 
 
 <a id="section-478"></a>
@@ -570,9 +571,10 @@ Nothing in sections 473 to 478, 479 to 482 and 551 of this title shall be constr
 “National forests” substituted in text for “reservations” and “forest reservations” on authority of act Mar. 4, 1907, ch. 2907, 34 Stat. 1269, which provided that forest reserves shall hereafter be known as national forests.
 
 #### Transfer of Functions
-Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with provisions of sections 473, 474 to 482, and 551 of this title with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under [section 719e of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section719e&num=0&edition=prelim), Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by [section 720d(f) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section720d/f&num=0&edition=prelim).
-
 Act Feb. 1, 1905, transferred certain functions with regard to administration of public forests from Secretary of the Interior to Secretary of Agriculture.
+
+#### Transfer of Functions
+Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with provisions of sections 473, 474 to 482, and 551 of this title with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under [section 719e of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section719e&num=0&edition=prelim), Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by [section 720d(f) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section720d/f&num=0&edition=prelim).
 
 
 <a id="section-478a"></a>
@@ -689,9 +691,10 @@ Upon the recommendation of the Secretary of the Interior, with the approval of t
 “National forest” substituted in text for “forest reservation” twice and “reservation” once, on authority of act Mar. 4, 1907, ch. 2907, 34 Stat. 1269, which provided that forest reserves shall hereafter be known as national forests.
 
 #### Transfer of Functions
-Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with provisions of sections 473, 474 to 482, and 551 of this title with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under [section 719e of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section719e&num=0&edition=prelim), Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by [section 720d(f) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section720d/f&num=0&edition=prelim).
-
 For transfer of certain functions with regard to the administration of national forests from Secretary of the Interior to Secretary of Agriculture, see [section 472 of this title](./chapter-002-national-forests.md#section-472).
+
+#### Transfer of Functions
+Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with provisions of sections 473, 474 to 482, and 551 of this title with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under [section 719e of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section719e&num=0&edition=prelim), Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by [section 720d(f) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section720d/f&num=0&edition=prelim).
 
 
 <a id="section-482a"></a>
@@ -2319,6 +2322,11 @@ As used in sections 528 to 531 of this title the following terms shall have the 
 
 The Congress hereby finds and declares that the construction and maintenance of an adequate system of roads and trails within and near the national forests and other lands administered by the Forest Service is essential if increasing demands for timber, recreation, and other uses of such lands are to be met; that the existence of such a system would have the effect, among other things, of increasing the value of timber and other resources tributary to such roads; and that such a system is essential to enable the Secretary of Agriculture (hereinafter called the Secretary) to provide for intensive use, protection, development, and management of these lands under principles of multiple use and sustained yield of products and services.
 
+### Statutory Notes
+
+#### Short Title
+Pub. L. 88–657, Oct. 13, 1964, 78 Stat. 1089, which enacted sections 532 et seq. of this title, is popularly known as the “Forest Roads and Trails Act”.
+
 
 <a id="section-533"></a>
 ## § 533. Grant of easements for road rights-of-way; authority of Secretary of Agriculture; regulations
@@ -2352,11 +2360,11 @@ The Secretary is authorized to provide for the acquisition, construction, and ma
 #### Amendments
 1975—Pub. L. 94–154 authorized the Secretary to permit the transfer of unused effective purchaser credit for road construction earned after Dec. 16, 1975, from one timber sale to a purchaser to another timber sale to the same purchaser within the same National Forest.
 
-#### Transfer of Functions
-For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under sections 532 to 538 of this title to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see Transfer of Functions note set out under [section 533 of this title](./chapter-002-national-forests.md#section-533).
-
 #### Financing of Forest Development Roads
 Financing of forest development roads authorized by cl. (2) of this section deemed “budget authority” and “budget outlays” as defined in [section 621(a) of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621/a&num=0&edition=prelim), The Congress, and effective for purpose specified in [section 651(a) of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section651/a&num=0&edition=prelim), see [section 1608 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1608).
+
+#### Transfer of Functions
+For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under sections 532 to 538 of this title to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see Transfer of Functions note set out under [section 533 of this title](./chapter-002-national-forests.md#section-533).
 
 
 <a id="section-535a"></a>
@@ -2422,6 +2430,121 @@ For transfer of certain enforcement functions of Secretary or other official in 
 ## § 538. User fees fund for delayed payments to grantors
 
 Whenever the agreement under which the United States has obtained for the use of, or in connection with, the national forests and other lands administered by the Forest Service a right-of-way or easement for a road or an existing road or the right to use an existing road provides for delayed payments to the Government’s grantor, any fees or other collections received by the Secretary for the use of the road may be placed in a fund to be available for making payments to the grantor.
+
+
+<a id="section-538a"></a>
+## § 538a. Forest Service Legacy Road and Trail Remediation Program
+**(a) Establishment** The Secretary shall establish the Forest Service Legacy Road and Trail Remediation Program (referred to in this section as the “Program”).
+
+**(b) Activities** In carrying out the Program, the Secretary shall, taking into account foreseeable changes in weather and hydrology—
+
+(1) restore passages for fish and other aquatic species by—
+
+  (A) improving, repairing, or replacing culverts and other infrastructure; and
+
+  (B) removing barriers, as the Secretary determines appropriate, from the passages;
+
+(2) decommission unauthorized user-created roads and trails that are not a National Forest System road or a National Forest System trail, if the applicable unit of the National Forest System has published—
+
+  (A) a Motor Vehicle Use Map and the road is not identified as a National Forest System road on that Motor Vehicle Use Map; or
+
+  (B) a map depicting the authorized trails in the applicable unit of the National Forest System and the trail is not identified as a National Forest System trail on that map;
+
+(3) prepare previously closed National Forest System roads for long-term storage, in accordance with subsections (c)(1) and (d), in a manner that—
+
+  (A) prevents motor vehicle use, as appropriate to conform to route designations;
+
+  (B) prevents the roads from damaging adjacent resources, including aquatic and wildlife resources;
+
+  (C) reduces or eliminates the need for road maintenance; and
+
+  (D) preserves the roads for future use;
+
+(4) decommission previously closed National Forest System roads and trails in accordance with subsections (c)(1) and (d);
+
+(5) relocate National Forest System roads and trails—
+
+  (A) to increase resilience to extreme weather events, flooding, and other natural disasters; and
+
+  (B) to respond to changing resource conditions and public input;
+
+(6) convert National Forest System roads to National Forest System trails, while allowing for continued use for motorized and nonmotorized recreation, to the extent the use is compatible with the management status of the road or trail;
+
+(7) decommission temporary roads—
+
+  (A) that were constructed before November 15, 2021—
+
+    (i) for emergency operations; or
+
+    (ii) to facilitate a resource extraction project;
+
+  (B) that were designated as a temporary road by the Secretary; and
+
+  (C)
+
+    (i) in violation of [section 1608(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1608/b&num=0&edition=prelim), on which vegetation cover has not been reestablished; or
+
+    (ii) that have not been fully decommissioned; and
+
+(8) carry out projects on National Forest System roads, trails, and bridges to improve resilience to extreme weather events, flooding, or other natural disasters.
+
+**(c) Project selection**
+
+(1) **Project eligibility**
+
+  (A) *In general* — The Secretary may only fund under the Program a project described in paragraph (3) or (4) of subsection (b) if the Secretary previously and separately—
+
+    (i) solicited public comment for changing the management status of the applicable National Forest System road or trail—
+
+      (I) to close the road or trail to access; and
+
+      (II) to minimize impacts to natural resources; and
+
+    (ii) has closed the road or trail to access as described in clause (i)(I).
+
+  (B) *Requirement* — Each project carried out under the Program shall be on a National Forest System road or trail, except with respect to—
+
+    (i) a project described in subsection (b)(2); or
+
+    (ii) a project carried out on a watershed for which the Secretary has entered into a cooperative agreement under [section 1011a of this title](./chapter-018-watershed-protection-and-flood-prevention.md#section-1011a).
+
+(2) **Annual selection of projects for funding** — The Secretary shall—
+
+  (A) establish a process for annually selecting projects for funding under the Program, consistent with the requirements of this section;
+
+  (B) solicit and consider public input regionally in the ranking of projects for funding under the Program;
+
+  (C) give priority for funding under the Program to projects that would—
+
+    (i) protect or improve water quality in public drinking water source areas;
+
+    (ii) restore the habitat of a threatened, endangered, or sensitive fish or wildlife species; or
+
+    (iii) maintain future access to the adjacent area for the public, contractors, permittees, or firefighters; and
+
+  (D) publish on the website of the Forest Service—
+
+    (i) the selection process established under subparagraph (A); and
+
+    (ii) a list that includes a description and the proposed outcome of each project funded under the Program in each fiscal year.
+
+**(d) Implementation** In implementing the Program, the Secretary shall ensure that—
+
+(1) the system of roads and trails on the applicable unit of the National Forest System—
+
+  (A) is adequate to meet any increasing demands for timber, recreation, and other uses;
+
+  (B) provides for intensive use, protection, development, and management of the land under principles of multiple use and sustained yield of products and services;
+
+  (C) does not damage, degrade, or impair adjacent resources, including aquatic and wildlife resources, to the extent practicable;
+
+  (D) reflects long-term funding expectations; and
+
+  (E) is adequate for supporting emergency operations, such as evacuation routes during wildfires, floods, and other natural disasters; and
+
+(2) all projects funded under the Program are consistent with any applicable forest plan or travel management plan.
+
+**(e) Savings clause** A decision to fund a project under the Program shall not affect any determination made previously or to be made in the future by the Secretary with regard to road or trail closures.
 
 
 <a id="section-539"></a>

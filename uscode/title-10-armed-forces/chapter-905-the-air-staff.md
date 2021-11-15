@@ -145,7 +145,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 (4) exercise supervision, consistent with the authority assigned to commanders of unified or specified combatant commands under chapter 6 of this title, over such of the members and organizations of the Air Force as the Secretary determines;
 
-(5) perform the duties prescribed for him by sections 171 and 2547 of this title and other provisions of law, including pursuant to [section 9040 of this title](./chapter-905-the-air-staff.md#section-9040); and
+(5) perform the duties prescribed for him by sections 171 and 3104 of this title and other provisions of law, including pursuant to [section 9040 of this title](./chapter-905-the-air-staff.md#section-9040); and
 
 (6) perform such other military duties, not otherwise assigned by law, as are assigned to him by the President, the Secretary of Defense, or the Secretary of the Air Force.
 
@@ -174,9 +174,6 @@ In subsection (c), the provisions of 10:1814 relating to the direction of the Se
 
 In subsection (d), 10:38 (last par.) is omitted as covered by 10:1814(a). The words “and other provisions of law” are substituted for the words “and by other laws”.
 
-#### Amendment of Subsection (d)(5)
-Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1847(e)(6)(B), Jan. 1, 2021, 134 Stat. 4151, 4257, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, subsection (d)(5) of this section is amended by striking “and 2547” and inserting “, 3103, and 4274”. See 2021 Amendment note below.
-
 #### 1962 Act
 The changes correct references to section 202(j) of the National Security Act of 1947, which is now set out as [section 124 of title 10](./chapter-003-general-powers-and-functions.md#section-124).
 
@@ -184,7 +181,9 @@ The changes correct references to section 202(j) of the National Security Act of
 [Section 664(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section664/f&num=0&edition=prelim), referred to in subsec. (a)(2)(B), was redesignated as [section 664(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section664/d&num=0&edition=prelim) by Pub. L. 114–328, div. A, title V, § 510(g)(1), Dec. 23, 2016, 130 Stat. 2111.
 
 #### Amendments
-2021—Subsec. (d)(5). Pub. L. 116–283 substituted “, 3103, and 4274” for “and 2547”.
+2021—Subsec. (d)(5). Pub. L. 116–283, § 1847(e)(6)(B), which directed substitution of “, 3103, and 4274” for “and 2547”, was repealed by Pub. L. 117–81, § 1701(r)(1)(B).
+
+Pub. L. 116–283, § 1808(d)(3), as added by Pub. L. 117–81, § 1701(r)(2), substituted “and 3104” for “and 2547”.
 
 2018—Pub. L. 115–232, § 806(c), renumbered [section 8033 of this title](./chapter-805-office-of-the-chief-of-naval-operations.md#section-8033) as this section.
 
@@ -231,6 +230,8 @@ Pub. L. 114–92, § 802(d)(4)(D), substituted “sections 171 and 2547” for �
 1958—Subsec. (d)(4) to (7). Pub. L. 85–599 redesignated pars. (5) to (7) as (4) to (6), respectively, and in par. (4), as redesignated, required the Chief of Staff to exercise supervision only as the Secretary of the Air Force determines and in a manner consistent with the full operational command vested in unified or specified combatant commanders. Former par. (4), which related to command over the air defense, strategic, tactical, and other major commands, was struck out.
 
 #### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
+
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 2018 Amendment
@@ -564,7 +565,7 @@ Section effective on first day of first calendar month following date of enactme
 #### Amendments
 2021—Subsec. (a). Pub. L. 116–283 substituted “for the Air Force and the Space Force” for “in the Air Force”.
 
-2018—Pub. L. 115–232, § 806(c), renumbered [section 8039 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8039&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232, § 806(c), renumbered [section 8039 of this title](./chapter-805-office-of-the-chief-of-naval-operations.md#section-8039) as this section.
 
 Subsec. (a)(1). Pub. L. 115–232, § 809(a), substituted “section 9067(h)” for “section 8067(h)” in introductory provisions.
 

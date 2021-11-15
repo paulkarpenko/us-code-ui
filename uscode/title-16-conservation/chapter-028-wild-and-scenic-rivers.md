@@ -2287,8 +2287,6 @@ Subsec. (a)(15). Pub. L. 94–486, § 301, added par. (15).
 #### Change of Name
 “Frank Church—River of No Return Wilderness” substituted in subsec. (a)(24)(D) for “River of No Return Wilderness” pursuant to Pub. L. 98–231, § 1, Mar. 14, 1984, 98 Stat. 60, which redesignated the River of No Return Wilderness as the Frank Church—River of No Return Wilderness.
 
-Ex. Ord. No. 13428, Apr. 2, 2007, 72 F.R. 16693, provided that the Caribbean National Forest in the Commonwealth of Puerto Rico, referred to in subsec. (a)(166), is renamed the “El Yunque National Forest”.
-
 #### Savings Provisions
 Pub. L. 111–11, title I, § 1203(a)(2), Mar. 30, 2009, 123 Stat. 1012, provided that: “The amendments made by paragraph (1) [amending this section] do not affect valid existing water rights.”
 
@@ -2431,6 +2429,9 @@ Pub. L. 100–534, title IV, § 403, Oct. 26, 1988, 102 Stat. 2707, directed Sec
 #### Wyoming; Definitions; Administration of Wild and Scenic River Segments of Snake River Headwaters
 Pub. L. 111–11, title V, § 5002(c), (e), Mar. 30, 2009, 123 Stat. 1148, 1150, as amended by Pub. L. 114–289, title VI, § 601(j), Dec. 16, 2016, 130 Stat. 1491, provided for administration of Wild and Scenic River segments of Snake River Headwaters; required Secretary concerned to develop a management plan for each such river segment and apply for quantification of water rights reserved by each such river segment; allowed such Secretary to carry out activities at United States Geological Survey stream gauges on the Snake River; prohibited such Secretary’s acquisition of property or interest in property within such river segments without owner’s consent; and enacted savings provisions.
 
+#### Change of Name
+Ex. Ord. No. 13428, Apr. 2, 2007, 72 F.R. 16693, provided that the Caribbean National Forest in the Commonwealth of Puerto Rico, referred to in subsec. (a)(166), is renamed the “El Yunque National Forest”.
+
 
 <a id="section-1275"></a>
 ## § 1275. Additions to national wild and scenic rivers system
@@ -2459,7 +2460,7 @@ The Water Resources Planning Act, referred to in subsec. (a), is Pub. L. 89–80
 #### Transfer of Functions
 “Secretary of Energy” substituted for “Chairman of the Federal Power Commission” in subsecs. (b) and (c) pursuant to Pub. L. 95–91, § 301(b), which is classified to [section 7151(b) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7151/b&num=0&edition=prelim), The Public Health and Welfare.
 
-Federal Power Commission terminated and its functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
+The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
 
 
 <a id="section-1276"></a>
@@ -3114,7 +3115,7 @@ Subsecs. (b) to (d). Pub. L. 93–621, § 1(b), added subsec. (b) and redesignat
 1974—Subsecs. (b) to (d). Pub. L. 93–279 redesignated subsecs. (c) and (d) as (b) and (c), respectively. Former subsec. (b), relating to the study of rivers named in subsec. (a) of this section for inclusion in the national wild and scenic river system and submission of reports to the President and the Congress, was incorporated in [section 1275(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1275/a&num=0&edition=prelim).
 
 #### Change of Name
-The Yakima Indian Nation was renamed the Yakama Nation by Pub. L. 103–434, title XII, § 1204(g), Oct. 31, 1994, 108 Stat. 4557, as amended, set out as a note under [section 544 of this title](./chapter-002-national-forests.md#section-544).
+The Yakima Indian Nation was renamed the Yakama Nation by Pub. L. 103–434, title XII, § 1204(g), Oct. 31, 1994, 108 Stat. 4557, set out as a note under [section 544 of this title](./chapter-002-national-forests.md#section-544).
 
 The Delaware and Lehigh Navigation Canal National Heritage Corridor was redesignated the Delaware and Lehigh National Heritage Corridor by Pub. L. 105–355, title IV, § 401, Nov. 6, 1998, 112 Stat. 3258.
 
@@ -3206,11 +3207,12 @@ Subsec. (b). Pub. L. 99–590, § 505(b), added cl. (ii), redesignated former cl
 Subsec. (b)(ii). Pub. L. 93–279, § 1(b)(4), substituted “the report for which is submitted to the President and the Congress, is necessary” for “which is recommended to the President and the Congress for inclusion in the national wild and scenic rivers system, is necessary”.
 
 #### Transfer of Functions
-Enforcement functions of Secretary or other official in Department of the Interior related to compliance with system activities requiring coordination and approval under this chapter and such functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(e), (f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under [section 719e of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section719e&num=0&edition=prelim), Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by [section 720d(f) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section720d/f&num=0&edition=prelim).
-
 “Federal Energy Regulatory Commission” substituted for “Federal Power Commission” in subsecs. (a), (b), and (c) pursuant to Pub. L. 95–91, § 402(a)(1)(A), which is classified to [section 7172(a)(1)(A) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7172/a/1/A&num=0&edition=prelim), The Public Health and Welfare.
 
-Federal Power Commission terminated and its functions with regard to licenses and permits for dams, reservoirs, or other works for development and improvement of navigation and for development and utilization of power across, along, from, or in navigable waters under part I of Federal Power Act ([16 U.S.C. 792](./chapter-012-federal-regulation-and-development-of-power.md#section-792) et seq.) transferred to Federal Energy Regulatory Commission by sections 7172(a)(1)(A) and 7293 of Title 42.
+The Federal Power Commission was terminated, and its functions with regard to licenses and permits for dams, reservoirs, or other works for development and improvement of navigation and for development and utilization of power across, along, from, or in navigable waters under part I of Federal Power Act ([16 U.S.C. 792](./chapter-012-federal-regulation-and-development-of-power.md#section-792) et seq.) were transferred to the Federal Energy Regulatory Commission by sections 7172(a)(1)(A) and 7293 of Title 42.
+
+#### Transfer of Functions
+Enforcement functions of Secretary or other official in Department of the Interior related to compliance with system activities requiring coordination and approval under this chapter and such functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(e), (f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under [section 719e of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section719e&num=0&edition=prelim), Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by [section 720d(f) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section720d/f&num=0&edition=prelim).
 
 
 <a id="section-1279"></a>
@@ -3275,11 +3277,11 @@ The Acts under which the national park system and the national wildlife system a
 #### Codification
 The first reference to the Wilderness Act in subsec. (b) was in the original a reference to the Act of September 3, 1964 (78 Stat. 890).
 
-#### Transfer of Functions
-For transfer of certain enforcement functions of Secretary or other official in Department of the Interior and Secretary or other official in Department of Agriculture under this chapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under [section 1278 of this title](./chapter-028-wild-and-scenic-rivers.md#section-1278).
-
 #### Management of Segment of Salmon River Designated as Component of Wild and Scenic River System Located Within Frank Church—River of No Return Wilderness or Gospel-Hump Wilderness
 Pub. L. 96–312, § 9(b), July 23, 1980, 94 Stat. 953, as amended Pub. L. 98–231, § 1, Mar. 14, 1984, 98 Stat. 60, provided: “That segment of the main Salmon River designated as a component of the Wild and Scenic Rivers System by this Act [see [16 U.S.C. 1274(a)(24)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1274/a/24&num=0&edition=prelim)], which lies within the Frank Church—River of No Return Wilderness or the Gospel-Hump Wilderness designated by Public Law 95–237 [Pub. L. 95–237, § 4, Feb. 24, 1978, 92 Stat. 43], shall be managed under the provisions of the Wild and Scenic Rivers Act, as amended [[16 U.S.C. 1271](./chapter-028-wild-and-scenic-rivers.md#section-1271) et seq], and the regulations promulgated pursuant thereto, notwithstanding section 10(b) of the Wild and Scenic Rivers Act [[16 U.S.C. 1281(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1281/b&num=0&edition=prelim)] or any provisions of the Wilderness Act [[16 U.S.C. 1131](./chapter-023-national-wilderness-preservation-system.md#section-1131) et seq.] to the contrary.”
+
+#### Transfer of Functions
+For transfer of certain enforcement functions of Secretary or other official in Department of the Interior and Secretary or other official in Department of Agriculture under this chapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under [section 1278 of this title](./chapter-028-wild-and-scenic-rivers.md#section-1278).
 
 
 <a id="section-1282"></a>

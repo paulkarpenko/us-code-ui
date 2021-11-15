@@ -560,9 +560,9 @@ Section 8272 of the Elijah E. Cummings Coast Guard Authorization Act of 2020, re
 ### Statutory Notes
 
 #### Codification
-Pub. L. 111–281, title II, § 217, Oct. 15, 2010, 124 Stat. 2917, formerly set out as a note under [section 504 of this title](./chapter-005-functions-and-powers.md#section-504), was redesignated as this section, transferred to appear after [section 5111 of this title](./chapter-051-reports.md#section-5111), and amended so that the enumerator, section catchline, typeface, and typestyle conformed to those appearing in other sections of this title by Pub. L. 116–283, § 8501(a)(7)(A), (B)(i).
+Pub. L. 111–281, title II, § 217, Oct. 15, 2010, 124 Stat. 2917, formerly set out as a note under [section 504 of this title](./chapter-005-functions-and-powers.md#section-504), was redesignated as this section, transferred to appear after [section 5111 of this title](./chapter-051-reports.md#section-5111), and amended so that the enumerator, section catchline, typeface, and typestyle conformed to those appearing in other sections of this title by Pub. L. 116–283, § 8501(a)(7)(A).
 
 #### Amendments
-2021—Pub. L. 116–283, § 8501(a)(7)(A), (B)(i), redesignated section 217 of Pub. L. 111–281 as this section and made technical changes to conform this section to other sections of this title. See Codification note above.
+2021—Pub. L. 116–283, § 8501(a)(7)(A), (B)(i), redesignated section 217 of Pub. L. 111–281 as this section, made technical changes to conform this section to other sections of this title, and substituted section catchline for former section catchline “Report on Sexual Assaults in the Coast Guard”. See Codification note above.
 
 Subsec. (b)(5). Pub. L. 116–283, § 8501(a)(7)(B)(ii), added par. (5).

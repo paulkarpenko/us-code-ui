@@ -183,7 +183,7 @@ Pub. L. 110–432, div. B, title II, § 211, Oct. 16, 2008, 122 Stat. 4920, with
 
 (5) acquire, build, improve, and install passenger stations, communications and electric power facilities and equipment, public and private highway and pedestrian crossings, and other facilities and equipment necessary to provide improved high-speed rail passenger transportation over rights of way improved under clause (4) of this subsection;
 
-(6) make agreements with other carriers and commuter authorities to grant, acquire, or make arrangements for rail freight or commuter rail passenger transportation over, rights of way and facilities acquired under the Regional Rail Reorganization Act of 1973 ([45 U.S.C. 701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section701&num=0&edition=prelim) et seq.) and the Railroad Revitalization and Regulatory Reform Act of 1976 ([45 U.S.C. 801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section801&num=0&edition=prelim) et seq.); and
+(6) make agreements with other carriers and commuter authorities to grant, acquire, or make arrangements for rail freight or commuter rail passenger transportation over, rights of way and facilities acquired under the Regional Rail Reorganization Act of 1973 ([45 U.S.C. 701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section701&num=0&edition=prelim) et seq.), the Railroad Revitalization and Regulatory Reform Act of 1976 ([45 U.S.C. 801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section801&num=0&edition=prelim) et seq.), and chapter 224 of this title; and
 
 (7) appoint a general manager of the Northeast Corridor improvement program.
 
@@ -193,7 +193,7 @@ Pub. L. 110–432, div. B, title II, § 211, Oct. 16, 2008, 122 Stat. 4920, with
 
 (1) An agreement under subsection (a)(6) of this section shall provide for reasonable reimbursement of costs but may not cross-subsidize intercity rail passenger, commuter rail passenger, and rail freight transportation.
 
-(2) If the parties do not agree, the Surface Transportation Board shall order that the transportation continue over facilities acquired under the Regional Rail Reorganization Act of 1973 ([45 U.S.C. 701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section701&num=0&edition=prelim) et seq.) and the Railroad Revitalization and Regulatory Reform Act of 1976 ([45 U.S.C. 801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section801&num=0&edition=prelim) et seq.) and shall determine compensation (without allowing cross-subsidization between commuter rail passenger and intercity rail passenger and rail freight transportation) for the transportation not later than 120 days after the dispute is submitted. The Board shall assign to a rail carrier obtaining transportation under this subsection the costs Amtrak incurs only for the benefit of the carrier, plus a proportionate share of all other costs of providing transportation under this paragraph incurred for the common benefit of Amtrak and the carrier. The proportionate share shall be based on relative measures of volume of car operations, tonnage, or other factors that reasonably reflect the relative use of rail property covered by this subsection.
+(2) If the parties do not agree, the Surface Transportation Board shall order that the transportation continue over facilities acquired under the Regional Rail Reorganization Act of 1973 ([45 U.S.C. 701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section701&num=0&edition=prelim) et seq.), the Railroad Revitalization and Regulatory Reform Act of 1976 ([45 U.S.C. 801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section801&num=0&edition=prelim) et seq.), and chapter 224 of this title and shall determine compensation (without allowing cross-subsidization between commuter rail passenger and intercity rail passenger and rail freight transportation) for the transportation not later than 120 days after the dispute is submitted. The Board shall assign to a rail carrier obtaining transportation under this subsection the costs Amtrak incurs only for the benefit of the carrier, plus a proportionate share of all other costs of providing transportation under this paragraph incurred for the common benefit of Amtrak and the carrier. The proportionate share shall be based on relative measures of volume of car operations, tonnage, or other factors that reasonably reflect the relative use of rail property covered by this subsection.
 
 (3) This subsection does not prevent the parties from making an agreement under subsection (a)(6) of this section after the Board makes a decision under this subsection.
 
@@ -240,6 +240,10 @@ The Railroad Revitalization and Regulatory Reform Act of 1976, referred to in su
 A prior section 24903, Pub. L. 103–272, § 1(e), July 5, 1994, 108 Stat. 933; Pub. L. 104–287, § 5(48), Oct. 11, 1996, 110 Stat. 3393, related to program master plan for Boston-New York main line, prior to repeal by Pub. L. 105–134, title IV, § 405(a), Dec. 2, 1997, 111 Stat. 2586.
 
 #### Amendments
+2021—Subsec. (a)(6). Pub. L. 117–58, § 21301(j)(4)(F)(i), substituted “, the Railroad Revitalization and Regulatory Reform Act of 1976 ([45 U.S.C. 801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section801&num=0&edition=prelim) et seq.), and chapter 224 of this title” for “and the Railroad Revitalization and Regulatory Reform Act of 1976 ([45 U.S.C. 801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section801&num=0&edition=prelim) et seq.)”.
+
+Subsec. (c)(2). Pub. L. 117–58, § 21301(j)(4)(F)(ii), substituted “, the Railroad Revitalization and Regulatory Reform Act of 1976 ([45 U.S.C. 801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section801&num=0&edition=prelim) et seq.), and chapter 224 of this title” for “and the Railroad Revitalization and Regulatory Reform Act of 1976 ([45 U.S.C. 801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section801&num=0&edition=prelim) et seq.)”.
+
 2015—Pub. L. 114–94 renumbered [section 24904 of this title](./chapter-249-northeast-corridor-improvement-program.md#section-24904) as this section.
 
 2012—Subsec. (c)(2). Pub. L. 112–141 substituted “Surface Transportation Board” for “Interstate Commerce Commission” and “Board” for “Commission”.
@@ -264,23 +268,53 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 
 <a id="section-24904"></a>
 ## § 24904. Northeast Corridor planning
-**(a) Northeast Corridor Capital Investment Plan.—**
+**(a) Northeast Corridor Service Development Plan.—**
 
-(1) **Requirement.—** — Not later than May 1 of each year, the Northeast Corridor Commission established under section 24905 (referred to in this section as the “Commission”) shall—
+(1) **In general.—** — Not later than March 31, 2022, the Northeast Corridor Commission established under section 24905 (referred to in this section as the “Commission”) shall submit a service development plan to Congress.
 
-  (A) develop a capital investment plan for the Northeast Corridor; and
+(2) **Contents.—** — The plan required under paragraph (1) shall—
 
-  (B) submit the capital investment plan to the Secretary of Transportation and the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+  (A) identify key state-of-good-repair, capacity expansion, and capital improvement projects planned for the Northeast Corridor;
 
-(2) **Contents.—** — The capital investment plan shall—
+  (B) provide a coordinated and consensus-based plan covering a 15-year period;
 
-  (A) reflect coordination and network optimization across the entire Northeast Corridor;
+  (C) identify service objectives and the capital investments required to meet such objectives;
 
-  (B) integrate the individual capital and service plans developed by each operator using the methods described in the cost allocation policy developed under section 24905(c);
+  (D) provide a delivery-constrained strategy that identifies—
 
-  (C) cover a period of 5 fiscal years, beginning with the first fiscal year after the date on which the plan is completed;
+    (i) capital investment phasing;
 
-  (D) notwithstanding section 24902(b), identify, prioritize, and phase the implementation of projects and programs to achieve the service outcomes identified in the Northeast Corridor service development plan and the asset condition needs identified in the Northeast Corridor asset management plans, once available, and consider—
+    (ii) an evaluation of workforce needs; and
+
+    (iii) strategies for managing resources and mitigating construction impacts on operations; and
+
+  (E) include a financial strategy that identifies funding needs and potential funding sources.
+
+(3) **Updates.—** — The Commission shall update the service development plan not less frequently than once every 5 years.
+
+**(b) Northeast Corridor Capital Investment Plan.—**
+
+(1) **In general.—** — Not later than November 1 of each year, the Commission shall—
+
+  (A) develop an annual capital investment plan for the Northeast Corridor; and
+
+  (B) submit the capital investment plan to—
+
+    (i) the Secretary of Transportation;
+
+    (ii) the Committee on Commerce, Science, and Transportation of the Senate; and
+
+    (iii) the Committee on Transportation and Infrastructure of the House of Representatives.
+
+(2) **Contents.—** — The plan required under paragraph (1) shall—
+
+  (A) reflect coordination across the entire Northeast Corridor;
+
+  (B) integrate the individual capital plans developed by Amtrak, States, and commuter authorities in accordance with the cost allocation policy developed and approved under section 24905(c);
+
+  (C) cover a period of 5 fiscal years, beginning with the fiscal year during which the plan is submitted;
+
+  (D) notwithstanding section 24902(b), document the projects and programs being undertaken to advance the service objectives and capital investments identified in the Northeast Corridor service development plan developed under subsection (a), and the asset condition needs identified in the Northeast Corridor asset management plans, after considering—
 
     (i) the benefits and costs of capital investments in the plan;
 
@@ -290,79 +324,69 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 
     (iv) Federal and non-Federal funding availability;
 
-  (E) categorize capital projects and programs as primarily associated with—
+  (E) categorize capital projects and programs as primarily associated with 1 of the categories listed under section 24319(c)(2)(C);
 
-    (i) normalized capital replacement and basic infrastructure renewals;
+  (F) identify capital projects and programs that are associated with more than 1 category described in subparagraph (E); and
 
-    (ii) replacement or rehabilitation of major Northeast Corridor infrastructure assets, including tunnels, bridges, stations, and other assets;
+  (G) include a financial plan that identifies—
 
-    (iii) statutory, regulatory, or other legal mandates;
+    (i) funding sources and financing methods;
 
-    (iv) improvements to support service enhancements or growth; or
+    (ii) the status of cost sharing agreements pursuant to the cost allocation policy developed under section 24905(c);
 
-    (v) strategic initiatives that will improve overall operational performance or lower costs;
+    (iii) the projects and programs that the Commission expects will receive Federal financial assistance; and
 
-  (F) identify capital projects and programs that are associated with more than 1 category described in subparagraph (E);
+    (iv) the eligible entity or entities that the Commission expects—
 
-  (G) describe the anticipated outcomes of each project or program, including an assessment of—
+      (I) to receive the Federal financial assistance referred to in clause (iii); and
 
-    (i) the potential effect on passenger accessibility, operations, safety, reliability, and resiliency;
+      (II) to implement each capital project.
 
-    (ii) the ability of infrastructure owners and operators to meet regulatory requirements if the project or program is not funded; and
+(3) **Review and coordination.—** — The Commission shall require that the information described in paragraph (2) be submitted in a timely manner to allow for a reasonable period of review by, and coordination with, affected agencies before the Commission submits the capital investment plan pursuant to paragraph (1).
 
-    (iii) the benefits and costs; and
+**(c) Failure To Develop a Capital Investment Plan.—** If a capital investment plan has not been developed by the Commission for a given fiscal year, then the funds assigned to the Northeast Corridor account established under section 24317(b) for that fiscal year may be spent only on capital projects and programs contained in the Commission’s capital investment plan for the prior fiscal year.
 
-  (H) include a financial plan.
+**(d) Northeast Corridor Capital Asset Management System.—**
 
-(3) **Financial plan.—** — The financial plan under paragraph (2)(H) shall—
+(1) **In general.—** — Amtrak and other infrastructure owners that provide or support intercity rail passenger transportation along the Northeast Corridor shall develop an asset management system and use and update such system, as necessary, to develop submissions to the Northeast Corridor capital investment plan described in subsection (b).
 
-  (A) identify funding sources and financing methods;
+(2) **Features.—** — The system required under paragraph (1) shall develop submissions that—
 
-  (B) identify the expected allocated shares of costs pursuant to the cost allocation policy developed under section 24905(c);
+  (A) are consistent with the transit asset management system (as defined in section 5326(a)(3)); and
 
-  (C) identify the projects and programs that the Commission expects will receive Federal financial assistance; and
+  (B) include—
 
-  (D) identify the eligible entity or entities that the Commission expects will receive the Federal financial assistance described under subparagraph (C) and implement each capital project.
+    (i) an inventory of all capital assets owned by the developer of the plan;
 
-**(b) Failure To Develop a Capital Investment Plan.—** If a capital investment plan has not been developed by the Commission for a given fiscal year, then the funds assigned to the Northeast Corridor account established under section 24317(b) for that fiscal year may be spent only on—
+    (ii) an assessment of condition of such capital assets;
 
-(1) capital projects described in clause (i) or (iii) of subsection (a)(2)(E) of this section; or
+    (iii) a description of the resources and processes that will be necessary to bring or to maintain such capital assets in a state of good repair; and
 
-(2) capital projects described in subsection (a)(2)(E)(iv) or (v) of this section that are for the sole benefit of Amtrak.
-
-**(c) Northeast Corridor Asset Management.—**
-
-(1) **Contents.—** — With regard to its infrastructure, Amtrak and each State and public transportation entity that owns infrastructure that supports or provides for intercity rail passenger transportation on the Northeast Corridor shall develop an asset management system and develop and update, as necessary, a Northeast Corridor asset management plan for each service territory described in subsection (a) that—
-
-  (A) is consistent with the Federal Transit Administration process, as authorized under section 5326, when implemented; and
-
-  (B) includes, at a minimum—
-
-    (i) an inventory of all capital assets owned by the developer of the asset management plan;
-
-    (ii) an assessment of asset condition;
-
-    (iii) a description of the resources and processes necessary to bring or maintain those assets in a state of good repair, including decision-support tools and investment prioritization methods; and
-
-    (iv) a description of changes in asset condition since the previous version of the plan.
-
-(2) **Transmittal.—** — Each entity described in paragraph (1) shall transmit to the Commission—
-
-  (A) not later than 2 years after the date of enactment of the Passenger Rail Reform and Investment Act of 2015, a Northeast Corridor asset management plan developed under paragraph (1); and
-
-  (B) at least biennially thereafter, an update to such plan.
-
-**(d) Northeast Corridor Service Development Plan Updates.—** Not less frequently than once every 10 years, the Commission shall update the Northeast Corridor service development plan.
+    (iv) a description of changes in the condition of such capital assets since the submission of the prior version of the plan.
 
 **(e) Definition of Northeast Corridor.—** In this section, the term “Northeast Corridor” means the main line between Boston, Massachusetts, and the District of Columbia, and the Northeast Corridor branch lines connecting to Harrisburg, Pennsylvania, Springfield, Massachusetts, and Spuyten Duyvil, New York, including the facilities and services used to operate and maintain those lines.
 
 ### Statutory Notes
 
-#### References in Text
-The date of enactment of the Passenger Rail Reform and Investment Act of 2015, referred to in subsec. (c)(2)(A), is the date of enactment of title XI of div. A of Pub. L. 114–94, which was approved Dec. 4, 2015.
-
 #### Prior Provisions
 A prior section 24904 was renumbered [section 24903 of this title](./chapter-249-northeast-corridor-improvement-program.md#section-24903).
+
+#### Amendments
+2021—Subsec. (a). Pub. L. 117–58, § 22301(1), (3), added subsec. (a) and struck out former subsec. (a), which required Northeast Corridor Commission to develop Northeast Corridor capital investment and financial plans.
+
+Subsec. (b). Pub. L. 117–58, § 22301(3), added subsec. (b). Former subsec. (b) redesignated (c).
+
+Subsec. (c). Pub. L. 117–58, § 22301(2), (4), redesignated subsec. (b) as (c) and substituted “spent only on capital projects and programs contained in the Commission’s capital investment plan for the prior fiscal year.” for “spent only on—
+
+“(1) capital projects described in clause (i) or (iii) of subsection (a)(2)(E) of this section; or
+
+“(2) capital projects described in subsection (a)(2)(E)(iv) or (v) of this section that are for the sole benefit of Amtrak.”
+
+Former subsec. (c) redesignated (d).
+
+Subsec. (d). Pub. L. 117–58, § 22301(5), amended subsec. (d) generally. Prior to amendment, subsec. (d) related to development of Northeast Corridor asset management system and Northeast Corridor asset management plan for each service territory.
+
+Pub. L. 117–58, § 22301(1), (2), redesignated subsec. (c) as (d) and struck out former subsec. (d). Prior to amendment, text of subsec. (d) read as follows: “Not less frequently than once every 10 years, the Commission shall update the Northeast Corridor service development plan.”
 
 #### Effective Date
 Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as an Effective Date of 2015 Amendment note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
@@ -380,7 +404,7 @@ Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as
 
   (C) 1 member from each of the States (including the District of Columbia) that constitute the Northeast Corridor as defined in section 24102, designated by, and serving at the pleasure of, the chief executive officer thereof; and
 
-  (D) non-voting representatives of freight and commuter railroad carriers using the Northeast Corridor selected by the Secretary.
+  (D) non-voting representatives of freight and commuter railroad carriers authorities using the Northeast Corridor selected by the Secretary.
 
 (2) The Secretary shall ensure that the membership belonging to any of the groups enumerated under paragraph (1) shall not constitute a majority of the Commission’s memberships.
 
@@ -432,15 +456,17 @@ Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as
 
   (B) annual performance reports and recommendations for improvements, as appropriate, issued not later than March 31 of each year, for the prior fiscal year, which summarize—
 
-    (i) the operations and performance of commuter, intercity, and freight rail transportation along the Northeast Corridor; and
+    (i) the operations and performance of commuter, intercity, and freight rail transportation, including ridership trends, along the Northeast Corridor;
 
-    (ii) the delivery of the capital investment plan described in section 24904.
+    (ii) the delivery of the first year of the capital investment plan described in section 24904; and
+
+    (iii) progress in assessing and eliminating the state-of-good-repair backlog.
 
 **(c) Allocation of Costs.—**
 
-(1) **Development of policy.—** — The Commission shall—
+(1) **Policy.—** — The Commission shall—
 
-  (A) develop a standardized policy for determining and allocating costs, revenues, and compensation for Northeast Corridor commuter rail passenger transportation, as defined in [section 24102 of this title](./chapter-241-general.md#section-24102), on the Northeast Corridor main line between Boston, Massachusetts, and Washington, District of Columbia, and the Northeast Corridor branch lines connecting to Harrisburg, Pennsylvania, Springfield, Massachusetts, and Spuyten Duyvil, New York, that use Amtrak facilities or services or that provide such facilities or services to Amtrak that ensures that—
+  (A) develop and maintain the standardized policy first approved on September 17, 2015, and update, as appropriate, for determining and allocating costs, revenues, and compensation for Northeast Corridor commuter rail passenger transportation, as defined in [section 24102 of this title](./chapter-241-general.md#section-24102), on the Northeast Corridor main line between Boston, Massachusetts, and Washington, District of Columbia, and the Northeast Corridor branch lines connecting to Harrisburg, Pennsylvania, Springfield, Massachusetts, and Spuyten Duyvil, New York, that use Amtrak facilities or services or that provide such facilities or services to Amtrak that ensures that—
 
     (i) there is no cross-subsidization of commuter rail passenger, intercity rail passenger, or freight rail transportation;
 
@@ -448,21 +474,29 @@ Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as
 
     (iii) all financial contributions made by an operator of a service that benefit an infrastructure owner other than the operator are considered, including but not limited to, any capital infrastructure investments and in-kind services;
 
-  (B) develop a proposed timetable for implementing the policy;
+  (B) develop timetables for implementing and maintaining the policy;
 
-  (C) submit the policy and the timetable developed under subparagraph (B) to the Surface Transportation Board, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives;
+  (C) submit updates to the policy and timetables developed under subparagraph (B) to the Surface Transportation Board, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives;
 
-  (D) not later than October 1, 2015, adopt and implement the policy in accordance with the timetable; and
+  (D) support the efforts of the members of the Commission to implement the policy in accordance with the timetables developed pursuant to subparagraph (B); 11 So in original. Probably should be followed by “and”.
 
   (E) with the consent of a majority of its members, petition the Surface Transportation Board to appoint a mediator to assist the Commission members through nonbinding mediation to reach an agreement under this section.
 
-(2) **Implementation.—** — Amtrak and public authorities providing commuter rail passenger transportation on the Northeast Corridor shall implement new agreements for usage of facilities or services based on the policy developed under paragraph (1) in accordance with the timetable established therein. If the entities fail to implement such new agreements in accordance with paragraph (1)(D) or fail to comply with the policy thereafter, the Surface Transportation Board shall determine the appropriate compensation for such usage in accordance with the procedures and procedural schedule applicable to a proceeding under section 24903(c), after taking into consideration the policy developed under paragraph (1)(A), as applicable. The Surface Transportation Board shall enforce its determination on the party or parties involved.
+(2) **Implementation.—**
+
+  (A) *In general.—* — In accordance with the timetables developed pursuant to paragraph (1)(B), Amtrak and commuter authorities on the Northeast Corridor shall implement the policy developed under paragraph (1) in their agreements for usage of facilities or services.
+
+  (B) *Effect of failure to implement or comply with policy.—* — If the entities referred to in subparagraph (A) fail to implement the policy in accordance with paragraph (1)(D) or fail to comply with the policy thereafter, the Surface Transportation Board shall—
+
+    (i) determine the appropriate compensation in accordance with the procedures and procedural schedule applicable to a proceeding under section 24903(c), after taking into consideration the policy developed under paragraph (1); and
+
+    (ii) enforce its determination on the party or parties involved.
 
 (3) **Revisions.—** — The Commission may make necessary revisions to the policy developed under paragraph (1), including revisions based on Amtrak’s financial accounting system developed pursuant to section 203 of the Passenger Rail Investment and Improvement Act of 2008.
 
-(4) **Request for dispute resolution.—** — If a dispute arises with the implementation of, or compliance with, the policy developed under paragraph (1), the Commission, Amtrak, or public authorities providing commuter rail passenger transportation on the Northeast Corridor may request that the Surface Transportation Board conduct dispute resolution. The Surface Transportation Board shall establish procedures for resolution of disputes brought before it under this paragraph, which may include the provision of professional mediation services.
+(4) **Request for dispute resolution.—** — If a dispute arises with the implementation of, or compliance with, the policy developed under paragraph (1), the Commission, Amtrak, or commuter authorities on the Northeast Corridor may request that the Surface Transportation Board conduct dispute resolution. The Surface Transportation Board shall establish procedures for resolution of disputes brought before it under this paragraph, which may include the provision of professional mediation services.
 
-**(d) Authorization of Appropriations.—** There are authorized to be appropriated to the Secretary for the use of the Commission and the Northeast Corridor Safety Committee such sums as may be necessary to carry out this section during fiscal years 2016 through 2020, in addition to any amounts withheld under section 11101(g) of the Passenger Rail Reform and Investment Act of 2015.
+**(d) Authorization of Appropriations.—** There are authorized to be appropriated to the Secretary for the use of the Commission and the Northeast Corridor Safety Committee such sums as may be necessary to carry out this section during fiscal years 2022 through 2026, in addition to any amounts withheld under section 22101(e) of the Passenger Rail Expansion and Rail Safety Act of 2021.
 
 **(e) Northeast Corridor Safety Committee.—**
 
@@ -507,9 +541,33 @@ The date of enactment of the Passenger Rail Investment and Improvement Act of 20
 
 Section 203 of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsec. (c)(3), is set out as a note under [section 24101 of this title](./chapter-241-general.md#section-24101).
 
-Section 11101(g) of the Passenger Rail Reform and Investment Act of 2015, referred to in subsec. (d), is section 11101(g) of title XI of div. A of Pub. L. 114–94, Dec. 4, 2015, 129 Stat. 1623, which is not classified to the Code.
+Section 22101(e) of the Passenger Rail Expansion and Rail Safety Act of 2021, referred to in subsec. (d), is section 22101(e) of title II of div. B of Pub. L. 117–58, Nov. 15, 2021, 135 Stat. 694, which is not classified to the Code.
 
 #### Amendments
+2021—Subsec. (a)(1)(D). Pub. L. 117–58, § 22302(1), inserted “authorities” after “carriers”.
+
+Subsec. (b)(3)(B)(i). Pub. L. 117–58, § 22302(2)(A)(i), inserted “, including ridership trends,” after “transportation”.
+
+Subsec. (b)(3)(B)(ii). Pub. L. 117–58, § 22302(2)(B)(i), inserted “first year of the” after “the delivery of the”.
+
+Subsec. (b)(3)(B)(iii). Pub. L. 117–58, § 22302(2)(A)(ii), (B)(ii), (C), added cl. (iii).
+
+Subsec. (c)(1). Pub. L. 117–58, § 22302(3)(A)(i), substituted “Policy” for “Development of policy” in heading.
+
+Subsec. (c)(1)(A). Pub. L. 117–58, § 22302(3)(A)(ii), substituted “develop and maintain the standardized policy first approved on September 17, 2015, and update, as appropriate,” for “develop a standardized policy”.
+
+Subsec. (c)(1)(B). Pub. L. 117–58, § 22302(3)(A)(iii), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “develop a proposed timetable for implementing the policy;”.
+
+Subsec. (c)(1)(C). Pub. L. 117–58, § 22302(3)(A)(iv), substituted “updates to the policy and timetables” for “the policy and the timetable”.
+
+Subsec. (c)(1)(D). Pub. L. 117–58, § 22302(3)(A)(v), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “not later than October 1, 2015, adopt and implement the policy in accordance with the timetable; and”.
+
+Subsec. (c)(2). Pub. L. 117–58, § 22302(3)(B), amended par. (2) generally. Prior to amendment, text read as follows: “Amtrak and public authorities providing commuter rail passenger transportation on the Northeast Corridor shall implement new agreements for usage of facilities or services based on the policy developed under paragraph (1) in accordance with the timetable established therein. If the entities fail to implement such new agreements in accordance with paragraph (1)(D) or fail to comply with the policy thereafter, the Surface Transportation Board shall determine the appropriate compensation for such usage in accordance with the procedures and procedural schedule applicable to a proceeding under section 24903(c), after taking into consideration the policy developed under paragraph (1)(A), as applicable. The Surface Transportation Board shall enforce its determination on the party or parties involved.”
+
+Subsec. (c)(4). Pub. L. 117–58, § 22302(3)(C), substituted “commuter authorities” for “public authorities providing commuter rail passenger transportation”.
+
+Subsec. (d). Pub. L. 117–58, § 22302(4), substituted “2022 through 2026” for “2016 through 2020” and “section 22101(e) of the Passenger Rail Expansion and Rail Safety Act of 2021” for “section 11101(g) of the Passenger Rail Reform and Investment Act of 2015”.
+
 2019—Subsec. (e)(2). Pub. L. 115–420, § 6(a), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The Secretary shall consult with the Committee about safety and security improvements on the Northeast Corridor main line. The Committee shall meet at least two times per year to consider safety and security matters on the main line and meet annually with the Commission on the topic of Northeast Corridor safety and security.”
 
 Subsec. (e)(3). Pub. L. 115–420, § 4(a), struck out par. (3). Text read as follows: “At the beginning of the first session of each Congress, the Secretary shall submit a report to the Commission and to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the status of efforts to improve safety and security on the Northeast Corridor main line. The report shall include the safety and security recommendations of the Committee and the comments of the Secretary on those recommendations.”
@@ -855,7 +913,7 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 
 
 <a id="section-24911"></a>
-## § 24911. Federal-State partnership for state of good repair
+## § 24911. Federal-State partnership for intercity passenger rail
 **(a) Definitions.—** In this section:
 
 (1) **Applicant.—** — The term “applicant” means—
@@ -870,19 +928,15 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 
   (E) a political subdivision of a State;
 
-  (F) Amtrak, acting on its own behalf or under a cooperative agreement with 1 or more States; or
+  (F) Amtrak, acting on its own behalf or under a cooperative agreement with 1 or more States;
 
-  (G) any combination of the entities described in subparagraphs (A) through (F).
+  (G) a federally recognized Indian Tribe; or
 
-(2) **Capital project.—** — The term “capital project” means—
+  (H) any combination of the entities described in subparagraphs (A) through (G).
 
-  (A) a project primarily intended to replace, rehabilitate, or repair major infrastructure assets utilized for providing intercity rail passenger service, including tunnels, bridges, stations, and other assets, as determined by the Secretary; or
+(2) **Intercity rail passenger transportation.—** — The term “intercity rail passenger transportation” has the meaning given the term in section 24102.
 
-  (B) a project primarily intended to improve intercity passenger rail performance, including reduced trip times, increased train frequencies, higher operating speeds, and other improvements, as determined by the Secretary.
-
-(3) **Intercity rail passenger transportation.—** — The term “intercity rail passenger transportation” has the meaning given the term in section 24102.
-
-(4) **Northeast corridor.—** — The term “Northeast Corridor” means—
+(3) **Northeast corridor.—** — The term “Northeast Corridor” means—
 
   (A) the main rail line between Boston, Massachusetts and the District of Columbia;
 
@@ -890,81 +944,105 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 
   (C) facilities and services used to operate and maintain lines described in subparagraphs (A) and (B).
 
-(5) **Qualified railroad asset.—** — The term “qualified railroad asset” means infrastructure, equipment, or a facility that—
+**(b) Grant Program Authorized.—** The Secretary of Transportation shall develop and implement a program for issuing grants to applicants, on a competitive basis, to fund capital projects that reduce the state of good repair backlog, improve performance, or expand or establish new intercity passenger rail service, including privately operated intercity passenger rail service if an eligible applicant is involved;.11 So in original. The semicolon preceding the period probably should be a period.
 
-  (A) is owned or controlled by an eligible applicant;
+**(c) Eligible Projects.—** The following capital projects, including acquisition of real property interests, are eligible to receive grants under this section:
 
-  (B) is contained in the planning document developed under section 24904 and for which a cost-allocation policy has been developed under section 24905(c), or is contained in an equivalent planning document and for which a similar cost-allocation policy has been developed; and
+(1) A project to replace, rehabilitate, or repair infrastructure, equipment, or a facility used for providing intercity passenger rail service to bring such assets into a state of good repair.
 
-  (C) was not in a state of good repair on the date of enactment of the Passenger Rail Reform and Investment Act of 2015.
+(2) A project to improve intercity passenger rail service performance, including reduced trip times, increased train frequencies, higher operating speeds, improved reliability, expanded capacity, reduced congestion, electrification, and other improvements, as determined by the Secretary.
 
-**(b) Grant Program Authorized.—** The Secretary of Transportation shall develop and implement a program for issuing grants to applicants, on a competitive basis, to fund capital projects that reduce the state of good repair backlog with respect to qualified railroad assets.
+(3) A project to expand or establish new intercity passenger rail service.
 
-**(c) Eligible Projects.—** Projects eligible for grants under this section include capital projects to replace or rehabilitate qualified railroad assets, including—
+(4) A group of related projects described in paragraphs (1) through (3).
 
-(1) capital projects to replace existing assets in-kind;
+(5) The planning, environmental studies, and final design for a project or group of projects described in paragraphs (1) through (4).
 
-(2) capital projects to replace existing assets with assets that increase capacity or provide a higher level of service;
+**(d) Project Selection Criteria.—** In selecting a project for funding under this section—
 
-(3) capital projects to ensure that service can be maintained while existing assets are brought to a state of good repair; and
+(1) for projects located on the Northeast Corridor, the Secretary shall—
 
-(4) capital projects to bring existing assets into a state of good repair.
+  (A) make selections consistent with the Northeast Corridor Project Inventory published pursuant to subsection (e)(1), unless when necessary to address materially changed infrastructure or service conditions, changes in project sponsor capabilities or commitments, or other significant changes since the completion of the most recently issued Northeast Corridor Project Inventory; and
 
-**(d) Project Selection Criteria.—** In selecting an applicant for a grant under this section, the Secretary shall—
+  (B) for projects that benefit intercity and commuter rail services, only make such selections when Amtrak and the public authorities providing commuter rail passenger transportation at the eligible project location—
 
-(1) give preference to eligible projects for which—
+    (i) are in compliance with section 24905(c)(2); and
 
-  (A) Amtrak is not the sole applicant;
+    (ii) identify funding for the intercity passenger rail share, the commuter rail share, and the local share of the eligible project before the commencement of the project;
 
-  (B) applications were submitted jointly by multiple applicants; and
+(2) for projects not located on the Northeast Corridor, the Secretary shall—
 
-  (C) the proposed Federal share of total project costs does not exceed 50 percent; and
+  (A) give preference to eligible projects—
 
-(2) take into account—
+    (i) for which Amtrak is not the sole applicant;
 
-  (A) the cost-benefit analysis of the proposed project, including anticipated private and public benefits relative to the costs of the proposed project, including—
+    (ii) that improve the financial performance, reliability, service frequency, or address the state of good repair of an Amtrak route; and
 
-    (i) effects on system and service performance;
+    (iii) that are identified in, and consistent with, a corridor inventory prepared under the Corridor Identification and Development Program pursuant to section 25101; and
 
-    (ii) effects on safety, competitiveness, reliability, trip or transit time, and resilience;
+  (B) take into account—
 
-    (iii) efficiencies from improved integration with other modes; and
+    (i) the cost-benefit analysis of the proposed project, including anticipated private and public benefits relative to the costs of the proposed project, including—
 
-    (iv) ability to meet existing or anticipated demand;
+      (I) effects on system and service performance, including as measured by applicable metrics set forth in part 273 of title 49, Code of Federal Regulations (or successor regulations);
 
-  (B) the degree to which the proposed project’s business plan considers potential private sector participation in the financing, construction, or operation of the proposed project;
+      (II) effects on safety, competitiveness, reliability, trip or transit time, greenhouse gas emissions, and resilience;
 
-  (C) the applicant’s past performance in developing and delivering similar projects, and previous financial contributions;
+      (III) anticipated positive economic and employment impacts, including development in areas near passenger stations, historic districts, or other opportunity zones;
 
-  (D) whether the applicant has, or will have—
+      (IV) efficiencies from improved connections with other modes; and
 
-    (i) the legal, financial, and technical capacity to carry out the project;
+      (V) ability to meet existing or anticipated demand;
 
-    (ii) satisfactory continuing control over the use of the equipment or facilities; and
+    (ii) the degree to which the proposed project’s business plan considers potential private sector participation in the financing, construction, or operation of the proposed project;
 
-    (iii) the capability and willingness to maintain the equipment or facilities;
+    (iii) the applicant’s past performance in developing and delivering similar projects, and previous financial contributions;
 
-  (E) if applicable, the consistency of the project with planning guidance and documents set forth by the Secretary or required by law; and
+    (iv) whether the applicant has, or will have—
 
-  (F) any other relevant factors, as determined by the Secretary.
+      (I) the legal, financial, and technical capacity to carry out the project;
 
-**(e) Northeast Corridor Projects.—**
+      (II) satisfactory continuing access to the equipment or facilities; and
 
-(1) **Compliance with usage agreements.—** — Grant funds may not be provided under this section to an eligible recipient for an eligible project located on the Northeast Corridor unless Amtrak and the public authorities providing commuter rail passenger transportation at the eligible project location on the Northeast Corridor are in compliance with section 24905(c)(2).
+      (III) the capability and willingness to maintain the equipment or facilities;
 
-(2) **Capital investment plan.—** — When selecting projects located on the Northeast Corridor, the Secretary shall consider the appropriate sequence and phasing of projects as contained in the Northeast Corridor capital investment plan developed pursuant to section 24904(a).
+    (v) if applicable, the consistency of the project with planning guidance and documents set forth by the Secretary or otherwise required by law;
+
+    (vi) whether the proposed project serves historically unconnected or underconnected communities; and
+
+    (vii) any other relevant factors, as determined by the Secretary; and
+
+(3) the Secretary shall reserve—
+
+  (A) not less than 45 percent of the amounts appropriated for grants under this section for projects not located along the Northeast Corridor, of which not less than 20 percent shall be for projects that benefit (in whole or in part) a long-distance route; and
+
+  (B) not less than 45 percent of the amounts appropriated for grants under this section for projects listed on the Northeast Corridor project inventory published pursuant to subsection (e)(1).
+
+**(e) Long-term Planning.—** Not later than 1 year after the date of enactment of the Passenger Rail Expansion and Rail Safety Act of 2021, and every 2 years thereafter, the Secretary shall create a predictable project pipeline that will assist Amtrak, States, and the public with long-term capital planning by publishing a Northeast Corridor project inventory that—
+
+(1) identifies capital projects for Federal investment, project applicants, and proposed Federal funding levels under this section;
+
+(2) specifies the order in which the Secretary will provide grant funding to projects that have identified sponsors and are located along the Northeast Corridor, including a method and plan for apportioning funds to project sponsors for the 2-year period, which may be altered by the Secretary, as necessary, if recipients are not carrying out projects in accordance with the anticipated schedule;
+
+(3) takes into consideration the appropriate sequence and phasing of projects described in the Northeast Corridor capital investment plan developed pursuant to section 24904(a); 22 So in original. Probably should be “section 24904(b);”.
+
+(4) is consistent with the most recent Northeast Corridor service development plan update described in section 24904(d);33 So in original. Probably should be “section 24904(a)(3);”.
+
+(5) takes into consideration the existing commitments and anticipated Federal, project applicant, sponsor, and other relevant funding levels for the next 5 fiscal years based on information currently available to the Secretary; and
+
+(6) is developed in consultation with the Northeast Corridor Commission and the owners of Northeast Corridor infrastructure and facilities.
 
 **(f) Federal Share of Total Project Costs.—**
 
 (1) **Total project cost.—** — The Secretary shall estimate the total cost of a project under this section based on the best available information, including engineering studies, studies of economic feasibility, environmental analyses, and information on the expected use of equipment or facilities.
 
-(2) **Federal share.—** — The Federal share of total costs for a project under this section shall not exceed 80 percent.
+(2) **Federal share.—** — The Federal share of total costs for a project under this section shall not exceed 80 percent, except as specified under paragraph (4).
 
 (3) **Treatment of amtrak revenue.—** — If Amtrak is an applicant under this section, Amtrak may use ticket and other revenues generated from its operations and other sources to satisfy the non-Federal share requirements.
 
-**(g) Letters of Intent.—**
+**(g) Letters of Intent; Phased Funding Agreements.—**
 
-(1) **In general.—** — The Secretary shall, to the maximum extent practicable, issue a letter of intent to a grantee under this section that—
+(1) **Letters of intent.—** — The Secretary may issue a letter of intent to a grantee under this section that—
 
   (A) announces an intention to obligate, for a major capital project under this section, an amount from future available budget authority specified in law that is not more than the amount stipulated as the financial participation of the Secretary in the project; and
 
@@ -974,9 +1052,41 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 
     (ii) is subject to the availability of appropriations for grants under this section and subject to Federal laws in force or enacted after the date of the contingent commitment.
 
-(2) **Congressional notification.—**
+(2) **Phased funding agreements.—**
 
-  (A) *In general.—* — Not later than 30 days before issuing a letter under paragraph (1), the Secretary shall submit written notification to—
+  (A) *In general.—* — The Secretary may enter into a phased funding agreement with an applicant if—
+
+    (i) the project is highly rated, based on the evaluations and ratings conducted pursuant to this section and the applicable notice of funding opportunity; and
+
+    (ii) the Federal assistance to be provided for the project under this section is more than $80,000,000.
+
+  (B) *Terms.—* — A phased funding agreement shall—
+
+    (i) establish the terms of participation by the Federal Government in the project;
+
+    (ii) establish the maximum amount of Federal financial assistance for the project;
+
+    (iii) include the period of time for completing the project, even if such period extends beyond the period for which Federal financial assistance is authorized;
+
+    (iv) make timely and efficient management of the project easier in accordance with Federal law; and
+
+    (v) if applicable, specify when the process for complying with the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.) and related environmental laws will be completed for the project.
+
+  (C) *Special financial rules.—*
+
+    (i) *In general.—* — A phased funding agreement under this paragraph obligates an amount of available budget authority specified in law and may include a commitment, contingent on amounts to be specified in law in advance for commitments under this paragraph, to obligate an additional amount from future available budget authority specified in law.
+
+    (ii) *Statement of contingent commitment.—* — The agreement shall state that the contingent commitment is not an obligation of the Government.
+
+    (iii) *Interest and other financing costs.—* — Interest and other financing costs of efficiently carrying out a part of the project within a reasonable time are a cost of carrying out the project under a phased funding agreement, except that eligible costs may not be more than the cost of the most favorable financing terms reasonably available for the project at the time of borrowing. The applicant shall certify, to the satisfaction of the Secretary, that the applicant has shown reasonable diligence in seeking the most favorable financing terms.
+
+    (iv) *Failure to carry out project.—* — If an applicant does not carry out the project for reasons within the control of the applicant, the applicant shall repay all Federal grant funds awarded for the project from all Federal funding sources, for all project activities, facilities, and equipment, plus reasonable interest and penalty charges allowable by law or established by the Secretary in the phased funding agreement. For purposes of this clause, a process for complying with the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.) that results in the selection of the no build alternative is not within the applicant’s control.
+
+    (v) *Crediting of funds received.—* — Any funds received by the Government under this paragraph, except for interest and penalty charges, shall be credited to the appropriation account from which the funds were originally derived.
+
+(3) **Congressional notification.—**
+
+  (A) *In general.—* — Not later than 30 days before issuing a phased funding agreement under paragraph (2) or a letter under paragraph (1), the Secretary shall submit written notification to—
 
     (i) the Committee on Commerce, Science, and Transportation of the Senate;
 
@@ -988,24 +1098,92 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 
   (B) *Contents.—* — The notification submitted pursuant to subparagraph (A) shall include—
 
-    (i) a copy of the proposed letter;
+    (i) a copy of the phased funding agreement or the proposed letter;
 
     (ii) the criteria used under subsection (d) for selecting the project for a grant award; and
 
     (iii) a description of how the project meets such criteria.
 
-(3) **Appropriations required.—** — An obligation or administrative commitment may be made under this section only when amounts are appropriated for such purpose.
+(4) **Appropriations required.—**
+
+  (A) *In general.—* — The Secretary may enter into phased funding agreements under this subsection that contain contingent commitments to incur obligations in such amounts as the Secretary determines are appropriate.
+
+  (B) *Appropriations required.—* — An obligation or administrative commitment may be made under this section only when amounts are appropriated for such purpose.
 
 **(h) Availability.—** Amounts appropriated for carrying out this section shall remain available until expended.
 
-**(i) Grant Conditions.—** Except as specifically provided in this section, the use of any amounts appropriated for grants under this section shall be subject to the grant conditions under section 22905.
+**(i) Grant Conditions.—** Except as specifically provided in this section, the use of any amounts appropriated for grants under this section shall be subject to the grant conditions under sections 22903 and 22905.
+
+**(j) Annual Report on Phased Funding Agreements and Letters of Intent.—** Not later than the first Monday in February of each year, the Secretary shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Appropriations of the Senate, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Appropriations of the House of Representatives that includes—
+
+(1) a proposal for the allocation of amounts to be available to finance grants for projects under this section among applicants for such amounts;
+
+(2) evaluations and ratings, as applicable, for each project that has received a phased funding agreement or a letter of intent; and
+
+(3) recommendations for each project that has received a phased funding agreement or a letter of intent for funding based on the evaluations and ratings, as applicable, and on existing commitments and anticipated funding levels for the next 3 fiscal years based on information currently available to the Secretary.
+
+**(k) Regional Planning Guidance Corridor Planning.—** The Secretary may withhold up to 5 percent of the total amount made available for this section to carry out planning and development activities related to section 25101, including—
+
+(1) providing funding to public entities for the development of service development plans selected under the Corridor Identification and Development Program;
+
+(2) facilitating and providing guidance for intercity passenger rail systems planning; and
+
+(3) providing funding for the development and refinement of intercity passenger rail systems planning analytical tools and models.
 
 ### Statutory Notes
 
 #### References in Text
-The date of enactment of the Passenger Rail Reform and Investment Act of 2015, referred to in subsec. (a)(5)(C), is the date of enactment of title XI of div. A of Pub. L. 114–94, which was approved Dec. 4, 2015.
+The date of enactment of the Passenger Rail Expansion and Rail Safety Act of 2021, referred to in subsec. (e), is the date of enactment of title II of div. B of Pub. L. 117–58, which was approved Nov. 15, 2021.
+
+The National Environmental Policy Act of 1969, referred to in subsec. (g)(2)(B)(v), (C)(iv), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2021—Pub. L. 117–58, § 22307(a)(1), substituted “for intercity passenger rail” for “for state of good repair” in section catchline.
+
+Subsec. (a)(1)(G). Pub. L. 117–58, § 22307(a)(2)(A)(i), (iii), added subpar. (G). Former subpar. (G) redesignated (H) to reflect the probable intent of Congress, see below.
+
+Subsec. (a)(1)(H). Pub. L. 117–58, § 22307(a)(2)(A)(iv), which directed amendment of “subsection” (H), as redesignated, by substituting “(G)” for “(F)”, was executed by making the substitution in subpar. (H), as redesignated, to reflect the probable intent of Congress.
+
+Pub. L. 117–58, § 22307(a)(2)(A)(ii), which directed the redesignation of “subsection” (G) as (H), was executed by redesignating subpar. (G) as (H), to reflect the probable intent of Congress.
+
+Subsec. (a)(2) to (4). Pub. L. 117–58, § 22307(a)(2)(B), (C), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “The term ‘capital project’ means—
+
+“(A) a project primarily intended to replace, rehabilitate, or repair major infrastructure assets utilized for providing intercity rail passenger service, including tunnels, bridges, stations, and other assets, as determined by the Secretary; or
+
+“(B) a project primarily intended to improve intercity passenger rail performance, including reduced trip times, increased train frequencies, higher operating speeds, and other improvements, as determined by the Secretary.”
+
+Subsec. (a)(5). Pub. L. 117–58, § 22307(a)(2)(B), struck out par. (5). Prior to amendment, text read as follows: “The term ‘qualified railroad asset’ means infrastructure, equipment, or a facility that—
+
+“(A) is owned or controlled by an eligible applicant;
+
+“(B) is contained in the planning document developed under section 24904 and for which a cost-allocation policy has been developed under section 24905(c), or is contained in an equivalent planning document and for which a similar cost-allocation policy has been developed; and
+
+“(C) was not in a state of good repair on the date of enactment of the Passenger Rail Reform and Investment Act of 2015.”
+
+Subsec. (b). Pub. L. 117–58, § 22307(a)(3), substituted “, improve performance, or expand or establish new intercity passenger rail service, including privately operated intercity passenger rail service if an eligible applicant is involved;” for “with respect to qualified railroad assets”.
+
+Subsecs. (c) to (e). Pub. L. 117–58, § 22307(a)(4), added subsecs. (c) to (e) and struck out former subsecs. (c) to (e) which, respectively, related to projects eligible for grants under this section, set out various project selection criteria, and gave conditions on funds to be used for Northeast Corridor projects.
+
+Subsec. (f)(2). Pub. L. 117–58, § 22307(a)(5), inserted “, except as specified under paragraph (4)” after “80 percent”.
+
+Subsec. (g). Pub. L. 117–58, § 22307(a)(6)(A), inserted “; Phased Funding Agreements” after “Intent” in heading.
+
+Subsec. (g)(1). Pub. L. 117–58, § 22307(a)(6)(B), substituted “Letters of intent” for “In general” in heading and “may” for “shall, to the maximum extent practicable,” in introductory provisions.
+
+Subsec. (g)(2), (3). Pub. L. 117–58, § 22307(a)(6)(C), (D), added par. (2) and redesignated former par. (2) as (3). Former par. (3) redesignated (4).
+
+Subsec. (g)(3)(A). Pub. L. 117–58, § 22307(a)(6)(E)(i), inserted “a phased funding agreement under paragraph (2) or” after “issuing” in introductory provisions.
+
+Subsec. (g)(3)(B)(i). Pub. L. 117–58, § 22307(a)(6)(E)(ii), inserted “the phased funding agreement or” after “a copy of”.
+
+Subsec. (g)(4). Pub. L. 117–58, § 22307(a)(6)(F), designated existing provisions as subpar. (B), inserted heading, and added subpar. (A).
+
+Pub. L. 117–58, § 22307(a)(6)(C), redesignated par. (3) as (4).
+
+Subsec. (i). Pub. L. 117–58, § 22307(a)(7), substituted “sections 22903 and 22905” for “section 22905”.
+
+Subsecs. (j), (k). Pub. L. 117–58, § 22307(a)(8), added subsecs. (j) and (k).
+
 2019—Subsec. (i). Pub. L. 115–420 substituted “22905” for “24405”.
 
 2018—Subsec. (e)(1). Pub. L. 115–141 substituted “transportation at the eligible project location” for “transportation”.

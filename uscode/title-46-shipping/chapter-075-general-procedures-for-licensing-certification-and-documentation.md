@@ -10,7 +10,7 @@ source: >-
 ## § 7501. Duplicates
 **(a)** If a license, certificate of registry, or merchant mariner’s document issued under this part is lost as a result of a marine casualty, the holder shall be supplied with a duplicate without cost.
 
-**(b)** For any other loss, the seaman may obtain a duplicate on payment of reasonable costs prescribed by regulation by the Secretary.
+**(b)** For any other loss, the holder may obtain a duplicate on payment of reasonable costs prescribed by regulation by the Secretary.
 
 ### Statutory Notes
 
@@ -24,6 +24,8 @@ Section 7501(a) provides that if a license, certificate or document issued to an
 Subsection (b) provides that if a license, certificate or document is lost for any reason other than a marine casualty, the seaman must pay a reasonable cost for the replacement.
 
 #### Amendments
+2021—Subsec. (b). Pub. L. 116–283 substituted “holder” for “seaman”.
+
 1985—Subsec. (a). Pub. L. 99–36 substituted “certificate of registry, or merchant mariner’s document” for “certificate, or document”.
 
 
@@ -88,9 +90,12 @@ Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 
 <a id="section-7504"></a>
 ## § 7504. Travel and expense reimbursement
 
-When a requirement to qualify for the issuance of, or endorsement on, a certificate, license, or document under this part is administered at a place at the request of an applicant or an applicant’s representative, the applicant or representative may reimburse the Secretary for the travel and subsistence expenses incurred by the personnel assigned to perform the administration of the requirement. Amounts received as reimbursement under this section shall be credited to the appropriation for operating expenses of the Coast Guard.
+When a requirement to qualify for the issuance of, or endorsement on, a certificate, license, or document under this part is administered at a place at the request of an applicant or an applicant’s representative, the applicant or representative may reimburse the Secretary for the travel and subsistence expenses incurred by the personnel assigned to perform the administration of the requirement. Amounts received as reimbursement under this section shall be credited to the appropriation for operations and support of the Coast Guard.
 
 ### Statutory Notes
+
+#### Amendments
+2021—Pub. L. 116–283 substituted “operations and support” for “operating expenses”.
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
@@ -150,7 +155,12 @@ Subsec. (b)(2). Pub. L. 115–282, § 510(4), substituted “license or certific
 ## § 7508. Authority to extend the duration of medical certificates
 **(a) Granting of Extensions.—** Notwithstanding any other provision of law, the Secretary may extend for not more than one year a medical certificate issued to an individual holding a license, merchant mariner’s document, or certificate of registry issued under chapter 71 or 73 if the Secretary determines that the extension is required to enable the Coast Guard to eliminate a backlog in processing applications for medical certificates or is in response to a national emergency or natural disaster.
 
-**(b) Manner of Extension.—** An extension under this section may be granted to individual seamen or a specifically identified group of seamen.
+**(b) Manner of Extension.—** An extension under this section may be granted to an individual or a specifically identified group of individuals.
+
+### Statutory Notes
+
+#### Amendments
+2021—Subsec. (b). Pub. L. 116–283 substituted “an individual or a specifically identified group of individuals” for “individual seamen or a specifically identified group of seamen”.
 
 
 <a id="section-7509"></a>
@@ -243,11 +253,11 @@ Pub. L. 114–120, title III, § 309(b), Feb. 8, 2016, 130 Stat. 57, provided th
 
   (A) prioritizes the review of examinations required for merchant mariner credentials; and
 
-  (B) not later than 3 years after the date of enactment of the Coast Guard Authorization Act of 2016, completes a formal review, including an appropriate analysis, of the topics and testing methodology employed by the National Maritime Center for merchant seamen licensing.
+  (B) not later than 3 years after the date of enactment of the Coast Guard Authorization Act of 2016, completes a formal review, including an appropriate analysis, of the topics and testing methodology employed by the National Maritime Center for merchant mariner licensing.
 
 (9) **FACA.—** — The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to any working group created under this section to review the Coast Guard’s merchant mariner credentialing examinations.
 
-**(d) Merchant Mariner Credential Defined.—** In this section, the term “merchant mariner credential” means a merchant seaman license, certificate, or document that the Secretary is authorized to issue pursuant to this title.
+**(d) Merchant Mariner Credential Defined.—** In this section, the term “merchant mariner credential” means a merchant mariner license, certificate, or document that the Secretary is authorized to issue pursuant to this title.
 
 ### Statutory Notes
 
@@ -257,6 +267,10 @@ The date of the enactment of the Coast Guard Authorization Act of 2016, referred
 The Federal Advisory Committee Act, referred to in subsec. (c)(9), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+2021—Subsec. (c)(8)(B). Pub. L. 116–283, § 8505(b)(7)(A), substituted “merchant mariner” for “merchant seamen”.
+
+Subsec. (d). Pub. L. 116–283, § 8505(b)(7)(B), substituted “merchant mariner license” for “merchant seaman license”.
+
 2018—Subsec. (c)(1). Pub. L. 115–232 substituted “Commandant” for “Commandant of the Coast Guard” in introductory provisions.
 
 Subsec. (c)(1)(C). Pub. L. 115–282 inserted “National” before “Merchant Marine”.

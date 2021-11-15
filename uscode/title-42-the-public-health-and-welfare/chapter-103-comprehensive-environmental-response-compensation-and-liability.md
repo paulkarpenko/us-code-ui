@@ -592,14 +592,14 @@ Pub. L. 99–499, § 1, Oct. 17, 1986, 100 Stat. 1613, provided that: “This Ac
 #### Short Title
 Pub. L. 96–510, § 1, Dec. 11, 1980, 94 Stat. 2767, provided: “That this Act [enacting this chapter, [section 6911a of this title](./chapter-082-solid-waste-disposal.md#section-6911a), and sections 4611, 4612, 4661, 4662, 4681, and 4682 of Title 26, Internal Revenue Code, amending [section 6911 of this title](./chapter-082-solid-waste-disposal.md#section-6911), [section 1364 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1364&num=0&edition=prelim), Navigation and Navigable Waters, and [section 11901 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section11901&num=0&edition=prelim), Transportation, and enacting provisions set out as notes under [section 6911 of this title](./chapter-082-solid-waste-disposal.md#section-6911) and sections 1 and 4611 of Title 26] may be cited as the ‘Comprehensive Environmental Response, Compensation, and Liability Act of 1980’.”
 
+#### Definitions
+Pub. L. 99–499, § 2, Oct. 17, 1986, 100 Stat. 1614, provided that: “As used in this Act [see Short Title of 1986 Amendment note above]— “(1) CERCLA.—The term ‘CERCLA’ means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ([42 U.S.C. 9601](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9601) et seq.). “(2) Administrator.—The term ‘Administrator’ means the Administrator of the Environmental Protection Agency.”
+
 #### Transfer of Functions
 For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg. Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out as a note under [section 5841 of this title](./chapter-073-development-of-energy-sources.md#section-5841).
 
 #### Territorial Sea and Contiguous Zone of United States
 For extension of territorial sea and contiguous zone of United States, see Proc. No. 5928 and Proc. No. 7219, respectively, set out as notes under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim), Public Lands.
-
-#### Definitions
-Pub. L. 99–499, § 2, Oct. 17, 1986, 100 Stat. 1614, provided that: “As used in this Act [see Short Title of 1986 Amendment note above]— “(1) CERCLA.—The term ‘CERCLA’ means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ([42 U.S.C. 9601](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9601) et seq.). “(2) Administrator.—The term ‘Administrator’ means the Administrator of the Environmental Protection Agency.”
 
 
 <a id="section-9602"></a>

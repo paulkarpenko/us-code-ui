@@ -34,7 +34,7 @@ The Federal Power Act, referred to in subsec. (b), is act June 10, 1920, ch. 285
 #### Transfer of Functions
 “Federal Energy Regulatory Commission” substituted in text for “Federal Power Commission” pursuant to Pub. L. 95–91, § 402(a)(1)(A), which is classified to [section 7172(a)(1)(A) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7172/a/1/A&num=0&edition=prelim), The Public Health and Welfare.
 
-Federal Power Commission terminated and its functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
+The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
 
 
 <a id="section-836a"></a>
@@ -47,4 +47,4 @@ The license issued under the terms of this chapter shall be granted in conforman
 #### Transfer of Functions
 “Federal Energy Regulatory Commission” substituted for “Federal Power Commission” in subsecs. (a) and (b) pursuant to Pub. L. 95–91, § 402(a)(1)(A), which is classified to [section 7172(a)(1)(A) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7172/a/1/A&num=0&edition=prelim), The Public Health and Welfare.
 
-Federal Power Commission terminated and its functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
+The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.

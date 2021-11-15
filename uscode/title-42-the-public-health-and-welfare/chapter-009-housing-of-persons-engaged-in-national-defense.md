@@ -30,6 +30,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 Functions of Public Housing Administration and Housing and Home Finance Agency (of which Public Housing Administration was a constituent agency) and of heads thereof transferred to Secretary of Housing and Urban Development by Pub. L. 89–174, § 5(a), Sept. 9, 1965, 79 Stat. 669, which is classified to [section 3534(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3534/a&num=0&edition=prelim). Section 9(c) of such act, set out as a note under [section 3531 of this title](./chapter-044-department-of-housing-and-urban-development.md#section-3531), provided that references to Housing and Home Finance Agency or to any agency or officer therein are to be deemed to mean Secretary of Housing and Urban Development and that Housing and Home Finance Agency and Public Housing Administration have lapsed.
 
+#### Transfer of Functions
 United States Housing Authority consolidated into Housing and Home Finance Agency by Reorg. Plan No. 3 of 1947, § 1, eff. July 27, 1947, 12 F.R. 4981, 61 Stat. 954, set out in the Appendix to Title 5, Government Organization and Employees, and name of Authority changed to Public Housing Administration by section 4(a) of such Plan. Section 9 of Reorg. Plan No. 3 of 1947 abolished office of Administrator of United States Housing Authority, whose functions were transferred by section 4 of such Plan to Public Housing Commissioner.
 
 
@@ -49,11 +50,11 @@ The Act of Congress approved March 1, 1929, referred to in subsec. (b), is act M
 #### Codification
 In subsec. (b), “sections 3111 and 3112 of title 40” substituted for “section 355 of the Revised Statutes”, “[section 1302 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section1302&num=0&edition=prelim)” substituted for “section 321 of the Act of June 30, 1932 (U.S.C. 1934 edition, title 40, sec. 303b)”, and “sections 3114 to 3116 and 3118 of title 40” substituted for “the Act of Congress approved February 26, 1931 (46 Stat. 1421)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
-#### Change of Name
-Department of the Air Force inserted to conform to act July 26, 1947, ch. 343, title II, § 207(a), (f), 61 Stat. 502, 503, and Secretary of Defense Transfer Order No. 40 [App. A(75)], July 22, 1949. Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by act July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501. Sections 205(a) and 207(a), (f) of act July 26, 1947, were repealed by act Aug. 10, 1956, ch. 1041, § 53, 70A Stat. 641. Act Aug. 10, 1956, ch. 1041, § 1, 70A Stat. 1, enacted “Title 10, Armed Forces”, which in sections 3010 to 3013 and 8010 to 8013 continued Departments of the Army and Air Force under administrative supervision of Secretary of the Army and Secretary of the Air Force, respectively.
-
 #### Amendments
 1942—Subsec. (a). Act Oct. 26, 1942, inserted “officers,” after “rental to the” in first sentence.
+
+#### Change of Name
+Department of the Air Force inserted to conform to act July 26, 1947, ch. 343, title II, § 207(a), (f), 61 Stat. 502, 503, and Secretary of Defense Transfer Order No. 40 [App. A(75)], July 22, 1949. Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by act July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501. Sections 205(a) and 207(a), (f) of act July 26, 1947, were repealed by act Aug. 10, 1956, ch. 1041, § 53, 70A Stat. 641. Act Aug. 10, 1956, ch. 1041, § 1, 70A Stat. 1, enacted “Title 10, Armed Forces”, which in sections 3010 to 3013 and 8010 to 8013 continued Departments of the Army and Air Force under administrative supervision of Secretary of the Army and Secretary of the Air Force, respectively.
 
 #### Transfer of Functions
 For transfer of functions to Secretary of Housing and Urban Development, see note set out under [section 1501 of this title](./chapter-009-housing-of-persons-engaged-in-national-defense.md#section-1501).
@@ -167,19 +168,20 @@ Subchapter III of this chapter, referred to in text, was comprised of sections 1
 
 Subchapter VI of this chapter, referred to in text, was comprised of sections 1571 to 1576 of this title. Sections 1571 and 1573 have been omitted from the Code pursuant to the time limitation set out in act July 3, 1952, ch. 570, § 1(a)(12), (21), 66 Stat. 332, as amended by act Mar. 31, 1953, ch. 13, § 1, 67 Stat. 18. Sections 1572 and 1575 were omitted upon the termination of sections 1571 and 1573. Section 1574 was repealed by act Oct. 31, 1951, ch. 654, § 1(113), 65 Stat. 706. Section 1576 was omitted from the Code as not having been repeated in subsequent appropriation acts.
 
-#### Change of Name
-Department of the Air Force inserted on authority of act July 26, 1947, ch. 343, title II, § 207(a), (f), 61 Stat. 502, 503. Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by act July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501. Sections 205(a) and 207(a), (f) of act July 26, 1947, were repealed by act Aug. 10, 1956, ch. 1041, § 53, 70A Stat. 641. Act Aug. 10, 1956, ch. 1041, § 1, 70A Stat. 1, enacted “Title 10, Armed Forces”, which in sections 3010 to 3013 and 8010 to 8013 continued Departments of the Army and Air Force under administrative supervision of Secretary of the Army and Secretary of the Air Force, respectively.
-
 #### Amendments
 1950—Act Apr. 20, 1950, substituted “Housing and Home Finance Administrator” for “National Housing Administrator”.
 
 1942—Act Jan. 21, 1942, inserted cl. (a)(4) and proviso.
+
+#### Change of Name
+Department of the Air Force inserted on authority of act July 26, 1947, ch. 343, title II, § 207(a), (f), 61 Stat. 502, 503. Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by act July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501. Sections 205(a) and 207(a), (f) of act July 26, 1947, were repealed by act Aug. 10, 1956, ch. 1041, § 53, 70A Stat. 641. Act Aug. 10, 1956, ch. 1041, § 1, 70A Stat. 1, enacted “Title 10, Armed Forces”, which in sections 3010 to 3013 and 8010 to 8013 continued Departments of the Army and Air Force under administrative supervision of Secretary of the Army and Secretary of the Air Force, respectively.
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
 Functions of Housing and Home Finance Agency transferred to Secretary of Housing and Urban Development by Pub. L. 89–174, § 5(a), Sept. 9, 1965, 79 Stat. 669, which is classified to [section 3534(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3534/a&num=0&edition=prelim). Section 9(c) of such act, set out as a note under [section 3531 of this title](./chapter-044-department-of-housing-and-urban-development.md#section-3531), provided that references to Housing and Home Finance Agency or to any agency or officer therein are to be deemed to mean Secretary of Housing and Urban Development and that Housing and Home Finance Agency has lapsed.
 
+#### Transfer of Functions
 Functions of Federal Works Administrator relating to defense housing consolidated with other agencies into National Housing Agency during World War II by Ex. Ord. No. 9070.
 
 
@@ -240,6 +242,7 @@ Department of the Air Force inserted to conform to act July 26, 1947, ch. 343, t
 #### Transfer of Functions
 For transfer of functions to Secretary of Housing and Urban Development, see note set out under [section 1522 of this title](./chapter-009-housing-of-persons-engaged-in-national-defense.md#section-1522).
 
+#### Transfer of Functions
 Functions of Federal Works Administrator relating to defense housing consolidated with other agencies into National Housing Agency during World War II by Ex. Ord. No. 9070.
 
 
@@ -273,6 +276,7 @@ Acts Apr. 25, 1945, ch. 95, title I, 59 Stat. 80; July 3, 1945, ch. 264, §§ 2,
 
 ### Statutory Notes
 
+#### Codification
 Section, acts Oct. 14, 1940, ch. 862, title III, § 301, formerly § 4, 54 Stat. 1127; renumbered title III, § 301, and amended June 28, 1941, ch. 260, § 4(a), 55 Stat. 363; Apr. 10, 1942, ch. 239, § 1, 56 Stat. 212, which provided that when President declared that emergency declared by him on Sept. 8, 1939, ceased to exist, the authority contained in sections 1521, 1532, 1561, and 1562 of this title terminate and that property acquired or constructed under subchapters II to VII of this subchapter be disposed of as promptly as advantageous under circumstances and in public interest, was omitted pursuant to act July 3, 1952, ch. 570, § 1(a)(12), 66 Stat. 332, as amended by act Mar. 31, 1953, ch. 13, § 1, 67 Stat. 18, which provided that this section continue in force until six months after the national emergency proclaimed by the President on Dec. 16, 1950 by Proc. No. 2914, 15 F.R. 9029, 64 Stat. a. 454, set out as a note preceding [section 1 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1&num=0&edition=prelim), War and National Defense, or on such earlier date or dates as approved by Congress, but in no event beyond July 1, 1953.
 
 
@@ -292,6 +296,7 @@ Subchapters III and VI of this chapter, referred to in text, were comprised of s
 #### Transfer of Functions
 For transfer of functions to Secretary of Housing and Urban Development, see note set out under [section 1522 of this title](./chapter-009-housing-of-persons-engaged-in-national-defense.md#section-1522).
 
+#### Transfer of Functions
 Functions of Federal Works Administrator relating to defense housing consolidated with other agencies into National Housing Agency during World War II by Ex. Ord. No. 9070.
 
 
@@ -330,6 +335,7 @@ Department of the Air Force inserted to conform to act July 26, 1947, ch. 343, t
 #### Transfer of Functions
 For transfer of functions to Secretary of Housing and Urban Development, see note set out under [section 1522 of this title](./chapter-009-housing-of-persons-engaged-in-national-defense.md#section-1522).
 
+#### Transfer of Functions
 Functions of Federal Works Administrator relating to defense housing consolidated with other agencies into National Housing Agency during World War II by Ex. Ord. No. 9070.
 
 
@@ -365,6 +371,7 @@ Act Jan. 21, 1942, amended section generally.
 #### Transfer of Functions
 For transfer of functions to Secretary of Housing and Urban Development, see note set out under [section 1522 of this title](./chapter-009-housing-of-persons-engaged-in-national-defense.md#section-1522).
 
+#### Transfer of Functions
 Functions of Federal Works Administrator relating to defense housing consolidated with other agencies into National Housing Agency during World War II by Ex. Ord. No. 9070.
 
 
@@ -389,6 +396,7 @@ Words “including any Territory or possession of the United States” were inse
 #### Transfer of Functions
 For transfer of functions to Secretary of Housing and Urban Development, see note set out under [section 1522 of this title](./chapter-009-housing-of-persons-engaged-in-national-defense.md#section-1522).
 
+#### Transfer of Functions
 Functions of Federal Works Administrator relating to defense housing consolidated with other agencies into National Housing Agency during World War II by Ex. Ord. No. 9070.
 
 
@@ -408,6 +416,7 @@ Subchapters III and VI of this chapter, referred to in text, were comprised of s
 #### Transfer of Functions
 For transfer of functions to Secretary of Housing and Urban Development, see note set out under [section 1522 of this title](./chapter-009-housing-of-persons-engaged-in-national-defense.md#section-1522).
 
+#### Transfer of Functions
 Functions of Federal Works Administrator relating to defense housing consolidated with other agencies into National Housing Agency during World War II by Ex. Ord. No. 9070.
 
 
@@ -460,6 +469,7 @@ The provisions of Public Laws 9 and 73, referred to in text, are not classified 
 #### Transfer of Functions
 For transfer of functions to Secretary of Housing and Urban Development, see note set out under [section 1522 of this title](./chapter-009-housing-of-persons-engaged-in-national-defense.md#section-1522).
 
+#### Transfer of Functions
 Functions of Federal Works Administrator relating to defense housing consolidated with other agencies into National Housing Agency during World War II by Ex. Ord. No. 9070.
 
 
@@ -523,6 +533,7 @@ Functions of Housing and Home Finance Agency transferred to Secretary of Housing
 
 Functions under sections 1531 to 1534 of this title transferred from Federal Works Administrator to Administrator of General Services by act June 30, 1949, ch. 288, title I, § 103(a), 63 Stat. 380, which was classified to section 753(a) of former Title 40, Public Buildings, Property, and Works, and subsequently transferred to Housing and Home Finance Administrator by Reorg. Plan No. 17 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3177, 64 Stat. 1269, set out in the Appendix to Title 5, Government Organization and Employees.
 
+#### Transfer of Functions
 Functions of Federal Works Administrator relating to defense housing consolidated with other agencies into National Housing Agency during World War II by Ex. Ord. No. 9070.
 
 
@@ -986,9 +997,10 @@ The United States Housing Act of 1937, referred to in subsecs. (d), (f), and (g)
 #### Transfer of Functions
 In subsec. (a), “Council of the District of Columbia” substituted for “District of Columbia Council” pursuant to Pub. L. 93–198, title IV, § 401, Dec. 24, 1973, 87 Stat. 785. District of Columbia Council, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, § 711, Dec. 24, 1973, 87 Stat. 818, and replaced by Council of District of Columbia, as provided by section 401 of Pub. L. 93–198.
 
-Previously, reference to Board of Commissioners of District of Columbia had been changed to District of Columbia Council pursuant to section 402(432) of Reorganization Plan No. 3 of 1967, 32 F.R. 11669, eff. Nov. 3, 1967, set out in the Appendix to Title 5, Government Organization and Employees, which transferred the regulatory and other functions of Board of Commissioners relating to functions under this subchapter previously vested in Board of Commissioners pursuant to this section to District of Columbia Council, subject to the right of the Commissioner as provided by section 406 of the Plan. For provisions establishing District of Columbia Council, see section 201 of the Reorg. Plan No. 3 of 1967.
-
 For transfer of functions to Secretary of Housing and Urban Development, see note set out under [section 1581 of this title](./chapter-009-housing-of-persons-engaged-in-national-defense.md#section-1581).
+
+#### Transfer of Functions
+Previously, reference to Board of Commissioners of District of Columbia had been changed to District of Columbia Council pursuant to section 402(432) of Reorganization Plan No. 3 of 1967, 32 F.R. 11669, eff. Nov. 3, 1967, set out in the Appendix to Title 5, Government Organization and Employees, which transferred the regulatory and other functions of Board of Commissioners relating to functions under this subchapter previously vested in Board of Commissioners pursuant to this section to District of Columbia Council, subject to the right of the Commissioner as provided by section 406 of the Plan. For provisions establishing District of Columbia Council, see section 201 of the Reorg. Plan No. 3 of 1967.
 
 
 <a id="section-1591"></a>
@@ -1320,6 +1332,7 @@ This Act, referred to in text, means act Sept. 1, 1951, ch. 378, 65 Stat. 293, a
 #### Transfer of Functions
 For transfer of functions to Secretary of Housing and Urban Development, see note set out under [section 1581 of this title](./chapter-009-housing-of-persons-engaged-in-national-defense.md#section-1581).
 
+#### Transfer of Functions
 Functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau of the Budget transferred to President of United States by section 101 of Reorg. Plan. No. 2, of 1970, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, set out in the Appendix to Title 5, Government Organization and Employees. Section 102 of Reorg. Plan No. 2, of 1970, redesignated Bureau of the Budget as Office of Management and Budget.
 
 #### Ex. Ord. No. 10296. Performance of Defense Housing Functions
@@ -1392,8 +1405,11 @@ Notwithstanding any other provision of this subchapter, all functions, powers, a
 
 ### Statutory Notes
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Transfer of Functions
-Office of Surgeon General abolished by section 3 of 1966 Reorg. Plan No. 3 eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of 1966 Reorg. Plan. No. 3, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
+Office of Surgeon General abolished by section 3 of 1966 Reorg. Plan No. 3 eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of 1966 Reorg. Plan. No. 3, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
 
 
 <a id="section-1593-to-1593d"></a>
@@ -1430,7 +1446,7 @@ For transfer of functions to Secretary of Housing and Urban Development, see not
 
 <a id="section-1594"></a>
 ## § 1594. Contracts for construction
-**(a) Contract provisions; competitive bids** The Secretary of Defense or his designee is authorized to enter into contracts with any eligible bidder to provide for the construction of urgently needed housing on lands owned or leased by the United States and situated on or near a military reservation or installation for the purpose of providing suitable living accommodations for military personnel of the armed services assigned to duty at the military installation at or in the area where the housing is situated. Any such contract shall provide that each housing unit in the project shall be placed under the control of the Secretary of Defense, or his designee, as soon as the unit is available for occupancy as determined by the Secretary of Housing and Urban Development. Any such contract shall also provide that, except for stock held by the Secretary of Housing and Urban Development, the capital stock of the mortgagor (where the mortgagor is a corporation) be transferred to the Secretary of Defense, or his designee, when the housing has been completed as determined by the Secretary of Housing and Urban Development. Any such contract shall contain such terms and conditions as the Secretary of Defense may determine to be necessary to protect the interests of the United States. Any such contract shall provide for the furnishing by the contractor of a performance bond and a payment bond with a surety or sureties satisfactory to the Secretary of Defense, or his designee, and the furnishing of such bonds shall be deemed a sufficient compliance with the provisions of [section 3131 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section3131&num=0&edition=prelim), and no additional bonds shall be required under such section. Before the Secretary of Defense shall enter into any contract as authorized by this section for the construction of housing, he shall invite the submission of competitive bids after advertising in the manner prescribed in [section 2305 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2305&num=0&edition=prelim).
+**(a) Contract provisions; competitive bids** The Secretary of Defense or his designee is authorized to enter into contracts with any eligible bidder to provide for the construction of urgently needed housing on lands owned or leased by the United States and situated on or near a military reservation or installation for the purpose of providing suitable living accommodations for military personnel of the armed services assigned to duty at the military installation at or in the area where the housing is situated. Any such contract shall provide that each housing unit in the project shall be placed under the control of the Secretary of Defense, or his designee, as soon as the unit is available for occupancy as determined by the Secretary of Housing and Urban Development. Any such contract shall also provide that, except for stock held by the Secretary of Housing and Urban Development, the capital stock of the mortgagor (where the mortgagor is a corporation) be transferred to the Secretary of Defense, or his designee, when the housing has been completed as determined by the Secretary of Housing and Urban Development. Any such contract shall contain such terms and conditions as the Secretary of Defense may determine to be necessary to protect the interests of the United States. Any such contract shall provide for the furnishing by the contractor of a performance bond and a payment bond with a surety or sureties satisfactory to the Secretary of Defense, or his designee, and the furnishing of such bonds shall be deemed a sufficient compliance with the provisions of [section 3131 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section3131&num=0&edition=prelim), and no additional bonds shall be required under such section. Before the Secretary of Defense shall enter into any contract as authorized by this section for the construction of housing, he shall invite the submission of competitive bids after advertising in the manner prescribed in chapters 221 and 241 of title 10.
 
 **(b) “Eligible bidder” defined** For the purposes of this subchapter, the term “eligible bidder” means a person, partnership, firm, or corporation determined by the Secretary of Defense after consultation with the Secretary of Housing and Urban Development (1) to be qualified by experience and financial responsibility to construct housing of the type described in subsection (a) of this section, and (2) to have submitted the lowest acceptable bid.
 
@@ -1448,9 +1464,9 @@ The National Housing Act, referred to in subsecs. (c) and (d), is act June 27, 1
 #### Codification
 In subsec. (a), “[section 3131 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section3131&num=0&edition=prelim)” substituted for “section 1 of the Act of August 24, 1935 (49 Stat. 793)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
-In subsec. (a), “[section 2305 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2305&num=0&edition=prelim)” substituted for “section 3 of the Armed Forces Procurement Act of 1947” on authority of act Aug. 10, 1956, ch. 1041, § 49(b), 70A Stat. 640, the first section of which enacted Title 10, Armed Forces. Prior to enactment of Title 10, section 3 of the Armed Forces Procurement Act of 1947 was classified to section 152 of former Title 41, Public Contracts.
-
 #### Amendments
+2021—Subsec. (a). Pub. L. 117–81 substituted “chapters 221 and 241 of title 10” for “[section 2305 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2305&num=0&edition=prelim)”.
+
 1967—Subsecs. (a) to (c). Pub. L. 90–19, § 12(d), substituted “Secretary of Housing and Urban Development” for “Commissioner” wherever appearing.
 
 Subsec. (a). Pub. L. 90–19, § 12(h)(1), substituted “Secretary of Defense” for “Secretary” in fourth and sixth sentences.
@@ -1679,4 +1695,4 @@ Section 1594k, Pub. L. 88–174, title V, § 507, Nov. 7, 1963, 77 Stat. 326; Pu
 Repeal effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing before, on, or after such date, see section 12(a) of Pub. L. 97–214, set out as an Effective Date note under [section 2801 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2801&num=0&edition=prelim), Armed Forces.
 
 #### Savings Provision
-Pub. L. 97–214, § 9(b), July 12, 1982, 96 Stat. 174, provided that: “The Secretary of Defense may continue in effect any agreement guaranteeing rental returns to builders or other sponsors of family housing in foreign countries that was made under section 507 of the Military Construction Authorization Act, 1964 ([42 U.S.C. 1594k](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1594k&num=0&edition=prelim)), before the effective date of this Act [Oct. 1, 1982] and may exercise any option of the United States in any such agreement that has not been exercised before such date.”
+Pub. L. 97–214, § 9(b), July 12, 1982, 96 Stat. 174, provided that the Secretary of Defense could continue in effect any agreement guaranteeing rental returns to builders or other sponsors of family housing in foreign countries under [section 1594k of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1594k&num=0&edition=prelim) before Oct. 1, 1982, and may exercise any option of the United States in any such agreement that has not been exercised before such date.

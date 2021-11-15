@@ -194,7 +194,9 @@ Pub. L. 113–291, div. A, title X, § 1073(a)(3), Dec. 19, 2014, 128 Stat. 3518
 
 (9) Information on the extent to which units of the armed forces have removed serviceable parts, supplies, or equipment from one vehicle, vessel, or aircraft in order to render a different vehicle, vessel, or aircraft operational.
 
-(10) Such other information as determined necessary or appropriate by the Secretary of Defense.
+(10) Information regarding the extent to which any member of the armed forces is assigned or detailed outside the member’s unit or away from training in order to perform any function that had previously been performed by civilian employees of the Federal Government.
+
+(11) Such other information as determined necessary or appropriate by the Secretary of Defense.
 
 **(c) Consideration of Readiness Assessments.—** The information required under subsection (b) to be included in the report for a quarter shall be based on readiness assessments that are provided during that quarter—
 
@@ -223,6 +225,8 @@ Pub. L. 113–291, div. A, title X, § 1073(a)(3), Dec. 19, 2014, 128 Stat. 3518
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (b)(10), (11). Pub. L. 117–81 added par. (10) and redesignated former par. (10) as (11).
+
 2019—Pub. L. 116–92, § 361(b)(1), substituted “Readiness reports” for “Quarterly reports: personnel and unit readiness” in section catchline.
 
 Subsec. (a). Pub. L. 116–92, § 361(b)(2), in heading substituted “Reports and Briefings” for “Quarterly Reports Required” and in text designated existing provisions as par. (1), substituted “the second and fourth quarter of each calendar year” for “each calendar-year quarter”, substituted “The Secretary of Defense shall submit each such report in writing and shall also submit a copy of each such report to the Chairman of the Joint Chiefs of Staff.” for “The reports for the first and third quarters of a calendar year shall contain the information required by subsections (b), (d), (e), (f), and (g). The reports for the second and fourth quarters of a calendar year shall contain the information required by subsection (j).”, and added pars. (2) and (3).
@@ -418,7 +422,7 @@ Pub. L. 105–85, div. A, title III, § 322(d), Nov. 18, 1997, 111 Stat. 1675, p
 
 (2) The term “major headquarters” means the headquarters of a military unit or command that is the appropriate command of a general officer or flag officer.
 
-(3) The term “major weapon system” means a weapon system that is treatable as a major system under section 2302(5) of title.11 So in original. Probably should be “this title”.
+(3) The term “major weapon system” means a weapon system that is treatable as a major system under [section 3041(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3041/a&num=0&edition=prelim).
 
 (4) The term “military installation” means a base, camp, post, station, yard, center, homeport facility for any ship, or other activity under the jurisdiction of the Department of Defense, including any leased facility, which is located within any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, or Guam. Such term does not include any facility used primarily for civil works, rivers and harbors projects, or flood control projects.
 
@@ -430,9 +434,6 @@ Pub. L. 105–85, div. A, title III, § 322(d), Nov. 18, 1997, 111 Stat. 1675, p
 
 ### Statutory Notes
 
-#### Amendment of Section
-Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, except as otherwise provided in title XVIII of Pub. L. 116–283, in title 10, United States Code, each reference in the text of such title to a source section that is redesignated by title XVIII of Pub. L. 116–283, is amended by striking such reference and inserting a reference to the appropriate section as so redesignated. See 2021 Amendment note below.
-
 #### References in Text
 The National Environmental Policy Act of 1969, referred to in subsec. (f)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
@@ -440,7 +441,9 @@ The National Environmental Policy Act of 1969, referred to in subsec. (f)(1), is
 A prior section 483, added Pub. L. 105–85, div. A, title III, § 323(a), Nov. 18, 1997, 111 Stat. 1675; amended Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, § 1 [[div. A], title III, § 372], Oct. 30, 2000, 114 Stat. 1654, 1654A–80, related to reports on transfers from high-priority readiness appropriations, prior to repeal by Pub. L. 113–66, div. A, title X, § 1084(a)(1)(A), Dec. 26, 2013, 127 Stat. 871.
 
 #### Amendments
-2021—Subsec. (f)(3). Pub. L. 116–283, § 1883(b)(2), substituted “[section 3041 of this title](./chapter-201-definitions.md#section-3041)” for “section 2302(5) of title”.
+2021—Subsec. (f)(3). Pub. L. 117–81 inserted “this” before “title”.
+
+Pub. L. 116–283, § 1883(b)(2), substituted “[section 3041 of this title](./chapter-201-definitions.md#section-3041)” for “section 2302(5) of title”.
 
 #### Effective Date of 2021 Amendment
 Amendment by section 1883(b)(2) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -498,7 +501,7 @@ Pub. L. 112–239, div. A, title IX, § 939(b), Jan. 2, 2013, 126 Stat. 1888, pr
 
 <a id="section-485"></a>
 ## § 485. Monthly counterterrorism operations briefings
-**(a) Briefings Required.—** The Secretary of Defense shall provide to the congressional defense committees monthly briefings outlining Department of Defense counterterrorism operations and related activities.
+**(a) Briefings Required.—** The Secretary of Defense shall provide to the congressional defense committees monthly briefings outlining Department of Defense counterterrorism operations and related activities, including the use of military force under the notion of collective self-defense of foreign partners.
 
 **(b) Elements.—** Each briefing under subsection (a) shall include each of the following:
 
@@ -516,17 +519,61 @@ Pub. L. 112–239, div. A, title IX, § 939(b), Jan. 2, 2013, 126 Stat. 1888, pr
 A prior section 485, added Pub. L. 105–261, div. A, title IX, § 923(b)(1), Oct. 17, 1998, 112 Stat. 2105; amended Pub. L. 106–65, div. A, title IX, § 931, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 726, 774; Pub. L. 107–107, div. A, title IX, § 922, Dec. 28, 2001, 115 Stat. 1198; Pub. L. 110–417, [div. A], title II, § 241(a), Oct. 14, 2008, 122 Stat. 4395, related to biennial reports on joint and service concept development and experimentation, prior to repeal by Pub. L. 112–81, div. A, title X, § 1061(7)(A), Dec. 31, 2011, 125 Stat. 1583.
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 117–81 inserted “, including the use of military force under the notion of collective self-defense of foreign partners” after “activities”.
+
 2016—Pub. L. 114–328, § 1031(b), substituted “Monthly” for “Quarterly” in section catchline.
 
 Subsec. (a). Pub. L. 114–328, § 1031(a), substituted “monthly” for “quarterly”.
 
 
 <a id="section-486"></a>
-## § 486. Repealed. Pub. L. 112–81, div. A, title X, § 1061(8)(A), Dec. 31, 2011, 125 Stat. 1583]
+## § 486. Annual reports on racial and ethnic demographics in the military justice system
+**(a) In General.—** Not later than March 1 of each year, the Secretary of each military department shall submit to the Secretary of Defense a report on racial, ethnic, and sex demographics in the military justice system during the preceding year. In the case of the Secretary of the Navy, separate reports shall be prepared for the Navy and for the Marine Corps. In the case of the Secretary of the Air Force, separate reports shall be prepared for the Air Force and for the Space Force.
+
+**(b) Contents.—** The report of a Secretary of a military department for an armed force under subsection (a) shall contain, to the extent possible, statistics on offenses under chapter 47 of this title (the Uniform Code of Military Justice), during the year covered by the report, including—
+
+(1) the number of offenses in the armed force that were reported to military officials, disaggregated by—
+
+  (A) statistical category as related to the victim; and
+
+  (B) statistical category as related to the principal;
+
+(2) the number of offenses in the armed forces that were investigated, disaggregated by statistical category as related to the principal;
+
+(3) the number of offenses in which administrative action was imposed, disaggregated by statistical category as related to the principal and each type of administrative action imposed;
+
+(4) the number of offenses in which non judicial punishment was imposed under [section 815 of this title](./chapter-047-uniform-code-of-military-justice.md#section-815) (article 15 of the Uniform Code of Military Justice), disaggregated by statistical category as related to the principal;
+
+(5) the number of offenses in which charges were preferred, disaggregated by statistical category as related to the principal;
+
+(6) the number of offenses in which charges were referred to court-martial, disaggregated by statistical category as related to the principal and type of court-martial;
+
+(7) the number of offenses which resulted in conviction at court-martial, disaggregated by statistical category as related to the principal and type of court-martial; and
+
+(8) the number of offenses which resulted in acquittal at court-martial, disaggregated by statistical category as related to the principal and type of court-martial.
+
+**(c) Submission to Congress.—** Not later than April 30 of each year in which the Secretary of Defense receives reports under subsection (a), the Secretary of Defense shall forward the reports to the Committees on Armed Services of the Senate and the House of Representatives.
+
+**(e) 11 So in original. There is no subsec. (d). Definitions.—** In this section:
+
+(1) The term “statistical category” means each of the following categories:
+
+  (A) race;
+
+  (B) sex;
+
+  (C) ethnicity;
+
+  (D) rank; and
+
+  (E) offense enumerated under chapter 47 of this title (the Uniform Code of Military Justice).
+
+(2) The term “principal” has the meaning given that term in [section 877 of this title](./chapter-047-uniform-code-of-military-justice.md#section-877) (article 77 of the Uniform Code of Military Justice).
 
 ### Statutory Notes
 
-Section, added Pub. L. 106–65, div. A, title II, § 241(a)(1), Oct. 5, 1999, 113 Stat. 549, related to quadrennial report on emerging operational concepts.
+#### Prior Provisions
+A prior section 486, added Pub. L. 106–65, div. A, title II, § 241(a)(1), Oct. 5, 1999, 113 Stat. 549, related to quadrennial report on emerging operational concepts, prior to repeal by Pub. L. 112–81, div. A, title X, § 1061(8)(A), Dec. 31, 2011, 125 Stat. 1583.
 
 
 <a id="section-487"></a>

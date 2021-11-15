@@ -549,7 +549,7 @@ Pub. L. 115–265, title II, § 210, Oct. 11, 2018, 132 Stat. 3748, which requir
 Pub. L. 114–120, title II, § 204(c), Feb. 8, 2016, 130 Stat. 35, as amended by Pub. L. 115–282, title VIII, § 818(b)(2), Dec. 4, 2018, 132 Stat. 4308, provided that: “Not later than 1 year after the date of the enactment of this Act [Feb. 8, 2016], the Commandant of the Coast Guard shall— “[(1) Repealed. Pub. L. 115–282, title VIII, § 818(b)(2), Dec. 4, 2018, 132 Stat. 4308.] “(2) notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate of the standard implemented under paragraph (1).”
 
 #### Report on Sexual Assaults in the Coast Guard
-Pub. L. 111–281, title II, § 217, Oct. 15, 2010, 124 Stat. 2917, as amended by Pub. L. 115–232, div. C, title XXXV, § 3521(a)(2), Aug. 13, 2018, 132 Stat. 2314, which directed the Commandant of the Coast Guard to submit a report on sexual assaults and sexual harassment in the Coast Guard to congressional committees, was redesignated as [section 5112 of this title](./chapter-051-reports.md#section-5112) and transferred to appear after [section 5111 of this title](./chapter-051-reports.md#section-5111) by Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8501(a)(7)(A), (B)(i), Jan. 1, 2021, 134 Stat. 4745.
+Pub. L. 111–281, title II, § 217, Oct. 15, 2010, 124 Stat. 2917, as amended by Pub. L. 115–232, div. C, title XXXV, § 3521(a)(2), Aug. 13, 2018, 132 Stat. 2314, which directed the Commandant of the Coast Guard to submit a report on sexual assaults and sexual harassment in the Coast Guard to congressional committees, was redesignated as [section 5112 of this title](./chapter-051-reports.md#section-5112) and transferred to appear after [section 5111 of this title](./chapter-051-reports.md#section-5111) by Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8501(a)(7)(A), Jan. 1, 2021, 134 Stat. 4745.
 
 #### Marine Vessel and Cold Water Safety Education
 Pub. L. 109–241, title IV, § 405, July 11, 2006, 120 Stat. 535, provided that: “The Coast Guard shall continue cooperative agreements and partnerships with organizations in effect on the date of enactment of this Act [July 11, 2006] that provide marine vessel safety training and cold water immersion education and outreach programs for fishermen and children.”
@@ -1051,9 +1051,6 @@ A prior section 541 was renumbered [section 2903 of this title](./chapter-029-co
 #### Effective Date of 1958 Amendment
 Pub. L. 85–726, title XV, § 1505(2), Aug. 23, 1958, 72 Stat. 810, provided that the amendment made by Pub. L. 85–726 is effective on 60th day following date on which Administrator of Federal Aviation Agency [Federal Aviation Administration] first appointed under Pub. L. 85–726 qualifies and takes office. Administrator appointed, qualified, and took office on Oct. 31, 1958.
 
-#### Termination of Trust Territory of the Pacific Islands
-For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
-
 #### Discontinuance of an Aid to Navigation
 Pub. L. 114–120, title II, § 210, Feb. 8, 2016, 130 Stat. 41, provided that: “(a) In General.—Not later than 180 days after the date of the enactment of this Act [Feb. 8, 2016], the Secretary of the department in which the Coast Guard is operating shall establish a process for the discontinuance of an aid to navigation (other than a seasonal or temporary aid) established, maintained, or operated by the Coast Guard. “(b) Requirement.—The process established under subsection (a) shall include procedures to notify the public of any discontinuance of an aid to navigation described in that subsection. “(c) Consultation.—In establishing a process under subsection (a), the Secretary shall consult with and consider any recommendations of the Navigation Safety Advisory Council. “(d) Notification.—Not later than 30 days after establishing a process under subsection (a), the Secretary shall notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate of the process established.”
 
@@ -1068,6 +1065,9 @@ Pub. L. 97–322, title I, § 105(b), Oct. 15, 1982, 96 Stat. 1582, provided tha
 
 #### Contractual Authority Dependent Upon Availability of Appropriated Funds
 Pub. L. 97–322, title I, § 105(c), Oct. 15, 1982, 96 Stat. 1582, provided that: “Any authority to enter into contracts provided in this section [amending this section and enacting provision set out as Report to Congress; Contractual Authority; Increase in Ratio of Civilian to Military Employees note under this section] shall be available only to the extent that appropriated funds are available for that purpose.”
+
+#### Termination of Trust Territory of the Pacific Islands
+For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
 
 #### Ex. Ord. No. 7521. Use of Vessels for Ice-Breaking Operations in Channels and Harbors
 Ex. Ord. No. 7521, Dec. 21, 1936, 1 F.R. 2527, provided:
@@ -1281,7 +1281,7 @@ Prior sections 551 to 555 were renumbered sections 2921 to 2925 of this title, r
 
 (1) **In general.—** — Subject to the availability of appropriations, the Commandant shall conduct an enhanced maintenance program on the Polar Star 11 So in original. “Polar Star” probably should be italicized. to extend the service life of such vessel until at least December 31, 2025.
 
-(2) **Authorization of appropriations.—** — The Commandant may use funds made available pursuant to section 4902(1)(A), to carry out this subsection.T
+(2) **Authorization of appropriations.—** — The Commandant may use funds made available pursuant to section 4902(1)(A), to carry out this subsection.
 
 **(g) Definitions.—** In this section:
 

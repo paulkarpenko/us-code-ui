@@ -2,7 +2,7 @@
 title: 46
 chapter: '121'
 heading: DOCUMENTATION OF VESSELS
-section_count: 30
+section_count: 31
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46&num=0&edition=prelim
 ---
@@ -171,11 +171,9 @@ A prior section 12104, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 586; Pub. L. 99�
 
 (2) **Recreational vessels.—**
 
-  (A) *In general.—* — A certificate of documentation for a recreational vessel and the renewal of such a certificate shall be effective for a 5-year period.
+  (A) *In general.—* — The owner or operator of a recreational vessel may choose a period of effectiveness of between 1 and 5 years for a certificate of documentation for a recreational vessel or the renewal thereof.
 
-  (B) *Phase-in period.—* — During the period beginning January 1, 2019, and ending December 31, 2021, the owner or operator of a recreational vessel may choose a period of effectiveness of between 1 and 5 years for such a certificate of documentation for such vessel or the renewal thereof.
-
-  (C) *Fees.—*
+  (B) *Fees.—*
 
     (i) *Requirement.—* — The Secretary shall assess and collect a fee—
 
@@ -213,6 +211,10 @@ In subsection (b), the words “eligible under” are substituted for “if the 
 A prior section 12105, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 586; Pub. L. 100–710, title I, § 104(a)(4), Nov. 23, 1988, 102 Stat. 4750; Pub. L. 101–225, title III, § 301(a)(5), Dec. 12, 1989, 103 Stat. 1920; Pub. L. 109–241, title III, § 310, July 11, 2006, 120 Stat. 529, originally derived from section 65h of former Title 46, Shipping, related to registry endorsements, prior to the general amendment of this chapter by Pub. L. 109–304. See [section 12111 of this title](./chapter-121-documentation-of-vessels.md#section-12111).
 
 #### Amendments
+2021—Subsec. (e)(2)(A). Pub. L. 117–81, § 3511(1), added subpar. (A) and struck out former subpar. (A), which read as follows: “In general.—A certificate of documentation for a recreational vessel and the renewal of such a certificate shall be effective for a 5-year period.”
+
+Subsec. (e)(2)(B), (C). Pub. L. 117–81, § 3511, redesignated subpar. (C) as (B) and struck out former subpar. (B), which read as follows: “Phase-in period.—During the period beginning January 1, 2019, and ending December 31, 2021, the owner or operator of a recreational vessel may choose a period of effectiveness of between 1 and 5 years for such a certificate of documentation for such vessel or the renewal thereof.”
+
 2018—Subsec. (e). Pub. L. 115–282 added subsec. (e).
 
 #### Certificates of Documentation for Recreational Vessels
@@ -265,6 +267,19 @@ A prior section 12108, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 587; Pub. L. 98�
 A prior section 12109, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 587; Pub. L. 99–36, § 1(a)(7)(C), May 15, 1985, 99 Stat. 67; Pub. L. 99–570, title III, § 3151, Oct. 27, 1986, 100 Stat. 3207–94; Pub. L. 100–710, title I, § 106(b)(5), Nov. 23, 1988, 102 Stat. 4752; Pub. L. 101–225, title III, § 301(a)(9), Dec. 12, 1989, 103 Stat. 1921; Pub. L. 101–595, title VI, § 603(9), Nov. 16, 1990, 104 Stat. 2993, originally derived from section 65l of former Title 46, Shipping, related to recreational endorsements, prior to being omitted in the general amendment of this chapter by Pub. L. 109–304. See [section 12114 of this title](./chapter-121-documentation-of-vessels.md#section-12114).
 
 A prior section 12110, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 588; Pub. L. 99–36, § 1(a)(7)(D), May 15, 1985, 99 Stat. 67; Pub. L. 100–710, title I, § 104(a)(4), Nov. 23, 1988, 102 Stat. 4750; Pub. L. 101–225, title III, § 301(a)(10), Dec. 12, 1989, 103 Stat. 1922; Pub. L. 102–388, title III, § 348(b), Oct. 6, 1992, 106 Stat. 1554; Pub. L. 102–587, title V, § 5213(a)(2), Nov. 4, 1992, 106 Stat. 5077; Pub. L. 104–324, title III, § 301(c), (d)(1), Oct. 19, 1996, 110 Stat. 3916; Pub. L. 108–293, title IV, § 404(a), Aug. 9, 2004, 118 Stat. 1043, originally derived from section 65m of former Title 46, Shipping, related to limitations on operations authorized by certificates, prior to being omitted in the general amendment of this chapter by Pub. L. 109–304. See sections 12102, 12114, and 12131 of this title.
+
+
+<a id="section-12108"></a>
+## § 12108. Authority to extend duration of vessel certificates
+**(a) Certificates.—** Provided a vessel is in compliance with inspection requirements in section 3313, the Secretary of the department in which in the Coast Guard is operating may, if the Secretary makes the determination described in subsection (b), extend, for a period of not more than 1 year, an expiring certificate of documentation issued for a vessel under chapter 121.
+
+**(b) Determination.—** The determination referred to in subsection (a) is a determination that such extension is required to enable the Coast Guard to—
+
+(1) eliminate a backlog in processing applications for such certificates; or
+
+(2) act in response to a national emergency or natural disaster.
+
+**(c) Manner of Extension.—** Any extension granted under this section may be granted to individual vessels or to a specifically identified group of vessels.
 
 
 <a id="section-12111"></a>
@@ -877,13 +892,19 @@ A prior section 12120, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 589; Pub. L. 100
 
 (1) **Eligible vessel.—** — The term “eligible vessel” means a vessel that—
 
-  (A) was not built in the United States and is at least 3 years old; or
+  (A) was built in the United States;
 
-  (B) if rebuilt, was rebuilt outside the United States at least 3 years before the certificate requested under subsection (b) would take effect.
+  (B) was not built in the United States and is at least 3 years old; or
+
+  (C) if rebuilt, was rebuilt—
+
+    (i) in the United States; or
+
+    (ii) outside the United States at least 3 years before the certificate requested under subsection (b) would take effect.
 
 (2) **Small passenger vessel; uninspected passenger vessel; passenger for hire.—** — The terms “small passenger vessel”, “uninspected passenger vessel”, and “passenger for hire” have the meaning given those terms in [section 2101 of this title](./chapter-021-general.md#section-2101).
 
-**(b) Issuance of Certificate and Endorsement.—** Notwithstanding sections 12112, 12113, 55102, and 55103 of this title, the Secretary may issue a certificate of documentation with an appropriate endorsement for employment in the coastwise trade as a small passenger vessel or an uninspected passenger vessel in the case of an eligible vessel authorized to carry no more than 12 passengers for hire if the Secretary of Transportation, after notice and an opportunity for public comment, determines that the employment of the vessel in the coastwise trade will not adversely affect—
+**(b) Issuance of Certificate and Endorsement.—** Notwithstanding sections 12112, 12113, 12132, 55102, and 55103 of this title, the Secretary may issue a certificate of documentation with an appropriate endorsement for employment in the coastwise trade as a small passenger vessel or an uninspected passenger vessel in the case of an eligible vessel authorized to carry no more than 12 passengers for hire if the Secretary of Transportation, after notice and an opportunity for public comment, determines that the employment of the vessel in the coastwise trade will not adversely affect—
 
 (1) United States vessel builders; or
 
@@ -907,6 +928,15 @@ A prior section 12120, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 589; Pub. L. 100
 | 12121 | 46:12106 note. | Pub. L. 105–383, title V, §§ 502–504, Nov. 13, 1998, 112 Stat. 3445; Pub. L. 107–295, title II, § 207(c)(2), Nov. 25, 2002, 116 Stat. 2097. |
 
 The definition of “Secretary” is omitted for consistency in the chapter.
+
+#### Amendments
+2021—Subsec. (a)(1). Pub. L. 116–283, § 8312(1), added subpars. (A) to (C) and struck out former subpars. (A) and (B) which read as follows:
+
+“(A) was not built in the United States and is at least 3 years old; or
+
+“(B) if rebuilt, was rebuilt outside the United States at least 3 years before the certificate requested under subsection (b) would take effect.”
+
+Subsec. (b). Pub. L. 116–283, § 8312(2), inserted “12132,” after “12113,” in introductory provisions.
 
 #### Prior Provisions
 A prior section 12121, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 589, originally derived from section 65v(2) of former Title 46, Shipping, related to the authority of the Secretary to prescribe regulations to carry out this chapter, prior to being repealed by Pub. L. 100–710, title I, §§ 106(b)(5), 107(a), Nov. 23, 1988, 102 Stat. 4752, effective Jan. 1, 1989.

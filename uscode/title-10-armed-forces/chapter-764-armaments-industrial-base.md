@@ -147,7 +147,7 @@ Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L.
 
   (A) enter into contracts, and provide for subcontracts, for terms up to 25 years, as the Secretary considers appropriate and consistent with the needs of the Department of the Army and the goals and purposes of the ARMS Initiative; and
 
-  (B) use procedures that are authorized to be used under [section 2304(c)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304/c/5&num=0&edition=prelim) when the contractor or subcontractor is a source specified in law.
+  (B) use procedures that are authorized to be used under [section 3204(a)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3204/a/5&num=0&edition=prelim) when the contractor or subcontractor is a source specified in law.
 
 **(b) Consideration for Use.—**
 
@@ -171,11 +171,8 @@ Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L.
 
 ### Statutory Notes
 
-#### Amendment of Section
-Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, except as otherwise provided in title XVIII of Pub. L. 116–283, in title 10, United States Code, each reference in the text of such title to a source section that is redesignated by title XVIII of Pub. L. 116–283, is amended by striking such reference and inserting a reference to the appropriate section as so redesignated. See 2021 Amendment note below.
-
 #### Amendments
-2021—Subsec. (a)(3)(B). Pub. L. 116–283 substituted “3204(a)(5)” for “2304(c)(5)”.
+2021—Subsec. (a)(3)(B). Pub. L. 116–283 substituted “section 3204(a)(5)” for “section 2304(c)(5)”.
 
 2018—Pub. L. 115–232 renumbered [section 4554 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4554&num=0&edition=prelim) as this section.
 
@@ -188,7 +185,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Temporary Authority To Extend Contracts and Leases Under the Arms Initiative
-Pub. L. 114–92, div. A, title III, § 343, Nov. 25, 2015, 129 Stat. 794, as amended by Pub. L. 115–232, div. A, title VIII, § 809(b)(9), Aug. 13, 2018, 132 Stat. 1841, provided that: “Contracts or subcontracts entered into pursuant to [section 7554(a)(3)(A) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7554/a/3/A&num=0&edition=prelim), United States Code, on or before the date that is five years after the date of the enactment of this Act [Nov. 25, 2015] may include an option to extend the term of the contract or subcontract for an additional 25 years.”
+Pub. L. 114–92, div. A, title III, § 343, Nov. 25, 2015, 129 Stat. 794, as amended by Pub. L. 115–232, div. A, title VIII, § 809(b)(9), Aug. 13, 2018, 132 Stat. 1841; Pub. L. 117–81, div. A, title III, § 374, Dec. 27, 2021, 135 Stat. 1667, provided that: “Contracts or subcontracts entered into pursuant to [section 7554(a)(3)(A) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7554/a/3/A&num=0&edition=prelim), United States Code, on or before November 25, 2025, may include an option to extend the term of the contract or subcontract for an additional 25 years.”
 
 
 <a id="section-7555"></a>

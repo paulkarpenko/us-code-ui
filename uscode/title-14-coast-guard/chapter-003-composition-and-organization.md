@@ -423,7 +423,7 @@ A prior section 307, act Aug. 4, 1949, ch. 393, 63 Stat. 519, provided for compu
 
     (i) significant cost growth or schedule slippage; and
 
-    (ii) requirements creep (as that term is defined in [section 2547(c)(1) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2547/c/1&num=0&edition=prelim)); and
+    (ii) requirements creep (as that term is defined in [section 3104(c)(1) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3104/c/1&num=0&edition=prelim)); and
 
   (C) ensuring that the views of the Commandant regarding such programs on cost, schedule, technical feasibility, and performance trade-offs are strongly considered by program managers and program executive officers in all phases of the acquisition process.
 
@@ -433,6 +433,8 @@ A prior section 307, act Aug. 4, 1949, ch. 393, 63 Stat. 519, provided for compu
 A prior section 308, act Aug. 4, 1949, ch. 393, 63 Stat. 519, provided for retired pay of warrant officers involuntarily retired under section 307, prior to repeal by act May 29, 1954, ch. 249, § 20(o), 68 Stat. 167, and by Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177.
 
 #### Amendments
+2021—Subsec. (c)(10)(B)(ii). Pub. L. 117–81 substituted “section 3104(c)(1)” for “section 2547(c)(1)”.
+
 2018—Pub. L. 115–282, § 104(b), renumbered [section 56 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section56&num=0&edition=prelim) as this section.
 
 Subsec. (b)(3). Pub. L. 115–282, § 123(c)(4), substituted “chapter 11” for “chapter 15”.
@@ -637,7 +639,7 @@ Subsec. (b)(1)(C). Pub. L. 115–282, § 123(b)(2), substituted “section 504(a
 
 “(3) perform any other missions as the Commandant may specify.”
 
-#### Center of Expertise for Great Lakes Oil Spill Search and Response
+#### Center of Expertise for Great Lakes Oil Spill Preparedness and Response
 Pub. L. 115–282, title VIII, § 807, Dec. 4, 2018, 132 Stat. 4301, provided that: “(a) In General.—Not later than 1 year after the date of enactment of this Act [Dec. 4, 2018], the Commandant of the Coast Guard shall establish a Center of Expertise for Great Lakes Oil Spill Preparedness and Response (referred to in this section as the ‘Center of Expertise’) in accordance with [section 313 of title 14](./chapter-003-composition-and-organization.md#section-313), United States Code, as amended by this Act. “(b) Location.—The Center of Expertise shall be located in close proximity to—“(1) critical crude oil transportation infrastructure on and connecting the Great Lakes, such as submerged pipelines and high-traffic navigation locks; and “(2) an institution of higher education with adequate aquatic research laboratory facilities and capabilities and expertise in Great Lakes aquatic ecology, environmental chemistry, fish and wildlife, and water resources. “(c) Functions.—The Center of Expertise shall—“(1) monitor and assess, on an ongoing basis, the current state of knowledge regarding freshwater oil spill response technologies and the behavior and effects of oil spills in the Great Lakes; “(2) identify any significant gaps in Great Lakes oil spill research, including an assessment of major scientific or technological deficiencies in responses to past spills in the Great Lakes and other freshwater bodies, and seek to fill those gaps; “(3) conduct research, development, testing, and evaluation for freshwater oil spill response equipment, technologies, and techniques to mitigate and respond to oil spills in the Great Lakes; “(4) educate and train Federal, State, and local first responders located in Coast Guard District 9 in—“(A) the incident command system structure; “(B) Great Lakes oil spill response techniques and strategies; and “(C) public affairs; and “(5) work with academic and private sector response training centers to develop and standardize maritime oil spill response training and techniques for use on the Great Lakes. “(d) Definition.—In this section, the term ‘Great Lakes’ means Lake Superior, Lake Michigan, Lake Huron, Lake Erie, and Lake Ontario.”
 
 #### Coast Guard Blue Technology Center of Expertise
@@ -1017,11 +1019,11 @@ A prior section 466, act Aug. 4, 1949, ch. 393, 63 Stat. 531, provided for settl
 
 A prior section 471a, added act Aug. 10, 1956, ch. 1041, § 11(a), 70A Stat. 624, authorized transportation of motor vehicles on permanent change of station, prior to repeal by Pub. L. 87–651, title III, § 307B, Sept. 7, 1962, 76 Stat. 526.
 
-A prior section 472, act Aug. 4, 1949, ch. 393, 63 Stat. 532, related to travel allowance to enlisted men on discharge, prior to repeal by act Aug. 3, 1950, ch. 536, § 36, 64 Stat. 408. See [section 474 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section474&num=0&edition=prelim), Pay and Allowances of the Uniformed Services.
+A prior section 472, act Aug. 4, 1949, ch. 393, 63 Stat. 532, related to travel allowance to enlisted men on discharge, prior to repeal by act Aug. 3, 1950, ch. 536, § 36, 64 Stat. 408.
 
 A prior section 473, act Aug. 4, 1949, ch. 393, 63 Stat. 532, authorized Secretary to discharge underage Coast Guard enlisted personnel with appropriate pay and allowances, such persons to be given subsistence and transportation in kind to their homes, prior to repeal by Pub. L. 97–295, § 2(15)(A), Oct. 12, 1982, 96 Stat. 1302.
 
-A prior section 474, act Aug. 4, 1949, ch. 393, 63 Stat. 532, related to compensation for travel tolls and fares, prior to repeal by act Sept. 1, 1954, ch. 1211, § 5, 68 Stat. 1130. See [section 478 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section478&num=0&edition=prelim), Pay and Allowances of the Uniformed Services.
+A prior section 474, act Aug. 4, 1949, ch. 393, 63 Stat. 532, related to compensation for travel tolls and fares, prior to repeal by act Sept. 1, 1954, ch. 1211, § 5, 68 Stat. 1130.
 
 A prior section 489, act Aug. 4, 1949, ch. 393, 63 Stat. 534, provided for payment of a death gratuity to survivors of officers and enlisted men of Regular Coast Guard, prior to repeal by act Aug. 1, 1956, ch. 837, title V, § 502(8)(A), 70 Stat. 886. See sections 1475 to 1480 of Title 10, Armed Forces.
 

@@ -424,6 +424,26 @@ Notwithstanding the limitation contained in [section 2612(b) of this title](http
 
   (C) *Access* — Purchasers shall be able to access their own information at any time through the Internet and on other means of communication elected by that utility for Smart Grid applications. Other interested persons shall be able to access information not specific to any purchaser through the Internet. Information specific to any purchaser shall be provided solely to that purchaser.
 
+(20) **Demand-response practices**
+
+  (A) *In general* — Each electric utility shall promote the use of demand-response and demand flexibility practices by commercial, residential, and industrial consumers to reduce electricity consumption during periods of unusually high demand.
+
+  (B) *Rate recovery*
+
+    (i) *In general* — Each State regulatory authority shall consider establishing rate mechanisms allowing an electric utility with respect to which the State regulatory authority has ratemaking authority to timely recover the costs of promoting demand-response and demand flexibility practices in accordance with subparagraph (A).
+
+    (ii) *Nonregulated electric utilities* — A nonregulated electric utility may establish rate mechanisms for the timely recovery of the costs of promoting demand-response and demand flexibility practices in accordance with subparagraph (A).
+
+(21) **Electric vehicle charging programs** — Each State shall consider measures to promote greater electrification of the transportation sector, including the establishment of rates that—
+
+  (A) promote affordable and equitable electric vehicle charging options for residential, commercial, and public electric vehicle charging infrastructure;
+
+  (B) improve the customer experience associated with electric vehicle charging, including by reducing charging times for light-, medium-, and heavy-duty vehicles;
+
+  (C) accelerate third-party investment in electric vehicle charging for light-, medium-, and heavy-duty vehicles; and
+
+  (D) appropriately recover the marginal costs of delivering electricity to electric vehicles and electric vehicle charging infrastructure.
+
 ### Statutory Notes
 
 #### References in Text
@@ -432,6 +452,10 @@ This chapter, referred to in subsecs. (a) and (c), was in the original “this t
 [Section 79z–5a of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section79z–5a&num=0&edition=prelim), referred to in subsec. (d)(10)(A)(ii), was repealed by Pub. L. 109–58, title XII, § 1263, Aug. 8, 2005, 119 Stat. 974.
 
 #### Amendments
+2021—Subsec. (d)(20). Pub. L. 117–58, § 40104(a)(1), added par. (20).
+
+Subsec. (d)(21). Pub. L. 117–58, § 40431(a), added par. (21).
+
 2009—Subsec. (d)(16) to (19). Pub. L. 111–5 redesignated par. (16) relating to consideration of smart grid investments as (18) and par. (17) relating to smart grid information as (19).
 
 2007—Subsec. (d)(16), (17). Pub. L. 110–140, § 1307(a), added pars. (16) and (17) relating to consideration of smart grid investments and smart grid information, respectively.
@@ -507,7 +531,19 @@ Pub. L. 95–617, title VI, § 601, Nov. 9, 1978, 92 Stat. 3164, directed the Se
 
   (B) Not later than 2 years after December 19, 2007, each State regulatory authority (with respect to each electric utility for which it has ratemaking authority), and each nonregulated electric utility, shall complete the consideration, and shall make the determination, referred to in [section 2621 of this title](./chapter-046-public-utility-regulatory-policies.md#section-2621) with respect to each standard established by paragraphs (16) through (19) of [section 2621(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d&num=0&edition=prelim).
 
-**(c) Failure to comply** Each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated electric utility shall undertake the consideration, and make the determination, referred to in [section 2621 of this title](./chapter-046-public-utility-regulatory-policies.md#section-2621) with respect to each standard established by [section 2621(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d&num=0&edition=prelim) in the first rate proceeding commenced after the date three years after November 9, 1978, respecting the rates of such utility if such State regulatory authority or nonregulated electric utility has not, before such date, complied with subsection (b)(2) with respect to such standard. In the case of each standard established by paragraphs (11) through (13) of [section 2621(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d&num=0&edition=prelim), the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005. In the case of the standard established by paragraph (14) of [section 2621(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d&num=0&edition=prelim), the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005. In the case of the standard established by paragraph (15),11 So in original. Probably should be “paragraph (15) of [section 2621(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d&num=0&edition=prelim),”. the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005. In the case of the standards established by paragraphs (16) through (19) of [section 2621(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d&num=0&edition=prelim), the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to December 19, 2007.
+(7)
+
+  (A) Not later than 1 year after November 15, 2021, each State regulatory authority (with respect to each electric utility for which the State has ratemaking authority) and each nonregulated electric utility shall commence consideration under [section 2621 of this title](./chapter-046-public-utility-regulatory-policies.md#section-2621), or set a hearing date for consideration, with respect to the standard established by paragraph (20) of [section 2621(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d&num=0&edition=prelim).
+
+  (B) Not later than 2 years after November 15, 2021, each State regulatory authority (with respect to each electric utility for which the State has ratemaking authority), and each nonregulated electric utility shall complete the consideration and make the determination under [section 2621 of this title](./chapter-046-public-utility-regulatory-policies.md#section-2621) with respect to the standard established by paragraph (20) of [section 2621(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d&num=0&edition=prelim).
+
+(8)
+
+  (A) Not later than 1 year after November 15, 2021, each State regulatory authority (with respect to each electric utility for which the State has ratemaking authority) and each nonregulated utility shall commence consideration under [section 2621 of this title](./chapter-046-public-utility-regulatory-policies.md#section-2621), or set a hearing date for consideration, with respect to the standard established by paragraph (21) of [section 2621(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d&num=0&edition=prelim).
+
+  (B) Not later than 2 years after November 15, 2021, each State regulatory authority (with respect to each electric utility for which the State has ratemaking authority), and each nonregulated electric utility shall complete the consideration and make the determination under [section 2621 of this title](./chapter-046-public-utility-regulatory-policies.md#section-2621) with respect to the standard established by paragraph (21) of [section 2621(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d&num=0&edition=prelim).
+
+**(c) Failure to comply** Each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated electric utility shall undertake the consideration, and make the determination, referred to in [section 2621 of this title](./chapter-046-public-utility-regulatory-policies.md#section-2621) with respect to each standard established by [section 2621(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d&num=0&edition=prelim) in the first rate proceeding commenced after the date three years after November 9, 1978, respecting the rates of such utility if such State regulatory authority or nonregulated electric utility has not, before such date, complied with subsection (b)(2) with respect to such standard. In the case of each standard established by paragraphs (11) through (13) of [section 2621(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d&num=0&edition=prelim), the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005. In the case of the standard established by paragraph (14) of [section 2621(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d&num=0&edition=prelim), the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005. In the case of the standard established by paragraph (15) of [section 2621(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d&num=0&edition=prelim), the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005. In the case of the standards established by paragraphs (16) through (19) of [section 2621(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d&num=0&edition=prelim), the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to December 19, 2007. In the case of the standard established by paragraph (20) of [section 2621(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d&num=0&edition=prelim), the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to November 15, 2021. In the case of the standard established by paragraph (21) of [section 2621(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d&num=0&edition=prelim), the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to November 15, 2021.
 
 **(d) Prior State actions relating to standard under certain paragraphs of section 2621(d)** Subsections (b) and (c) of this section shall not apply to the standards established by paragraphs (11) through (13) and paragraphs (16) through (19) of [section 2621(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d&num=0&edition=prelim) in the case of any electric utility in a State if, before August 8, 2005—
 
@@ -533,6 +569,22 @@ Pub. L. 95–617, title VI, § 601, Nov. 9, 1978, 92 Stat. 3164, directed the Se
 
 (3) the State legislature has voted on the implementation of such standard (or a comparable standard) for such utility.
 
+**(g) Prior State actions** Subsections (b) and (c) shall not apply to the standard established by paragraph (20) of [section 2621(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d&num=0&edition=prelim) in the case of any electric utility in a State if, before November 15, 2021—
+
+(1) the State has implemented for the electric utility the standard (or a comparable standard);
+
+(2) the State regulatory authority for the State or the relevant nonregulated electric utility has conducted a proceeding to consider implementation of the standard (or a comparable standard) for the electric utility; or
+
+(3) the State legislature has voted on the implementation of the standard (or a comparable standard) for the electric utility.
+
+**(h) Other prior State actions** Subsections (b) and (c) shall not apply to the standard established by paragraph (21) of [section 2621(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d&num=0&edition=prelim) in the case of any electric utility in a State if, before November 15, 2021—
+
+(1) the State has implemented for the electric utility the standard (or a comparable standard);
+
+(2) the State regulatory authority for the State or the relevant nonregulated electric utility has conducted a proceeding to consider implementation of the standard (or a comparable standard) for the electric utility; or
+
+(3) the State legislature has voted on the implementation of the standard (or a comparable standard) for the electric utility during the 3-year period ending on November 15, 2021.
+
 ### Statutory Notes
 
 #### References in Text
@@ -542,6 +594,20 @@ This chapter, referred to in subsec. (a)(1)(B), was in the original “this titl
 “October 24, 1992”, referred to in subsec. (b)(1), (2), was in the original “the enactment of the Comprehensive National Energy Policy Act”, and was translated as meaning the enactment of the Energy Policy Act of 1992, Pub. L. 102–486, to reflect the probable intent of Congress. The Comprehensive National Energy Policy Act was the original short title of H.R. 776, which was enacted into law on Oct. 24, 1992, as Pub. L. 102–486.
 
 #### Amendments
+2021—Subsec. (b)(7). Pub. L. 117–58, § 40104(a)(2)(A), added par. (7).
+
+Subsec. (b)(8). Pub. L. 117–58, § 40431(b)(1), added par. (8).
+
+Subsec. (c). Pub. L. 117–58, § 40431(b)(2), inserted at end “In the case of the standard established by paragraph (21) of [section 2621(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d&num=0&edition=prelim), the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to November 15, 2021.”
+
+Pub. L. 117–58, § 40104(a)(2)(B)(i), substituted “August 8, 2005. In the case of the standard established by paragraph (15) of [section 2621(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d&num=0&edition=prelim), the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005. In the case of the standards established by paragraphs (16)” for “August 8, 2005. In the case of the standards established by paragraphs (16)” and inserted at end “In the case of the standard established by paragraph (20) of [section 2621(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d&num=0&edition=prelim), the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to November 15, 2021.”
+
+Subsec. (d). Pub. L. 117–58, § 40104(a)(2)(B)(ii), repealed Pub. L. 109–58, § 1254(b)(2). See 2005 Amendment note below.
+
+Subsec. (g). Pub. L. 117–58, § 40104(a)(2)(C)(i), added subsec. (g).
+
+Subsec. (h). Pub. L. 117–58, § 40431(b)(3)(A), added subsec. (h).
+
 2009—Subsecs. (b)(6), (d). Pub. L. 111–5 substituted “(16) through (19)” for “(17) through (18)” wherever appearing.
 
 2007—Subsec. (b)(6). Pub. L. 110–140, § 1307(b)(1), added par. (6).
@@ -556,19 +622,22 @@ Subsec. (b)(4). Pub. L. 109–58, § 1252(g), added par. (4).
 
 Subsec. (b)(5). Pub. L. 109–58, § 1254(b)(1), added par. (5).
 
-Subsec. (c). Pub. L. 109–58, § 1254(b)(2), which directed amendment of subsec. (d) by inserting at end “In the case of the standard established by paragraph (15), the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005.”, was executed by making the insertion in subsec. (c) at end to reflect the probable intent of Congress.
-
-Pub. L. 109–58, § 1252(h), inserted at end “In the case of the standard established by paragraph (14) of [section 2621(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d&num=0&edition=prelim), the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005.”
+Subsec. (c). Pub. L. 109–58, § 1252(h), inserted at end “In the case of the standard established by paragraph (14) of [section 2621(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d&num=0&edition=prelim), the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005.”
 
 Pub. L. 109–58, § 1251(b)(2), inserted at end “In the case of each standard established by paragraphs (11) through (13) of [section 2621(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d&num=0&edition=prelim), the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005.”
 
-Subsec. (d). Pub. L. 109–58, § 1251(b)(3)(A), added subsec. (d).
+Subsec. (d). Pub. L. 109–58, § 1254(b)(2), which directed amendment of subsec. (d) by inserting at end “In the case of the standard established by paragraph (15), the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005.”, was repealed and made void by Pub. L. 117–58, § 40104(a)(2)(B)(ii). See Effective Date of 2021 Amendment note below.
+
+Pub. L. 109–58, § 1251(b)(3)(A), added subsec. (d).
 
 Subsec. (e). Pub. L. 109–58, § 1252(i)(1), added subsec. (e).
 
 Subsec. (f). Pub. L. 109–58, § 1254(b)(3)(A), added subsec. (f).
 
 1992—Subsec. (b)(1), (2). Pub. L. 102–486 inserted “(or after October 24, 1992, in the case of standards under paragraphs (7), (8), and (9) of [section 2621(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d&num=0&edition=prelim))”.
+
+#### Effective Date of 2021 Amendment
+Pub. L. 117–58, div. D, title I, § 40104(a)(2)(B)(ii), Nov. 15, 2021, 135 Stat. 931, provided that: “Paragraph (2) of section 1254(b) of the Energy Policy Act of 2005 (Public Law 109–58; 119 Stat. 971) [amending this section] is repealed and the amendment made by that paragraph (as in effect on the day before the date of enactment of this Act [Nov. 15, 2021]) is void, and section 112(d) of the Public Utility Regulatory Policies Act of 1978 ([16 U.S.C. 2622(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2622/d&num=0&edition=prelim)) shall be in effect as if that amendment had not been enacted.”
 
 #### Effective Date of 2007 Amendment
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
@@ -844,11 +913,15 @@ This chapter, referred to in subsec. (c)(1), was in the original “this title�
 <a id="section-2643"></a>
 ## § 2643. Prior and pending proceedings
 
-For purposes of subchapters I and II, and this subchapter, proceedings commenced by State regulatory authorities (with respect to electric utilities for which it has ratemaking authority) and nonregulated electric utilities before November 9, 1978, and actions taken before such date in such proceedings shall be treated as complying with the requirements of subchapters I and II, and this subchapter if such proceedings and actions substantially conform to such requirements. For purposes of subchapters I and II, and this subchapter, any such proceeding or action commenced before November 9, 1978, but not completed before such date, shall comply with the requirements of subchapters I and II, and this subchapter, to the maximum extent practicable, with respect to so much of such proceeding or action as takes place after such date, except as otherwise provided in [section 2631(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2631/c&num=0&edition=prelim). In the case of each standard established by paragraphs (11) through (13) of [section 2621(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d&num=0&edition=prelim), the reference contained in this subsection 11 So in original. Probably should be “section”. to November 9, 1978, shall be deemed to be a reference to August 8, 2005. In the case of the standard established by paragraph (14) of [section 2621(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d&num=0&edition=prelim), the reference contained in this subsection 1 to November 9, 1978, shall be deemed to be a reference to August 8, 2005. In the case of each standard established by paragraph (15) of [section 2621(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d&num=0&edition=prelim), the reference contained in this subsection 1 to November 9, 1978, shall be deemed to be a reference to August 8, 2005.
+For purposes of subchapters I and II, and this subchapter, proceedings commenced by State regulatory authorities (with respect to electric utilities for which it has ratemaking authority) and nonregulated electric utilities before November 9, 1978, and actions taken before such date in such proceedings shall be treated as complying with the requirements of subchapters I and II, and this subchapter if such proceedings and actions substantially conform to such requirements. For purposes of subchapters I and II, and this subchapter, any such proceeding or action commenced before November 9, 1978, but not completed before such date, shall comply with the requirements of subchapters I and II, and this subchapter, to the maximum extent practicable, with respect to so much of such proceeding or action as takes place after such date, except as otherwise provided in [section 2631(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2631/c&num=0&edition=prelim). In the case of each standard established by paragraphs (11) through (13) of [section 2621(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d&num=0&edition=prelim), the reference contained in this section to November 9, 1978, shall be deemed to be a reference to August 8, 2005. In the case of the standard established by paragraph (14) of [section 2621(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d&num=0&edition=prelim), the reference contained in this section to November 9, 1978, shall be deemed to be a reference to August 8, 2005. In the case of each standard established by paragraph (15) of [section 2621(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d&num=0&edition=prelim), the reference contained in this section to November 9, 1978, shall be deemed to be a reference to August 8, 2005. In the case of the standard established by paragraph (20) of [section 2621(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d&num=0&edition=prelim), the reference contained in this section to November 9, 1978, shall be deemed to be a reference to November 15, 2021. In the case of the standard established by paragraph (21) of [section 2621(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d&num=0&edition=prelim), the reference contained in this section to November 9, 1978, shall be deemed to be a reference to November 15, 2021.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Pub. L. 117–58, § 40431(b)(3)(B), inserted at end “In the case of the standard established by paragraph (21) of [section 2621(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d&num=0&edition=prelim), the reference contained in this section to November 9, 1978, shall be deemed to be a reference to November 15, 2021.”
+
+Pub. L. 117–58, § 40104(a)(2)(C)(ii), substituted “this section” for “this subsection” wherever appearing and inserted at end “In the case of the standard established by paragraph (20) of [section 2621(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d&num=0&edition=prelim), the reference contained in this section to November 9, 1978, shall be deemed to be a reference to November 15, 2021.”
+
 2005—Pub. L. 109–58, § 1254(b)(3)(B), inserted at end “In the case of each standard established by paragraph (15) of [section 2621(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d&num=0&edition=prelim), the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005.”
 
 Pub. L. 109–58, § 1252(i)(2), inserted at end “In the case of the standard established by paragraph (14) of [section 2621(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d&num=0&edition=prelim), the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005.”

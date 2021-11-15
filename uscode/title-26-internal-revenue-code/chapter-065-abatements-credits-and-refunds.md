@@ -2,7 +2,7 @@
 title: 26
 chapter: '65'
 heading: 'ABATEMENTS, CREDITS, AND REFUNDS'
-section_count: 32
+section_count: 33
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26&num=0&edition=prelim
 ---
@@ -645,7 +645,7 @@ Pub. L. 105–206, title III, § 3305(b), July 22, 1998, 112 Stat. 743, provided
 
 Pub. L. 105–206, title III, § 3309(b), (c), July 22, 1998, 112 Stat. 745, provided that: “(b) Effective Date.—The amendment made by this section [amending this section] shall apply to disasters declared after December 31, 1997, with respect to taxable years beginning after December 31, 1997. “(c) Emergency Designation.—“(1) For the purposes of section 252(e) of the Balanced Budget and Emergency Deficit Control Act [[2 U.S.C. 902(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section902/e&num=0&edition=prelim)], Congress designates the provisions of this section as an emergency requirement. “(2) The amendments made by subsections (a) and (b) of this section [amending this section] shall only take effect upon the transmittal by the President to the Congress of a message designating the provisions of subsections (a) and (b) as an emergency requirement pursuant to section 252(e) of the Balanced Budget and Emergency Deficit Control Act.”
 
-[For message of the President dated July 22, 1998, designating the provisions of section 3309(a), (b) of Pub. L. 105–206 as an emergency requirement pursuant to section 252(e) of the Balanced Budget and Emergency Deficit Control Act of 1985 on July 22, 1998, see Cong. Rec., vol. 144, p. H6160, Daily Issue.]
+[For message of the President dated July 22, 1998, designating the provisions of section 3309(a), (b) of Pub. L. 105–206 as an emergency requirement pursuant to section 252(e) of the Balanced Budget and Emergency Deficit Control Act of 1985 on July 22, 1998, see Cong. Rec., vol. 144, pt. 11, p. 16779.]
 
 #### Effective Date of 1996 Amendment
 Pub. L. 104–168, title III, § 301(c), July 30, 1996, 110 Stat. 1457, provided that: “The amendments made by this section [amending this section] shall apply to interest accruing with respect to deficiencies or payments for taxable years beginning after the date of the enactment of this Act [July 30, 1996].”
@@ -961,7 +961,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 ## § 6412. Floor stocks refunds
 **(a) In general**
 
-(1) **Tires and taxable fuel** — Where before October 1, 2022, any article subject to the tax imposed by section 4071 or 4081 has been sold by the manufacturer, producer, or importer and on such date is held by a dealer and has not been used and is intended for sale, there shall be credited or refunded (without interest) to the manufacturer, producer, or importer an amount equal to the difference between the tax paid by such manufacturer, producer, or importer on his sale of the article and the amount of tax made applicable to such article on and after October 1, 2022, if claim for such credit or refund is filed with the Secretary on or before March 31, 2023, based upon a request submitted to the manufacturer, producer, or importer before January 1, 2023, by the dealer who held the article in respect of which the credit or refund is claimed, and, on or before March 31, 2023, reimbursement has been made to such dealer by such manufacturer, producer, or importer for the tax reduction on such article or written consent has been obtained from such dealer to allowance of such credit or refund. No credit or refund shall be allowable under this paragraph with respect to taxable fuel in retail stocks held at the place where intended to be sold at retail, nor with respect to taxable fuel held for sale by a producer or importer of taxable fuel.
+(1) **Tires and taxable fuel** — Where before October 1, 2028, any article subject to the tax imposed by section 4071 or 4081 has been sold by the manufacturer, producer, or importer and on such date is held by a dealer and has not been used and is intended for sale, there shall be credited or refunded (without interest) to the manufacturer, producer, or importer an amount equal to the difference between the tax paid by such manufacturer, producer, or importer on his sale of the article and the amount of tax made applicable to such article on and after October 1, 2028, if claim for such credit or refund is filed with the Secretary on or before March 31, 2029, based upon a request submitted to the manufacturer, producer, or importer before January 1, 2029, by the dealer who held the article in respect of which the credit or refund is claimed, and, on or before March 31, 2029, reimbursement has been made to such dealer by such manufacturer, producer, or importer for the tax reduction on such article or written consent has been obtained from such dealer to allowance of such credit or refund. No credit or refund shall be allowable under this paragraph with respect to taxable fuel in retail stocks held at the place where intended to be sold at retail, nor with respect to taxable fuel held for sale by a producer or importer of taxable fuel.
 
 (2) **Definitions** — For purposes of this section—
 
@@ -976,6 +976,8 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (a)(1). Pub. L. 117–58 substituted “October 1, 2028” for “October 1, 2022” in two places and “March 31, 2029” for “March 31, 2023” in two places and substituted “January 1, 2029” for “January 1, 2023”.
+
 2015—Subsec. (a)(1). Pub. L. 114–94 substituted “October 1, 2022” for “October 1, 2016” in two places and “March 31, 2023” for “March 31, 2017” in two places and substituted “January 1, 2023” for “January 1, 2017”.
 
 2012—Subsec. (a)(1). Pub. L. 112–141 substituted in two places “October 1, 2016” for “July 1, 2012” and “March 31, 2017” for “December 31, 2012” and substituted “January 1, 2017” for “October 1, 2012”.
@@ -1081,6 +1083,9 @@ Subsec. (c). Act June 29, 1956, included taxes imposed by [section 4071 of this 
 Subsec. (d). Act May 29, 1956, substituted “1961” for “1957”.
 
 1955—Subsecs. (a), (b). Act Mar. 30, 1955, substituted “April 1, 1956” for “April 1, 1955” and “July 1, 1956” for “July 1, 1955” wherever appearing.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 80102(f) of Pub. L. 117–58, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
 
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–94 effective Oct. 1, 2016, see section 31102(f) of Pub. L. 114–94, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
@@ -4266,7 +4271,7 @@ Pub. L. 97–424, title V, § 511(e)(4), Jan. 6, 1983, 96 Stat. 2172, directed S
 
 
 <a id="section-6428"></a>
-## § 6428. 2020 Recovery rebates for individuals
+## § 6428. 2020 recovery rebates for individuals
 **(a) In general** In the case of an eligible individual, there shall be allowed as a credit against the tax imposed by subtitle A for the first taxable year beginning in 2020 an amount equal to the sum of—
 
 (1) $1,200 ($2,400 in the case of eligible individuals filing a joint return), plus
@@ -4380,6 +4385,11 @@ Pub. L. 97–424, title V, § 511(e)(4), Jan. 6, 1983, 96 Stat. 2172, directed S
 **(h) Regulations** The Secretary shall prescribe such regulations or other guidance as may be necessary to carry out the purposes of this section, including any such measures as are deemed appropriate to avoid allowing multiple credits or rebates to a taxpayer.
 
 ### Statutory Notes
+
+#### References in Text
+The Social Security Act, referred to in subsec. (f)(6)(B)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II and XVI of the Act are classified generally to subchapters II (§ 401 et seq.) and XVI (§ 1381 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+
+The Railroad Retirement Act, referred to in subsec. (f)(6)(B)(ii), probably means the Railroad Retirement Act of 1974, act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, § 101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding [section 231 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231&num=0&edition=prelim), [section 231t of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231t&num=0&edition=prelim), and Tables.
 
 #### Prior Provisions
 A prior section 6428, added Pub. L. 107–16, title I, § 101(b)(1), June 7, 2001, 115 Stat. 42; amended Pub. L. 107–147, title IV, § 411(a), Mar. 9, 2002, 116 Stat. 44; Pub. L. 110–185, title I, § 101(a), Feb. 13, 2008, 122 Stat. 613; Pub. L. 110–245, title I, §§ 101(a), 102(b), June 17, 2008, 122 Stat. 1625, related to 2008 recovery rebate for individuals, prior to repeal by Pub. L. 113–295, div. A, title II, § 221(a)(112)(A), (b), Dec. 19, 2014, 128 Stat. 4054, 4055, effective Dec. 19, 2014, subject to a savings provision.
@@ -4612,7 +4622,7 @@ The Social Security Act, referred to in subsec. (f)(5)(C), (D), (H)(ii)(I), is a
 
 Section 212(a) of Public Law 93–66, referred to in subsec. (f)(5)(D)(i)(III), is section 212(a) of title II of Pub. L. 93–66, July 9, 1973, 87 Stat. 155, which is set out as a note under [section 1382 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1382&num=0&edition=prelim).
 
-Such Act, referred to in subsec. (f)(5)(H)(ii)(II), means the Railroad Retirement Act of 1974, act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, § 101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding [section 231 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231&num=0&edition=prelim), [section 231t of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231t&num=0&edition=prelim), and Tables.
+The Railroad Retirement Act, referred to in subsec. (f)(5)(H)(ii)(II), probably means the Railroad Retirement Act of 1974, act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, § 101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding [section 231 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231&num=0&edition=prelim), [section 231t of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231t&num=0&edition=prelim), and Tables.
 
 #### Treatment of United States Possessions
 Pub. L. 116–260, div. N, title II, § 272(c), Dec. 27, 2020, 134 Stat. 1971, provided that: “(1) Payments to possessions.—“(A) Mirror code possession.—The Secretary of the Treasury shall pay to each possession of the United States which has a mirror code tax system amounts equal to the loss (if any) to that possession by reason of the amendments made by this section [enacting this section and amending sections 6211 and 6213 of this title and [section 1324 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1324&num=0&edition=prelim), Money and Finance]. Such amounts shall be determined by the Secretary of the Treasury based on information provided by the government of the respective possession. “(B) Other possessions.—The Secretary of the Treasury shall pay to each possession of the United States which does not have a mirror code tax system amounts estimated by the Secretary of the Treasury as being equal to the aggregate benefits (if any) that would have been provided to residents of such possession by reason of the amendments made by this section if a mirror code tax system had been in effect in such possession. The preceding sentence shall not apply unless the respective possession has a plan, which has been approved by the Secretary of the Treasury, under which such possession will promptly distribute such payments to its residents. “(2) Coordination with credit allowed against united states income taxes.—No credit shall be allowed against United States income taxes under section 6428A of the Internal Revenue Code of 1986 (as added by this section) to any person—“(A) to whom a credit is allowed against taxes imposed by the possession by reason of the amendments made by this section, or “(B) who is eligible for a payment under a plan described in paragraph (1)(B). “(3) Definitions and special rules.—“(A) Possession of the united states.—For purposes of this subsection, the term ‘possession of the United States’ includes the Commonwealth of Puerto Rico and the Commonwealth of the Northern Mariana Islands. “(B) Mirror code tax system.—For purposes of this subsection, the term ‘mirror code tax system’ means, with respect to any possession of the United States, the income tax system of such possession if the income tax liability of the residents of such possession under such system is determined by reference to the income tax laws of the United States as if such possession were the United States. “(C) Treatment of payments.—For purposes of [section 1324 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1324&num=0&edition=prelim), United States Code, the payments under this subsection shall be treated in the same manner as a refund due from a credit provision referred to in subsection (b)(2) of such section.”
@@ -4622,6 +4632,141 @@ Pub. L. 116–260, div. N, title II, § 272(d), Dec. 27, 2020, 134 Stat. 1972, p
 
 #### Public Awareness Campaign
 Pub. L. 116–260, div. N, title II, § 272(e), Dec. 27, 2020, 134 Stat. 1975, provided that: “The Secretary of the Treasury (or the Secretary’s delegate) shall conduct a public awareness campaign, in coordination with the Commissioner of Social Security and the heads of other relevant Federal agencies, to provide information regarding the availability of the credit and rebate allowed under section 6428A of the Internal Revenue Code of 1986 (as added by this section), including information with respect to individuals who may not have filed a tax return for taxable year 2019.”
+
+
+<a id="section-6428b"></a>
+## § 6428B. 2021 recovery rebates to individuals
+**(a) In general** In the case of an eligible individual, there shall be allowed as a credit against the tax imposed by subtitle A for the first taxable year beginning in 2021 an amount equal to the 2021 rebate amount determined for such taxable year.
+
+**(b) 2021 rebate amount** For purposes of this section, the term “2021 rebate amount” means, with respect to any taxpayer for any taxable year, the sum of—
+
+(1) $1,400 ($2,800 in the case of a joint return), plus
+
+(2) $1,400 multiplied by the number of dependents of the taxpayer for such taxable year.
+
+**(c) Eligible individual** For purposes of this section, the term “eligible individual” means any individual other than—
+
+(1) any nonresident alien individual,
+
+(2) any individual who is a dependent of another taxpayer for a taxable year beginning in the calendar year in which the individual’s taxable year begins, and
+
+(3) an estate or trust.
+
+**(d) Limitation based on adjusted gross income**
+
+(1) **In general** — The amount of the credit allowed by subsection (a) (determined without regard to this subsection and subsection (f)) shall be reduced (but not below zero) by the amount which bears the same ratio to such credit (as so determined) as—
+
+  (A) the excess of—
+
+    (i) the taxpayer’s adjusted gross income for such taxable year, over
+
+    (ii) $75,000, bears to
+
+  (B) $5,000.
+
+(2) **Special rules**
+
+  (A) *Joint return or surviving spouse* — In the case of a joint return or a surviving spouse (as defined in section 2(a)), paragraph (1) shall be applied by substituting “$150,000” for “$75,000” and “$10,000” for “$5,000”.
+
+  (B) *Head of household* — In the case of a head of household (as defined in section 2(b)), paragraph (1) shall be applied by substituting “$112,500” for “$75,000” and “$7,500” for “$5,000”.
+
+**(e) Definitions and special rules**
+
+(1) **Dependent defined** — For purposes of this section, the term “dependent” has the meaning given such term by section 152.
+
+(2) **Identification number requirement**
+
+  (A) *In general* — In the case of a return other than a joint return, the $1,400 amount in subsection (b)(1) shall be treated as being zero unless the taxpayer includes the valid identification number of the taxpayer on the return of tax for the taxable year.
+
+  (B) *Joint returns* — In the case of a joint return, the $2,800 amount in subsection (b)(1) shall be treated as being—
+
+    (i) $1,400 if the valid identification number of only 1 spouse is included on the return of tax for the taxable year, and
+
+    (ii) zero if the valid identification number of neither spouse is so included.
+
+  (C) *Dependents* — A dependent shall not be taken into account under subsection (b)(2) unless the valid identification number of such dependent is included on the return of tax for the taxable year.
+
+  (D) *Valid identification number*
+
+    (i) *In general* — For purposes of this paragraph, the term “valid identification number” means a social security number issued to an individual by the Social Security Administration on or before the due date for filing the return for the taxable year.
+
+    (ii) *Adoption taxpayer identification number* — For purposes of subparagraph (C), in the case of a dependent who is adopted or placed for adoption, the term “valid identification number” shall include the adoption taxpayer identification number of such dependent.
+
+  (E) *Special rule for members of the Armed Forces* — Subparagraph (B) shall not apply in the case where at least 1 spouse was a member of the Armed Forces of the United States at any time during the taxable year and the valid identification number of at least 1 spouse is included on the return of tax for the taxable year.
+
+  (F) *Coordination with certain advance payments* — In the case of any payment determined pursuant to subsection (g)(6), a valid identification number shall be treated for purposes of this paragraph as included on the taxpayer’s return of tax if such valid identification number is available to the Secretary as described in such subsection.
+
+  (G) *Mathematical or clerical error authority* — Any omission of a correct valid identification number required under this paragraph shall be treated as a mathematical or clerical error for purposes of applying section 6213(g)(2) to such omission.
+
+(3) **Credit treated as refundable** — The credit allowed by subsection (a) shall be treated as allowed by subpart C of part IV of subchapter A of chapter 1.
+
+**(f) Coordination with advance refunds of credit**
+
+(1) **Reduction of refundable credit** — The amount of the credit which would (but for this paragraph) be allowable under subsection (a) shall be reduced (but not below zero) by the aggregate refunds and credits made or allowed to the taxpayer (or, except as otherwise provided by the Secretary, any dependent of the taxpayer) under subsection (g). Any failure to so reduce the credit shall be treated as arising out of a mathematical or clerical error and assessed according to section 6213(b)(1).
+
+(2) **Joint returns** — Except as otherwise provided by the Secretary, in the case of a refund or credit made or allowed under subsection (g) with respect to a joint return, half of such refund or credit shall be treated as having been made or allowed to each individual filing such return.
+
+**(g) Advance refunds and credits**
+
+(1) **In general** — Subject to paragraphs (5) and (6), each individual who was an eligible individual for such individual’s first taxable year beginning in 2019 shall be treated as having made a payment against the tax imposed by chapter 1 for such taxable year in an amount equal to the advance refund amount for such taxable year.
+
+(2) **Advance refund amount**
+
+  (A) *In general* — For purposes of paragraph (1), the advance refund amount is the amount that would have been allowed as a credit under this section for such taxable year if this section (other than subsection (f) and this subsection) had applied to such taxable year.
+
+  (B) *Treatment of deceased individuals* — For purposes of determining the advance refund amount with respect to such taxable year—
+
+    (i) any individual who was deceased before January 1, 2021, shall be treated for purposes of applying subsection (e)(2) in the same manner as if the valid identification number of such person was not included on the return of tax for such taxable year (except that subparagraph (E) thereof shall not apply),
+
+    (ii) notwithstanding clause (i), in the case of a joint return with respect to which only 1 spouse is deceased before January 1, 2021, such deceased spouse was a member of the Armed Forces of the United States at any time during the taxable year, and the valid identification number of such deceased spouse is included on the return of tax for the taxable year, the valid identification number of 1 (and only 1) spouse shall be treated as included on the return of tax for the taxable year for purposes of applying subsection (e)(2)(B) with respect to such joint return, and
+
+    (iii) no amount shall be determined under subsection (e)(2) with respect to any dependent of the taxpayer if the taxpayer (both spouses in the case of a joint return) was deceased before January 1, 2021.
+
+(3) **Timing and manner of payments** — The Secretary shall, subject to the provisions of this title and consistent with rules similar to the rules of subparagraphs (B) and (C) of section 6428A(f)(3), refund or credit any overpayment attributable to this subsection as rapidly as possible, consistent with a rapid effort to make payments attributable to such overpayments electronically if appropriate. No refund or credit shall be made or allowed under this subsection after December 31, 2021.
+
+(4) **No interest** — No interest shall be allowed on any overpayment attributable to this subsection.
+
+(5) **Application to individuals who have filed a return of tax for 2020**
+
+  (A) *Application to 2020 returns filed at time of initial determination* — If, at the time of any determination made pursuant to paragraph (3), the individual referred to in paragraph (1) has filed a return of tax for the individual’s first taxable year beginning in 2020, paragraph (1) shall be applied with respect to such individual by substituting “2020” for “2019”.
+
+  (B) *Additional payment*
+
+    (i) *In general* — In the case of any individual who files, before the additional payment determination date, a return of tax for such individual’s first taxable year beginning in 2020, the Secretary shall make a payment (in addition to any payment made under paragraph (1)) to such individual equal to the excess (if any) of—
+
+      (I) the amount which would be determined under paragraph (1) (after the application of subparagraph (A)) by applying paragraph (1) as of the additional payment determination date, over
+
+      (II) the amount of any payment made with respect to such individual under paragraph (1).
+
+    (ii) *Additional payment determination date* — The term “additional payment determination date” means the earlier of—
+
+      (I) the date which is 90 days after the 2020 calendar year filing deadline, or
+
+      (II) September 1, 2021.
+
+    (iii) *2020 calendar year filing deadline* — The term “2020 calendar year filing deadline” means the date specified in section 6072(a) with respect to returns for calendar year 2020. Such date shall be determined after taking into account any period disregarded under section 7508A if such disregard applies to substantially all returns for calendar year 2020 to which section 6072(a) applies.
+
+(6) **Application to certain individuals who have not filed a return of tax for 2019 or 2020 at time of determination** — In the case of any individual who, at the time of any determination made pursuant to paragraph (3), has filed a tax return for neither the year described in paragraph (1) nor for the year described in paragraph (5)(A), the Secretary shall, consistent with rules similar to the rules of section 6428A(f)(5)(H)(i), apply paragraph (1) on the basis of information available to the Secretary and shall, on the basis of such information, determine the advance refund amount with respect to such individual without regard to subsection (d) unless the Secretary has reason to know that such amount would otherwise be reduced by reason of such subsection.
+
+(7) **Special rule related to time of filing return** — Solely for purposes of this subsection, a return of tax shall not be treated as filed until such return has been processed by the Internal Revenue Service.
+
+(8) **Restriction on use of certain previously issued prepaid debit cards** — Payments made by the Secretary to individuals under this section shall not be in the form of an increase in the balance of any previously issued prepaid debit card if, as of the time of the issuance of such card, such card was issued solely for purposes of making payments under section 6428 or 6428A.
+
+**(h) Regulations** The Secretary shall prescribe such regulations or other guidance as may be necessary or appropriate to carry out the purposes of this section, including—
+
+(1) regulations or other guidance providing taxpayers the opportunity to provide the Secretary information sufficient to allow the Secretary to make payments to such taxpayers under subsection (g) (including the determination of the amount of such payment) if such information is not otherwise available to the Secretary, and
+
+(2) regulations or other guidance to ensure to the maximum extent administratively practicable that, in determining the amount of any credit under subsection (a) and any credit or refund under subsection (g), an individual is not taken into account more than once, including by different taxpayers and including by reason of a change in joint return status or dependent status between the taxable year for which an advance refund amount is determined and the taxable year for which a credit under subsection (a) is determined.
+
+**(i) Outreach** The Secretary shall carry out a robust and comprehensive outreach program to ensure that all taxpayers described in subsection (h)(1) learn of their eligibility for the advance refunds and credits under subsection (g); are advised of the opportunity to receive such advance refunds and credits as provided under subsection (h)(1); and are provided assistance in applying for such advance refunds and credits.
+
+### Statutory Notes
+
+#### Treatment of Certain Possessions
+Pub. L. 117–2, title IX, § 9601(b), Mar. 11, 2021, 135 Stat. 142, provided that: “(1) Payments to possessions with mirror code tax systems.—The Secretary of the Treasury shall pay to each possession of the United States which has a mirror code tax system amounts equal to the loss (if any) to that possession by reason of the amendments made by this section. Such amounts shall be determined by the Secretary of the Treasury based on information provided by the government of the respective possession. “(2) Payments to other possessions.—The Secretary of the Treasury shall pay to each possession of the United States which does not have a mirror code tax system amounts estimated by the Secretary of the Treasury as being equal to the aggregate benefits (if any) that would have been provided to residents of such possession by reason of the amendments made by this section if a mirror code tax system had been in effect in such possession. The preceding sentence shall not apply unless the respective possession has a plan, which has been approved by the Secretary of the Treasury, under which such possession will promptly distribute such payments to its residents. “(3) Inclusion of administrative expenses.—The Secretary of the Treasury shall pay to each possession of the United States to which the Secretary makes a payment under paragraph (1) or (2) an amount equal to the lesser of—“(A) the increase (if any) of the administrative expenses of such possession—“(i) in the case of a possession described in paragraph (1), by reason of the amendments made by this section, and “(ii) in the case of a possession described in paragraph (2), by reason of carrying out the plan described in such paragraph, or “(B) $500,000 ($10,000,000 in the case of Puerto Rico). The amount described in subparagraph (A) shall be determined by the Secretary of the Treasury based on information provided by the government of the respective possession. “(4) Coordination with credit allowed against united states income taxes.—No credit shall be allowed against United States income taxes under section 6428B of the Internal Revenue Code of 1986 (as added by this section), nor shall any credit or refund be made or allowed under subsection (g) of such section, to any person—“(A) to whom a credit is allowed against taxes imposed by the possession by reason of the amendments made by this section, or “(B) who is eligible for a payment under a plan described in paragraph (2). “(5) Mirror code tax system.—For purposes of this subsection, the term ‘mirror code tax system’ means, with respect to any possession of the United States, the income tax system of such possession if the income tax liability of the residents of such possession under such system is determined by reference to the income tax laws of the United States as if such possession were the United States. “(6) Treatment of payments.—For purposes of [section 1324 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1324&num=0&edition=prelim), United States Code, the payments under this subsection shall be treated in the same manner as a refund due from a credit provision referred to in subsection (b)(2) of such section.”
+
+#### Exception from Reduction or Offset
+Pub. L. 117–2, title IX, § 9601(c)(2), Mar. 11, 2021, 135 Stat. 143, provided that: “Any refund payable by reason of section 6428B(g) of the Internal Revenue Code of 1986 (as added by this section), or any such refund payable by reason of subsection (b) of this section [set out above], shall not be— “(A) subject to reduction or offset pursuant to subsection (c), (d), (e), or (f) of section 6402 of the Internal Revenue Code of 1986 or any similar authority permitting offset, or “(B) reduced or offset by other assessed Federal taxes that would otherwise be subject to levy or collection.”
 
 
 <a id="section-6429"></a>
@@ -4678,14 +4823,84 @@ Repeal by Pub. L. 115–97 applicable to bonds issued after Dec. 31, 2017, see s
 
 
 <a id="section-6432"></a>
-## § 6432. Repealed. Pub. L. 115–141, div. U, title IV, § 401(d)(7)(A), Mar. 23, 2018, 132 Stat. 1212]
+## § 6432. Continuation coverage premium assistance
+**(a) In general** The person to whom premiums are payable for continuation coverage under section 9501(a)(1) of the American Rescue Plan Act of 2021 shall be allowed as a credit against the tax imposed by section 3111(b), or so much of the taxes imposed under section 3221(a) as are attributable to the rate in effect under section 3111(b), for each calendar quarter an amount equal to the premiums not paid by assistance eligible individuals for such coverage by reason of such section 9501(a)(1) with respect to such calendar quarter.
+
+**(b) Person to whom premiums are payable** For purposes of subsection (a), except as otherwise provided by the Secretary, the person to whom premiums are payable under such continuation coverage shall be treated as being—
+
+(1) in the case of any group health plan which is a multiemployer plan (as defined in section 3(37) of the Employee Retirement Income Security Act of 1974), the plan,
+
+(2) in the case of any group health plan not described in paragraph (1)—
+
+  (A) which is subject to the COBRA continuation provisions contained in—
+
+    (i) the Internal Revenue Code of 1986,
+
+    (ii) the Employee Retirement Income Security Act of 1974, or
+
+    (iii) the Public Health Service Act, or
+
+  (B) under which some or all of the coverage is not provided by insurance,
+  the employer maintaining the plan, and
+
+(3) in the case of any group health plan not described in paragraph (1) or (2), the insurer providing the coverage under the group health plan.
+
+**(c) Limitations and refundability**
+
+(1) **Credit limited to certain employment taxes** — The credit allowed by subsection (a) with respect to any calendar quarter shall not exceed the tax imposed by section 3111(b), or so much of the taxes imposed under section 3221(a) as are attributable to the rate in effect under section 3111(b), for such calendar quarter (reduced by any credits allowed against such taxes under sections 3131, 3132, and 3134) on the wages paid with respect to the employment of all employees of the employer.
+
+(2) **Refundability of excess credit**
+
+  (A) *Credit is refundable* — If the amount of the credit under subsection (a) exceeds the limitation of paragraph (1) for any calendar quarter, such excess shall be treated as an overpayment that shall be refunded under sections 6402(a) and 6413(b).
+
+  (B) *Credit may be advanced* — In anticipation of the credit, including the refundable portion under subparagraph (A), the credit may be advanced, according to forms and instructions provided by the Secretary, up to an amount calculated under subsection (a) through the end of the most recent payroll period in the quarter.
+
+  (C) *Treatment of deposits* — The Secretary shall waive any penalty under section 6656 for any failure to make a deposit of the tax imposed by section 3111(b), or so much of the taxes imposed under section 3221(a) as are attributable to the rate in effect under section 3111(b), if the Secretary determines that such failure was due to the anticipation of the credit allowed under this section.
+
+  (D) *Treatment of payments* — For purposes of [section 1324 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1324&num=0&edition=prelim), United States Code, any amounts due to an employer under this paragraph shall be treated in the same manner as a refund due from a credit provision referred to in subsection (b)(2) of such section.
+
+(3) **Overstatements** — Any overstatement of the credit to which a person is entitled under this section (and any amount paid by the Secretary as a result of such overstatement) shall be treated as an underpayment by such person of the taxes described in paragraph (1) and may be assessed and collected by the Secretary in the same manner as such taxes.
+
+**(d) Governmental entities** For purposes of this section, the term “person” includes the government of any State or political subdivision thereof, any Indian tribal government (as defined in section 139E(c)(1)), any agency or instrumentality of any of the foregoing, and any agency or instrumentality of the Government of the United States that is described in section 501(c)(1) and exempt from taxation under section 501(a).
+
+**(e) Denial of double benefit** For purposes of chapter 1, the gross income of any person allowed a credit under this section shall be increased for the taxable year which includes the last day of any calendar quarter with respect to which such credit is allowed by the amount of such credit. No credit shall be allowed under this section with respect to any amount which is taken into account as qualified wages under section 2301 of the CARES Act or [section 3134 of this title](./chapter-021-federal-insurance-contributions-act.md#section-3134) or as qualified health plan expenses under section 7001(d) or 7003(d) of the Families First Coronavirus Response Act or section 3131 or 3132 of this title.
+
+**(f) Extension of limitation on assessment** Notwithstanding section 6501, the limitation on the time period for the assessment of any amount attributable to a credit claimed under this section shall not expire before the date that is 5 years after the later of—
+
+(1) the date on which the original return which includes the calendar quarter with respect to which such credit is determined is filed, or
+
+(2) the date on which such return is treated as filed under section 6501(b)(2).
+
+**(g) Regulations** The Secretary shall issue such regulations, or other guidance, forms, instructions, and publications, as may be necessary or appropriate to carry out this section, including—
+
+(1) the requirement to report information or the establishment of other methods for verifying the correct amounts of reimbursements under this section,
+
+(2) the application of this section to group health plans that are multiemployer plans (as defined in section 3(37) of the Employee Retirement Income Security Act of 1974),
+
+(3) to allow the advance payment of the credit determined under subsection (a), subject to the limitations provided in this section, based on such information as the Secretary shall require,
+
+(4) to provide for the reconciliation of such advance payment with the amount of the credit at the time of filing the return of tax for the applicable quarter or taxable year, and
+
+(5) allowing the credit to third party payors (including professional employer organizations, certified professional employer organizations, or agents under section 3504).
 
 ### Statutory Notes
 
-Section, added Pub. L. 111–5, div. B, title III, § 3001(a)(12)(A), Feb. 17, 2009, 123 Stat. 461; amended Pub. L. 111–144, § 3(b)(5)(C), Mar. 2, 2010, 124 Stat. 45, related to COBRA premium assistance.
+#### References in Text
+Section 9501(a)(1) of the American Rescue Plan Act of 2021, referred to in subsec. (a)(1), is section 9501(a)(1) of title IX of Pub. L. 117–2, Mar. 11, 2021, 135 Stat. 127, which is set out as a note under [section 4980B of this title](./chapter-043-qualified-pension-etc-plans.md#section-4980b).
 
-#### Savings Provision
-For provisions that nothing in repeal by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under [section 23 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-23).
+The Employee Retirement Income Security Act of 1974, referred to in subsecs. (b)(1), (2)(A)(ii) and (g), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, which is classified principally to chapter 18 (§ 1001 et seq.) of Title 29, Labor. Section 3(37) of the Act is classified to [section 1002(37) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1002/37&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
+
+The Public Health Service Act, referred to in subsec. (b)(2)(A)(iii), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
+
+Section 2301 of the CARES Act, referred to in subsec. (e), is section 2301 of title II of div. A of Pub. L. 116–136, which is set out as a note under [section 3111 of this title](./chapter-021-federal-insurance-contributions-act.md#section-3111).
+
+Sections 7001(d) and 7003(d) of the Families First Coronavirus Response Act, referred to in subsec. (e), are sections 7001(d) and 7003(d) of div. G of Pub. L. 116–127, which are set out as notes under [section 3111 of this title](./chapter-021-federal-insurance-contributions-act.md#section-3111).
+
+#### Prior Provisions
+A prior section 6432, added Pub. L. 111–5, div. B, title III, § 3001(a)(12)(A), Feb. 17, 2009, 123 Stat. 461; amended Pub. L. 111–144, § 3(b)(5)(C), Mar. 2, 2010, 124 Stat. 45, related to COBRA premium assistance, related to COBRA premium assistance, prior to repeal by Pub. L. 115–141, div. U, title IV, § 401(d)(7)(A), Mar. 23, 2018, 132 Stat. 1212.
+
+#### Effective Date
+Pub. L. 117–2, title IX, § 9501(b)(1)(C), Mar. 11, 2021, 135 Stat. 136, provided that: “The amendments made by this paragraph [enacting this section] shall apply to premiums to which subsection (a)(1)(A) applies and wages paid on or after April 1, 2021.”
 
 #### Premium Assistance for COBRA Benefits
 Pub. L. 111–5, div. B, title III, § 3001, Feb. 17, 2009, 123 Stat. 455, as amended by Pub. L. 111–118, div. B, § 1010(a)–(d), Dec. 19, 2009, 123 Stat. 3472, 3473; Pub. L. 111–144, § 3(a), (b)(1)–(4), Mar. 2, 2010, 124 Stat. 43, 44; Pub. L. 111–157, § 3(a), (b), Apr. 15, 2010, 124 Stat. 1117; Pub. L. 113–295, div. A, title II, § 209(j)(3), Dec. 19, 2014, 128 Stat. 4031, related to premium assistance for COBRA continuation coverage.

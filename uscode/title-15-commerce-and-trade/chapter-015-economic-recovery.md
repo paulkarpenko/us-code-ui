@@ -69,6 +69,11 @@ National Resources Committee abolished and functions and personnel transferred t
 
 1961—Subsec. (b). Pub. L. 87–353 struck out item 4. Federal Farm Mortgage Corporation and redesignated former items 5 to 13 as 4 to 12, respectively.
 
+#### Applicability to National Housing Agency; Transfer of Funds; Report to Congress
+Act May 3, 1945, ch. 106, title I, § 101, 59 Stat. 122, provided in part: “Section 7 of the First Deficiency Appropriation Act, 1936 [this section], shall continue to apply to administrative expenses of and for the constituent units of the National Housing Agency mentioned in said section 7 [this section] and shall also apply to such expenses of said National Housing Agency in connection with the functions and purposes of said constituent units, and none of the funds made available by this Act [act May 3, 1945, ch. 106, title I, § 101, 59 Stat. 106] for such administrative expenses shall be obligated or expended unless and until an appropriate appropriation account shall have been established therefor pursuant to an appropriation warrant or a covering warrant, and all such expenditures shall be accounted for and audited in accordance with the Budget and Accounting Act, as amended [see chapters 11 and 35 of Title 31, Money and Finance]: Provided further, That the Administrator may, with the approval of the President of the United States, transfer to this authorization or to an authorization of a constituent unit from funds available for administrative expenses of the constituent units or the Office of the Administrator such additional sums as represent a consolidation in the Office of the Administrator or in a constituent unit of any of the administrative functions of the National Housing Agency; but no such transfer of funds shall be made unless the consolidation will result in a reduction in manpower and a savings in administrative expenses, which savings shall not be used for administrative expenses but instead shall be returned to or remain in the funds from which administrative expenses are drawn under this authorization: Provided further, That a report of such transfers and the savings effected thereby shall be submitted to Congress in the annual budget.”
+
+Similar provisions were contained in acts June 26, 1943, ch. 145, title I, § 101, 57 Stat. 184; June 27, 1944, ch. 286, title I, § 101, 58 Stat. 375.
+
 #### Transfers of Functions and Changes in Names
 Federal Housing Administration consolidated into National Housing Agency during World War II by Ex. Ord. No. 9070, Feb. 24, 1942. Federal Housing Administration subsequently consolidated into Housing and Home Finance Agency by Reorg. Plan No. 3 of 1947, eff. July 27, 1947, 12 F.R. 4981, 61 Stat. 954. Functions, powers, and duties of the Federal Housing Administration thereafter transferred to Secretary of Housing and Urban Development. See [section 3534(a) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3534/a&num=0&edition=prelim), The Public Health and Welfare.
 
@@ -92,11 +97,6 @@ For changes affecting other agencies enumerated in subsection (b) of this sectio
 
 #### Exceptions From Transfer of Functions
 Functions of corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer or entity of, under, or subject to the supervision of the Administration excepted from functions of officers, agencies and employees transferred to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Applicability to National Housing Agency; Transfer of Funds; Report to Congress
-Act May 3, 1945, ch. 106, title I, § 101, 59 Stat. 122, provided in part: “Section 7 of the First Deficiency Appropriation Act, 1936 [this section], shall continue to apply to administrative expenses of and for the constituent units of the National Housing Agency mentioned in said section 7 [this section] and shall also apply to such expenses of said National Housing Agency in connection with the functions and purposes of said constituent units, and none of the funds made available by this Act [act May 3, 1945, ch. 106, title I, § 101, 59 Stat. 106] for such administrative expenses shall be obligated or expended unless and until an appropriate appropriation account shall have been established therefor pursuant to an appropriation warrant or a covering warrant, and all such expenditures shall be accounted for and audited in accordance with the Budget and Accounting Act, as amended [see chapters 11 and 35 of Title 31, Money and Finance]: Provided further, That the Administrator may, with the approval of the President of the United States, transfer to this authorization or to an authorization of a constituent unit from funds available for administrative expenses of the constituent units or the Office of the Administrator such additional sums as represent a consolidation in the Office of the Administrator or in a constituent unit of any of the administrative functions of the National Housing Agency; but no such transfer of funds shall be made unless the consolidation will result in a reduction in manpower and a savings in administrative expenses, which savings shall not be used for administrative expenses but instead shall be returned to or remain in the funds from which administrative expenses are drawn under this authorization: Provided further, That a report of such transfers and the savings effected thereby shall be submitted to Congress in the annual budget.”
-
-Similar provisions were contained in acts June 26, 1943, ch. 145, title I, § 101, 57 Stat. 184; June 27, 1944, ch. 286, title I, § 101, 58 Stat. 375.
 
 
 <a id="section-713"></a>
@@ -160,6 +160,7 @@ Section 713a–2, act Mar. 8, 1938, ch. 44, § 2, 52 Stat. 107, related to depos
 
 ### Statutory Notes
 
+#### Codification
 Section was a composite of provisions contained in the Agriculture, Rural Development, and Related Agencies Appropriation Act for Fiscal Year 1983 (Pub. L. 97–370, title I, title IV, title VI, § 625, Dec. 18, 1982, 96 Stat. 1797, 1798, 1808, 1812, as amended Pub. L. 99–386, title II, § 202, Aug. 22, 1986, 100 Stat. 823, and related to the authority of the Commodity Corporation to make expenditures and to make contracts and commitments without regard to fiscal year limitations, with exceptions for the amount of funds to be transferred to support the General Sales Manager and to carry out the Export Credit Sales direct loan program. For provisions applicable to subsequent fiscal years, see the appropriate Agriculture, Rural Development, and Related Agencies Appropriation Act. Similar provisions were contained in the following prior appropriations acts:
 
 Dec. 23, 1981, Pub. L. 97–103, title I, title IV, 95 Stat. 1476, 1477, 1485.
@@ -340,11 +341,11 @@ Act Mar. 20, 1954, substituted “$8,500,000,000” for “$6,750,000,000”.
 #### Effective Date of 1978 Amendment
 Pub. L. 95–279, title III, § 301(d), May 15, 1978, 92 Stat. 242, provided that: “The provisions of this section [amending this section and [section 714b of this title](./chapter-015-economic-recovery.md#section-714b) and enacting provision set out as a note under [section 714b of this title](./chapter-015-economic-recovery.md#section-714b)] shall become effective October 1, 1978.”
 
-#### Exceptions From Transfer of Functions
-For exception of functions of corporations of Department of Agriculture from transfer of functions to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, see Exceptions From Transfer of Functions note set out under [section 712a of this title](./chapter-015-economic-recovery.md#section-712a).
-
 #### Discharge of Indebtedness
 Act May 26, 1947, ch. 82, title I, § 101, 61 Stat. 109, provided in part that on the date of enactment of that Act [May 26, 1947] the Secretary of the Treasury was authorized and directed to discharge $641,832,080.64 of the indebtedness of the Commodity Credit Corporation to the Secretary of the Treasury by canceling notes in such amount issued by the Corporation to the Secretary of the Treasury pursuant to section 4 of the Act of March 8, 1938, as amended [this section].
+
+#### Exceptions From Transfer of Functions
+For exception of functions of corporations of Department of Agriculture from transfer of functions to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, see Exceptions From Transfer of Functions note set out under [section 712a of this title](./chapter-015-economic-recovery.md#section-712a).
 
 
 <a id="section-713a-5"></a>
@@ -383,9 +384,10 @@ Notwithstanding any other provision of law, whenever the President, by and with 
 The Department of War was designated the Department of the Army and the title of the Secretary of War was changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3011 to 3013 continued the military Department of the Army under the administrative supervision of a Secretary of the Army.
 
 #### Transfer of Functions
-Munitions Board abolished by section 2 of Reorg. Plan No. 6 of 1953, 18 F.R. 3743, 67 Stat. 638, set out in the Appendix to Title 5, Government Organization and Employees, and functions of Munitions Board transferred to Secretary of Defense by section 1 of Reorg. Plan No. 6 of 1953.
-
 Army and Navy Munitions Board ceased to exist when Chairman of Board of Munitions took office and records and personnel of Army and Navy Munitions Board were transferred to Munitions Board by act July 26, 1947, ch. 343, title II, § 213, 61 Stat. 505.
+
+#### Transfer of Functions
+Munitions Board abolished by section 2 of Reorg. Plan No. 6 of 1953, 18 F.R. 3743, 67 Stat. 638, set out in the Appendix to Title 5, Government Organization and Employees, and functions of Munitions Board transferred to Secretary of Defense by section 1 of Reorg. Plan No. 6 of 1953.
 
 #### Exceptions From Transfer of Functions
 For exception of functions of corporations of Department of Agriculture from transfer of functions to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, see Exceptions From Transfer of Functions note set out under [section 712a of this title](./chapter-015-economic-recovery.md#section-712a).
@@ -474,17 +476,17 @@ Any part of the funds not to exceed $1,500,000 per year, created under and to ca
 #### Codification
 The first part of this section originally read: “Any part of the funds not to exceed $1,500,000 per year, transferred by the Secretary of Agriculture to the Federal Surplus Commodities Corporation created under and to carry out the provisions of [section 612c of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section612c&num=0&edition=prelim) may also be used by such Corporation”, etc., and the reference in the proviso to the Secretary of Agriculture originally read: “Federal Surplus Commodities Corporation”. See Transfer of Functions note below.
 
-#### Transfer of Functions
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
-
-For transfer of functions of Federal Surplus Commodities Corporation, see Transfer of Functions note set out under [section 712a of this title](./chapter-015-economic-recovery.md#section-712a).
-
 #### Similar Provisions
 Earlier provisions on this subject were contained in act Mar. 5, 1937, ch. 29, 50 Stat. 27, and in Joint Res. Apr. 12, 1937, ch. 73, 50 Stat. 61. The former forbade acquisition of commodities thereunder after 90 days after its enactment, but permitted distribution of commodities after such period. The latter made funds available to be used in accordance with the provisions of the former.
 
 Joint Res. Apr. 12, 1937, ch. 73, 50 Stat. 61, provided as follows: “That not to exceed $1,000,000 of the funds available to the Federal Surplus Commodities Corporation may be used by such Corporation for the purpose of diverting surplus fish (including shellfish) and the products thereof from the normal channels of trade and commerce by the acquisition and distribution thereof in accordance with the provisions of the Act entitled ‘An Act to authorize the purchase and distribution of products of the fishing industry’, approved March 5, 1937.”
 
 Act Mar. 5, 1937, ch. 29, 50 Stat. 27, provided as follows: “That there is authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, the sum of $2,000,000 for the purpose of enabling the Federal Surplus Commodities Corporation to divert surplus fish (including shellfish) and the products thereof from the normal channels of trade and commerce by acquiring them and providing for their distribution through Federal, State, and private relief agencies. No commodities shall be acquired under this Act after ninety days after the date of its enactment: Provided, however, That distribution thereof may extend beyond said period. The provisions of law relating to the acquisition of materials or supplies for the United States shall not apply to the acquisition of commodities under this Act.”
+
+#### Transfer of Functions
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
+
+For transfer of functions of Federal Surplus Commodities Corporation, see Transfer of Functions note set out under [section 712a of this title](./chapter-015-economic-recovery.md#section-712a).
 
 
 <a id="section-713c-3"></a>
@@ -670,14 +672,14 @@ Pub. L. 89–348, § 1(13), Nov. 8, 1965, 79 Stat. 1311, repealed the following 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-#### Transfer of Functions
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Continuation of Authorization for Transfer of Funds
 Act Aug. 8, 1956, ch. 1036, § 12(a), 70 Stat. 1124, provided that: “The authorization for the transfer of certain funds from the Secretary of Agriculture to the Secretary of the Interior and their maintenance in a separate fund as contained in section 2(a) of the Act of August 11, 1939, as amended July 1, 1954 (68 Stat. 376), [now subsec. (b) of this section], shall be continued for the year ending June 30, 1957, and each year thereafter.”
 
 #### Termination of Advisory Committees
 Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Transfer of Functions
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-713d"></a>
@@ -800,13 +802,13 @@ Section 18 of act June 29, 1948, provided that sections 714 to 714o of this titl
 #### Short Title
 Congress in enacting sections 714 to 714p of this title provided by section 1 of act June 29, 1948, that they should be popularly known as the “Commodity Credit Corporation Charter Act”.
 
-#### Exceptions From Transfer of Functions
-For exception of functions of corporations of Department of Agriculture from transfer of functions to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, see Exceptions From Transfer of Functions note set out under [section 712a of this title](./chapter-015-economic-recovery.md#section-712a).
-
 #### Establishing Quality as Goal for Commodity Credit Corporation Programs
 Pub. L. 101–624, title XXV, § 2517, formerly § 2518, Nov. 28, 1990, 104 Stat. 4078, as renumbered by Pub. L. 104–66, title I, § 1011(h), Dec. 21, 1995, 109 Stat. 710, provided that: “In carrying out its activities the Commodity Credit Corporation shall, to the extent practicable, provide for program provisions that promote quality in the production and marketing of crops and livestock in the United States.”
 
 [Pub. L. 104–127, title VII, § 711, Apr. 4, 1996, 110 Stat. 1112, which directed the repeal of section 2517 of the Food, Agriculture, Conservation, and Trade Act of 1990, Pub. L. 101–624, relating to a study of transportation of fertilizer and agricultural chemicals to farmers, was not executed to provisions set out above, to reflect the probable intent of Congress and the amendment by Pub. L. 104–66, title I, § 1011(h), Dec. 21, 1995, 109 Stat. 710, which repealed section 2517 of Pub. L. 101–624 relating to such study, and renumbered section 2518 of Pub. L. 101–624, set out above, as section 2517 of Pub. L. 101–624.]
+
+#### Exceptions From Transfer of Functions
+For exception of functions of corporations of Department of Agriculture from transfer of functions to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, see Exceptions From Transfer of Functions note set out under [section 712a of this title](./chapter-015-economic-recovery.md#section-712a).
 
 
 <a id="section-714a"></a>
@@ -937,17 +939,17 @@ Amendment by Pub. L. 95–279 effective Oct. 1, 1978, see section 301(d) of Pub.
 #### Effective and Termination Dates of 1977 Amendment
 Section 1104 of Pub. L. 95–113 provided that the amendment made by that section is effective only with respect to the fiscal years beginning Oct. 1, 1977, and ending Sept. 30, 1981.
 
-#### Delegation of Functions
-Functions of President under subsec. (h) of this section delegated to Secretary of Defense, see section 2 of Ex. Ord. No. 12626, Feb. 25, 1988, 53 F.R. 6114, set out as a note under [section 98 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98&num=0&edition=prelim), War and National Defense.
-
-#### Exceptions From Transfer of Functions
-For exception of functions of corporations of Department of Agriculture from transfer of functions to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, see Exceptions From Transfer of Functions note set out under [section 712a of this title](./chapter-015-economic-recovery.md#section-712a).
-
 #### Storage Cost Adjustment for Fiscal Years 1988 and 1989
 Pub. L. 100–203, title I, § 1106, Dec. 22, 1987, 101 Stat. 1330–5, required the Secretary of Agriculture to reduce expenditures of the Commodity Credit Corporation for commercial storage, transportation, and handling of commodities owned by the Corporation by $230,000,000 from the amount of funds otherwise projected to be expended in fiscal years 1988 and 1989 under the budget base determined under [section 901 of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section901&num=0&edition=prelim).
 
 #### Increase in Borrowing Authority Effective Only to Extent Provided in Appropriation Acts
 Pub. L. 95–279, title III, § 301(c), May 15, 1978, 92 Stat. 242, provided that: “The increase in the borrowing authority of the Commodity Credit Corporation made by this section [amending this section and [section 713a–4 of this title](./chapter-015-economic-recovery.md#section-713a-4)] shall be effective only to the extent provided in appropriation Acts.”
+
+#### Delegation of Functions
+Functions of President under subsec. (h) of this section delegated to Secretary of Defense, see section 2 of Ex. Ord. No. 12626, Feb. 25, 1988, 53 F.R. 6114, set out as a note under [section 98 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98&num=0&edition=prelim), War and National Defense.
+
+#### Exceptions From Transfer of Functions
+For exception of functions of corporations of Department of Agriculture from transfer of functions to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, see Exceptions From Transfer of Functions note set out under [section 712a of this title](./chapter-015-economic-recovery.md#section-712a).
 
 
 <a id="section-714c"></a>
@@ -997,14 +999,14 @@ Pub. L. 98–623, title IV, § 405(d), Nov. 8, 1984, 98 Stat. 3409, provided tha
 #### Continuation of Liability for 2004 and Earlier Crop Years
 Amendment by sections 611 to 614 of Pub. L. 108–357 not to affect the liability of any person under any provision of law so amended with respect to the 2004 or an earlier crop of tobacco, see section 614 of Pub. L. 108–357, set out as a note under [section 515 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section515&num=0&edition=prelim), Agriculture.
 
-#### Exceptions From Transfer of Functions
-For exception of functions of corporations of Department of Agriculture from transfer of functions to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, see Exceptions From Transfer of Functions note set out under [section 712a of this title](./chapter-015-economic-recovery.md#section-712a).
-
 #### Export Enhancement Program; Promotion of United States Meat Exports
 Pub. L. 101–220, § 2, Dec. 12, 1989, 103 Stat. 1876, provided that in each of fiscal years 1990, 1991, and 1992, the Commodity Credit Corporation would, in carrying out the export enhancement program established in this section, promote the export of United States meat, including poultry products, to commissaries on military installations in the European Community, and provided for funding and costs.
 
 #### Use of Commodity Credit Corporation for Purchase of Agricultural Products Formerly Intended for Export to Soviet Union
 Pub. L. 96–494, title II, § 206, Dec. 3, 1980, 94 Stat. 2572, provided that: “Notwithstanding any other provision of law, the Secretary of Agriculture may use, subject to such terms and conditions as the Secretary may deem appropriate, the funds, facilities, and authorities of the Commodity Credit Corporation in purchasing and handling agricultural products, other than grains, that—“(1) were intended to be exported to the Union of Soviet Socialist Republics under contracts entered into prior to January 5, 1980, but “(2) cannot be exported under such contracts due to the imposition, on January 4, 1980, of restrictions on the export of agricultural products to the Union of Soviet Socialist Republics, in the same manner and under the same conditions as the Secretary purchases and handles grains under similar contracts and subject to the imposition of the same restrictions.”
+
+#### Exceptions From Transfer of Functions
+For exception of functions of corporations of Department of Agriculture from transfer of functions to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, see Exceptions From Transfer of Functions note set out under [section 712a of this title](./chapter-015-economic-recovery.md#section-712a).
 
 
 <a id="section-714d"></a>
@@ -1075,11 +1077,11 @@ Amendment by Pub. L. 94–561 effective Oct. 19, 1976, see section 5 of Pub. L. 
 #### Repeals
 Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
 
-#### Exceptions From Transfer of Functions
-For exception of functions of corporations of Department of Agriculture from transfer of functions to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, see Exceptions From Transfer of Functions note set out under [section 712a of this title](./chapter-015-economic-recovery.md#section-712a).
-
 #### Termination of Advisory Boards
 Advisory boards in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Exceptions From Transfer of Functions
+For exception of functions of corporations of Department of Agriculture from transfer of functions to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, see Exceptions From Transfer of Functions note set out under [section 712a of this title](./chapter-015-economic-recovery.md#section-712a).
 
 
 <a id="section-714h"></a>
@@ -1102,13 +1104,13 @@ Act June 7, 1949, amended section generally to permit the Secretary to appoint t
 #### Repeals
 Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
 
-#### Exceptions From Transfer of Functions
-For exception of functions of corporations of Department of Agriculture from transfer of functions to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, see Exceptions From Transfer of Functions note set out under [section 712a of this title](./chapter-015-economic-recovery.md#section-712a).
-
 #### Sales Manager
 Pub. L. 87–367, title I, § 103(11), Oct. 4, 1961, 75 Stat. 789, repealed such part of section 101 of act Aug. 4, 1955, ch. 451, Ch. I, 69 Stat. 451, which authorized the position of sales manager in the Commodity Credit Corporation to be placed in grade 17 of the General Schedule of the Classification Act of 1949. See [section 5332 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), Government Organization and Employees.
 
 Positions existing prior to Oct. 4, 1961, compensation thereof and appointments thereto unaffected by changes made by Pub. L. 87–367 and positions in grades 16, 17 and 18 of the General Schedule of the Classification Act of 1949 prior to Oct. 4, 1961, to remain in respective grades, until appropriate action is taken under title I of Pub. L. 87–367 and [section 5108 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5108&num=0&edition=prelim), see section 104 of Pub. L. 87–367.
+
+#### Exceptions From Transfer of Functions
+For exception of functions of corporations of Department of Agriculture from transfer of functions to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, see Exceptions From Transfer of Functions note set out under [section 712a of this title](./chapter-015-economic-recovery.md#section-712a).
 
 
 <a id="section-714i"></a>
@@ -1126,11 +1128,11 @@ The Agriculture Improvement Act of 2018, referred to in text, is Pub. L. 115–3
 
 1996—Pub. L. 104–127 inserted at end “After September 30, 1996, the total amount of all allotments and fund transfers from the Corporation under this section (including allotments and transfers for automated data processing or information resource management activities) for a fiscal year may not exceed the total amount of the allotments and transfers made under this section in fiscal year 1995.”
 
-#### Exceptions From Transfer of Functions
-For exception of functions of corporations of Department of Agriculture from transfer of functions to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, see Exceptions From Transfer of Functions note set out under [section 712a of this title](./chapter-015-economic-recovery.md#section-712a).
-
 #### Clarification of Use of Funds for Technical Assistance
 Pub. L. 113–79, title X, § 10017, Feb. 7, 2014, 128 Stat. 953, provided that: “In the case of each program established or amended by this title [title X of Pub. L. 113–79, see Tables for classification] that is authorized or required to be carried out using funds of the Commodity Credit Corporation, the use of those funds to provide technical assistance shall not be considered an allotment or fund transfer from the Commodity Credit Corporation for purposes of the limit on expenditures for technical assistance imposed by section 11 of the Commodity Credit Corporation Charter Act ([15 U.S.C. 714i](./chapter-015-economic-recovery.md#section-714i)).”
+
+#### Exceptions From Transfer of Functions
+For exception of functions of corporations of Department of Agriculture from transfer of functions to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, see Exceptions From Transfer of Functions note set out under [section 712a of this title](./chapter-015-economic-recovery.md#section-712a).
 
 
 <a id="section-714j"></a>

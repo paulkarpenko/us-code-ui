@@ -191,6 +191,9 @@ Pub. L. 115–405, § 301, Dec. 31, 2018, 132 Stat. 5360, provided that: “Noth
 #### Definitions
 Pub. L. 115–405, § 3, Dec. 31, 2018, 132 Stat. 5355, provided that: “In this Act [see Short Title of 2018 Amendment note above]: “(1) Appropriate committees of congress.—The term ‘appropriate committees of Congress’ means—“(A) the Committee on Commerce, Science, and Transportation of the Senate; and “(B) the Committee on Natural Resources of the House of Representatives. “(2) Council.—The term ‘Council’ means any Regional Fishery Management Council established under section 302 of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1852](./chapter-038-fishery-conservation-and-management.md#section-1852)). “(3) Limited access privilege program.—The term ‘limited access privilege program’ means a program that meets the requirements of section 303A of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1853a](./chapter-038-fishery-conservation-and-management.md#section-1853a)). “(4) Mixed-use fishery.—The term ‘mixed-use fishery’ means a Federal fishery in which 2 or more of the following occur:“(A) Recreational fishing. “(B) Charter fishing. “(C) Commercial fishing.”
 
+#### Sport Fishing and Boating Partnership Council
+Pub. L. 117–58, div. B, title VIII, § 28001(d), Nov. 15, 2021, 135 Stat. 889, provided that: “(1) In general.—The Sport Fishing and Boating Partnership Council established by the Secretary of the Interior shall be an advisory committee of the Department of the Interior and the Department of Commerce subject to the Federal Advisory Committee Act (5 U.S.C. App.). “(2) FACA.— The Secretary of the Interior and the Secretary of Commerce shall jointly carry out the requirements of the Federal Advisory Committee Act (5 U.S.C. App.) with respect to the Sport Fishing and Boating Partnership Council described in paragraph (1). “(3) Effective date.—This subsection shall take effect on January 1, 2023.”
+
 #### Ex. Ord. No. 12962. Recreational Fisheries
 Ex. Ord. No. 12962, June 7, 1995, 60 F.R. 30769, as amended by Ex. Ord. No. 13474, Sept. 26, 2008, 73 F.R. 57229, provided:
 
@@ -5884,7 +5887,7 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 (2) **Venting tool** — The term “venting tool” has the meaning given to it by the Gulf of Mexico Fishery Management Council.
 
-(3) **Gulf reef fish** — The term “Gulf reef fish” means any fish chosen by the Gulf of Mexico Fishery Management Council that is in the reef Fishery Management Plan for the purposes of this Act.
+(3) **Gulf reef fish** — The term “Gulf reef fish” means any fish chosen by the Gulf of Mexico Fishery Management Council that is in the reef Fishery Management Plan for the purposes of this chapter.
 
 ### Statutory Notes
 
@@ -5894,7 +5897,7 @@ For delayed effective date of section and for termination of section five years 
 #### References in Text
 The Resources and Ecosystems Sustainability, Tourist Opportunities, and Revived Economies of the Gulf Coast States Act of 2012, referred to in subsec. (b), is subtitle F (§ 1601 et seq.) of Pub. L. 112–141, div. A, title I, July 6, 2012, 126 Stat. 588, which is set out as a note under [section 1321 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1321&num=0&edition=prelim), Navigation and Navigable Waters. For complete classification of this Act to the Code, see Tables.
 
-This Act, referred to in subsec. (c)(3), is Pub. L. 116–340, Jan. 13, 2021, 134 Stat. 5128, known as the Direct Enhancement of Snapper Conservation and the Economy through Novel Devices Act of 2020 and also known as the DESCEND Act of 2020. For complete classification of this Act to the Code, see Short Title of 2021 Amendment note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+This chapter, referred to in subsec. (c)(3), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
 #### Effective and Termination Dates
 Section effective 1 year after Jan. 13, 2021, see section 3(c) of Pub. L. 116–340, set out as an Effective and Termination Dates of 2021 Amendment note under [section 1858 of this title](./chapter-038-fishery-conservation-and-management.md#section-1858).

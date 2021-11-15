@@ -1146,7 +1146,7 @@ Subsec. (n). Pub. L. 102–573, § 106(i), amended subsec. (n) generally. Prior 
 Subsec. (o). Pub. L. 102–573, § 117(b)(3), struck out subsec. (o) which read as follows: “There are authorized to be appropriated such sums as may be necessary for each fiscal year to carry out the provisions of this section.”
 
 #### Change of Name
-Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 402(c)(3) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402/c/3&num=0&edition=prelim), The Public Health and Welfare.
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 204(c)(3) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section204/c/3&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Effective Date of 1992 Amendment
 Pub. L. 102–573, title I, § 106(g)(2), Oct. 29, 1992, 106 Stat. 4537, provided that: “The amendment made by paragraph (1) [amending this section] shall apply only with respect to contracts under section 108 of the Indian Health Care Improvement Act [this section] entered into on or after the date of enactment of this Act [Oct. 29, 1992].”
@@ -1539,7 +1539,7 @@ The Indian Self-Determination Act, referred to in subsec. (f), is title I of Pub
 1992—Subsecs. (b) to (f). Pub. L. 102–573 added subsec. (b), redesignated former subsecs. (b) to (e) as (c) to (f), respectively, and amended subsec. (f) generally, substituting provisions relating to physicians and nurses employed under the Indian Self-Determination Act for provisions which authorized appropriations for fiscal years 1990 to 1992.
 
 #### Change of Name
-Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 402(c)(3) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402/c/3&num=0&edition=prelim), The Public Health and Welfare.
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 204(c)(3) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section204/c/3&num=0&edition=prelim), The Public Health and Welfare.
 
 
 <a id="section-1616n"></a>
@@ -4758,7 +4758,7 @@ A prior section 1658, Pub. L. 94–437, title V, § 508, Sept. 30, 1976, 90 Stat
 <a id="section-1660b"></a>
 ## § 1660b. Facilities renovation
 
-The Secretary may make funds available to contractors or grant recipients under this subchapter for minor renovations to facilities or construction or expansion of facilities, including leased facilities, to assist such contractors or grant recipients in meeting or maintaining the Joint Commission for Accreditation of Health Care Organizations (JCAHO) standards.
+The Secretary may make funds available to contractors or grant recipients under this subchapter for renovations to facilities or construction or expansion of facilities, including leased facilities.
 
 ### Statutory Notes
 
@@ -4766,6 +4766,8 @@ The Secretary may make funds available to contractors or grant recipients under 
 Amendment by Pub. L. 111–148 is based on section 161 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
 #### Amendments
+2021—Pub. L. 117–58 struck out “minor” before “renovations” and “, to assist such contractors or grant recipients in meeting or maintaining the Joint Commission for Accreditation of Health Care Organizations (JCAHO) standards” before period at end.
+
 2010—Pub. L. 111–148 inserted “or construction or expansion of facilities” after “renovations to facilities”.
 
 1992—Pub. L. 102–573, § 902(5)(A), made technical amendment to section catchline.

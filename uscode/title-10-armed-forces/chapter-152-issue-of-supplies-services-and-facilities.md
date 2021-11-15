@@ -32,7 +32,7 @@ In subsection (c), the words “require of” are substituted for the words “t
 A prior section 2551 was renumbered [section 2561 of this title](./chapter-152-issue-of-supplies-services-and-facilities.md#section-2561).
 
 #### Amendments
-2000—Pub. L. 106–398 renumbered [section 2541 of this title](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2541) as this section.
+2000—Pub. L. 106–398 renumbered [section 2541 of this title](./chapter-chapter-148-chapter-chapter-148.md#section-2541) as this section.
 
 
 <a id="section-2552"></a>
@@ -50,7 +50,7 @@ The Secretary of a military department, under regulations to be prescribed by hi
 The word “may” is substituted for the words “is authorized * * * at his discretion”, in 10:1255 and 34:549. The word “lend” is substituted for the word “issue”, in 10:1255 and 34:549. The words “proper”, “to be”, “out of equipment for medical or other establishments”, and “belonging to the Government”, in 10:1255 and 34:549, are omitted as surplusage. The words “that needs it” are substituted for the words “as may appear to be required”. The words “under the jurisdiction of that department” are inserted for clarity. The words “upon request” are substituted for the words “when called for by the authority which issued them”.
 
 #### Prior Provisions
-A prior section 2552 was renumbered [section 2562 of this title](./chapter-152-issue-of-supplies-services-and-facilities.md#section-2562).
+A prior section 2552 was renumbered [section 2562 of this title](./chapter-152-issue-of-supplies-services-and-facilities.md#section-2562) and was subsequently repealed.
 
 #### Amendments
 2000—Pub. L. 106–398 renumbered [section 2542 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2542&num=0&edition=prelim) as this section.
@@ -217,7 +217,7 @@ Another section 2555 was renumbered [section 2565 of this title](./chapter-152-i
 #### Amendments
 2001—Subsec. (a). Pub. L. 107–107 substituted “Air Mobility Command” for “Military Airlift Command”.
 
-2000—Pub. L. 106–398 renumbered [section 2545 of this title](./chapter-149-defense-acquisition-system.md#section-2545) as this section.
+2000—Pub. L. 106–398 renumbered [section 2545 of this title](./chapter-chapter-149-chapter-chapter-149.md#section-2545) as this section.
 
 
 <a id="section-2556"></a>
@@ -253,7 +253,7 @@ Another section 2555 was renumbered [section 2565 of this title](./chapter-152-i
 ### Statutory Notes
 
 #### Amendments
-2000—Pub. L. 106–398 renumbered [section 2546 of this title](./chapter-149-defense-acquisition-system.md#section-2546) as this section.
+2000—Pub. L. 106–398 renumbered [section 2546 of this title](./chapter-chapter-149-chapter-chapter-149.md#section-2546) as this section.
 
 1985—Subsecs. (d), (e). Pub. L. 99–167 added subsec. (d) and redesignated former subsec. (d) as (e).
 
@@ -308,7 +308,7 @@ Subsec. (b). Pub. L. 111–383, § 1074(a)(2), designated existing provisions as
 
 Subsec. (a). Pub. L. 107–107, § 361(a), designated existing provisions as par. (1) and added par. (2).
 
-2000—Pub. L. 106–398 renumbered [section 2547 of this title](./chapter-149-defense-acquisition-system.md#section-2547) as this section.
+2000—Pub. L. 106–398 renumbered [section 2547 of this title](./chapter-chapter-149-chapter-chapter-149.md#section-2547) as this section.
 
 1991—Subsec. (c). Pub. L. 102–88 struck out par. (1) which read as follows: “a finding under section 662 of the Foreign Assistance Act of 1961 ([22 U.S.C. 2422](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2422&num=0&edition=prelim)); or”, struck out par. (2) designation, and substituted “title V of the National Security Act of 1947 ([50 U.S.C. 413](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section413&num=0&edition=prelim) et seq.)” for “section 501(a)(1) of the National Security Act of 1947 ([50 U.S.C. 413](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section413&num=0&edition=prelim))”.
 
@@ -354,7 +354,7 @@ Subsec. (a). Pub. L. 107–107, § 361(a), designated existing provisions as par
 ### Statutory Notes
 
 #### Amendments
-2000—Pub. L. 106–398 renumbered [section 2548 of this title](./chapter-149-defense-acquisition-system.md#section-2548) as this section.
+2000—Pub. L. 106–398 renumbered [section 2548 of this title](./chapter-chapter-149-chapter-chapter-149.md#section-2548) as this section.
 
 #### Effective Date
 Pub. L. 101–189, div. A, title III, § 329(b), Nov. 29, 1989, 103 Stat. 1417, provided that: “Section 2548 [now 2558] of title 10, United States Code, as added by subsection (a), shall take effect on the date of the enactment of this Act [Nov. 29, 1989].”
@@ -727,7 +727,7 @@ Subsec. (b)(3). Pub. L. 107–107, § 1201(b)(2)(D), struck out par. (3) which r
 
 <a id="section-2566"></a>
 ## § 2566. Space and services: provision to military welfare societies
-**(a) Authority To Provide Space and Services.—** The Secretary of a military department may provide, without charge, space and services under the jurisdiction of that Secretary to a military welfare society.
+**(a) Authority To Provide Space and Services.—** The Secretary concerned may provide, without charge, space and services under the jurisdiction of that Secretary to a military welfare society.
 
 **(b) Definitions.—** In this section:
 
@@ -739,7 +739,16 @@ Subsec. (b)(3). Pub. L. 107–107, § 1201(b)(2)(D), struck out par. (3) which r
 
   (C) The Air Force Aid Society, Inc.
 
+  (D) The Coast Guard Mutual Assistance.
+
 (2) The term “services” includes lighting, heating, cooling, electricity, office furniture, office machines and equipment, telephone and other information technology services (including installation of lines and equipment, connectivity, and other associated services), and security systems (including installation and other associated expenses).
+
+### Statutory Notes
+
+#### Amendments
+2021—Subsec. (a). Pub. L. 117–81, § 1043(1), substituted “concerned” for “of a military department”.
+
+Subsec. (b)(1)(D). Pub. L. 117–81, § 1043(2), added subpar. (D).
 
 
 <a id="section-2567"></a>

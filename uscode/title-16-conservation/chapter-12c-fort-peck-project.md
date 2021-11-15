@@ -19,6 +19,7 @@ Department of War designated Department of the Army and title of Secretary of Wa
 #### Transfer of Functions
 Power marketing functions of Bureau of Reclamation, including construction, operation, and maintenance of transmission lines and attendant facilities, transferred to Secretary of Energy by section 7152(a)(1)(E), (3) of Title 42, The Public Health and Welfare, and are to be exercised by Secretary through a separate Administration within Department of Energy.
 
+#### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
@@ -44,13 +45,14 @@ Department of War designated Department of the Army and title of Secretary of Wa
 #### Transfer of Functions
 Power marketing functions of Bureau of Reclamation, including construction, operation, and maintenance of transmission lines and attendant facilities, transferred to Secretary of Energy by section 7152(a)(1)(E), (3) of Title 42, The Public Health and Welfare, and are to be exercised by Secretary through a separate Administration within Department of Energy.
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Transfer of Certain Facilities
 Act Aug. 31, 1951, ch. 375, title I, § 101, 65 Stat. 257, provided in part: “The Secretary of the Army is hereby authorized to transfer to the Department of the Interior without exchange of funds, all of the right, title, and interest of the Department of the Army in and to the following facilities, including rights-of-way (except that portion of the rights-of-way within the Fort Peck Reservoir area), but there shall be reserved the right to use the power facilities for the purpose of transmitting power to the Fort Peck project during emergency periods when the Fort Peck power plant is not functioning: (a) the Fort Peck-Rainbow (Great Falls) 161 kilovolt transmission line; (b) the Rainbow (Great Falls) terminal facilities; and (c) the Fort Peck-Whatley 50 kilovolt transmission line and substation.”
 
 #### Transfer of Transmission Lines, Substations, etc.; Cost Price; Authority of Secretary
 Act Feb. 27, 1948, ch. 75, 62 Stat. 36, provided: “That, in aid of the administration of the Fort Peck project, there is hereby granted to the United States, for use by the Bureau of Reclamation, Department of the Interior (hereinafter referred to as the ‘Bureau’), in the discharge of its duties pursuant to the Act of May 18, 1938 (52 Stat. 403) [this chapter], the electric-transmission lines, substations, rights-of-way, and other property described in section 7 of that certain permit and memorandum of understanding, dated November 2, 1945, between the Bureau and the Office of Indian Affairs, Department of the Interior (hereinafter referred to as the ‘Indian Office’): Provided, however, That the Bureau shall continue to furnish electric service for the uses and purposes of the Indian Office on the Fort Peck Indian Reservation, pursuant to the terms and conditions of said permit and memorandum of understanding, except as the same may be modified by the Secretary of the Interior. “Sec. 2. That the amount of money to be paid for said property shall be $58,577.52, or so much thereof as the Secretary of the Interior shall determine to be needed pursuant to the provisions of said permit and memorandum of understanding. Such sum shall be paid, from funds now or hereafter made available to the Department of the Interior for the construction of transmission lines and substations of the Fort Peck project, to the Commissioner of Indian Affairs, who shall deposit such sum in the Treasury of the United States as a credit on expenditures made for irrigation and power construction on the Fort Peck Indian irrigation project. “Sec. 3. The Secretary of the Interior is authorized to perform any and all acts as may be deemed necessary to carry out the provisions of this Act [Act Feb. 27, 1948, ch. 75, 62 Stat. 36].”
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-833b"></a>
@@ -69,6 +71,7 @@ In order to insure that the facilities for the generation of electric energy at 
 #### Transfer of Functions
 Power marketing functions of Bureau of Reclamation, including construction, operation, and maintenance of transmission lines and attendant facilities, transferred to Secretary of Energy by section 7152(a)(1)(E), (3) of Title 42, The Public Health and Welfare, and are to be exercised by Secretary through a separate Administration within Department of Energy.
 
+#### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
@@ -84,8 +87,9 @@ Power marketing functions of Bureau of Reclamation, including construction, oper
 
 “Secretary of Energy” substituted in text for “Federal Power Commission” pursuant to Pub. L. 95–91, § 301(b), which is classified to [section 7151(b) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7151/b&num=0&edition=prelim).
 
-Federal Power Commission terminated and its functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
+The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
 
+#### Transfer of Functions
 Executive and administrative functions of Federal Power Commission, with certain reservations, transferred to Chairman of such Commission, with authority vested in him to authorize their performance by any officer, employee, or administrative unit under his jurisdiction, by Reorg. Plan No. 9 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out as a note under [section 792 of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-792).
 
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
@@ -101,8 +105,9 @@ It is the intent of Congress that rate schedules for the sale of electric energy
 #### Transfer of Functions
 “Secretary of Energy” substituted in text for “Federal Power Commission” pursuant to Pub. L. 95–91, § 301(b), which is classified to [section 7151(b) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7151/b&num=0&edition=prelim), The Public Health and Welfare.
 
-Federal Power Commission terminated and its functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
+The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
 
+#### Transfer of Functions
 Executive and administrative functions of Federal Power Commission, with certain reservations, transferred to Chairman of such Commission, with authority vested in him to authorize their performance by any officer, employee, or administrative unit under his jurisdiction, by Reorg. Plan No. 9 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out as a note under [section 792 of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-792).
 
 
@@ -119,6 +124,7 @@ Department of War designated Department of the Army and title of Secretary of Wa
 #### Transfer of Functions
 Power marketing functions of Bureau of Reclamation, including construction, operation, and maintenance of transmission lines and attendant facilities, transferred to Secretary of Energy by section 7152(a)(1)(E), (3) of Title 42, The Public Health and Welfare, and are to be exercised by Secretary through a separate Administration within Department of Energy.
 
+#### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
@@ -139,6 +145,7 @@ The Federal Power Act, referred to in subsec. (a), was in the original the “Fe
 #### Transfer of Functions
 Power marketing functions of Bureau of Reclamation, including construction, operation, and maintenance of transmission lines and attendant facilities, transferred to Secretary of Energy by section 7152(a)(1)(E), (3) of Title 42, The Public Health and Welfare, and are to be exercised by Secretary through a separate Administration within Department of Energy.
 
+#### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
@@ -161,19 +168,20 @@ As to the compensation of such personnel, sections 1202 and 1204 of the Classifi
 #### Amendments
 1949—Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
 
-#### Repeals
-Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
-
 #### Change of Name
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued military Department of the Army under administrative supervision of Secretary of the Army.
+
+#### Repeals
+Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
 
 #### Transfer of Functions
 Power marketing functions of Bureau of Reclamation, including construction, operation, and maintenance of transmission lines and attendant facilities, transferred to Secretary of Energy by section 7152(a)(1)(E), (3) of Title 42, The Public Health and Welfare, and are to be exercised by Secretary through a separate Administration within Department of Energy.
 
 “Secretary of Energy” substituted in text for “Federal Power Commission” pursuant to Pub. L. 95–91, § 301(b), which is classified to [section 7151(b) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7151/b&num=0&edition=prelim).
 
-Federal Power Commission terminated and its functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
+The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
 
+#### Transfer of Functions
 Executive and administrative functions of Federal Power Commission, with certain reservations, transferred to Chairman of such Commission, with authority vested in him to authorize their performance by any officer, employee, or administrative unit under his jurisdiction, by Reorg. Plan No. 9 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out as a note under [section 792 of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-792).
 
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
@@ -189,6 +197,7 @@ All receipts from transmission and sale of electric energy generated at the Fort
 #### Transfer of Functions
 Power marketing functions of Bureau of Reclamation, including construction, operation, and maintenance of transmission lines and attendant facilities, transferred to Secretary of Energy by section 7152(a)(1)(E), (3) of Title 42, The Public Health and Welfare, and are to be exercised by Secretary through a separate Administration within Department of Energy.
 
+#### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
@@ -202,6 +211,7 @@ The Secretary of the Interior may, in the name of the United States, under the s
 #### Transfer of Functions
 Power marketing functions of Bureau of Reclamation, including construction, operation, and maintenance of transmission lines and attendant facilities, transferred to Secretary of Energy by section 7152(a)(1)(E), (3) of Title 42, The Public Health and Welfare, and are to be exercised by Secretary through a separate Administration within Department of Energy.
 
+#### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
@@ -291,4 +301,5 @@ Section was not enacted as part of act May 18, 1938, which comprises this chapte
 #### Transfer of Functions
 Power marketing functions of Bureau of Reclamation, including construction, operation, and maintenance of transmission lines and attendant facilities, transferred to Secretary of Energy by section 7152(a)(1)(E), (3) of Title 42, The Public Health and Welfare, and are to be exercised by Secretary through a separate Administration within Department of Energy.
 
+#### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.

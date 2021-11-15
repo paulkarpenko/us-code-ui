@@ -77,6 +77,11 @@ It is the policy of the United States—
 
 (17) to ensure the United States maintains its predominant leadership position and influence within the International Monetary Fund, and to guarantee the International Monetary Fund has the resources and governance structure necessary to support structural reforms in Ukraine and respond to and prevent a potentially serious financial crisis in Ukraine or other foreign economic crises that threatens United States national security.
 
+### Statutory Notes
+
+#### Cooperation Between the United States and Ukraine Regarding the Titanium Industry
+Pub. L. 117–81, div. F, title LXV, § 6505, Dec. 27, 2021, 135 Stat. 2428, provided that: “(a) Statement of Policy.—It is the policy of the United States to engage with the Government of Ukraine on cooperation in the titanium industry as a potential alternative to Chinese and Russian sources on which the United States and Europe currently depend. “(b) Reporting Requirement.—Not later than 180 days after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of State shall submit to the appropriate congressional committees a report that describes the feasibility of utilizing titanium sources from Ukraine as a potential alternative to Chinese and Russian sources. “(c) Form.—The report required by subsection (b) shall be submitted in unclassified form, but may include a classified annex. “(d) Appropriate Congressional Committees.—In this section, the term ‘appropriate congressional committees’ means—“(1) the Committee on Foreign Relations and the Committee on Armed Services of the Senate; and “(2) the Committee on Foreign Affairs and the Committee on Armed Services of the House of Representatives.”
+
 
 <a id="section-8903"></a>
 ## § 8903. Provision of costs of loan guarantees for Ukraine

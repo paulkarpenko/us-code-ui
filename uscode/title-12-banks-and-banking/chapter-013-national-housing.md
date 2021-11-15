@@ -3031,11 +3031,11 @@ Section was enacted as part of the Thrift Institutions Restructuring Act and als
 #### Amendments
 1983—Subsec. (d). Pub. L. 98–181 substituted “With respect to a real property loan secured by a lien on residential real property containing less than five dwelling units, including a lien on the stock allocated to a dwelling unit in a cooperative housing corporation, or on a residential manufactured home, a lender” for “A lender”.
 
-#### Termination of Trust Territory of the Pacific Islands
-For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
-
 #### Transfer of Functions
 Federal Home Loan Bank Board abolished and functions transferred, see sections 401 to 406 of Pub. L. 101–73, set out as a note under [section 1437 of this title](./chapter-011-federal-home-loan-banks.md#section-1437).
+
+#### Termination of Trust Territory of the Pacific Islands
+For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
 
 
 <a id="section-1713"></a>
@@ -3464,7 +3464,7 @@ The Secretary shall not reject an application on technical grounds without givin
 
 **(m) Authorization of appropriations** There is authorized to be appropriated for providing assistance under this section $710,000,000 for fiscal year 2000.
 
-**(m) 22 So in original. Probably should be “(n)”. Authorization of appropriations** There are authorized to be appropriated for providing assistance under this section such sums as may be necessary for each of fiscal years 2001, 2002, and 2003.
+**(m) 11 So in original. Probably should be “(n)”. Authorization of appropriations** There are authorized to be appropriated for providing assistance under this section such sums as may be necessary for each of fiscal years 2001, 2002, and 2003.
 
 ### Statutory Notes
 
@@ -6313,7 +6313,7 @@ Section was enacted as part of the Housing and Urban Development Act of 1970, an
 
 (2) The term “approved”, with respect to an energy conservation measure or a renewable-resource energy measure, means any such measure which is included on a list of such measures which is published by the Administrator of the Federal Energy Administration pursuant to section 365(e)(1) of the Energy Policy and Conservation Act [[42 U.S.C. 6325(e)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6325/e/1&num=0&edition=prelim)]. The Administrator may, by rule, require that an energy audit be conducted as a condition of obtaining assistance under this section for a renewable-resource energy measure.
 
-(3) The terms “energy audit”, “energy conservation measure”, and “renewable-resource energy measure” have the meanings prescribed for such terms in section 366 of the Energy Policy and Conservation Act [[42 U.S.C. 6326](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6326&num=0&edition=prelim)].
+(3) The terms “energy audit”, “energy conservation measure”, and “renewable-resource energy measure” have the meanings given the terms in section 361(c) of the Energy Policy and Conservation Act [[42 U.S.C. 6321(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6321/c&num=0&edition=prelim)].
 
 **(j) Authorization of appropriations** There is authorized to be appropriated, for purposes of this section, not to exceed $200,000,000. Any amount appropriated pursuant to this subsection shall remain available until expended.
 
@@ -6326,6 +6326,8 @@ The Energy Policy and Conservation Act, referred to in subsecs. (c)(4) and (f), 
 Section was enacted as part of the Housing and Urban Development Act of 1970, and not as part of the National Housing Act which comprises this chapter.
 
 #### Amendments
+2021—Subsec. (i)(3). Pub. L. 117–58 substituted “given the terms in section 361(c) of the Energy Policy and Conservation Act” for “prescribed for such terms in section 366 of the Energy Policy and Conservation Act”.
+
 1977—Subsecs. (c)(6), (e). Pub. L. 95–91 inserted “, the Secretary of Housing and Urban Development,” after “the Administrator”.
 
 #### Transfer of Functions
@@ -6821,16 +6823,6 @@ Pub. L. 111–22, div. A, title II, § 203(g), May 20, 2009, 123 Stat. 1648, pro
 
     (ii) For any mortgage involving an original principal obligation (excluding any premium collected under subparagraph (A)) that is greater than or equal to 90 percent of such value, for the first 30 years of the mortgage term; except that notwithstanding the matter preceding clause (i), for any mortgage involving an original principal obligation (excluding any premium collected under subparagraph (A)) that is greater than 95 percent of such value, the annual premium collected during the 30-year period under this clause may be in an amount not exceeding 1.55 percent of the remaining insured principal balance (excluding the portion of the remaining balance attributable to the premium collected under subparagraph (A) and without taking into account delinquent payments or prepayments).
 
-  (C)
-
-    (i) In addition to the premiums under subparagraphs (A) and (B), the Secretary shall establish and collect annual premium payments for any mortgage for which the Secretary collects an annual premium payment under subparagraph (B), in an amount described in clause (ii).
-
-    (ii)
-
-      (I) Subject to subclause (II), with respect to a mortgage, the amount described in this clause is 10 basis points of the remaining insured principal balance (excluding the portion of the remaining balance attributable to the premium collected under subparagraph (A) and without taking into account delinquent payments or prepayments).
-
-      (II) During the 2-year period beginning on December 23, 2011, the Secretary shall increase the number of basis points of the annual premium payment collected under this subparagraph incrementally, as determined appropriate by the Secretary, until the number of basis points of the annual premium payment collected under this subparagraph is equal to the number described in subclause (I).
-
 **(d) Increase in maximum amount of mortgage**
 
 (1) Except as provided in paragraph (2) of this subsection, notwithstanding 22 So in original. provision of this subchapter governing maximum mortgage amounts for insuring a mortgage secured by a one- to four-family dwelling, the maximum amount of the mortgage determined under any such provision may be increased by the amount of the mortgage insurance premium paid at the time the mortgage is insured.
@@ -7013,9 +7005,6 @@ The report required under this subsection shall include the report required unde
     (ii) *Other considerations* — The Secretary may increase the percentage applicable pursuant to clause (i) to a condominium project on a project-by-project or regional basis, and in determining such percentage for a project shall consider factors relating to the economy for the locality in which such project is located or specific to project,2 including the total number of family units in the project.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (c)(2)
-Pub. L. 112–78, § 402(b), Dec. 23, 2011, 125 Stat. 1289, provided that, effective Oct. 1, 2021, subsection (c)(2) of this section is amended by striking subparagraph (C). See 2011 Amendment note below.
 
 #### References in Text
 [Section 1715z–10 of this title](./chapter-013-national-housing.md#section-1715z-10), referred to in subsec. (c)(1), was repealed by Pub. L. 110–289, div. B, title I, § 2120(a)(7), July 30, 2008, 122 Stat. 2835.
@@ -9225,9 +9214,6 @@ The directory language of, but not the amendment made by, Pub. L. 90–301, § 3
 #### Regulations
 Pub. L. 102–550, title V, § 509(h), Oct. 28, 1992, 106 Stat. 3783, provided that: “The Secretary of Housing and Urban Development shall issue regulations necessary to carry out the amendments made by subsections (a) through (g) [amending this section and sections 1715e, 1715k, 1715l, 1715v, and 1715y of this title], which shall take effect not later than the expiration of the 1-year period beginning on the date of the enactment of this Act [Oct. 28, 1992].”
 
-#### Termination of Trust Territory of the Pacific Islands
-For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
-
 #### Delegation of Processing of Mortgage Insurance
 Pub. L. 101–625, title III, § 328, Nov. 28, 1990, 104 Stat. 4138, as amended by Pub. L. 102–242, title II, § 226, Dec. 19, 1991, 105 Stat. 2307, provided that: “(a) Authority.—Not later than the expiration of the 60-day period beginning on the date of enactment this Act [Nov. 28, 1990], the Secretary of Housing and Urban Development shall implement a system of mortgage insurance for mortgages insured under section 207, 221, 223, 232, or 241 of the National Housing Act [[12 U.S.C. 1713](./chapter-013-national-housing.md#section-1713), 1715l, 1715n, 1715w, 1715z–6] that delegates processing functions to selected approved mortgagees or other individuals and entities expressly approved by the Department of Housing and Urban Development. Under such system, the Secretary shall retain the authority to approve rents, expenses, property appraisals, and mortgage amounts and to execute a firm commitment. “(b) Full Insurance Program.—Notwithstanding subsection (a), the Secretary shall maintain a viable system for full insurance programs under such Act [this chapter] under which all processing functions are performed by officers and employees of the Department of Housing and Urban Development.”
 
@@ -9236,6 +9222,9 @@ Pub. L. 98–181, title I [title IV, § 446(f)], Nov. 30, 1983, 97 Stat. 1228, p
 
 #### Amendments to Provisions for Family Unit Limits on Rental Housing; Equitable Application of Such Amendments or Pre-Amendment Provisions to Projects Submitted for Consideration Prior to September 2, 1964
 Pub. L. 88–560, title I, § 107(g), Sept. 2, 1964, 78 Stat. 776, as amended by Pub. L. 90–19, § 21(a), May 25, 1967, 81 Stat. 25, provided that if the Secretary of Housing and Urban Development determined that it would be inequitable to apply the provisions of the National Housing Act as amended by section 107 [amending sections 1713, 1715e, 1715k, 1715l, 1715v, and 1748h–2 of this title] to a project which had been submitted for his consideration prior to Sept. 2, 1964, such provisions could be applied to such project without regard to the amendments made by section 107.
+
+#### Termination of Trust Territory of the Pacific Islands
+For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
 
 
 <a id="section-1719"></a>
@@ -11048,7 +11037,7 @@ Pub. L. 111–22, div. A, title II, § 203(d)(4), May 20, 2009, 123 Stat. 1647, 
 
 **(e) Applicability of other laws** The provisions of subsections (d), (e), (g), (h), (i), (j), (k), (l), and (n) of [section 1713 of this title](./chapter-013-national-housing.md#section-1713) shall apply to mortgages insured under this section and all references therein to [section 1713 of this title](./chapter-013-national-housing.md#section-1713) shall refer to this section.
 
-**(f) Handicapped family units and facilities; rental preference or priority** Notwithstanding any of the provisions of this section, the housing provided under this section may include family units which are specially designed for the use and occupancy of any person or family qualifying as a handicapped family as defined in section 1701q 22 See References in Text note below. of this title, and such special facilities as the Secretary deems adequate to serve handicapped families (as so defined). The Secretary may also prescribe procedures to secure to such families preference or priority of opportunity to rent the living units specially designed for their use and occupancy.
+**(f) Handicapped family units and facilities; rental preference or priority** Notwithstanding any of the provisions of this section, the housing provided under this section may include family units which are specially designed for the use and occupancy of any person or family qualifying as a handicapped family as defined in section 1701q 1 of this title, and such special facilities as the Secretary deems adequate to serve handicapped families (as so defined). The Secretary may also prescribe procedures to secure to such families preference or priority of opportunity to rent the living units specially designed for their use and occupancy.
 
 ### Statutory Notes
 
@@ -11504,7 +11493,7 @@ Subsec. (e)(3). Pub. L. 96–153, § 314, substituted “75 per centum” for �
 
 1977—Subsec. (c). Pub. L. 95–128 substituted in cl. (A) “$60,000” for “$45,000” and “and (ii) 95 per centum of such value in excess of $25,000,” for “(ii) 90 per centum of such value in excess of $25,000 but not in excess of $35,000, (iii) 80 per centum of such value in excess of $35,000”.
 
-1976—Subsec. (e) (3). Pub. L. 94–375 substituted “50 per centum in any geographical area” for “75 per centum in any geographical area”, “$19,500” for “$13,000”, “$21,600” for “$18,000”, “$25,800” for “$21,500”, “$31,800” for “$26,500”, “$36,000” for “$30,000”, “$22,500” for “$15,000”, “$25,200” for “$21,000”, “$30,900” for “$25,750”, “$38,700” for “$32,250”, and “$43,758” for “$36,465”.
+1976—Subsec. (e)(3). Pub. L. 94–375 substituted “50 per centum in any geographical area” for “75 per centum in any geographical area”, “$19,500” for “$13,000”, “$21,600” for “$18,000”, “$25,800” for “$21,500”, “$31,800” for “$26,500”, “$36,000” for “$30,000”, “$22,500” for “$15,000”, “$25,200” for “$21,000”, “$30,900” for “$25,750”, “$38,700” for “$32,250”, and “$43,758” for “$36,465”.
 
 1975—Subsec. (e)(3). Pub. L. 94–173 raised from 45 per centum to 75 per centum the amount by which any dollar limitation may, by regulation, be increased.
 
@@ -14729,14 +14718,14 @@ Subsec. (d)(4). Pub. L. 95–128, § 308(a), inserted reference to section 1521.
 
 Subsec. (d)(2). Pub. L. 91–609, § 109, increased limitation on amount of mortgage from $25,000,000 to $50,000,000.
 
+#### Change of Name
+“Department of Health and Human Services” substituted for “Department of Health, Education, and Welfare” in subsec. (d)(5)(A), (B) pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Effective Date of 2003 Amendment
 Pub. L. 108–91, § 2(b), Oct. 3, 2003, 117 Stat. 1158, provided that: “(1) In general.—The amendment made by subsection (a) [amending this section] shall take effect and apply as of the date of the enactment of this Act [Oct. 3, 2003]. “(2) Effect of regulatory authority.—Any authority of the Secretary of Housing and Urban Development to issue regulations to carry out the amendment made by subsection (a) may not be construed to affect the effectiveness or applicability of such amendment under paragraph (1) of this subsection.”
 
 #### Effective Date of 1981 Amendment
 Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 97–35, set out as an Effective Date note under [section 3701 of this title](./chapter-038-multifamily-mortgage-foreclosure.md#section-3701).
-
-#### Change of Name
-“Department of Health and Human Services” substituted for “Department of Health, Education, and Welfare” in subsec. (d)(5)(A), (B) pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
 #### Regulations
 Pub. L. 100–242, title IV, § 411(b), Feb. 5, 1988, 101 Stat. 1905, directed Secretary of Housing and Urban Development to issue regulations to carry out amendment of this section by not later than expiration of 90-day period following Feb. 5, 1988.
@@ -16408,9 +16397,6 @@ Pub. L. 89–429, § 9, May 24, 1966, 80 Stat. 168, authorized Federal National 
 #### Trust Agreements With Administrator of Veterans’ Affairs
 Pub. L. 89–429, § 6(a), May 24, 1966, 80 Stat. 167, provided that: “Nothing in this Act [enacting [section 1717a of this title](./chapter-013-national-housing.md#section-1717a) and [section 745 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section745&num=0&edition=prelim), Education, amending this section and sections 1720, 1749, and 1757 of this title, [section 1988 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1988&num=0&edition=prelim), Agriculture, and [section 743 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section743&num=0&edition=prelim), and enacting material set out as notes under this section] shall be construed to repeal or modify the provisions of section 1820(e) [now 3720(e)] of title 38, United States Code, respecting the authority of the Administrator of Veterans’ Affairs [now Secretary of Veterans Affairs].”
 
-#### Admission of Alaska and Hawaii to Statehood
-Alaska was admitted into the Union on Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, and Hawaii was admitted into the Union on Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74. For Alaska Statehood Law, see Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as a note preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions. For Hawaii Statehood Law, see Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as a note preceding [section 491 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section491&num=0&edition=prelim).
-
 #### REORGANIZATION PLAN NO. 22 OF 1950Eff. July 9, 1950, 15 F.R. 4365, 64 Stat. 1277
 Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, May 9, 1950, pursuant to the provisions of the Reorganization Act of 1949, approved June 20, 1949 [see [5 U.S.C. 901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section901&num=0&edition=prelim) et seq.].
 
@@ -16445,6 +16431,9 @@ There are hereby transferred with the functions transferred by this reorganizati
 The provisions of this reorganization plan shall take effect 60 days after they would take effect under section 6(a) of the Reorganization Act of 1949 in the absence of this section [Eff. date July 9, 1950, in operation Sept. 7, 1950].
 
 [Housing and Home Finance Agency lapsed and functions were transferred to Secretary of Housing and Urban Development, see section 9(c) of Pub. L. 89–174, Sept. 9, 1965, 79 Stat. 670, set out as a note under [42 U.S.C. 3531](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3531&num=0&edition=prelim).]
+
+#### Admission of Alaska and Hawaii to Statehood
+Alaska was admitted into the Union on Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, and Hawaii was admitted into the Union on Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74. For Alaska Statehood Law, see Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as a note preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions. For Hawaii Statehood Law, see Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as a note preceding [section 491 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section491&num=0&edition=prelim).
 
 
 <a id="section-1747"></a>

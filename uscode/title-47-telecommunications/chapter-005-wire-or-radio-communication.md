@@ -2,7 +2,7 @@
 title: 47
 chapter: '5'
 heading: WIRE OR RADIO COMMUNICATION
-section_count: 249
+section_count: 250
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47&num=0&edition=prelim
 ---
@@ -2927,6 +2927,9 @@ Pub. L. 101–435, § 2, Oct. 17, 1990, 104 Stat. 986, provided that: “The Con
 #### References in Text
 This chapter, referred to in subsecs. (b)(4)(A), (B) and (e)(5)(A)(i), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see [section 609 of this title](./chapter-005-wire-or-radio-communication.md#section-609) and Tables.
 
+#### Constitutionality
+For information regarding constitutionality of provisions of subsection (b)(1)(A)(iii) of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
+
 #### Amendments
 2019—Subsec. (b)(2)(I). Pub. L. 116–105, § 8(a), added subpar. (I).
 
@@ -3610,90 +3613,8 @@ Pub. L. 115–164, § 7, Apr. 11, 2018, 132 Stat. 1255, provided that: “Nothin
 #### Sense of Congress
 Pub. L. 115–164, § 2, Apr. 11, 2018, 132 Stat. 1253, provided that: “It is the sense of Congress that— “(1) section 230 of the Communications Act of 1934 ([47 U.S.C. 230](./chapter-005-wire-or-radio-communication.md#section-230); commonly known as the ‘Communications Decency Act of 1996’) was never intended to provide legal protection to websites that unlawfully promote and facilitate prostitution and websites that facilitate traffickers in advertising the sale of unlawful sex acts with sex trafficking victims; “(2) websites that promote and facilitate prostitution have been reckless in allowing the sale of sex trafficking victims and have done nothing to prevent the trafficking of children and victims of force, fraud, and coercion; and “(3) clarification of such section is warranted to ensure that such section does not provide such protection to such websites.”
 
-#### Ex. Ord. No. 13925. Preventing Online Censorship
-Ex. Ord. No. 13925, May 28, 2020, 85 F.R. 34079, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
-
-Section 1. Policy. Free speech is the bedrock of American democracy. Our Founding Fathers protected this sacred right with the First Amendment to the Constitution. The freedom to express and debate ideas is the foundation for all of our rights as a free people.
-
-In a country that has long cherished the freedom of expression, we cannot allow a limited number of online platforms to hand pick the speech that Americans may access and convey on the internet. This practice is fundamentally un-American and anti-democratic. When large, powerful social media companies censor opinions with which they disagree, they exercise a dangerous power. They cease functioning as passive bulletin boards, and ought to be viewed and treated as content creators.
-
-The growth of online platforms in recent years raises important questions about applying the ideals of the First Amendment to modern communications technology. Today, many Americans follow the news, stay in touch with friends and family, and share their views on current events through social media and other online platforms. As a result, these platforms function in many ways as a 21st century equivalent of the public square.
-
-Twitter, Facebook, Instagram, and YouTube wield immense, if not unprecedented, power to shape the interpretation of public events; to censor, delete, or disappear information; and to control what people see or do not see.
-
-As President, I have made clear my commitment to free and open debate on the internet. Such debate is just as important online as it is in our universities, our town halls, and our homes. It is essential to sustaining our democracy.
-
-Online platforms are engaging in selective censorship that is harming our national discourse. Tens of thousands of Americans have reported, among other troubling behaviors, online platforms “flagging” content as inappropriate, even though it does not violate any stated terms of service; making unannounced and unexplained changes to company policies that have the effect of disfavoring certain viewpoints; and deleting content and entire accounts with no warning, no rationale, and no recourse.
-
-Twitter now selectively decides to place a warning label on certain tweets in a manner that clearly reflects political bias. As has been reported, Twitter seems never to have placed such a label on another politician’s tweet. As recently as last week, Representative Adam Schiff was continuing to mislead his followers by peddling the long-disproved Russian Collusion Hoax, and Twitter did not flag those tweets. Unsurprisingly, its officer in charge of so-called “Site Integrity” has flaunted his political bias in his own tweets.
-
-At the same time online platforms are invoking inconsistent, irrational, and groundless justifications to censor or otherwise restrict Americans’ speech here at home, several online platforms are profiting from and promoting the aggression and disinformation spread by foreign governments like China. One United States company, for example, created a search engine for the Chinese Communist Party that would have blacklisted searches for “human rights,” hid data unfavorable to the Chinese Communist Party, and tracked users determined appropriate for surveillance. It also established research partnerships in China that provide direct benefits to the Chinese military. Other companies have accepted advertisements paid for by the Chinese government that spread false information about China’s mass imprisonment of religious minorities, thereby enabling these abuses of human rights. They have also amplified China’s propaganda abroad, including by allowing Chinese government officials to use their platforms to spread misinformation regarding the origins of the COVID–19 pandemic, and to undermine pro-democracy protests in Hong Kong.
-
-As a Nation, we must foster and protect diverse viewpoints in today’s digital communications environment where all Americans can and should have a voice. We must seek transparency and accountability from online platforms, and encourage standards and tools to protect and preserve the integrity and openness of American discourse and freedom of expression.
-
-Sec. 2. Protections Against Online Censorship. (a) It is the policy of the United States to foster clear ground rules promoting free and open debate on the internet. Prominent among the ground rules governing that debate is the immunity from liability created by section 230(c) of the Communications Decency Act (section 230(c)). [47 U.S.C. 230(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section230/c&num=0&edition=prelim). It is the policy of the United States that the scope of that immunity should be clarified: the immunity should not extend beyond its text and purpose to provide protection for those who purport to provide users a forum for free and open speech, but in reality use their power over a vital means of communication to engage in deceptive or pretextual actions stifling free and open debate by censoring certain viewpoints.
-
-Section 230(c) was designed to address early court decisions holding that, if an online platform restricted access to some content posted by others, it would thereby become a “publisher” of all the content posted on its site for purposes of torts such as defamation. As the title of section 230(c) makes clear, the provision provides limited liability “protection” to a provider of an interactive computer service (such as an online platform) that engages in “ ‘Good Samaritan’ blocking” of harmful content. In particular, the Congress sought to provide protections for online platforms that attempted to protect minors from harmful content and intended to ensure that such providers would not be discouraged from taking down harmful material. The provision was also intended to further the express vision of the Congress that the internet is a “forum for a true diversity of political discourse.” [47 U.S.C. 230(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section230/a/3&num=0&edition=prelim). The limited protections provided by the statute should be construed with these purposes in mind.
-
-In particular, subparagraph (c)(2) expressly addresses protections from “civil liability” and specifies that an interactive computer service provider may not be made liable “on account of” its decision in “good faith” to restrict access to content that it considers to be “obscene, lewd, lascivious, filthy, excessively violent, harassing or otherwise objectionable.” It is the policy of the United States to ensure that, to the maximum extent permissible under the law, this provision is not distorted to provide liability protection for online platforms that—far from acting in “good faith” to remove objectionable content—instead engage in deceptive or pretextual actions (often contrary to their stated terms of service) to stifle viewpoints with which they disagree. Section 230 was not intended to allow a handful of companies to grow into titans controlling vital avenues for our national discourse under the guise of promoting open forums for debate, and then to provide those behemoths blanket immunity when they use their power to censor content and silence viewpoints that they dislike. When an interactive computer service provider removes or restricts access to content and its actions do not meet the criteria of subparagraph (c)(2)(A), it is engaged in editorial conduct. It is the policy of the United States that such a provider should properly lose the limited liability shield of subparagraph (c)(2)(A) and be exposed to liability like any traditional editor and publisher that is not an online provider.
-
-(b) To advance the policy described in subsection (a) of this section, all executive departments and agencies should ensure that their application of section 230(c) properly reflects the narrow purpose of the section and take all appropriate actions in this regard. In addition, within 60 days of the date of this order [May 28, 2020], the Secretary of Commerce (Secretary), in consultation with the Attorney General, and acting through the National Telecommunications and Information Administration (NTIA), shall file a petition for rulemaking with the Federal Communications Commission (FCC) requesting that the FCC expeditiously propose regulations to clarify:
-
-(i) the interaction between subparagraphs (c)(1) and (c)(2) of section 230, in particular to clarify and determine the circumstances under which a provider of an interactive computer service that restricts access to content in a manner not specifically protected by subparagraph (c)(2)(A) may also not be able to claim protection under subparagraph (c)(1), which merely states that a provider shall not be treated as a publisher or speaker for making third-party content available and does not address the provider’s responsibility for its own editorial decisions;
-
-(ii) the conditions under which an action restricting access to or availability of material is not “taken in good faith” within the meaning of subparagraph (c)(2)(A) of section 230, particularly whether actions can be “taken in good faith” if they are:
-
-(A) deceptive, pretextual, or inconsistent with a provider’s terms of service; or
-
-(B) taken after failing to provide adequate notice, reasoned explanation, or a meaningful opportunity to be heard; and
-
-(iii) any other proposed regulations that the NTIA concludes may be appropriate to advance the policy described in subsection (a) of this section.
-
-Sec. 3. Protecting Federal Taxpayer Dollars from Financing Online Platforms That Restrict Free Speech. (a) The head of each executive department and agency (agency) shall review its agency’s Federal spending on advertising and marketing paid to online platforms. Such review shall include the amount of money spent, the online platforms that receive Federal dollars, and the statutory authorities available to restrict their receipt of advertising dollars.
-
-(b) Within 30 days of the date of this order, the head of each agency shall report its findings to the Director of the Office of Management and Budget.
-
-(c) The Department of Justice shall review the viewpoint-based speech restrictions imposed by each online platform identified in the report described in subsection (b) of this section and assess whether any online platforms are problematic vehicles for government speech due to viewpoint discrimination, deception to consumers, or other bad practices.
-
-Sec. 4. Federal Review of Unfair or Deceptive Acts or Practices. (a) It is the policy of the United States that large online platforms, such as Twitter and Facebook, as the critical means of promoting the free flow of speech and ideas today, should not restrict protected speech. The Supreme Court has noted that social media sites, as the modern public square, “can provide perhaps the most powerful mechanisms available to a private citizen to make his or her voice heard.” Packingham v. North Carolina, 137 S. Ct. 1730, 1737 (2017). Communication through these channels has become important for meaningful participation in American democracy, including to petition elected leaders. These sites are providing an important forum to the public for others to engage in free expression and debate. Cf. PruneYard Shopping Center v. Robins, 447 U.S. 74, 85–89 (1980).
-
-(b) In May of 2019, the White House launched a Tech Bias Reporting tool to allow Americans to report incidents of online censorship. In just weeks, the White House received over 16,000 complaints of online platforms censoring or otherwise taking action against users based on their political viewpoints. The White House will submit such complaints received to the Department of Justice and the Federal Trade Commission (FTC).
-
-(c) The FTC shall consider taking action, as appropriate and consistent with applicable law, to prohibit unfair or deceptive acts or practices in or affecting commerce, pursuant to [section 45 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section45&num=0&edition=prelim), United States Code. Such unfair or deceptive acts or practice may include practices by entities covered by section 230 that restrict speech in ways that do not align with those entities’ public representations about those practices.
-
-(d) For large online platforms that are vast arenas for public debate, including the social media platform Twitter, the FTC shall also, consistent with its legal authority, consider whether complaints allege violations of law that implicate the policies set forth in section 4(a) of this order. The FTC shall consider developing a report describing such complaints and making the report publicly available, consistent with applicable law.
-
-Sec. 5. State Review of Unfair or Deceptive Acts or Practices and Anti-Discrimination Laws. (a) The Attorney General shall establish a working group regarding the potential enforcement of State statutes that prohibit online platforms from engaging in unfair or deceptive acts or practices. The working group shall also develop model legislation for consideration by legislatures in States where existing statutes do not protect Americans from such unfair and deceptive acts and practices. The working group shall invite State Attorneys General for discussion and consultation, as appropriate and consistent with applicable law.
-
-(b) Complaints described in section 4(b) of this order will be shared with the working group, consistent with applicable law. The working group shall also collect publicly available information regarding the following:
-
-(i) increased scrutiny of users based on the other users they choose to follow, or their interactions with other users;
-
-(ii) algorithms to suppress content or users based on indications of political alignment or viewpoint;
-
-(iii) differential policies allowing for otherwise impermissible behavior, when committed by accounts associated with the Chinese Communist Party or other anti-democratic associations or governments;
-
-(iv) reliance on third-party entities, including contractors, media organizations, and individuals, with indicia of bias to review content; and
-
-(v) acts that limit the ability of users with particular viewpoints to earn money on the platform compared with other users similarly situated.
-
-Sec. 6. Legislation. The Attorney General shall develop a proposal for Federal legislation that would be useful to promote the policy objectives of this order.
-
-Sec. 7. Definition. For purposes of this order, the term “online platform” means any website or application that allows users to create and share content or engage in social networking, or any general search engine.
-
-Sec. 8. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
-
-(i) the authority granted by law to an executive department or agency, or the head thereof; or
-
-(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
-
-(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
-
-(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-
-Donald J. Trump.
+#### Executive Order No. 13925
+Ex. Ord. No. 13925, May 28, 2020, 85 F.R. 34079, which related to moderation of content posted on social media platforms, was revoked by Ex. Ord. No. 14029, § 1, May 14, 2021, 86 F.R. 27025.
 
 
 <a id="section-231"></a>
@@ -3856,6 +3777,8 @@ Pub. L. 105–277, div. C, title XIV, § 1405, Oct. 21, 1998, 112 Stat. 2681–7
 
 (3) **Universal emergency telephone number** — The Commission and any agency or entity to which the Commission has delegated authority under this subsection shall designate 9–1–1 as the universal emergency telephone number within the United States for reporting an emergency to appropriate authorities and requesting assistance. The designation shall apply to both wireline and wireless telephone service. In making the designation, the Commission (and any such agency or entity) shall provide appropriate transition periods for areas in which 9–1–1 is not in use as an emergency telephone number on October 26, 1999.
 
+(4) **Universal telephone number for national suicide prevention and mental health crisis hotline system** — 9–8–8 is designated as the universal telephone number within the United States for the purpose of the national suicide prevention and mental health crisis hotline system operating through the National Suicide Prevention Lifeline maintained by the Assistant Secretary for Mental Health and Substance Use under section 520E–3 of the Public Health Service Act ([42 U.S.C. 290bb–36c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section290bb–36c&num=0&edition=prelim)) and through the Veterans Crisis Line maintained by the Secretary of Veterans Affairs under [section 1720F(h) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1720F/h&num=0&edition=prelim).
+
 **(f) Exemptions, suspensions, and modifications**
 
 (1) **Exemption for certain rural telephone companies**
@@ -3904,15 +3827,6 @@ Pub. L. 105–277, div. C, title XIV, § 1405, Oct. 21, 1998, 112 Stat. 2681–7
 **(i) Savings provision** Nothing in this section shall be construed to limit or otherwise affect the Commission’s authority under [section 201 of this title](./chapter-005-wire-or-radio-communication.md#section-201).
 
 ### Statutory Notes
-
-#### Amendment of Subsection (e)(4)
-Pub. L. 116–172, § 3(a), (b), Oct. 17, 2020, 134 Stat. 832, 833, provided that, effective on the date that is 1 year after Oct. 17, 2020, subsection (e) of this section is amended by adding at the end the following new paragraph:
-
-(4) Universal telephone number for national suicide prevention and mental health crisis hotline system
-
-9–8–8 is designated as the universal telephone number within the United States for the purpose of the national suicide prevention and mental health crisis hotline system operating through the National Suicide Prevention Lifeline maintained by the Assistant Secretary for Mental Health and Substance Use under [section 290bb–36c of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section290bb–36c&num=0&edition=prelim) and through the Veterans Crisis Line maintained by the Secretary of Veterans Affairs under [section 1720F(h) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1720F/h&num=0&edition=prelim).
-
-See 2020 Amendment note below.
 
 #### Amendments
 2020—Subsec. (e)(4). Pub. L. 116–172 added par. (4).
@@ -4465,6 +4379,9 @@ Pub. L. 114–182, title II, § 202(b), June 22, 2016, 130 Stat. 512, provided t
 
 #### Separability
 Pub. L. 106–554, § 1(a)(4) [div. B, title XVII, § 1721(e)], Dec. 21, 2000, 114 Stat. 2763, 2763A–350, provided that: “If any provision of paragraph (5) or (6) of section 254(h) of the Communications Act of 1934 [[47 U.S.C. 254(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section254/h&num=0&edition=prelim)], as amended by this section, or the application thereof to any person or circumstance is held invalid, the remainder of such paragraph and the application of such paragraph to other persons or circumstances shall not be affected thereby.”
+
+#### Funding for E-Rate Support for Emergency Educational Connections and Devices
+Pub. L. 117–2, title VII, § 7402, Mar. 11, 2021, 135 Stat. 109, provided that: “(a) Regulations Required.—Not later than 60 days after the date of the enactment of this Act [Mar. 11, 2021], the Commission shall promulgate regulations providing for the provision, from amounts made available from the Emergency Connectivity Fund, of support under paragraphs (1)(B) and (2) of section 254(h) of the Communications Act of 1934 ([47 U.S.C. 254(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section254/h&num=0&edition=prelim)) to an eligible school or library, for the purchase during a COVID–19 emergency period of eligible equipment or advanced telecommunications and information services (or both), for use by—“(1) in the case of a school, students and staff of the school at locations that include locations other than the school; and “(2) in the case of a library, patrons of the library at locations that include locations other than the library. “(b) Support Amount.—In providing support under the covered regulations, the Commission shall reimburse 100 percent of the costs associated with the eligible equipment, advanced telecommunications and information services, or eligible equipment and advanced telecommunications and information services, except that any reimbursement of a school or library for the costs associated with any eligible equipment may not exceed an amount that the Commission determines, with respect to the request by the school or library for the reimbursement, is reasonable. “(c) Emergency Connectivity Fund.—“(1) Establishment.—There is established in the Treasury of the United States a fund to be known as the ‘Emergency Connectivity Fund’. “(2) Appropriation.—In addition to amounts otherwise available, there is appropriated to the Emergency Connectivity Fund for fiscal year 2021, out of any money in the Treasury not otherwise appropriated—“(A) $7,171,000,000, to remain available until September 30, 2030, for—“(i) the provision of support under the covered regulations; and “(ii) the Commission to adopt, and the Commission and the Universal Service Administrative Company to administer, the covered regulations; and “(B) $1,000,000, to remain available until September 30, 2030, for the Inspector General of the Commission to conduct oversight of support provided under the covered regulations. “(3) Limitation.—Not more than 2 percent of the amount made available under paragraph (2)(A) may be used for the purposes described in clause (ii) of such paragraph. “(4) Relationship to universal service contributions.—Support provided under the covered regulations shall be provided from amounts made available from the Emergency Connectivity Fund and not from contributions under section 254(d) of the Communications Act of 1934 ([47 U.S.C. 254(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section254/d&num=0&edition=prelim)). “(d) Definitions.—In this section:“(1) Advanced telecommunications and information services.—The term ‘advanced telecommunications and information services’ means advanced telecommunications and information services, as such term is used in section 254(h) of the Communications Act of 1934 ([47 U.S.C. 254(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section254/h&num=0&edition=prelim)). “(2) Commission.—The term ‘Commission’ means the Federal Communications Commission. “(3) Connected device.—The term ‘connected device’ means a laptop computer, tablet computer, or similar end-user device that is capable of connecting to advanced telecommunications and information services. “(4) Covered regulations.—The term ‘covered regulations’ means the regulations promulgated under subsection (a). “(5) COVID–19 emergency period.—The term ‘COVID–19 emergency period’ means a period that—“(A) begins on the date of a determination by the Secretary of Health and Human Services pursuant to section 319 of the Public Health Service Act ([42 U.S.C. 247d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d&num=0&edition=prelim)) that a public health emergency exists as a result of COVID–19; and “(B) ends on the June 30 that first occurs after the date that is 1 year after the date on which such determination (including any renewal thereof) terminates. “(6) Eligible equipment.—The term ‘eligible equipment’ means the following:“(A) Wi-Fi hotspots. “(B) Modems. “(C) Routers. “(D) Devices that combine a modem and router. “(E) Connected devices. “(7) Eligible school or library.—The term ‘eligible school or library’ means an elementary school, secondary school, or library (including a Tribal elementary school, Tribal secondary school, or Tribal library) eligible for support under paragraphs (1)(B) and (2) of section 254(h) of the Communications Act of 1934 ([47 U.S.C. 254(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section254/h&num=0&edition=prelim)). “(8) Emergency connectivity fund.—The term ‘Emergency Connectivity Fund’ means the fund established under subsection (c)(1). “(9) Library.—The term ‘library’ includes a library consortium. “(10) Wi-fi.—The term ‘Wi-Fi’ means a wireless networking protocol based on Institute of Electrical and Electronics Engineers standard 802.11 (or any successor standard). “(11) Wi-fi hotspot.—The term ‘Wi-Fi hotspot’ means a device that is capable of—“(A) receiving advanced telecommunications and information services; and “(B) sharing such services with a connected device through the use of Wi-Fi.”
 
 #### FCC COVID–19 Telehealth Program
 Pub. L. 116–260, div. N, title IX, § 903, Dec. 27, 2020, 134 Stat. 2128, provided that: “(a) Definitions.—In this section—“(1) the term ‘appropriate congressional committees’ means—“(A) the Committee on Commerce, Science, and Transportation of the Senate; and “(B) the Committee on Energy and Commerce of the House of Representatives; “(2) the term ‘Commission’ means the Federal Communications Commission; and “(3) the term ‘COVID–19 Telehealth Program’ or ‘Program’ means the COVID–19 Telehealth Program established by the Commission under the authority provided under the heading ‘salaries and expenses’ under the heading ‘Federal Communications Commission’ under the heading ‘INDEPENDENT AGENCIES’ in title V of division B of the CARES Act (Public Law 116–136; 134 Stat. 531). “(b) Additional Appropriation.—Out of amounts in the Treasury not otherwise appropriated, there is appropriated $249,950,000 in additional funds for the COVID–19 Telehealth Program, of which $50,000 shall be transferred by the Commission to the Inspector General of the Commission for oversight of the COVID–19 Telehealth Program. “(c) Administrative Provisions.—“(1) Evaluation of applications.—“(A) Public notice.—Not later than 10 days after the date of enactment of this Act [Dec. 27, 2020], the Commission shall issue a Public Notice establishing a 10-day period during which the Commission will seek comments on—“(i) the metrics the Commission should use to evaluate applications for funding under this section; and “(ii) how the Commission should treat applications filed during the funding rounds for awards from the COVID–19 Telehealth Program using amounts appropriated under the CARES Act (Public Law 116–36 [116–136]; 134 Stat. 281). “(B) Congressional notice.—After the end of the comment period under subparagraph (A), and not later than 15 days before the Commission first commits funds under this section, the Commission shall provide notice to the appropriate congressional committees of the metrics the Commission plans to use to evaluate applications for those funds. “(2) Equitable distribution.—To the extent feasible, the Commission shall ensure, in providing assistance under the COVID–19 Telehealth Program from amounts made available under subsection (b), that not less than 1 applicant in each of the 50 States and the District of Columbia has received funding from the Program since the inception of the Program, unless there is no such applicant eligible for such assistance in a State or in the District of Columbia, as the case may be. “(3) Previous applicants.—The Commission shall allow an applicant who filed an application during the funding rounds for awards from the COVID–19 Telehealth Program using amounts appropriated under the CARES Act (Public Law 116–36 [116–136]; 134 Stat. 281) the opportunity to update or amend that application as necessary. “(4) Information.—To the extent feasible, the Commission shall provide each applicant for funding from the COVID–19 Telehealth Program, if requested, with—“(A) information on the status of the application; and “(B) a rationale for the final funding decision for the application, after making that decision. “(5) Denial.—If the Commission chooses to deny an application for funding from the COVID–19 Telehealth Program, the Commission shall—“(A) issue notice to the applicant of the intent of the Commission to deny the application and the grounds for that decision; “(B) provide the applicant with 10 days to submit any supplementary information that the applicant determines relevant; and “(C) consider any supplementary information submitted under subparagraph (B) in making any final decision with respect to the application. “(d) Report to Congress.—Not later than 90 days after the date of enactment of this Act, and every 30 days thereafter until all funds made available under this section have been expended, the Commission shall submit to the appropriate congressional committees a report on the distribution of funds appropriated for the COVID–19 Telehealth Program under the CARES Act (Public Law 116–36 [116–136]; 134 Stat. 281) or under this section, which shall include—“(1) non-identifiable and aggregated data on deficient and rejected applications; “(2) non-identifiable and aggregated data on applications for which no award determination was made; “(3) information on the total number of applicants; “(4) information on the total dollar amount of requests for awards made under this section; and “(5) information on applicant outreach and technical assistance. “(e) Paperwork Reduction Act Requirements.—A collection of information conducted or sponsored under any regulations required to implement this section shall not constitute a collection of information for the purposes of subchapter I of chapter 35 of title 44, United States Code (commonly referred to as the ‘Paperwork Reduction Act’).”
@@ -5593,7 +5510,7 @@ Pub. L. 101–431, § 6, Oct. 15, 1990, 104 Stat. 962, provided that: “The Fed
 
 Pub. L. 100–459, title VI, § 608, Oct. 1, 1988, 102 Stat. 2228, directed Federal Communications Commission to promulgate, by Jan. 31, 1989, regulations in accordance with [section 1464 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1464&num=0&edition=prelim), Crimes and Criminal Procedure, to enforce the provisions of such section on a 24 hour per day basis, prior to repeal by Pub. L. 102–356, § 16(b), Aug. 26, 1992, 106 Stat. 954.
 
-#### Authorization of Use of Automatic Identification Systems Devices to Mark Fishing Equipment
+#### Authorization of Use of Automatic Identification Systems Devices To Mark Fishing Equipment
 Pub. L. 116–283, div. G, title LVXXXIV [LXXXIV], § 8416, Jan. 1, 2021, 134 Stat. 4727, provided that: “(a) Definitions.—In this section—“(1) the term ‘Assistant Secretary’ means the Assistant Secretary of Commerce for Communications and Information and the National Telecommunications and Information Administration Administrator; “(2) the term ‘Automatic Identification System’ has the meaning given the term in section 164.46(a) of title 33, Code of Federal Regulations, or any successor regulation; “(3) the term ‘Automatic Identification System device’ means a covered device that operates in radio frequencies assigned for Automatic Identification System stations; “(4) the term ‘Commission’ means the Federal Communications Commission; and “(5) the term ‘covered device’ means a device used to mark fishing equipment. “(b) Rulemaking Required.—Not later than 180 days after the date of enactment of this Act [Jan. 1, 2021], the Commission, in coordination with the Assistant Secretary, and in consultation with the Commandant [of the Coast Guard] and the Secretary of State, shall initiate a rulemaking proceeding to consider whether to authorize covered devices to operate in radio frequencies assigned for Automatic Identification System stations. “(c) Considerations.—In conducting the rulemaking under subsection (b), the Commission shall consider whether imposing requirements with respect to the manner in which Automatic Identification System devices are deployed and used would enable the authorization of covered devices to operate in radio frequencies assigned for Automatic Identification System stations consistent with the core purpose of the Automatic Identification System to prevent maritime accidents.”
 
 #### Local Community Radio
@@ -6360,7 +6277,7 @@ shall be granted by the Commission earlier than thirty days following issuance o
     (v) the Commission has failed under [section 332(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section332/c/3&num=0&edition=prelim) to grant or deny within the time required by such section any petition that a State has filed within 90 days after August 10, 1993;
     until such failure has been corrected.
 
-(11) **Termination** — The authority of the Commission to grant a license or permit under this subsection shall expire September 30, 2022, except that, with respect to the electromagnetic spectrum identified under section 1004(a) of the Spectrum Pipeline Act of 2015, such authority shall expire on September 30, 2025.
+(11) **Termination** — The authority of the Commission to grant a license or permit under this subsection shall expire September 30, 2022, except that, with respect to the electromagnetic spectrum identified under section 1004(a) of the Spectrum Pipeline Act of 2015, such authority shall expire on September 30, 2025, and with respect to the electromagnetic spectrum identified under section 90008(b)(2)(A)(ii) of the Infrastructure Investment and Jobs Act, such authority shall expire on the date that is 7 years after November 15, 2021.
 
 (12) **Repealed. Pub. L. 115–141, div. P, title IV, § 402(i)(4)(A), Mar. 23, 2018, 132 Stat. 1089**
 
@@ -6534,7 +6451,11 @@ The National Telecommunications and Information Administration Organization Act,
 
 Section 1004(a) of the Spectrum Pipeline Act of 2015, referred to in subsec. (j)(11), is section 1004(a) of Pub. L. 114–74, which is set out as a note under [section 921 of this title](./chapter-008-national-telecommunications-and-information-administration.md#section-921).
 
+Section 90008(b)(2)(A)(ii) of the Infrastructure Investment and Jobs Act, referred to in subsec. (j)(11), is section 90008(b)(2)(A)(ii) of Pub. L. 117–58, which is set out in a note under [section 921 of this title](./chapter-008-national-telecommunications-and-information-administration.md#section-921).
+
 #### Amendments
+2021—Subsec. (j)(11). Pub. L. 117–58 inserted before period at end “, and with respect to the electromagnetic spectrum identified under section 90008(b)(2)(A)(ii) of the Infrastructure Investment and Jobs Act, such authority shall expire on the date that is 7 years after November 15, 2021”.
+
 2018—Subsec. (j)(8)(B). Pub. L. 115–141, § 402(h)(2), struck out at end: “No sums may be retained under this subparagraph during any fiscal year beginning after September 30, 1998, if the annual report of the Commission under [section 154(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section154/k&num=0&edition=prelim) for the second preceding fiscal year fails to include in the itemized statement required by paragraph (3) of such section a statement of each expenditure made for purposes of conducting competitive bidding under this subsection during such second preceding fiscal year.”
 
 Subsec. (j)(8)(C). Pub. L. 115–141, § 101(b)(1), substituted “the Treasury.” for “an interest bearing account at a financial institution designated for purposes of this subsection by the Commission (after consultation with the Secretary of the Treasury).” in introductory provisions.
@@ -9092,6 +9013,108 @@ Section effective Feb. 27, 2010, see section 307(a) of Pub. L. 111–175, set ou
 **(c) Covered GPS device defined** In this section, the term “covered GPS device” means a Global Positioning System device of the Department of Defense.
 
 
+<a id="section-344"></a>
+## § 344. Telecommunications interagency working group
+**(a) Definition** In this section, the term “telecommunications interagency working group” means the interagency working group established under subsection (b)(1).
+
+**(b) Establishment**
+
+(1) **In general** — Not later than 60 days after November 15, 2021, the Chairman of the Commission, in partnership with the Secretary of Labor, shall establish within the Commission an interagency working group to develop recommendations to address the workforce needs of the telecommunications industry, including the safety of that workforce.
+
+(2) **Date of establishment** — The telecommunications interagency working group shall be considered established on the date on which a majority of the members of the working group have been appointed, consistent with subsection (d).
+
+**(c) Duties** In developing recommendations under subsection (b), the telecommunications interagency working group shall—
+
+(1) determine whether, and if so how, any Federal laws, regulations, guidance, policies, or practices, or any budgetary constraints, may be amended to strengthen the ability of institutions of higher education (as defined in [section 1001 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim)) or for-profit businesses to establish, adopt, or expand programs intended to address the workforce needs of the telecommunications industry, including the workforce needed to build and maintain the 5G wireless infrastructure necessary to support 5G wireless technology;
+
+(2) identify potential policies and programs that could encourage and improve coordination among Federal agencies, between Federal agencies and States, and among States, on telecommunications workforce needs;
+
+(3) identify ways in which existing Federal programs, including programs that help facilitate the employment of veterans and military personnel transitioning into civilian life, could be leveraged to help address the workforce needs of the telecommunications industry;
+
+(4) identify ways to improve recruitment in workforce development programs in the telecommunications industry;
+
+(5) identify Federal incentives that could be provided to institutions of higher education, for-profit businesses, State workforce development boards established under [section 3111 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3111&num=0&edition=prelim), or other relevant stakeholders to establish or adopt new programs, expand current programs, or partner with registered apprenticeship programs, to address the workforce needs of the telecommunications industry, including such needs in rural areas;
+
+(6) identify ways to improve the safety of telecommunications workers, including tower climbers; and
+
+(7) identify ways that trends in wages, benefits, and working conditions in the telecommunications industry impact recruitment of employees in the sector.
+
+**(d) Members** The telecommunications interagency working group shall be composed of the following representatives of Federal agencies and relevant non-Federal industry and labor stakeholder organizations:
+
+(1) A representative of the Department of Education, appointed by the Secretary of Education.
+
+(2) A representative of the National Telecommunications and Information Administration, appointed by the Assistant Secretary of Commerce for Communications and Information.
+
+(3) A representative of the Commission, appointed by the Chairman of the Commission.
+
+(4) A representative of a registered apprenticeship program in construction or maintenance, appointed by the Secretary of Labor.
+
+(5) A representative of a telecommunications industry association, appointed by the Chairman of the Commission.
+
+(6) A representative of an Indian Tribe or Tribal organization, appointed by the Chairman of the Commission.
+
+(7) A representative of a rural telecommunications carrier, appointed by the Chairman of the Commission.
+
+(8) A representative of a telecommunications contractor firm, appointed by the Chairman of the Commission.
+
+(9) A representative of an institution of higher education described in [section 1067q(a) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1067q/a&num=0&edition=prelim), appointed by the Secretary of Education.
+
+(10) A public interest advocate for tower climber safety, appointed by the Secretary of Labor.
+
+(11) A representative of the Directorate of Construction of the Occupational Safety and Health Administration, appointed by the Secretary of Labor.
+
+(12) A representative of a labor organization representing the telecommunications workforce, appointed by the Secretary of Labor.
+
+**(e) No compensation** A member of the telecommunications interagency working group shall serve without compensation.
+
+**(f) Other matters**
+
+(1) **Chair and vice chair** — The telecommunications interagency working group shall name a chair and a vice chair, who shall be responsible for organizing the business of the working group.
+
+(2) **Subgroups** — The chair and vice chair of the telecommunications interagency working group, in consultation with the other members of the telecommunications interagency working group, may establish such subgroups as necessary to help conduct the work of the telecommunications interagency working group.
+
+(3) **Support** — The Commission and the Secretary of Labor may detail employees of the Commission and the Department of Labor, respectively, to assist and support the work of the telecommunications interagency working group, though such a detailee shall not be considered to be a member of the working group.
+
+**(g) Report to Congress**
+
+(1) **Report to Congress** — Not later than 1 year after the date on which the telecommunications interagency working group is established, the working group shall submit a report containing its recommendations to address the workforce needs of the telecommunications industry to—
+
+  (A) the Committee on Commerce, Science, and Transportation of the Senate;
+
+  (B) the Committee on Health, Education, Labor, and Pensions of the Senate;
+
+  (C) the Committee on Energy and Commerce of the House of Representatives;
+
+  (D) the Committee on Education and Labor of the House of Representatives;
+
+  (E) the Department of Labor; and
+
+  (F) the Commission.
+
+(2) **Majority support** — The telecommunications interagency working group may not submit the report under paragraph (1) unless the report has the support of not less than the majority of the members of the working group.
+
+(3) **Views** — The telecommunications interagency working group shall—
+
+  (A) include with the report submitted under paragraph (1) any concurring or dissenting view offered by a member of the working group; and
+
+  (B) identify each member to whom each concurring or dissenting view described in subparagraph (A) should be attributed.
+
+(4) **Public posting** — The Commission and the Secretary of Labor shall make a copy of the report submitted under paragraph (1) available to the public on the websites of the Commission and the Department of Labor, respectively.
+
+**(h) Nonapplicability of FACA** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the telecommunications interagency working group.
+
+### Statutory Notes
+
+#### Repeal of Section
+For repeal of section, see section 60602(b) of Pub. L. 117–58, set out as a note below.
+
+#### References in Text
+The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Repeal of Section
+Pub. L. 117–58, div. F, title VI, § 60602(b), Nov. 15, 2021, 135 Stat. 1249, provided that: “Section 344 of the Communications Act of 1934 [[47 U.S.C. 344](./chapter-005-wire-or-radio-communication.md#section-344)], as added by subsection (a), shall be repealed on the day after the date on which the interagency working group established under subsection (b)(1) of that section submits the report to Congress under subsection (g) of that section.”
+
+
 <a id="section-351"></a>
 ## § 351. Ship radio stations and operations
 **(a)** Except as provided in section 352 hereof it shall be unlawful—
@@ -9292,7 +9315,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 Coast Guard transferred to Department of Transportation, and functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of all other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in former section 3 (now 103) of Title 14, Coast Guard. See [section 108 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section108&num=0&edition=prelim), Transportation.
 
-#### Executive Documents
+#### Transfer of Functions
 “Commandant of the Coast Guard” substituted in subsec. (b) for “Bureau of Marine Inspection and Navigation, Department of Commerce” on authority of Reorg. Plan No. 3 of 1946, §§ 101–104, set out in the Appendix to Title 5.
 
 For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury with power to delegate, see Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Functions of Coast Guard, and Commandant of Coast Guard, excepted from transfer when Coast Guard is operating as part of Navy under former sections 1 and 3 (now 101 and 103) of Title 14.
@@ -11588,8 +11611,6 @@ Section effective 60 days after Oct. 30, 1984, except where otherwise expressly 
 #### Regulations
 Pub. L. 102–385, § 10(c), Oct. 5, 1992, 106 Stat. 1486, provided that: “Within 180 days following the date of the enactment of this Act [Oct. 5, 1992], the Federal Communications Commission shall promulgate such regulations as may be necessary to enable a cable operator of a cable system to prohibit the use, on such system, of any channel capacity of any public, educational, or governmental access facility for any programming which contains obscene material, sexually explicit conduct, or material soliciting or promoting unlawful conduct.”
 
-[For information regarding constitutionality of section 10(c) of Pub. L. 102–385, set out above, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.]
-
 
 <a id="section-532"></a>
 ## § 532. Cable channels for commercial use
@@ -11680,7 +11701,7 @@ Pub. L. 102–385, § 10(c), Oct. 5, 1992, 106 Stat. 1486, provided that: “Wit
 ### Statutory Notes
 
 #### Constitutionality
-For information regarding constitutionality of certain provisions of section 612 of act June 19, 1934, as added by section 10(b) of Pub. L. 102–385, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For information regarding constitutionality of certain provisions of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
 
 #### Amendments
 1996—Subsec. (c)(2). Pub. L. 104–104 substituted “a cable operator may refuse to transmit any leased access program or portion of a leased access program which contains obscenity, indecency, or nudity and” for “an operator”.
@@ -13478,7 +13499,7 @@ Section effective 60 days after Oct. 30, 1984, except where otherwise expressly 
 ### Statutory Notes
 
 #### Constitutionality
-For information regarding constitutionality of section 641 of act June 19, 1934, as added by section 505(a) of Pub. L. 104–104, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For information regarding constitutionality of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
 
 #### Effective Date
 Pub. L. 104–104, title V, § 505(b), Feb. 8, 1996, 110 Stat. 136, provided that: “The amendment made by subsection (a) [enacting this section] shall take effect 30 days after the date of enactment of this Act [Feb. 8, 1996].”
@@ -13910,6 +13931,9 @@ Subsec. (h). Act Dec. 29, 1942, added subsec. (h).
 #### Termination of War and Emergencies
 Act July 25, 1947, ch. 327, § 3, 61 Stat. 451, provided that in the interpretation of this section, the date July 25, 1947, shall be deemed to be the date of termination of any state of war theretofore declared by Congress and of the national emergencies proclaimed by the President on Sept. 8, 1939, and May 27, 1941.
 
+#### Delegation of Functions
+Authorities of President under subsecs. (a) and (c) to (e) of this section delegated to the Director of the Office of Science and Technology Policy, if the President takes the actions, including issuing any necessary proclamations and findings, required by this section to invoke those authorities, see section 2.3 of Ex. Ord. No. 13618, which is set out as a note under [section 5195 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5195&num=0&edition=prelim), The Public Health and Welfare.
+
 #### Executive Order No. 8964
 Ex. Ord. No. 8964, eff. Dec. 10, 1941, 6 F.R. 6367, relating to the use and control of radio stations and preference or priority of communications was revoked by Ex. Ord. No. 9831, eff. Feb. 24, 1947, 12 F.R. 1363.
 
@@ -13962,6 +13986,9 @@ This chapter may be cited as the “Communications Act of 1934.”
 
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which enacted this chapter, amended [section 35 of this title](./chapter-002-submarine-cables.md#section-35), [section 21 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section21&num=0&edition=prelim), Commerce and Trade, section 487 of former Title 46, Shipping, and sections 1, 2, 5, and 15 of former Title 49, Transportation, and repealed sections 484 to 487 of former Title 46. For complete classification of this Act to the Code, see Tables.
+
+#### Short Title of 2021 Amendment
+Pub. L. 117–58, div. F, title VI, § 60601, Nov. 15, 2021, 135 Stat. 1246, provided that: “This title [enacting and repealing [section 344 of this title](./chapter-005-wire-or-radio-communication.md#section-344) and enacting provisions set out as notes under [section 344 of this title](./chapter-005-wire-or-radio-communication.md#section-344) and [section 3111 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3111&num=0&edition=prelim), Labor] may be cited as the ‘Telecommunications Skilled Workforce Act’.”
 
 #### Short Title of 2020 Amendment
 Pub. L. 116–260, div. FF, title IX, § 902(a), Dec. 27, 2020, 134 Stat. 3206, provided that: “This section [amending [section 615a–1 of this title](./chapter-005-wire-or-radio-communication.md#section-615a-1), repealing [section 1413 of this title](./chapter-013-public-safety-communications-and-electromagnetic-spectrum-auctions.md#section-1413) and enacting provisions set out as notes under [section 615a–1 of this title](./chapter-005-wire-or-radio-communication.md#section-615a-1)] may be cited as the ‘Don’t Break Up the T-Band Act of 2020’.”
@@ -15276,6 +15303,8 @@ In this subchapter:
 
   (C) *Implementation priority* — The Commission shall prioritize implementing the Fabric for rural and insular areas of the United States.
 
+  (D) *Availability of census data* — The Secretary of Commerce shall submit to the Commission, for inclusion in the Fabric, a count of the aggregate number of housing units in each census block, as collected by the Bureau of the Census.
+
 (2) **Collection of information** — The rules issued by the Commission under subsection (a)(1) shall include uniform standards for the reporting of broadband internet access service data that the Commission shall collect—
 
   (A) from each provider of terrestrial fixed, fixed wireless, or satellite broadband internet access service, which shall include data that—
@@ -15390,7 +15419,7 @@ In this subchapter:
 
   (C) *Use of challenges* — The rules issued to establish the challenge process under subparagraph (A) shall include—
 
-    (i) a process for the speedy resolution of challenges; and
+    (i) a process for the speedy resolution of challenges, which shall require that the Commission resolve a challenge not later than 90 days after the date on which a final response by a provider to a challenge to the accuracy of a map or information described in subparagraph (A) is complete; and
 
     (ii) a process for the regular and expeditious updating of the coverage maps and granular data disseminated by the Commission as challenges are resolved.
 
@@ -15454,13 +15483,25 @@ In this subchapter:
 
 (5) make available to any Federal agency, upon request, the maps created under paragraph (1); and
 
-(6) make public at an appropriate level of granularity—
+(6) make public, including on a publicly available website, at an appropriate level of granularity—
 
   (A) the maps created under paragraph (1); and
 
   (B) the data collected by the Commission with respect to the availability of broadband internet access service and the quality of service with respect to broadband internet access service.
 
 **(d) Delayed effective date for quality of service rules** Any requirement of a rule issued under subsection (a)(1) that relates to quality of service shall take effect not earlier than the date that is 180 days after the date on which the Commission issues that rule.
+
+### Statutory Notes
+
+#### Amendments
+2021—Subsec. (b)(1)(D). Pub. L. 117–58, § 60103(d)(1), added subpar. (D).
+
+Subsec. (b)(5)(C)(i). Pub. L. 117–58, § 60102(h)(2)(E)(i), substituted “challenges, which shall require that the Commission resolve a challenge not later than 90 days after the date on which a final response by a provider to a challenge to the accuracy of a map or information described in subparagraph (A) is complete” for “challenges”.
+
+Subsec. (c)(6). Pub. L. 117–58, § 60103(e), inserted “, including on a publicly available website,” after “make public” in introductory provisions. Directory language amending “the matter preceding paragraph (6)” was executed as if it had referred to the matter preceding subpar. (A), to reflect the probable intent of Congress.
+
+#### Implementation
+For requirement to implement amendment made by section 60102(h)(2)(E)(i) of Pub. L. 117–58 as soon as possible after Nov. 15, 2021, see [section 1702(h)(2)(E)(iii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section1702/h/2/E/iii&num=0&edition=prelim).
 
 
 <a id="section-643"></a>
@@ -15483,15 +15524,9 @@ It shall be unlawful for an entity or individual to willfully and knowingly, or 
 
     (i) are highly reliable; and
 
-    (ii) have proven methodologies for determining network coverage and network performance;
+    (ii) have proven methodologies for determining network coverage and network performance; and
 
-  (B) not later than 1 year after March 23, 2020, conclude a process that tests the feasibility of partnering with Federal agencies that operate delivery fleet vehicles, including the United States Postal Service, to facilitate the collection and submission of information described in that paragraph; and
-
-  (C) not later than 14 months after March 23, 2020, publish on the website of the Commission, and submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives, a report regarding the testing described in subparagraph (B), which shall include—
-
-    (i) a determination regarding whether the partnerships with Federal agencies described in that subparagraph are able to facilitate the collection and submission of information described in paragraph (1); and
-
-    (ii) any steps that the Commission plans to take to facilitate the partnerships described in that subparagraph.
+  (B) coordinate with the Postmaster General, the heads of other Federal agencies that operate delivery fleet vehicles, and the Director of the Bureau of the Census for assistance with data collection whenever coordination could feasibly yield more specific geographic data.
 
 **(c) Technical assistance to Indian Tribes**
 
@@ -15521,6 +15556,19 @@ It shall be unlawful for an entity or individual to willfully and knowingly, or 
 
 (3) **Report** — Not later than 1 year after March 23, 2020, the Comptroller General of the United States shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that contains the recommendations developed under paragraph (1).
 
+### Statutory Notes
+
+#### Amendments
+2021—Subsec. (b)(2)(B), (C). Pub. L. 117–58 added subpar. (B) and struck out former subpars. (B) and (C) which read as follows:
+
+“(B) not later than 1 year after March 23, 2020, conclude a process that tests the feasibility of partnering with Federal agencies that operate delivery fleet vehicles, including the United States Postal Service, to facilitate the collection and submission of information described in that paragraph; and
+
+“(C) not later than 14 months after March 23, 2020, publish on the website of the Commission, and submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives, a report regarding the testing described in subparagraph (B), which shall include—
+
+“(i) a determination regarding whether the partnerships with Federal agencies described in that subparagraph are able to facilit”ate the collection and submission of information described in paragraph (1); and
+
+“(ii) any steps that the Commission plans to take to facilitate the partnerships described in that subparagraph.”
+
 
 <a id="section-645"></a>
 ## § 645. Cost
@@ -15533,7 +15581,7 @@ It shall be unlawful for an entity or individual to willfully and knowingly, or 
 ## § 646. Other provisions
 **(a) OMB** Notwithstanding any other provision of law, the initial rule making required under [section 642(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section642/a/1&num=0&edition=prelim) shall be exempt from review by the Office of Management and Budget.
 
-**(b) PRA** Subchapter I of chapter 35 of title 44 (commonly known as the “Paperwork Reduction Act”) shall not apply to the initial rule making required under [section 642(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section642/a/1&num=0&edition=prelim).
+**(b) PRA** Subchapter I of chapter 35 of title 44 (commonly known as the “Paperwork Reduction Act”) shall not apply to any rule making or other action by the Commission required under this subchapter.
 
 **(c) Execution of responsibilities** Except, with respect to an entity that is not the Universal Service Administrative Company, as provided in [section 642(a)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section642/a/2/B&num=0&edition=prelim), [section 642(b)(1)(A)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section642/b/1/A/ii&num=0&edition=prelim), and subsections (c), (d), and (e) of [section 644 of this title](./chapter-005-wire-or-radio-communication.md#section-644), the Commission—
 
@@ -15544,3 +15592,11 @@ It shall be unlawful for an entity or individual to willfully and knowingly, or 
 **(d) Reporting** Each fiscal year, the Commission shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that summarizes the implementation of this subchapter and associated enforcement activities conducted during the previous fiscal year.
 
 **(e) Rule of construction** If the Commission, before March 23, 2020, has taken an action that, in whole or in part, implements this subchapter, the Commission shall not be required to revisit such action to the extent that such action is consistent with this subchapter.
+
+### Statutory Notes
+
+#### Amendments
+2021—Subsec. (b). Pub. L. 117–58 substituted “any rule making or other action by the Commission required under this subchapter” for “the initial rule making required under [section 642(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section642/a/1&num=0&edition=prelim)”.
+
+#### Implementation
+For requirement to implement amendment made by section 60102(h)(2)(E)(ii) of Pub. L. 117–58 as soon as possible after Nov. 15, 2021, see [section 1702(h)(2)(E)(iii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section1702/h/2/E/iii&num=0&edition=prelim).

@@ -2,7 +2,7 @@
 title: 42
 chapter: '82'
 heading: SOLID WASTE DISPOSAL
-section_count: 116
+section_count: 118
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
@@ -101,11 +101,11 @@ Pub. L. 94–580, § 1, Oct. 21, 1976, 90 Stat. 2795, provided that: “This Act
 #### Short Title
 Pub. L. 89–272, title II, § 1001, as added by Pub. L. 94–580, § 2, Oct. 21, 1976, 90 Stat. 2795, provided that: “This title (hereinafter in this title referred to as ‘this Act’), together with the following table of contents, may be cited as the ‘Solid Waste Disposal Act’ ” [table of contents omitted].
 
-#### Federal Compliance With Pollution Control Standards
-For provisions relating to the responsibility of the head of each Executive agency for compliance with applicable pollution control standards, see Ex. Ord. No. 12088, Oct. 13, 1978, 43 F.R. 47707, set out as a note under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321).
-
 #### National Commission on Materials Policy
 Pub. L. 91–512, title II, §§ 201–206, Oct. 26, 1970, 84 Stat. 1234, known as the “National Materials Policy Act of 1970”, provided for the establishment of the National Commission on Materials Policy to make a full investigation and study for the purpose of developing a national materials policy to utilize present resources and technology more efficiently and to anticipate the future materials requirements of the Nation and the world, the Commission to submit to the President and Congress a report on its findings and recommendations no later than June 30, 1973, ninety days after the submission of which it should cease to exist.
+
+#### Federal Compliance With Pollution Control Standards
+For provisions relating to the responsibility of the head of each Executive agency for compliance with applicable pollution control standards, see Ex. Ord. No. 12088, Oct. 13, 1978, 43 F.R. 47707, set out as a note under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321).
 
 
 <a id="section-6901a"></a>
@@ -2383,7 +2383,7 @@ Section was formerly classified to [section 6979a of this title](./chapter-082-s
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### GAO Report
-Pub. L. 102–386, title I, § 105(c), Oct. 6, 1992, 106 Stat. 1512, provided that: “(1) Requirement.—Not later than 18 months after the date of the enactment of this Act [Oct. 6, 1992], the Comptroller General shall submit to Congress a report on the Department of Energy’s progress in complying with section 3021(b) of the Solid Waste Disposal Act [[42 U.S.C. 6939c(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6939c/b&num=0&edition=prelim)]. “(2) Matters to be included.—The report required under paragraph (1) shall contain, at a minimum, the following:“(A) The Department of Energy’s progress in submitting to the States or the Administrator of the Environmental Protection Agency a plan for each facility for which a plan is required under section 3021(b) of the Solid Waste Disposal Act and the status of State or Environmental Protection Agency review and approval of each such plan. “(B) The Department of Energy’s progress in entering into orders requiring compliance with any such plans that have been approved. “(C) An evaluation of the completeness and adequacy of each such plan as of the date of submission of the report required under paragraph (1). “(D) An identification of any recurring problems among the Department of Energy’s submitted plans. “(E) A description of treatment technologies and capacity that have been developed by the Department of Energy since the date of the enactment of this Act and a list of the wastes that are expected to be treated by such technologies and the facilities at which the wastes are generated or stored. “(F) The progress made by the Department of Energy in characterizing its mixed waste streams at each such facility by sampling and analysis. “(G) An identification and analysis of additional actions that the Department of Energy must take to—“(i) complete submission of all plans required under such section 3021(b) for all such facilities; “(ii) obtain the adoption of orders requiring compliance with all such plans; and “(iii) develop mixed waste treatment capacity and technologies.”
+Pub. L. 102–386, title I, § 105(c), Oct. 6, 1992, 106 Stat. 1512, provided that not later than 18 months after Oct. 6, 1992, the Comptroller General would submit to Congress a report, containing certain specified data, on the Department of Energy’s progress in complying with subsec. (b) of this section.
 
 
 <a id="section-6939d"></a>
@@ -3566,7 +3566,7 @@ Ex. Ord. No. 13101, Sept. 14, 1998, 63 F.R. 49643, which directed executive agen
 
 (2) within one year after the date of publication of applicable guidelines under subsection (e), or as otherwise specified in such guidelines, assure that such specifications require the use of recovered materials to the maximum extent possible without jeopardizing the intended end use of the item.
 
-**(e) Guidelines** The Administrator, after consultation with the Administrator of General Services, the Secretary of Commerce (acting through the National Institute of Standards and Technology), and the Director of the Government Publishing Office, shall prepare, and from time to time revise, guidelines for the use of procuring agencies in complying with the requirements of this section. Such guidelines shall—
+**(e) Guidelines** The Administrator, after consultation with the Administrator of General Services, the Secretary of Commerce (acting through the National Institute of Standards and Technology), and the Director of the Government Publishing Office, shall prepare, review not less frequently than once every 5 years, and, if appropriate, revise, in consultation with recyclers and manufacturers of products containing recycled content, not later than 2 years after the completion of the initial review after November 15, 2021, and thereafter, as appropriate, guidelines for the use of procuring agencies in complying with the requirements of this section. Such guidelines shall—
 
 (1) designate those items which are or can be produced with recovered materials and whose procurement by procuring agencies will carry out the objectives of this section, and in the case of paper, provide for maximizing the use of post consumer recovered materials referred to in subsection (h)(1); and
 
@@ -3627,12 +3627,28 @@ and shall provide information as to the availability, relative price, and perfor
   (B) Minimum Content Standards: Minimum recovered materials content specifications which are set in such a way as to assure that the recovered materials content (and in the case of paper, the content of post consumer materials referred to in subsection (h)(1)) required is the maximum available without jeopardizing the intended end use of the item, or violating the limitations of subsection (c)(1)(A) through (C).
   Procuring agencies shall adopt one of the options set forth in subparagraphs (A) and (B) or a substantially equivalent alternative, for inclusion in the affirmative procurement program.
 
+**(j) Consultation and provision of information by Administrator** The Administrator shall—
+
+(1) consult with each procuring agency, including contractors of the procuring agency, to clarify the responsibilities of the procuring agency under this section; and
+
+(2) provide to each procuring agency information on the requirements under this section and the responsibilities of the procuring agency under this section.
+
+**(k) Reports** The Administrator, in consultation with the Administrator of General Services, shall submit to Congress an annual report describing—
+
+(1) the quantity of federally procured recycled products listed in the guidelines under subsection (e); and
+
+(2) with respect to the products described in paragraph (1), the percentage of recycled material in each product.
+
 ### Statutory Notes
 
 #### Codification
 Pub. L. 102–393, title VI, § 630, Oct. 6, 1990, 106 Stat. 1773, which directed that this title be amended by adding a new section 6962j, relating to a preference for recycled toner cartridges, and which had been executed by adding the provisions of purported new section as subsec. (j) of this section, to reflect the probable intent of Congress, was repealed by Pub. L. 103–355, title I, § 1554(1), Oct. 13, 1994, 108 Stat. 3300. Similar provisions were contained in Pub. L. 103–123, title IV, § 401, Oct. 28, 1993, 107 Stat. 1238, prior to repeal by Pub. L. 103–355, title I, § 1554(2), Oct. 13, 1994, 108 Stat. 3300.
 
 #### Amendments
+2021—Subsec. (e). Pub. L. 117–58, § 70402(c)(1), which directed substitution of “review not less frequently than once every 5 years, and, if appropriate, revise, in consultation with recyclers and manufacturers of products containing recycled content, not later than 2 years after the completion of the initial review after November 15, 2021, and thereafter, as appropriate” for “and from time to time, revise” in introductory provisions, was executed by making the substitution for “and from time to time revise” to reflect the probable intent of Congress.
+
+Subsecs. (j), (k). Pub. L. 117–58, § 70402(c)(2), added subsecs. (j) and (k).
+
 1994—Subsec. (c)(3). Pub. L. 103–355, § 4104(e), designated existing provisions as subpar. (A), redesignated subpars. (A) and (B) as cls. (i) and (ii), respectively, and added subpar. (B).
 
 Subsec. (j). Pub. L. 103–355, § 1554(1), struck out subsec. (j). See Codification note above.
@@ -3920,6 +3936,224 @@ Another section 6005 of Pub. L. 89–272 is classified to [section 6966 of this 
 
 #### References in Text
 [Section 6966a of this title](./chapter-082-solid-waste-disposal.md#section-6966a), referred to in subsec. (b), was in the original “section 6005” meaning section 6005 of Pub. L. 89–272, which was translated as meaning the section 6005 of Pub. L. 89–272 as added by section 6017(a) of Pub. L. 109–59, to reflect the probable intent of Congress.
+
+
+<a id="section-6966c"></a>
+## § 6966c. Best practices for battery recycling and labeling guidelines
+**(a) Definitions** In this section:
+
+(1) **Administrator** — The term “Administrator” means the Administrator of the Environmental Protection Agency.
+
+(2) **Battery** — The term “battery” means a device that—
+
+  (A) consists of 1 or more electrochemical cells that are electrically connected; and
+
+  (B) is designed to store and deliver electric energy.
+
+(3) **Recycling** — The term “recycling” means the series of activities—
+
+  (A) during which recyclable materials are processed into specification-grade commodities, and consumed as raw-material feedstock, in lieu of virgin materials, in the manufacturing of new products;
+
+  (B) that may include collection, processing, and brokering; and
+
+  (C) that result in subsequent consumption by a materials manufacturer, including for the manufacturing of new products.
+
+**(b) Best practices for collection of batteries to be recycled**
+
+(1) **In general** — The Administrator shall develop best practices that may be implemented by State, Tribal, and local governments with respect to the collection of batteries to be recycled in a manner that—
+
+  (A) to the maximum extent practicable, is technically and economically feasible for State, Tribal, and local governments;
+
+  (B) is environmentally sound and safe for waste management workers; and
+
+  (C) optimizes the value and use of material derived from recycling of batteries.
+
+(2) **Consultation** — The Administrator shall develop the best practices described in paragraph (1) in coordination with State, Tribal, and local governments and relevant nongovernmental and private sector entities.
+
+(3) **Report** — Not later than 2 years after November 15, 2021, the Administrator shall submit to Congress a report describing the best practices developed under paragraph (1).
+
+(4) **Authorization of appropriations** — There is authorized to be appropriated to the Administrator to carry out this subsection $10,000,000 for fiscal year 2022, to remain available until September 30, 2026.
+
+**(c) Voluntary labeling guidelines**
+
+(1) **In general** — There is established within the Environmental Protection Agency a program (referred to in this subsection as the “program”) to promote battery recycling through the development of—
+
+  (A) voluntary labeling guidelines for batteries; and
+
+  (B) other forms of communication materials for battery producers and consumers about the reuse and recycling of critical materials from batteries.
+
+(2) **Purposes** — The purposes of the program are to improve battery collection and reduce battery waste, including by—
+
+  (A) identifying battery collection locations and increasing accessibility to those locations;
+
+  (B) promoting consumer education about battery collection and recycling; and
+
+  (C) reducing safety concerns relating to the improper disposal of batteries.
+
+(3) **Other standards and law** — The Administrator shall make every reasonable effort to ensure that voluntary labeling guidelines and other forms of communication materials developed under the program are consistent with—
+
+  (A) international battery labeling standards; and
+
+  (B) the Mercury-Containing and Rechargeable Battery Management Act ([42 U.S.C. 14301](./chapter-137-management-of-rechargeable-batteries-and-batteries-containing-mercury.md#section-14301) et seq.).
+
+(4) **Authorization of appropriations** — There is authorized to be appropriated to the Administrator to carry out this subsection $15,000,000 for fiscal year 2022, to remain available until September 30, 2026.
+
+### Statutory Notes
+
+#### References in Text
+The Mercury-Containing and Rechargeable Battery Management Act, referred to in subsec. (c)(3)(B), is Pub. L. 104–142, May 13, 1996, 110 Stat. 1329, which is classified generally to chapter 137 (§ 14301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 14301 of this title](./chapter-137-management-of-rechargeable-batteries-and-batteries-containing-mercury.md#section-14301) and Tables.
+
+#### Codification
+Section was enacted as part of the Infrastructure Investment and Jobs Act, and not as part of the Solid Waste Disposal Act which comprises this chapter.
+
+
+<a id="section-6966d"></a>
+## § 6966d. Consumer recycling education and outreach grant program; Federal procurement
+**(a) Definition of Administrator** In this section, the term “Administrator” means the Administrator of the Environmental Protection Agency.
+
+**(b) Consumer recycling education and outreach grant program**
+
+(1) **In general** — The Administrator shall establish a program (referred to in this subsection as the “grant program”) to award competitive grants to eligible entities to improve the effectiveness of residential and community recycling programs through public education and outreach.
+
+(2) **Criteria** — The Administrator shall award grants under the grant program for projects that, by using one or more eligible activities described in paragraph (5)—
+
+  (A) inform the public about residential or community recycling programs;
+
+  (B) provide information about the recycled materials that are accepted as part of a residential or community recycling program that provides for the separate collection of residential solid waste from recycled material; and
+
+  (C) increase collection rates and decrease contamination in residential and community recycling programs.
+
+(3) **Eligible entities**
+
+  (A) *In general* — An entity that is eligible to receive a grant under the grant program is—
+
+    (i) a State;
+
+    (ii) a unit of local government;
+
+    (iii) an Indian Tribe (as defined in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim));
+
+    (iv) a Native Hawaiian organization (as defined in [section 7517 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7517&num=0&edition=prelim));
+
+    (v) the Department of Hawaiian Home Lands;
+
+    (vi) the Office of Hawaiian Affairs;
+
+    (vii) a nonprofit organization; or
+
+    (viii) a public-private partnership.
+
+  (B) *Coordination of activities* — 2 or more entities described in subparagraph (A) may receive a grant under the grant program to coordinate the provision of information to residents that may access 2 or more residential recycling programs, including programs that accept different recycled materials, to provide to the residents information regarding differences among those residential recycling programs.
+
+(4) **Requirement**
+
+  (A) *In general* — To receive a grant under the grant program, an eligible entity shall demonstrate to the Administrator that the grant funds will be used to encourage the collection of recycled materials that are sold to an existing or developing market.
+
+  (B) *Business plans and financial data*
+
+    (i) *In general* — An eligible entity may make a demonstration under subparagraph (A) through the submission to the Administrator of appropriate business plans and financial data.
+
+    (ii) *Confidentiality* — The Administrator shall treat any business plans or financial data received under clause (i) as confidential information.
+
+(5) **Eligible activities** — An eligible entity that receives a grant under the grant program may use the grant funds for activities including—
+
+  (A) public service announcements;
+
+  (B) a door-to-door education and outreach campaign;
+
+  (C) social media and digital outreach;
+
+  (D) an advertising campaign on recycling awareness;
+
+  (E) the development and dissemination of—
+
+    (i) a toolkit for a municipal and commercial recycling program;
+
+    (ii) information on the importance of quality in the recycling stream;
+
+    (iii) information on the economic and environmental benefits of recycling; and
+
+    (iv) information on what happens to materials after the materials are placed into a residential or community recycling program;
+
+  (F) businesses recycling outreach;
+
+  (G) bin, cart, and other receptacle labeling and signs; and
+
+  (H) such other activities that the Administrator determines are appropriate to carry out the purposes of this subsection.
+
+(6) **Prohibition on use of funds** — No funds may be awarded under the grant program for a residential recycling program that—
+
+  (A) does not provide for the separate collection of residential solid waste (as defined in section 246.101 of title 40, Code of Federal Regulations (as in effect on November 15, 2021)) from recycled material (as defined in that section), unless the funds are used to promote a transition to a system that separately collects recycled materials; or
+
+  (B) promotes the establishment of, or conversion to, a residential collection system that does not provide for the separate collection of residential solid waste from recycled material (as those terms are defined under subparagraph (A)).
+
+(7) **Model recycling program toolkit**
+
+  (A) *In general* — In carrying out the grant program, the Administrator, in consultation with other relevant Federal agencies, States, Indian Tribes, units of local government, nonprofit organizations, and the private sector, shall develop a model recycling program toolkit for States, Indian Tribes, and units of local government that includes, at a minimum—
+
+    (i) a standardized set of terms and examples that may be used to describe materials that are accepted by a residential recycling program;
+
+    (ii) information that the Administrator determines can be widely applied across residential recycling programs, taking into consideration the differences in recycled materials accepted by residential recycling programs;
+
+    (iii) educational principles on best practices for the collection and processing of recycled materials;
+
+    (iv) a community self-assessment guide to identify gaps in existing recycling programs;
+
+    (v) training modules that enable States and nonprofit organizations to provide technical assistance to units of local government;
+
+    (vi) access to consumer educational materials that States, Indian Tribes, and units of local government can adapt and use in recycling programs; and
+
+    (vii) a guide to measure the effectiveness of a grant received under the grant program, including standardized measurements for recycling rates and decreases in contamination.
+
+  (B) *Requirement* — In developing the standardized set of terms and examples under subparagraph (A)(i), the Administrator may not establish any requirements for—
+
+    (i) what materials shall be accepted by a residential recycling program; or
+
+    (ii) the labeling of products.
+
+(8) **School curriculum** — The Administrator shall provide assistance to the educational community, including nonprofit organizations, such as an organization the science, technology, engineering, and mathematics program of which incorporates recycling, to promote the introduction of recycling principles and best practices into public school curricula.
+
+(9) **Reports**
+
+  (A) *To the Administrator* — Not earlier than 180 days, and not later than 2 years, after the date on which a grant under the grant program is awarded to an eligible entity, the eligible entity shall submit to the Administrator a report describing, by using the guide developed under paragraph (7)(A)(vii)—
+
+    (i) the change in volume of recycled material collected through the activities funded with the grant;
+
+    (ii) the change in participation rate of the recycling program funded with the grant;
+
+    (iii) the reduction of contamination in the recycling stream as a result of the activities funded with the grant; and
+
+    (iv) such other information as the Administrator determines to be appropriate.
+
+  (B) *To Congress* — The Administrator shall submit to Congress an annual report describing—
+
+    (i) the effectiveness of residential recycling programs awarded funds under the grant program, including statistics comparing the quantity and quality of recycled materials collected by those programs, as described in the reports submitted to the Administrator under subparagraph (A); and
+
+    (ii) recommendations on additional actions to improve residential recycling.
+
+**(c) Omitted**
+
+**(d) Authorization of appropriations**
+
+(1) **In general** — There is authorized to be appropriated to the Administrator to carry out this section and the amendments made by this section $15,000,000 for each of fiscal years 2022 through 2026.
+
+(2) **Requirement** — Of the amount made available under paragraph (1) for a fiscal year, not less than 20 percent shall be allocated to—
+
+  (A) low-income communities;
+
+  (B) rural communities; and
+
+  (C) communities identified as Native American pursuant to [section 3001(9) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section3001/9&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### References in Text
+The amendments made by this section, referred to in subsec. (d)(1), means the amendments made by section 70402(c) of Pub. L. 117–58, which amended [section 6962 of this title](./chapter-082-solid-waste-disposal.md#section-6962). See Codification note below.
+
+#### Codification
+Section is comprised of section 70402 of Pub. L. 117–58. Subsec. (c) of section 70402 of Pub. L. 117–58 amended [section 6962 of this title](./chapter-082-solid-waste-disposal.md#section-6962).
+
+Section was enacted as part of the Infrastructure Investment and Jobs Act, and not as part of the Solid Waste Disposal Act which comprises this chapter.
 
 
 <a id="section-6971"></a>

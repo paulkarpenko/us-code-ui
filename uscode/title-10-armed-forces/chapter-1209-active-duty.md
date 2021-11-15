@@ -116,9 +116,9 @@ Pub. L. 99–661, div. A, title V, § 524(b), Nov. 14, 1986, 100 Stat. 3872, pro
 Amendment by section 33(a)(5) of Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
 
 #### Rule of Construction for Duplicate Authorization and Appropriation Provisions of Public Laws 99–500, 99–591, and 99–661
-For rule of construction for certain duplicate provisions of Public Laws 99–500, 99–591, and 99–661, see Pub. L. 100–26, § 6, Apr. 21, 1987, 101 Stat. 274, set out as a note under [section 2302 of this title](./chapter-137-procurement-generally.md#section-2302).
+For rule of construction for certain duplicate provisions of Public Laws 99–500, 99–591, and 99–661, see Pub. L. 100–26, § 6, Apr. 21, 1987, 101 Stat. 274, set out as a note under [section 2302 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2302).
 
-#### Quarantine Lodging for Members of the Reserve Components Who Perform Certain Service in Response to the Covid–19 Emergency
+#### Quarantine Lodging for Members of the Reserve Components Who Perform Certain Service in Response to the COVID–19 Emergency
 Pub. L. 116–283, div. A, title V, § 517, Jan. 1, 2021, 134 Stat. 3590, provided that: “(a) In General.—The Secretary of Defense may provide, to a member of the reserve components of the Armed Forces who performs a period of covered service, housing for not fewer than 14 days immediately after the end of such period of covered service. “(b) Definitions.—In this section:“(1) The term ‘active service’ has the meaning given that term in [section 101 of title 10](./chapter-001-definitions.md#section-101), United States Code. “(2) The term ‘covered service’ means active service performed in response to the covered national emergency. “(3) The term ‘covered national emergency’ means the national emergency declared on March 13, 2020, by the President under the National Emergencies Act ([50 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) et seq.) with respect to COVID–19.”
 
 #### Limitations on Cancellations of Deployment of Certain Reserve Component Units and Involuntary Mobilizations of Certain Reserves
@@ -1048,13 +1048,21 @@ In subsection (b), the word “kept” is substituted for the words “retained 
 
 <a id="section-12316"></a>
 ## § 12316. Payment of certain Reserves while on duty
-**(a)** Except as provided by subsection (b), a Reserve of the Army, Navy, Air Force, Marine Corps, or Coast Guard who because of his earlier military service is entitled to a pension, retired or retainer pay, or disability compensation, and who performs duty for which he is entitled to compensation, may elect to receive for that duty either—
+**(a)** Except as provided by subsection (c), a Reserve of the Army, Navy, Air Force, Marine Corps, or Coast Guard who because of the Reserve’s earlier military service is entitled to retired or retainer pay, and who performs duty for which the Reserve is entitled to compensation, may elect to receive for that duty either—
 
-(1) the payments to which he is entitled because of his earlier military service; or
+(1) the pay and allowances authorized by law for the duty that the Reserve is performing; or
 
-(2) if he specifically waives those payments, the pay and allowances authorized by law for the duty that he is performing.
+(2) if the Reserve specifically waives those payments, the retired or retainer pay to which the Reserve is entitled because of the Reserve’s earlier military service.
 
-**(b)** Unless the payments because of his earlier military service are greater than the compensation prescribed by subsection (a)(2), a Reserve of the Army, Navy, Air Force, Marine Corps, or Coast Guard who because of his earlier military service is entitled to a pension, retired or retainer pay, or disability compensation, and who upon being ordered to active duty for a period of more than 30 days in time of war or national emergency is found physically qualified to perform that duty, ceases to be entitled to the payments because of his earlier military service until the period of active duty ends. While on that active duty, he is entitled to the compensation prescribed by subsection (a)(2). Other rights and benefits of the member or his dependents are unaffected by this subsection.
+**(b)** Except as provided by subsection (c), a Reserve of the Army, Navy, Air Force, Marine Corps, or Coast Guard who because of the Reserve’s earlier military service is entitled to a pension or disability compensation, and who performs duty for which the Reserve is entitled to compensation, may elect to receive for that duty either—
+
+(1) the pension or disability compensation to which the Reserve is entitled because of the Reserve’s earlier military service; or
+
+(2) if the Reserve specifically waives those payments, the pay and allowances authorized by law for the duty that the Reserve is performing.
+
+**(c)** Unless the payments because of a Reserve’s earlier military service are greater than the compensation prescribed by subsection (a)(1) or (b)(2), as applicable,, a Reserve of the Army, Navy, Air Force, Marine Corps, or Coast Guard who because of the Reserve’s earlier military service is entitled to a pension, retired or retainer pay, or disability compensation, and who upon being ordered to active duty for a period of more than 30 days in time of war or national emergency is found physically qualified to perform that duty, ceases to be entitled to the payments because of the Reserve’s earlier military service until the period of active duty ends. While on that active duty, the Reserve is entitled to the compensation prescribed by subsection (a)(1) or (b)(2), as applicable,. Other rights and benefits of the Reserve or the Reserve’s dependents are unaffected by this subsection.
+
+**(d)** The Secretary of Defense shall prescribe regulations under which a Reserve of the Army, Navy, Air Force, Marine Corps, or Coast Guard may waive the pay and allowances authorized by law for the duty the Reserve is performing under subsection (a)(2) or (b)(2).
 
 ### Statutory Notes
 
@@ -1074,27 +1082,8 @@ In subsection (a)(2), the words “pay and allowances authorized by law for the 
 
 In subsection (b), the word “extended”, the next to the last sentence of 10 App.: 369b and of 34 App.: 853e–1, and the first proviso of 34 App.:853e–1, are omitted as surplusage.
 
-#### Amendment of Section
-Pub. L. 116–283, div. A, title VI, § 621, Jan. 1, 2021, 134 Stat. 3675, provided that, effective 180 days after Jan. 1, 2021, this section is amended. After such effective date, this section will read as follows:
-
-(a) Except as provided by subsection (c), a Reserve of the Army, Navy, Air Force, Marine Corps, or Coast Guard who because of the Reserve’s earlier military service is entitled to retired or retainer pay, and who performs duty for which the Reserve is entitled to compensation, may elect to receive for that duty either—
-
-(1) the pay and allowances authorized by law for the duty that the Reserve is performing; or
-
-(2) if the Reserve specifically waives those payments, the retired or retainer pay to which the Reserve is entitled because of the Reserve’s earlier military service.
-
-(b) Except as provided by subsection (c), a Reserve of the Army, Navy, Air Force, Marine Corps, or Coast Guard who because of the Reserve’s earlier military service is entitled to a pension or disability compensation, and who performs duty for which the Reserve is entitled to compensation, may elect to receive for that duty either—
-
-(1) the pension or disability compensation to which the Reserve is entitled because of the Reserve’s earlier military service; or
-
-(2) if the Reserve specifically waives those payments, the pay and allowances authorized by law for the duty that the Reserve is performing.
-
-(c) Unless the payments because of a Reserve’s earlier military service are greater than the compensation prescribed by subsection (a)(1) or (b)(2), as applicable,, a Reserve of the Army, Navy, Air Force, Marine Corps, or Coast Guard who because of the Reserve’s earlier military service is entitled to a pension, retired or retainer pay, or disability compensation, and who upon being ordered to active duty for a period of more than 30 days in time of war or national emergency is found physically qualified to perform that duty, ceases to be entitled to the payments because of the Reserve’s earlier military service until the period of active duty ends. While on that active duty, the Reserve is entitled to the compensation prescribed by subsection (a)(1) or (b)(2), as applicable,. Other rights and benefits of the Reserve or the Reserve’s dependents are unaffected by this subsection.
-
-(d) The Secretary of Defense shall prescribe regulations under which a Reserve of the Army, Navy, Air Force, Marine Corps, or Coast Guard may waive the pay and allowances authorized by law for the duty the Reserve is performing under subsection (a)(2) or (b)(2).
-
 #### Amendments
-2021—Subsec. (a). Pub. L. 116–283, § 621(a)(1), substituted in introductory provisions “subsection (c)” for “subsection (b)”, “the Reserve’s earlier military service” for “his earlier military service”, “retired or retainer pay” for “a pension, retired or retainer pay, or disability compensation”, and “the Reserve is entitled” for “he is entitled”.
+2021—Subsec. (a). Pub. L. 116–283, § 621(a)(1), in introductory provisions, substituted “subsection (c)” for “subsection (b)”, “the Reserve’s earlier military service” for “his earlier military service”, “retired or retainer pay” for “a pension, retired or retainer pay, or disability compensation”, and “the Reserve is entitled” for “he is entitled”.
 
 Subsec. (a)(1), (2). Pub. L. 116–283, § 621(a)(2), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 

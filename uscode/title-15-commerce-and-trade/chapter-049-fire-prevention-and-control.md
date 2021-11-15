@@ -245,6 +245,7 @@ For transfer of all functions, personnel, assets, components, authorities, grant
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
+#### Transfer of Functions
 The National Fire Prevention and Control Administration [now United States Fire Administration] and the National Academy for Fire Prevention and Control and the positions of Administrator of the Administration and Superintendent of the Academy were transferred to an independent agency in the Executive Branch, to be known as the Federal Emergency Management Agency, and all functions vested in the Secretary of Commerce, the Administrator and Deputy Administrator of the National Fire Prevention and Control Administration, and the Superintendent of the National Academy for Fire Prevention and Control pursuant to the provisions of this chapter, with the exception of those functions under sections 2220 and 2221 of this title which remain vested in the Administrator of the United States Fire Administration, were transferred to the Director of the Federal Emergency Management Agency pursuant to Reorg. Plan No. 3 of 1978, §§ 201, 301, June 19, 1978, 43 F.R. 41944, 92 Stat. 3788, set out as a note under [section 2201 of this title](./chapter-049-fire-prevention-and-control.md#section-2201), effective Apr. 1, 1979, pursuant to Ex. Ord. No. 12127, §§ 1–101, 1–103(a), Mar. 31, 1979, 44 F.R. 19367.
 
 
@@ -316,6 +317,7 @@ For transfer of all functions, personnel, assets, components, authorities, grant
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
+#### Transfer of Functions
 Functions of National Fire Prevention and Control Administration [now United States Fire Administration] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under [section 2202 of this title](./chapter-049-fire-prevention-and-control.md#section-2202).
 
 
@@ -352,8 +354,6 @@ For transfer of all functions, personnel, assets, components, authorities, grant
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
-Functions of National Fire Prevention and Control Administration [now United States Fire Administration] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under [section 2202 of this title](./chapter-049-fire-prevention-and-control.md#section-2202).
-
 #### Re-Establishment of Position of United States Fire Administrator
 Pub. L. 108–169, title I, § 102, Dec. 6, 2003, 117 Stat. 2036, provided that: “Section 1513 of the Homeland Security Act of 2002 ([6 U.S.C. 553](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section553&num=0&edition=prelim)) does not apply to the position or office of Administrator of the United States Fire Administration, who shall continue to be appointed and compensated as provided by section 5(b) of the Federal Fire Prevention and Control Act of 1974 ([15 U.S.C. 2204(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2204/b&num=0&edition=prelim)).”
 
@@ -362,6 +362,9 @@ Pub. L. 105–108, § 4, Nov. 20, 1997, 111 Stat. 2264, provided that: “(a) In
 
 #### Notice of Reprogramming or Reorganization
 Pub. L. 105–108, § 5, Nov. 20, 1997, 111 Stat. 2265, provided that: “(a) Major Reorganization Defined.—With respect to the United States Fire Administration, the term ‘major reorganization’ means any reorganization of the Administration that involves the reassignment of more than 25 percent of the employees of the Administration. “(b) Notice of Reprogramming.—If any funds appropriated pursuant to the amendments made by this Act [see Short Title of 1997 Amendment note set out under [section 2201 of this title](./chapter-049-fire-prevention-and-control.md#section-2201)] are subject to a reprogramming action that requires notice to be provided to the Committees on Appropriations of the Senate and the House of Representatives, notice of that action shall concurrently be provided to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science [now Committee on Science, Space, and Technology] of the House of Representatives. “(c) Notice of Reorganization.—Not later than 15 days before any major reorganization of any program, project, or activity of the United States Fire Administration, the Administrator of the United States Fire Administration shall provide notice to the Committees on Science [now Science, Space, and Technology] and Appropriations of the House of Representatives and the Committees on Commerce, Science, and Transportation and Appropriations of the Senate.”
+
+#### Transfer of Functions
+Functions of National Fire Prevention and Control Administration [now United States Fire Administration] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under [section 2202 of this title](./chapter-049-fire-prevention-and-control.md#section-2202).
 
 
 <a id="section-2205"></a>
@@ -379,6 +382,7 @@ For transfer of all functions, personnel, assets, components, authorities, grant
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
+#### Transfer of Functions
 Functions of National Fire Prevention and Control Administration [now United States Fire Administration] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under [section 2202 of this title](./chapter-049-fire-prevention-and-control.md#section-2202).
 
 
@@ -548,8 +552,6 @@ For transfer of all functions, personnel, assets, components, authorities, grant
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
-Functions of National Fire Prevention and Control Administration [now United States Fire Administration] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under [section 2202 of this title](./chapter-049-fire-prevention-and-control.md#section-2202).
-
 #### Consultation on Fire Academy Classes
 Pub. L. 108–169, title II, § 204(b), Dec. 6, 2003, 117 Stat. 2039, provided that: “The Superintendent of the National Fire Academy may consult with other Federal, State, and local agency officials in developing curricula for classes offered by the Academy.”
 
@@ -558,6 +560,9 @@ Pub. L. 108–169, title II, § 204(c), Dec. 6, 2003, 117 Stat. 2039, provided t
 
 #### Limitations on Authority of Superintendent of Fire Academy; Exclusive Control and Direction of United States Fire Administrator
 Pub. L. 101–507, title III, Nov. 5, 1990, 104 Stat. 1377, provided that: “The Superintendent of the Fire Academy, in exercising the powers and authority provided by section 7 of the Federal Fire Prevention Control Act of 1974 [[15 U.S.C. 2206](./chapter-049-fire-prevention-and-control.md#section-2206)], shall be subject to the exclusive direction of the Administrator, United States Fire Administration: Provided, That all funds appropriated by this or any other Act, with respect for any fiscal year, or otherwise made available, for the National Fire Academy in Emmitsburg, Maryland, or any Fire Academy field programs, shall be placed under the exclusive control of the United States Fire Administration.”
+
+#### Transfer of Functions
+Functions of National Fire Prevention and Control Administration [now United States Fire Administration] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under [section 2202 of this title](./chapter-049-fire-prevention-and-control.md#section-2202).
 
 
 <a id="section-2207"></a>
@@ -684,6 +689,7 @@ For transfer of all functions, personnel, assets, components, authorities, grant
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
+#### Transfer of Functions
 Functions of National Fire Prevention and Control Administration [now United States Fire Administration] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under [section 2202 of this title](./chapter-049-fire-prevention-and-control.md#section-2202).
 
 
@@ -755,6 +761,7 @@ For transfer of all functions, personnel, assets, components, authorities, grant
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
+#### Transfer of Functions
 Functions of National Fire Prevention and Control Administration [now United States Fire Administration] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under [section 2202 of this title](./chapter-049-fire-prevention-and-control.md#section-2202).
 
 
@@ -791,6 +798,7 @@ For transfer of all functions, personnel, assets, components, authorities, grant
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
+#### Transfer of Functions
 Functions of National Fire Prevention and Control Administration [now United States Fire Administration] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under [section 2202 of this title](./chapter-049-fire-prevention-and-control.md#section-2202).
 
 
@@ -832,6 +840,7 @@ For transfer of all functions, personnel, assets, components, authorities, grant
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
+#### Transfer of Functions
 Functions of National Fire Prevention and Control Administration [now United States Fire Administration] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under [section 2202 of this title](./chapter-049-fire-prevention-and-control.md#section-2202).
 
 
@@ -847,6 +856,7 @@ For transfer of all functions, personnel, assets, components, authorities, grant
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
+#### Transfer of Functions
 Functions of National Fire Prevention and Control Administration [now United States Fire Administration] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under [section 2202 of this title](./chapter-049-fire-prevention-and-control.md#section-2202).
 
 
@@ -862,6 +872,7 @@ For transfer of all functions, personnel, assets, components, authorities, grant
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
+#### Transfer of Functions
 Functions of National Fire Prevention and Control Administration [now United States Fire Administration] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under [section 2202 of this title](./chapter-049-fire-prevention-and-control.md#section-2202).
 
 
@@ -877,6 +888,7 @@ For transfer of all functions, personnel, assets, components, authorities, grant
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
+#### Transfer of Functions
 Functions of National Fire Prevention and Control Administration [now United States Fire Administration] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under [section 2202 of this title](./chapter-049-fire-prevention-and-control.md#section-2202).
 
 
@@ -952,6 +964,7 @@ For transfer of all functions, personnel, assets, components, authorities, grant
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
+#### Transfer of Functions
 Functions of National Fire Prevention and Control Administration [now United States Fire Administration] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under [section 2202 of this title](./chapter-049-fire-prevention-and-control.md#section-2202).
 
 #### Ex. Ord. No. 13161. Establishment of the Presidential Medal of Valor for Public Safety Officers
@@ -1026,6 +1039,7 @@ For transfer of all functions, personnel, assets, components, authorities, grant
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
+#### Transfer of Functions
 Functions of National Fire Prevention and Control Administration [now United States Fire Administration] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under [section 2202 of this title](./chapter-049-fire-prevention-and-control.md#section-2202).
 
 
@@ -1177,10 +1191,11 @@ For transfer of all functions, personnel, assets, components, authorities, grant
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
-Functions of National Fire Prevention and Control Administration [now United States Fire Administration] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under [section 2202 of this title](./chapter-049-fire-prevention-and-control.md#section-2202).
-
 #### Arson Prevention Grants; Termination of Appropriations
 Pub. L. 103–254, § 8, May 19, 1994, 108 Stat. 683, provided that: “Notwithstanding any other provision of this Act [see Short Title of 1994 Amendment note set out under [section 2201 of this title](./chapter-049-fire-prevention-and-control.md#section-2201)], no funds are authorized to be appropriated for any fiscal year after fiscal year 1996 for carrying out the programs for which funds are authorized by this Act, or the amendments made by this Act.”
+
+#### Transfer of Functions
+Functions of National Fire Prevention and Control Administration [now United States Fire Administration] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under [section 2202 of this title](./chapter-049-fire-prevention-and-control.md#section-2202).
 
 
 <a id="section-2217"></a>
@@ -1208,6 +1223,7 @@ For transfer of all functions, personnel, assets, components, authorities, grant
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
+#### Transfer of Functions
 Functions of National Fire Prevention and Control Administration [now United States Fire Administration] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under [section 2202 of this title](./chapter-049-fire-prevention-and-control.md#section-2202).
 
 
@@ -1263,10 +1279,11 @@ For transfer of all functions, personnel, assets, components, authorities, grant
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
-Functions of National Fire Prevention and Control Administration [now United States Fire Administration] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under [section 2202 of this title](./chapter-049-fire-prevention-and-control.md#section-2202).
-
 #### Enhancement of Science and Mathematics Programs
 Pub. L. 105–108, § 7, Nov. 20, 1997, 111 Stat. 2265, provided that: “(a) Definitions.—In this section:“(1) Administrator.—The term ‘Administrator’ means the Administrator of the United States Fire Administration. “(2) Educationally useful federal equipment.—The term ‘educationally useful Federal equipment’ means computers and related peripheral tools and research equipment that is appropriate for use in schools. “(3) School.—The term ‘school’ means a public or private educational institution that serves any of the grades of kindergarten through grade 12. “(b) Sense of Congress.—“(1) In general.—It is the sense of Congress that the Administrator should, to the greatest extent practicable and in a manner consistent with applicable Federal law (including Executive Order No. 12999 [[40 U.S.C. 549](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section549&num=0&edition=prelim) note]), donate educationally useful Federal equipment to schools in order to enhance the science and mathematics programs of those schools. “(2) Reports.—“(A) In general.—Not later than 1 year after the date of enactment of this Act [Nov. 20, 1997], and annually thereafter, the Administrator shall prepare and submit to the President a report that meets the requirements of this paragraph. The President shall submit that report to Congress at the same time as the President submits a budget request to Congress under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code. “(B) Contents of report.—The report prepared by the Administrator under this paragraph shall describe any donations of educationally useful Federal equipment to schools made during the period covered by the report.”
+
+#### Transfer of Functions
+Functions of National Fire Prevention and Control Administration [now United States Fire Administration] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under [section 2202 of this title](./chapter-049-fire-prevention-and-control.md#section-2202).
 
 
 <a id="section-2219"></a>
@@ -1284,6 +1301,7 @@ For transfer of all functions, personnel, assets, components, authorities, grant
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
+#### Transfer of Functions
 Functions of National Fire Prevention and Control Administration [now United States Fire Administration] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under [section 2202 of this title](./chapter-049-fire-prevention-and-control.md#section-2202).
 
 
@@ -1316,6 +1334,7 @@ For transfer of all functions, personnel, assets, components, authorities, grant
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
+#### Transfer of Functions
 Functions of Administrator of United States Fire Administration under this section and [section 2221 of this title](./chapter-049-fire-prevention-and-control.md#section-2221) to remain vested in Administrator and not to be transferred to Director of Federal Emergency Management Agency, pursuant to Reorg. Plan No. 3 of 1978, §§ 201, 301, June 19, 1978, 43 F.R. 41944, 92 Stat. 3788, set out as a note under [section 2201 of this title](./chapter-049-fire-prevention-and-control.md#section-2201), effective Apr. 1, 1979, pursuant to Ex. Ord. No. 12127, § 1–103(a), Mar. 31, 1979, 44 F.R. 19367.
 
 

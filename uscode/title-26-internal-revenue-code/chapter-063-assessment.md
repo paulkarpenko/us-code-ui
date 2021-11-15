@@ -315,7 +315,7 @@ Amendment by Pub. L. 85–859 effective Sept. 3, 1958, see section 210(a)(1) of 
 
 (4) For purposes of subsection (a)—
 
-  (A) any excess of the sum of the credits allowable under sections 24(d), 25A by reason of subsection (i) thereof, 32, 34, 35, 36, 36B, 6428, and 6428A over the tax imposed by subtitle A (determined without regard to such credits), and
+  (A) any excess of the sum of the credits allowable under sections 21 by reason of subsection (g) thereof, 24 by reason of subsections (d) and (i)(1) thereof, 25A by reason of subsection (i) thereof, 32, 34, 35, 36, 36B, 6428, 6428A, 6428B, and 7527A over the tax imposed by subtitle A (determined without regard to such credits), and
 
   (B) any excess of the sum of such credits as shown by the taxpayer on his return over the amount shown as the tax by the taxpayer on such return (determined without regard to such credits),
   shall be taken into account as negative amounts of tax.
@@ -325,6 +325,12 @@ Amendment by Pub. L. 85–859 effective Sept. 3, 1958, see section 210(a)(1) of 
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (b)(4)(A). Pub. L. 117–2, § 9631(c)(1), inserted “21 by reason of subsection (g) thereof,” before “24”.
+
+Pub. L. 117–2, § 9611(b)(4)(B), substituted “24 by reason of subsections (d) and (i)(1) thereof” for “24(d)” and “6428B, and 7527A” for “and 6428B”.
+
+Pub. L. 117–2, § 9601(c)(1), substituted “6428, 6428A, and 6428B” for “6428, and 6428A”.
+
 2020—Subsec. (b)(4)(A). Pub. L. 116–260 substituted “6428, and 6428A” for “and 6428”.
 
 Pub. L. 116–136 substituted “36B, and 6428” for “and 36B, 168(k)(4)”.
@@ -412,6 +418,11 @@ Subsec. (b)(2). Pub. L. 91–172, § 101(j)(39), inserted reference to chapter 4
 1966—Subsec. (b)(1). Pub. L. 89–368 substituted “subtitle A” for “chapter 1”.
 
 1965—Subsec. (b)(4). Pub. L. 89–44 added par. (4).
+
+#### Effective Date of 2021 Amendment
+Amendment by section 9611(b)(4)(B) of Pub. L. 117–2 applicable to taxable years beginning after Dec. 31, 2020, see section 9611(c)(1) of Pub. L. 117–2, set out as a note under [section 24 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-24).
+
+Amendment by section 9631(c)(1) of Pub. L. 117–2 applicable to taxable years beginning after Dec. 31, 2020, see section 9631(d) of Pub. L. 117–2, set out as a note under [section 21 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-21).
 
 #### Effective Date of 2018 Amendment
 Amendment by section 101(l)(17) of Pub. L. 115–141 effective as if included in the provision of the Protecting Americans from Tax Hikes Act of 2015, div. Q of Pub. L. 114–113, to which such amendment relates, see section 101(s) of Pub. L. 115–141, set out as a note under [section 24 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-24).

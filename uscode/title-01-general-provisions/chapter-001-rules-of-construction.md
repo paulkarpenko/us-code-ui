@@ -29,6 +29,12 @@ Pub. L. 107–207, § 1, Aug. 5, 2002, 116 Stat. 926, provided that: “This Act
 #### Short Title of 1996 Amendment
 Pub. L. 104–199, § 1, Sept. 21, 1996, 110 Stat. 2419, provided that: “This Act [enacting [section 7 of this title](./chapter-001-rules-of-construction.md#section-7) and [section 1738C of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1738C&num=0&edition=prelim), Judiciary and Judicial Procedure] may be cited as the ‘Defense of Marriage Act’.”
 
+#### References in Pub. L. 117–58
+Pub. L. 117–58, § 2, Nov. 15, 2021, 135 Stat. 442, provided that: “Except as expressly provided otherwise, any reference to ‘this Act’ contained in any division of this Act [Infrastructure Investment and Jobs Act, see Tables for classification] shall be treated as referring only to the provisions of that division.”
+
+#### References in Pub. L. 117–43
+Pub. L. 117–43, § 3, Sept. 30, 2021, 135 Stat. 344, provided that: “Except as expressly provided otherwise, any reference to ‘this Act’ contained in any division of this Act [Extending Government Funding and Delivering Emergency Assistance Act, see Tables for classification] shall be treated as referring only to the provisions of that division.”
+
 #### References in Pub. L. 116–260
 Pub. L. 116–260, § 3, Dec. 27, 2020, 134 Stat. 1185, provided that: “Except as expressly provided otherwise, any reference to ‘this Act’ contained in any division of this Act [Consolidated Appropriations Act, 2021, see Tables for classification] shall be treated as referring only to the provisions of that division.”
 
@@ -179,7 +185,7 @@ In determining the meaning of any Act of Congress, or of any ruling, regulation,
 ### Statutory Notes
 
 #### Constitutionality
-For information regarding constitutionality of this section, as added by section 3(a) of Pub. L. 104–199, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For information regarding constitutionality of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
 
 
 <a id="section-8"></a>

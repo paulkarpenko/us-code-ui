@@ -177,6 +177,7 @@ Section effective 120 days after Oct. 30, 2000, see section 1 [[div. A], title X
 
 ### Statutory Notes
 
+#### Amendments
 2018—Pub. L. 115–232, § 806(a)(1), renumbered [section 9446 of this title](./chapter-953-united-states-air-force-academy.md#section-9446) as this section.
 
 Subsec. (a)(1). Pub. L. 115–232, § 809(a), substituted “section 9498” for “section 9448”.

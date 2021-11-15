@@ -32,7 +32,7 @@ source: >-
 This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 103–141, Nov. 16, 1993, 107 Stat. 1488, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 #### Constitutionality
-For constitutionality of section 2 of Pub. L. 103–141, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For constitutionality of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
 
 #### Short Title
 Pub. L. 103–141, § 1, Nov. 16, 1993, 107 Stat. 1488, provided that: “This Act [enacting this chapter and amending [section 1988 of this title](./chapter-021-civil-rights.md#section-1988) and [section 504 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section504&num=0&edition=prelim), Government Organization and Employees] may be cited as the ‘Religious Freedom Restoration Act of 1993’.”

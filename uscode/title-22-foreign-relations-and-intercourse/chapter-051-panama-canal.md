@@ -554,7 +554,7 @@ In subsec. (b)(4), “sections 1343, 1344, and 1349(b) of title 31” substitute
 Subsecs. (e), (f). Pub. L. 105–85, § 3522, added subsecs. (e) and (f).
 
 #### Change of Name
-Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 402(c)(3) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402/c/3&num=0&edition=prelim), The Public Health and Welfare.
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 204(c)(3) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section204/c/3&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Delegation of Functions
 Functions vested in President by subsec. (d) of this section delegated to Secretary of State, see section 1–402 of Ex. Ord. No. 12215, May 27, 1980, 45 F.R. 36044, set out as a note under [section 3601 of this title](./chapter-051-panama-canal.md#section-3601).

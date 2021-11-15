@@ -2,7 +2,7 @@
 title: 40
 chapter: '143'
 heading: APPALACHIAN REGIONAL COMMISSION
-section_count: 12
+section_count: 13
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40&num=0&edition=prelim
 ---
@@ -91,9 +91,11 @@ Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applic
 
 (8) provide a forum for consideration of problems of the region and proposed solutions and establish and utilize, as appropriate, citizens and special advisory councils and public conferences;
 
-(9) encourage the use of eco-industrial development technologies and approaches; and
+(9) encourage the use of eco-industrial development technologies and approaches;
 
-(10) seek to coordinate the economic development activities of, and the use of economic development resources by, federal agencies in the region.
+(10) seek to coordinate the economic development activities of, and the use of economic development resources by, federal agencies in the region; and
+
+(11) support broadband access in the Appalachian region.
 
 **(b) Identify Needs and Goals of Subregional Areas.—** In carrying out its functions under this section, the Commission shall identify the characteristics of, and may distinguish between the needs and goals of, appropriate subregional areas, including central, northern, and southern Appalachia.
 
@@ -103,6 +105,12 @@ Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applic
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 14303 | 40 App.:102. | Pub. L. 89–4, title I, § 102, Mar. 9, 1965, 79 Stat. 7; Pub. L. 90–103, title I, § 102, Oct. 11, 1967, 81 Stat. 257; Pub. L. 94–188, title I, § 105, Dec. 31, 1975, 89 Stat. 1080; Pub. L. 107–149, § 3, Mar. 12, 2002, 116 Stat. 66. |
+
+#### Amendments
+2021—Subsec. (a)(11). Pub. L. 117–58 added par. (11).
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as a note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
 
 #### Termination of Advisory Councils
 Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
@@ -444,3 +452,15 @@ Subsec. (a)(2)(A). Pub. L. 110–371, § 2(a)(2), added subpar. (A) and struck o
 | 14322(a) | 40 App.:303 (1st sentence). | Pub. L. 89–4, title III, § 303, Mar. 9, 1965, 79 Stat. 20; Pub. L. 90–103, title I, § 121, Oct. 11, 1967, 81 Stat. 265; Pub. L. 94–188, title I, § 120, Dec. 31, 1975, 89 Stat. 1086; Pub. L. 107–149, § 13(i), Mar. 12, 2002, 116 Stat. 72. |
 | 14322(b) | 40 App.:303 (2d, 3d sentences). |  |
 | 14322(c) | 40 App.:303 (last sentence). |  |
+
+
+<a id="section-14323"></a>
+## § 14323. Congressional notification
+**(a) In General.—** In the case of a project described in subsection (b), the Appalachian Regional Commission shall provide to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate notice of the award of a grant or other financial assistance not less than 3 full business days before awarding the grant or other financial assistance.
+
+**(b) Projects Described.—** A project referred to in subsection (a) is a project that the Appalachian Regional Commission has selected to receive a grant or other financial assistance under this subtitle in an amount not less than $50,000.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as an Effective Date of 2021 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.

@@ -116,7 +116,7 @@ source: >-
 
 **(h) Small Shipyard Defined.—** In this section, the term “small shipyard” means a shipyard facility in one geographic location that does not have more than 1,200 employees.
 
-**(i) Authorization of Appropriations.—** There are authorized to be appropriated to the Administrator of the Maritime Administration for each of fiscal years 2020 and 2021 to carry out this section $40,000,000.
+**(i) Authorization of Appropriations.—** There are authorized to be appropriated to the Administrator of the Maritime Administration for fiscal year 2021 to carry out this section $20,000,000.
 
 ### Statutory Notes
 
@@ -127,6 +127,8 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 A prior section 54101, added and amended Pub. L. 110–181, div. C, title XXXV, § 3523(a)(6)(B)–(D), Jan. 28, 2008, 122 Stat. 599, which related to assistance for small shipyards and maritime communities, was repealed by Pub. L. 110–417, div. C, title XXXV, § 3508(b), Oct. 14, 2008, 122 Stat. 4769, as amended by Pub. L. 111–84, div. A, title X, § 1073(c)(14), Oct. 28, 2009, 123 Stat. 2475, effective Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
 
 #### Amendments
+2021—Subsec. (i). Pub. L. 116–283 substituted “for fiscal year 2021 to carry out this section $20,000,000” for “for each of fiscal years 2020 and 2021 to carry out this section $40,000,000”.
+
 2019—Subsec. (d). Pub. L. 116–92, § 3507(a), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 Subsec. (i). Pub. L. 116–92, § 3507(b), substituted “2020 and 2021” for “2018, 2019, and 2020” and “$40,000,000” for “$35,000,000”.
@@ -177,52 +179,4 @@ Subsec. (i). Pub. L. 115–91, § 3501(b), substituted “2018, 2019, and 2020 t
 
 
 <a id="section-54102"></a>
-## § 54102. Centers of excellence for domestic maritime workforce training and education
-**(a) Designation.—** The Secretary of Transportation may designate as a center of excellence for domestic maritime workforce training and education a covered training entity located in a State that borders on the—
-
-(1) Gulf of Mexico;
-
-(2) Atlantic Ocean;
-
-(3) Long Island Sound;
-
-(4) Pacific Ocean;
-
-(5) Great Lakes;
-
-(6) Mississippi River System;
-
-(7) Arctic; or
-
-(8) Gulf of Alaska.
-
-**(b) Assistance.—** The Secretary may enter into a cooperative agreement (as that term is used in [section 6305 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6305&num=0&edition=prelim)) with a center of excellence designated under subsection (a) to support maritime workforce training and education at the center of excellence, including efforts of the center of excellence to—
-
-(1) admit additional students;
-
-(2) recruit and train faculty;
-
-(3) expand facilities;
-
-(4) create new maritime career pathways; or
-
-(5) award students credit for prior experience, including military service.
-
-**(c) Definitions.—** In this section,
-
-(1) **Covered training entity.—** — the term “covered training entity” means an entity that is—
-
-  (A) a community or technical college; or
-
-  (B) a maritime training center—
-
-    (i) operated by, or under the supervision of, a State; and
-
-    (ii) with a maritime training program in operation on the date of enactment of this section.
-
-(2) **Arctic.—** — The term “Arctic” has the meaning that term has under section 112 of the Arctic Research and Policy Act of 1984 ([15 U.S.C. 4111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section4111&num=0&edition=prelim)).
-
-### Statutory Notes
-
-#### References in Text
-The date of enactment of this section, referred to in subsec. (c)(1)(B)(ii), is the date of enactment of Pub. L. 115–91, which was approved Dec. 12, 2017.
+## § 54102. Renumbered § 51706]

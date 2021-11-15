@@ -35,6 +35,9 @@ In this section, the words “accident” and “incident” are used, and the w
 
 In subsection (b), the words “or incident” are added for consistency. The text of section 15(c) of the Rail Safety Enforcement and Review Act (Pub. L. 102–365, 106 Stat. 981) is omitted as executed.
 
+#### Safety Reporting
+Pub. L. 117–58, div. B, title II, § 22421(b), Nov. 15, 2021, 135 Stat. 750, provided that: “Not later than 1 year after the date of enactment of this Act [Nov. 15, 2021], and annually thereafter for the following 4 years, the Secretary [of Transportation] shall update Special Study Block 49 on Form FRA F 6180.54 (Rail Equipment Accident/Incident Report) to collect, with respect to trains involved in accidents required to be reported to the Federal Railroad Administration— “(1) the number of cars and length of the involved trains; and “(2) the number of crew members who were aboard a controlling locomotive involved in an accident at the time of such accident.”
+
 #### Accident and Incident Reporting
 Pub. L. 110–432, div. A, title II, § 209, Oct. 16, 2008, 122 Stat. 4876, provided that: “The Federal Railroad Administration shall conduct an audit of each Class I railroad at least once every 2 years and conduct an audit of each non-Class I railroad at least once every 5 years to ensure that all grade crossing collisions and fatalities are reported to any Federal national accident database.”
 
@@ -49,9 +52,27 @@ Pub. L. 110–432, div. A, title II, § 209, Oct. 16, 2008, 122 Stat. 4876, prov
 
 (2) an accident or incident reported under [section 20505 of this title](./chapter-205-signal-systems.md#section-20505).
 
-**(b) Other Duties and Powers.—** In carrying out an investigation, the Secretary or authorized investigator may subpena witnesses, require the production of records, exhibits, and other evidence, administer oaths, and take testimony. If the accident or incident is investigated by a commission of the State in which it occurred, the Secretary, if convenient, shall carry out the investigation at the same time as, and in coordination with, the commission’s investigation. The railroad carrier on whose railroad line the accident or incident occurred shall provide reasonable facilities to the Secretary for the investigation.
+**(b) Other Duties and Powers.—** In carrying out an investigation, the Secretary or authorized investigator may subpoena witnesses, require the production of records, exhibits, and other evidence, administer oaths, and take testimony. If the accident or incident is investigated by a commission of the State in which it occurred, the Secretary, if convenient, shall carry out the investigation at the same time as, and in coordination with, the commission’s investigation. The railroad carrier on whose railroad line the accident or incident occurred shall provide reasonable facilities to the Secretary for the investigation.
 
 **(c) Reports.—** When in the public interest, the Secretary shall make a report of the investigation, stating the cause of the accident or incident and making recommendations the Secretary considers appropriate. The Secretary shall publish the report in a way the Secretary considers appropriate.
+
+**(d) Gathering Information and Technical Expertise.—**
+
+(1) **In general.—** — The Secretary shall create a standard process for investigators to use during accident and incident investigations conducted under this section for determining when it is appropriate and the appropriate method for—
+
+  (A) gathering information about an accident or incident under investigation from railroad carriers, contractors or employees of railroad carriers or representatives of employees of railroad carriers, and others, as determined relevant by the Secretary; and
+
+  (B) consulting with railroad carriers, contractors or employees of railroad carriers or representatives of employees of railroad carriers, and others, as determined relevant by the Secretary, for technical expertise on the facts of the accident or incident under investigation.
+
+(2) **Confidentiality.—** — In developing the process required under paragraph (1), the Secretary shall factor in ways to maintain the confidentiality of any entity identified under paragraph (1) if—
+
+  (A) such entity requests confidentiality;
+
+  (B) such entity was not involved in the accident or incident; and
+
+  (C) maintaining such entity’s confidentiality does not adversely affect an investigation of the Federal Railroad Administration.
+
+(3) **Applicability.—** — This subsection shall not apply to any investigation carried out by the National Transportation Safety Board.
 
 ### Statutory Notes
 
@@ -71,6 +92,11 @@ Subsection (a)(2) is substituted for the text of 49 App.:26(f) (words after last
 In subsection (b), the words “In carrying out an investigation” are substituted for “shall have authority to investigate such collisions, derailments, or other accidents aforesaid, and all the attending facts, conditions, and circumstances, and for that purpose” to eliminate unnecessary words. The words “books, papers, orders, memoranda” are omitted as being included in “papers”. The words “in coordination with” are substituted for “in connection with” for clarity. The words “The railroad carrier on whose railroad line the accident or incident occurred” are added for clarity.
 
 In subsection (c), the words “When in the public interest” are substituted for “when he deems it to the public interest” to eliminate unnecessary words.
+
+#### Amendments
+2021—Subsec. (b). Pub. L. 117–58, § 22417(1), substituted “subpoena” for “subpena”.
+
+Subsec. (d). Pub. L. 117–58, § 22417(2), added subsec. (d).
 
 
 <a id="section-20903"></a>

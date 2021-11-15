@@ -126,6 +126,75 @@ Leave accumulated while in missing status shall be accounted for separately. It 
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 117–81, div. A, title VI, § 621(a), (b), Dec. 27, 2021, 135 Stat. 1770, 1771, provided that, effective one year after Dec. 27, 2021, this section is amended as follows:
+
+(1) in subsection (i)—
+
+(A) in paragraph (1)—
+
+(i) in subparagraph (A), by striking “a member” and all that follows through the period at the end and inserting the following: “a member of the armed forces described in paragraph (2) is allowed up to a total of 12 weeks of parental leave during the one-year period beginning after the following events:
+
+“(i) The birth or adoption of a child of the member and in order to care for such child.
+
+“(ii) The placement of a minor child with the member for adoption or long-term foster care.”; and
+
+(ii) by striking subparagraph (B) and inserting the following:
+
+“(B)(i) The Secretary concerned, under uniform regulations to be prescribed by the Secretary of Defense, may authorize leave described under subparagraph (A) to be taken after the one-year period described in such paragraph in the case of a member described in paragraph (2) who, except for this subparagraph, would lose unused parental leave at the end of the one-year period described in subparagraph (A) as a result of—
+
+“(I) operational requirements;
+
+“(II) professional military education obligations; or
+
+“(III) other circumstances that the Secretary determines reasonable and appropriate.
+
+“(ii) The regulations prescribed under clause (i) shall require that any leave authorized to be taken after the one-year period described in subparagraph (A) shall be taken within a reasonable period of time, as determined by the Secretary of Defense, after cessation of the circumstances warranting the extended deadline.”
+
+(B) by striking paragraphs (3), (8), and (10) and redesignating paragraphs (4), (5), (6), (7), and (9) as paragraphs (3), (4), (5), (6), and (7), respectively;
+
+(C) in paragraph (3), as redesignated, by striking the matter preceding the em dash and inserting “A member who has given birth may receive medical convalescent leave in conjunction with such birth. Medical convalescent leave in excess of the leave under paragraph (1) may be authorized if such additional medical convalescent leave”;
+
+(D) in paragraph (4), as redesignated, by striking “paragraphs (1) and (4)” and inserting “paragraphs (1) and (3)”;
+
+(E) in paragraph (5)(A), as redesignated, by inserting “, subject to the exceptions in paragraph (1)(B)(ii)” after “shall be forfeited”; and
+
+(F) in paragraph (7)(B), as redesignated, by striking “paragraph (4)” and inserting “paragraph (3)”;
+
+(2) by striking subsection (j) and redesignating subsections (k) and (l) as subsections (j) and (k), respectively; and
+
+(3) by adding at the end the following new subsection (l):
+
+“(l) A member of the armed forces who gives birth while on active duty may be required to meet body composition standards or pass a physical fitness test during the period of 12 months beginning on the date of such birth only with the approval of a health care provider employed at a military medical treatment facility and—
+
+“(1) at the election of such member; or
+
+“(2) in the interest of national security, as determined by the Secretary of Defense.”.
+
+See 2021 Amendment notes below.
+
+Pub. L. 117–81, div. A, title VI, § 622, Dec. 27, 2021, 135 Stat. 1771, provided that, effective 180 days after Dec. 27, 2021, this section is amended by adding at the end the following new subsection:
+
+(m)(1)(A) Under regulations prescribed by the Secretary of Defense, a member of the armed forces described in subparagraph (B) is allowed up to two weeks of leave to be used in connection with the death of an immediate family member.
+
+(B) Subparagraph (A) applies to the following members:
+
+(A) A member on active duty.
+
+(B) A member of a reserve component performing active Guard and Reserve duty.
+
+(C) A member of a reserve component subject to an active duty recall or mobilization order in excess of 12 months.
+
+(2) Under the regulations prescribed for purposes of this subsection, a member taking leave under paragraph (1) shall not have his or her leave account reduced as a result of taking such leave if such member’s accrued leave is fewer than 30 days. Members with 30 or more days of accrued leave shall be charged for bereavement leave until such point that the member’s accrued leave is less than 30 days. Any remaining bereavement leave taken by such member in accordance with paragraph (1) after such point shall not be chargeable to the member.
+
+(3) In this section, the term “immediate family member”, with respect to a member of the armed forces, means—
+
+(A) the member’s spouse; or
+
+(B) a child of the member.
+
+See 2021 Amendment note below.
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised section | Source (U.S. Code) | Source (Statutes at Large) |
@@ -140,6 +209,44 @@ In subsections (b) and (c), the word “accrued” is omitted as covered by the 
 In subsection (e), the words “before or after August 9, 1946” and section 31a(a) (words after semicolon in 9th sentence) of existing title 37 are omitted as executed.
 
 #### Amendments
+2021—Subsec. (i)(1)(A). Pub. L. 117–81, § 621(a)(1)(A)(i), substituted “a member of the armed forces described in paragraph (2) is allowed up to a total of 12 weeks of parental leave during the one-year period beginning after the following events:” and cls. (i) and (ii) for “a member of the armed forces described in paragraph (2) who is the primary caregiver in the case of the birth of a child is allowed up to twelve weeks of total leave, including up to six weeks of medical convalescent leave, to be used in connection with such birth.”
+
+Subsec. (i)(1)(B). Pub. L. 117–81, § 621(a)(1)(A)(ii), added subpar. (B) and struck out former subpar. (B) which read as follows: “Under the regulations prescribed for purposes of this subsection, a member of the armed forces described in paragraph (2) who is the primary caregiver in the case of the adoption of a child is allowed up to six weeks of total leave to be used in connection with such adoption.”
+
+Subsec. (i)(3). Pub. L. 117–81, § 621(a)(1)(C), substituted “A member who has given birth may receive medical convalescent leave in conjunction with such birth. Medical convalescent leave in excess of the leave under paragraph (1) may be authorized if such additional medical convalescent leave” for “Notwithstanding paragraph (1)(A), a member may receive more than six weeks of medical convalescent leave in connection with the birth of a child, but only if the additional medical convalescent leave” in introductory provisions.
+
+Pub. L. 117–81, § 621(a)(1)(B), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “The Secretary shall prescribe in the regulations referred to in paragraph (1) a definition of the term ‘primary caregiver’ for purposes of this subsection.”
+
+Subsec. (i)(4). Pub. L. 117–81, § 621(a)(1)(D), substituted “paragraphs (1) and (3)” for “paragraphs (1) and (4)”.
+
+Pub. L. 117–81, § 621(a)(1)(B), redesignated par. (5) as (4). Former par. (4) redesignated (3).
+
+Subsec. (i)(5). Pub. L. 117–81, § 621(a)(1)(B), redesignated par. (6) as (5). Former par. (5) redesignated (4).
+
+Subsec. (i)(5)(A). Pub. L. 117–81, § 621(a)(1)(E), inserted “, subject to the exceptions in paragraph (1)(B)(ii)” after “shall be forfeited”.
+
+Subsec. (i)(6). Pub. L. 117–81, § 621(a)(1)(B), redesignated par. (7) as (6). Former par. (6) redesignated (5).
+
+Subsec. (i)(7). Pub. L. 117–81, § 621(a)(1)(B), redesignated par. (9) as (7). Former par. (7) redesignated (6).
+
+Subsec. (i)(7)(B). Pub. L. 117–81, § 621(a)(1)(F), substituted “paragraph (3)” for “paragraph (4)”.
+
+Subsec. (i)(8). Pub. L. 117–81, § 621(a)(1)(B), struck out par. (8) which read as follows: “Under the regulations prescribed for purposes of this subsection, a member taking leave under paragraph (1) may, as a condition for taking such leave, be required—
+
+“(A) to accept an extension of the member’s current service obligation, if any, by one week for every week of leave taken under paragraph (1); or
+
+“(B) to incur a reduction in the member’s leave account by one week for every week of leave taken under paragraph (1).”
+
+Subsec. (i)(9), (10). Pub. L. 117–81, § 621(a)(1)(B), redesignated par. (9) as (7) and struck out par. (10) which read as follows:
+
+“(A) Subject to subparagraph (B), a member taking leave under paragraph (1) during a period of obligated service shall not be eligible for terminal leave, or to sell back leave, at the end such period of obligated service.
+
+“(B) Under the regulations for purposes of this subsection, the Secretary concerned may waive, whether in whole or in part, the applicability of subparagraph (A) to a member who reenlists at the end of the member’s period of obligated service described in that subparagraph if the Secretary determines that the waiver is in the interests of the armed force concerned.”
+
+Subsec. (j) to (l). Pub. L. 117–81, § 621(a)(2), (3), added subsec. (l), redesignated former subsecs. (k) and (l) as (j) and (k), respectively, and struck out former subsec. (j) which related to leave for secondary caregivers in case of birth of child or adoption of child.
+
+Subsec. (m). Pub. L. 117–81, § 622(a), added subsec. (m).
+
 2019—Subsec. (i)(5). Pub. L. 116–92, § 571, substituted “in more than one increment” for “only in one increment” and inserted “in accordance with regulations prescribed by the Secretary concerned” before period at end.
 
 Subsec. (l). Pub. L. 116–92, § 572, added subsec. (l).
@@ -218,6 +325,11 @@ Subsec. (f). Pub. L. 90–245, § 1(2), added subsec. (f).
 
 1965—Subsec. (d). Pub. L. 89–151 repealed subsec. (d) which provided that accumulated leave did not survive the death of a member during active service.
 
+#### Effective Date of 2021 Amendment
+Pub. L. 117–81, div. A, title VI, § 621(b), Dec. 27, 2021, 135 Stat. 1771, provided that: “The amendments made by subsection (a) [amending this section] shall take effect one year after the date of the enactment of this Act [Dec. 27, 2021].”
+
+Pub. L. 117–81, div. A, title VI, § 622(b), Dec. 27, 2021, 135 Stat. 1772, provided that: “The amendment made by subsection (a) [amending this section] shall take effect 180 days after the date of the enactment of this Act [Dec. 27, 2021].”
+
 #### Effective Date of 2008 Amendment
 Pub. L. 110–417, [div. A], title V, § 532(b), Oct. 14, 2008, 122 Stat. 4449, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Oct. 14, 2008] and applies only with respect to children born on or after that date.”
 
@@ -244,6 +356,12 @@ Amendment by Pub. L. 89–151 effective only in the case of members who die on o
 
 #### Effective Date
 Section effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as a note preceding [section 101 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section101&num=0&edition=prelim), Pay and Allowances of the Uniformed Services.
+
+#### Regulations
+Pub. L. 117–81, div. A, title VI, § 621(c), Dec. 27, 2021, 135 Stat. 1771, provided that: “Not later than one year after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of Defense shall prescribe regulations implementing the amendments made by subsection (a) [amending this section].”
+
+#### Annual Reports on Use of Leave
+Pub. L. 117–81, div. A, title VI, § 621(d), Dec. 27, 2021, 135 Stat. 1771, provided that: “Not later than January 1, 2023, and annually thereafter, each Secretary of a military department shall submit, to the Committees on Armed Services of the Senate and House of Representatives, a report regarding the use, during the preceding fiscal year, of leave under subsections (i) and (j) of section 701 of such title, as amended by subsection (a), disaggregated by births, adoptions, and foster placements, including the number of members of the Armed Forces who— “(1) used the maximum amount of primary caregiver leave; and “(2) used leave in multiple increments.”
 
 #### National Oceanic and Atmospheric Administration
 Authority vested by this chapter in “military departments”, “the Secretary concerned”, or “the Secretary of Defense” to be exercised, with respect to commissioned officer corps of National Oceanic and Atmospheric Administration, by Secretary of Commerce or Secretary’s designee, see [section 3071 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3071&num=0&edition=prelim), Navigation and Navigable Waters.
@@ -740,7 +858,7 @@ Pub. L. 98–525, title VII, § 707(b), Oct. 19, 1984, 98 Stat. 2572, provided t
 
 (2) To undergo during the period of the inactivation of the member from active service under the program such inactive service training as the Secretary concerned shall require in order to ensure that the member retains proficiency, at a level determined by the Secretary concerned to be sufficient, in the military skills, professional qualifications, and physical readiness of the member during the inactivation of the member from active service.
 
-(3) Following completion of the period of the inactivation of the member from active service under the program, to serve two months as a member of the armed forces on active service for each month of the period of the inactivation of the member from active service under the program.
+(3) Following completion of the period of the inactivation of the member from active service under the program, to serve one month as a member of the armed forces on active service for each month of the period of the inactivation of the member from active service under the program.
 
 **(d) Conditions of Release.—** The Secretary of Defense shall prescribe regulations specifying the guidelines regarding the conditions of release that must be considered and addressed in the agreement required by subsection (c). At a minimum, the Secretary shall prescribe the procedures and standards to be used to instruct a member on the obligations to be assumed by the member under paragraph (2) of such subsection while the member is released from active service.
 
@@ -780,7 +898,7 @@ Pub. L. 98–525, title VII, § 707(b), Oct. 19, 1984, 98 Stat. 2572, provided t
 
 (4)
 
-  (A) Subject to subparagraph (B), a member who participates in a program is entitled, while participating in the program, to the travel and transportation allowances authorized by [section 474 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section474&num=0&edition=prelim) for—
+  (A) Subject to subparagraph (B), a member who participates in a program is entitled, while participating in the program, to the travel and transportation allowances authorized by section 474 11 See References in Text note below. of title 37 for—
 
     (i) travel performed from the residence of the member, at the time of release from active service to participate in the program, to the location in the United States designated by the member as his residence during the period of participation in the program; and
 
@@ -816,13 +934,20 @@ Pub. L. 98–525, title VII, § 707(b), Oct. 19, 1984, 98 Stat. 2572, provided t
 
 (3) the entitlement of the member and of the survivors of the member to all death benefits under the provisions of chapter 75 of this title;
 
-(4) the provision of all travel and transportation allowances for the survivors of deceased members to attend burial ceremonies under [section 481f of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section481f&num=0&edition=prelim); and
+(4) the provision of all travel and transportation allowances for the survivors of deceased members to attend burial ceremonies under section 481f 1 of title 37; and
 
 (5) the eligibility of the member for general benefits as provided in part II of title 38.
 
 ### Statutory Notes
 
+#### References in Text
+[Section 474 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section474&num=0&edition=prelim), referred to in subsec. (f)(4)(A), was repealed by Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767.
+
+[Section 481f of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section481f&num=0&edition=prelim), referred to in subsec. (h)(4), was repealed by Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767.
+
 #### Amendments
 2021—Subsec. (c)(1). Pub. L. 116–283 substituted “an armed force” for “the armed force concerned”.
+
+Subsec. (c)(3). Pub. L. 117–81 substituted “one month” for “two months”.
 
 2019—Subsec. (h)(3) to (5). Pub. L. 116–92 added pars. (3) to (5).

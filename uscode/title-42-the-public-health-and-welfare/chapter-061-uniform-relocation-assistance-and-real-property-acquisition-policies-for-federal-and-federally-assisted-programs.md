@@ -97,9 +97,6 @@ Pub. L. 100–17, title IV, § 401, Apr. 2, 1987, 101 Stat. 246, provided that: 
 #### Short Title
 Pub. L. 91–646, § 1, Jan. 2, 1971, 84 Stat. 1894, provided: “That this Act [enacting this chapter, amending sections 1415, 2473, and 3307 of this title and section 1606 of former Title 49, Transportation, repealing sections 1465 and 3071 to 3074 of this title, [section 2680 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2680&num=0&edition=prelim), Armed Forces, sections 141 and 501 to 512 of Title 23, Highways, [section 596 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section596&num=0&edition=prelim), Navigation and Navigable Waters, sections 1231 to 1234 of Title 43, Public Lands, and enacting provisions set out as notes under this section and sections 4621 and 4651 of this title, and repealing provisions set out as notes under sections 501 and 510 of Title 23] may be cited as the ‘Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970’.”
 
-#### Termination of Trust Territory of the Pacific Islands
-For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
-
 #### Willing Sellers Considered Displaced Persons
 Pub. L. 111–8, div. E, title I, Mar. 11, 2009, 123 Stat. 710, provided that: “For fiscal year 2009 and hereafter, a willing seller from whom the Service acquires title to real property may be considered a ‘displaced person’ for purposes of the Uniform Relocation Assistance and Real Property Acquisition Policy Act [probably means the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, [42 U.S.C. 4601](./chapter-061-uniform-relocation-assistance-and-real-property-acquisition-policies-for-federal-and-federally-assisted-programs.md#section-4601) et seq.] and its implementing regulations, whether or not the Service has the authority to acquire such property by eminent domain.”
 
@@ -109,6 +106,9 @@ Pub. L. 103–181, § 4, Dec. 3, 1993, 107 Stat. 2055, provided that: “(a) Ina
 [For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see [section 315(a)(1) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section315/a/1&num=0&edition=prelim), Domestic Security.]
 
 [For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).]
+
+#### Termination of Trust Territory of the Pacific Islands
+For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
 
 
 <a id="section-4602"></a>

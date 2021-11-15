@@ -754,7 +754,7 @@ Section 16 of the Office of Federal Procurement Policy Act, referred to in par. 
 
   (B) long lead time materials; and
 
-(4) as provided in [section 2306b of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2306b&num=0&edition=prelim), may be multiyear contracts.
+(4) as provided in [section 3501 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3501&num=0&edition=prelim), may be multiyear contracts.
 
 **(c) Subject to Appropriations.—** Any contract entered into under subsection (a) shall provide that any obligation of the United States to make a payment under the contract is subject to the availability of amounts specifically provided in advance for that purpose in subsequent appropriations Acts.
 
@@ -762,6 +762,8 @@ Section 16 of the Office of Federal Procurement Policy Act, referred to in par. 
 
 #### Amendments
 2021—Subsec. (a). Pub. L. 116–283 inserted “and 3 Polar Security Cutters in addition to those approved as part of a major acquisition program on November 1, 2019” before period at end.
+
+Subsec. (b)(4). Pub. L. 117–81 substituted “section 3501” for “section 2306b”.
 
 #### Internal Regulations and Policy
 Pub. L. 115–282, title III, § 311(e), Dec. 4, 2018, 132 Stat. 4249, provided that: “Not later than 180 days after the date of enactment of this Act [Dec. 4, 2018], the Secretary of the department in which the Coast Guard is operating shall establish the internal regulations and policies necessary to exercise the authorities provided under this section [enacting this section, amending [section 501 of this title](./chapter-005-functions-and-powers.md#section-501), enacting provisions set out as a note under [section 1133 of this title](./chapter-011-acquisitions.md#section-1133), amending provisions formerly set out as a note under former [section 573 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section573&num=0&edition=prelim), and repealing provisions set out as notes under former sections 87 and 577 of this title], including the amendments made in this section.”

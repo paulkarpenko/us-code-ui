@@ -64,9 +64,6 @@ Pub. L. 86–368, § 4, Sept. 22, 1959, 73 Stat. 649, provided that the position
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Bureau of Alcohol, Tobacco and Firearms, including the related functions of the Secretary of the Treasury, to the Department of Justice, see [section 531(c) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section531/c&num=0&edition=prelim), Domestic Security, and [section 599A(c)(1) of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section599A/c/1&num=0&edition=prelim), Judiciary and Judicial Procedure.
 
-#### Order of Succession
-For order of succession during any period when both Secretary and Deputy Secretary of the Treasury are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13246, Dec. 18, 2001, 66 F.R. 66270, listed in a table under [section 3345 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3345&num=0&edition=prelim), Government Organization and Employees.
-
 #### Notice From IRS Regarding Closure of Taxpayer Assistance Centers
 Pub. L. 116–25, title I, § 1403, July 1, 2019, 133 Stat. 997, provided that: “Not later than 90 days before the date that a proposed closure of a Taxpayer Assistance Center would take effect, the Secretary of the Treasury (or the Secretary’s delegate) shall— “(1) make publicly available (including by non-electronic means) a notice which—“(A) identifies the Taxpayer Assistance Center proposed for closure and the date of such proposed closure; and “(B) identifies the relevant alternative sources of taxpayer assistance which may be utilized by taxpayers affected by such proposed closure; and “(2) submit to Congress a written report that includes—“(A) the information included in the notice described in paragraph (1); “(B) the reasons for such proposed closure; and “(C) such other information as the Secretary may determine appropriate.”
 
@@ -175,6 +172,9 @@ Pub. L. 95–600, title V, § 553, Nov. 6, 1978, 92 Stat. 2891, authorized the S
 
 #### Study and Investigation of Internal Revenue Code Provisions Which Impede or Discourage Recycling of Solid Waste Materials; Presidential and Congressional Report
 Pub. L. 94–568, § 4, Oct. 20, 1976, 90 Stat. 2698, provided that the Secretary of the Treasury, in cooperation with the Administrator of the Environmental Protection Agency, make a complete study of all provisions of the Internal Revenue Code of 1954 which impeded or discouraged the recycling of solid waste materials and to report to the President and Congress, not later than Apr. 20, 1977, his findings, together with specific legislative proposals designed to increase and encourage the recycling of solid waste materials and detailed revenue cost estimates.
+
+#### Order of Succession
+For order of succession during any period when both Secretary and Deputy Secretary of the Treasury are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13246, Dec. 18, 2001, 66 F.R. 66270, listed in a table under [section 3345 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3345&num=0&edition=prelim), Government Organization and Employees.
 
 #### Ex. Ord. No. 13051. Internal Revenue Service Management Board
 Ex. Ord. No. 13051, June 24, 1997, 62 F.R. 34609, provided:

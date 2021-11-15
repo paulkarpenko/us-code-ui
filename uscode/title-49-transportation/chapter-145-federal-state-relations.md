@@ -122,7 +122,7 @@ Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88
 ## § 14502. Tax discrimination against motor carrier transportation property
 **(a) Definitions.—** In this section, the following definitions apply:
 
-(1) **Assessment.—** — The term “assessment” means valuation for a property tax levied by a taxing district.
+(1) **Assessment.—** — The term “assessment” means valuation for a property tax levied by a taxing district.+
 
 (2) **Assessment jurisdiction.—** — The term “assessment jurisdiction” means a geographical area in a State used in determining the assessed value of property for ad valorem taxation.
 

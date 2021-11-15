@@ -495,7 +495,7 @@ For provisions to prevent extinction or premature termination of rights, duties,
 
   (A) separation pay equal to 15 percent of the product of (i) the member’s years of active service, and (ii) 12 times the monthly basic pay to which the member is entitled at the time of his discharge or release from active duty; and
 
-  (B) the same benefits and services as are provided under chapter 58 of this title, sections 474 and 476 of title 37, and section 503(c) of the National Defense Authorization Act for Fiscal Year 1991 (104 Stat. 1558; [37 U.S.C. 476](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section476&num=0&edition=prelim) note) for members of the armed forces who are involuntarily separated within the meaning of [section 1141 of this title](./chapter-058-benefits-and-services-for-members-being-separated-or-recently-separated.md#section-1141).
+  (B) the same benefits and services as are provided under chapter 58 of this title, sections 474 and 476 11 See References in Text note below. of title 37, and section 503(c) 1 of the National Defense Authorization Act for Fiscal Year 1991 (104 Stat. 1558; [37 U.S.C. 476](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section476&num=0&edition=prelim) note) for members of the armed forces who are involuntarily separated within the meaning of [section 1141 of this title](./chapter-058-benefits-and-services-for-members-being-separated-or-recently-separated.md#section-1141).
 
 **(c) Eligibility.—** Subject to subsections (d) and (e), a member of an armed force is eligible for voluntary separation under a program established for that armed force pursuant to this section if the member—
 
@@ -556,6 +556,11 @@ For provisions to prevent extinction or premature termination of rights, duties,
 (2) No member of the armed forces may be separated under a program established pursuant to this section after the date of the termination of that program.
 
 ### Statutory Notes
+
+#### References in Text
+Sections 474 and 476 of title 37, referred to in subsec. (b)(2)(B), were repealed by Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767.
+
+Section 503(c) of the National Defense Authorization Act for Fiscal Year 1991, referred to in subsec. (b)(2)(B), is section 503(c) of Pub. L. 101–510, div. A, title V, Nov. 5, 1990, 104 Stat. 1558, which was formerly set out as a note under [section 476 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section476&num=0&edition=prelim), Pay And Allowances Of The Uniformed Services, prior to being omitted from the Code as obsolete.
 
 #### Amendments
 2013—Subsec. (b)(2)(B). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
@@ -729,9 +734,14 @@ Pub. L. 102–190, div. A, title VI, § 663, Dec. 5, 1991, 105 Stat. 1399, direc
 
 **(i)** The Secretary of Defense and the Secretary of Homeland Security may issue such regulations as may be necessary to carry out this section.
 
-**(j)** A member of the armed forces who is provided a voluntary separation incentive under this section shall be eligible for the same benefits and services as are provided under chapter 58 of this title, sections 474 and 476 of title 37, and section 503(c) of the National Defense Authorization Act for Fiscal Year 1991 (104 Stat. 1558; [37 U.S.C. 476](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section476&num=0&edition=prelim) note) for members of the armed forces who are involuntarily separated within the meaning of [section 1141 of this title](./chapter-058-benefits-and-services-for-members-being-separated-or-recently-separated.md#section-1141).
+**(j)** A member of the armed forces who is provided a voluntary separation incentive under this section shall be eligible for the same benefits and services as are provided under chapter 58 of this title, sections 474 and 476 11 See References in Text note below. of title 37, and section 503(c) 1 of the National Defense Authorization Act for Fiscal Year 1991 (104 Stat. 1558; [37 U.S.C. 476](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section476&num=0&edition=prelim) note) for members of the armed forces who are involuntarily separated within the meaning of [section 1141 of this title](./chapter-058-benefits-and-services-for-members-being-separated-or-recently-separated.md#section-1141).
 
 ### Statutory Notes
+
+#### References in Text
+Sections 474 and 476 of title 37, referred to in subsec. (j), were repealed by Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767.
+
+Section 503(c) of the National Defense Authorization Act for Fiscal Year 1991, referred to in subsec. (j), is section 503(c) of Pub. L. 101–510, div. A, title V, Nov. 5, 1990, 104 Stat. 1558, which was formerly set out as a note under [section 476 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section476&num=0&edition=prelim), Pay And Allowances Of The Uniformed Services, prior to being omitted from the Code as obsolete.
 
 #### Amendments
 2013—Subsec. (j). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
@@ -881,7 +891,7 @@ Pub. L. 102–190, div. A, title VI, § 662(b), Dec. 5, 1991, 105 Stat. 1398, pr
 
   (A) chapter 58 of this title during the 180-day period beginning on the date the member is separated (notwithstanding any termination date for such benefits and services otherwise applicable under the provisions of such chapter); and
 
-  (B) sections 474 and 476 of title 37.
+  (B) sections 474 and 476 11 See References in Text note below. of title 37.
 
 **(f) Computation of Voluntary Separation Pay.—** The Secretary concerned shall specify the amount of voluntary separation pay that an individual or defined group of members of the armed forces may be paid under subsection (e)(1). No member may receive as voluntary separation pay an amount greater than four times the full amount of separation pay for a member of the same pay grade and years of service who is involuntarily separated under [section 1174 of this title](./chapter-059-separation.md#section-1174).
 
@@ -940,6 +950,8 @@ Pub. L. 102–190, div. A, title VI, § 662(b), Dec. 5, 1991, 105 Stat. 1398, pr
 ### Statutory Notes
 
 #### References in Text
+Sections 474 and 476 of title 37, referred to in subsec. (e)(2)(B), were repealed by Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767.
+
 Chapter 24 of the Internal Revenue Code of 1986, referred to in subsec. (h)(2)(A), is classified generally to chapter 24 (§ 3401 et seq.) of Title 26, Internal Revenue Code.
 
 #### Amendments

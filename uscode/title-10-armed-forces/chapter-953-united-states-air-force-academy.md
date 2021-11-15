@@ -2,7 +2,7 @@
 title: 10
 chapter: '953'
 heading: UNITED STATES AIR FORCE ACADEMY
-section_count: 28
+section_count: 29
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -263,9 +263,9 @@ The word “regular” is deleted [in sections 9335 and 9336] to make clear that
 #### Amendments
 2021—Pub. L. 116–283, § 923(d)(9)(B), substituted “such person” for “he” wherever appearing.
 
-Subsec. (a). Pub. L. 116–283, § 923(d)(9)(A)(i), inserted “in the Air Force or the equivalent grade in the Space Force” after “grade of colonel”, “and a permanent professor appointed from the Regular Space Force has the grade equivalent to the grade of colonel in the Regular Air Force” after “Force grade of colonel”, and “in the Air Force or the equivalent grade in the Space Force” after “lieutenant colonel”.
+Subsec. (a). Pub. L. 116–283, § 923(d)(9)(A)(i), inserted “in the Air Force or the equivalent grade in the Space Force” after “grade of colonel”, “and a permanent professor appointed from the Regular Space Force has the grade equivalent to the grade of colonel in the Regular Air Force” after “Force has the grade of colonel”, and “in the Air Force or the equivalent grade in the Space Force” after “lieutenant colonel”.
 
-Subsec. (b). Pub. L. 116–283, § 923(d)(9)(A)(ii), inserted “in the Air Force or the equivalent grade in the Space Force” after “colonel” in two places in first sentence, and “and a person appointed from the Regular Space Force has the grade equivalent to the grade of colonel in the Regular Air Force” before “after the date when” in second sentence.
+Subsec. (b). Pub. L. 116–283, § 923(d)(9)(A)(ii), inserted “in the Air Force or the equivalent grade in the Space Force” after “colonel” in two places in first sentence, and “and a person appointed from the Regular Space Force has the grade equivalent to the grade of colonel in the Regular Air Force” before “after the date when” in second sentence. Insertions in first sentence were executed to reflect the probable intent of Congress due to omission of the words “by inserting” in directory language.
 
 2018—Pub. L. 115–232 renumbered [section 9336 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9336&num=0&edition=prelim) as this section.
 
@@ -509,7 +509,7 @@ Another prior section 9442, added Pub. L. 98–525, title XV, § 1533(b)(1), Oct
 
 Subsec. (b)(2). Pub. L. 116–283, § 923(d)(10)(A)(ii), inserted “or the Regular Space Force” after “Regular Air Force”.
 
-Subsec. (b)(4). Pub. L. 116–283, § 923(d)(10)(B), substituted “the Secretary,” for “him,”.
+Subsec. (b)(4). Pub. L. 116–283, § 923(d)(10)(B), substituted “prescribed by the Secretary” for “prescribed by him”.
 
 2018—Pub. L. 115–232, § 806(a)(3), renumbered [section 9342 of this title](./chapter-943-retired-grade.md#section-9342) as this section.
 
@@ -668,6 +668,15 @@ Secretary required to take such action as may be necessary and appropriate to in
 
 #### Secretary To Implement Policy of Expeditious Admission of Women to the Academy
 Secretary to continue to exercise the authority granted under this chapter and chapters 403 and 603 of this title, but such authority to be exercised within a program providing for the orderly and expeditious admission of women to the Academy, consistent with the needs of the services, see section 803(c) of Pub. L. 94–106, set out as a note under [section 7442 of this title](./chapter-753-united-states-military-academy.md#section-7442).
+
+
+<a id="section-9442a"></a>
+## § 9442a. Cadets: nomination in event of death, resignation, or expulsion from office of Member of Congress otherwise authorized to nominate
+**(a) Senators.—** In the event a Senator does not submit all nominations for cadets allocated to such Senator for an academic year in accordance with [section 9442(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9442/a/3&num=0&edition=prelim), due to death, resignation from office, or expulsion from office, and the date of the swearing-in of the Senator’s successor as Senator occurs after the date of the deadline for submittal of nominations for cadets for the academic year, the nominations for cadets for such academic year, otherwise authorized to be made by the Senator pursuant to such section, may be made instead by the other Senator from the State of such Representative.
+
+**(b) Representatives.—** In the event a Representative does not submit all nominations for cadets allocated to such Representative for an academic year in accordance with [section 9442(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9442/a/4&num=0&edition=prelim), due to death, resignation from office, or expulsion from office, and the date of the swearing-in of the Representative’s successor as Representative occurs after the date of the deadline for submittal of nominations for cadets for the academic year, the nominations for cadets for such academic year, otherwise authorized to be made by the Representative pursuant to such section, may be made instead by the Senators from the State of such Representative, with such nominations divided equally among such Senators and any remainder going to the senior Senator from the State.
+
+**(c) Rule of Construction.—** The nomination of a cadet by a Member of Congress pursuant to this section shall not be construed to permanently reallocate nominations under [section 9442 of this title](./chapter-953-united-states-air-force-academy.md#section-9442).
 
 
 <a id="section-9443"></a>
@@ -1033,7 +1042,7 @@ In subsection (b), the words “the penalty for which is or may be” are substi
 In subsection (c), the words “a regular component” are inserted, since the source statute historically applied only to the regular components.
 
 #### Amendments
-2021—Subsec. (c). Pub. L. 116–283 substituted “a cadet” for “an Air Force cadet” and “Marine Corps, or Space Force” for “or Marine Corps”.
+2021—Subsec. (c). Pub. L. 116–283 substituted “as a cadet” for “as an Air Force cadet” and “Marine Corps, or Space Force” for “or Marine Corps”.
 
 2018—Pub. L. 115–232 renumbered [section 9352 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9352&num=0&edition=prelim) as this section.
 
@@ -1129,7 +1138,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(b)**
 
-(1) The persons designated by the President serve for three years each except that any member whose term of office has expired shall continue to serve until his successor is designated. The President shall designate persons each year to succeed the members designated by the President whose terms expire that year.
+(1) The persons designated by the President serve for three years each except that any member whose term of office has expired shall continue to serve until his successor is designated by the President. The President shall designate persons each year to succeed the members designated by the President whose terms expire that year.
 
 (2) At least two of the members designated by the President shall be graduates of the Academy.
 
@@ -1165,6 +1174,16 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(h)** While performing duties as a member of the Board, each member of the Board and each adviser shall be reimbursed under Government travel regulations for travel expenses.
 
+**(i)**
+
+(1) A majority of the members of the Board may call an official meeting of the Board once per year.
+
+(2) A member may attend such meeting—
+
+  (A) in person, at the Academy; or
+
+  (B) remotely, at the election of such member.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -1189,6 +1208,10 @@ In subsection (g), the words “as it may deem necessary or advisable to effectu
 In subsection (h), the words “called for consultation by the Board in connection with the business of the Board” are omitted as surplusage.
 
 #### Amendments
+2021—Subsec. (b)(1). Pub. L. 117–81, § 554(c), substituted “is designated by the President” for “is designated”.
+
+Subsec. (i). Pub. L. 117–81, § 555(c), added subsec. (i).
+
 2018—Pub. L. 115–232, § 806(a)(3), renumbered [section 9355 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9355&num=0&edition=prelim) as this section.
 
 Subsec. (d). Pub. L. 115–232, § 593, added subsec. (d) and struck out former subsec. (d) which read as follows: “The Board should meet at least four times a year, with at least two of those meetings at the Academy. The Board or its members may make other visits to the Academy in connection with the duties of the Board. Board meetings should last at least one full day. Board members shall have access to the Academy grounds and the cadets, faculty, staff, and other personnel of the Academy for the purposes of the duties of the Board.”
@@ -1510,7 +1533,7 @@ Secretary of a military department to provide for focus groups to ascertain info
 
 (2) **Support services.—** — The Secretary may provide support services to the corporation without charge while the corporation conducts its support activities at the Academy. In this paragraph, the term “support services” includes utilities, office furnishings and equipment, communications services, records staging and archiving, audio and video support, and security systems in conjunction with the leasing or licensing of property. Any such support services may only be provided without any liability of the United States to the corporation.
 
-**(g) Contracts and Cooperative Agreements.—** The Secretary of the Air Force may enter into contracts and cooperative agreements with the corporation for the purpose of supporting the athletic programs of the Academy. Notwithstanding [section 2304(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304/k&num=0&edition=prelim), the Secretary may enter such contracts or cooperative agreements on a sole source basis pursuant to [section 2304(c)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304/c/5&num=0&edition=prelim). Notwithstanding chapter 63 of title 31, a cooperative agreement under this section may be used to acquire property, services, or travel for the direct benefit or use of the athletic programs of the Academy.
+**(g) Contracts and Cooperative Agreements.—** The Secretary of the Air Force may enter into contracts and cooperative agreements with the corporation for the purpose of supporting the athletic programs of the Academy. Notwithstanding [section 3201(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3201/e&num=0&edition=prelim), the Secretary may enter such contracts or cooperative agreements on a sole source basis pursuant to [section 3204(a)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3204/a/5&num=0&edition=prelim). Notwithstanding chapter 63 of title 31, a cooperative agreement under this section may be used to acquire property, services, or travel for the direct benefit or use of the athletic programs of the Academy.
 
 **(h) Trademarks and Service Marks.—**
 
@@ -1526,23 +1549,20 @@ Secretary of a military department to provide for focus groups to ascertain info
 
 ### Statutory Notes
 
-#### Amendment of Section
-Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, except as otherwise provided in title XVIII of Pub. L. 116–283, in title 10, United States Code, each reference in the text of such title to a source section that is redesignated by title XVIII of Pub. L. 116–283, is amended by striking such reference and inserting a reference to the appropriate section as so redesignated. See 2021 Amendment note(s) below.
-
 #### References in Text
 Section 501(c)(3) of the Internal Revenue Code of 1986, referred to in subsec. (b)(1), is classified to [section 501(c)(3) of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim), Internal Revenue Code.
 
 #### Amendments
-Subsec. (c)(2). Pub. L. 116–283, § 923(d)(15), substituted “personnel of the Department of the Air Force” for “personnel of the Air Force”.
+2021—Subsec. (c)(2). Pub. L. 116–283, § 923(d)(15), substituted “personnel of the Department of the Air Force” for “personnel of the Air Force”.
 
-Subsec. (g). Pub. L. 116–283, § 1883(b)(2), substituted for “3201(e)” for “2304(k)” and “3204(a)(5)” for “2304(c)(5)”.
+Subsec. (g). Pub. L. 116–283, § 1883(b)(2), substituted “section 3201(e)” for “section 2304(k)” and “section 3204(a)(5)” for “section 2304(c)(5)”.
 
 2018—Pub. L. 115–232 renumbered [section 9362 of this title](./chapter-945-computation-of-retired-pay.md#section-9362) as this section.
 
 2014—Subsecs. (e) to (i). Pub. L. 113–291 added subsecs. (e) to (i) and struck out former subsecs. (e) to (g) which related to acceptance of gifts, leases of real and personal property, and cooperative agreements, respectively.
 
 #### Effective Date of 2021 Amendment
-Amendment by 1883(b)(2) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+Amendment by section 1883(b)(2) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).

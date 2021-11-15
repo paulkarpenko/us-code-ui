@@ -195,7 +195,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 ### Statutory Notes
 
 #### Prior Provisions
-A prior section 7521, act Aug. 10, 1956, ch. 1041, 70A Stat. 464, authorized Secretary of the Navy to make partial payments during progress of work done under contract, and directed that paramount lien on thing contracted for accrues to United States on account of payments so made, prior to repeal by Pub. L. 103–355, title II, § 2001(j)(1), title X, § 10001, Oct. 13, 1994, 108 Stat. 3303, 3404, subject to effective date and applicability provisions set out as a note under [section 2302 of this title](./chapter-137-procurement-generally.md#section-2302). See [section 2307(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2307/g&num=0&edition=prelim).
+A prior section 7521, act Aug. 10, 1956, ch. 1041, 70A Stat. 464, authorized Secretary of the Navy to make partial payments during progress of work done under contract, and directed that paramount lien on thing contracted for accrues to United States on account of payments so made, prior to repeal by Pub. L. 103–355, title II, § 2001(j)(1), title X, § 10001, Oct. 13, 1994, 108 Stat. 3303, 3404, subject to effective date and applicability provisions set out as a note under [section 2302 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2302). See [section 3808 of this title](./chapter-277-contract-financing.md#section-3808).
 
 Prior sections 7522 to 7524 were renumbered sections 8752 to 8754 of this title, respectively.
 

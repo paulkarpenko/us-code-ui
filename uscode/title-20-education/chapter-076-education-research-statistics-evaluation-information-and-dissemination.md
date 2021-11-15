@@ -139,7 +139,7 @@ In this subchapter:
 ### Statutory Notes
 
 #### References in Text
-The Head Start Act, referred to in par. (17)(B), is subchapter B (§§ 635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of this Title](./chapter-078-science-technology-engineering-mathematics-and-critical-foreign-language-education.md#section-9801) 42 and Tables.
+The Head Start Act, referred to in par. (17)(B), is subchapter B (§§ 635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9801&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2015—Par. (1). Pub. L. 114–95 amended par. (1) generally. Prior to amendment, text read as follows: “The terms ‘elementary school’, ‘secondary school’, ‘local educational agency’, and ‘State educational agency’ have the meanings given those terms in [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801) and the terms ‘freely associated states’ and ‘outlying area’ have the meanings given those terms in [section 6331(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6331/c&num=0&edition=prelim).”

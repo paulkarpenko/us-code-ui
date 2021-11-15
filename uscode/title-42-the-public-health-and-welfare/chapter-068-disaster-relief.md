@@ -94,9 +94,6 @@ For transfer of all functions, personnel, assets, components, authorities, grant
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
-#### Delegation of Functions
-Functions of the President under the Disaster Relief Acts of 1970 and 1974, with certain exceptions, were delegated to the Secretary of Homeland Security, see sections 4–201 and 4–203 of Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239, as amended, set out as a note under [section 5195 of this title](./chapter-068-disaster-relief.md#section-5195).
-
 #### References to Disaster Relief Act of 1974
 Pub. L. 100–707, title I, § 102(b), Nov. 23, 1988, 102 Stat. 4689, provided that: “Whenever any reference is made in any law (other than this Act [see Tables for classification]), regulation, document, rule, record, or other paper of the United States to a section or provision of the Disaster Relief Act of 1974 [former short title of Pub. L. 93–288], such reference shall be deemed to be a reference to such section or provision of the Robert T. Stafford Disaster Relief and Emergency Assistance Act [Pub. L. 93–288, see Short Title note above].”
 
@@ -107,7 +104,7 @@ Pub. L. 93–288, title VII, § 702(m), formerly title VI, § 602(m), May 22, 19
 Pub. L. 115–87, § 2, Nov. 21, 2017, 131 Stat. 1277, provided that: “(a) In General.—The Administrator of the Federal Emergency Management Agency shall ensure the ongoing modernization of the grant systems for the administration of assistance under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121](./chapter-068-disaster-relief.md#section-5121) et seq.) includes the following:“(1) An online interface, including online assistance, for applicants to complete application forms, submit materials, and access the status of applications. “(2) Mechanisms to eliminate duplication of benefits. “(3) If appropriate, enable the sharing of information among agencies and with State, local, and tribal governments, to eliminate the need to file multiple applications and speed disaster recovery. “(4) Any additional tools the Administrator determines will improve the implementation of this section. “(b) Implementation.—To the extent practicable, the Administrator shall deliver the system capabilities described in subsection (a) in increments or iterations as working components for applicant use.”
 
 #### Report on State Management of Small Disasters Initiative
-Pub. L. 106–390, title II, § 208, Oct. 30, 2000, 114 Stat. 1571, provided that: “Not later than 3 years after the date of the enactment of this Act [Oct. 30, 2000], the President shall submit to Congress a report describing the results of the State Management of Small Disasters Initiative, including— “(1) identification of any administrative or financial benefits of the initiative; and “(2) recommendations concerning the conditions, if any, under which States should be allowed the option to administer parts of the assistance program under section 406 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5172](./chapter-068-disaster-relief.md#section-5172)).”
+Pub. L. 106–390, title II, § 208, Oct. 30, 2000, 114 Stat. 1571, provided that not later than 3 years after Oct. 30, 2000, the President would submit to Congress a report describing the results of the State Management of Small Disasters Initiative, including recommendations concerning State administration of parts of the program.
 
 #### Study Regarding Cost Reduction
 Pub. L. 106–390, title II, § 209, Oct. 30, 2000, 114 Stat. 1571, as amended by Pub. L. 109–139, § 3, Dec. 22, 2005, 119 Stat. 2649, provided that: “Not later than September 30, 2007, the Director of the Congressional Budget Office shall complete a study estimating the reduction in Federal disaster assistance that has resulted and is likely to result from the enactment of this Act [see Short Title of 2000 Amendment note above].”
@@ -123,6 +120,9 @@ Pub. L. 100–707, title I, § 110, Nov. 23, 1988, 102 Stat. 4710, provided that
 
 #### Declared Disasters and Emergencies Not Affected
 Pub. L. 100–707, title I, § 112, Nov. 23, 1988, 102 Stat. 4711, provided that: “This title [see Short Title of 1988 Amendment note above] shall not affect the administration of any assistance for a major disaster or emergency declared by the President before the date of the enactment of this Act [Nov. 23, 1988].”
+
+#### Delegation of Functions
+Functions of the President under the Disaster Relief Acts of 1970 and 1974, with certain exceptions, were delegated to the Secretary of Homeland Security, see sections 4–201 and 4–203 of Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239, as amended, set out as a note under [section 5195 of this title](./chapter-068-disaster-relief.md#section-5195).
 
 #### Executive Order No. 11749
 Ex. Ord. No. 11749, Dec. 10, 1973, 38 F.R. 34177, which related to consolidation of functions assigned to Secretary of Housing and Urban Development, was revoked by Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239, set out as a note under [section 5195 of this title](./chapter-068-disaster-relief.md#section-5195).
@@ -1944,6 +1944,43 @@ Subsec. (a)(3)(J). Pub. L. 109–295, § 689(b)(2)(B)–(D), and Pub. L. 109–3
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–254 applicable to each major disaster and emergency declared by the President on or after Aug. 1, 2017, and authorities provided under div. D of Pub. L. 115–254 applicable to each major disaster and emergency declared by the President on or after Jan. 1, 2016, except as otherwise provided, see section 1202 of Pub. L. 115–254, set out as a note under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121).
 
+#### Maximizing Assistance From the Federal Emergency Management Agency To Respond to COVID–19
+Memorandum of President of the United States, Dec. 27, 2021, 87 F.R. 27, provided:
+
+Memorandum for the Secretary of Health and Human Services[,] the Secretary of Homeland Security[, and] the Administrator of the Federal Emergency Management Agency
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Robert T. Stafford Disaster Relief and Emergency Assistance Act, [42 U.S.C. 5121](./chapter-068-disaster-relief.md#section-5121)-5207 (the “Stafford Act”), I hereby order as follows:
+
+Section 1. Policy. It is the policy of my Administration to combat and respond to the coronavirus disease 2019 (COVID-19) pandemic with the full capacity and capability of the Federal Government to protect and support our families, schools, and businesses, and to assist State, local, Tribal, and territorial governments to do the same. This policy includes the use of emergency and disaster assistance available from the Federal Emergency Management Agency (FEMA) to get COVID-19 testing to the places that need it most.
+
+Sec. 2. Assistance for COVID-19 Screening as an Emergency Protective Measure. (a) With respect to a request to FEMA from any State, Tribal, or territorial government for direct Federal assistance to establish or expand COVID-19 testing sites, the Administrator of FEMA shall issue a mission assignment to the Department of Health and Human Services (HHS), on a fully reimbursable basis, to provide testing sites, launched and operated by HHS in close coordination with State, local, Tribal, and territorial public health departments.
+
+(b) FEMA’s mission assignments will require HHS to adjudicate State, Tribal, and territorial requests through the Emergency Support Function #8 Advisory Council.
+
+(c) FEMA shall fund 100 percent of the cost of activities associated with the mission assignments to HHS to provide COVID-19 testing sites as described in section 2(a) of this memorandum, as authorized by sections 403 ([42 U.S.C. 5170b](./chapter-068-disaster-relief.md#section-5170b)), 502 ([42 U.S.C. 5192](./chapter-068-disaster-relief.md#section-5192)), and 503 ([42 U.S.C. 5193](./chapter-068-disaster-relief.md#section-5193)) of the Stafford Act.
+
+Sec. 3. General Provisions. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(d) The Administrator of FEMA is authorized and directed to publish this memorandum in the Federal Register.
+
+J.R. Biden, Jr.
+
+Prior provisions related to maximizing assistance from the Federal Emergency Management Agency to respond to COVID–19 were contained in the following:
+
+Memorandum of President of the United States, Nov. 9, 2021, 86 F.R. 64055.
+
+Memorandum of President of the United States, Aug. 17, 2021, 86 F.R. 46759.
+
+Memorandum of President of the United States, Feb. 2, 2021, 86 F.R. 8281.
+
 
 <a id="section-5170c"></a>
 ## § 5170c. Hazard mitigation
@@ -2031,7 +2068,11 @@ Amendment by Pub. L. 115–254 applicable to each major disaster and emergency d
 
 (11) reducing hazardous fuels;
 
-(12) mitigating windstorm damage, including replacing or installing electrical transmission or distribution utility pole structures with poles that are resilient to extreme wind and combined ice and wind loadings for the basic wind speeds and ice conditions associated with the relevant location;
+(12) mitigating windstorm and wildfire damage, including—
+
+  (A) replacing or installing electrical transmission or distribution utility pole structures with poles that are resilient to extreme wind, wildfire, and combined ice and wind loadings for the basic wind speeds and ice conditions associated with the relevant location; and
+
+  (B) the installation of fire-resistant wires and infrastructure and the undergrounding of wires;
 
 (13) removing standing burned trees; and
 
@@ -2058,6 +2099,8 @@ The National Historic Preservation Act, referred to in subsec. (d)(1), is Pub. L
 A prior section 404 of Pub. L. 93–288 was classified to [section 5174 of this title](./chapter-068-disaster-relief.md#section-5174) prior to repeal by Pub. L. 100–707.
 
 #### Amendments
+2021—Subsec. (f)(12). Pub. L. 117–58 inserted “and wildfire” after “windstorm” and substituted “including—” for “including”, inserted subpar. (A) designation before “replacing” and “, wildfire,” after “extreme wind”, and added subpar. (B).
+
 2018—Subsec. (a). Pub. L. 115–254, § 1204(b)(1), inserted “, or any area affected by a fire for which assistance was provided under [section 5187 of this title](./chapter-068-disaster-relief.md#section-5187)” after “affected by a major disaster” in first sentence as inserted by section 1235(a) of Pub. L. 115–254, and inserted “or event under [section 5187 of this title](./chapter-068-disaster-relief.md#section-5187)” after “major disaster” in two places in third sentence.
 
 Pub. L. 115–254, § 1235(a), substituted “The President may contribute up to 75 percent of the cost of hazard mitigation measures which the President has determined are cost effective and which substantially reduce the risk of, or increase resilience to, future damage, hardship, loss, or suffering in any area affected by a major disaster.” for “The President may contribute up to 75 percent of the cost of hazard mitigation measures which the President has determined are cost-effective and which substantially reduce the risk of future damage, hardship, loss, or suffering in any area affected by a major disaster.”
@@ -2726,6 +2769,9 @@ Amendment by Pub. L. 115–254 applicable to each major disaster and emergency d
 #### Effective Date of 2000 Amendment
 Pub. L. 106–390, title II, § 206(d), Oct. 30, 2000, 114 Stat. 1571, provided that: “The amendments made by this section [amending this section and [section 5192 of this title](./chapter-068-disaster-relief.md#section-5192) and repealing [section 5178 of this title](./chapter-068-disaster-relief.md#section-5178)] take effect 18 months after the date of the enactment of this Act [Oct. 30, 2000].”
 
+#### Funeral Assistance
+Pub. L. 117–2, title IV, § 4006, Mar. 11, 2021, 135 Stat. 79, provided that: “(a) In General.—For the emergency declaration issued by the President on March 13, 2020 [Proc. No. 9994, [50 U.S.C. 1621](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1621&num=0&edition=prelim) note], pursuant to section 501(b) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5191(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5191/b&num=0&edition=prelim)), and for any subsequent major disaster declaration that supersedes such emergency declaration, the President shall provide financial assistance to an individual or household to meet disaster-related funeral expenses under section 408(e)(1) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5174(e)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5174/e/1&num=0&edition=prelim)), for which the Federal cost share shall be 100 percent. “(b) Use of Funds.—Funds appropriated under section 4005 [of Pub. L. 117–2, 135 Stat. 79] may be used to carry out subsection (a) of this section.”
+
 #### Lost Wages Assistance Recoupment Fairness
 Pub. L. 116–260, div. N, title II, § 262, Dec. 27, 2020, 134 Stat. 1962, provided that: “(a) Definitions.—In this section—“(1) the term ‘covered assistance’ means assistance provided for supplemental lost wages payments under subsections (e)(2) and (f) of section 408 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5174](./chapter-068-disaster-relief.md#section-5174)), as authorized under the emergency declaration issued by the President on March 13, 2020, pursuant to section 501(b) of such Act ([42 U.S.C. 5191(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5191/b&num=0&edition=prelim)) and under any subsequent major disaster declaration under section 401 of such Act ([42 U.S.C. 5170](./chapter-068-disaster-relief.md#section-5170)) that supersedes such emergency declaration; and “(2) the term ‘State’ has the meaning given the term in section 102 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5122](./chapter-068-disaster-relief.md#section-5122)). “(b) Waiver Authority for State Liability.—In the case of any individual who has received amounts of covered assistance to which the individual is not entitled, the State shall require the individual to repay the amounts of such assistance to the State agency, except that the State agency may waive such repayment if the State agency determines that—“(1) the payment of such covered assistance was without fault on the part of the individual; and “(2) such repayment would be contrary to equity and good conscience. “(c) Waiver Authority for Federal Liability.—Any waiver of debt issued by a State under subsection (b) shall also waive the debt owed to the United States. “(d) Reporting.—“(1) State reporting.—If a State issues a waiver of debt under subsection (b), the State shall report such waiver to the Administrator of the Federal Emergency Management Agency. “(2) OIG reporting.—Not later than 6 months after the date of enactment of this Act [Dec. 27, 2020], the Inspector General of the Department of Homeland Security shall submit a report that assesses the efforts of the States to waive recoupment related to lost wages assistance under section 408 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5174](./chapter-068-disaster-relief.md#section-5174)) to—“(A) the Committee on Homeland Security and Governmental Affairs, the Committee on Finance, and the Subcommittee on Homeland Security of the Committee on Appropriations of the Senate; and “(B) the Committee on Transportation and Infrastructure, Committee on Ways and Means, and the Subcommittee on Homeland Security of the Committee on Appropriations of the House of Representatives.”
 
@@ -2934,13 +2980,13 @@ Section was enacted as part of the Food, Agriculture, Conservation, and Trade Ac
 
 Section, Pub. L. 93–288, title IV, § 411, as added Pub. L. 100–707, title I, § 106(g), Nov. 23, 1988, 102 Stat. 4704, related to individual and family grant programs.
 
-#### Effective Date of Repeal
-Repeal effective 18 months after Oct. 30, 2000, see section 206(d) of Pub. L. 106–390, set out as an Effective Date of 2000 Amendment note under [section 5174 of this title](./chapter-068-disaster-relief.md#section-5174).
-
 #### Prior Provisions
 A prior section 5178, Pub. L. 93–288, title IV, § 408, May 22, 1974, 88 Stat. 156, related to individual and family grant programs, prior to repeal by Pub. L. 100–707, § 106(g).
 
 A prior section 411 of Pub. L. 93–288 was renumbered section 414 by Pub. L. 100–707 and is classified to [section 5181 of this title](./chapter-068-disaster-relief.md#section-5181).
+
+#### Effective Date of Repeal
+Repeal effective 18 months after Oct. 30, 2000, see section 206(d) of Pub. L. 106–390, set out as an Effective Date of 2000 Amendment note under [section 5174 of this title](./chapter-068-disaster-relief.md#section-5174).
 
 
 <a id="section-5179"></a>
@@ -3079,6 +3125,9 @@ Subsec. (b). Pub. L. 106–390, § 207(5), substituted “shall not exceed” fo
 Subsec. (c)(2). Pub. L. 106–390, § 207(6), added par. (2).
 
 Subsec. (d). Pub. L. 106–390, § 207(4), redesignated subsec. (b) as (d) and inserted subsec. heading.
+
+#### Cancellation of Repayments of Remaining Loan Balances
+Pub. L. 117–43, div. B, title VI, § 1601(a), Sept. 30, 2021, 135 Stat. 365, provided that: “Repayments of the remaining balances of all loans, as of September 30, 2021, by the Federal Emergency Management Agency under section 417 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5184](./chapter-068-disaster-relief.md#section-5184)) are hereby cancelled.”
 
 #### Community Emergency Drought Relief
 Pub. L. 95–31, title I, May 23, 1977, 91 Stat. 169, provided: “That this Act be cited as the ‘Community Emergency Drought Relief Act of 1977’. “Sec. 101. (a) Upon the application of any State, political subdivision of a State, Indian tribe, or public or private nonprofit organization, the Secretary of Commerce is authorized to make grants and loans to applicants in drought impacted areas for projects that implement short-term actions to augment community water supplies where there are severe problems due to water shortages. Such assistance may be for the improvement, expansion, or construction of water supplies, and purchase and transportation of water, which in the opinion of the Secretary of Commerce will make a substantial contribution to the relief of an existing or threatened drought condition in a designated area. “(b) The Secretary of Commerce may designate any area in the United States as an emergency drought impact area if he or she finds that a major and continuing adverse drought condition exists and is expected to continue, and such condition is causing significant hardships on the affected areas. “(c) Eligible applicants shall be those States or political subdivisions of States with a population of ten thousand or more, Indian tribes, or public or private nonprofit organizations within areas designated pursuant to subsection (b) of this section. “(d) Projects assisted under this Act shall be only those with respect to which assurances can be given to the satisfaction of the Secretary of Commerce that the work can be completed by April 30, 1978, or within such extended time as the Secretary may approve in exceptional circumstances. “Sec. 102. Grants hereunder shall be in an amount not to exceed 50 per centum of allowable project costs. Loans shall be for a term not to exceed 40 years at a per annum interest rate of 5 per centum and shall be on such terms and conditions as the Secretary of Commerce shall determine. In determining the amount of a grant assistance for any project, the Secretary of Commerce may take into consideration such factors as are established by regulation and are consistent with the purposes of this Act. “Sec. 103. In extending assistance under this Act the Secretary shall take into consideration the relative needs of applicant areas for the projects for which assistance is requested, and the appropriateness of the project for relieving the conditions intended to be alleviated by this Act. “Sec. 104. The Secretary of Commerce shall have such powers and authorities under this Act as are vested in the Secretary by sections 701 and 708 of the Public Works and Economic Development Act of 1965, as amended [sections 3211 and 3218 of this title], with respect to that Act [section 3121 et seq. of this title]. “Sec. 105. The National Environmental Protection Act of 1969, as amended [section 4321 et seq. of this title], shall be implemented to the fullest extent consistent with but subject to the time constraints imposed by this Act, and the Secretary of Commerce when making the final determination regarding an application for assistance hereunder shall give consideration to the environmental consequences determined within that period. “Sec. 106. (a) There is hereby authorized to be appropriated for the fiscal year ending September 30, 1977, $225,000,000 of which sum $150,000,000 is to be for the loan program herein, including administration thereof, and $75,000,000 of which is to be used for the grant program herein, including administration thereof, and such additional amounts for the fiscal year ending September 30, 1978, as may be reasonably needed for administrative expenses in monitoring and closing out the program authorized by the Act. Funds authorized by this Act shall be obligated by December 31, 1977. “(b) Funds available to the Secretary for this Act shall be available for expenditure for drought impact projects conducted heretofore by eligible applicants during fiscal year 1977 if such projects are found to be compatible with the broad purposes of this Act.”
@@ -3737,7 +3786,7 @@ Provisions similar to those in this section were contained in section 2263 of th
 
 (3) establish consortia with minority national organizations, minority institutions of higher education, and faith-based institutions to disseminate information about emergency preparedness to minority communities; and
 
-(4) implement a joint project with a minority serving institution, including a part B institution (as defined in [section 1061(2) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1061/2&num=0&edition=prelim)), an institution described in subparagraph (A), (B), or (C) of section 1063b(e)(1) 11 See References in Text note below. of title 20, and a Hispanic-serving institution (as defined in [section 1101a(a)(5) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1101a/a/5&num=0&edition=prelim)).
+(4) implement a joint project with a minority serving institution, including a part B institution (as defined in [section 1061(2) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1061/2&num=0&edition=prelim)), an institution described in subparagraph (A), (B), or (C) of section 1063b(e)(1) 1 of title 20, and a Hispanic-serving institution (as defined in [section 1101a(a)(5) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1101a/a/5&num=0&edition=prelim)).
 
 **(e) Application and review procedure** To be eligible to receive a grant, contract, or cooperative agreement under this section, an organization must submit an application to the Administrator at such time, in such manner, and accompanied by such information as the Administrator may reasonably require. The Administrator shall establish a procedure by which to accept such applications.
 
@@ -5332,7 +5381,7 @@ Sec. 6. General Provisions. (a) This order shall be implemented in a manner cons
 George W. Bush.
 
 #### Ex. Ord. No. 13618. Assignment of National Security and Emergency Preparedness Communications Functions
-Ex. Ord. No. 13618, July 6, 2012, 77 F.R. 40779, provided:
+Ex. Ord. No. 13618, July 6, 2012, 77 F.R. 40779, as amended by Ex. Ord. No. 13961, § 6, Dec. 7, 2020, 85 F.R. 79380, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
@@ -5348,29 +5397,9 @@ Sec. 2.2. The Director of the Office of Science and Technology Policy (OSTP) sha
 
 (c) have access to all appropriate information related to the test, exercise, evaluation, and readiness of the capabilities of all existing and planned NS/EP communications systems, networks, and facilities to meet all executive branch NS/EP requirements.
 
-Sec. 2.3. The Assistant to the President for Homeland Security and Counterterrorism and the Director of OSTP shall make recommendations to the President, informed by the interagency policy process established in PPD–1, with respect to the exercise of authorities assigned to the President under section 706 of the Communications Act of 1934, as amended ([47 U.S.C. 606](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section606&num=0&edition=prelim)). The Assistant to the President for Homeland Security and Counterterrorism and the Director of OSTP shall also jointly monitor the exercise of these authorities, in the event of any delegation, through the process established in PPD–1 or as the President otherwise may direct.
+Sec. 2.3. The Director of OSTP is delegated the authority to exercise the authorities vested in the President by section 706(a), and (c) through (e) of the Communications Act of 1934, as amended ([47 U.S.C. 606(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section606/a&num=0&edition=prelim), and (c) through (e)), if the President takes the actions, including issuing any necessary proclamations and findings, required by that section to invoke those authorities. This delegation shall apply to any provisions of any future public law that are the same or substantially the same as the provisions referenced in this section.
 
-Sec. 3. The NS/EP Communications Executive Committee.
-
-Sec. 3.1. There is established an NS/EP Communications Executive Committee (Executive Committee) to serve as a forum to address NS/EP communications matters.
-
-Sec. 3.2. The Executive Committee shall be composed of Assistant Secretary-level or equivalent representatives designated by the heads of the Departments of State, Defense, Justice, Commerce, and Homeland Security, the Office of the Director of National Intelligence (DNI), the General Services Administration, and the Federal Communications Commission, as well as such additional agencies as the Executive Committee may designate. The designees of the Secretary of Homeland Security and the Secretary of Defense shall serve as Co-Chairs of the Executive Committee.
-
-Sec. 3.3. The responsibilities of the Executive Committee shall be to: (a) advise and make policy recommendations to the President, through the PPD–1 process, on enhancing the survivability, resilience, and future architecture of NS/EP communications, including what should constitute NS/EP communications requirements;
-
-(b) develop a long-term strategic vision for NS/EP communications and propose funding requirements and plans to the President and the Director of the Office of Management and Budget (OMB), through the PPD–1 process, for NS/EP communications initiatives that benefit multiple agencies or other Federal entities;
-
-(c) coordinate the planning for, and provision of, NS/EP communications for the Federal Government under all hazards;
-
-(d) promote the incorporation of the optimal combination of hardness, redundancy, mobility, connectivity, interoperability, restorability, and security to obtain, to the maximum extent practicable, the survivability of NS/EP communications under all circumstances;
-
-(e) recommend to the President, through the PPD–1 process, the regimes to test, exercise, and evaluate the capabilities of existing and planned communications systems, networks, or facilities to meet all executive branch NS/EP communications requirements, including any recommended remedial actions;
-
-(f) provide quarterly updates to the Assistant to the President for Homeland Security and Counterterrorism and the Director of OSTP, through the Co-Chairs, on the status of Executive Committee activities and develop an annual NS/EP communications strategic agenda utilizing the PPD–1 process;
-
-(g) enable industry input with respect to the responsibilities established in this section; and
-
-(h) develop, approve, and maintain a charter for the Executive Committee.
+Sec. 3. [Revoked by Ex. Ord. No. 13961, § 6(b), Dec. 7, 2020, 85 F.R. 79380, set out below.]
 
 Sec. 4. Executive Committee Joint Program Office.
 
@@ -5454,7 +5483,56 @@ Sec. 7. General Provisions. (a) For the purposes of this order, the word “agen
 
 (f) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
-Barack Obama.
+#### Ex. Ord. No. 13961. Governance and Integration of Federal Mission Resilience
+Ex. Ord. No. 13961, Dec. 7, 2020, 85 F.R. 79379, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the National Security Act of 1947, as amended, I hereby order the following:
+
+Section 1. Policy. It is the policy of the United States to maintain comprehensive and effective continuity programs that ensure national security and the preservation of government structure under the United States Constitution and in alignment with Presidential Policy Directive–40 (PPD–40) of July 15, 2016 (National Continuity Policy). Executive departments and agencies (agencies), including the Executive Office of the President, must maintain the capability and capacity to continuously perform National Essential Functions (NEFs), as defined by PPD–40, regardless of threat or condition, and with the understanding that adequate warning may not be available. Agency heads must fully integrate preparedness programs, including continuity and risk management, into day-to-day operations to ensure the preservation of the NEFs under all conditions.
+
+Sec. 2. Federal Mission Resilience Strategy. To achieve this policy, in conjunction with this order, I am signing the Federal Mission Resilience Strategy (Strategy), which should be implemented to increase the resilience of the executive branch. Implementing the Strategy will reduce the current reliance on reactive relocation of personnel and enhance a proactive posture that minimizes disruption, distributes risk to the performance of NEFs, and maximizes the cost-effectiveness of actions that ensure continuity of operations, continuity of government, and enduring constitutional government.
+
+Sec. 3. Executive Committee. (a) The Federal Mission Resilience Executive Committee (Executive Committee) is hereby established.
+
+(b) The Executive Committee shall be composed of the Secretary of Defense, the Secretary of Homeland Security, the Director of National Intelligence, the Assistant to the President for National Security Affairs (APNSA), the Assistant to the President and Deputy Chief of Staff for Operations, and the Director of the Office of Management and Budget. When issues concerning science and technology, including communications technology, are on the agenda, the Executive Committee also shall include the Director of the Office of Science and Technology Policy (OSTP). The heads of other agencies, and other senior officials, shall be invited to attend meetings as appropriate.
+
+(c) The APNSA, in coordination with the other members of the Executive Committee, shall be responsible for convening the committee, as appropriate, to coordinate the review, integration, and execution of the Strategy and other continuity policy across the executive branch.
+
+(d) The Executive Committee shall:
+
+(i) coordinate the development of an implementation plan (Plan) for the Strategy and other continuity policy, as described in section 4(b) of this order, and shall facilitate execution of the Plan and other continuity policy, as appropriate;
+
+(ii) advise the President, through the Assistant to the President and Chief of Staff (Chief of Staff), on the review, integration, and execution of the Strategy and other continuity policy, including the recommendations outlined in section 4(c) of this order;
+
+(iii) establish, with consensus of its members and as appropriate, subordinate coordinating bodies; and
+
+(iv) coordinate the development of an interagency framework under which agencies will assess and address risk to Federal Mission Resilience and NEFs across the executive branch.
+
+Sec. 4. Implementation. (a) Within 90 days of the date of this order [Dec. 7, 2020], the Executive Committee shall submit a Federal Mission Resilience Executive Committee Charter to the President, through the Chief of Staff, that identifies any subordinate bodies, working groups, and reporting mechanisms that support the role of the Executive Committee.
+
+(b) Within 90 days of the date of this order, the Executive Committee shall submit a Federal Mission Resilience Implementation Plan to the President, through the Chief of Staff, that sets forth how the executive branch will implement the Strategy. The Plan shall describe in detail the near-, mid-, and long-term actions necessary to ensure the uninterrupted performance of NEFs.
+
+(c) Within 120 days of the date of this order, the Executive Committee shall coordinate the review of existing continuity policy and other related national policies, and shall provide recommendations to the President, through the Chief of Staff, on any actions necessary to align these policies with the implementation of the Strategy.
+
+Sec. 5. Amendment to PPD–40. To designate a new National Continuity Coordinator (NCC), in section 6 of PPD–40, the second sentence is hereby revised to read as follows: “To advise and assist the President in that function, the Assistant to the President for National Security Affairs, or his or her designee, is designated as the NCC.”
+
+Sec. 6. Amendments to Executive Order 13618. (a) [Amended Ex. Ord. 13618, set out above.]
+
+(b) Section 3 of Executive Order 13618 is hereby revoked. The responsibilities of the national security and emergency preparedness Executive Committee set forth in section 3.3 of Executive Order 13618 shall be transferred to and exercised by the Executive Committee established in section 3 of this order.
+
+Sec. 7. Program Support. The national security and emergency preparedness Executive Committee Joint Program Office established by section 4 of Executive Order 13618 shall support the Executive Committee established in section 3 of this order, the execution of activities described in section 4 of this order, and those activities taken by the Director of OSTP pursuant to section 6 of this order.
+
+Sec. 8. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
 
 
 <a id="section-5196a"></a>
@@ -6251,7 +6329,7 @@ For definition of “Agency” as used in this section, see section 1203 of Pub.
 
 (1) **In general** — If the Administrator of the Federal Emergency Management Agency determines that a person has been convicted of intentionally affixing a label bearing a “Made in America” inscription to any product sold in or shipped to the United States that is not made in America, the Administrator shall determine, not later than 90 days after determining that the person has been so convicted, whether the person should be debarred from contracting under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121](./chapter-068-disaster-relief.md#section-5121) et seq.).
 
-(2) **Definition of debar** — In this subsection, the term “debar” has the meaning given the term in [section 2393(c) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2393/c&num=0&edition=prelim).
+(2) **Definition of debar** — In this subsection, the term “debar” has the meaning given the term in [section 4654(c) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4654/c&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -6264,6 +6342,9 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 In subsec. (a), “chapter 83 of title 41” substituted for references to the Buy American Act on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 Section was enacted as part of the Disaster Mitigation Act of 2000, and not as part of the Robert T. Stafford Disaster Relief and Emergency Assistance Act which comprises this chapter.
+
+#### Amendments
+2021—Subsec. (b)(2). Pub. L. 117–81 substituted “section 4654(c)” for “section 2393(c)”.
 
 #### Change of Name
 “Administrator of the Federal Emergency Management Agency” and “Administrator” substituted for “Director of the Federal Emergency Management Agency” and “Director”, respectively, in subsec. (b)(1) on authority of section 612(c) of Pub. L. 109–295, set out as a note under [section 313 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section313&num=0&edition=prelim), Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under [section 313 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section313&num=0&edition=prelim).

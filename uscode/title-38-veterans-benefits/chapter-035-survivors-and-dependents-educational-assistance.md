@@ -588,7 +588,7 @@ Subsec. (b)(2). Pub. L. 96–466, § 322, inserted “made within one year after
 
 Subsecs. (f), (g). Pub. L. 95–202, § 203(b)(2), added subsec. (f) and redesignated former subsec. (f) as (g).
 
-1976—Subsec. (a). Pub. L. 94–502, §§ 304(1), (2), 310(7), substituted “the person” for “he” and “him” and “the person’s” for “his” respectively, in the provision preceding cl. (1), and in cls. (1), (2), (3), and (4), in cls. (3) and (4) “8 years” for “five years”, and cl. (5), “such person” for “he”, “a quarter or semester” for “the last half of a quarter or semester”, “period ends after a major portion of the course is completed” for “periods ends during the last half of the course”, and “12 weeks” for “nine weeks”.
+1976—Subsec. (a). Pub. L. 94–502, §§ 304(1), (2), 310(7), substituted “the person” for “he” and “him” and “the person’s” for “his”, respectively, in the provision preceding cl. (1), and in cls. (1), (2), (3), and (4), in cls. (3) and (4) “8 years” for “five years”, and cl. (5), “such person” for “he”, “a quarter or semester” for “the last half of a quarter or semester”, “period ends after a major portion of the course is completed” for “periods ends during the last half of the course”, and “12 weeks” for “nine weeks”.
 
 Subsec. (c). Pub. L. 94–502, § 310(8), substituted “such person” for “him” and “he” wherever appearing, and “such person’s” for “his” wherever appearing.
 
@@ -882,7 +882,7 @@ Amendment by Pub. L. 93–508 effective Dec. 3, 1974, see section 503 of Pub. L.
 
 
 <a id="section-3524"></a>
-## § 3524. Discontinuance for unsatisfactory prog­ress
+## § 3524. Discontinuance for unsatisfactory progress
 
 The Secretary shall discontinue the educational assistance allowance on behalf of an eligible person if, at any time, the Secretary finds that according to the regularly prescribed standards and practices of the educational institution such person is attending, the person’s attendance, conduct, or progress is unsatisfactory. The Secretary may renew the payment of the educational assistance allowance only if the Secretary finds that—
 
@@ -1149,7 +1149,7 @@ Subsec. (a)(2). Pub. L. 92–540, § 103(2), substituted “$220” for “$175�
 
 Subsec. (b). Pub. L. 92–540, § 103(3), substituted “$177” for “$141”.
 
-1970—Subsec. (a). Pub. L. 91–219, § 104(a), designated existing provision as par. (1), substituted “(A) $175” for “(1) $130”, “(B) $128” for “(2) $95”, and “(C) $81” for “(3) $60”, respectively in par. (1) as so designated, and added par. (2).
+1970—Subsec. (a). Pub. L. 91–219, § 104(a), designated existing provision as par. (1), substituted “(A) $175” for “(1) $130”, “(B) $128” for “(2) $95”, and “(C) $81” for “(3) $60”, respectively, in par. (1) as so designated, and added par. (2).
 
 Subsec. (b). Pub. L. 91–219, § 104(b), substituted “$141” for “$105”.
 
@@ -1222,7 +1222,7 @@ Pub. L. 89–222, § 4, Sept. 30, 1965, 79 Stat. 896, provided that: “The amen
 
 
 <a id="section-3533"></a>
-## § 3533. Special assistance for the educationally dis­advantaged
+## § 3533. Special assistance for the educationally disadvantaged
 **(a)**
 
 (1) Any eligible person shall be entitled to the assistance provided an eligible veteran under section 3491(a) (if pursued in a State) of this title and be paid an educational assistance allowance therefor in the manner prescribed by [section 3491(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3491/b&num=0&edition=prelim), except that the corresponding rate provisions of this chapter shall apply, as determined by the Secretary, to such pursuit by an eligible person.
@@ -1484,13 +1484,13 @@ Pub. L. 96–466, § 202(2), substituted “$327” for “$311”, “$103” f
 
 1976—Subsec. (a). Pub. L. 94–502 substituted “$292” for “$270”, “$92” for “$85” in two places, and “$9.76” for “$9.02”.
 
-1975—Subsec. (a). Pub. L. 93–602 substituted “$270”, “$85”, “$85”, and “$9.02” for “$260”, “$82”, “$82”, and “$8.69” respectively.
+1975—Subsec. (a). Pub. L. 93–602 substituted “$270”, “$85”, “$85”, and “$9.02” for “$260”, “$82”, “$82”, and “$8.69”, respectively.
 
-1974—Subsec. (a). Pub. L. 93–508 substituted “behalf of such person”, “$260”, “$82”, “$82”, and “$8.69” for “his behalf a”, “$220”, “$69”, “$69”, and “$7.35” respectively.
+1974—Subsec. (a). Pub. L. 93–508 substituted “behalf of such person”, “$260”, “$82”, “$82”, and “$8.69” for “his behalf a”, “$220”, “$69”, “$69”, and “$7.35”, respectively.
 
 1972—Subsec. (a). Pub. L. 92–540 substituted “$220” for “$175”, “$69” for “$55”, and “$7.35” for “$6.80”, respectively.
 
-1970—Subsec. (a). Pub. L. 91–219 substituted “$175” for “$130”, “$55” for “$41”, and “$6.80” for “$4.25” respectively.
+1970—Subsec. (a). Pub. L. 91–219 substituted “$175” for “$130”, “$55” for “$41”, and “$6.80” for “$4.25”, respectively.
 
 1965—Subsec. (a). Pub. L. 89–222 substituted “$130”, “$41”, “$41” and “$4.25” for “$110”, “$35”, “$35” and “$3.60”, respectively.
 

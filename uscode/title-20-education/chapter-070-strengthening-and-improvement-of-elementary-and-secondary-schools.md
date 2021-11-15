@@ -273,6 +273,9 @@ Pub. L. 103–382, title V, § 561, Oct. 20, 1994, 108 Stat. 4058, provided that
 
 Pub. L. 100–297, title VI, § 6302, Apr. 28, 1988, 102 Stat. 431, provided that: “Any new spending authority (within the meaning of section 401 of the Congressional Budget Act of 1974 [[2 U.S.C. 651](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section651&num=0&edition=prelim)]) which is provided under this Act [see Tables for classification] shall be effective for any fiscal year only to the extent or in such amounts as are provided in appropriation Acts.”
 
+#### Definitions
+Pub. L. 100–297, title VI, § 6301, Apr. 28, 1988, 102 Stat. 431, provided that: “Except as otherwise provided, for the purpose of this Act [see Tables for classification] the terms used in this Act have the meanings provided under section 1471 of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 [formerly [20 U.S.C. 2891](./chapter-047-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-2891)].”
+
 #### Ex. Ord. No. 13153. Actions To Improve Low-Performing Schools
 Ex. Ord. No. 13153, May 3, 2000, 65 F.R. 26475, provided:
 
@@ -329,9 +332,6 @@ Sec. 5. Consultation. The Secretary shall, where appropriate, consult with execu
 Sec. 6. Judicial Review. This order is intended only to improve the internal management of the executive branch and is not intended to, and does not create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
 
 William J. Clinton.
-
-#### Definitions
-Pub. L. 100–297, title VI, § 6301, Apr. 28, 1988, 102 Stat. 431, provided that: “Except as otherwise provided, for the purpose of this Act [see Tables for classification] the terms used in this Act have the meanings provided under section 1471 of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 [formerly [20 U.S.C. 2891](./chapter-047-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-2891)].”
 
 
 <a id="section-6312"></a>

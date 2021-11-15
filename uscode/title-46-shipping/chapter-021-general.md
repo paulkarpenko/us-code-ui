@@ -602,6 +602,9 @@ Amendment by Pub. L. 100–710 effective Jan. 1, 1989, with certain exceptions a
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
+#### Towing Vessels Operating Outside Boundary Line
+Pub. L. 116–283, div. G, title LVXXXIV [LXXXIV], § 8402, Jan. 1, 2021, 134 Stat. 4720, provided that: “(a) Definitions.—In this section—“(1) the term ‘Boundary Line’ has the meaning given the term in [section 103 of title 46](./chapter-001-definitions.md#section-103), United States Code; “(2) the term ‘Officer in Charge, Marine Inspection’ has the meaning given the term in [section 3305(d)(4) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section3305/d/4&num=0&edition=prelim), United States Code; and “(3) the term ‘Secretary’ means the Secretary of the Department in which the Coast Guard is operating. “(b) Interim Exemption.—A towing vessel described in subsection (c) and a response vessel included on a vessel response plan are exempt from any additional requirements of subtitle II of title 46, United States Code, and chapter I of title 33 and chapter I of title 46, Code of Federal Regulations (as in effect on the date of the enactment of this Act [Jan. 1, 2021]), that would result solely from such vessel operating outside the Boundary Line, if—“(1) the vessel is—“(A) operating outside the Boundary Line solely to perform regular harbor assist operations; or “(B) listed as a response vessel on a vessel response plan and is operating outside the Boundary Line solely to perform duties of a response vessel; “(2) the vessel is approved for operations outside the Boundary Line by the Officer in Charge, Marine Inspection and the Coast Guard Marine Safety Center; and “(3) the vessel has sufficient manning and lifesaving equipment for all persons on board, in accordance with part 15 and section 141.225 of title 46, Code of Federal Regulations (or any successor regulation). “(c) Applicability.—This section applies to a towing vessel—“(1) that is subject to inspection under chapter 33 of title 46, United States Code, and subchapter M of chapter I of title 46, Code of Federal Regulations (or any successor regulation); “(2) with only ‘Lakes, Bays, and Sounds’ or ‘Rivers’ routes recorded on such vessel’s certificate of inspection pursuant to section 136.230 of title 46, Code of Federal Regulations (or any successor regulation); “(3) that, with respect to a vessel described in subsection (b)(1)(A), is operating as a harbor assist vessel and regularly engaged in harbor assist operations, including the docking, undocking, mooring, unmooring, and escorting of vessels with limited maneuverability; and “(4) that, with respect to a vessel that is described in subsection (b)(1)(B), is listed—“(A) on a vessel response plan under part 155 of title 33, Code of Federal Regulations, on the date of approval of the vessel response plan; or “(B) by name or reference in the vessel response plan’s geographic-specific appendix on the date of approval of the vessel response plan. “(d) Limitations.—A vessel exempted under subsection (b) is subject to the following operating limitations:“(1) The voyage of a vessel described in subsection (b)(1)(A) shall—“(A) be less than 12 hours in total duration; “(B) originate and end in the inspection zone of a single Officer in Charge, Marine Inspection; and “(C) occur no further than 10 nautical miles from the Boundary Line. “(2) The voyage of a vessel described in subsection (b)(1)(B) shall—“(A) originate and end in the inspection zone of a single Officer in Charge, Marine Inspection; and “(B) either—“(i) in the case of a voyage in the territorial waters of Alaska, Guam, Hawaii, American Samoa, and the Northern Mariana Islands, have sufficient manning as determined by the Secretary; or “(ii) be less than 12 hours. “(e) Safety.—“(1) Safety restrictions.—The Officer in Charge, Marine Inspection for an inspection zone may restrict operations under the interim exemption provided under subsection (b) for safety purposes. “(2) Comprehensive lists.—The Officer in Charge, Marine Inspection for an inspection zone shall maintain and periodically update a comprehensive list of all towing vessels described in subsection (c) that operate in the inspection zone. “(3) Notification.—Not later than 24 hours prior to intended operations outside of the Boundary Line, a towing vessel exempted under subsection (b) shall notify the Office in Charge, Marine Inspection for the inspection zone of such operations. Such notification shall include—“(A) the date, time, and length of voyage; “(B) a crew list, with each crew member’s credentials and work hours; and “(C) an attestation from the master of the towing vessel that the vessel has sufficient manning and lifesaving equipment for all persons on board. “(f) Briefing.—Not later than 180 days after the date of the enactment of this Act, the Commandant of the Coast Guard shall brief the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives regarding the following:“(1) The impacts of the interim exemption provided under this section. “(2) Any safety concerns regarding the expiration of such interim exemption. “(3) Whether such interim exemption should be extended. “(g) Termination.—The interim exemption provided under subsection (b) shall terminate on the date that is 2 years after the date of the enactment of this Act.”
+
 #### Fishing and Fish Tender Vessels
 Pub. L. 103–206, title III, § 321, Dec. 20, 1993, 107 Stat. 2427, provided that: “(a) In this section, ‘fish tender vessel’, ‘fishing vessel’, and ‘tank vessel’ have the meanings given those terms under [section 2101 of title 46](./chapter-021-general.md#section-2101), United States Code. “(b) A fishing vessel or fish tender vessel of not more than 750 gross tons, when engaged only in the fishing industry, shall not be deemed to be a tank vessel for the purposes of any law. “(c)(1) This section does not affect the authority of the Secretary of Transportation under chapter 33 of title 46, United States Code, to regulate the operation of the vessels listed in subsection (b) to ensure the safe carriage of oil and hazardous substances. “(2) This section does not affect the requirement for fish tender vessels engaged in the Aleutian trade to comply with chapters 33, 45, 51, 81, and 87 of title 46, United States Code, as provided in the Aleutian Trade Act of 1990 (Public Law 101–595) [see Short Title of 1990 Amendment note set out under [section 101 of this title](./chapter-001-definitions.md#section-101)].”
 
@@ -1071,7 +1074,7 @@ Any person who fails to implement or conduct, or who otherwise fails to comply w
 
 <a id="section-2116"></a>
 ## § 2116. Marine safety strategy, goals, and performance assessments
-**(a) Long-Term Strategy and Goals.—** In conjunction with existing federally required strategic planning efforts, the Secretary shall develop a long-term strategy for improving vessel safety and the safety of individuals on vessels. The strategy shall include the issuance of a triennial plan and schedule for achieving the following goals:
+**(a) Long-Term Strategy and Goals.—** In conjunction with existing federally required strategic planning efforts, the Secretary shall develop a long-term strategy for improving vessel safety and the safety of individuals on vessels. The 5-year strategy shall include the issuance of a plan and schedule for achieving the following goals:
 
 (1) Reducing the number and rates of marine casualties.
 
@@ -1081,9 +1084,9 @@ Any person who fails to implement or conduct, or who otherwise fails to comply w
 
 (4) Improving research efforts to enhance and promote vessel and operator safety and performance.
 
-**(b) Contents of Strategy and Triennial Plans.—**
+**(b) 5-Year Strategy and Plan.—**
 
-(1) **Measurable goals.—** — The strategy and triennial plans shall include specific numeric or measurable goals designed to achieve the goals set forth in subsection (a). The purposes of the numeric or measurable goals are the following:
+(1) **Measurable goals.—** — The 5-year strategy and plan shall include specific numeric or measurable goals designed to achieve the goals set forth in subsection (a). The purposes of the numeric or measurable goals are the following:
 
   (A) To increase the number of safety examinations on all high-risk vessels.
 
@@ -1093,27 +1096,27 @@ Any person who fails to implement or conduct, or who otherwise fails to comply w
 
   (D) To provide for a sufficient number of Coast Guard marine safety personnel, and provide adequate facilities and equipment to carry out the functions referred to in section 93(c) 11 See References in Text note below. of title 14.
 
-(2) **Resource needs.—** — The strategy and triennial plans shall include estimates of—
+(2) **Resource needs.—** — The 5-year strategy and plan shall include estimates of—
 
-  (A) the funds and staff resources needed to accomplish each activity included in the strategy and plans; and
+  (A) the funds and staff resources needed to accomplish each activity included in the strategy and plan; and
 
   (B) the staff skills and training needed for timely and effective accomplishment of each goal.
 
-**(c) Submission With the President’s Budget.—** Beginning with fiscal year 2020 and triennially thereafter, the Secretary shall submit to Congress the strategy and triennial plan not later than 60 days following the transmission of the President’s budget submission under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim).
+**(c) Submission With the President’s Budget.—** Not later than 5 years after the date of the enactment of the Elijah E. Cummings Coast Guard Authorization Act of 2020, and every 5 years thereafter, the Secretary shall submit to Congress the strategy and plan not later than 60 days following the transmission of the President’s budget submission under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim).
 
 **(d) Achievement of Goals.—**
 
-(1) **Progress assessment.—** — No less frequently than semiannually, the Commandant shall assess the progress of the Coast Guard toward achieving the goals set forth in subsection (b). The Commandant shall convey the Commandant’s assessment to the employees of the marine safety workforce and shall identify any deficiencies that should be remedied before the next progress assessment.
+(1) **Progress assessment.—** — In conjunction with the submission of the 5-year strategy and plan, the Commandant shall assess the progress of the Coast Guard toward achieving the goals set forth in subsection (b). The Commandant shall convey the Commandant’s assessment to the employees of the marine safety workforce and shall identify any deficiencies that should be remedied before the next progress assessment.
 
-(2) **Report to congress.—** — The Secretary shall report triennially to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate—
+(2) **Periodic briefings.—** — The Secretary shall periodically brief the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives—
 
-  (A) on the performance of the marine safety program in achieving the goals of the marine safety strategy and annual plan under subsection (a) for the year covered by the report;
+  (A) on the performance of the marine safety program in achieving the goals of the marine safety strategy and plan under subsection (a) for the period covered by the briefing;
 
   (B) on the program’s mission performance in achieving numerical measurable goals established under subsection (b), including—
 
     (i) the number of civilian and military Coast Guard personnel assigned to marine safety positions; and
 
-    (ii) an identification of marine safety positions that are understaffed to meet the workload required to accomplish each activity included in the strategy and plans under subsection (a); and
+    (ii) an identification of marine safety positions that are understaffed to meet the workload required to accomplish each activity included in the strategy and plan under subsection (a); and
 
   (C) recommendations on how to improve performance of the program.
 
@@ -1122,7 +1125,29 @@ Any person who fails to implement or conduct, or who otherwise fails to comply w
 #### References in Text
 [Section 93 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section93&num=0&edition=prelim), referred to in subsec. (b)(1)(D), was redesignated [section 504 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section504&num=0&edition=prelim) by Pub. L. 115–282, title I, § 105(b), Dec. 4, 2018, 132 Stat. 4200, and references to [section 93 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section93&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
 
+The date of the enactment of the Elijah E. Cummings Coast Guard Authorization Act of 2020, referred to in subsec. (c), is the date of enactment of div. G of Pub. L. 116–283, which was approved Jan. 1, 2021.
+
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283, § 8240(c)(1), substituted “The 5-year strategy shall include the issuance of a plan” for “The strategy shall include the issuance of a triennial plan” in introductory provisions.
+
+Subsec. (b). Pub. L. 116–283, § 8240(c)(2)(A), substituted “5-Year Strategy and Plan” for “Contents of Strategy and Triennial Plans” in heading.
+
+Subsec. (b)(1). Pub. L. 116–283, § 8240(c)(2)(B), substituted “5-year strategy and plan” for “strategy and triennial plans” in introductory provisions.
+
+Subsec. (b)(2). Pub. L. 116–283, § 8240(c)(2)(C)(i), substituted “5-year strategy and plan” for “strategy and triennial plans” in introductory provisions.
+
+Subsec. (b)(2)(A). Pub. L. 116–283, § 8240(c)(2)(C)(ii), substituted “plan” for “plans”.
+
+Subsec. (c). Pub. L. 116–283, § 8240(c)(3), substituted “Not later than 5 years after the date of the enactment of the Elijah E. Cummings Coast Guard Authorization Act of 2020, and every 5 years thereafter, the Secretary” for “Beginning with fiscal year 2020 and triennially thereafter, the Secretary” and struck out “triennial” after “the strategy and”.
+
+Subsec. (d)(1). Pub. L. 116–283, § 8240(c)(4)(A), substituted “In conjunction with the submission of the 5-year strategy and plan” for “No less frequently than semiannually”.
+
+Subsec. (d)(2). Pub. L. 116–283, § 8240(c)(4)(B)(i), (ii), substituted “Periodic briefings” for “Report to congress” in heading and “periodically brief the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives” for “report triennially to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate” in introductory provisions.
+
+Subsec. (d)(2)(A). Pub. L. 116–283, § 8240(c)(4)(B)(iii), struck out “annual” after “safety strategy and” and substituted “for the period covered by the briefing” for “for the year covered by the report”.
+
+Subsec. (d)(2)(B)(ii). Pub. L. 116–283, § 8240(c)(4)(B)(iv), substituted “plan” for “plans”.
+
 2018—Subsec. (a). Pub. L. 115–265, § 214(1), substituted “of a triennial” for “each year of an annual” in introductory provisions.
 
 Subsec. (b). Pub. L. 115–265, § 214(2), substituted “Triennial” for “Annual” in heading and “triennial” for “annual” in introductory provisions of pars. (1) and (2).

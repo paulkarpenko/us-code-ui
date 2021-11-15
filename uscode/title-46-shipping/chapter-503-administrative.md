@@ -2,7 +2,7 @@
 title: 46
 chapter: '503'
 heading: ADMINISTRATIVE
-section_count: 7
+section_count: 8
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46&num=0&edition=prelim
 ---
@@ -88,166 +88,6 @@ Sections 1(a) and (c), 3(c), and 4 of the Act of March 24, 1943 (50 App. U.S.C. 
 
 **(b) Submission of Findings to Surface Transportation Board.—** After an investigation under subsection (a), if the Secretary of Transportation believes that the rates or practices of a rail carrier subject to the jurisdiction of the Surface Transportation Board are detrimental to the objective specified in subsection (a), or that new rates or practices, new or additional port terminal facilities, or affirmative action by a rail carrier is necessary to promote that objective, the Secretary may submit findings to the Board for action the Board considers appropriate under existing law.
 
-**(c) Port and Intermodal Improvement Program.—**
-
-(1) **General authority.—** — Subject to the availability of appropriations, the Secretary of Transportation shall make grants, on a competitive basis, to eligible applicants to assist in funding eligible projects for the purpose of improving the safety, efficiency, or reliability of the movement of goods through ports and intermodal connections to ports.
-
-(2) **Eligible applicant.—** — The Secretary may make a grant under this subsection to the following:
-
-  (A) A State.
-
-  (B) A political subdivision of a State, or a local government.
-
-  (C) A public agency or publicly chartered authority established by 1 or more States.
-
-  (D) A special purpose district with a transportation function.
-
-  (E) An Indian Tribe (as defined in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)), without regard to capitalization), or a consortium of Indian Tribes.
-
-  (F) A multistate or multijurisdictional group of entities described in this paragraph.
-
-  (G) A lead entity described in subparagraph (A), (B), (C), (D), (E), or (F) jointly with a private entity or group of private entities.
-
-(3) **Eligible projects.—** — The Secretary may make a grant under this subsection—
-
-  (A) for a project, or package of projects, that—
-
-    (i) is either—
-
-      (I) within the boundary of a port; or
-
-      (II) outside the boundary of a port, but is directly related to port operations or to an intermodal connection to a port; and
-
-    (ii) will be used to improve the safety, efficiency, or reliability of—
-
-      (I) the loading and unloading of goods at the port, such as for marine terminal equipment;
-
-      (II) the movement of goods into, out of, around, or within a port, such as for highway or rail infrastructure, intermodal facilities, freight intelligent transportation systems, and digital infrastructure systems; or
-
-      (III) environmental mitigation measures and operational improvements directly related to enhancing the efficiency of ports and intermodal connections to ports; or
-
-  (B) notwithstanding paragraph (6)(A)(v), to provide financial assistance to 1 or more projects under subparagraph (A) for development phase activities, including planning, feasibility analysis, revenue forecasting, environmental review, permitting, and preliminary engineering and design work.
-
-(4) **Prohibited uses.—** — A grant award under this subsection may not be used—
-
-  (A) to finance or refinance the construction, reconstruction, reconditioning, or purchase of a vessel that is eligible for such assistance under chapter 537, unless the Secretary determines such vessel—
-
-    (i) is necessary for a project described in paragraph (3)(A)(ii)(III) of this subsection; and
-
-    (ii) is not receiving assistance under chapter 537; or
-
-  (B) for any project within a small shipyard (as defined in section 54101).
-
-(5) **Applications and process.—**
-
-  (A) *Applications.—* — To be eligible for a grant under this subsection, an eligible applicant shall submit to the Secretary an application in such form, at such time, and containing such information as the Secretary considers appropriate.
-
-  (B) *Solicitation process.—* — Not later than 60 days after the date that amounts are made available for grants under this subsection for a fiscal year, the Secretary shall solicit grant applications for eligible projects in accordance with this subsection.
-
-(6) **Project selection criteria.—**
-
-  (A) *In general.—* — The Secretary may select a project described in paragraph (3) for funding under this subsection if the Secretary determines that—
-
-    (i) the project improves the safety, efficiency, or reliability of the movement of goods through a port or intermodal connection to a port;
-
-    (ii) the project is cost effective;
-
-    (iii) the eligible applicant has authority to carry out the project;
-
-    (iv) the eligible applicant has sufficient funding available to meet the matching requirements under paragraph (8);
-
-    (v) the project will be completed without unreasonable delay; and
-
-    (vi) the project cannot be easily and efficiently completed without Federal funding or financial assistance available to the project sponsor.
-
-  (B) *Additional considerations.—* — In selecting projects described in paragraph (3) for funding under this subsection, the Secretary shall give substantial weight to—
-
-    (i) the utilization of non-Federal contributions; and
-
-    (ii) the net benefits of the funds awarded under this subsection, considering the cost-benefit analysis of the project, as applicable.
-
-  (C) *Small projects.—* — The Secretary may waive the cost-benefit analysis under subparagraph (A)(ii), and establish a simplified, alternative basis for determining whether a project is cost effective, for a small project described in paragraph (7)(B).
-
-(7) **Allocation of funds.—**
-
-  (A) *Geographic distribution.—* — Not more than 25 percent of the amounts made available for grants under this subsection for a fiscal year may be used to make grants for projects in any 1 State.
-
-  (B) *Small projects.—* — The Secretary shall reserve 25 percent of the amounts made available for grants under this subsection each fiscal year to make grants for eligible projects described in paragraph (3)(A) that request the lesser of—
-
-    (i) 10 percent of the amounts made available for grants under this subsection for a fiscal year; or
-
-    (ii) $10,000,000.
-
-  (C) *Development phase activities.—* — Not more than 10 percent of the amounts made available for grants under this subsection for a fiscal year may be used to make grants for development phase activities under paragraph (3)(B).
-
-(8) **Federal share of total project costs.—**
-
-  (A) *Total project costs.—* — To be eligible for a grant under this subsection, an eligible applicant shall submit to the Secretary an estimate of the total costs of a project under this subsection based on the best available information, including any available engineering studies, studies of economic feasibility, environmental analyses, and information on the expected use of equipment or facilities.
-
-  (B) *Federal share.—*
-
-    (i) *In general.—* — Except as provided in clause (ii), the Federal share of the total costs of a project under this subsection shall not exceed 80 percent.
-
-    (ii) *Rural areas.—* — The Secretary may increase the Federal share of costs above 80 percent for a project located in a rural area.
-
-(9) **Procedural safeguards.—** — The Secretary shall issue guidelines to establish appropriate accounting, reporting, and review procedures to ensure that—
-
-  (A) grant funds are used for the purposes for which those funds were made available;
-
-  (B) each grantee properly accounts for all expenditures of grant funds; and
-
-  (C) grant funds not used for such purposes and amounts not obligated or expended are returned.
-
-(10) **Grant conditions.—**
-
-  (A) *In general.—* — The Secretary shall require as a condition of making a grant under this subsection that a grantee—
-
-    (i) maintain such records as the Secretary considers necessary;
-
-    (ii) make the records described in clause (i) available for review and audit by the Secretary; and
-
-    (iii) periodically report to the Secretary such information as the Secretary considers necessary to assess progress.
-
-  (B) *Additional requirement.—* — The Secretary shall apply the same requirements of [section 117(k) of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section117/k&num=0&edition=prelim), United States Code, to a port project assisted in whole or in part under this section as the Secretary does a port-related freight project under [section 117 of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section117&num=0&edition=prelim), United States Code.
-
-  (C) *Construction, repair, or alteration of vessels.—* — With regard to the construction, repair, or alteration of vessels, the same requirements of [section 117(k) of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section117/k&num=0&edition=prelim), United States Code, shall apply regardless of whether the location of contract performance is known when bids for such work are solicited.
-
-(11) **Administration.—**
-
-  (A) *Administrative and oversight costs.—* — The Secretary may retain not more than 2 percent of the amounts appropriated for each fiscal year under this subsection for the administrative and oversight costs incurred by the Secretary to carry out this subsection.
-
-  (B) *Availability.—*
-
-    (i) *In general.—* — Amounts appropriated for carrying out this subsection shall remain available until expended.
-
-    (ii) *Unexpended funds.—* — Amounts awarded as a grant under this subsection that are not expended by the grantee during the 5-year period following the date of the award shall remain available to the Secretary for use for grants under this subsection in a subsequent fiscal year.
-
-(12) **Definitions.—** — In this subsection:
-
-  (A) *Appropriate committees of congress.—* — The term “appropriate committees of Congress” means—
-
-    (i) the Committee on Commerce, Science, and Transportation of the Senate; and
-
-    (ii) the Committee on Transportation and Infrastructure of the House of Representatives.
-
-  (B) *Port.—* — The term “port” includes—
-
-    (i) any port on the navigable waters of the United States; and
-
-    (ii) any harbor, marine terminal, or other shore side facility used principally for the movement of goods on inland waters.
-
-  (C) *Project.—* — The term “project” includes construction, reconstruction, environmental rehabilitation, acquisition of property, including land related to the project and improvements to the land, equipment acquisition, and operational improvements.
-
-  (D) *Rural area.—* — The term “rural area” means an area that is outside an urbanized area.
-
-**(d) Additional Authority of the Secretary.—** In carrying out this section, the Secretary may—
-
-(1) coordinate with other Federal agencies to expedite the process established under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.) for the improvement of port facilities to improve the efficiency of the transportation system, to increase port security, or to provide greater access to port facilities;
-
-(2) seek to coordinate all reviews or requirements with appropriate Federal, State, and local agencies; and
-
-(3) in addition to any financial assistance provided under subsection (c), provide such technical assistance to port authorities or commissions or their subdivisions and agents.
-
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -260,10 +100,57 @@ In subsection (a), before paragraph (1), the words “Secretary of the Army” a
 
 In subsection (b), the words “rates or practices” are substituted for “rates, charges, rules, or regulations” for consistency in the revised title and with other titles of the United States Code.
 
-#### References in Text
-The National Environmental Policy Act of 1969, referred to in subsec. (d)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
-
 #### Amendments
+2021—Subsec. (c). Pub. L. 117–81 redesignated subsec. (c) as [section 54301(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section54301/a&num=0&edition=prelim).
+
+Subsec. (c)(2). Pub. L. 116–283, § 3504(1)(A)(i), inserted “or subsection (d)” after “this subsection” in introductory provisions.
+
+Subsec. (c)(2)(G). Pub. L. 116–283, § 3504(1)(A)(ii), inserted “, including the owners or operators of a facility, or collection of facilities at a port” after “private entities”.
+
+Subsec. (c)(5)(A). Pub. L. 116–283, § 3504(1)(B)(i), inserted “or subsection (d)” after “this subsection”.
+
+Subsec. (c)(5)(B). Pub. L. 116–283, § 3504(1)(B)(ii), substituted “90” for “60” and inserted “or subsection (d)” after “this subsection”.
+
+Subsec. (c)(6)(C). Pub. L. 116–283, § 3504(1)(C), struck out subpar. (C). Prior to amendment, text read as follows: “The Secretary may waive the cost-benefit analysis under subparagraph (A)(ii), and establish a simplified, alternative basis for determining whether a project is cost effective, for a small project described in paragraph (7)(B).”
+
+Subsec. (c)(7)(B). Pub. L. 116–283, § 3504(1)(D)(i), substituted “18 percent” for “25 percent” and “subsection (d). The requirement under paragraph (6)(A)(ii) shall not apply to grants made under subsection (d).” for “paragraph (3)(A) that request the lesser of—
+
+“(i) 10 percent of the amounts made available for grants under this subsection for a fiscal year; or
+
+“(ii) $10,000,000.”
+
+Subsec. (c)(7)(C). Pub. L. 116–283, § 3504(1)(D)(ii), added subpar. (C) and struck out former subpar. (C). Text read as follows: “Not more than 10 percent of the amounts made available for grants under this subsection for a fiscal year may be used to make grants for development phase activities under paragraph (3)(B).”
+
+Subsec. (c)(8)(A). Pub. L. 116–283, § 3504(1)(E)(i), inserted “or subsection (d)” after “a grant under this subsection” and substituted “the project for which the grant is requested” for “a project under this subsection”.
+
+Subsec. (c)(8)(B)(i). Pub. L. 116–283, § 3504(1)(E)(ii)(I), substituted “under this subsection or subsection (d)” for “under this subsection”.
+
+Subsec. (c)(8)(B)(ii). Pub. L. 116–283, § 3504(1)(E)(ii)(II), inserted “for which a grant is awarded under subsection (d) or that is” after “project”.
+
+Subsec. (c)(9). Pub. L. 116–283, § 3504(1)(F), inserted “for grants made under this subsection and subsection (d)” after “procedures” in introductory provisions.
+
+Subsec. (c)(10)(A). Pub. L. 116–283, § 3504(1)(G), inserted “or subsection (d)” after “this subsection” in introductory provisions.
+
+Subsec. (c)(11)(A). Pub. L. 116–283, § 3504(1)(H)(i), substituted “to make grants for port development under this section” for “under this subsection” and “to make grants for port development under this section” for “to carry out this subsection”.
+
+Subsec. (c)(11)(B)(i). Pub. L. 116–283, § 3504(1)(H)(ii)(I), substituted “to make grants for port development under this section” for “for carrying out this subsection”.
+
+Subsec. (c)(11)(B)(ii). Pub. L. 116–283, § 3504(1)(H)(ii)(II), substituted “for port development under this section” for “under this subsection”, and inserted “or that are returned under paragraph (9)(C)” after “the award” and “Any such amount may only be expended to award a grant under the same subsection of this section under which the original grant was made.” at end.
+
+Subsec. (c)(12). Pub. L. 116–283, § 3504(1)(I)(i), inserted “and subsection (d)” after “this subsection” in introductory provisions.
+
+Subsec. (c)(12)(A) to (D). Pub. L. 116–283, § 3504(1)(I)(ii), redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out former subpar. (A) which defined “appropriate committees of Congress”.
+
+Subsec. (d). Pub. L. 117–81 redesignated subsec. (d) as [section 54301(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section54301/b&num=0&edition=prelim).
+
+Pub. L. 116–283, § 3504(3), added subsec. (d). Former subsec. (d) redesignated (e).
+
+Subsec. (e). Pub. L. 117–81 redesignated subsec. (e) as [section 54301(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section54301/c&num=0&edition=prelim).
+
+Pub. L. 116–283, § 3504(2), redesignated subsec. (d) as (e).
+
+Subsec. (e)(3). Pub. L. 116–283, § 3504(4), inserted “or subsection (d)” after “subsection (c)” and substituted “to any eligible applicants as described in subsection (c)(2)” for “to port authorities or commissions or their subdivisions and agents”.
+
 2019—Subsecs. (c), (d). Pub. L. 116–92 added subsecs. (c) and (d) and struck out former subsec. (c), which established and set out parameters for a port infrastructure development program.
 
 2013—Subsec. (c)(2)(D). Pub. L. 113–66 inserted “and financial assistance, including grants,” after “technical assistance”.
@@ -274,7 +161,7 @@ The National Environmental Policy Act of 1969, referred to in subsec. (d)(1), is
 Pub. L. 116–92, div. C, title XXXV, § 3514(c), Dec. 20, 2019, 133 Stat. 1984, provided that: “A repeal made by subsection (b) of this section [amending this section] shall not affect amounts apportioned or allocated before the effective date of the repeal. Such apportioned or allocated funds shall continue to be subject to the requirements to which the funds were subject under— “(1) [section 50302(c) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section50302/c&num=0&edition=prelim), United States Code, as in effect on the day before the date of enactment of this title [Dec. 20, 2019]; “(2) section 9008 of the SAFETEA-LU Act (Public Law 109–59; 119 Stat. 1926); “(3) section 10205 of the SAFETEA-LU Act (Public Law 109–59; 119 Stat. 1934); and “(4) section 3512 of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 ([48 U.S.C. 1421r](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1421r&num=0&edition=prelim)).”
 
 #### Strategic Seaports
-Pub. L. 113–66, div. C, title XXXV, § 3505(a), Dec. 26, 2013, 127 Stat. 1086, provided that: “(1) In general.—Under the port infrastructure development program established under [section 50302(c) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section50302/c&num=0&edition=prelim), United States Code, the Maritime Administrator, in consultation with the Secretary of Defense, may give priority to providing funding to strategic seaports in support of national security requirements. “(2) Strategic seaport defined.—In this subsection the term ‘strategic seaport’ means a military port or and [sic] commercial port that is subject to a port planning order or Basic Ordering Agreement (or both) that is projected to be used for the deployment of forces and shipment of ammunition or sustainment supplies in support of military operations.”
+Pub. L. 113–66, div. C, title XXXV, § 3505(a), Dec. 26, 2013, 127 Stat. 1086, provided that: “(1) In general.—Under the port infrastructure development program established under [former] [section 50302(c) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section50302/c&num=0&edition=prelim), United States Code, the Maritime Administrator, in consultation with the Secretary of Defense, may give priority to providing funding to strategic seaports in support of national security requirements. “(2) Strategic seaport defined.—In this subsection the term ‘strategic seaport’ means a military port or and [sic] commercial port that is subject to a port planning order or Basic Ordering Agreement (or both) that is projected to be used for the deployment of forces and shipment of ammunition or sustainment supplies in support of military operations.”
 
 
 <a id="section-50303"></a>
@@ -404,7 +291,7 @@ Subsection (c) is substituted for the source provision to eliminate unnecessary 
 
 <a id="section-50307"></a>
 ## § 50307. Maritime environmental and technical assistance program
-**(a) In General.—** The Secretary of Transportation, acting through the Maritime Administrator, shall engage in the study, research, development, assessment, and deployment of emerging marine technologies and practices related to the marine transportation system through the use of public vessels under the control of the Maritime Administration or private vessels under United States registry, and through partnerships and cooperative efforts with academic, public, private, and nongovernmental entities and facilities.
+**(a) In General.—** The Secretary of Transportation, acting through the Maritime Administrator, shall engage in the study, research, development, assessment, and deployment of emerging marine technologies and practices related to the maritime transportation system through the use of public vessels under the control of the Maritime Administration or private vessels under United States registry, and through partnerships and cooperative efforts with academic, public, private, and nongovernmental entities and facilities.
 
 **(b) Components.—** Under this section, the Secretary of Transportation shall identify, study, evaluate, test, demonstrate, or improve emerging marine technologies and practices to improve—
 
@@ -428,11 +315,21 @@ Subsection (c) is substituted for the source provision to eliminate unnecessary 
 
 **(d) Assistance.—** The Secretary of Transportation may accept gifts, or enter into cooperative agreements, contracts, or other agreements with academic, public, private, and nongovernmental entities and facilities to carry out the activities authorized under subsection (a).
 
-**(e) Limitations on the Use of Funds.—** Not more than three percent of the funds appropriated to carry out this section may be used for administrative purposes.
+**(e) Uses.—** The results of activities conducted under subsection (b)(1) shall be used to inform—
+
+(1) the policy decisions of the United States related to domestic regulations; and
+
+(2) the position of the United States on matters before the International Maritime Organization.
+
+**(f) Limitations on the Use of Funds.—** Not more than three percent of the funds appropriated to carry out this section may be used for administrative purposes.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283 substituted “maritime transportation” for “marine transportation”.
+
+Subsecs. (e), (f). Pub. L. 117–81 added subsec. (e) and redesignated former subsec. (e) as (f).
+
 2019—Subsec. (a). Pub. L. 116–92, § 3503(1), substituted “The Secretary of Transportation, acting through the Maritime Administrator, shall engage in the study” for “The Secretary of Transportation may engage in the environmental study”.
 
 Subsec. (b). Pub. L. 116–92, § 3503(2), in introductory provisions of par. (1), substituted “shall identify, study, evaluate, test, demonstrate, or improve emerging marine technologies and practices to improve—” for “may—” and “environmental performance to meet United States Federal and international standards and guidelines, including—” for “(1) identify, study, evaluate, test, demonstrate, or improve emerging marine technologies and practices that are likely to achieve environmental improvements by—”, in subpar. (C) of par. (1), substituted “species; or” for “species; and”, added subpar. (D) of par. (1), and, in par. (2), substituted “the efficiency and safety of domestic maritime industries.” for “coordinate with the Environmental Protection Agency, the Coast Guard, and other Federal, State, local, or tribal agencies, as appropriate.”
@@ -440,3 +337,116 @@ Subsec. (b). Pub. L. 116–92, § 3503(2), in introductory provisions of par. (1
 Subsec. (c)(2). Pub. L. 116–92, § 3503(3), substituted “or other benefits to domestic maritime industries” for “benefits”.
 
 Subsec. (e). Pub. L. 116–92, § 3503(4), added subsec. (e).
+
+
+<a id="section-50308"></a>
+## § 50308. Maritime transportation system emergency relief program
+**(a) General Authority.—** The Maritime Administrator may make grants to, and enter into contracts and agreement with, eligible State and Tribal entities and eligible entities for—
+
+(1) the costs of capital projects to protect, repair, reconstruct, or replace equipment and facilities of the United States maritime transportation system that the Maritime Administrator determines is in danger of suffering serious physical damage, or has suffered serious physical damage, as a result of an emergency; and
+
+(2) eligible operating costs of United States maritime transportation equipment and facilities in an area directly affected by an emergency during—
+
+  (A) the one-year period beginning on the date of a declaration of an emergency referred to in subparagraph (A) or (B) of subsection (j)(4); and
+
+  (B) an additional one-year period beginning one year after the date of an emergency referred to in subparagraph (A) or (B) of subsection (j)(4), if the Maritime Administrator, in consultation with the Administrator of the Federal Emergency Management Administration,11 So in original. Probably should be “Agency,”. determines there is a compelling need arising out of the emergency for which the declaration is made.
+
+**(b) Allocation.—**
+
+(1) **In general.—** — The Maritime Administrator shall determine an appropriate method for the equitable allocation and distribution of funds under this section to eligible State and Tribal entities and eligible entities.
+
+(2) **Priority.—** — To the extent practicable, in allocating and distributing funds under this section, the Maritime Administrator shall give priority to applications submitted by eligible State or Tribal entities.
+
+**(c) Applications.—** An applicant for assistance under this section shall submit an application for such assistance to the Maritime Administrator at such time, in such manner, and containing such information and assurances as the Maritime Administrator may require.
+
+**(d) Coordination of Emergency Funds.—**
+
+(1) **Use of funds.—** — Funds appropriated to carry out this section shall be in addition to any other funds available under this chapter.
+
+(2) **No effect on other government activity.—** — The provision of funds under this section shall not affect the ability of any other agency of the Government, including the Federal Emergency Management Agency, or a State agency, a local governmental entity, organization, or person, to provide any other funds otherwise authorized by law.
+
+**(e) Grant Requirements.—** A grant awarded under this section that is made to address an emergency referred to in subsection (j)(4)(B) shall be—
+
+(1) subject to the terms and conditions the Maritime Administrator determines are necessary;
+
+(2) made only for expenses that are not reimbursed under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) et seq.) or any Federal, State, or local assistance program; and
+
+(3) made only for expenses that are not reimbursed under any type of marine insurance.
+
+**(f) Federal Share of Costs.—** The Federal share payable of the costs for which a grant is made under this section shall be 100 percent.
+
+**(g) Administrative Costs.—** Of the amounts available to carry out this section, not more than two percent may be used for administration of this section.
+
+**(h) Quality Assurance.—** The Maritime Administrator shall institute adequate policies, procedures, and internal controls to prevent waste, fraud, abuse, and program mismanagement for the distribution of funds under this section.
+
+**(i) Reports.—** On an annual basis, the Maritime Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the financial assistance provided under this section during the year covered by the report. Each such report shall include, for such year, a description of such assistance provided and of how such assistance—
+
+(1) affected the United States maritime transportation system;
+
+(2) mitigated the financial impact of the emergency on the recipient of the assistance; and
+
+(3) protected critical infrastructure in the United States.
+
+**(j) Definitions.—** In this section:
+
+(1) **Eligible state or tribal entity.—** — The term “eligible State or Tribal entity” means—
+
+  (A) a port authority; or
+
+  (B) a vessel owned and operated by a State or Tribal government and facilities associated with the operation of such vessel.
+
+(2) **Eligible entity.—** — The term “eligible entity” means a public or private entity that is created or organized in the United States or under the laws of the United States, with significant operations in and a majority of its employees based in the United States, that is engaged in—
+
+  (A) vessel construction, transportation by water, or support activities for transportation by water with an assigned North American Industry Classification System code beginning with 3366, 483, 4883, or 6113, or in the case of such construction, transportation, or support activities conducted by a fish processing vessel, such an assigned code beginning with 3117; or
+
+  (B) as determined by the Secretary of Transportation—
+
+    (i) construction or water transportation related to activities described in subparagraph (A); or
+
+    (ii) maritime education and training.
+
+(3) **Eligible operating costs.—** — The term “eligible operating costs” means costs relating to—
+
+  (A) emergency response;
+
+  (B) cleaning;
+
+  (C) sanitization;
+
+  (D) janitorial services;
+
+  (E) staffing;
+
+  (F) workforce retention;
+
+  (G) paid leave;
+
+  (H) procurement and use of protective health equipment, testing, and training for employees and contractors;
+
+  (I) debt service payments;
+
+  (J) infrastructure repair projects;
+
+  (K) fuel; and
+
+  (L) other maritime transportation system operations, as determined by the Secretary of Transportation;
+
+(4) **Emergency.—** — The term “emergency” means a natural disaster affecting a wide area (such as a flood, hurricane, tidal wave, earthquake, severe storm, or landslide) or a catastrophic failure from any external cause, that impacts the United States maritime transportation system and as a result of which—
+
+  (A) the Governor of a State has declared an emergency and the Maritime Administrator, in consultation with the Administrator of the Federal Emergency Management Administration,1 has concurred in the declaration;
+
+  (B) the President has declared a major disaster under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5170](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5170&num=0&edition=prelim));
+
+  (C) national emergency declared by the President under the National Emergencies Act ([50 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) et seq.) is in effect; or
+
+  (D) a public health emergency declared pursuant to section 319 of the Public Health Service Act ([42 U.S.C. 247d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d&num=0&edition=prelim)) is in effect.
+
+### Statutory Notes
+
+#### References in Text
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (e)(2), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
+
+The National Emergencies Act, referred to in subsec. (j)(4)(C), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§ 1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) and Tables.
+
+#### Inclusion of COVID–19 Pandemic Public Health Emergency
+Pub. L. 116–283, div. C, title XXXV, § 3505(c), Jan. 1, 2021, 134 Stat. 4405, provided that: “For purposes of [section 50308 of title 46](./chapter-503-administrative.md#section-50308), United States Code, as added by subsection (a), the public health emergency declared pursuant to section 319 of the Public Health Service Act ([42 U.S.C. 247d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d&num=0&edition=prelim)) resulting from the COVID–19 pandemic shall be treated as an emergency.”

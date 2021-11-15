@@ -2,7 +2,7 @@
 title: 10
 chapter: '9'
 heading: DEFENSE BUDGET MATTERS
-section_count: 26
+section_count: 27
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -61,6 +61,9 @@ Subsecs. (b)(2)(A), (c). Pub. L. 101–510, § 1402(a)(2)(A), substituted “mul
 #### Effective Date of 2017 Amendment
 Pub. L. 115–91, div. A, title X, § 1042(d), Dec. 12, 2017, 131 Stat. 1554, provided that: “The amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [Dec. 12, 2017], and shall apply to future-years defense programs submitted at the time of budgets of the President for fiscal years beginning after fiscal year 2018.”
 
+#### Data on Phase III Small Business Innovation Research and Small Business Technology Transfer Program Awards
+Pub. L. 117–81, div. A, title VIII, § 867, Dec. 27, 2021, 135 Stat. 1854, provided that: “(a) Definitions.—In this section, the terms ‘Phase I’, ‘Phase II’, ‘Phase III’, ‘SBIR’, and ‘STTR’ have the meanings given those terms in section 9(e) of the Small Business Act ([15 U.S.C. 638(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section638/e&num=0&edition=prelim)). “(b) Data on Phase III Awards.—Each Secretary of a military department (as defined in [section 101 of title 10](./chapter-001-definitions.md#section-101), United States Code) shall collect and submit to the President for inclusion in each budget submitted to Congress under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), United States Code, data on the Phase III awards under the SBIR and STTR programs of the military department of the Secretary for the immediately preceding fiscal year, including—“(1) the cumulative funding amount for Phase III awards; “(2) the number of Phase III award topics; “(3) the total funding obligated for Phase III awards by State; “(4) the original Phase I or Phase II award topics and the associated Phase III contracts awarded; “(5) where possible, an identification of the specific program executive office involved in each Phase III transition; and “(6) a list of the five highest performing projects, as determined by the Secretary.”
+
 #### Treatment in Future Budgets of the President of Systems Added by Congress
 Pub. L. 116–283, div. A, title I, § 126, Jan. 1, 2021, 134 Stat. 3428, provided that: “In the event the procurement quantity for a system authorized by Congress in a National Defense Authorization Act for a fiscal year, and for which funds for such procurement quantity are appropriated by Congress in the Shipbuilding and Conversion, Navy account for such fiscal year, exceeds the procurement quantity specified in the budget of the President, as submitted to Congress under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), United States Code, for such fiscal year, such excess procurement quantity shall not be specified as a new procurement quantity in any budget of the President, as so submitted, for any fiscal year after such fiscal year.”
 
@@ -77,7 +80,7 @@ Pub. L. 116–283, div. A, title XII, § 1225, Jan. 1, 2021, 134 Stat. 3931, pro
 Pub. L. 116–92, div. A, title III, § 328, Dec. 20, 2019, 133 Stat. 1311, provided that: “(a) In General.—The Secretary of Defense shall include in the annual budget submission of the President under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code—“(1) a dedicated budget line item for adaptation to, and mitigation of, effects of extreme weather on military networks, systems, installations, facilities, and other assets and capabilities of the Department of Defense; and “(2) an estimate of the anticipated adverse impacts to the readiness of the Department and the financial costs to the Department during the year covered by the budget of the loss of, or damage to, military networks, systems, installations, facilities, and other assets and capabilities of the Department, including loss of or obstructed access to training ranges, as a result [of] extreme weather events. “(b) Disaggregation of Impacts and Costs.—The estimate under subsection (a)(2) shall set forth the adverse readiness impacts and financial costs under that subsection by military department, Defense Agency, and other component or element of the Department. “(c) Extreme Weather Defined.—In this section, the term ‘extreme weather’ means recurrent flooding, drought, desertification, wildfires, and thawing permafrost.”
 
 #### Inclusion of Procurement Technical Assistance Cooperative Agreement Program in Annual Budget Justification Documents
-Pub. L. 116–92, div. A, title VIII, § 852(c), Dec. 20, 2019, 133 Stat. 1511, provided that: “The Secretary of Defense shall submit to Congress, as a part of the defense budget materials (as defined in [section 234(d) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section234/d&num=0&edition=prelim), United States Code) for fiscal year 2021 and each fiscal year thereafter, a budget justification display that includes the procurement technical assistance cooperative agreement program under chapter 142 of title 10, United States Code, as part of the budget justification for Operation and Maintenance, Defense-wide for the Office of the Secretary of Defense.”
+Pub. L. 116–92, div. A, title VIII, § 852(c), Dec. 20, 2019, 133 Stat. 1511, provided that: “The Secretary of Defense shall submit to Congress, as a part of the defense budget materials (as defined in [section 234(d) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section234/d&num=0&edition=prelim), United States Code) for fiscal year 2021 and each fiscal year thereafter, a budget justification display that includes the procurement technical assistance cooperative agreement program under [former] chapter 142 of title 10, United States Code [see chapter 388 of this title], as part of the budget justification for Operation and Maintenance, Defense-wide for the Office of the Secretary of Defense.”
 
 #### Inclusion of European Deterrence Initiative in Annual Budget Display Information
 Pub. L. 116–92, div. A, title XII, § 1243(b)–(d), Dec. 20, 2019, 133 Stat. 1657, 1658, provided that: “(b) Budget Display Information.—The Secretary of Defense shall include in the materials submitted to Congress by the Secretary in support of the budget of the President for fiscal year 2021 and each fiscal year thereafter (as submitted under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), United States Code), a detailed budget display for the European Deterrence Initiative that includes the following information (regardless of whether the funding line is for overseas contingency operations):“(1) With respect to procurement accounts—“(A) amounts displayed by account, budget activity, line number, line item, and line item title; and “(B) a description of the requirements for each such amounts specific to the Initiative. “(2) With respect to research, development, test, and evaluation accounts—“(A) amounts displayed by account, budget activity, line number, program element, and program element title; and “(B) a description of the requirements for each such amounts specific to the Initiative. “(3) With respect to operation and maintenance accounts—“(A) amounts displayed by account title, budget activity title, line number, and subactivity group title; and “(B) a description of how such amounts will specifically be used. “(4) With respect to military personnel accounts—“(A) amounts displayed by account, budget activity, budget subactivity, and budget subactivity title; and “(B) a description of the requirements for each such amounts specific to the Initiative. “(5) With respect to each project under military construction accounts (including with respect to unspecified minor military construction and amounts for planning and design), the country, location, project title, and project amount by fiscal year. “(c) End of Fiscal Year Report.—Not later than November 30, 2020, and annually thereafter, the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report that contains—“(1) a detailed summary of funds obligated for the European Deterrence Initiative for the preceding fiscal year; and “(2) a detailed comparison of funds obligated for the European Deterrence Initiative for the preceding fiscal year to amounts requested for the Initiative for that fiscal year in the materials submitted to Congress by the Secretary in support of the budget of the President for that fiscal year as required by subsection (c), including with respect to each of the accounts described in paragraphs (1), (2), (3), (4), and (5) of subsection (b) and the information required under each such paragraph. “(d) Interim Briefing.—Not later than March 30, 2021, and annually thereafter, the Secretary of Defense shall provide the congressional defense committees with an interim briefing on the status of all matters covered by the end of fiscal year report required by section (c).”
@@ -145,9 +148,7 @@ Pub. L. 111–84, div. A, title II, § 216, Oct. 28, 2009, 123 Stat. 2227, provi
 Pub. L. 111–84, div. A, title II, § 217, Oct. 28, 2009, 123 Stat. 2228, provided that: “In the budget materials submitted to the President by the Secretary of Defense in connection with the submission to Congress, pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), United States Code, of the budget for fiscal year 2011, and each subsequent fiscal year, the Secretary shall ensure that within the Navy research, development, test, and evaluation account and the Navy aircraft procurement account, a separate, dedicated line item and program element is assigned to each of the F-35B aircraft and the F-35C aircraft, to the extent that such accounts include funding for each such aircraft.”
 
 #### Guidance on Budget Justification Materials Describing Funding Requested for Operation, Sustainment, Modernization, and Personnel of Major Ranges and Test Facilities
-Pub. L. 111–84, div. A, title II, § 220, Oct. 28, 2009, 123 Stat. 2229, as amended by Pub. L. 116–283, div. A, title XVIII, § 1845(c)(6), Jan. 1, 2021, 134 Stat. 4247, provided that: “(a) Guidance on Budget Justification Materials.—The Secretary of Defense, acting through the Under Secretary of Defense (Comptroller) and the Director of the Department of Defense Test Resource Management Center, shall issue guidance clarifying and standardizing the information required in budget justification materials describing amounts to be requested in the budget of the President for a fiscal year (as submitted to Congress pursuant to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code) for funding for each facility and resource of the Major Range and Test Facility Base in connection with each of the following:“(1) Operation. “(2) Sustainment. “(3) Investment and modernization. “(4) Government personnel. “(5) Contractor personnel. “(b) Applicability.—The guidance issued under subsection (a) shall apply with respect to budgets of the President for fiscal years after fiscal year 2010. “(c) Major Range and Test Facility Base Defined.—In this section, the term ‘Major Range and Test Facility Base’ has the meaning given that term in section 196(h) [now 196(i)] of title 10, United States Code.”
-
-[Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1845(c)(6), Jan. 1, 2021, 134 Stat. 4151, 4247, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, section 220(c) of Pub. L. 111–84, set out above, is amended by striking “section 196(h)” and inserting “sections 4173(i)”.]
+Pub. L. 111–84, div. A, title II, § 220, Oct. 28, 2009, 123 Stat. 2229, as amended by Pub. L. 116–283, div. A, title XVIII, § 1845(c)(6), Jan. 1, 2021, 134 Stat. 4247, provided that: “(a) Guidance on Budget Justification Materials.—The Secretary of Defense, acting through the Under Secretary of Defense (Comptroller) and the Director of the Department of Defense Test Resource Management Center, shall issue guidance clarifying and standardizing the information required in budget justification materials describing amounts to be requested in the budget of the President for a fiscal year (as submitted to Congress pursuant to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code) for funding for each facility and resource of the Major Range and Test Facility Base in connection with each of the following:“(1) Operation. “(2) Sustainment. “(3) Investment and modernization. “(4) Government personnel. “(5) Contractor personnel. “(b) Applicability.—The guidance issued under subsection (a) shall apply with respect to budgets of the President for fiscal years after fiscal year 2010. “(c) Major Range and Test Facility Base Defined.—In this section, the term ‘Major Range and Test Facility Base’ has the meaning given that term in sections [sic] 4173(i) of title 10, United States Code.”
 
 #### Military Munitions Response Program and Installation Restoration Program
 Pub. L. 111–84, div. A, title III, § 318(b), Oct. 28, 2009, 123 Stat. 2250, provided that: “As part of the annual budget submission of the Secretary of Defense to Congress, the Secretary shall include the funding levels requested for the Military Munitions Response Program and the Installation Restoration Program.”
@@ -170,7 +171,7 @@ Pub. L. 110–417, [div. A], title XV, § 1502, Oct. 14, 2008, 122 Stat. 4649, p
 Pub. L. 110–181, div. A, title VII, § 718, Jan. 28, 2008, 122 Stat. 197, provided that: “(a) Report.—If the President submits to Congress the budget for a fiscal year under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), United States Code, and the aggregate amount included in that budget for the Department of Defense for health care for such fiscal year is less than the aggregate amount provided by Congress for the Department for health care for the preceding fiscal year, and, in the case of the Department, the total allocation from the Defense Health Program to any military department is less than the total of such allocation in the preceding fiscal year, the President shall submit to Congress a report on—“(1) the reasons for the determination that inclusion of a lesser aggregate amount or allocation to any military department is in the national interest; and “(2) the anticipated effects of the inclusion of such lesser aggregate amount or allocation to any military department on the access to and delivery of medical and support services to members of the Armed Forces and their family members. “(b) Termination.—The section shall not be in effect after December 31, 2017.”
 
 #### Specification of Amounts Requested for Procurement of Contract Services
-Pub. L. 110–181, div. A, title VIII, § 806, Jan. 28, 2008, 122 Stat. 213, which required that materials submitted to Congress in support of the Defense Department budget identify clearly and separately the amounts requested in each budget account for procurement of contract services, was repealed and restated as [section 235 of this title](./chapter-009-defense-budget-matters.md#section-235) by Pub. L. 111–84, div. A, title VIII, § 803(a)(1), (3), Oct. 28, 2009, 123 Stat. 2402.
+Pub. L. 110–181, div. A, title VIII, § 806, Jan. 28, 2008, 122 Stat. 213, which required that materials submitted to Congress in support of the Defense Department budget identify clearly and separately the amounts requested in each budget account for procurement of contract services, was repealed and restated as former [section 235 of this title](./chapter-009-defense-budget-matters.md#section-235) by Pub. L. 111–84, div. A, title VIII, § 803(a)(1), (3), Oct. 28, 2009, 123 Stat. 2402.
 
 #### Report on Major Department of Defense Headquarters Activities Personnel
 Pub. L. 110–181, div. A, title IX, § 901(b), (c), Jan. 28, 2008, 122 Stat. 272, which required that the Secretary of Defense include a report with the defense budget materials for each fiscal year concerning the number of military personnel and civilian employees of the Department of Defense assigned to major headquarters activities for each component of the Department, any increase in personnel assigned to major headquarters activities attributable to certain reasons, and any cost savings associated with the elimination of contracts for the performance of major headquarters activities, was repealed by Pub. L. 111–84, div. A, title XI, § 1109(b)(3), Oct. 28, 2009, 123 Stat. 2493.
@@ -618,7 +619,7 @@ Subsec. (b). Pub. L. 107–107, § 232(b), amended heading and text of subsec. (
 Pub. L. 111–383, div. A, title II, § 225, Jan. 7, 2011, 124 Stat. 4170, related to acquisition baselines, elements of baselines, and annual reports, prior to repeal by Pub. L. 112–81, div. A, title II, § 231(b)(1), Dec. 31, 2011, 125 Stat. 1339.
 
 #### Budget and Acquisition Requirements for Missile Defense Agency Activities
-Pub. L. 110–181, div. A, title II, § 223, Jan. 28, 2008, 122 Stat. 39, as amended by Pub. L. 112–81, div. A, title II, § 231(b)(2), Dec. 31, 2011, 125 Stat. 1339, provided that: “(a) Revised Budget Structure.—The budget justification materials submitted to Congress in support of the Department of Defense budget for any fiscal year after fiscal year 2009 (as submitted with the budget of the President under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code) shall set forth separately amounts requested for the Missile Defense Agency for each of the following:“(1) Research, development, test, and evaluation. “(2) Procurement. “(3) Operation and maintenance. “(4) Military construction. “(b) Revised Budget Structure for Fiscal Year 2009.—The budget justification materials submitted to Congress in support of the Department of Defense budget for fiscal year 2009 (as submitted with the budget of the President under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code) shall—“(1) identify all known and estimated operation and support costs; and “(2) set forth separately amounts requested for the Missile Defense Agency for each of the following:“(A) Research, development, test, and evaluation. “(B) Procurement or advance procurement of long lead items, including for Terminal High Altitude Area Defense firing units 3 and 4, and for Standard Missile-3 Block 1A interceptors. “(C) Military construction. “(c) Availability of RDT&E Funds for Fiscal Year 2009.—Upon approval by the Secretary of Defense, and consistent with the plan submitted under subsection (f), funds appropriated pursuant to an authorization of appropriations or otherwise made available for fiscal year 2009 for research, development, test, and evaluation for the Missile Defense Agency—“(1) may be used for the fielding of ballistic missile defense capabilities approved previously by Congress; and “(2) may not be used for—“(A) military construction activities; or “(B) procurement or advance procurement of long lead items, including for Terminal High Altitude Area Defense firing units 3 and 4, and for Standard Missile-3 Block 1A interceptors. “(d) Full Funding Requirement Not Applicable to Use of Procurement Funds for Fiscal Years 2009 and 2010.—In any case in which funds appropriated pursuant to an authorization of appropriations or otherwise made available for procurement for the Missile Defense Agency for fiscal years 2009 and 2010 are used for the fielding of ballistic missile defense capabilities, the funds may be used for the fielding of those capabilities on an ‘incremental’ basis, notwithstanding any law or policy of the Department of Defense that would otherwise require a ‘full funding’ basis. “(e) Relationship to Other Law.—Nothing in this provision shall be construed to alter or otherwise affect in any way the applicability of the requirements and other provisions of section 234(a) through (d) of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 (Public Law 108–375; 118 Stat. 1837; [former] [10 U.S.C. 2431](./chapter-144-major-defense-acquisition-programs.md#section-2431) note). “(f) Plan Required.—Not later than March 1, 2008, the Director of the Missile Defense Agency shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a plan for transitioning the Missile Defense Agency from using exclusively research, development, test, and evaluation funds to using procurement, military construction, operations and maintenance, and research, development, test, and evaluation funds for the appropriate budget activities, and for transitioning from incremental funding to full funding for fiscal years after fiscal year 2010.”
+Pub. L. 110–181, div. A, title II, § 223, Jan. 28, 2008, 122 Stat. 39, as amended by Pub. L. 112–81, div. A, title II, § 231(b)(2), Dec. 31, 2011, 125 Stat. 1339, provided that: “(a) Revised Budget Structure.—The budget justification materials submitted to Congress in support of the Department of Defense budget for any fiscal year after fiscal year 2009 (as submitted with the budget of the President under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code) shall set forth separately amounts requested for the Missile Defense Agency for each of the following:“(1) Research, development, test, and evaluation. “(2) Procurement. “(3) Operation and maintenance. “(4) Military construction. “(b) Revised Budget Structure for Fiscal Year 2009.—The budget justification materials submitted to Congress in support of the Department of Defense budget for fiscal year 2009 (as submitted with the budget of the President under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code) shall—“(1) identify all known and estimated operation and support costs; and “(2) set forth separately amounts requested for the Missile Defense Agency for each of the following:“(A) Research, development, test, and evaluation. “(B) Procurement or advance procurement of long lead items, including for Terminal High Altitude Area Defense firing units 3 and 4, and for Standard Missile-3 Block 1A interceptors. “(C) Military construction. “(c) Availability of RDT&E Funds for Fiscal Year 2009.—Upon approval by the Secretary of Defense, and consistent with the plan submitted under subsection (f), funds appropriated pursuant to an authorization of appropriations or otherwise made available for fiscal year 2009 for research, development, test, and evaluation for the Missile Defense Agency—“(1) may be used for the fielding of ballistic missile defense capabilities approved previously by Congress; and “(2) may not be used for—“(A) military construction activities; or “(B) procurement or advance procurement of long lead items, including for Terminal High Altitude Area Defense firing units 3 and 4, and for Standard Missile-3 Block 1A interceptors. “(d) Full Funding Requirement Not Applicable to Use of Procurement Funds for Fiscal Years 2009 and 2010.—In any case in which funds appropriated pursuant to an authorization of appropriations or otherwise made available for procurement for the Missile Defense Agency for fiscal years 2009 and 2010 are used for the fielding of ballistic missile defense capabilities, the funds may be used for the fielding of those capabilities on an ‘incremental’ basis, notwithstanding any law or policy of the Department of Defense that would otherwise require a ‘full funding’ basis. “(e) Relationship to Other Law.—Nothing in this provision shall be construed to alter or otherwise affect in any way the applicability of the requirements and other provisions of section 234(a) through (d) of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 (Public Law 108–375; 118 Stat. 1837; [former] [10 U.S.C. 2431](./chapter-chapter-144-chapter-chapter-144.md#section-2431) note). “(f) Plan Required.—Not later than March 1, 2008, the Director of the Missile Defense Agency shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a plan for transitioning the Missile Defense Agency from using exclusively research, development, test, and evaluation funds to using procurement, military construction, operations and maintenance, and research, development, test, and evaluation funds for the appropriate budget activities, and for transitioning from incremental funding to full funding for fiscal years after fiscal year 2010.”
 
 #### References to New Name for Ballistic Missile Defense Organization
 Pub. L. 107–314, div. A, title II, § 225(a), Dec. 2, 2002, 116 Stat. 2486, provided that: “Any reference to the Ballistic Missile Defense Organization in any provision of law, regulation, map, document, record, or other paper of the United States shall be considered to be a reference to the Missile Defense Agency.”
@@ -829,7 +830,7 @@ A prior section 226, added Pub. L. 102–190, div. A, title X, § 1002(a)(1), De
 
 Subsec. (a)(1) to (4). Pub. L. 116–283, § 1002(1)(E), added pars. (1) to (4).
 
-Subsecs. (b), (c). Pub. L. 116–283, § 1002(2), (3), added new subsec. (b) and redesignated former subsec. (b) as (c).
+Subsecs. (b), (c). Pub. L. 116–283, § 1002(2), (3), added subsec. (b) and redesignated former subsec. (b) as (c).
 
 
 <a id="section-227"></a>
@@ -932,6 +933,12 @@ Section, added Pub. L. 106–65, div. A, title X, § 1041(a)(1), Oct. 5, 1999, 1
 
   (F) The estimated operations and sustainment costs required to support the vessels delivered under the naval vessel construction plan.
 
+  (G) The expected service life of each vessel in the naval vessel force provided for under the naval vessel construction plan, disaggregated by ship class, and the rationale for any changes to such expectations from the previous year’s plan.
+
+  (H) A certification by the appropriate Senior Technical Authority designated under [section 8669b of this title](./chapter-863-naval-vessels.md#section-8669b) of the expected service life of each vessel in the naval vessel force provided for under the naval vessel construction plan, disaggregated by ship class, and the rationale for any changes to such expectations from the previous year’s plan.
+
+  (I) For each battle force ship planned to be inactivated during the five-year period beginning on the date of the submittal of the report, a description of the planned disposition of each such ship following such inactivation and the potential gaps in warfighting capability that will result from such ship being removed from service.
+
 **(c) Assessment When Annual Naval Vessel Construction Plan Does Not Meet Force Structure Requirements.—** If the annual naval vessel construction plan for a fiscal year under subsection (b) does not result in a force structure or capabilities that meet the requirements identified in subsection (b)(2)(B), the Secretary shall include with the defense budget materials for that fiscal year an assessment of the extent of the strategic and operational risk to national security associated with the reduced force structure of naval vessels over the period of time that the required force structure or capabilities are not achieved. Such assessment shall include an analysis of whether the risks are acceptable, and plans to mitigate such risks. Such assessment shall be coordinated in advance with the commanders of the combatant commands and the Nuclear Weapons Council under [section 179 of this title](./chapter-007-boards-councils-and-committees.md#section-179).
 
 **(d) CBO Evaluation.—** Not later than 60 days after the date on which the congressional defense committees receive the plan under subsection (a)(1), the Director of the Congressional Budget Office shall submit to such committees a report assessing the sufficiency of the estimated levels of annual funding included in such plan with respect to the budget submitted during the year in which the plan is submitted and the future-years defense program submitted under [section 221 of this title](./chapter-009-defense-budget-matters.md#section-221).
@@ -954,6 +961,8 @@ Section, added Pub. L. 106–65, div. A, title X, § 1041(a)(1), Oct. 5, 1999, 1
 
 (5) The term “auxiliary vessel” means any ship designed to operate in the open ocean in a variety of sea states to provide general support to either combatant forces or shore based establishments.
 
+(6) The term “expected service life” means the number of years a naval vessel is expected to be in service.
+
 ### Statutory Notes
 
 #### Amendments
@@ -963,11 +972,15 @@ Subsec. (a). Pub. L. 116–283, § 1021(1)(A), substituted “Secretary of the N
 
 Subsec. (a)(1). Pub. L. 116–283, § 1021(1)(B), struck out “and” after colon at end.
 
+Subsec. (b)(2)(G) to (I). Pub. L. 117–81, § 1011(a)(1), added subpars. (G) to (I).
+
 Subsec. (e)(1). Pub. L. 116–283, § 1021(2)(A), substituted “the Secretary of Defense may not use more than 25 percent of the funds” for “the Secretary of the Navy may not use more than 50 percent of the funds”.
 
 Subsec. (e)(2). Pub. L. 116–283, § 1021(2)(B), substituted “Secretary of Defense” for “Secretary of the Navy” and “operation and maintenance, Defense-wide” for “operation and maintenance, Navy” and inserted “, that remain available for obligation or expenditure as of the date on which the plan and certification under subsection (a) are required to be submitted” before period at end.
 
 Subsec. (f)(3). Pub. L. 116–283, § 1081(a)(13)(B), substituted “section 113(g)” for “section 118”.
+
+Subsec. (f)(6). Pub. L. 117–81, § 1011(a)(2), added par. (6).
 
 2018—Subsec. (b)(2)(F). Pub. L. 115–232 added subpar. (F).
 
@@ -1067,7 +1080,7 @@ For termination, effective Dec. 31, 2021, of provisions of this section requirin
 
   (F) An assessment by the Secretary of Defense of the extent to which the combined aircraft forces of the Department of the Army, the Department of the Navy, and the Department of the Air Force meet the national security requirements of the United States.
 
-(3) For any cost estimate required by subparagraph (C) or (D) of paragraph (2) for any aircraft program for which the Secretary is required to include in a report under [section 2432 of this title](./chapter-144-major-defense-acquisition-programs.md#section-2432), the source of the cost information used to prepare the annual aircraft plan shall be derived from the Selected Acquisition Report data that the Secretary plans to submit to the congressional defense committees in accordance with subsection (f) of that section for the year for which the annual aircraft procurement plan is prepared.
+(3) For any cost estimate required by subparagraph (C) or (D) of paragraph (2) for any aircraft program for which the Secretary is required to include in a report under section 2432 11 See References in Text note below. of this title, the source of the cost information used to prepare the annual aircraft plan shall be derived from the Selected Acquisition Report data that the Secretary plans to submit to the congressional defense committees in accordance with subsection (f) of that section for the year for which the annual aircraft procurement plan is prepared.
 
 (4) Each annual aircraft procurement plan shall be submitted in unclassified form, and shall contain a classified annex. A summary version of the unclassified report shall be made available to the public.
 
@@ -1077,7 +1090,7 @@ For termination, effective Dec. 31, 2021, of provisions of this section requirin
 
 (1) As part of the annual plan and certification required to be submitted under this section, the Secretary shall include a report on the aircraft in the inventory of the Department of Defense.
 
-(2) Each report under paragraph (1) shall include the following, for the year covered by such report, the following: 11 So in original.
+(2) Each report under paragraph (1) shall include the following, for the year covered by such report, include:
 
   (A) The total number of aircraft in the inventory.
 
@@ -1113,14 +1126,16 @@ For termination, effective Dec. 31, 2021, of provisions of this section requirin
 
 ### Statutory Notes
 
-#### Amendment of Section
-Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, except as otherwise provided in title XVIII of Pub. L. 116–283, in title 10, United States Code, each reference in the text of such title to a source section that is redesignated by title XVIII of Pub. L. 116–283, is amended by striking such reference and inserting a reference to the appropriate section as so redesignated. See 2021 Amendment note below.
+#### References in Text
+[Section 2432 of this title](./chapter-chapter-144-chapter-chapter-144.md#section-2432), referred to in subsec. (c)(3), was renumbered as [section 4351 of this title](./chapter-324-selected-acquisition-reports.md#section-4351) by Pub. L. 116–283, div. A, title XVIII, § 1849(b), (c), (d)(1), (e)(1), (f)(1), (g), (h)(1), (i), (j), (k)(1), Jan. 1, 2021, 134 Stat. 4259–4263, as amended by Pub. L. 117–81, div. A, title XVII, § 1701(o)(1)(B), (3), (4), (5)(A), Dec. 27, 2021, 135 Stat. 2146, 2147.
 
 #### Prior Provisions
 A prior section 231a, added Pub. L. 110–417, [div. A], title I, § 141(a), Oct. 14, 2008, 122 Stat. 4379; amended Pub. L. 112–81, div. A, title X, § 1069(a), (b), Dec. 31, 2011, 125 Stat. 1589, 1591; Pub. L. 113–66, div. A, title X, § 1091(a)(5), Dec. 26, 2013, 127 Stat. 875; Pub. L. 113–291, div. A, title X, § 1071(c)(2), Dec. 19, 2014, 128 Stat. 3508; Pub. L. 114–328, div. A, title I, § 137, Dec. 23, 2016, 130 Stat. 2039, set forth provisions providing for the annual budgeting for life-cycle cost of specified aircraft for the Navy, Army, and Air Force, prior to repeal by Pub. L. 115–232, div. A, title VIII, § 813(a)(1)(A), Aug. 13, 2018, 132 Stat. 1851.
 
 #### Amendments
 2021—Subsec. (c)(3). Pub. L. 116–283, § 1883(b)(2), which directed that each reference in the text of title 10 to a section that was redesignated by title XVIII of Pub. L. 116–283, as such section was in effect before the redesignation, be amended by striking such reference and inserting a reference to the appropriate redesignated section, was not executed with respect to “section 2432”, which was redesignated as multiple sections.
+
+Subsec. (e)(2). Pub. L. 117–81, which directed the substitution of “include” for “include the following,”, was executed by substituting “include” for “the following” to reflect the probable intent of Congress.
 
 #### Effective Date of 2021 Amendment
 Amendment by section 1883(b)(2) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -1185,31 +1200,13 @@ Section, added Pub. L. 108–375, div. A, title II, § 214(a), Oct. 28, 2004, 11
 
 
 <a id="section-235"></a>
-## § 235. Procurement of contract services: specification of amounts requested in budget
-**(a) Submission With Annual Budget Justification Materials.—** In the budget justification materials submitted to Congress in support of the Department of Defense budget for any fiscal year (as submitted with the budget of the President under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim)), the Secretary of Defense shall include the information described in subsection (b) with respect to the procurement of contract services.
-
-**(b) Information Provided.—** For each budget account, the materials submitted shall clearly and separately identify—
-
-(1) the amount requested for the procurement of contract services for each Department of Defense component, installation, or activity; and
-
-(2) the number of full-time contractor employees (or the equivalent of full-time in the case of part-time contractor employees) projected and justified for each Department of Defense component, installation, or activity based on the inventory of contracts for services required by subsection (c) of [section 2330a of this title](./chapter-137-procurement-generally.md#section-2330a) and the review required by subsection (e) of such section.
-
-**(c) Contract Services Defined.—** In this section, the term “contract services”—
-
-(1) means services from contractors; but
-
-(2) excludes services relating to research and development and services relating to military construction.
+## § 235. Repealed. Pub. L. 117–81, div. A, title VIII, § 815(b)(1), Dec. 27, 2021, 135 Stat. 1825]
 
 ### Statutory Notes
 
-#### Renumbering of Section
-Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1809(h)(1), Jan. 1, 2021, 134 Stat. 4151, 4162, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is renumbered [section 3137 of this title](./chapter-207-budgeting-and-appropriations.md#section-3137). See Effective Date of 2021 Amendment note below.
+Section, added Pub. L. 111–84, div. A, title VIII, § 803(a)(1), Oct. 28, 2009, 123 Stat. 2401, related to the specification of amounts requested in the Department of Defense budget with respect to the procurement of contract services submitted to Congress in the budget justification materials.
 
-#### Prior Provisions
 Provisions similar to those in this section were contained in Pub. L. 110–181, div. A, title VIII, § 806, Jan. 28, 2008, 122 Stat. 213, which was set out as a note under [section 221 of this title](./chapter-009-defense-budget-matters.md#section-221), prior to repeal by Pub. L. 111–84, § 803(a)(3).
-
-#### Effective Date of 2021 Amendment
-Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 
 <a id="section-236"></a>
@@ -1280,7 +1277,7 @@ The Secretary of Defense shall submit to Congress, as a part of the documentatio
 #### Amendments
 2021—Subsec. (a). Pub. L. 116–283, § 1701(2)(A)(i), substituted “2021” for “2017” and inserted “, in electronic and print formats,” after “display” in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 116–283, § 1701(2)(A)(ii), inserted “and the cyberspace operations forces” before semicolon.
+Subsec. (a)(1). Pub. L. 116–283, § 1701(2)(A)(ii), inserted “and the cyberspace operations forces” before the semicolon.
 
 Subsec. (a)(2). Pub. L. 116–283, § 1701(2)(A)(iii), inserted “and the cyberspace operations forces” before period at end.
 
@@ -1373,3 +1370,44 @@ Pub. L. 114–92, div. A, title XVI, § 1601(b), Nov. 25, 2015, 129 Stat. 1096, 
 (1) The term “budget” has the meaning given that term in [section 231(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section231/f&num=0&edition=prelim).
 
 (2) The term “defense budget materials” has the meaning given that term in [section 231(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section231/f&num=0&edition=prelim).
+
+
+<a id="section-239c"></a>
+## § 239c. Certain multiyear contracts for acquisition of property: budget justification materials
+**(a) In General.—** In the budget justification materials submitted to Congress in support of the Department of Defense budget for fiscal year 2023 and each fiscal year thereafter (as submitted with the budget of the President under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim)), the Secretary of Defense shall include a proposal for any multiyear contract of the Department entered into under [section 3501 of this title](./chapter-249-multiyear-contracts.md#section-3501) that—
+
+(1) the head of an agency intends to cancel during the fiscal year; or
+
+(2) with respect to which the head of an agency intends to effect a covered modification during the fiscal year.
+
+**(b) Elements.—** Each proposal required by subsection (a) shall include the following:
+
+(1) A detailed assessment of any expected termination costs associated with the proposed cancellation or covered modification of the multiyear contract.
+
+(2) An updated assessment of estimated savings of such cancellation or carrying out the multiyear contract as modified by such covered modification.
+
+(3) An explanation of the proposed use of previously appropriated funds for advance procurement or procurement of property planned under the multiyear contract before such cancellation or covered modification.
+
+(4) An assessment of expected impacts of the proposed cancellation or covered modification on the defense industrial base, including workload stability, loss of skilled labor, and reduced efficiencies.
+
+**(c) Definitions.—** In this section:
+
+(1) The term “covered modification” means a modification that will result in a reduction in the quantity of end items to be procured.
+
+(2) The term “head of an agency” means—
+
+  (A) the Secretary of Defense;
+
+  (B) the Secretary of the Army;
+
+  (C) the Secretary of the Navy; or
+
+  (D) the Secretary of the Air Force.
+
+### Statutory Notes
+
+#### Amendments
+2021—Subsec. (a). Pub. L. 116–283, which directed that each reference in the text of title 10 to a section that was redesignated by title XVIII of Pub. L. 116–283, as such section was in effect before the redesignation, be amended by striking such reference and inserting a reference to the appropriate redesignated section, was executed by substituting “section 3501” for “section 2306b”. Section 1822(b) of title XVIII of Pub. L. 116–283 directed the redesignation of [section 2306b of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2306b&num=0&edition=prelim) as section 3501, but such redesignation was executed by transferring the text of section 2306b to section 3501, as the section designation and catchline had already been enacted.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).

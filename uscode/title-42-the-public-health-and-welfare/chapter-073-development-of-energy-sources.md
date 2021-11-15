@@ -742,8 +742,6 @@ The Atomic Energy Act of 1954, as amended, referred to in subsec. (g), is act Au
 Subsec. (c). Pub. L. 94–79, §§ 202, 203, provided for appointment for remainder of term where vacancy occurs prior to expiration of term of predecessor appointee and designated July 1, 1975, as commencement date of initial appointees for purpose of determining expiration date of terms of office.
 
 #### Transfer of Functions
-For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg. Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out below.
-
 Energy Research and Development Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of this title.
 
 #### Transportation of Plutonium by Aircraft Through United States Air Space
@@ -760,6 +758,9 @@ Pub. L. 95–601, § 7, Nov. 6, 1978, 92 Stat. 2950, directed Commission to unde
 
 #### Plutonium Shipments Restrictions
 Pub. L. 94–79, title II, § 201, Aug. 9, 1975, 89 Stat. 413, provided in part that: “The Nuclear Regulatory Commission shall not license any shipments by air transport of plutonium in any form, whether exports, imports or domestic shipments: Provided, however, That any plutonium in any form contained in a medical device designed for individual human application is not subject to this restriction. This restriction shall be in force until the Nuclear Regulatory Commission has certified to the Joint Committee on Atomic Energy of the Congress that a safe container has been developed and tested which will not rupture under crash and blast-testing equivalent to the crash and explosion of a high-flying aircraft.”
+
+#### Transfer of Functions
+For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg. Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out below.
 
 #### 45 F.R. 40561, 94 Stat. 3585
 Prepared by the President and submitted to the Senate and the House of Representatives in Congress assembled March 27, 1980,11 As amended May 5, 1980. pursuant to the provisions of Chapter 9 of Title 5 of the United States Code.
@@ -946,9 +947,6 @@ The effective date of this chapter, referred to in par. (2), refers to the effec
 #### Amendments
 1998—Par. (5). Pub. L. 105–261 added par. (5).
 
-#### Transfer of Functions
-For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg. Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out as a note under [section 5841 of this title](./chapter-073-development-of-energy-sources.md#section-5841).
-
 #### Availability of Funds for Licensing by NRC
 Pub. L. 105–261, div. C, title XXXI, § 3134(b), Oct. 17, 1998, 112 Stat. 2247, provided that: “Section 210 of the Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1981 ([42 U.S.C. 7272](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7272&num=0&edition=prelim) [now [50 U.S.C. 2513](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2513&num=0&edition=prelim)]) shall not apply to any licensing activities required pursuant to section 202(5) of the Energy Reorganization Act of 1974 ([42 U.S.C. 5842](./chapter-073-development-of-energy-sources.md#section-5842)), as added by subsection (a).”
 
@@ -960,6 +958,9 @@ Pub. L. 96–295, title III, § 305(a), June 30, 1980, 94 Stat. 790, provided th
 
 #### Study of Extension of Licensing and Regulatory Authority of Commission; Report to Congress
 Pub. L. 95–601, § 12, Nov. 6, 1978, 92 Stat. 2953, directed Commission, in cooperation with Department of Energy, to conduct a study of extending the Commission’s licensing or regulatory authority to include categories of existing and future Federal radioactive waste storage and disposal activities not presently subject to such authority, and on or before Mar. 1, 1979, to submit a report to Congress containing results of study, which report was to include a complete listing and inventory of all radioactive waste storage and disposal activities being conducted or planned by Federal agencies.
+
+#### Transfer of Functions
+For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg. Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out as a note under [section 5841 of this title](./chapter-073-development-of-energy-sources.md#section-5841).
 
 
 <a id="section-5844"></a>
@@ -1131,11 +1132,11 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 #### Termination of Reporting Requirements
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 9th item on page 186 identifies a reporting provision which, as subsequently amended, is contained in this section), see section 3003 of Pub. L. 104–66, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance.
 
-#### Transfer of Functions
-For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg. Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out as a note under [section 5841 of this title](./chapter-073-development-of-energy-sources.md#section-5841).
-
 #### President’s Commission on the Accident at Three Mile Island; Subpena Power
 Pub. L. 96–12, May 23, 1979, 93 Stat. 26, which authorized the President’s Commission on the Accident at Three Mile Island, as established by Ex. Ord. No. 12130, Apr. 11, 1979, 44 F.R. 22027, formerly set out below, to issue subpenas requiring the attendance and testimony of witnesses and the produce of any evidence from the Nuclear Regulatory Commission or any person which related to the accident at Three Mile Island, and to issue orders for the inspection of the Three Mile Island nuclear power plant, with refusal to obey a subpena or inspection order punishable by contempt of court.
+
+#### Transfer of Functions
+For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg. Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out as a note under [section 5841 of this title](./chapter-073-development-of-energy-sources.md#section-5841).
 
 #### Executive Order No. 12130
 Ex. Ord. No. 12130, Apr. 11, 1979, 44 F.R. 22027, which established the President’s Commission on the Accident at Three Mile Island and provided for its functions, administration, final report, and termination, was revoked by section 1–103(h) of Ex. Ord. No. 12258, Dec. 31, 1980, 46 F.R. 1252, formerly set out as a note under section 14 of the Appendix to Title 5, Government Organization and Employees.
@@ -1454,9 +1455,10 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 References to “at the time this chapter takes effect” in subsec. (b)(2), “the date this chapter takes effect” in subsec. (d)(1), “date on which this chapter takes effect” in subsec. (f), and “the effective date of this chapter” in subsecs. (g), (h), (i), and (k), refer to the effective date of Pub. L. 93–438. See section 312 of Pub. L. 93–438, set out as an Effective Date; Interim Appointments note under [section 5801 of this title](./chapter-073-development-of-energy-sources.md#section-5801).
 
 #### Transfer of Functions
-For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg. Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out as a note under [section 5841 of this title](./chapter-073-development-of-energy-sources.md#section-5841).
-
 Energy Research and Development Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of this title.
+
+#### Transfer of Functions
+For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg. Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out as a note under [section 5841 of this title](./chapter-073-development-of-energy-sources.md#section-5841).
 
 
 <a id="section-5873"></a>
@@ -1571,12 +1573,13 @@ For transfer of certain functions from Nuclear Regulatory Commission to Chairman
 For termination, effective May 15, 2000, of provisions in subsec. (c) of this section relating to submission of annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and the 10th item on page 186 of House Document No. 103–7.
 
 #### Transfer of Functions
-For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg. Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out as a note under [section 5841 of this title](./chapter-073-development-of-energy-sources.md#section-5841).
-
 Energy Research and Development Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of this title.
 
 #### Description in Report Respecting Decontamination, Etc., Collaborative Efforts at Three Mile Island Unit 2
-Pub. L. 97–415, § 10(c), Jan. 4, 1983, 96 Stat. 2071, provided that: “The Nuclear Regulatory Commission shall include in its annual report to the Congress under section 307(c) of the Energy Reorganization Act of 1974 ([42 U.S.C. 5877(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5877/c&num=0&edition=prelim)) as a separate chapter a description of the collaborative efforts undertaken, or proposed to be undertaken, by the Commission and the Department of Energy with respect to the decontamination, cleanup, repair, or rehabilitation of facilities at Three Mile Island Unit 2.”
+Pub. L. 97–415, § 10(c), Jan. 4, 1983, 96 Stat. 2071, directed the Nuclear Regulatory Commission to include in its annual report to Congress under subsec. (c) of this section as a separate chapter a description of the collaborative efforts by the Commission and the Department of Energy with respect to the decontamination, cleanup, repair, or rehabilitation of facilities at Three Mile Island Unit 2.
+
+#### Transfer of Functions
+For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg. Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out as a note under [section 5841 of this title](./chapter-073-development-of-energy-sources.md#section-5841).
 
 
 <a id="section-5878a"></a>

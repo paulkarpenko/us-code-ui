@@ -349,11 +349,11 @@ Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applic
 #### Repeals
 Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
 
-#### Transfer of Functions
-Certain functions of Council of Economic Advisers transferred to Chairman, see 1953 Reorg. Plan No. 9, eff. Aug. 1, 1953, 18 F.R. 4542, set out below. 1953 Reorg. Plan No. 9 also abolished office of Vice Chairman.
-
 #### Termination of Advisory Committees
 Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Transfer of Functions
+Certain functions of Council of Economic Advisers transferred to Chairman, see 1953 Reorg. Plan No. 9, eff. Aug. 1, 1953, 18 F.R. 4542, set out below. 1953 Reorg. Plan No. 9 also abolished office of Vice Chairman.
 
 #### REORGANIZATION PLAN NO. 9 OF 1953Eff. Aug. 1, 1953, 18 F.R. 4543, 67 Stat. 644
 Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, June 1, 1953, pursuant to the provisions of the Reorganization Act of 1949, approved June 20, 1949, as amended [see [5 U.S.C. 901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section901&num=0&edition=prelim) et seq.].

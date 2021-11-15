@@ -345,9 +345,9 @@ This chapter, referred to in subsecs. (a), (b), and (d), was in the original “
 
 
 <a id="section-6553"></a>
-## § 6553. Sunset of United States Advisory Commission on Public Diplomacy
+## § 6553. Continuation of United States Advisory Commission on Public Diplomacy
 
-The United States Advisory Commission on Public Diplomacy, established under [section 1469 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1469) and section 8 of Reorganization Plan Numbered 2 of 1977, shall continue to exist and operate under such provisions of law until October 1, 2021.
+The United States Advisory Commission on Public Diplomacy, established under [section 1469 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1469) and section 8 of Reorganization Plan Numbered 2 of 1977, shall continue to exist and operate under such provisions of law.
 
 ### Statutory Notes
 
@@ -355,6 +355,8 @@ The United States Advisory Commission on Public Diplomacy, established under [se
 Section 8 of Reorganization Plan Numbered 2 of 1977, referred to in text, is set out as a note under [section 1461 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1461) and in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+2021—Pub. L. 117–81 substituted “Continuation” for “Sunset” in section catchline and struck out “until October 1, 2021” after “provisions of law” in text.
+
 2020—Pub. L. 116–159 substituted “October 1, 2021” for “October 1, 2020”.
 
 2016—Pub. L. 114–323 substituted “October 1, 2020” for “October 1, 2015”.

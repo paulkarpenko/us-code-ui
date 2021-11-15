@@ -10,19 +10,19 @@ source: >-
 ## § 11201. Eligibility for veterans’ burial and cemetery benefits
 **(a) Eligibility.—**
 
-(1) **In general.—** — The qualified service of a person referred to in paragraph (2) shall be considered to be active duty in the Armed Forces during a period of war for purposes of eligibility for benefits under the following provisions of title 38:
+(1) **In general.—** — The qualified service of an individual referred to in paragraph (2) shall be considered to be active duty in the Armed Forces during a period of war for purposes of eligibility for benefits under the following provisions of title 38:
 
   (A) Chapter 23 (relating to burial benefits).
 
   (B) Chapter 24 (relating to interment in national cemeteries).
 
-(2) **Covered individuals.—** — Paragraph (1) applies to a person who—
+(2) **Covered individuals.—** — Paragraph (1) applies to an individual who—
 
   (A) receives an honorable service certificate under [section 11203 of this title](./chapter-112-merchant-mariner-benefits.md#section-11203); and
 
   (B) is not eligible under any other provision of law for benefits under laws administered by the Secretary of Veterans Affairs.
 
-**(b) Reimbursement for Benefits Provided.—** The Secretary shall reimburse the Secretary of Veterans Affairs for the value of benefits that the Secretary of Veterans Affairs provides for a person by reason of eligibility under this section.
+**(b) Reimbursement for Benefits Provided.—** The Secretary shall reimburse the Secretary of Veterans Affairs for the value of benefits that the Secretary of Veterans Affairs provides for an individual by reason of eligibility under this section.
 
 **(c) Applicability.—**
 
@@ -35,11 +35,14 @@ source: >-
 #### References in Text
 The date of the enactment of this chapter, referred to in subsec. (c), is the date of enactment of Pub. L. 105–368, which was approved Nov. 11, 1998.
 
+#### Amendments
+2021—Pub. L. 116–283 substituted “an individual” for “a person” wherever appearing.
+
 
 <a id="section-11202"></a>
 ## § 11202. Qualified service
 
-For purposes of this chapter, a person shall be considered to have engaged in qualified service if, between August 16, 1945, and December 31, 1946, the person—
+For purposes of this chapter, an individual shall be considered to have engaged in qualified service if, between August 16, 1945, and December 31, 1946, the individual—
 
 (1) was a member of the United States merchant marine (including the Army Transport Service and the Naval Transport Service) serving as a crewmember of a vessel that was—
 
@@ -51,27 +54,37 @@ For purposes of this chapter, a person shall be considered to have engaged in qu
 
   (D) serving the Armed Forces; and
 
-(2) while so serving, was licensed or otherwise documented for service as a crewmember of such a vessel by an officer or employee of the United States authorized to license or document the person for such service.
+(2) while so serving, was licensed or otherwise documented for service as a crewmember of such a vessel by an officer or employee of the United States authorized to license or document the individual for such service.
+
+### Statutory Notes
+
+#### Amendments
+2021—Pub. L. 116–283 substituted “an individual” for “a person” in introductory provisions and “the individual” for “the person” in introductory provisions and in par. (2).
 
 
 <a id="section-11203"></a>
 ## § 11203. Documentation of qualified service
 **(a) Record of Service.—** The Secretary, or in the case of personnel of the Army Transport Service or the Naval Transport Service, the Secretary of Defense, shall, upon application—
 
-(1) issue a certificate of honorable service to a person who, as determined by that Secretary, engaged in qualified service of a nature and duration that warrants issuance of the certificate; and
+(1) issue a certificate of honorable service to an individual who, as determined by that Secretary, engaged in qualified service of a nature and duration that warrants issuance of the certificate; and
 
-(2) correct, or request the appropriate official of the Federal Government to correct, the service records of that person to the extent necessary to reflect the qualified service and the issuance of the certificate of honorable service.
+(2) correct, or request the appropriate official of the Federal Government to correct, the service records of that individual to the extent necessary to reflect the qualified service and the issuance of the certificate of honorable service.
 
 **(b) Timing of Documentation.—** A Secretary receiving an application under subsection (a) shall act on the application not later than 1 year after the date of that receipt.
 
 **(c) Standards Relating to Service.—** In making a determination under subsection (a)(1), the Secretary acting on the application shall apply the same standards relating to the nature and duration of service that apply to the issuance of honorable discharges under section 401(a)(1)(B) of the GI Bill Improvement Act of 1977 ([38 U.S.C. 106](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section106&num=0&edition=prelim) note).
 
-**(d) Correction of Records.—** An official who is requested under subsection (a)(2) to correct the service records of a person shall make such correction.
+**(d) Correction of Records.—** An official who is requested under subsection (a)(2) to correct the service records of an individual shall make such correction.
 
 ### Statutory Notes
 
 #### References in Text
 Section 401(a)(1)(B) of the GI Bill Improvement Act of 1977, referred to in subsec. (c), is section 401(a)(1)(B) of Pub. L. 95–202, which is set out as a note under [section 106 of Title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section106&num=0&edition=prelim), Veterans’ Benefits.
+
+#### Amendments
+2021—Pub. L. 116–283, § 8505(b)(13)(A), substituted “an individual” for “a person” in subsecs. (a)(1) and (d).
+
+Subsec. (a)(2). Pub. L. 116–283, § 8505(b)(13)(B), substituted “that individual” for “that person”.
 
 
 <a id="section-11204"></a>

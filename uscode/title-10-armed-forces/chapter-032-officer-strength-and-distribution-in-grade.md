@@ -520,7 +520,21 @@ Pub. L. 97–252, title XI, § 1116, Sept. 8, 1982, 96 Stat. 750.
 
 (2) the number of general officers and flag officers in joint duty assignments who, as of such January 1, counted toward the statutory limit under subsection (b)(1).
 
-**(k) Cessation of Applicability.—** The provisions of this section shall not apply to the number of general officers and flag officers in the armed forces after December 31, 2022. For provisions applicable to the number of such officers after that date, see [section 526a of this title](./chapter-032-officer-strength-and-distribution-in-grade.md#section-526a).
+**(k) Transfer of Authorizations Among the Military Services.—**
+
+(1) The Secretary of Defense may increase the maximum number of brigadier generals or major generals in the Army, Air Force, Marine Corps, or Space Force, or rear admirals (lower half) or rear admirals in the Navy, allowed under subsection (a) and [section 525 of this title](./chapter-032-officer-strength-and-distribution-in-grade.md#section-525), and the President may appoint officers in the equivalent grades equal to the number increased by the Secretary of Defense, if each appointment is made in conjunction with an offsetting reduction under paragraph (2).
+
+(2) For each increase and appointment made under the authority of paragraph (1) in the Army, Navy, Air Force, Marine Corps, or Space Force, the number of appointments that may be made in the equivalent grade in one of the other armed forces (other than the Coast Guard) shall be reduced by one. When such an increase and appointment is made, the Secretary of Defense shall specify the armed force in which the reduction required by this paragraph is to be made.
+
+(3) The total number of general officers and flag officers increased under paragraph (1), combined with the total number of general officers and flag officers increased under section 526a(i)(1) 11 See References in Text note below. of this title, may not exceed 15 at any one time.
+
+(4) The Secretary may not increase the maximum number of general officers or flag officers under paragraph (1) until the date that is 30 days after the date on which the Secretary provides, to the Committees on Armed Services of the Senate and the House of Representatives, written notice of—
+
+  (A) such increase; and
+
+  (B) each offsetting reduction under paragraph (2), specifying the armed force and billet so reduced.
+
+**(l) Cessation of Applicability.—** The provisions of this section shall not apply to the number of general officers and flag officers in the armed forces after December 31, 2022. For provisions applicable to the number of such officers after that date, see [section 526a of this title](./chapter-032-officer-strength-and-distribution-in-grade.md#section-526a).
 
 ### Statutory Notes
 
@@ -529,11 +543,16 @@ Section is based on Pub. L. 95–79, title VIII, § 811(a), July 30, 1977, 91 St
 
 Present law (section 811(a) of Public Law 95–79, as amended) provides that the authority to suspend the limitation on the number of general and flag officers who may be serving on active duty applies during war or national emergency. In codifying the limitation (in [section 526 of title 10](./chapter-032-officer-strength-and-distribution-in-grade.md#section-526) as proposed to be added by section 1(b) of the bill), the committee determined that the same war and emergency waiver authority as applies to other limitations on the number of officers on active duty under the existing [10 U.S.C. 526](./chapter-032-officer-strength-and-distribution-in-grade.md#section-526) (redesignated as [10 U.S.C. 527](./chapter-032-officer-strength-and-distribution-in-grade.md#section-527) by the bill) should apply with respect to this limitation and accordingly amended the suspension authority in present law to include the codified general and flag officer limitation. This authority is slightly different from the waiver authority in the source law in that the suspension would expire 2 years after it takes effect or 1 year after the end of the war or national emergency, whichever occurs first, rather than upon termination of the war or emergency.
 
+#### References in Text
+[Section 526a(i)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section526a/i/1&num=0&edition=prelim), referred to in subsec. (k)(3), probably means subsec. (i)(1) of [section 526a of this title](./chapter-032-officer-strength-and-distribution-in-grade.md#section-526a) as added by section 501(b) of Pub. L. 117–81, div. A, title V, Dec. 27, 2021, 135 Stat. 1679.
+
 #### Prior Provisions
 A prior section 526 was renumbered [section 527 of this title](./chapter-032-officer-strength-and-distribution-in-grade.md#section-527).
 
 #### Amendments
 2021—Subsec. (b)(3)(A). Pub. L. 116–283 substituted “19” for “20”.
+
+Subsecs. (k), (l). Pub. L. 117–81 added subsec. (k) and redesignated former subsec. (k) as (l).
 
 2019—Subsec. (k). Pub. L. 116–92 inserted “the” before “number of general officers”.
 
@@ -748,16 +767,34 @@ Pub. L. 110–417, [div. A], title V, § 503(e), Oct. 14, 2008, 122 Stat. 4434, 
 
   (B) the actual number of general officers and flag officers who, as of January 1, 2023, were in joint duty assignments counted toward the statutory limit under subsection (b)(1).
 
-**(i) Annual Report.—** Not later than March 1 each year, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report specifying the following:
+**(i) 11 So in original. Two subsecs. (i) have been enacted. Annual Report.—** Not later than March 1 each year, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report specifying the following:
 
 (1) The numbers of general officers and flag officers who, as of January 1 of the calendar year in which the report is submitted, counted toward the service-specific limits of subsection (a).
 
 (2) The number of general officers and flag officers in joint duty assignments who, as of such January 1, counted toward the statutory limit under subsection (b)(1).
 
+**(i) 1 Transfer of Authorizations Among the Military Services.—**
+
+(1) The Secretary of Defense may increase the maximum number of brigadier generals or major generals in the Army, Air Force, Marine Corps, or Space Force, or rear admirals (lower half) or rear admirals in the Navy, allowed under subsection (a) and [section 525 of this title](./chapter-032-officer-strength-and-distribution-in-grade.md#section-525) and the President may appoint officers in the equivalent grades equal to the number increased by the Secretary of Defense if each appointment is made in conjunction with an offsetting reduction under paragraph (2).
+
+(2) For each increase and appointment made under the authority of paragraph (1) in the Army, Navy, Air Force, Marine Corps, or Space Force, the number of appointments that may be made in the equivalent grade in one of the other armed forces (other than the Coast Guard) shall be reduced by one. When such an increase and appointment is made, the Secretary of Defense shall specify the armed force in which the reduction required by this paragraph is to be made.
+
+(3) The total number of general officers and flag officers increased under paragraph (1), combined with the total number of general officers and flag officers increased under [section 526(k)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section526/k/1&num=0&edition=prelim), may not exceed 15 at any one time.
+
+(4) The Secretary may not increase the maximum number of general officers or flag officers under paragraph (1) until the date that is 30 days after the date on which the Secretary provides, to the Committees on Armed Services of the Senate and the House of Representatives, written notice of—
+
+  (A) such increase; and
+
+  (B) each offsetting reduction under paragraph (2), specifying the armed force and billet so reduced.
+
 ### Statutory Notes
 
 #### Amendments
-2021—Subsecs. (c) to (i). Pub. L. 116–283 added subsec. (c) and redesignated former subsecs. (c) to (h) as (d) to (i), respectively.
+2021—Subsecs. (c) to (h). Pub. L. 116–283, § 501(a), added subsec. (c) and redesignated former subsecs. (c) to (g) as (d) to (h), respectively. Former subsec. (h) redesignated (i).
+
+Subsec. (i). Pub. L. 117–81 added subsec. (i) relating to transfer of authorizations among military services.
+
+Pub. L. 116–283, § 501(a)(1), redesignated subsec. (h) as (i).
 
 
 <a id="section-527"></a>
@@ -781,14 +818,14 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 #### Effective Date
 Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under [section 101 of this title](./chapter-001-definitions.md#section-101).
 
+#### Authority To Waive Grade Strength Laws For Fiscal Year 1991; Certification; Relationship to Other Suspension Authority
+Pub. L. 102–25, title II, §§ 201(b), 202, 205(b), Apr. 6, 1991, 105 Stat. 79, 80, authorized Secretary of a military department to suspend, for fiscal year 1991, the operation of any provision of section 517, 523, 524, 525, or 526 of this title with respect to that military department, that such Secretary may exercise such authority only after submission to the congressional defense committees of a certification in writing that such authority is necessary because of personnel actions associated with Operation Desert Storm, and that such authority is in addition to the authority provided in this section.
+
 #### Delegation of Functions
 Functions of President under this section to suspend operation of sections 523, 524 [now 12011], and 525 of this title, relating to authorized strength of commissioned officers, delegated to Secretary of Defense to perform during a time of war or national emergency, without approval, ratification, or other action by President, and with authority for Secretary to redelegate, provided that, during a national emergency declared by President, the exercise of any such authority be specifically directed by President in accordance with [section 1631 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1631&num=0&edition=prelim), War and National Defense, and that Secretary ensure that actions taken pursuant to any authority so delegated be accounted for as required by [section 1641 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1641&num=0&edition=prelim), see Ex. Ord. No. 12396, §§ 2, 3, Dec. 9, 1982, 47 F.R. 55897, 55898, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
 
 #### Delegation of Authority
 Authority of President under this section as invoked by sections 2 and 3 of Ex. Ord. No. 13223, Sept. 14, 2001, 66 F.R. 48201, as amended, delegated to Secretary of Defense by section 4 of Ex. Ord. No. 13223, set out as a note under [section 12302 of this title](./chapter-1209-active-duty.md#section-12302).
-
-#### Authority To Waive Grade Strength Laws For Fiscal Year 1991; Certification; Relationship to Other Suspension Authority
-Pub. L. 102–25, title II, §§ 201(b), 202, 205(b), Apr. 6, 1991, 105 Stat. 79, 80, authorized Secretary of a military department to suspend, for fiscal year 1991, the operation of any provision of section 517, 523, 524, 525, or 526 of this title with respect to that military department, that such Secretary may exercise such authority only after submission to the congressional defense committees of a certification in writing that such authority is necessary because of personnel actions associated with Operation Desert Storm, and that such authority is in addition to the authority provided in this section.
 
 
 <a id="section-528"></a>

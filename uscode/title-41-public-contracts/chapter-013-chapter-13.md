@@ -70,7 +70,7 @@ Pub. L. 102–190, div. A, title VIII, § 809, Dec. 5, 1991, 105 Stat. 1423, as 
 ## § 1303. Functions and authority
 **(a) Functions.—**
 
-(1) **Issue and maintain federal acquisition regulation.—** — Subject to sections 1121, 1122(a) to (c)(1), 1125, 1126, 1130, 1131, and 2305 of this title, the Administrator of General Services, the Secretary of Defense, and the Administrator of National Aeronautics and Space, pursuant to their respective authorities under division C of this subtitle, chapters 4 and 137 of title 10, and the National Aeronautics and Space Act of 1958 ([42 U.S.C. 2451](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2451&num=0&edition=prelim) et seq.),11 See References in Text note below. shall jointly issue and maintain in accordance with subsection (d) a single Government-wide procurement regulation, to be known as the Federal Acquisition Regulation.
+(1) **Issue and maintain federal acquisition regulation.—** — Subject to sections 1121, 1122(a) to (c)(1), 1125, 1126, 1130, 1131, and 2305 of this title, the Administrator of General Services, the Secretary of Defense, and the Administrator of National Aeronautics and Space, pursuant to their respective authorities under division C of this subtitle, chapter 4 of title 10, chapter 137 legacy provisions (as such term is defined in [section 3016 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3016&num=0&edition=prelim)), and the National Aeronautics and Space Act of 1958 ([42 U.S.C. 2451](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2451&num=0&edition=prelim) et seq.),11 See References in Text note below. shall jointly issue and maintain in accordance with subsection (d) a single Government-wide procurement regulation, to be known as the Federal Acquisition Regulation.
 
 (2) **Limitation on other regulations.—** — Other regulations relating to procurement issued by an executive agency shall be limited to—
 
@@ -128,6 +128,9 @@ In subsection (b)(1)(B), the words “(as that term is defined in [section 3502(
 
 #### References in Text
 The National Aeronautics and Space Act of 1958, referred to in subsec. (a)(1), is Pub. L. 85–568, July 29, 1958, 72 Stat. 426, which was classified principally to chapter 26 (§ 2451 et seq.) of Title 42, The Public Health and Welfare, and was substantially repealed and restated as chapter 201 (§ 20101 et seq.) of Title 51, National and Commercial Space Programs, by Pub. L. 111–314, §§ 3, 6, Dec. 18, 2010, 124 Stat. 3328, 3444. For complete classification of this Act to the Code, see Short Title of 1958 Act note set out under [section 10101 of Title 51](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title51-section10101&num=0&edition=prelim) and Tables.
+
+#### Amendments
+2021—Subsec. (a)(1). Pub. L. 117–81 substituted “chapter 4 of title 10, chapter 137 legacy provisions (as such term is defined in [section 3016 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3016&num=0&edition=prelim))” for “chapters 4 and 137 of title 10”.
 
 
 <a id="section-1304"></a>

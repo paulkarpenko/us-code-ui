@@ -449,7 +449,7 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 (4) **Travel and transportation allowance.—**
 
-  (A) *In general.—* — Subject to subparagraph (B), a member who participates in a program is entitled, while participating in the program, to the travel and transportation allowances authorized by [section 474 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section474&num=0&edition=prelim) for—
+  (A) *In general.—* — Subject to subparagraph (B), a member who participates in a program is entitled, while participating in the program, to the travel and transportation allowances authorized by section 474 11 See References in Text note below. of title 37 for—
 
     (i) travel performed from the residence of the member, at the time of release from active duty to participate in the program, to the location in the United States designated by the member as the member’s residence during the period of participation in the program; and
 
@@ -482,6 +482,11 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 (1) the entitlement of the member and of the dependents of the member to medical and dental care under the provisions of chapter 55 of title 10; and
 
 (2) retirement or separation for physical disability under the provisions of chapter 61 of title 10 and chapters 21 and 23 of this title.
+
+### Statutory Notes
+
+#### References in Text
+[Section 474 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section474&num=0&edition=prelim), referred to in subsec. (f)(4)(A), was repealed by Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767.
 
 
 <a id="section-2521"></a>

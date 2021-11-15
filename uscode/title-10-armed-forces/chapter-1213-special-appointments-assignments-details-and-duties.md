@@ -37,7 +37,7 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 <a id="section-12503"></a>
 ## § 12503. Ready Reserve: funeral honors duty
-**(a) Order to Duty.—** A member of the Ready Reserve may be ordered to funeral honors duty, with the consent of the member, in preparation for or to perform funeral honors functions at the funeral of a veteran as defined in [section 1491 of this title](./chapter-075-deceased-personnel.md#section-1491). Performance of funeral honors duty by a Reserve not on active duty shall be treated as inactive-duty training (including with respect to travel to and from such duty) for purposes of any provision of law other than sections 206 and 495 of title 37.
+**(a) Order to Duty.—** A member of the Ready Reserve may be ordered to funeral honors duty, with the consent of the member, in preparation for or to perform funeral honors functions at the funeral of a veteran as defined in [section 1491 of this title](./chapter-075-deceased-personnel.md#section-1491). Performance of funeral honors duty by a Reserve not on active duty shall be treated as inactive-duty training (including with respect to travel to and from such duty) for purposes of any provision of law other than sections 206 and 495 11 See References in Text note below. of title 37.
 
 **(b) Service Credit.—** A member ordered to funeral honors duty under this section shall be required to perform a minimum of two hours of such duty in order to receive—
 
@@ -45,7 +45,7 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 (2) as directed by the Secretary concerned, either—
 
-  (A) the allowance under [section 495 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section495&num=0&edition=prelim); or
+  (A) the allowance under section 495 1 of title 37; or
 
   (B) compensation under [section 206 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section206&num=0&edition=prelim).
 
@@ -56,6 +56,9 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 **(e) Members of the National Guard.—** This section does not apply to members of the Army National Guard of the United States or the Air National Guard of the United States. The performance of funeral honors duty by those members is provided for in [section 115 of title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section115&num=0&edition=prelim).
 
 ### Statutory Notes
+
+#### References in Text
+[Section 495 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section495&num=0&edition=prelim), referred to in subsecs. (a) and (b)(2)(A), was renumbered [section 435 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section435&num=0&edition=prelim) by Pub. L. 116–283, div. A, title VI, § 604(b)(1), Jan. 1, 2021, 134 Stat. 3672.
 
 #### Amendments
 2013—Subsecs. (a), (b)(2)(A). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.

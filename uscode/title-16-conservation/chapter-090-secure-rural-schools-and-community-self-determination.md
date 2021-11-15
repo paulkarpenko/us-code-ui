@@ -2,7 +2,7 @@
 title: 16
 chapter: '90'
 heading: SECURE RURAL SCHOOLS AND COMMUNITY SELF-DETERMINATION
-section_count: 20
+section_count: 21
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16&num=0&edition=prelim
 ---
@@ -173,9 +173,11 @@ In this chapter:
 
   (C) for fiscal year 2012 through fiscal year 2015, the amount that is equal to 95 percent of the full funding amount for the preceding fiscal year;
 
-  (D) for fiscal year 2017, the amount that is equal to 95 percent of the full funding amount for fiscal year 2015; and
+  (D) for fiscal year 2017, the amount that is equal to 95 percent of the full funding amount for fiscal year 2015;
 
-  (E) for fiscal year 2018 and each fiscal year thereafter, the amount that is equal to 95 percent of the full funding amount for the preceding fiscal year.
+  (E) for each of fiscal years 2018 through 2020, the amount that is equal to 95 percent of the full funding amount for the preceding fiscal year; and
+
+  (F) for fiscal year 2021 and each fiscal year thereafter, the amount that is equal to the full funding amount for fiscal year 2017.
 
 (12) **Income adjustment** — The term “income adjustment” means the square of the quotient obtained by dividing—
 
@@ -214,6 +216,12 @@ Sections 13982 and 13983 of the Omnibus Budget Reconciliation Act of 1993, refer
 A prior section 3 of Pub. L. 106–393 was set out in a note under [section 500 of this title](./chapter-002-national-forests.md#section-500) prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 #### Amendments
+2021—Par. (11)(D) to (F). Pub. L. 117–58 added subpars. (D) to (F) and struck out former subpars. (D) and (E) which read as follows:
+
+“(D) for fiscal year 2017, the amount that is equal to 95 percent of the full funding amount for fiscal year 2015; and
+
+“(E) for fiscal year 2018 and each fiscal year thereafter, the amount that is equal to 95 percent of the full funding amount for the preceding fiscal year.”
+
 2018—Par. (11)(C) to (E). Pub. L. 115–141, § 401(a)(1), as amended by Pub. L. 115–334, § 8704(a)(1)(B), substituted “through fiscal year 2015” for “and each fiscal year thereafter” in subpar. (C) and added subpars. (D) and (E).
 
 2012—Par. (11)(B), (C). Pub. L. 112–141 substituted “each of fiscal years 2009 through 2011” for “fiscal year 2009 and each fiscal year thereafter” in subpar. (B) and added subpar. (C).
@@ -224,13 +232,13 @@ Amendment by Pub. L. 115–334 effective as if enacted as part of the Wildfire S
 
 <a id="section-7113"></a>
 ## § 7113. Secure payments for States containing Federal land
-**(a) State payment** For each of fiscal years 2008 through 2015, 2017, 2018, 2019, and 2020, the Secretary of Agriculture shall calculate for each eligible State an amount equal to the sum of the products obtained by multiplying—
+**(a) State payment** For each of fiscal years 2008 through 2015 and 2017 through 2023, the Secretary of Agriculture shall calculate for each eligible State an amount equal to the sum of the products obtained by multiplying—
 
 (1) the adjusted share for each eligible county within the eligible State; by
 
 (2) the full funding amount for the fiscal year.
 
-**(b) County payment** For each of fiscal years 2008 through 2015, 2017, 2018, 2019, and 2020, the Secretary of the Interior shall calculate for each eligible county that received a 50-percent payment during the eligibility period an amount equal to the product obtained by multiplying—
+**(b) County payment** For each of fiscal years 2008 through 2015 and 2017 through 2023, the Secretary of the Interior shall calculate for each eligible county that received a 50-percent payment during the eligibility period an amount equal to the product obtained by multiplying—
 
 (1) the 50-percent adjusted share for the eligible county; by
 
@@ -256,6 +264,8 @@ Amendment by Pub. L. 115–334 effective as if enacted as part of the Wildfire S
 A prior section 101 of Pub. L. 106–393 was set out in a note under [section 500 of this title](./chapter-002-national-forests.md#section-500) prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 #### Amendments
+2021—Subsecs. (a), (b). Pub. L. 117–58 substituted “2015 and 2017 through 2023” for “2015, 2017, 2018, 2019, and 2020” in introductory provisions.
+
 2019—Subsecs. (a), (b). Pub. L. 116–94 substituted “2018, 2019, and 2020” for “and 2018” in introductory provisions.
 
 2018—Subsecs. (a), (b). Pub. L. 115–141, § 401(a)(2)(A), substituted “2015, 2017, and 2018” for “2015” in introductory provisions.
@@ -493,7 +503,7 @@ Subsec. (d)(3)(B). Pub. L. 112–141, § 100101(a)(3)(C)(ii)(III), added subpar.
 
 (1) Payments to the State of California under subsection (b).
 
-(2) The shares of the eligible counties of the State payment for California under [section 7112 of this title](./chapter-090-secure-rural-schools-and-community-self-determination.md#section-7112) for each of fiscal years 2011 through 2015 and for each of fiscal years 2017 through 2020.
+(2) The shares of the eligible counties of the State payment for California under [section 7112 of this title](./chapter-090-secure-rural-schools-and-community-self-determination.md#section-7112) for each of fiscal years 2011 through 2015 and for each of fiscal years 2017 through 2023.
 
 **(e) Treatment of payments** For purposes of this chapter, any payment made under subsection (b) shall be considered to be a payment made under [section 7112(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section7112/a&num=0&edition=prelim).
 
@@ -508,6 +518,8 @@ This chapter, referred to in subsec. (e), was in the original “this Act”, me
 A prior section 103 of Pub. L. 106–393 was set out in a note under [section 500 of this title](./chapter-002-national-forests.md#section-500) prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 #### Amendments
+2021—Subsec. (d)(2). Pub. L. 117–58 substituted “2023” for “2020”.
+
 2019—Subsec. (d)(2). Pub. L. 116–94 substituted “through 2015 and for each of fiscal years 2017 through 2020” for “through and for fiscal years 2017 and 2018”.
 
 2018—Subsec. (d)(2). Pub. L. 115–141 substituted “and for fiscal years 2017 and 2018” for “2015”.
@@ -718,9 +730,9 @@ A prior section 204 of Pub. L. 106–393 was set out in a note under [section 50
 
 (4) **Existing advisory committees**
 
-  (A) *In general* — An advisory committee that meets the requirements of this section, a resource advisory committee established before December 20, 2021, or an advisory committee determined by the Secretary concerned before December 20, 2021, to meet the requirements of this section may be deemed by the Secretary concerned to be a resource advisory committee for the purposes of this subchapter.
+  (A) *In general* — An advisory committee that meets the requirements of this section, a resource advisory committee established before December 20, 2023, or an advisory committee determined by the Secretary concerned before December 20, 2023, to meet the requirements of this section may be deemed by the Secretary concerned to be a resource advisory committee for the purposes of this subchapter.
 
-  (B) *Charter* — A charter for a committee described in subparagraph (A) that was filed on or before December 20, 2021, shall be considered to be filed for purposes of this chapter.
+  (B) *Charter* — A charter for a committee described in subparagraph (A) that was filed on or before December 20, 2023, shall be considered to be filed for purposes of this chapter.
 
   (C) *Bureau of land management advisory committees* — The Secretary of the Interior may deem a resource advisory committee meeting the requirements of subpart 1784 of part 1780 of title 43, Code of Federal Regulations, as a resource advisory committee for the purposes of this subchapter.
 
@@ -838,35 +850,65 @@ A prior section 204 of Pub. L. 106–393 was set out in a note under [section 50
 
 (3) **Records** — A resource advisory committee shall maintain records of the meetings of the committee and make the records available for public inspection.
 
-**(g) Regional appointment pilot program**
+**(g) Resource advisory committee appointment pilot programs**
 
-(1) **Definition of applicable designee** — In this subsection, the term “applicable designee” means the applicable regional forester.
+(1) **Definitions** — In this subsection:
 
-(2) **Pilot program** — The Secretary concerned shall carry out a pilot program (referred to in this subsection as the “pilot program”) to allow an applicable designee to appoint members of resource advisory committees.
+  (A) *Applicable designee* — The term “applicable designee” means the applicable regional forester.
 
-(3) **Geographic limitation** — The pilot program shall only apply to resource advisory committees chartered in—
+  (B) *National pilot program* — The term “national pilot program” means the national pilot program established under paragraph (4)(A).
 
-  (A) the State of Montana; and
+  (C) *Regional pilot program* — The term “regional pilot program” means the regional pilot program established under paragraph (3)(A).
 
-  (B) the State of Arizona.
+(2) **Establishment of pilot programs** — In accordance with paragraphs (3) and (4), the Secretary concerned shall carry out 2 pilot programs to appoint members of resource advisory committees.
 
-(4) **Responsibilities of applicable designee**
+(3) **Regional pilot program**
 
-  (A) *Review* — Before appointing a member of a resource advisory committee under the pilot program, an applicable designee shall conduct the review and analysis that would otherwise be conducted for an appointment to a resource advisory committee if the pilot program was not in effect, including any review and analysis with respect to civil rights and budgetary requirements.
+  (A) *In general* — The Secretary concerned shall carry out a regional pilot program to allow an applicable designee to appoint members of resource advisory committees.
 
-  (B) *Savings clause* — Nothing in this subsection relieves an applicable designee from any requirement developed by the Secretary concerned for making an appointment to a resource advisory committee that is in effect on December 20, 2018, including any requirement for advertising a vacancy.
+  (B) *Geographic limitation* — The regional pilot program shall only apply to resource advisory committees chartered in—
+
+    (i) the State of Montana; and
+
+    (ii) the State of Arizona.
+
+  (C) *Responsibilities of applicable designee*
+
+    (i) *Review* — Before appointing a member of a resource advisory committee under the regional pilot program, an applicable designee shall conduct the review and analysis that would otherwise be conducted for an appointment to a resource advisory committee if the regional pilot program was not in effect, including any review and analysis with respect to civil rights and budgetary requirements.
+
+    (ii) *Savings clause* — Nothing in this paragraph relieves an applicable designee from any requirement developed by the Secretary concerned for making an appointment to a resource advisory committee that is in effect on December 20, 2018, including any requirement for advertising a vacancy.
+
+(4) **National pilot program**
+
+  (A) *In general* — The Secretary concerned shall carry out a national pilot program to allow the Chief of the Forest Service or the Director of the Bureau of Land Management, as applicable, to submit to the Secretary concerned nominations of individuals for appointment as members of resource advisory committees.
+
+  (B) *Appointment* — Under the national pilot program, subject to subparagraph (C), not later than 30 days after the date on which a nomination is transmitted to the Secretary concerned under subparagraph (A), the Secretary concerned shall—
+
+    (i) appoint the nominee to the applicable resource advisory committee; or
+
+    (ii) reject the nomination.
+
+  (C) *Automatic appointment* — If the Secretary concerned does not act on a nomination in accordance with subparagraph (B) by the date described in that subparagraph, the nominee shall be deemed appointed to the applicable resource advisory committee.
+
+  (D) *Geographic limitation* — The national pilot program shall apply to a resource advisory committee chartered in any State other than—
+
+    (i) the State of Montana; or
+
+    (ii) the State of Arizona.
+
+  (E) *Savings clause* — Nothing in this paragraph relieves the Secretary concerned from any requirement relating to an appointment to a resource advisory committee, including any requirement with respect to civil rights or advertising a vacancy.
 
 (5) **Termination of effectiveness** — The authority provided under this subsection terminates on October 1, 2023.
 
-(6) **Report to Congress** — Not later than the date that is 180 days after the date described in paragraph (5), the Secretary concerned shall submit to Congress a report that includes—
+(6) **Report to Congress** — Not later 180 days after the date described in paragraph (5), the Secretary concerned shall submit to Congress a report that includes—
 
-  (A) with respect to appointments made under the pilot program compared to appointments to resource advisory committees not made under the pilot program, a description of the extent to which—
+  (A) with respect to appointments made under the regional pilot program compared to appointments made under the national pilot program, a description of the extent to which—
 
     (i) appointments were faster or slower; and
 
-    (ii) the requirements described in paragraph (4) differ; and
+    (ii) the requirements described in paragraph (3)(C)(i) differ; and
 
-  (B) a recommendation with respect to whether Congress should terminate, continue, modify, or expand the pilot program.
+  (B) a recommendation with respect to whether Congress should terminate, continue, modify, or expand the pilot programs.
 
 ### Statutory Notes
 
@@ -880,6 +922,10 @@ October 3, 2008, referred to in subsec. (c)(3), was in the original “the date 
 A prior section 205 of Pub. L. 106–393 was set out in a note under [section 500 of this title](./chapter-002-national-forests.md#section-500) prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 #### Amendments
+2021—Subsec. (a)(4)(A), (B). Pub. L. 117–58, § 41202(d)(1), substituted “December 20, 2023” for “December 20, 2021” wherever appearing.
+
+Subsec. (g). Pub. L. 117–58, § 41202(c), added subsec. (g) and struck out former subsec. (g), which related to the Regional appointment pilot program.
+
 2019—Subsec. (a)(4)(A), (B). Pub. L. 116–94 substituted “December 20, 2021” for “September 29, 2018” wherever appearing.
 
 2018—Subsec. (a)(4)(A), (B). Pub. L. 115–141 substituted “2018” for “2012” wherever appearing.
@@ -969,9 +1015,9 @@ A prior section 207 of Pub. L. 106–393 was set out in a note under [section 50
 
 <a id="section-7142"></a>
 ## § 7142. Termination of authority
-**(a) In general** The authority to initiate projects under this subchapter shall terminate on September 30, 2022.
+**(a) In general** The authority to initiate projects under this subchapter shall terminate on September 30, 2025.
 
-**(b) Deposits in Treasury** Any project funds not obligated by September 30, 2023, shall be deposited in the Treasury of the United States.
+**(b) Deposits in Treasury** Any project funds not obligated by September 30, 2026, shall be deposited in the Treasury of the United States.
 
 ### Statutory Notes
 
@@ -979,6 +1025,10 @@ A prior section 207 of Pub. L. 106–393 was set out in a note under [section 50
 A prior section 208 of Pub. L. 106–393 was set out in a note under [section 500 of this title](./chapter-002-national-forests.md#section-500) prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 117–58, § 41202(d)(2)(A), substituted “2025” for “2022”.
+
+Subsec. (b). Pub. L. 117–58, § 41202(d)(2)(B), substituted “2026” for “2023”.
+
 2019—Subsec. (a). Pub. L. 116–94, § 301(b)(2)(A), substituted “2022” for “2020”.
 
 Subsec. (b). Pub. L. 116–94, § 301(b)(2)(B), substituted “2023” for “2021”.
@@ -1015,8 +1065,8 @@ In this subchapter:
 A prior section 301 of Pub. L. 106–393 was set out in a note under [section 500 of this title](./chapter-002-national-forests.md#section-500) prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 
-<a id="section-7144"></a>
-## § 7144. Use
+<a id="section-7143a"></a>
+## § 7143a. Use
 **(a) Authorized uses** A participating county, including any applicable agencies of the participating county, shall use county funds, in accordance with this subchapter, only—
 
 (1) to carry out activities under the Firewise Communities program to provide to homeowners in fire-sensitive ecosystems education on, and assistance with implementing, techniques in home siting, home construction, and home landscaping that can increase the protection of people and property from wildfires;
@@ -1027,9 +1077,15 @@ A prior section 301 of Pub. L. 106–393 was set out in a note under [section 50
 
   (B) paid for by the participating county;
 
-(3) to cover training costs and equipment purchases directly related to the emergency services described in paragraph (2); and
+(3) to cover training costs and equipment purchases directly related to the emergency services described in paragraph (2);
 
-(4) to develop and carry out community wildfire protection plans in coordination with the appropriate Secretary concerned.
+(4) to develop and carry out community wildfire protection plans in coordination with the appropriate Secretary concerned; and
+
+(5) to provide or expand access to—
+
+  (A) broadband telecommunications services at local schools; or
+
+  (B) the technology and connectivity necessary for students to use a digital learning tool at or outside of a local school campus.
 
 **(b) Proposals** A participating county shall use county funds for a use described in subsection (a) only after a 45-day public comment period, at the beginning of which the participating county shall—
 
@@ -1043,6 +1099,8 @@ A prior section 301 of Pub. L. 106–393 was set out in a note under [section 50
 A prior section 302 of Pub. L. 106–393 was set out in a note under [section 500 of this title](./chapter-002-national-forests.md#section-500) prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 #### Amendments
+2021—Subsec. (a)(5). Pub. L. 117–58 added par. (5).
+
 2018—Subsec. (a)(2). Pub. L. 115–141, § 402(1), inserted “and law enforcement patrols” after “including firefighting” in introductory provisions and struck out “and” at end of subpar. (B).
 
 Subsec. (a)(3). Pub. L. 115–141, § 402(4), added par. (3). Former par. (3) redesignated (4).
@@ -1054,8 +1112,8 @@ Subsec. (a)(4). Pub. L. 115–141, § 402(3), redesignated par. (3) as (4).
 2012—Subsec. (a)(2)(A). Pub. L. 112–141 inserted “and” at end.
 
 
-<a id="section-7151"></a>
-## § 7151. Certification
+<a id="section-7144"></a>
+## § 7144. Certification
 **(a) In general** Not later than February 1 of the year after the year in which any county funds were expended by a participating county, the appropriate official of the participating county shall submit to the Secretary concerned a certification that the county funds expended in the applicable year have been used for the uses authorized under [section 7142(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section7142/a&num=0&edition=prelim), including a description of the amounts expended and the uses for which the amounts were expended.
 
 **(b) Review** The Secretary concerned shall review the certifications submitted under subsection (a) as the Secretary concerned determines to be appropriate.
@@ -1066,15 +1124,39 @@ Subsec. (a)(4). Pub. L. 115–141, § 402(3), redesignated par. (3) as (4).
 A prior section 303 of Pub. L. 106–393 was set out in a note under [section 500 of this title](./chapter-002-national-forests.md#section-500) prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 
+<a id="section-7151"></a>
+## § 7151. Amounts obligated but unspent; prohibition on use of funds
+**(a) Amounts obligated but unspent** Any county funds that were obligated by the applicable participating county before October 1, 2017, but are unspent on October 1, 2020—
+
+(1) may, at the option of the participating county, be deemed to have been reserved by the participating county on October 1, 2020, for expenditure in accordance with this subchapter; and
+
+(2)
+
+  (A) may be used by the participating county for any authorized use under [section 7142(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section7142/a&num=0&edition=prelim); and
+
+  (B) on a determination by the participating county under subparagraph (A) to use the county funds, shall be available for projects initiated after October 1, 2020, subject to [section 7144 of this title](./chapter-090-secure-rural-schools-and-community-self-determination.md#section-7144).
+
+**(b) Prohibition on use of funds** Notwithstanding any other provision of law, effective beginning on November 15, 2021, no county funds made available under this subchapter may be used by any participating county for any lobbying activity, regardless of the purpose for which the funds are obligated on or before that date.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 304 of Pub. L. 106–393 was renumbered section 305 and is classified to [section 7144 of this title](./chapter-090-secure-rural-schools-and-community-self-determination.md#section-7144).
+
+
 <a id="section-7152"></a>
 ## § 7152. Termination of authority
-**(a) In general** The authority to initiate projects under this subchapter terminates on September 30, 2022.
+**(a) In general** The authority to initiate projects under this subchapter terminates on September 30, 2025.
 
-**(b) Availability** Any county funds not obligated by September 30, 2023, shall be returned to the Treasury of the United States.
+**(b) Availability** Any county funds not obligated by September 30, 2026, shall be returned to the Treasury of the United States.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 117–58, § 41202(f)(1), substituted “2025” for “2022”.
+
+Subsec. (b). Pub. L. 117–58, § 41202(f)(2), substituted “2026” for “2023”.
+
 2019—Subsec. (a). Pub. L. 116–94, § 301(c)(1), substituted “2022” for “2020”.
 
 Subsec. (b). Pub. L. 116–94, § 301(c)(2), substituted “2023” for “2021”.

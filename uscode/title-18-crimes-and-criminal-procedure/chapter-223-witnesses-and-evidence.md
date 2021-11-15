@@ -450,7 +450,7 @@ Subsec. (e). Pub. L. 91–452, § 102(c), (d), struck out “or” after “by h
 ### Statutory Notes
 
 #### Constitutionality
-For information regarding constitutionality of this section, as added by section 701(a) of Pub. L. 90–351, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For information regarding constitutionality of this section, as added by section 701(a) of Pub. L. 90–351, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
 
 #### Amendments
 1968—Subsec. (c). Pub. L. 90–578 substituted “magistrate” for “commissioner” wherever appearing.

@@ -1737,7 +1737,7 @@ This chapter, referred to in subsec. (b)(1), was in the original “this Act”,
 The effective date of this chapter, referred to in subsec. (c), is the effective date of Pub. L. 95–620. See section 901 of Pub. L. 95–620, set out as an Effective Date note under [section 8301 of this title](./chapter-092-powerplant-and-industrial-fuel-use.md#section-8301).
 
 #### Change of Name
-“Department of Health and Human Services” substituted for “Department of Health, Education, and Welfare” in subsec. (a), pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+“Department of Health and Human Services” substituted for “Department of Health, Education, and Welfare” in subsec. (a) pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
 
 <a id="section-8457"></a>

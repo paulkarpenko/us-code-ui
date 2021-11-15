@@ -500,6 +500,8 @@ Section, added Pub. L. 103–160, div. A, title II, § 242(f)(1), Nov. 30, 1993,
 
   (E) The Near East South Asia Center for Strategic Studies.
 
+  (F) The Ted Stevens Center for Arctic Security Studies.
+
 **(b) Sources.—** The sources from which gifts and donations may be accepted under subsection (a) are the following:
 
 (1) The government of a State or a political subdivision of a State.
@@ -525,6 +527,8 @@ Section, added Pub. L. 103–160, div. A, title II, § 242(f)(1), Nov. 30, 1993,
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (a)(2)(F). Pub. L. 117–81 added subpar. (F).
+
 2014—Subsec. (a)(2)(B). Pub. L. 113–291 substituted “Daniel K. Inouye Asia-Pacific Center for Security Studies” for “Asia-Pacific Center for Security Studies”.
 
 2013—Subsec. (a)(2)(C). Pub. L. 112–239 substituted “William J. Perry Center for Hemispheric Defense Studies” for “Center for Hemispheric Defense Studies”.
@@ -627,9 +631,12 @@ Pub. L. 108–375, div. A, title X, § 1084(f), Oct. 28, 2004, 118 Stat. 2064, p
 
 (2) to assist in administering the collection, distribution, and use of travel benefits under this section.
 
-**(g) Family Member Defined.—** In this section, the term “family member” has the meaning given that term in [section 481h(b) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section481h/b&num=0&edition=prelim).
+**(g) Family Member Defined.—** In this section, the term “family member” has the meaning given that term in [section 481h(b) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section481h/b&num=0&edition=prelim).11 See References in Text note below.
 
 ### Statutory Notes
+
+#### References in Text
+[Section 481h of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section481h&num=0&edition=prelim), referred to in subsec. (g), was repealed by Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767.
 
 #### Codification
 Another section 2613 was renumbered [section 2614 of this title](./chapter-155-acceptance-of-gifts-and-services.md#section-2614).

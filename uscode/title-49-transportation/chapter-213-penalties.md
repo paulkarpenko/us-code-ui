@@ -14,13 +14,15 @@ source: >-
 
 (2) The Secretary shall include in, or make applicable to, each regulation prescribed and order issued under chapter 201 of this title a civil penalty for a violation. The Secretary shall impose a civil penalty for a violation of [section 20160 of this title](./chapter-201-general.md#section-20160). The amount of the penalty shall be at least $500 but not more than $25,000. However, when a grossly negligent violation or a pattern of repeated violations has caused an imminent hazard of death or injury to individuals, or has caused death or injury, the amount may be not more than $100,000.
 
-(3) The Secretary may compromise the amount of a civil penalty imposed under this subsection to not less than $500 before referring the matter to the Attorney General for collection. In determining the amount of a compromise, the Secretary shall consider—
+(3) The Secretary may find that a person has violated this chapter or a regulation prescribed or order, special permit, or approval issued under this chapter only after notice and an opportunity for a hearing. The Secretary shall impose a penalty under this section by giving the person written notice of the amount of the penalty. The Secretary may compromise the amount of a civil penalty by settlement agreement without issuance of an order. In determining the amount of a compromise, the Secretary shall consider—
 
   (A) the nature, circumstances, extent, and gravity of the violation;
 
   (B) with respect to the violator, the degree of culpability, any history of violations, the ability to pay, and any effect on the ability to continue to do business; and
 
   (C) other matters that justice requires.
+
+(4) The Attorney General may bring a civil action in an appropriate district court of the United States to collect a civil penalty imposed or compromise under this section and any accrued interest on the civil penalty. In the civil action, the amount and appropriateness of the civil penalty shall not be subject to review.
 
 **(b) Setoff.—** The Government may deduct the amount of a civil penalty imposed or compromised under this section from amounts it owes the person liable for the penalty.
 
@@ -51,6 +53,14 @@ In subsection (c), the words “deposited in” are substituted for “covered i
 This amends 49:21301(a)(1) to clarify the restatement of 45:438(a) by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 891).
 
 #### Amendments
+2021—Subsec. (a)(3), (4). Pub. L. 117–58 added pars. (3) and (4) and struck out former par. (3). Prior to amendment, par. (3) read as follows: “The Secretary may compromise the amount of a civil penalty imposed under this subsection to not less than $500 before referring the matter to the Attorney General for collection. In determining the amount of a compromise, the Secretary shall consider—
+
+“(A) the nature, circumstances, extent, and gravity of the violation;
+
+“(B) with respect to the violator, the degree of culpability, any history of violations, the ability to pay, and any effect on the ability to continue to do business; and
+
+“(C) other matters that justice requires.”
+
 2008—Subsec. (a)(1). Pub. L. 110–432, § 204(d)(1), inserted “with section 20160 or” after “comply” and “[section 20160 of this title](./chapter-201-general.md#section-20160) or” after “violating”.
 
 Subsec. (a)(2). Pub. L. 110–432, § 302(a), substituted “$25,000.” for “$10,000.” and “$100,000.” for “$20,000.”

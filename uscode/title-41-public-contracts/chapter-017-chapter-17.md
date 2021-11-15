@@ -665,7 +665,7 @@ In subsection (a)(2), the words “Notwithstanding the preceding sentence” are
 
 (2) **Certain procurements.—** — The requirements of subsection (a)(2) do not apply to a procurement—
 
-  (A) under conditions described in paragraph (2), (3), (4), (5), or (7) of [section 3304(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section3304/a&num=0&edition=prelim) or paragraph (2), (3), (4), (5), or (7) of [section 2304(c) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304/c&num=0&edition=prelim); or
+  (A) under conditions described in paragraph (2), (3), (4), (5), or (7) of [section 3304(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section3304/a&num=0&edition=prelim) or paragraph (2), (3), (4), (5), or (7) of [section 3204(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3204/a&num=0&edition=prelim); or
 
   (B) for which the head of the executive agency makes a determination in writing, after consultation with the Administrator and the Administrator of the Small Business Administration, that it is not appropriate or reasonable to publish a notice before issuing a solicitation.
 
@@ -756,6 +756,8 @@ In subsection (e)(1)(B)(i), the words “required for a bid or proposal for a co
 In subsection (e)(1)(B)(ii), the words “required for an order described in” are substituted for “required by” for clarity.
 
 #### Amendments
+2021—Subsec. (b)(2)(A). Pub. L. 117–81 substituted “section 3204(a)” for “section 2304(c)”.
+
 2018—Subsecs. (c)(6), (e)(3). Pub. L. 115–232 substituted “commercial products or commercial services” for “commercial items”.
 
 #### Effective Date of 2018 Amendment
@@ -946,7 +948,7 @@ Each executive agency shall establish and maintain cost-effective procedures and
 
   (A) the information described in paragraph (1);
 
-  (B) the reason under [section 3304(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section3304/a&num=0&edition=prelim) or [section 2304(c) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304/c&num=0&edition=prelim) for using the procedures; and
+  (B) the reason under [section 3304(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section3304/a&num=0&edition=prelim) or [section 3204(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3204/a&num=0&edition=prelim) for using the procedures; and
 
   (C) the identity of the organization or activity that conducted the procurement.
 
@@ -964,6 +966,9 @@ Each executive agency shall establish and maintain cost-effective procedures and
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 1712 | 41:417. | Pub. L. 93–400, § 19, as added Pub. L. 98–369, title VII, § 2732(a), July 18, 1984, 98 Stat. 1197; Pub. L. 103–355, title IV, § 4403, Oct. 13, 1994, 108 Stat. 3349; Pub. L. 110–417, title VIII, § 874(b), Oct. 14, 2008, 122 Stat. 4558. |
+
+#### Amendments
+2021—Subsec. (b)(2)(B). Pub. L. 117–81 substituted “section 3204(a)” for “section 2304(c)”.
 
 
 <a id="section-1713"></a>

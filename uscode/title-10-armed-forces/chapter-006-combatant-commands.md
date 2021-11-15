@@ -360,11 +360,11 @@ Pub. L. 99–433, title II, § 214(d), Oct. 1, 1986, 100 Stat. 1019, provided th
 
 (1) Of funds made available under this section for any fiscal year—
 
-  (A) not more than $20,000,000 may be used to purchase items with a unit cost in excess of $250,000;
+  (A) not more than $25,000,000 may be used to purchase items with a unit cost in excess of $300,000;
 
-  (B) not more than $10,000,000 may be used to pay for any expenses of foreign countries participating in joint exercises as authorized by subsection (b)(5); and
+  (B) not more than $15,000,000 may be used to pay for any expenses of foreign countries participating in joint exercises as authorized by subsection (b)(5); and
 
-  (C) not more than $5,000,000 may be used to provide military education and training (including transportation, translation, and administrative expenses) to military and related civilian personnel of foreign countries as authorized by subsection (b)(7).
+  (C) not more than $10,000,000 may be used to provide military education and training (including transportation, translation, and administrative expenses) to military and related civilian personnel of foreign countries as authorized by subsection (b)(7).
 
 (2) Funds may not be provided under this section for any activity that has been denied authorization by Congress.
 
@@ -373,6 +373,12 @@ Pub. L. 99–433, title II, § 214(d), Oct. 1, 1986, 100 Stat. 1019, provided th
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (e)(1)(A). Pub. L. 117–81, § 1002(1), substituted “$25,000,000” for “$20,000,000” and “$300,000” for “$250,000”.
+
+Subsec. (e)(1)(B). Pub. L. 117–81, § 1002(2), substituted “$15,000,000” for “$10,000,000”.
+
+Subsec. (e)(1)(C). Pub. L. 117–81, § 1002(3), substituted “$10,000,000” for “$5,000,000”.
+
 2016—Subsec. (e)(1)(A). Pub. L. 114–328 substituted “$250,000” for “the investment unit cost threshold in effect under [section 2245a of this title](./chapter-134-miscellaneous-administrative-provisions.md#section-2245a)”.
 
 2009—Subsec. (b)(6). Pub. L. 111–84, § 904(b), inserted “in coordination with the relevant chief of mission to the extent practicable,” after “assistance,”.
@@ -512,7 +518,7 @@ Pub. L. 108–136, div. A, title IX, § 902(a)(1), (3), Nov. 24, 2003, 117 Stat.
 
     (ii) Acquisition of special operations-peculiar material, supplies, and services.
 
-  (B) Subject to the authority, direction, and control of the Secretary of Defense, the commander of the command, in carrying out his functions under subparagraph (A), shall have authority to exercise the functions of the head of an agency under chapter 137 of this title.
+  (B) Subject to the authority, direction, and control of the Secretary of Defense, the commander of the command, in carrying out his functions under subparagraph (A), shall have authority to exercise the functions of the head of an agency under chapter 137 11 See References in Text note below. of this title.
 
   (C)
 
@@ -595,6 +601,8 @@ Pub. L. 108–136, div. A, title IX, § 902(a)(1), (3), Nov. 24, 2003, 117 Stat.
 ### Statutory Notes
 
 #### References in Text
+Chapter 137 of this title, referred to in subsec. (e)(4)(B), was repealed by Pub. L. 116–283, div. A, title XVIII, § 1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, in conjunction with the transfer and reorganization of acquisition provisions in this title by Pub. L. 116–283, div. A, title XVIII, Jan. 1, 2022, 134 Stat. 4149.
+
 The National Security Act of 1947, referred to in subsec. (h), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
@@ -775,6 +783,9 @@ Subsec. (e). Pub. L. 115–91, § 1635(2), redesignated subsec. (f) as (e). Form
 Subsec. (e)(2)(A)(iii)(II). Pub. L. 115–91, § 1081(a)(12), substituted “Fiscal Year 2016” for “Fiscal Year 2014”.
 
 Subsec. (f). Pub. L. 115–91, § 1635(2), redesignated subsec. (f) as (e).
+
+#### Assignment of Certain Budget Control Responsibilities to Commander of United States Cyber Command
+Pub. L. 117–81, div. A, title XV, § 1507, Dec. 27, 2021, 135 Stat. 2030, provided that: “(a) Assignment of Responsibilities.—“(1) In general.—The Commander of United States Cyber Command shall, subject to the authority, direction, and control of the Principal Cyber Advisor of the Department of Defense, be responsible for directly controlling and managing the planning, programming, budgeting, and execution of resources to train, equip, operate, and sustain the Cyber Mission Forces. “(2) Effective date and applicability.—Paragraph (1) shall take effect on the date of the enactment of this Act [Dec. 27, 2021] and apply—“(A) on January 1, 2022, for controlling and managing budget execution; and “(B) beginning with fiscal year 2024 and each fiscal year thereafter for directly controlling and managing the planning, programming, budgeting, and execution of resources. “(b) Elements.—“(1) In general.—The responsibilities assigned to the Commander of United States Cyber Command pursuant to subsection (a)(1) shall include the following:“(A) Preparation of a program objective memorandum and budget estimate submission for the resources required to train, equip, operate, and sustain the Cyber Mission Forces. “(B) Preparation of budget materials pertaining to United States Cyber Command for inclusion in the budget justification materials that are submitted to Congress in support of the Department of Defense budget for a fiscal year (as submitted with the budget of the President for a fiscal year under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code) that is separate from any other military service or component of the Department. “(2) Responsibilities not delegated.—The responsibilities assigned to the Commander of United States Cyber Command pursuant to subsection (a)(1) shall not include the following:“(A) Military pay and allowances. “(B) Funding for facility support that is provided by the military services. “(c) Implementation Plan.—“(1) In general.—Not later than the date that is 30 days after the date of the enactment of this Act, the Comptroller General of the Department of Defense and the Commander of United States Cyber Command, in coordination with Chief Information Officer of the Department, the Principal Cyber Advisor, the Under Secretary of Defense for Acquisition and Sustainment, Cost Assessment and Program Evaluation, and the Secretaries of the military departments, shall jointly develop an implementation plan for the transition of responsibilities assigned to the Commander of United States Cyber Command pursuant to subsection (a)(1). “(2) Elements.—The implementation plan developed under paragraph (1) shall include the following:“(A) A budgetary review to identify appropriate resources for transfer to the Commander of United States Cyber Command for carrying out responsibilities assigned pursuant to subsection (a)(1). “(B) Definitions of appropriate roles and responsibilities. “(C) Specification of all program elements and sub-elements, and the training, equipment, Joint Cyber Warfighting Architecture capabilities, other enabling capabilities and infrastructure, intelligence support, operations, and sustainment investments in each such program element and sub-element for which the Commander of United States Cyber Command is responsible. “(D) Specification of all program elements and sub-elements, and the training, equipment, Joint Cyber Warfighting Architecture capabilities, other enabling capabilities and infrastructure, intelligence support, operations, and sustainment investments in each such program element and sub-element relevant to or that support the Cyber Mission Force for which the Secretaries of the military departments are responsible. “(E) Required levels of civilian and military staffing within United States Cyber Command to carry out subsection (a)(1), and an estimate of when such levels of staffing will be achieved. “(d) Briefing.—“(1) In general.—Not later than the earlier of the date on which the implementation plan under subsection (c) is developed or the date that is 90 days after the date of the enactment of this Act, the Secretary of Defense shall provide the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a briefing on the implementation plan. “(2) Elements.—The briefing required by paragraph (1) shall address any recommendations for when and how the Secretary of Defense should delegate to the Commander of United States Cyber Command budget authority for the Cyber Operations Forces (as such term is defined in the memorandum issued by the Secretary of Defense on December 12, 2019, relating to the definition of ‘Department of Defense Cyberspace Operations Forces (DoD COF)’), after successful implementation of the responsibilities described in subsection (a) relating to the Cyber Mission Forces.”
 
 #### Elevation of U.S. Cyber Command to a Unified Combatant Command
 Memorandum of President of the United States, Aug. 15, 2017, 82 F.R. 39953, provided:

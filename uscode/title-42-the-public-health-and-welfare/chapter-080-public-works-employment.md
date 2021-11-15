@@ -36,11 +36,11 @@ Pub. L. 94–369, § 1, July 22, 1976, 90 Stat. 999, provided: “That this Act 
 
 Pub. L. 94–369, title I, § 101, July 22, 1976, 90 Stat. 999, provided that: “This title [enacting this subchapter] may be cited as the ‘Local Public Works Capital Development and Investment Act of 1976’.”
 
-#### Termination of Trust Territory of the Pacific Islands
-For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
-
 #### Public Works Investment Study; Preliminary Report; Final Report Within 18 Months After May 13, 1977
 Pub. L. 95–28, title I, § 110, May 13, 1977, 91 Stat. 119, directed Secretary of Commerce to study public works investment in United States and implications for future of recent trends in such investment and submit a report with respect to its findings and recommendations no later than 18 months after May 13, 1977.
+
+#### Termination of Trust Territory of the Pacific Islands
+For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
 
 
 <a id="section-6702"></a>

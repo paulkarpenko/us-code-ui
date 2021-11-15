@@ -2,7 +2,7 @@
 title: 46
 chapter: '551'
 heading: COASTWISE TRADE
-section_count: 22
+section_count: 23
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46&num=0&edition=prelim
 ---
@@ -634,3 +634,19 @@ The date of the enactment of the Carl Levin and Howard P. “Buck” McKeon Nati
 
 #### Amendments
 2016—Subsecs. (b), (c). Pub. L. 114–328 added subsec. (b) and redesignated former subsec. (b) as (c).
+
+
+<a id="section-55123"></a>
+## § 55123. Priority loading for coal
+
+A vessel engaged in the coastwise transportation of coal produced in the United States, from a port in the United States to another port in the United States, shall be given priority in loading at any of those ports ahead of a waiting vessel engaged in the export transportation of coal produced in the United States. However, if the Secretary of Transportation finds that it is in the national interest, the Secretary may eliminate this priority loading at any port. The Secretary shall report to Congress within 30 days an action eliminating priority loading under this section.
+
+### Statutory Notes
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 55301 | 46 App.:1121–1. | Pub. L. 96–387, § 5, Oct. 7, 1980, 94 Stat. 1546; Pub. L. 97–31, § 12(68), Aug. 6, 1981, 95 Stat. 159; Pub. L. 99–662, title IX, § 947, Nov. 17, 1986, 100 Stat. 4200. |
+
+#### Amendments
+2021—Pub. L. 116–283 renumbered [section 55301 of this title](./chapter-553-passenger-and-cargo-preferences.md#section-55301) as this section.

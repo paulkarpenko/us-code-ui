@@ -2,7 +2,7 @@
 title: 10
 chapter: '8'
 heading: DEFENSE AGENCIES AND DEPARTMENT OF DEFENSE FIELD ACTIVITIES
-section_count: 12
+section_count: 13
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -22,6 +22,12 @@ A prior section 191 was renumbered [section 202 of this title](./chapter-008-def
 
 #### Amendments
 1987—Subsec. (b). Pub. L. 100–26 substituted “October 1, 1986” for “the date of the enactment of the Goldwater-Nichols Department of Defense Reorganization Act of 1986”.
+
+#### Mission Management Pilot Program
+Pub. L. 117–81, div. A, title VIII, § 871, Dec. 27, 2021, 135 Stat. 1855, provided that: “(a) In General.—Subject to the availability of appropriations, the Secretary of Defense shall establish a pilot program to identify lessons learned and improved mission outcomes achieved by quickly delivering solutions that fulfill critical operational needs arising from cross-service missions undertaken by combatant commands through the use of a coordinated and iterative approach to develop, evaluate, and transition such solutions. “(b) Missions Selection.—“(1) In general.—Except as provided in paragraph (3), the Deputy Secretary of Defense shall select missions with respect to which to carry out the pilot program. “(2) Selection criteria.—When selecting missions under paragraph (1), the Deputy Secretary of Defense shall—“(A) select missions with critical cross-service operational needs; and “(B) consider—“(i) the strategic importance of the critical cross-service operational needs to the operational plans of the relevant combatant commands; and “(ii) the advice of key stakeholders, including the Joint Staff, regarding mission selection. “(3) Initial mission.—“(A) In general.—Not later than four months after the date of the enactment of this section [Dec. 27, 2021], the Director of the Strategic Capabilities Office shall select the initial mission under the pilot program that has critical cross-service operational needs and which is of strategic importance to the operational plans of the United States Indo-Pacific Command. “(B) Responsibility.—The mission selected under subparagraph (A) shall be established within the Strategic Capabilities Office of the Department of Defense, in coordination with the Office of the Under Secretary of Defense for Research and Engineering. “(C) Mission selection approval.—The mission selected by the Director of the Strategic Capabilities Office under subparagraph (A) shall be subject to the approval of the Technology Cross-Functional Team of the Strategic Capabilities Office that is chaired by the Under Secretary of Defense for Research and Engineering. “(c) Mission Managers.—“(1) In general.—A mission manager shall carry out the pilot program with respect to each mission. “(2) Responsibilities.—With respect to each mission, the relevant mission manager shall—“(A) identify critical cross-service, cross-program, and cross-domain operational needs by enumerating the options available to the combatant command responsible for carrying out such mission and determining the resiliency of such options to threats from adversaries; “(B) in coordination with the military services and appropriate Defense Agencies and Field Activities, develop and deliver solutions, including software and information technology solutions and other functionalities unaligned with any one weapon system of a covered Armed Service, to—“(i) fulfill critical cross-service, cross-program, and cross-domain operational needs; and “(ii) address future changes to existing critical cross-service, cross-program, and cross-domain operational needs by providing additional capabilities; “(C) work with the combatant command responsible for such mission and the related planning organizers, program managers of a covered Armed Force, and defense research and development activities to carry out iterative testing and support to initial operational fielding of the solutions described in subparagraph (B); “(D) conduct research, development, test, evaluation, and transition support activities with respect to the delivery of the solutions described in subparagraph (B); “(E) seek to integrate existing, emerging, and new capabilities available to the Department of Defense in the development of the solutions described in subparagraph (B), including by incenting and working with program managers of a covered Armed Force; and “(F) provide to the Deputy Secretary of Defense mission management activity updates and reporting on the use of funds under the pilot program with respect to such mission. “(3) Appointment.—Each mission selected under subsection (b) shall have a mission manager—“(A) appointed at the time of mission approval; and “(B) who may be from any suitable organization, except that the mission manager with respect the initial mission under (b)(3) shall be the Director of the Strategic Capabilities Office. “(4) Iterative approach.—The mission manager shall, to the extent practicable, carry out the pilot program with respect to each mission selected under subsection (b) by integrating existing, emerging, and new military capabilities, and managing a portfolio of small, iterative development and support to initial operational fielding efforts. “(5) Other program management responsibilities.—The activities undertaken by the mission manager with respect to a mission, including mission management, do not supersede or replace the program management responsibilities of any other individual that are related to such missions. “(d) Data Collection Requirement.—The Deputy Secretary of Defense shall develop and implement a plan to collect and analyze data on the pilot program for the purposes of—“(1) developing and sharing best practices for applying emerging technology and supporting new operational concepts to improve outcomes on key military missions and operational challenges; and “(2) providing information to the leadership of the Department on the implementation of the pilot program and related policy issues. “(e) Assessments.—During the five-year period beginning on the date of the enactment of this Act [Dec. 27, 2021], the Deputy Secretary of Defense shall regularly assess—“(1) the authorities required by the mission managers to effectively and efficiently carry out the pilot program with respect to the missions selected under subsection (b); and “(2) whether the mission managers have access to sufficient funding to carry out the research, development, test, evaluation, and support to initial operational fielding activities required to deliver solutions fulfilling the critical cross-service, cross-program, and cross-domain operational needs of the missions. “(f) Briefings.—“(1) Semiannual briefing.—“(A) In general.—Not later than July 1, 2022, and every six months thereafter until the date that is five years after the date of the enactment of this Act, the mission manager shall provide to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a briefing on the progress of the pilot program with respect to each mission selected under subsection (b), the anticipated mission outcomes, and the funds used to carry out the pilot program with respect to such mission. “(B) Initial briefing.—The Deputy Secretary of Defense shall include in the first briefing submitted under subparagraph (A) a briefing on the implementation of the pilot program, including—“(i) the actions taken to implement the pilot program; “(ii) an assessment of the pilot program; “(iii) requests for Congress to provide authorities required to successfully carry out the pilot program; and “(iv) a description of the data plan required under subsection (d). “(2) Annual briefing.—Not later than one year after the date on which the pilot program is established, and annually thereafter until the date that is five years after the date of the enactment of this Act, the Deputy Secretary of Defense shall submit to the congressional defense committees a briefing on the pilot program, including—“(A) the data collected and analysis performed under subsection (d); “(B) lessons learned; “(C) the priorities for future activities of the pilot program; and “(D) such other information as the Deputy Secretary determines appropriate. “(3) Recommendation.—Not later than two years after the date of the enactment of this Act, the Deputy Secretary of Defense shall submit to Congress a briefing on the recommendations of the Deputy Secretary with respect to the pilot program and shall concurrently submit to Congress—“(A) a written assessment of the pilot program; “(B) a written recommendation on continuing or expanding the mission integration pilot program; “(C) requests for Congress to provide authorities required to successfully carry out the pilot program; and “(D) the data collected and analysis performed under subsection (d). “(g) Transition.—Beginning in fiscal year 2025, the Deputy Secretary of Defense may transition responsibilities for research, development, test, evaluation, and support to initial operational fielding activities started under the pilot program to other elements of the Department for purposes of delivering solutions fulfilling critical cross-service, cross-program, and cross-domain operational needs. “(h) Termination Date.—The pilot program shall terminate on the date that is five years after the date of the enactment of this Act. “(i) Rule of Construction.—Nothing in this section shall be construed as providing any authority not otherwise provided by law to procure, or enter agreements to procure, any goods, materials, or services. “(j) Definitions.—In this section:“(1) Covered armed force.—The term ‘covered Armed Force’ means—“(A) the Army; “(B) the Navy; “(C) the Air Force; “(D) the Marine Corps; or “(E) the Space Force. “(2) Cross-functional teams of the strategic capabilities office.—The term ‘Cross-Functional Teams of the Strategic Capabilities Office’ means the teams established in the Strategic Capabilities Office of the Department of Defense pursuant to section 233(b) of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 133 Stat. 1277; [10 U.S.C. 132](./chapter-004-office-of-the-secretary-of-defense.md#section-132) note). “(3) Cross-service.—The term ‘cross-service’ means pertaining to multiple covered Armed Forces. “(4) Cross-domain.—The term ‘cross-domain’ means pertaining to multiple operational domains of land, maritime, air, space, and cyberspace. “(4)[(5)] Cross-service operational need.—The term ‘cross-service operational need’ means an operational need arising from a mission undertaken by a combatant command which involves multiple covered Armed Forces. “(5)[(6)] Defense agency; military department.—The terms ‘Defense Agency’ and ‘military department’ have the meanings given such terms in [section 101(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a&num=0&edition=prelim), United States Code. “(6)[(7)] Field activity.—The term ‘Field Activity’ has the meaning given the term ‘Department of Defense Field Activity’ in [section 101(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a&num=0&edition=prelim), United States Code. “(7)[(8)] Mission management.—The term ‘mission management’ means the integration of materiel, digital, and operational elements to improve defensive and offensive options and outcomes for a specific mission or operational challenge. “(8)[(9)] Pilot program.—The term ‘pilot program’ means the pilot program established under subsection (a).”
+
+#### Establishment of Mission-Oriented Pilot Programs To Close Significant Capabilities Gaps
+Pub. L. 117–81, div. A, title VIII, § 872, Dec. 27, 2021, 135 Stat. 1859, provided that: “(a) In General.—The Secretary of Defense shall establish, within the Strategic Capabilities Office of the Office of the Secretary of Defense, not fewer than two mission-oriented integration pilot programs with the objective of closing significant capabilities gaps by developing and implementing capabilities and by synchronizing and integrating missions across covered Armed Forces and Defense Agencies. “(b) Elements.—The pilot programs established under subsection (a) shall—“(1) seek to address specific outstanding operational challenges of high importance to the operational plans of the United States Indo-Pacific Command and the United States European Command; “(2) be designed to leverage industry cost sharing by using sources such as private equity and venture capital funding to develop technologies and overall capabilities that resolve significant capability gaps for delivery to the Department of Defense, as a product or as a service; “(3) not later than three years after the date on which the pilot program commences, demonstrate the efficacy of the solutions being developed under the pilot program; “(4) deliver an operational capability not later than five years after the pilot program commences; “(5) provide an operationally relevant solution for—“(A)(i) maintaining resilient aircraft operations in and around Guam in the face of evolving regional threats, including large salvo supersonic and hypersonic missile threats; or “(ii) an operational challenge of similar strategic importance and relevance to the responsibilities and plans of the United States Indo-Pacific Command or the United States European Command; and “(B)(i) providing a resilient logistic and resupply capability in the face of evolving regional threats, including operations within an anti-access-area denial environment; or “(ii) an operational challenge of similar strategic importance and relevance to the responsibilities and plans of the United States Indo-Pacific Command; and “(6) incorporate—“(A) existing and planned Department of Defense systems and capabilities to achieve mission objectives; and “(B) to the extent practicable, technologies that have military applications and the potential for nonmilitary applications. “(c) Role of Strategic Capabilities Office.—“(1) In general.—With respect to the pilot programs established under subsection (a), the Director of the Strategic Capabilities Office, in consultation with the Under Secretary of Defense for Research and Engineering, shall—“(A) assign mission managers or program managers—“(i) to coordinate and collaborate with entities awarded contracts or agreements under the pilot program, parties to cost sharing agreements for such awarded contracts or agreements, combatant commands, and military departments to define mission requirements and solutions; and “(ii) to coordinate and monitor pilot program implementation; “(B) provide technical assistance for pilot program activities, including developing and implementing metrics, which shall be used—“(i) to assess each operational challenge such pilot programs are addressing; and “(ii) to characterize the resilience of solutions being developed under the pilot programs to known threats and single points of failure; “(C) provide operational use case expertise to the entities awarded contracts or agreements under the pilot program and parties to cost sharing agreements for such awarded contracts or agreements; “(D) serve as the liaison between the Armed Forces, the combatant commanders, and the participants in the pilot programs; and “(E) use flexible acquisition practices and authorities, including—“(i) the authorities under section[s] 2371 and 2371b of title 10, United States Code [now [10 U.S.C. 4021](./chapter-301-research-and-engineering-generally.md#section-4021), 4022]; “(ii) payments for demonstrated progress; “(iii) authorities under the Defense Production Act of 1950 ([50 U.S.C. 4501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4501&num=0&edition=prelim) et seq.); and “(iv) other acquisition practices that support efficient and effective access to emerging technologies and capabilities, including technologies and capabilities from companies funded with private investment. “(2) Reports to congress.—Not later than 180 days after the date of the enactment of this Act [Dec. 27, 2021], and every 180 days thereafter, the Director of the Strategic Capabilities Office shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the pilot programs. “(d) Additional Authorities.—The Secretary of Defense shall assess authorities required for such mission managers and program managers to effectively and efficiently fulfill their responsibilities under the pilot programs, including the delegation of personnel hiring and contracting authorities. “(e) Data.—The Secretary of Defense shall establish mechanisms to collect and analyze data on the implementation of the pilot programs for the purposes of—“(1) developing and sharing best practices for achieving goals established for the pilot programs; and “(2) providing information to the Secretary and the congressional defense committees on—“(A) the implementation of the pilot programs; and “(B) related policy issues. “(f) Recommendations.—Not later than two years after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees a recommendation with respect to continuing or expanding the pilot program. “(g) Transition of Pilot Program Responsibilities.—Beginning in fiscal year 2025, the Secretary may transition the responsibility for the pilot programs to another organization. “(h) Definitions.—In this section:“(1) Covered armed force.—The term ‘covered Armed Force’ means—“(A) the Army; “(B) the Navy; “(C) the Air Force; “(D) the Marine Corps; or “(E) the Space Force. “(2) Defense agency.—The term ‘Defense Agency’ has the meaning given such term in [section 101(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a&num=0&edition=prelim), United States Code. “(3) Mission manager.—The term ‘mission manager’ means an individual that, with respect to a mission under a pilot program established under subsection (a), shall have the responsibilities described in subparagraphs (B) through (F) of section 871(c)(2) of this Act [set out above].”
 
 #### Actions To Increase the Efficiency and Transparency of the Defense Logistics Agency
 Pub. L. 115–232, div. A, title IX, § 924, Aug. 13, 2018, 132 Stat. 1931, provided that: “(a) System and Capability.—Not later than January 1, 2020, the Director of the Defense Logistics Agency and the Chief Management Officer of the Department of Defense shall jointly, in consultation with the customers served by the Agency, develop and implement—“(1) a comprehensive system that enables customers of the Agency to view—“(A) the inventory of items and materials available to customers from the Agency; and “(B) the delivery status of items and materials that are in transit to customers; and “(2) a predictive analytics capability designed to increase the efficiency of the system described in paragraph (1) by identifying emerging customer needs with respect to items and materials supplied by the Agency, including any emerging needs arising from the use of new weapon systems by customers. “(b) Actions to Increase Efficiency.—Not later than January 1, 2020, the Director and the Chief Management Officer shall jointly—“(1) develop a plan to reduce the rates charged by the Agency to customers, in aggregate—“(A) by not less than 10 percent; or “(B) if the Chief Management Officer determines that a reduction of rates in aggregate of 10 percent or more will create overall inefficiencies for the Department, by such percentage less than 10 percent as the Chief Management Officer considers appropriate to avoid such inefficiencies, but only after notifying the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] of such lesser percentage in reduction of rates pursuant to this subparagraph; “(2) eliminate the duplication of services within the Agency; and “(3) establish specific goals and metrics to ensure that the Agency is fulfilling its mission of providing items and materials to customers with sufficient speed and in sufficient quantities to ensure the lethality and readiness of warfighters. “(c) Plan Required.—Not later than February 1, 2019, the Director and the Chief Management Officer shall jointly submit to the congressional defense committees a plan that describes how the Director and the Chief Management Officer will achieve compliance with the requirements of subsections (a) and (b).”
@@ -98,7 +104,7 @@ Pub. L. 99–433, title III, § 303, Oct. 1, 1986, 100 Stat. 1023, directed Secr
 A prior section 192, Pub. L. 98–215, title V, § 501(a), Dec. 9, 1983, 97 Stat. 1478, which related to benefits for certain personnel of the Defense Intelligence Agency, was redesignated as [section 1605 of this title](./chapter-083-civilian-defense-intelligence-employees.md#section-1605) and amended by Pub. L. 99–145, title XIII, § 1302(a)(1), Nov. 8, 1985, 99 Stat. 737. Provisions of prior section 192 as related to members of the armed forces were enacted as section 431 (now 491) of Title 37, Pay and Allowances of the Uniformed Services, by section 1302(b)(1) of Pub. L. 99–145.
 
 #### Amendments
-2021—Subsec. (c)(1). Pub. L. 116–283 struck out subsec. (c) relating to periodic review of services and supplies provided by each Defense Agency and Department of Defense Field Activity.
+2021—Subsec. (c)(1). Pub. L. 116–283 struck out par. (1) relating to periodic review of services and supplies provided by each Defense Agency and Department of Defense Field Activity.
 
 2018—Subsec. (c)(1) to (3). Pub. L. 115–232, § 923(a), added par. (1) relating to efficiency and effectiveness reviews and par. (2) and redesignated former par. (2) as (3).
 
@@ -201,7 +207,7 @@ Pub. L. 104–201, div. A, title XI, § 1124, Sept. 23, 1996, 110 Stat. 2688, pr
 Pub. L. 115–232, div. A, title XVI, § 1626, Aug. 13, 2018, 132 Stat. 2121, provided that: “(a) Framework Required.—“(1) In general.—In accordance with section 105 of the National Security Act of 1947 ([50 U.S.C. 3038](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3038&num=0&edition=prelim)), [section 193 of title 10](./chapter-008-defense-agencies-and-department-of-defense-field-activities.md#section-193), United States Code, and section 1018 of the National Security Intelligence Reform Act of 2004 (Public Law 108–458; [50 U.S.C. 3023](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3023&num=0&edition=prelim) note), the Secretary of Defense, in coordination with the Director of National Intelligence, shall develop and establish in policy a framework and supporting processes within the Department of Defense to help ensure that the missions, roles, and functions of the combat support agencies of the Department of Defense that are also elements of the intelligence community, and other intelligence components of the Department, are appropriately balanced and resourced. “(2) Scope.—The framework shall include a consistent, repeatable process for the evaluation of proposed additions, transfers, or eliminations of a mission, role, or functions and associated resource profiles of the elements described in paragraph (1) for purposes of preventing imbalances in priorities, insufficient or misaligned resources, and the unauthorized expansion of mission parameters. “(b) Elements.—The framework required by subsection (a) shall include the following:“(1) A lexicon of relevant terms used by the Department of Defense and the Office of the Director of National Intelligence that—“(A) ensures consistent definitions are used in determinations about the balance described in subsection (a)(1); and “(B) reconciles jointly used definitions. “(2) A reevaluation of the intelligence components of the Department, including the Joint Intelligence Centers and Joint Intelligence Operations Centers within the combatant commands, in order to determine which components should be formally designated as part of the intelligence community and any components not so designated conform to relevant tradecraft standards. “(3) A repeatable process of the Department for evaluating the addition, transfer, or elimination of defense intelligence missions, roles, and functions, currently or to be performed by elements described in subsection (a)(1) that includes—“(A) a justification for any proposed addition, transfer, or elimination of a mission, role, or function; “(B) the identification of the elements in the Federal Government, if any, that currently perform the mission, role, or function concerned; “(C) for any proposed addition of a mission, role, or function, an assessment of the most appropriate element of the Department to assume it, taking into account current resource profiles, scope of existing responsibilities, primary customers, and infrastructure necessary to support the addition; and “(D) for any proposed addition or transfer of a mission, role, or function—“(i) a determination of the appropriate resource profile for such mission, role, or function; and “(ii) the identification, in writing, for the Department elements concerned of the resources anticipated to be needed and source of such resources during the period covered by the future-years defense program submitted to Congress under [section 221 of title 10](./chapter-009-defense-budget-matters.md#section-221), United States Code, as in effect at the time of the proposed addition or transfer. “(c) Briefing.—Not later than 180 days after the date of the enactment of this Act [Aug. 13, 2018], the Secretary, in coordination with the Director, shall provide to the Committees on Armed Services of the House of Representatives and the Senate, and to any other appropriate congressional committee upon request, a briefing on the framework required by subsection (a). “(d) Policy.—Not later than 270 days after the date of the enactment of this Act, the Secretary, in coordination with the Director, shall submit to the appropriate congressional committees a report setting forth the policy establishing the framework required by subsection (a). “(e) Definitions.—In this section:“(1) The term ‘appropriate congressional committees’ means—“(A) the Committee on Armed Services, the Committee on Appropriations, and the Select Committee on Intelligence of the Senate; and “(B) the Committee on Armed Services, the Committee on Appropriations, and the Permanent Select Committee on Intelligence of the House of Representatives. “(2) The term ‘combat support agency’ has the meaning given that term in [section 193 of title 10](./chapter-008-defense-agencies-and-department-of-defense-field-activities.md#section-193), United States Code. “(3) The term ‘intelligence community’ has the meaning given that term in section 3(4) of the National Security Act of 1947 ([50 U.S.C. 3003(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003/4&num=0&edition=prelim)).”
 
 #### First Report and Other Actions by Chairman of Joint Chiefs of Staff
-Section 304(b) of Pub. L. 99–433 required the first report under subsec. (a) of [section 193 of this title](./chapter-008-defense-agencies-and-department-of-defense-field-activities.md#section-193) to be submitted and subsecs. (b) and (c) of section 193 to be implemented not later than one year after Oct. 1, 1986, and a report on implementation to be submitted to Congress for 1988 under [section 113(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section113/c&num=0&edition=prelim).
+Pub. L. 99–433, title III, § 304(b), Oct. 1, 1986, 100 Stat. 1025, required the first report under subsec. (a) of [section 193 of this title](./chapter-008-defense-agencies-and-department-of-defense-field-activities.md#section-193) to be submitted and subsecs. (b) and (c) of section 193 to be implemented not later than one year after Oct. 1, 1986, and a report on implementation to be submitted to Congress for 1988 under [section 113(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section113/c&num=0&edition=prelim).
 
 
 <a id="section-194"></a>
@@ -253,166 +259,12 @@ Pub. L. 105–85, div. A, title III, § 387(c), Nov. 18, 1997, 111 Stat. 1713, a
 
 
 <a id="section-196"></a>
-## § 196. Department of Defense Test Resource Management Center
-**(a) Establishment as Department of Defense Field Activity.—** The Secretary of Defense shall establish within the Department of Defense under [section 191 of this title](./chapter-008-defense-agencies-and-department-of-defense-field-activities.md#section-191) a Department of Defense Test Resource Management Center (hereinafter in this section referred to as the “Center”). The Secretary shall designate the Center as a Department of Defense Field Activity.
-
-**(b) Director and Deputy Director.—**
-
-(1) At the head of the Center shall be a Director, selected by the Secretary from among individuals who have substantial experience in the field of test and evaluation.
-
-(2) There shall be a Deputy Director of the Center, selected by the Secretary from among individuals who have substantial experience in the field of test and evaluation. The Deputy Director shall act for, and exercise the powers of, the Director when the Director is disabled or the position of Director is vacant.
-
-**(c) Duties of Director.—**
-
-(1) The Director shall have the following duties:
-
-  (A) To review and provide oversight of proposed Department of Defense budgets and expenditures for—
-
-    (i) the test and evaluation facilities and resources of the Major Range and Test Facility Base of the Department of Defense; and
-
-    (ii) all other test and evaluation facilities and resources within and outside of the Department of Defense, other than budgets and expenditures for activities described in [section 139(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section139/j&num=0&edition=prelim).
-
-  (B) To review proposed significant changes to the test and evaluation facilities and resources of the Major Range and Test Facility Base, including with respect to the expansion, divestment, consolidation, or curtailment of activities, before they are implemented by the Secretaries of the military departments or the heads of the Defense Agencies with test and evaluation responsibilities and advise the Secretary of Defense and the Under Secretary of Defense for Research and Engineering of the impact of such changes on the adequacy of such test and evaluation facilities and resources to meet the test and evaluation requirements of the Department.
-
-  (C) To complete and maintain the quadrennial strategic plan required by subsection (d).
-
-  (D) To review proposed budgets under subsection (e) and submit reports and certifications required by such subsection.
-
-  (E) To administer the Central Test and Evaluation Investment Program and the program of the Department of Defense for test and evaluation science and technology.
-
-(2) The Director shall have access to such records and data of the Department of Defense (including the appropriate records and data of each military department and Defense Agency) that are necessary in order to carry out the duties of the Director under this section.
-
-**(d) Quadrennial Strategic Plan for Department of Defense Test and Evaluation Resources.—**
-
-(1) Not less often than once every four fiscal years, and within one year after release of the National Defense Strategy,, 11 So in original. the Under Secretary of Defense for Research and Engineering, in coordination with the Director of the Department of Defense Test Resource Management Center, the Director of Operational Test and Evaluation, the Director of the Defense Intelligence Agency, the Secretaries of the military departments, and the heads of Defense Agencies with test and evaluation responsibilities, shall complete a quadrennial strategic plan reflecting the future needs of the Department of Defense with respect to test and evaluation facilities and resources. Each quadrennial strategic plan shall cover the period of thirty fiscal years beginning with the fiscal year in which the plan is submitted under paragraph (3). The quadrennial strategic plan shall be based on a comprehensive review of both funded and unfunded test and evaluation requirements of the Department, future threats to national security, and the adequacy of the test and evaluation facilities and resources of the Department to meet those future requirements and threats.
-
-(2) The quadrennial strategic plan shall include the following:
-
-  (A) An assessment of the test and evaluation requirements of the Department for the period covered by the plan.
-
-  (B) An identification of performance measures associated with the successful achievement of test and evaluation objectives for the period covered by the plan.
-
-  (C) An assessment of the test and evaluation facilities and resources that will be needed to meet current and future requirements for test and evaluation of the Department of Defense major weapon systems based on current and emerging threats.
-
-  (D) An assessment of the current state of the test and evaluation facilities and resources of the Department.
-
-  (E) An assessment of plans and business case analyses supporting any significant modification of the test and evaluation facilities and resources of the Department projected, proposed, or recommended by the Secretary of a military department or the head of a Defense Agency for such period, including with respect to the expansion, divestment, consolidation, or curtailment of activities.
-
-  (F) An itemization of acquisitions, upgrades, and improvements necessary to ensure that the test and evaluation facilities and resources of the Department are adequate to meet such requirements and satisfy such performance measures.
-
-  (G) An assessment of the budgetary resources necessary to implement such acquisitions, upgrades, and improvements.
-
-(3) Upon completing a quadrennial strategic plan under paragraph (1), the Director shall submit to the Secretary of Defense a report on that plan. The report shall include the plan and a description of the review on which the plan is based.
-
-(4) Not later than 60 days after the date on which the report is submitted under paragraph (3), the Secretary of Defense shall transmit to the Committee on Armed Services and Committee on Appropriations of the Senate and the Committee on Armed Services and Committee on Appropriations of the House of Representatives the report, together with any comments with respect to the report that the Secretary considers appropriate.
-
-(5)
-
-  (A) In addition to the quadrennial strategic plan completed under paragraph (1), the Director of the Department of Defense Test Resource Management Center shall also complete an annual update to the quadrennial strategic plan.
-
-  (B) Each annual update completed under subparagraph (A) shall include the following:
-
-    (i) A summary of changes to the assessment provided in the most recent quadrennial strategic plan.
-
-    (ii) Comments and recommendations the Director considers appropriate.
-
-    (iii) Test and evaluation challenges raised since the completion of the most recent quadrennial strategic plan.
-
-    (iv) Actions taken or planned to address such challenges.
-
-**(e) Certification of Budgets.—**
-
-(1) The Secretary of Defense, acting through the Under Secretary of Defense (Comptroller), shall require that the Secretary of each military department and the head of each Defense Agency with test and evaluation responsibilities transmit such Secretary’s or Defense Agency head’s proposed budget for test and evaluation activities, including modeling and simulation activities, for a fiscal year and for the period covered by the future-years defense program submitted to Congress under [section 221 of this title](./chapter-009-defense-budget-matters.md#section-221) for that fiscal year to the Director of the Center for review under paragraph (2) before submitting such proposed budget to the Under Secretary of Defense (Comptroller).
-
-(2)
-
-  (A) The Director of the Center shall review each proposed budget transmitted under paragraph (1) and shall, not later than January 31 of the year preceding the fiscal year for which such budgets are proposed, submit to the Secretary of Defense a report containing the comments of the Director with respect to all such proposed budgets, together with the certification of the Director as to whether such proposed budgets are adequate.
-
-  (B) The Director shall also submit, together with such report and such certification, an additional certification as to whether such proposed budgets provide balanced support for such quadrennial strategic plan.
-
-(3) The Secretary of Defense shall, not later than March 31 of the year preceding the fiscal year for which such budgets are proposed, submit to Congress a report on those proposed budgets which the Director has not certified under paragraph (2)(A) to be adequate. The report shall include the following matters:
-
-  (A) A discussion of the actions that the Secretary proposes to take, together with any recommended legislation that the Secretary considers appropriate, to address the inadequacy of the proposed budgets.
-
-  (B) Any additional comments that the Secretary considers appropriate regarding the inadequacy of the proposed budgets.
-
-**(f) Approval of Certain Modifications.—**
-
-(1) The Secretary of a military department or the head of a Defense Agency with test and evaluation responsibilities may not implement a projected, proposed, or recommended significant modification of the test and evaluation facilities and resources of the Department, including with respect to the expansion, divestment, consolidation, or curtailment of activities, until—
-
-  (A) the Secretary or the head, as the case may be, submits to the Director a business case analysis for such modification; and
-
-  (B) the Director reviews such analysis and approves such modification.
-
-(2) The Director shall submit to the Secretary of Defense an annual report containing the comments of the Director with respect to each business case analysis reviewed under paragraph (1)(B) during the year covered by the report.
-
-**(g) Supervision of Director by Under Secretary.—** The Director of the Center shall be subject to the supervision of the Under Secretary of Defense for Research and Engineering. The Director shall report directly to the Under Secretary, without the interposition of any other supervising official.
-
-**(h) Administrative Support of Center.—** The Secretary of Defense shall provide the Director with administrative support adequate for carrying out the Director’s responsibilities under this section. The Secretary shall provide the support out of the headquarters activities of the Department or any other activities that the Secretary considers appropriate.
-
-**(i) Definition.—** In this section, the term “Major Range and Test Facility Base” means the test and evaluation facilities and resources that are designated by the Secretary of Defense as facilities and resources comprising the Major Range and Test Facility Base.
+## § 196. Renumbered § 4173]
 
 ### Statutory Notes
 
-#### Transfer of Section
-Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1845(b), Jan. 1, 2021, 134 Stat. 4151, 4247, provided in part that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 309 of this title, as amended by section 1845(a) of Pub. L. 116–283, inserted after the table of sections, and redesignated as [section 4173 of this title](./chapter-309-test-and-evaluation.md#section-4173). See Effective Date of 2021 Amendment note below.
-
-#### Amendments
-2021—Subsec. (c)(1)(C). Pub. L. 116–283, § 272(a)(1), inserted “quadrennial” before “strategic plan”.
-
-Subsec. (d). Pub. L. 116–283, § 272(a)(2), inserted “Quadrennial” before “Strategic Plan” in heading and “quadrennial” before “strategic plan” whenever appearing in text.
-
-Subsec. (d)(1). Pub. L. 116–283, § 272(b), (e), substituted “four fiscal years, and within one year after release of the National Defense Strategy,” for “two fiscal years” and “Test Resource Management Center” for “Test Resources Management Center”.
-
-Subsec. (d)(2)(C). Pub. L. 116–283, § 272(c), substituted “for test and evaluation of the Department of Defense major weapon systems based on current and emerging threats.” for “based on current and emerging threats and satisfy such performance measures.”
-
-Subsec. (d)(5). Pub. L. 116–283, § 272(d), added par. (5).
-
-Subsec. (e)(2)(B). Pub. L. 116–283, § 272(a)(1), inserted “quadrennial” before “strategic plan”.
-
-2018—Subsec. (c)(1)(B). Pub. L. 115–232, § 904, which directed substitution of “Under Secretary of Defense for Research and Engineering” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”, was executed by making the substitution for “Under Secretary of Acquisition, Technology, and Logistics” to reflect the probable intent of Congress.
-
-Subsec. (d)(1). Pub. L. 115–232, § 221(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Not less often than once every two fiscal years, the Director, in coordination with the Director of Operational Test and Evaluation, the Secretaries of the military departments, and the heads of Defense Agencies with test and evaluation responsibilities, shall complete a strategic plan reflecting the needs of the Department of Defense with respect to test and evaluation facilities and resources, including modeling and simulation capabilities. Each such strategic plan shall cover the period of ten fiscal years beginning with the fiscal year in which the plan is submitted under paragraph (3). The strategic plan shall be based on a comprehensive review of the test and evaluation requirements of the Department and the adequacy of the test and evaluation facilities and resources of the Department to meet those requirements.”
-
-Subsec. (d)(2)(C). Pub. L. 115–232, § 221(2), substituted “needed to meet current and future requirements based on current and emerging threats” for “needed to meet such requirements”.
-
-Subsec. (g). Pub. L. 115–232, § 904, substituted “Under Secretary of Defense for Research and Engineering” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
-
-2017—Subsec. (d)(1). Pub. L. 115–91, § 222(1), inserted “, including modeling and simulation capabilities” after “and resources” in the first sentence.
-
-Subsec. (e)(1). Pub. L. 115–91, § 222(2), inserted “, including modeling and simulation activities,” after “evaluation activities”.
-
-2016—Subsec. (b)(1). Pub. L. 114–328, § 502(c), struck out second and third sentences which read as follows: “A commissioned officer serving as the Director, while so serving, holds the grade of lieutenant general or, in the case of an officer of the Navy, vice admiral. A civilian officer or employee serving as the Director, while so serving, has a pay level equivalent in grade to lieutenant general.”
-
-Subsec. (c)(1)(A)(ii). Pub. L. 114–328, § 1081(a)(3), substituted “section 139(j)” for “section 139(i)”.
-
-2014—Subsec. (c)(1)(B). Pub. L. 113–291, § 214(a), inserted “, including with respect to the expansion, divestment, consolidation, or curtailment of activities,” after “Base”.
-
-Subsec. (d)(2)(E) to (G). Pub. L. 113–291, § 214(b), added subpar. (E) and redesignated former subpars. (E) and (F) as (F) and (G), respectively.
-
-Subsec. (e)(1). Pub. L. 113–291, § 214(c), inserted “and for the period covered by the future-years defense program submitted to Congress under [section 221 of this title](./chapter-009-defense-budget-matters.md#section-221) for that fiscal year” after “activities for a fiscal year”.
-
-Subsecs. (f) to (i). Pub. L. 113–291, § 214(d), added subsec. (f) and redesignated former subsecs. (f) to (h) as (g) to (i), respectively.
-
-2009—Subsec. (c). Pub. L. 111–84 inserted par. (1) designation before “The Director”, redesignated former par. (1) as subpar. (A) and former subpars. (A) and (B) as cl. (i) and (ii), respectively, of subpar. (A), added subpar. (B), redesignated former pars. (2) to (4) as subpars. (C) to (E), respectively, and added par. (2).
-
-2006—Subsec. (b)(1). Pub. L. 109–163, § 902(a), substituted “individuals who have substantial experience in the field of test and evaluation.” for “commissioned officers of the armed forces on active duty or from among senior civilian officers and employees of the Department of Defense.”
-
-Subsec. (b)(2). Pub. L. 109–163, § 902(b), substituted “individuals” for “senior civilian officers and employees of the Department of Defense”.
-
-Subsec. (h). Pub. L. 109–163, § 258(a), substituted “Secretary of Defense” for “Director of Operational Test and Evaluation”.
-
-2003—Subsec. (b)(1). Pub. L. 108–136, § 212(a), substituted “on active duty or from among senior civilian officers and employees of the Department of Defense. A commissioned officer serving as the Director” for “on active duty. The Director” and inserted at end “A civilian officer or employee serving as the Director, while so serving, has a pay level equivalent in grade to lieutenant general.”
-
-Subsec. (c)(1)(B). Pub. L. 108–136, § 212(b)(1), inserted “, other than budgets and expenditures for activities described in [section 139(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section139/i&num=0&edition=prelim)” after “Department of Defense”.
-
-Subsec. (e)(1). Pub. L. 108–136, § 212(b)(2), struck out “, the Director of Operational Test and Evaluation,” after “each military department” and substituted “or Defense Agency head’s” for “, Director’s, or head’s”.
-
-#### Effective Date of 2021 Amendment
-Amendment by 1845(b) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
-
-#### Termination of Reporting Requirements
-For termination, effective Dec. 31, 2021, of provisions in subsecs. (d)(1), (4) and (e)(3) of this section requiring submittal of report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
+#### Protection of Major Range and Test Facility Base
+Pub. L. 117–81, div. A, title XVI, § 1686, Dec. 27, 2021, 135 Stat. 2126, provided that: “The Secretary of Defense may authorize, consistent with the authorities of the Secretary, such actions as are necessary to mitigate threats posed by space-based assets to the security or operation of the Major Range and Test Facility Base (as defined in [section 196(i) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section196/i&num=0&edition=prelim), United States Code) [now [10 U.S.C. 4173(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4173/i&num=0&edition=prelim)].”
 
 #### Administration of Programs To Begin After First Strategic Plan
 Pub. L. 107–314, div. A, title II, § 231(b), (c), Dec. 2, 2002, 116 Stat. 2489, directed that the first strategic plan required to be completed under subsec. (d)(1) of this section was to be completed not later than six months after Dec. 2, 2002, and that the duty of the Director of the Department of Defense Test Resource Management Center to administer the programs specified in subsec. (c)(4) of this section would take effect upon the beginning of the first fiscal year that began after the report on the first strategic plan was transmitted to committees of Congress.
@@ -427,6 +279,53 @@ Pub. L. 107–314, div. A, title II, § 231(b), (c), Dec. 2, 2002, 116 Stat. 248
 **(c) Retention of Fees.—** Fees collected under this section shall be credited to the appropriation available for Defense Logistics Information Services for the fiscal year in which collected, shall be merged with other sums in such appropriation, and shall be available for the same purposes and period as the appropriation with which merged.
 
 **(d) Defense Logistics Information Services Defined.—** In this section, the term “Defense Logistics Information Services” means the organization within the Defense Logistics Agency that is known as Defense Logistics Information Services.
+
+
+<a id="section-198"></a>
+## § 198. Office of Local Defense Community Cooperation
+**(a) In General.—** There is in the Department of Defense an Office of Local Defense Community Cooperation (in this section referred to as the “Office”). The Secretary shall designate the Office as a Department of Defense Field Activity pursuant to section 191, effective as of the date of the enactment of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283).
+
+**(b) Director.—** The Office shall be headed by the Director of the Office of Local Defense Community Cooperation, who shall be appointed by the Secretary of Defense from among civilian employees of the Federal Government or private individuals who have the following:
+
+(1) Experience in the interagency in the Executive Branch.
+
+(2) Experience in the administration and management of Federal grants programs.
+
+**(c) Duties.—** The Office shall—
+
+(1) serve as the office in the Department of Defense with primary responsibility for—
+
+  (A) providing assistance to States, counties, municipalities, regions, and other communities to foster cooperation with military installations to enhance the military mission, achieve facility and infrastructure savings and reduced operating costs, address encroachment and compatible land use issues, support military families, and increase military, civilian, and industrial readiness and resiliency; and
+
+  (B) providing adjustment and diversification assistance to State and local governments under [section 2391(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2391/b&num=0&edition=prelim) to achieve the objectives described in subparagraph (A);
+
+(2) coordinate the provision of such assistance with other organizations and elements of the Department;
+
+(3) provide support to the Economic Adjustment Committee established under Executive Order No. 12788 (57 Fed. Reg. 2213; [10 U.S.C. 2391](./chapter-141-miscellaneous-provisions-relating-to-property.md#section-2391) note) or any successor to such Committee; and
+
+(4) carry out such other activities as the Secretary considers appropriate.
+
+**(d) Annual Report to Congress.—** Not later than June 1 each year, the Director of the Office of Local Defense Community Cooperation shall submit to the congressional defense committees a report on the activities of the Office during the preceding year, including the assistance provided pursuant to subsection (c)(1) during such year.
+
+### Statutory Notes
+
+#### References in Text
+The date of the enactment of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283), referred to in subsec. (a), is the date of enactment of Pub. L. 116–283, which was approved Jan. 1, 2021.
+
+#### Amendments
+2021—Pub. L. 117–81, § 902(a)(1), renumbered [section 146 of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-146) as this section.
+
+Subsec. (a). Pub. L. 117–81, § 902(a)(2), substituted “in the Department of Defense an” for “in the Office of the Secretary of Defense an office to be known as the” and inserted at end “The Secretary shall designate the Office as a Department of Defense Field Activity pursuant to section 191, effective as of the date of the enactment of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283).”
+
+Subsec. (b). Pub. L. 117–81, § 902(a)(3)(A), substituted “Secretary of Defense” for “Under Secretary of Defense for Acquisition and Sustainment” in introductory provisions.
+
+Subsec. (c)(4). Pub. L. 117–81, § 902(a)(3)(B), substituted “Secretary” for “Under Secretary of Defense for Acquisition and Sustainment”.
+
+#### Limitation on Involuntary Separation of Personnel
+Pub. L. 117–81, div. A, title IX, § 902(b), Dec. 27, 2021, 135 Stat. 1869, provided that: “No personnel of the Office of Local Defense Community Cooperation under [section 198 of title 10](./chapter-008-defense-agencies-and-department-of-defense-field-activities.md#section-198), United States Code (as added by subsection (a)), may be involuntarily separated from service with that Office during the one-year period beginning on the date of the enactment of this Act [Dec. 27, 2021], except for cause.”
+
+#### Administration of Programs
+Pub. L. 117–81, div. A, title IX, § 902(c), Dec. 27, 2021, 135 Stat. 1869, provided that: “Any program, project, or other activity administered by the Office of Economic Adjustment of the Department of Defense as of the date of the enactment of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283) [Jan. 1, 2021] shall be administered by the Office of Local Defense Community Cooperation under [section 198 of title 10](./chapter-008-defense-agencies-and-department-of-defense-field-activities.md#section-198), United States Code (as added by subsection (a)).”
 
 
 <a id="section-201"></a>
@@ -511,49 +410,61 @@ Section, added Pub. L. 105–85, div. A, title II, § 235(a), Nov. 18, 1997, 111
 
 
 <a id="section-204"></a>
-## § 204. Small Business Ombudsman for defense audit agencies
-**(a) Small Business Ombudsman.—** The Secretary of Defense shall designate within each defense audit agency an official as the Small Business Ombudsman to have the duties described in subsection (b) and such other responsibilities as may be determined by the Secretary.
-
-**(b) Duties.—** The Small Business Ombudsman of a defense audit agency shall—
-
-(1) advise the Director of the defense audit agency on policy issues related to small business concerns;
-
-(2) serve as the defense audit agency’s primary point of contact and source of information for small business concerns;
-
-(3) collect and monitor relevant data regarding the defense audit agency’s conduct of audits of small business concerns, including—
-
-  (A) data regarding the timeliness of audit closeouts for small business concerns; and
-
-  (B) data regarding the responsiveness of the defense audit agency to issues or other matters raised by small business concerns; and
-
-(4) make recommendations to the Director regarding policies, processes, and procedures related to the timeliness of audits of small business concerns and the responsiveness of the defense audit agency to issues or other matters raised by small business concerns.
-
-**(c) Audit Independence.—** The Small Business Ombudsman of a defense audit agency shall be segregated from ongoing audits in the field and shall not engage in activities with regard to particular audits that could compromise the independence of the defense audit agency or undermine compliance with applicable audit standards.
-
-**(d) Defense Audit Agency Defined.—** In this section, the term “defense audit agency” means the Defense Contract Audit Agency and the Defense Contract Management Agency.
-
-### Statutory Notes
-
-#### Transfer of Section
-Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1835(c), Jan. 1, 2021, 134 Stat. 4151, 4240, provided in part that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 279 of this title, as amended by section 1835(a) of Pub. L. 116–283, inserted (in designated order) after section 3841, as amended by subsection 1835(b) of Pub. L. 116–283, and redesignated as [section 3848 of this title](./chapter-279-contractor-audits-and-accounting.md#section-3848).
-
-#### Effective Date of 2021 Amendment
-Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+## § 204. Renumbered § 3848]
 
 
 <a id="section-205"></a>
 ## § 205. Missile Defense Agency
+**(a) Appointment of Director.—** The Director of the Missile Defense Agency shall be appointed for a six-year term.
 
-The Director of the Missile Defense Agency shall be appointed for a six-year term.
+**(b) Notification of Changes to Non-standard Acquisition and Requirements Processes and Responsibilities.—**
+
+(1) The Secretary of Defense may not make any changes to the missile defense non-standard acquisition and requirements processes and responsibilities unless, with respect to those proposed changes—
+
+  (A) the Secretary, without delegation, has taken each of the actions specified in paragraph (2); and
+
+  (B) a period of 120 days has elapsed following the date on which the Secretary submits the report under subparagraph (C) of such paragraph.
+
+(2) If the Secretary proposes to make changes to the missile defense non-standard acquisition and requirements processes and responsibilities, the Secretary shall—
+
+  (A) consult with the Under Secretary of Defense for Research and Engineering, the Under Secretary of Defense for Acquisition and Sustainment, the Under Secretary of Defense for Policy, the Secretaries of the military departments, the Chairman of the Joint Chiefs of Staff, the Commander of the United States Strategic Command, the Commander of the United States Northern Command, and the Director of the Missile Defense Agency, regarding the changes;
+
+  (B) certify to the congressional defense committees that the Secretary has coordinated the changes with, and received the views of, the individuals referred to in subparagraph (A);
+
+  (C) submit to the congressional defense committees a report that contains—
+
+    (i) a description of the changes, the rationale for the changes, and the views of the individuals referred to in subparagraph (A) with respect to the changes;
+
+    (ii) a certification that the changes will not impair the missile defense capabilities of the United States nor degrade the unique special acquisition authorities of the Missile Defense Agency; and
+
+    (iii) with respect to any such changes to Department of Defense Directive 5134.09, or successor directive issued in accordance with this subsection, a final draft of the proposed modified directive, both in an electronic format and in a hard copy format; and
+
+  (D) with respect to any such changes to Department of Defense Directive 5134.09, or successor directive issued in accordance with this subsection, provide to such committees a briefing on the proposed modified directive described in subparagraph (C)(iii).
+
+(3) In this subsection, the term “non-standard acquisition and requirements processes and responsibilities” means the processes and responsibilities described in—
+
+  (A) the memorandum of the Secretary of Defense titled “Missile Defense Program Direction” signed on January 2, 2002, as in effect on the date of the enactment of this subsection or as modified in accordance with this subsection, or any successor memorandum issued in accordance with this subsection;
+
+  (B) Department of Defense Directive 5134.09, as in effect on the date of the enactment of this subsection (without regard to any modifications described in Directive-type Memorandum 20–002 of the Deputy Secretary of Defense, or any amendments or extensions thereto made before the date of such enactment), or as modified in accordance with this subsection, or any successor directive issued in accordance with this subsection; and
+
+  (C) United States Strategic Command Instruction 538–3 titled “MD Warfighter Involvement Process”, as in effect on the date of the enactment of this subsection or as modified in accordance with this subsection, or any successor instruction issued in accordance with this subsection.
 
 ### Statutory Notes
 
+#### References in Text
+The date of the enactment of this subsection, referred to in subsec. (b)(3), is the date of enactment of Pub. L. 117–81, which was approved Dec. 27, 2021.
+
 #### Amendments
-2021—Pub. L. 116–283 amended section generally. Prior to amendment, section read as follows:
+2021—Pub. L. 117–81, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
+Pub. L. 116–283 amended section generally. Prior to amendment, text read as follows:
 
 “(a) Term of Director.—The Director of the Missile Defense Agency shall be appointed for a six-year term.
 
 “(b) Reporting.—The Missile Defense Agency shall be under the authority, direction, and control of the Under Secretary of Defense for Research and Engineering.”
 
+#### Directed Energy Programs for Ballistic and Hypersonic Missile Defense
+Pub. L. 117–81, div. A, title XVI, § 1664, Dec. 27, 2021, 135 Stat. 2104, provided that: “(a) Authority of the Missile Defense Agency.—The Secretary of Defense shall delegate to the Director of the Missile Defense Agency the authority to budget for, direct, and manage directed energy programs applicable for ballistic and hypersonic missile defense missions, in coordination with other directed energy efforts of the Department of Defense. “(b) Prioritization.—In budgeting for and directing directed energy programs applicable for ballistic and hypersonic defensive missions pursuant to subsection (a), the Director of the Missile Defense Agency shall—“(1) prioritize the early research and development of technologies; and “(2) address the transition of such technologies to industry to support future operationally relevant capabilities.”
+
 #### Application
-Pub. L. 115–91, div. A, title XVI, § 1676(c)(3), Dec. 12, 2017, 131 Stat. 1773, provided that: “(A) Terms.—Subsection (a) of [section 205 of title 10](./chapter-008-defense-agencies-and-department-of-defense-field-activities.md#section-205), United States Code, as added by paragraph (1), shall apply the day following the date on which the present incumbent in the office of the Director of the Missile Defense Agency, as of the date of the enactment of this Act [Dec. 12, 2017], ceases to serve as such. “(B) Reporting.—Subsection (b) of such section 205 shall apply beginning on February 1, 2018. In carrying out such subsection, the Missile Defense Agency shall be under the authority, direction, and control of the Under Secretary of Defense for Research and Engineering in the same manner as the Missile Defense Agency was under the authority, direction, and control of the Under Secretary of Defense for Acquisition, Technology, and Logistics pursuant to Department of Defense Directive 5134.09. Any reference in such Instruction to the Under Secretary of Defense for Acquisition, Technology, and Logistics shall be deemed to be a reference to the Under Secretary of Defense for Research and Engineering, including with respect to the Under Secretary serving as the chairman of the Missile Defense Executive Board.”
+Pub. L. 115–91, div. A, title XVI, § 1676(c)(3), Dec. 12, 2017, 131 Stat. 1773, as amended by Pub. L. 117–81, div. A, title XVI, § 1671(d)(1), Dec. 27, 2021, 135 Stat. 2113, provided that: “(A) Terms.—Subsection (a) of [section 205 of title 10](./chapter-008-defense-agencies-and-department-of-defense-field-activities.md#section-205), United States Code, as added by paragraph (1), shall apply the day following the date on which the present incumbent in the office of the Director of the Missile Defense Agency, as of the date of the enactment of this Act [Dec. 12, 2017], ceases to serve as such. “(B) Reporting.—Subsection (b) of such section 205 shall apply beginning on February 1, 2018. In carrying out such subsection, the Missile Defense Agency shall be under the authority, direction, and control of the Under Secretary of Defense for Research and Engineering in the same manner as the Missile Defense Agency was under the authority, direction, and control of the Under Secretary of Defense for Acquisition, Technology, and Logistics pursuant to Department of Defense Directive 5134.09. Any reference in such Instruction to the Under Secretary of Defense for Acquisition, Technology, and Logistics shall be deemed to be a reference to the Under Secretary of Defense for Research and Engineering, including with respect to the Under Secretary serving as the chair of the Missile Defense Executive Board.”

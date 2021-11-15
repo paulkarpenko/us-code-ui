@@ -185,9 +185,6 @@ The “innocent infringer” provision of section 504(c)(2) has been the subject
 
 In addition to the general “innocent infringer” provision clause (2) deals with the special situation of teachers, librarians, archivists, and public broadcasters, and the nonprofit institutions of which they are a part. Section 504(c)(2) provides that, where such a person or institution infringed copyrighted material in the honest belief that what they were doing constituted fair use, the court is precluded from awarding any statutory damages. It is intended that, in cases involving this provision, the burden of proof with respect to the defendant’s good faith should rest on the plaintiff.
 
-#### Constitutionality
-For information regarding constitutionality of certain provisions of this section, as enacted by section 101 of Pub. L. 94–553, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
-
 #### Amendments
 2010—Subsec. (c)(2). Pub. L. 111–295 substituted “section 118(f)” for “subsection (g) of section 118”.
 
@@ -363,6 +360,9 @@ Subsec. (b). Pub. L. 106–113, § 1000(a)(9) [title I, § 1011(a)(3)], substitu
 **(b) Remedies.—** In a suit described in subsection (a) for a violation described in that subsection, remedies (including remedies both at law and in equity) are available for the violation to the same extent as such remedies are available for such a violation in a suit against any public or private entity other than a State, instrumentality of a State, or officer or employee of a State acting in his or her official capacity. Such remedies include impounding and disposition of infringing articles under section 503, actual damages and profits and statutory damages under section 504, costs and attorney’s fees under section 505, and the remedies provided in section 510.
 
 ### Statutory Notes
+
+#### Constitutionality
+For information regarding constitutionality of certain provisions of subsection (a) of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
 
 #### Amendments
 2002—Subsec. (a). Pub. L. 107–273 substituted “122” for “121”.

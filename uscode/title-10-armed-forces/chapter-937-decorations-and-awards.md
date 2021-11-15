@@ -404,7 +404,7 @@ The President shall provide for the presentation of the Medal of Honor Flag desi
 ### Statutory Notes
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 8755 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8755&num=0&edition=prelim) as this section and substituted “section 9271” for “section 8741” and “section 9271 or 9282(a)” for “section 8741 or 8752(a)”.
+2018—Pub. L. 115–232 renumbered [section 8755 of this title](./chapter-873-procurement-of-supplies-and-services.md#section-8755) as this section and substituted “section 9271” for “section 8741” and “section 9271 or 9282(a)” for “section 8741 or 8752(a)”.
 
 2006—Pub. L. 109–364 struck out “after October 23, 2002” after “[section 8741 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8741&num=0&edition=prelim)” and inserted at end “In the case of a posthumous presentation of the medal, the flag shall be presented to the person to whom the medal is presented.”
 
@@ -438,7 +438,7 @@ Prior sections 9301 to 9306 were renumbered sections 9401 to 9406 of this title,
 
 2018—Pub. L. 115–232 renumbered [section 8756 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8756&num=0&edition=prelim) as this section.
 
-2004—Pub. L. 108–375 renumbered [section 8755 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8755&num=0&edition=prelim) as this section.
+2004—Pub. L. 108–375 renumbered [section 8755 of this title](./chapter-873-procurement-of-supplies-and-services.md#section-8755) as this section.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).

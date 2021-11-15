@@ -263,3 +263,14 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 #### “Congressional Defense Committees” Defined
 Congressional defense committees means the Committees on Armed Services and Appropriations of the Senate and the House of Representatives, see section 3 of Pub. L. 116–92, 133 Stat. 1231. See note under [section 101 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim), Armed Forces.
+
+#### Delegation of Authority Under Section 1285 of the National Defense Authorization Act for Fiscal Year 2020
+Memorandum of President of the United States, July 19, 2021, 86 F.R. 39939, provided:
+
+Memorandum for the Secretary of Defense
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, I hereby delegate to the Secretary of Defense the authority and functions vested in the President by section 1285(a) through (e) of Public Law 116–92 [[50 U.S.C. 1550(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1550/a&num=0&edition=prelim) to (e)] on the use of military force and support of partner forces to the Congress.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+J.R. Biden, Jr.

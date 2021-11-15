@@ -190,7 +190,7 @@ Section 14304(b) provides that except as provided in section 14504, a vessel tha
 
 (9) section 403 of the Commercial Fishing Industry Vessel Act ([46 U.S.C. 3302](./chapter-033-inspection-generally.md#section-3302) note);
 
-(10) the Officers’ Competency Certificates Convention, 1936, and sections 8303 and 8304 of this title;
+(10) the Officers’ Competency Certificates Convention, 1936, and [section 8304 of this title](./chapter-083-masters-and-officers.md#section-8304);
 
 (11) the International Convention for the Safety of Life at Sea as provided by IMCO Resolution A.494 (XII) of November 19, 1981;
 
@@ -267,6 +267,8 @@ For provisions relating to International Conventions for the Safety of Life at S
 For provisions relating to the International Convention for the Prevention of Pollution from Ships, as modified, referred to in subsec. (a)(13), see chapter 33 (§ 1901 et seq.) of Title 33.
 
 #### Amendments
+2021—Subsec. (a)(10). Pub. L. 116–283 substituted “section 8304” for “sections 8303 and 8304”.
+
 2010—Subsec. (a). Pub. L. 111–281 substituted “vessel measured under this chapter that is of United States registry or nationality, or a vessel operated under the authority of the United States,” for “documented vessel measured under this chapter,” in introductory provisions.
 
 2006—Subsec. (a)(1). Pub. L. 109–304, § 15(26)(A), substituted “of this subtitle and section 12116” for “and sections 12106(c) and 12108(c)”.

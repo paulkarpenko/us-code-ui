@@ -2830,7 +2830,7 @@ The Federal Power Act, referred to in text, is act June 20, 1920, ch. 285, 41 St
 1988—Pub. L. 100–668 substituted “in the lands and waters within the Skagit River Hydroelectric Project, Federal Energy and Regulatory Commission Project 553, including the proposed Copper Creek, High Ross, and Thunder Creek elements of the Project; and the Newhalem Project, Federal Energy and Regulatory Commission Project 2705, within the Ross Lake National Recreation Area; the lands and waters within the Lake Chelan Project, Federal Energy and Regulatory Commission Project 637; the Company Creek small hydroelectric project at Stehekin within the Lake Chelan National Recreation Area; and existing hydrologic monitoring stations necessary for the proper operation of the hydroelectric projects listed herein” for “in the recreation areas”.
 
 #### Transfer of Functions
-Federal Power Commission terminated and functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
+The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
 
 
 <a id="section-90d-5"></a>
@@ -4508,11 +4508,11 @@ All those certain tracts, pieces, or parcels of land lying and being situate in 
 
 1931—Act Jan. 26, 1931, forbade acquisition of rights of way for steam and electric railways, automobiles or wagon roads within the park.
 
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Acceptance of Certain Land
 Act May 21, 1928, ch. 658, 45 Stat. 644, provided that: “The Secretary of the Interior be, and he is hereby, authorized to accept on behalf of the United States, title to the northeast quarter northeast quarter section 27, township 30 north, range 5 east, Mount Diablo base and meridian, situate within the exterior boundaries of Lassen Volcanic National Park, from the State of California, and in exchange therefor may patent an area of unreserved, vacant, nonmineral public land of equal value situate in the same State. The land which may be acquired by the United States under this Act shall, upon acceptance of title, become a part of Lassen Volcanic National Park.”
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-201a"></a>
@@ -4937,11 +4937,11 @@ The Act of August twenty-fifth, nineteen hundred and sixteen, entitled “An Act
 #### Amendments
 1978—Pub. L. 95–586 inserted provisions authorizing the Secretary to contract for the sale of water located within the park for use of customers within Tusayan, Arizona.
 
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Special United States Magistrate Judge for Grand Canyon National Park
 Appointment by United States District Court for the District of Arizona of a special commissioner [now United States magistrate judge] for the Grand Canyon National Park, see Pub. L. 86–258, Sept. 14, 1959, 73 Stat. 546, as amended, formerly set out as a note under [section 631 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section631&num=0&edition=prelim), Judiciary and Judicial Procedure.
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-223"></a>
@@ -6126,7 +6126,7 @@ Date of enactment of this Act or any amendment thereto, referred to in text, mea
 1971—Pub. L. 92–154 struck out “described in [section 271 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-271)” after “Within the area”, inserted in third sentence “or any amendment thereto” after “the date of enactment of this Act”, and inserted in fifth sentence “or any amendment thereto” after “this subchapter”.
 
 #### Transfer of Functions
-Federal Power Commission terminated and functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
+The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions whcih were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
 
 
 <a id="section-271b"></a>
@@ -6938,11 +6938,11 @@ The Act of August twenty-fifth, nineteen hundred and sixteen, entitled “An Act
 #### Change of Name
 “Lafayette National Park” changed to “Acadia National Park” by act Jan. 19, 1929.
 
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Jurisdiction of Certain Lands
 Act July 30, 1947, ch. 350, 61 Stat. 519, provided: “That control and jurisdiction over the following-described lands now comprising a portion of the Acadia National Park, in the State of Maine, are hereby transferred from the Department of the Interior to the Department of the Navy: Provided, That the Secretary of the Interior shall retain the right to approve the design of the buildings and structures to be placed thereon. “All that certain tract or parcel of land on Big Moose Island, Winter Harbor, Maine, which is bounded southerly and easterly by a chain link security fence, and northerly and westerly by the waters of Pond Island Cove and Frenchman Bay, and which is more particularly described as beginning at a point on the shore at the high-water mark of Frenchman Bay on the southwesterly side of Big Moose Island, so called, thence following the chain link security fence as now erected by the three following courses and distances: North no degrees five minutes west one hundred and fifty-three feet; thence north thirty degrees twenty-four minutes east one hundred and fifty-seven and seven-tenths feet; thence south eighty-nine degrees nine minutes east one thousand four hundred and fifty-five and three-tenths feet to a point and angle in the said security fence which bears north thirty-four degrees fifty-four minutes west and is fifty feet distant at right angles from a point in the center line of the National Park Service road known as the Big Moose Island Road; thence turning to the left and following the said security fence in a general northerly direction but everywhere parallel with and fifty feet distant from the center line of the said Big Moose Island Road three thousand five hundred feet more or less to the high-water mark on the shore of Pond Island Cove; thence in a generally westerly and southerly direction but everywhere following the high-water mark of Pond Island Cove and Frenchman Bay seven thousand four hundred and seventy feet more or less to the place of beginning; except that portion thereof, containing twenty-five and ninety-six one-hundredths acres, which was transferred to the jurisdiction of the Department of the Navy pursuant to the Act of August 24, 1935 (ch. 644, 49 Stat. 795); the lands herein described containing one hundred and fifty-one and eighty-six one-hundredths acres, after excluding the excepted portion. “Sec. 2. The Secretary of the Navy is authorized and directed to retransfer jurisdiction over the property described in section 1 of this Act to the Secretary of the Interior in the event such property hereafter becomes surplus to the needs of the Department of the Navy, in which event it again shall become a part of Acadia National Park.”
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-342a"></a>
@@ -7066,11 +7066,11 @@ The administration, protection, and promotion of said Zion National Park shall b
 #### References in Text
 The Act of August 25, 1916, entitled “An Act to establish a National Park Service, and for other purposes,”, referred to in text, is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim), National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as [section 1865(a) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1865/a&num=0&edition=prelim), Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
 
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Obligation of Fees for Transportation Services at Zion or Rocky Mountain National Parks
 For provisions relating to obligation of expenditure of fees prior to receipt for transportation service contracts, see section 140 of Pub. L. 108–7, set out as a note under [section 195 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-195).
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-346"></a>
@@ -7642,14 +7642,14 @@ The last sentence of this section is from section 2 of act May 1, 1922. The rema
 #### Short Title of 1998 Amendment
 Pub. L. 105–380, § 1, Nov. 12, 1998, 112 Stat. 3401, as amended by Pub. L. 106–510, § 3(a)(2), Nov. 13, 2000, 114 Stat. 2363, provided that: “This Act [amending [section 391b of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-391b)] may be cited as the ‘Hawaiʻi Volcanoes National Park Adjustment Act of 1998’.”
 
-#### Admission of Hawaii as State
-Admission of Hawaii into the Union was accomplished Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74, as required by sections 1 and 7(c) of Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as notes preceding [section 491 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section491&num=0&edition=prelim), Territories and Insular Possessions.
-
 #### Hawaiʻi Volcanoes National Park
 Designation of portion of Hawaii National Park situated on island of Hawaii as Hawaiʻi Volcanoes National Park, effective Sept. 22, 1961, see [section 391d of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-391d).
 
 #### Haleakala̅ National Park
 Establishment of detached portion of Hawaii National Park lying on island of Maui as Haleakala̅ National Park, effective July 1, 1961, see [section 396b of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-396b).
+
+#### Admission of Hawaii as State
+Admission of Hawaii into the Union was accomplished Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74, as required by sections 1 and 7(c) of Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as notes preceding [section 491 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section491&num=0&edition=prelim), Territories and Insular Possessions.
 
 
 <a id="section-391a"></a>
@@ -7675,14 +7675,14 @@ When title to all or any of the following-described lands on the island of Hawai
 
 1998—Pub. L. 105–380 inserted before period at end “, except for the land depicted on the map entitled ‘NPS–PAC 1997HW’, which may be purchased with donated or appropriated funds”.
 
+#### Hawaiʻi Volcanoes National Park
+Designation of portion of Hawaii National Park situated on island of Hawaii as Hawaiʻi Volcanoes National Park, effective Sept. 22, 1961, see [section 391d of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-391d).
+
 #### Change of Name
 “National Ocean Survey” substituted for “Coast and Geodetic Survey” in second par. Coast and Geodetic Survey consolidated with National Weather Bureau in 1965 to form Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318. Environmental Science Services Administration abolished in 1970 and its personnel, property, records, etc., transferred to National Oceanic and Atmospheric Administration by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090. By order of Acting Associate Administrator of National Oceanic and Atmospheric Administration, 35 F.R. 19249, Dec. 19, 1970, Coast and Geodetic Survey redesignated National Ocean Survey. See notes under [section 311 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section311&num=0&edition=prelim), Commerce and Trade.
 
 #### Admission of Hawaii as State
 Admission of Hawaii into the Union was accomplished Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74, as required by sections 1 and 7(c) of Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as notes preceding [section 491 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section491&num=0&edition=prelim), Territories and Insular Possessions.
-
-#### Hawaiʻi Volcanoes National Park
-Designation of portion of Hawaii National Park situated on island of Hawaii as Hawaiʻi Volcanoes National Park, effective Sept. 22, 1961, see [section 391d of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-391d).
 
 
 <a id="section-391b-1"></a>
@@ -7717,13 +7717,14 @@ Within a tract of land containing six thousand four hundred fifty acres, more or
 #### Codification
 “Air Force” substituted in text for “War” on authority of section 207(a), (f) of act July 26, 1947, ch. 343, title II, 61 Stat. 502, 503, which established a separate Department of the Air Force. Section 207(a), (f) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces”, which in sections 8011 to 8013 continued military Department of the Air Force under administrative supervision of Secretary of the Air Force.
 
+#### Hawaiʻi Volcanoes National Park
+Designation of portion of Hawaii National Park situated on island of Hawaii as Hawaiʻi Volcanoes National Park, effective Sept. 22, 1961, see [section 391d of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-391d).
+
+#### Transfer of Functions
 For transfer of certain real property functions to Secretary of the Air Force from Secretary of the Army, see Secretary of Defense Transfer Order Nos. 14, eff. July 1, 1948, and 40, [App. B(65)], July 22, 1949.
 
 #### Admission of Hawaii as State
 Admission of Hawaii into the Union was accomplished Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74, as required by sections 1 and 7(c) of Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as notes preceding [section 491 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section491&num=0&edition=prelim), Territories and Insular Possessions.
-
-#### Hawaiʻi Volcanoes National Park
-Designation of portion of Hawaii National Park situated on island of Hawaii as Hawaiʻi Volcanoes National Park, effective Sept. 22, 1961, see [section 391d of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-391d).
 
 
 <a id="section-391d"></a>
@@ -7753,9 +7754,6 @@ Section 73 of an Act approved April 30, 1900, as amended, referred to in text, w
 #### Codification
 Section 1 of act Feb. 27, 1920, is the source of that portion of this section preceding “but the provisions of section 73”; remainder being from section 2 of that Act.
 
-#### Admission of Hawaii as State
-Admission of Hawaii into the Union was accomplished Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 FR 6868, 73 Stat. c74, as required by sections 1 and 7(c) of Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as notes preceding [section 491 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section491&num=0&edition=prelim), Territories and Insular Possessions.
-
 #### Hawaiʻi Volcanoes National Park
 Designation of portion of Hawaii National Park situated on island of Hawaii as Hawaiʻi Volcanoes National Park, effective Sept. 22, 1961, see [section 391d of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-391d).
 
@@ -7764,6 +7762,9 @@ Establishment of detached portion of Hawaii National Park lying on island of Mau
 
 #### Extension of Application
 Act Apr. 11, 1928, ch. 359, § 2, 45 Stat. 426, extended provisions of this section and made them applicable to lands added to the park and included within boundary established by [section 391 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-391).
+
+#### Admission of Hawaii as State
+Admission of Hawaii into the Union was accomplished Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 FR 6868, 73 Stat. c74, as required by sections 1 and 7(c) of Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as notes preceding [section 491 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section491&num=0&edition=prelim), Territories and Insular Possessions.
 
 
 <a id="section-392a"></a>
@@ -7860,14 +7861,14 @@ Sole and exclusive jurisdiction shall be exercised by the United States over the
 
 ### Statutory Notes
 
-#### Admission of Hawaii as State
-Admission of Hawaii into the Union was accomplished Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74, as required by sections 1 and 7(c) of Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as notes preceding [section 491 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section491&num=0&edition=prelim), Territories and Insular Possessions.
-
 #### Hawaiʻi Volcanoes National Park
 Designation of portion of Hawaii National Park situated on island of Hawaii as Hawaiʻi Volcanoes National Park, effective Sept. 22, 1961, see [section 391d of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-391d).
 
 #### Haleakala̅ National Park
 Establishment of detached portion of Hawaii National Park lying on island of Maui as Haleakala̅ National Park, effective July 1, 1961, see [section 396b of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-396b).
+
+#### Admission of Hawaii as State
+Admission of Hawaii into the Union was accomplished Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74, as required by sections 1 and 7(c) of Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as notes preceding [section 491 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section491&num=0&edition=prelim), Territories and Insular Possessions.
 
 
 <a id="section-395a-395b"></a>
@@ -9138,13 +9139,13 @@ The administration, protection, and development of said Carlsbad Caverns Nationa
 #### References in Text
 The Act of August 25, 1916, entitled “An Act to establish a National Park Service, and for other purposes,”, referred to in text, is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim), National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as [section 1865(a) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1865/a&num=0&edition=prelim), Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
 
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Transportation of Employees of Carlsbad Caverns National Park; Rates
 Act Aug. 8, 1953, ch. 384, § 1(3), 67 Stat. 495, provided that: “Transportation to and from work, outside of regular working hours, of employees of Carlsbad Caverns National Park, residing in or near the city of Carlsbad, New Mexico, such transportation to be between the park and the city, or intervening points, at reasonable rates to be determined by the Secretary of the Interior taking into consideration, among other factors, comparable rates charged by transportation companies in the locality for similar services, the amounts collected for such transportation to be credited to the appropriation current at the time payment is received: Provided, That if adequate transportation facilities are available, or shall be available by any common carrier, at reasonable rates, then and in that event the facilities contemplated by this paragraph shall not be offered.”
 
 [Prior to repeal by Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272, introductory provisions of section 1 of act Aug. 8, 1953, read as follows: “In order to facilitate the administration of the National Park System, the Secretary of the Interior is authorized to carry out the following activities, and he may use applicable appropriations for the aforesaid system for the following purposes:” .]
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-407aa"></a>
@@ -9465,11 +9466,11 @@ The Act of August 25, 1916 (39 Stat. 535; [16 U.S.C. 1–4](https://uscode.house
 
 The Historic Sites Act of August 21, 1935 (49 Stat. 666; [16 U.S.C. 461–467](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section461–467&num=0&edition=prelim)), referred to in text, is act Aug. 21, 1935, ch. 593, 49 Stat. 666, also known as the Historic Sites Act of 1935 and as the Historic Sites, Buildings, and Antiquities Act, which enacted sections 461 to 467 of this title. The Act was repealed and restated as [section 1866(a) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1866/a&num=0&edition=prelim), Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
 
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Development of Park; Appropriation
 Pub. L. 85–764, §§ 1, 2, Aug. 27, 1958, 72 Stat. 861, authorized the Secretary of the Interior to proceed with the development of Independence National Historical Park, the establishment of which was authorized by the Act of June 28, 1948 (62 Stat. 1061) [this subchapter], in accordance with plans to be approved by the Secretary, authorized to be appropriated for the development of said park pursuant to this Act the sum of $7,250,000, and provided that all funds authorized to be appropriated under this Act be expended by June 30, 1963.
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-407r"></a>
@@ -12781,7 +12782,7 @@ Pub. L. 105–342, § 1, Nov. 2, 1998, 112 Stat. 3200, provided that: “This Ac
 
 
 <a id="section-410eeee"></a>
-## § 410eeee. New River Gorge National Park and Preserve Designation.
+## § 410eeee. New River Gorge National Park and Preserve Designation
 **(a) Short title** This section may be cited as the “New River Gorge National Park and Preserve Designation Act”.
 
 **(b) Designation of New River Gorge National Park and New River Gorge National Preserve, West Virginia**
@@ -12860,7 +12861,7 @@ Pub. L. 105–342, § 1, Nov. 2, 1998, 112 Stat. 3200, provided that: “This Ac
 
 (5) **References** — Any reference in a law, map, regulation, document, paper, or other record of the United States to the New River Gorge National River shall be considered to be a reference to the “New River Gorge National Park” or the “New River Gorge National Preserve”, as appropriate.
 
-**(d) Authorization of Appropriations** There are authorized to be appropriated such sums as are necessary to carry out this section.
+**(d) Authorization of appropriations** There are authorized to be appropriated such sums as are necessary to carry out this section.
 
 ### Statutory Notes
 
@@ -12870,7 +12871,7 @@ The National Parks and Recreation Act of 1978, referred to in subsecs. (b)(1) an
 Section 402 of the West Virginia National Interest River Conservation Act of 1987, referred to in subsec. (c)(4), is section 402 of Pub. L. 100–534, which was formerly set out as a note under [section 460m–15 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460m–15&num=0&edition=prelim) prior to transfer and is now set out as a note below.
 
 #### Codification
-Section was enacted as part of the New River Gorge National Park and Preserve Designation Act, and not as part of title XI of the National Parks and Recreation Act of 1978 which comprises this subchapter.
+Section was enacted as part of the New River Gorge National Park and Preserve Designation Act and as part of the Consolidated Appropriations Act, 2021, and not as part of title XI of the National Parks and Recreation Act of 1978 which comprises this subchapter.
 
 #### Short Title of 2002 Amendment
 Pub. L. 107–356, § 1, Dec. 17, 2002, 116 Stat. 3013, provided that: “This Act [amending this section and enacting provisions set out as a note under this section] may be cited as the ‘New River Gorge Boundary Act of 2002’.”
@@ -13431,7 +13432,7 @@ Subsec. (d)(3). Pub. L. 111–11, § 7102(3), in introductory provisions, substi
 
 1998—Subsec. (d). Pub. L. 105–363 added subsec. (d).
 
-1994—Subsec. (b). Pub. L. 103–449, § 203(a)(2), struck out concluding provisions which read as follows: “both as generally depicted on a map entitled ‘Land Ownership Map, Weir Farm Historic Site’, Figure 5, dated October 1989, as contained in the National Park Service Weir Farm Suitability/Feasibility Study, February, 1990. Such map shall be on file and available for public inspection in the appropriate offices of the Nationsd Park Service.”
+1994—Subsec. (b). Pub. L. 103–449, § 203(a)(2), struck out concluding provisions which read as follows: “both as generally depicted on a map entitled ‘Land Ownership Map, Weir Farm Historic Site’, Figure 5, dated October 1989, as contained in the National Park Service Weir Farm Suitability/Feasibility Study, February, 1990. Such map shall be on file and available for public inspection in the appropriate offices of the National Park Service.”
 
 Subsec. (b)(3), (4). Pub. L. 103–449, § 203(a)(1), (3), added pars. (3) and (4).
 
@@ -13475,7 +13476,7 @@ The Act entitled “An Act to establish a National Park Service, and for other p
 The Act entitled “An Act to provide for the preservation of historic American sites, buildings, objects, and antiquities of national significance, and for other purposes”, approved August 21, 1935, referred to in subsec. (a), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the Historic Sites, Buildings and Antiquities Act and also as the Historic Sites Act of 1935, which enacted sections 461 to 467 of this title. The Act was repealed and restated as [section 1866(a) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1866/a&num=0&edition=prelim), Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
 
 #### Codification
-In subsec. (d), “[section 100502 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100502&num=0&edition=prelim)” substituted for “section 12(b) of the Act of August 18, 1970 (16 U.S.C. la–1 through la–7)” on authority of Pub. L. 113–287, § 6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
+In subsec. (d), “[section 100502 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100502&num=0&edition=prelim)” substituted for “section 12(b) of the Act of August 18, 1970 ([16 U.S.C. 1a–1](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-1a-1) through 1a–7)” on authority of Pub. L. 113–287, § 6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
 
 #### Amendments
 2021—Pub. L. 116–305 substituted “historical park” for “historic site” in section catchline and wherever appearing in text.
@@ -20299,7 +20300,7 @@ For the acquisition of lands or interests in lands designated by [section 410z o
 
 ### Statutory Notes
 
-#### Codification
+#### Editorial Notes
 Section, act May 15, 1896, ch. 182, § 1, 29 Stat. 120; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501, related to military maneuvers. Section was restated as [section 103301 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section103301&num=0&edition=prelim), National Park Service and Related Programs, by Pub. L. 113–287, § 3, Dec. 19, 2014, 128 Stat. 3165.
 
 
@@ -20485,13 +20486,13 @@ In order to commemorate the campaign and siege and defense of Petersburg, Virgin
 #### Change of Name
 “National battlefield” substituted in text for “national military park” in view of redesignation of Petersburg National Military Park as Petersburg National Battlefield by Pub. L. 87–603. See [section 423h–1 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-423h-1).
 
+#### Transfer of Portion of Lands to Secretary of the Army
+Act June 5, 1942, ch. 345, 56 Stat. 322, provided: “That the Secretary of the Interior shall transfer to the Secretary of War [Army] jurisdiction over all lands owned by the United States lying south and east of the Hickory Hill Road within the Petersburg National Military Park in the Commonwealth of Virginia. Upon the date of the transfer, the lands shall cease to be a part of the Petersburg National Military Park and the Secretary of War [Army] shall thereafter administer the lands for military purposes.”
+
 #### Transfer of Functions
 Administrative functions of Petersburg National Military Park transferred to Department of the Interior by Ex. Ord. Nos. 6166 and 6228, set out as notes under [section 901 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section901&num=0&edition=prelim), Government Organization and Employees.
 
 National Park Service substituted for Office of National Parks, Buildings, and Reservations referred to in Ex. Ord. No. 6166, § 2, by act Mar. 2, 1934, ch. 38, § 1, 48 Stat. 389.
-
-#### Transfer of Portion of Lands to Secretary of the Army
-Act June 5, 1942, ch. 345, 56 Stat. 322, provided: “That the Secretary of the Interior shall transfer to the Secretary of War [Army] jurisdiction over all lands owned by the United States lying south and east of the Hickory Hill Road within the Petersburg National Military Park in the Commonwealth of Virginia. Upon the date of the transfer, the lands shall cease to be a part of the Petersburg National Military Park and the Secretary of War [Army] shall thereafter administer the lands for military purposes.”
 
 
 <a id="section-423a"></a>
@@ -20911,9 +20912,10 @@ Effective upon publication of notice, as hereinafter provided, there shall be ad
 ### Statutory Notes
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
-
 Act June 30, 1949, transferred functions, property and personnel of War Assets Administration to General Services Administration and functions of War Assets Administrator transferred to Administrator of General Services.
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-424a-4"></a>
@@ -22036,13 +22038,13 @@ Section is based on sections 1 to 6 of act Dec. 27, 1894. Section 7 of the act, 
 #### Amendments
 1966—Pub. L. 89–554 struck out provisions which required the affairs of Shiloh National Military Park to be subject to supervision and direction of Secretary of the Interior.
 
+#### Exchange of Lands
+Act June 25, 1947, ch. 126, 61 Stat. 173, provided: “That the Secretary of the Interior is authorized, in his discretion, and under such terms and conditions as he may deem necessary, to convey, without consideration, to W. A. Shaw and E. L. Shaw, or nominees, the following-described lands within Shiloh National Military Park in Hardin County in the State of Tennessee: Beginning at a point from which the intersection of Shiloh National Military Park boundary between boundary corners numbered 228 and 229 with center line of Confederate Road bears south eight degrees fifty-seven minutes east, eighty and thirty-seven one-hundredths feet (said intersection bears north eighty-eight degrees ten minutes fourteen seconds west, one thousand one hundred and thirty-one and eighty-nine one-hundredths feet from boundary corner numbered 228); thence north twenty-nine degrees thirty-one minutes west, three hundred and twenty-six feet; thence south seventy-six degrees nineteen minutes east, three hundred and thirty-seven and fifty-four one-hundredths feet; and thence running sixty feet from and parallel to center line of Confederate Road south thirty-nine degrees twenty minutes west, two hundred and sixty-three and forty-six one-hundredths feet to the point of beginning. The tract as described contains approximately ninety-two one-hundredths acre. “Sec. 2. For the purpose of consolidating Federal holdings within the park, the Secretary of the Interior is authorized, in his discretion and under such terms and conditions as he may deem necessary, to accept any non-Federal real or personal property within the authorized boundaries of the park. In exchange for such properties, he may, in his discretion, convey to the grantors of such properties any Federally owned lands or interests in lands within the authorized boundaries of the park which are of approximately equal value, as determined by the Secretary, to the properties being acquired in each case.”
+
 #### Transfer of Functions
 Administrative functions of Shiloh National Military Park transferred to Department of the Interior by Ex. Ord. Nos. 6166 and 6228, set out as notes under [section 901 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section901&num=0&edition=prelim), Government Organization and Employees.
 
 National Park Service substituted for Office of National Parks, Buildings, and Reservations referred to in Ex. Ord. No. 6166, by act Mar. 2, 1934, ch. 38, § 1, 48 Stat. 389.
-
-#### Exchange of Lands
-Act June 25, 1947, ch. 126, 61 Stat. 173, provided: “That the Secretary of the Interior is authorized, in his discretion, and under such terms and conditions as he may deem necessary, to convey, without consideration, to W. A. Shaw and E. L. Shaw, or nominees, the following-described lands within Shiloh National Military Park in Hardin County in the State of Tennessee: Beginning at a point from which the intersection of Shiloh National Military Park boundary between boundary corners numbered 228 and 229 with center line of Confederate Road bears south eight degrees fifty-seven minutes east, eighty and thirty-seven one-hundredths feet (said intersection bears north eighty-eight degrees ten minutes fourteen seconds west, one thousand one hundred and thirty-one and eighty-nine one-hundredths feet from boundary corner numbered 228); thence north twenty-nine degrees thirty-one minutes west, three hundred and twenty-six feet; thence south seventy-six degrees nineteen minutes east, three hundred and thirty-seven and fifty-four one-hundredths feet; and thence running sixty feet from and parallel to center line of Confederate Road south thirty-nine degrees twenty minutes west, two hundred and sixty-three and forty-six one-hundredths feet to the point of beginning. The tract as described contains approximately ninety-two one-hundredths acre. “Sec. 2. For the purpose of consolidating Federal holdings within the park, the Secretary of the Interior is authorized, in his discretion and under such terms and conditions as he may deem necessary, to accept any non-Federal real or personal property within the authorized boundaries of the park. In exchange for such properties, he may, in his discretion, convey to the grantors of such properties any Federally owned lands or interests in lands within the authorized boundaries of the park which are of approximately equal value, as determined by the Secretary, to the properties being acquired in each case.”
 
 
 <a id="section-430ff"></a>
@@ -22368,13 +22370,13 @@ The lands heretofore conveyed by the Gettysburg Battlefield Memorial Association
 #### Amendments
 1966—Pub. L. 89–554 struck out provisions which required the affairs of park to be subject to supervision and direction of Secretary of the Interior.
 
+#### Acquisition of Additional Lands for Gettysburg National Military Park; Study and Report
+Pub. L. 100–132, § 2, Oct. 16, 1987, 101 Stat. 807, provided that: “(a) Acquisition of Additional Lands.—Except as provided in section 1 of this Act [[16 U.S.C. 430g–3](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-430g-3)], until Congress receives the study under subsection (b), the Secretary of the Interior may not acquire by purchase, donation, exchange, or any other means any additional land for the Gettysburg National Military Park which is not within the boundaries of the 3,874 acre area depicted on the map dated July 25, 1974, numbered 305–92,004 and entitled ‘Gettysburg National Military Park’. “(b) Study by National Park Service.—The Secretary of the Interior through the National Park Service shall conduct a boundary study and shall submit a report to Congress within one year of the date of enactment of this Act [Oct. 16, 1987], with recommendations with respect to the final development of the Gettysburg National Military Park. In conducting the study, the Secretary shall consult with the people of the community and their elected representatives at all levels as well as with other interested individuals and groups.”
+
 #### Transfer of Functions
 Administrative functions of Gettysburg National Military Park transferred to Department of the Interior by Ex. Ord. Nos. 6166 and 6228, set out as notes under [section 901 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section901&num=0&edition=prelim), Government Organization and Employees.
 
 National Park Service substituted for Office of National Parks, Buildings, and Reservations referred to in Ex. Ord. No. 6166, by act Mar. 2, 1934, ch. 38, § 1, 48 Stat. 389.
-
-#### Acquisition of Additional Lands for Gettysburg National Military Park; Study and Report
-Pub. L. 100–132, § 2, Oct. 16, 1987, 101 Stat. 807, provided that: “(a) Acquisition of Additional Lands.—Except as provided in section 1 of this Act [[16 U.S.C. 430g–3](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-430g-3)], until Congress receives the study under subsection (b), the Secretary of the Interior may not acquire by purchase, donation, exchange, or any other means any additional land for the Gettysburg National Military Park which is not within the boundaries of the 3,874 acre area depicted on the map dated July 25, 1974, numbered 305–92,004 and entitled ‘Gettysburg National Military Park’. “(b) Study by National Park Service.—The Secretary of the Interior through the National Park Service shall conduct a boundary study and shall submit a report to Congress within one year of the date of enactment of this Act [Oct. 16, 1987], with recommendations with respect to the final development of the Gettysburg National Military Park. In conducting the study, the Secretary shall consult with the people of the community and their elected representatives at all levels as well as with other interested individuals and groups.”
 
 
 <a id="section-430gg"></a>
@@ -22722,13 +22724,13 @@ In order to preserve for historical and professional military study one of the m
 #### Amendments
 1966—Pub. L. 89–554 struck out provisions which required the affairs of park, subject to supervision and direction of Secretary of the Interior, to be in charge of three commissioners.
 
+#### Abolition of Commission
+Act Oct. 9, 1942, ch. 583, 56 Stat. 778, provided: “That the Guilford Courthouse National Military Park Commission, established pursuant to the Act of March 2, 1917 (39 Stat. 996; [16 U.S.C. 430i](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-430i)), is abolished effective at the expiration, on October 13, 1941, of the current appointment of the resident commissioner.”
+
 #### Transfer of Functions
 Administrative functions of Guilford Courthouse National Military Park transferred to Department of the Interior by Ex. Ord. Nos. 6166 and 6228, set out as notes under [section 901 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section901&num=0&edition=prelim), Government Organization and Employees.
 
 National Park Service substituted for Office of National Parks, Buildings, and Reservations referred to in Ex. Ord. No. 6166, by act Mar. 2, 1934, ch. 38, § 1, 48 Stat. 389.
-
-#### Abolition of Commission
-Act Oct. 9, 1942, ch. 583, 56 Stat. 778, provided: “That the Guilford Courthouse National Military Park Commission, established pursuant to the Act of March 2, 1917 (39 Stat. 996; [16 U.S.C. 430i](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-430i)), is abolished effective at the expiration, on October 13, 1941, of the current appointment of the resident commissioner.”
 
 
 <a id="section-430ii"></a>
@@ -23357,11 +23359,11 @@ After the said peace memorial has been established as provided in [section 433a 
 #### Change of Name
 “Peace memorial” substituted in text for “national monument” to conform to redesignation of Perry’s Victory and International Peace Memorial National Monument as Perry’s Victory and International Peace Memorial provided in section 1 of Pub. L. 92–568, classified to [section 433f–1 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-433f-1).
 
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Authorization of Appropriations
 Pub. L. 92–568, § 4, Oct. 26, 1972, 86 Stat. 1182, as amended by Pub. L. 95–625, title I, § 101(21), Nov. 10, 1978, 92 Stat. 3472; Pub. L. 98–141, § 7(a), Oct. 31, 1983, 97 Stat. 910; Pub. L. 98–181, title I, Nov. 30, 1983, 97 Stat. 1294, provided that: “There are authorized to be appropriated such sums as may be necessary to carry out the purposes of this Act [enacting section 433f–1, amending sections 433a to 433c and 433e, and repealing [section 433d of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-433d), and enacting provisions set out as a note hereunder], but not more than $370,000 shall be appropriated for the acquisition of lands and interests in lands and not more than $10,500,000 shall be appropriated for development. The sums authorized in this section shall be available for acquisition and development undertaken subsequent to the approval of this Act [such sections].”
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-433d"></a>
@@ -23568,13 +23570,13 @@ The words of this section “on March 3, 1925” refer to the date of passage of
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued military Department of the Army under administrative supervision of Secretary of the Army.
 
+#### Termination of War and Emergencies
+Joint Res. July 25, 1947, ch. 327, § 3, 61 Stat. 451, provided that in the interpretation of these sections, the date July 25, 1947, shall be deemed to be the date of termination of any state of war theretofore declared by Congress and of the national emergencies proclaimed by the President on Sept. 8, 1939, and May 27, 1941.
+
 #### Transfer of Functions
 Administrative functions of Fort McHenry National Park transferred to Department of the Interior by Ex. Ord. Nos. 6166 and 6228, set out as notes under [section 901 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section901&num=0&edition=prelim), Government Organization and Employees.
 
 National Park Service substituted for Office of National Parks, Buildings, and Reservations referred to in Ex. Ord. No. 6166, by act Mar. 2, 1934, ch. 38, § 1, 48 Stat. 389.
-
-#### Termination of War and Emergencies
-Joint Res. July 25, 1947, ch. 327, § 3, 61 Stat. 451, provided that in the interpretation of these sections, the date July 25, 1947, shall be deemed to be the date of termination of any state of war theretofore declared by Congress and of the national emergencies proclaimed by the President on Sept. 8, 1939, and May 27, 1941.
 
 
 <a id="section-438"></a>
@@ -23587,11 +23589,11 @@ Any and all repairs, improvements, changes, and alterations in the grounds, buil
 #### Codification
 This section and sections 437, 439, and 440 of this title were derived from act Mar. 3, 1925. See Codification note set out under [section 437 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-437).
 
-#### Transfer of Functions
-Transfer of administrative functions of park, see note set out under [section 437 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-437).
-
 #### Termination of War and Emergencies
 Termination of state of war and national emergencies, see note set out under [section 437 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-437).
+
+#### Transfer of Functions
+Transfer of administrative functions of park, see note set out under [section 437 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-437).
 
 
 <a id="section-439"></a>
@@ -23610,11 +23612,11 @@ This section and sections 437, 438, and 440 of this title were derived from act 
 #### Amendments
 1936—Act June 5, 1936, substituted “six hundred and eighty feet” for “six hundred and fifty feet”.
 
-#### Transfer of Functions
-Transfer of administrative functions of park, see note set out under [section 437 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-437).
-
 #### Termination of War and Emergencies
 Termination of state of war and national emergencies, see note set out under [section 437 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-437).
+
+#### Transfer of Functions
+Transfer of administrative functions of park, see note set out under [section 437 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-437).
 
 
 <a id="section-440"></a>
@@ -23629,11 +23631,11 @@ A proviso at the close of act Mar. 3, 1925, authorizing the disposal of the usel
 
 This section and sections 437 to 439 of this title were derived from act Mar. 3, 1925. See Codification note set out under [section 437 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-437).
 
-#### Transfer of Functions
-Transfer of administrative functions of park, see note set out under [section 437 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-437).
-
 #### Termination of War and Emergencies
 Termination of state of war and national emergencies, see note set out under [section 437 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-437).
+
+#### Transfer of Functions
+Transfer of administrative functions of park, see note set out under [section 437 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-437).
 
 
 <a id="section-440a"></a>
@@ -23908,9 +23910,6 @@ The land owned by the United States at Wakefield, Westmoreland County, Virginia,
 #### References in Text
 The Act of August 25, 1916 (Thirty-ninth Statutes, page 535), referred to in text, is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim), National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as [section 1865(a) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1865/a&num=0&edition=prelim), Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
 
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### George Washington’s Boyhood Home, Ferry Farm
 Pub. L. 105–355, title V, § 509, Nov. 6, 1998, 112 Stat. 3264, provided that: “(a) Acquisition of Easement.—The Secretary of the Interior may acquire no more than a less than fee interest in the property generally known as George Washington’s Boyhood Home, Ferry Farm, located in Stafford County, Virginia, across the Rappahannock River from Fredericksburg, Virginia, comprising approximately 85 acres as generally depicted on the map entitled ‘George Washington Birthplace National Monument Boundary Map’, numbered 322/80,020, and dated April 1998, to ensure the preservation of the important cultural and natural resources associated with Ferry Farm. The Secretary of the Interior shall keep the map on file and available for public inspection in appropriate offices of the National Park Service. “(b) Management of Easement.—The Secretary shall enter into a cooperative agreement with Kenmore Association, Inc., for the management of Ferry Farm pending completion of the study referred to in subsection (c). “(c) Resource Study.—Not later than 18 months after the date on which funds are made available to carry out this section, the Secretary of the Interior shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Resources [now Committee on Natural Resources] of the House of Representatives a resource study of the property described in subsection (a). The study shall—“(1) identify the full range of resources and historic themes associated with Ferry Farm, including those associated with George Washington’s tenure at the property and those associated with the Civil War period; “(2) identify alternatives for further National Park Service involvement at the property beyond those that may be provided for in the acquisition authorized under subsection (a); and “(3) include cost estimates for any necessary acquisition, development, interpretation, operation, and maintenance associated with the alternatives identified. “(d) Agreements.—Upon completion of the resource study under subsection (c), the Secretary of the Interior may enter into an agreement with the owner of the property described in subsection (a) or other entities for the purpose of providing programs, services, facilities, or technical assistance that further the preservation and public use of the property.”
 
@@ -23918,6 +23917,9 @@ Pub. L. 105–355, title V, § 509, Nov. 6, 1998, 112 Stat. 3264, provided that:
 Pub. L. 107–354, Dec. 17, 2002, 116 Stat. 2984, provided that: “SECTION 1. ADDITION TO NATIONAL MONUMENT.“The boundaries of the George Washington Birthplace National Monument (hereinafter referred to as the ‘National Monument’) are hereby modified to include the area comprising approximately 115 acres, as generally depicted on the map entitled ‘George Washington Birthplace National Monument Boundary Map’, numbered 332/80,023 and dated October 2001, which shall be on file and available for public inspection in the appropriate offices of the National Park Service, Department of the Interior. “SEC. 2. ACQUISITION OF LANDS.“Within the boundaries of the National Monument, the Secretary of the Interior (hereinafter referred to as the ‘Secretary’) is authorized to acquire lands, or interests therein, from willing owners by donation, purchase with donated money or appropriated funds, or exchange. “SEC. 3. ADMINISTRATION OF NATIONAL MONUMENT.“In administering the National Monument, the Secretary shall take actions necessary to preserve and interpret the history and resources associated with George Washington, the generations of the Washington family who lived in the vicinity and their contemporaries, and 18th century plantation life and society.”
 
 Pub. L. 103–25, May 3, 1993, 107 Stat. 68, provided that: “SECTION 1. ADDITION TO NATIONAL MONUMENT.“The boundaries of the George Washington Birthplace National Monument (hereinafter referred to as the ‘National Monument’) are hereby modified to include the area comprising approximately 12 acres, as generally depicted on the map entitled ‘George Washington Birthplace National Monument Boundary Map’, numbered 332/80,011A and dated September 1992, which shall be on file and available for public inspection in the appropriate offices of the National Park Service, Department of the Interior. “SEC. 2. ACQUISITION OF LANDS.“Within the boundaries of the National Monument, the Secretary of the Interior (hereinafter referred to as the ‘Secretary’) is authorized to acquire lands, or interests therein, by donation, purchase with donated or appropriated funds, or exchange. “SEC. 3. ADMINISTRATION OF NATIONAL MONUMENT.“In administering the National Monument, the Secretary shall take such action as is necessary to preserve and interpret the history and resources associated with George Washington, the generations of the Washington family who lived in the vicinity, and their contemporaries, as well as 18th century plantation life and society. “SEC. 4. AUTHORIZATION OF APPROPRIATIONS.“There are authorized to be appropriated such sums as may be necessary to carry out this Act.”
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Additional Lands
 Additional lands were added to and made part of the monument by Presidential Proc. No. 1944, Mar. 30, 1931, 47 Stat. 2446.
@@ -24090,11 +24092,11 @@ The sum of twenty-five thousand dollars is appropriated, or so much thereof as m
 #### Change of Name
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued military Department of the Army under administrative supervision of Secretary of the Army.
 
-#### Transfer of Functions
-Administrative functions of Chalmette Monument and Grounds, Louisiana transferred to Department of the Interior by Ex. Ord. No. 6166, § 2, and Ex. Ord. No. 6228, § 1, set out as notes under [section 901 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section901&num=0&edition=prelim), Government Organization and Employees. National Park Service substituted for Office of National Parks, Buildings and Reservations referred to in Ex. Ord. No. 6166, § 2, by act Mar. 2, 1934, ch. 38, § 1, 48 Stat. 389.
-
 #### Chalmette Unit of the Jean Lafitte National Historical Park and Preserve
 Designation of lands on which monument erected as Chalmette Unit of the Jean Lafitte National Historical Park and Preserve, see [section 231 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-231).
+
+#### Transfer of Functions
+Administrative functions of Chalmette Monument and Grounds, Louisiana transferred to Department of the Interior by Ex. Ord. No. 6166, § 2, and Ex. Ord. No. 6228, § 1, set out as notes under [section 901 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section901&num=0&edition=prelim), Government Organization and Employees. National Park Service substituted for Office of National Parks, Buildings and Reservations referred to in Ex. Ord. No. 6166, § 2, by act Mar. 2, 1934, ch. 38, § 1, 48 Stat. 389.
 
 
 <a id="section-450aa"></a>
@@ -25110,11 +25112,11 @@ The Secretary of the Interior is authorized in his discretion to acquire, by pur
 
 ### Statutory Notes
 
-#### Boundaries of Monument
-Boundaries established by Presidential Proc. No. 2307, Oct. 25, 1938, 3 F.R. 2579, 53 Stat. 2494.
-
 #### Inclusion in Natchez Trace Parkway
 Ackia Battleground National Monument included in the Natchez Trace Parkway, see [section 460–1 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460-1).
+
+#### Boundaries of Monument
+Boundaries established by Presidential Proc. No. 2307, Oct. 25, 1938, 3 F.R. 2579, 53 Stat. 2494.
 
 
 <a id="section-450rr"></a>
@@ -25686,11 +25688,11 @@ The Migratory Bird Treaty Act of July 3, 1918, referred to in text, is act July 
 #### Change of Name
 Words “national seashore recreational area” substituted in text for “national seashore” pursuant to act June 29, 1940.
 
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Cape Hatteras National Seashore Recreational Area
 Pub. L. 113–291, div. B, title XXX, § 3057, Dec. 19, 2014, 128 Stat. 3813, provided that: “(a) Definitions.—In this section:“(1) Final rule.—The term ‘Final Rule’ means the final rule entitled ‘Special Regulations, Areas of the National Park System, Cape Hatteras National Seashore—Off-Road Vehicle Management’ (77 Fed. Reg. 3123 (January 23, 2012)). “(2) National seashore.—The term ‘National Seashore’ means the Cape Hatteras National Seashore Recreational Area. “(3) Secretary.—The term ‘Secretary’ means the Secretary of the Interior. “(4) State.—The term ‘State’ means the State of North Carolina. “(b) Review and Adjustment of Wildlife Protection Buffers.—“(1) In general.—Not later than 180 days after the date of enactment of this Act [Dec. 19, 2014], the Secretary shall review and modify wildlife buffers in the National Seashore in accordance with this subsection and any other applicable law. “(2) Buffer modifications.—In modifying wildlife buffers under paragraph (1), the Secretary shall, using adaptive management practices—“(A) ensure that the buffers are of the shortest duration and cover the smallest area necessary to protect a species, as determined in accordance with peer-reviewed scientific data; and “(B) designate pedestrian and vehicle corridors around areas of the National Seashore closed because of wildlife buffers, to allow access to areas that are open. “(3) Coordination with state.—The Secretary, after coordinating with the State, shall determine appropriate buffer protections for species that are not listed under the Endangered Species Act of 1973 ([16 U.S.C. 1531](./chapter-035-endangered-species.md#section-1531) et seq.), but that are identified for protection under State law. “(c) Modifications to Final Rule.—The Secretary shall undertake a public process to consider, consistent with management requirements at the National Seashore, the following changes to the Final Rule:“(1) Opening beaches at the National Seashore that are closed to night driving restrictions, by opening beach segments each morning on a rolling basis as daily management reviews are completed. “(2) Extending seasonal off-road vehicle routes for additional periods in the Fall and Spring if off-road vehicle use would not create resource management problems at the National Seashore. “(3) Modifying the size and location of vehicle-free areas. “(d) Construction of New Vehicle Access Points.—The Secretary shall construct new vehicle access points and roads at the National Seashore—“(1) as expeditiously as practicable; and “(2) in accordance with applicable management plans for the National Seashore. “(e) Report.—The Secretary shall report to Congress within 1 year after the date of enactment of this Act [Dec. 19, 2014] on measures taken to implement this section.”
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-459a-10"></a>
@@ -26646,13 +26648,13 @@ There are hereby authorized to be appropriated such sums as may be necessary to 
 
 ### Statutory Notes
 
+#### Amendments
+1983—Pub. L. 98–141 substituted “$13,903,000” for “$7,903,000”.
+
 #### Change of Name
 Committee on Interior and Insular Affairs of the Senate abolished and replaced by Committee on Energy and Natural Resources of the Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of the Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977.
 
 Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
-
-#### Amendments
-1983—Pub. L. 98–141 substituted “$13,903,000” for “$7,903,000”.
 
 
 <a id="section-459h"></a>
@@ -27119,11 +27121,11 @@ Except as provided in [section 459s of this title](./chapter-001-national-parks-
 
 ### Statutory Notes
 
-#### Delegation of Functions
-For delegation to Secretary of the Interior of authority vested in President by this section, see Ex. Ord. No. 10752, Feb. 12, 1958, 23 F.R. 973, set out as a note under [section 715j of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section715j&num=0&edition=prelim), Commerce and Trade.
-
 #### Silver Creek Project
 Act July 30, 1947, ch. 351, 61 Stat. 519, provided: “That, in order to carry out the purposes of the act of June 6, 1942 [56 Stat. 326; sections 459r to 459t of this title], relating to the disposition of recreational demonstration areas, and to effectuate the transfer to the State of Oregon, pursuant to that act, of the Silver Creek recreational demonstration project, the following-described revested Oregon and California Railroad grant lands shall hereafter be administered as a part of the Silver Creek recreational demonstration project and shall be subject to all of the provisions of the aforesaid Act of June 6, 1942: “willamette meridian“Township 8 south, range 1 east:“Section 13, east half southeast quarter and southeast quarter northeast quarter; “Section 25, all; “Section 35, north half northeast quarter northeast quarter and north half south half northeast quarter northeast quarter;“Township 8 south, range 2 east: “Section 17, south half southwest quarter and northwest quarter southwest quarter; “Section 19, lots 3, 4, and northeast quarter; “Section 29, west half; and “Section 31, north half; comprising one thousand seven hundred and ninety-one and ninety-three one-hundredths acres. “Sec. 2. The following-described lands also shall become a part of the Silver Creek recreational demonstration project and shall be subject to the provisions of the act of June 6, 1942, upon acquisition of title thereto by the Oregon and California Revested Lands Administration: “willamette meridian“Township 8 south, range 1 east: Section 36, northeast quarter, northeast quarter northwest quarter, north half southeast quarter northwest quarter, north half south half southeast quarter northwest quarter, north half northwest quarter northwest quarter, and north half south half northwest quarter northwest quarter; comprising two hundred and sixty acres.”
+
+#### Delegation of Functions
+For delegation to Secretary of the Interior of authority vested in President by this section, see Ex. Ord. No. 10752, Feb. 12, 1958, 23 F.R. 973, set out as a note under [section 715j of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section715j&num=0&edition=prelim), Commerce and Trade.
 
 #### Ex. Ord. No. 7496. Transfer of Recreational Demonstration Projects
 Ex. Ord. No. 7496, Nov. 14, 1936, 1 F.R. 1946, provided:
@@ -27286,12 +27288,6 @@ All lands and easements heretofore and hereafter conveyed to the United States b
 The Act of Congress approved August 25, 1916 (39 Stat. 535), entitled “An Act to establish a National Park Service, and for other purposes”, referred to in text, is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim), National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as [section 1865(a) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1865/a&num=0&edition=prelim), Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
-
-Functions of Administrator of General Services transferred to Secretary of Commerce by Reorg. Plan No. 7 of 1949, § 2, eff. Aug. 20, 1949, 14 F.R. 5228, 63 Stat. 1070, set out in the Appendix to Title 5.
-
-Functions, powers, and duties of Secretary of Commerce and other officers and offices of Department of Commerce relating generally to highways under Reorg. Plan No. 7 of 1949 transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(a)(1)(M), Oct. 15, 1966, 80 Stat. 938. Reorg. Plan No. 7 of 1949 was amended by section 2(b) of Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2439, to reflect such transfer.
-
 Functions of Federal Works Agency and of all agencies thereof, together with functions of Federal Works Administrator transferred to Administrator of General Services by section 103(a) of act June 30, 1949, ch. 288, title I, 63 Stat. 380. Both Federal Works Agency and office of Federal Works Administrator abolished by section 103(b) of that act. See Historical and Revision Notes under [section 303(b) of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section303/b&num=0&edition=prelim), Public Buildings, Property, and Works. [Section 303(b) of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section303/b&num=0&edition=prelim) was amended generally by Pub. L. 109–313, § 2(a)(1), Oct. 6, 2006, 120 Stat. 1734, and, as so amended, no longer relates to the Federal Works Agency and Commissioner of Public Buildings. See 2006 Amendment note under [section 303 of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section303&num=0&edition=prelim).
 
 #### Effective Date of Transfer of Functions
@@ -27308,6 +27304,13 @@ Pub. L. 85–746, Aug. 25, 1958, 72 Stat. 839, provided: “That the Secretary o
 
 #### Lands in French Camp
 The Secretary of the Interior was authorized to relinquish or modify certain restrictions upon the use of privately owned lands in the village of French Camp along the Natchez Trace Parkway by act Jan. 7, 1941, ch. 939, 54 Stat. 1227.
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+
+Functions of Administrator of General Services transferred to Secretary of Commerce by Reorg. Plan No. 7 of 1949, § 2, eff. Aug. 20, 1949, 14 F.R. 5228, 63 Stat. 1070, set out in the Appendix to Title 5.
+
+Functions, powers, and duties of Secretary of Commerce and other officers and offices of Department of Commerce relating generally to highways under Reorg. Plan No. 7 of 1949 transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(a)(1)(M), Oct. 15, 1966, 80 Stat. 938. Reorg. Plan No. 7 of 1949 was amended by section 2(b) of Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2439, to reflect such transfer.
 
 
 <a id="section-460a"></a>
@@ -27748,16 +27751,17 @@ The Act of Congress approved August 25, 1916 (39 Stat. 535), entitled “An Act 
 1940—Act June 8, 1940, inserted exceptions set out in parentheses.
 
 #### Transfer of Functions
+Functions of Federal Works Agency and of all agencies thereof, together with functions of Federal Works Administrator transferred to Administrator of General Services by section 103(a) of act June 30, 1949, ch. 288, title I, 63 Stat. 380. Both Federal Works Agency and office of Federal Works Administrator abolished by section 103(b) of that act. See Historical and Revision Notes under [section 303(b) of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section303/b&num=0&edition=prelim), Public Buildings, Property, and Works. [Section 303(b) of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section303/b&num=0&edition=prelim) was amended generally by Pub. L. 109–313, § 2(a)(1), Oct. 6, 2006, 120 Stat. 1734, and, as so amended, no longer relates to the Federal Works Agency and Commissioner of Public Buildings. See 2006 Amendment note under [section 303 of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section303&num=0&edition=prelim).
+
+#### Effective Date of Transfer of Functions
+Transfer of functions by act June 30, 1949, as effective July 1, 1949, see section 605, formerly § 505, of act June 30, 1949, ch. 288, 63 Stat. 403; renumbered by act Sept. 5, 1950, ch. 849, § 6(a), (b), 64 Stat. 583.
+
+#### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Functions of Administrator of General Services transferred to Secretary of Commerce by Reorg. Plan No. 7 of 1949, § 2, eff. Aug. 20, 1949, 14 F.R. 5228, 63 Stat. 1070, set out in the Appendix to Title 5.
 
 Functions, powers, and duties of Secretary of Commerce and other officers and offices of Department of Commerce relating generally to highways under Reorg. Plan No. 7 of 1949 transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(a)(1)(M), Oct. 15, 1966, 80 Stat. 938. Reorg. Plan No. 7 of 1949 was amended by section 2(b) of Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2439, to reflect such transfer.
-
-Functions of Federal Works Agency and of all agencies thereof, together with functions of Federal Works Administrator transferred to Administrator of General Services by section 103(a) of act June 30, 1949, ch. 288, title I, 63 Stat. 380. Both Federal Works Agency and office of Federal Works Administrator abolished by section 103(b) of that act. See Historical and Revision Notes under [section 303(b) of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section303/b&num=0&edition=prelim), Public Buildings, Property, and Works. [Section 303(b) of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section303/b&num=0&edition=prelim) was amended generally by Pub. L. 109–313, § 2(a)(1), Oct. 6, 2006, 120 Stat. 1734, and, as so amended, no longer relates to the Federal Works Agency and Commissioner of Public Buildings. See 2006 Amendment note under [section 303 of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section303&num=0&edition=prelim).
-
-#### Effective Date of Transfer of Functions
-Transfer of functions by act June 30, 1949, as effective July 1, 1949, see section 605, formerly § 505, of act June 30, 1949, ch. 288, 63 Stat. 403; renumbered by act Sept. 5, 1950, ch. 849, § 6(a), (b), 64 Stat. 583.
 
 
 <a id="section-460a-3"></a>
@@ -29098,11 +29102,11 @@ Pub. L. 97–140, § 6, Dec. 29, 1981, 95 Stat. 1718, provided that: “Notwiths
 
 Similar provisions were contained in Pub. L. 97–128, § 8, Dec. 29, 1981, 95 Stat. 1685.
 
-#### Secretary of the Air Force
-For transfer of certain functions relating to real property under jurisdiction of Air Force, and certain functions relating to construction of buildings and facilities insofar as they may pertain to Department of the Air Force, from Secretary of the Army to Secretary of the Air Force, see Secretary of Defense Transfer Order Nos. 14, eff. July 1, 1948; 18, eff. July 7, 1948; and 40 [App. B(66)], July 22, 1949.
-
 #### Section as Unaffected by Submerged Lands Act
 Provisions of this section as not amended, modified or repealed by the Submerged Lands Act, see [section 1303 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1303&num=0&edition=prelim), Public Lands.
+
+#### Secretary of the Air Force
+For transfer of certain functions relating to real property under jurisdiction of Air Force, and certain functions relating to construction of buildings and facilities insofar as they may pertain to Department of the Air Force, from Secretary of the Army to Secretary of the Air Force, see Secretary of Defense Transfer Order Nos. 14, eff. July 1, 1948; 18, eff. July 7, 1948; and 40 [App. B(66)], July 22, 1949.
 
 
 <a id="section-460dd"></a>
@@ -29579,7 +29583,7 @@ Subsec. (k). Pub. L. 94–587, § 184(f), substituted “$103,522,000” for “
 #### Transfer of Functions
 “Federal Energy Regulatory Commission” substituted for “Federal Power Commission” in subsec. (f) pursuant to Pub. L. 95–91, § 402(a)(1)(A), which is classified to [section 7172(a)(1)(A) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7172/a/1/A&num=0&edition=prelim), The Public Health and Welfare.
 
-Federal Power Commission terminated and functions with regard to licenses and permits for dams, reservoirs, or other works for development and improvement of navigation and for development and utilization of power across, along, from, or in navigable waters under part I of Federal Power Act ([16 U.S.C. 792](./chapter-012-federal-regulation-and-development-of-power.md#section-792) et seq.) transferred to Federal Energy Regulatory Commission by sections 7172(a)(1)(A) and 7293 of Title 42.
+The Federal Power Commission was terminated, and its functions with regard to licenses and permits for dams, reservoirs, or other works for development and improvement of navigation and for development and utilization of power across, along, from, or in navigable waters under part I of Federal Power Act ([16 U.S.C. 792](./chapter-012-federal-regulation-and-development-of-power.md#section-792) et seq.) were transferred to the Federal Energy Regulatory Commission by sections 7172(a)(1)(A) and 7293 of Title 42.
 
 
 <a id="section-460eee"></a>
@@ -30404,7 +30408,7 @@ The Federal Power Act, referred to in subsec. (a), is act June 10, 1920, ch. 285
 #### Transfer of Functions
 “Federal Energy Regulatory Commission” substituted for “Federal Power Commission” in subsec. (a) pursuant to Pub. L. 95–91, § 402(a)(1)(A), which is classified to [section 7172(a)(1)(A) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7172/a/1/A&num=0&edition=prelim), The Public Health and Welfare.
 
-Federal Power Commission terminated and functions with regard to licenses and permits for dams, reservoirs, or other works for development and improvement of navigation and for development and utilization of power across, along, from, or in navigable waters under part I of Federal Power Act ([16 U.S.C. 792](./chapter-012-federal-regulation-and-development-of-power.md#section-792) et seq.) transferred to Federal Energy Regulatory Commission by sections 7172(a)(1)(A) and 7293 of Title 42.
+The Federal Power Commission was terminated, and its functions with regard to licenses and permits for dams, reservoirs, or other works for development and improvement of navigation and for development and utilization of power across, along, from, or in navigable waters under part I of Federal Power Act ([16 U.S.C. 792](./chapter-012-federal-regulation-and-development-of-power.md#section-792) et seq.) were transferred to the Federal Energy Regulatory Commission by sections 7172(a)(1)(A) and 7293 of Title 42.
 
 
 <a id="section-460gg-3"></a>
@@ -33753,7 +33757,7 @@ The Federal Power Act, referred to in text, is act June 10, 1920, ch. 285, 41 St
 #### Transfer of Functions
 “Federal Energy Regulatory Commission” substituted for “Federal Power Commission” in text pursuant to Pub. L. 95–91, § 402(a)(1)(A), which is classified to [section 7172(a)(1)(A) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7172/a/1/A&num=0&edition=prelim), The Public Health and Welfare.
 
-Federal Power Commission terminated and functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
+The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
 
 
 <a id="section-460m-12"></a>

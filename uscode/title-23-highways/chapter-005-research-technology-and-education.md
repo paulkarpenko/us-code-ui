@@ -2,7 +2,7 @@
 title: 23
 chapter: '5'
 heading: 'RESEARCH, TECHNOLOGY, AND EDUCATION'
-section_count: 18
+section_count: 19
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23&num=0&edition=prelim
 ---
@@ -435,6 +435,224 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).
 
+#### Smart Community Resource Center
+Pub. L. 117–58, div. B, title V, § 25002, Nov. 15, 2021, 135 Stat. 837, provided that: “(a) Definitions.—In this section:“(1) Resource center.—The term ‘resource center’ means the Smart Community Resource Center established under subsection (b). “(2) Smart community.—The term ‘smart community’ means a community that uses innovative technologies, data, analytics, and other means to improve the community and address local challenges. “(b) Establishment.—The Secretary [of Transportation] shall work with the modal administrations of the Department [of Transportation] and with such other Federal agencies and departments as the Secretary determines to be appropriate to make available to the public on an Internet website a resource center, to be known as the ‘Smart Community Resource Center’, that includes a compilation of resources or links to resources for States and local communities to use in developing and implementing—“(1) intelligent transportation system programs; or “(2) smart community transportation programs. “(c) Inclusions.—The resource center shall include links to—“(1) existing programs and resources for intelligent transportation system or smart community transportation programs, including technical assistance, education, training, funding, and examples of intelligent transportation systems or smart community transportation programs implemented by States and local communities, available from—“(A) the Department; “(B) other Federal agencies; and “(C) non-Federal sources; “(2) existing reports or databases with the results of intelligent transportation system or smart community transportation programs; “(3) any best practices developed or lessons learned from intelligent transportation system or smart community transportation programs; and “(4) such other resources as the Secretary determines to be appropriate. “(d) Deadline.—The Secretary shall establish the resource center by the date that is 1 year after the date of enactment of this Act [Nov. 15, 2021]. “(e) Updates.—The Secretary shall ensure that the resource center is updated on a regular basis.”
+
+#### Strengthening Mobility and Revolutionizing Transportation Grant Program
+Pub. L. 117–58, div. B, title V, § 25005, Nov. 15, 2021, 135 Stat. 840, provided that: “(a) Definitions.—In this section:“(1) Eligible entity.—The term ‘eligible entity’ means—“(A) a State; “(B) a political subdivision of a State; “(C) a Tribal government; “(D) a public transit agency or authority; “(E) a public toll authority; “(F) a metropolitan planning organization; and “(G) a group of 2 or more eligible entities described in any of subparagraphs (A) through (F) applying through a single lead applicant. “(2) Eligible project.—The term ‘eligible project’ means a project described in subsection (e). “(3) Large community.—The term ‘large community’ means a community with a population of not less than 400,000 individuals, as determined under the most recent annual estimate of the Bureau of the Census. “(4) Midsized community.—The term ‘midsized community” means any community that is not a large community or a rural community.
+
+“(5) Regional partnership.—The term ‘regional partnership’ means a partnership composed of 2 or more eligible entities located in jurisdictions with a combined population that is equal to or greater than the population of any midsized community.
+
+“(6) Rural community.—The term ‘rural community’ means a community that is located in an area that is outside of an urbanized area (as defined in [section 5302 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5302&num=0&edition=prelim), United States Code).
+
+“(7) SMART grant.—The term ‘SMART grant’ means a grant provided to an eligible entity under the Strengthening Mobility and Revolutionizing Transportation Grant Program established under subsection (b).
+
+“(b) Establishment of Program.—The Secretary [of Transportation] shall establish a program, to be known as the ‘Strengthening Mobility and Revolutionizing Transportation Grant Program’, under which the Secretary shall provide grants to eligible entities to conduct demonstration projects focused on advanced smart city or community technologies and systems in a variety of communities to improve transportation efficiency and safety.
+
+“(c) Distribution.—In determining the projects for which to provide a SMART grant, the Secretary shall consider contributions to geographical diversity among grant recipients, including the need for balancing the needs of rural communities, midsized communities, and large communities, consistent with the requirements of subparagraphs (A) through (C) of subsection (g)(1).
+
+“(d) Applications.—
+
+“(1) In general.—An eligible entity may submit to the Secretary an application for a SMART grant at such time, in such manner, and containing such information as the Secretary may require.
+
+“(2) Transparency.—The Secretary shall include, in any notice of funding availability relating to SMART grants, a full description of the method by which applications under paragraph (1) will be evaluated.
+
+“(3) Selection criteria.—
+
+“(A) In general.—The Secretary shall evaluate applications for SMART grants based on—
+
+“(i) the extent to which the eligible entity or applicable beneficiary community—
+
+“(I) has a public transportation system or other transit options capable of integration with other systems to improve mobility and efficiency;
+
+“(II) has a population density and transportation needs conducive to demonstrating proposed strategies;
+
+“(III) has continuity of committed leadership and the functional capacity to carry out the proposed project;
+
+“(IV) is committed to open data sharing with the public; and
+
+“(V) is likely to successfully implement the proposed eligible project, including through technical and financial commitments from the public and private sectors; and
+
+“(ii) the extent to which a proposed eligible project will use advanced data, technology, and applications to provide significant benefits to a local area, a State, a region, or the United States, including the extent to which the proposed eligible project will—
+
+“(I) reduce congestion and delays for commerce and the traveling public;
+
+“(II) improve the safety and integration of transportation facilities and systems for pedestrians, bicyclists, and the broader traveling public;
+
+“(III) improve access to jobs, education, and essential services, including health care;
+
+“(IV) connect or expand access for underserved or disadvantaged populations and reduce transportation costs;
+
+“(V) contribute to medium- and long-term economic competitiveness;
+
+“(VI) improve the reliability of existing transportation facilities and systems;
+
+“(VII) promote connectivity between and among connected vehicles, roadway infrastructure, pedestrians, bicyclists, the public, and transportation systems[;]
+
+“(VIII) incentivize private sector investments or partnerships, including by working with mobile and fixed telecommunication service providers, to the extent practicable;
+
+“(IX) improve energy efficiency or reduce pollution;
+
+“(X) increase the resiliency of the transportation system; and
+
+“(XI) improve emergency response.
+
+“(B) Priority.—In providing SMART grants, the Secretary shall give priority to applications for eligible projects that would—
+
+“(i) demonstrate smart city or community technologies in repeatable ways that can rapidly be scaled;
+
+“(ii) encourage public and private sharing of data and best practices;
+
+“(iii) encourage private-sector innovation by promoting industry-driven technology standards, open platforms, technology-neutral requirements, and interoperability;
+
+“(iv) promote a skilled workforce that is inclusive of minority or disadvantaged groups;
+
+“(v) allow for the measurement and validation of the cost savings and performance improvements associated with the installation and use of smart city or community technologies and practices;
+
+“(vi) encourage the adoption of smart city or community technologies by communities;
+
+“(vii) promote industry practices regarding cybersecurity; and
+
+“(viii) safeguard individual privacy.
+
+“(4) Technical assistance.—On request of an eligible entity that submitted an application under paragraph (1) with respect to a project that is not selected for a SMART grant, the Secretary shall provide to the eligible entity technical assistance and briefings relating to the project.
+
+“(e) Use of Grant Funds.—
+
+“(1) Eligible projects.—
+
+“(A) In general.—A SMART grant may be used to carry out a project that demonstrates at least 1 of the following:
+
+“(i) Coordinated automation.—The use of automated transportation and autonomous vehicles, while working to minimize the impact on the accessibility of any other user group or mode of travel.
+
+“(ii) Connected vehicles.—Vehicles that send and receive information regarding vehicle movements in the network and use vehicle-to-vehicle and vehicle-to-everything communications to provide advanced and reliable connectivity.
+
+“(iii) Intelligent, sensor-based infrastructure.—The deployment and use of a collective intelligent infrastructure that allows sensors to collect and report real-time data to inform everyday transportation-related operations and performance.
+
+“(iv) Systems integration.—The integration of intelligent transportation systems with other existing systems and other advanced transportation technologies.
+
+“(v) Commerce delivery and logistics.—Innovative data and technological solutions supporting efficient goods movement, such as connected vehicle probe data, road weather data, or global positioning data to improve on-time pickup and delivery, improved travel time reliability, reduced fuel consumption and emissions, and reduced labor and vehicle maintenance costs.
+
+“(vi) Leveraging use of innovative aviation technology.—Leveraging the use of innovative aviation technologies, such as unmanned aircraft systems, to support transportation safety and efficiencies, including traffic monitoring and infrastructure inspection.
+
+“(vii) Smart grid.—Development of a programmable and efficient energy transmission and distribution system to support the adoption or expansion of energy capture, electric vehicle deployment, or freight or commercial fleet fuel efficiency.
+
+“(viii) Smart technology traffic signals.—Improving the active management and functioning of traffic signals, including through—
+
+“(I) the use of automated traffic signal performance measures;
+
+“(II) implementing strategies, activities, and projects that support active management of traffic signal operations, including through optimization of corridor timing, improved vehicle, pedestrian, and bicycle detection at traffic signals, or the use of connected vehicle technologies;
+
+“(III) replacing outdated traffic signals; or
+
+“(IV) for an eligible entity serving a population of less than 500,000, paying the costs of temporary staffing hours dedicated to updating traffic signal technology.
+
+“(2) Eligible project costs.—A SMART grant may be used for—
+
+“(A) development phase activities, including—
+
+“(i) planning;
+
+“(ii) feasibility analyses;
+
+“(iii) revenue forecasting;
+
+“(iv) environmental review;
+
+“(v) permitting;
+
+“(vi) preliminary engineering and design work;
+
+“(vii) systems development or information technology work; and
+
+“(viii) acquisition of real property (including land and improvements to land relating to an eligible project); and
+
+“(B) construction phase activities, including—
+
+“(i) construction;
+
+“(ii) reconstruction;
+
+“(iii) rehabilitation;
+
+“(iv) replacement;
+
+“(v) environmental mitigation;
+
+“(vi) construction contingencies; and
+
+“(vii) acquisition of equipment, including vehicles.
+
+“(3) Prohibited uses.—A SMART grant shall not be used—
+
+“(A) to reimburse any preaward costs or application preparation costs of the SMART grant application;
+
+“(B) for any traffic or parking enforcement activity; or
+
+“(C) to purchase or lease a license plate reader.
+
+“(f) Reports.—
+
+“(1) Eligible entities.—Not later than 2 years after the date on which an eligible entity receives a SMART grant, and annually thereafter until the date on which the SMART grant is expended, the eligible entity shall submit to the Secretary an implementation report that describes—
+
+“(A) the deployment and operational costs of each eligible project carried out by the eligible entity, as compared to the benefits and savings from the eligible project; and
+
+“(B) the means by which each eligible project carried out by the eligible entity has met the original expectation, as projected in the SMART grant application, including—
+
+“(i) data describing the means by which the eligible project met the specific goals for the project, such as—
+
+“(I) reducing traffic-related fatalities and injuries;
+
+“(II) reducing traffic congestion or improving travel-time reliability;
+
+“(III) providing the public with access to real-time integrated traffic, transit, and multimodal transportation information to make informed travel decisions; or
+
+“(IV) reducing barriers or improving access to jobs, education, or various essential services;
+
+“(ii) the effectiveness of providing to the public real-time integrated traffic, transit, and multimodal transportation information to make informed travel decisions; and
+
+“(iii) lessons learned and recommendations for future deployment strategies to optimize transportation efficiency and multimodal system performance.
+
+“(2) GAO.—Not later than 4 years after the date of enactment of this Act [Nov. 15, 2021], the Comptroller General of the United States shall conduct, and submit to the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Energy and Commerce of the House of Representatives, and the Committee on Transportation and Infrastructure of the House of Representatives a report describing the results of, a review of the SMART grant program under this section.
+
+“(3) Secretary.—
+
+“(A) Report to congress.—Not later than 2 years after the date on which the initial SMART grants are provided under this section, the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Energy and Commerce of the House of Representatives, and the Committee on Transportation and Infrastructure of the House of Representatives a report that—
+
+“(i) describes each eligible entity that received a SMART grant;
+
+“(ii) identifies the amount of each SMART grant provided;
+
+“(iii) summarizes the intended uses of each SMART grant;
+
+“(iv) describes the effectiveness of eligible entities in meeting the goals described in the SMART grant application of the eligible entity, including an assessment or measurement of the realized improvements or benefits resulting from each SMART grant; and
+
+“(v) describes lessons learned and recommendations for future deployment strategies to optimize transportation efficiency and multimodal system performance.
+
+“(B) Best practices.—The Secretary shall—
+
+“(i) develop and regularly update best practices based on, among other information, the data, lessons learned, and feedback from eligible entities that received SMART grants;
+
+“(ii) publish the best practices under clause (i) on a publicly available website; and
+
+“(iii) update the best practices published on the website under clause (ii) regularly.
+
+“(g) Authorization of Appropriations.—
+
+“(1) In general.—There is authorized to be appropriated to the Secretary $100,000,000 for each of the first 5 fiscal years beginning after the date of enactment of this Act, of which—
+
+“(A) not more than 40 percent shall be used to provide SMART grants for eligible projects that primarily benefit large communities;
+
+“(B) not more than 30 percent shall be provided for eligible projects that primarily benefit midsized communities; and
+
+“(C) not more than 30 percent shall be used to provide SMART grants for eligible projects that primarily benefit rural communities or regional partnerships.
+
+“(2) Administrative costs.—Of the amounts made available under paragraph (1) for each fiscal year, not more than 2 percent shall be used for administrative costs of the Secretary in carrying out this section.
+
+“(3) Limitation.—An eligible entity may not use more than 3 percent of the amount of a SMART grant for each fiscal year to achieve compliance with applicable planning and reporting requirements.
+
+“(4) Availability.—The amounts made available for a fiscal year pursuant to this subsection shall be available for obligation during the 2-fiscal-year period beginning on the first day of the fiscal year for which the amounts were appropriated.”
+
 #### Transportation Safety Information Management System Project
 Pub. L. 109–59, title V, § 5501, Aug. 10, 2005, 119 Stat. 1820, provided that: “(a) In General.—The Secretary [of Transportation] shall fund and carry out a project to further the development of a comprehensive transportation safety information management system (in this section referred to as ‘TSIMS’). “(b) Purposes.—The purpose of the TSIMS project is to further the development of a software application to provide for the collection, integration, management, and dissemination of safety data from and for use among State and local safety and transportation agencies, including driver licensing, vehicle registration, emergency management system, injury surveillance, roadway inventory, and motor carrier databases. “(c) Funding.—“(1) Federal funding.—Of the amounts made available by section 5101(a)(1) of this Act [119 Stat. 1779], $1,000,000 for fiscal years 2006 and 2007 shall be available to carry out the TSIMS project under this section. “(2) State contribution.—The sums authorized in paragraph (1) are intended to supplement voluntary contributions to be made by State departments of transportation and other State safety and transportation agencies.”
 
@@ -458,6 +676,8 @@ Pub. L. 109–59, title V, § 5204(g), Aug. 10, 2005, 119 Stat. 1794, provided t
 Pub. L. 105–178, title V, § 5117, June 9, 1998, 112 Stat. 448, as amended by Pub. L. 105–206, title IX, § 9011(g), (h), July 22, 1998, 112 Stat. 864; Pub. L. 105–277, div. A, § 101(g) [title III, § 3769 [369]], Oct. 21, 1998, 112 Stat. 2681–439, 2681–478; Pub. L. 107–117, div. B, § 1101, Jan. 10, 2002, 115 Stat. 2330; Pub. L. 109–59, title V, § 5508, Aug. 10, 2005, 119 Stat. 1824, provided that: “(a) In General.—The Secretary shall carry out a transportation technology innovation and demonstration program in accordance with the requirements of this section. “(b) Contents of Program.—“(1) Motor vehicle safety warning system.—“(A) In general.—The Secretary shall expand and continue the study authorized by section 358(c) of the National Highway System Designation Act of 1995 [Pub. L. 104–59] ([23 U.S.C. 401](./chapter-004-highway-safety.md#section-401) note; 109 Stat. 625) relating to the development of a motor vehicle safety warning system and shall conduct tests of such system. “(B) Grants.—In carrying out this paragraph, the Secretary may make grants to State and local governments. “(C) Funding.—Of the amounts made available for each of fiscal years 1998 through 2000 by section 5001(a)(2) of this Act [112 Stat. 419], $700,000 per fiscal year shall be available to carry out this paragraph. “(2) Motor carrier advanced sensor control system.—“(A) In general.—The Secretary shall conduct research on the deployment of a system of advanced sensors and signal processors in trucks and tractor trailers to determine axle and wheel alignment, monitor collision alarm, check tire pressure and tire balance conditions, measure and detect load distribution in the vehicle, and monitor and adjust automatic braking systems. “(B) Funding.—Of the amounts made available for each of fiscal years 1998 through 2003 by section 5001(a)(2) of this Act, $700,000 per fiscal year shall be available to carry out this paragraph. “(3) Intelligent transportation infrastructure.—“(A) Definitions.—In this paragraph:“(i) Congested area.—The term ‘congested area’ means a metropolitan area that experiences significant traffic congestion, as determined by the Secretary on an annual basis, including the metropolitan areas of Albany, Atlanta, Austin, Burlington, Charlotte, Columbus, Greensboro, Hartford, Jacksonville, Kansas City, Louisville, Milwaukee, Minneapolis-St. Paul, Nashville, New Orleans, Norfolk, Raleigh, Richmond, Sacramento, San Jose, Tuscson, and Tulsa. “(ii) Deployment area.—The term ‘deployment area’ means any of the metropolitan areas of Baltimore, Birmingham, Boston, Chicago, Cleveland, Dallas/Fort Worth, Denver, Detroit, Houston, Indianapolis, Las Vegas, Los Angeles, Miami, New York/Northern New Jersey, Northern Kentucky/Cincinnati, Oklahoma City, Orlando, Philadelphia, Phoenix, Pittsburgh, Portland, Providence, Salt Lake, San Diego, San Francisco, St. Louis, Seattle, Tampa, and Washington, District of Columbia. “(iii) Metropolitan area.—The term ‘metropolitan area’, including a major transportation corridor serving a metropolitan area, means any area that— “(I) has a population exceeding 300,000; and “(II) meets criteria established by the Secretary in conjunction with the intelligent vehicle highway systems corridors program. “(iv) Original contract.—The term ‘original contract’ means the Department of Transportation contract numbered DTTS 59–99–D–00445 T020013. “(v) Program.—The term ‘program’ means the 2-part intelligent transportation infrastructure program carried out under this paragraph. “(vi) State transportation department.—The term ‘State transportation department’ means— “(I) a State transportation department (as defined in [section 101 of title 23](./chapter-001-federal-aid-highways.md#section-101), United States Code); and “(II) a designee of a State transportation department (as so defined) for the purpose of entering into contracts. “(vii) Uncommitted funds.—The term ‘uncommitted funds’ means the total amount of funds that, as of the date that is 180 days after the date of enactment of the SAFETEA–LU [Aug. 10, 2005], remain uncommitted under the original contract. “(B) Intelligent transportation infrastructure program.—“(i) In general.—The Secretary shall carry out a 2-part intelligent transportation infrastructure program in accordance with this paragraph to advance the deployment of an operational intelligent transportation infrastructure system, through measurement of various transportation system activities, to simultaneously— “(I) aid in transportation planning and analysis; and “(II) make a significant contribution to the ITS program under this title [see Tables for classification]. “(ii) Objectives.—The objectives of the program are— “(I) to build or integrate an infrastructure of the measurement of various transportation system metrics to aid in planning, analysis, and maintenance of the Department of Transportation, including the buildout, maintenance, and operation of greater than 40 metropolitan area systems with a total cost not to exceed $2,000,000 for each metropolitan area; “(II) to provide private technology commercialization initiatives to generate revenues that will be reinvested in the intelligent transportation infrastructure system; “(III) to aggregate data into reports for multipoint data distribution techniques; and “(IV) with respect to part I of the program under subparagraph (C), to use an advanced information system designed and monitored by an entity with experience with the Department of Transportation in the design and monitoring of high-reliability, mission-critical voice and data systems. “(C) Part I.—“(i) In general.—In carrying out part I of the program, the Secretary shall permit the entity to which the original contract was awarded to use uncommitted funds to deploy intelligent transportation infrastructure systems that have been accepted by the Secretary— “(I) in accordance with the terms of the original contract; and “(II) in any deployment area, with the consent of the State transportation department for the deployment area. “(ii) Applicable conditions.—The same asset ownership, maintenance, fixed price contract, and revenue sharing model, and the same competitively selected consortium leader, as were used for the deployment of intelligent transportation infrastructure systems under the original contract before the date of enactment of the SAFETEA–LU [Aug. 10, 2005] shall apply to each deployment carried out under clause (i). “(iii) Deployment in congested areas.—If the entity referred to in clause (i) is unable to use the uncommitted funds by deploying intelligent transportation infrastructure systems in deployment areas, as determined by the Secretary, the entity may deploy the systems in accordance with this paragraph in one or more congested areas, with the consent of the State transportation departments for the congested areas. “(D) Part II.—“(i) In general.—In carrying out part II of the program, the Secretary shall award, on a competitive basis, contracts for the deployment of intelligent transportation infrastructure systems that have been accepted by the Secretary in congested areas, with the consent of the State transportation departments for the congested areas. “(ii) Requirements.—The Secretary shall award contracts under clause (i)— “(I) for individual congested areas among entities that seek to deploy intelligent transportation infrastructure systems in the congested areas; and “(II) on the condition that the terms of each contract awarded requires the entity deploying such system to ensure that the deployed system is compatible (as determined by the Secretary) with systems deployed in other congested areas under this paragraph. “(iii) Provisions in contracts.—The Secretary shall require that each contract for the deployment of an intelligent transportation infrastructure system under this subparagraph contain such provisions relating to asset ownership, maintenance, fixed price, and revenue sharing as the Secretary considers to be appropriate. “(E) Use of funds for undeployed systems.—“(i) In general.—If, under part I or part II of the program, a State transportation department for a deployment area or congested area does not consent by the later of the date that is 180 days after the date of enactment of the SAFETEA–LU [Aug. 10, 2005], or another date determined jointly by the State transportation department and the deployment area or congested area, to participate in the deployment of an intelligent transportation infrastructure system in the deployment area or congested area, upon application by any other deployment area or congested area that has consented by that date to participate in the deployment of such a system, the Secretary shall distribute any such unused funds to any other deployment or congested area that has consented by that date to participate in the deployment of such a system. “(ii) No inclusion in cost limitation.—Costs paid using funds provided through a distribution under clause (i) shall not be considered in determining the limitation on maximum cost described in subparagraph (F)(ii). “(F) Federal share; limits on costs of systems for metropolitan areas.—“(i) Federal share.—Subject to clause (ii), the Federal share of the cost of any project or activity carried out under the program shall be 80 percent. “(ii) Limit on costs of system for each metropolitan area.— “(I) In general.—Not more than $2,000,000 may be provided under this paragraph for deployment of an intelligent transportation infrastructure system for a metropolitan area. “(II) Funding under each part.—A metropolitan area in which an intelligent transportation infrastructure system is deployed under part I or part II under subparagraphs (C) and (D), respectively, including through a distribution of funds under subparagraph (E), may not receive any additional deployment under the other part of the program. “(G) Use of rights-of-way.—“(i) In general.—An intelligent transportation system project described in this paragraph or paragraph (6) that involves privately owned intelligent transportation system components and is carried out using funds made available from the Highway Trust Fund shall not be subject to any law (including a regulation) of a State or political subdivision of a State prohibiting or regulating commercial activities in the rights-of-way of a highway for which Federal-aid highway funds have been used for planning, design, construction, or maintenance for the project, if the Secretary determines that such use is in the public interest. “(ii) Effect of subparagraph.—Nothing in this subparagraph affects the authority of a State or political subdivision of a State— “(I) to regulate highway safety; or “(II) under sections 253 and 332(c)(7) of the Communications Act of 1934 ([47 U.S.C. 253](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section253&num=0&edition=prelim), 332(c)(7)). “(H) Authorization of appropriations.—There is authorized to be appropriated such sums as may be necessary for each of fiscal years 2005 through 2009 to carry out this paragraph. “(4) Corrosion control and prevention.—“(A) In general.—The Secretary shall make a grant to conduct a study on the costs and benefits of corrosion control and prevention. The study shall be conducted in conjunction with an interdisciplinary team of experts from the fields of metallurgy, chemistry, economics, and others, as appropriate. Not later than September 30, 2001, the Secretary shall submit to Congress a report on the study results, together with any recommendations. “(B) Funding.—Of the amounts made available for each of fiscal years 1999 and 2000 by section 5001(a)(1) of this Act [112 Stat. 419], $500,000 per fiscal year shall be available to carry out this paragraph. “(5) Fundamental properties of asphalts and modified asphalts.—“(A) In general.—The Secretary shall continue to carry out section 6016 of the Intermodal Surface Transportation Efficiency Act of 1991 [Pub. L. 102–240, formerly set out as a note below]. Additional areas of the program under such section shall be asphalt-water interaction studies and asphalt-aggregate thin film behavior studies. “(B) Funding.—Of the amounts made available for each of fiscal years 1998 through 2003 by section 5001(a)(1) of this Act, $1,000,000 for fiscal year 1998 and $3,000,000 for each of fiscal years 1999 through 2003 shall be available to carry out this paragraph. “(6) Advanced Traffic Monitoring and Response Center.—“(A) In general.—The Secretary shall make grants to the Commonwealth of Pennsylvania, in conjunction with the Pennsylvania Turnpike Commission, to establish an advanced traffic monitoring and emergency response center at Letterkenny Army Depot in Chambersburg, Pennsylvania. The center shall help develop and coordinate traffic monitoring and ITS systems on portions of the Pennsylvania Turnpike system and I–81, coordinate emergency response with State and local governments in the Central Pennsylvania Region and conduct research on emergency response and prototype trauma response. “(B) Funding.—“(i) Eligibility under section 5208.—The center established under this paragraph shall be eligible for funding under section 5208 of this Act [set out in a note below]. “(ii) Allocation.—Of the amounts made available for each of fiscal years 1998 through 2003 by section 5001(a)(2) of this Act, $1,667,000 per fiscal year shall be available to carry out this paragraph. “(7) Transportation economic and land use system.—“(A) In general.—The Secretary shall continue development and deployment through the New Jersey Institute of Technology to metropolitan planning organizations of the Transportation Economic and Land Use System. “(B) Funding.—Of the amounts made available for each of fiscal years 1998 through 2003 by section 5001(a)(2) of this Act, $1,000,000 per fiscal year shall be available to carry out this paragraph. “(8) Recycled materials resource center.—“(A) Establishment.—The Secretary shall establish at the University of New Hampshire a research program to be known as the ‘Recycled Materials Resource Center’ (referred to in this paragraph as the ‘Center’). “(B) Activities.—“(i) In general.—The Center shall— “(I) systematically test, evaluate, develop appropriate guidelines for, and demonstrate environmentally acceptable and occupationally safe technologies and techniques for the increased use of traditional and nontraditional recycled and secondary materials in transportation infrastructure construction and maintenance; “(II) make information available to State transportation departments, the Federal Highway Administration, the construction industry, and other interested parties to assist in evaluating proposals to use traditional and nontraditional recycled and secondary materials in transportation infrastructure construction; “(III) encourage the increased use of traditional and nontraditional recycled and secondary materials by using sound science to analyze thoroughly all potential long-term considerations that affect the physical and environmental performance of the materials; and “(IV) work cooperatively with Federal and State officials to reduce the institutional barriers that limit widespread use of traditional and nontraditional recycled and secondary materials and to ensure that such increased use is consistent with the sustained environmental and physical integrity of the infrastructure in which the materials are used. “(ii) Sites and projects under actual field conditions.—In carrying out clause (i)(III), the Secretary may authorize the Center to— “(I) use test sites and demonstration projects under actual field conditions to develop appropriate performance data; and “(II) develop appropriate tests and guidelines to ensure correct use of recycled and secondary materials in transportation infrastructure construction. “(C) Review and Evaluation.—“(i) In general.—Not less often than every 2 years, the Secretary shall review and evaluate the program carried out by the Center. “(ii) Notification of deficiencies.—In carrying out clause (i), if the Secretary determines that the Center is deficient in carrying out subparagraph (B), the Secretary shall notify the Center of each deficiency and recommend specific measures to address the deficiency. “(iii) Disqualification.—If, after the end of the 180-day period that begins on the date of notification to the Center under clause (ii), the Secretary determines that the Center has not corrected each deficiency identified under clause (ii), the Secretary may, after notifying the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives of the determination, disqualify the Center from further participation under this section. “(D) Funding.—Of the amounts made available for each of fiscal years 1998 through 2003 by section 5001(a)(1) of this Act, $1,500,000 per fiscal year shall be available to carry out this paragraph.”
 
 #### Intelligent Transportation Systems
+Pub. L. 117–58, div. A, title I, § 11304, Nov. 15, 2021, 135 Stat. 531, provided that: “(a) In General.—The Secretary [of Transportation] shall develop guidance for using existing flexibilities with respect to the systems engineering analysis described in part 940 of title 23, Code of Federal Regulations (or successor regulations). “(b) Implementation.—The Secretary shall ensure that any guidance developed under subsection (a)—“(1) clearly identifies criteria for low-risk and exempt intelligent transportation systems projects, with a goal of minimizing unnecessary delay or paperwork burden; “(2) is consistently implemented by the Department [of Transportation] nationwide; and “(3) is disseminated to Federal-aid recipients. “(c) Savings Provision.—Nothing in this section prevents the Secretary from amending part 940 of title 23, Code of Federal Regulations (or successor regulations), to reduce State administrative burdens.”
+
 Pub. L. 105–178, title V, subtitle C, June 9, 1998, 112 Stat. 452, as amended by Pub. L. 105–206, title IX, § 9011(c), July 22, 1998, 112 Stat. 863; Pub. L. 105–277, div. A, § 101(g) [title III, § 370], Oct. 21, 1998, 112 Stat. 2681–439, 2681–478; Pub. L. 109–59, title V, § 5509, Aug. 10, 2005, 119 Stat. 1828; Pub. L. 114–94, div. A, title VI, § 6019(d)(2), Dec. 4, 2015, 129 Stat. 1581, provided that: “SEC. 5201. SHORT TITLE.“This subtitle may be cited as the ‘Intelligent Transportation Systems Act of 1998’. “SEC. 5202. FINDINGS.“Congress finds that—“(1) investments authorized by the Intermodal Surface Transportation Efficiency Act of 1991 (105 Stat. 1914 et seq.) [Pub. L. 104–240, see Tables for classification] have demonstrated that intelligent transportation systems can mitigate surface transportation problems in a cost-effective manner; and “(2) continued investment in architecture and standards development, research, and systems integration is needed to accelerate the rate at which intelligent transportation systems are incorporated into the national surface transportation network, thereby improving transportation safety and efficiency and reducing costs and negative impacts on communities and the environment. “SEC. 5203. GOALS AND PURPOSES.“(a) Goals.—The goals of the intelligent transportation system program include—“(1) enhancement of surface transportation efficiency and facilitation of intermodalism and international trade to enable existing facilities to meet a significant portion of future transportation needs, including public access to employment, goods, and services, and to reduce regulatory, financial, and other transaction costs to public agencies and system users; “(2) achievement of national transportation safety goals, including the enhancement of safe operation of motor vehicles and nonmotorized vehicles, with particular emphasis on decreasing the number and severity of collisions; “(3) protection and enhancement of the natural environment and communities affected by surface transportation, with particular emphasis on assisting State and local governments to achieve national environmental goals; “(4) accommodation of the needs of all users of surface transportation systems, including operators of commercial vehicles, passenger vehicles, and motorcycles, and including individuals with disabilities; and “(5) improvement of the Nation’s ability to respond to emergencies and natural disasters and enhancement of national defense mobility. “(b) Purposes.—The Secretary shall implement activities under the intelligent system transportation program to, at a minimum—“(1) expedite, in both metropolitan and rural areas, deployment and integration of intelligent transportation systems for consumers of passenger and freight transportation; “(2) ensure that Federal, State, and local transportation officials have adequate knowledge of intelligent transportation systems for full consideration in the transportation planning process; “(3) improve regional cooperation and operations planning for effective intelligent transportation system deployment; “(4) promote the innovative use of private resources; “(5) develop a workforce capable of developing, operating, and maintaining intelligent transportation systems; and “(6) complete deployment of Commercial Vehicle Information Systems and Networks in a majority of States by September 30, 2003. “SEC. 5204. GENERAL AUTHORITIES AND REQUIREMENTS.“(a) Scope.—Subject to the provisions of this subtitle, the Secretary shall conduct an ongoing intelligent transportation system program to research, develop, and operationally test intelligent transportation systems and advance nationwide deployment of such systems as a component of the surface transportation systems of the United States. “(b) Policy.—Intelligent transportation system operational tests and deployment projects funded pursuant to this subtitle shall encourage and not displace public-private partnerships or private sector investment in such tests and projects. “(c) Cooperation With Governmental, Private, and Educational Entities.—The Secretary shall carry out the intelligent transportation system program in cooperation with State and local governments and other public entities, the United States private sector, the Federal laboratories, and colleges and universities, including historically black colleges and universities and other minority institutions of higher education. “(d) Consultation With Federal Officials.—In carrying out the intelligent transportation system program, the Secretary, as appropriate, shall consult with the Secretary of Commerce, the Secretary of the Treasury, the Administrator of the Environmental Protection Agency, the Director of the National Science Foundation, and the heads of other Federal departments and agencies. “(e) Technical Assistance, Training, and Information.—The Secretary may provide technical assistance, training, and information to State and local governments seeking to implement, operate, maintain, or evaluate intelligent transportation system technologies and services. “(f) Transportation Planning.—The Secretary may provide funding to support adequate consideration of transportation system management and operations, including intelligent transportation systems, within metropolitan and statewide transportation planning processes. “(g) Information Clearinghouse.—“(1) In general.—The Secretary shall—“(A) maintain a repository for technical and safety data collected as a result of federally sponsored projects carried out under this subtitle; and “(B) on request, make that information (except for proprietary information and data) readily available to all users of the repository at an appropriate cost. “(2) Delegation of authority.—“(A) In general.—The Secretary may delegate the responsibility of the Secretary under this subsection, with continuing oversight by the Secretary, to an appropriate entity not within the Department of Transportation. “(B) Federal assistance.—If the Secretary delegates the responsibility, the entity to which the responsibility is delegated shall be eligible for Federal assistance under this section. “(h) Advisory Committees.—“(1) In general.—In carrying out this subtitle, the Secretary may use 1 or more advisory committees. “(2) Applicability of federal advisory committee act.—Any advisory committee so used shall be subject to the Federal Advisory Committee Act (5 U.S.C. App.). “(i) Procurement Methods.—“(1) Technical assistance.—The Secretary shall develop appropriate technical assistance and guidance to assist State and local agencies in evaluating and selecting appropriate methods of procurement for intelligent transportation system projects carried out using funds made available from the Highway Trust Fund, including innovative and nontraditional methods such as the Information Technology Omnibus Procurement. “(2) Intelligent transportation system software.—To the maximum extent practicable, contracting officials shall use as a critical evaluation criterion the Software Engineering Institute’s Capability Maturity Model, or another similar recognized standard risk assessment methodology, to reduce the cost, schedule, and performance risks associated with the development, management, and integration of intelligent transportation system software. “(j) Evaluations.—“(1) Guidelines and requirements.—“(A) In general.—The Secretary shall issue guidelines and requirements for the evaluation of operational tests and deployment projects carried out under this subtitle. “(B) Objectivity and independence.—The guidelines and requirements issued under subparagraph (A) shall include provisions to ensure the objectivity and independence of the evaluator so as to avoid any real or apparent conflict of interest or potential influence on the outcome by parties to any such test or deployment project or by any other formal evaluation carried out under this subtitle. “(C) Funding.—The guidelines and requirements issued under subparagraph (A) shall establish evaluation funding levels based on the size and scope of each test or project that ensure adequate evaluation of the results of the test or project. “(2) Special rule.—Any survey, questionnaire, or interview that the Secretary considers necessary to carry out the evaluation of any test, deployment project, or program assessment activity under this subtitle shall not be subject to chapter 35 of title 44. “(k) Use of Rights-of-Way.—Intelligent transportation system projects specified in section 5117(b)(3) and 5117(b)(6) [set out above] and involving privately owned intelligent transportation system components that is carried out using funds made available from the Highway Trust Fund shall not be subject to any law or regulation of a State or political subdivision of a State prohibiting or regulating commercial activities in the rights-of-way of a highway for which Federal-aid highway funds have been utilized for planning, design, construction, or maintenance, if the Secretary of Transportation determines that such use is in the public interest. Nothing in this subsection shall affect the authority of a State or political subdivision of a State to regulate highway safety. “SEC. 5205. NATIONAL ITS PROGRAM PLAN.“(a) In General.—“(1) Updates.—The Secretary shall maintain and update, as necessary, the National ITS Program Plan developed by the Department of Transportation and the Intelligent Transportation Society of America. “(2) Scope.—The National ITS Program Plan shall—“(A) specify the goals, objectives, and milestones for the research and deployment of intelligent transportation systems in the context of major metropolitan areas, smaller metropolitan and rural areas, and commercial vehicle operations; “(B) specify how specific programs and projects will achieve the goals, objectives, and milestones referred to in subparagraph (A), including consideration of the 5- and 10-year timeframes for the goals and objectives; “(C) identify activities that provide for the dynamic development of standards and protocols to promote and ensure interoperability in the implementation of intelligent transportation system technologies, including actions taken to establish critical standards; and “(D) establish a cooperative process with State and local governments for determining desired surface transportation system performance levels and developing plans for incorporation of specific intelligent transportation system capabilities into surface transportation systems. “(b) Reporting.—The plan described in subsection (a) shall be transmitted and updated as part of the transportation research and development strategic plan under [section 6503 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section6503&num=0&edition=prelim), United States Code. “SEC. 5206. NATIONAL ARCHITECTURE AND STANDARDS.“(a) In General.—“(1) Development, implementation, and maintenance.—Consistent with section 12(d) of the National Technology Transfer and Advancement Act of 1995 [Pub. L. 104–113] ([15 U.S.C. 272](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section272&num=0&edition=prelim) note; 110 Stat. 783), the Secretary shall develop, implement, and maintain a national architecture and supporting standards and protocols to promote the widespread use and evaluation of intelligent transportation system technology as a component of the surface transportation systems of the United States. “(2) Interoperability and efficiency.—To the maximum extent practicable, the national architecture shall promote interoperability among, and efficiency of, intelligent transportation system technologies implemented throughout the United States. “(3) Use of standards development organizations.—In carrying out this section, the Secretary may use the services of such standards development organizations as the Secretary determines to be appropriate. “(b) Report on Critical Standards.—Not later than June 1, 1999, the Secretary shall submit a report to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure and the Committee on Science [now Committee on Science, Space, and Technology] of the House of Representatives identifying which standards are critical to ensuring national interoperability or critical to the development of other standards and specifying the status of the development of each standard identified. “(c) Provisional Standards.—“(1) In general.—If the Secretary finds that the development or balloting of an intelligent transportation system standard jeopardizes the timely achievement of the objectives identified in subsection (a), the Secretary may establish a provisional standard after consultation with affected parties, and using, to the extent practicable, the work product of appropriate standards development organizations. “(2) Critical standards.—If a standard identified as critical in the report under subsection (b) is not adopted and published by the appropriate standards development organization by January 1, 2001, the Secretary shall establish a provisional standard after consultation with affected parties, and using, to the extent practicable, the work product of appropriate standards development organizations. “(3) Period of effectiveness.—A provisional standard established under paragraph (1) or (2) shall be published in the Federal Register and remain in effect until the appropriate standards development organization adopts and publishes a standard. “(d) Waiver of Requirement To Establish Provisional Standard.—“(1) In general.—The Secretary may waive the requirement under subsection (c)(2) to establish a provisional standard if the Secretary determines that additional time would be productive or that establishment of a provisional standard would be counterproductive to achieving the timely achievement of the objectives identified in subsection (a). “(2) Notice.—The Secretary shall publish in the Federal Register a notice describing each standard for which a waiver of the provisional standard requirement has been granted, the reasons for and effects of granting the waiver, and an estimate as to when the standard is expected to be adopted through a process consistent with section 12(d) of the National Technology Transfer and Advancement Act of 1995 [Pub. L. 104–113] ([15 U.S.C. 272](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section272&num=0&edition=prelim) note; 110 Stat. 783). “(3) Withdrawal of waiver.—At any time the Secretary may withdraw a waiver granted under paragraph (1). Upon such withdrawal, the Secretary shall publish in the Federal Register a notice describing each standard for which a waiver has been withdrawn and the reasons for withdrawing the waiver. “(e) Conformity With National Architecture.—“(1) In general.—Except as provided in paragraphs (2) and (3), the Secretary shall ensure that intelligent transportation system projects carried out using funds made available from the Highway Trust Fund, including funds made available under this subtitle to deploy intelligent transportation system technologies, conform to the national architecture, applicable standards or provisional standards, and protocols developed under subsection (a). “(2) Secretary’s discretion.—The Secretary may authorize exceptions to paragraph (1) for—“(A) projects designed to achieve specific research objectives outlined in the National ITS Program Plan under section 5205 or the transportation research and development strategic plan under [section 6503 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section6503&num=0&edition=prelim), United States Code; or “(B) the upgrade or expansion of an intelligent transportation system in existence on the date of enactment of this subtitle [June 9, 1998], if the Secretary determines that the upgrade or expansion—“(i) would not adversely affect the goals or purposes of this subtitle; “(ii) is carried out before the end of the useful life of such system; and “(iii) is cost-effective as compared to alternatives that would meet the conformity requirement of paragraph (1). “(3) Exceptions.—Paragraph (1) shall not apply to funds used for operation or maintenance of an intelligent transportation system in existence on the date of enactment of this subtitle. “(f) Spectrum.—The Federal Communications Commission shall consider, in consultation with the Secretary, spectrum needs for the operation of intelligent transportation systems, including spectrum for the dedicated short-range vehicle-to-wayside wireless standard. Not later than January 1, 2000, the Federal Communications Commission shall have completed a rulemaking considering the allocation of spectrum for intelligent transportation systems. “SEC. 5207. RESEARCH AND DEVELOPMENT.“(a) In General.—The Secretary shall carry out a comprehensive program of intelligent transportation system research, development and operational tests of intelligent vehicles and intelligent infrastructure systems, and other similar activities that are necessary to carry out this subtitle. “(b) Priority Areas.—Under the program, the Secretary shall give higher priority to funding projects that—“(1) address traffic management, incident management, transit management, toll collection, traveler information, or highway operations systems; “(2) focus on crash-avoidance and integration of in-vehicle crash protection technologies with other on-board safety systems, including the interaction of air bags and safety belts; “(3) incorporate human factors research, including the science of the driving process; “(4) facilitate the integration of intelligent infrastructure, vehicle, and control technologies, including magnetic guidance control systems or other materials or magnetics research; or “(5) incorporate research on the impact of environmental, weather, and natural conditions on intelligent transportation systems, including the effects of cold climates. “(c) Operational Tests.—Operational tests conducted under this section shall be designed for the collection of data to permit objective evaluation of the results of the tests, derivation of cost-benefit information that is useful to others contemplating deployment of similar systems, and development and implementation of standards. “(d) Federal Share.—The Federal share of the cost of operational tests and demonstrations under subsection (a) shall not exceed 80 percent.“[SECS. 5208, 5209. Repealed. Pub. L. 109–59, title V, § 5509, Aug. 10, 2005, 119 Stat. 1828.] “SEC. 5210. USE OF FUNDS.“(a) Outreach and Public Relations Limitation.—“(1) In general.—For each fiscal year, not more than $5,000,000 of the funds made available to carry out this subtitle shall be used for intelligent transportation system outreach, public relations, displays, scholarships, tours, and brochures. “(2) Applicability.—Paragraph (1) shall not apply to intelligent transportation system training or the publication or distribution of research findings, technical guidance, or similar documents. “(b) Infrastructure Development.—Funds made available to carry out this subtitle for operational tests and deployment projects—“(1) shall be used primarily for the development of intelligent transportation system infrastructure; and “(2) to the maximum extent practicable, shall not be used for the construction of physical highway and transit infrastructure unless the construction is incidental and critically necessary to the implementation of an intelligent transportation system project. “(c) Life Cycle Cost Analysis and Financing and Operations Plan.—The Secretary shall require an applicant for funds made available under sections 5208 and 5209 to submit to the Secretary—“(1) an analysis of the life-cycle costs of operation and maintenance of intelligent transportation system elements, if the total initial capital costs of the elements exceed $3,000,000; and “(2) a multiyear financing and operations plan that describes how the project will be cost-effectively operated and maintained. “(d) Use of Innovative Financing.—“(1) In general.—The Secretary may use up to 25 percent of the funds made available to carry out this subtitle to make available loans, lines of credit, and loan guarantees for projects that are eligible for assistance under this subtitle and that have significant intelligent transportation system elements. “(2) Consistency with other law.—Credit assistance described in paragraph (1) shall be made available in a manner consistent with the Transportation Infrastructure Finance and Innovation Act of 1998 [see section 1501 of Pub. L. 105–178, set out as a Short Title of 1998 Amendment note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101)]. “SEC. 5211. DEFINITIONS.“In this subtitle, the following definitions apply:“(1) Commercial vehicle information systems and networks.—The term ‘Commercial Vehicle Information Systems and Networks’ means the information systems and communications networks that support commercial vehicle operations. “(2) Commercial vehicle operations.—The term ‘commercial vehicle operations’—“(A) means motor carrier operations and motor vehicle regulatory activities associated with the commercial movement of goods, including hazardous materials, and passengers; and “(B) with respect to the public sector, includes the issuance of operating credentials, the administration of motor vehicle and fuel taxes, and roadside safety and border crossing inspection and regulatory compliance operations. “(3) Corridor.—The term ‘corridor’ means any major transportation route that includes parallel limited access highways, major arterials, or transit lines. “(4) Intelligent transportation infrastructure.—The term ‘intelligent transportation infrastructure’ means fully integrated public sector intelligent transportation system components, as defined by the Secretary. “(5) Intelligent transportation system.—The term ‘intelligent transportation system’ means electronics, communications, or information processing used singly or in combination to improve the efficiency or safety of a surface transportation system. “(6) National architecture.—The term ‘national architecture’ means the common framework for interoperability adopted by the Secretary that defines—“(A) the functions associated with intelligent transportation system user services; “(B) the physical entities or subsystems within which the functions reside; “(C) the data interfaces and information flows between physical subsystems; and “(D) the communications requirements associated with the information flows. “(7) Standard.—The term ‘standard’ means a document that—“(A) contains technical specifications or other precise criteria for intelligent transportation systems that are to be used consistently as rules, guidelines, or definitions of characteristics so as to ensure that materials, products, processes, and services are fit for their purposes; and “(B) may support the national architecture and promote—“(i) the widespread use and adoption of intelligent transportation system technology as a component of the surface transportation systems of the United States; and “(ii) interoperability among intelligent transportation system technologies implemented throughout the States. “(8) State.—The term ‘State’ has the meaning given the term under [section 101 of title 23](./chapter-001-federal-aid-highways.md#section-101), United States Code. “SEC. 5212. PROJECT FUNDING.“(a) Use of Hazardous Materials Monitoring Systems.—“(1) In general.—The Secretary shall conduct research on improved methods of deploying and integrating existing ITS projects to include hazardous materials monitoring systems across various modes of transportation. “(2) Funding.—Of the amounts made available for each of fiscal years 1998 through 2003 by section 5001(a)(6) of this Act [112 Stat. 420], $1,500,000 per fiscal year shall be available to carry out this paragraph. “(b) Outreach and Technology Transfer Activities.—“(1) In general.—The Secretary shall continue to support the Urban Consortium’s ITS outreach and technology transfer activities. “(2) Funding.—Of the amounts made available for each of fiscal years 1998 through 2003 by section 5001(a)(5) of this Act [112 Stat. 420], $500,000 per fiscal year shall be available to carry out this paragraph. “(c) Translink.—“(1) In general.—The Secretary shall make grants to the Texas Transportation Institute to continue the Translink Research program. “(2) Funding.—Of the amounts allocated for each of fiscal years 1999 through 2001 by section 5001(a)(6) of this Act, $1,300,000 per fiscal year shall be available to carry out this paragraph. “SEC. 5213. REPEAL.“The Intermodal Surface Transportation Efficiency Act of 1991 [Pub. L. 102–240] is amended by striking part B [§§ 6051–6059] of title VI ([23 U.S.C. 307](./chapter-003-general-provisions.md#section-307) note; 105 Stat. 2189).”
 
 [Pub. L. 109–59, title V, § 5509, Aug. 10, 2005, 119 Stat. 1828, provided that the amendment made by section 5509, repealing sections 5208 and 5209 of Pub. L. 105–178, set out above, is effective Oct. 1 2005.]
@@ -478,7 +698,7 @@ Pub. L. 95–599, title I, § 166, Nov. 6, 1978, 92 Stat. 2722, provided that: �
 
 (1) carry out research, development, and deployment activities that encompass the entire innovation lifecycle; and
 
-(2) ensure that all research carried out under this section aligns with the transportation research and development strategic plan of the Secretary under section 508.11 See References in Text note below.
+(2) ensure that all research carried out under this section aligns with the transportation research and development strategic plan of the Secretary under [section 6503 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section6503&num=0&edition=prelim).
 
 **(b) Highway Research and Development Program.—**
 
@@ -488,9 +708,13 @@ Pub. L. 95–599, title I, § 166, Nov. 6, 1978, 92 Stat. 2722, provided that: �
 
   (B) coordinate research and development activities;
 
-  (C) carry out research, testing, and evaluation activities; and
+  (C) carry out research, testing, and evaluation activities;
 
-  (D) provide technology transfer and technical assistance.
+  (D) provide technology transfer and technical assistance;
+
+  (E) engage with public and private entities to spur advancement of emerging transformative innovations through accelerated market readiness; and
+
+  (F) consult frequently with public and private entities on new transportation technologies.
 
 (2) **Improving highway safety.—**
 
@@ -530,17 +754,19 @@ Pub. L. 95–599, title I, § 166, Nov. 6, 1978, 92 Stat. 2722, provided that: �
 
     (ix) safety measures for vulnerable road users, including bicyclists and pedestrians;
 
-    (x) safety policy studies;
+    (x) safety measures to reduce the number of wildlife-vehicle collisions;
 
-    (xi) human factors studies and measures;
+    (xi) safety policy studies;
 
-    (xii) safety technology deployment;
+    (xii) human factors studies and measures;
 
-    (xiii) safety workforce professional capacity building initiatives;
+    (xiii) safety technology deployment;
 
-    (xiv) safety program and process improvements; and
+    (xiv) safety workforce professional capacity building initiatives;
 
-    (xv) tools and methods to enhance safety performance, including achievement of statewide safety performance targets.
+    (xv) safety program and process improvements; and
+
+    (xvi) tools and methods to enhance safety performance, including achievement of statewide safety performance targets.
 
 (3) **Improving infrastructure integrity.—**
 
@@ -568,7 +794,7 @@ Pub. L. 95–599, title I, § 166, Nov. 6, 1978, 92 Stat. 2722, provided that: �
 
     (vii) to reduce the environmental impacts of highway infrastructure through innovations in design, construction, operation, preservation, and maintenance; and
 
-    (viii) to study vulnerabilities of the transportation system to seismic activities and extreme events and methods to reduce those vulnerabilities.
+    (viii) to study vulnerabilities of the transportation system to seismic activities and extreme events, including weather, and methods to reduce those vulnerabilities.
 
   (C) *Contents.—* — Research and technology activities carried out under this paragraph may include—
 
@@ -600,15 +826,17 @@ Pub. L. 95–599, title I, § 166, Nov. 6, 1978, 92 Stat. 2722, provided that: �
 
     (xiv) improved tools, technologies, and models for infrastructure management, including assessment and monitoring of infrastructure condition;
 
-    (xv) studies to improve flexibility and resiliency of infrastructure systems to withstand climate variability;
+    (xv) studies to improve flexibility and resiliency of infrastructure systems to withstand extreme weather events and climate variability;
 
     (xvi) studies on the effectiveness of fiber-based additives to improve the durability of surface transportation materials in various geographic regions;
 
     (xvii) studies of infrastructure resilience and other adaptation measures;
 
-    (xviii) maintenance of seismic research activities, including research carried out in conjunction with other Federal agencies to study the vulnerability of the transportation system to seismic activity and methods to reduce that vulnerability; and
+    (xviii) maintenance of seismic research activities, including research carried out in conjunction with other Federal agencies to study the vulnerability of the transportation system to seismic activity and methods to reduce that vulnerability;
 
-    (xix) technology transfer and adoption of permeable, pervious, or porous paving materials, practices, and systems that are designed to minimize environmental impacts, stormwater runoff, and flooding and to treat or remove pollutants by allowing stormwater to infiltrate through the pavement in a manner similar to predevelopment hydrologic conditions.
+    (xix) technology transfer and adoption of permeable, pervious, or porous paving materials, practices, and systems that are designed to minimize environmental impacts, stormwater runoff, and flooding and to treat or remove pollutants by allowing stormwater to infiltrate through the pavement in a manner similar to predevelopment hydrologic conditions; and
+
+    (xx) studies on the deployment and revenue potential of the deployment of energy and broadband infrastructure in highway rights-of-way, including potential adverse impacts of the use or nonuse of those rights-of-way.
 
   (D) *Lifecycle costs analysis study.—*
 
@@ -754,27 +982,39 @@ Pub. L. 95–599, title I, § 166, Nov. 6, 1978, 92 Stat. 2722, provided that: �
 
 (6) **Exploratory advanced research.—** — The Secretary shall carry out research and development activities relating to exploratory advanced research—
 
-  (A) to leverage the targeted capabilities of the Turner-Fairbank Highway Research Center to develop technologies and innovations of national importance; and
+  (A) to leverage the targeted capabilities of the Turner-Fairbank Highway Research Center to develop technologies and innovations of national importance;
 
-  (B) to develop potentially transformational solutions to improve the durability, efficiency, environmental impact, productivity, and safety aspects of highway and intermodal transportation systems.
+  (B) to develop potentially transformational solutions to improve the durability, efficiency, environmental impact, productivity, and safety aspects of highway and intermodal transportation systems; and
+
+  (C) to support research on non-market-ready technologies in consultation with public and private entities.
 
 (7) **Turner-fairbank highway research center.—**
 
   (A) *In general.—* — The Secretary shall continue to operate in the Federal Highway Administration a Turner-Fairbank Highway Research Center.
 
-  (B) *Uses of the center.—* — The Turner-Fairbank Highway Research Center shall support—
+  (B) *Uses of the center.—* — The Turner-Fairbank Highway Research Center shall support innovations by leading—
 
     (i) the conduct of highway research and development relating to emerging highway technology;
 
     (ii) the development of understandings, tools, and techniques that provide solutions to complex technical problems through the development of economical and environmentally sensitive designs, efficient and quality-controlled construction practices, and durable materials;
 
-    (iii) the development of innovative highway products and practices; and
+    (iii) the development of innovative highway products and practices;
 
-    (iv) the conduct of long-term, high-risk research to improve the materials used in highway infrastructure.
+    (iv) the conduct of long-term, high-risk research to improve the materials used in highway infrastructure; and
+
+    (v) the evaluation of information from accelerated market readiness efforts, including non-market-ready technologies, in consultation with other offices of the Federal Highway Administration, the National Highway Traffic Safety Administration, and other key partners.
 
 (8) **Infrastructure investment needs report.—**
 
-  (A) *In general.—* — Not later than July 31, 2013, and July 31 of every second year thereafter, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report that describes estimates of the future highway and bridge needs of the United States and the backlog of current highway and bridge needs.
+  (A) *In general.—* — Not later than July 31, 2013, and July 31 of every second year thereafter, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report that describes estimates of the current conditions and future needs of highways, bridges, and tunnels of the United States, including—
+
+    (i) the conditions and performance of the highway network for freight movement;
+
+    (ii) intelligent transportation systems;
+
+    (iii) resilience needs; and
+
+    (iv) the backlog of current highway, bridge, and tunnel needs.
 
   (B) *Comparisons.—* — Each report under subparagraph (A) shall include all information necessary to relate and compare the conditions and service measures used in the previous biennial reports to conditions and service measures used in the current report.
 
@@ -784,9 +1024,19 @@ Pub. L. 95–599, title I, § 166, Nov. 6, 1978, 92 Stat. 2722, provided that: �
 
     (ii) changes to the reporting requirements authorized under section 315, to reflect recommendations under this paragraph for collection, storage, analysis, reporting, and display of data for Federal-aid highways and, to the maximum extent practical, all public roads.
 
+(9) **Analysis tools.—** — The Secretary may develop interactive modeling tools and databases that—
+
+  (A) track the full condition of highway assets, including interchanges, and the reconstruction history of those assets;
+
+  (B) can be used to assess transportation options;
+
+  (C) allow for the monitoring and modeling of network-level traffic flows on highways; and
+
+  (D) further Federal and State understanding of the importance of national and regional connectivity and the need for long-distance and interregional passenger and freight travel by highway and other surface transportation modes.
+
 **(c) Technology and Innovation Deployment Program.—**
 
-(1) **In general.—** — The Secretary shall carry out a technology and innovation deployment program relating to all aspects of highway transportation, including planning, financing, operation, structures, materials, pavements, environment, construction, and the duration of time between project planning and project delivery, with the goals of—
+(1) **In general.—** — The Secretary shall carry out a technology and innovation deployment program relating to all aspects of highway transportation, including planning, financing, operation, structures, use of rights-of-way permissible under applicable law, materials, pavements, environment, construction, and the duration of time between project planning and project delivery, with the goals of—
 
   (A) significantly accelerating the adoption of innovative technologies by the surface transportation community;
 
@@ -794,9 +1044,11 @@ Pub. L. 95–599, title I, § 166, Nov. 6, 1978, 92 Stat. 2722, provided that: �
 
   (C) constructing longer-lasting highways through the use of innovative technologies and practices that lead to faster construction of efficient and safe highways and bridges;
 
-  (D) improving highway efficiency, safety, mobility, reliability, service life, environmental protection, and sustainability; and
+  (D) improving highway efficiency, safety, mobility, reliability, service life, environmental protection, and sustainability;
 
-  (E) developing and deploying new tools, techniques, and practices to accelerate the adoption of innovation in all aspects of highway transportation.
+  (E) developing and deploying new tools, techniques, and practices to accelerate the adoption of innovation in all aspects of highway transportation; and
+
+  (F) disseminating and evaluating information from accelerated market readiness efforts, including non-market-ready technologies, to public and private entities.
 
 (2) **Implementation.—**
 
@@ -808,7 +1060,7 @@ Pub. L. 95–599, title I, § 166, Nov. 6, 1978, 92 Stat. 2722, provided that: �
 
     (ii) provide technical assistance, and training to researchers and developers; and
 
-    (iii) develop improved tools and methods to accelerate the adoption of proven innovative practices and technologies as standard practices.
+    (iii) develop and deploy improved tools and methods to accelerate the adoption of early-stage and proven innovative practices and technologies and, as the Secretary determines to be appropriate, support continued implementation of proven innovative practices and technologies as standard practices.
 
   (C) *Implementation of future strategic highway research program findings and results.—*
 
@@ -817,6 +1069,12 @@ Pub. L. 95–599, title I, § 166, Nov. 6, 1978, 92 Stat. 2722, provided that: �
     (ii) *Basis for findings.—* — The activities carried out under this subparagraph shall be based on the report submitted to Congress by the Transportation Research Board of the National Academy of Sciences under section 510(e).
 
     (iii) *Personnel.—* — The Secretary may use funds made available to carry out this subsection for administrative costs under this subparagraph.
+
+  (D) *Report.—* — Not later than 2 years after the date of enactment of this subparagraph and every 2 years thereafter, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and make publicly available on an internet website a report that describes—
+
+    (i) the activities the Secretary has undertaken to carry out the program established under paragraph (1); and
+
+    (ii) how and to what extent the Secretary has worked to disseminate non-market-ready technologies to public and private entities.
 
 (3) **Accelerated implementation and deployment of pavement technologies.—**
 
@@ -836,11 +1094,27 @@ Pub. L. 95–599, title I, § 166, Nov. 6, 1978, 92 Stat. 2722, provided that: �
 
     (vi) effective technology transfer and information dissemination to accelerate implementation of new technologies and to improve life, performance, cost effectiveness, safety, and user satisfaction.
 
-  (C) *Funding.—* — The Secretary shall obligate for each of fiscal years 2016 through 2020 from funds made available to carry out this subsection $12,000,000 to accelerate the deployment and implementation of pavement technology.
+  (C) *High-friction surface treatment application study.—*
 
-  (D) *Publication.—*
+    (i) *Definition of institution.—* — In this subparagraph, the term “institution” means a private sector entity, public agency, research university or other research institution, or organization representing transportation and technology leaders or other transportation stakeholders that, as determined by the Secretary, is capable of working with State highway agencies, the Federal Highway Administration, and the highway construction industry to develop and evaluate new products, design technologies, and construction methods that quickly lead to pavement improvements.
 
-    (i) *In general.—* — Not less frequently than annually, the Secretary shall issue and make available to the public on an Internet website a report on the cost and benefits from deployment of new technology and innovations that substantially and directly resulted from the program established under this paragraph.
+    (ii) *Study.—* — The Secretary shall seek to enter into an agreement with an institution to carry out a study on the use of natural and synthetic calcined bauxite as a high-friction surface treatment application on pavement.
+
+    (iii) *Report.—* — Not later than 18 months after the date of enactment of the Surface Transportation Reauthorization Act of 2021, the Secretary shall submit a report on the results of the study under clause (ii) to—
+
+      (I) the Committee on Environment and Public Works of the Senate;
+
+      (II) the Committee on Transportation and Infrastructure of the House of Representatives;
+
+      (III) the Federal Highway Administration; and
+
+      (IV) the American Association of State Highway and Transportation Officials.
+
+  (D) *Funding.—* — The Secretary shall obligate for each of fiscal years 2022 through 2026 from funds made available to carry out this subsection $12,000,000 to accelerate the deployment and implementation of pavement technology.
+
+  (E) *Publication.—*
+
+    (i) *In general.—* — Not less frequently than once every 3 years, the Secretary shall issue and make available to the public on an Internet website a report on the cost and benefits from deployment of new technology and innovations that substantially and directly resulted from the program established under this paragraph.
 
     (ii) *Inclusions.—* — The report under clause (i) may include an analysis of—
 
@@ -848,47 +1122,73 @@ Pub. L. 95–599, title I, § 166, Nov. 6, 1978, 92 Stat. 2722, provided that: �
 
       (II) project delivery time improvements;
 
-      (III) reduced fatalities; and
+      (III) reduced fatalities;
 
-      (IV) congestion impacts.
+      (IV) congestion impacts;
 
-(4) **Advanced transportation technologies deployment.—**
+      (V) pavement monitoring and data collection practices;
 
-  (A) *In general.—* — Not later than 6 months after the date of enactment of this paragraph, the Secretary shall establish an advanced transportation and congestion management technologies deployment initiative to provide grants to eligible entities to develop model deployment sites for large scale installation and operation of advanced transportation technologies to improve safety, efficiency, system performance, and infrastructure return on investment.
+      (VI) pavement durability and resilience;
+
+      (VII) stormwater management;
+
+      (VIII) impacts on vehicle efficiency;
+
+      (IX) the energy efficiency of the production of paving materials and the ability of paving materials to enhance the environment and promote sustainability; and
+
+      (X) integration of renewable energy in pavement designs.
+
+(4) **Advanced transportation technologies and innovative mobility deployment.—**
+
+  (A) *In general.—* — The Secretary shall provide grants to eligible entities to deploy, install, and operate advanced transportation technologies to improve safety, mobility, efficiency, system performance, intermodal connectivity, and infrastructure return on investment.
 
   (B) *Criteria.—* — The Secretary shall develop criteria for selection of an eligible entity to receive a grant under this paragraph, including how the deployment of technology will—
 
-    (i) reduce costs and improve return on investments, including through the enhanced use of existing transportation capacity;
+    (i) improve the mobility of people and goods;
 
-    (ii) deliver environmental benefits that alleviate congestion and streamline traffic flow;
+    (ii) improve the durability and extend the life of transportation infrastructure;
 
-    (iii) measure and improve the operational performance of the applicable transportation network;
+    (iii) reduce costs and improve return on investments, including through optimization of existing transportation capacity;
 
-    (iv) reduce the number and severity of traffic crashes and increase driver, passenger, and pedestrian safety;
+    (iv) protect the environment and deliver environmental benefits that alleviate congestion and streamline traffic flow;
 
-    (v) collect, disseminate, and use real-time traffic, transit, parking, and other transportation-related information to improve mobility, reduce congestion, and provide for more efficient and accessible transportation;
+    (v) measure and improve the operational performance of the applicable transportation network;
 
-    (vi) monitor transportation assets to improve infrastructure management, reduce maintenance costs, prioritize investment decisions, and ensure a state of good repair;
+    (vi) reduce the number and severity of traffic crashes and increase driver, passenger, and pedestrian safety;
 
-    (vii) deliver economic benefits by reducing delays, improving system performance, and providing for the efficient and reliable movement of goods and services; or
+    (vii) collect, disseminate, and use real-time traffic, work zone, weather, transit, paratransit, parking, and other transportation-related information to improve mobility, reduce congestion, and provide for more efficient, accessible, and integrated transportation and transportation services;
 
-    (viii) accelerate the deployment of vehicle-to-vehicle, vehicle-to-infrastructure, autonomous vehicles, and other technologies.
+    (viii) facilitate account-based payments for transportation access and services and integrate payment systems across modes;
+
+    (ix) monitor transportation assets to improve infrastructure management, reduce maintenance costs, prioritize investment decisions, and ensure a state of good repair;
+
+    (x) deliver economic benefits by reducing delays, improving system performance, and providing for the efficient and reliable movement of goods and services;
+
+    (xi) accelerate the deployment of vehicle-to-vehicle, vehicle-to-infrastructure, vehicle-to-pedestrian, autonomous vehicles, and other technologies; or
+
+    (xii) incentivize travelers—
+
+      (I) to share trips during periods in which travel demand exceeds system capacity; or
+
+      (II) to shift trips to periods in which travel demand does not exceed system capacity.
 
   (C) *Applications.—*
 
-    (i) *Request.—* — Not later than 6 months after the date of enactment of this paragraph, and for every fiscal year thereafter, the Secretary shall request applications in accordance with clause (ii).
+    (i) *Request.—* — Each fiscal year for which funding is made available for activities under this paragraph, the Secretary shall request applications in accordance with clause (ii).
 
     (ii) *Contents.—* — An application submitted under this subparagraph shall include the following:
 
-      (I) *Plan.—* — A plan to deploy and provide for the long-term operation and maintenance of advanced transportation and congestion management technologies to improve safety, efficiency, system performance, and return on investment.
+      (I) *Plan.—* — A plan to deploy and provide for the long-term operation and maintenance of advanced transportation and congestion management technologies to improve safety, mobility, efficiency, system performance, and return on investment.
 
       (II) *Objectives.—* — Quantifiable system performance improvements, such as—
 
         (aa) reducing traffic-related crashes, congestion, and costs;
 
-        (bb) optimizing system efficiency; and
+        (bb) optimizing system efficiency;
 
-        (cc) improving access to transportation services.
+        (cc) improving access to transportation services; and
+
+        (dd) facilitating payment for transportation services.
 
       (III) *Results.—* — Quantifiable safety, mobility, and environmental benefit projections such as data-driven estimates of how the project will improve the region’s transportation system efficiency and reduce traffic congestion.
 
@@ -898,9 +1198,13 @@ Pub. L. 95–599, title I, § 166, Nov. 6, 1978, 92 Stat. 2722, provided that: �
 
   (D) *Grant selection.—*
 
-    (i) *Grant awards.—* — Not later than 1 year after the date of enactment of this paragraph, and for every fiscal year thereafter, the Secretary shall award grants to not less than 5 and not more than 10 eligible entities.
+    (i) *Grant awards.—* — Each fiscal year for which funding is made available for activities under this paragraph, the Secretary shall award grants to not less than 5 and not more than 10 eligible entities.
 
-    (ii) *Geographic diversity.—* — In awarding a grant under this paragraph, the Secretary shall ensure, to the extent practicable, that grant recipients represent diverse geographic areas of the United States, including urban and rural areas.
+    (ii) *Geographic diversity.—*
+
+      (I) *In general.—* — Subject to subclause (II), in awarding a grant under this paragraph, the Secretary shall ensure, to the extent practicable, that grant recipients represent diverse geographic areas of the United States, including urban and rural areas.
+
+      (II) *Rural set-aside.—* — Not less than 20 percent of the amounts made available to carry out this paragraph shall be reserved for projects serving rural areas.
 
     (iii) *Technology diversity.—* — In awarding a grant under this paragraph, the Secretary shall ensure, to the extent practicable, that grant recipients represent diverse technology solutions.
 
@@ -910,19 +1214,33 @@ Pub. L. 95–599, title I, § 166, Nov. 6, 1978, 92 Stat. 2722, provided that: �
 
     (ii) advanced transportation management technologies;
 
-    (iii) infrastructure maintenance, monitoring, and condition assessment;
+    (iii) advanced transportation technologies to improve emergency evacuation and response by Federal, State, and local authorities;
 
-    (iv) advanced public transportation systems;
+    (iv) infrastructure maintenance, monitoring, and condition assessment;
 
-    (v) transportation system performance data collection, analysis, and dissemination systems;
+    (v) advanced public transportation systems;
 
-    (vi) advanced safety systems, including vehicle-to-vehicle and vehicle-to-infrastructure communications, technologies associated with autonomous vehicles, and other collision avoidance technologies, including systems using cellular technology;
+    (vi) transportation system performance data collection, analysis, and dissemination systems;
 
-    (vii) integration of intelligent transportation systems with the Smart Grid and other energy distribution and charging systems;
+    (vii) advanced safety systems, including vehicle-to-vehicle and vehicle-to-infrastructure communications, technologies associated with autonomous vehicles, and other collision avoidance technologies, including systems using cellular technology;
 
-    (viii) electronic pricing and payment systems; or
+    (viii) integration of intelligent transportation systems with the Smart Grid and other energy distribution and charging systems;
 
-    (ix) advanced mobility and access technologies, such as dynamic ridesharing and information systems to support human services for elderly and disabled individuals.
+    (ix) integrated corridor management systems;
+
+    (x) advanced parking reservation or variable pricing systems;
+
+    (xi) electronic pricing, toll collection, and payment systems;
+
+    (xii) technology that enhances high occupancy vehicle toll lanes, cordon pricing, or congestion pricing;
+
+    (xiii) integration of transportation service payment systems;
+
+    (xiv) advanced mobility, access, and on-demand transportation service technologies, such as dynamic ridesharing and other shared-use mobility applications and information systems to support human services for elderly and disabled individuals;
+
+    (xv) retrofitting dedicated short-range communications (DSRC) technology deployed as part of an existing pilot program to cellular vehicle-to-everything (C–V2X) technology, subject to the condition that the retrofitted technology operates only within the existing spectrum allocations for connected vehicle systems; or
+
+    (xvi) advanced transportation technologies, in accordance with the research areas described in [section 6503 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section6503&num=0&edition=prelim).
 
   (F) *Report to secretary.—* — For each eligible entity that receives a grant under this paragraph, not later than 1 year after the entity receives the grant, and each year thereafter, the entity shall submit a report to the Secretary that describes—
 
@@ -936,7 +1254,7 @@ Pub. L. 95–599, title I, § 166, Nov. 6, 1978, 92 Stat. 2722, provided that: �
 
       (III) the effectiveness of providing real-time integrated traffic, transit, and multimodal transportation information to the public to make informed travel decisions; and
 
-      (IV) lessons learned and recommendations for future deployment strategies to optimize transportation efficiency and multimodal system performance.
+      (IV) lessons learned and recommendations for future deployment strategies to optimize transportation mobility, efficiency, multimodal system performance, and payment system performance.
 
   (G) *Report.—* — Not later than 3 years after the date that the first grant is awarded under this paragraph, and each year thereafter, the Secretary shall make available to the public on an Internet website a report that describes the effectiveness of grant recipients in meeting their projected deployment plans, including data provided under subparagraph (F) on how the program has—
 
@@ -950,11 +1268,13 @@ Pub. L. 95–599, title I, § 166, Nov. 6, 1978, 92 Stat. 2722, provided that: �
 
     (v) improved access to transportation alternatives;
 
-    (vi) provided the public with access to real-time integrated traffic, transit, and multimodal transportation information to make informed travel decisions;
+    (vi) improved integration of payment systems;
 
-    (vii) provided cost savings to transportation agencies, businesses, and the traveling public; or
+    (vii) provided the public with access to real-time integrated traffic, transit, and multimodal transportation information to make informed travel decisions;
 
-    (viii) provided other benefits to transportation users and the general public.
+    (viii) provided cost savings to transportation agencies, businesses, and the traveling public; or
+
+    (ix) provided other benefits to transportation users and the general public.
 
   (H) *Additional grants.—* — The Secretary may cease to provide additional grant funds to a recipient of a grant under this paragraph if—
 
@@ -964,11 +1284,11 @@ Pub. L. 95–599, title I, § 166, Nov. 6, 1978, 92 Stat. 2722, provided that: �
 
   (I) *Funding.—*
 
-    (i) *In general.—* — From funds made available to carry out subsection (b), this subsection, and sections 512 through 518, the Secretary shall set aside for grants awarded under subparagraph (D) $60,000,000 for each of fiscal years 2016 through 2020.
+    (i) *In general.—* — From funds made available to carry out subsection (b), this subsection, and sections 512 through 518, the Secretary shall set aside for grants awarded under subparagraph (D) $60,000,000 for each of fiscal years 2022 through 2026.
 
     (ii) *Expenses for the secretary.—* — Of the amounts set aside under clause (i), the Secretary may set aside $2,000,000 each fiscal year for program reporting, evaluation, and administrative costs related to this paragraph.
 
-  (J) *Federal share.—* — The Federal share of the cost of a project for which a grant is awarded under this subsection shall not exceed 50 percent of the cost of the project.
+  (J) *Federal share.—* — The Federal share of the cost of a project for which a grant is awarded under this subsection shall not exceed 80 percent of the cost of the project.
 
   (K) *Grant limitation.—* — The Secretary may not award more than 20 percent of the amount described under subparagraph (I) in a fiscal year to a single grant recipient.
 
@@ -992,31 +1312,227 @@ Pub. L. 95–599, title I, § 166, Nov. 6, 1978, 92 Stat. 2722, provided that: �
 
     (iii) *Distribution.—* — Any transfer of funds and obligation limitation under clause (i) shall be divided among the programs referred to in that clause in the same proportions as the Secretary originally reserved funding from the programs for the fiscal year under subparagraph (I).
 
-  (N) *Definitions.—* — In this paragraph, the following definitions apply:
+  (N) *Definitions.—* — In this paragraph:
 
-    (i) *Eligible entity.—* — The term “eligible entity” means a State or local government, a transit agency, metropolitan planning organization representing a population of over 200,000, or other political subdivision of a State or local government or a multijurisdictional group or a consortia of research institutions or academic institutions.
+    (i) *Eligible entity.—* — The term “eligible entity” means a State or local government, a transit agency, metropolitan planning organization, or other political subdivision of a State or local government or a multijurisdictional group or a consortia of research institutions or academic institutions.
 
     (ii) *Advanced and congestion management transportation technologies.—* — The term “advanced transportation and congestion management technologies” means technologies that improve the efficiency, safety, or state of good repair of surface transportation systems, including intelligent transportation systems.
 
-    (iii) *Multijurisdictional group.—* — The term “multijurisdictional group” means a any 22 So in original. combination of State governments, local governments, metropolitan planning agencies, transit agencies, or other political subdivisions of a State for which each member of the group—
+    (iii) *Multijurisdictional group.—* — The term “multijurisdictional group” means any combination of State governments, local governments, metropolitan planning agencies, transit agencies, or other political subdivisions of a State for which each member of the group—
 
       (I) has signed a written agreement to implement the advanced transportation technologies deployment initiative across jurisdictional boundaries; and
 
       (II) is an eligible entity under this paragraph.
 
+(5) **Accelerated implementation and deployment of advanced digital construction management systems.—**
+
+  (A) *In general.—* — The Secretary shall establish and implement a program under the technology and innovation deployment program established under paragraph (1) to promote, implement, deploy, demonstrate, showcase, support, and document the application of advanced digital construction management systems, practices, performance, and benefits.
+
+  (B) *Goals.—* — The goals of the accelerated implementation and deployment of advanced digital construction management systems program established under subparagraph (A) shall include—
+
+    (i) accelerated State adoption of advanced digital construction management systems applied throughout the construction lifecycle (including through the design and engineering, construction, and operations phases) that—
+
+      (I) maximize interoperability with other systems, products, tools, or applications;
+
+      (II) boost productivity;
+
+      (III) manage complexity;
+
+      (IV) reduce project delays and cost overruns; and
+
+      (V) enhance safety and quality;
+
+    (ii) more timely and productive information-sharing among stakeholders through reduced reliance on paper to manage construction processes and deliverables such as blueprints, design drawings, procurement and supply-chain orders, equipment logs, daily progress reports, and punch lists;
+
+    (iii) deployment of digital management systems that enable and leverage the use of digital technologies on construction sites by contractors, such as state-of-the-art automated and connected machinery and optimized routing software that allows construction workers to perform tasks faster, safer, more accurately, and with minimal supervision;
+
+    (iv) the development and deployment of best practices for use in digital construction management;
+
+    (v) increased technology adoption and deployment by States and units of local government that enables project sponsors—
+
+      (I) to integrate the adoption of digital management systems and technologies in contracts; and
+
+      (II) to weigh the cost of digitization and technology in setting project budgets;
+
+    (vi) technology training and workforce development to build the capabilities of project managers and sponsors that enables States and units of local government—
+
+      (I) to better manage projects using advanced construction management technologies; and
+
+      (II) to properly measure and reward technology adoption across projects of the State or unit of local government;
+
+    (vii) development of guidance to assist States in updating regulations of the State to allow project sponsors and contractors—
+
+      (I) to report data relating to the project in digital formats; and
+
+      (II) to fully capture the efficiencies and benefits of advanced digital construction management systems and related technologies;
+
+    (viii) reduction in the environmental footprint of construction projects using advanced digital construction management systems resulting from elimination of congestion through more efficient projects; and
+
+    (ix) enhanced worker and pedestrian safety resulting from increased transparency.
+
+  (C) *Funding.—* — For each of fiscal years 2022 through 2026, the Secretary shall obligate from funds made available to carry out this subsection $20,000,000 to accelerate the deployment and implementation of advanced digital construction management systems.
+
+  (D) *Publication.—*
+
+    (i) *In general.—* — Not less frequently than annually, the Secretary shall issue and make available to the public on a website a report on—
+
+      (I) progress made in the implementation of advanced digital management systems by States; and
+
+      (II) the costs and benefits of the deployment of new technology and innovations that substantially and directly resulted from the program established under this paragraph.
+
+    (ii) *Inclusions.—* — The report under clause (i) may include an analysis of—
+
+      (I) Federal, State, and local cost savings;
+
+      (II) project delivery time improvements;
+
+      (III) congestion impacts; and
+
+      (IV) safety improvements for roadway users and construction workers.
+
+(6) **Center of excellence.—**
+
+  (A) *Definitions.—* — In this paragraph:
+
+    (i) *Highly automated vehicle.—* — The term “highly automated vehicle” means a motor vehicle that—
+
+      (I) has a taxable gross weight (as defined in section 41.4482(b)–1 of title 26, Code of Federal Regulations (or successor regulations)) of 10,000 pounds or less; and
+
+      (II) is equipped with a Level 3, Level 4, or Level 5 automated driving system (as defined in the SAE International Recommended Practice numbered J3016 and dated June 15, 2018 (or a subsequent standard adopted by the Secretary)).
+
+    (ii) *New mobility.—* — The term “new mobility” includes shared services such as—
+
+      (I) docked and dockless bicycles;
+
+      (II) docked and dockless electric scooters; and
+
+      (III) transportation network companies.
+
+  (B) *Establishment.—* — Not later than 1 year after the date of enactment of the Surface Transportation Reauthorization Act of 2021, the Secretary shall establish a Center of Excellence to collect, conduct, and fund research on the impacts of new mobility and highly automated vehicles on land use, urban design, transportation, real estate, equity, and municipal budgets.
+
+  (C) *Report.—* — Not later than 1 year after the date on which the Center of Excellence is established, the Secretary shall submit a report that describes the results of the research regarding the impacts of new mobility and highly automated vehicles to the Committees on Environment and Public Works and Commerce, Science, and Transportation of the Senate and the Committees on Transportation and Infrastructure and Energy and Commerce of the House of Representatives.
+
+  (D) *Partnerships.—* — In establishing the Center of Excellence under subparagraph (B), the Secretary shall enter into appropriate partnerships with any institution of higher education (as defined in section 101 of the Higher Education Act of 1965 ([20 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim))) or public or private research entity.
+
 ### Statutory Notes
 
 #### References in Text
-Section 508, referred to in subsec. (a)(2), was repealed by Pub. L. 114–94, div. A, title VI, § 6019(d)(1)(A), Dec. 4, 2015, 129 Stat. 1581, effective Oct. 1, 2015.
-
 The date of enactment of the Transportation Research and Innovative Technology Act of 2012, referred to in subsec. (b)(3)(E), is the date of enactment of div. E of Pub. L. 112–141, which was approved July 6, 2012.
 
-The date of enactment of this paragraph, referred to in subsec. (c)(4)(A), (C)(i), (D)(i), is the date of enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
+The date of enactment of this subparagraph and the date of enactment of the Surface Transportation Reauthorization Act of 2021, referred to in subsec. (c)(2)(D), (3)(C)(iii), (6)(B), are the date of enactment of div. A of Pub. L. 117–58, which was approved Nov. 15, 2021.
 
 #### Prior Provisions
 A prior section 503, added Pub. L. 90–495, § 30, Aug. 23, 1968, 82 Stat. 831, related to administration of highway relocation assistance program, prior to repeal by Pub. L. 91–646, title II, § 220(a)(10), Jan. 2, 1971, 84 Stat. 1903.
 
 #### Amendments
+2021—Subsec. (a)(2). Pub. L. 117–58, § 13006(a)(1), substituted “[section 6503 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section6503&num=0&edition=prelim)” for “section 508”.
+
+Subsec. (b)(1)(E), (F). Pub. L. 117–58, § 13006(a)(2)(A), added subpars. (E) and (F).
+
+Subsec. (b)(2)(C)(x) to (xvi). Pub. L. 117–58, § 13006(a)(2)(B), added cl. (x) and redesignated former cls. (x) to (xv) as (xi) to (xvi), respectively.
+
+Subsec. (b)(3)(B)(viii). Pub. L. 117–58, § 13006(a)(2)(C)(i), inserted “, including weather,” after “events”.
+
+Subsec. (b)(3)(C)(xv). Pub. L. 117–58, § 13006(a)(2)(C)(ii)(I), inserted “extreme weather events and” after “withstand”.
+
+Subsec. (b)(3)(C)(xx). Pub. L. 117–58, § 13006(a)(2)(C)(ii)(II)–(IV), added cl. (xx).
+
+Subsec. (b)(6)(C). Pub. L. 117–58, § 13006(a)(2)(D), added subpar. (C).
+
+Subsec. (b)(7)(B). Pub. L. 117–58, § 13006(a)(2)(E)(i), inserted “innovations by leading” after “support” in introductory provisions.
+
+Subsec. (b)(7)(B)(v). Pub. L. 117–58, § 13006(a)(2)(E)(ii)–(iv), added cl. (v).
+
+Subsec. (b)(8)(A). Pub. L. 117–58, § 13006(a)(2)(F), substituted “current conditions and future needs of highways, bridges, and tunnels of the United States, including—” and cls. (i) to (iv) for “future highway and bridge needs of the United States and the backlog of current highway and bridge needs.”
+
+Subsec. (b)(9). Pub. L. 117–58, § 13006(a)(2)(G), added par. (9).
+
+Subsec. (c)(1). Pub. L. 117–58, § 13006(a)(3)(A)(i), inserted “use of rights-of-way permissible under applicable law,” after “structures,” in introductory provisions.
+
+Subsec. (c)(1)(F). Pub. L. 117–58, § 13006(a)(3)(A)(ii)–(iv), added subpar. (F).
+
+Subsec. (c)(2)(B)(iii). Pub. L. 117–58, § 13006(a)(3)(B)(i), substituted “and deploy improved tools and methods to accelerate the adoption of early-stage and proven innovative practices and technologies and, as the Secretary determines to be appropriate, support continued implementation” for “improved tools and methods to accelerate the adoption”.
+
+Subsec. (c)(2)(D). Pub. L. 117–58, § 13006(a)(3)(B)(ii), added subpar. (D).
+
+Subsec. (c)(3)(C). Pub. L. 117–58, § 13006(a)(3)(C)(ii), added subpar. (C). Former subpar. (C) redesignated (D).
+
+Subsec. (c)(3)(D). Pub. L. 117–58, § 13006(a)(3)(C)(i), (iii), redesignated subpar. (C) as (D) and substituted “fiscal years 2022 through 2026” for “fiscal years 2016 through 2020”. Former subpar. (D) redesignated (E).
+
+Subsec. (c)(3)(E). Pub. L. 117–58, § 13006(a)(3)(C)(i), redesignated subpar. (D) as (E).
+
+Subsec. (c)(3)(E)(i). Pub. L. 117–58, § 13006(a)(3)(C)(iv)(I), substituted “once every 3 years” for “annually”.
+
+Subsec. (c)(3)(E)(ii)(V) to (X). Pub. L. 117–58, § 13006(a)(3)(C)(iv)(II), added subcls. (V) to (X).
+
+Subsec. (c)(4). Pub. L. 117–58, § 13006(b)(1), inserted “and innovative mobility” before “deployment” in heading.
+
+Subsec. (c)(4)(A). Pub. L. 117–58, § 13006(b)(2), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “Not later than 6 months after the date of enactment of this paragraph, the Secretary shall establish an advanced transportation and congestion management technologies deployment initiative to provide grants to eligible entities to develop model deployment sites for large scale installation and operation of advanced transportation technologies to improve safety, efficiency, system performance, and infrastructure return on investment.”
+
+Subsec. (c)(4)(B)(i). Pub. L. 117–58, § 13006(b)(3)(D), added cl. (i). Former cl. (i) redesignated (iii).
+
+Pub. L. 117–58, § 13006(b)(3)(A), substituted “optimization” for “the enhanced use”.
+
+Subsec. (c)(4)(B)(ii). Pub. L. 117–58, § 13006(b)(3)(D), added cl. (ii). Former cl. (ii) redesignated (iv).
+
+Subsec. (c)(4)(B)(iii). Pub. L. 117–58, § 13006(b)(3)(C), redesignated cl. (i) as (iii). Former cl. (iii) redesignated (v).
+
+Subsec. (c)(4)(B)(iv). Pub. L. 117–58, § 13006(b)(3)(C), (E), redesignated cl. (ii) as (iv) and substituted “protect the environment and deliver” for “deliver”. Former cl. (iv) redesignated (vi).
+
+Subsec. (c)(4)(B)(v). Pub. L. 117–58, § 13006(b)(3)(C), redesignated cl. (iii) as (v). Former cl. (v) redesignated (vii).
+
+Pub. L. 117–58, § 13006(b)(3)(B), substituted “work zone, weather, transit, paratransit,” for “transit,” and “, accessible, and integrated transportation and transportation services” for “and accessible transportation”.
+
+Subsec. (c)(4)(B)(vi), (vii). Pub. L. 117–58, § 13006(b)(3)(C), redesignated cls. (iv) and (v) as (vi) and (vii), respectively. Former cl. (vii) redesignated (x).
+
+Subsec. (c)(4)(B)(viii). Pub. L. 117–58, § 13006(b)(3)(F), added cl. (viii).
+
+Subsec. (c)(4)(B)(ix). Pub. L. 117–58, § 13006(b)(3)(C), redesignated cl. (vi) as (ix).
+
+Subsec. (c)(4)(B)(x). Pub. L. 117–58, § 13006(b)(3)(C), (G), redesignated cl. (vii) as (x) and struck out “or” at end.
+
+Subsec. (c)(4)(B)(xi). Pub. L. 117–58, § 13006(b)(3)(C), (H), redesignated cl. (viii) as (xi), inserted “vehicle-to-pedestrian,” after “vehicle-to-infrastructure,”, and substituted “; or” for period at end.
+
+Subsec. (c)(4)(B)(xii). Pub. L. 117–58, § 13006(b)(3)(I), added cl. (xii).
+
+Subsec. (c)(4)(C)(i). Pub. L. 117–58, § 13006(b)(4)(A), substituted “Each fiscal year for which funding is made available for activities under this paragraph” for “Not later than 6 months after the date of enactment of this paragraph, and for every fiscal year thereafter”.
+
+Subsec. (c)(4)(C)(ii)(I). Pub. L. 117–58, § 13006(b)(4)(B)(i), inserted “mobility,” after “safety,”.
+
+Subsec. (c)(4)(C)(ii)(II)(dd). Pub. L. 117–58, § 13006(b)(4)(B)(ii), added item (dd).
+
+Subsec. (c)(4)(D)(i). Pub. L. 117–58, § 13006(b)(5)(A), substituted “Each fiscal year for which funding is made available for activities under this paragraph” for “Not later than 1 year after the date of enactment of this paragraph, and for every fiscal year thereafter”.
+
+Subsec. (c)(4)(D)(ii). Pub. L. 117–58, § 13006(b)(5)(B), designated existing provisions as subcl. (I), inserted heading, substituted “Subject to subclause (II), in awarding” for “In awarding”, and added subcl. (II).
+
+Subsec. (c)(4)(E)(iii) to (x). Pub. L. 117–58, § 13006(b)(6)(A)–(C), added cls. (iii), (ix), and (x) and redesignated former cls. (iii) to (vii) as (iv) to (viii), respectively. Former cls. (viii) and (ix) redesignated (xi) and (xiv), respectively.
+
+Subsec. (c)(4)(E)(xi). Pub. L. 117–58, § 13006(b)(6)(A), (D), redesignated cl. (viii) as (xi), inserted “, toll collection,” after “pricing”, and struck out “or” at end.
+
+Subsec. (c)(4)(E)(xii), (xiii). Pub. L. 117–58, § 13006(b)(6)(E), added cls. (xii) and (xiii).
+
+Subsec. (c)(4)(E)(xiv). Pub. L. 117–58, § 13006(b)(6)(A), (F), redesignated cl. (ix) as (xiv), substituted “, access, and on-demand transportation service” for “and access”, inserted “and other shared-use mobility applications” after “ridesharing”, and substituted semicolon for period at end.
+
+Subsec. (c)(4)(E)(xv), (xvi). Pub. L. 117–58, § 13006(b)(6)(G), added cls. (xv) and (xvi).
+
+Subsec. (c)(4)(F)(ii)(IV). Pub. L. 117–58, § 13006(b)(7), substituted “mobility, efficiency, multimodal system performance, and payment system performance” for “efficiency and multimodal system performance”.
+
+Subsec. (c)(4)(G)(vi) to (ix). Pub. L. 117–58, § 13006(b)(8), added cl. (vi) and redesignated former cls. (vi) to (viii) as (vii) to (ix), respectively.
+
+Subsec. (c)(4)(I)(i). Pub. L. 117–58, § 13006(b)(9), substituted “fiscal years 2022 through 2026” for “fiscal years 2016 through 2020”.
+
+Subsec. (c)(4)(J). Pub. L. 117–58, § 13006(b)(10), substituted “80” for “50”.
+
+Subsec. (c)(4)(N). Pub. L. 117–58, § 13006(b)(11)(A), struck out “, the following definitions apply” after “In this paragraph” in introductory provisions.
+
+Subsec. (c)(4)(N)(i). Pub. L. 117–58, § 13006(b)(11)(B), struck out “representing a population of over 200,000” after “metropolitan planning organization”.
+
+Subsec. (c)(4)(N)(iii). Pub. L. 117–58, § 13006(b)(11)(C), substituted “any” for “a any” in introductory provisions.
+
+Subsec. (c)(5). Pub. L. 117–58, § 13006(a)(3)(D), added par. (5).
+
+Subsec. (c)(6). Pub. L. 117–58, § 13006(c), added par. (6).
+
 2015—Subsec. (c)(3)(C). Pub. L. 114–94, § 6003(1), substituted “2016 through 2020” for “2013 through 2014”.
 
 Subsec. (c)(3)(D). Pub. L. 114–94, § 6003(2), added subpar. (D).
@@ -1065,14 +1581,35 @@ Subsec. (d). Pub. L. 109–59, § 5203(c)(1), added subsec. (d).
 
 Subsec. (e). Pub. L. 109–59, § 5203(d), added subsec. (e).
 
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as a note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).
+
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).
 
+#### Strategic Innovation for Revenue Collection
+Pub. L. 117–58, div. A, title III, § 13001(a)–(e), Nov. 15, 2021, 135 Stat. 622–624, provided that: “(a) In General.—The Secretary [of Transportation] shall establish a program to test the feasibility of a road usage fee and other user-based alternative revenue mechanisms (referred to in this section as ‘user-based alternative revenue mechanisms’) to help maintain the long-term solvency of the Highway Trust Fund, through pilot projects at the State, local, and regional level. “(b) Grants.—“(1) In general.—The Secretary shall provide grants to eligible entities to carry out pilot projects under this section. “(2) Applications.—To be eligible for a grant under this section, an eligible entity shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require. “(3) Objectives.—The Secretary shall ensure that, in the aggregate, the pilot projects carried out using funds provided under this section meet the following objectives:“(A) To test the design, acceptance, equity, and implementation of user-based alternative revenue mechanisms, including among—“(i) differing income groups; and “(ii) rural and urban drivers, as applicable. “(B) To provide recommendations regarding adoption and implementation of user-based alternative revenue mechanisms. “(C) To quantify and minimize the administrative costs of any potential user-based alternative revenue mechanisms. “(D) To test a variety of solutions, including the use of independent and private third-party vendors, for the collection of data and fees from user-based alternative revenue mechanisms, including the reliability and security of those solutions and vendors. “(E) To test solutions to ensure the privacy and security of data collected for the purpose of implementing a user-based alternative revenue mechanism. “(F) To conduct public education and outreach to increase public awareness regarding the need for user-based alternative revenue mechanisms for surface transportation programs. “(G) To evaluate the ease of compliance and enforcement of a variety of implementation approaches for different users of the surface transportation system. “(H) To ensure, to the greatest extent practicable, the use of innovation. “(I) To consider, to the greatest extent practicable, the potential for revenue collection along a network of alternative fueling stations. “(J) To evaluate the impacts of the imposition of a user-based alternative revenue mechanism on—“(i) transportation revenues; “(ii) personal mobility, driving patterns, congestion, and transportation costs; and “(iii) freight movement and costs. “(K) To evaluate options for the integration of a user-based alternative revenue mechanism with—“(i) nationwide transportation revenue collections and regulations; “(ii) toll revenue collection platforms; “(iii) transportation network company fees; and “(iv) any other relevant transportation revenue mechanisms. “(4) Eligible entity.—An entity eligible to apply for a grant under this section is—“(A) a State or a group of States; “(B) a local government or a group of local governments; or “(C) a metropolitan planning organization (as defined in [section 134(b) of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section134/b&num=0&edition=prelim), United States Code) or a group of metropolitan planning organizations. “(5) Use of funds.—An eligible entity that receives a grant under this section shall use the grant to carry out a pilot project to address 1 or more of the objectives described in paragraph (3). “(6) Consideration.—The Secretary shall consider geographic diversity in awarding grants under this subsection. “(7) Federal share.—The Federal share of the cost of a pilot project carried out under this section may not exceed—“(A) 80 percent of the total cost of a project carried out by an eligible entity that has not otherwise received a grant under this section; and “(B) 70 percent of the total cost of a project carried out by an eligible entity that has received at least 1 grant under this section. “(c) Limitation on Revenue Collected.—Any revenue collected through a user-based alternative revenue mechanism established using funds provided under this section shall not be considered a toll under [section 301 of title 23](./chapter-003-general-provisions.md#section-301), United States Code. “(d) Recommendations and Report.—Not later than 3 years after the date of enactment of this Act [Nov. 15, 2021], the Secretary, in coordination with the Secretary of the Treasury and the Federal System Funding Alternative Advisory Board established under section 13002(g)(1) [of Pub. L. 117–58, set out below], shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that—“(1) summarizes the results of the pilot projects under this section and the national pilot program under section 13002; and “(2) provides recommendations, if applicable, to enable potential implementation of a nationwide user-based alternative revenue mechanism. “(e) Funding.—“(1) In general.—Of the funds made available to carry out [section 503(b) of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section503/b&num=0&edition=prelim), United States Code, for each of fiscal years 2022 through 2026[,] $15,000,000 shall be used for pilot projects under this section. “(2) Flexibility.—If, by August 1 of each fiscal year, the Secretary determines that there are not enough grant applications to meet the requirements of this section for that fiscal year, the Secretary shall transfer to the national pilot program under section 13002 or to the highway research and development program under [section 503(b) of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section503/b&num=0&edition=prelim), United States Code—“(A) any funds reserved for a fiscal year under paragraph (1) that the Secretary has not yet awarded under this section; and “(B) an amount of obligation limitation equal to the amount of funds that the Secretary transfers under subparagraph (A).”
+
+#### National Motor Vehicle Per-Mile User Fee Pilot
+Pub. L. 117–58, div. A, title III, § 13002, Nov. 15, 2021, 135 Stat. 624, provided that: “(a) Definitions.—In this section:“(1) Advisory board.—The term ‘advisory board’ means the Federal System Funding Alternative Advisory Board established under subsection (g)(1). “(2) Commercial vehicle.—The term ‘commercial vehicle’ has the meaning given the term commercial motor vehicle in [section 31101 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31101&num=0&edition=prelim), United States Code. “(3) Highway trust fund.—The term ‘Highway Trust Fund’ means the Highway Trust Fund established under section 9503 of the Internal Revenue Code of 1986 [[26 U.S.C. 9503](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9503&num=0&edition=prelim)]. “(4) Light truck.—The term ‘light truck’ has the meaning given the term in section 523.2 of title 49, Code of Federal Regulations (or successor regulations). “(5) Medium- and heavy-duty truck.—The term ‘medium- and heavy-duty truck’ has the meaning given the term ‘commercial medium- and heavy-duty on-highway vehicle’ in [section 32901(a) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section32901/a&num=0&edition=prelim), United States Code. “(6) Passenger motor vehicle.—The term ‘passenger motor vehicle’ has the meaning given the term in [section 32101 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section32101&num=0&edition=prelim), United States Code. “(7) Per-mile user fee.—The term ‘per-mile user fee’ means a revenue mechanism that—“(A) is applied to road users operating motor vehicles on the surface transportation system; and “(B) is based on the number of vehicle miles traveled by an individual road user. “(8) Pilot program.—The term ‘pilot program’ means the pilot program established under subsection (b)(1). “(9) Volunteer participant.—The term ‘volunteer participant’ means—“(A) an owner or lessee of a private, personal motor vehicle who volunteers to participate in the pilot program; “(B) a commercial vehicle operator who volunteers to participate in the pilot program; or “(C) an owner of a motor vehicle fleet who volunteers to participate in the pilot program. “(b) Establishment.—“(1) In general.—The Secretary [of Transportation], in coordination with the Secretary of the Treasury, and consistent with the recommendations of the advisory board, shall establish a pilot program to demonstrate a national motor vehicle per-mile user fee—“(A) to restore and maintain the long-term solvency of the Highway Trust Fund; and “(B) to improve and maintain the surface transportation system. “(2) Objectives.—The objectives of the pilot program are—“(A) to test the design, acceptance, implementation, and financial sustainability of a national motor vehicle per-mile user fee; “(B) to address the need for additional revenue for surface transportation infrastructure and a national motor vehicle per-mile user fee; and “(C) to provide recommendations relating to the adoption and implementation of a national motor vehicle per-mile user fee. “(c) Parameters.—In carrying out the pilot program, the Secretary, in coordination with the Secretary of the Treasury, shall—“(1) provide different methods that volunteer participants can choose from to track motor vehicle miles traveled; “(2) solicit volunteer participants from all 50 States, the District of Columbia, and the Commonwealth of Puerto Rico; “(3) ensure an equitable geographic distribution by population among volunteer participants; “(4) include commercial vehicles and passenger motor vehicles; and “(5) use components of and, where appropriate, coordinate with—“(A) the States that received a grant under section 6020 of the FAST Act ([former] [23 U.S.C. 503](./chapter-005-research-technology-and-education.md#section-503) note; Public Law 114–94) (as in effect on the day before the date of enactment of this Act [Nov. 15, 2021]); and “(B) eligible entities that received a grant under section 13001 [of Pub. L. 117–58, set out above]. “(d) Methods.—“(1) Tools.—In selecting the methods described in subsection (c)(1), the Secretary shall coordinate with entities that voluntarily provide to the Secretary for use under the pilot program any of the following vehicle-miles-traveled collection tools:“(A) Third-party on-board diagnostic (OBD-II) devices. “(B) Smart phone applications. “(C) Telemetric data collected by automakers. “(D) Motor vehicle data obtained by car insurance companies. “(E) Data from the States that received a grant under section 6020 of the FAST Act ([former] [23 U.S.C. 503](./chapter-005-research-technology-and-education.md#section-503) note; Public Law 114–94) (as in effect on the day before the date of enactment of this Act [Nov. 15, 2021]). “(F) Motor vehicle data obtained from fueling stations. “(G) Any other method that the Secretary considers appropriate. “(2) Coordination.—“(A) Selection.—The Secretary shall determine which collection tools under paragraph (1) are selected for the pilot program. “(B) Volunteer participants.—In a manner that the Secretary considers appropriate, the Secretary shall enable each volunteer participant to choose 1 of the selected collection tools under paragraph (1). “(e) Motor Vehicle Per-mile User Fees.—For the purposes of the pilot program, the Secretary of the Treasury shall establish, on an annual basis, per-mile user fees for passenger motor vehicles, light trucks, and medium- and heavy-duty trucks, which amount may vary between vehicle types and weight classes to reflect estimated impacts on infrastructure, safety, congestion, the environment, or other related social impacts. “(f) Volunteer Participants.—The Secretary, in coordination with the Secretary of the Treasury, shall—“(1)(A) ensure, to the extent practicable, that the greatest number of volunteer participants participate in the pilot program; and “(B) ensure that such volunteer participants represent geographically diverse regions of the United States, including from urban and rural areas; and “(2) issue policies relating to the protection of volunteer participants, including policies that—“(A) protect the privacy of volunteer participants; and “(B) secure the data provided by volunteer participants. “(g) Federal System Funding Alternative Advisory Board.—“(1) In general.—Not later than 90 days after the date of enactment of this Act [Nov. 15, 2021], the Secretary shall establish an advisory board, to be known as the ‘Federal System Funding Alternative Advisory Board’, to assist with—“(A) providing the Secretary with recommendations related to the structure, scope, and methodology for developing and implementing the pilot program; “(B) carrying out the public awareness campaign under subsection (h); and “(C) developing the report under subsection (n). “(2) Membership.—The advisory board shall include, at a minimum, the following representatives and entities, to be appointed by the Secretary:“(A) State departments of transportation. “(B) Any public or nonprofit entity that led a surface transportation system funding alternatives pilot project under section 6020 of the FAST Act ([former] [23 U.S.C. 503](./chapter-005-research-technology-and-education.md#section-503) note; Public Law 114–94) (as in effect on the day before the date of enactment of this Act [Nov. 15, 2021]). “(C) Representatives of the trucking industry, including owner-operator independent drivers. “(D) Data security experts with expertise in personal privacy. “(E) Academic experts on surface transportation systems. “(F) Consumer advocates, including privacy experts. “(G) Advocacy groups focused on equity. “(H) Owners of motor vehicle fleets. “(I) Owners and operators of toll facilities. “(J) Tribal groups or representatives. “(K) Any other representatives or entities, as determined appropriate by the Secretary. “(3) Recommendations.—Not later than 1 year after the date on which the advisory board is established under paragraph (1), the advisory board shall provide the Secretary with the recommendations described in subparagraph (A) of that paragraph, which the Secretary shall use in implementing the pilot program. “(h) Public Awareness Campaign.—“(1) In general.—The Secretary, with guidance from the advisory board, may carry out a public awareness campaign to increase public awareness regarding a national motor vehicle per-mile user fee, including distributing information—“(A) related to the pilot program; “(B) from the State surface transportation system funding alternatives pilot program under section 6020 of the FAST Act ([former] [23 U.S.C. 503](./chapter-005-research-technology-and-education.md#section-503) note; Public Law 114–94) (as in effect on the day before the date of enactment of this Act [Nov. 15, 2021]); and “(C) related to consumer privacy. “(2) Considerations.—In carrying out the public awareness campaign under this subsection, the Secretary shall consider issues unique to each State. “(i) Revenue Collection.—The Secretary of the Treasury, in coordination with the Secretary, shall establish a mechanism to collect motor vehicle per-mile user fees established under subsection (e) from volunteer participants, which—“(1) may be adjusted as needed to address technical challenges; and “(2) may allow independent and private third-party vendors to collect the motor vehicle per-mile user fees and forward such fees to the Treasury. “(j) Agreement.—The Secretary may enter into an agreement with a volunteer participant containing such terms and conditions as the Secretary considers necessary for participation in the pilot program. “(k) Limitation.—Any revenue collected through the mechanism established under subsection (i) shall not be considered a toll under [section 301 of title 23](./chapter-003-general-provisions.md#section-301), United States Code. “(l) Highway Trust Fund.—The Secretary of the Treasury shall ensure that any revenue collected under subsection (i) is deposited into the Highway Trust Fund. “(m) Payment.—Not more than 60 days after the end of each calendar quarter in which a volunteer participant has participated in the pilot program, the Secretary of the Treasury, in consultation with the Secretary of Transportation, shall estimate an amount of payment for each volunteer based on the vehicle miles submitted by the volunteer for the calendar quarter and issue such payment to such volunteer participant. “(n) Report to Congress.—Not later than 1 year after the date on which volunteer participants begin participating in the pilot program, and each year thereafter for the duration of the pilot program, the Secretary and the Secretary of the Treasury shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that includes an analysis of—“(1) whether the objectives described in subsection (b)(2) were achieved; “(2) how volunteer participant protections in subsection (f)(2) were complied with; “(3) whether motor vehicle per-mile user fees can maintain the long-term solvency of the Highway Trust Fund and improve and maintain the surface transportation system, which shall include estimates of administrative costs related to collecting such motor vehicle per mile user fees; “(4) how the privacy of volunteers was maintained; and “(5) equity impacts of the pilot program, including the impacts of the pilot program on low-income commuters. “(o) Funding.—“(1) In general.—Of the funds made available to carry out [section 503(b) of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section503/b&num=0&edition=prelim), United States Code, for each of fiscal years 2022 through 2026[,] $10,000,000 shall be used to carry out the pilot program under this section. “(2) Excess funds.—Any excess funds remaining after carrying out the pilot program under this section shall be available to make grants for pilot projects under section 13001 [of Pub. L. 117–58, set out above].”
+
+#### Data Integration Pilot Program
+Pub. L. 117–58, div. A, title III, § 13004, Nov. 15, 2021, 135 Stat. 629, provided that: “(a) Establishment.—The Secretary [of Transportation] shall establish a pilot program—“(1) to provide research and develop models that integrate, in near-real-time, data from multiple sources, including geolocated—“(A) weather conditions; “(B) roadway conditions; “(C) incidents, work zones, and other nonrecurring events related to emergency planning; and “(D) information from emergency responders; and “(2) to facilitate data integration between the Department [of Transportation], the National Weather Service, and other sources of data that provide real-time data with respect to roadway conditions during or as a result of severe weather events, including, at a minimum—“(A) winter weather; “(B) heavy rainfall; and “(C) tropical weather events. “(b) Requirements.—In carrying out subsection (a)(1), the Secretary shall—“(1) address the safety, resiliency, and vulnerability of the transportation system to disasters; and “(2) develop tools for decisionmakers and other end-users who could use or benefit from the integrated data described in that subsection to improve public safety and mobility. “(c) Treatment.—Except as otherwise provided in this section, the Secretary shall carry out activities under the pilot program under this section as if—“(1) those activities were authorized under chapter 5 of title 23, United States Code; and “(2) the funds made available to carry out the pilot program were made available under that chapter. “(d) Authorization of Appropriations.—There is authorized to be appropriated to carry out this section $2,500,000 for each of fiscal years 2022 through 2026, to remain available until expended.”
+
+#### Emerging Technology Research Pilot Program
+Pub. L. 117–58, div. A, title III, § 13005, Nov. 15, 2021, 135 Stat. 629, provided that: “(a) Establishment.—The Secretary [of Transportation] shall establish a pilot program to conduct emerging technology research in accordance with this section. “(b) Activities.—The pilot program under this section shall include—“(1) research and development activities relating to leveraging advanced and additive manufacturing technologies to increase the structural integrity and cost-effectiveness of surface transportation infrastructure; and “(2) research and development activities (including laboratory and test track supported accelerated pavement testing research regarding the impacts of connected, autonomous, and platooned vehicles on pavement and infrastructure performance)—“(A) to reduce the impact of automated and connected driving systems and advanced driver-assistance systems on pavement and infrastructure performance; and “(B) to improve transportation infrastructure design in anticipation of increased usage of automated driving systems and advanced driver-assistance systems. “(c) Treatment.—Except as otherwise provided in this section, the Secretary shall carry out activities under the pilot program under this section as if—“(1) those activities were authorized under chapter 5 of title 23, United States Code; and “(2) the funds made available to carry out the pilot program were made available under that chapter. “(d) Authorization of Appropriations.—There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2022 through 2026, to remain available until expended.”
+
+#### Open Challenge and Research Proposal Pilot Program
+Pub. L. 117–58, div. A, title III, § 13006(e), Nov. 15, 2021, 135 Stat. 638, provided that: “(1) In general.—The Secretary [of Transportation] shall establish an open challenge and research proposal pilot program under which eligible entities may propose open highway challenges and research proposals that are linked to identified or potential research needs. “(2) Requirements.—A research proposal submitted to the Secretary by an eligible entity shall address—“(A) a research need identified by the Secretary or the Administrator of the Federal Highway Administration; or “(B) an issue or challenge that the Secretary determines to be important. “(3) Eligible entities.—An entity eligible to submit a research proposal under the pilot program under paragraph (1) is—“(A) a State; “(B) a unit of local government; “(C) a university transportation center under [section 5505 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5505&num=0&edition=prelim), United States Code; “(D) a private nonprofit organization; “(E) a private sector organization working in collaboration with an entity described in subparagraphs (A) through (D); and “(F) any other individual or entity that the Secretary determines to be appropriate. “(4) Project review.—The Secretary shall—“(A) review each research proposal submitted under the pilot program under paragraph (1); and “(B) provide to the eligible entity a written notice that—“(i) if the research proposal is not selected—“(I) notifies the eligible entity that the research proposal has not been selected for funding; “(II) provides an explanation as to why the research proposal was not selected, including if the research proposal does not cover an area of need; and “(III) if applicable, recommend that the research proposal be submitted to another research program and provide guidance and direction to the eligible entity and the proposed research program office; and “(ii) if the research proposal is selected, notifies the eligible entity that the research proposal has been selected for funding. “(5) Federal share.—“(A) In general.—The Federal share of the cost of an activity carried out under this subsection shall not exceed 80 percent. “(B) Non-federal share.—All costs directly incurred by the non-Federal partners, including personnel, travel, facility, and hardware development costs, shall be credited toward the non-Federal share of the cost of an activity carried out under this subsection.”
+
+#### Research on Connected Vehicle Technology
+Pub. L. 117–58, div. B, title IV, § 24219, Nov. 15, 2021, 135 Stat. 831, provided that: “The Administrator of the National Highway Traffic Safety Administration, in collaboration with the head of the Intelligent Transportation Systems Joint Program Office and the Administrator of the Federal Highway Administration, shall— “(1) not later than 180 days after the date of enactment of this Act [Nov. 15, 2021], expand vehicle-to-pedestrian research efforts focused on incorporating bicyclists and other vulnerable road users into the safe deployment of connected vehicle systems; and “(2) not later than 2 years after the date of enactment of this Act, submit to Congress and make publicly available a report describing the findings of the research efforts described in paragraph (1), including an analysis of the extent to which applications supporting vulnerable road users can be accommodated within existing spectrum allocations for connected vehicle systems.”
+
 #### Surface Transportation System Funding Alternatives
-Pub. L. 114–94, div. A, title VI, § 6020, Dec. 4, 2015, 129 Stat. 1582, provided that: “(a) In General.—The Secretary [of Transportation] shall establish a program to provide grants to States to demonstrate user-based alternative revenue mechanisms that utilize a user fee structure to maintain the long-term solvency of the Highway Trust Fund. “(b) Application.—To be eligible for a grant under this section, a State or group of States shall submit to the Secretary an application in such form and containing such information as the Secretary may require. “(c) Objectives.—The Secretary shall ensure that the activities carried out using funds provided under this section meet the following objectives:“(1) To test the design, acceptance, and implementation of 2 or more future user-based alternative revenue mechanisms. “(2) To improve the functionality of such user-based alternative revenue mechanisms. “(3) To conduct outreach to increase public awareness regarding the need for alternative funding sources for surface transportation programs and to provide information on possible approaches. “(4) To provide recommendations regarding adoption and implementation of user-based alternative revenue mechanisms. “(5) To minimize the administrative cost of any potential user-based alternative revenue mechanisms. “(d) Use of Funds.—A State or group of States receiving funds under this section to test the design, acceptance, and implementation of a user-based alternative revenue mechanism—“(1) shall address—“(A) the implementation, interoperability, public acceptance, and other potential hurdles to the adoption of the user-based alternative revenue mechanism; “(B) the protection of personal privacy; “(C) the use of independent and private third-party vendors to collect fees and operate the user-based alternative revenue mechanism; “(D) market-based congestion mitigation, if appropriate; “(E) equity concerns, including the impacts of the user-based alternative revenue mechanism on differing income groups, various geographic areas, and the relative burdens on rural and urban drivers; “(F) ease of compliance for different users of the transportation system; and “(G) the reliability and security of technology used to implement the user-based alternative revenue mechanism; and “(2) may address—“(A) the flexibility and choices of user-based alternative revenue mechanisms, including the ability of users to select from various technology and payment options; “(B) the cost of administering the user-based alternative revenue mechanism; and “(C) the ability of the administering entity to audit and enforce user compliance. “(e) Consideration.—The Secretary shall consider geographic diversity in awarding grants under this section. “(f) Limitations on Revenue Collected.—Any revenue collected through a user-based alternative revenue mechanism established using funds provided under this section shall not be considered a toll under [section 301 of title 23](./chapter-003-general-provisions.md#section-301), United States Code. “(g) Federal Share.—The Federal share of the cost of an activity carried out under this section may not exceed 50 percent of the total cost of the activity. “(h) Report to Secretary.—Not later than 1 year after the date on which the first eligible entity receives a grant under this section, and each year thereafter, each recipient of a grant under this section shall submit to the Secretary a report that describes—“(1) how the demonstration activities carried out with grant funds meet the objectives described in subsection (c); and “(2) lessons learned for future deployment of alternative revenue mechanisms that utilize a user fee structure. “(i) Biennial Reports.—Not later than 2 years after the date of enactment of this Act [Dec. 4, 2015], and every 2 years thereafter until the completion of the demonstration activities under this section, the Secretary shall make available to the public on an Internet website a report describing the progress of the demonstration activities. “(j) Funding.—Of the funds authorized to carry out [section 503(b) of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section503/b&num=0&edition=prelim), United States Code—“(1) $15,000,000 shall be used to carry out this section for fiscal year 2016; and “(2) $20,000,000 shall be used to carry out this section for each of fiscal years 2017 through 2020. “(k) Grant Flexibility.—If, by August 1 of each fiscal year, the Secretary determines that there are not enough grant applications that meet the requirements of this section for a fiscal year, [the] Secretary shall transfer to the program under [section 503(b) of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section503/b&num=0&edition=prelim), United States Code—“(1) any of the funds reserved for the fiscal year under subsection (j) that the Secretary has not yet awarded under this section; and “(2) an amount of obligation limitation equal to the amount of funds that the Secretary transfers under paragraph (1).”
+Pub. L. 114–94, div. A, title VI, § 6020, Dec. 4, 2015, 129 Stat. 1582, which established a program to provide grants to States to demonstrate user-based alternative revenue mechanisms that utilize a user fee structure to maintain the long-term solvency of the Highway Trust Fund, was repealed by Pub. L. 117–58, div. A, title III, § 13001(f)(1), Nov. 15, 2021, 135 Stat. 624.
 
 #### High Performing Steel Bridge Research and Technology Transfer
 Pub. L. 109–59, title V, § 5202(c), Aug. 10, 2005, 119 Stat. 1786, provided that: “(1) In general.—The Secretary [of Transportation] shall carry out a program to demonstrate the application of high-performing steel in the construction and rehabilitation of bridges. “(2) Funding.—Of the amounts made available by section 5101(a)(1) of this Act [119 Stat. 1779], $4,100,000 for each of fiscal years 2006 through 2009 shall be available to carry out this subsection.”
@@ -1265,25 +1802,41 @@ Pub. L. 109–59, title V, § 5202(d), Aug. 10, 2005, 119 Stat. 1787, provided t
 
   (C) student internships;
 
-  (D) university or community college support;
+  (D) pre-apprenticeships, apprenticeships, and career opportunities for on-the-job training;
 
-  (E) education activities, including outreach, to develop interest and promote participation in surface transportation careers;
+  (E) university, college, community college, or vocational school support;
 
-  (F) activities carried out by the National Highway Institute under subsection (a); and
+  (F) education activities, including outreach, to develop interest and promote participation in surface transportation careers;
 
-  (G) local technical assistance programs under subsection (b).
+  (G) activities associated with workforce training and employment services, such as targeted outreach and partnerships with industry, economic development organizations, workforce development boards, and labor organizations;
 
-(2) **Federal share.—** — The Federal share of the cost of activities carried out in accordance with this subsection shall be 100 percent, except for activities carried out under paragraph (1)(G), for which the Federal share shall be 50 percent.
+  (H) activities carried out by the National Highway Institute under subsection (a); and
 
-(3) **Surface transportation workforce development, training, and education defined.—** — In this subsection, the term “surface transportation workforce development, training, and education” means activities associated with surface transportation career awareness, student transportation career preparation, and training and professional development for surface transportation workers, including activities for women and minorities.
+  (I) local technical assistance programs under subsection (b).
 
-**(f) Transportation Education Development Program.—**
+(2) **Federal share.—** — The Federal share of the cost of activities carried out in accordance with this subsection shall be 100 percent, except for activities carried out under paragraph (1)(I), for which the Federal share shall be 50 percent.
 
-(1) **Establishment.—** — The Secretary shall establish a program to make grants to institutions of higher education that, in partnership with industry or State departments of transportation, will develop, test, and revise new curricula and education programs to train individuals at all levels of the transportation workforce.
+(3) **Surface transportation workforce development, training, and education defined.—** — In this subsection, the term “surface transportation workforce development, training, and education” means activities associated with surface transportation career awareness, student transportation career preparation, and training and professional development for surface transportation workers, including—
 
-(2) **Selection of grant recipients.—** — In selecting applications for awards under this subsection, the Secretary shall consider—
+  (A) activities for women and minorities;
 
-  (A) the degree to which the new curricula or education program meets the specific needs of a segment of the transportation industry, States, or regions;
+  (B) activities that address current workforce gaps, such as work on construction projects, of State and local transportation agencies;
+
+  (C) activities to develop a robust surface transportation workforce with new skills resulting from emerging transportation technologies; and
+
+  (D) activities to attract new sources of job-creating investment.
+
+**(f) Transportation Education and Training Development and Deployment Program.—**
+
+(1) **Establishment.—** — The Secretary shall establish a program to make grants to educational institutions or State departments of transportation, in partnership with industry and relevant Federal departments and agencies—
+
+  (A) to develop, test, and review new curricula and education programs to train individuals at all levels of the transportation workforce; or
+
+  (B) to implement the new curricula and education programs to provide for hands-on career opportunities to meet current and future needs.
+
+(2) **Selection of grant recipients.—** — In selecting applications for awards under this subsection, the Secretary may consider—
+
+  (A) the degree to which the new curricula or education program meets the specific current or future needs of a segment of the transportation industry, States, or regions;
 
   (B) providing for practical experience and on-the-job training;
 
@@ -1291,11 +1844,27 @@ Pub. L. 109–59, title V, § 5202(d), Aug. 10, 2005, 119 Stat. 1787, provided t
 
   (D) the degree to which the new curricula or program will provide training in areas other than engineering, such as business administration, economics, information technology, environmental science, and law;
 
-  (E) programs or curricula in nontraditional departments that train professionals for work in the transportation field, such as materials, information technology, environmental science, urban planning, and industrial technology; and
+  (E) programs or curricula that train professionals for work in the transportation field, such as construction, materials, information technology, environmental science, urban planning, and industrial or emerging technology; and
 
   (F) the commitment of industry or a State’s department of transportation to the program.
 
-(3) **Limitations.—** — The amount of a grant under this subsection shall not exceed $300,000 per year. After a recipient has received 3 years of Federal funding under this subsection, Federal funding may equal not more than 75 percent of a grantee’s program costs.
+(3) **Reporting.—** — The Secretary shall establish minimum reporting requirements for grant recipients under this subsection, which may include, with respect to a program carried out with a grant under this subsection—
+
+  (A) the percentage or number of program participants that are employed during the second quarter after exiting the program;
+
+  (B) the percentage or number of program participants that are employed during the fourth quarter after exiting the program;
+
+  (C) the median earnings of program participants that are employed during the second quarter after exiting the program;
+
+  (D) the percentage or number of program participants that obtain a recognized postsecondary credential or a secondary school diploma (or a recognized equivalent) during participation in the program or by not later than 1 year after exiting the program; and
+
+  (E) the percentage or number of program participants that, during a program year—
+
+    (i) are in an education or training program that leads to a recognized postsecondary credential or employment; and
+
+    (ii) are achieving measurable skill gains toward such a credential or employment.
+
+(4) **Limitations.—** — The amount of a grant under this subsection shall not exceed $300,000 per year. After a recipient has received 3 years of Federal funding under this subsection, Federal funding may equal not more than 75 percent of a grantee’s program costs.
 
 **(g) Freight Capacity Building Program.—**
 
@@ -1325,7 +1894,7 @@ Pub. L. 109–59, title V, § 5202(d), Aug. 10, 2005, 119 Stat. 1787, provided t
 
 (5) **Federal share.—** — The Federal share of the cost of an activity carried out under this section shall be up to 100 percent, and such funds shall remain available until expended.
 
-(6) **Use of funds.—** — Funds made available for the program established under this subsection may be used for research, program development, information collection and dissemination, and technical assistance. The Secretary may use such funds independently or make grants or to 11 So in original. and enter into contracts and cooperative agreements with a Federal agency, State agency, local agency, federally recognized Indian tribal government or tribal consortium, authority, association, nonprofit or for-profit corporation, or institution of higher education, to carry out the purposes of this subsection.
+(6) **Use of funds.—** — Funds made available for the program established under this subsection may be used for research, program development, information collection and dissemination, and technical assistance. The Secretary may use such funds independently or make grants to and enter into contracts and cooperative agreements with a Federal agency, State agency, local agency, federally recognized Indian tribal government or tribal consortium, authority, association, nonprofit or for-profit corporation, or institution of higher education, to carry out the purposes of this subsection.
 
 **(h) Centers for Surface Transportation Excellence.—**
 
@@ -1349,6 +1918,12 @@ Pub. L. 109–59, title V, § 5202(d), Aug. 10, 2005, 119 Stat. 1787, provided t
 
       (II) how the work of the center will be coordinated with the activities of the Federal Highway Administration and the various other research, development, and technology transfer activities authorized under this chapter.
 
+**(i) Use of Funds.—** The Secretary may use funds made available to carry out this section to carry out activities related to workforce development and technical assistance and training if—
+
+(1) the activities are authorized by another provision of this title; and
+
+(2) the activities are for entities other than employees of the Secretary, such as States, units of local government, Federal land management agencies, and Tribal governments.
+
 ### Statutory Notes
 
 #### References in Text
@@ -1358,6 +1933,32 @@ Section 8101 of the Elementary and Secondary Education Act of 1965, referred to 
 A prior section 504, added Pub. L. 90–495, § 30, Aug. 23, 1968, 82 Stat. 831, related to Federal reimbursement for highway relocation assistance, prior to repeal by Pub. L. 91–646, title II, § 220(a)(10), Jan. 2, 1971, 84 Stat. 1903.
 
 #### Amendments
+2021—Subsec. (e)(1)(D). Pub. L. 117–58, § 13007(a)(1)(B), added subpar. (D). Former subpar. (D) redesignated (E).
+
+Subsec. (e)(1)(E). Pub. L. 117–58, § 13007(a)(1)(A), (C), redesignated subpar. (D) as (E) and substituted “, college, community college, or vocational school” for “or community college”. Former subpar. (E) redesignated (F).
+
+Subsec. (e)(1)(F) to (I). Pub. L. 117–58, § 13007(a)(1)(A), (D), added subpar. (G) and redesignated former subpars. (E) to (G) as (F), (H), and (I), respectively.
+
+Subsec. (e)(2). Pub. L. 117–58, § 13007(a)(2), substituted “paragraph (1)(I)” for “paragraph (1)(G)”.
+
+Subsec. (e)(3). Pub. L. 117–58, § 13007(a)(3), inserted dash after “including” and subpar. (A) designation before “activities” and added subpars. (B) to (D).
+
+Subsec. (f). Pub. L. 117–58, § 13007(b)(1), substituted “and Training Development and Deployment” for “Development” in heading.
+
+Subsec. (f)(1). Pub. L. 117–58, § 13007(b)(2), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Secretary shall establish a program to make grants to institutions of higher education that, in partnership with industry or State departments of transportation, will develop, test, and revise new curricula and education programs to train individuals at all levels of the transportation workforce.”
+
+Subsec. (f)(2). Pub. L. 117–58, § 13007(b)(3)(A), substituted “may” for “shall” in introductory provisions.
+
+Subsec. (f)(2)(A). Pub. L. 117–58, § 13007(b)(3)(B), inserted “current or future” after “specific”.
+
+Subsec. (f)(2)(E). Pub. L. 117–58, § 13007(b)(3)(C), struck out “in nontraditional departments” after “curricula” and inserted “construction,” after “such as” and “or emerging” after “industrial”.
+
+Subsec. (f)(3), (4). Pub. L. 117–58, § 13007(b)(4), (5), added par. (3) and redesignated former par. (3) as (4).
+
+Subsec. (g)(6). Pub. L. 117–58, § 11525(s), substituted “make grants to” for “make grants or to”.
+
+Subsec. (i). Pub. L. 117–58, § 13007(c), added subsec. (i).
+
 2015—Subsec. (a)(4). Pub. L. 114–94 substituted “104(b)(2)” for “104(b)(3)” and “surface transportation block grant program” for “surface transportation program”.
 
 Subsec. (d)(4)(B), (C). Pub. L. 114–95 substituted “section 8101 of the Elementary and Secondary Education Act of 1965” for “section 9101 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim))”.
@@ -1391,6 +1992,9 @@ Subsec. (d). Pub. L. 109–59, § 5204(d)(1), added subsec. (d).
 Subsecs. (e), (f). Pub. L. 109–59, § 5204(e), added subsecs. (e) and (f).
 
 Subsec. (g). Pub. L. 109–59, § 5204(h)(1), added subsec. (g).
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as a note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).
 
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
@@ -1794,9 +2398,9 @@ Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out a
 
 **(h) Advisory Committee.—**
 
-(1) **In general.—** — The Secretary shall establish an Advisory Committee to advise the Secretary on carrying out sections 512 through 518.
+(1) **In general.—** — The Secretary shall establish an Advisory Committee (referred to in this subsection as the “Advisory Committee”) to advise the Secretary on carrying out sections 512 through 518.
 
-(2) **Membership.—** — The Advisory Committee shall have no more than 20 members, be balanced between metropolitan and rural interests, and include, at a minimum—
+(2) **Membership.—** — The Advisory Committee shall have no more than 25 members, be balanced between metropolitan and rural interests, and include, at a minimum—
 
   (A) a representative from a State highway department;
 
@@ -1804,37 +2408,75 @@ Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out a
 
   (C) a representative from a State, local, or regional transit agency;
 
-  (D) a representative from a metropolitan planning organization;
+  (D) a representative from a State, local, or regional wildlife, land use, or resource management agency;
 
-  (E) a private sector user of intelligent transportation system technologies;
+  (E) a representative from a metropolitan planning organization;
 
-  (F) an academic researcher with expertise in computer science or another information science field related to intelligent transportation systems, and who is not an expert on transportation issues;
+  (F) a representative of a national transit association;
 
-  (G) an academic researcher who is a civil engineer;
+  (G) a representative of a national, State, or local transportation agency or association;
 
-  (H) an academic researcher who is a social scientist with expertise in transportation issues;
+  (H) a private sector user of intelligent transportation system technologies;
 
-  (I) a representative from a nonprofit group representing the intelligent transportation system industry;
+  (I) a private sector developer of intelligent transportation system technologies, which may include emerging vehicle technologies;
 
-  (J) a representative from a public interest group concerned with safety;
+  (J) an academic researcher with expertise in computer science or another information science field related to intelligent transportation systems, and who is not an expert on transportation issues;
 
-  (K) a representative from a public interest group concerned with the impact of the transportation system on land use and residential patterns; and
+  (K) an academic researcher who is a civil engineer;
 
-  (L) members with expertise in planning, safety, telecommunications, utilities, and operations.
+  (L) an academic researcher who is a social scientist with expertise in transportation issues;
 
-(3) **Duties.—** — The Advisory Committee shall, at a minimum, perform the following duties:
+  (M) an academic researcher who is a biological or ecological scientist with expertise in transportation issues;
 
-  (A) Provide input into the development of the intelligent transportation system aspects of the strategic plan under section 508.11 See References in Text note below.
+  (N) a representative from a nonprofit group representing the intelligent transportation system industry;
 
-  (B) Review, at least annually, areas of intelligent transportation systems research being considered for funding by the Department, to determine—
+  (O) a representative from a public interest group concerned with safety;
+
+  (P) a representative of a labor organization;
+
+  (Q) a representative of a mobility-providing entity;
+
+  (R) an expert in traffic management;
+
+  (S) a representative from a public interest group concerned with the impact of the transportation system on land use and residential patterns;
+
+  (T) a representative from a public interest group concerned with the impact of the transportation system on terrestrial and aquatic species and the habitat of those species; and
+
+  (U) members with expertise in planning, safety, telecommunications, and operations;
+
+  (V) an expert in cybersecurity; and
+
+  (W) an automobile manufacturer.
+
+(3) **Term.—**
+
+  (A) *In general.—* — The term of a member of the Advisory Committee shall be 3 years.
+
+  (B) *Renewal.—* — On expiration of the term of a member of the Advisory Committee, the member—
+
+    (i) may be reappointed; or
+
+    (ii) if the member is not reappointed under clause (i), may serve until a new member is appointed.
+
+(4) **Meetings.—** — The Advisory Committee—
+
+  (A) shall convene not less frequently than twice each year; and
+
+  (B) may convene with the use of remote video conference technology.
+
+(5) **Duties.—** — The Advisory Committee shall, at a minimum, perform the following duties:
+
+  (A) Provide input into the development of the intelligent transportation system aspects of the strategic plan under [section 6503 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section6503&num=0&edition=prelim).
+
+  (B) Review, at least annually, areas of intelligent transportation systems programs and research being considered for funding by the Department, to determine—
 
     (i) whether these activities are likely to advance either the state-of-the-practice or state-of-the-art in intelligent transportation systems;
 
     (ii) whether the intelligent transportation system technologies are likely to be deployed by users, and if not, to determine the barriers to deployment; and
 
-    (iii) the appropriate roles for government and the private sector in investing in the research and technologies being considered.
+    (iii) the appropriate roles for government and the private sector in investing in the programs, research, and technologies being considered.
 
-(4) **Report.—** — Not later than May 1 of each year, the Secretary shall make available to the public on a Department of Transportation website a report that includes—
+(6) **Report.—** — Not later than May 1 of each year, the Secretary shall make available to the public on a Department of Transportation website a report that includes—
 
   (A) all recommendations made by the Advisory Committee during the preceding calendar year;
 
@@ -1842,7 +2484,7 @@ Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out a
 
   (C) for recommendations not implemented, the reasons for rejecting the recommendations.
 
-(5) **Applicability of federal advisory committee act.—** — The Advisory Committee shall be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
+(7) **Applicability of federal advisory committee act.—** — The Advisory Committee shall be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
 
 **(i) Reporting.—**
 
@@ -1859,14 +2501,49 @@ Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out a
 ### Statutory Notes
 
 #### References in Text
-Section 508, referred to in subsec. (h)(3)(A), was repealed by Pub. L. 114–94, div. A, title VI, § 6019(d)(1)(A), Dec. 4, 2015, 129 Stat. 1581, effective Oct. 1, 2015.
-
-The Federal Advisory Committee Act, referred to in subsec. (h)(5), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (h)(7), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+2021—Subsec. (h)(1). Pub. L. 117–58, § 25001(1), inserted “(referred to in this subsection as the ‘Advisory Committee’)” after “an Advisory Committee”.
+
+Subsec. (h)(2). Pub. L. 117–58, § 25001(2)(A), substituted “25 members” for “20 members” in introductory provisions.
+
+Subsec. (h)(2)(D) to (W). Pub. L. 117–58, § 13008(a) and § 25001(2)(D)–(G), added various subpars. and successively redesignated existing subpars., resulting in ultimate redesignations of original subpars. as follows: (D) as (E), (E) as (H), (F) as (J), (G) as (K), (H) as (L), (I) as (N), (J) as (O), (K) as (S), and (L) as (U). For newly added subpars., see notes below.
+
+Subsec. (h)(2)(D). Pub. L. 117–58, § 13008(a)(3), added subpar. (D).
+
+Subsec. (h)(2)(F), (G). Pub. L. 117–58, § 25001(2)(D), added subpars. (F) and (G).
+
+Subsec. (h)(2)(I). Pub. L. 117–58, § 25001(2)(E), added subpar. (I).
+
+Subsec. (h)(2)(J). Pub. L. 117–58, § 13008(a)(4), added subpar. (J), which was subsequently redesignated (M) by Pub. L. 117–58, § 25001(2)(C).
+
+Subsec. (h)(2)(N). Pub. L. 117–58, § 13008(a)(5), added subpar. (N), which was subsequently redesignated (T) by Pub. L. 117–58, § 25001(2)(C).
+
+Subsec. (h)(2)(O). Pub. L. 117–58, § 25001(2)(B), prior to redesignation of subpar. (O) as (U), struck out “utilities,” after “telecommunications,” and substituted semicolon for period at end.
+
+Subsec. (h)(2)(P) to (R). Pub. L. 117–58, § 25001(2)(F), added subpars. (P) to (R).
+
+Subsec. (h)(2)(V), (W). Pub. L. 117–58, § 25001(2)(G), added subpars. (V) and (W).
+
+Subsec. (h)(3). Pub. L. 117–58, § 25001(5), added par. (3). Former par. (3) redesignated (5).
+
+Subsec. (h)(3)(A). Pub. L. 117–58, § 25001(3)(A), substituted “[section 6503 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section6503&num=0&edition=prelim)” for “section 508”.
+
+Subsec. (h)(3)(B). Pub. L. 117–58, § 25001(3)(B)(i), inserted “programs and” before “research” in introductory provisions.
+
+Subsec. (h)(3)(B)(iii). Pub. L. 117–58, § 25001(3)(B)(ii), substituted “programs, research, and” for “research and”.
+
+Subsec. (h)(4). Pub. L. 117–58, § 25001(5), added par. (4). Former par. (4) redesignated (6).
+
+Subsec. (h)(5) to (7). Pub. L. 117–58, § 25001(4), redesignated pars. (3) to (5) as (5) to (7), respectively.
+
 2015—Pub. L. 114–94, § 1446(a)(14), substituted “sections 512 through 518” for “this chapter” wherever appearing.
 
 Subsec. (h)(4). Pub. L. 114–94, § 6007, in introductory provisions, substituted “May 1 of each year” for “February 1 of each year after the date of enactment of the Transportation Research and Innovative Technology Act of 2012” and “make available to the public on a Department of Transportation website” for “submit to Congress”.
+
+#### Effective Date of 2021 Amendment
+Amendment by section 13008(a) of Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as a note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).
 
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
@@ -1891,13 +2568,19 @@ Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out a
 
 (5) enhance intermodal use of intelligent transportation systems for diverse groups, including for emergency and health-related services;
 
-(6) enhance safety through improved crash avoidance and protection, crash and other notification, commercial motor vehicle operations, and infrastructure-based or cooperative safety systems; or
+(6) enhance safety through improved crash avoidance and protection, crash and other notification, commercial motor vehicle operations, and infrastructure-based or cooperative safety systems, including animal detection systems to reduce the number of wildlife-vehicle collisions; or
 
 (7) facilitate the integration of intelligent infrastructure, vehicle, and control technologies.
 
 **(c) Federal Share.—** The Federal share payable on account of any project or activity carried out under subsection (a) shall not exceed 80 percent.
 
 ### Statutory Notes
+
+#### Amendments
+2021—Subsec. (b)(6). Pub. L. 117–58 inserted “, including animal detection systems to reduce the number of wildlife-vehicle collisions” after “systems”.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as a note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).
 
 #### Effective Date
 Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).
@@ -1989,3 +2672,83 @@ Funds made available to carry out this chapter for operational tests of intellig
 
 #### Effective Date
 Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as an Effective Date of 2015 Amendment note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
+
+<a id="section-520"></a>
+## § 520. Transportation Resilience and Adaptation Centers of Excellence
+**(a) Definition of Center of Excellence.—** In this section, the term “Center of Excellence” means a Center of Excellence for Resilience and Adaptation designated under subsection (b).
+
+**(b) Designation.—** The Secretary shall designate 10 regional Centers of Excellence for Resilience and Adaptation and 1 national Center of Excellence for Resilience and Adaptation, which shall serve as a coordinator for the regional Centers, to receive grants to advance research and development that improves the resilience of regions of the United States to natural disasters and extreme weather by promoting the resilience of surface transportation infrastructure and infrastructure dependent on surface transportation.
+
+**(c) Eligibility.—** An entity eligible to be designated as a Center of Excellence is—
+
+(1) an institution of higher education (as defined in section 102 of the Higher Education Act of 1965 ([20 U.S.C. 1002](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1002&num=0&edition=prelim))); or
+
+(2) a consortium of nonprofit organizations led by an institution of higher education.
+
+**(d) Application.—** To be eligible to be designated as a Center of Excellence, an eligible entity shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including a proposal that includes a description of the activities to be carried out with a grant under this section.
+
+**(e) Selection.—**
+
+(1) **Regional centers of excellence.—** — The Secretary shall designate 1 regional Center of Excellence in each of the 10 Federal regions that comprise the Standard Federal Regions established by the Office of Management and Budget in the document entitled “Standard Federal Regions” and dated April 1974 (circular A–105).
+
+(2) **National center of excellence.—** — The Secretary shall designate 1 national Center of Excellence to coordinate the activities of all 10 regional Centers of Excellence to minimize duplication and promote coordination and dissemination of research among the Centers.
+
+(3) **Criteria.—** — In selecting eligible entities to designate as a Center of Excellence, the Secretary shall consider—
+
+  (A) the past experience and performance of the eligible entity in carrying out activities described in subsection (g);
+
+  (B) the merits of the proposal of an eligible entity and the extent to which the proposal would—
+
+    (i) advance the state of practice in resilience planning and identify innovative resilience solutions for transportation assets and systems;
+
+    (ii) support activities carried out under the PROTECT program under section 176;
+
+    (iii) support and build on work being carried out by another Federal agency relating to resilience;
+
+    (iv) inform transportation decisionmaking at all levels of government;
+
+    (v) engage local, regional, Tribal, State, and national stakeholders, including, if applicable, stakeholders representing transportation, transit, urban, and land use planning, natural resources, environmental protection, hazard mitigation, and emergency management; and
+
+    (vi) engage community groups and other stakeholders that will be affected by transportation decisions, including underserved, economically disadvantaged, rural, and predominantly minority communities; and
+
+  (C) the local, regional, Tribal, State, and national impacts of the proposal of the eligible entity.
+
+**(f) Grants.—** Subject to the availability of appropriations, the Secretary shall provide to each Center of Excellence a grant of not less than $5,000,000 for each of fiscal years 2022 through 2031 to carry out the activities described in subsection (g).
+
+**(g) Activities.—** In carrying out this section, the Secretary shall ensure that a Center of Excellence uses the funds from a grant under subsection (f) to promote resilient transportation infrastructure, including through—
+
+(1) supporting climate vulnerability assessments informed by climate change science, including national climate assessments produced by the United States Global Change Research Program under section 106 of the Global Change Research Act of 1990 ([15 U.S.C. 2936](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2936&num=0&edition=prelim)), relevant feasibility analyses of resilient transportation improvements, and transportation resilience planning;
+
+(2) development of new design, operations, and maintenance standards for transportation infrastructure that can inform Federal and State decisionmaking;
+
+(3) research and development of new materials and technologies that could be integrated into existing and new transportation infrastructure;
+
+(4) development, refinement, and piloting of new and emerging resilience improvements and strategies, including natural infrastructure approaches and relocation;
+
+(5) development of and investment in new approaches for facilitating meaningful engagement in transportation decisionmaking by local, Tribal, regional, or national stakeholders and communities;
+
+(6) technical capacity building to facilitate the ability of local, regional, Tribal, State, and national stakeholders—
+
+  (A) to assess the vulnerability of transportation infrastructure assets and systems;
+
+  (B) to develop community response strategies;
+
+  (C) to meaningfully engage with community stakeholders; and
+
+  (D) to develop strategies and improvements for enhancing transportation infrastructure resilience under current conditions and a range of potential future conditions;
+
+(7) workforce development and training;
+
+(8) development and dissemination of data, tools, techniques, assessments, and information that informs Federal, State, Tribal, and local government decisionmaking, policies, planning, and investments;
+
+(9) education and outreach regarding transportation infrastructure resilience; and
+
+(10) technology transfer and commercialization.
+
+**(h) Federal Share.—** The Federal share of the cost of an activity under this section, including the costs of establishing and operating a Center of Excellence, shall be 50 percent.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as an Effective Date of 2021 Amendment note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).

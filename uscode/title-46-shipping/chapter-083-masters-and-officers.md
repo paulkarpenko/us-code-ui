@@ -101,7 +101,7 @@ Subsec. (a)(1). Pub. L. 98–557, § 29(d), inserted “propelled by machinery o
 
 **(c)** The staff department is composed of a medical division and a purser’s division. The officer in charge of each division is responsible only to the master. The senior registered medical doctor is in charge of the medical division. The senior registered purser is in charge of the purser’s division.
 
-**(d)** The officer in charge of the purser’s division of the staff department on an oceangoing passenger vessel licensed to carry more than 100 passengers shall be a registered chief purser. When more than 3 persons are employed in the purser’s division of that vessel, there also shall be at least one registered senior assistant purser and one registered junior assistant purser.
+**(d)** The officer in charge of the purser’s division of the staff department on an oceangoing passenger vessel licensed to carry more than 100 passengers shall be a registered chief purser. When more than 3 individuals are employed in the purser’s division of that vessel, there also shall be at least one registered senior assistant purser and one registered junior assistant purser.
 
 **(e)** A person may not employ an individual to serve in, and an individual may not serve in, a grade of staff officer on a vessel, when that staff officer is required by this section to be registered, if the individual does not have a certificate of registry as staff officer in that grade. A person (including an individual) violating this subsection is liable to the United States Government for a civil penalty of $100. However, if a registered staff officer is not available at the time of sailing, the vessel may sail with an unregistered staff officer or without a staff officer.
 
@@ -134,24 +134,19 @@ Subsection (f) prohibits including a staff officer on a vessel’s certificate o
 Subsections (g) and (h) prescribe the type and restrictions for the uniform accouterments of a staff officer.
 
 #### Amendments
+2021—Subsec. (d). Pub. L. 116–283 substituted “3 individuals” for “3 persons”.
+
 2006—Subsec. (g). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 
 1985—Subsec. (b). Pub. L. 99–36 inserted a comma after “clerks”.
 
 
 <a id="section-8303"></a>
-## § 8303. Service under licenses issued without examination
-
-An individual issued a license without examination before October 29, 1941, to serve as master, mate, or engineer on a vessel not subject to inspection under part B of this subtitle, may not serve under authority of that license on a vessel that is subject to inspection under part B.
+## § 8303. Repealed. Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8503(a)(1), Jan. 1, 2021, 134 Stat. 4747]
 
 ### Statutory Notes
 
-| Historical and Revision Notes |  |
-| --- | --- |
-| Revised section | Source section (U.S. Code) |
-| 8303 | 46:224a |
-
-Section 8303 prohibits an individual licensed without an examination on an uninspected vessel prior to October 29, 1941, from serving as a master, mate, or engineer on an inspected vessel.
+Section, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 552, related to individuals issued a license without examination before Oct. 29, 1941.
 
 
 <a id="section-8304"></a>

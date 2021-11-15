@@ -2,7 +2,7 @@
 title: 42
 chapter: '81'
 heading: ENERGY CONSERVATION AND RESOURCE RENEWAL
-section_count: 39
+section_count: 40
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
@@ -231,7 +231,7 @@ For short title of this subchapter as the “Energy Conservation Standards for N
 <a id="section-6832"></a>
 ## § 6832. Definitions
 
-As used in this subchapter:
+Except as otherwise provided, in this subchapter:
 
 (1) Omitted
 
@@ -271,6 +271,8 @@ As used in this subchapter:
 Par. (1) of this section which read “The term ‘Administrator’ means the Administrator of the Federal Energy Administration; except that after such Administration ceases to exist, such term means any officer of the United States designated by the President for purposes of this subchapter” has been omitted in view of the termination of the Federal Energy Administration and the transfer of its functions and the functions of the Administrator thereof (with certain exceptions) to the Secretary of Energy pursuant to sections 301(a), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7293, and 7297 of this title and the fact that the term “Secretary” is defined for the purposes of this subchapter by par. (10) of this section. In this subchapter, “Secretary of Energy” has been substituted for “Administrator” wherever appearing.
 
 #### Amendments
+2021—Pub. L. 117–58 substituted “Except as otherwise provided, in” for “As used in” in introductory provisions.
+
 2007—Par. (6). Pub. L. 110–140 struck out “which is not legally subject to State or local building codes or similar requirements” after “any Federal agency” and inserted at end “Such term shall include buildings built for the purpose of being leased by a Federal agency, and privatized military housing.”
 
 1992—Pars. (9) to (16). Pub. L. 102–486 redesignated pars. (10) to (13) as (9) to (12), respectively, added pars. (13) to (16), and struck out former par. (9) which read as follows: “The term ‘voluntary performance standards’ means an energy consumption goal or goals to be met without specification of the methods, materials, and processes to be employed in achieving that goal or goals, but including statements of the requirements, criteria and evaluation methods to be used, and any necessary commentary.”
@@ -533,12 +535,104 @@ Section, Pub. L. 94–385, title III, § 308, as added Pub. L. 102–486, title 
 A prior section 6837, Pub. L. 94–385, title III, § 308, Aug. 14, 1976, 90 Stat. 1149; Pub. L. 97–35, title X, § 1041(e), Aug. 13, 1981, 95 Stat. 621, related to technical assistance to States, etc., prior to repeal by Pub. L. 102–486, § 101(a)(2).
 
 
-<a id="section-6838-to-6840"></a>
-## § 6838 to 6840. Repealed. Pub. L. 102–486, title I, § 101(a)(2), Oct. 24, 1992, 106 Stat. 2783
+<a id="section-6838"></a>
+## § 6838. Cost-effective codes implementation for efficiency and resilience
+**(a) Definitions** In this section:
+
+(1) **Eligible entity** — The term “eligible entity” means—
+
+  (A) a relevant State agency, as determined by the Secretary, such as a State building code agency, State energy office, or Tribal energy office; and
+
+  (B) a partnership.
+
+(2) **Partnership** — The term “partnership” means a partnership between an eligible entity described in paragraph (1)(A) and 1 or more of the following entities:
+
+  (A) Local building code agencies.
+
+  (B) Codes and standards developers.
+
+  (C) Associations of builders and design and construction professionals.
+
+  (D) Local and utility energy efficiency programs.
+
+  (E) Consumer, energy efficiency, and environmental advocates.
+
+  (F) Other entities, as determined by the Secretary.
+
+(3) **Secretary** — The term “Secretary” means the Secretary of Energy.
+
+**(b) Establishment**
+
+(1) **In general** — The Secretary shall establish within the Building Technologies Office of the Department of Energy a program under which the Secretary shall award grants on a competitive basis to eligible entities to enable sustained cost-effective implementation of updated building energy codes.
+
+(2) **Updated building energy code** — An update to a building energy code under this section, including an amendment that results in increased efficiency compared to the previously adopted building energy code, shall include any update made available after the existing building energy code, even if it is not the most recent updated code available.
+
+**(c) Criteria; priority** In awarding grants under subsection (b), the Secretary shall—
+
+(1) consider—
+
+  (A) prospective energy savings and plans to measure the savings, including utilizing the Environmental Protection Agency Portfolio Manager, the Home Energy Score rating of the Office of Energy Efficiency and Renewable Energy of the Department of Energy, the Energy Star Building rating methodologies of the Environmental Protection Agency, and other methodologies determined appropriate by the Secretary;
+
+  (B) the long-term sustainability of those measures and savings;
+
+  (C) prospective benefits, and plans to assess the benefits, including benefits relating to—
+
+    (i) resilience and peak load reduction;
+
+    (ii) occupant safety and health; and
+
+    (iii) environmental performance;
+
+  (D) the demonstrated capacity of the eligible entity to carry out the proposed project; and
+
+  (E) the need of the eligible entity for assistance; and
+
+(2) give priority to applications from partnerships.
+
+**(d) Eligible activities**
+
+(1) **In general** — An eligible entity awarded a grant under this section may use the grant funds—
+
+  (A) to create or enable State or regional partnerships to provide training and materials to—
+
+    (i) builders, contractors and subcontractors, architects, and other design and construction professionals, relating to meeting updated building energy codes in a cost-effective manner; and
+
+    (ii) building code officials, relating to improving implementation of and compliance with building energy codes;
+
+  (B) to collect and disseminate quantitative data on construction and codes implementation, including code pathways, performance metrics, and technologies used;
+
+  (C) to develop and implement a plan for highly effective codes implementation, including measuring compliance;
+
+  (D) to address various implementation needs in rural, suburban, and urban areas; and
+
+  (E) to implement updates in energy codes for—
+
+    (i) new residential and commercial buildings (including multifamily buildings); and
+
+    (ii) additions and alterations to existing residential and commercial buildings (including multifamily buildings).
+
+(2) **Related topics** — Training and materials provided using a grant under this section may include information on the relationship between energy codes and—
+
+  (A) cost-effective, high-performance, and zero-net-energy buildings;
+
+  (B) improving resilience, health, and safety;
+
+  (C) water savings and other environmental impacts; and
+
+  (D) the economic impacts of energy codes.
+
+**(e) Authorization of appropriations** There is authorized to be appropriated to the Secretary to carry out this section $225,000,000 for the period of fiscal years 2022 through 2026.
 
 ### Statutory Notes
 
-Section 6838, Pub. L. 94–385, title III, § 309, Aug. 14, 1976, 90 Stat. 1149; Pub. L. 97–35, title X, § 1041(a), Aug. 13, 1981, 95 Stat. 621, related to consultations by Secretary with interested and affected groups in developing and promulgating voluntary performance standards and establishment of advisory committees.
+#### Prior Provisions
+A prior section 6838, Pub. L. 94–385, title III, § 309, Aug. 14, 1976, 90 Stat. 1149; Pub. L. 97–35, title X, § 1041(a), Aug. 13, 1981, 95 Stat. 621, related to consultations by Secretary with interested and affected groups in developing and promulgating voluntary performance standards and establishment of advisory committees, prior to repeal by Pub. L. 102–486, title I, § 101(a)(2), Oct. 24, 1992, 106 Stat. 2783.
+
+
+<a id="section-6839-6840"></a>
+## § 6839, 6840. Repealed. Pub. L. 102–486, title I, § 101(a)(2), Oct. 24, 1992, 106 Stat. 2783
+
+### Statutory Notes
 
 Section 6839, Pub. L. 94–385, title III, § 310, Aug. 14, 1976, 90 Stat. 1149; Pub. L. 95–91, title III, §§ 301(a), 304(a), title VII, §§ 703, 707, 709(e)(2), Aug. 4, 1977, 91 Stat. 577, 580, 606, 607, 608; Pub. L. 97–35, title X, § 1041(a), Aug. 13, 1981, 95 Stat. 621; Pub. L. 100–418, title V, § 5115(c), Aug. 23, 1988, 102 Stat. 1433, related to support activities necessary or appropriate to develop and implement voluntary performance standards.
 
@@ -665,6 +759,9 @@ The Economic Opportunity Act of 1964, referred to in subsec. (a)(4), is Pub. L. 
 “(4) States, through community action agencies established under the Economic Opportunity Act of 1964 and units of general purpose local government, should be encouraged, with Federal financial and technical assistance, to develop and support coordinated weatherization programs designed to ameliorate the adverse effects of high energy costs on such low-income persons, to supplement other Federal programs serving such persons, and to conserve energy.
 
 “(b) It is, therefore, the purpose of this part to develop and implement a supplementary weatherization assistance program to assist in achieving a prescribed level of insulation in the dwellings of low-income persons, particularly elderly and handicapped low-income persons, in order both to aid those persons least able to afford higher utility costs and to conserve needed energy.”
+
+#### Weatherization Assistance Program
+Pub. L. 117–58, div. D, title V, § 40551, Nov. 15, 2021, 135 Stat. 1075, provided that: “(a) Authorization of Appropriations.—There is authorized to be appropriated to the Secretary [of Energy] for the weatherization assistance program established under part A of title IV of the Energy Conservation and Production Act ([42 U.S.C. 6861](./chapter-081-energy-conservation-and-resource-renewal.md#section-6861) et seq.) $3,500,000,000 for fiscal year 2022, to remain available until expended. “(b) Application of Wage Rate Requirements to Weatherization Assistance Program.—With respect to work performed under the weatherization assistance program established under part A of title IV of the Energy Conservation and Production Act ([42 U.S.C. 6861](./chapter-081-energy-conservation-and-resource-renewal.md#section-6861) et seq.) on a project assisted in whole or in part by funding made available under subsection (a), the requirements of section 41101 [[42 U.S.C. 18851](./chapter-162-energy-infrastructure.md#section-18851)] shall apply only to work performed on multifamily buildings with not fewer than 5 units.”
 
 
 <a id="section-6863"></a>
@@ -1035,7 +1132,7 @@ Amendment by section 101(f) [title VIII, § 405(d)(38)] of Pub. L. 105–277 eff
 
   (C) to leverage additional funds to sustain the provision of weatherization assistance and other work performed pursuant to this section after financial assistance awarded under this section is expended; and
 
-  (D) to hire and retain employees who are individuals described subsection (a)(5);
+  (D) to hire and retain employees who are individuals described 11 So in original. Probably should be followed by “in”. subsection (a)(5);
 
 (3) for innovative outreach and education regarding the benefits and availability of weatherization assistance and other assistance available pursuant to this section;
 
@@ -1567,7 +1664,7 @@ Before issuing a guarantee under subsection (a), the Secretary may require that 
 
 (2) The term “Comptroller General” means the Comptroller General of the United States.
 
-(3) The terms “energy audit”, “energy conservation measure”, “renewable-resource energy measure”, “building”, and “industrial plant” have the meanings prescribed for such terms in [section 6326 of this title](./chapter-077-energy-conservation.md#section-6326).
+(3) The terms “energy audit”, “energy conservation measure”, “renewable-resource energy measure”, “building”, and “industrial plant” have the meanings given the terms in [section 6321(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6321/c&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -1582,6 +1679,8 @@ In subsec. (h), “sections 3141–3144, 3146, and 3147 of title 40” substitut
 In subsec. (i)(1), “The term ‘Secretary’ means the Secretary of Energy” substituted for “The term ‘Administrator’ means the Administrator of the Federal Energy Administration; except that after such Administration ceases to exist, such term means any officer of the United States designated by the President for purposes of this part” in view of termination of Federal Energy Administration and transfer of its functions and functions of Administrator thereof (with certain exceptions) to Secretary of Energy pursuant to sections 301(a), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7293, and 7297 of this title.
 
 #### Amendments
+2021—Subsec. (i)(3). Pub. L. 117–58 substituted “given the terms in [section 6321(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6321/c&num=0&edition=prelim)” for “prescribed for such terms in [section 6326 of this title](./chapter-077-energy-conservation.md#section-6326)”.
+
 1996—Subsecs. (d), (e)(1). Pub. L. 104–316 struck out “and the Comptroller General” after “Secretary of the Treasury”.
 
 1977—Subsec. (g)(3). Pub. L. 95–70 added par. (3).

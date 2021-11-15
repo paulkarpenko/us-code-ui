@@ -40,25 +40,21 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **(b) Agreement on Use.—** Before any salvage vessel or salvage gear is transferred by the Secretary to a private party, the private party must agree in writing with the Secretary that the vessel or gear will be used to support organized offshore salvage facilities for a period of as many years as the Secretary considers appropriate.
 
-**(c) Reference to Authority To Advance Funds for Immediate Salvage Operations.—** For authority for the Secretary of the Navy to advance to private salvage companies such funds as the Secretary considers necessary to provide for the immediate financing of salvage operations, see [section 2307(g)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2307/g/2&num=0&edition=prelim).
+**(c) Reference to Authority To Advance Funds for Immediate Salvage Operations.—** For authority for the Secretary of the Navy to advance to private salvage companies such funds as the Secretary considers necessary to provide for the immediate financing of salvage operations, see [section 3808(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3808/b&num=0&edition=prelim).
 
 ### Statutory Notes
 
-#### Amendment of Subsection (c)
-Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1876(c), Jan. 1, 2021, 134 Stat. 4151, 4282, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, subsection (c) of this section is amended—
-
-(1) by striking the first two words of the subsection heading; and
-
-(2) by striking the text of that subsection and inserting the text of paragraph (2) of [section 2307(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2307/g&num=0&edition=prelim), amended by striking “this paragraph” in the second sentence and inserting “this subsection”.
-
-See 2021 Amendment notes below.
-
 #### Amendments
-2021—Subsec. (c). Pub. L. 116–283, § 1876(c)(2), substituted “The Secretary of the Navy may advance to private salvage companies such funds as the Secretary considers necessary to provide for the immediate financing of salvage operations. Advances under this subsection shall be made on terms that the Secretary considers adequate for the protection of the United States.” for “For authority for the Secretary of the Navy to advance to private salvage companies such funds as the Secretary considers necessary to provide for the immediate financing of salvage operations, see [section 2307(g)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2307/g/2&num=0&edition=prelim).”
+2021—Subsec. (c). Pub. L. 116–283, § 1876(c), which directed striking the first two words of the subsec. heading, striking the text of subsec. (c) and inserting the text of par. (2) of [section 2307(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2307/g&num=0&edition=prelim), and substituting “this subsection” for “this paragraph” in the second sentence thereof, was repealed by Pub. L. 117–81, § 1701(n)(3), effective as if included in title XVIII of Pub. L. 116–283.
 
-Pub. L. 116–283, § 1876(c)(1), struck out “Reference to ” before “Authority” in heading.
+Pub. L. 116–283, § 1834(i)(5), as added by Pub. L. 117–81, § 1701(n)(2), which directed substitution of “section 3808(b)” for “section 2307(g)(2)” in section 8702(c), without specifying the Code title to be amended, was executed to subsec. (c) of this section to reflect the probable intent of Congress.
 
 2018—Pub. L. 115–232 renumbered [section 7362 of this title](./chapter-745-computation-of-retired-pay.md#section-7362) as this section.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).

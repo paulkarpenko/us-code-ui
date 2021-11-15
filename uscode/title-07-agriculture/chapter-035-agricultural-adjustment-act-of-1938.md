@@ -25,14 +25,14 @@ Chapter 3B [§ 590a et seq.] of title 16, referred to in text, was in the origin
 #### Effective Date of 1942 Amendment
 Act Jan. 31, 1942, provided that the amendments made by that act are effective for the fiscal year 1942 and subsequent fiscal years.
 
-#### Transfer of Functions
-Agricultural Adjustment Administration consolidated into Production and Marketing Administration by 1946 Reorg. Plan No. 3, eff. July 4, 1946, 11 F.R. 7876, 60 Stat. 1100, set out in the Appendix to Title 5, Government Organization and Employees. See note set out under [section 610 of this title](./chapter-026-agricultural-adjustment.md#section-610).
-
 #### Expenses of an Advisory Committee on Soil and Water Conservation
 Act Aug. 3, 1956, ch. 934, 70 Stat. 989, provided: “That the Secretary of Agriculture is authorized to pay expenses of an Advisory Committee on Soil and Water Conservation and related matters, but such Committee members (other than ex officio members) shall not be deemed to be employees of the United States and shall not receive compensation.”
 
 #### Termination of Advisory Committees
 Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Transfer of Functions
+Agricultural Adjustment Administration consolidated into Production and Marketing Administration by 1946 Reorg. Plan No. 3, eff. July 4, 1946, 11 F.R. 7876, 60 Stat. 1100, set out in the Appendix to Title 5, Government Organization and Employees. See note set out under [section 610 of this title](./chapter-026-agricultural-adjustment.md#section-610).
 
 
 <a id="section-1282"></a>
@@ -152,13 +152,6 @@ Amendment by Pub. L. 108–357 applicable to the 2005 and subsequent crops of to
 #### Savings Provision
 Amendment by sections 611 to 614 of Pub. L. 108–357 not to affect the liability of any person under any provision of law so amended with respect to the 2004 or an earlier crop of tobacco, see section 614 of Pub. L. 108–357, set out as a note under [section 515 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section515&num=0&edition=prelim).
 
-#### Transfer of Functions
-Functions of Agricultural Adjustment Administration transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, § 501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100. See note set out under [section 610 of this title](./chapter-026-agricultural-adjustment.md#section-610).
-
-Soil Conservation Service and Agricultural Adjustment Administration consolidated with other agencies into Agricultural Conservation and Adjustment Administration for duration of war, see Ex. Ord. No. 9069, Feb. 23, 1942, 7 F.R. 1409.
-
-Functions of Soil Conservation Service in Department of Agriculture with respect to soil and moisture conservation operations conducted on lands under jurisdiction of Department of the Interior transferred to Department of the Interior, to be administered under direction and supervision of Secretary of the Interior through such agency or agencies in Department of the Interior as Secretary shall designate, by 1940 Reorg. Plan No. IV, § 6, eff. June 30, 1940, set out in the Appendix to Title 5, Government Organization and Employees. See, also, sections 13 to 15 of said plan for provisions relating to transfer of functions of department heads, records, property, personnel, and funds.
-
 #### Congressional Declaration of Policy Under Agricultural Act of 1961
 Pub. L. 87–128, § 2, Aug. 8, 1961, 75 Stat. 294, provided that: “In order more fully and effectively to improve, maintain, and protect the prices and incomes of farmers, to enlarge rural purchasing power, to achieve a better balance between supplies of agricultural commodities and the requirements of consumers therefor, to preserve and strengthen the structure of agriculture, and to revitalize and stabilize the overall economy at reasonable costs to the Government, it is hereby declared to be the policy of Congress to— “(a) afford farmers the opportunity to achieve parity of income with other economic groups by providing them with the means to develop and strengthen their bargaining power in the Nation’s economy; “(b) encourage a commodity-by-commodity approach in the solution of farm problems and provide the means for meeting varied and changing conditions peculiar to each commodity; “(c) expand foreign trade in agricultural commodities with friendly nations, as defined in section 107 of Public Law 480, 83d Congress, as amended ([7 U.S.C. 1707](./chapter-041-food-for-peace.md#section-1707)), and in no manner either subsidize the export, sell, or make available any subsidized agricultural commodity to any nations other than such friendly nations and thus make full use of our agricultural abundance; “(d) utilize more effectively our agricultural productive capacity to improve the diets of the Nation’s needy persons; “(e) recognize the importance of the family farm as an efficient unit of production and as an economic base for towns and cities in rural areas and encourage, promote, and strengthen this form of farm enterprise; “(f) facilitate and improve credit services to farmers by revising, expanding, and clarifying the laws relating to agricultural credit; “(g) assure consumers of a continuous, adequate, and stable supply of food and fiber at fair and reasonable prices; “(h) reduce the cost of farm programs, by preventing the accumulation of surpluses; and “(i) use surplus farm commodities on hand as fully as practicable as an incentive to reduce production as may be necessary to bring supplies on hand and firm demand in balance.”
 
@@ -172,6 +165,13 @@ Pub. L. 89–321, title VII, § 705, Nov. 3, 1965, 79 Stat. 1210, directed the S
 Act July 3, 1948, ch. 827, title I, § 1(a), (b), 62 Stat. 1247, 1248, as amended June 10, 1949, ch. 191, 63 Stat. 169, authorized the Secretary of Agriculture through any instrumentality or agency within or under the direction of the Department of Agriculture, by loans, purchases, or other operations to support prices received by producers of cotton, wheat, corn, tobacco, rice, and peanuts marketed before June 30, 1950 (Sept. 30, 1950, in the case of Maryland and the cigar-leaf types of tobacco), if producers had not disapproved marketing quotas for such commodity for the marketing year beginning in the calendar year in which the crop is harvested.
 
 Act July 3, 1948, ch. 827, title I, § 2, 62 Stat. 1248, authorized the Secretary, from any funds available to the Department of Agriculture or any agency operating under its direction for price support operations or for the disposal of agricultural commodities, to use such sums as may be necessary to carry out the provisions of section 1 of the Act (enacting provisions set out as notes under this section and amending provisions set out as a note under [section 713a–8 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section713a–8&num=0&edition=prelim)).
+
+#### Transfer of Functions
+Functions of Agricultural Adjustment Administration transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, § 501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100. See note set out under [section 610 of this title](./chapter-026-agricultural-adjustment.md#section-610).
+
+Soil Conservation Service and Agricultural Adjustment Administration consolidated with other agencies into Agricultural Conservation and Adjustment Administration for duration of war, see Ex. Ord. No. 9069, Feb. 23, 1942, 7 F.R. 1409.
+
+Functions of Soil Conservation Service in Department of Agriculture with respect to soil and moisture conservation operations conducted on lands under jurisdiction of Department of the Interior transferred to Department of the Interior, to be administered under direction and supervision of Secretary of the Interior through such agency or agencies in Department of the Interior as Secretary shall designate, by 1940 Reorg. Plan No. IV, § 6, eff. June 30, 1940, set out in the Appendix to Title 5, Government Organization and Employees. See, also, sections 13 to 15 of said plan for provisions relating to transfer of functions of department heads, records, property, personnel, and funds.
 
 
 <a id="section-1293"></a>
@@ -546,18 +546,18 @@ Act July 3, 1948, ch. 827, title III, § 303, 62 Stat. 1259, provided that: “T
 #### Savings Provision
 Amendment by sections 611 to 614 of Pub. L. 108–357 not to affect the liability of any person under any provision of law so amended with respect to the 2004 or an earlier crop of tobacco, see section 614 of Pub. L. 108–357, set out as a note under [section 515 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section515&num=0&edition=prelim).
 
+#### Rulemaking Procedures
+Pub. L. 99–272, title I, § 1108(c), Apr. 7, 1986, 100 Stat. 95, provided that: “The Secretary of Agriculture shall implement sections 1102 through 1109, and the amendments made by such sections [enacting sections 1314g, 1314h, and 1445–3 of this title, amending this section and sections 1312, 1314c, 1314e, 1372, 1445, 1445–1, and 1445–2 of this title, and enacting provisions set out as notes under sections 1314c, 1314e, 1314g, 1314h, 1372, 1445, 1445–1, and 1445–2 of this title], without regard to the provisions requiring notice and other procedures for public participation in rulemaking contained in [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), United States Code, or in any directive of the Secretary.”
+
+#### Study of Methods of Improving Parity Formula
+Act May 28, 1956, ch. 327, title VI, § 602, 70 Stat. 213, required the Secretary to make a thorough study of the possible methods of improving the parity formula and report thereon, with specific recommendations, including drafts of necessary legislation to carry out such recommendations, to Congress not later than Jan. 31, 1957.
+
 #### Transfer of Functions
 Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201).
 
 Administration of program of Federal Crop Insurance Corporation transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, § 501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Functions of Bureau of Agricultural Economics transferred to other units of Department of Agriculture under Secretary’s memorandum 1320, supp. 4, of Nov. 2, 1953.
-
-#### Rulemaking Procedures
-Pub. L. 99–272, title I, § 1108(c), Apr. 7, 1986, 100 Stat. 95, provided that: “The Secretary of Agriculture shall implement sections 1102 through 1109, and the amendments made by such sections [enacting sections 1314g, 1314h, and 1445–3 of this title, amending this section and sections 1312, 1314c, 1314e, 1372, 1445, 1445–1, and 1445–2 of this title, and enacting provisions set out as notes under sections 1314c, 1314e, 1314g, 1314h, 1372, 1445, 1445–1, and 1445–2 of this title], without regard to the provisions requiring notice and other procedures for public participation in rulemaking contained in [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), United States Code, or in any directive of the Secretary.”
-
-#### Study of Methods of Improving Parity Formula
-Act May 28, 1956, ch. 327, title VI, § 602, 70 Stat. 213, required the Secretary to make a thorough study of the possible methods of improving the parity formula and report thereon, with specific recommendations, including drafts of necessary legislation to carry out such recommendations, to Congress not later than Jan. 31, 1957.
 
 
 <a id="section-1303"></a>
@@ -2622,12 +2622,6 @@ Amendment by section 319 of Pub. L. 87–703 effective only with respect to prog
 #### Effective Date of 1953 Amendment
 Amendment by act July 14, 1953, effective with respect to 1954 and subsequent crops of wheat, see section 5 of act July 14, 1953, set out as a note under [section 1334 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1334).
 
-#### Transfer of Functions
-Administration of program of Commodity Credit Corporation transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, § 501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Exceptions From Transfer of Functions
-Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201).
-
 #### Inapplicability of Section
 Section inapplicable to crops of wheat planted for harvest in calendar years 2014 through 2018, see [section 9092(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section9092/c&num=0&edition=prelim).
 
@@ -2646,6 +2640,12 @@ Pub. L. 97–98, title III, § 304, Dec. 22, 1981, 95 Stat. 1227, provided that:
 Pub. L. 95–113, title IV, § 406, Sept. 29, 1977, 91 Stat. 927, provided that: “Public Law 74, Seventy-seventh Congress (55 Stat. 203, as amended) [this section] shall not be applicable to the crops of wheat planted for harvest in the calendar years 1978 through 1981.”
 
 Pub. L. 91–524, title IV, § 406, Nov. 30, 1970, 84 Stat. 1367, as amended by Pub. L. 93–86, § 1(13), Aug. 10, 1973, 87 Stat. 229, provided that: “Public Law 74, Seventy-seventh Congress (68 Stat. 905) [this section], shall not be applicable to the crops of wheat planted for harvest in the calendar years 1971 through 1977.”
+
+#### Transfer of Functions
+Administration of program of Commodity Credit Corporation transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, § 501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Exceptions From Transfer of Functions
+Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201).
 
 
 <a id="section-1343"></a>
@@ -5110,14 +5110,14 @@ Amendment by Pub. L. 87–703 effective only with respect to programs applicable
 #### Effective Date of 1948 Amendment
 Amendment by act July 3, 1948, effective Jan. 1, 1950, see section 303 of act July 3, 1948, set out as a note under [section 1301 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1301).
 
+#### Determination of Rate of Loans, Payments, and Purchases Under Price Support Program; Notice and Public Participation in Rulemaking Not Required
+Pub. L. 99–198, title X, § 1017(b), Dec. 23, 1985, 99 Stat. 1459, as amended by Pub. L. 101–624, title XI, § 1144, Nov. 28, 1990, 104 Stat. 3516, provided that the Secretary of Agriculture was to determine the rate of loans, payments, and purchases under a program established under the Agricultural Act of 1949 ([7 U.S.C. 1421](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) et seq.) for any of the 1991 through 1995 crops of a commodity without regard to notice and public participation in rulemaking requirements.
+
 #### Transfer of Functions
 Administration of program of Commodity Credit Corporation transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, § 501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Exceptions From Transfer of Functions
 Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201).
-
-#### Determination of Rate of Loans, Payments, and Purchases Under Price Support Program; Notice and Public Participation in Rulemaking Not Required
-Pub. L. 99–198, title X, § 1017(b), Dec. 23, 1985, 99 Stat. 1459, as amended by Pub. L. 101–624, title XI, § 1144, Nov. 28, 1990, 104 Stat. 3516, provided that the Secretary of Agriculture was to determine the rate of loans, payments, and purchases under a program established under the Agricultural Act of 1949 ([7 U.S.C. 1421](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) et seq.) for any of the 1991 through 1995 crops of a commodity without regard to notice and public participation in rulemaking requirements.
 
 
 <a id="section-1389"></a>

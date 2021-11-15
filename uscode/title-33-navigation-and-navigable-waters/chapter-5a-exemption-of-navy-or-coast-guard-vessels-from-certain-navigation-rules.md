@@ -7,31 +7,13 @@ source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33&num=0&edition=prelim
 ---
 <a id="section-360-360a"></a>
-## § 360, 360a. Deposit of refuse in navigable waters generally
-
-It shall not be lawful to throw, discharge, or deposit, or cause, suffer, or procure to be thrown, discharged, or deposited either from or out of any ship, barge, or other floating craft of any kind, or from the shore, wharf, manufacturing establishment, or mill of any kind, any refuse matter of any kind or description whatever other than that flowing from streets and sewers and passing therefrom in a liquid state, into any navigable water of the United States, or into any tributary of any navigable water from which the same shall float or be washed into such navigable water; and it shall not be lawful to deposit, or cause, suffer, or procure to be deposited material of any kind in any place on the bank of any navigable water, or on the bank of any tributary of any navigable water, where the same shall be liable to be washed into such navigable water, either by ordinary or high tides, or by storms or floods, or otherwise, whereby navigation shall or may be impeded or obstructed: Provided, That nothing herein contained shall extend to, apply to, or prohibit the operations in connection with the improvement of navigable waters or construction of public works, considered necessary and proper by the United States officers supervising such improvement or public work: And provided further, That the Secretary of the Army, whenever in the judgment of the Chief of Engineers anchorage and navigation will not be injured thereby, may permit the deposit of any material above mentioned in navigable waters, within limits to be defined and under conditions to be prescribed by him, provided application is made to him prior to depositing such material; and whenever any permit is so granted the conditions thereof shall be strictly complied with, and any violation thereof shall be unlawful.
+## § 360, 360a. Repealed. Pub. L. 96–591, § 8(a), Dec. 24, 1980, 94 Stat. 3435
 
 ### Statutory Notes
 
-#### Codification
-Section is from act Mar. 3, 1899, popularly known as the “Rivers and Harbors Appropriation Act of 1899”.
+Section 360, acts Dec. 3, 1945, ch. 511, § 1, 59 Stat. 590; Oct. 15, 1966, Pub. L. 89–670, § 6(b)(1), 80 Stat. 938, provided that vessels of special construction be exempted from requirements with regard to number and position of lights.
 
-#### Prior Provisions
-This section and sections 408, 411, and 412 of this title, superseded act Aug. 18, 1894, ch. 299, §§ 6, 7, 8, 28 Stat. 363, which prohibited the depositing of refuse in navigable waters for the improvement of which money had been appropriated, and the injury to sea walls and other works built by the Government, and prescribed penalties for violations, including penalties against masters, etc., and vessels.
+Section 360a, acts Dec. 3, 1945, ch. 511, § 2, 59 Stat. 591; Oct. 15, 1966, Pub. L. 89–670, § 6(b)(1), 80 Stat. 938, related to publication of notice when the Secretary of the department in which the Coast Guard was operating made findings or certifications described in [section 360 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section360&num=0&edition=prelim).
 
-Section also superseded act Sept. 19, 1890, ch. 907, § 6, 26 Stat. 453, which prohibited obstructing navigation by deposits of refuse, etc., in navigable waters.
-
-#### Change of Name
-Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
-
-#### Short Title
-This section is popularly known as the “Refuse Act of 1899”.
-
-#### Transfer of Functions
-Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under [section 401 of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-401) to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941, which created Department of Transportation. Pub. L. 97–449 amended [section 401 of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-401) to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
-
-#### Termination of Discharge Permit Program
-No permits for discharges into navigable waters to be issued under this section after Oct. 18, 1972, and the discharge permit program to be carried out instead under [section 1342 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1342), with applications under this section pending on Oct. 18, 1972, to be deemed applications for permits under section 1342, see [section 1342 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1342).
-
-#### Executive Order No. 11574
-Ex. Ord. No. 11574, Dec. 23, 1970, 35 F.R. 19627, which provided for administration of a permit program to regulate discharge of pollutants and other refuse matter into navigable waters or their tributaries and placement of such matter on their banks, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
+#### Effective Date of Repeal
+Repeal effective Dec. 24, 1981, see section 7 of Pub. L. 96–591, set out as an Effective Date of 1980 Amendment note under [section 1604 of this title](./chapter-030-international-regulations-for-preventing-collisions-at-sea.md#section-1604).

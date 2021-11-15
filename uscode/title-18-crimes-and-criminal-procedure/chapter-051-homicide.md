@@ -122,14 +122,15 @@ Mandatory punishment provision was rephrased in the alternative.
 
 <a id="section-1114"></a>
 ## § 1114. Protection of officers and employees of the United States
-
-Whoever kills or attempts to kill any officer or employee of the United States or of any agency in any branch of the United States Government (including any member of the uniformed services) while such officer or employee is engaged in or on account of the performance of official duties, or any person assisting such an officer or employee in the performance of such duties or on account of that assistance, shall be punished—
+**(a) In General.—** Whoever kills or attempts to kill any officer or employee of the United States or of any agency in any branch of the United States Government (including any member of the uniformed services) while such officer or employee is engaged in or on account of the performance of official duties, or any person assisting such an officer or employee in the performance of such duties or on account of that assistance, shall be punished—
 
 (1) in the case of murder, as provided under section 1111;
 
 (2) in the case of manslaughter, as provided under section 1112; or
 
 (3) in the case of attempted murder or manslaughter, as provided in section 1113.
+
+**(b) Extraterritorial Jurisdiction.—** There is extraterritorial jurisdiction over the conduct prohibited by this section.
 
 ### Statutory Notes
 
@@ -148,6 +149,8 @@ Changes in phraseology were made.
 This section [section 24] amends [section 1114 of title 18](./chapter-051-homicide.md#section-1114), U.S.C., to conform more closely with the original statute from which it was derived.
 
 #### Amendments
+2021—Pub. L. 117–59 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
 2002—Subsec. (b). Pub. L. 107–273 repealed amendment by Pub. L. 104–294. See 1996 Amendment note below.
 
 1996—Pub. L. 104–132 reenacted section catchline without change and amended text generally, restructuring provisions by inserting par. designations and substituting reference to [section 1113 of this title](./chapter-051-homicide.md#section-1113) and general reference to killing or attempting to kill any officer or employee of any agency in any branch of United States Government for more specific references to killing or attempting to kill certain enumerated officers and employees of United States.
@@ -255,6 +258,9 @@ Amendment by Pub. L. 89–74 effective July 15, 1965, see section 11 of Pub. L. 
 
 #### Savings Provision
 Amendment by Pub. L. 91–513 not to affect or abate any prosecutions for violation of law or any civil seizures or forfeitures and injunctive proceedings commenced prior to the effective date of such amendment, and all administrative proceedings pending before the Bureau of Narcotics and Dangerous Drugs on Oct. 27, 1970, to be continued and brought to final determination in accord with laws and regulations in effect prior to Oct. 27, 1970, see section 702 of Pub. L. 91–513, set out as a note under [section 321 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section321&num=0&edition=prelim), Food and Drugs.
+
+#### Sense of Congress
+Pub. L. 117–59, § 2, Nov. 18, 2021, 135 Stat. 1468, provided that: “It is the sense of Congress that— “(1) since the founding of the Nation, officers and employees of the United States Government have dutifully and faithfully served the United States overseas, including in situations that place them at serious risk of death or bodily harm, in order to preserve, protect, and defend the interests of the United States; “(2) securing the safety of such officers and employees while serving overseas is of paramount importance and is also in furtherance of preserving, protecting, and defending the interests of the United States; “(3) Federal courts, including the United States Court of Appeals for the Second Circuit, the United States Court of Appeals for the Ninth Circuit, and the United States Court of Appeals for the Eleventh Circuit, have correctly interpreted [section 1114 of title 18](./chapter-051-homicide.md#section-1114), United States Code, to apply extraterritorially to protect officers and employees of the United States while the officers and employees are serving abroad; “(4) in a case involving a violent attack against Federal law enforcement officers Jaime Zapata and Victor Avila, a panel of a Federal court of appeals held that [section 1114 of title 18](./chapter-051-homicide.md#section-1114), United States Code, does not apply extraterritorially, creating a split among the United States circuit courts of appeals; “(5) in light of the opinion described in paragraph (4), it has become necessary for Congress to clarify the original intent that [section 1114 of title 18](./chapter-051-homicide.md#section-1114), United States Code, applies extraterritorially; and “(6) it is further appropriate to clarify the original intent that sections 111 and 115 of title 18, United States Code, apply extraterritorially as well.”
 
 #### Life Imprisonment or Lesser Term for Killing Person in Performance of Investigative, Inspection, or Law Enforcement Functions
 Pub. L. 91–596, § 17(h)(2), Dec. 29, 1970, 84 Stat. 1607, provided that: “Notwithstanding the provisions of sections 1111 and 1114 of title 18, United States Code, whoever, in violation of the provisions of section 1114 of such title, kills a person while engaged in or on account of the performance of investigative, inspection, or law enforcement functions added to such section 1114 by paragraph (1) of this subsection, and who would otherwise be subject to the penalty provisions of such section 1111 shall be punished by imprisonment for any term of years or for life.”

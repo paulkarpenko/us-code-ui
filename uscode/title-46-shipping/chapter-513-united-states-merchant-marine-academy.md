@@ -2,7 +2,7 @@
 title: 46
 chapter: '513'
 heading: UNITED STATES MERCHANT MARINE ACADEMY
-section_count: 22
+section_count: 24
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46&num=0&edition=prelim
 ---
@@ -20,7 +20,7 @@ source: >-
 
   (A) an individual who has—
 
-    (i) attained a general or flag officer rank in the Navy, Army, Air Force, Marine Corps, Coast Guard, or National Oceanic and Atmospheric Administration; and
+    (i) attained the rank of Captain, Chief Mate, or Chief Engineer in the merchant marine of the United States, or a general or flag officer rank in the Navy, Army, Air Force, Marine Corps, Coast Guard, or National Oceanic and Atmospheric Administration; and
 
     (ii) served at sea in any rank;
 
@@ -28,7 +28,7 @@ source: >-
 
     (i)
 
-      (I) served at sea in the Navy, Army, Air Force, Marine Corps, Coast Guard, or National Oceanic and Atmospheric Administration; or
+      (I) served at sea in the merchant marine, Navy, Army, Air Force, Marine Corps, Coast Guard, or National Oceanic and Atmospheric Administration; or
 
       (II) held a valid Coast Guard merchant mariner credential; and
 
@@ -36,7 +36,7 @@ source: >-
 
   (C) if a qualified individual described in subparagraph (A) or (B) does not apply for the position, an individual who has—
 
-    (i) attained the grade of captain or above in the Navy, Coast Guard, or National Oceanic and Atmospheric Administration or colonel or above in the Army, Air Force, or Marine Corps; and
+    (i) attained the grade of captain or above in the merchant marine, Navy, Coast Guard, or National Oceanic and Atmospheric Administration or colonel or above in the Army, Air Force, or Marine Corps; and
 
     (ii) served at sea in any grade.
 
@@ -50,6 +50,10 @@ source: >-
 | 51301 | 46 App.:1295b(a). | June 29, 1936, ch. 858, title XIII, § 1303(a), as added Pub. L. 96–453, § 2, Oct. 15, 1980, 94 Stat. 1998. |
 
 #### Amendments
+2021—Subsec. (c)(2)(A)(i). Pub. L. 116–283, § 3503(b)(1), inserted “the rank of Captain, Chief Mate, or Chief Engineer in the merchant marine of the United States, or” after “attained”.
+
+Subsec. (c)(2)(B)(i)(I), (C)(i). Pub. L. 116–283, § 3503(b)(2), inserted “merchant marine,” before “Navy”.
+
 2016—Subsec. (c). Pub. L. 114–328 added subsec. (c).
 
 2013—Subsec. (a). Pub. L. 112–239 substituted “In General” for “IN General” in heading.
@@ -328,7 +332,7 @@ Pub. L. 109–364, div. C, title XXXV, § 3506(b), Oct. 17, 2006, 120 Stat. 2517
 
 (4) on any other vessel considered by the Secretary to be necessary or appropriate or in the national interest.
 
-**(b) Maritime Security Program Vessels.—** The Secretary shall require an operator of a vessel participating in the Maritime Security Program under chapter 531 of this title to carry on each Maritime Security Program vessel 2 United States Merchant Marine Academy cadets, if available, on each voyage.
+**(b) Sea Year Cadets on Cable Security Fleet and Tanker Security Fleet Vessels.—** The Secretary shall require an operator of a vessel participating in the Maritime Security Program under chapter 531 of this title, the Cable Security Fleet under chapter 532 of this title, or the Tanker Security Fleet under chapter 534 of this title to carry on each Maritime Security Program vessel, Cable Security Fleet vessel, or Tanker Security Fleet vessel 2 United States Merchant Marine Academy cadets, if available, on each voyage.
 
 **(c) Military Sealift Command Vessels.—**
 
@@ -360,6 +364,8 @@ Pub. L. 109–364, div. C, title XXXV, § 3506(b), Oct. 17, 2006, 120 Stat. 2517
 In paragraph (2), the words “with the permission of the owner” are substituted for “if the owner . . . cooperates in such use” for clarity.
 
 #### Amendments
+2021—Subsec. (b). Pub. L. 116–283 added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The Secretary shall require an operator of a vessel participating in the Maritime Security Program under chapter 531 of this title to carry on each Maritime Security Program vessel 2 United States Merchant Marine Academy cadets, if available, on each voyage.”
+
 2018—Pub. L. 115–232, § 3512(1), (3), designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) to (e).
 
 Subsec. (a)(1). Pub. L. 115–232, § 3512(2), substituted “owned, subsidized by, or contracted with” for “owned or subsidized by”.
@@ -1217,3 +1223,35 @@ Subsec. (c)(5), (6). Pub. L. 115–91, § 3515(c), redesignated par. (6) as (5),
 
 #### Amendments
 2018—Subsec. (c). Pub. L. 115–232 amended subsec. (c) generally. Prior to amendment, text read as follows: “The Maritime Administrator shall require the owner or operator of a commercial vessel, or the seafarer union for a commercial vessel, to maintain records of sexual assault training for the crew and passengers of any vessel hosting a cadet from the Academy.”
+
+
+<a id="section-51323"></a>
+## § 51323. United States Merchant Marine Academy Advisory Council
+**(a) Establishment.—** The Secretary of Transportation shall establish an advisory council, to be known as the “United States Merchant Marine Academy Advisory Council” (in this section referred to as the “Council”).
+
+**(b) Membership.—**
+
+(1) **In general.—** — The Secretary shall select not fewer than 8 and not more than 14 individuals to serve as members of the Council. Such individuals shall have such expertise as the Secretary determines necessary and appropriate for providing advice and guidance on improving the Academy.
+
+(2) **Governmental experts.—** — The number of members of the Council who are employees of the Federal Government may not exceed the number of members of the Council who are not employees of the Federal Government.
+
+(3) **Employee status.—** — Members of the Council shall not be considered employees of the United States Government by reason of their membership on the Council for any purpose and shall not receive compensation other than reimbursement of travel expenses and per diem allowance in accordance with [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim).
+
+**(c) Responsibilities.—** The Council shall provide advice to the Secretary at the time and in the manner requested by the Secretary.
+
+**(d) Personally Identifiable Information.—** In carrying out its responsibilities under this subsection, the Council shall comply with the obligations of the Department of Transportation to protect personally identifiable information.
+
+
+<a id="section-51324"></a>
+## § 51324. Unfilled vacancies
+**(a) In General.—** In the event of an unfilled vacancy for any critical position at the United States Merchant Marine Academy, the Secretary of Transportation may appoint, without regard to the provisions of subchapter I of chapter 33 of title 5, other than sections 3303 and 3328 of that title, a qualified candidate for the purposes of filling up to 20 of such positions.
+
+**(b) Critical Position Defined.—** In this section, the term “critical position” means a position that contributes to the improvement of—
+
+(1) the culture or infrastructure of the Academy;
+
+(2) student health and well being;
+
+(3) Academy governance; or
+
+(4) any other priority areas identified by the Council.

@@ -523,7 +523,7 @@ Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 392 of Pub. L.
 Amendment by Pub. L. 99–551 effective Oct. 1, 1986, except as otherwise provided, see section 11 of Pub. L. 99–551, set out as an Effective Date note under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950).
 
 #### Additional Appropriations Authorization
-Pub. L. 94–130, § 5(b), Nov. 14, 1975, 89 Stat. 684, as amended by Pub. L. 96–143, § 17, Dec. 13, 1979, 93 Stat. 1082, provided that: “There are authorized to be appropriated, in addition to the sums authorized to be appropriated pursuant to section 501 of such Act [[section 5081 of this title](./chapter-066-domestic-volunteer-services.md#section-5081)], such additional sums as may be necessary to carry out the amendments made by subsection (a) of this section [amending this section].”
+Pub. L. 94–130, § 5(b), Nov. 14, 1975, 89 Stat. 684, as amended by Pub. L. 96–143, § 17, Dec. 13, 1979, 93 Stat. 1082, authorized additional appropriations, beyond those authorized pursuant to [section 5081 of this title](./chapter-066-domestic-volunteer-services.md#section-5081), to carry out the amendment made to this section by section 5(a) of Pub. L. 94–130.
 
 
 <a id="section-4957"></a>
@@ -2279,7 +2279,7 @@ Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 392 of Pub. L.
 Amendment by Pub. L. 99–551 effective Oct. 1, 1986, except as otherwise provided, see section 11 of Pub. L. 99–551, set out as an Effective Date note under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950).
 
 #### Additional Appropriations Authorization
-Additional appropriations authorization for meeting increase in stipend to volunteers under [section 4955(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4955/a/1&num=0&edition=prelim), see section 5(b) of Pub. L. 94–130, set out as a note under [section 4955 of this title](./chapter-066-domestic-volunteer-services.md#section-4955).
+Additional appropriations authorization for meeting increase in stipend to volunteers under [section 4955(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4955/a/1&num=0&edition=prelim), see section 5(b) of Pub. L. 94–130, formerly set out as a note under [section 4955 of this title](./chapter-066-domestic-volunteer-services.md#section-4955).
 
 
 <a id="section-5083"></a>

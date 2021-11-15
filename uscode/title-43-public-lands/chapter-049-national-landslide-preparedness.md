@@ -207,7 +207,7 @@ Pub. L. 116–323, § 1, Jan. 5, 2021, 134 Stat. 5075, provided that: “This Ac
 
     (iii) overseeing the implementation of the national strategy.
 
-**(d) Advisory committee**
+**(d) Advisory Committee**
 
 (1) **In general** — The Secretary shall establish an advisory committee, to be known as the “Advisory Committee on Landslides” (referred to in this subsection as the “Advisory Committee”).
 

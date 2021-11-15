@@ -332,13 +332,10 @@ Subsec. (d). Pub. L. 86–500 reenacted subsection without change.
 1959—Subsec. (c). Pub. L. 86–70 struck out reference to Alaska.
 
 #### Effective Date of 1996 Amendment
-For effective date and applicability of amendment by section 4321(b)(21) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under [section 2302 of this title](./chapter-137-procurement-generally.md#section-2302).
+For effective date and applicability of amendment by section 4321(b)(21) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under [section 2302 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2302).
 
 #### Effective Date of 1988 Amendment
-Amendment by Pub. L. 100–456 effective Oct. 1, 1988, see section 2702 of Pub. L. 100–456, set out as a note under [section 2391 of this title](./chapter-141-miscellaneous-procurement-provisions.md#section-2391).
-
-#### Termination of Trust Territory of the Pacific Islands
-For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
+Amendment by Pub. L. 100–456 effective Oct. 1, 1988, see section 2702 of Pub. L. 100–456, set out as a note under [section 2391 of this title](./chapter-141-miscellaneous-provisions-relating-to-property.md#section-2391).
 
 #### Reduction or Realignment of Training Bases
 Pub. L. 95–485, title VI, § 602, Oct. 20, 1978, 92 Stat. 1617, prohibited any action to implement any substantial reduction or force structure realignment of the composite of installations, posts, camps, stations, and bases that had as a primary or secondary mission the conduct of formal entry level, advanced individual, or specialty training as a part of the fiscal year 1979 Defense manpower program unless certain criteria were complied with.
@@ -348,6 +345,9 @@ Pub. L. 95–82, title VI, § 612(c), Aug. 1, 1977, 91 Stat. 380, provided that:
 
 #### Closing of Facilities; Reports to Congress
 Pub. L. 89–188, title VI, § 611, Sept. 16, 1965, 79 Stat. 818, as amended by Pub. L. 89–568, title VI, § 613, Sept. 12, 1966, 80 Stat. 757, required a report to Congress and a waiting period in connection with the closing of Defense Department facilities, prior to repeal by Pub. L. 97–214, § 7(7), July 12, 1982, 96 Stat. 173, eff. Oct. 1, 1982.
+
+#### Termination of Trust Territory of the Pacific Islands
+For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
 
 
 <a id="section-2663"></a>
@@ -1871,7 +1871,7 @@ A prior section 2679, added Pub. L. 87–651, title I, § 112(c), Sept. 7, 1962,
 
 Subsec. (a)(4). Pub. L. 114–92, § 1081(b)(1), amended directory language of Pub. L. 113–291, § 351(b)(1)(C). See 2014 Amendment note below.
 
-2014—Pub. L. 113–291, § 351(a), renumbered [section 2336 of this title](./chapter-137-procurement-generally.md#section-2336) as this section and substituted “Installation-support services: intergovernmental support agreement” for “Intergovernmental support agreements with State and local governments” in section catchline.
+2014—Pub. L. 113–291, § 351(a), renumbered [section 2336 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2336) as this section and substituted “Installation-support services: intergovernmental support agreement” for “Intergovernmental support agreements with State and local governments” in section catchline.
 
 Subsec. (a)(1). Pub. L. 113–291, § 351(b)(1)(A), substituted “Notwithstanding any other provision of law governing the award of Federal government contracts for goods and services, the Secretary concerned” for “The Secretary concerned” and “, on a sole source basis, with a State or local” for “a State or local”.
 
@@ -1883,6 +1883,12 @@ Subsec. (e)(4). Pub. L. 113–291, § 351(b)(2), added par. (4).
 
 #### Effective Date of 2015 Amendment
 Pub. L. 114–92, div. A, title X, § 1081(b), Nov. 25, 2015, 129 Stat. 1001, provided in part that the amendment made by section 1081(b)(1) is effective as of Dec. 19, 2014, and as if included in Pub. L. 113–291 as enacted.
+
+#### Review of Agreements With Non-Department Entities With Respect to Prevention and Mitigation of Spills of Aqueous Film-Forming Foam
+Pub. L. 117–81, div. A, title III, § 346, Dec. 27, 2021, 135 Stat. 1647, provided that: “(a) Review Required.—Not later than 180 days of [sic] after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of Defense shall complete a review of mutual support agreements entered into with non-Department of Defense entities (including State and local entities) that involve fire suppression activities in support of missions of the Department. “(b) Matters.—The review under subsection (a) shall assess, with respect to the agreements specified in such subsection, the following:“(1) The preventative maintenance guidelines specified in such agreements for fire trucks and fire suppression systems, to mitigate the risk of equipment failure that may result in a spill of aqueous film-forming foam (in this section referred to as “AFFF”). “(2) Any requirements specified in such agreements for the use of personal protective equipment by personnel when conducting a material transfer or maintenance activity pursuant to the agreement that may result in a spill of AFFF, or when conducting remediation activities for such a spill, including requirements for side-shield safety glasses, latex gloves, and respiratory protection equipment. “(3) The methods by which the Secretary, or the non-Department entity with which the Secretary has entered into the agreement, ensures compliance with guidance specified in the agreement with respect to the use of such personal protective equipment. “(c) Guidance.—Not later than 90 days after the date on which the Secretary completes the review under subsection (a), the Secretary shall issue guidance (based on the results of such review) on requirements to include under the agreements specified in such subsection, to ensure the prevention and mitigation of spills of AFFF. Such guidance shall include, at a minimum, best practices and recommended requirements to ensure the following:“(1) The supervision by personnel trained in responding to spills of AFFF of each material transfer or maintenance activity carried out pursuant to such an agreement that may result in such a spill. “(2) The use of containment berms and the covering of storm drains and catch basins by personnel performing maintenance activities pursuant to such an agreement in the vicinity of such drains or basins. “(3) The storage of materials for the cleanup and containment of AFFF in close proximity to fire suppression systems in buildings of the Department and the presence of such materials during any transfer or activity specified in paragraph (1). “(d) Briefing.—Not later than 30 days after the date on which the Secretary issues the guidance under subsection (c), the Secretary shall provide to the congressional defense committees [Committee on Armed Services and Committee on Appropriations of the Senate and House of Representatives] a briefing that summarizes the results of the review conducted under subsection (a) and the guidance issued under subsection (c).”
+
+#### Notification of Certain Intergovernmental Support Agreements
+Pub. L. 117–81, div. A, title VIII, § 876, Dec. 27, 2021, 135 Stat. 1865, provided that: “(a) Notification Required.—During fiscal years 2022 and 2023, not less than 60 days before entering into an intergovernmental support agreement under [section 2679 of title 10](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2679), United States Code, that is an exception to the requirements of chapter 85 of title 41, United States Code, the Secretary concerned shall submit, in writing, to the congressional defense committees [Committee on Armed Services and Committee on Appropriations of the Senate and House of Representatives] a report including the following relating to such agreement:“(1) The circumstances that resulted in the need to enter into an intergovernmental support agreement that included such exception. “(2) The anticipated benefits of entering into such agreement that included such exception. “(3) The anticipated impact on persons covered under such chapter 85 because of such exception. “(4) The extent to which such agreement complies with applicable policies, directives, or other guidance of the Department of Defense. “(b) Recommendations.—“(1) In general.—The Secretary of Defense shall submit to the congressional defense committees, along with the budget request materials for fiscal year 2023, specific recommendations for modifications to the legislative text of subsection (a)(1) of [section 2679 of title 10](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2679), United States Code, along with a rationale for any such modifications, to identify specific provisions of Federal contracting law appropriate for waiver or exemption to ensure effective use of intergovernmental support agreements under such section. “(2) Budget request materials defined.—In this subsection, the term ‘budget request materials’ means the materials submitted to Congress by the President under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code. “(c) Briefing Required.—Not later than 6 months after the date of enactment of this Act [Dec. 27, 2021] the Secretary of Defense shall provide to the congressional defense committees a briefing on activities taken to carry out the requirements of this section. “(d) Policy Required.—Not later than one year after the date of the enactment of this Act, the Secretary of Defense shall issue guidance to clarify the use of the authority under [section 2679 of title 10](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2679), United States Code, including with respect to—“(1) the application of other requirements of acquisition law and policy; and “(2) chapter 85 of title 41, United States Code. “(e) Secretary Concerned Defined.—In this section, the term ‘Secretary concerned’ means—“(1) the Secretary of the Army, with respect to matters concerning the Army; “(2) the Secretary of the Navy, with respect to matters concerning the Navy and the Marine Corps; and “(3) the Secretary of the Air Force, with respect to matters concerning the Air Force and the Space Force.”
 
 #### Promulgation of Guidance
 Pub. L. 116–283, div. B, title XXVIII, § 2861(b), Jan. 1, 2021, 134 Stat. 4357, provided that: “Not later than 180 days after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of Defense shall promulgate guidance for the development of the pilot program required by subsection (e) of [section 2679 of title 10](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2679), United States Code, as added by subsection (a).”
@@ -1903,54 +1909,12 @@ Pub. L. 111–383, div. B, title XXVIII, § 2814(b), Jan. 7, 2011, 124 Stat. 446
 
 
 <a id="section-2681"></a>
-## § 2681. Use of test and evaluation installations by commercial entities
-**(a) Contract Authority.—** The Secretary of Defense may enter into contracts with commercial entities that desire to conduct commercial test and evaluation activities at a Major Range and Test Facility Installation.
-
-**(b) Termination or Limitation of Contract Under Certain Circumstances.—** A contract entered into under subsection (a) shall contain a provision that the Secretary of Defense may terminate, prohibit, or suspend immediately any commercial test or evaluation activity to be conducted at the Major Range and Test Facility Installation under the contract if the Secretary of Defense certifies in writing that the test or evaluation activity is or would be detrimental—
-
-(1) to the public health and safety;
-
-(2) to property (either public or private); or
-
-(3) to any national security interest or foreign policy interest of the United States.
-
-**(c) Contract Price.—** A contract entered into under subsection (a) shall include a provision that requires a commercial entity using a Major Range and Test Facility Installation under the contract to reimburse the Department of Defense for all direct costs to the United States that are associated with the test and evaluation activities conducted by the commercial entity under the contract. In addition, the contract may include a provision that requires the commercial entity to reimburse the Department of Defense for such indirect costs related to the use of the installation as the Secretary of Defense considers to be appropriate. The Secretary may delegate to the commander of the Major Range and Test Facility Installation the authority to determine the appropriateness of the amount of indirect costs included in such a contract provision.
-
-**(d) Retention of Funds Collected From Commercial Users.—** Amounts collected under subsection (c) from a commercial entity conducting test and evaluation activities at a Major Range and Test Facility Installation shall be credited to the appropriation accounts under which the costs associated with the test and evaluation activities of the commercial entity were incurred.
-
-**(e) Regulations and Limitations.—** The Secretary of Defense shall prescribe regulations to carry out this section.
-
-**(f) Definitions.—** In this section:
-
-(1) The term “Major Range and Test Facility Installation” means a test and evaluation installation under the jurisdiction of the Department of Defense and designated as a Major Range and Test Facility Installation by the Secretary.
-
-(2) The term “direct costs” includes the cost of—
-
-  (A) labor, material, facilities, utilities, equipment, supplies, and any other resources damaged or consumed during test or evaluation activities or maintained for a particular commercial entity; and
-
-  (B) construction specifically performed for a commercial entity to conduct test and evaluation activities.
+## § 2681. Renumbered § 4175]
 
 ### Statutory Notes
 
-#### Transfer of Section
-Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1844(b)(1), Jan. 1, 2021, 134 Stat. 4151, 4245, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 307 of this title, as added by section 1844(a) of Pub. L. 116–283, inserted after the table of sections, and redesignated as [section 4144 of this title](./chapter-307-research-and-development-centers-and-facilities.md#section-4144). See Effective Date of 2021 Amendment note below.
-
 #### Prior Provisions
-A prior section, added Pub. L. 87–651, title II, § 209(a), Sept. 7, 1962, 76 Stat. 523; amended Pub. L. 88–174, title V, § 508, Nov. 7, 1963, 77 Stat. 326; Pub. L. 96–513, title V, § 511(93), Dec. 12, 1980, 94 Stat. 2928, related to construction or acquisition of family housing and community facilities in foreign countries, prior to repeal by Pub. L. 97–214, §§ 7(1), 12(a), July 12, 1982, 96 Stat. 173, 176, effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date.
-
-#### Amendments
-1998—Subsec. (g). Pub. L. 105–261, § 820(a), struck out heading and text of subsec. (g). Text read as follows: “The authority provided to the Secretary of Defense by subsection (a) shall terminate on September 30, 2002.”
-
-Subsec. (h). Pub. L. 105–261, § 820(b), struck out heading and text of subsec. (h). Text read as follows: “Not later than March 1, 1998, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report identifying existing and proposed procedures to ensure that the use of Major Range and Test Facility Installations by commercial entities does not compete with private sector test and evaluation services.”
-
-1997—Subsec. (g). Pub. L. 105–85, § 842(a), substituted “2002” for “1998”.
-
-Subsec. (h). Pub. L. 105–85, § 842(b), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows:
-
-“(h) Report.—Not later than January 1, 1998, the Secretary of Defense shall submit to Congress a report describing the number and purposes of contracts entered into under subsection (a) and evaluating the extent to which the authority under this section is exercised to open Major Range and Test Facility Installations to commercial test and evaluation activities.”
-
-#### Effective Date of 2021 Amendment
-Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+A prior section 2681, added Pub. L. 87–651, title II, § 209(a), Sept. 7, 1962, 76 Stat. 523; amended Pub. L. 88–174, title V, § 508, Nov. 7, 1963, 77 Stat. 326; Pub. L. 96–513, title V, § 511(93), Dec. 12, 1980, 94 Stat. 2928, related to construction or acquisition of family housing and community facilities in foreign countries, prior to repeal by Pub. L. 97–214, §§ 7(1), 12(a), July 12, 1982, 96 Stat. 173, 176, effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date.
 
 
 <a id="section-2682"></a>
@@ -2219,7 +2183,9 @@ Subsec. (d)(5). Pub. L. 110–181, § 2824(b), added par. (5).
 
   (D) A description of any sharing of costs by the United States and eligible entities under subsection (d) during the preceding year, including a description of each agreement under this section providing for the sharing of such costs and a statement of the eligible entity or entities with which the United States is sharing such costs.
 
-  (E) Such recommendations as the Secretary of Defense considers appropriate for legislative or administrative action in order to improve the efficiency and effectiveness of actions taken pursuant to agreements under this section.
+  (E) Information concerning the activities undertaken pursuant to the Sentinel Landscapes Partnership established under section 317 of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91; [10 U.S.C. 2684a](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2684a) note).
+
+  (F) Such recommendations as the Secretary of Defense considers appropriate for legislative or administrative action in order to improve the efficiency and effectiveness of actions taken pursuant to agreements under this section.
 
 **(h) Interagency Cooperation in Conservation and Resilience Programs to Avoid or Reduce Adverse Impacts on Military Installation Resilience and Military Readiness Activities.—** In order to facilitate interagency cooperation and enhance the effectiveness of actions that will protect the environment, military installation resilience, and military readiness, the recipient of funds provided pursuant to an agreement under this section or under the Sikes Act ([16 U.S.C. 670](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section670&num=0&edition=prelim) et seq.) may, with regard to the lands and waters within the scope of the agreement, use such funds to satisfy any matching funds or cost-sharing requirement of any conservation or resilience program of any Federal agency notwithstanding any limitation of such program on the source of matching or cost-sharing funds.
 
@@ -2262,6 +2228,8 @@ Subsec. (d)(1). Pub. L. 116–283, § 312(b)(2), substituted “an eligible enti
 Subsec. (d)(5)(A). Pub. L. 116–283, § 312(c)(1), inserted “or another Federal agency” after “to a State” in two places.
 
 Subsec. (d)(5)(B). Pub. L. 116–283, § 312(c)(2), added subpar. (B) and struck out former subpar. (B) which related to property or interest acquired under an agreement transferred to the United States where administrative jurisdiction over the property was under a Federal official other than a Secretary concerned.
+
+Subsec. (g)(2)(E), (F). Pub. L. 117–81 added subpar. (E) and redesignated former subpar. (E) as (F).
 
 Subsec. (h). Pub. L. 116–283, § 315(b)(2), amended subsec. (h) generally. Prior to amendment, subsec. (h) related to interagency cooperation in conservation programs to avoid or reduce adverse impacts on military readiness activities.
 
@@ -2336,11 +2304,15 @@ Pub. L. 115–232, div. B, title XXVIII, § 2827(b)(2), Aug. 13, 2018, 132 Stat.
 #### Termination of 2013 Amendment
 Pub. L. 113–66, div. A, title III, § 312(b), Dec. 26, 2013, 127 Stat. 729, which provided that section 312 of Pub. L. 113–66, which amended this section, and subsec. (h) of this section would expire on Oct. 1, 2019, subject to a provision continuing any agreements existing before that date, was repealed by Pub. L. 115–91, div. A, title III, § 317(f), Dec. 12, 2017, 131 Stat. 1352.
 
+[Another section 317(f) of Pub. L. 115–91 is classified to a note set out below.]
+
 #### Termination of Reporting Requirements
 For termination, effective Dec. 31, 2021, of provisions in subsec. (g) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
 
 #### Sentinel Landscapes Partnership
-Pub. L. 115–91, div. A, title III, § 317(a)–(e), Dec. 12, 2017, 131 Stat. 1351, 1352, provided that: “(a) Establishment.—The Secretary of Defense, in coordination with the Secretary of Agriculture and the Secretary of the Interior, may establish and carry out a program to preserve sentinel landscapes. The program shall be known as the ‘Sentinel Landscapes Partnership’. “(b) Designation of Sentinel Landscapes.—The Secretary of Defense, the Secretary of Agriculture, and the Secretary of the Interior, may, as the Secretaries determine appropriate, collectively designate one or more sentinel landscapes. “(c) Coordination of Activities.—The Secretaries may coordinate actions between their departments and with other agencies and private organizations to more efficiently work together for the mutual benefit of conservation, working lands, and national defense, and to encourage private landowners to engage in voluntary land management and conservation activities that contribute to the sustainment of military installations, ranges, and airspace. “(d) Priority Consideration.—The Secretary of Agriculture and the Secretary of the Interior may give to any eligible landowner or agricultural producer within a designated sentinel landscape priority consideration for participation in any easement, grant, or assistance programs administered by that Secretary’s department. Participation in any such program pursuant to this section shall be voluntary. “(e) Definitions.—In this section:“(1) Military installation.—The term ‘military installation’ has the same meaning as provided in [section 670(1) of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section670/1&num=0&edition=prelim), United States Code. “(2) State-owned national guard installation.—The term ‘State-owned National Guard installation’ has the same meaning as provided in [section 670(3) of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section670/3&num=0&edition=prelim), United States Code. “(3) Sentinel landscape.—The term ‘sentinel landscape’ means a landscape-scale area encompassing—“(A) one or more military installations or state-owned National Guard installations and associated airspace; and “(B) the working or natural lands that serve to protect and support the rural economy, the natural environment, outdoor recreation, and the national defense test and training missions of the military- or State-owned National Guard installation or installations.”
+Pub. L. 115–91, div. A, title III, § 317(a)–(f), Dec. 12, 2017, 131 Stat. 1351, 1352, as amended by Pub. L. 117–81, div. A, title III, § 317(a), Dec. 27, 2021, 135 Stat. 1631, provided that: “(a) Establishment.—The Secretary of Defense, in coordination with the Secretary of Agriculture and the Secretary of the Interior, may establish and carry out a program to preserve and restore sentinel landscapes. The program shall be known as the ‘Sentinel Landscapes Partnership’. “(b) Designation of Sentinel Landscapes.—The Secretary of Defense, the Secretary of Agriculture, and the Secretary of the Interior, may, as the Secretaries determine appropriate, collectively designate one or more sentinel landscapes. “(c) Coordination of Activities.—The Secretaries may coordinate actions between their departments and with other agencies and private organizations to more efficiently work together for the mutual benefit of conservation, resilience, working lands, and national defense, and to encourage private landowners to engage in voluntary land management, resilience, and conservation activities that contribute to the sustainment of military installations, ranges, and airspace. “(d) Priority Consideration.—The Secretary of Agriculture and the Secretary of the Interior may give to any eligible landowner or agricultural producer within a designated sentinel landscape priority consideration for participation in any easement, grant, or assistance programs administered by that Secretary’s department. Participation by an eligible landowner or agricultural producer in any such program pursuant to this section shall be voluntary. “(e) Participation by Other Agencies.—Other Federal agencies with programs addressing conservation or resilience may, and are encouraged to—“(1) participate in the activities of the Sentinel Landscapes Partnership; and “(2) become full partners in the Sentinel Landscapes Partnership. “(f) Definitions.—In this section:“(1) Military installation.—The term ‘military installation’ has the same meaning as provided in [section 670(1) of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section670/1&num=0&edition=prelim), United States Code. “(2) State-owned national guard installation.—The term ‘State-owned National Guard installation’ has the same meaning as provided in [section 670(3) of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section670/3&num=0&edition=prelim), United States Code. “(3) Sentinel landscape.—The term ‘sentinel landscape’ means a landscape-scale area encompassing—“(A) one or more military installations or state-owned National Guard installations and associated airspace; and “(B) the working or natural lands that serve to protect and support the rural economy, the natural environment, outdoor recreation, and the national defense test and training missions of the military- or State-owned National Guard installation or installations. “(4) Resilience.—The term ‘resilience’ means the capability to avoid, prepare for, minimize the effect of, adapt to, and recover from extreme weather events, flooding, wildfire, or other anticipated or unanticipated changes in environmental conditions.”
+
+[Another section 317(f) of Pub. L. 115–91 repealed section 312(b) of Pub. L. 113–66, see Termination of 2013 Amendment note above.]
 
 
 <a id="section-2685"></a>
@@ -2568,7 +2540,7 @@ Pub. L. 99–145, title XII, § 1202(b), Nov. 8, 1985, 99 Stat. 718, provided th
 Amendment by Pub. L. 97–214 effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date, see section 12(a) of Pub. L. 97–214, set out as an Effective Date note under [section 2801 of this title](./chapter-169-military-construction-and-military-family-housing.md#section-2801).
 
 #### Short Title of 1988 Amendment
-Pub. L. 100–526, § 1, Oct. 24, 1988, 102 Stat. 2623, provided that: “This Act [amending sections 1095a, 2324, 2683, and 4415 of this title, enacting provisions set out as notes under this section and sections 154 and 2306 of this title, and amending provisions set out as notes under [section 2324 of this title](./chapter-137-procurement-generally.md#section-2324)] may be cited as the ‘Defense Authorization Amendments and Base Closure and Realignment Act’.”
+Pub. L. 100–526, § 1, Oct. 24, 1988, 102 Stat. 2623, provided that: “This Act [amending sections 1095a, 2324, 2683, and 4415 of this title, enacting provisions set out as notes under this section and sections 154 and 2306 of this title, and amending provisions set out as notes under [section 2324 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2324)] may be cited as the ‘Defense Authorization Amendments and Base Closure and Realignment Act’.”
 
 #### Effective Date of 1994 Amendments by Section 2813(d)(1) and (2) of Pub. L. 103–337
 Pub. L. 103–337, div. B, title XXVIII, § 2813(d)(3), Oct. 5, 1994, 108 Stat. 3055, provided that: “The amendments made by paragraphs (1) and (2) [amending section 209(10) of Pub. L. 100–526 and section 2910(9) of Pub. L. 101–510, set out below] shall take effect as if included in the amendments made by section 2918 of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; 107 Stat. 1927).”
@@ -3004,7 +2976,7 @@ Pub. L. 116–283, div. B, title XXVIII, § 2828, Jan. 1, 2021, 134 Stat. 4338, 
 
 (1) If more than one utility or entity referred to in subsection (a) notifies the Secretary concerned of an interest in a conveyance under such subsection, the Secretary shall carry out the conveyance through the use of competitive procedures.
 
-(2) Notwithstanding paragraph (1), the Secretary concerned may use procedures other than competitive procedures, but only in accordance with subsections (c) through (f) of [section 2304 of this title](./chapter-137-procurement-generally.md#section-2304), to select the conveyee of a utility system (or part of a utility system) under subsection (a).
+(2) Notwithstanding paragraph (1), the Secretary concerned may use procedures other than competitive procedures, but only in accordance with subsections (c) through (f) of [section 2304 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2304), to select the conveyee of a utility system (or part of a utility system) under subsection (a).
 
 (3) With respect to the solicitation process used in connection with the conveyance of a utility system (or part of a utility system) under subsection (a), the Secretary concerned shall ensure that the process is conducted in a manner consistent with the laws and regulations of the State in which the utility system is located to the extent necessary to ensure that all interested regulated and unregulated utility companies and other interested entities receive an opportunity to acquire and operate the utility system to be conveyed.
 
@@ -3097,7 +3069,7 @@ A prior section 2688, added Pub. L. 96–125, title VIII, § 804(a)(1), Nov. 26,
 #### Amendments
 2021—Subsec. (b)(2). Pub. L. 116–283, § 1883(b)(2), substituted “subsections (a), (b), (d), and (e) of section 3204” for “subsections (c) through (f) of section 2304”.
 
-Subsec. (d)(2). Pub. L. 116–283, § 2824, substituted “The Secretary concerned” for “The Secretary of Defense, or the designee of the Secretary, and “if the Secretary concerned” for “if the Secretary”.
+Subsec. (d)(2). Pub. L. 116–283, § 2824, substituted “The Secretary concerned” for “The Secretary of Defense, or the designee of the Secretary,” and “if the Secretary concerned” for “if the Secretary”.
 
 Pub. L. 116–283, § 2823(a), inserted “or the renewal of such a contract” after “paragraph (1)”, substituted “the contract or contract renewal.” for “the contract.”, and inserted at end “A renewal of a contract pursuant to this paragraph may be entered into only within the last five years of the existing contract term.”
 
@@ -3347,9 +3319,9 @@ A prior section 2693 was renumbered [section 2465 of this title](./chapter-146-c
 
 (1) A conservation or cultural activity eligible for the program that the Secretary establishes under subsection (a) is any activity—
 
-  (A) that has regional or Department of Defense-wide significance and that involves more than one military department;
+  (A) that has regional or Department of Defense-wide significance and that involves more than one military department or involves a sentinel landscape;
 
-  (B) that is necessary to meet legal requirements or to support military operations;
+  (B) that is necessary to meet legal requirements or to support military operations or that would contribute to maintaining or improving military installation resilience;
 
   (C) that can be more effectively managed at the Department of Defense level; and
 
@@ -3357,7 +3329,7 @@ A prior section 2693 was renumbered [section 2465 of this title](./chapter-146-c
 
 (2) Such activities include the following:
 
-  (A) The development of ecosystem-wide land management plans.
+  (A) The development of ecosystem-wide land management plans or nature-based climate resilience plans.
 
   (B) The conduct of wildlife studies to ensure the safety and sustainability of military operations.
 
@@ -3369,17 +3341,35 @@ A prior section 2693 was renumbered [section 2465 of this title](./chapter-146-c
 
   (F) The implementation of ecosystem-wide land management plans—
 
-    (i) for a single ecosystem that encompasses at least two non-contiguous military installations, if those military installations are not all under the administrative jurisdiction of the same Secretary of a military department; and
+    (i) for a single ecosystem—
 
-    (ii) providing synergistic benefits unavailable if the installations acted separately.
+      (I) that encompasses at least two non-contiguous military installations, if those military installations are not all under the administrative jurisdiction of the same Secretary of a military department; and
+
+      (II) providing synergistic benefits unavailable if the installations acted separately; or
+
+    (ii) for one or more ecosystems within a sentinel landscape.
 
 **(c) Cooperative Agreements.—** The Secretary may negotiate and enter into cooperative agreements with public and private agencies, organizations, institutions, individuals, or other entities to carry out the program established under subsection (a).
 
 **(d) Effect on Other Laws.—** Nothing in this section shall be construed or interpreted as preempting any otherwise applicable Federal, State, or local law or regulation relating to the management of natural and cultural resources on military installations.
 
+**(e) Sentinel Landscape Defined.—** In this section, the term “sentinel landscape” has the meaning given that term in section 317(f) of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91; [10 U.S.C. 2684a](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2684a) note).
+
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (b)(1)(A). Pub. L. 117–81, § 317(c)(1)(A)(i), inserted “or involves a sentinel landscape” before semicolon.
+
+Subsec. (b)(1)(B). Pub. L. 117–81, § 317(c)(1)(A)(ii), inserted “or that would contribute to maintaining or improving military installation resilience” before semicolon.
+
+Subsec. (b)(2)(A). Pub. L. 117–81, § 317(c)(1)(B)(i), inserted “or nature-based climate resilience plans” before period.
+
+Subsec. (b)(2)(F)(i). Pub. L. 117–81, § 317(c)(1)(B)(ii)(I), inserted a dash after “single ecosystem”, designated remaining existing provisions as subcl. (I), redesignated provisions of existing cl. (ii) as subcl. (II) of cl. (i), and realigned margins.
+
+Subsec. (b)(2)(F)(ii). Pub. L. 117–81, § 317(c)(1)(B)(ii)(II), added cl. (ii). Former cl. (ii) redesignated cl. (i)(II).
+
+Subsec. (e). Pub. L. 117–81, § 317(c)(2), added subsec. (e).
+
 2011—Subsec. (b)(2)(B). Pub. L. 112–81, § 2814(1), inserted “and sustainability” after “safety”.
 
 Subsec. (b)(2)(F). Pub. L. 112–81, § 2814(2), added subpar. (F).

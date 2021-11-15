@@ -2,7 +2,7 @@
 title: 10
 chapter: '173'
 heading: ENERGY SECURITY
-section_count: 23
+section_count: 25
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -142,6 +142,28 @@ source: >-
 
 (3) In this subsection, the term “microgrid” means an integrated energy system consisting of interconnected loads and energy resources that, if necessary, can be removed from the local utility grid and function as an integrated, stand-alone system.
 
+**(i) Assessment of Life-cycle Costs and Performance of Potential Energy Resilience Projects.—**
+
+(1) Subject to the availability of appropriations, the Secretary of Defense shall develop and institute a process to ensure that the Department of Defense, when evaluating energy resilience measures, uses analytical tools that are accurate and effective in projecting the costs and performance of such measures.
+
+(2) Analytical tools used under paragraph (1) shall be—
+
+  (A) designed to—
+
+    (i) provide an accurate projection of the costs and performance of the energy resilience measure being analyzed;
+
+    (ii) be used without specialized training; and
+
+    (iii) produce resulting data that is understandable and usable by the typical source selection official;
+
+  (B) consistent with standards and analytical tools commonly applied by the Department of Energy and by commercial industry;
+
+  (C) adaptable to accommodate a rapidly changing technological environment;
+
+  (D) peer reviewed for quality and precision and measured against the highest level of development for such tools; and
+
+  (E) periodically reviewed and updated, but not less frequently than once every three years.
+
 ### Statutory Notes
 
 #### Codification
@@ -151,6 +173,8 @@ Section 312 of Pub. L. 115–91 amended subsec. (c) of this section, and section
 2021—Subsec. (h). Pub. L. 116–283, § 2825(a), added subsec. (h) containing pars. (1) and (3).
 
 Subsec. (h)(2). Pub. L. 116–283, § 2825(b)(1), added par. (2).
+
+Subsec. (i). Pub. L. 117–81 added subsec. (i).
 
 2019—Subsec. (e)(1), (2). Pub. L. 116–92, § 320(b)(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
@@ -211,13 +235,25 @@ Pub. L. 111–84, § 2842(a), (b), designated existing provisions as par. (1), r
 #### Termination of Reporting Requirements
 For termination, effective Dec. 31, 2021, of provisions in subsecs. (a) and (b)(3) of this section requiring submittal of annual reports to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
 
+#### Energy, Water, and Waste Net-Zero Requirement for Major Military Installations
+Pub. L. 117–81, div. A, title III, § 319(a), (d), Dec. 27, 2021, 135 Stat. 1633, 1634, provided that: “(a) Requirement.—The Secretary of Defense shall improve military installation efficiency, performance, and management by ensuring that at least 10 percent of major military installations achieve energy net-zero and water or waste net-zero by fiscal year 2035. “(d) Major Military Installation Defined.—In this section, the term ‘major military installation’ has the meaning given to the term ‘large site’ in the most recent version of the Department of Defense Base Structure Report issued before the date of the enactment of this Act [Dec. 27, 2021].”
+
+#### Long-Duration Demonstration Initiative and Joint Program
+Pub. L. 117–81, div. A, title III, § 321, Dec. 27, 2021, 135 Stat. 1635, provided that: “(a) Establishment of Initiative.—Not later than March 1, 2022, the Secretary of Defense shall establish a demonstration initiative composed of demonstration projects focused on the development of long-duration energy storage technologies. “(b) Selection of Projects.—To the maximum extent practicable, in selecting demonstration projects to participate in the demonstration initiative under subsection (a), the Secretary of Defense shall—“(1) ensure a range of technology types; “(2) ensure regional diversity among projects; and “(3) consider bulk power level, distribution power level, behind-the-meter, microgrid (grid-connected or islanded mode), and off-grid applications. “(c) Joint Program.—“(1) Establishment.—As part of the demonstration initiative under subsection (a), the Secretary of Defense, in consultation with the Secretary of Energy, shall establish within the Department of Defense a joint program to carry out projects—“(A) to demonstrate promising long-duration energy storage technologies at different scales to promote energy resiliency; and “(B) to help new, innovative long-duration energy storage technologies become commercially viable. “(2) Memorandum of understanding.—Not later than 180 days after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of Defense shall enter into a memorandum of understanding with the Secretary of Energy to administer the joint program. “(3) Infrastructure.—In carrying out the joint program, the Secretary of Defense and the Secretary of Energy shall—“(A) use existing test-bed infrastructure at—“(i) installations of the Department of Defense; and “(ii) facilities of the Department of Energy; and “(B) develop new infrastructure for identified projects, if appropriate. “(4) Goals and metrics.—The Secretary of Defense and the Secretary of Energy shall develop goals and metrics for technological progress under the joint program consistent with energy resilience and energy security policies. “(5) Selection of projects.—“(A) In general.—To the maximum extent practicable, in selecting projects to participate in the joint program, the Secretary of Defense and the Secretary of Energy may—“(i) ensure that projects are carried out under conditions that represent a variety of environments with different physical conditions and market constraints; and “(ii) ensure an appropriate balance of— “(I) larger, operationally-scaled projects, adapting commercially-proven technology that meets military service defined requirements; and “(II) smaller, lower-cost projects. “(B) Priority.—In carrying out the joint program, the Secretary of Defense and the Secretary of Energy shall give priority to demonstration projects that—“(i) make available to the public project information that will accelerate deployment of long-duration energy storage technologies that promote energy resiliency; and “(ii) will be carried out as field demonstrations fully integrated into the installation grid at an operational scale.”
+
+#### Pilot Program To Test New Software To Track Emissions at Certain Military Installations
+Pub. L. 117–81, div. A, title III, § 322, Dec. 27, 2021, 135 Stat. 1636, provided that: “(a) In General.—The Secretary of Defense may conduct a pilot program (to be known as the ‘Installations Emissions Tracking Program’) to evaluate the feasibility and effectiveness of software and emerging technologies and methodologies to track real-time emissions from military installations and installation assets. “(b) Goals.—The goals of the Installations Emissions Tracking Program shall be—“(1) to evaluate the capabilities of software and emerging technologies and methodologies to effectively track emissions in real time; and “(2) to reduce energy costs and increase efficiencies. “(c) Locations.—If the Secretary conducts the Installations Emissions Tracking Program, the Secretary shall select, for purposes of the Program, four major military installations located in different geographical regions of the United States.”
+
+#### Department of Defense Plan To Reduce Greenhouse Gas Emissions
+Pub. L. 117–81, div. A, title III, § 323, Dec. 27, 2021, 135 Stat. 1636, provided that: “(a) Plan Required.—Not later than September 30, 2022, the Secretary of Defense shall submit to Congress a plan to reduce the greenhouse gas emissions of the Department of Defense. “(b) Briefings.—The Secretary shall provide to the Committees on Armed Services of the House of Representatives and the Senate annual briefings on the progress of the Department of Defense toward meeting science-based emissions targets in the plan required by subsection (a).”
+
 #### Improvement of the Operational Energy Capability Improvement Fund of the Department of Defense
 Pub. L. 116–283, div. A, title III, § 324, Jan. 1, 2021, 134 Stat. 3523, provided that: “(a) Management of the Operational Energy Capability Improvement Fund.—The Assistant Secretary of Defense for Energy, Installations, and Environment shall exercise authority, direction, and control over the Operational Energy Capability Improvement Fund of the Department of Defense (in this section referred to as the ‘OECIF’). “(b) Alignment and Coordination With Related Programs.—“(1) Realignment of oecif.—Not later than 60 days after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of Defense shall realign the OECIF under the Assistant Secretary of Defense for Energy, Installations, and Environment, with such realignment to include personnel positions adequate for the mission of the OECIF. “(2) Better coordination with related programs.—The Assistant Secretary shall ensure that the placement under the authority of the Assistant Secretary of the OECIF along with the Strategic Environmental Research Program, the Environmental Security Technology Certification Program, and the Operational Energy Prototyping Program is utilized to advance common goals of the Department, promote organizational synergies, and avoid unnecessary duplication of effort. “(c) Program for Operational Energy Prototyping.—“(1) In general.—Commencing not later than 90 days after the date of the enactment of this Act, the Secretary of Defense, through the Assistant Secretary of Defense for Energy, Installations, and Environment, shall carry out a program for the demonstration of technologies related to operational energy prototyping, including demonstration of operational energy technology and validation prototyping. “(2) Operation of program.—The Secretary shall ensure that the program under paragraph (1) operates in conjunction with the OECIF to promote the transfer of innovative technologies that have successfully established proof of concept for use in production or in the field. “(3) Program elements.—In carrying out the program under paragraph (1) the Secretary shall—“(A) identify and demonstrate the most promising, innovative, and cost-effective technologies and methods that address high-priority operational energy requirements of the Department of Defense; “(B) in conducting demonstrations under subparagraph (A)—“(i) collect cost and performance data to overcome barriers against employing an innovative technology because of concerns regarding technical or programmatic risk; and “(ii) ensure that components of the Department have time to establish new requirements where necessary and plan, program, and budget for technology transition to programs of record; “(C) utilize project structures similar to those of the OECIF to ensure transparency and accountability throughout the efforts conducted under the program; and “(D) give priority, in conjunction with the OECIF, to the development and fielding of clean technologies that reduce reliance on fossil fuels. “(4) Tool for accountability and transition.—“(A) In general.—In carrying out the program under paragraph (1) the Secretary shall develop and utilize a tool to track relevant investments in operational energy from applied research to transition to use to ensure user organizations have the full picture of technology maturation and development. “(B) Transition.—The tool developed and utilized under subparagraph (A) shall be designed to overcome transition challenges with rigorous and well-documented demonstrations that provide the information needed by all stakeholders for acceptance of the technology. “(5) Locations.—“(A) In general.—The Secretary shall carry out the testing and evaluation phase of the program under paragraph (1) at installations of the Department of Defense or in conjunction with exercises conducted by the Joint Staff, a combatant command, or a military department. “(B) Formal demonstrations.—The Secretary shall carry out any formal demonstrations under the program under paragraph (1) at installations of the Department or in operational settings to document and validate improved warfighting performance and cost savings.”
 
 #### Improved Electrical Metering of Department of Defense Infrastructure Supporting Critical Missions
 Pub. L. 116–283, div. B, title XXVIII, § 2826, Jan. 1, 2021, 134 Stat. 4334, provided that: “(a) Options To Improve Electrical Metering.—The Secretary of Defense and the Secretaries of the military departments shall improve the metering of electrical energy usage of covered defense structures to accurately determine energy consumption by such a structure to increase energy efficiency and improve energy resilience, using any combination of the options specified in subsection (b) or such other methods as the Secretary concerned considers practicable. “(b) Metering Options.—Electrical energy usage options to be considered for a covered defense structure include the following:“(1) Installation of a smart meter at the electric power supply cable entry point of the covered defense structure, with remote data storage and retrieval capability using cellular communication, to provide historical energy usage data on an hourly basis to accurately determine the optimum cost effective energy efficiency and energy resilience measures for the covered defense structure. “(2) Use of an energy usage audit firm to individually meter the covered defense structure using clamp-on meters and data storage to provide year–long electric energy load profile data, particularly in the case of a covered defense structure located in climates with highly variable use based on weather or temperature changes, to accurately identify electric energy usage demand for both peak and off peak periods for a covered defense structure. “(3) Manual collection and calculation of the connected load via nameplate data survey of all the connected electrical devices for the covered defense structure and comparison of such data to the designed maximum rating of the incoming electric supply to determine the maximum electrical load for the covered defense structure. “(c) Cybersecurity.—The Secretary of Defense and the Secretaries of the military departments shall consult with the Chief Information Officer of the Department of Defense to ensure that the electrical energy metering options considered under subsection (b) do not compromise the cybersecurity of Department of Defense networks. “(d) Consideration of Partnerships.—The Secretary of Defense and the Secretaries of the military departments shall consider the use of arrangements (known as public-private partnerships) with appropriate entities outside the Government to reduce the cost of carrying out this section. “(e) Definitions.—In this section:“(1) The term ‘covered defense structure’ means any infrastructure under the jurisdiction of the Department of Defense inside the United States that the Secretary of Defense or the Secretary of the military department concerned determines—“(A) is used to support a critical mission of the Department; and “(B) is located at a military installation with base-wide resilient power. “(2) The term ‘energy resilience’ has the meaning given that term in [section 101(e)(6) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/e/6&num=0&edition=prelim), United States Code. “(f) Implementation Report.—As part of the Department of Defense energy management report to be submitted under [section 2925 of title 10](./chapter-173-energy-security.md#section-2925), United States Code, during fiscal year 2022, the Secretary of Defense shall include information on the progress being made to comply with the requirements of this section.”
 
-#### Pilot Program to Test use of Emergency Diesel Generators in a Microgrid Configuration at Certain Military Installations
+#### Pilot Program To Test Use of Emergency Diesel Generators in a Microgrid Configuration at Certain Military Installations
 Pub. L. 116–283, div. B, title XXVIII, § 2864, Jan. 1, 2021, 134 Stat. 4359, provided that: “(a) Pilot Program Authorized.—The Secretary of Defense may conduct a pilot program (to be known as the ‘Emergency Diesel Generator Microgrid Program’) to evaluate the feasibility and cost effectiveness of connecting existing diesel generators at a military installation selected pursuant to subsection (c) to create and support one or more microgrid configurations at the installation capable of providing full-scale electrical power for the defense critical facilities located at the installation during an emergency involving the loss of external electric power supply caused by an extreme weather condition, manmade intentional infrastructure damage, or other circumstance. “(b) Goals of Pilot Program.—The goals of the Emergency Diesel Generator Microgrid Program are—“(1) to test assumptions about lower operating and maintenance costs, parts interchangeability, lower emissions, lower fuel usage, increased resiliency, increased reliability, and reduced need for emergency diesel generators; and “(2) to establish design criteria that could be used to build and sustain emergency diesel generator microgrids at other military installations. “(c) Pilot Program Locations.—As the locations to conduct the Emergency Diesel Generator Microgrid Program, the Secretary of Defense shall select two major military installations located in different geographical regions of the United States that the Secretary determines—“(1) are defense critical electric infrastructure sites or contain, or are served by, defense critical electric infrastructure; “(2) contain more than one defense critical function for national defense purposes and the mission assurance of such critical defense facilities are paramount to maintaining national defense and force projection capabilities at all times; and “(3) face unique electric energy supply, delivery, and distribution challenges that, based on the geographic location of the installations and the overall physical size of the installations, adversely impact rapid electric infrastructure restoration after an interruption. “(d) Specifications of Diesel Generators and Microgrid.—“(1) Generator specifications.—The Secretary of Defense shall use existing diesel generators that are sized >/= 750kW output. “(2) Microgrid specifications.—The Secretary of Defense shall create the microgrid using commercially available and proven designs and technologies. The existing diesel generators used for the microgrid should be spaced within 1.0 to 1.5 mile of each other and, using a dedicated underground electric cable network, be tied into a microgrid configuration sufficient to supply mission critical facilities within the service area of the microgrid. A selected military installation may contain more than one such microgrid under the Emergency Diesel Generator Microgrid Program. “(e) Program Authorities.—The Secretary of Defense may use the authority under [section 2914 of title 10](./chapter-173-energy-security.md#section-2914), United States Code (known as the Energy Resilience and Conservation Investment Program), and energy savings performance contracts to conduct the Emergency Diesel Generator Microgrid Program. “(f) Definitions.—For purposes of the Emergency Diesel Generator Microgrid Program:“(1) The term ‘defense critical electric infrastructure’ has the meaning given that term in section 215A of the Federal Power Act ([16 U.S.C. 824](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section824&num=0&edition=prelim)o–1). “(2) The term ‘energy savings performance contract’ has the meaning given that term in section 804(3) of the National Energy Conservation Policy Act ([42 U.S.C. 8287c(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8287c/3&num=0&edition=prelim)). “(3) The term ‘existing diesel generators’ means diesel generators located, as of the date of the enactment of this Act [Jan. 1, 2021], at a major military installation selected as a location for the Emergency Diesel Generator Microgrid Program and intended for emergency use. “(4) The term ‘major military installation’ has the meaning given that term in [section 2864 of title 10](./chapter-169-military-construction-and-military-family-housing.md#section-2864), United States Code.”
 
 #### Pilot Program for Availability of Working-Capital Funds for Increased Combat Capability Through Energy Optimization
@@ -281,10 +317,117 @@ Pub. L. 109–364, div. A, title III, § 360(a), Oct. 17, 2006, 120 Stat. 2164, 
 #### Department of Defense Energy Efficiency Program
 Pub. L. 107–107, div. A, title III, § 317, Dec. 28, 2001, 115 Stat. 1054, directed the Secretary of Defense to carry out a program to significantly improve the energy efficiency of facilities of the Department of Defense through 2010 and to submit annual reports to the congressional defense committees through 2010 regarding the progress made toward achieving the energy efficiency goals.
 
+#### Ex. Ord. No. 13972. Promoting Small Modular Reactors for National Defense and Space Exploration
+Ex. Ord. No. 13972, Jan. 5, 2021, 86 F.R. 3727, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. Purpose. Nuclear energy is critical to United States national security. That is why I have taken a series of actions to promote its development and facilitate its use. On June 29, 2017, I announced an initiative to revive and expand the nuclear energy sector and directed a complete review of United States nuclear energy policy to help find new ways to revitalize this crucial energy resource. On July 12, 2019, I signed a Presidential Memorandum entitled “The Effect of Uranium Imports on the National Security and Establishment of the United States Nuclear Fuel Working Group,” with the goal of examining the current state of domestic nuclear fuel production and reinvigorating the nuclear fuel supply chain, consistent with United States national security and nonproliferation goals. On August 20, 2019, I signed National Security Presidential Memorandum–20, entitled “Launch of Spacecraft Containing Space Nuclear Systems,” calling for development and use of space nuclear systems to enable or enhance space exploration and operational capabilities.
+
+The purpose of this order is to take an important additional step to revitalize the United States nuclear energy sector, reinvigorate America’s space exploration program, and develop diverse energy options for national defense needs. Under this action, the United States Government will coordinate its nuclear activities to apply the benefits of nuclear energy most effectively toward American technology supremacy, including the use of small modular reactors for national defense and space exploration. This work is critical to advancing my Administration’s priorities for the United States to lead in research, technology, invention, innovation, and advanced technology development; its mission to promote and protect the United States national security innovation base; its drive to secure energy dominance; and its commitment to achieving all of these goals in a manner consistent with the highest nuclear nonproliferation standards.
+
+The United States was the first nation to invent and develop the technology to harness nuclear energy. Since the 1950s, the United States Navy has been operating and advancing transportable nuclear reactors, resulting in powerfully enhanced marine propulsion for its aircraft carriers and allowing nuclear-powered submarines to remain submerged for extended periods of time.
+
+The United States must sustain its ability to meet the energy requirements for its national defense and space exploration initiatives. The ability to use small modular reactors will help maintain and advance United States dominance and strategic leadership across the space and terrestrial domains.
+
+Sec. 2. Policy. It is the policy of the United States to promote advanced reactor technologies, including small modular reactors, to support defense installation energy flexibility and energy security, and for use in space exploration, guided by the following principles:
+
+(a) A healthy and robust nuclear energy industry is critical to the national security, energy security, and economic prosperity of the United States;
+
+(b) The United States should maintain technology supremacy for nuclear research and development, manufacturing proficiency, and security and safety; and
+
+(c) The United States Government should bolster national defense and space exploration capabilities and enable private-sector innovation of advanced reactor technologies.
+
+Sec. 3. Demonstration of Commercial Reactors to Enhance Energy Flexibility at a Defense Installation. (a) Micro-reactors have the potential to enhance energy flexibility and energy security at domestic military installations in remote locations. Accordingly, the Secretary of Defense shall, within 180 days of the date of this order [Jan. 5, 2021], establish and implement a plan to demonstrate the energy flexibility capability and cost effectiveness of a Nuclear Regulatory Commission-licensed micro-reactor at a domestic military installation.
+
+(b) If the demonstration is successful, the Secretary of Defense shall identify opportunities at domestic military installations where this capability could enhance or supplement the fulfillment of installation energy requirements. In identifying these opportunities, the Secretary of Defense shall take into account considerations that are unique to national defense needs and requirements that may not be relevant in the private sector, such as:
+
+(i) the ability to provide resilient, independent energy delivery to installations in the event that connections to an electrical grid are compromised;
+
+(ii) the ability to operate for an extended period of time without refueling;
+
+(iii) system resistance to disruption from an electro-magnetic pulse event; and
+
+(iv) system cybersecurity requirements.
+
+Sec. 4. Defense Capabilities. (a) The Department of Defense is one of the largest consumers of energy in the world, using more than 10 million gallons of fuel per day and 30,000 gigawatt-hours of electricity per year, nearly all of which is provided through civilian electrical grids. Fuel demands for a modern United States military have dramatically grown since World War II and are anticipated to continue to increase in order to support high-energy-usage military systems. In this context, nuclear power could significantly enhance national defense power capabilities.
+
+(b) The Secretary of Defense shall, in consultation with the Secretary of State, the Secretary of Commerce, the Secretary of Energy, and the Administrator of the National Aeronautics and Space Administration (NASA Administrator):
+
+(i) determine whether advanced nuclear reactors can be made to benefit Department of Defense future space power needs;
+
+(ii) pilot a transportable micro-reactor prototype;
+
+(iii) direct an analysis of alternatives for personnel, regulatory, and technical requirements to inform future decisions with respect to nuclear power usage; and
+
+(iv) direct an analysis of United States military uses for space nuclear power and propulsion technologies and an analysis of foreign adversaries’ space power and propulsion programs.
+
+Sec. 5. Space Exploration. (a) Nuclear power sources that use uranium fuel or plutonium heat sources are essential to deep space exploration and in areas where solar power is not practical. NASA uses radioisotope power systems, such as radioisotope thermoelectric generators and radioisotope heater units, to provide power and heat for deep space robotic missions. Nuclear power sources in the kilowatt range may be needed for demonstrating In-situ Resource Utilization (ISRU) and robotic exploration of permanently shadowed craters on the Moon that contain frozen water. Nuclear reactors up to 100 kilowatts may be needed to support human habitats, ISRU, other facilities, and rovers on both the Moon and Mars. Power sources in the megawatt range would be necessary for efficient, long-duration deep space propulsion. Affordable, lightweight nuclear power sources in space would enable new opportunities for scientific discovery. The sustainable exploration of the Moon, Mars, and other locations will be enhanced if small modular reactors can be deployed and operated remotely from Earth.
+
+(b) Within 180 days of the date of this order, the NASA Administrator, in consultation with heads of other executive departments and agencies (agencies), as appropriate, shall define requirements for NASA utilization of nuclear energy systems for human and robotic exploration missions through 2040 and analyze the costs and benefits of such requirements. In defining these requirements, the NASA Administrator shall take into account considerations unique to the utilization of nuclear energy systems in space, such as:
+
+(i) transportability of a reactor prior to and after deployment;
+
+(ii) thermal management in a reduced- or zero-gravity environment in a vacuum or near-vacuum;
+
+(iii) fluid transfer within reactor systems in a reduced or zero-gravity environment;
+
+(iv) reactor size and mass that can be launched from Earth and assembled in space;
+
+(v) cooling of nuclear reactors in space;
+
+(vi) electric power requirements;
+
+(vii) space safety rating to enable operations as part of human space exploration missions;
+
+(viii) period of time for which a reactor can operate without refueling; and
+
+(ix) conditioning of reactor components for use in the space environment.
+
+Sec. 6. Domestic Fuel Supply. (a) A thriving and secure domestic nuclear fuel supply chain is critical to the national interests of the United States. A viable domestic nuclear fuel supply chain not only supports defense and national security activities, but also enables the success of the commercial nuclear industry. Many advanced reactor concepts, however, will require high-assay, low-enriched uranium (HALEU), for which no domestic commercial enrichment capability currently exists. The United States must take steps to ensure a viable United States-origin HALEU supply.
+
+(b) The Secretary of Energy shall complete the Department of Energy’s ongoing 3-year, $115 million demonstration of a United States-origin enrichment technology capable of producing HALEU for use in defense-related advanced reactor applications. Within funding available for the demonstration project, the Secretary of Energy should develop a plan to promote successful transition of this technology to the private sector for commercial adoption.
+
+(c) The Secretary of Energy shall consult with the Secretary of Defense, the Director of the Office of Management and Budget, and the NASA Administrator regarding how advanced fuels and related technologies can best support implementation of sections 3, 4, and 5 of this order.
+
+Sec. 7. Common Technology Roadmap. (a) The Secretary of State, the Secretary of Defense, the Secretary of Commerce, the Secretary of Energy, and the NASA Administrator shall develop a common technology roadmap through 2030 that describes potential development programs and that coordinates, to the extent practicable, terrestrial-based advanced nuclear reactor and space-based nuclear power and propulsion efforts. Agencies shall remain responsible for funding their respective mission-unique requirements. The roadmap shall also include, at a minimum:
+
+(i) assessments of foreign nations’ space nuclear power and propulsion technological capabilities;
+
+(ii) pathways for transitioning technologies developed through Federally supported programs to private-sector activities; and
+
+(iii) other applications supporting the goals provided in section 1 of this order.
+
+(b) The roadmap shall be submitted to the President by the Director of the Office of Management and Budget, the Assistant to the President for Domestic Policy, the Director of the Office of Science and Technology Policy, the Assistant to the President for National Security Affairs, the Assistant to the President for Economic Policy, and the Executive Secretary of the National Space Council before submissions of budget proposals by the Secretary of State, the Secretary of Commerce, the Secretary of Energy, and the NASA Administrator.
+
+Sec. 8. Definitions. For purposes of this order:
+
+(a) The term “small modular reactor” refers to an advanced nuclear reactor of electric generation capacity less than 300 megawatt-electric. Because of the smaller size, small modular reactors can generally be designed for factory fabrication and modular construction to take advantage of economies of serial production and shorter construction times.
+
+(b) The term “micro-reactor” refers to a nuclear reactor of electric generation capacity less than 10 megawatt-electric that can be deployed remotely. Micro-reactors are a subset of small modular reactors and are also known as “very small modular reactors.”
+
+(c) The term “transportable micro-reactor” refers to a micro-reactor that can be moved by truck, ship, or large military transport aircraft and is capable of both rapid deployment and teardown or removal, typically with safe teardown or removal less than 1 week after 1 year of full-power operation.
+
+(d) The term “space exploration” refers to in-space scientific and resource exploration, in-space economic and industrial development, and development of associated in-space logistical infrastructure.
+
+(e) The term “national defense” refers to the protection of the United States and its interests from foreign attack or other natural danger, including phenomena occurring on Earth and in space.
+
+Sec. 9. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
+
 
 <a id="section-2912"></a>
 ## § 2912. Availability and use of energy cost savings
-**(a) Availability.—** An amount of the funds appropriated to the Department of Defense for a fiscal year that is equal to the amount of energy cost savings realized by the Department, including financial benefits resulting from shared energy savings contracts entered into under [section 2913 of this title](./chapter-173-energy-security.md#section-2913), and, in the case of operational energy, from both training and operational missions, shall remain available for obligation under subsection (b) or (c), as the case may be, until expended, without additional authorization or appropriation.
+**(a) Availability.—** An amount of the funds appropriated to the Department of Defense for a fiscal year that is equal to the amount of energy cost savings realized by the Department, including financial benefits resulting from shared energy savings contracts entered into under [section 2913 of this title](./chapter-173-energy-security.md#section-2913), and, in the case of operational energy, from both training and operational missions, shall remain available for obligation under subsection (b) or (c), as the case may be, for that fiscal year and the succeeding fiscal year, without additional authorization or appropriation.
 
 **(b) Use.—** Except as provided in subsection (c) with respect to operational energy cost savings, the Secretary of Defense shall provide that the amount that remains available for obligation under subsection (a) and the funds made available under [section 2916(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2916/b/2&num=0&edition=prelim) shall be used as follows:
 
@@ -302,10 +445,22 @@ Pub. L. 107–107, div. A, title III, § 317, Dec. 28, 2001, 115 Stat. 1054, dir
 
 **(d) Treatment of Certain Financial Incentives.—** Financial incentives received from gas or electric utilities under [section 2913 of this title](./chapter-173-energy-security.md#section-2913) shall be credited to an appropriation designated by the Secretary of Defense. Amounts so credited shall be merged with the appropriation to which credited and shall be available for the same purposes and the same period as the appropriation with which merged.
 
+**(e) Transfer of Amounts.—**
+
+(1) The Secretary of Defense may transfer amounts described in subsection (a) that remain available for obligation to other funding accounts of the Department of Defense if the purpose for which such amounts will be used is a purpose specified in subsection (b) or (c).
+
+(2) Amounts transferred to a funding account of the Department under paragraph (1) shall be available for obligation for the same period as amounts in that account.
+
+(3) At the end of each fiscal year, the Secretary of Defense shall submit to Congress a report detailing any funds transferred pursuant to paragraph (1) during that fiscal year, including a detailed description of the purpose for which such amounts have been used.
+
 ### Statutory Notes
 
 #### Amendments
-2021—Subsec. (a). Pub. L. 116–283 inserted “and, in the case of operational energy, from both training and operational missions,” after “under [section 2913 of this title](./chapter-173-energy-security.md#section-2913),”.
+2021—Subsec. (a). Pub. L. 117–81, § 315(1), substituted “for that fiscal year and the succeeding fiscal year” for “until expended”.
+
+Pub. L. 116–283 inserted “and, in the case of operational energy, from both training and operational missions,” after “under [section 2913 of this title](./chapter-173-energy-security.md#section-2913),”.
+
+Subsec. (e). Pub. L. 117–81, § 315(2), added subsec. (e).
 
 2019—Subsec. (a). Pub. L. 116–92, § 317(1), substituted “subsection (b) or (c), as the case may be,” for “subsection (b)”.
 
@@ -428,20 +583,38 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 (3) In the case of a military construction project for energy resilience or energy security, the Secretary also shall include the rationale for how the project would enhance mission assurance, support mission critical functions, and address known vulnerabilities.
 
-**(c) Relation to Certain Other Authorities.—** A project under this section may include—
+**(c) Alternative Funding Source.—**
+
+(1) In addition to the authority under [section 2805(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2805/c&num=0&edition=prelim), in carrying out a military construction project for energy resilience, energy security, or energy conservation under this section, the Secretary concerned may use amounts available for operation and maintenance for the military department concerned if the Secretary concerned submits to the congressional defense committees a notification of the decision to carry out the project using such amounts and includes in the notification—
+
+  (A) the current estimate of the cost of the project;
+
+  (B) the source of funds for the project; and
+
+  (C) a certification that deferring the project pending the availability of funds appropriated for or otherwise made available for military construction would be inconsistent with the timely assurance of energy resilience, energy security, or energy conservation for one or more critical national security functions.
+
+(2) A project carried out under this section using amounts under paragraph (1) may be carried out only after the end of the seven-day period beginning on the date on which a copy of the notification described in paragraph (1) is provided in an electronic medium pursuant to [section 480 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-480).
+
+(3) The maximum aggregate amount that the Secretary concerned may obligate from amounts available to the military department concerned for operation and maintenance in any fiscal year for projects under the authority of this subsection is $100,000,000.
+
+**(d) Relation to Certain Other Authorities.—** A project under this section may include—
 
 (1) activities related to a utility system authorized under subsections (h), (j), and (k) of section 2688 or [section 2913 of this title](./chapter-173-energy-security.md#section-2913), notwithstanding that the United States does not own the utility system covered by the project; and
 
 (2) energy-related activities included as a separate requirement in an energy savings performance contract (as defined in section 804(3) of the National Energy Conservation Policy Act ([42 U.S.C. 8287c(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8287c/3&num=0&edition=prelim))).
 
-**(d) Application to Military Construction Projects.—** This section shall apply to military construction projects covered by subsection (a) for which a Department of Defense Form 1391 is submitted to the appropriate committees of Congress in connection with the budget of the Department of Defense for fiscal year 2023 and thereafter.
+**(e) Application to Military Construction Projects.—** This section shall apply to military construction projects covered by subsection (a) for which a Department of Defense Form 1391 is submitted to the appropriate committees of Congress in connection with the budget of the Department of Defense for fiscal year 2023 and thereafter.
 
 ### Statutory Notes
 
 #### Amendments
 2021—Pub. L. 116–283, § 2805(a), amended section generally. Prior to amendment, section related to energy resilience and conservation construction projects.
 
-Subsecs. (c), (d). Pub. L. 116–283, § 2823(b), added subsec. (c) and redesignated former subsec. (c) as (d).
+Subsecs. (c), (d). Pub. L. 117–81 added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
+
+Pub. L. 116–283, § 2823(b), added subsec. (c) and redesignated former subsec. (c) as (d).
+
+Subsec. (e). Pub. L. 117–81, § 2804(1), redesignated subsec. (d) as (e).
 
 2018—Pub. L. 115–232 substituted “resilience” for “resiliency” in section catchline.
 
@@ -824,6 +997,52 @@ Section effective Oct. 1, 1982, and applicable to military construction projects
 (5) The term “installation” has the meaning given the term “military installation” in [section 2801(c)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2801/c/4&num=0&edition=prelim).
 
 
+<a id="section-2921"></a>
+## § 2921. Energy efficiency targets for data centers
+**(a) Covered Data Centers.—**
+
+(1) For each covered data center, the Secretary of Defense shall—
+
+  (A) develop a power usage effectiveness target for the data center, based on location, resiliency, industry standards, and best practices;
+
+  (B) develop a water usage effectiveness target for the data center, based on location, resiliency, industry standards, and best practices;
+
+  (C) develop other energy efficiency or water usage targets for the data center based on industry standards and best practices, as applicable to meet energy efficiency and resiliency goals;
+
+  (D) identify potential renewable or clean energy resources, or related technologies such as advanced battery storage capacity, to enhance resiliency at the data center, including potential renewable or clean energy purchase targets based on the location of the data center; and
+
+  (E) identify any statutory, regulatory, or policy barriers to meeting any target under any of subparagraphs (A) through (C).
+
+(2) The Secretary of Defense shall ensure that targets developed under paragraph (1) are consistent with guidance issued by the Secretary of Energy.
+
+(3) In this subsection, the term “covered data center” means a data center of the Department of Defense that—
+
+  (A) is one of the 50 data centers of the Department with the highest annual power usage rates; and
+
+  (B) has been established before the date of the enactment of this section.
+
+**(b) New Data Centers.—**
+
+(1) Except as provided in paragraph (2), in the case of any Department of Defense data center established on or after the date of the enactment of this section, the Secretary of Defense shall establish energy, water usage, and resiliency-related standards that the data center shall be required to meet based on location, resiliency, industry and Federal standards, and best practices. Such standards shall include—
+
+  (A) power usage effectiveness standards;
+
+  (B) water usage effectiveness standards; and
+
+  (C) any other energy or resiliency standards the Secretary determines are appropriate.
+
+(2) The Secretary may waive the requirement for a Department data center established on or after the date of the enactment of this section to meet the standards established under paragraph (1) if the Secretary—
+
+  (A) determines that such waiver is in the national security interest of the United States; and
+
+  (B) submits to the Committee on Armed Services of the House of Representatives notice of such waiver and the reasons for such waiver.
+
+### Statutory Notes
+
+#### References in Text
+The date of the enactment of this section, referred to in subsecs. (a)(3)(B) and (b), is the date of enactment of Pub. L. 117–81, which was approved Dec. 27, 2021.
+
+
 <a id="section-2922"></a>
 ## § 2922. Liquid fuels and natural gas: contracts for storage, handling, or distribution
 **(a) Authority To Contract.—** The Secretary of Defense and the Secretary of a military department may each contract for storage facilities for, or the storage, handling, or distribution of, liquid fuels or natural gas.
@@ -852,7 +1071,7 @@ In 10:2388(c), the title 31 citation is substituted on authority of Pub. L. 97�
 #### Amendments
 2017—Subsec. (b). Pub. L. 115–91 substituted “30 years” for “20 years”.
 
-2006—Pub. L. 109–364 renumbered [section 2388 of this title](./chapter-141-miscellaneous-procurement-provisions.md#section-2388) as this section.
+2006—Pub. L. 109–364 renumbered [section 2388 of this title](./chapter-141-miscellaneous-provisions-relating-to-property.md#section-2388) as this section.
 
 1994—Subsec. (a). Pub. L. 103–355 substituted “liquid fuels or natural gas” for “liquid fuels and natural gas”.
 
@@ -883,7 +1102,7 @@ Pub. L. 115–91, div. A, title VIII, § 881(b), Dec. 12, 2017, 131 Stat. 1504, 
 Amendment by Pub. L. 97–214 effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date, see section 12(a) of Pub. L. 97–214, set out as an Effective Date note under [section 2801 of this title](./chapter-169-military-construction-and-military-family-housing.md#section-2801).
 
 #### Bulk Fuel Management in United States Indo-Pacific Command Area of Responsibility
-Pub. L. 116–283, div. B, title XXVIII, § 2854, Jan. 1, 2021, 134 Stat. 4355, provided that: “(a) Designation of Responsible Organizational Element.—“(1) Designation required.—The Secretary of Defense shall designate a single organizational element of the Department of Defense to be responsible for bulk fuel management and delivery throughout the United States Indo-Pacific Command Area of Responsibility. “(2) Deadline for designation; notice.—Not later than 30 days after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of Defense shall make the designation required by paragraph (1) and notify the Committees on Armed Services of the Senate and the House of Representatives of the organizational element so designated. “(b) Bulk Fuel Management Strategy.—“(1) Strategy required.—The organizational element designated pursuant to subsection (a) shall prepare a bulk fuel management strategy for the United States Indo-Pacific Command Area of Responsibility designed to develop the required bulk fuel management infrastructure and programs to optimally support bulk fuel management in the United States Indo-Pacific Command Area of Responsibility. “(2) Additional elements.—The strategy shall include the following additional elements:“(A) A description of current organizational responsibility of bulk fuel management in the United States Indo-Pacific Command Area of Responsibility from ordering, storage, strategic transportation, and tactical transportation to the last tactical mile. “(B) A description of legacy bulk fuel management assets that can be used to support the United States Indo-Pacific Command. “(C) A description of current programs for platforms and weapon systems and research and development aimed at managing fuel constraints through decreasing demand. “(c) Coordination.—The bulk fuel management strategy required by subsection (b) shall be prepared in coordination with subject-matter experts of the United States Indo-Pacific Command, the United States Transportation Command, the Defense Logistics Agency, and the military departments. “(d) Prohibition on Certain Construction Pending Notice.—Of the funds authorized to be appropriated by this Act [see Tables for classification] or otherwise made available for fiscal year 2021 for the Navy for construction related to additional bulk fuel storage in the United States Indo-Pacific Command Area of Responsibility, not more than 50 percent may be obligated or expended before the date on which the notice required by subsection (a)(2) is submitted.”
+Pub. L. 116–283, div. B, title XXVIII, § 2854, Jan. 1, 2021, 134 Stat. 4355, as amended by Pub. L. 117–81, div. A, title III, § 352(d), Dec. 27, 2021, 135 Stat. 1655, provided that: “(a) Bulk Fuel Management Strategy.—“(1) Strategy required.—The Secretary of Defense shall prepare a bulk fuel management strategy for the United States Indo-Pacific Command Area of Responsibility designed to develop the required bulk fuel management infrastructure and programs to optimally support bulk fuel management in the United States Indo-Pacific Command Area of Responsibility. “(2) Additional elements.—The strategy shall include the following additional elements:“(A) A description of current organizational responsibility of bulk fuel management in the United States Indo-Pacific Command Area of Responsibility from ordering, storage, strategic transportation, and tactical transportation to the last tactical mile. “(B) A description of legacy bulk fuel management assets that can be used to support the United States Indo-Pacific Command. “(C) A description of current programs for platforms and weapon systems and research and development aimed at managing fuel constraints through decreasing demand. “(b) Coordination.—The bulk fuel management strategy required by subsection (a) shall be prepared in coordination with subject-matter experts of the United States Indo-Pacific Command, the United States Transportation Command, the Defense Logistics Agency, and the military departments.
 
 #### Notice of Purchase of Drop-In Fuel
 Pub. L. 113–291, div. A, title III, § 316(c), (d), Dec. 19, 2014, 128 Stat. 3339, 3340, provided that: “(c) Notice of Purchase Required.—If the Secretary of Defense intends to purchase a drop-in fuel intended for operational use with a fully burdened cost in excess of 10 percent more than the fully burdened cost of a traditional fuel available for the same purpose, the Secretary shall provide notice of such intended purchase to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] by not later than 30 days before the date on which such purchase is intended to be made. “(d) Definitions.—In this section [this note]:“(1) The term ‘drop-in fuel’ means a neat or blended liquid hydrocarbon fuel designed as a direct replacement for a traditional fuel with comparable performance characteristics and compatible with existing infrastructure and equipment. “(2) The term ‘traditional fuel’ means a liquid hydrocarbon fuel derived or refined from petroleum. “(3) The term ‘operational purposes’ means for the purposes of conducting military operations, including training, exercises, large scale demonstrations, and moving and sustaining military forces and military platforms. The term does not include research, development, testing, evaluation, fuel certification, or other demonstrations. “(4) The term ‘fully burdened cost’ means the commodity price of the fuel plus the total cost of all personnel and assets required to move and, when necessary, protect the fuel from the point at which the fuel is received from the commercial supplier to the point of use.”
@@ -915,7 +1134,7 @@ Pub. L. 96–107, title VIII, § 815, Nov. 9, 1979, 93 Stat. 817, which had auth
 
 2017—Subsec. (d). Pub. L. 115–91 added subsec. (d).
 
-2006—Pub. L. 109–364, § 2851(b)(2), renumbered [section 2394 of this title](./chapter-141-miscellaneous-procurement-provisions.md#section-2394) as this section.
+2006—Pub. L. 109–364, § 2851(b)(2), renumbered [section 2394 of this title](./chapter-141-miscellaneous-provisions-relating-to-property.md#section-2394) as this section.
 
 Subsec. (a)(1). Pub. L. 109–364, § 2851(b)(3)(C), substituted “section 2917” for “section 2689”.
 
@@ -946,7 +1165,7 @@ Section effective Oct. 1, 1982, and applicable to military construction projects
 #### Amendments
 2017—Subsec. (a). Pub. L. 115–91 substituted “subsection (e)” for “subsection (c)”.
 
-2006—Pub. L. 109–364, § 2851(b)(2), renumbered [section 2394a of this title](./chapter-141-miscellaneous-procurement-provisions.md#section-2394a) as this section.
+2006—Pub. L. 109–364, § 2851(b)(2), renumbered [section 2394a of this title](./chapter-141-miscellaneous-provisions-relating-to-property.md#section-2394a) as this section.
 
 Subsec. (a). Pub. L. 109–364, § 2851(b)(3)(D)(i), substituted “possible, suited” for “possible and will be cost effective, reliable, and otherwise suited” and “the jurisdiction of the Secretary, consistent with the energy performance goals and energy performance plan for the Department of Defense developed under [section 2911 of this title](./chapter-173-energy-security.md#section-2911), and supported by the special considerations specified in subsection (c) of such section” for “his jurisdiction”.
 
@@ -1001,7 +1220,7 @@ Executive Order Number 12661, referred to in subsec. (a), is set out under [sect
 Section 4081 of the Internal Revenue Code of 1986, referred to in subsec. (a), is classified to [section 4081 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section4081&num=0&edition=prelim), Internal Revenue Code.
 
 #### Amendments
-2006—Pub. L. 109–364 renumbered [section 2398 of this title](./chapter-141-miscellaneous-procurement-provisions.md#section-2398) as this section.
+2006—Pub. L. 109–364 renumbered [section 2398 of this title](./chapter-141-miscellaneous-provisions-relating-to-property.md#section-2398) as this section.
 
 1996—Subsec. (a). Pub. L. 104–106, § 1061(h)(1), (2)(A), redesignated subsec. (b) as (a) and struck out former subsec. (a) which read as follows: “DOD Motor Vehicles.—To the maximum extent feasible and consistent with overall defense needs and vehicle management practices prescribed by the Secretary of Defense, the Secretary shall make contracts, by competitive bid and subject to appropriations, to purchase domestically produced alcohol or alcohol-gasoline blends containing at least 10 percent domestically produced alcohol for use in motor vehicles owned or operated by the Department of Defense.”
 
@@ -1032,7 +1251,7 @@ Pub. L. 102–190, div. A, title VIII, § 841(b), Dec. 5, 1991, 105 Stat. 1448, 
 #### Amendments
 2011—Subsecs. (b), (d). Pub. L. 111–383 substituted “one or more” for “1 or more” wherever appearing.
 
-2006—Pub. L. 109–364 renumbered [section 2398a of this title](./chapter-141-miscellaneous-procurement-provisions.md#section-2398a) as this section.
+2006—Pub. L. 109–364 renumbered [section 2398a of this title](./chapter-141-miscellaneous-provisions-relating-to-property.md#section-2398a) as this section.
 
 
 <a id="section-2922e"></a>
@@ -1054,7 +1273,7 @@ Pub. L. 102–190, div. A, title VIII, § 841(b), Dec. 5, 1991, 105 Stat. 1448, 
 #### Amendments
 2011—Subsecs. (e), (f). Pub. L. 112–81 struck out subsecs. (e) and (f), which, respectively, defined “petroleum” and “defined fuel source”.
 
-2006—Pub. L. 109–364 renumbered [section 2404 of this title](./chapter-141-miscellaneous-procurement-provisions.md#section-2404) as this section.
+2006—Pub. L. 109–364 renumbered [section 2404 of this title](./chapter-141-miscellaneous-provisions-relating-to-property.md#section-2404) as this section.
 
 1999—Pub. L. 106–65, § 803(b)(1), substituted “Acquisition of certain fuel sources” for “Acquisition of petroleum and natural gas” in section catchline.
 
@@ -1104,7 +1323,7 @@ Subsec. (e). Pub. L. 103–160, § 826(c)(1), (d)(1)(C), redesignated subsec. (d
 #### Amendments
 2017—Subsec. (a). Pub. L. 115–91 substituted “subsection (e)” for “subsection (c)”.
 
-2006—Pub. L. 109–364, § 2851(b)(2), renumbered [section 2410c of this title](./chapter-141-miscellaneous-procurement-provisions.md#section-2410c) as this section.
+2006—Pub. L. 109–364, § 2851(b)(2), renumbered [section 2410c of this title](./chapter-141-miscellaneous-provisions-relating-to-property.md#section-2410c) as this section.
 
 Subsec. (a). Pub. L. 109–364, § 2851(b)(3)(E), substituted “In” for “When cost effective, in” and “if providing such a preference is consistent with the energy performance goals and energy performance plan for the Department of Defense developed under [section 2911 of this title](./chapter-173-energy-security.md#section-2911) and supported by the special considerations specified in subsection (c) of such section” for “as the case may be”.
 
@@ -1181,11 +1400,8 @@ Pub. L. 111–84, div. B, title XXVIII, § 2844(c), Oct. 28, 2009, 123 Stat. 268
 
 ### Statutory Notes
 
-#### Renumbering of Section
-Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1879(a), Jan. 1, 2021, 134 Stat. 4151, 4293, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, [section 2410q of this title](./chapter-141-miscellaneous-procurement-provisions.md#section-2410q) is renumbered as this section. See Effective Date of 2021 Amendment note below.
-
 #### Amendments
-2021—Pub. L. 116–283 renumbered [section 2410q of this title](./chapter-141-miscellaneous-procurement-provisions.md#section-2410q) as this section.
+2021—Pub. L. 116–283 renumbered [section 2410q of this title](./chapter-141-miscellaneous-provisions-relating-to-property.md#section-2410q) as this section.
 
 #### Effective Date of 2021 Amendment
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -1290,11 +1506,15 @@ In this chapter:
 
   (E) any additional information the Secretary determines relevant.
 
-(8) At the discretion of the Secretary of Defense, a classified annex, as appropriate.
+(8) A description of the effects on military readiness, and an estimate of the financial costs to the Department of Defense, reasonably attributed to adverse impacts to military installation resilience during the year preceding the submission of the report, including loss of or damage to military networks, systems, installations, facilities, and other assets and capabilities of the Department.
+
+(9) An assessment of vulnerabilities to military installation resilience.
+
+(10) At the discretion of the Secretary of Defense, a classified annex, as appropriate.
 
 **(b) Annual Report Related to Operational Energy.—**
 
-(1) Simultaneous with the annual report required by subsection (a), the Secretary of Defense, acting through the Assistant Secretary of Defense for Energy, Installations, and Environment, shall submit to the congressional defense committees a report on operational energy management and the implementation of the operational energy strategy established pursuant to [section 2926(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2926/d&num=0&edition=prelim).
+(1) Simultaneous with the annual report required by subsection (a), the Secretary of Defense, acting through the Assistant Secretary of Defense for Energy, Installations, and Environment, shall submit to the congressional defense committees a report on operational energy management and the implementation of the operational energy strategy established pursuant to section 2926(d) 11 See References in Text note below. of this title.
 
 (2) The annual report under this subsection shall address and include the following:
 
@@ -1325,8 +1545,16 @@ The Energy Policy Act of 2005, referred to in subsec. (a)(1), is Pub. L. 109–5
 
 The Energy Independence and Security Act of 2007, referred to in subsec. (a)(1), is Pub. L. 110–140, Dec. 19, 2007, 121 Stat. 1492, which enacted chapter 152 of Title 42, The Public Health and Welfare, and enacted and amended numerous other sections and notes in the Code. Section 433 of the Act amended sections 6832 and 6834 of Title 42 and enacted provisions set out as a note under [section 6834 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6834&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 17001 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17001&num=0&edition=prelim) and Tables.
 
+[Section 2926(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2926/d&num=0&edition=prelim), referred to in subsec. (b)(1), relating to operational energy strategy, was redesignated as [section 2926(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2926/e&num=0&edition=prelim).
+
 #### Amendments
-2021—Subsec. (a)(7), (8). Pub. L. 116–283 added par. (7) and redesignated former par. (7) as (8).
+2021—Subsec. (a)(7). Pub. L. 116–283, § 336(a)(2), added par. (7). Former par. (7) redesignated (8).
+
+Subsec. (a)(8). Pub. L. 117–81, § 311(i)(1)(B), added par. (8). Former par. (8) redesignated (10).
+
+Pub. L. 116–283, § 336(a)(1), redesignated par. (7) as (8).
+
+Subsec. (a)(9), (10). Pub. L. 117–81 added par. (9) and redesignated former par. (8) as (10).
 
 2019—Subsec. (a). Pub. L. 116–92, § 319(a)(1), (2), inserted “and Readiness” after “Mission Assurance” in heading and “The Secretary shall ensure that mission operators of critical facilities provide to personnel of military installations any information necessary for the completion of such report.” after “by the Secretary.” in introductory provisions.
 
@@ -1434,44 +1662,83 @@ Pub. L. 116–283, div. A, title III, § 336(b), Jan. 1, 2021, 134 Stat. 3533, p
 #### Termination of Reporting Requirements
 For termination, effective Dec. 31, 2021, of provisions of this section requiring submittal of annual reports to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
 
+#### Use of Assessment Tool
+Pub. L. 117–81, div. A, title III, § 311(i)(2), Dec. 27, 2021, 135 Stat. 1627, provided that: “The Secretary [of Defense] shall use the Climate Vulnerability and Risk Assessment Tool of the Department [of Defense] (or such successor tool) in preparing each report under [section 2925(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2925/a&num=0&edition=prelim), United States Code (as amended by paragraph (1)).”
+
 
 <a id="section-2926"></a>
 ## § 2926. Operational energy
-**(a) Operational Energy Policy.—** In carrying out [section 2911(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2911/a&num=0&edition=prelim), the Secretary of Defense shall ensure the types, availability, and use of operational energy promote the readiness of the armed forces for their military missions.
+**(a) Operational Energy Policy.—** In carrying out [section 2911(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2911/a&num=0&edition=prelim), the Secretary of Defense shall ensure the types, availability, and use of operational energy promote the readiness of the armed forces for their military missions in contested logistics environments.
 
-**(b) Authorities.—** The Secretary of Defense may—
+**(b) Responsibilities.—** The Secretary of Defense shall—
 
-(1) require the Secretary of a military department or the commander of a combatant command to assess the energy supportability of systems, capabilities, and plans;
+(1) require the Secretaries concerned and the commanders of the combatant commands to assess the energy supportability in contested logistics environments of systems, capabilities, and plans;
 
-(2) authorize the use of energy security, cost of backup power, and energy resilience as factors in the cost-benefit analysis for procurement of operational equipment; and
+(2) authorize the use of energy security, cost of backup power, supportability in contested logistics environments, and energy resilience as factors in the cost-benefit analysis for procurement of operational equipment; and
 
-(3) in selecting equipment that will use operational energy, give favorable consideration to the acquisition of equipment that enhances energy security, energy resilience, energy conservation, and reduces logistical vulnerabilities.
+(3) in selecting equipment that will use operational energy, give favorable consideration to the acquisition of equipment that enhances energy security, energy resilience, energy conservation, and reduces logistical vulnerabilities in contested logistics environments.
 
-**(c) Functions of the Assistant Secretary of Defense for Energy, Installations, and Environment.—** The Assistant Secretary of Defense for Energy, Installations, and Environment, in consultation with the heads of the appropriate Department of Defense components, shall—
+**(c) Functions of the Assistant Secretary of Defense for Energy, Installations, and Environment.—** The Assistant Secretary of Defense for Energy, Installations, and Environment, in consultation with the heads of the appropriate Department of Defense components and in coordination with the working group under subsection (d), shall—
 
-(1) oversee the operational energy activities of the Department of Defense and oversee the investments of the Department in such activities;
+(1) oversee the operational energy activities of the Department of Defense, including the activities of the working group established under subsection (d), and oversee the investments of the Department in such activities;
 
-(2) make recommendations to the Secretary regarding the policies and investments that affect the use of operational energy across the Department of Defense;
+(2) make recommendations to the Secretary regarding the policies and investments that affect the use of operational energy across the Department of Defense, taking into account the findings of the working group under subsection (d);
 
-(3) establish guidelines and recommend to the Secretary policy to improve warfighting capability through energy security and energy resilience;
+(3) establish guidelines and recommend to the Secretary policy to improve warfighting capability through energy security and energy resilience, taking into account the findings of the working group under subsection (d);
 
 (4) encourage collaboration with and leveraging of investments made by the Department of Energy, the Department of Agriculture, and other relevant Federal agencies to advance alternative fuel development to the benefit of the Department of Defense; and
 
-(5) certify the budget associated with the investment of the Department of Defense in alternative fuel activities in accordance with subsection (e)(4).
+(5) certify the budget associated with the investment of the Department of Defense in alternative fuel activities in accordance with subsection (f)(4).
 
-**(d) Operational Energy Strategy.—**
+**(d) Working Group.—**
 
-(1) The Assistant Secretary of Defense for Energy, Installations, and Environment shall be responsible for the establishment and maintenance of a department-wide transformational strategy for operational energy. The strategy shall establish near-term, mid-term, and long-term goals, performance metrics to measure progress in meeting the goals, and a plan for implementation of the strategy within the military departments, the Office of the Secretary of Defense, and the Defense Agencies.
+(1) The Secretary of Defense shall establish a working group to integrate efforts to mitigate contested logistics challenges through the reduction of operational energy demand that are carried out within each armed force, across the armed forces, and with the Office of the Secretary of Defense and to conduct other coordinated functions relating to such efforts.
 
-(2) The Secretary of each military department shall designate a senior official within each armed force under the jurisdiction of the Secretary who shall be responsible for operational energy plans and programs for that armed force. The officials so designated shall be responsible for coordinating with the Assistant Secretary and implementing initiatives pursuant to the strategy with regard to that official’s armed force.
+(2) The head of the working group under paragraph (1) shall be the Assistant Secretary of Defense for Energy, Installations, and Environment. The Assistant Secretary shall supervise the members of the working group and provide guidance to such members with respect to specific operational energy plans and programs to be carried out pursuant to the strategy under subsection (e).
 
-(3) The Chairman of the Joint Chiefs of Staff shall designate a senior official under the jurisdiction of the Chairman who shall be responsible for operational energy plans and programs for the Joint Chiefs of Staff and the Joint Staff. The official so designated shall be responsible for coordinating with the Assistant Secretary and implementing initiatives pursuant to the strategy with regard to the Joint Chiefs of Staff and the Joint Staff.
+(3) The members of the working group under paragraph (1) shall be appointed as follows:
 
-(4) By authority of the Secretary of Defense, the Assistant Secretary shall prescribe policies and procedures for the implementation of the strategy. The Assistant Secretary shall make recommendations to the Secretary of Defense and Deputy Secretary of Defense and provide guidance to the Secretaries of the military departments and the officials designated under paragraph (2) with respect to specific operational energy plans and programs to be carried out pursuant to the strategy.
+  (A) A senior official of each armed force, who shall be nominated by the Secretary concerned and confirmed by the Senate to represent such armed force.
 
-(5) Updates to the strategy required by paragraph (1) shall be submitted to the congressional defense committees as soon as practicable after the modifications to the strategy are made.
+  (B) A senior official from each geographic and functional combatant command, who shall be appointed by the commander of the respective combatant command to represent such combatant command.
 
-**(e) Budgetary and Financial Matters.—**
+  (C) A senior official under the jurisdiction of the Chairman of the Joint Chiefs of Staff, who shall be appointed by the Chairman to represent the Joint Chiefs of Staff and the Joint Staff.
+
+(4) Each member of the working group shall be responsible for carrying out operational energy plans and programs and implementing coordinated initiatives pursuant to the strategy under subsection (e) for the respective component of the Department that the member represents.
+
+(5) The duties of the working group under paragraph (1) shall be as follows:
+
+  (A) Planning for the integration of efforts to mitigate contested logistics challenges through the reduction of operational energy demand carried out within each armed force, across the armed forces, and with the Office of the Secretary of Defense.
+
+  (B) Developing recommendations regarding the strategy for operational energy under subsection (e).
+
+  (C) Developing recommendations relating to the development of, and modernization efforts for, platforms and weapons systems of the armed forces.
+
+  (D) Developing recommendations to ensure that such development and modernization efforts lead to increased lethality, extended range, and extended on-station time for tactical assets.
+
+  (E) Developing recommendations to mitigate the effects of hostile action by a near-peer adversary targeting operational energy storage and operations of the armed forces, including through the use of innovative delivery systems, distributed storage, flexible contracting, and improved automation.
+
+**(e) Operational Energy Strategy.—**
+
+(1) The Assistant Secretary of Defense for Energy, Installations, and Environment, in coordination with the working group under subsection (d), shall be responsible for the establishment and maintenance of a department-wide transformational strategy for operational energy. The strategy shall be updated every five years and shall establish near-term, mid-term, and long-term goals, performance metrics to measure progress in meeting the goals, and a plan for implementation of the strategy within each armed force, across the armed forces, and with the Office of the Secretary of Defense.
+
+(2) The strategy required under paragraph (1) shall include the following:
+
+  (A) A plan to integrate efforts to mitigate contested logistics challenges through the reduction of operational energy demand within each armed force.
+
+  (B) An assessment of how industry trends transitioning from the production of internal combustion engines to the development and production of alternative propulsion systems may affect the long-term availability of parts for military equipment, the fuel costs for such equipment, and the sustainability of such equipment.
+
+  (C) An assessment of any technologies, including electric, hydrogen, or other sustainable fuel technologies, that may reduce operational energy demand in the near-term or long-term.
+
+  (D) An assessment of how the Secretaries concerned and the commanders of the combatant commands can better plan for challenges presented by near-peer adversaries in a contested logistics environment, including through innovative delivery systems, distributed storage, flexible contracting, and improved automation.
+
+  (E) An assessment of any infrastructure investments of allied and partner countries that may affect operational energy availability in the event of a conflict with a near-peer adversary.
+
+(3) By authority of the Secretary of Defense, and taking into consideration the findings of the working group, the Assistant Secretary shall prescribe policies and procedures for the implementation of the strategy and make recommendations to the Secretary of Defense and Deputy Secretary of Defense with respect to specific operational energy plans and programs to be carried out pursuant to the strategy.
+
+(4) Not later than 30 days after the date on which the budget for fiscal year 2024 is submitted to Congress pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), and every five years thereafter, the Assistant Secretary shall submit to the congressional defense committees the strategy required under paragraph (1).
+
+**(f) Budgetary and Financial Matters.—**
 
 (1) The Assistant Secretary of Defense for Energy, Installations, and Environment shall review and make recommendations to the Secretary of Defense regarding all budgetary and financial matters relating to the operational energy strategy.
 
@@ -1501,11 +1768,13 @@ For termination, effective Dec. 31, 2021, of provisions of this section requirin
 
 (6) For each proposed budget covered by a report under paragraph (4) for which the certification of the Assistant Secretary under paragraph (3) is that the budget is adequate for implementation of the strategy, the report shall include the items set forth in subparagraphs (C), (D), and (E) of paragraph (5).
 
-**(f) Access to Initiative Results and Records.—**
+**(g) Access to Initiative Results and Records.—**
 
-(1) The Secretary of a military department shall submit to the Assistant Secretary of Defense for Energy, Installations, and Environment the results of all studies and initiatives conducted by the military department in connection with the operational energy strategy.
+(1) Each member of the working group under subsection (d) shall submit to the Assistant Secretary of Defense for Energy, Installations, and Environment the results of all studies and initiatives conducted by the respective component of the Department that the member represents for purposes of the working group in connection with the operational energy strategy.
 
-(2) The Assistant Secretary shall have access to all records and data in the Department of Defense (including the records and data of each military department) necessary in order to permit the Assistant Secretary to carry out the duties of the Assistant Secretary.
+(2) The Assistant Secretary shall have access to all records and data in the Department of Defense (including the records and data of each armed force) necessary in order to permit the Assistant Secretary to carry out the duties of the Assistant Secretary.
+
+**(h) Contested Logistics Environment Defined.—** In this section, the term “contested logistics environment” means an environment in which the armed forces engage in conflict with an adversary that presents challenges in all domains and directly targets logistics operations, facilities, and activities in the United States, abroad, or in transit from one location to the other.
 
 ### Statutory Notes
 
@@ -1513,6 +1782,38 @@ For termination, effective Dec. 31, 2021, of provisions of this section requirin
 Subsec. (c)(3) of [section 138c of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-138c), which was transferred to subsec. (a) (now (c)) of this section by Pub. L. 113–291, § 901(g)(1)(B), was based on Pub. L. 112–81, div. A, title III, § 314(a), Dec. 31, 2011, 125 Stat. 1357. Subsecs. (d) to (f) of [section 138c of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-138c), which were transferred to subsecs. (b) to (d) (now (d) to (f)), respectively, of this section by Pub. L. 113–291, § 901(g)(1)(D), were based on Pub. L. 110–417, [div. A], title IX, § 902(a), Oct. 14, 2008, 122 Stat. 4564; amended Pub. L. 111–383, div. A, title IX, § 901(b)(7)(B)–(D), Jan. 7, 2011, 124 Stat. 4320; Pub. L. 112–81, div. A, title III, § 311, Dec. 31, 2011, 125 Stat. 1351; Pub. L. 113–66, div. A, title III, § 311, Dec. 26, 2013, 127 Stat. 728.
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 117–81, § 351(a)(1), inserted “in contested logistics environments” after “missions”.
+
+Subsec. (b). Pub. L. 117–81, § 351(a)(2)(A), (B), substituted “Responsibilities” for “Authorities” in heading and “shall” for “may” in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 117–81, § 351(a)(2)(C), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “require the Secretary of a military department or the commander of a combatant command to assess the energy supportability of systems, capabilities, and plans;”.
+
+Subsec. (b)(2). Pub. L. 117–81, § 351(a)(2)(D), inserted “supportability in contested logistics environments,” after “power,”.
+
+Subsec. (b)(3). Pub. L. 117–81, § 351(a)(2)(E), inserted “in contested logistics environments” after “vulnerabilities”.
+
+Subsec. (c). Pub. L. 117–81, § 351(b)(1)(A), inserted “and in coordination with the working group under subsection (d)” after “components” in introductory provisions.
+
+Subsec. (c)(1). Pub. L. 117–81, § 351(b)(1)(B), substituted “Defense, including the activities of the working group established under subsection (d), and oversee” for “Defense and oversee”.
+
+Subsec. (c)(2). Pub. L. 117–81, § 351(b)(1)(C), inserted “, taking into account the findings of the working group under subsection (d)” after “Defense”.
+
+Subsec. (c)(3). Pub. L. 117–81, § 351(b)(1)(D), inserted “, taking into account the findings of the working group under subsection (d)” after “resilience”.
+
+Subsec. (c)(5). Pub. L. 117–81, § 351(e), substituted “subsection (f)(4)” for “subsection (e)(4)”.
+
+Subsec. (d). Pub. L. 117–81, § 351(b)(3), added subsec. (d). Former subsec. (d) redesignated (e).
+
+Subsec. (e). Pub. L. 117–81, § 351(b)(2), (c), redesignated subsec. (d) as (e) and amended it generally. Prior to amendment, subsec. related to budgetary and financial matters relating to the operational energy strategy. Section 351(c), which directed amending subsec. (e) to read as follows but omitted the subsec. designation and heading, was executed by amending the text of subsec. (e) and retaining the existing designation and heading, to reflect the probable intent of Congress.
+
+Subsecs. (f), (g). Pub. L. 117–81, § 351(b)(2), redesignated subsecs. (e) and (f) as (f) and (g), respectively.
+
+Subsec. (g)(1). Pub. L. 117–81, § 351(b)(4)(A), substituted “Each member of the working group under subsection (d)” for “The Secretary of a military department” and “conducted by the respective component of the Department that the member represents for purposes of the working group” for “conducted by the military department”.
+
+Subsec. (g)(2). Pub. L. 117–81, § 351(b)(4)(B), substituted “armed force” for “military department”.
+
+Subsec. (h). Pub. L. 117–81, § 351(d), added subsec. (h).
+
 2019—Pub. L. 116–92, § 320(c)(1), substituted “Operational energy” for “Operational energy activities” in section catchline.
 
 Subsec. (d)(1). Pub. L. 116–92, § 320(a)(1)(B), substituted “the Defense Agencies” for “Defense Agencies”.
@@ -1566,3 +1867,20 @@ Pub. L. 114–92, div. A, title X, § 1081(b), Nov. 25, 2015, 129 Stat. 1001, pr
 
 #### Termination of Reporting Requirements
 For termination, effective Dec. 31, 2021, of provisions in subsec. (c)(4) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
+
+
+<a id="section-2927"></a>
+## § 2927. Global bulk fuel management and delivery
+**(a) Responsible Element.—**
+
+(1) Beginning during the period described in paragraph (2) and permanently thereafter, the United States Transportation Command shall be the element responsible for bulk fuel management and delivery of the Department of Defense on a global basis.
+
+(2) The period described in this paragraph is the period beginning on January 1, 2023, and ending on February 1, 2023.
+
+**(b) Coordination With Defense Logistics Agency.—** In carrying out the responsibilities specified in subsection (a), the Commander of the United States Transportation Command shall coordinate with the Director of the Defense Logistics Agency.
+
+**(c) Rule of Construction.—** Except to the extent that, prior to January 1, 2023, a responsibility specified in subsection (a) was a specific function of the Defense Logistics Agency Energy, nothing under this section shall be construed as—
+
+(1) limiting any other function of the Defense Logistics Agency Energy; or
+
+(2) requiring the transfer of any function, personnel, or asset from the Defense Logistics Agency Energy to the United States Transportation Command.

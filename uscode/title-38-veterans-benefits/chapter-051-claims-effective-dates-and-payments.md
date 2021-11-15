@@ -22,7 +22,7 @@ For purposes of this chapter, the term “claimant” means any individual apply
 
   (B)
 
-    (i) The Secretary may pay benefits under chapters 13 and 15 and sections 2303,1 2307, and 5121 of this title to a survivor of a veteran who has not filed a formal claim if the Secretary determines that the record contains sufficient evidence to establish the entitlement of the survivor to such benefits.
+    (i) The Secretary may pay benefits under chapters 13 and 15 and sections 2303, 2307, and 5121 of this title to a survivor of a veteran who has not filed a formal claim if the Secretary determines that the record contains sufficient evidence to establish the entitlement of the survivor to such benefits.
 
     (ii) For purposes of this subparagraph and [section 5110 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5110), the earlier of the following dates shall be treated as the date of the receipt of the survivor’s application for benefits described in clause (i):
 
@@ -170,7 +170,7 @@ Pub. L. 104–275, title V, § 504, Oct. 9, 1996, 110 Stat. 3341, as amended by 
 
 [Pub. L. 116–315, title II, § 2002(a)(3), Jan. 5, 2021, 134 Stat. 4968, provided that: “The amendment made by paragraph (1) [amending section 504 of Pub. L. 104–275, set out above] shall not be construed to affect the license portability for physicians in effect under section 504(c) of such Act [Pub. L. 104–275] as in effect on the day before the date of the enactment of this Act [Jan. 5, 2021].” ]
 
-[Pub. L. 116–315, title II, § 2002(a)(4), Jan. 5, 2021, 134 Stat. 4968, provided that: “On the date that is three years after the date of the enactment of this Act [Jan. 5, 2021], subsection (c) of such section [section 504(c) of Pub. L. 104–275, set out above] shall read as it read on the day before the date of the enactment of this Act.]
+[Pub. L. 116–315, title II, § 2002(a)(4), Jan. 5, 2021, 134 Stat. 4968, provided that: “On the date that is three years after the date of the enactment of this Act [Jan. 5, 2021], subsection (c) of such section [section 504(c) of Pub. L. 104–275, set out above] shall read as it read on the day before the date of the enactment of this Act.” ]
 
 #### Expedited Treatment of Remanded Claims
 Pub. L. 103–446, title III, § 302, Nov. 2, 1994, 108 Stat. 4658, as amended by Pub. L. 105–368, title V, § 512(c), Nov. 11, 1998, 112 Stat. 3342, provided that Secretary of Veterans Affairs was to take necessary actions to provide for expeditious treatment, by the Board of Veterans’ Appeals and by regional offices of the Veterans Benefits Administration, of any claim that had been remanded by the Board of Veterans’ Appeals or by the United States Court of Appeals for Veterans Claims for additional development or other appropriate action, prior to repeal by Pub. L. 108–183, title VII, § 707(c), Dec. 16, 2003, 117 Stat. 2673.
@@ -810,7 +810,7 @@ Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary o
 The date of the enactment of the Honoring America’s Veterans and Caring for Camp Lejeune Families Act of 2012, referred to in subsec. (b)(2)(C), is the date of enactment of Pub. L. 112–154, which was approved Aug. 6, 2012.
 
 #### Amendments
-2021—Subsec. (j). Pub. L. 116–283 “air, or space service” for “or air service”.
+2021—Subsec. (j). Pub. L. 116–283 substituted “air, or space service” for “or air service”.
 
 2017—Subsec. (a). Pub. L. 115–55, § 2(l)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Unless specifically provided otherwise in this chapter, the effective date of an award based on an original claim, a claim reopened after final adjudication, or a claim for increase, of compensation, dependency and indemnity compensation, or pension, shall be fixed in accordance with the facts found, but shall not be earlier than the date of receipt of application therefor.”
 
@@ -930,7 +930,7 @@ Amendment by Pub. L. 87–825 effective first day of second calendar month which
 ### Statutory Notes
 
 #### Amendments
-2021—Subsec. (a)(2)(A). Pub. L. 116–283 “air, or space service” for “or air service”.
+2021—Subsec. (a)(2)(A). Pub. L. 116–283 substituted “air, or space service” for “or air service”.
 
 2017—Subsec. (d)(1). Pub. L. 115–55 substituted “award or award based on a supplemental claim” for “or reopened award”.
 

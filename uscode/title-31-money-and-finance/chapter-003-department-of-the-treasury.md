@@ -277,11 +277,11 @@ The United States Customs Service, established under section 1 of the Act of Mar
 
 The section is included to provide in subchapter I of chapter 3 of the revised title a complete list of the organizational units established by law that are in the Department of the Treasury or are subject to the direction and supervision of the Secretary of the Treasury.
 
-#### Change of Name
-Bureau of Customs redesignated United States Customs Service by Treasury Department Order 165–23, Apr. 4, 1973, eff. Aug. 1, 1973, 38 F.R. 13037.
-
 #### Transfer of Functions
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
+
+#### Change of Name
+Bureau of Customs redesignated United States Customs Service by Treasury Department Order 165–23, Apr. 4, 1973, eff. Aug. 1, 1973, 38 F.R. 13037.
 
 
 <a id="section-309"></a>
@@ -388,7 +388,7 @@ Office of Thrift Supervision abolished and functions transferred to the Board of
 
 (1) **Establishment.—** — The FinCEN Exchange is hereby established within FinCEN.
 
-(2) **Purpose.—** — The FinCEN Exchange shall facilitate a voluntary public-private information sharing partnership among law enforcement agencies, national security agencies, financial institutions, and FinCEN to—
+(2) **Purpose.—** — The FinCEN Exchange shall facilitate a voluntary public-private information sharing partnership among law enforcement agencies, national security agencies, financial institutions, other relevant private sector entities, and FinCEN to—
 
   (A) effectively and efficiently combat money laundering, terrorism financing, organized crime, and other financial crimes, including by promoting innovation and technical advances in reporting—
 
@@ -408,7 +408,7 @@ Office of Thrift Supervision abolished and functions transferred to the Board of
 
       (I) the results of those efforts; and
 
-      (II) the extent and effectiveness of those efforts, including any benefits realized by law enforcement agencies from partnering with financial institutions, which shall be consistent with standards protecting sensitive information; and
+      (II) the extent and effectiveness of those efforts, including any benefits realized by law enforcement agencies from partnering with financial institutions and other relevant private sector entities, which shall be consistent with standards protecting sensitive information; and
 
     (ii) any legislative, administrative, or other recommendations the Secretary may have to strengthen the efforts of the FinCEN Exchange.
 
@@ -424,9 +424,13 @@ Office of Thrift Supervision abolished and functions transferred to the Board of
 
 (5) **Protection of shared information.—**
 
-  (A) *Regulations.—* — FinCEN shall, as appropriate, promulgate regulations that establish procedures for the protection of information shared and exchanged between FinCEN and the private sector in accordance with this section, consistent with the capacity, size, and nature of the financial institution to which the particular procedures apply.
+  (A) *Regulations.—* — FinCEN shall, as appropriate, promulgate regulations that establish procedures for the protection of information shared and exchanged between FinCEN and the private sector in accordance with this section, consistent with the capacity, size, and nature of the financial institution or other relevant private sector entity to which the particular procedures apply.
 
-  (B) *Use of information.—* — Information received by a financial institution pursuant to this section shall not be used for any purpose other than identifying and reporting on activities that may involve the financing of terrorism, money laundering, proliferation financing, or other financial crimes.
+  (B) *Use of information.—*
+
+    (i) *Use by financial institutions.—* — Information received by a financial institution pursuant to this section shall not be used for any purpose other than identifying and reporting on activities that may involve the financing of terrorism, money laundering, proliferation financing, or other financial crimes.
+
+    (ii) *Use by other relevant private sector entities.—* — Information received by a relevant private sector entity that is not a financial institution pursuant to this section shall not be used for any purpose other than assisting a financial institution in identifying and reporting on activities that may involve the financing of terrorism, money laundering, proliferation financing, or other financial crimes, or in assisting FinCEN or another agency of the Federal Government in mitigating the risk of the financing of terrorism, money laundering, proliferation financing, or other criminal activities.
 
 (6) **Rule of construction.—** — Nothing in this subsection may be construed to create new information sharing authorities or requirements relating to the Bank Secrecy Act.
 
@@ -641,6 +645,14 @@ Subsec. (b)(2)(J) to (O). Pub. L. 116–283, § 6101(c), added subpars. (J) to (
 
 Subsec. (d). Pub. L. 116–283, § 6103(2), added subsec. (d). Former subsec. (d) redesignated (l).
 
+Subsec. (d)(2). Pub. L. 117–81, § 6101(1), inserted “other relevant private sector entities,” after “financial institutions,” in introductory provisions.
+
+Subsec. (d)(3)(A)(i)(II). Pub. L. 117–81, § 6101(2), inserted “and other relevant private sector entities” after “financial institutions”.
+
+Subsec. (d)(5)(A). Pub. L. 117–81, § 6101(3)(A), inserted “or other relevant private sector entity” after “financial institution”.
+
+Subsec. (d)(5)(B). Pub. L. 117–81, § 6101(3)(B), designated existing provisions as cl. (i), inserted cl. (i) heading, and added cl. (ii).
+
 Subsec. (e). Pub. L. 116–283, § 6105(a), added subsec. (e).
 
 Subsecs. (f), (g). Pub. L. 116–283, § 6107, added subsecs. (f) and (g).
@@ -664,7 +676,7 @@ Subsec. (d). Pub. L. 108–458, § 6101, designated existing provisions as par. 
 #### Effective Date of 2004 Amendment
 Amendment by section 6203(a) of Pub. L. 108–458 effective as if included in Pub. L. 107–56, as of the date of enactment of such Act, and no amendment made by Pub. L. 107–56 that is inconsistent with such amendment to be deemed to have taken effect, see section 6205 of Pub. L. 108–458, set out as a note under [section 1828 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1828&num=0&edition=prelim), Banks and Banking.
 
-#### Assessment of Bank Secrecy act No-action Letters
+#### Assessment of Bank Secrecy Act No-Action Letters
 Pub. L. 116–283, div. F, title LXIII, § 6305, Jan. 1, 2021, 134 Stat. 4587, provided that: “(a) Assessment.—“(1) In general.—The Director [probably means Director of FinCEN], in consultation with the Attorney General, the Federal functional regulators, State bank supervisors, State credit union supervisors, and other Federal agencies, as appropriate, shall conduct an assessment on whether to establish a process for the issuance of no-action letters by FinCEN [Financial Crimes Enforcement Network of the Department of the Treasury] in response to inquiries from persons concerning the application of the Bank Secrecy Act, the USA PATRIOT Act (Public Law 107–56; 115 Stat. 272), section 8(s) of the Federal Deposit Insurance Act ([12 U.S.C. 1818(s)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1818/s&num=0&edition=prelim)), or any other anti-money laundering or countering the financing of terrorism law (including regulations) to specific conduct, including a request for a statement as to whether FinCEN or any relevant Federal functional regulator intends to take an enforcement action against the person with respect to such conduct. “(2) Analysis.—The assessment required under paragraph (1) shall include an analysis of—“(A) a timeline for the process used to reach a final determination by FinCEN, in consultation with the relevant Federal functional regulators, in response to a request by a person for a no-action letter; “(B) whether improvements in current processes are necessary; “(C) whether a formal no-action letter process would help to mitigate or accentuate illicit finance risks in the United States; and “(D) any other matter the Secretary determines is appropriate. “(b) Report and Rulemakings.—Not later than 180 days after the date of enactment of this Act [Jan. 1, 2021], the Secretary [of the Treasury], in coordination with the Director of the Federal Bureau of Investigation, the Attorney General, the Secretary of Homeland Security, and the Federal functional regulators, shall—“(1) submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report that contains all findings and determinations made in carrying out the assessment required under subsection (a); and “(2) propose rulemakings, if appropriate, to implement the findings and determinations described in paragraph (1).”
 
 [For definition of “Federal functional regulator” as used in section 6305 of Pub. L. 116–283, set out above, see section 6003 of Pub. L. 116–283, set out as a Definitions note under [section 5311 of this title](./chapter-053-monetary-transactions.md#section-5311).]

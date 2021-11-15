@@ -365,7 +365,7 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 (3) **Notice of establishment** — The Secretaries shall publish a notice in the Federal Register when the National Parks and Federal Recreational Lands Pass is first established and available for purchase.
 
-(4) **Duration** — The National Parks and Federal Recreational Lands Pass shall be valid for a period of 12 months from the date of the issuance of the recreation pass to a passholder, except in the case of the age and disability discounted passes issued under subsection (b).
+(4) **Duration** — The National Parks and Federal Recreational Lands Pass shall be valid for a period of 12 months from the date of the issuance of the recreation pass to a passholder, except in the case of the age discount and lifetime passes issued under subsection (b).
 
 (5) **Price** — The Secretaries shall establish the price at which the National Parks and Federal Recreational Lands Pass will be sold to the public.
 
@@ -383,7 +383,7 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 (9) **Prohibition on other national recreation passes** — The Secretary may not establish any national recreation pass, except as provided in this section.
 
-**(b) Discounted passes**
+**(b) Free and discounted passes**
 
 (1) **Age discount**
 
@@ -395,13 +395,15 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
   (B) The Secretary shall issue a pass under subparagraph (A)(ii), for no additional cost, to any individual who provides evidence, under policies and guidelines determined by the Secretary, that the individual has purchased a pass under subparagraph (A)(i) for each of the 4 years prior to being issued a pass under this subparagraph.
 
-(2) **Disability discount** — The Secretary shall make the National Parks and Federal Recreational Lands Pass available, without charge and for the lifetime of the passholder, to the following:
+(2) **Lifetime passes** — The Secretary shall make the National Parks and Federal Recreational Lands Pass available, without charge and for the lifetime of the passholder, to the following:
 
   (A) Any United States citizen or person domiciled in the United States who has been medically determined to be permanently disabled, within the meaning of the term “disability” under [section 12102 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12102&num=0&edition=prelim), if the citizen or person provides adequate proof of the disability and such citizenship or residency.
 
-  (B) Any veteran who has been found to have a service-connected disability under title 38.
+  (B) Any veteran who provides adequate proof of military service as determined by the Secretary.
 
-(3) **Gold Star Families parks pass** — The Secretary shall make the National Parks and Federal Recreational Lands Pass available, at no cost, to members of Gold Star Families who meet the eligibility requirements of section 3.2 of Department of Defense Instruction 1348.36 (or a successor instruction).
+  (C) Any member of a Gold Star Family who meets the eligibility requirements of section 3.2 of Department of Defense Instruction 1348.36 (or a successor instruction).
+
+(3) **Annual passes** — The Secretary shall make the National Parks and Federal Recreational Lands Pass available, at no cost, to members of the Armed Forces and their dependents who provide adequate proof of eligibility for such pass as determined by the Secretary.
 
 **(c) Site-specific agency passes** The Secretary may establish and charge a fee for a site-specific pass that will cover the entrance fee or standard amenity recreation fee for particular Federal recreational lands and waters for a specified period not to exceed 12 months.
 
@@ -430,13 +432,23 @@ The National Parks Omnibus Management Act of 1998, referred to in subsec. (f)(1)
 In subsec. (f), “[section 100904 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100904&num=0&edition=prelim)” substituted for “section 4 of the Land and Water Conservation Fund Act of 1965” in two places on authority of Pub. L. 113–287, § 6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
 
 #### Amendments
-2021—Subsec. (a)(7). Pub. L. 116–283, § 625(b)(1), struck out “age and disability” before “discounts”.
+2021—Subsec. (a)(4). Pub. L. 117–81, § 641(1), substituted “age discount and lifetime” for “age and disability discounted”.
+
+Subsec. (a)(7). Pub. L. 116–283, § 625(b)(1), struck out “age and disability” before “discounts”.
+
+Subsec. (b). Pub. L. 117–81, § 641(2)(A), substituted “Free and discounted” for “Discounted” in heading.
 
 Subsec. (b)(1)(A). Pub. L. 116–283, § 625(b)(2)(A), substituted “this paragraph” for “this subsection” in introductory provisions.
 
-Subsec. (b)(2). Pub. L. 116–283, § 625(b)(2)(B), which directed the substitution of “this paragraph” for “this subsection”, could not be executed due to intervening amendment by Pub. L. 116–205. See 2020 Amendment note below.
+Subsec. (b)(2). Pub. L. 117–81, § 641(2)(B)(i), substituted “Lifetime passes” for “Disability discount” in heading.
 
-Subsec. (b)(3). Pub. L. 116–283, § 625(a), added par. (3).
+Pub. L. 116–283, § 625(b)(2)(B), which directed the substitution of “this paragraph” for “this subsection”, could not be executed due to intervening amendment by Pub. L. 116–205. See 2020 Amendment note below.
+
+Subsec. (b)(2)(B), (C). Pub. L. 117–81, § 641(2)(B)(ii), added subpars. (B) and (C) and struck out former subpar. (B) which read as follows: “Any veteran who has been found to have a service-connected disability under title 38.”
+
+Subsec. (b)(3). Pub. L. 117–81, § 641(2)(C), substituted “Annual passes” for “Gold Star Families parks pass” in heading and “members of the Armed Forces and their dependents who provide adequate proof of eligibility for such pass as determined by the Secretary.” for “members of Gold Star Families who meet the eligibility requirements of section 3.2 of Department of Defense Instruction 1348.36 (or a successor instruction).”.
+
+Pub. L. 116–283, § 625(a), added par. (3).
 
 2020—Subsec. (b)(2). Pub. L. 116–205 added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The Secretary shall make the National Parks and Federal Recreational Lands Pass available, without charge, to any United States citizen or person domiciled in the United States who has been medically determined to be permanently disabled for purposes of [section 705(20)(B)(i) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section705/20/B/i&num=0&edition=prelim), if the citizen or person provides adequate proof of the disability and such citizenship or residency. The National Parks and Federal Recreational Lands Pass made available under this subsection shall be valid for the lifetime of the passholder.”
 

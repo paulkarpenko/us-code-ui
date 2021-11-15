@@ -108,8 +108,51 @@ source: >-
 
 ### Statutory Notes
 
+#### Amendments
+2021—Pub. L. 116–283, § 1813(b), renumbered [section 2305a of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2305a) as this section.
+
+Subsec. (b). Pub. L. 116–283, § 1813(b)(1), inserted dash after “or work when”, reorganized remainder of former introductory provisions of subsec. (b) into designated pars. (1) to (4), and redesignated former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (4) and realigned margins.
+
+Subsec. (c)(1), (2). Pub. L. 116–283, § 1813(b)(2)(A), (B), inserted headings.
+
+Subsec. (c)(3). Pub. L. 116–283, § 1813(b)(2)(C)(i), (ii), inserted par. heading, designated first, second, and third sentences of existing provisions as subpars. (A), (B), and (C), respectively, and inserted subpar. headings.
+
+Subsec. (c)(3)(A). Pub. L. 116–283, § 1813(b)(2)(C)(iii), inserted dash after “and include—” and reorganized remainder of subpar. (A) into designated cls. (i) to (iv).
+
+Subsec. (c)(4). Pub. L. 116–283, § 1813(b)(2)(D)(i), (ii), (iv), inserted par. heading, designated first sentence as subpar. (A), inserted subpar. heading, and redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, and designated concluding provisions as subpar. (B) and realigned margin.
+
+Subsec. (c)(4)(A)(ii). Pub. L. 116–283, § 1813(b)(2)(D)(iii), substituted “subsections (b), (c), and (d) of section 3206” for “paragraphs (2), (3), and (4) of section 2305(a)”.
+
+Subsec. (c)(4)(B). Pub. L. 116–283, § 1813(b)(2)(D)(v), substituted “clauses (i) and (ii) of subparagraph (A)” for “subparagraphs (A) and (B)”.
+
+Subsec. (c)(5). Pub. L. 116–283, § 1813(b)(2)(E), inserted heading and substituted “section 3303” for “section 2305(b)(4)”.
+
+2019—Subsec. (d)(1). Pub. L. 116–92 substituted “an indefinite” for “a indefinite”.
+
+2017—Subsec. (d). Pub. L. 115–91 substituted “If the contract value exceeds $4,000,000, the maximum number specified in the solicitation shall not exceed 5 unless—” and pars. (1) and (2) for “If the contract value exceeds $4,000,000, the maximum number specified in the solicitation shall not exceed 5 unless the head of the contracting activity, delegable to a level no lower than the senior contracting official within the contracting activity, approves the contracting officer’s justification with respect to an individual solicitation that a number greater than 5 is in the Federal Government’s interest. The contracting officer shall provide written documentation of how a maximum number exceeding 5 is consistent with the purposes and objectives of the two-phase selection procedures.”
+
+2014—Subsec. (d). Pub. L. 113–291 substituted “If the contract value exceeds $4,000,000, the maximum number specified in the solicitation shall not exceed 5 unless the head of the contracting activity, delegable to a level no lower than the senior contracting official within the contracting activity, approves the contracting officer’s justification with respect to an individual solicitation that a number greater than 5 is in the Federal Government’s interest. The contracting officer shall provide written documentation of how a maximum number exceeding 5 is consistent with the purposes and objectives of the two-phase selection procedures.” for “The maximum number specified in the solicitation shall not exceed 5 unless the agency determines with respect to an individual solicitation that a specified number greater than 5 is in the Government’s interest and is consistent with the purposes and objectives of the two-phase selection process.”
+
+2006—Subsec. (f)(2). Pub. L. 109–163, § 2807(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Any military construction contract that provides for an accelerated design effort, as authorized by paragraph (1), shall include as a condition of the contract that the liability of the United States in a termination for convenience may not exceed the actual costs incurred as of the termination date.”
+
+Subsec. (f)(4). Pub. L. 109–163, § 2807(b), substituted “2008” for “2007” wherever appearing.
+
+2004—Subsec. (f). Pub. L. 108–375 added subsec. (f).
+
+2003—Subsec. (c)(1). Pub. L. 108–178 substituted “chapter 11 of title 40” for “the Brooks Architect-Engineers Act ([40 U.S.C. 541](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section541&num=0&edition=prelim) et seq.)”.
+
+2002—Subsec. (a). Pub. L. 107–217 substituted “chapter 11 of title 40” for “the Brooks Architect-Engineers Act ([40 U.S.C. 541](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section541&num=0&edition=prelim) et seq.)”.
+
+1997—Subsec. (a). Pub. L. 105–85 substituted “(40 U.S.C.” for “(41 U.S.C.”.
+
 #### Effective Date of 2021 Amendment
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Effective Date of 2003 Amendment
+Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L. 108–178, set out as a note under [section 5334 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5334&num=0&edition=prelim), Government Organization and Employees.
+
+#### Effective Date
+For effective date and applicability of section, see section 4401 of Pub. L. 104–106, set out as an Effective Date of 1996 Amendment note under [section 2302 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2302).
 
 
 <a id="section-3242"></a>
@@ -128,8 +171,20 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 ### Statutory Notes
 
+#### Amendments
+2021—Pub. L. 116–283, § 1813(c), renumbered [section 2384a of this title](./chapter-141-miscellaneous-provisions-relating-to-property.md#section-2384a) as this section.
+
+Subsec. (a). Pub. L. 116–283, § 1813(c)(1), as amended by Pub. L. 117–81, § 1701(b)(5), inserted heading, in par. (1), substituted “section 3063” for “section 2303(a)” and reformatted subpars. (A) and (B) to add line breaks before each subpar. designation, and, in par. (2), realigned margin.
+
+Subsec. (b). Pub. L. 116–283, § 1813(c)(2), inserted heading.
+
 #### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
+
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Effective Date
+Pub. L. 98–525, title XII, § 1233(b), Oct. 19, 1984, 98 Stat. 2601, provided that: “The amendment made by subsection (a) [enacting this section] shall take effect at the end of the 180-day period beginning on the date of the enactment of this Act [Oct. 19, 1984].”
 
 
 <a id="section-3243"></a>
@@ -196,8 +251,64 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 ### Statutory Notes
 
+#### Amendments
+2021—Pub. L. 116–283, § 1813(d)(1), substituted “Encouragement of new competitors: qualification requirement” for “Encouragement of new competitors” in section catchline.
+
+Pub. L. 116–283, § 1813(d), renumbered [section 2319 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2319) as this section.
+
+Subsec. (a). Pub. L. 116–283, § 1813(d)(2), inserted heading.
+
+Subsec. (b). Pub. L. 116–283, § 1813(d)(3)(A), inserted heading.
+
+Subsec. (b)(5). Pub. L. 116–283, § 1813(d)(3)(B), substituted “paragraph (4)” for “clause (4)”.
+
+Subsec. (c). Pub. L. 116–283, § 1813(d)(4)(A), inserted heading.
+
+Subsec. (c)(1). Pub. L. 116–283, § 1813(d)(4)(A), inserted heading and struck out “of this section” after “Subsection (b)”.
+
+Subsec. (c)(2). Pub. L. 116–283, § 1813(d)(4)(C)(i), inserted heading and realigned margin.
+
+Subsec. (c)(2)(A). Pub. L. 116–283, § 1813(d)(4)(C)(i), inserted heading and substituted “Except as provided in subparagraph (C),” for “Except as provided in subparagraph (B),”.
+
+Subsec. (c)(2)(B). Pub. L. 116–283, § 1813(d)(4)(C)(iii), (iv), redesignated second sentence of subsec. (c)(2)(A) as (B) and inserted heading. Former subpar. (B) redesignated (C).
+
+Subsec. (c)(2)(B), (C). Pub. L. 116–283, § 1813(d)(4)(C)(ii), (v), redesignated subpar. (B) as (C) and inserted heading.
+
+Subsec. (c)(3) to (6). Pub. L. 116–283, § 1813(d)(4)(B), (D)–(G), inserted headings and realigned margins.
+
+Subsec. (d). Pub. L. 116–283, § 1813(d)(5)(A), inserted heading.
+
+Subsec. (d)(1). Pub. L. 116–283, § 1813(d)(5)(A), (F), inserted heading and realigned margins of subpars. (A) and (B).
+
+Subsec. (d)(1)(B). Pub. L. 116–283, § 1813(d)(5)(C), inserted “subject to paragraph (2),” before “bear the cost of” and substituted “that requirement.” for “that requirement, but such costs may be borne”. Remainder of subpar. (B) redesignated par. (2).
+
+Subsec. (d)(2). Pub. L. 116–283, § 1813(d)(5)(D), (E), designated text of par. (1)(B) beginning with “only if the head” as (2), inserted heading, and inserted “Costs may be borne under paragraph (1)(B)” at beginning. Former par. (2) redesignated (3).
+
+Subsec. (d)(3). Pub. L. 116–283, § 1813(d)(5)(B), redesignated par. (2) as (3), inserted heading, and realigned margin.
+
+Subsecs. (e), (f). Pub. L. 116–283, § 1813(d)(6), (7), inserted headings.
+
+2006—Subsec. (c)(3). Pub. L. 109–364, § 130(d)(1), inserted “or ship critical safety item” after “aviation critical safety item”.
+
+Subsec. (g)(2), (3). Pub. L. 109–364, § 130(d)(2), added par. (2), redesignated former par. (2) as (3), inserted “or ship critical safety item” after “aviation critical safety item” and “, or the seaworthiness of a ship or ship equipment,” after “or equipment”, and substituted “such item” for “the item”.
+
+2003—Subsec. (c)(3). Pub. L. 108–136, § 802(d)(1), inserted “(or, in the case of a contract for the procurement of an aviation critical safety item, the head of the design control activity for such item)” after “the contracting officer”.
+
+Subsec. (g). Pub. L. 108–136, § 802(d)(2), added subsec. (g).
+
+1987—Subsec. (a). Pub. L. 100–26, § 7(k)(3), inserted “the term” after “In this section,”.
+
+Subsec. (c)(1), (3). Pub. L. 100–26, § 7(i)(4), substituted “October 19, 1984,” for “the date of the enactment of the Defense Procurement Reform Act of 1984”.
+
+Subsec. (c)(4). Pub. L. 100–26, § 7(d)(5)(A), inserted “([15 U.S.C. 637(b)(7)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section637/b/7&num=0&edition=prelim))” after “Small Business Act”.
+
+Subsec. (d)(2). Pub. L. 100–26, § 7(d)(5)(B), inserted “([15 U.S.C. 632](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632&num=0&edition=prelim))” after “Small Business Act”.
+
 #### Effective Date of 2021 Amendment
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Effective Date
+Pub. L. 98–525, title XII, § 1216(c)(2), Oct. 19, 1984, 98 Stat. 2599, provided that: “Sections 2319 [now [10 U.S.C. 3243](./chapter-223-other-provisions-relating-to-planning-and-solicitation-generally.md#section-3243)], [former] 2320, and [former] 2321 of title 10, United States Code (as added by subsection (a)), shall apply with respect to solicitations issued after the end of the one-year period beginning on the date of the enactment of this Act [Oct. 19, 1984].”
 
 
 <a id="section-3247"></a>
@@ -218,6 +329,39 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 ### Statutory Notes
 
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Revised section | Source (U.S. Code) | Source (Statutes at Large) |
+| 2381(a) 2381(b) | 5:218 (1st sentence, less 1st 16 words; and 2d sentence). 5:218 (less 1st and 2d sentences). | Apr. 10, 1878, ch. 58, 20 Stat. 36; Mar. 3, 1883, ch. 120, 22 Stat. 487; Oct. 31, 1951, ch. 654, § 2(4), 65 Stat. 706. |
+| 2381(c) | 5:218 (1st 16 words of 1st sentence) [applicability of 5:218 extended to Navy by 5:412b and 41:161 (1st sentence)]. | Feb. 19, 1948, ch. 65, § 12 (1st sentence), 62 Stat. 26. |
+
+In subsection (a)(1), the word “may” is substituted for the words “is authorized to”. The words “rules and * * * to be observed” are omitted as surplusage.
+
+In subsection (a)(2), the word “undertaking” is substituted for the words “to the effect that he or they undertake”. The words “make a contract” are inserted for clarity. The words “in the premises” are omitted as surplusage. The words “for the performance of the contract” are substituted for the words “to furnish the supplies proposed or to perform the service required”.
+
+In subsection (b), the word “duly” is omitted as surplusage. The words “with good and sufficient security for the proper fulfillment of its terms” are omitted as covered by subsection (a)(2). The words “the prescribed” are inserted before the word “bond”.
+
+Subsection (b)(1) is substituted for the words “proceed to contract with some other person to furnish the supplies or perform the services required”.
+
+In subsection (b)(2) the word “charge” is substituted for the words “forthwith cause * * * to be charged”. The words “a contract is made with the other person” are substituted for the words “he may have contracted with another party to furnish the supplies or perform the service for the whole period of the proposal”. The words “guarantor or” are omitted as surplusage. The words “this difference being” are substituted for the words “and the sum may be”. The words “of debt” are omitted, since that action no longer exists. The words “the bidder and his guarantors, jointly or severally” are substituted for the words “either or all of such persons”.
+
+In subsection (c), the words “Proceedings under this section are” are inserted for clarity. The words “unless exempted therefrom under section 481(a) of that title” are inserted to preserve the possibility of exemption of proceedings under the revised section from the provisions of the Federal Property and Administrative Services Act of 1949, as amended.
+
+#### Amendments
+2021—Pub. L. 116–283 renumbered [section 2381 of this title](./chapter-141-miscellaneous-provisions-relating-to-property.md#section-2381) as this section.
+
+2002—Subsec. (c). Pub. L. 107–217 substituted “[section 121 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section121&num=0&edition=prelim)” for “section 205 of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 486](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section486&num=0&edition=prelim))” and “[section 501(a)(2) of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section501/a/2&num=0&edition=prelim)” for “section 201(a) of that Act ([40 U.S.C. 481(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section481/a&num=0&edition=prelim))”.
+
+1994—Subsec. (a). Pub. L. 103–355 substituted “The Secretary of Defense may—
+
+“(1) prescribe regulations for the preparation, submission, and opening of bids for contracts; and”
+
+for “The Secretary of a military department may—
+
+“(1) prescribe regulations for the preparation, submission, and opening of bids for contracts with that department; and”.
+
+1984—Subsec. (c). Pub. L. 98–525 substituted “section 205 of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 486](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section486&num=0&edition=prelim))” for “[section 486 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section486&num=0&edition=prelim)” and “section 201(a) of that Act ([40 U.S.C. 481(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section481/a&num=0&edition=prelim))” for “[section 481(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section481/a&num=0&edition=prelim)”.
+
 #### Effective Date of 2021 Amendment
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
@@ -229,8 +373,35 @@ Each advocate for competition designated pursuant to [section 1705(a) of title 4
 
 ### Statutory Notes
 
+#### Prior Provisions
+A prior section 3251 was renumbered [section 7131 of this title](./chapter-713-enlistments.md#section-7131).
+
+#### Amendments
+2021—Pub. L. 116–283, § 1813(f), renumbered [section 2318 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2318) as this section and substituted “section 3063” for “section 2303(a)”.
+
+2018—Pub. L. 115–232 substituted “Each advocate for competition designated pursuant to [section 1705(a) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1705/a&num=0&edition=prelim) for” for “(b) Each advocate for competition of” and “in a position classified above GS–15 pursuant to [section 5108 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5108&num=0&edition=prelim)” for “a grade GS–16 or above under the General Schedule (or in a comparable or higher position under another schedule)” and struck out subsec. (a) which related to designation of an officer or employee of the Defense Logistics Agency to serve as the advocate for competition of the agency.
+
+2013—Subsec. (a)(2). Pub. L. 112–239 substituted “subsections (b) and (c) of section 1705” for “section 1705(b) and (c)”.
+
+2011—Subsec. (a)(1). Pub. L. 111–350, § 5(b)(17)(A), substituted “[section 1705(a) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1705/a&num=0&edition=prelim)” for “section 20(a) of the Office of Federal Procurement Policy Act ([41 U.S.C. 418(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section418/a&num=0&edition=prelim))”.
+
+Subsec. (a)(2). Pub. L. 111–350, § 5(b)(17)(B), substituted “section 1705(b) and (c) of title 41” for “sections 20(b) and 20(c) of the Office of Federal Procurement Policy Act ([41 U.S.C. 418(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section418/b&num=0&edition=prelim), (c))”.
+
+1994—Subsec. (c). Pub. L. 103–355 struck out subsec. (c) which read as follows: “Each advocate for competition of an agency of the Department of Defense shall transmit to the Secretary of Defense a report describing his activities during the preceding year. The report of each advocate for competition shall be included in the annual report of the Secretary of Defense required by section 23 of the Office of Federal Procurement Policy Act ([41 U.S.C. 419](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section419&num=0&edition=prelim)), in the form in which it was submitted to the Secretary.”
+
+1991—Subsec. (c). Pub. L. 102–25 substituted “section 23” for “section 21”.
+
+1987—Subsec. (a)(1). Pub. L. 100–26, § 7(d)(4)(A), inserted “([41 U.S.C. 418(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section418/a&num=0&edition=prelim))” after “Policy Act”.
+
+Subsec. (a)(2). Pub. L. 100–26, § 7(d)(4)(B), inserted “([41 U.S.C. 418(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section418/b&num=0&edition=prelim), (c))” after “Policy Act”.
+
+Subsec. (c). Pub. L. 100–26, § 7(d)(4)(C), inserted “([41 U.S.C. 419](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section419&num=0&edition=prelim))” after “Policy Act”.
+
 #### Effective Date of 2021 Amendment
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Effective Date
+Pub. L. 98–525, title XII, § 1216(c)(1), Oct. 19, 1984, 98 Stat. 2599, provided that: “[Section 2318 of title 10](./chapter-chapter-137-chapter-chapter-137.md#section-2318), United States Code [now [10 U.S.C. 3249](./chapter-223-other-provisions-relating-to-planning-and-solicitation-generally.md#section-3249)] (as added by subsection (a)), shall take effect on April 1, 1985.”
 
 
 <a id="section-3252"></a>
@@ -319,5 +490,94 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 ### Statutory Notes
 
+#### Prior Provisions
+A prior section 3252, added Pub. L. 110–181, div. A, title VI, § 671(a)(1), Jan. 28, 2008, 122 Stat. 181; amended Pub. L. 110–417, [div. A], title VI, § 615(b), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111–84, div. A, title VI, § 616(2), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–383, div. A, title VI, § 616(2), Jan. 7, 2011, 124 Stat. 4238, related to bonus to encourage Army personnel to refer persons for enlistment in the Army, prior to repeal by Pub. L. 114–92, div. A, title VI, § 618(a), Nov. 25, 2015, 129 Stat. 840.
+
+Another prior section 3252, act Aug. 10, 1956, ch. 1041, 70A Stat. 177, provided that temporary enlistments could be made only in the Army without specification of component, prior to repeal by Pub. L. 90–235, § 2(a)(2)(B), Jan. 2, 1968, 81 Stat. 756.
+
+A prior section 3253, acts Aug. 10, 1956, ch. 1041, 70A Stat. 177; Pub. L. 87–143, § 1(1), Aug. 17, 1961, 75 Stat. 364; Pub. L. 90–235, § 2(a)(2)(A), Jan. 2, 1968, 81 Stat. 756; Pub. L. 96–513, title V, § 512(3), Dec. 12, 1980, 94 Stat. 2929, provided that, in peace time, Army enlistment was available only to citizens and persons lawfully admitted to the United States for permanent residence, prior to repeal by Pub. L. 109–163, div. A, title V, § 542(b)(1), Jan. 6, 2006, 119 Stat. 3253.
+
+Prior sections 3254 to 3256 were repealed by Pub. L. 90–235, § 2(a)(2)(B), Jan. 2, 1968, 81 Stat. 756.
+
+Section 3254, act Aug. 10, 1956, ch. 1041, 70A Stat. 178, provided for temporary enlistments in the Army during war or emergency.
+
+Section 3255, act Aug. 10, 1956, ch. 1041, 70A Stat. 178, provided for recruiting campaigns to obtain enlistments in the Regular Army.
+
+Section 3256, act Aug. 10, 1956, ch. 1041, 70A Stat. 178, set forth qualifications for and term of enlistments in the Regular Army and the grade in which such enlistments were made.
+
+A prior section 3258 was renumbered [section 7138 of this title](./chapter-713-enlistments.md#section-7138).
+
+Prior sections 3259 to 3261 were repealed by Pub. L. 103–337, div. A, title XVI, §§ 1662(b)(3), 1691, Oct. 5, 1994, 108 Stat. 2990, 3026, effective Dec. 1, 1994.
+
+Section 3259, acts Aug. 10, 1956, ch. 1041, 70A Stat. 179; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, § 1234(a)(1), 102 Stat. 2059, related to transfers in grade of enlisted members of Army National Guard of United States to Army Reserve. See [section 12105 of this title](./chapter-1203-enlisted-members.md#section-12105).
+
+Section 3260, act Aug. 10, 1956, ch. 1041, 70A Stat. 179, provided that enlisted members of Army National Guard of United States are transferred to Army Reserve upon withdrawal as members of Army National Guard. See [section 12106 of this title](./chapter-1203-enlisted-members.md#section-12106).
+
+Section 3261, acts Aug. 10, 1956, ch. 1041, 70A Stat. 179; Sept. 2, 1958, Pub. L. 85–861, § 33(a)(20), 72 Stat. 1565; Oct. 4, 1961, Pub. L. 87–378, § 3, 75 Stat. 808, related to enlistment in Army National Guard of United States. See [section 12107 of this title](./chapter-1203-enlisted-members.md#section-12107).
+
+A prior section 3262 was renumbered [section 7142 of this title](./chapter-713-enlistments.md#section-7142).
+
+Another prior section 3262, acts Aug. 10, 1956, ch. 1041, 70A Stat. 180; Sept. 2, 1958, Pub. L. 85–861, § 1(71), 72 Stat. 1464, provided for extension of enlistment of members of the Army needing medical care or hospitalization, prior to repeal by Pub. L. 90–235, § 2(a)(2)(B), Jan. 2, 1968, 81 Stat. 756.
+
+A prior section 3263, Pub. L. 85–861, § 1(71)(B), Sept. 2, 1958, 72 Stat. 1465; Pub. L. 87–649, § 14c(4), Sept. 7, 1962, 76 Stat. 501, provided for voluntary extension of enlistments in the Army, prior to repeal by Pub. L. 90–235, § 2(a)(2)(B), Jan. 2, 1968, 81 Stat. 756.
+
+A prior section 3264, added Pub. L. 107–107, div. A, title V, § 541(a)(1), Dec. 28, 2001, 115 Stat. 1109, related to an 18-month enlistment pilot program to increase participation of prior service persons in Selected Reserve and to provide assistance in building pool of participants in Individual Ready Reserve, prior to repeal by Pub. L. 107–314, div. A, title V, § 531(c), Dec. 2, 2002, 116 Stat. 2544.
+
+Prior sections 3281 to 3283 were renumbered sections 7151 to 7153 of this title, respectively.
+
+Prior sections 3284 to 3300 were repealed by Pub. L. 96–513, title II, § 204, title VII, § 701, Dec. 12, 1980, 94 Stat. 2880, 2955, effective Sept. 15, 1981.
+
+Section 3284, act Aug. 10, 1956, ch. 1041, 70A Stat. 181, provided that appointments in commissioned grades in Regular Army be made by President, by and with the advice and consent of Senate. See [section 531 of this title](./chapter-033-original-appointments-of-regular-officers-in-grades-above-warrant-officer-grades.md#section-531).
+
+Section 3285, acts Aug. 10, 1956, ch. 1041, 70A Stat. 181; Sept. 2, 1958, Pub. L. 85–861, § 1(72), 72 Stat. 1465, prescribed eligibility requirements for original appointment in a commissioned grade in Regular Army, except in Medical Corps or Dental Corps and except a graduating cadet. See [section 532 of this title](./chapter-033-original-appointments-of-regular-officers-in-grades-above-warrant-officer-grades.md#section-532).
+
+Section 3286, acts Aug. 10, 1956, ch. 1041, 70A Stat. 181; Sept. 2, 1958, Pub. L. 85–861, § 1(73), 72 Stat. 1465, prescribed age limitations for original appointment in a commissioned grade in Regular Army, except in Medical Corps, Dental Corps, Army Nurse Corps, or Army Medical Specialist Corps. See [section 532 of this title](./chapter-033-original-appointments-of-regular-officers-in-grades-above-warrant-officer-grades.md#section-532).
+
+Section 3287, acts Aug. 10, 1956, ch. 1041, 70A Stat. 182; Sept. 2, 1958, Pub. L. 85–861, § 1(74), 72 Stat. 1466, provided service credit, in the discretion of the Secretary of the Army, for a person originally appointed in a commissioned grade in the Regular Army, except the Medical Corps, Dental Corps, Army Nurse Corps, or Army Medical Specialist Corps, for the purpose of determining grade, position on a promotion list, seniority in his grade in the Regular Army, and eligibility for promotion, with appointment and service credit restrictions on persons who were cadets at the United States Military, Naval, or Air Force Academies but were not graduated, and a disallowance of service credits under this section for persons who graduated from one of these Academies. See [section 533 of this title](./chapter-033-original-appointments-of-regular-officers-in-grades-above-warrant-officer-grades.md#section-533).
+
+Section 3288, acts Aug. 10, 1956, ch. 1041, 70A Stat. 183; Aug. 21, 1957, Pub. L. 85–155, title I, § 101(7), 71 Stat. 376; Sept. 2, 1958, Pub. L. 85–861, § 1(75), 72 Stat. 1466, provided for determination of grade of a person originally appointed as a commissioned officer in Regular Army, except in Medical Corps, Dental Corps, Army Nurse Corps, or Army Medical Specialist Corps. See [section 533 of this title](./chapter-033-original-appointments-of-regular-officers-in-grades-above-warrant-officer-grades.md#section-533).
+
+Section 3289, act Aug. 10, 1956, ch. 1041, 70A Stat. 183, provided that no person be originally appointed as a first lieutenant in Regular Army in Medical Corps until he passes an examination of his professional fitness before an examining board composed of at least three officers of Medical Corps designated by Secretary of the Army. See [section 532 of this title](./chapter-033-original-appointments-of-regular-officers-in-grades-above-warrant-officer-grades.md#section-532).
+
+Section 3290, act Aug. 10, 1956, ch. 1041, 70A Stat. 183, provided that an original appointment in Regular Army in Medical Service Corps be made only in grade of second lieutenant and from members of Regular Army, reserves not in an inactive status, or graduates of an accredited school of pharmacy or optometry, or of a school or college who hold a degree in a science allied to medicine or any other degree approved by Surgeon General. See [section 532 of this title](./chapter-033-original-appointments-of-regular-officers-in-grades-above-warrant-officer-grades.md#section-532).
+
+Section 3291, acts Aug. 10, 1956, ch. 1041, 70A Stat. 183; Aug. 21, 1957, Pub. L. 85–155, title I, § 101(8), 71 Stat. 376; Sept. 30, 1966, Pub. L. 89–609, § 1(4), 80 Stat. 852, prescribed eligibility requirements for an original appointment in Regular Army in Army Nurse Corps or Army Medical Specialist Corps in grade of second lieutenant, first lieutenant, and captain and provided for determination of years of service creditable for promotion. See [section 532 of this title](./chapter-033-original-appointments-of-regular-officers-in-grades-above-warrant-officer-grades.md#section-532).
+
+Section 3292, act Aug. 10, 1956, ch. 1041, 70A Stat. 184, provided that original appointments in commissioned grades in Regular Army in Judge Advocate General’s Corps be made from officers of Regular Army in other branches, reserve commissioned officers assigned to Judge Advocate General’s Corps, or qualified civilian graduates of accredited law schools. See [section 532 of this title](./chapter-033-original-appointments-of-regular-officers-in-grades-above-warrant-officer-grades.md#section-532).
+
+Section 3293, act Aug. 10, 1956, ch. 1041, 70A Stat. 184, provided that no person in civil life be originally appointed as a chaplain in Regular Army unless he has passed an examination prescribed by President as to his morale, mental, and physical qualifications. See [section 532 of this title](./chapter-033-original-appointments-of-regular-officers-in-grades-above-warrant-officer-grades.md#section-532).
+
+Section 3294, acts Aug. 10, 1956, ch. 1041, 70A Stat. 184; Sept. 2, 1958, Pub. L. 85–861, § 1(77), 72 Stat. 1467, provided that original appointments in Regular Army be made in grades of first lieutenant through colonel in Medical Corps or Dental Corps as the Army requires, from qualified doctors of medicine, osteopathy, or dentistry who are citizens of the United States and have such other qualifications as the Secretary of the Army prescribes, with specific additional eligibility requirements for a doctor of osteopathy, and that officers so appointed receive service credit for determining grade, position on a promotion list, seniority in grade in Regular Army, and eligibility for promotion. See [section 532 of this title](./chapter-033-original-appointments-of-regular-officers-in-grades-above-warrant-officer-grades.md#section-532).
+
+Section 3295, acts Aug. 10, 1956, ch. 1041, 70A Stat. 184; Sept. 2, 1958, Pub. L. 85–861, § 1(78), 72 Stat. 1467, provided for determination of the place on a promotion list of name of each person who is originally appointed in a commissioned grade in Regular Army and whose name is to be carried on a promotion list, other than persons appointed in Medical Corps, Dental Corps, Army Nurse Corps, or Army Medical Specialist Corps. See [section 624 of this title](./chapter-036-promotion-separation-and-involuntary-retirement-of-officers-on-the-active-duty-list.md#section-624).
+
+Section 3296, acts Aug. 10, 1956, ch. 1041, 70A Stat. 184; Aug. 21, 1957, Pub. L. 85–155, title I, § 101(10), 71 Stat. 377; Aug. 6, 1958, Pub. L. 85–600, § 1(5), 72 Stat. 522; June 4, 1968, Pub. L. 90–329, 82 Stat. 170; Oct. 20, 1978, Pub. L. 95–485, title VIII, § 820(d)(2), 92 Stat. 1627; Oct. 30, 1978, Pub. L. 95–551, § 2, 92 Stat. 2069, provided for promotion lists in Regular Army for all commissioned officers in grades below brigadier general on active list, with exceptions, which officers are known as “promotion-list officers”, a separate list for Chaplains and each of the several branches of Army Medical Department, and determination of place on list upon transfer or promotion. See [section 624 of this title](./chapter-036-promotion-separation-and-involuntary-retirement-of-officers-on-the-active-duty-list.md#section-624).
+
+Section 3297, acts Aug. 10, 1956, ch. 1041, 70A Stat. 185; Aug. 21, 1957, Pub. L. 85–155, title I, § 101(11), 71 Stat. 377; July 12, 1960, Pub. L. 86–616, § 1(1), 74 Stat. 386; Oct. 20, 1978, Pub. L. 95–485, title VIII, § 820(d)(3), 92 Stat. 1627, provided for selection boards to recommend promotion-list officers and brigadier generals of Regular Army for promotion in Regular Army. See section 611 et seq. of this title.
+
+Section 3298, acts Aug. 10, 1956, ch. 1041, 70A Stat. 185; Aug. 21, 1957, Pub. L. 85–155, title I, § 101(12), 71 Stat. 377; Nov. 8, 1967, Pub. L. 90–130, § 1(10)(A), 81 Stat. 375, provided for promotion from grade of second lieutenant to first lieutenant after 3 years of service, discharge under [section 3814 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3814&num=0&edition=prelim) upon failure of promotion, and filling vacancies for first lieutenants with second lieutenants prior to completion of 3 years of service. See [section 630 of this title](./chapter-036-promotion-separation-and-involuntary-retirement-of-officers-on-the-active-duty-list.md#section-630).
+
+Section 3299, acts Aug. 10, 1956, ch. 1041, 70A Stat. 186; Aug. 21, 1957, Pub. L. 85–155, title I, § 101(13), 71 Stat. 377; Sept. 2, 1958, Pub. L. 85–861, § 33(a)(21), 72 Stat. 1565; Nov. 8, 1967, Pub. L. 90–130, § 1(10)(B), 81 Stat. 375, provided that promotion-list officers be promoted to regular grades of captain, major, and lieutenant colonel, after specified length of service or without regard to length of service in view of actual or anticipated vacancies if Secretary of the Army so directs, or be eliminated from active list under [section 3303 of this title](./chapter-241-awarding-of-contracts.md#section-3303) and a promotion-list officer who has twice been considered and not recommended for promotion to any one regular grade not be again considered for promotion under this section. See sections 631 and 632 of this title.
+
+Section 3300, acts Aug. 10, 1956, ch. 1041, 70A Stat. 186; July 12, 1960, Pub. L. 86–616, § 1(2), 74 Stat. 386, provided for selection board procedure when promotion-list officers in regular grade of first lieutenant, captain, or major are to be considered for promotion under [section 3299 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3299&num=0&edition=prelim). See section 611 et seq. of this title.
+
+#### Amendments
+2021—Pub. L. 116–283, § 1813(g), renumbered [section 2339a of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2339a) as this section.
+
+Subsec. (b)(1). Pub. L. 116–283, § 1081(a)(36), inserted “and Security” after “for Intelligence”.
+
+Subsec. (b)(3)(A). Pub. L. 116–283, § 1813(g)(1), substituted “section 3204(e)(2)” for “section 2304(f)(3)”.
+
+Subsec. (e)(2)(A). Pub. L. 116–283, § 1813(g)(2), substituted “section 3243” for “section 2319”.
+
+Subsec. (e)(3)(A). Pub. L. 116–283, § 1813(g)(3)(A), substituted “section 3206(a)(3)(B)” for “section 2305(a)(1)(C)(ii)” and “section 3206(b)(1)” for “section 2305(a)(2)(A)”.
+
+Subsec. (e)(3)(B). Pub. L. 116–283, § 1813(g)(3)(B), substituted “section 3406(d)(3)” for “section 2304c(d)(3)”.
+
+2019—Subsec. (e)(5). Pub. L. 116–92 substituted “section 3552(b)(6)” for “section 3542(b)”.
+
+#### Change of Name
+Under Secretary of Defense for Intelligence redesignated and references deemed to refer to Under Secretary of Defense for Intelligence and Security, see section 1621(a) of Pub. L. 116–92, set out as a note under [section 137 of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-137).
+
 #### Effective Date of 2021 Amendment
-Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+Amendment by section 1813(g) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).

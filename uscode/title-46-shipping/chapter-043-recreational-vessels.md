@@ -147,9 +147,10 @@ Section 4304 requires the regulation and control of the importation of nonconfor
 
 
 <a id="section-4305"></a>
-## § 4305. Exemptions
+## § 4305. Exemptions and equivalents
+**(a) Exemptions.—** If the Secretary considers that recreational vessel safety will not be adversely affected, the Secretary may issue an exemption from this chapter or a regulation prescribed under this chapter.
 
-If the Secretary considers that recreational vessel safety will not be adversely affected, the Secretary may issue an exemption from this chapter or a regulation prescribed under this chapter.
+**(b) Equivalents.—** The Secretary may accept a substitution for associated equipment performance or other safety standards for a recreational vessel if the substitution provides an equivalent level of safety.
 
 ### Statutory Notes
 
@@ -159,6 +160,9 @@ If the Secretary considers that recreational vessel safety will not be adversely
 | 4305 | 46:1458 |
 
 Section 4305 permits the Secretary to grant appropriate exemptions from the requirements of this chapter when recreational vessel safety will not be adversely affected.
+
+#### Amendments
+2021—Pub. L. 116–283 substituted “Exemptions and equivalents” for “Exemptions” in section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsec. (b).
 
 
 <a id="section-4306"></a>
@@ -307,19 +311,27 @@ Subsec. (c)(2)(A), (B). Pub. L. 107–295, § 433(1), substituted “10” for �
 
   (B) at the time of the order or authorization, the director, officer, or executive employee advised the Secretary in writing of acting under this subparagraph and subparagraph (A).
 
-**(c)** A person violating any other provision of this chapter or other regulation prescribed under this chapter is liable to the Government for a civil penalty of not more than $1,000. If the violation involves the operation of a vessel, the vessel also is liable in rem for the penalty.
+**(c)** A person violating [section 4312(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section4312/b&num=0&edition=prelim) is liable to the United States Government for a civil penalty of not more than—
 
-**(d)** When a civil penalty of not more than $200 has been assessed under this chapter, the Secretary may refer the matter of collection of the penalty directly to the United States magistrate judge of the jurisdiction in which the person liable may be found for collection procedures under supervision of the district court and under an order issued by the court delegating this authority under [section 636(b) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section636/b&num=0&edition=prelim).
+(1) $100 for the first offense;
 
-**(e)** The district courts of the United States have jurisdiction to restrain a violation of this chapter, or to restrain the sale, offer for sale, introduction or delivery for introduction into interstate commerce, or importation into the United States, of a recreational vessel or associated equipment that the court decides does not conform to safety standards of the Government. A civil action under this subsection shall be brought by filing a petition by the Attorney General for the Government. When practicable, the Secretary shall give notice to a person against whom an action for injunctive relief is contemplated and provide the person with an opportunity to present views and, except for a knowing and willful violation, shall provide the person with a reasonable opportunity to achieve compliance. The failure to give notice and provide the opportunity does not preclude the granting of appropriate relief by the district court.
+(2) $250 for the second offense; and
 
-**(f)** A person is not subject to a penalty under this chapter if the person—
+(3) $500 for any subsequent offense.
+
+**(d)** A person violating any other provision of this chapter or other regulation prescribed under this chapter is liable to the Government for a civil penalty of not more than $1,000. If the violation involves the operation of a vessel, the vessel also is liable in rem for the penalty.
+
+**(e)** When a civil penalty of not more than $200 has been assessed under this chapter, the Secretary may refer the matter of collection of the penalty directly to the United States magistrate judge of the jurisdiction in which the person liable may be found for collection procedures under supervision of the district court and under an order issued by the court delegating this authority under [section 636(b) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section636/b&num=0&edition=prelim).
+
+**(f)** The district courts of the United States have jurisdiction to restrain a violation of this chapter, or to restrain the sale, offer for sale, introduction or delivery for introduction into interstate commerce, or importation into the United States, of a recreational vessel or associated equipment that the court decides does not conform to safety standards of the Government. A civil action under this subsection shall be brought by filing a petition by the Attorney General for the Government. When practicable, the Secretary shall give notice to a person against whom an action for injunctive relief is contemplated and provide the person with an opportunity to present views and, except for a knowing and willful violation, shall provide the person with a reasonable opportunity to achieve compliance. The failure to give notice and provide the opportunity does not preclude the granting of appropriate relief by the district court.
+
+**(g)** A person is not subject to a penalty under this chapter if the person—
 
 (1) establishes that the person did not have reason to know, in exercising reasonable care, that a recreational vessel or associated equipment does not conform with the applicable safety standards of the Government or that the person was not advised by the Secretary or the manufacturer of that vessel, equipment or component that the vessel, equipment or component contains a defect which creates a substantial risk of personal injury to the public; or
 
 (2) holds a certificate issued by the manufacturer of that recreational vessel or associated equipment to the effect that the recreational vessel or associated equipment conforms to all applicable recreational vessel safety standards of the Government, unless the person knows or reasonably should have known that the recreational vessel or associated equipment does not so conform.
 
-**(g)** Compliance with this chapter or standards, regulations, or orders prescribed under this chapter does not relieve a person from liability at common law or under State law.
+**(h)** Compliance with this chapter or standards, regulations, or orders prescribed under this chapter does not relieve a person from liability at common law or under State law.
 
 ### Statutory Notes
 
@@ -341,6 +353,8 @@ A person violating any of the prohibited acts specified in section 4307(a)(1) is
 This section also contains an alternate procedure for the collection of a civil penalty of not more than $200 through a U.S. magistrate in lieu of the civil penalty procedures of the Coast Guard. It also directs the district courts of the United States to restrain the sale, offer for sale, introduction or delivery for introduction into interstate commerce, or importation of a recreational vessel or associated equipment that does not conform to applicable safety standards. Finally, compliance with this chapter or standards, regulations, or orders does not relieve a person from liability at common law or under State law.
 
 #### Amendments
+2021—Subsecs. (c) to (h). Pub. L. 116–283 added subsec. (c) and redesignated former subsecs. (c) to (g) as (d) to (h), respectively.
+
 2006—Subsec. (b)(1). Pub. L. 109–241 inserted a space after “4307(a)”.
 
 2004—Subsec. (b). Pub. L. 108–293 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “A person violating [section 4307(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section4307/a/1&num=0&edition=prelim) is liable to the United States Government for a civil penalty of not more than $2,000, except that the maximum civil penalty may be not more than $100,000 for a related series of violations. When a corporation violates section 4307(a)(1), any director, officer, or executive employee of the corporation who knowingly and willfully ordered, or knowingly and willfully authorized, a violation is individually liable to the Government for the penalty, in addition to the corporation. However, the director, officer, or executive employee is not liable individually under this subsection if the director, officer, or executive employee can demonstrate by a preponderance of the evidence that—
@@ -353,19 +367,32 @@ This section also contains an alternate procedure for the collection of a civil 
 
 Subsec. (f)(1). Pub. L. 98–557, § 8(c), inserted provisions relating to advice by the Secretary or manufacturer of the vessel, equipment or component respecting defects creating substantial risk of personal injury to the public.
 
+#### Effective Date of 2021 Amendment
+Pub. L. 116–283, div. G, title LVXXXIII [LXXXIII], § 8316(c), Jan. 1, 2021, 134 Stat. 4700, provided that: “The amendments made in subsections (a) and (b) [amending this section and [section 4312 of this title](./chapter-043-recreational-vessels.md#section-4312)] shall take effect 90 days after the date of the enactment of this section [Jan. 1, 2021], unless the Commandant [of the Coast Guard], prior to the date that is 90 days after the date of the enactment of this section, determines that the use requirement enacted in subsection (a) [see [section 4312(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section4312/b&num=0&edition=prelim)] would not promote recreational boating safety.”
+
 #### Change of Name
 “United States magistrate judge” substituted for “United States magistrate” in subsec. (d) pursuant to section 321 of Pub. L. 101–650, set out as a note under [section 631 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section631&num=0&edition=prelim), Judiciary and Judicial Procedure.
 
 
 <a id="section-4312"></a>
 ## § 4312. Engine cut-off switches
-**(a) Installation Requirement.—** A manufacturer, distributor, or dealer that installs propulsion machinery and associated starting controls on a covered recreational vessel shall equip such vessel with an engine cut-off switch and engine cut-off switch link that meet American Boat and Yacht Council Standard A–33, as in effect on the date of the enactment of the Coast Guard Authorization Act of 2017.
+**(a) Installation Requirement.—** A manufacturer, distributor, or dealer that installs propulsion machinery and associated starting controls on a covered recreational vessel shall equip such vessel with an engine cut-off switch and engine cut-off switch link that meet American Boat and Yacht Council Standard A–33, as in effect on the date of the enactment of the Frank LoBiondo Coast Guard Authorization Act of 2018 (Public Law 115–282).
 
-**(b) Education on Cut-off Switches.—** The Commandant of the Coast Guard, through the National Boating Safety Advisory Committee established under section 15105, may initiate a boating safety program on the use and benefits of cut-off switches for recreational vessels.
+**(b) Use Requirement.—**
 
-**(c) Availability of Standard for Inspection.—**
+(1) **In general.—** — An individual operating a covered recreational vessel shall use an engine cut-off switch link while operating on plane or above displacement speed.
 
-(1) **In general.—** — Not later than 90 days after the date of the enactment of this section, the Commandant shall transmit American Boat and Yacht Council Standard A–33, as in effect on the date of enactment of the Coast Guard Authorization Act of 2017, to—
+(2) **Exceptions.—** — The requirement under paragraph (1) shall not apply if—
+
+  (A) the main helm of the covered vessel is installed within an enclosed cabin; or
+
+  (B) the vessel does not have an engine cut-off switch and is not required to have one under subsection (a).
+
+**(c) Education on Cut-off Switches.—** The Commandant of the Coast Guard, through the National Boating Safety Advisory Committee established under section 15105, may initiate a boating safety program on the use and benefits of cut-off switches for recreational vessels.
+
+**(d) Availability of Standard for Inspection.—**
+
+(1) **In general.—** — Not later than 90 days after the date of the enactment of this section, the Commandant shall transmit American Boat and Yacht Council Standard A–33, as in effect on the date of enactment of the Frank LoBiondo Coast Guard Authorization Act of 2018 (Public Law 115–282), to—
 
   (A) the Committee on Transportation and Infrastructure of the House of Representatives;
 
@@ -377,7 +404,7 @@ Subsec. (f)(1). Pub. L. 98–557, § 8(c), inserted provisions relating to advic
 
 (2) **Availability.—** — The standard submitted under paragraph (1) shall be kept on file and available for public inspection at such Coast Guard office and the National Archives and Records Administration.
 
-**(d) Definitions.—** In this section:
+**(e) Definitions.—** In this section:
 
 (1) **Covered recreational vessel.—** — The term “covered recreational vessel” means a recreational vessel that is—
 
@@ -398,9 +425,17 @@ Subsec. (f)(1). Pub. L. 98–557, § 8(c), inserted provisions relating to advic
 ### Statutory Notes
 
 #### References in Text
-The date of enactment of the Coast Guard Authorization Act of 2017, referred to in subsecs. (a) and (c)(1), probably means the date of enactment of the Frank LoBiondo Coast Guard Authorization Act of 2018, Pub. L. 115–282, which enacted this section and was approved Dec. 4, 2018. No act with the title “Coast Guard Authorization Act of 2017” has been enacted.
+The date of enactment of the Frank LoBiondo Coast Guard Authorization Act of 2018, referred to in subsecs. (a) and (d)(1), is the date of enactment of Pub. L. 115–282, which was approved Dec. 4, 2018.
 
 The date of the enactment of this section, referred to in subsec. (c)(1), is the date of enactment of Pub. L. 115–282, which was approved Dec. 4, 2018.
+
+#### Amendments
+2021—Pub. L. 116–283, § 8507(a)(2), substituted “Frank LoBiondo Coast Guard Authorization Act of 2018 (Public Law 115–282)” for “Coast Guard Authorization Act of 2017” in two places.
+
+Subsecs. (b) to (e). Pub. L. 116–283, § 8316(a), added subsec. (b) and redesignated former subsecs. (b) to (d) as (c) to (e), respectively.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective 90 days after Jan. 1, 2021, unless the Commandant of the Coast Guard, prior to the date that is 90 days after Jan. 1, 2021, determines that the use requirement enacted in section 8316(a) of Pub. L. 116–283 (amending this section) would not promote recreational boating safety. See section 8316(c) of Pub. L. 116–283, set out as a note under [section 4311 of this title](./chapter-043-recreational-vessels.md#section-4311).
 
 #### Effective Date
 Pub. L. 115–282, title V, § 503(c), Dec. 4, 2018, 132 Stat. 4271, provided that: “[Section 4312 of title 46](./chapter-043-recreational-vessels.md#section-4312), United States Code, as amended [probably should be “enacted”] by this section, shall take effect one year after the date of the enactment of this Act [Dec. 4, 2018].”

@@ -332,9 +332,6 @@ It is unlawful to parade, stand, or move in processions or assemblages in the Su
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 6135 | 40:13k. | Aug. 18, 1949, ch. 479, § 6, 63 Stat. 617. |
 
-#### Constitutionality
-For information regarding constitutionality of section 6 of act Aug. 18, 1949, cited as the source of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
-
 
 <a id="section-6136"></a>
 ## § 6136. Suspension of prohibitions against use of Supreme Court grounds

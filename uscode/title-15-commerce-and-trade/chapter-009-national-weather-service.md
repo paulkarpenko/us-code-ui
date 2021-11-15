@@ -133,9 +133,6 @@ The Secretary of Commerce shall have charge of the forecasting of weather, the i
 #### Repeals
 Pub. L. 85–726, title XIV, § 1401(b), Aug. 23, 1958, 72 Stat. 806, repealed act June 23, 1938, ch. 601, title XI, § 1107(k), 52 Stat. 1029, cited to the credit of this section.
 
-#### Transfer of Functions
-Office of Chief of Weather Bureau abolished and functions transferred to Secretary of Commerce by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318. Reorg. Plan No. IV of 1940 transferred Weather Bureau from Department of Agriculture to Department of Commerce. For further details, see notes set out under [section 311 of this title](./chapter-009-national-weather-service.md#section-311).
-
 #### Use of Funds for Hurricane Reconnaissance Program
 Pub. L. 108–199, div. B, title II, § 203, Jan. 23, 2004, 118 Stat. 72, provided in part that: “Hereafter, none of the funds made available by this or any other Act for the National Oceanic and Atmospheric Administration may be used to support the hurricane reconnaissance aircraft and activities that are under the control of the United States Air Force or the United States Air Force Reserve.”
 
@@ -196,6 +193,9 @@ Pub. L. 98–8, title I, § 104, Mar. 24, 1983, 97 Stat. 34, provided that: “S
 #### Study of Thunderstorms and Atmospheric Disturbances; Reports; Expenditures; Cooperation of Other Departments
 Act June 16, 1948, ch. 483, 62 Stat. 470, as amended Oct. 19, 1980, Pub. L. 96–470, title I, § 103(b), 94 Stat. 2237, provided: “That the Chief of the Weather Bureau is authorized and directed to study fully and thoroughly the internal structure of thunderstorms, hurricanes, cyclones, and other severe atmospheric disturbances, particularly the degree of turbulence within such storms and the development, maintenance, and magnitude of updrafts and downdrafts with a view to establishing methods by which the characteristics of particular thunderstorms may be forecast and methods by which the characteristics of such storms may be determined on visual observation from outside of the immediate thunderstorm area. Such study shall be concluded at the earliest practicable date and a final report submitted to Congress. “Sec. 2. The Chief of the Weather Bureau is empowered to make such expenditures at the seat of government and elsewhere as may be necessary to carry out the purposes of this Act and as from time to time may be appropriated for by Congress, including expenditures for the development and purchase of special meteorological instruments and other equipment (including motor vehicles and aircraft), without regard to the provisions of section 3709 of the Revised Statutes [now [41 U.S.C. 6101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim)]. There is hereby authorized to be appropriated such sums as are necessary for the purpose of carrying out the provisions of this Act. “Sec. 3. Any executive department or independent establishment is hereby authorized to cooperate with the Chief of the Weather Bureau in carrying out the purposes of this Act, and for such purposes may lend or transfer to the Chief of the Weather Bureau any officer or employee of such department or establishment and any property, equipment, lands, or buildings under its control.”
 
+#### Transfer of Functions
+Office of Chief of Weather Bureau abolished and functions transferred to Secretary of Commerce by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318. Reorg. Plan No. IV of 1940 transferred Weather Bureau from Department of Agriculture to Department of Commerce. For further details, see notes set out under [section 311 of this title](./chapter-009-national-weather-service.md#section-311).
+
 
 <a id="section-313a"></a>
 ## § 313a. Establishment of meteorological observation stations in the Arctic region
@@ -204,11 +204,11 @@ In order to improve the weather forecasting service of the United States and to 
 
 ### Statutory Notes
 
-#### Transfer of Functions
-Office of Chief of Weather Bureau abolished and functions transferred to Secretary of Commerce by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318. For further details, see notes set out under [section 311 of this title](./chapter-009-national-weather-service.md#section-311).
-
 #### Appropriations
 Section 2 of act Feb. 12, 1946, authorized appropriation of necessary funds to carry out provisions of this section.
+
+#### Transfer of Functions
+Office of Chief of Weather Bureau abolished and functions transferred to Secretary of Commerce by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318. For further details, see notes set out under [section 311 of this title](./chapter-009-national-weather-service.md#section-311).
 
 
 <a id="section-313b"></a>
@@ -386,6 +386,7 @@ The Secretary of Commerce, in cooperation with the United States Postal Service,
 #### Transfer of Functions
 “United States Postal Service” substituted in text for “Postmaster General” pursuant to Pub. L. 91–375, § 4(a), Aug. 12, 1970, 84 Stat. 773, set out as a note under [section 201 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section201&num=0&edition=prelim), Postal Service, which abolished the office of Postmaster General of the Post Office Department and transferred its functions to the United States Postal Service.
 
+#### Transfer of Functions
 Office of Chief of Weather Bureau abolished and functions transferred to Secretary of Commerce by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318. Reorg. Plan No. IV of 1940 transferred Weather Bureau from Department of Agriculture to Department of Commerce. For further details, see notes set out under [section 311 of this title](./chapter-009-national-weather-service.md#section-311).
 
 
@@ -421,11 +422,6 @@ National Weather Service part-time employees, appointed by designation or otherw
 
 ### Statutory Notes
 
-#### Transfer of Functions
-“Director of the Office of Personnel Management” substituted in text for “Civil Service Commission” pursuant to Reorg. Plan No. 2 of 1978, set out under [section 1101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1101&num=0&edition=prelim), Government Organization and Employees, which transferred functions vested by statute in Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under [section 1101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1101&num=0&edition=prelim).
-
-Weather Bureau consolidated with Coast and Geodetic Survey to form new agency in Department of Commerce known as Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out as a note under [section 311 of this title](./chapter-009-national-weather-service.md#section-311). Functions of Bureau and Chief of Bureau transferred to Secretary of Commerce by Reorg. Plan. Subsequently, Environmental Science Services Administration abolished and National Oceanic and Atmospheric Administration established. By Department Organization Order 25–5A, Secretary delegated to NOAA his functions under this chapter of the Code. By order of Acting Associate Administrator of NOAA, organizational name of Weather Bureau changed to National Weather Service. For further details, see Codification note set out under [section 311 of this title](./chapter-009-national-weather-service.md#section-311).
-
 #### Similar Provisions
 Section is from the Departments of State, Justice, and Commerce Appropriation Act, 1944. Similar provisions were contained in the following appropriation acts:
 
@@ -440,6 +436,11 @@ June 30, 1939, ch. 253, title I, 53 Stat. 947.
 June 16, 1938, ch. 464, title I, 52 Stat. 718.
 
 June 29, 1937, ch. 404, 50 Stat. 403.
+
+#### Transfer of Functions
+“Director of the Office of Personnel Management” substituted in text for “Civil Service Commission” pursuant to Reorg. Plan No. 2 of 1978, set out under [section 1101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1101&num=0&edition=prelim), Government Organization and Employees, which transferred functions vested by statute in Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under [section 1101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1101&num=0&edition=prelim).
+
+Weather Bureau consolidated with Coast and Geodetic Survey to form new agency in Department of Commerce known as Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out as a note under [section 311 of this title](./chapter-009-national-weather-service.md#section-311). Functions of Bureau and Chief of Bureau transferred to Secretary of Commerce by Reorg. Plan. Subsequently, Environmental Science Services Administration abolished and National Oceanic and Atmospheric Administration established. By Department Organization Order 25–5A, Secretary delegated to NOAA his functions under this chapter of the Code. By order of Acting Associate Administrator of NOAA, organizational name of Weather Bureau changed to National Weather Service. For further details, see Codification note set out under [section 311 of this title](./chapter-009-national-weather-service.md#section-311).
 
 
 <a id="section-323"></a>
@@ -479,11 +480,11 @@ Appropriations now or hereafter provided for the National Weather Service shall 
 
 ### Statutory Notes
 
-#### Transfer of Functions
-Weather Bureau consolidated with Coast and Geodetic Survey to form new agency in Department of Commerce known as Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out as a note under [section 311 of this title](./chapter-009-national-weather-service.md#section-311). Functions of Bureau and Chief of Bureau transferred to Secretary of Commerce by Reorg. Plan. Subsequently, Environmental Science Services Administration abolished and National Oceanic and Atmospheric Administration established. By Department Organization Order 25–5A, Secretary delegated to NOAA his functions under this chapter of the Code. By order of Acting Associate Administrator of NOAA, organizational name of Weather Bureau changed to National Weather Service. For further details, see Codification note set out under [section 311 of this title](./chapter-009-national-weather-service.md#section-311).
-
 #### Cooperative Weather Observer Program
 Pub. L. 102–567, title I, § 101(c), Oct. 29, 1992, 106 Stat. 4270, provided that: “The Secretary of Commerce may use funds otherwise available for conducting weather observations to strengthen the Cooperative Weather Observer Program and encourage public participation in the program. The Secretary may— “(1) provide distinctive insignia or paraphernalia to Cooperative Weather Observers; and “(2) make awards of nominal value to recognize continued participation in the program by observers or to recognize outstanding achievements by such observers or groups of observers without regard to any law restricting expenditures for such purposes to Federal employees.”
+
+#### Transfer of Functions
+Weather Bureau consolidated with Coast and Geodetic Survey to form new agency in Department of Commerce known as Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out as a note under [section 311 of this title](./chapter-009-national-weather-service.md#section-311). Functions of Bureau and Chief of Bureau transferred to Secretary of Commerce by Reorg. Plan. Subsequently, Environmental Science Services Administration abolished and National Oceanic and Atmospheric Administration established. By Department Organization Order 25–5A, Secretary delegated to NOAA his functions under this chapter of the Code. By order of Acting Associate Administrator of NOAA, organizational name of Weather Bureau changed to National Weather Service. For further details, see Codification note set out under [section 311 of this title](./chapter-009-national-weather-service.md#section-311).
 
 
 <a id="section-326"></a>

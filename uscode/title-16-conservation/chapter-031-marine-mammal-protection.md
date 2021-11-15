@@ -309,14 +309,14 @@ Section effective upon the expiration of the sixty-day period following Oct. 21,
 #### Construction of Amendment by Pub. L. 102–587
 Pub. L. 103–238, § 24(a)(1), Apr. 30, 1994, 108 Stat. 565, provided that: “The amendments set forth in section 3004(b) of the Marine Mammal Health and Stranding Response Act (106 Stat. 5067) [Pub. L. 102–587, amending this section]— “(A) are deemed to have been made by that section to section 3(12) of the Marine Mammal Protection Act of 1972 ([16 U.S.C. 1362(12)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1362/12&num=0&edition=prelim)); and “(B) shall not be considered to have been made by that section to section 3(11) of that Act ([16 U.S.C. 1362(11)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1362/11&num=0&edition=prelim)).”
 
-#### Termination of Trust Territory of the Pacific Islands
-For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
-
 #### Termination of United States District Court for the District of the Canal Zone
 For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 
 #### Termination of Advisory Committees
 Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Termination of Trust Territory of the Pacific Islands
+For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
 
 #### Territorial Sea and Contiguous Zone of United States
 For extension of territorial sea and contiguous zone of United States, see Proc. No. 5928 and Proc. No. 7219, respectively, set out as notes under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim), Public Lands.

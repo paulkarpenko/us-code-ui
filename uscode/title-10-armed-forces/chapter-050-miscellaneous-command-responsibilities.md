@@ -121,7 +121,7 @@ source: >-
 ### Statutory Notes
 
 #### Amendments
-2021—Subsec. (a)(4)(A). Pub. L. 116–283 substituted “The amount” for “The amount.”
+2021—Subsec. (a)(4)(A). Pub. L. 116–283 struck out period after “The amount”.
 
 2019—Subsec. (a)(3). Pub. L. 116–92, § 506(a), substituted “be delegated to a civilian officer of the Department of Defense appointed by the President, by and with the advice and consent of the Senate.” for “be delegated to—
 
@@ -190,6 +190,9 @@ Pub. L. 106–65, div. A, title V, § 586(e), Oct. 5, 1999, 113 Stat. 639, provi
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+
+#### Treatment of Operational Data From Afghanistan
+Pub. L. 117–81, div. A, title X, § 1088, Dec. 27, 2021, 135 Stat. 1924, provided that: “(a) Sense of Congress.—It is the sense of Congress that—“(1) an immense amount of operational data and intelligence has been developed over the past two decades of war in Afghanistan; and “(2) this information is valuable and must be appropriately retained. “(b) Operational Data.—The Secretary of Defense shall—“(1) archive and standardize operational data from Afghanistan across the myriad of defense information systems; and “(2) ensure the Afghanistan operational data is structured, searchable, and usable across the joint force. “(c) Briefing.—Not later than March 4, 2022, the Under Secretary of Defense for Intelligence and Security shall provide to the Committee on Armed Services of the House of Representatives a briefing on how the Department of Defense has removed, retained, and assured long-term access to operational data from Afghanistan across each military department and command. Such briefing shall address the manner in which the Department of Defense—“(1) is standardizing and archiving intelligence and operational data from Afghanistan across the myriad of defense information systems; and “(2) ensuring access to such data across the joint force.”
 
 #### Deadline for Implementation of Subsection (d)(2)
 Pub. L. 116–92, div. A, title V, § 507(b), Dec. 20, 2019, 133 Stat. 1346, provided that: “Paragraph (2) of [section 991(d) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section991/d&num=0&edition=prelim), United States Code, as added by subsection (a), shall be fully implemented by not later than March 1, 2020.”

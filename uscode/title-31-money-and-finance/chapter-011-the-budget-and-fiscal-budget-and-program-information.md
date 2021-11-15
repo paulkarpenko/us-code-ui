@@ -413,6 +413,32 @@ Sec. 8. [Revoked by Ex. Ord. No. 12318, Aug. 21, 1981, 46 F.R. 42833.]
 
 (2) Paragraph (1) does not apply if, during the year in which the warning is made, legislation is enacted which eliminates excess general revenue medicare funding (as defined in section 801(c) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003) for the 7-fiscal-year reporting period, as certified by the Board of Trustees of each medicare trust fund (as defined in section 801(c)(5) of such Act) not later than 30 days after the date of the enactment of such legislation.
 
+**(i)**
+
+(1) The Director of the Office of Management and Budget shall make publicly available on a website, and continuously update, a tabular list for each fiscal year of each agency that submits budget justification materials, which shall include—
+
+  (A) the name of the agency;
+
+  (B) a unique identifier that identifies the agency;
+
+  (C) to the extent practicable, the date on which the budget justification materials of the agency are first submitted to Congress;
+
+  (D) the date on which the budget justification materials of the agency are posted online under section 3 of the Federal Funding Accountability and Transparency Act of 2006 ([31 U.S.C. 6101](./chapter-061-program-information.md#section-6101) note);
+
+  (E) the uniform resource locator where the budget justification materials are published on the website of the agency; and
+
+  (F) a single data set that contains the information described in subparagraphs (A) through (E) with respect to the agency for all fiscal years for which budget justifications of the agency are made available under section 3 of the Federal Funding Accountability and Transparency Act of 2006 ([31 U.S.C. 6101](./chapter-061-program-information.md#section-6101) note) in a structured data format.
+
+(2)
+
+  (A) Each agency that submits budget justification materials shall make the materials available on the website of the agency, in accordance with the policies established by the Director of the Office of Management and Budget under subparagraph (B).
+
+  (B) Not later than 1 year after the date of enactment of this subsection, the Director of the Office of Management and Budget, in consultation with the Secretary of the Treasury, shall establish policies and data standards for agencies relating to making available materials under subparagraph (A), which shall include guidelines for making budget justification materials available in a format aligned with the requirements of section 3(b)(2)(C) of the Federal Funding Accountability and Transparency Act of 2006 ([31 U.S.C. 6101](./chapter-061-program-information.md#section-6101) note) and using a uniform resource locator that is in a consistent format across agencies and is descriptive, memorable, and pronounceable, such as the format of “agencyname.gov/budget”.
+
+  (C) If the Director of the Office of Management and Budget maintains a public website that contains the budget of the United States Government submitted under subsection (a) and any related materials, such website shall also contain a link to the tabular list required under paragraph (1).
+
+(3) In this subsection, the term “budget justification materials” has the meaning given that term in section 3(b)(2) of the Federal Funding Accountability and Transparency Act of 2006 ([31 U.S.C. 6101](./chapter-061-program-information.md#section-6101) note).
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -510,7 +536,13 @@ Section 411 of the Crow Tribe Water Rights Settlement Act of 2010, referred to i
 
 Section 801 of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003, referred to in subsec. (h), is section 801 of Pub. L. 108–173, which is set out as a note under [section 1395i of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395i&num=0&edition=prelim), The Public Health and Welfare.
 
+Section 3 of the Federal Funding Accountability and Transparency Act of 2006, referred to in subsec. (i), is section 3 of Pub. L. 109–282, which is set out in a note under [section 6101 of this title](./chapter-061-program-information.md#section-6101).
+
+The date of enactment of this subsection, referred to in subsec. (i)(2)(B), is the date of enactment of Pub. L. 117–40, which was approved Sept. 24, 2021.
+
 #### Amendments
+2021—Subsec. (i). Pub. L. 117–40 added subsec. (i).
+
 2017—Subsec. (a)(35). Pub. L. 115–31, § 630(a)(2), substituted “cybersecurity” for “homeland security” wherever appearing.
 
 Subsec. (a)(35)(B). Pub. L. 115–31, § 630(a)(3), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “In implementing this paragraph, including determining what Federal activities or accounts constitute homeland security for purposes of budgetary classification, the Office of Management and Budget is directed to consult periodically, but at least annually, with the House and Senate Budget Committees, the House and Senate Appropriations Committees, and the Congressional Budget Office.”

@@ -453,7 +453,7 @@ The Coast Guard shall conduct such oceanographic research, use such equipment or
 
 (5) search and rescue.
 
-**(c) Coordination by Committee on the Maritime Transportation System.—** The Committee on the Maritime Transportation System established under [section 55501 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section55501&num=0&edition=prelim), United States Code, shall coordinate the establishment of domestic transportation policies in the Arctic necessary to carry out the purpose of this section.
+**(c) Coordination by Committee on the Maritime Transportation System.—** The Committee on the Maritime Transportation System established under section 55501 11 See References in Text note below. of title 46, United States Code, shall coordinate the establishment of domestic transportation policies in the Arctic necessary to carry out the purpose of this section.
 
 **(d) Agreements and Contracts.—** The Secretary may, subject to the availability of appropriations, enter into cooperative agreements, contracts, or other agreements with, or make grants to, individuals and governments to carry out the purpose of this section or any agreements established under subsection (b).
 
@@ -462,6 +462,9 @@ The Coast Guard shall conduct such oceanographic research, use such equipment or
 **(f) Arctic Definition.—** In this section, the term “Arctic” has the meaning given such term in section 112 of the Arctic Research and Policy Act of 1984 ([15 U.S.C. 4111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section4111&num=0&edition=prelim)).
 
 ### Statutory Notes
+
+#### References in Text
+[Section 55501 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section55501&num=0&edition=prelim), United States Code, referred to in subsec. (c), was redesignated [section 50401 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section50401&num=0&edition=prelim) by Pub. L. 117–81, div. C, title XXXV, § 3512(a)(3), Dec. 27, 2021, 135 Stat. 2239.
 
 #### Amendments
 2018—Pub. L. 115–282 renumbered [section 90 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section90&num=0&edition=prelim) as this section.

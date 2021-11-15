@@ -70,9 +70,9 @@ Interstate Commerce Commission abolished and functions of Commission transferred
 
 **(b) Availability of funds**
 
-(1) Not more than $15,000,000 of the funds available for expenditure by the Secretary out of the Railroad Rehabilitation and Improvement Fund established under title V of the Railroad Revitalization and Regulatory Reform Act of 1976 ([45 U.S.C. 821](./chapter-017-railroad-revitalization-and-regulatory-reform.md#section-821) et seq.) may be made available by the Secretary to the Commission for purposes of providing directed service under this section and section 916(b) 11 See References in Text note below. of this title.
+(1) Not more than $15,000,000 of the funds available for expenditure by the Secretary out of the Railroad Rehabilitation and Improvement Fund established under chapter 224 of title 49 may be made available by the Secretary to the Commission for purposes of providing directed service under this section.
 
-(2) Funds may be made available for directed service under this section without regard to the findings of the Secretary required under title V of the Railroad Revitalization and Regulatory Reform Act of 1976 [[45 U.S.C. 821](./chapter-017-railroad-revitalization-and-regulatory-reform.md#section-821) et seq.], and section 516 of such Act ([45 U.S.C. 836](./chapter-017-railroad-revitalization-and-regulatory-reform.md#section-836)) shall not apply to any directed service provided with such funds.
+(2) Funds may be made available for directed service under this section without regard to the findings of the Secretary required under chapter 224 of title 49, including section 22404 of such title, shall not apply to any directed service provided with such funds.
 
 **(c) Continuation of compensation terms for trackage rights, joint facilities, etc.** The terms of compensation for all trackage rights, joint facilities, and similar arrangements between other rail carriers and the trustee of the Rock Island Railroad which are in effect on or after March 15, 1980, on portions of the lines of the Rock Island Railroad involved in temporary emergency operations shall be continued in effect during the duration of the temporary emergency operating authority with the carrier providing temporary emergency service substituting for the trustee, except where the Rock Island Railroad has been given more favorable treatment by virtue of its bankruptcy. Such continuation shall not alter or affect the ultimate rights of other rail carriers under trackage rights, joint facilities, or similar arrangements nor prejudice the ultimate determination of any controversy or proceeding concerning rights of the parties with regard to assignment by the trustee of rights in or to the facilities or under the arrangements.
 
@@ -81,11 +81,11 @@ Interstate Commerce Commission abolished and functions of Commission transferred
 #### References in Text
 Public Law 96–131, referred to in subsec. (a), is Pub. L. 96–131, Nov. 30, 1979, 93 Stat. 1023, known as the Department of Transportation and Related Agencies Appropriation Act, 1980, which enacted provisions set out as notes under former [section 851 of this title](./chapter-017-railroad-revitalization-and-regulatory-reform.md#section-851), [section 501 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section501&num=0&edition=prelim), Coast Guard, and section 106 and former [section 10344 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section10344&num=0&edition=prelim), Transportation. For complete classification of this Act to the Code, see Tables.
 
-The Railroad Revitalization and Regulatory Reform Act of 1976, referred to in subsec. (b), is Pub. L. 94–210, Feb. 5, 1976, 90 Stat. 31, as amended. Title V of the Railroad Revitalization and Regulatory Reform Act of 1976 is classified generally to subchapter II (§ 821 et seq.) of chapter 17 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title](./chapter-017-railroad-revitalization-and-regulatory-reform.md#section-801) and Tables.
-
-[Section 916(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section916/b&num=0&edition=prelim), referred to in subsec. (b)(1), was repealed by Pub. L. 104–88, title III, § 328, Dec. 29, 1995, 109 Stat. 952.
-
 #### Amendments
+2021—Subsec. (b)(1). Pub. L. 117–58, § 21301(j)(3)(F)(i), substituted “chapter 224 of title 49” for “title V of the Railroad Revitalization and Regulatory Reform Act of 1976 ([45 U.S.C. 821](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section821&num=0&edition=prelim) et seq.)” and struck out “and [section 916(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section916/b&num=0&edition=prelim)” before period at end.
+
+Subsec. (b)(2). Pub. L. 117–58, § 21301(j)(3)(F)(ii), substituted “chapter 224 of title 49, including section 22404 of such title,” for “title V of the Railroad Revitalization and Regulatory Reform Act of 1976, and section 516 of such Act ([45 U.S.C. 836](./chapter-017-railroad-revitalization-and-regulatory-reform.md#section-836))”.
+
 1995—Subsec. (a). Pub. L. 104–88 substituted “the provisions of Public Law 96–131” for “the provisions of [section 11125 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section11125&num=0&edition=prelim) or Public Law 96–131”.
 
 #### Effective Date of 1995 Amendment

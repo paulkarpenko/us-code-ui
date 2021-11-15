@@ -1794,6 +1794,10 @@ Pub. L. 99–514, title XVIII, § 1879(i)(3), Oct. 22, 1986, 100 Stat. 2907, pro
 #### Ex. Ord. No. 10602. Secretary of the Interior as Representative of President
 Ex. Ord. No. 10602, Mar. 24, 1955, 20 F.R. 1795, provided: “By virtue of the authority vested in me by section 7652(b)(3) of the Internal Revenue Code of 1954 [now I.R.C. 1986] (Public Law 591, 83rd Congress, 68A Stat. 907), I hereby designate the Secretary of the Interior as the representative of the President to approve the obligation and expenditure by the government of the Virgin Islands of the moneys referred to in the said section 7652(b)(3).”
 
+Dwight D. Eisenhower
+
+[Pub. L. 94–455 made various amendments to subsec. (b)(3) of this section, after which there was no longer the requirement for approval by the President or his designated representative of obligation and expenditure of specified moneys.]
+
 
 <a id="section-7653"></a>
 ## § 7653. Shipments from the United States

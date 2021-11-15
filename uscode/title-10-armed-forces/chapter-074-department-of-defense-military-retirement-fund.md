@@ -60,7 +60,7 @@ Pub. L. 98–94, title IX, § 925(b)(3), Sept. 24, 1983, 97 Stat. 648, required 
 
 (3) retainer pay payable to members of the Fleet Reserve and Fleet Marine Corps Reserve;
 
-(4) benefits payable under programs under the jurisdiction of the Department of Defense and the Department of Homeland Security that that 22 So in original. provide annuities for survivors of members and former members of the armed forces, including chapter 73 of this title, section 4 of Public Law 92–425, and section 5 of Public Law 96–402; and
+(4) benefits payable under programs under the jurisdiction of the Department of Defense and the Department of Homeland Security that provide annuities for survivors of members and former members of the armed forces, including chapter 73 of this title, section 4 of Public Law 92–425, and section 5 of Public Law 96–402; and
 
 (5) amounts payable under [section 1408(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1408/h&num=0&edition=prelim).
 
@@ -80,7 +80,9 @@ Pub. L. 116–283, § 924(b)(1)(L), substituted “Marine Corps, and Space Force
 
 Subsec. (a)(2). Pub. L. 116–283, § 8223(2), struck out “(other than retired pay payable by the Secretary of Homeland Security)” after “armed forces”.
 
-Subsec. (a)(4). Pub. L. 116–283, § 8223(3), inserted “and the Department of Homeland Security that” after “Department of Defense”
+Subsec. (a)(4). Pub. L. 117–81 struck out the second “that” after “and the Department of Homeland Security that”.
+
+Pub. L. 116–283, § 8223(3), inserted “and the Department of Homeland Security that” after “Department of Defense”.
 
 2015—Subsec. (a)(1). Pub. L. 114–92 substituted “, 1414, or 1415” for “or 1414”.
 
@@ -149,7 +151,7 @@ Section, added Pub. L. 98–94, title IX, § 925(a)(1), Sept. 24, 1983, 97 Stat.
 
     (ii) the total amount of basic pay and of compensation (paid pursuant to [section 206 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section206&num=0&edition=prelim)) expected to be paid during that fiscal year to members of the Selected Reserve of the armed forces for service not otherwise described in subparagraph (A)(ii).
 
-(2) The amount determined under paragraph (1) for any fiscal year is the amount needed to be appropriated to the Coast Guard Retired Pay account and the the 11 So in original. Department of Defense for that fiscal year for payments to be made to the Fund during that year under [section 1466(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1466/a&num=0&edition=prelim). The President shall include not less than the full amount so determined in the budget transmitted to Congress for that fiscal year under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim). The President may comment and make recommendations concerning any such amount.
+(2) The amount determined under paragraph (1) for any fiscal year is the amount needed to be appropriated to the Coast Guard Retired Pay account and the Department of Defense for that fiscal year for payments to be made to the Fund during that year under [section 1466(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1466/a&num=0&edition=prelim). The President shall include not less than the full amount so determined in the budget transmitted to Congress for that fiscal year under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim). The President may comment and make recommendations concerning any such amount.
 
 (3) At the same time that the Secretary of Defense makes the determination required by paragraph (1) for any fiscal year, the Secretary shall determine the amount of the Treasury contribution to be made to the Fund for the next fiscal year under [section 1466(b)(2)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1466/b/2/D&num=0&edition=prelim). That amount shall be determined in the same manner as the determination under paragraph (1) of the total amount of Department of Defense and Coast Guard contributions to be made to the Fund during that fiscal year under [section 1466(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1466/a&num=0&edition=prelim), except that for purposes of this paragraph the Secretary, in making the calculations required by subparagraphs (A) and (B) of that paragraph, shall use the single level percentages determined under subsection (c)(4), rather than those determined under subsection (c)(1).
 
@@ -177,7 +179,7 @@ Section, added Pub. L. 98–94, title IX, § 925(a)(1), Sept. 24, 1983, 97 Stat.
 
 **(d)** All determinations under this section shall be made using methods and assumptions approved by the Board of Actuaries (including assumptions of interest rates and inflation) and in accordance with generally accepted actuarial principles and practices.
 
-**(e)** The Secretary of Defense and, with regard to the Coast Guard, the Secretary of the department in which the Coast Guard is operating provide for the keeping of such records as are necessary for determining the actuarial status of the Fund.
+**(e)** The Secretary of Defense and, with regard to the Coast Guard, the Secretary of the department in which the Coast Guard is operating provide 11 So in original. for the keeping of such records as are necessary for determining the actuarial status of the Fund.
 
 ### Statutory Notes
 
@@ -189,13 +191,15 @@ Amendment of section by Pub. L. 99–500 and Pub. L. 99–591 is based on sectio
 #### Amendments
 2021—Subsec. (a). Pub. L. 116–283, § 8224(1), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (b)(1). Pub. L. 116–283, § 8224(2)(A)(i), in introductory provisions, inserted , in consultation with the Secretary of the department in which the Coast Guard is operating,” after “Secretary of Defense” and “and Coast Guard” after “Department of Defense”.
+Subsec. (b)(1). Pub. L. 116–283, § 8224(2)(A)(i), in introductory provisions, inserted “, in consultation with the Secretary of the department in which the Coast Guard is operating,” after “Secretary of Defense” and “and Coast Guard” after “Department of Defense”.
 
 Subsec. (b)(1)(A)(ii). Pub. L. 116–283, § 8224(2)(A)(ii), substituted “members of the Armed Forces” for “(other than the Coast Guard)”.
 
 Subsec. (b)(1)(B)(ii). Pub. L. 116–283, § 8224(2)(A)(iii), struck out “(other than the Coast Guard)” after “armed forces”.
 
-Subsec. (b)(2). Pub. L. 116–283, § 8224(2)(B), inserted “the Coast Guard Retired Pay account and the” after “appropriated to”
+Subsec. (b)(2). Pub. L. 117–81 struck out the second “the” after “the Coast Guard Retired Pay account and the”.
+
+Pub. L. 116–283, § 8224(2)(B), inserted “the Coast Guard Retired Pay account and the” after “appropriated to”.
 
 Subsec. (b)(3). Pub. L. 116–283, § 8224(2)(C), inserted “and Coast Guard” after “Department of Defense”.
 
@@ -253,7 +257,7 @@ Section 642(c) of S. 2638, as passed by the Senate on Aug. 9, 1986, and as enact
 
 <a id="section-1466"></a>
 ## § 1466. Payments into the Fund
-**(a)** The Secretary of Defense and the Secretary of the department in which the Coast Guard is operating, with respect to the Coast guard,11 So in original. Probably should be capitalized. shall pay into the Fund at the end of each month the respective pro rata share contribution of the Secretary of Defense and the Secretary of the department in which the Coast Guard is operating to the Fund for that month the amount that is the sum of the following:
+**(a)** The Secretary of Defense and the Secretary of the department in which the Coast Guard is operating, with respect to the Coast Guard, shall pay into the Fund at the end of each month the respective pro rata share contribution of the Secretary of Defense and the Secretary of the department in which the Coast Guard is operating to the Fund for that month the amount that is the sum of the following:
 
 (1) The product of—
 
@@ -308,7 +312,9 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 Amendment of section by section 9131 of Pub. L. 99–500 and Pub. L. 99–591 is based on section 642 of S. 2638, Ninety-ninth Congress, as passed by the Senate on Aug. 9, 1986, which was enacted into permanent law by section 9131 of Pub. L. 99–500 and Pub. L. 99–591. S. 2638 was subsequently enacted as Pub. L. 99–661.
 
 #### Amendments
-2021—Subsec. (a). Pub. L. 116–283, § 8225(1)(A), (C), in introductory provisions, substituted “Secretary of Defense and the Secretary of the department in which the Coast Guard is operating, with respect to the Coast guard, shall” for “Secretary of Defense shall” and “each month the respective pro rata share contribution of the Secretary of Defense and the Secretary of the department in which the Coast Guard is operating” for “each month as the Department of Defense contribution” and struck out concluding provisions which read as follows:“Amounts paid into the Fund under this subsection shall be paid from funds available for the pay of members of the armed forces under the jurisdiction of the Secretary of a military department.”
+2021—Subsec. (a). Pub. L. 117–81, in introductory provisions, substituted “with respect to the Coast Guard” for “with respect to the Coast guard”.
+
+Pub. L. 116–283, § 8225(1)(A), (C), in introductory provisions, substituted “Secretary of Defense and the Secretary of the department in which the Coast Guard is operating, with respect to the Coast guard, shall” for “Secretary of Defense shall” and “each month the respective pro rata share contribution of the Secretary of Defense and the Secretary of the department in which the Coast Guard is operating” for “each month as the Department of Defense contribution” and struck out concluding provisions which read as follows:“Amounts paid into the Fund under this subsection shall be paid from funds available for the pay of members of the armed forces under the jurisdiction of the Secretary of a military department.”
 
 Subsec. (a)(2)(B). Pub. L. 116–283, § 8225(1)(B), struck out “(other than the Coast Guard)” after “armed forces”.
 

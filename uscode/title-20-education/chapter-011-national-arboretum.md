@@ -13,12 +13,6 @@ The Secretary of Agriculture is authorized and directed to establish and maintai
 
 ### Statutory Notes
 
-#### Transfer of Functions
-Functions of all officers, agencies and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Delegation of Functions
-Authority of President under this section to transfer to jurisdiction of Secretary of Agriculture for purposes of this chapter any land belonging to United States within or adjacent to District of Columbia located along Anacostia River north of Benning Bridge delegated to Administrator of General Services, see section 1(18) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
-
 #### Facilities To House Bonsai Collections
 Pub. L. 103–111, title I, Oct. 21, 1993, 107 Stat. 1051, provided in part: “That hereafter, facilities to house bonsai collections at the National Arboretum may be constructed with funds accepted under the provisions of Public Law 94–129 ([20 U.S.C. 195](./chapter-011-national-arboretum.md#section-195)) and the limitation on construction contained in the Act of August 24, 1912 ([40 U.S.C. 68](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section68&num=0&edition=prelim)) [now [40 U.S.C. 8106](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section8106&num=0&edition=prelim)] shall not apply to the construction of such facilities”.
 
@@ -37,6 +31,12 @@ Pub. L. 100–460, title I, Oct. 1, 1988, 102 Stat. 2234.
 Pub. L. 100–202, § 101(k) [title I], Dec. 22, 1987, 101 Stat. 1329–322, 1329–327.
 
 Pub. L. 99–500, § 101(a) [title I], Oct. 18, 1986, 100 Stat. 1783, 1783–5, and Pub. L. 99–591, § 101(a) [title I], Oct. 30, 1986, 100 Stat. 3341, 3341–5.
+
+#### Transfer of Functions
+Functions of all officers, agencies and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Delegation of Functions
+Authority of President under this section to transfer to jurisdiction of Secretary of Agriculture for purposes of this chapter any land belonging to United States within or adjacent to District of Columbia located along Anacostia River north of Benning Bridge delegated to Administrator of General Services, see section 1(18) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
 
 
 <a id="section-192"></a>

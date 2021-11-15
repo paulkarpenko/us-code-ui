@@ -503,8 +503,8 @@ any salary which would be otherwise due such person by virtue of such office or 
 
 ### Statutory Notes
 
-#### Constitutionality
-For information regarding constitutionality of certain provisions of section 504 of Pub. L. 86–257, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+#### Editorial Notes
+For information regarding constitutionality of certain provisions of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
 #### Amendments
 1987—Subsec. (a). Pub. L. 100–182, in concluding provisions, substituted “if the offense is a Federal offense, the sentencing judge or, if the offense is a State or local offense, the United States district court for the district in which the offense was committed, pursuant to sentencing guidelines and policy statements under [section 994(a) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section994/a&num=0&edition=prelim),” for “the United States Parole Commission”, “court” and “court’s” for “Commission” and “Commission’s”, respectively, and “a hearing” for “an administrative hearing”.

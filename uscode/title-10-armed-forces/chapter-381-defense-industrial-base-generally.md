@@ -27,7 +27,7 @@ In this subpart:
 
   (B) a defense critical technology.
 
-(7) The term “national critical technology” means a technology that appears on the list of national critical technologies contained in the most recent biennial report on national critical technologies submitted to Congress by the President pursuant to section 603(d) of the National Science and Technology Policy, Organization, and Priorities Act of 1976 ([42 U.S.C. 6683(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6683/d&num=0&edition=prelim)).
+(7) The term “national critical technology” means a technology that appears on the list of national critical technologies contained in the most recent biennial report on national critical technologies submitted to Congress by the President pursuant to section 603(d) 11 See References in Text note below. of the National Science and Technology Policy, Organization, and Priorities Act of 1976 ([42 U.S.C. 6683(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6683/d&num=0&edition=prelim)).
 
 (8) The term “defense critical technology” means a technology that is identified under [section 4816 of this title](./chapter-382-policies-and-planning.md#section-4816) as critical for attaining the national security objectives set forth in [section 4811(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4811/a&num=0&edition=prelim).
 
@@ -66,9 +66,68 @@ In this subpart:
 
 (15) The term “integration” means the process of providing systems engineering and technical direction for a system for the purpose of achieving capabilities that satisfy program requirements.
 
-(16) The term “chapter 148 legacy provision” means any of the following provisions of this subpart: sections 4801, 4811–4819, 4831–4834, 4841–4843, 4851, 4852, 4861–4864, 4871, 4872, 4881–4884, 4891, and 4892, and chapter 389.
-
 ### Statutory Notes
 
+#### References in Text
+Section 603 of the National Science and Technology Policy, Organization, and Priorities Act of 1976, referred to in par. (7), was classified to [section 6683 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6683&num=0&edition=prelim), The Public Health and Welfare, and was omitted from the Code.
+
+#### Prior Provisions
+A prior section 4801 was renumbered [section 7801 of this title](./chapter-781-military-claims.md#section-7801).
+
+Provisions similar to those in this section were contained in former sections 2511 and 2521 of this title prior to repeal by Pub. L. 102–484, § 4202(a).
+
+Prior sections 4802 to 4804 were renumbered sections 7802 to 7804 of this title, respectively.
+
+A prior section 4805, act Aug. 10, 1956, ch. 1041, 70A Stat. 271, related to reports to Congress with respect to claims under sections 4802, 4803, and 4804 of this title, prior to repeal by Pub. L. 86–533, § 1(8)(A), June 29, 1960, 74 Stat. 247.
+
+A prior section 4806 was renumbered [section 7806 of this title](./chapter-781-military-claims.md#section-7806).
+
+#### Amendments
+2021—Pub. L. 116–283, § 1866(c)(1), as amended by Pub. L. 117–81, § 1701(b)(21)(A)(i), substituted “In this subpart” for “In this chapter” in introductory provisions.
+
+Pub. L. 116–283, § 1866(c), renumbered [section 2500 of this title](./chapter-chapter-148-chapter-chapter-148.md#section-2500) as this section.
+
+Par. (8). Pub. L. 116–283, § 1866(c)(2), as amended by Pub. L. 117–81, § 1701(b)(21)(A)(ii), substituted “section 4816” for “section 2505” and “section 4811(a)” for “section 2501(a)”.
+
+Par. (16). Pub. L. 116–283, § 1866(c)(3), which added par. (16) defining “chapter 148 legacy provision”, was repealed by Pub. L. 117–81, § 1701(b)(21)(A)(iii).
+
+2016—Par. (1). Pub. L. 114–328 inserted “, the United Kingdom of Great Britain and Northern Ireland, Australia,” after “United States”.
+
+2011—Par. (1). Pub. L. 111–383, § 895(a)(1), substituted “integration, services, or information technology” for “or maintenance”.
+
+Par. (4). Pub. L. 111–383, § 895(a)(2), substituted “production, integration, services, or information technology” for “or production”.
+
+Par. (9)(A). Pub. L. 111–383, § 895(a)(3), substituted “manufacturing, integration, services, and information technology” for “and manufacturing”.
+
+Par. (15). Pub. L. 111–383, § 895(a)(4), added par. (15).
+
+1997—Pub. L. 105–85, § 371(b)(3), renumbered [section 2491 of this title](./chapter-147-commissaries-and-exchanges-and-other-morale-welfare-and-recreation-activities.md#section-2491) as section 2500.
+
+Par. (8). Pub. L. 105–85, § 1073(a)(53), substituted “that is identified under [section 2505 of this title](./chapter-chapter-148-chapter-chapter-148.md#section-2505) as critical for attaining the national security objectives set forth in [section 2501(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2501/a&num=0&edition=prelim).” for “that appears on the list of critical technologies contained, pursuant to subsection (b)(4) of [section 2505 of this title](./chapter-chapter-148-chapter-chapter-148.md#section-2505), in the most recent national technology and industrial base assessment submitted to Congress by the Secretary of Defense pursuant to [section 2506(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2506/e&num=0&edition=prelim).”
+
+1996—Pars. (11) to (16). Pub. L. 104–106 redesignated pars. (13) to (16) as (11) to (14), respectively, and struck out former pars. (11) and (12) which read as follows:
+
+“(11) The term ‘manufacturing extension program’ means a public or private, nonprofit program for the improvement of the quality, productivity, and performance of United States-based small manufacturing firms in the United States.
+
+“(12) The term ‘United States-based small manufacturing firm’ means a company or other business entity that, as determined by the Secretary of Commerce—
+
+“(A) engages in manufacturing;
+
+“(B) has less than 500 employees; and
+
+“(C) is an eligible firm.”
+
+1994—Par. (5). Pub. L. 103–337, § 1113(d), inserted before period at end “, except that such terms include a federally funded research and development center sponsored by a Federal agency”.
+
+Par. (16). Pub. L. 103–337, § 1115(e), added par. (16).
+
+1993—Par. (2). Pub. L. 103–160, § 1182(a)(9)(A), substituted “nonmilitary applications” for “nonmilitary application”.
+
+Par. (8). Pub. L. 103–160, § 1182(a)(9)(B), substituted “subsection (b)(4)” for “subsection (f)”.
+
+Pars. (13) to (15). Pub. L. 103–160, § 1315(f), added pars. (13) to (15).
+
 #### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
+
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).

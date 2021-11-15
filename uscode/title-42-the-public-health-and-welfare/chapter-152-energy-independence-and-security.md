@@ -2,7 +2,7 @@
 title: 42
 chapter: '152'
 heading: ENERGY INDEPENDENCE AND SECURITY
-section_count: 141
+section_count: 142
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
@@ -22,7 +22,7 @@ source: >-
 
 **(c) Designation** The information collected for the assessment and analysis under subsection (a)(1)—
 
-(1) shall be considered to be critical electric infrastructure information under [section 824o–1 of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section824o–1&num=0&edition=prelim); and
+(1) shall be considered to be critical electric infrastructure information under section 824o–1 of title 16; and
 
 (2) shall only be released in compliance with regulations implementing that section.
 
@@ -353,13 +353,25 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 ## § 17021. Advanced technology vehicles manufacturing incentive program
 **(a) Definitions** In this section:
 
-(1) **Advanced technology vehicle** — The term “advanced technology vehicle” means an ultra efficient vehicle or a light duty vehicle that meets—
+(1) **Advanced technology vehicle** — The term “advanced technology vehicle” means—
 
-  (A) the Bin 5 Tier II emission standard established in regulations issued by the Administrator of the Environmental Protection Agency under section 202(i) of the Clean Air Act ([42 U.S.C. 7521(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7521/i&num=0&edition=prelim)), or a lower-numbered Bin emission standard;
+  (A) an ultra efficient vehicle or a light duty vehicle that meets—
 
-  (B) any new emission standard in effect for fine particulate matter prescribed by the Administrator under that Act ([42 U.S.C. 7401](./chapter-085-air-pollution-prevention-and-control.md#section-7401) et seq.); and
+    (i) the Bin 5 Tier II emission standard established in regulations issued by the Administrator of the Environmental Protection Agency under section 202(i) of the Clean Air Act ([42 U.S.C. 7521(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7521/i&num=0&edition=prelim)), or a lower-numbered Bin emission standard;
 
-  (C) at least 125 percent of the average base year combined fuel economy for vehicles with substantially similar attributes.
+    (ii) any new emission standard in effect for fine particulate matter prescribed by the Administrator under that Act ([42 U.S.C. 7401](./chapter-085-air-pollution-prevention-and-control.md#section-7401) et seq.); and
+
+    (iii) at least 125 percent of the average base year combined fuel economy for vehicles with substantially similar attributes;
+
+  (B) a medium duty vehicle or a heavy duty vehicle that exceeds 125 percent of the greenhouse gas emissions and fuel efficiency standards established by the final rule of the Environmental Protection Agency entitled “Greenhouse Gas Emissions and Fuel Efficiency Standards for Medium- and Heavy-Duty Engines and Vehicles—Phase 2” (81 Fed. Reg. 73478 (October 25, 2016));
+
+  (C) a train or locomotive;
+
+  (D) a maritime vessel;
+
+  (E) an aircraft; and
+
+  (F) hyperloop technology.
 
 (2) **Combined fuel economy** — The term “combined fuel economy” means—
 
@@ -387,7 +399,7 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
   (C) at least 75 miles per gallon equivalent while operating as a fully electric vehicle.
 
-**(b) Advanced vehicles manufacturing facility** The Secretary shall provide facility funding awards under this section to automobile manufacturers, ultra efficient vehicle manufacturers, and component suppliers to pay not more than 30 percent of the cost of—
+**(b) Advanced vehicles manufacturing facility** The Secretary shall provide facility funding awards under this section to automobile manufacturers, ultra efficient vehicle manufacturers, advanced technology vehicle manufacturers, and component suppliers to pay not more than 30 percent of the cost of—
 
 (1) reequipping, expanding, or establishing a manufacturing facility in the United States to produce—
 
@@ -415,13 +427,37 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
   (B) the Secretary of Labor shall, with respect to the labor standards described in this paragraph, have the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (5 U.S.C. App.) and [section 3145 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section3145&num=0&edition=prelim).
 
-(3) **Selection of eligible projects** — The Secretary shall select eligible projects to receive loans under this subsection in cases in which, as determined by the Secretary, the award recipient—
+(3) **Selection of eligible projects**
 
-  (A) is financially viable without the receipt of additional Federal funding associated with the proposed project;
+  (A) *In general* — The Secretary shall select eligible projects to receive loans under this subsection if the Secretary determines that—
 
-  (B) will provide sufficient information to the Secretary for the Secretary to ensure that the qualified investment is expended efficiently and effectively; and
+    (i) the loan recipient—
 
-  (C) has met such other criteria as may be established and published by the Secretary.
+      (I) has a reasonable prospect of repaying the principal and interest on the loan;
+
+      (II) will provide sufficient information to the Secretary for the Secretary to ensure that the qualified investment is expended efficiently and effectively; and
+
+      (III) has met such other criteria as may be established and published by the Secretary; and
+
+    (ii) the amount of the loan (when combined with amounts available to the loan recipient from other sources) will be sufficient to carry out the project.
+
+  (B) *Reasonable prospect of repayment* — The Secretary shall base a determination of whether there is a reasonable prospect of repayment of the principal and interest on a loan under subparagraph (A)(i)(I) on a comprehensive evaluation of whether the loan recipient has a reasonable prospect of repaying the principal and interest, including, as applicable, an evaluation of—
+
+    (i) the strength of the contractual terms of the eligible project (if commercially reasonably available);
+
+    (ii) the forecast of noncontractual cash flows supported by market projections from reputable sources, as determined by the Secretary;
+
+    (iii) cash sweeps and other structure enhancements;
+
+    (iv) the projected financial strength of the loan recipient—
+
+      (I) at the time of loan close; and
+
+      (II) throughout the loan term after the project is completed;
+
+    (v) the financial strength of the investors and strategic partners of the loan recipient, if applicable; and
+
+    (vi) other financial metrics and analyses that are relied on by the private lending community and nationally recognized credit rating agencies, as determined appropriate by the Secretary.
 
 (4) **Rates, terms, and repayment of loans** — A loan provided under this subsection—
 
@@ -433,9 +469,13 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
     (ii) 25 years;
 
-  (C) may be subject to a deferral in repayment for not more than 5 years after the date on which the eligible project carried out using funds from the loan first begins operations, as determined by the Secretary; and
+  (C) may be subject to a deferral in repayment for not more than 5 years after the date on which the eligible project carried out using funds from the loan first begins operations, as determined by the Secretary;
 
-  (D) shall be made by the Federal Financing Bank.
+  (D) shall be made by the Federal Financing Bank; and
+
+  (E) shall be subject to the condition that the loan is not subordinate to other financing.
+
+(5) **Conflicts of interest** — For each eligible project selected to receive a loan under this subsection, the Secretary shall certify that political influence did not impact the selection of the eligible project.
 
 **(e) Improvement** Not later than 60 days after September 30, 2008, the Secretary shall promulgate an interim final rule establishing regulations that the Secretary deems necessary to administer this section and any loans made by the Secretary pursuant to this section. Such interim final rule shall require that, in order for an automobile manufacturer to be eligible for an award or loan under this section during a particular year, the adjusted average fuel economy of the manufacturer for light duty vehicles produced by the manufacturer during the most recent year for which data are available shall be not less than the average fuel economy for all light duty vehicles of the manufacturer for model year 2005. In order to determine fuel economy baselines for eligibility of a new manufacturer or a manufacturer that has not produced previously produced equivalent vehicles, the Secretary may substitute industry averages.
 
@@ -443,25 +483,49 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
 **(g) Priority** The Secretary shall, in making awards or loans to those manufacturers that have existing facilities, give priority to those facilities that are oldest or have been in existence for at least 20 years or are utilized primarily for the manufacture of ultra efficient vehicles. Such facilities can currently be sitting idle.
 
-**(h) Set aside for small automobile manufacturers and component suppliers**
+**(h) Set aside for small advanced technology vehicle manufacturers and component suppliers**
 
 (1) **Definition of covered firm** — In this subsection, the term “covered firm” means a firm that—
 
   (A) employs less than 500 individuals; and
 
-  (B) manufactures ultra efficient vehicles, automobiles, or components of automobiles.
+  (B) manufactures ultra efficient vehicles, advanced technology vehicles, or components of advanced technology vehicles.
 
 (2) **Set aside** — Of the amount of funds that are used to provide awards for each fiscal year under subsection (b), the Secretary shall use not less than 10 percent to provide awards to covered firms or consortia led by a covered firm.
 
-**(i) Authorization of appropriations** There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2008 through 2012.
-
-**(j) Appointment and pay of personnel**
+**(i) Appointment and pay of personnel**
 
 (1) The Secretary may use direct hiring authority pursuant to [section 3304(a)(3) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3304/a/3&num=0&edition=prelim) to appoint such professional and administrative personnel as the Secretary deems necessary to the discharge of the Secretary’s functions under this section.
 
 (2) The rate of pay for a person appointed pursuant to paragraph (1) shall not exceed the maximum rate payable for GS-15 of the General Schedule under chapter 53 such 33 So in original. Probably should be “of such”. title 5.
 
 (3) The Secretary may retain such consultants as the Secretary deems necessary to the discharge of the functions required by this section, pursuant to [section 1901 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1901&num=0&edition=prelim).
+
+**(j) Coordination** In carrying out this section, the Secretary shall coordinate with relevant vehicle, bioenergy, and hydrogen and fuel cell demonstration project activities supported by the Department.
+
+**(k) Outreach** In carrying out this section, the Secretary shall—
+
+(1) provide assistance with the completion of applications for awards or loans under this section; and
+
+(2) conduct outreach, including through conferences and online programs, to disseminate information on awards and loans under this section to potential applicants.
+
+**(l) Prohibition on use of appropriated funds** Amounts appropriated to the Secretary before November 15, 2021, shall not be available to the Secretary to provide awards under subsection (b) or loans under subsection (d) for the costs of activities that were not eligible for those awards or loans on the day before that date.
+
+**(m) Report** Not later than 2 years after November 15, 2021, and every 3 years thereafter, the Secretary shall submit to Congress a report on the status of projects supported by a loan under this section, including—
+
+(1) a list of projects receiving a loan under this section, including the loan amount and construction status of each project;
+
+(2) the status of the loan repayment for each project, including future repayment projections;
+
+(3) data regarding the number of direct and indirect jobs retained, restored, or created by financed projects;
+
+(4) the number of new projects projected to receive a loan under this section in the next 2 years, including the projected aggregate loan amount over the next 2 years;
+
+(5) evaluation of ongoing compliance with the assurances and commitments, and of the predictions, made by applicants pursuant to paragraphs (2) and (3) of subsection (d);
+
+(6) the total number of applications received by the Department each year; and
+
+(7) any other metrics the Secretary determines appropriate.
 
 ### Statutory Notes
 
@@ -474,6 +538,28 @@ Reorganization Plan Numbered 14 of 1950, referred to in subsec. (d)(2)(B), is se
 In subsec. (j)(3), “[section 1901 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1901&num=0&edition=prelim)” substituted for “section 31 of the Office of Federal Procurement Policy Act ([41 U.S.C. 427](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section427&num=0&edition=prelim))” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
+2021—Subsec. (a)(1). Pub. L. 117–58, § 40401(b)(1), substituted “means—” for “means”, inserted subpar. (A) designation before “an ultra”, redesignated former subpars. (A) to (C) as cls. (i) to (iii) of subpar. (A), respectively, and added subpars. (B) to (F).
+
+Subsec. (b). Pub. L. 117–58, § 40401(b)(3)(A), substituted “ultra efficient vehicle manufacturers, advanced technology vehicle manufacturers, and component suppliers” for “ultra efficient vehicle manufacturers, and component suppliers” in introductory provisions.
+
+Subsec. (d)(3). Pub. L. 117–58, § 40401(b)(2)(A), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The Secretary shall select eligible projects to receive loans under this subsection in cases in which, as determined by the Secretary, the award recipient—
+
+“(A) is financially viable without the receipt of additional Federal funding associated with the proposed project;
+
+“(B) will provide sufficient information to the Secretary for the Secretary to ensure that the qualified investment is expended efficiently and effectively; and
+
+“(C) has met such other criteria as may be established and published by the Secretary.”
+
+Subsec. (d)(4)(E). Pub. L. 117–58, § 40401(b)(2)(B), added subpar. (E).
+
+Subsec. (d)(5). Pub. L. 117–58, § 40401(b)(4), added par. (5).
+
+Subsec. (h). Pub. L. 117–58, § 40401(b)(3)(B)(i), substituted “advanced technology vehicle” for “automobile” in heading.
+
+Subsec. (h)(1)(B). Pub. L. 117–58, § 40401(b)(3)(B)(ii), substituted “advanced technology vehicles, or components of advanced technology vehicles” for “automobiles, or components of automobiles”.
+
+Subsecs. (i) to (m). Pub. L. 117–58, § 40401(b)(3)(C)–(E), added subsecs. (j) to (m), redesignated former subsec. (j) as (i), and struck out former subsec. (i). Prior to amendment, text of subsec. (i) read as follows: “There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2008 through 2012.”
+
 2009—Subsec. (a)(1). Pub. L. 111–85, § 312(a)(1)(A), inserted “an ultra efficient vehicle or” after “means” in introductory provisions.
 
 Subsec. (a)(5). Pub. L. 111–85, § 312(a)(1)(B), added par. (5).
@@ -561,7 +647,9 @@ Pub. L. 111–85, title III, § 312(b), Oct. 28, 2009, 123 Stat. 2875, provided 
 
   (G) the National Laboratories; and
 
-  (H) other Federal agencies, as the Secretary determines appropriate. (4) UpdatesThe Secretary shall update the report required under this section every 3 years for the duration of the program under section 11 So in original. Probably should be “subsection”. (a) and shall submit the updated report to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate.
+  (H) other Federal agencies, as the Secretary determines appropriate.
+
+(4) **Updates** — The Secretary shall update the report required under this section every 3 years for the duration of the program under section 11 So in original. Probably should be “subsection”. (a) and shall submit the updated report to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate.
 
 **(c) Program implementation** In carrying out the research, development, demonstration, and commercial application aims of section,22 So in original. Probably should be “of this section,”. the Secretary shall—
 
@@ -936,58 +1024,7 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
 
 <a id="section-17061"></a>
-## § 17061. Technical assistance program to implement industrial emissions reduction
-**(a) Definitions** In this section:
-
-(1) **Eligible entity** — The term “eligible entity” means—
-
-  (A) a State;
-
-  (B) a unit of local government;
-
-  (C) a territory or possession of the United States;
-
-  (D) a relevant State or local office, including an energy office;
-
-  (E) a tribal organization (as defined in [section 3765 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3765&num=0&edition=prelim));
-
-  (F) an institution of higher education; and 11 So in original.
-
-  (G) a private entity; and
-
-  (H) a trade association or technical society.
-
-(2) **Emissions reduction** — The term “emissions reduction” has the meaning given the term in [section 17113(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17113/a&num=0&edition=prelim).
-
-(3) **Program** — The term “program” means the program established under subsection (b).
-
-**(b) Establishment** Not later than 1 year after December 27, 2020, the Secretary shall establish a program to provide technical assistance to eligible entities to promote the commercial application of emission reduction technologies developed through the program established in [section 17113(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17113/b&num=0&edition=prelim).
-
-**(c) Applications**
-
-(1) **In general** — An eligible entity desiring technical assistance under the program shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
-
-(2) **Application process** — The Secretary shall seek applications for technical assistance under the program on a periodic basis, but not less frequently than once every 12 months.
-
-(3) **Factors for consideration** — In selecting eligible entities for technical assistance under the program, the Secretary shall, to the maximum extent practicable—
-
-  (A) give priority to—
-
-    (i) activities carried out with technical assistance under the program that have the greatest potential for achieving emissions reduction in nonpower industrial sectors;
-
-    (ii) activities carried out in a State in which there are active or inactive industrial facilities that may be used or retrofitted to carry out activities under the focus areas described in [section 17113(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17113/c&num=0&edition=prelim); and
-
-    (iii) activities carried out in an economically distressed area (as described in [section 3161(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3161/a&num=0&edition=prelim)); and
-
-  (B) ensure that—
-
-    (i) there is geographic diversity among the eligible entities selected; and
-
-    (ii) the activities carried out with technical assistance under the program reflect a majority of the focus areas described in [section 17113(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17113/c&num=0&edition=prelim).
-
-
-<a id="section-17062"></a>
-## § 17062. Development of national smart manufacturing plan
+## § 17061. Development of national smart manufacturing plan
 **(a) In general** Not later than 3 years after December 27, 2020, the Secretary of Energy (in this section referred to as the “Secretary”), in consultation with the National Academies, shall develop and complete a national plan for smart manufacturing technology development and deployment to improve the productivity and energy efficiency of the manufacturing sector of the United States.
 
 **(b) Content**
@@ -1046,6 +1083,206 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
 #### Codification
 Section was enacted as part of the Energy Act of 2020, and not as part of the Energy Independence and Security Act of 2007 which comprises this chapter.
+
+
+<a id="section-17062"></a>
+## § 17062. Industrial research and assessment centers
+**(a) Definitions** In this section:
+
+(1) **Covered project** — The term “covered project” means a project—
+
+  (A) that has been recommended in an energy assessment described in paragraph (2)(A) conducted for an eligible entity; and
+
+  (B) with respect to which the plant site of that eligible entity—
+
+    (i) improves—
+
+      (I) energy efficiency;
+
+      (II) material efficiency;
+
+      (III) cybersecurity; or
+
+      (IV) productivity; or
+
+    (ii) reduces—
+
+      (I) waste production;
+
+      (II) greenhouse gas emissions; or
+
+      (III) nongreenhouse gas pollution.
+
+(2) **Eligible entity** — The term “eligible entity” means a small- or medium-sized manufacturer that has had an energy assessment completed by—
+
+  (A) an industrial research and assessment center;
+
+  (B) a Department of Energy Combined Heat and Power Technical Assistance Partnership jointly with an industrial research and assessment center; or
+
+  (C) a third-party assessor that provides an assessment equivalent to an assessment described in subparagraph (A) or (B), as determined by the Secretary.
+
+(3) **Energy service provider** — The term “energy service provider” means—
+
+  (A) any business providing technology or services to improve the energy efficiency, water efficiency, power factor, or load management of a manufacturing site or other industrial process in an energy-intensive industry (as defined in [section 17111(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17111/a&num=0&edition=prelim)); and
+
+  (B) any utility operating under a utility energy service project.
+
+(4) **Industrial research and assessment center** — The term “industrial research and assessment center” means—
+
+  (A) an institution of higher education-based industrial research and assessment center that is funded by the Secretary under subsection (b); and
+
+  (B) an industrial research and assessment center at a trade school, community college, or union training program that is funded by the Secretary under subsection (f).
+
+(5) **Program** — The term “Program” means the program for implementation grants established under subsection (i)(1).
+
+(6) **Small- or medium-sized manufacturer** — The term “small- or medium-sized manufacturer” means a manufacturing firm—
+
+  (A) the gross annual sales of which are less than $100,000,000;
+
+  (B) that has fewer than 500 employees at the plant site of the manufacturing firm; and
+
+  (C) the annual energy bills of which total more than $100,000 but less than $3,500,000.
+
+**(b) Institution of higher education-based industrial research and assessment centers**
+
+(1) **In general** — The Secretary shall provide funding to institution of higher education-based industrial research and assessment centers.
+
+(2) **Purpose** — The purpose of each institution of higher education-based industrial research and assessment center shall be—
+
+  (A) to provide in-depth assessments of small- and medium-sized manufacturer plant sites to evaluate the facilities, services, and manufacturing operations of the plant sites;
+
+  (B) to identify opportunities for optimizing energy efficiency and environmental performance, including implementation of—
+
+    (i) smart manufacturing;
+
+    (ii) energy management systems;
+
+    (iii) sustainable manufacturing;
+
+    (iv) information technology advancements for supply chain analysis, logistics, system monitoring, industrial and manufacturing processes, and other purposes; and
+
+    (v) waste management systems;
+
+  (C) to promote applications of emerging concepts and technologies in small- and medium-sized manufacturers (including water and wastewater treatment facilities and federally owned manufacturing facilities);
+
+  (D) to promote research and development for the use of alternative energy sources to supply heat, power, and new feedstocks for energy-intensive industries;
+
+  (E) to coordinate with appropriate Federal and State research offices;
+
+  (F) to provide a clearinghouse for industrial process and energy efficiency technical assistance resources; and
+
+  (G) to coordinate with State-accredited technical training centers and community colleges, while ensuring appropriate services to all regions of the United States.
+
+**(c) Coordination** To increase the value and capabilities of the industrial research and assessment centers, the centers shall—
+
+(1) coordinate with Manufacturing Extension Partnership Centers of the National Institute of Standards and Technology;
+
+(2) coordinate with the Federal Energy Management Program and the Building Technologies Office of the Department of Energy to provide building assessment services to manufacturers;
+
+(3) increase partnerships with the National Laboratories of the Department of Energy to leverage the expertise, technologies, and research and development capabilities of the National Laboratories for national industrial and manufacturing needs;
+
+(4) increase partnerships with energy service providers and technology providers to leverage private sector expertise and accelerate deployment of new and existing technologies and processes for energy efficiency, power factor, and load management;
+
+(5) identify opportunities for reducing greenhouse gas emissions and other air emissions; and
+
+(6) promote sustainable manufacturing practices for small- and medium-sized manufacturers.
+
+**(d) Outreach** The Secretary shall provide funding for—
+
+(1) outreach activities by the industrial research and assessment centers to inform small- and medium-sized manufacturers of the information, technologies, and services available; and
+
+(2) coordination activities by each industrial research and assessment center to leverage efforts with—
+
+  (A) Federal, State, and Tribal efforts;
+
+  (B) the efforts of utilities and energy service providers;
+
+  (C) the efforts of regional energy efficiency organizations; and
+
+  (D) the efforts of other industrial research and assessment centers.
+
+**(e) Centers of Excellence**
+
+(1) **Establishment** — The Secretary shall establish a Center of Excellence at not more than 5 of the highest-performing industrial research and assessment centers, as determined by the Secretary.
+
+(2) **Duties** — A Center of Excellence shall coordinate with and advise the industrial research and assessment centers located in the region of the Center of Excellence, including—
+
+  (A) by mentoring new directors and staff of the industrial research and assessment centers with respect to—
+
+    (i) the availability of resources; and
+
+    (ii) best practices for carrying out assessments, including through the participation of the staff of the Center of Excellence in assessments carried out by new industrial research and assessment centers;
+
+  (B) by providing training to staff and students at the industrial research and assessment centers on new technologies, practices, and tools to expand the scope and impact of the assessments carried out by the centers;
+
+  (C) by assisting the industrial research and assessment centers with specialized technical opportunities, including by providing a clearinghouse of available expertise and tools to assist the centers and clients of the centers in assessing and implementing those opportunities;
+
+  (D) by identifying and coordinating with regional, State, local, Tribal, and utility energy efficiency programs for the purpose of facilitating efforts by industrial research and assessment centers to connect industrial facilities receiving assessments from those centers with regional, State, local, and utility energy efficiency programs that could aid the industrial facilities in implementing any recommendations resulting from the assessments;
+
+  (E) by facilitating coordination between the industrial research and assessment centers and other Federal programs described in paragraphs (1) through (3) of subsection (c); and
+
+  (F) by coordinating the outreach activities of the industrial research and assessment centers under subsection (d)(1).
+
+(3) **Funding** — For each fiscal year, out of any amounts made available to carry out this section under subsection (j), the Secretary shall use not less than $500,000 to support each Center of Excellence.
+
+**(f) Expansion of industrial research and assessment centers**
+
+(1) **In general** — The Secretary shall provide funding to establish additional industrial research and assessment centers at trade schools, community colleges, and union training programs.
+
+(2) **Purpose**
+
+  (A) *In general* — Subject to subparagraph (B), to the maximum extent practicable, an industrial research and assessment center established under paragraph (1) shall have the same purpose as an institution of higher education-based industrial research center that is funded by the Secretary under subsection (b)(1).
+
+  (B) *Consideration of capabilities* — In evaluating or establishing the purpose of an industrial research and assessment center established under paragraph (1), the Secretary shall take into consideration the varying capabilities of trade schools, community colleges, and union training programs.
+
+**(g) Workforce training**
+
+(1) **Internships** — The Secretary shall pay the Federal share of associated internship programs under which students work with or for industries, manufacturers, and energy service providers to implement the recommendations of industrial research and assessment centers.
+
+(2) **Apprenticeships** — The Secretary shall pay the Federal share of associated apprenticeship programs under which—
+
+  (A) students work with or for industries, manufacturers, and energy service providers to implement the recommendations of industrial research and assessment centers; and
+
+  (B) employees of facilities that have received an assessment from an industrial research and assessment center work with or for an industrial research and assessment center to gain knowledge on engineering practices and processes to improve productivity and energy savings.
+
+(3) **Federal share** — The Federal share of the cost of carrying out internship programs described in paragraph (1) and apprenticeship programs described in paragraph (2) shall be 50 percent.
+
+**(h) Small business loans** The Administrator of the Small Business Administration shall, to the maximum extent practicable, expedite consideration of applications from eligible small business concerns for loans under the Small Business Act ([15 U.S.C. 631](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section631&num=0&edition=prelim) et seq.) to implement recommendations developed by the industrial research and assessment centers.
+
+**(i) Implementation grants**
+
+(1) **In general** — The Secretary shall establish a program under which the Secretary shall provide grants to eligible entities to implement covered projects.
+
+(2) **Application** — An eligible entity seeking a grant under the Program shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including a demonstration of need for financial assistance to implement the proposed covered project.
+
+(3) **Priority** — In awarding grants under the Program, the Secretary shall give priority to eligible entities that—
+
+  (A) have had an energy assessment completed by an industrial research and assessment center; and
+
+  (B) propose to carry out a covered project with a greater potential for—
+
+    (i) energy efficiency gains; or
+
+    (ii) greenhouse gas emissions reductions.
+
+(4) **Grant amount**
+
+  (A) *Maximum amount* — The amount of a grant provided to an eligible entity under the Program shall not exceed $300,000.
+
+  (B) *Federal share* — A grant awarded under the Program for a covered project shall be in an amount that is not more than 50 percent of the cost of the covered project.
+
+  (C) *Supplement* — A grant received by an eligible entity under the Program shall supplement, not supplant, any private or State funds available to the eligible entity to carry out the covered project.
+
+**(j) Authorization of appropriations** There are authorized to be appropriated to the Secretary for the period of fiscal years 2022 through 2026—
+
+(1) $150,000,000 to carry out subsections (a) through (h); and
+
+(2) $400,000,000 to carry out subsection (i).
+
+### Statutory Notes
+
+#### References in Text
+The Small Business Act, referred to in subsec. (h), is Pub. L. 85–536, § 2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 631 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section631&num=0&edition=prelim) and Tables.
 
 
 <a id="section-17063"></a>
@@ -1783,11 +2020,11 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
 ### Statutory Notes
 
-#### Change of Name
-Office of the Federal Environmental Executive reestablished as the Office of the Chief Sustainability Officer by Ex. Ord. No. 13693, § 6, Mar. 19, 2015, 80 F.R. 15877, set out in a note under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321).
-
 #### Effective Date
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
+#### Change of Name
+Office of the Federal Environmental Executive reestablished as the Office of the Chief Sustainability Officer by Ex. Ord. No. 13693, § 6, Mar. 19, 2015, 80 F.R. 15877, set out in a note under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321).
 
 
 <a id="section-17092"></a>
@@ -1836,7 +2073,7 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
 (2) conduct pilot programs and demonstration projects to evaluate replicable approaches to achieving energy efficient commercial buildings for a variety of building types in a variety of climate zones;
 
-(3) conduct deployment, dissemination, and technical assistance activities to encourage widespread adoption of technologies, practices, and policies to achieve energy efficient commercial buildings;
+(3) conduct deployment, dissemination, and technical assistance activities to encourage widespread adoption of technologies, practices, and policies (including demand-response technologies, practices, and policies) to achieve energy efficient commercial buildings;
 
 (4) conduct other research, development, demonstration, and deployment activities necessary to achieve each goal of the initiative, as determined by the Commercial Director, in consultation with the consortium;
 
@@ -1863,6 +2100,9 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 (4) $200,000,000 for each of fiscal years 2013 through 2018.
 
 ### Statutory Notes
+
+#### Amendments
+2021—Subsec. (d)(3). Pub. L. 117–58 inserted “(including demand-response technologies, practices, and policies)” after “policies”.
 
 #### Effective Date
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
@@ -2229,11 +2469,11 @@ This part, referred to in subsecs. (a)(2), (c)(6), (f)(1) and (h)(2)(B), was in 
 
 Section 474, referred to in subsec. (c)(3), probably means section 494 of Pub. L. 110–140, which is classified to [section 17123 of this title](./chapter-152-energy-independence-and-security.md#section-17123).
 
-#### Change of Name
-Office of the Federal Environmental Executive reestablished as the Office of the Chief Sustainability Officer by Ex. Ord. No. 13693, § 6, Mar. 19, 2015, 80 F.R. 15877, set out in a note under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321).
-
 #### Effective Date
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
+#### Change of Name
+Office of the Federal Environmental Executive reestablished as the Office of the Chief Sustainability Officer by Ex. Ord. No. 13693, § 6, Mar. 19, 2015, 80 F.R. 15877, set out in a note under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321).
 
 
 <a id="section-17113"></a>
@@ -2407,8 +2647,8 @@ Sections 434 through 439, referred to in text, are sections 434 to 439 of Pub. L
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
-<a id="section-17121"></a>
-## § 17121. Energy-intensive industries program
+<a id="section-17116"></a>
+## § 17116. Future of industry program
 **(a) Definitions** In this section:
 
 (1) **Eligible entity** — The term “eligible entity” means—
@@ -2445,7 +2685,9 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
     (viii) steel;
 
-  (E) other energy-intensive industries, as determined by the Secretary.
+  (E) water and wastewater treatment facilities, including systems that treat municipal, industrial, and agricultural waste; and
+
+  (F) other energy-intensive industries, as determined by the Secretary.
 
 (3) **Feedstock** — The term “feedstock” means the raw material supplied for use in manufacturing, chemical, and biological processes.
 
@@ -2507,19 +2749,7 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
 **(d) Grants** The Secretary may award competitive grants for innovative technology research, development and demonstrations to universities, individual inventors, and small companies, based on energy savings potential, commercial viability, and technical merit.
 
-**(e) Institution of higher education-based industrial research and assessment centers** The Secretary shall provide funding to institution of higher education-based industrial research and assessment centers, whose purpose shall be—
-
-(1) to identify opportunities for optimizing energy efficiency and environmental performance;
-
-(2) to promote applications of emerging concepts and technologies in small- and medium-sized manufacturers;
-
-(3) to promote research and development for the use of alternative energy sources to supply heat, power, and new feedstocks for energy-intensive industries;
-
-(4) to coordinate with appropriate Federal and State research offices, and provide a clearinghouse for industrial process and energy efficiency technical assistance resources; and
-
-(5) to coordinate with State-accredited technical training centers and community colleges, while ensuring appropriate services to all regions of the United States.
-
-**(f) Authorization of appropriations**
+**(e) Authorization of appropriations**
 
 (1) **In general** — There are authorized to be appropriated to the Secretary to carry out this section—
 
@@ -2541,12 +2771,19 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
 ### Statutory Notes
 
+#### Amendments
+2021—Pub. L. 117–58, § 40521(a)(1)(A), substituted “Future of industry program” for “Energy-intensive industries program” in section catchline.
+
+Subsec. (a)(2)(E), (F). Pub. L. 117–58, § 40521(a)(1)(B), added subpar. (E) and redesignated former subpar. (E) as (F).
+
+Subsecs. (e), (f). Pub. L. 117–58, § 40521(a)(1)(C), (D), redesignated subsec. (f) as (e) and struck out former subsec. (e) which related to institution of higher education-based industrial research and assessment centers.
+
 #### Effective Date
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
-<a id="section-17122"></a>
-## § 17122. Energy efficiency for data center buildings
+<a id="section-17121"></a>
+## § 17121. Energy efficiency for data center buildings
 **(a) Definitions** In this section:
 
 (1) **Data center** — The term “data center” means any facility that primarily contains electronic equipment used to process, store, and transmit digital information, which may be—
@@ -2659,8 +2896,8 @@ Subsecs. (c) to (j). Pub. L. 116–260, § 1003(2), added subsecs. (c) to (j) an
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
-<a id="section-17123"></a>
-## § 17123. Industrial emissions reduction technology development program
+<a id="section-17122"></a>
+## § 17122. Industrial emissions reduction technology development program
 **(a) Definitions** In this section:
 
 (1) **Director** — The term “Director” means the Director of the Office of Science and Technology Policy.
@@ -2705,7 +2942,7 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
   (B) coordinate and collaborate with the Industrial Technology Innovation Advisory Committee established under [section 17115 of this title](./chapter-152-energy-independence-and-security.md#section-17115); and
 
-  (C) coordinate and seek to avoid duplication with the energy-intensive industries program established under [section 17111 of this title](./chapter-152-energy-independence-and-security.md#section-17111).
+  (C) coordinate and seek to avoid duplication with the Future of Industry 11 So in original. program established under [section 17111 of this title](./chapter-152-energy-independence-and-security.md#section-17111).
 
 (3) **Leverage of existing resources** — In carrying out the program, the Secretary shall leverage, to the maximum extent practicable—
 
@@ -2803,12 +3040,15 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
 ### Statutory Notes
 
+#### Amendments
+2021—Subsec. (b)(2)(C). Pub. L. 117–58 substituted “Future of Industry” for “energy-intensive industries”.
+
 #### Purpose
 Pub. L. 116–260, div. Z, title VI, § 6001, Dec. 27, 2020, 134 Stat. 2552, provided that: “The purpose of this title [enacting this section and sections 17114 to 17115a of this title and amending [section 6351 of this title](./chapter-077-energy-conservation.md#section-6351)] and the amendments made by this title is to encourage the development and evaluation of innovative technologies aimed at increasing— “(1) the technological and economic competitiveness of industry and manufacturing in the United States; and “(2) the emissions reduction of nonpower industrial sectors.”
 
 
-<a id="section-17124"></a>
-## § 17124. Industrial Technology Innovation Advisory Committee
+<a id="section-17123"></a>
+## § 17123. Industrial Technology Innovation Advisory Committee
 **(a) Definitions** In this section:
 
 (1) **Committee** — The term “Committee” means the Industrial Technology Innovation Advisory Committee established under subsection (b).
@@ -2837,9 +3077,9 @@ Pub. L. 116–260, div. Z, title VI, § 6001, Dec. 27, 2020, 134 Stat. 2552, pro
 
   (E) not less than 2 representatives of nongovernmental organizations;
 
-  (F) not less than 6 representatives of small- and large-scale industry, the collective expertise of which shall cover every focus area described in [section 17113(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17113/c&num=0&edition=prelim); and
+  (F) 11 So in original. There are two subpars. (F). not less than 6 representatives of small- and large-scale industry, the collective expertise of which shall cover every focus area described in [section 17113(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17113/c&num=0&edition=prelim); and 22 So in original. The word “and” probably should not appear.
 
-  (F) not less than 1 representative of a State government; and
+  (F) 1 not less than 1 representative of a State government; and
 
   (G) any other individuals the Secretary, in coordination with the Director, determines to be necessary to ensure that the Committee is comprised of a diverse group of representatives of industry, academia, independent researchers, and public and private entities.
 
@@ -2925,6 +3165,57 @@ Pub. L. 116–260, div. Z, title VI, § 6001, Dec. 27, 2020, 134 Stat. 2552, pro
 
 #### References in Text
 The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+
+<a id="section-17124"></a>
+## § 17124. Technical assistance program to implement industrial emissions reduction
+**(a) Definitions** In this section:
+
+(1) **Eligible entity** — The term “eligible entity” means—
+
+  (A) a State;
+
+  (B) a unit of local government;
+
+  (C) a territory or possession of the United States;
+
+  (D) a relevant State or local office, including an energy office;
+
+  (E) a tribal organization (as defined in [section 3765 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3765&num=0&edition=prelim));
+
+  (F) an institution of higher education; and 11 So in original.
+
+  (G) a private entity; and
+
+  (H) a trade association or technical society.
+
+(2) **Emissions reduction** — The term “emissions reduction” has the meaning given the term in [section 17113(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17113/a&num=0&edition=prelim).
+
+(3) **Program** — The term “program” means the program established under subsection (b).
+
+**(b) Establishment** Not later than 1 year after December 27, 2020, the Secretary shall establish a program to provide technical assistance to eligible entities to promote the commercial application of emission reduction technologies developed through the program established in [section 17113(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17113/b&num=0&edition=prelim).
+
+**(c) Applications**
+
+(1) **In general** — An eligible entity desiring technical assistance under the program shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+
+(2) **Application process** — The Secretary shall seek applications for technical assistance under the program on a periodic basis, but not less frequently than once every 12 months.
+
+(3) **Factors for consideration** — In selecting eligible entities for technical assistance under the program, the Secretary shall, to the maximum extent practicable—
+
+  (A) give priority to—
+
+    (i) activities carried out with technical assistance under the program that have the greatest potential for achieving emissions reduction in nonpower industrial sectors;
+
+    (ii) activities carried out in a State in which there are active or inactive industrial facilities that may be used or retrofitted to carry out activities under the focus areas described in [section 17113(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17113/c&num=0&edition=prelim); and
+
+    (iii) activities carried out in an economically distressed area (as described in [section 3161(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3161/a&num=0&edition=prelim)); and
+
+  (B) ensure that—
+
+    (i) there is geographic diversity among the eligible entities selected; and
+
+    (ii) the activities carried out with technical assistance under the program reflect a majority of the focus areas described in [section 17113(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17113/c&num=0&edition=prelim).
 
 
 <a id="section-17131"></a>
@@ -3360,9 +3651,11 @@ An eligible entity may use a grant received under this part to carry out activit
 
   (C) fuel cells; and
 
-  (D) biomass; and
+  (D) biomass;
 
-(14) any other appropriate activity, as determined by the Secretary, in consultation with—
+(14) programs for financing energy efficiency, renewable energy, and zero-emission transportation (and associated infrastructure), capital investments, projects, and programs, which may include loan programs and performance contracting programs, for leveraging of additional public and private sector funds, and programs that allow rebates, grants, or other incentives for the purchase and installation of energy efficiency, renewable energy, and zero-emission transportation (and associated infrastructure) measures; and
+
+(15) any other appropriate activity, as determined by the Secretary, in consultation with—
 
   (A) the Administrator of the Environmental Protection Agency;
 
@@ -3371,6 +3664,9 @@ An eligible entity may use a grant received under this part to carry out activit
   (C) the Secretary of Housing and Urban Development.
 
 ### Statutory Notes
+
+#### Amendments
+2021—Pars. (14), (15). Pub. L. 117–58 added par. (14) and redesignated former par. (14) as (15).
 
 #### Effective Date
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
@@ -3688,7 +3984,7 @@ For purposes of this part:
 ### Statutory Notes
 
 #### Amendments
-2020—Par. (1). Pub. L. 116–260, § 3002(a), amended par. (1) generally. Prior to amendment, par. (1) defined the term“engineered”.
+2020—Par. (1). Pub. L. 116–260, § 3002(a), amended par. (1) generally. Prior to amendment, par. (1) defined the term “engineered”.
 
 Pars. (2) to (8). Pub. L. 116–260, § 3002(a)(2), (3), added par. (2) and redesignated former pars. (2) to (7) as (3) to (8), respectively.
 
@@ -3730,7 +4026,7 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
 (3) support a program of research to compare the potential environmental impacts and environmental benefits identified as part of the development, production, and use of geothermal energy with the potential emission reductions of greenhouse gases gained by geothermal energy development, production, and use; and
 
-(4) in carrying out this section, the Secretary shall,11 So in original. to the maximum extent practicable, consult with relevant federal agencies, including the Environmental Protection Agency.
+(4) in carrying out this section, the Secretary shall,11 So in original. The words “The Secretary shall” appear in introductory provisions. to the maximum extent practicable, consult with relevant federal agencies, including the Environmental Protection Agency.
 
 **(c) Reservoir thermal energy storage** The Secretary shall support a program of research, development, and demonstration of reservoir thermal energy storage, emphasizing cost-effective improvements through deep direct use engineering, design, and systems research.
 
@@ -3893,6 +4189,9 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
 #### References in Text
 December 27, 2020, referred to in subsecs. (c)(4) and (d)(1), was in the original “the date of enactment of this Act” and “he date of enactment of this section”, respectively, and were translated as meaning the date of enactment of Pub. L. 116–260, which was approved Dec. 27, 2020.
+
+#### Amendments
+2020—Pub. L. 116–260 amended section generally. Prior to amendment, section related to enhanced geothermal systems research and development.
 
 #### Effective Date
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
@@ -4524,7 +4823,7 @@ A prior section 17215, Pub. L. 110–140, title VI, § 636, Dec. 19, 2007, 121 S
 
 
 <a id="section-17231"></a>
-## § 17231. Applicability of other laws.
+## § 17231. Applicability of other laws
 
 Nothing in this part shall be construed as waiving, modifying, or superseding the applicability of any requirement under any environmental or other Federal or State law.
 
@@ -4747,11 +5046,127 @@ There are authorized to be appropriated to the Secretary to carry out this part 
 
   (F) Control systems that minimize emissions profiles in cases in which clean diesel engines are part of a plug-in hybrid drive system.
 
-**(k) Secondary applications and disposal of electric drive vehicle batteries** The Secretary shall carry out a program of research, development, and demonstration of—
+**(k) Electric drive vehicle battery second-life applications and recycling**
 
-(1) secondary applications of energy storage devices following service in electric drive vehicles; and
+(1) **Definitions** — In this subsection:
 
-(2) technologies and processes for final recycling and disposal of the devices.
+  (A) *Battery recycling and second-life applications program* — The term “battery recycling and second-life applications program” means the electric drive vehicle battery recycling and second-life applications program established under paragraph (3).
+
+  (B) *Critical material* — The term “critical material” has the meaning given the term in [section 1606(a) of title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1606/a&num=0&edition=prelim).
+
+  (C) *Economically distressed area* — The term “economically distressed area” means an area described in [section 3161(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3161/a&num=0&edition=prelim).
+
+  (D) *Electric drive vehicle battery* — The term “electric drive 11 So in original. vehicle battery” means any battery that is a motive power source for an electric drive vehicle.
+
+  (E) *Eligible entity* — The term “eligible entity” means an entity described in any of paragraphs (1) through (5) of [section 16353(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16353/b&num=0&edition=prelim).
+
+(2) **Program** — The Secretary shall carry out a program of research, development, and demonstration of—
+
+  (A) second-life applications for electric drive vehicle batteries that have been used to power electric drive vehicles; and
+
+  (B) technologies and processes for final recycling and disposal of the devices described in subparagraph (A).
+
+(3) **Electric drive vehicle battery recycling and second-life applications**
+
+  (A) *In general* — In carrying out the program under paragraph (2), the Secretary shall establish an electric drive vehicle battery recycling and second-life applications program under which the Secretary shall—
+
+    (i) award grants under subparagraph (D); and
+
+    (ii) carry out other activities in accordance with this paragraph.
+
+  (B) *Purposes* — The purposes of the battery recycling and second-life applications program are the following:
+
+    (i) To improve the recycling rates and second-use adoption rates of electric drive vehicle batteries.
+
+    (ii) To optimize the design and adaptability of electric drive vehicle batteries to make electric drive vehicle batteries more easily recyclable.
+
+    (iii) To establish alternative supply chains for critical materials that are found in electric drive vehicle batteries.
+
+    (iv) To reduce the cost of manufacturing, installation, purchase, operation, and maintenance of electric drive vehicle batteries.
+
+    (v) To improve the environmental impact of electric drive vehicle battery recycling processes.
+
+  (C) *Targets* — In carrying out the battery recycling and second-life applications program, the Secretary shall address near-term (up to 2 years), mid-term (up to 5 years), and long-term (up to 10 years) challenges to the recycling of electric drive vehicle batteries.
+
+  (D) *Grants*
+
+    (i) *In general* — In carrying out the battery recycling and second-life applications program, the Secretary shall award multiyear grants on a competitive, merit-reviewed basis to eligible entities—
+
+      (I) to conduct research, development, testing, and evaluation of solutions to increase the rate and productivity of electric drive vehicle battery recycling; and
+
+      (II) for research, development, and demonstration projects to create innovative and practical approaches to increase the recycling and second-use of electric drive vehicle batteries, including by addressing—
+
+        (aa) technology to increase the efficiency of electric drive vehicle battery recycling and maximize the recovery of critical materials for use in new products;
+
+        (bb) expanded uses for critical materials recovered from electric drive vehicle batteries;
+
+        (cc) product design and construction to facilitate the disassembly and recycling of electric drive vehicle batteries;
+
+        (dd) product design and construction and other tools and techniques to extend the lifecycle of electric drive vehicle batteries, including methods to promote the safe second-use of electric drive vehicle batteries;
+
+        (ee) strategies to increase consumer acceptance of, and participation in, the recycling of electric drive vehicle batteries;
+
+        (ff) improvements and changes to electric drive vehicle battery chemistries that include ways to decrease processing costs for battery recycling without sacrificing front-end performance;
+
+        (gg) second-use of electric drive vehicle batteries, including in applications outside of the automotive industry; and
+
+        (hh) the commercialization and scale-up of electric drive vehicle battery recycling technologies.
+
+    (ii) *Priority* — In awarding grants under clause (i), the Secretary shall give priority to projects that—
+
+      (I) are located in geographically diverse regions of the United States;
+
+      (II) include business commercialization plans that have the potential for the recycling of electric drive vehicle batteries at high volumes;
+
+      (III) support the development of advanced manufacturing technologies that have the potential to improve the competitiveness of the United States in the international electric drive vehicle battery manufacturing sector;
+
+      (IV) provide the greatest potential to reduce costs for consumers and promote accessibility and community implementation of demonstrated technologies;
+
+      (V) increase disclosure and transparency of information to consumers;
+
+      (VI) support the development or demonstration of projects in economically distressed areas; and
+
+      (VII) support other relevant priorities, as determined to be appropriate by the Secretary.
+
+    (iii) *Solicitation* — Not later than 90 days after November 15, 2021, and annually thereafter, the Secretary shall conduct a national solicitation for applications for grants described in clause (i).
+
+    (iv) *Dissemination of results* — The Secretary shall publish the results of the projects carried out through grants awarded under clause (i) through—
+
+      (I) best practices relating to those grants, for use in the electric drive vehicle battery manufacturing, design, installation, refurbishing, or recycling industries;
+
+      (II) coordination with information dissemination programs relating to general recycling of electronic devices; and
+
+      (III) educational materials for the public, produced in conjunction with State and local governments or nonprofit organizations, on the problems and solutions relating to the recycling and second-life applications of electric drive vehicle batteries.
+
+  (E) *Coordination with other programs of the Department* — In carrying out the battery recycling and second-life applications program, the Secretary shall coordinate and leverage the resources of complementary efforts of the Department.
+
+  (F) *Study and report*
+
+    (i) *Study* — The Secretary shall conduct a study on the viable market opportunities available for the recycling, second-use, and manufacturing of electric drive vehicle batteries in the United States.
+
+    (ii) *Report* — Not later than 1 year after November 15, 2021, the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate, the Committee on Science, Space, and Technology of the House of Representatives, and any other relevant committee of Congress a report containing the results of the study under clause (i), including a description of—
+
+      (I) the ability of relevant businesses or other entities to competitively manufacture electric drive vehicle batteries and recycle electric drive vehicle batteries in the United States;
+
+      (II) any existing electric drive vehicle battery recycling and second-use practices and plans of electric drive vehicle manufacturing companies in the United States;
+
+      (III) any barriers to electric drive vehicle battery recycling in the United States;
+
+      (IV) opportunities and barriers in electric drive vehicle battery supply chains in the United States and internationally, including with allies and trading partners;
+
+      (V) opportunities for job creation in the electric drive vehicle battery recycling and manufacturing fields and the necessary skills employees must acquire for growth of those fields in the United States;
+
+      (VI) policy recommendations for enhancing electric drive vehicle battery manufacturing and recycling in the United States;
+
+      (VII) any recommendations for lowering logistics costs and creating better coordination and efficiency with respect to the removal, collection, transportation, storage, and disassembly of electric drive vehicle batteries;
+
+      (VIII) any recommendations for areas of coordination with other Federal agencies to improve electric drive vehicle battery recycling rates in the United States;
+
+      (IX) an aggressive 2-year target and plan, the implementation of which shall begin during the 90-day period beginning on the date on which the report is submitted, to enhance the competitiveness of electric drive vehicle battery manufacturing and recycling in the United States; and
+
+      (X) needs for future research, development, and demonstration projects in electric drive vehicle battery manufacturing, recycling, and related areas, as determined by the Secretary.
+
+  (G) *Evaluation* — Not later than 3 years after the date on which the report under subparagraph (F)(ii) is submitted, and every 4 years thereafter, the Secretary shall conduct, and make available to the public and the relevant committees of Congress, an independent review of the progress of the grants awarded under subparagraph (D) in meeting the recommendations and targets included in the report.
 
 **(l) Cost sharing** The Secretary shall carry out the programs established under this section in accordance with [section 16352 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16352).
 
@@ -4773,7 +5188,7 @@ There are authorized to be appropriated to the Secretary to carry out this part 
 
 (5) the vehicle energy storage demonstration program under subsection (j) $30,000,000 for each of fiscal years 2009 through 2018; and
 
-(6) the secondary applications and disposal of electric drive vehicle batteries program under subsection (k) $5,000,000 for each of fiscal years 2009 through 2018.
+(6) the electric drive vehicle battery recycling and second-life applications program under subsection (k) $200,000,000 for the period of fiscal years 2022 through 2026.
 
 **(q) Critical material recycling and reuse research, development, and demonstration program**
 
@@ -4806,7 +5221,14 @@ There are authorized to be appropriated to the Secretary to carry out this part 
 #### References in Text
 The Federal Advisory Committee Act, referred to in subsec. (e)(3)(B), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
+#### Codification
+Section 40334(1) of Pub. L. 117–58, which directed amendment of section 3201 of the Energy Policy Act of 2020 by redesignating subsection (e) as subsection (f), was executed by making the amendment to section 3201 of div. Z of Pub. L. 116–260, known as the Energy Act of 2020, to reflect the probable intent of Congress.
+
 #### Amendments
+2021—Subsec. (k). Pub. L. 117–58, § 40208(1), added subsec. (k) and struck out former subsec. (k) which related to secondary applications and disposal of electric drive vehicle batteries.
+
+Subsec. (p)(6). Pub. L. 117–58, § 40208(2), added par. (6) and struck out former par. (6) which read as follows: “the secondary applications and disposal of electric drive vehicle batteries program under subsection (k) $5,000,000 for each of fiscal years 2009 through 2018.”
+
 2020—Subsec. (q). Pub. L. 116–260 added subsec. (q).
 
 #### Effective Date
@@ -4961,7 +5383,11 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
 **(c) Energy storage demonstration projects; pilot grant program**
 
-(1) **Demonstration projects** — Not later than September 30, 2023, the Secretary shall, to the maximum extent practicable, enter into agreements to carry out 3 energy storage system demonstration projects, including at least 1 energy storage system demonstration project designed to further the development of technologies described in clause (v) or (vi) of subsection (b)(2)(A).
+(1) **Demonstration projects** — Not later than September 30, 2023, the Secretary shall, to the maximum extent practicable, enter into agreements to carry out 3 energy storage system demonstration projects, including—
+
+  (A) at least 1 energy storage system demonstration project designed to further the development of technologies described in clause (v) or (vi) of subsection (b)(2)(A); and
+
+  (B) 1 project to demonstrate second-life applications of electric vehicle batteries as aggregated energy storage installations to provide services to the electric grid, in accordance with paragraph (3).
 
 (2) **Energy storage pilot grant program**
 
@@ -5029,9 +5455,29 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
     (xii) To improve energy efficiency.
 
-(3) **Reports** — Not less frequently than once every 3 years for the duration of the programs under paragraphs (1) and (2), the Secretary shall submit to Congress and make publicly available a report describing the performance of those programs.
+(3) **Demonstration of electric vehicle battery second-life applications for grid services**
 
-(4) **No project ownership interest** — The Federal Government shall not hold any equity or other ownership interest in any energy storage system that is part of a project under this subsection unless the holding is agreed to by each participant of the project.
+  (A) *In general* — The Secretary shall enter into an agreement to carry out a project to demonstrate second-life applications of electric vehicle batteries as aggregated energy storage installations to provide services to the electric grid.
+
+  (B) *Purposes* — The purposes of the project under subparagraph (A) shall be—
+
+    (i) to demonstrate power safety and the reliability of the applications demonstrated under the program;
+
+    (ii) to demonstrate the ability of electric vehicle batteries—
+
+      (I) to provide ancillary services for grid stability and management; and
+
+      (II) to reduce the peak loads of homes and businesses;
+
+    (iii) to extend the useful life of electric vehicle batteries and the components of electric vehicle batteries prior to the collection, recycling, and reprocessing of the batteries and components; and
+
+    (iv) to increase acceptance of, and participation in, the use of second-life applications of electric vehicle batteries by utilities.
+
+  (C) *Priority* — In selecting a project to carry out under subparagraph (A), the Secretary shall give priority to projects in which the demonstration of the applicable second-life applications is paired with 1 or more facilities that could particularly benefit from increased resiliency and lower energy costs, such as a multi-family affordable housing facility, a senior care facility, and a community health center.
+
+(4) **Reports** — Not less frequently than once every 3 years for the duration of the programs under paragraphs (1) and (2), the Secretary shall submit to Congress and make publicly available a report describing the performance of those programs.
+
+(5) **No project ownership interest** — The Federal Government shall not hold any equity or other ownership interest in any energy storage system that is part of a project under this subsection unless the holding is agreed to by each participant of the project.
 
 **(d) Long-duration demonstration initiative and joint program**
 
@@ -5091,9 +5537,51 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
       (II) will be carried out in the field.
 
-**(e) Omitted**
+**(e) Pumped storage hydropower wind and solar integration and system reliability initiative**
 
-**(f) Coordination** To the maximum extent practicable, the Secretary shall coordinate the activities under this section (including activities conducted pursuant to the amendments made by this section) among the offices and employees of the Department, other Federal agencies, and other relevant entities—
+(1) **Definition of eligible entity** — In this subsection, the term “eligible entity” means—
+
+  (A)
+
+    (i) an electric utility, including—
+
+      (I) a political subdivision of a State, such as a municipally owned electric utility; or
+
+      (II) an instrumentality of a State composed of municipally owned electric utilities;
+
+    (ii) an electric cooperative; or
+
+    (iii) an investor-owned utility;
+
+  (B) an Indian Tribe or Tribal organization;
+
+  (C) a State energy office;
+
+  (D) an institution of higher education; and
+
+  (E) a consortium of the entities described in subparagraphs (A) through (D).
+
+(2) **Demonstration project**
+
+  (A) *In general* — Not later than September 30, 2023, the Secretary shall, to the maximum extent practicable, enter into an agreement with an eligible entity to provide financial assistance to the eligible entity to carry out project design, transmission studies, power market assessments, and permitting for a pumped storage hydropower project to facilitate the long-duration storage of intermittent renewable electricity.
+
+  (B) *Project requirements* — To be eligible for financial assistance under subparagraph (A), a project shall—
+
+    (i) be designed to provide not less than 1,000 megawatts of storage capacity;
+
+    (ii) be able to provide energy and capacity for use in more than 1 organized electricity market;
+
+    (iii) be able to store electricity generated by intermittent renewable electricity projects located on Tribal land; and
+
+    (iv) have received a preliminary permit from the Federal Energy Regulatory Commission.
+
+  (C) *Matching requirement* — An eligible entity receiving financial assistance under subparagraph (A) shall provide matching funds equal to or greater than the amount of financial assistance provided under that subparagraph.
+
+(3) **Authorization of appropriations** — There is authorized to be appropriated to carry out this subsection $2,000,000 for each of fiscal years 2022 through 2026.
+
+**(f) Omitted**
+
+**(g) Coordination** To the maximum extent practicable, the Secretary shall coordinate the activities under this section (including activities conducted pursuant to the amendments made by this section) among the offices and employees of the Department, other Federal agencies, and other relevant entities—
 
 (1) to ensure appropriate collaboration;
 
@@ -5101,7 +5589,7 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
 (3) to increase domestic manufacturing and production of energy storage systems, such as those within the Department and within the National Institute of Standards and Technology.
 
-**(g) Authorization of appropriations** There are authorized to be appropriated—
+**(h) Authorization of appropriations** There are authorized to be appropriated—
 
 (1) to carry out subsection (b), $100,000,000 for each of fiscal years 2021 through 2025, to remain available until expended;
 
@@ -5114,7 +5602,14 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 #### Codification
 Section was enacted as part of the Energy Act of 2020, and not as part of the Energy Independence and Security Act of 2007 which comprises this chapter.
 
-Section is comprised of section 3201 of div. Z of Pub. L. 116–260. Subsec. (e) of section 3201 of div. Z of Pub. L. 116–260 amended [section 17231 of this title](./chapter-152-energy-independence-and-security.md#section-17231).
+Section is comprised of section 3201 of div. Z of Pub. L. 116–260. Subsec. (f) of section 3201 of div. Z of Pub. L. 116–260 amended [section 17231 of this title](./chapter-152-energy-independence-and-security.md#section-17231). Section 40334(1) of Pub. L. 117–58, which directed amendment of section 3201 of the Energy Policy Act of 2020 by redesignating subsections (e) through (g) as subsections (f) through (h), respectively, was executed by making the amendment to section 3201 of div. Z of Pub. L. 116–260, known as the Energy Act of 2020, to reflect the probable intent of Congress.
+
+#### Amendments
+2021—Subsec. (c)(1). Pub. L. 117–58, § 40112(1), substituted “including—” for “including”, inserted subpar. (A) designation before “at least” and added subpar. (B).
+
+Subsec. (c)(3) to (5). Pub. L. 117–58, § 40112(2), (3), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
+
+Subsecs. (e) to (h). Pub. L. 117–58, § 40334, which directed amendment of section 3201 of the Energy Policy Act of 2020 by adding subsec. (e) and redesignating former subsecs. (e) to (g) as (f) to (h), respectively, was executed to this section, which is section 3201 of the Energy Act of 2020, to reflect the probable intent of Congress.
 
 
 <a id="section-17242"></a>
@@ -7537,7 +8032,7 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 ## § 17388. Federal matching fund for smart grid investment costs
 **(a) Matching fund** The Secretary shall establish a Smart Grid Investment Matching Grant Program to provide grants of up to one-half (50 percent) of qualifying Smart Grid investments.
 
-**(b) Qualifying investments** Qualifying Smart Grid investments may include any of the following made on or after December 19, 2007:
+**(b) Qualifying investments** Qualifying Smart Grid investments may include any of the following made on or after November 15, 2021:
 
 (1) In the case of appliances covered for purposes of establishing energy conservation standards under part B of title III of the Energy Policy and Conservation Act of 1975 ([42 U.S.C. 6291](./chapter-077-energy-conservation.md#section-6291) et seq.), the documented expenditures incurred by a manufacturer of such appliances associated with purchasing or designing, creating the ability to manufacture, and manufacturing and installing for one calendar year, internal devices that allow the appliance to engage in Smart Grid functions.
 
@@ -7555,7 +8050,17 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
 (8) In the case of electric or hybrid-electric vehicles, the documented expenses for devices that allow the vehicle to engage in Smart Grid functions (but not the costs of electricity storage for the vehicle).
 
-(9) The documented expenditures related to purchasing and implementing Smart Grid functions in such other cases as the Secretary shall identify.
+(9) In the case of data analytics that enable software to engage in Smart Grid functions, the documented purchase costs of the data analytics.
+
+(10) In the case of buildings, the documented expenses for devices and software, including for installation, that allow buildings to engage in demand flexibility or Smart Grid functions.
+
+(11) In the case of utility communications, operational fiber and wireless broadband communications networks to enable data flow between distribution system components.
+
+(12) In the case of advanced transmission technologies such as dynamic line rating, flow control devices, advanced conductors, network topology optimization, or other hardware, software, and associated protocols applied to existing transmission facilities that increase the operational transfer capacity of a transmission network, the documented expenditures to purchase and install those advanced transmission technologies.
+
+(13) In the case of extreme weather or natural disasters, the ability to redirect or shut off power to minimize blackouts and avoid further damage.
+
+(14) The documented expenditures related to purchasing and implementing Smart Grid functions in such other cases as the Secretary shall identify.
 
 **(c) Investments not included** Qualifying Smart Grid investments do not include any of the following:
 
@@ -7595,7 +8100,21 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
 (8) The ability to use digital controls to manage and modify electricity demand, enable congestion management, assist in voltage control, provide operating reserves, and provide frequency regulation.
 
-(9) Such other functions as the Secretary may identify as being necessary or useful to the operation of a Smart Grid.
+(9) The ability to use data analytics and software-as-service to provide flexibility by improving the visibility of the electrical system to grid operators that can help quickly rebalance the electrical system with autonomous controls.
+
+(10) The ability to facilitate the aggregation or integration of distributed energy resources to serve as assets for the grid.
+
+(11) The ability to provide energy storage to meet fluctuating electricity demand, provide voltage support, and integrate intermittent generation sources, including vehicle-to-grid technologies.
+
+(12) The ability of hardware, software, and associated protocols applied to existing transmission facilities to increase the operational transfer capacity of a transmission network.
+
+(13) The ability to anticipate and mitigate impacts of extreme weather or natural disasters on grid resiliency.
+
+(14) The ability to facilitate the integration of renewable energy resources, electric vehicle charging infrastructure, and vehicle-to-grid technologies.
+
+(15) The ability to reliably meet increased demand from electric vehicles and the electrification of appliances and other sectors.
+
+(16) Such other functions as the Secretary may identify as being necessary or useful to the operation of a Smart Grid.
 
 **(e) Procedures and rules**
 
@@ -7623,6 +8142,12 @@ The Energy Policy and Conservation Act, referred to in subsec. (b)(1), is Pub. L
 [Section 2621(d)(17) of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d/17&num=0&edition=prelim), referred to in subsec. (c)(3), was redesignated section 2621(d)(19) by Pub. L. 111–5, div. A, title IV, § 408(a), Feb. 17, 2009, 123 Stat. 146.
 
 #### Amendments
+2021—Subsec. (b). Pub. L. 117–58, § 40107(a)(1)(A), substituted “Novmeber 15, 2021” for “December 19, 2007” in introductory provisions.
+
+Subsec. (b)(9) to (14). Pub. L. 117–58, § 40107(a)(1)(B), (C), added pars. (9) to (13) and redesignated former par. (9) as (14).
+
+Subsec. (d)(9) to (16). Pub. L. 117–58, § 40107(a)(2), added pars. (9) to (15) and redesignated former par. (9) as (16).
+
 2009—Subsec. (a). Pub. L. 111–5, § 405(5), substituted “grants of up to one-half (50 percent)” for “reimbursement of one-fifth (20 percent)”.
 
 Subsec. (b)(9). Pub. L. 111–5, § 405(6), struck out last sentence which read as follows: “In making such grants, the Secretary shall seek to reward innovation and early adaptation, even if success is not complete, rather than deployment of proven and commercially viable technologies.”

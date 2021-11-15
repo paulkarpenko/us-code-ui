@@ -50,7 +50,7 @@ The Congress makes the following findings:
 Pub. L. 96–181, § 1(a), Jan. 2, 1980, 93 Stat. 1309, provided that: “This Act [enacting sections 1111 to 1117 and 1181 of this title, amending this section, sections 1102, 1162, 1164, 1176, 1177, 1180, and 1191 to 1193 of this title, and sections 218, 300l–2, 300m–3, and 3733 of Title 42, The Public Health and Welfare, omitting sections 1118 to 1120 and 1131 to 1133 of this title, enacting provisions set out as notes under this section and [section 1193 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1193&num=0&edition=prelim), and amending provisions set out as a note below] may be cited as the ‘Drug Abuse Prevention, Treatment, and Rehabilitation Amendments of 1979’.”
 
 #### Short Title of 1978 Amendment
-Pub. L. 95–461, § 1, Oct. 14, 1978, 92 Stat. 1268, provided that: “This Act [enacting [section 1194 of this title](./chapter-016-drug-abuse-prevention-treatment-and-rehabilitation.md#section-1194), amending sections 1172, 1176, 1177, 1192, and 1193 of this title, enacting a provision set out as a note under [section 1172 of this title](./chapter-016-drug-abuse-prevention-treatment-and-rehabilitation.md#section-1172) and amending a provision set out as a note under [section 242 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section242&num=0&edition=prelim), The Public Health and Welfare] may be cited as the ‘Drug Abuse Prevention and Treatment Amendments of 1978’. ”
+Pub. L. 95–461, § 1, Oct. 14, 1978, 92 Stat. 1268, provided that: “This Act [enacting [section 1194 of this title](./chapter-016-drug-abuse-prevention-treatment-and-rehabilitation.md#section-1194), amending sections 1172, 1176, 1177, 1192, and 1193 of this title, enacting a provision set out as a note under [section 1172 of this title](./chapter-016-drug-abuse-prevention-treatment-and-rehabilitation.md#section-1172) and amending a provision set out as a note under [section 242 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section242&num=0&edition=prelim), The Public Health and Welfare] may be cited as the ‘Drug Abuse Prevention and Treatment Amendments of 1978’.”
 
 #### Short Title
 Pub. L. 92–255, § 1, Mar. 21, 1972, 86 Stat. 65, as amended by Pub. L. 96–181, § 15(a), Jan. 2, 1980, 93 Stat. 1316, provided that: “This Act [enacting this chapter, and amending sections 5313, 5315, and 5316 of Title 5, Government Organization and Employees, and sections 218, 246, 257, 2684, 2688a, 2688k, 2688n–1, and 2688t of Title 42, The Public Health and Welfare] may be cited as the ‘Drug Abuse Prevention, Treatment, and Rehabilitation Act’.”
@@ -435,7 +435,7 @@ Subsec. (d). Pub. L. 96–181, § 7(c), inserted provisions for special consider
 
 Subsec. (f). Pub. L. 96–181, § 7(d), added subsec. (f).
 
-1978—Subsec. (a). Pub. L. 95–461, § 6(a), inserted provision requiring Secretary to act through National Institute on Drug Abuse in making special proj­ect grants.
+1978—Subsec. (a). Pub. L. 95–461, § 6(a), inserted provision requiring Secretary to act through National Institute on Drug Abuse in making special project grants.
 
 Subsec. (b). Pub. L. 95–461, § 2(b), inserted provisions authorizing appropriations for fiscal year ending Sept. 30, 1979.
 

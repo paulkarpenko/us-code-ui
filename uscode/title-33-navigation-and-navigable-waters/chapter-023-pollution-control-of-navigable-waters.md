@@ -7,284 +7,81 @@ source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33&num=0&edition=prelim
 ---
 <a id="section-1151-to-1165"></a>
-## § 1151 to 1165. Research, investigations, training, and information
-**(a) Establishment of national programs; cooperation; investigations; water quality surveillance system; reports** The Administrator shall establish national programs for the prevention, reduction, and elimination of pollution and as part of such programs shall—
-
-(1) in cooperation with other Federal, State, and local agencies, conduct and promote the coordination and acceleration of, research, investigations, experiments, training, demonstrations, surveys, and studies relating to the causes, effects, extent, prevention, reduction, and elimination of pollution;
-
-(2) encourage, cooperate with, and render technical services to pollution control agencies and other appropriate public or private agencies, institutions, and organizations, and individuals, including the general public, in the conduct of activities referred to in paragraph (1) of this subsection;
-
-(3) conduct, in cooperation with State water pollution control agencies and other interested agencies, organizations and persons, public investigations concerning the pollution of any navigable waters, and report on the results of such investigations;
-
-(4) establish advisory committees composed of recognized experts in various aspects of pollution and representatives of the public to assist in the examination and evaluation of research progress and proposals and to avoid duplication of research;
-
-(5) in cooperation with the States, and their political subdivisions, and other Federal agencies establish, equip, and maintain a water quality surveillance system for the purpose of monitoring the quality of the navigable waters and ground waters and the contiguous zone and the oceans and the Administrator shall, to the extent practicable, conduct such surveillance by utilizing the resources of the National Aeronautics and Space Administration, the National Oceanic and Atmospheric Administration, the United States Geological Survey, and the Coast Guard, and shall report on such quality in the report required under subsection (a) of [section 1375 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1375); and
-
-(6) initiate and promote the coordination and acceleration of research designed to develop the most effective practicable tools and techniques for measuring the social and economic costs and benefits of activities which are subject to regulation under this chapter; and shall transmit a report on the results of such research to the Congress not later than January 1, 1974.
-
-**(b) Authorized activities of Administrator** In carrying out the provisions of subsection (a) of this section the Administrator is authorized to—
-
-(1) collect and make available, through publications and other appropriate means, the results of and other information, including appropriate recommendations by him in connection therewith, pertaining to such research and other activities referred to in paragraph (1) of subsection (a);
-
-(2) cooperate with other Federal departments and agencies, State water pollution control agencies, interstate agencies, other public and private agencies, institutions, organizations, industries involved, and individuals, in the preparation and conduct of such research and other activities referred to in paragraph (1) of subsection (a);
-
-(3) make grants to State water pollution control agencies, interstate agencies, other public or nonprofit private agencies, institutions, organizations, and individuals, for purposes stated in paragraph (1) of subsection (a) of this section;
-
-(4) contract with public or private agencies, institutions, organizations, and individuals, without regard to section 3324(a) and (b) of title 31 and [section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim), referred to in paragraph (1) of subsection (a);
-
-(5) establish and maintain research fellowships at public or nonprofit private educational institutions or research organizations;
-
-(6) collect and disseminate, in cooperation with other Federal departments and agencies, and with other public or private agencies, institutions, and organizations having related responsibilities, basic data on chemical, physical, and biological effects of varying water quality and other information pertaining to pollution and the prevention, reduction, and elimination thereof;
-
-(7) develop effective and practical processes, methods, and prototype devices for the prevention, reduction, and elimination of pollution; and
-
-(8) make grants to nonprofit organizations—
-
-  (A) to provide technical assistance to rural, small, and tribal municipalities for the purpose of assisting, in consultation with the State in which the assistance is provided, such municipalities and tribal governments in the planning, developing, and acquisition of financing for eligible projects and activities described in [section 1383(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1383/c&num=0&edition=prelim);
-
-  (B) to provide technical assistance and training for rural, small, and tribal publicly owned treatment works and decentralized wastewater treatment systems to enable such treatment works and systems to protect water quality and achieve and maintain compliance with the requirements of this chapter; and
-
-  (C) to disseminate information to rural, small, and tribal municipalities and municipalities that meet the affordability criteria established under [section 1383(i)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1383/i/2&num=0&edition=prelim) by the State in which the municipality is located with respect to planning, design, construction, and operation of publicly owned treatment works and decentralized wastewater treatment systems.
-
-**(c) Research and studies on harmful effects of pollutants; cooperation with Secretary of Health and Human Services** In carrying out the provisions of subsection (a) of this section the Administrator shall conduct research on, and survey the results of other scientific studies on, the harmful effects on the health or welfare of persons caused by pollutants. In order to avoid duplication of effort, the Administrator shall, to the extent practicable, conduct such research in cooperation with and through the facilities of the Secretary of Health and Human Services.
-
-**(d) Sewage treatment; identification and measurement of effects of pollutants; augmented streamflow** In carrying out the provisions of this section the Administrator shall develop and demonstrate under varied conditions (including conducting such basic and applied research, studies, and experiments as may be necessary):
-
-(1) Practicable means of treating municipal sewage, and other waterborne wastes to implement the requirements of [section 1281 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1281);
-
-(2) Improved methods and procedures to identify and measure the effects of pollutants, including those pollutants created by new technological developments; and
-
-(3) Methods and procedures for evaluating the effects on water quality of augmented streamflows to control pollution not susceptible to other means of prevention, reduction, or elimination.
-
-**(e) Field laboratory and research facilities** The Administrator shall establish, equip, and maintain field laboratory and research facilities, including, but not limited to, one to be located in the northeastern area of the United States, one in the Middle Atlantic area, one in the southeastern area, one in the midwestern area, one in the southwestern area, one in the Pacific Northwest, and one in the State of Alaska, for the conduct of research, investigations, experiments, field demonstrations and studies, and training relating to the prevention, reduction and elimination of pollution. Insofar as practicable, each such facility shall be located near institutions of higher learning in which graduate training in such research might be carried out. In conjunction with the development of criteria under [section 1343 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1343), the Administrator shall construct the facilities authorized for the National Marine Water Quality Laboratory established under this subsection.
-
-**(f) Great Lakes water quality research** The Administrator shall conduct research and technical development work, and make studies, with respect to the quality of the waters of the Great Lakes, including an analysis of the present and projected future water quality of the Great Lakes under varying conditions of waste treatment and disposal, an evaluation of the water quality needs of those to be served by such waters, an evaluation of municipal, industrial, and vessel waste treatment and disposal practices with respect to such waters, and a study of alternate means of solving pollution problems (including additional waste treatment measures) with respect to such waters.
-
-**(g) Treatment works pilot training programs; employment needs forecasting; training projects and grants; research fellowships; technical training; report to the President and transmittal to Congress**
-
-(1) For the purpose of providing an adequate supply of trained personnel to operate and maintain existing and future treatment works and related activities, and for the purpose of enhancing substantially the proficiency of those engaged in such activities, the Administrator shall finance pilot programs, in cooperation with State and interstate agencies, municipalities, educational institutions, and other organizations and individuals, of manpower development and training and retraining of persons in, on entering into, the field of operation and maintenance of treatment works and related activities. Such program and any funds expended for such a program shall supplement, not supplant, other manpower and training programs and funds available for the purposes of this paragraph. The Administrator is authorized, under such terms and conditions as he deems appropriate, to enter into agreements with one or more States, acting jointly or severally, or with other public or private agencies or institutions for the development and implementation of such a program.
-
-(2) The Administrator is authorized to enter into agreements with public and private agencies and institutions, and individuals to develop and maintain an effective system for forecasting the supply of, and demand for, various professional and other occupational categories needed for the prevention, reduction, and elimination of pollution in each region, State, or area of the United States and, from time to time, to publish the results of such forecasts.
-
-(3) In furtherance of the purposes of this chapter, the Administrator is authorized to—
-
-  (A) make grants to public or private agencies and institutions and to individuals for training projects, and provide for the conduct of training by contract with public or private agencies and institutions and with individuals without regard to section 3324(a) and (b) of title 31 and [section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim);
-
-  (B) establish and maintain research fellowships in the Environmental Protection Agency with such stipends and allowances, including traveling and subsistence expenses, as he may deem necessary to procure the assistance of the most promising research fellows; and
-
-  (C) provide, in addition to the program established under paragraph (1) of this subsection, training in technical matters relating to the causes, prevention, reduction, and elimination of pollution for personnel of public agencies and other persons with suitable qualifications.
-
-(4) The Administrator shall submit, through the President, a report to the Congress not later than December 31, 1973, summarizing the actions taken under this subsection and the effectiveness of such actions, and setting forth the number of persons trained, the occupational categories for which training was provided, the effectiveness of other Federal, State, and local training programs in this field, together with estimates of future needs, recommendations on improving training programs, and such other information and recommendations, including legislative recommendations, as he deems appropriate.
-
-**(h) Lake pollution** The Administrator is authorized to enter into contracts with, or make grants to, public or private agencies and organizations and individuals for (A) the purpose of developing and demonstrating new or improved methods for the prevention, removal, reduction, and elimination of pollution in lakes, including the undesirable effects of nutrients and vegetation, and (B) the construction of publicly owned research facilities for such purpose.
-
-**(i) Oil pollution control studies** The Administrator, in cooperation with the Secretary of the Department in which the Coast Guard is operating, shall—
-
-(1) engage in such research, studies, experiments, and demonstrations as he deems appropriate, relative to the removal of oil from any waters and to the prevention, control, and elimination of oil and hazardous substances pollution;
-
-(2) publish from time to time the results of such activities; and
-
-(3) from time to time, develop and publish in the Federal Register specifications and other technical information on the various chemical compounds used in the control of oil and hazardous substances spills.
-In carrying out this subsection, the Administrator may enter into contracts with, or make grants to, public or private agencies and organizations and individuals.
-
-**(j) Solid waste disposal equipment for vessels** The Secretary of the department in which the Coast Guard is operating shall engage in such research, studies, experiments, and demonstrations as he deems appropriate relative to equipment which is to be installed on board a vessel and is designed to receive, retain, treat, or discharge human body wastes and the wastes from toilets and other receptacles intended to receive or retain body wastes with particular emphasis on equipment to be installed on small recreational vessels. The Secretary of the department in which the Coast Guard is operating shall report to Congress the results of such research, studies, experiments, and demonstrations prior to the effective date of any regulations established under [section 1322 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1322). In carrying out this subsection the Secretary of the department in which the Coast Guard is operating may enter into contracts with, or make grants to, public or private organizations and individuals.
-
-**(k) Land acquisition** In carrying out the provisions of this section relating to the conduct by the Administrator of demonstration projects and the development of field laboratories and research facilities, the Administrator may acquire land and interests therein by purchase, with appropriated or donated funds, by donation, or by exchange for acquired or public lands under his jurisdiction which he classifies as suitable for disposition. The values of the properties so exchanged either shall be approximately equal, or if they are not approximately equal, the values shall be equalized by the payment of cash to the grantor or to the Administrator as the circumstances require.
-
-**(l) Collection and dissemination of scientific knowledge on effects and control of pesticides in water**
-
-(1) The Administrator shall, after consultation with appropriate local, State, and Federal agencies, public and private organizations, and interested individuals, as soon as practicable but not later than January 1, 1973, develop and issue to the States for the purpose of carrying out this chapter the latest scientific knowledge available in indicating the kind and extent of effects on health and welfare which may be expected from the presence of pesticides in the water in varying quantities. He shall revise and add to such information whenever necessary to reflect developing scientific knowledge.
-
-(2) The President shall, in consultation with appropriate local, State, and Federal agencies, public and private organizations, and interested individuals, conduct studies and investigations of methods to control the release of pesticides into the environment which study shall include examination of the persistency of pesticides in the water environment and alternatives thereto. The President shall submit reports, from time to time, on such investigations to Congress together with his recommendations for any necessary legislation.
-
-**(m) Waste oil disposal study**
-
-(1) The Administrator shall, in an effort to prevent degradation of the environment from the disposal of waste oil, conduct a study of (A) the generation of used engine, machine, cooling, and similar waste oil, including quantities generated, the nature and quality of such oil, present collecting methods and disposal practices, and alternate uses of such oil; (B) the long-term, chronic biological effects of the disposal of such waste oil; and (C) the potential market for such oils, including the economic and legal factors relating to the sale of products made from such oils, the level of subsidy, if any, needed to encourage the purchase by public and private nonprofit agencies of products from such oil, and the practicability of Federal procurement, on a priority basis, of products made from such oil. In conducting such study, the Administrator shall consult with affected industries and other persons.
-
-(2) The Administrator shall report the preliminary results of such study to Congress within six months after October 18, 1972, and shall submit a final report to Congress within 18 months after such date.
-
-**(n) Comprehensive studies of effects of pollution on estuaries and estuarine zones**
-
-(1) The Administrator shall, in cooperation with the Secretary of the Army, the Secretary of Agriculture, the Water Resources Council, and with other appropriate Federal, State, interstate, or local public bodies and private organizations, institutions, and individuals, conduct and promote, and encourage contributions to, continuing comprehensive studies of the effects of pollution, including sedimentation, in the estuaries and estuarine zones of the United States on fish and wildlife, on sport and commercial fishing, on recreation, on water supply and water power, and on other beneficial purposes. Such studies shall also consider the effect of demographic trends, the exploitation of mineral resources and fossil fuels, land and industrial development, navigation, flood and erosion control, and other uses of estuaries and estuarine zones upon the pollution of the waters therein.
-
-(2) In conducting such studies, the Administrator shall assemble, coordinate, and organize all existing pertinent information on the Nation’s estuaries and estuarine zones; carry out a program of investigations and surveys to supplement existing information in representative estuaries and estuarine zones; and identify the problems and areas where further research and study are required.
-
-(3) The Administrator shall submit to Congress, from time to time, reports of the studies authorized by this subsection but at least one such report during any six-year period. Copies of each such report shall be made available to all interested parties, public and private.
-
-(4) For the purpose of this subsection, the term “estuarine zones” means an environmental system consisting of an estuary and those transitional areas which are consistently influenced or affected by water from an estuary such as, but not limited to, salt marshes, coastal and intertidal areas, bays, harbors, lagoons, inshore waters, and channels, and the term “estuary” means all or part of the mouth of a river or stream or other body of water having unimpaired natural connection with open sea and within which the sea water is measurably diluted with fresh water derived from land drainage.
-
-**(o) Methods of reducing total flow of sewage and unnecessary water consumption; reports**
-
-(1) The Administrator shall conduct research and investigations on devices, systems, incentives, pricing policy, and other methods of reducing the total flow of sewage, including, but not limited to, unnecessary water consumption in order to reduce the requirements for, and the costs of, sewage and waste treatment services. Such research and investigations shall be directed to develop devices, systems, policies, and methods capable of achieving the maximum reduction of unnecessary water consumption.
-
-(2) The Administrator shall report the preliminary results of such studies and investigations to the Congress within one year after October 18, 1972, and annually thereafter in the report required under subsection (a) of [section 1375 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1375). Such report shall include recommendations for any legislation that may be required to provide for the adoption and use of devices, systems, policies, or other methods of reducing water consumption and reducing the total flow of sewage. Such report shall include an estimate of the benefits to be derived from adoption and use of such devices, systems, policies, or other methods and also shall reflect estimates of any increase in private, public, or other cost that would be occasioned thereby.
-
-**(p) Agricultural pollution** In carrying out the provisions of subsection (a) of this section the Administrator shall, in cooperation with the Secretary of Agriculture, other Federal agencies, and the States, carry out a comprehensive study and research program to determine new and improved methods and the better application of existing methods of preventing, reducing, and eliminating pollution from agriculture, including the legal, economic, and other implications of the use of such methods.
-
-**(q) Sewage in rural areas; national clearinghouse for alternative treatment information; clearinghouse on small flows**
-
-(1) The Administrator shall conduct a comprehensive program of research and investigation and pilot project implementation into new and improved methods of preventing, reducing, storing, collecting, treating, or otherwise eliminating pollution from sewage in rural and other areas where collection of sewage in conventional, communitywide sewage collection systems is impractical, uneconomical, or otherwise infeasible, or where soil conditions or other factors preclude the use of septic tank and drainage field systems.
-
-(2) The Administrator shall conduct a comprehensive program of research and investigation and pilot project implementation into new and improved methods for the collection and treatment of sewage and other liquid wastes combined with the treatment and disposal of solid wastes.
-
-(3) The Administrator shall establish, either within the Environmental Protection Agency, or through contract with an appropriate public or private non-profit organization, a national clearinghouse which shall (A) receive reports and information resulting from research, demonstrations, and other projects funded under this chapter related to paragraph (1) of this subsection and to subsection (e)(2) of [section 1255 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1255); (B) coordinate and disseminate such reports and information for use by Federal and State agencies, municipalities, institutions, and persons in developing new and improved methods pursuant to this subsection; and (C) provide for the collection and dissemination of reports and information relevant to this subsection from other Federal and State agencies, institutions, universities, and persons.
-
-(4) **Small flows clearinghouse.—** — Notwithstanding [section 1285(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1285/d&num=0&edition=prelim), from amounts that are set aside for a fiscal year under [section 1285(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1285/i&num=0&edition=prelim) and are not obligated by the end of the 24-month period of availability for such amounts under [section 1285(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1285/d&num=0&edition=prelim), the Administrator shall make available $1,000,000 or such unobligated amount, whichever is less, to support a national clearinghouse within the Environmental Protection Agency to collect and disseminate information on small flows of sewage and innovative or alternative wastewater treatment processes and techniques, consistent with paragraph (3). This paragraph shall apply with respect to amounts set aside under [section 1285(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1285/i&num=0&edition=prelim) for which the 24-month period of availability referred to in the preceding sentence ends on or after September 30, 1986.
-
-**(r) Research grants to colleges and universities** The Administrator is authorized to make grants to colleges and universities to conduct basic research into the structure and function of freshwater aquatic ecosystems, and to improve understanding of the ecological characteristics necessary to the maintenance of the chemical, physical, and biological integrity of freshwater aquatic ecosystems.
-
-**(s) River Study Centers** The Administrator is authorized to make grants to one or more institutions of higher education (regionally located and to be designated as “River Study Centers”) for the purpose of conducting and reporting on interdisciplinary studies on the nature of river systems, including hydrology, biology, ecology, economics, the relationship between river uses and land uses, and the effects of development within river basins on river systems and on the value of water resources and water related activities. No such grant in any fiscal year shall exceed $1,000,000.
-
-**(t) Thermal discharges** The Administrator shall, in cooperation with State and Federal agencies and public and private organizations, conduct continuing comprehensive studies of the effects and methods of control of thermal discharges. In evaluating alternative methods of control the studies shall consider (1) such data as are available on the latest available technology, economic feasibility including cost-effectiveness analysis, and (2) the total impact on the environment, considering not only water quality but also air quality, land use, and effective utilization and conservation of freshwater and other natural resources. Such studies shall consider methods of minimizing adverse effects and maximizing beneficial effects of thermal discharges. The results of these studies shall be reported by the Administrator as soon as practicable, but not later than 270 days after October 18, 1972, and shall be made available to the public and the States, and considered as they become available by the Administrator in carrying out [section 1326 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1326) and by the States in proposing thermal water quality standards.
-
-**(u) Authorization of appropriations** There is authorized to be appropriated (1) not to exceed $100,000,000 per fiscal year for the fiscal year ending June 30, 1973, the fiscal year ending June 30, 1974, and the fiscal year ending June 30, 1975, not to exceed $14,039,000 for the fiscal year ending September 30, 1980, not to exceed $20,697,000 for the fiscal year ending September 30, 1981, not to exceed $22,770,000 for the fiscal year ending September 30, 1982, such sums as may be necessary for fiscal years 1983 through 1985, and not to exceed $22,770,000 per fiscal year for each of the fiscal years 1986 through 1990, for carrying out the provisions of this section, other than subsections (g)(1) and (2), (p), (r), and (t), except that such authorizations are not for any research, development, or demonstration activity pursuant to such provisions; (2) not to exceed $7,500,000 for fiscal years 1973, 1974, and 1975, $2,000,000 for fiscal year 1977, $3,000,000 for fiscal year 1978, $3,000,000 for fiscal year 1979, $3,000,000 for fiscal year 1980, $3,000,000 for fiscal year 1981, $3,000,000 for fiscal year 1982, such sums as may be necessary for fiscal years 1983 through 1985, and $3,000,000 per fiscal year for each of the fiscal years 1986 through 1990, for carrying out the provisions of subsection (g)(1); (3) not to exceed $2,500,000 for fiscal years 1973, 1974, and 1975, $1,000,000 for fiscal year 1977, $1,500,000 for fiscal year 1978, $1,500,000 for fiscal year 1979, $1,500,000 for fiscal year 1980, $1,500,000 for fiscal year 1981, $1,500,000 for fiscal year 1982, such sums as may be necessary for fiscal years 1983 through 1985, and $1,500,000 per fiscal year for each of the fiscal years 1986 through 1990, for carrying out the provisions of subsection (g)(2); (4) not to exceed $10,000,000 for each of the fiscal years ending June 30, 1973, June 30, 1974, and June 30, 1975, for carrying out the provisions of subsection (p); (5) not to exceed $15,000,000 per fiscal year for the fiscal years ending June 30, 1973, June 30, 1974, and June 30, 1975, for carrying out the provisions of subsection (r); (6) not to exceed $10,000,000 per fiscal year for the fiscal years ending June 30, 1973, June 30, 1974, and June 30, 1975, for carrying out the provisions of subsection (t); and (7) not to exceed $25,000,000 for each of fiscal years 2019 through 2023 for carrying out subsections (b)(3), (b)(8), and (g).
-
-**(v) Studies concerning pathogen indicators in coastal recreation waters** Not later than 18 months after October 10, 2000, after consultation and in cooperation with appropriate Federal, State, tribal, and local officials (including local health officials), the Administrator shall initiate, and, not later than 3 years after October 10, 2000, shall complete, in cooperation with the heads of other Federal agencies, studies to provide additional information for use in developing—
-
-(1) an assessment of potential human health risks resulting from exposure to pathogens in coastal recreation waters, including nongastrointestinal effects;
-
-(2) appropriate and effective indicators for improving detection in a timely manner in coastal recreation waters of the presence of pathogens that are harmful to human health;
-
-(3) appropriate, accurate, expeditious, and cost-effective methods (including predictive models) for detecting in a timely manner in coastal recreation waters the presence of pathogens that are harmful to human health; and
-
-(4) guidance for State application of the criteria for pathogens and pathogen indicators to be published under [section 1314(a)(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1314/a/9&num=0&edition=prelim) to account for the diversity of geographic and aquatic conditions.
-
-**(w) Nonprofit organization** For purposes of subsection (b)(8), the term “nonprofit organization” means a nonprofit organization that the Administrator determines, after consultation with the States regarding what small publicly owned treatments works in the State find to be most beneficial and effective, is qualified and experienced in providing on-site training and technical assistance to small publicly owned treatment works.
+## § 1151 to 1165. Omitted
 
 ### Statutory Notes
 
 #### Codification
-In subsecs. (b)(4) and (g)(3)(A), “section 3324(a) and (b) of title 31 and [section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim)” substituted for references to sections 3648 and 3709 of the Revised Statutes on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, which Act enacted Title 31, Money and Finance, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+Sections 1151 to 1165 of this title were omitted as superseded by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816. See section 1251 et seq. of this title.
 
-#### Amendments
-2018—Subsec. (b)(8). Pub. L. 115–270, § 4103(a)(1), added par. (8).
+Section 1151, acts June 30, 1948, ch. 758, § 1, 62 Stat. 1155; July 9, 1956, ch. 518, § 1, 70 Stat. 498; July 20, 1961, Pub. L. 87–88, § 1(a), 75 Stat. 204; Oct. 2, 1965, Pub. L. 89–234, § 1(a), 79 Stat. 903; 1966 Reorg. Plan No. 2, §§ 1(a), (e)(1), 5, eff. May 10, 1966, 31 F.R. 6857, 80 Stat. 1608; 1970 Reorg. Plan No. 3, § 2(a)(1), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2087, related to Congressional declaration of policy in controlling water pollution.
 
-Subsec. (u)(7). Pub. L. 115–270, § 4103(b), added par. (7).
+Section 1152, act June 30, 1948, ch. 758, § 2, as added Oct. 2, 1965, Pub. L. 89–234, § 2(a), 79 Stat. 903; amended 1966 Reorg. Plan No. 2, § 1(a), (b), eff. May 10, 1966, 31 F.R. 6857, 80 Stat. 1608; Apr. 3, 1970, Pub. L. 91–224, title I, § 110(a), 84 Stat. 113, created within the Department of the Interior a Federal Water Quality Administration. Reorg. Plan No. 3 of 1970, §§ 1, 2(a)(1), 6(a)(1), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2086, 2087, 2089, created Environmental Protection Agency, abolished Federal Water Quality Administration in Department of the Interior, and transferred to Administrator of Environmental Protection Agency all functions vested by law in Secretary of the Interior and Department of the Interior which had been administered through Federal Water Quality Administration.
 
-Subsec. (w). Pub. L. 115–270, § 4103(a)(2), added subsec. (w).
+Section 1153, acts June 30, 1948, ch. 758, § 3, formerly § 2, 62 Stat. 1155; July 9, 1956, ch. 518, § 1, 70 Stat. 498; July 20, 1961, Pub. L. 87–88, §§ 1(b), 2, 75 Stat. 204; renumbered Oct. 2, 1965, Pub. L. 89–234, § 2(a), 79 Stat. 903; amended Nov. 3, 1966, Pub. L. 89–753, title I, § 101, 80 Stat. 1246; 1970 Reorg. Plan No. 3, § 2(a)(1), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2086, related to preparation and development of comprehensive water pollution programs.
 
-2002—Subsecs. (a)(5), (n)(3), (4), (o)(2). Pub. L. 107–303 repealed Pub. L. 105–362, § 501(a), (d). See 1998 Amendment notes below.
+Section 1154, acts June 30, 1948, ch. 758, § 4, formerly § 3, 62 Stat. 1157; July 9, 1956, ch. 518, § 1, 70 Stat. 498; July 20, 1961, Pub. L. 87–88, § 1(b), 75 Stat. 204; renumbered Oct. 2, 1965, Pub. L. 89–234, § 2(a), 79 Stat. 903; 1970 Reorg. Plan No. 3, § 2(a)(1), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2086, related to interstate cooperation for prevention and control of water pollution.
 
-2000—Subsec. (v). Pub. L. 106–284 added subsec. (v).
+Section 1155, acts June 30, 1948, ch. 758, § 5, formerly § 4, 62 Stat. 1158; July 9, 1956, ch. 518, § 1, 70 Stat. 499; July 20, 1961, Pub. L. 87–88, §§ 1(b), (c), 3, 75 Stat. 204, 205; renumbered Oct. 2, 1965, Pub. L. 89–234, § 2(a), 79 Stat. 903; amended 1966 Reorg. Plan No. 2, § 1(a), eff. May 10, 1966, 31 F.R. 6857, 80 Stat. 1608; Nov. 3, 1966, Pub. L. 89–753, title II, § 201(b), (c)(1), 80 Stat. 1247; Apr. 3, 1970, Pub. L. 91–224, title I, § 105, 84 Stat. 111; 1970 Reorg. Plan No. 3, § 2(a)(1), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2086; Oct. 13, 1971, Pub. L. 92–137, § 1, 85 Stat. 379; Mar. 1, 1972, Pub. L. 92–240, § 1, 86 Stat. 47, related to research, investigations, experiments, demonstrations, and studies in prevention and control of water pollution.
 
-1998—Subsec. (a)(5). Pub. L. 105–362, § 501(d)(2)(A)(i), which directed the substitution of “not later than 90 days after the date of convening of each session of Congress” for “in the report required under subsection (a) of [section 1375 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1375)”, was repealed by Pub. L. 107–303. See Effective Date of 2002 Amendment note below.
+Section 1156, act June 30, 1948, ch. 758, § 6, as added Oct. 2, 1965, Pub. L. 89–234, § 3, 79 Stat. 905; amended Nov. 3, 1966, Pub. L. 89–753, title II, § 201(a), 80 Stat. 1246; Apr. 3, 1970, Pub. L. 91–224, title I, § 106, 84 Stat. 113; 1970 Reorg. Plan No. 3, § 2(a)(1), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2087, related to grants for research and development of methods to prevent and control water pollution.
 
-Subsec. (n)(3), (4). Pub. L. 105–362, § 501(a)(1), which directed the redesignation of par. (4) as (3) and striking out of former par. (3), was repealed by Pub. L. 107–303. See Effective Date of 2002 Amendment note below.
+Section 1157, acts June 30, 1948, ch. 758, § 7, formerly § 5, 62 Stat. 1158; July 9, 1956, ch. 518, § 1, 70 Stat. 499; June 25, 1959, Pub. L. 86–70, § 28(a), 73 Stat. 148; July 12, 1960, Pub. L. 86–624, § 23(a), 74 Stat. 417; July 20, 1961, Pub. L. 87–88, §§ 1(b), 4(a), (b), 75 Stat. 204, 205; renumbered and amended Oct. 2, 1965, Pub. L. 89–234, §§ 2(a), 7(a), 79 Stat. 903, 910; Nov. 3, 1966, Pub. L. 89–753, title II, § 202, 80 Stat. 1248; 1970 Reorg. Plan No. 3, § 2(a)(1), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2086; July 9, 1971, Pub. L. 92–50, § 2, 85 Stat. 124; Oct. 13, 1971, Pub. L. 92–137, § 3, 85 Stat. 379; Mar. 1, 1972, Pub. L. 92–240, § 2, 86 Stat. 47, related to grants for water pollution control programs.
 
-Subsec. (o)(2). Pub. L. 105–362, § 501(d)(2)(A)(ii), which directed the substitution of “not later than 90 days after the date of convening of each session of Congress” for “in the report required under subsection (a) of [section 1375 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1375)”, was repealed by Pub. L. 107–303. See Effective Date of 2002 Amendment note below.
+Section 1158, acts June 30, 1948, ch. 758, § 8, formerly § 6, 62 Stat. 1158; July 9, 1956, ch. 518, § 1, 70 Stat. 502; July 20, 1961, Pub. L. 87–88, §§ 1(b), 5, 75 Stat. 204, 206; renumbered and amended Oct. 2, 1965, Pub. L. 89–234, §§ 2(a), 4, 7(b), 79 Stat. 903, 906, 910; Nov. 3, 1966, Pub. L. 89–753, title II, §§ 203(a), 204, 205, 80 Stat. 1248–1250; Apr. 3, 1970, Pub. L. 91–224, title I, § 111, 84 Stat. 113; 1970 Reorg. Plan No. 2, §§ 102, 103, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; 1970 Reorg. Plan No. 3, § 2(a)(1), eff. Dec. 2, 1970, 15 F.R. 15623, 84 Stat. 2087; July 9, 1971, Pub. L. 92–50, § 3, 85 Stat. 124; Oct. 13, 1971, Pub. L. 92–137, § 4, 85 Stat. 379; Mar. 1, 1972, Pub. L. 92–240, § 3, 86 Stat. 48, related to grants for construction of sewerage treatment works.
 
-1987—Subsec. (q)(4). Pub. L. 100–4, § 102, added par. (4).
+Section 1159, acts June 30, 1948, ch. 758, § 9, formerly § 7, 62 Stat. 1159; July 17, 1952, ch. 927, 66 Stat. 755; July 9, 1956, ch. 518, § 1, 70 Stat. 503; July 20, 1961, Pub. L. 87–88, §§ 1(b)–(d), 6(a), (b), 75 Stat. 204, 207; renumbered Oct. 2, 1965, Pub. L. 89–234, § 2(a), 79 Stat. 903; amended 1966 Reorg. Plan No. 2, § 1(a), (c)(1), (2), eff. May 10, 1966, 31 F.R. 6857, 80 Stat. 1608; 1970 Reorg. Plan No. 3, § 2(a)(1), (b)(1)(i), eff. Dec. 3, 1970, 35 F.R. 15623, 84 Stat. 2087, related to establishment, composition, and duties of the Water Pollution Control Advisory Board.
 
-Subsec. (u). Pub. L. 100–4, § 101(a), in cl. (1) struck out “and” after “1975,”, “1980,”, and “1981,” and inserted “such sums as may be necessary for fiscal years 1983 through 1985, and not to exceed $22,770,000 per fiscal year for each of the fiscal years 1986 through 1990,”, in cl. (2) struck out “and” after “1981,” and inserted “such sums as may be necessary for fiscal years 1983 through 1985, and $3,000,000 per fiscal year for each of the fiscal years 1986 through 1990,”, and in cl. (3) struck out “and” after “1981,” and inserted “such sums as may be necessary for fiscal years 1983 through 1985, and $1,500,000 per fiscal year for each of the fiscal years 1986 through 1990,”.
+Section 1160, acts June 30, 1948, ch. 758, § 10, formerly § 8, 62 Stat. 1159; July 17, 1952, ch. 927, 66 Stat. 755; July 9, 1956, ch. 518, § 1, 70 Stat. 504; July 20, 1961, Pub. L. 87–88, §§ 1(b), 7, 75 Stat. 204, 207; renumbered and amended Oct. 2, 1965, Pub. L. 89–234, §§ 2(a), 5, 7(c), (d), 79 Stat. 903, 907, 910; 1966 Reorg. Plan No. 2, § 1(a), (d)(1), (2), eff. May 10, 1966, 31 F.R. 6857, 80 Stat. 1608; Nov. 3, 1966, Pub. L. 89–753, title II, §§ 206–208, 80 Stat. 1250; Apr. 3, 1970, Pub. L. 91–224, title I, § 112, 84 Stat. 114; 1970 Reorg. Plan No. 3, § 2(a)(1), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2087, related to enforcement measures against pollution of interstate or navigable waters.
 
-1980—Subsec. (u). Pub. L. 96–483 in par. (1) inserted authorization of not to exceed $20,697,000 and $22,770,000 for fiscal years ending Sept. 30, 1981, and 1982, respectively; in par. (2) inserted authorization of the sum of $3,000,000 for each of fiscal years 1981 and 1982; and in par. (3) inserted authorization of the sum of $1,500,000 for each of fiscal years 1981 and 1982.
+Section 1161, act June 30, 1948, ch. 758, § 11, as added Apr. 3, 1970, Pub. L. 91–224, title I, § 102, 84 Stat. 91; amended 1970 Reorg. Plan No. 3, § 2(a)(1), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2087, Dec. 31, 1970, Pub. L. 91–611, title I, § 120 84 Stat. 1823, related to control of pollution by oil.
 
-1978—Subsec. (u)(1). Pub. L. 95–576 authorized appropriation of not to exceed $14,039,000 for fiscal year ending Sept. 30, 1980 and prohibited use of authorizations for any research, development, or demonstration activity pursuant to provisions of this section.
+Section 1162, act June 30, 1948, ch. 758, § 12, as added Apr. 3, 1970, Pub. L. 91–224, title I, § 102, 84 Stat. 98, related to control of pollution by hazardous substances.
 
-1977—Subsec. (n)(3). Pub. L. 95–217, § 6, substituted “any six-year period” for “any three year period”.
+Section 1163, act June 30, 1948, ch. 758, § 13, as added Apr. 3, 1970, Pub. L. 91–224, title I, § 102, 84 Stat. 100; amended 1970 Reorg. Plan No. 3, § 2(a)(1), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2087, related to control of sewage from vessels.
 
-Subsec. (q)(3). Pub. L. 95–217, § 7, added par. (3).
+Section 1164, act June 30, 1948, ch. 758, § 14, as added Apr. 3, 1970, Pub. L. 91–224, title I, § 102, 84 Stat. 103; amended 1970 Reorg. Plan No. 3, § 2(a)(1), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2087, related to acid and other mine water pollution elimination or control projects.
 
-Subsec. (u)(2). Pub. L. 95–217, § 4(a), substituted “1975, $2,000,000 for fiscal year 1977, $3,000,000 for fiscal year 1978, $3,000,000 for fiscal year 1979, and $3,000,000 for fiscal year 1980,” for “1975”.
-
-Subsec. (u)(3). Pub. L. 95–217, § 4(b), substituted “1975, $1,000,000 for fiscal year 1977, $1,500,000 for fiscal year 1978, $1,500,000 for fiscal year 1979, and $1,500,000 for fiscal year 1980,” for “1975”.
-
-1975—Subsec. (u)(1). Pub. L. 93–592, § 1(a), substituted “the fiscal year ending June 30, 1974, and the fiscal year ending June 30, 1975,” for “and the fiscal year ending June 30, 1974,”.
-
-Subsec. (u)(2). Pub. L. 93–592, § 1(b), substituted “fiscal years 1973, 1974, and 1975” for “fiscal years 1973 and 1974”.
-
-Subsec. (u)(3). Pub. L. 93–592, § 1(c), substituted “fiscal years 1973, 1974, and 1975” for “fiscal year 1973”.
-
-Subsec. (u)(4), (5), (6). Pub. L. 93–592, § 1(d)–(f), substituted “June 30, 1974, and June 30, 1975,” for “and June 30, 1974,”.
-
-1973—Subsec. (u)(2). Pub. L. 93–207 substituted “fiscal years 1973 and 1974” for “fiscal year 1973”.
-
-#### Change of Name
-“United States Geological Survey” substituted for “Geological Survey” in subsec. (a)(5) pursuant to provision of title I of Pub. L. 102–154, set out as a note under [section 31 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section31&num=0&edition=prelim), Public Lands.
-
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (c) pursuant to section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
-
-#### Effective Date of 2002 Amendment
-Pub. L. 107–303, title III, § 302(b), Nov. 27, 2002, 116 Stat. 2361, provided that: “(1) In general.—Effective November 10, 1998, section 501 of the Federal Reports Elimination Act of 1998 (Public Law 105–362; 112 Stat. 3283) is amended by striking subsections (a) [amending this section and [section 1330 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1330)], (b) [amending [section 1324 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1324)], (c) [amending [section 1329 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1329)], and (d) [amending this section and sections 1266, 1285, 1290, and 1375 of this title]. “(2) Applicability.—The Federal Water Pollution Control Act ([33 U.S.C. 1254(n)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1254/n/3&num=0&edition=prelim)) [[33 U.S.C. 1251](./chapter-026-water-pollution-prevention-and-control.md#section-1251) et seq.] shall be applied and administered on and after the date of enactment of this Act [Nov. 27, 2002] as if the amendments made by subsections (a), (b), (c), and (d) of section 501 of the Federal Reports Elimination Act of 1998 (Public Law 105–362; 112 Stat. 3283) had not been enacted.”
-
-#### Transfer of Functions
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
-
-Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under [section 719e of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section719e&num=0&edition=prelim), Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by [section 720d(f) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section720d/f&num=0&edition=prelim).
-
-#### Columbia River Basin System; Protection From Oil Spills and Discharges; Criteria for Evaluation and Report to Congress by Commandant of Coast Guard in Consultation With Federal, Etc., Agencies
-Pub. L. 95–308, § 8, June 30, 1978, 92 Stat. 359, set forth Congressional findings and declarations and evaluation criteria with respect to protection from oil spills and discharges and betterment of the Columbia River Basin system, with such evaluation by the Commandant of the Coast Guard to begin within 180 days after June 30, 1978, and immediate submission of the evaluation to appropriate Congressional committees.
-
-#### Transfer of Functions
-Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas were transferred to the Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until the first anniversary of date of initial operation of the Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Contiguous Zone of United States
-For extension of contiguous zone of United States, see Proc. No. 7219, set out as a note under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim), Public Lands.
+Section 1165, act June 30, 1948, ch. 758, § 15, as added Apr. 3, 1970, Pub. L. 91–224, title I, § 102, 84 Stat. 104; amended 1970 Reorg. Plan No. 3, § 2(a)(1), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2087, related to Great Lakes pollution elimination or control projects.
 
 
 <a id="section-1165a"></a>
-## § 1165a. Research on effects of pollutants
-
-In carrying out the provisions of [section 1254(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1254/a&num=0&edition=prelim), the Administrator shall conduct research on the harmful effects on the health and welfare of persons caused by pollutants in water, in conjunction with the United States Fish and Wildlife Service, the National Oceanic and Atmospheric Administration, and other Federal, State, and interstate agencies carrying on such research. Such research shall include, and shall place special emphasis on, the effect that bioaccumulation of these pollutants in aquatic species has upon reducing the value of aquatic commercial and sport industries. Such research shall further study methods to reduce and remove these pollutants from the relevant affected aquatic species so as to restore and enhance these valuable resources.
+## § 1165a. Transferred
 
 ### Statutory Notes
 
 #### Codification
-Section was enacted as part of the Water Quality Act of 1987, and not as part of the Federal Water Pollution Control Act which comprises this chapter.
-
-#### Definition
-Administrator means the Administrator of the Environmental Protection Agency, see section 1(d) of Pub. L. 100–4, set out as a note under [section 1251 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1251).
+Section transferred to [section 1293a of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1293a).
 
 
 <a id="section-1166-to-1175"></a>
-## § 1166 to 1175. Grants for research and development
-**(a) Demonstration projects covering storm waters, advanced waste treatment and water purification methods, and joint treatment systems for municipal and industrial wastes** The Administrator is authorized to conduct in the Environmental Protection Agency, and to make grants to any State, municipality, or intermunicipal or interstate agency for the purpose of assisting in the development of—
-
-(1) any project which will demonstrate a new or improved method of preventing, reducing, and eliminating the discharge into any waters of pollutants from sewers which carry storm water or both storm water and pollutants; or
-
-(2) any project which will demonstrate advanced waste treatment and water purification methods (including the temporary use of new or improved chemical additives which provide substantial immediate improvements to existing treatment processes), or new or improved methods of joint treatment systems for municipal and industrial wastes;
-and to include in such grants such amounts as are necessary for the purpose of reports, plans, and specifications in connection therewith.
-
-**(b) Demonstration projects for advanced treatment and environmental enhancement techniques to control pollution in river basins** The Administrator is authorized to make grants to any State or States or interstate agency to demonstrate, in river basins or portions thereof, advanced treatment and environmental enhancement techniques to control pollution from all sources, within such basins or portions thereof, including nonpoint sources, together with in stream 11 So in original. water quality improvement techniques.
-
-**(c) Research and demonstration projects for prevention of water pollution by industry** In order to carry out the purposes of [section 1311 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1311), the Administrator is authorized to (1) conduct in the Environmental Protection Agency, (2) make grants to persons, and (3) enter into contracts with persons, for research and demonstration projects for prevention of pollution of any waters by industry including, but not limited to, the prevention, reduction, and elimination of the discharge of pollutants. No grant shall be made for any project under this subsection unless the Administrator determines that such project will develop or demonstrate a new or improved method of treating industrial wastes or otherwise prevent pollution by industry, which method shall have industrywide application.
-
-**(d) Accelerated and priority development of waste management and waste treatment methods and identification and measurement methods** In carrying out the provisions of this section, the Administrator shall conduct, on a priority basis, an accelerated effort to develop, refine, and achieve practical application of:
-
-(1) waste management methods applicable to point and nonpoint sources of pollutants to eliminate the discharge of pollutants, including, but not limited to, elimination of runoff of pollutants and the effects of pollutants from inplace or accumulated sources;
-
-(2) advanced waste treatment methods applicable to point and nonpoint sources, including inplace or accumulated sources of pollutants, and methods for reclaiming and recycling water and confining pollutants so they will not migrate to cause water or other environmental pollution; and
-
-(3) improved methods and procedures to identify and measure the effects of pollutants on the chemical, physical, and biological integrity of water, including those pollutants created by new technological developments.
-
-**(e) Research and demonstration projects covering agricultural pollution and pollution from sewage in rural areas; dissemination of information**
-
-(1) The Administrator is authorized to (A) make, in consultation with the Secretary of Agriculture, grants to persons for research and demonstration projects with respect to new and improved methods of preventing, reducing, and eliminating pollution from agriculture, and (B) disseminate, in cooperation with the Secretary of Agriculture, such information obtained under this subsection, [section 1254(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1254/p&num=0&edition=prelim), and [section 1314 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1314) as will encourage and enable the adoption of such methods in the agricultural industry.
-
-(2) The Administrator is authorized, (A) in consultation with other interested Federal agencies, to make grants for demonstration proj­ects with respect to new and improved methods of preventing, reducing, storing, collecting, treating, or otherwise eliminating pollution from sewage in rural and other areas where collection of sewage in conventional, community-wide sewage collection systems is impractical, uneconomical, or otherwise infeasible, or where soil conditions or other factors preclude the use of septic tank and drainage field systems, and (B) in cooperation with other interested Federal and State agencies, to disseminate such information obtained under this subsection as will encourage and enable the adoption of new and improved methods developed pursuant to this subsection.
-
-**(f) Limitations** Federal grants under subsection (a) of this section shall be subject to the following limitations:
-
-(1) No grant shall be made for any project unless such project shall have been approved by the appropriate State water pollution control agency or agencies and by the Administrator;
-
-(2) No grant shall be made for any project in an amount exceeding 75 per centum of cost thereof as determined by the Administrator; and
-
-(3) No grant shall be made for any project unless the Administrator determines that such project will serve as a useful demonstration for the purpose set forth in clause (1) or (2) of subsection (a).
-
-**(g) Maximum grants** Federal grants under subsections (c) and (d) of this section shall not exceed 75 per centum of the cost of the project.
-
-**(h) Authorization of appropriations** For the purpose of this section there is authorized to be appropriated $75,000,000 per fiscal year for the fiscal year ending June 30, 1973, the fiscal year ending June 30, 1974, and the fiscal year ending June 30, 1975, and from such appropriations at least 10 per centum of the funds actually appropriated in each fiscal year shall be available only for the purposes of subsection (e).
-
-**(i) Assistance for research and demonstration projects** The Administrator is authorized to make grants to a municipality to assist in the costs of operating and maintaining a project which received a grant under this section, [section 1254 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1254), or [section 1263 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1263) prior to December 27, 1977, so as to reduce the operation and maintenance costs borne by the recipients of services from such project to costs comparable to those for projects assisted under subchapter II of this chapter.
-
-**(j) Assistance for recycle, reuse, and land treatment projects** The Administrator is authorized to make a grant to any grantee who received an increased grant pursuant to [section 1282(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1282/a/2&num=0&edition=prelim). Such grant may pay up to 100 per centum of the costs of technical evaluation of the operation of the treatment works, costs of training of persons (other than employees of the grantee), and costs of disseminating technical information on the operation of the treatment works.
+## § 1166 to 1175. Omitted
 
 ### Statutory Notes
 
-#### Amendments
-1977—Subsecs. (i), (j). Pub. L. 95–217 added subsecs. (i) and (j).
+#### Codification
+Sections 1166 to 1175 of this title were omitted as superseded by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816. See section 1251 et seq. of this title.
 
-1975—Subsec. (h). Pub. L. 93–592 substituted “the fiscal year ending June 30, 1974, and the fiscal year ending June 30, 1975,” for “and the fiscal year ending June 30, 1974,”.
+Section 1166, act June 30, 1948, ch. 758, § 16, as added Pub. L. 91–224, title I, § 102, Apr. 3, 1970, 84 Stat. 104; amended 1970 Reorg. Plan No. 3, § 2(a)(1), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2087, related to training grants to and contracts with institutions of higher education for water quality control programs or projects.
 
-#### Transfer of Functions
-Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas were transferred to the Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until the first anniversary of date of initial operation of the Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under [section 719e of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section719e&num=0&edition=prelim), Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by [section 720d(f) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section720d/f&num=0&edition=prelim).
+Section 1167, act June 30, 1948, ch. 758, § 17, as added Pub. L. 91–224, title I, § 102, Apr. 3, 1970, 84 Stat. 105; amended 1970 Reorg. Plan No. 3, § 2(a)(1), eff. Dec. 3, 1970, 35 F.R. 15623, 84 Stat. 2087, related to applications for training grants or contracts.
+
+A prior section 17 of act June 30, 1948, formerly classified to [section 466m of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section466m&num=0&edition=prelim), was repealed by Pub. L. 91–224, title 1, § 102, Apr. 3, 1970, 84 Stat. 91, in the general reorganization of act June 30, 1948 by Pub. L. 91–224.
+
+Section 1168, act June 30, 1948, ch. 758, § 18, as added Pub. L. 91–224, title I, § 102, Apr. 3, 1970, 84 Stat. 105; amended 1970 Reorg. Plan No. 3, § 2(a)(1), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2087, related to awarding of scholarships for undergraduate study of operation and maintenance of treatment works.
+
+A prior section 18 of act June 30, 1948, formerly classified to [section 466n of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section466n&num=0&edition=prelim), was repealed by Pub. L. 91–224, title I, § 102, Apr. 3, 1970, 84 Stat. 91, in the general reorganization of act June 30, 1948 by Pub. L. 91–224.
+
+Section 1169, act June 30, 1948, ch. 758, § 19, as added Pub. L. 91–224, title I, § 102, Apr. 3, 1970, 84 Stat. 106; amended 1970 Reorg. Plan No. 3, § 2(a)(1), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2087, related to an annual report by the Administrator of the Environmental Protection Agency, appropriations for certain fiscal years, and defined certain terms as used in this chapter.
+
+Section 1170, act June 30, 1948, ch. 758, § 20, as added Pub. L. 91–224, title I, § 102, Apr. 3, 1970, 84 Stat. 107; amended 1970 Reorg. Plan No. 3, § 2(a)(1), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2087, related to Alaska village safe water and pollution elimination or control projects.
+
+Section 1171, act June 30, 1948, ch. 758, § 21, formerly § 9, 62 Stat. 1160; July 9, 1956, ch. 518, § 1, 70 Stat. 506; Pub. L. 87–88, § 8, July 20, 1961, 75 Stat. 210; renumbered § 11 and amended Pub. L. 89–234, §§ 2(a), 7(e), Oct. 2, 1965, 79 Stat. 903, 910; 1966 Reorg. Plan No. 2, § 1(a), eff. May 10, 1966, 31 F.R. 6857, 80 Stat. 1608; renumbered § 21 and amended Pub. L. 91–224, title I, §§ 102, 103, Apr. 3, 1970, 84 Stat. 91, 107; 1970 Reorg. Plan No. 3, § 2(a)(1), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2087, related to cooperation by all Federal agencies in pollution control.
+
+Section 1172, act June 30, 1948, ch. 758, § 22, formerly § 10, 62 Stat. 1160; July 9, 1956, ch. 518, § 1, 70 Stat. 506; Pub. L. 87–88, § 1(b), (d), (e), July 20, 1961, 75 Stat. 204; renumbered § 12 and amended Pub. L. 89–234, §§ 2(a), 6, Oct. 2, 1965, 79 Stat. 903, 909; 1966 Reorg. Plan No. 2, § 1(a), eff. May 10, 1966, 31 F.R. 6857, 80 Stat. 1608; renumbered § 22 and amended Pub. L. 91–224, title I, §§ 102, 104, Apr. 3, 1970, 84 Stat. 91, 110; 1970 Reorg. Plan No. 3, § 2(a)(1), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2087, related to administration of water pollution control program under this chapter.
+
+Section 1173, act June 30, 1948, ch. 758, § 23, formerly § 11, 62 Stat. 1161; July 9, 1956, ch. 518, § 1, 70 Stat. 506; Pub. L. 86–70, § 28(b), June 25, 1959, 73 Stat. 148; Pub. L. 86–624, § 23(b), July 12, 1960, 74 Stat. 418; Pub. L. 87–88, § 9, July 20, 1961, 75 Stat. 210; renumbered § 13, Pub. L. 89–234, § 2(a), Oct. 2, 1965, 79 Stat. 903; amended Pub. L. 89–753, title II, § 209, Nov. 3, 1966, 80 Stat. 1251; renumbered § 23, Pub. L. 91–224, title I, § 102, Apr. 3, 1970, 84 Stat. 91, related to definitions of terms used in this chapter.
+
+Section 1174, act June 30, 1948, ch. 758, § 24, formerly § 12, as added July 9, 1956, ch. 518, § 1, 70 Stat. 506; renumbered § 14, Pub. L. 89–234, § 2(a), Oct. 2, 1965, 79 Stat. 903; renumbered § 24 and amended Pub. L. 91–224, §§ 102, 107, Apr. 3, 1970, 84 Stat. 91, 113, related to application of this chapter to other laws.
+
+Section 1175, act June 30, 1948, ch. 758, § 26, formerly § 16, as added Pub. L. 89–753, title II, § 210, Nov. 3, 1966, 80 Stat. 1252; renumbered § 26, Pub. L. 91–224, title I, § 102, Apr. 3, 1970, 84 Stat. 91; amended 1970 Reorg. Plan No. 3, § 2(a)(1), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2087, related to cost estimates, studies, and analysis by the Administrator of Environmental Protection Agency.

@@ -285,7 +285,7 @@ This Act, referred to in subsecs. (b), (c)(5), (6), (f), and (g)(1), (4), is Pub
 The District of Columbia Nonprofit Corporation Act, referred to in subsec. (b), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, as amended, which is not classified to the Code.
 
 #### Constitutionality
-For information regarding constitutionality of certain provisions of section 101 of Pub. L. 107–204, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For information regarding constitutionality of certain provisions of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Held Unconstitutional in Whole or in Part by the Supreme Court.
 
 #### Amendments
 2010—Subsec. (a). Pub. L. 111–203, § 982(b)(2), substituted “companies that” for “public companies that” and struck out “for companies the securities of which are sold to, and held by and for, public investors” after “independent audit reports”.
@@ -934,7 +934,7 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 This Act and the Sarbanes-Oxley Act of 2002, referred to in text, are Pub. L. 107–204, July 30, 2002, 116 Stat. 745. Title I of the Act is classified generally to this subchapter. For complete classification of this Act to the Code, see Tables.
 
 #### Constitutionality
-For information regarding constitutionality of certain provisions of section 107 of Pub. L. 107–204, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For information regarding constitutionality of certain provisions of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table ofLaws Held Unconstitutional in Whole or in Part by the Supreme Court.
 
 #### Amendments
 2010—Subsec. (d)(3). Pub. L. 111–203 substituted “any person who is, or at the time of the alleged misconduct was, a member” for “any member” in introductory provisions.

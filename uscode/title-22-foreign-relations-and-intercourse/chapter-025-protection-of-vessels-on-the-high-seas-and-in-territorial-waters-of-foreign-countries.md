@@ -196,7 +196,7 @@ There are authorized to be appropriated such amounts as may be necessary to carr
 
 **(d) Finality of determinations; insured losses** All determinations made under this section shall be final. No payment under this section shall be made with respect to any losses covered by any policy of insurance or other provision of law.
 
-**(e) Effective date** The provisions of this section shall be effective until October 1, 2018; except that payments may be made under this section only to such extent and in such amounts as are provided in advance in appropriation Acts.
+**(e) Amounts** Payments may be made under this section only to such extent and in such amounts as are provided in advance in appropriation Acts.
 
 **(f) Definitions** For the purposes of this section—
 
@@ -207,6 +207,8 @@ There are authorized to be appropriated such amounts as may be necessary to carr
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (e). Pub. L. 117–81 inserted heading and amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The provisions of this section shall be effective until October 1, 2018; except that payments may be made under this section only to such extent and in such amounts as are provided in advance in appropriation Acts.”
+
 2016—Subsec. (e). Pub. L. 114–323 substituted “2018” for “2008”.
 
 2004—Subsec. (e). Pub. L. 108–219 substituted “2008” for “2003”.
@@ -246,6 +248,11 @@ Subsec. (e). Pub. L. 97–68, § 1(2), substituted “October 1, 1984” for “
 Subsec. (e). Pub. L. 92–594, § 1, extended provisions of this section until July 1, 1977, and struck out provisions relating to issuance of regulations.
 
 Subsec. (f)(1). Pub. L. 92–594, § 2, substituted “Secretary of Commerce” for “Secretary of the Interior”.
+
+#### Effective Date of 2021 Amendment
+Pub. L. 117–81, div. E, title LI, § 5111(b), Dec. 27, 2021, 135 Stat. 2350, provided that: “(1) Effective date.—The amendment made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Dec. 27, 2021] and apply as if the date specified in subsection (e) of section 7 of the Fishermen’s Protective Act of 1967 [[22 U.S.C. 1977(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section1977/e&num=0&edition=prelim)], as in effect on the day before the date of the enactment of this Act, were the day after such date of enactment. “(2) Agreements and payments.—The Secretary is authorized to—“(A) enter into agreements pursuant to section 7 of the Fishermen’s Protective Act of 1967 [[22 U.S.C. 1977](./chapter-025-protection-of-vessels-on-the-high-seas-and-in-territorial-waters-of-foreign-countries.md#section-1977)] for any claims to which such section would otherwise apply but for the date specified in subsection (e) of such section, as in effect on the day before the date of the enactment of this Act; and “(B) make payments in accordance with agreements entered into pursuant to such section if any such payments have not been made as a result of the expiration of the date specified in such section, as in effect on the day before the date of the enactment of this Act.”
+
+[For definition of “Secretary” as used in section 5111(b) of Pub. L. 117–81, set out above, see section 5002 of Pub. L. 117–81, set out as a note under [section 263c of this title](./chapter-007-international-bureaus-congresses-etc.md#section-263c).]
 
 #### Effective Date of 1986 Amendment
 Pub. L. 99–659, title IV, § 408, Nov. 14, 1986, 100 Stat. 3740, provided that the amendment made by that section is effective Oct. 1, 1986.

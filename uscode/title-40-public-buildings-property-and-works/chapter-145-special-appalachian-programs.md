@@ -2,7 +2,7 @@
 title: 40
 chapter: '145'
 heading: SPECIAL APPALACHIAN PROGRAMS
-section_count: 16
+section_count: 17
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40&num=0&edition=prelim
 ---
@@ -556,21 +556,15 @@ Subsec. (g)(3). Pub. L. 110–371, § 2(g)(2), added par. (3).
 
 <a id="section-14509"></a>
 ## § 14509. High-speed broadband deployment initiative
-**(a) In General.—** The Appalachian Regional Commission may provide technical assistance, make grants, enter into contracts, or otherwise provide amounts to individuals or entities in the Appalachian region for projects and activities—
+**(a) In General.—** The Appalachian Regional Commission may provide technical assistance, make grants, enter into contracts, or otherwise provide amounts to individuals or entities in the Appalachian region for projects and activities to increase affordable access to broadband networks throughout the Appalachian region.
 
-(1) to increase affordable access to broadband networks throughout the Appalachian region;
+**(b) Eligible Projects and Activities.—** A project or activity eligible to be carried out under this section is a project or activity—
 
-(2) to conduct research, analysis, and training to increase broadband adoption efforts in the Appalachian region;
+(1) to conduct research, analysis, and training to increase broadband adoption efforts in the Appalachian region; or
 
-(3) to provide technology assets, including computers, smartboards, and video projectors to educational systems throughout the Appalachian region;
+(2) for the construction and deployment of broadband service-related infrastructure in the Appalachian region.
 
-(4) to increase distance learning opportunities throughout the Appalachian region;
-
-(5) to increase the use of telehealth technologies in the Appalachian region; and
-
-(6) to promote e-commerce applications in the Appalachian region.
-
-**(b) Limitation on Available Amounts.—** Of the cost of any activity eligible for a grant under this section—
+**(c) Limitation on Available Amounts.—** Of the cost of any activity eligible for a grant under this section—
 
 (1) not more than 50 percent may be provided from amounts appropriated to carry out this section; and
 
@@ -580,15 +574,39 @@ Subsec. (g)(3). Pub. L. 110–371, § 2(g)(2), added par. (3).
 
   (B) in the case of a project to be carried out in a county for which an at-risk designation is in effect under section 14526, not more than 70 percent may be provided from amounts appropriated to carry out this section.
 
-**(c) Sources of Assistance.—** Subject to subsection (b), a grant provided under this section may be provided from amounts made available to carry out this section in combination with amounts made available—
+**(d) Sources of Assistance.—** Subject to subsection (c), a grant provided under this section may be provided from amounts made available to carry out this section in combination with amounts made available—
 
 (1) under any other Federal program; or
 
 (2) from any other source.
 
-**(d) Federal Share.—** Notwithstanding any provision of law limiting the Federal share under any other Federal program, amounts made available to carry out this section may be used to increase that Federal share, as the Appalachian Regional Commission determines to be appropriate.
+**(e) Federal Share.—** Notwithstanding any provision of law limiting the Federal share under any other Federal program, amounts made available to carry out this section may be used to increase that Federal share, as the Appalachian Regional Commission determines to be appropriate.
+
+**(f) Request for Data.—** Before making a grant for a project or activity described in subsection (b)(2), the Appalachian Regional Commission shall request from the Federal Communications Commission, the National Telecommunications and Information Administration, the Economic Development Administration, and the Department of Agriculture data on—
+
+(1) the level and extent of broadband service that exists in the area proposed to be served by the broadband service-related infrastructure; and
+
+(2) the level and extent of broadband service that will be deployed in the area proposed to be served by the broadband service-related infrastructure pursuant to another Federal program.
+
+**(g) Requirement.—** For each fiscal year, not less than 65 percent of the amounts made available to carry out this section shall be used for grants for projects and activities described in subsection (b)(2).
 
 ### Statutory Notes
+
+#### Amendments
+2021—Subsec. (a). Pub. L. 117–58, § 11506(d)(1), added subsec. (a) and struck out former subsec. (a) which related to the Appalachian Regional Commission providing technical assistance, making grants, entering into contracts, or otherwise providing amounts to individuals or entities in the Appalachian region for projects and activities and specifying particular objectives in pars. (1) to (6).
+
+Subsec. (b). Pub. L. 117–58, § 11506(d)(3), added subsec. (b). Former subsec. (b) redesignated (c).
+
+Subsec. (c). Pub. L. 117–58, § 11506(d)(2), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
+
+Subsec. (d). Pub. L. 117–58, § 11506(d)(2), (4), redesignated subsec. (c) as (d) and substituted “subsection (c)” for “subsection (b)” in introductory provisions. Former subsec. (d) redesignated (e).
+
+Subsec. (e). Pub. L. 117–58, § 11506(d)(2), redesignated subsec. (d) as (e).
+
+Subsec. (f), (g). Pub. L. 117–58, § 11506(d)(5), added subsecs. (f) and (g).
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as a note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
 
 #### Effective Date
 Pub. L. 114–94, div. A, title I, § 1436(d), Dec. 4, 2015, 129 Stat. 1432, provided that: “This section [enacting this section and amending sections 14703 and 14704 of this title] and the amendments made by this section take effect on October 1, 2015.”
@@ -623,6 +641,38 @@ Pub. L. 114–94, div. A, title I, § 1436(d), Dec. 4, 2015, 129 Stat. 1432, pro
 (2) from any other source.
 
 **(d) Federal Share.—** Notwithstanding any provision of law limiting the Federal share under any other Federal program, amounts made available to carry out this section may be used to increase that Federal share, as the Appalachian Regional Commission determines to be appropriate.
+
+
+<a id="section-14511"></a>
+## § 14511. Appalachian regional energy hub initiative
+**(a) In General.—** The Appalachian Regional Commission may provide technical assistance to, make grants to, enter into contracts with, or otherwise provide amounts to individuals or entities in the Appalachian region for projects and activities—
+
+(1) to conduct research and analysis regarding the economic impact of an ethane storage hub in the Appalachian region that supports a more-effective energy market performance due to the scale of the project, such as a project with the capacity to store and distribute more than 100,000 barrels per day of hydrocarbon feedstock with a minimum gross heating value of 1,700 Btu per standard cubic foot;
+
+(2) with the potential to significantly contribute to the economic resilience of the area in which the project is located; and
+
+(3) that will help establish a regional energy hub in the Appalachian region for natural gas and natural gas liquids, including hydrogen produced from the steam methane reforming of natural gas feedstocks.
+
+**(b) Limitation on Available Amounts.—** Of the cost of any project or activity eligible for a grant under this section—
+
+(1) except as provided in paragraphs (2) and (3), not more than 50 percent may be provided from amounts made available to carry out this section;
+
+(2) in the case of a project or activity to be carried out in a county for which a distressed county designation is in effect under section 14526, not more than 80 percent may be provided from amounts made available to carry out this section; and
+
+(3) in the case of a project or activity to be carried out in a county for which an at-risk county designation is in effect under section 14526, not more than 70 percent may be provided from amounts made available to carry out this section.
+
+**(c) Sources of Assistance.—** Subject to subsection (b), a grant provided under this section may be provided from amounts made available to carry out this section, in combination with amounts made available—
+
+(1) under any other Federal program; or
+
+(2) from any other source.
+
+**(d) Federal Share.—** Notwithstanding any provision of law limiting the Federal share under any other Federal program, amounts made available to carry out this section may be used to increase that Federal share, as the Appalachian Regional Commission determines to be appropriate.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as an Effective Date of 2021 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
 
 
 <a id="section-14521"></a>

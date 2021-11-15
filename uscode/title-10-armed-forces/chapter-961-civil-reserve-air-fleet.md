@@ -23,13 +23,13 @@ In this chapter:
 
 (6) The term “Civil Reserve Air Fleet” means those aircraft allocated, or identified for allocation, to the Department of Defense under section 101 of the Defense Production Act of 1950 ([50 U.S.C. 4511](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4511&num=0&edition=prelim)), or made available (or agreed to be made available) for use by the Department of Defense under a contract made under this title, as part of the program developed by the Department of Defense through which the Department of Defense augments its airlift capability by use of civil aircraft.
 
-(7) The term “contractor” means a citizen of the United States (A) who owns or controls, or who will own or control, a new or existing aircraft and who contracts with the Secretary under [section 9512 of this title](./chapter-961-civil-reserve-air-fleet.md#section-9512) to modify that aircraft by including or incorporating specified defense features in that aircraft and to commit that aircraft to the Civil Reserve Air Fleet, (B) who subsequently obtains ownership or control of a civil aircraft covered by such a contract and assumes all existing obligations under that contract, or (C) who owns or controls, or will own or control, new or existing aircraft and who, by contract, commits some or all of such aircraft to the Civil Reserve Air Fleet.
+(7) The term “contractor” means a citizen of the United States (A) who owns or controls, or who will own or control, a new or existing aircraft and who contracts with the Secretary under [section 9513 of this title](./chapter-961-civil-reserve-air-fleet.md#section-9513) to modify that aircraft by including or incorporating specified defense features in that aircraft and to commit that aircraft to the Civil Reserve Air Fleet, (B) who subsequently obtains ownership or control of a civil aircraft covered by such a contract and assumes all existing obligations under that contract, or (C) who owns or controls, or will own or control, new or existing aircraft and who, by contract, commits some or all of such aircraft to the Civil Reserve Air Fleet.
 
 (8) The term “existing aircraft” means a civil aircraft other than a new aircraft.
 
-(9) The term “new aircraft” means a civil aircraft that a manufacturer has not begun to assemble before the aircraft is covered by a contract under [section 9512 of this title](./chapter-961-civil-reserve-air-fleet.md#section-9512).
+(9) The term “new aircraft” means a civil aircraft that a manufacturer has not begun to assemble before the aircraft is covered by a contract under [section 9513 of this title](./chapter-961-civil-reserve-air-fleet.md#section-9513).
 
-(10) The term “Secretary” means the Secretary of the Air Force.
+(10) The term “Secretary” means the Secretary of Defense.
 
 (11) The term “defense feature” means equipment or design features included or incorporated in a civil aircraft which ensures the compatibility of such aircraft with the Department of Defense airlift system. Such term includes any equipment or design feature which enables such aircraft to be readily modified for use as an aeromedical aircraft or a cargo-convertible, cargo-capable, or passenger-cargo combined aircraft.
 
@@ -38,6 +38,10 @@ In this chapter:
 ### Statutory Notes
 
 #### Amendments
+2021—Pars. (7), (9). Pub. L. 117–81, § 1083(c)(1)(B), substituted “section 9513” for “section 9512”.
+
+Par. (10). Pub. L. 117–81, § 1083(a)(1), amended par. (10) generally. Prior to amendment, par. (10) read as follows: “The term ‘Secretary’ means the Secretary of the Air Force.”
+
 2016—Par. (6). Pub. L. 114–328 substituted “([50 U.S.C. 4511](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4511&num=0&edition=prelim))” for “(50 U.S.C. App. 2071)”.
 
 2015—Par. (12). Pub. L. 114–92 added par. (12).
@@ -77,37 +81,43 @@ Par. (12). Pub. L. 101–189, § 1636(a)(4), added par. (12).
 1987—Pars. (1) to (11). Pub. L. 100–180 inserted “The term” after each par. designation, and revised first word in quotes in pars. (1) to (6) and (8) to (10) to make initial letter of each word lowercase.
 
 #### Effective Date of 1994 Amendment
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 2302 of this title](./chapter-137-procurement-generally.md#section-2302).
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 2302 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2302).
 
 
 <a id="section-9511a"></a>
-## § 9511a. Civil Reserve Air Fleet contracts: payment rate
-**(a) Authority.—** The Secretary of Defense shall determine a fair and reasonable rate of payment for airlift services provided to the Department of Defense by air carriers who are participants in the Civil Reserve Air Fleet program.
-
-**(b) Regulations.—** The Secretary of Defense shall prescribe regulations for purposes of subsection (a). The Secretary may exclude from the applicability of those regulations any airlift services contract made through the use of competitive procedures.
-
-**(c) Commitment of Aircraft as a Business Factor.—** The Secretary may, in determining the quantity of business to be received under an airlift services contract for which the rate of payment is determined in accordance with subsection (a), use as a factor the relative amount of airlift capability committed by each air carrier to the Civil Reserve Air Fleet.
-
-**(d) Inapplicable Provisions of Law.—** An airlift services contract for which the rate of payment is determined in accordance with subsection (a) shall not be subject to the provisions of [section 2306a of this title](./chapter-137-procurement-generally.md#section-2306a) or to the provisions of subsections (a) and (b) of [section 1502 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1502&num=0&edition=prelim).
-
-### Statutory Notes
-
-#### Amendment of Subsection (d)
-Pub. L. 116–283, div. A, title XVIII, §§ 1801(d)(1), 1831(j)(6), Jan. 1, 2021, 134 Stat. 4151, 4217, provided that, effective Jan. 1, 2022, subsection (d) of this section is amended by striking “section 2306a” and inserting “chapter 271”. See 2021 Amendment note below.
-
-#### Amendments
-2021—Subsec. (d). Pub. L. 116–283 substituted “chapter 271” for “section 2306a”.
-
-#### Effective Date of 2021 Amendment
-Amendment by Pub. L. 116–283 effective Jan. 1, 2022, see section 1801(d)(1) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
-
-#### Initial Regulations
-Pub. L. 112–81, div. A, title III, § 366(c), Dec. 31, 2011, 125 Stat. 1381, provided that: “Regulations shall be prescribed under [section 9511a(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9511a/b&num=0&edition=prelim), United States Code, as added by subsection (a), not later than 180 days after the date of the enactment of this Act [Dec. 31, 2011].”
+## § 9511a. Renumbered 9512]
 
 
 <a id="section-9512"></a>
-## § 9512. Contracts for the inclusion or incorporation of defense features
-**(a) Authority to Contract.—** Subject to the provisions of chapter 137 of this title, and to the extent that funds are otherwise available for obligation, the Secretary—
+## § 9512. Civil Reserve Air Fleet contracts: payment rate
+**(a) Authority.—** The Secretary shall determine a fair and reasonable rate of payment for airlift services provided to the Department of Defense by air carriers who are participants in the Civil Reserve Air Fleet program.
+
+**(b) Regulations.—** The Secretary shall prescribe regulations for purposes of subsection (a). The Secretary may exclude from the applicability of those regulations any airlift services contract made through the use of competitive procedures.
+
+**(c) Commitment of Aircraft as a Business Factor.—** The Secretary may, in determining the quantity of business to be received under an airlift services contract for which the rate of payment is determined in accordance with subsection (a), use as a factor the relative amount of airlift capability committed by each air carrier to the Civil Reserve Air Fleet.
+
+**(d) Inapplicable Provisions of Law.—** An airlift services contract for which the rate of payment is determined in accordance with subsection (a) shall not be subject to the provisions of chapter 271 of this title or to the provisions of subsections (a) and (b) of [section 1502 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1502&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 9512 was renumbered [section 9513 of this title](./chapter-961-civil-reserve-air-fleet.md#section-9513).
+
+#### Amendments
+2021—Pub. L. 117–81 renumbered [section 9511a of this title](./chapter-961-civil-reserve-air-fleet.md#section-9511a) as this section and substituted “Secretary” for “Secretary of Defense” in subsecs. (a) and (b).
+
+Subsec. (d). Pub. L. 116–283 substituted “chapter 271” for “section 2306a”.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d)(1) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Initial Regulations
+Pub. L. 112–81, div. A, title III, § 366(c), Dec. 31, 2011, 125 Stat. 1381, provided that: “Regulations shall be prescribed under [section 9511a(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9511a/b&num=0&edition=prelim), United States Code [now [10 U.S.C. 9512(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9512/b&num=0&edition=prelim)], as added by subsection (a), not later than 180 days after the date of the enactment of this Act [Dec. 31, 2011].”
+
+
+<a id="section-9513"></a>
+## § 9513. Contracts for the inclusion or incorporation of defense features
+**(a) Authority to Contract.—** Subject to the provisions of chapter 137 11 See References in Text note below. of this title, and to the extent that funds are otherwise available for obligation, the Secretary—
 
 (1) may contract with any citizen of the United States for the inclusion or incorporation of defense features in any new or existing aircraft to be owned or controlled by that citizen; and
 
@@ -141,14 +151,24 @@ Pub. L. 112–81, div. A, title III, § 366(c), Dec. 31, 2011, 125 Stat. 1381, p
 
 (2) A contract entered into pursuant to paragraph (1) may include such specifications for work and equipment as the Secretary considers necessary to meet the needs of the United States.
 
-**(e) Exclusivity of Commitment to Civil Reserve Air Fleet.—** Notwithstanding section 101 of the Defense Production Act of 1950 ([50 U.S.C. 4511](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4511&num=0&edition=prelim)), each aircraft covered by a contract entered into under this section shall be committed exclusively to the Civil Reserve Air Fleet for use by the Department of Defense as needed during any activation of the Civil Reserve Air Fleet unless the aircraft is released from that use by the Secretary of Defense.
+**(e) Exclusivity of Commitment to Civil Reserve Air Fleet.—** Notwithstanding section 101 of the Defense Production Act of 1950 ([50 U.S.C. 4511](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4511&num=0&edition=prelim)), each aircraft covered by a contract entered into under this section shall be committed exclusively to the Civil Reserve Air Fleet for use by the Department of Defense as needed during any activation of the Civil Reserve Air Fleet unless the aircraft is released from that use by the Secretary.
 
 ### Statutory Notes
 
+#### References in Text
+Chapter 137 of this title, referred to in subsec. (a), was repealed by Pub. L. 116–283, div. A, title XVIII, § 1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, in conjunction with the transfer and reorganization of acquisition provisions in this title by Pub. L. 116–283, div. A, title XVIII, Jan. 1, 2022, 134 Stat. 4149.
+
 #### Codification
-The text of subsecs. (a) and (b) of [section 9513 of this title](./chapter-961-civil-reserve-air-fleet.md#section-9513), which were redesignated as subsecs. (b) and (e) of this section by Pub. L. 103–355, § 3032(4), (5), was based on Pub. L. 97–86, title IX, § 915(2), Dec. 1, 1981, 95 Stat. 1128; amended Pub. L. 101–189, div. A, title XVI, § 1636(c)(1), Nov. 29, 1989, 103 Stat. 1610.
+The text of subsecs. (a) and (b) of prior [section 9513 of this title](./chapter-961-civil-reserve-air-fleet.md#section-9513), which were redesignated as subsecs. (b) and (e) of this section by Pub. L. 103–355, § 3032(4), (5), was based on Pub. L. 97–86, title IX, § 915(2), Dec. 1, 1981, 95 Stat. 1128; amended Pub. L. 101–189, div. A, title XVI, § 1636(c)(1), Nov. 29, 1989, 103 Stat. 1610.
+
+#### Prior Provisions
+A prior section 9513, added Pub. L. 103–355, title III, § 3033(a), Oct. 13, 1994, 108 Stat. 3335, related to use of military installations by Civil Reserve Air Fleet contractors, prior to repeal by Pub. L. 113–291, div. A, title X, § 1045(a), Dec. 19, 2014, 128 Stat. 3494.
+
+Another prior section 9513, added Pub. L. 97–86, title IX, § 915(2), Dec. 1, 1981, 95 Stat. 1128; amended Pub. L. 101–189, div. A, title XVI, § 1636(c)(1), Nov. 29, 1989, 103 Stat. 1610, directed that each contract under [section 9512 of this title](./chapter-961-civil-reserve-air-fleet.md#section-9512) be committed to Civil Reserve Air Fleet, prior to amendment by Pub. L. 103–355, § 3032(4), (5), (9), which struck out section catchline and redesignated subsecs. (a) and (b) as subsecs. (b) and (e) of section 9512, respectively.
 
 #### Amendments
+2021—Pub. L. 117–81 renumbered [section 9512 of this title](./chapter-961-civil-reserve-air-fleet.md#section-9512) as this section and substituted “Secretary” for “Secretary of Defense” in subsec. (e).
+
 2016—Subsec. (e). Pub. L. 114–328 substituted “([50 U.S.C. 4511](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4511&num=0&edition=prelim))” for “(50 U.S.C. App. 2071)”.
 
 1996—Subsecs. (b)(2), (e). Pub. L. 104–106 struck out “full” before “Civil Reserve Air Fleet”.
@@ -176,17 +196,7 @@ Pub. L. 103–355, § 3032(5), redesignated subsec. (b) of [section 9513 of this
 1984—Subsec. (b)(1). Pub. L. 98–525 substituted “App. 1401” for “1401”.
 
 #### Effective Date of 1994 Amendment
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 2302 of this title](./chapter-137-procurement-generally.md#section-2302).
-
-
-<a id="section-9513"></a>
-## § 9513. Repealed. Pub. L. 113–291, div. A, title X, § 1045(a), Dec. 19, 2014, 128 Stat. 3494]
-
-### Statutory Notes
-
-Section, added Pub. L. 103–355, title III, § 3033(a), Oct. 13, 1994, 108 Stat. 3335, related to use of military installations by Civil Reserve Air Fleet contractors.
-
-A prior section 9513, added Pub. L. 97–86, title IX, § 915(2), Dec. 1, 1981, 95 Stat. 1128; amended Pub. L. 101–189, div. A, title XVI, § 1636(c)(1), Nov. 29, 1989, 103 Stat. 1610, directed that each contract under [section 9512 of this title](./chapter-961-civil-reserve-air-fleet.md#section-9512) be committed to Civil Reserve Air Fleet, prior to amendment by Pub. L. 103–355, § 3032(4), (5), (9), which struck out section catchline and redesignated subsecs. (a) and (b) as subsecs. (b) and (e) of section 9512, respectively.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 2302 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2302).
 
 
 <a id="section-9514"></a>
@@ -213,9 +223,7 @@ A prior section 9513, added Pub. L. 97–86, title IX, § 915(2), Dec. 1, 1981, 
 
 **(e) Construction With Other Transfer Authority.—** Authority to transfer funds under this section is in addition to any other authority provided by law to transfer funds (whether enacted before, on, or after the date of the enactment of this section) and is not subject to any dollar limitation or notification requirement contained in any other such authority to transfer funds.
 
-**(f)** Repealed. Pub. L. 108–136, div. A, title X, § 1031(a)(60)(B), Nov. 24, 2003, 117 Stat. 1603.]
-
-**(g) Definitions.—** In this section:
+**(f) Definitions.—** In this section:
 
 (1) **Defense-related aviation insurance.—** — The term “defense-related aviation insurance” means aviation insurance and reinsurance provided through policies issued by the Secretary of Transportation under chapter 443 of title 49 that pursuant to section 44305(b) of that title is provided by that Secretary without premium at the request of the Secretary of Defense and is covered by an indemnity agreement between the Secretary of Transportation and the Secretary of Defense.
 
@@ -227,6 +235,8 @@ A prior section 9513, added Pub. L. 97–86, title IX, § 915(2), Dec. 1, 1981, 
 The date of the enactment of this section, referred to in subsec. (e), is the date of enactment of Pub. L. 104–201, which was approved Sept. 23, 1996.
 
 #### Amendments
+2021—Subsecs. (f), (g). Pub. L. 117–81 redesignated subsec. (g) as (f).
+
 2011—Subsec. (c). Pub. L. 112–81 substituted “$10,000,000” for “$1,000,000”.
 
 2003—Subsec. (c). Pub. L. 108–136, § 1031(a)(60)(A), struck out designation for par. (1) before “notification of the loss”, substituted “Congress” for “Congress—” and “loss.” for “loss; and”, and struck out par. (2) which read as follows: “semiannual reports thereafter updating the information submitted under paragraph (1) and showing with respect to losses arising from such incident the total amount expended to cover such losses, the source of those funds, pending litigation, and estimated total cost to the Government.”
@@ -236,7 +246,7 @@ Subsec. (f). Pub. L. 108–136, § 1031(a)(60)(B), struck out heading and text o
 
 <a id="section-9515"></a>
 ## § 9515. Charter air transportation services: minimum annual purchase amount for carriers participating in Civil Reserve Air Fleet
-**(a) In General.—** The Secretary of Defense shall take steps to—
+**(a) In General.—** The Secretary shall take steps to—
 
 (1) improve the predictability in Department of Defense charter requirements;
 
@@ -244,15 +254,15 @@ Subsec. (f). Pub. L. 108–136, § 1031(a)(60)(B), struck out heading and text o
 
 (3) provide incentives for commercial air carriers to provide newer, more efficient and reliable aircraft for Department of Defense service rather than older, fully depreciated aircraft.
 
-**(b) Consideration of Recommendations.—** In carrying out subsection (a), the Secretary of Defense shall consider the recommendations on courses of action for the Civil Reserve Air Fleet as outlined in the report required by section 356 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181).
+**(b) Consideration of Recommendations.—** In carrying out subsection (a), the Secretary shall consider the recommendations on courses of action for the Civil Reserve Air Fleet as outlined in the report required by section 356 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181).
 
-**(c) Contracts for Charter Air Transportation Services.—** The Secretary of Defense may award to an air carrier or an air carrier contractor team arrangement participating in the Civil Reserve Air Fleet on a fiscal year basis a one-year contract for charter air transportation services with a minimum purchase amount under such contract determined in accordance with this section.
+**(c) Contracts for Charter Air Transportation Services.—** The Secretary may award to an air carrier or an air carrier contractor team arrangement participating in the Civil Reserve Air Fleet on a fiscal year basis a one-year contract for charter air transportation services with a minimum purchase amount under such contract determined in accordance with this section.
 
 **(d) Eligible Charter Air Transportation Carriers.—** In order to be eligible for payments under the minimum purchase amount provided by this section, an air carrier (or any air carrier participating in an air carrier contractor team arrangement)—
 
 (1) if under contract with the Department of Defense in the prior fiscal year, shall have an average on-time pick up rate, based on factors within such air carrier’s control, of at least 90 percent;
 
-(2) shall offer such amount of commitment to the Civil Reserve Air Fleet in excess of the minimum required for participation in the Civil Reserve Air Fleet as the Secretary of Defense shall specify for purposes of this section; and
+(2) shall offer such amount of commitment to the Civil Reserve Air Fleet in excess of the minimum required for participation in the Civil Reserve Air Fleet as the Secretary shall specify for purposes of this section; and
 
 (3) may not have refused a Department of Defense request to act as a host for other Civil Reserve Air Fleet carriers at intermediate staging bases during the prior fiscal year.
 
@@ -260,13 +270,13 @@ Subsec. (f). Pub. L. 108–136, § 1031(a)(60)(B), struck out heading and text o
 
 (1) The aggregate amount of the minimum purchase amount for all contracts awarded under subsection (c) for a fiscal year shall be based on forecast needs, but may not exceed the amount equal to 80 percent of the average annual expenditure of the Department of Defense for charter air transportation services during the five-fiscal year period ending in the fiscal year before the fiscal year for which such contracts are awarded.
 
-(2) In calculating the average annual expenditure of the Department of Defense for charter air transportation services for purposes of paragraph (1), the Secretary of Defense shall omit from the calculation any fiscal year exhibiting unusually high demand for charter air transportation services if the Secretary determines that the omission of such fiscal year from the calculation will result in a more accurate forecast of anticipated charter air transportation services for purposes of that paragraph.
+(2) In calculating the average annual expenditure of the Department of Defense for charter air transportation services for purposes of paragraph (1), the Secretary shall omit from the calculation any fiscal year exhibiting unusually high demand for charter air transportation services if the Secretary determines that the omission of such fiscal year from the calculation will result in a more accurate forecast of anticipated charter air transportation services for purposes of that paragraph.
 
 **(f) Allocation of Minimum Purchase Among Charter Air Transportation Contracts.—**
 
 (1) The aggregate amount of the minimum purchase amount for all contracts awarded under subsection (c) for a fiscal year, as determined under subsection (e), shall be allocated among all air carriers and air carrier contractor team arrangements awarded contracts under subsection (c) for such fiscal year in proportion to the commitments of such carriers to the Civil Reserve Air Fleet for such fiscal year.
 
-(2) In determining the minimum purchase amount payable under paragraph (1) under a contract under subsection (c) for charter air transportation services provided by an air carrier or air carrier contractor team arrangement during the fiscal year covered by such contract, the Secretary of Defense may adjust the amount allocated to such carrier or arrangement under paragraph (1) to take into account periods during such fiscal year when charter air transportation services of such carrier or a carrier in such arrangement are unavailable for usage by the Department of Defense, including during periods of refused business or suspended operations or when such carrier is placed in nonuse status pursuant to [section 2640 of this title](./chapter-157-transportation.md#section-2640) for safety reasons.
+(2) In determining the minimum purchase amount payable under paragraph (1) under a contract under subsection (c) for charter air transportation services provided by an air carrier or air carrier contractor team arrangement during the fiscal year covered by such contract, the Secretary may adjust the amount allocated to such carrier or arrangement under paragraph (1) to take into account periods during such fiscal year when charter air transportation services of such carrier or a carrier in such arrangement are unavailable for usage by the Department of Defense, including during periods of refused business or suspended operations or when such carrier is placed in nonuse status pursuant to [section 2640 of this title](./chapter-157-transportation.md#section-2640) for safety reasons.
 
 **(g) Distribution of Amounts.—** If any amount available under this section for the minimum purchase of charter air transportation services from a carrier or air carrier contractor team arrangement for a fiscal year under a contract under subsection (c) is not utilized to purchase charter air transportation services from the carrier or arrangement in such fiscal year, such amount shall be provided to the carrier or arrangement before the first day of the following fiscal year.
 
@@ -274,7 +284,7 @@ Subsec. (f). Pub. L. 108–136, § 1031(a)(60)(B), struck out heading and text o
 
 (1) The Secretary of each military department shall transfer to the transportation working capital fund a percentage of the total amount anticipated to be required in such fiscal year for the payment of minimum purchase amounts under all contracts awarded under subsection (c) for such fiscal year equivalent to the percentage of the anticipated use of charter air transportation services by such military department during such fiscal year from all carriers under contracts awarded under subsection (c) for such fiscal year.
 
-(2) Any amounts required to be transferred under paragraph (1) shall be transferred by the last day of the fiscal year concerned to meet the requirements of subsection (g) unless minimum purchase amounts have already been distributed by the Secretary of Defense under subsection (g) as of that date.
+(2) Any amounts required to be transferred under paragraph (1) shall be transferred by the last day of the fiscal year concerned to meet the requirements of subsection (g) unless minimum purchase amounts have already been distributed by the Secretary under subsection (g) as of that date.
 
 **(i) Availability of Airlift Services.—**
 
@@ -290,7 +300,9 @@ Subsec. (f). Pub. L. 108–136, § 1031(a)(60)(B), struck out heading and text o
 Section 356 of the National Defense Authorization Act for Fiscal Year 2008, referred to in subsec. (b), is section 356 of Pub. L. 110–181, div. A, title III, Jan. 28, 2008, 122 Stat. 74, which is not classified to the Code.
 
 #### Amendments
-2021—Subsec. (k). Pub. L. 116–283 struck out subsec. (k). Text read as follows: “The authorities in this section shall expire on December 31, 2020.”
+2021—Pub. L. 117–81 substituted “Secretary” for “Secretary of Defense” wherever appearing.
+
+Subsec. (k). Pub. L. 116–283 struck out subsec. (k). Text read as follows: “The authorities in this section shall expire on December 31, 2020.”
 
 2013—Subsec. (a)(3). Pub. L. 112–239, § 1055(b)(1), struck out “passenger” after “commercial air”.
 
@@ -331,9 +343,26 @@ Pub. L. 110–417, [div. A], title X, § 1033(c), Oct. 14, 2008, 122 Stat. 4593,
 
 **(c) Transportation Between Foreign Locations.—** The transportation of passengers or property by CRAF-eligible aircraft between two places outside the United States obtained by the Secretary of Defense or the Secretary of a military department through a contract for airlift service shall be provided by an air carrier referred to in subsection (a) whenever transportation by such an air carrier is reasonably available.
 
-**(d) Exception.—** When the Secretary of Defense decides that no air carrier holding a certificate under [section 41102 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section41102&num=0&edition=prelim) is capable of providing, and willing to provide, the airlift service, the Secretary of Defense may make a contract to provide the service with an air carrier not having a certificate.
+**(d) Exception.—** Subject to subsection (e), when the Secretary of Defense decides that no air carrier holding a certificate under [section 41102 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section41102&num=0&edition=prelim) is capable of providing, and willing to provide, the airlift service, the Secretary of Defense may make a contract to provide the service with an air carrier not having a certificate.
 
-**(e) CRAF-eligible Aircraft Defined.—** In this section, “CRAF-eligible aircraft” means aircraft of a type the Secretary of Defense has determined to be eligible to participate in the civil reserve air fleet.
+**(e) Annual Report.—** Not later than 60 days after the end of each fiscal year, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report that—
+
+(1) identifies each contract for airlift services awarded in the preceding fiscal year to a provider that does not meet the requirements set forth in subparagraphs (A) and (B) of subsection (a)(1); and
+
+(2) for each such contract—
+
+  (A) specifies the dollar value of the award; and
+
+  (B) provides a detailed explanation of the reasons for the award.
+
+**(f) CRAF-eligible Aircraft Defined.—** In this section, “CRAF-eligible aircraft” means aircraft of a type the Secretary of Defense has determined to be eligible to participate in the civil reserve air fleet.
+
+### Statutory Notes
+
+#### Amendments
+2021—Subsec. (d). Pub. L. 117–81, § 1083(b)(1), substituted “Subject to subsection (e), when the Secretary” for “When the Secretary”.
+
+Subsecs. (e), (f). Pub. L. 117–81, § 1083(b)(2), (3), added subsec. (e) and redesignated former subsec. (e) as (f).
 
 
 <a id="section-9517"></a>

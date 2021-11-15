@@ -641,10 +641,11 @@ The Mining Law of 1872, referred to in subsec. (b), is act May 10, 1872, ch. 152
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
-Enforcement functions of Secretary or other official in Department of the Interior related to compliance with land use permits for temporary use of public lands and other associated land uses, issued under sections 1732, 1761, and 1763 to 1771 of this title, with respect to pre-construction, construction, and initial operation of transportation systems for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(e), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under [section 719e of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section719e&num=0&edition=prelim), Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by [section 720d(f) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section720d/f&num=0&edition=prelim).
-
 #### Management Guidelines To Prevent Wasting of Pacific Yew
 For Congressional findings relating to management guidelines to prevent wasting of Pacific yew in current and future timber sales on Federal lands, see [section 4801(a)(8) of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4801/a/8&num=0&edition=prelim), Conservation.
+
+#### Transfer of Functions
+Enforcement functions of Secretary or other official in Department of the Interior related to compliance with land use permits for temporary use of public lands and other associated land uses, issued under sections 1732, 1761, and 1763 to 1771 of this title, with respect to pre-construction, construction, and initial operation of transportation systems for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(e), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under [section 719e of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section719e&num=0&edition=prelim), Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by [section 720d(f) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section720d/f&num=0&edition=prelim).
 
 
 <a id="section-1733"></a>
@@ -1433,6 +1434,77 @@ Sec. 7. General Provisions. (a) Nothing in this order shall be construed to impa
 (ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
 
 (b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
+
+#### Ex. Ord. No. 13976. Establishing the Wildland Fire Management Policy Committee
+Ex. Ord. No. 13976, Jan. 14, 2021, 86 F.R. 6549, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. Purpose. Federal wildland fire management lacks a single focal point of responsibility for policy leadership and accountability for cost controls. While executive departments and agencies (agencies) have implemented Executive Order 13855 of December 21, 2018 (Promoting Active Management of America’s Forests, Rangelands, and Other Federal Lands To Improve Conditions and Reduce Wildfire Risk) [set out above], and similar Administration efforts, more must be done to continue to improve interagency coordination.
+
+In contrast to effective ground-level coordination with States, including at the National Interagency Fire Center on suppression activity and the Wildland Fire Leadership Council (WFLC) on Federal-State policy coordination, agencies do not adequately or effectively coordinate with each other at the policy level to reduce hazardous fuels and wildfire severity. This order will ensure that agencies effectively work together in coordinating Federal wildland fire management policy to improve funding allocations for hazardous fuel projects, performance measures for suppression operations and hazardous fuels mitigation, procurement, Federal-State cooperation and cost sharing, cross-jurisdictional post-wildfire rehabilitation, monitoring of electric transmission lines and other critical infrastructure, and other functions.
+
+Sec. 2. Policy. It is the policy of the United States to:
+
+(a) Improve coordination among agencies on wildland fire management policy, implementation, and oversight issues;
+
+(b) Reduce unnecessary duplication across the Federal Government by coordinating and consolidating existing wildland fire-related councils, working groups, and other formal cross-agency initiatives, as appropriate;
+
+(c) Efficiently and effectively manage preparedness resources, initial attack response, extended attack and large-fire support, post-wildfire rehabilitation, and hazardous fuels at a cross-boundary, landscape scale;
+
+(d) Promote integrated planning and procurement among agencies for Federal investments in wildland fire management infrastructure;
+
+(e) Support workforce development and efforts to recruit, train, and retain Federal wildland firefighters to efficiently and effectively respond to wildfire on public lands, and to protect life, property, and community infrastructure; and
+
+(f) Coordinate Federal engagement with State, local, and tribal government entities, including Federal policy positions in the WFLC.
+
+Sec. 3. Interagency Wildland Fire Subcabinet. To promote efficient and effective coordination across agencies engaged in Federal wildland firefighting and to facilitate coordinated and strategic wildland fire management actions, an interagency Wildland Fire Management Policy Committee (to be known as the Wildland Fire Subcabinet) is hereby established.
+
+(a) The Wildland Fire Subcabinet shall be co-chaired by the Secretary of Agriculture and Secretary of the Interior (Co-Chairs), and shall include the Secretary of Defense, the Secretary of Energy, the Secretary of Homeland Security, the Chairman of the Council on Environmental Quality (CEQ), the Director of the Office of Science and Technology Policy (OSTP), the Administrator of the Environmental Protection Agency (EPA), the Director of the National Economic Council (NEC), and the heads of such other agencies, or their designated representatives, as the Co-Chairs deem appropriate.
+
+(b) The Wildland Fire Subcabinet shall meet quarterly.
+
+Sec. 4. Reducing Inefficiencies and Duplication. Currently, several Federal wildfire-related councils, task forces, working groups, and other formal cross-agency initiatives (Federal interagency working groups) exist to address wildland fire management policy. Within 90 days of the date of this order [Jan. 14, 2021], the Wildland Fire Subcabinet shall, to the extent practicable, identify all such Federal interagency working groups and provide recommendations to the Secretary of the Interior, the Secretary of Agriculture, and the Director of the Office of Management and Budget (OMB) on coordinating and consolidating these Federal interagency working groups, as appropriate and consistent with applicable law.
+
+Sec. 5. Improving Wildland Fire Management Policy Coordination, Implementation, and Oversight. Within 180 days of the date of this order, the Wildland Fire Subcabinet shall develop, publish, and implement a strategic plan addressing the issues described in this section. To implement this strategic plan, the Wildland Fire Subcabinet shall develop specific measurable goals, performance targets, and dashboard reporting for consideration by each Federal agency represented on the Wildland Fire Subcabinet, using common data standards at the wildfire and hazardous fuels program level. This strategic plan shall address the issues described below:
+
+(a) Effectively managing preparedness resources, initial attack response, extended attack and large-fire support, post-wildfire rehabilitation, and hazardous fuels at a cross-boundary, landscape scale;
+
+(b) Developing and adopting additional hazardous fuels performance measures that go beyond the traditional output reporting of total acreage for fuel removal to transparently demonstrate a strategic focus on projects that, by consensus agreement, pose the highest risks to life, property, and community infrastructure;
+
+(c) Developing and adopting additional wildland fire suppression operations performance measures for large wildfires, and for aviation asset deployment, that go beyond the traditional output reporting of acres burned, dollars spent, and gallons of retardant dropped to demonstrate strategic use of high-cost human capital, equipment, and aircraft as opposed to traditional reliance on overwhelming force;
+
+(d) Developing and adopting new technologies to bring to bear cutting-edge management of the wildland fire program to improve the safety, efficiency, and effectiveness of suppression operations;
+
+(e) Developing and adopting data-driven decision-making in order to support infrastructure, allowing for better integration of wildland fire research and development into ground-level suppression operations and hazardous fuel mitigation;
+
+(f) Evaluating personnel policies to ensure that they allow for the year-round availability of a well-trained firefighting force at all levels, from apprentice to incident command, and the most efficient division of responsibility between line officers and incident commanders to support wildfire response and hazardous fuels reduction;
+
+(g) Strengthening government and industry collaboration with critical infrastructure owners and operators, including electric utilities, to better manage and mitigate risks, improve and invest in technology research and development, deploy technologies in concert with the private sector, exchange lessons learned in training and monitoring capabilities, and share operational practices;
+
+(h) Examining regulatory and other issues that negatively impact hazardous fuel reduction and post-wildfire rehabilitation program performance, including coordination across agencies on projects requiring compliance with the National Environmental Policy Act, [42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.;
+
+(i) Coordinating among Federal land managers to assure efficient and consistent approaches between agencies to review and approve utility vegetation management actions to improve or maintain the reliability of the grid or reduce wildfire risk; and
+
+(j) Developing a coordinated budget strategy that addresses the trade-offs between suppression, preparedness, post-wildfire rehabilitation, and fuels treatment to ensure a balanced commitment of resources and investment in areas at risk or affected by wildfire.
+
+Sec. 6. Report. Within 1 year of the date of this order, and annually thereafter, the Wildland Fire Subcabinet shall update the Chairman of CEQ, the Director of OMB, the Director of OSTP, and the Director of the NEC on the status of the strategic plan and the specific actions identified in this order.
+
+Sec. 7. Administration. The Department of Agriculture shall, to the extent permitted by law and subject to the availability of appropriations, provide administrative support as needed for the Wildland Fire Subcabinet to implement this order. The Departments of the Interior and Agriculture shall consult with WFLC, as appropriate, to effectively carry out the requirements of this order.
+
+Sec. 8. Federal Advisory Committee Act. The members of the Wildland Fire Subcabinet should, pursuant to and consistent with the Federal Advisory Committee Act, as amended (5 U.S.C. App.), and in the interest of obtaining advice or recommendations for the Wildland Fire Subcabinet, use their advisory committees, as appropriate.
+
+Sec. 9. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented in a manner consistent with applicable law and subject to the availability of appropriations.
 
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 

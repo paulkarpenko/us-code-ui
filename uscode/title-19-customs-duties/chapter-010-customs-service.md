@@ -34,17 +34,11 @@ References to the Bureau of Prohibition and to the Commissioner of Prohibition w
 #### Change of Name
 Reference to Commissioner of Customs deemed to be reference to Commissioner of U.S. Customs and Border Protection pursuant to section 802(d)(2) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), Domestic Security.
 
-“United States Customs Service” substituted in text for “Bureau of Customs” pursuant to Treasury Department Order 165–23, Apr. 4, 1973, eff. Aug. 1, 1973, 38 F.R. 13037. See, also, [section 308 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section308&num=0&edition=prelim), Money and Finance.
-
 #### Effective Date
 Act Mar. 3, 1927, ch. 348, § 7, 44 Stat. 1383, provided that: “This Act shall take effect April 1, 1927.”
 
 #### Transfer of Functions
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
-
-Functions vested by law in Attorney General, Department of Justice, or any other officer or any agency of that Department, with respect to the inspection at regular inspection locations at ports of entry of persons, and documents of persons, entering or leaving the United States, were to have been transferred to Secretary of the Treasury by 1973 Reorg. Plan No. 2, § 2, eff. July 1, 1973, 38 F.R. 15932, 87 Stat. 1091, set out in the Appendix to Title 5. The transfer was negated by section 1(a)(1), (b) of Pub. L. 93–253, Mar. 16, 1974, 88 Stat. 50, which repealed section 2 of 1973 Reorg. Plan No. 2, eff. July 1, 1973.
-
-Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Mandatory Advance Electronic Information for Cargo and Other Improved Customs Reporting Procedures
 Pub. L. 107–210, div. A, title III, § 343(a), (c), Aug. 6, 2002, 116 Stat. 981, 985, as amended by Pub. L. 107–295, title I, § 108(b), Nov. 25, 2002, 116 Stat. 2089; Pub. L. 109–59, title XI, § 11165(a), Aug. 10, 2005, 119 Stat. 1976; Pub. L. 114–125, title I, § 111(c), Feb. 24, 2016, 130 Stat. 140; Pub. L. 115–271, title VIII, § 8003(a)(1), (b)(1), (e), Oct. 24, 2018, 132 Stat. 4074, which authorized the Secretary of the Treasury to promulgate regulations providing for the transmission to the Customs Service of electronic information pertaining to cargo entering or leaving the United States and was formerly set out as a note under this section, was transferred to [section 1415 of this title](./chapter-004-tariff-act-of-1930.md#section-1415).
@@ -68,6 +62,14 @@ Pub. L. 101–207, § 3(b)(2), Dec. 7, 1989, 103 Stat. 1834, provided that: “T
 Pub. L. 100–203, title IX, § 9503(c), Dec. 22, 1987, 101 Stat. 1330–381, which directed the Secretary of the Treasury to establish an Advisory Committee on Commercial Operations of the United States Customs Service to advise the Secretary and prepare annual reports relating to commercial operations of the United States Customs Service, was repealed, effective on the date on which the Advisory Committee was established under [section 4316(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4316/a&num=0&edition=prelim) [Mar. 29, 2016, see 81 F.R. 18865], by Pub. L. 114–125, title I, § 109(g)(1), Feb. 24, 2016, 130 Stat. 137.
 
 Pub. L. 99–272, title XIII, § 13033, Apr. 7, 1986, 100 Stat. 311, which provided for the establishment of an advisory committee, whose members were to consist of representatives from the airline, shipping, and other transportation industries, the general public, and others, to advise the Secretary of the Treasury on issues related to the performance of the customs services, was repealed by Pub. L. 100–203, title IX, § 9503(d), Dec. 22, 1987, 101 Stat. 1330–382.
+
+#### Change of Name
+“United States Customs Service” substituted in text for “Bureau of Customs” pursuant to Treasury Department Order 165–23, Apr. 4, 1973, eff. Aug. 1, 1973, 38 F.R. 13037. See, also, [section 308 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section308&num=0&edition=prelim), Money and Finance.
+
+#### Transfer of Functions
+Functions vested by law in Attorney General, Department of Justice, or any other officer or any agency of that Department, with respect to the inspection at regular inspection locations at ports of entry of persons, and documents of persons, entering or leaving the United States, were to have been transferred to Secretary of the Treasury by 1973 Reorg. Plan No. 2, § 2, eff. July 1, 1973, 38 F.R. 15932, 87 Stat. 1091, set out in the Appendix to Title 5. The transfer was negated by section 1(a)(1), (b) of Pub. L. 93–253, Mar. 16, 1974, 88 Stat. 50, which repealed section 2 of 1973 Reorg. Plan No. 2, eff. July 1, 1973.
+
+Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-2072"></a>
@@ -124,8 +126,6 @@ Section was formerly classified to [section 281a of Title 5](https://uscode.hous
 #### Change of Name
 Bureau of Prohibition and Commissioner of Prohibition redesignated Bureau of Industrial Alcohol and Commissioner of Industrial Alcohol, respectively, by act May 27, 1930.
 
-“United States Customs Service” substituted for “Bureau of Customs” in subsecs. (a) to (c) pursuant to Treasury Department Order 165–23, Apr. 4, 1973, eff. Aug. 1, 1973, 38 F.R. 13037. See, also, [section 308 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section308&num=0&edition=prelim), Money and Finance.
-
 Reference to Commissioner of Customs deemed to be reference to Commissioner of U.S. Customs and Border Protection pursuant to section 802(d)(2) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), Domestic Security.
 
 #### Repeals
@@ -134,12 +134,16 @@ Act Oct. 28, 1949, ch. 782, title XI, § 1106(a), cited as a credit to this sect
 #### Transfer of Functions
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
+#### Deputy Commissioner of Customs
+Act June 17, 1930, authorized the appointment of an additional deputy commissioner in the Bureau of Customs in addition to the two deputy commissioners then authorized by law.
+
+#### Change of Name
+“United States Customs Service” substituted for “Bureau of Customs” in subsecs. (a) to (c) pursuant to Treasury Department Order 165–23, Apr. 4, 1973, eff. Aug. 1, 1973, 38 F.R. 13037. See, also, [section 308 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section308&num=0&edition=prelim), Money and Finance.
+
+#### Transfer of Functions
 Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Bureau of Industrial Alcohol and office of Commissioner of Industrial Alcohol abolished and Commissioner’s functions transferred to Commissioner of Internal Revenue by Ex. Ord. No. 6639.
-
-#### Deputy Commissioner of Customs
-Act June 17, 1930, authorized the appointment of an additional deputy commissioner in the Bureau of Customs in addition to the two deputy commissioners then authorized by law.
 
 
 <a id="section-2073"></a>
@@ -158,12 +162,13 @@ Subsection (c) of section 3 of act March 3, 1927, abolished the Division of Cust
 #### Amendments
 1954—Subsec. (a). Act Sept. 3, 1954, repealed subsec. (a) which related to the delegation of duty to Commissioner of Customs by Secretary of the Treasury.
 
+#### Transfer of Functions
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
+
 #### Change of Name
 “United States Customs Service” substituted in text for “Bureau of Customs” pursuant to Treasury Department Order 165–23, Apr. 4, 1973, eff. Aug. 1, 1973, 38 F.R. 13037. See, also, [section 308 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section308&num=0&edition=prelim), Money and Finance.
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
-
 Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
@@ -177,12 +182,13 @@ There is established a revolving fund of $300,000 which shall be available, with
 #### Codification
 Section was formerly classified to [section 281g of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section281g&num=0&edition=prelim) prior to the general revision and enactment of Title 5 by Pub. L. 89–554, Sept. 6, 1966, § 1, 80 Stat. 378.
 
+#### Transfer of Functions
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
+
 #### Change of Name
 “United States Customs Service” substituted in text for “Bureau of Customs” pursuant to Treasury Department Order 165–23, Apr. 4, 1973, eff. Aug. 1, 1973, 38 F.R. 13037. See, also, [section 308 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section308&num=0&edition=prelim), Money and Finance.
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
-
 Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
@@ -413,15 +419,18 @@ Pub. L. 107–210, div. A, title III, § 311(b)(2), (3), Aug. 6, 2002, 116 Stat.
 <a id="section-2076"></a>
 ## § 2076. Advances in foreign countries
 
-Section 3648 of the Revised Statutes ([31 U.S.C. 529](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section529&num=0&edition=prelim)) 11 See References in Text note below. shall not apply to payments made for the Bureau of Customs 22 See Change of Name note below. in foreign countries.
+Section 3648 of the Revised Statutes ([31 U.S.C. 529b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section529b&num=0&edition=prelim)) 11 See References in Text note below. shall not apply to payments made for the Bureau of Customs 22 See Change of Name note below. in foreign countries.
 
 ### Statutory Notes
 
 #### References in Text
-Section 3648 of the Revised Statutes, referred to in text, was classified to section 529 of former Title 31, Money and Finance, and subsequently repealed and restated as section 3324(a), (b) of Title 31 by Pub. L. 97–258, §§ 1, 5(b), Sept. 13, 1982, 96 Stat. 950, 1068.
+Section 3648 of the Revised Statutes, referred to in text, was classified to section 529 (not 529b) of former Title 31, Money and Finance, and subsequently repealed and restated as section 3324(a), (b) of Title 31 by Pub. L. 97–258, §§ 1, 5(b), Sept. 13, 1982, 96 Stat. 950, 1068.
 
 #### Codification
 Section was formerly classified to [section 529b of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section529b&num=0&edition=prelim) prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
+
+#### Transfer of Functions
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 #### Similar Provisions
 Section is from Treasury Department Appropriation Act, 1939. Similar provisions were contained in the following appropriation acts:
@@ -438,8 +447,6 @@ May 14, 1935, ch. 110, 49 Stat. 222.
 The Bureau of Customs was redesignated the United States Customs Service by Treasury Department Order 165–23, Apr. 4, 1973, eff. Aug. 1, 1973, 38 F.R. 13037. See, also, [section 308 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section308&num=0&edition=prelim), Money and Finance.
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
-
 For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury, with power to delegate, see Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
@@ -459,6 +466,7 @@ Reference to Commissioner of Customs deemed to be reference to Commissioner of U
 #### Transfer of Functions
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
+#### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury, with power to delegate, see Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
 
 “Fiscal Service” substituted in text for “Division of Disbursement” on authority of section 1(a)(1) of Reorg. Plan No. III of 1940, eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231, set out in the Appendix to Title 5, Government Organization and Employees, which consolidated such division into Fiscal Service of Department of the Treasury. See [section 306 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section306&num=0&edition=prelim), Money and Finance.
@@ -489,6 +497,7 @@ Prosecutions for any violation of law occurring, and civil seizures or forfeitur
 #### Transfer of Functions
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
+#### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury, with power to delegate, see Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
@@ -508,9 +517,6 @@ Section was formerly classified to [section 529e of Title 31](https://uscode.hou
 #### Amendments
 1970—Pub. L. 91–513 struck out references to narcotics officers and narcotics laws.
 
-#### Change of Name
-“United States Customs Service” substituted in text for “Bureau of Customs” pursuant to Treasury Department Order 165–23, Apr. 4, 1973, eff. Aug. 1, 1973, 38 F.R. 13037. See, also, [section 308 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section308&num=0&edition=prelim), Money and Finance.
-
 #### Effective Date of 1970 Amendment
 Amendment by Pub. L. 91–513 effective on first day of seventh calendar month that begins after the day immediately preceding the date of enactment of Pub. L. 91–513, which was approved on Oct. 27, 1970, see section 1105(a) of Pub. L. 91–513, set out as an Effective Date note under [section 951 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section951&num=0&edition=prelim), Food and Drugs.
 
@@ -520,6 +526,10 @@ Prosecutions for any violation of law occurring, and civil seizures or forfeitur
 #### Transfer of Functions
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
+#### Change of Name
+“United States Customs Service” substituted in text for “Bureau of Customs” pursuant to Treasury Department Order 165–23, Apr. 4, 1973, eff. Aug. 1, 1973, 38 F.R. 13037. See, also, [section 308 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section308&num=0&edition=prelim), Money and Finance.
+
+#### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of the Department of the Treasury, with certain exceptions, to Secretary of the Treasury, with power to delegate, see Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
 
 

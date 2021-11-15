@@ -2,7 +2,7 @@
 title: 42
 chapter: '35'
 heading: PROGRAMS FOR OLDER AMERICANS
-section_count: 126
+section_count: 127
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
@@ -2704,6 +2704,28 @@ Subsecs. (b), (c). Pub. L. 106–501, § 205(2), added subsecs. (b) and (c) and 
 “(2) such additional sums as may be necessary for each such fiscal year to enable the Assistant Secretary to provide for not fewer than 300 full-time employees (or the equivalent thereof) in the Administration on Aging.”
 
 1993—Subsec. (b)(2). Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner”.
+
+
+<a id="section-3020g"></a>
+## § 3020g. National Technical Assistance Center on Grandfamilies and Kinship Families
+**(a) In general** In addition to amounts otherwise available, there is appropriated to the Secretary of Health and Human Services for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $10,000,000, to remain available through September 30, 2025, for the Secretary, acting through the Administrator of the Administration for Community Living, to establish, directly or through grants or contracts, a National Technical Assistance Center on Grandfamilies and Kinship Families (in this section referred to as the “Center”) to provide training, technical assistance, and resources for government programs, nonprofit and other community-based organizations, and Indian Tribes, Tribal organizations, and urban Indian organizations, that serve grandfamilies and kinship families to support the health and well-being of members of grandfamilies and kinship families, including caregivers, children, and their parents. The Center shall focus primarily on serving grandfamilies and kinship families in which the primary caregiver is an adult age 55 or older, or the child has one or more disabilities.
+
+**(b) Activities of the Center** The Center shall—
+
+(1) engage experts to stimulate the development of new and identify existing evidence-based, evidence-informed, and exemplary practices or programs related to health promotion (including mental health and substance use disorder treatment), education, nutrition, housing, financial needs, legal issues, disability self-determination, caregiver support, and other issues to help serve caregivers, children, and their parents in grandfamilies and kinship families;
+
+(2) encourage and support the implementation of the evidence-based, evidence-informed, and exemplary practices or programs identified under paragraph (1) to support grandfamilies and kinship families and to promote coordination of services for grandfamilies and kinship families across systems that support them;
+
+(3) facilitate learning across States, territories, Indian Tribes, Tribal organizations, and urban Indian organizations for providing technical assistance, resources, and training related to issues described in paragraph (1) to individuals and entities across systems that directly work with grandfamilies and kinship families;
+
+(4) help government programs, nonprofit and other community-based organizations, and Indian Tribes, Tribal organizations, and urban Indian organizations, serving grandfamilies and kinship families, to plan and coordinate responses to assist grandfamilies and kinship families during national, State, Tribal, territorial, and local emergencies and disasters; and
+
+(5) assist government programs, and nonprofit and other community-based organizations, in promoting equity and implementing culturally and linguistically appropriate approaches as the programs and organizations serve grandfamilies and kinship families.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the American Rescue Plan Act of 2021, and not as part of the Older Americans Act of 1965 which comprises this chapter.
 
 
 <a id="section-3021"></a>
@@ -6054,7 +6076,7 @@ Pub. L. 115–119, Jan. 22, 2018, 132 Stat. 23, as amended by Pub. L. 116–131,
 
 **(d) Use of volunteers** In carrying out this part, each area agency on aging shall make use of trained volunteers to expand the provision of the available services described in subsection (b) and, if possible, work in coordination with organizations that have experience in providing training, placement, and stipends for volunteers or participants (such as organizations carrying out Federal service programs administered by the Corporation for National and Community Service), in community service settings.
 
-**(e) Best Practices** Not later than 1 year after March 25, 2020, and every 5 years thereafter, the Assistant Secretary shall—
+**(e) Best practices** Not later than 1 year after March 25, 2020, and every 5 years thereafter, the Assistant Secretary shall—
 
 (1) identify best practices relating to the programs carried out under this section and [section 3057k–11 of this title](./chapter-035-programs-for-older-americans.md#section-3057k-11), regarding—
 
@@ -6136,7 +6158,7 @@ Subsec. (e)(3). Pub. L. 116–131, § 217(b)(2), inserted “, including caregiv
 
 Subsecs. (f) to (h). Pub. L. 116–131, § 217(b)(3), redesignated subsecs. (e) to (g) as (f) to (h), respectively.
 
-Subsec. (h)(2)(C). Pub. L. 116–131, § 218(a), struck out subpar (C). Text read as follows: “A State may use not more than 10 percent of the total Federal and non-Federal share available to the State to provide support services to older relative caregivers.”
+Subsec. (h)(2)(C). Pub. L. 116–131, § 218(a), struck out subpar. (C). Text read as follows: “A State may use not more than 10 percent of the total Federal and non-Federal share available to the State to provide support services to older relative caregivers.”
 
 Subsecs. (i), (j). Pub. L. 116–131, § 217(b)(5), added subsecs. (i) and (j).
 
@@ -6398,7 +6420,7 @@ A prior section 401 of Pub. L. 89–73 was classified to [section 3030aa of this
 
 (19) any other activities that the Assistant Secretary determines will achieve the objectives of this section.
 
-**(b) Authorization of Appropriations** There are authorized to be appropriated to carry out—
+**(b) Authorization of appropriations** There are authorized to be appropriated to carry out—
 
 (1) aging network support activities under this section, $14,514,550 for fiscal year 2020, $15,385,423 for fiscal year 2021, $16,308,548 for fiscal year 2022, $17,287,061 for fiscal year 2023, and $18,324,285 for fiscal year 2024; and
 
@@ -7381,9 +7403,11 @@ Pub. L. 116–136, div. A, title III, § 3223, Mar. 27, 2020, 134 Stat. 380, pro
 
     (ii) eligible individuals who are minority individuals;
 
-    (iii) eligible individuals who are limited English proficient; and
+    (iii) eligible individuals who are limited English proficient;
 
-    (iv) eligible individuals who are individuals with greatest social need;
+    (iv) eligible individuals who are individuals with greatest social need; and
+
+    (v) eligible individuals who have been incarcerated within the last 5 years or are under supervision following release from prison or jail within the last 5 years;
 
   (D) the current and projected employment opportunities in the State (such as by providing information available under section 49l–2 of title 29 by occupation), and the type of skills possessed by local eligible individuals;
 
@@ -7452,19 +7476,6 @@ Pub. L. 116–136, div. A, title III, § 3223, Mar. 27, 2020, 134 Stat. 380, pro
 **(g) Evaluations** The Secretary shall establish by rule and implement a process to evaluate, in accordance with [section 3056k of this title](./chapter-035-programs-for-older-americans.md#section-3056k), the performance of projects carried out and services provided under this subchapter. The Secretary shall report to Congress, and make available to the public, the results of each such evaluation and shall use such evaluation to improve services delivered by, or the operation of, projects carried out under this subchapter.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (a)(4)(C)
-Pub. L. 116–131, title IV, § 401(a)(1), (b), Mar. 25, 2020, 134 Stat. 266, 267, provided that, effective 1 year after Mar. 25, 2020, subsection (a)(4)(C) of this section is amended—
-
-(1) in clause (iii), by striking “and” at the end;
-
-(2) in clause (iv), by adding “and” at the end; and
-
-(3) by adding at the end the following:
-
-“(v) eligible individuals who have been incarcerated within the last 5 years or are under supervision following release from prison or jail within the last 5 years;”.
-
-See 2020 Amendment note below.
 
 #### References in Text
 The Workforce Innovation and Opportunity Act, referred to in subsecs. (a)(2)(A), (4)(F) and (b)(2)(A), (B)(i), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§ 3101 et seq.) of Title 29, Labor, repealed chapter 30 (§ 2801 et seq.) of Title 29 and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
@@ -8008,16 +8019,13 @@ Subsec. (e). Pub. L. 114–144, § 6(d)(5), amended subsec. (e) generally. Prior
 
 **(e) Grantees serving individuals with barriers to employment**
 
-(1) **Definition** — In this subsection, the term “individuals with barriers to employment” means minority individuals, Indian individuals, individuals with greatest economic need, and individuals described in subsection (a)(3)(B)(ii) or (b)(2) of [section 3056p of this title](./chapter-035-programs-for-older-americans.md#section-3056p).
+(1) **Definition** — In this subsection, the term “individuals with barriers to employment” means minority individuals, Indian individuals, individuals with greatest economic need, eligible individuals who have been incarcerated or are under supervision following release from prison or jail, and individuals described in subsection (a)(3)(B)(ii) or (b)(2) of [section 3056p of this title](./chapter-035-programs-for-older-americans.md#section-3056p).
 
 (2) **Special consideration** — In areas where a substantial population of individuals with barriers to employment exists, a grantee that receives a national grant in accordance with this section shall, in selecting subgrantees, give special consideration to organizations (including former recipients of such national grants) with demonstrated expertise in serving individuals with barriers to employment.
 
 **(f) Minority-serving grantees** The Secretary may not promulgate rules or regulations affecting grantees in areas where a substantial population of minority individuals exists, that would significantly compromise the ability of the grantees to serve their targeted population of minority older individuals.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (e)(1)
-Pub. L. 116–131, title IV, § 401(a)(2), (b), Mar. 25, 2020, 134 Stat. 266, 267, provided that, effective 1 year after Mar. 25, 2020, subsection (e)(1) of this section is amended by inserting “eligible individuals who have been incarcerated or are under supervision following release from prison or jail,” after “need,”. See 2020 Amendment note below.
 
 #### References in Text
 The Debt Collection Improvement Act of 1996, referred to in subsec. (d)(6), is section 31001 of title III of Pub. L. 104–134, Apr. 26, 1996, 110 Stat. 1321–358. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under [section 3701 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3701&num=0&edition=prelim), Money and Finance, and Tables.
@@ -8141,9 +8149,11 @@ Subsec. (b). Pub. L. 114–144, § 6(f)(2), substituted “April 1” for “Jul
 
       (III) meet the eligibility requirements related to age for, but do not receive, benefits under title II of the Social Security Act ([42 U.S.C. 401](./chapter-007-social-security.md#section-401) et seq.);
 
-      (IV) live in an area with persistent unemployment and are individuals with severely limited employment prospects; or
+      (IV) live in an area with persistent unemployment and are individuals with severely limited employment prospects;
 
-      (V) have limited English proficiency or low literacy skills.
+      (V) have limited English proficiency or low literacy skills; or
+
+      (VI) have been incarcerated within the last 5 years or are under supervision following release from prison or jail within the last 5 years.
 
 (4) **Income** — In this section, the term “income” means income received during the 12-month period (or, at the option of the grantee involved, the annualized income for the 6-month period) ending on the date an eligible individual submits an application to participate in a project carried out under this subchapter by such grantee.
 
@@ -8173,36 +8183,13 @@ Subsec. (b). Pub. L. 114–144, § 6(f)(2), substituted “April 1” for “Jul
 
   (E) has low employment prospects;
 
-  (F) has failed to find employment after utilizing services provided under title I of the Workforce Innovation and Opportunity Act [[29 U.S.C. 3111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3111&num=0&edition=prelim) et seq.]; or
+  (F) has failed to find employment after utilizing services provided under title I of the Workforce Innovation and Opportunity Act [[29 U.S.C. 3111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3111&num=0&edition=prelim) et seq.];
 
-  (G) is homeless or at risk for homelessness.
+  (G) is homeless or at risk for homelessness; or
+
+  (H) has been incarcerated within the last 5 years or is under supervision following release from prison or jail within the last 5 years.
 
 ### Statutory Notes
-
-#### Amendment of Subsections (a)(3)(B)(ii) and (b)(2)
-Pub. L. 116–131, title IV, § 401(a)(3), (b), Mar. 25, 2020, 134 Stat. 266, 267, provided that, effective 1 year after Mar. 25, 2020, subsections (a)(3)(B)(ii) and (b)(2) of this section are amended as follows:
-
-(1) in subsection (a)(3)(B)(ii)—
-
-(A) in subclause (IV), by striking “or” at the end;
-
-(B) in subclause (V), by striking the period at the end and inserting “; or”; and
-
-(C) by adding at the end the following:
-
-“(VI) have been incarcerated within the last 5 years or are under supervision following release from prison or jail within the last 5 years.”; and
-
-(2) in subsection (b)(2)—
-
-(A) in subparagraph (F), by striking “or” at the end;
-
-(B) in subparagraph (G), by striking the period at the end and inserting “; or”; and
-
-(C) by adding at the end the following:
-
-“(H) has been incarcerated within the last 5 years or is under supervision following release from prison or jail within the last 5 years.”
-
-See 2020 Amendment notes below.
 
 #### References in Text
 The Social Security Act, referred to in subsec. (a)(3)(A), (B)(ii)(III), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II and XVI of the Act are classified generally to subchapters II (§ 401 et seq.) and XVI (§ 1381 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
@@ -8444,7 +8431,7 @@ Section effective Oct. 1, 1987, except not applicable with respect to any area p
 A prior section 3057e, Pub. L. 89–73, title VI, § 606, as added Pub. L. 95–478, title I, § 106, Oct. 18, 1978, 92 Stat. 1551; amended Pub. L. 97–115, § 3(d), Dec. 29, 1981, 95 Stat. 1597, related to surplus educational facilities, prior to the general amendment of this subchapter by Pub. L. 100–175. See [section 3057f of this title](./chapter-035-programs-for-older-americans.md#section-3057f).
 
 #### Amendments
-2020—Subsec. (c)(4). Pub. L. 116–131 substittued “(a)(11)” for “(a)(12)”.
+2020—Subsec. (c)(4). Pub. L. 116–131 substituted “(a)(11)” for “(a)(12)”.
 
 2000—Subsec. (a)(9) to (12). Pub. L. 106–501, § 801(d), redesignated pars. (10) to (12) as (9) to (11), respectively, and struck out former par. (9) which read as follows: “contain assurances that the provisions of sections 3027(a)(14)(A)(i) and (iii), 3027(a)(14)(B), and 3027(a)(14)(C) of this title will be complied with whenever the application contains provisions for the acquisition, alteration, or renovation of facilities to serve as multipurpose senior centers;”.
 

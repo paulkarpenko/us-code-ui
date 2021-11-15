@@ -2,7 +2,7 @@
 title: 23
 chapter: '3'
 heading: GENERAL PROVISIONS
-section_count: 30
+section_count: 32
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23&num=0&edition=prelim
 ---
@@ -121,6 +121,24 @@ Pub. L. 102–240, title VI, pt. B, Dec. 18, 1991, 105 Stat. 2189, as amended by
 
 (3) **Reimbursement.—** — Reimbursement for services carried out under this subsection (including depreciation on engineering and road-building equipment) shall be credited to the applicable appropriation.
 
+(4) **Alternative contracting methods.—**
+
+  (A) *In general.—* — Notwithstanding any other provision of law (including the Federal Acquisition Regulation), in performing services under paragraph (1), the Secretary may use any contracting method available to a State under this title.
+
+  (B) *Methods described.—* — The contracting methods referred to in subparagraph (A) shall include, at a minimum—
+
+    (i) project bundling;
+
+    (ii) bridge bundling;
+
+    (iii) design-build contracting;
+
+    (iv) 2-phase contracting;
+
+    (v) long-term concession agreements; and
+
+    (vi) any method tested, or that could be tested, under an experimental program relating to contracting methods carried out by the Secretary.
+
 **(b)** Appropriations for the work of the Federal Highway Administration shall be available for expenses of warehouse maintenance and the procurement, care, and handling of supplies, materials, and equipment for distribution to projects under the supervision of the Federal Highway Administration, or for sale or distribution to other Government agencies, cooperating foreign countries, and State cooperating agencies, and the cost of such supplies and materials or the value of such equipment, including the cost of transportation and handling, may be reimbursed to current applicable appropriations.
 
 ### Statutory Notes
@@ -129,9 +147,14 @@ Pub. L. 102–240, title VI, pt. B, Dec. 18, 1991, 105 Stat. 2189, as amended by
 Section 214 of the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (a)(2), is classified to [section 4634 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4634&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Amendments
+2021—Subsec. (a)(4). Pub. L. 117–58 added par. (4).
+
 2012—Subsec. (a). Pub. L. 112–141 added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretary is authorized to perform by contract or otherwise, authorized engineering or other services in connection with the survey, construction, maintenance, or improvement of highways for other Government agencies, cooperating foreign countries, and State cooperating agencies, and reimbursement for such services, which may include depreciation on engineering and roadbuilding equipment used, shall be credited to the appropriation concerned.”
 
 1973—Subsec. (b). Pub. L. 93–87 substituted “Federal Highway Administration” for “Bureau of Public Roads” in two places.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as a note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).
 
 #### Effective Date of 2012 Amendment
 Pub. L. 112–141, div. A, title I, § 1521(g), July 6, 2012, 126 Stat. 579, provided that: “(1) In general.—Except as provided in paragraph (2), the amendments made by this section [enacting [section 4634 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4634&num=0&edition=prelim), The Public Health and Welfare, and amending this section and sections 4622 to 4624 and 4633 of Title 42] shall take effect on the date of enactment of this Act [see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101)]. “(2) Exception.—The amendments made by subsections (a) through (c) [amending sections 4622 to 4624 of Title 42] shall take effect 2 years after the date of enactment of this Act.”
@@ -214,7 +237,19 @@ that person shall be ineligible to receive any contract or subcontract made with
 (2) the foreign country has violated the terms of the agreement by discriminating against products covered by this section that are produced in the United States and are covered by the agreement,
 the provisions of subsection (b) shall not apply to products produced in that foreign country.
 
-**(g) Application to Highway Programs.—** The requirements under this section shall apply to all contracts eligible for assistance under this chapter for a project carried out within the scope of the applicable finding, determination, or decision under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.), regardless of the funding source of such contracts, if at least 1 contract for the project is funded with amounts made available to carry out this title.
+**(g) Waivers.—**
+
+(1) **In general.—** — Not less than 15 days before issuing a waiver under this section, the Secretary shall provide to the public—
+
+  (A) notice of the proposed waiver;
+
+  (B) an opportunity for comment on the proposed waiver; and
+
+  (C) the reasons for the proposed waiver.
+
+(2) **Report.—** — Not less frequently than annually, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the waivers provided under this section.
+
+**(h) Application to Highway Programs.—** The requirements under this section shall apply to all contracts eligible for assistance under this chapter for a project carried out within the scope of the applicable finding, determination, or decision under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.), regardless of the funding source of such contracts, if at least 1 contract for the project is funded with amounts made available to carry out this title.
 
 ### Statutory Notes
 
@@ -223,7 +258,7 @@ The Surface Transportation Assistance Act of 1982, referred to in subsecs. (a) a
 
 The Intermodal Surface Transportation Efficiency Act of 1991, referred to in subsec. (e), is Pub. L. 102–240, Dec. 18, 1991, 105 Stat. 1914. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under [section 101 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section101&num=0&edition=prelim), Transportation, and Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (g), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (h), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 #### Codification
 Section, as added by Pub. L. 109–59, consists of text of Pub. L. 97–424, title I, § 165, Jan. 6, 1983, 96 Stat. 2136; Pub. L. 98–229, § 10, Mar. 9, 1984, 98 Stat. 57; Pub. L. 100–17, title I, §§ 133(a)(6), 337(a)(1), (b), (c), Apr. 2, 1987, 101 Stat. 171, 241; Pub. L. 102–240, title I, § 1048, title III, § 3003(b), Dec. 18, 1991, 105 Stat. 1999, 2088; Pub. L. 103–272, § 4(r), July 5, 1994, 108 Stat. 1371; Pub. L. 103–429, § 7(a)(3)(E), Oct. 31, 1994, 108 Stat. 4389, which was formerly set out as a note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101), and was repealed by Pub. L. 109–59, title I, § 1903(d), Aug. 10, 2005, 119 Stat. 1465.
@@ -232,6 +267,8 @@ Section, as added by Pub. L. 109–59, consists of text of Pub. L. 97–424, tit
 A prior section 313, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 915, authorized the Secretary to cooperate with State highway departments and other agencies in the promotion of highway safety and authorized the expenditure of $150,000 out of the administrative funds made available in accordance with [section 104(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section104/a&num=0&edition=prelim) for the purposes of this section, prior to repeal by Pub. L. 89–564, title I, § 102(a), Sept. 9, 1966, 80 Stat. 734. See section 401 et seq. of this title.
 
 #### Amendments
+2021—Subsecs. (g), (h). Pub. L. 117–58 added subsec. (g) and redesignated former subsec. (g) as (h).
+
 2012—Subsec. (g). Pub. L. 112–141 added subsec. (g).
 
 2005—Subsec. (a). Pub. L. 109–59, § 1903(c)(1), substituted “to carry out the Surface Transportation Assistance Act of 1982 (96 Stat. 2097) or this title” for “by this Act or by any Act amended by this Act or, after the date of enactment of this Act, any funds authorized to be appropriated to carry out this Act, title 23, United States Code, or the Surface Transportation Assistance Act of 1978”.
@@ -241,6 +278,9 @@ Subsec. (b)(3), (4). Pub. L. 109–59, § 1903(c)(2), redesignated par. (4) as (
 Subsec. (d). Pub. L. 109–59, § 1903(c)(3), substituted “the Surface Transportation Assistance Act of 1982 (96 Stat. 2097) or this title that” for “this Act, the Surface Transportation Assistance Act of 1978 or title 23, United States Code, which”.
 
 Subsec. (e) to (g). Pub. L. 109–59, § 1903(c)(4), (5), which directed amendment of this section by striking subsec. (e) and redesignating subsecs. (f) and (g) as (e) and (f), respectively, was executed by making the redesignations and by striking out two subsecs. (e), to reflect the probable intent of Congress. The first subsec. (e) based on subsec. (e) of section 165 of Pub. L. 97–424, as originally enacted, repealed section 401 of the Surface Transportation Assistance Act of 1978, Pub. L. 95–599. The second subsec. (e) based on subsec. (e) of section 165 of Pub. L. 97–424, as added by Pub. L. 102–240, § 1048(b), related to report on purchases from foreign entities waived under subsec. (b) in fiscal years 1992 and 1993.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as a note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).
 
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).
@@ -614,7 +654,7 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).
 
 #### Deployment of Magnetic Levitation Transportation Projects
-Pub. L. 114–94, div. A, title XI, § 11315(c), Dec. 4, 2015, 129 Stat. 1675, provided that: “A project described in 1307(a)(3) of SAFETEA–LU (Public Law 109–59) [set out below] may be eligible for the Railroad Rehabilitation and Improvement Financing program if the Secretary [of Transportation] determines such project meets the requirements of sections 502 and 503 of the Railroad Revitalization and Regulatory Reform Act of 1976 [[45 U.S.C. 822](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section822&num=0&edition=prelim), 823].”
+Pub. L. 114–94, div. A, title XI, § 11315(c), Dec. 4, 2015, 129 Stat. 1675, as amended by Pub. L. 117–58, div. B, title I, § 21301(j)(2), Nov. 15, 2021, 135 Stat. 691, provided that: “A project described in 1307(a)(3) of SAFETEA–LU (Public Law 109–59) [set out below] may be eligible for the Railroad Rehabilitation and Improvement Financing program if the Secretary [of Transportation] determines such project meets the requirements of sections 22402 and 22403 of title 49, United States Code.”
 
 Pub. L. 109–59, title I, § 1307, Aug. 10, 2005, 119 Stat. 1217, as amended by Pub. L. 110–244, title I, § 102(b), (c), June 6, 2008, 122 Stat. 1577, provided that: “(a) Definitions.—In this section, the following definitions apply:“(1) Eligible project costs.—The term ‘eligible project costs’—“(A) means the capital cost of the fixed guideway infrastructure of a MAGLEV project, including land, piers, guideways, propulsion equipment and other components attached to guideways, power distribution facilities (including substations), control and communications facilities, access roads, and storage, repair, and maintenance facilities, but not including costs incurred for a new station; and “(B) includes the costs of preconstruction planning activities. “(2) Full project costs.—The term ‘full project costs’ means the total capital costs of a MAGLEV project, including eligible project costs and the costs of stations, vehicles, and equipment. “(3) MAGLEV.—The term ‘MAGLEV’ means transportation systems employing magnetic levitation that would be capable of safe use by the public at a speed in excess of 240 miles per hour. “(4) State.—The term ‘State’ has the meaning such term has under [section 101(a) of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101/a&num=0&edition=prelim), United States Code. “(b) In General.—“(1) Assistance for eligible projects.—The Secretary [of Transportation] shall make available financial assistance to pay the Federal share of full project costs of eligible projects authorized by this section. “(2) Use of assistance.—Financial assistance provided under paragraph (1) shall be used only to pay eligible project costs of projects authorized by this section. “(3) Applicability of other laws.—Financial assistance made available under this section, and projects assisted with such assistance, shall be subject to [section 5333(a) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5333/a&num=0&edition=prelim), United States Code. “(c) Project Eligibility.—To be eligible to receive financial assistance under subsection (b), a project shall—“(1) involve a segment or segments of a high-speed ground transportation corridor; “(2) result in an operating transportation facility that provides a revenue producing service; and “(3) be approved by the Secretary [of Transportation] based on an application submitted to the Secretary by a State or authority designated by one or more States. “(d) Allocation.—Of the amounts made available to carry out this section for a fiscal year, the Secretary [of Transportation] shall allocate—“(1) 50 percent to the Nevada department of transportation who shall cooperate with the California-Nevada Super Speed Train Commission for the MAGLEV project between Las Vegas and Primm, Nevada, as a segment of the high-speed MAGLEV system between Las Vegas, Nevada, and Anaheim, California; and “(2) 50 percent for existing MAGLEV projects located east of the Mississippi River using such criteria as the Secretary deems appropriate. “(e) Contract Authority.—Funds authorized under section 1101(a)(18) [119 Stat. 1155] shall be available for obligation in the same manner as if the funds were apportioned under chapter 1 of title 23, United States Code; except that the funds shall not be transferable and shall remain available until expended, and the Federal share of the cost of a project to be carried out with such funds shall be 80 percent.”
 
@@ -670,7 +710,7 @@ Pub. L. 105–178, title III, § 3015(c), June 9, 1998, 112 Stat. 361, as amende
 
 **(c) Credit for Donations of Funds, Materials, or Services.—** Nothing in this title or any other law shall prevent a person from offering to donate funds, materials, or services, or a local government from offering to donate funds, materials, or services performed by local government employees, in connection with a project eligible for assistance under this title. In the case of such a project with respect to which the Federal Government and the State share in paying the cost, any donated funds, or the fair market value of any donated materials or services, that are accepted and incorporated into the project by the State transportation department shall be credited against the State share.
 
-**(d) Procedures.—** A gift or donation in accordance with subsection (a) may be made at any time during the development of a project. Any document executed as part of such donation prior to the approval of an environmental document prepared pursuant to the National Environmental Policy Act of 1969 shall clearly indicate that—
+**(d) Procedures.—** A gift or donation in accordance with subsection (a) may be made at any time during the development of a project. Any document executed as part of such donation prior to the approval of an environmental document prepared pursuant to the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.) shall clearly indicate that—
 
 (1) all alternatives to a proposed alignment will be studied and considered pursuant to such Act;
 
@@ -684,6 +724,8 @@ Pub. L. 105–178, title III, § 3015(c), June 9, 1998, 112 Stat. 361, as amende
 The National Environmental Policy Act of 1969, referred to in subsec. (d), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2021—Subsec. (d). Pub. L. 117–58 inserted “([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.)” after “National Environmental Policy Act of 1969” in introductory provisions.
+
 2005—Subsec. (c). Pub. L. 109–59, § 1902(1), inserted “, or a local government from offering to donate funds, materials, or services performed by local government employees,” before “in connection with a project”.
 
 Subsec. (e). Pub. L. 109–59, § 1902(2), struck out heading and text of subsec. (e). Text read as follows: “A contribution by a unit of local government of real property, funds, or material in connection with a project eligible for assistance under this title shall be credited against the State share of the project at the fair market value of the real property, funds, or material.”
@@ -712,6 +754,9 @@ Subsec. (e). Pub. L. 105–178, § 1301(c), added subsec. (e).
 
 1975—Pub. L. 93–643 substituted “after he has been fully informed of his right to receive just compensation for the acquisition of his property” for “after he has been tendered the full amount of the estimated just compensation as established by an approved appraisal of the fair market value of the subject real property”.
 
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as a note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).
+
 
 <a id="section-324"></a>
 ## § 324. Prohibition of discrimination on the basis of sex
@@ -725,74 +770,16 @@ The Civil Rights Act of 1964, referred to in text, is Pub. L. 88–352, July 2, 
 
 
 <a id="section-325"></a>
-## § 325. State assumption of responsibilities for certain programs and projects
-**(a) Assumption of Secretary’s Responsibilities Under Applicable Federal Laws.—**
-
-(1) **Pilot program.—**
-
-  (A) *Establishment.—* — The Secretary may establish a pilot program under which States may assume the responsibilities of the Secretary under any Federal laws subject to the requirements of this section.
-
-  (B) *First 3 fiscal years.—* — In the first 3 fiscal years following the date of enactment of the SAFETEA–LU, the Secretary may allow up to 5 States to participate in the pilot program.
-
-(2) **Scope of program.—** — Under the pilot program, the Secretary may assign, and a State may assume, any of the Secretary’s responsibilities (other than responsibilities relating to federally recognized Indian tribes) for environmental reviews, consultation, or decisionmaking or other actions required under any Federal law as such requirements apply to the following projects:
-
-  (A) Projects funded under section 104(h).
-
-  (B) Transportation enhancement activities under section 133, as such term is defined in section 101(a)(35).1
-
-**(b) Agreements.—**
-
-(1) **In general.—** — The Secretary shall enter into a memorandum of understanding with a State participating in the pilot program setting forth the responsibilities to be assigned under subsection (a)(2) and the terms and conditions under which the assignment is being made.
-
-(2) **Certification.—** — Before the Secretary enters into a memorandum of understanding with a State under paragraph (1), the State shall certify that the State has in effect laws (including regulations) applicable to projects carried out and funded under this title and chapter 53 of title 49 that authorize the State to carry out the responsibilities being assumed.
-
-(3) **Maximum duration.—** — A memorandum of understanding with a State under this section shall be established for an initial period of no more than 3 years and may be renewed by mutual agreement on a periodic basis for periods of not more than 3 years.
-
-(4) **Compliance.—**
-
-  (A) *In general.—* — After entering into a memorandum of understanding under paragraph (1), the Secretary shall review and determine compliance by the State with the memorandum of understanding.
-
-  (B) *Renewals.—* — The Secretary shall take into account the performance of a State under the pilot program when considering renewal of a memorandum of understanding with the State under the program.
-
-(5) **Sole responsibility.—** — A State that assumes responsibility under subsection (a)(2) with respect to a Federal law shall be solely responsible and solely liable for complying with and carrying out that law, and the Secretary shall have no such responsibility or liability.
-
-(6) **Acceptance of jurisdiction.—** — In a memorandum of understanding, the State shall consent to accept the jurisdiction of the Federal courts for the compliance, discharge, and enforcement of any responsibility of the Secretary that the State assumes.
-
-**(c) Selection of States for Pilot Program.—**
-
-(1) **Application.—** — To be eligible to participate in the pilot program, a State shall submit to the Secretary an application that contains such information as the Secretary may require. At a minimum, an application shall include—
-
-  (A) a description of the projects or classes of projects for which the State seeks to assume responsibilities under subsection (a)(2); and
-
-  (B) a certification that the State has the capability to assume such responsibilities.
-
-(2) **Public notice.—** — Before entering into a memorandum of understanding allowing a State to participate in the pilot program, the Secretary shall—
-
-  (A) publish notice in the Federal Register of the Secretary’s intent to allow the State to participate in the program, including a copy of the State’s application to the Secretary and the terms of the proposed agreement with the State; and
-
-  (B) provide an opportunity for public comment.
-
-(3) **Selection criteria.—** — The Secretary may approve the application of a State to assume responsibilities under the program only if—
-
-  (A) the requirements under paragraph (2) have been met; and
-
-  (B) the Secretary determines that the State has the capability to assume the responsibilities.
-
-(4) **Other federal agency views.—** — Before assigning to a State a responsibility of the Secretary that requires the Secretary to consult with another Federal agency, the Secretary shall solicit the views of the Federal agency.
-
-**(d) State Defined.—** With respect to the recreational trails program, the term “State” means the State agency designated by the Governor of the State in accordance with section 206(c)(1).
-
-**(e) Preservation of Public Interest Consideration.—** Nothing in this section shall be construed to limit the requirements under any applicable law providing for the consideration and preservation of the public interest, including public participation and community values in transportation decisionmaking.
+## § 325. Repealed. Pub. L. 117–58, div. A, title I, § 11525(r), Nov. 15, 2021, 135 Stat. 608]
 
 ### Statutory Notes
 
-#### References in Text
-The date of enactment of the SAFETEA–LU, referred to in subsec. (a)(1)(B), is the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005.
+Section, added Pub. L. 109–59, title VI, § 6003(a), Aug. 10, 2005, 119 Stat. 1865, related to State assumption of responsibilities for certain programs and projects.
 
-Section 101(a)(35), referred to in subsec. (a)(2)(B), was redesignated section 101(a)(29) and subsequently amended by Pub. L. 112–141 and no longer defines transportation enhancement activities.
-
-#### Prior Provisions
 A prior section 325, added Pub. L. 102–240, title VI, § 6003[(a)], Dec. 18, 1991, 105 Stat. 2168, related to international highway transportation outreach program, prior to repeal by Pub. L. 105–178, title V, § 5119(b), June 9, 1998, 112 Stat. 452.
+
+#### Effective Date of Repeal
+Repeal effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as an Effective Date of 2021 Amendment note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).
 
 
 <a id="section-326"></a>
@@ -827,9 +814,11 @@ A prior section 325, added Pub. L. 102–240, title VI, § 6003[(a)], Dec. 18, 1
 
 (3) **Term.—** — A memorandum of understanding—
 
-  (A) shall have a term of not more than 3 years; and
+  (A) except as provided under subparagraph (C), shall have a term of not more than 3 years;
 
-  (B) shall be renewable.
+  (B) shall be renewable; and
+
+  (C) shall have a term of 5 years, in the case of a State that has assumed the responsibility for categorical exclusions under this section for not fewer than 10 years.
 
 (4) **Acceptance of jurisdiction.—** — In a memorandum of understanding, the State shall consent to accept the jurisdiction of the Federal courts for the compliance, discharge, and enforcement of any responsibility of the Secretary that the State assumes.
 
@@ -870,6 +859,10 @@ The National Environmental Policy Act of 1969, referred to in subsec. (a)(3), is
 A prior section 326, added Pub. L. 102–240, title VI, § 6004(a), Dec. 18, 1991, 105 Stat. 2169; amended Pub. L. 105–130, § 5(e)(4), Dec. 1, 1997, 111 Stat. 2558, related to education and training program, prior to repeal by Pub. L. 105–178, title V, § 5119(b), June 9, 1998, 112 Stat. 452.
 
 #### Amendments
+2021—Subsec. (c)(3)(A). Pub. L. 117–58, § 11314(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “shall have a term of not more than 3 years; and”.
+
+Subsec. (c)(3)(C). Pub. L. 117–58, § 11314(2), (3), added subpar. (C).
+
 2015—Subsec. (c)(2) to (5). Pub. L. 114–94, § 1307(1), added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively.
 
 Subsec. (d)(1). Pub. L. 114–94, § 1307(2), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Secretary may terminate any assumption of responsibility under a memorandum of understanding on a determination that the State is not adequately carrying out the responsibilities assigned to the State.”
@@ -879,6 +872,9 @@ Subsec. (d)(1). Pub. L. 114–94, § 1307(2), added par. (1) and struck out form
 Subsec. (d). Pub. L. 112–141, § 1312(2), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “The Secretary may terminate any assumption of responsibility under a memorandum of understanding on a determination that the State is not adequately carrying out the responsibilities assigned to the State.”
 
 Subsec. (f). Pub. L. 112–141, § 1312(3), added subsec. (f).
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as a note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).
 
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
@@ -919,7 +915,7 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
   (F) *Preservation of flexibility.—* — The Secretary may not require a State, as a condition of participation in the program, to forego project delivery methods that are otherwise permissible for projects.
 
-  (G) *Legal fees.—* — A State assuming the responsibilities of the Secretary under this section for a specific project may use funds apportioned to the State under section 104(b)(2) for attorneys’ fees directly attributable to eligible activities associated with the project.
+  (G) *Legal fees.—* — A State assuming the responsibilities of the Secretary under this section for a specific project may use funds apportioned to the State under section 104(b)(2) for attorneys’ fees directly attributable to eligible activities associated with the project, including the payment of fees awarded under [section 2412 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2412&num=0&edition=prelim).
 
 **(b) State Participation.—**
 
@@ -971,9 +967,11 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 (4) require the State to provide to the Secretary any information the Secretary reasonably considers necessary to ensure that the State is adequately carrying out the responsibilities assigned to the State;
 
-(5) have a term of not more than 5 years; and
+(5) except as provided under paragraph (7), have a term of not more than 5 years;
 
-(6) be renewable.
+(6) be renewable; and
+
+(7) for any State that has participated in a program under this section (or under a predecessor program) for at least 10 years, have a term of 10 years.
 
 **(d) Jurisdiction.—**
 
@@ -993,9 +991,11 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
   (A) not later than 180 days after the date of execution of the agreement, meet with the State to review implementation of the agreement and discuss plans for the first annual audit;
 
-  (B) conduct annual audits during each of the first 4 years of State participation; and
+  (B) conduct annual audits during each of the first 4 years of State participation;
 
-  (C) ensure that the time period for completing an annual audit, from initiation to completion (including public comment and responses to those comments), does not exceed 180 days.
+  (C) in the case of an agreement period of greater than 5 years pursuant to subsection (c)(7), conduct an audit covering the first 5 years of the agreement period; and
+
+  (D) ensure that the time period for completing an audit, from initiation to completion (including public comment and responses to those comments), does not exceed 180 days.
 
 (2) **Public availability and comment.—**
 
@@ -1043,6 +1043,8 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 (2) provide guidance and training on consolidating and minimizing the documentation and environmental analyses necessary for sponsors of a locally administered project to comply with the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.) and any comparable requirements under State law.
 
+**(m) Agency Deemed to Be Federal Agency.—** A State agency that is assigned a responsibility under an agreement under this section shall be deemed to be an agency for the purposes of [section 2412 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2412&num=0&edition=prelim).
+
 ### Statutory Notes
 
 #### References in Text
@@ -1051,6 +1053,22 @@ The National Environmental Policy Act of 1969, referred to in subsecs. (a)(2)(A)
 The date on which amendments to this section by the MAP-21 take effect, referred to in subsec. (b)(2), is Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).
 
 #### Amendments
+2021—Subsec. (a)(2)(G). Pub. L. 117–58, § 11313(1), inserted “, including the payment of fees awarded under [section 2412 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2412&num=0&edition=prelim)” before period at end.
+
+Subsec. (c)(5). Pub. L. 117–58, § 11313(2)(A), added par. (5) and struck out former par. (5) which read as follows: “have a term of not more than 5 years; and”.
+
+Subsec. (c)(7). Pub. L. 117–58, § 11313(2)(B), (C), added par. (7).
+
+Subsec. (g)(1)(B). Pub. L. 117–58, § 11313(3)(A), struck out “and” at end.
+
+Subsec. (g)(1)(C). Pub. L. 117–58, § 11313(3)(D), added subpar. (C). Former subpar. (C) redesignated (D).
+
+Pub. L. 117–58, § 11313(3)(B), struck out “annual” before “audit,”.
+
+Subsec. (g)(1)(D). Pub. L. 117–58, § 11313(3)(C), redesignated subpar. (C) as (D).
+
+Subsec. (m). Pub. L. 117–58, § 11313(4), added subsec. (m).
+
 2015—Pub. L. 114–94, § 1446(d)(3), amended directory language of Pub. L. 112–141, § 1313(a)(1). See 2012 Amendment note below.
 
 Subsec. (a)(2)(B)(iii). Pub. L. 114–94, § 1308(1), substituted “([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.)” for “([42 U.S.C. 13](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13&num=0&edition=prelim) 4321 et seq.)”.
@@ -1115,6 +1133,9 @@ Pub. L. 112–141, § 1313(g)(1), redesignated subsec. (i) as (j).
 
 2010—Subsec. (i)(1). Pub. L. 111–322 substituted “7 years after” for “6 years after”.
 
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as a note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).
+
 #### Effective Date of 2015 Amendment
 Except as otherwise provided, amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
@@ -1169,6 +1190,9 @@ The Plant Protection Act, referred to in subsec. (b)(1), is title IV of Pub. L. 
 
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
+#### Invasive Plant Elimination Program
+Pub. L. 117–58, div. A, title I, § 11522, Nov. 15, 2021, 135 Stat. 604, provided that: “(a) Definitions.—In this section:“(1) Invasive plant.—The term ‘invasive plant’ means a nonnative plant, tree, grass, or weed species, including, at a minimum, cheatgrass, Ventenata dubia, medusahead, bulbous bluegrass, Japanese brome, rattail fescue, Japanese honeysuckle, phragmites, autumn olive, Bradford pear, wild parsnip, sericea lespedeza, spotted knapweed, garlic mustard, and palmer amaranth. “(2) Program.—The term ‘program’ means the grant program established under subsection (b). “(3) Transportation corridor.—The term ‘transportation corridor’ means a road, highway, railroad, or other surface transportation route. “(b) Establishment.—The Secretary [of Transportation] shall carry out a program to provide grants to States to eliminate or control existing invasive plants or prevent introduction of or encroachment by new invasive plants along and in areas adjacent to transportation corridor rights-of-way. “(c) Application.—To be eligible to receive a grant under the program, a State shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require. “(d) Eligible Activities.—“(1) In general.—Subject to this subsection, a State that receives a grant under the program may use the grant funds to carry out activities to eliminate or control existing invasive plants or prevent introduction of or encroachment by new invasive plants along and in areas adjacent to transportation corridor rights-of-way. “(2) Prioritization of projects.—In carrying out the program, the Secretary shall give priority to projects that utilize revegetation with native plants and wildflowers, including those that are pollinator-friendly. “(3) Prohibition on certain uses of funds.—Amounts provided to a State under the program may not be used for costs relating to mowing a transportation corridor right-of-way or the adjacent area unless—“(A) mowing is identified as the best means of treatment according to best management practices; or “(B) mowing is used in conjunction with another treatment. “(4) Limitation.—Not more than 10 percent of the amounts provided to a State under the program may be used for the purchase of equipment. “(5) Administrative and indirect costs.—Not more than 5 percent of the amounts provided to a State under the program may be used for the administrative and other indirect costs (such as full time employee salaries, rent, insurance, subscriptions, utilities, and office supplies) of carrying out eligible activities. “(e) Requirements.—“(1) Coordination.—In carrying out eligible activities with a grant under the program, a State shall coordinate with—“(A) units of local government, political subdivisions of the State, and Tribal authorities that are carrying out eligible activities in the areas to be treated; “(B) local regulatory authorities, in the case of a treatment along or adjacent to a railroad right-of-way; and “(C) with respect to the most effective roadside control methods, State and Federal land management agencies and any relevant Tribal authorities. “(2) Annual report.—Not later than 1 year after the date on which a State receives a grant under the program, and annually thereafter, that State shall provide to the Secretary an annual report on the treatments carried out using funds from the grant. “(f) Federal Share.—“(1) In general.—The Federal share of the cost of an eligible activity carried out using funds from a grant under the program shall be—“(A) in the case of a project that utilizes revegetation with native plants and wildflowers, including those that are pollinator-friendly, 75 percent; and “(B) in the case of any other project not described in subparagraph (A), 50 percent. “(2) Certain funds counted toward non-federal share.—A State may include amounts expended by the State or a unit of local government in the State to address current invasive plant populations and prevent future infestation along or in areas adjacent to transportation corridor rights-of-way in calculating the non-Federal share required under the program. “(g) Funding.—There is authorized to be appropriated to carry out the program $50,000,000 for each of fiscal years 2022 through 2026.”
 
 
 <a id="section-330"></a>
@@ -1367,3 +1391,149 @@ Pub. L. 114–94, div. A, title I, § 1309(a), Dec. 4, 2015, 129 Stat. 1392, pro
 
 #### Rulemaking
 Pub. L. 114–94, div. A, title I, § 1309(c), Dec. 4, 2015, 129 Stat. 1396, provided that: “(1) In general.—Not later than 270 days after the date of enactment of this Act [Dec. 4, 2015], the Secretary [of Transportation], in consultation with the Chair of the Council on Environmental Quality, shall promulgate regulations to implement the requirements of [section 330 of title 23](./chapter-003-general-provisions.md#section-330), United States Code, as added by this section. “(2) Determination of stringency.—As part of the rulemaking required under this subsection, the Chair shall—“(A) establish the criteria necessary to determine that a State law or regulation is at least as stringent as a Federal requirement described in [section 330(a)(3) of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section330/a/3&num=0&edition=prelim), United States Code; and “(B) ensure that the criteria, at a minimum—“(i) provide for protection of the environment; “(ii) provide opportunity for public participation and comment, including access to the documentation necessary to review the potential impact of a project; and “(iii) ensure a consistent review of projects that would otherwise have been covered under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.).”
+
+
+<a id="section-331"></a>
+## § 331. Evaluation of projects within an operational right-of-way
+**(a) Definitions.—**
+
+(1) **Eligible project or activity.—**
+
+  (A) *In general.—* — In this section, the term “eligible project or activity” means a project or activity within an existing operational right-of-way (as defined in section 771.117(c)(22) of title 23, Code of Federal Regulations (or successor regulations))—
+
+    (i)
+
+      (I) eligible for assistance under this title; or
+
+      (II) administered as if made available under this title;
+
+    (ii) that is—
+
+      (I) a preventive maintenance, preservation, or highway safety improvement project (as defined in section 148(a)); or
+
+      (II) a new turn lane that the State advises in writing to the Secretary would assist public safety; and
+
+    (iii) that—
+
+      (I) is classified as a categorical exclusion under section 771.117 of title 23, Code of Federal Regulations (or successor regulations); or
+
+      (II) if the project or activity does not receive assistance described in clause (i) would be considered a categorical exclusion if the project or activity received assistance described in clause (i).
+
+  (B) *Exclusion.—* — The term “eligible project or activity” does not include a project to create a new travel lane.
+
+(2) **Preliminary evaluation.—** — The term “preliminary evaluation”, with respect to an application described in subsection (b)(1), means an evaluation that is customary or practicable for the relevant agency to complete within a 45-day period for similar applications.
+
+(3) **Relevant agency.—** — The term “relevant agency” means a Federal agency, other than the Federal Highway Administration, with responsibility for review of an application from a State for a permit, approval, or jurisdictional determination for an eligible project or activity.
+
+**(b) Action Required.—**
+
+(1) **In general.—** — Subject to paragraph (2), not later than 45 days after the date of receipt of an application by a State for a permit, approval, or jurisdictional determination for an eligible project or activity, the head of the relevant agency shall—
+
+  (A) make at least a preliminary evaluation of the application; and
+
+  (B) notify the State of the results of the preliminary evaluation under subparagraph (A).
+
+(2) **Extension.—** — The head of the relevant agency may extend the review period under paragraph (1) by not more than 30 days if the head of the relevant agency provides to the State written notice that includes an explanation of the need for the extension.
+
+(3) **Failure to act.—** — If the head of the relevant agency fails to meet a deadline under paragraph (1) or (2), as applicable, the head of the relevant agency shall—
+
+  (A) not later than 30 days after the date of the missed deadline, submit to the State, the Committee on Environment and Public Works of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives a report that describes why the deadline was missed; and
+
+  (B) not later than 14 days after the date on which a report is submitted under subparagraph (A), make publicly available, including on the internet, a copy of that report.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as an Effective Date of 2021 Amendment note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).
+
+
+<a id="section-332"></a>
+## § 332. Pollinator-friendly practices on roadsides and highway rights-of-way
+**(a) In General.—** The Secretary shall establish a program to provide grants to eligible entities to carry out activities to benefit pollinators on roadsides and highway rights-of-way, including the planting and seeding of native, locally-appropriate grasses and wildflowers, including milkweed.
+
+**(b) Eligible Entities.—** An entity eligible to receive a grant under this section is—
+
+(1) a State department of transportation;
+
+(2) an Indian tribe; or
+
+(3) a Federal land management agency.
+
+**(c) Application.—** To be eligible to receive a grant under this section, an eligible entity shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including a pollinator-friendly practices plan described in subsection (d).
+
+**(d) Pollinator-friendly Practices Plan.—**
+
+(1) **In general.—** — An eligible entity shall include in the application under subsection (c) a plan that describes the pollinator-friendly practices that the eligible entity has implemented or plans to implement, including—
+
+  (A) practices relating to mowing strategies that promote early successional vegetation and limit disturbance during periods of highest use by target pollinator species on roadsides and highway rights-of-way, such as—
+
+    (i) reducing the mowing swath outside of the State-designated safety zone;
+
+    (ii) increasing the mowing height;
+
+    (iii) reducing the mowing frequency;
+
+    (iv) refraining from mowing monarch and other pollinator habitat during periods in which monarchs or other pollinators are present;
+
+    (v) use of a flushing bar and cutting at reduced speeds to reduce pollinator deaths due to mowing; or
+
+    (vi) reducing raking along roadsides and highway rights-of-way;
+
+  (B) implementation of an integrated vegetation management plan that includes approaches such as mechanical tree and brush removal, targeted and judicious use of herbicides, and mowing, to address weed issues on roadsides and highway rights-of-way;
+
+  (C) planting or seeding of native, locally-appropriate grasses and wildflowers, including milkweed, on roadsides and highway rights-of-way to enhance pollinator habitat, including larval host plants;
+
+  (D) removing nonnative grasses from planting and seeding mixes, except for use as nurse or cover crops;
+
+  (E) obtaining expert training or assistance on pollinator-friendly practices, including—
+
+    (i) native plant identification;
+
+    (ii) establishment and management of locally-appropriate native plants that benefit pollinators;
+
+    (iii) land management practices that benefit pollinators; and
+
+    (iv) pollinator-focused integrated vegetation management; or
+
+  (F) any other pollinator-friendly practices the Secretary determines to be appropriate.
+
+(2) **Coordination.—** — In developing a plan under paragraph (1), an eligible entity that is a State department of transportation or a Federal land management agency shall coordinate with applicable State agencies, including State agencies with jurisdiction over agriculture and fish and wildlife.
+
+(3) **Consultation.—** — In developing a plan under paragraph (1)—
+
+  (A) an eligible entity that is a State department of transportation or a Federal land management agency shall consult with affected or interested Indian tribes; and
+
+  (B) any eligible entity may consult with nonprofit organizations, institutions of higher education, metropolitan planning organizations, and any other relevant entities.
+
+**(e) Award of Grants.—**
+
+(1) **In general.—** — The Secretary shall provide a grant to each eligible entity that submits an application under subsection (c), including a plan under subsection (d), that the Secretary determines to be satisfactory.
+
+(2) **Amount of grants.—** — The amount of a grant under this section—
+
+  (A) shall be based on the number of pollinator-friendly practices the eligible entity has implemented or plans to implement; and
+
+  (B) shall not exceed $150,000.
+
+**(f) Use of Funds.—** An eligible entity that receives a grant under this section shall use the funds for the implementation, improvement, or further development of the plan under subsection (d).
+
+**(g) Federal Share.—** The Federal share of the cost of an activity carried out with a grant under this section shall be 100 percent.
+
+**(h) Best Practices.—** The Secretary shall develop and make available to eligible entities best practices for, and a priority ranking of, pollinator-friendly practices on roadsides and highway rights-of-way.
+
+**(i) Technical Assistance.—** On request of an eligible entity that receives a grant under this section, the Secretary shall provide technical assistance with the implementation, improvement, or further development of a plan under subsection (d).
+
+**(j) Administrative Costs.—** For each fiscal year, the Secretary may use not more than 2 percent of the amounts made available to carry out this section for the administrative costs of carrying out this section.
+
+**(k) Report.—** Not later than 1 year after the date on which the first grant is provided under this section, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the implementation of the program under this section.
+
+**(l) Authorization of Appropriations.—**
+
+(1) **In general.—** — There is authorized to be appropriated to carry out this section $2,000,000 for each of fiscal years 2022 through 2026.
+
+(2) **Availability.—** — Amounts made available under this section shall remain available for a period of 3 years after the last day of the fiscal year for which the funds are authorized.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as an Effective Date of 2021 Amendment note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).

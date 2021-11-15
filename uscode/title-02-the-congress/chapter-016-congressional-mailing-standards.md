@@ -68,7 +68,7 @@ Pub. L. 116–260, div. I, title I, § 116(f), Dec. 27, 2020, 134 Stat. 1641, pr
 #### Effective Date
 Section effective Dec. 18, 1973, see section 14 of Pub. L. 93–191, set out as an Effective Date of 1973 Amendment note under [section 3210 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section3210&num=0&edition=prelim), Postal Service.
 
-#### Short Title
+#### Short Title of 2020 Amendment
 Pub. L. 116–260, div. I, title I, § 116(a), Dec. 27, 2020, 134 Stat. 1637, provided that: “This section [amending this section, sections 503 and 506 of this title, and sections 3210, 3216, and 3220 of Title 39, Postal Service, and enacting provisions set out as notes under this section and [section 3210 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section3210&num=0&edition=prelim)] may be cited as the ‘Communications Outreach Media and Mail Standards Act’ or the ‘COMMS Act’.”
 
 #### Abolition of House Committee on Post Office and Civil Service

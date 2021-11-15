@@ -10,11 +10,21 @@ source: >-
 ## § 2571. Interchange of supplies and services
 **(a)** If either of the Secretaries concerned requests it and the other approves, supplies may be transferred, without compensation, from one armed force to another.
 
-**(b)** If its head approves, a department or organization within the Department of Defense may, upon request, perform work and services for, or furnish supplies to, any other of those departments or organizations, without reimbursement or transfer of funds.
+**(b)**
+
+(1) If its head approves, a department or organization within the Department of Defense may, upon request, perform work and services for, or furnish supplies to, any other of those departments or organizations, with or without reimbursement or transfer of funds.
+
+(2) Use of the authority under this section for reimbursable support is limited to support for the purpose of providing assistance to a foreign partner pursuant to section 333 and [section 345 of this title](./chapter-016-security-cooperation.md#section-345).
 
 **(c)** If military or civilian personnel of a department or organization within the Department of Defense are assigned or detailed to another of those departments or organizations, and if the head of the department or organization to which they are transferred approves, their pay and allowances and the cost of transporting their dependents and household goods may be charged to an appropriation that is otherwise available for those purposes to that department or organization.
 
 **(d)** No agency or official of the executive branch of the Federal Government may establish any regulation, program, or policy or take any other action which precludes, directly or indirectly, the Secretaries concerned from exercising the authority provided in this section.
+
+**(e)**
+
+(1) An order placed by a department or organization on a reimbursable basis pursuant to subsection (b) shall be considered to be an obligation in the same manner as an order placed under [section 6307 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6307&num=0&edition=prelim).
+
+(2) Amounts received as reimbursement shall be credited in accordance with [section 2205 of this title](./chapter-131-planning-and-coordination.md#section-2205) to the appropriation of the supporting department or organization used in incurring the obligation in the year or years that support is provided.
 
 ### Statutory Notes
 
@@ -37,6 +47,10 @@ In subsection (b), the words “on a reimbursable or other basis as authorized b
 In subsection (a), the first 12 words are substituted for 14:640 (last 20 words). The words “may be transferred” are substituted for the words “The interchange . . . is authorized”, since the words “without compensation” authorize a simple one-way transfer, while the word “interchange” normally means a mutual exchange. The words “military stores . . . and equipment of every character” are omitted as covered by the word “supplies” as defined in [section 101(26) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/26&num=0&edition=prelim). The words “armed force” are substituted for the enumeration of the armed forces.
 
 #### Amendments
+2021—Subsec. (b). Pub. L. 117–81, § 1202(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “If its head approves, a department or organization within the Department of Defense may, upon request, perform work and services for, or furnish supplies to, any other of those departments or organizations, without reimbursement or transfer of funds.”
+
+Subsec. (e). Pub. L. 117–81, § 1202(2), added subsec. (e).
+
 2006—Pub. L. 109–364, § 2825(d)(1)(A), substituted “supplies” for “property” in section catchline.
 
 Subsec. (a). Pub. L. 109–364, § 2825(c)(1), struck out “and real estate” after “supplies”.
@@ -103,7 +117,7 @@ Pub. L. 110–329, div. C, title VIII, § 8075, Sept. 30, 2008, 122 Stat. 3638, 
 
 (2) In this subsection:
 
-  (A) The term “entity controlled by a foreign government” has the meaning given that term in [section 2536(c)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2536/c/1&num=0&edition=prelim).
+  (A) The term “entity controlled by a foreign government” has the meaning given that term in [section 4874(c)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4874/c/1&num=0&edition=prelim).
 
   (B) The term “veterans memorial object” means any object, including a physical structure or portion thereof, that—
 
@@ -121,9 +135,6 @@ Pub. L. 110–329, div. C, title VIII, § 8075, Sept. 30, 2008, 122 Stat. 3638, 
 
 ### Statutory Notes
 
-#### Amendment of Subsection (e)(2)(A)
-Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1870(d)(4), Jan. 1, 2021, 134 Stat. 4151, 4286, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, subsection (e)(2)(A) of this section is amended by striking “section 2536(c)(1)” and inserting “section 4872(c)(1)”. See Effective Date of 2021 Amendment note below.
-
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised section | Source (U.S. Code) | Source (Statutes at Large) |
@@ -132,7 +143,7 @@ Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1870(d)(4), Jan. 1, 2021, 
 The word “may” is substituted for the words “are each authorized, in their discretion”. The reference to posts of the Grand Army of the Republic is omitted, since that organization disbanded in 1950. The words “under regulations to be prescribed by him” are substituted for the words “subject to rules and regulations covering the same in each department”. The words “without expense to the United States” are substituted for the words “and the Government shall be at no expense in connection with any such loan or gift”. The words “local unit” are inserted in clause (7) to conform to clauses (5), (6), and (8).
 
 #### Amendments
-2021—Subsec. (e)(2)(A). Pub. L. 116–283 substituted “section 4872(c)(1)” for “section 2536(c)(1)”.
+2021—Subsec. (e)(2)(A). Pub. L. 116–283, § 1870(d)(4), as amended by Pub. L. 117–81, § 1701(t)(4), substituted “section 4874(c)(1)” for “section 2536(c)(1)”.
 
 2017—Subsec. (e)(2)(B)(iii). Pub. L. 115–91, § 2864(a), substituted “from abroad before 1907” for “from abroad”.
 
@@ -187,6 +198,8 @@ Subsec. (b)(2). Pub. L. 101–510, § 325(2), inserted “, or services provided
 1980—Pub. L. 96–513 substituted “section 205 of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 486](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section486&num=0&edition=prelim)), the Secretary of a military department or the Secretary of Transportation” for “[section 486 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section486&num=0&edition=prelim), the Secretary of a military department or the Secretary of the Treasury”.
 
 #### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
+
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 2017 Amendment
@@ -638,7 +651,7 @@ Another section 2582 was renumbered [section 2583 of this title](./chapter-153-e
 
 (2) If the Secretary of the military department concerned determines that an adoption is justified under subsection (a)(2) under circumstances under which the handler of a military working dog is wounded in action, the dog shall be made available for adoption only by the handler. If the Secretary of the military department concerned determines that such an adoption is justified under circumstances under which the handler of a military working dog is killed in action or dies of wounds received in action, the military working dog shall be made available for adoption only by a parent, child, spouse, or sibling of the deceased handler.
 
-**(d) Consideration.—** The transfer of a military animal under this section may be without charge to the recipient.
+**(d) Consideration.—** The transfer of a military animal under this section shall be without charge to the recipient.
 
 **(e) Limitations on Liability for Transferred or Adopted Animals.—**
 
@@ -652,7 +665,7 @@ Another section 2582 was renumbered [section 2583 of this title](./chapter-153-e
 
   (A) If the Secretary of the military department concerned determines that a military working dog should be retired, such Secretary shall transport the dog to the Veterinary Treatment Facility at Lackland Air Force Base, Texas.
 
-  (B) In the case of a contract working dog to be retired, transportation required by subparagraph (A) is satisfied by the transfer of the dog to the 341st Training Squadron at the end of the dog’s service life as required by [section 2410r of this title](./chapter-141-miscellaneous-procurement-provisions.md#section-2410r) and assignment of the dog to the Veterinary Treatment Facility referred to in that subparagraph.
+  (B) In the case of a contract working dog to be retired, transportation required by subparagraph (A) is satisfied by the transfer of the dog to the 341st Training Squadron at the end of the dog’s service life as required by [section 2387 of this title](./chapter-141-miscellaneous-provisions-relating-to-property.md#section-2387) and assignment of the dog to the Veterinary Treatment Facility referred to in that subparagraph.
 
 (2)
 
@@ -682,17 +695,16 @@ Another section 2582 was renumbered [section 2583 of this title](./chapter-153-e
 
 **(i) Military Animal Defined.—** In this section, the term “military animal” means the following:
 
-(1) A military working dog, which may include a contract working dog (as such term is defined in section 2410r) that has been transferred to the 341st Training Squadron.
+(1) A military working dog, which may include a contract working dog (as such term is defined in section 2387) that has been transferred to the 341st Training Squadron.
 
 (2) An equid (horse, mule, or donkey) owned by the Department of Defense.
 
 ### Statutory Notes
 
-#### Amendment of Section
-Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, except as otherwise provided in title XVIII of Pub. L. 116–283, in title 10, United States Code, each reference in the text of such title to a source section that is redesignated by title XVIII of Pub. L. 116–283, is amended by striking such reference and inserting a reference to the appropriate section as so redesignated. See 2021 Amendment notes and Effective Date of 2021 Amendment note below.
-
 #### Amendments
-2021—Subsec. (f)(1)(B). Pub. L. 116–283, § 1883(b)(2), substituted “section 2387” for “section 2410r”.
+2021—Subsec. (d). Pub. L. 117–81 substituted “shall” for “may”.
+
+Subsec. (f)(1)(B). Pub. L. 116–283, § 1883(b)(2), substituted “section 2387” for “section 2410r”.
 
 Subsec. (g)(2)(A). Pub. L. 116–283, § 1081(a)(42), inserted “or” after semicolon at end.
 

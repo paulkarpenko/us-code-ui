@@ -7,44 +7,14 @@ source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
 <a id="section-2161"></a>
-## § 2161. Degree granting authority for National Intelligence University
-**(a) Authority.—** Under regulations prescribed by the Secretary of Defense, the President of the National Intelligence University may, upon the recommendation of the faculty of the National Intelligence University, confer appropriate degrees upon graduates who meet the degree requirements.
-
-**(b) Limitation.—** A degree may not be conferred under this section unless—
-
-(1) the Secretary of Education has recommended approval of the degree in accordance with the Federal Policy Governing Granting of Academic Degrees by Federal Agencies; and
-
-(2) the National Intelligence University is accredited by the appropriate civilian academic accrediting agency or organization to award the degree, as determined by the Secretary of Education.
-
-**(c) Congressional Notification Requirements.—**
-
-(1) When seeking to establish degree granting authority under this section, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives—
-
-  (A) a copy of the self assessment questionnaire required by the Federal Policy Governing Granting of Academic Degrees by Federal Agencies, at the time the assessment is submitted to the Department of Education’s National Advisory Committee on Institutional Quality and Integrity; and
-
-  (B) the subsequent recommendations and rationale of the Secretary of Education regarding the establishment of the degree granting authority.
-
-(2) Upon any modification or redesignation of existing degree granting authority, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing the rationale for the proposed modification or redesignation and any subsequent recommendation of the Secretary of Education on the proposed modification or redesignation.
-
-(3) The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing an explanation of any action by the appropriate academic accrediting agency or organization not to accredit the National Intelligence University to award any new or existing degree.
+## § 2161. Repealed. Pub. L. 116–92, div. E, title LIII, § 5324(e)(1), formerly § 5324(g)(1), Dec. 20, 2019, 133 Stat. 2137, renumbered § 5324(e)(1), Pub. L. 116–260, div. W, title III, § 305(c)(3), Dec. 27, 2020, 134 Stat. 2367]
 
 ### Statutory Notes
 
-#### Repeal of Section
-Pub. L. 116–92, div. E, title LIII, § 5324(e), formerly § 5324(g), Dec. 20, 2019, 133 Stat. 2137, renumbered § 5324(e), Pub. L. 116–260, div. W, title III, § 305(c)(3), Dec. 27, 2020, 134 Stat. 2367, provided that, effective on the date on which the Secretary of Defense and the Director of National Intelligence jointly submit the joint certifications required under [section 3334a(b)(1) of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3334a/b/1&num=0&edition=prelim), War and National Defense, this section is repealed.
-
-#### Amendments
-2013—Pub. L. 112–239 substituted “National Intelligence University” for “National Defense Intelligence College” wherever appearing in section catchline and text.
-
-2008—Pub. L. 110–417 amended section generally. Prior to amendment, section related to conferral of academic degrees by the Joint Military Intelligence College.
-
-1997—Pub. L. 105–107 substituted “Joint Military Intelligence College: academic degrees” for “Defense Intelligence School: master of science of strategic intelligence” in section catchline and amended text generally. Prior to amendment, text read as follows: “Under regulations prescribed by the Secretary of Defense, the Commandant of the Defense Intelligence School may, upon recommendation by the faculty of such school, confer the degree of master of science of strategic intelligence upon graduates of the school who have fulfilled the requirements for that degree.”
+Section, added Pub. L. 96–450, title IV, § 406(a), Oct. 14, 1980, 94 Stat. 1980; amended Pub. L. 105–107, title V, § 501(a), Nov. 20, 1997, 111 Stat. 2261; Pub. L. 110–417, [div. A], title V, § 543(a)(1), Oct. 14, 2008, 122 Stat. 4456; Pub. L. 112–239, div. A, title IX, § 922(a), (b)(1), Jan. 2, 2013, 126 Stat. 1879, related to degree granting authority for the National Intelligence University.
 
 #### Effective Date of Repeal
 Repeal effective on the date on which the Secretary of Defense and the Director of National Intelligence jointly submit the joint certifications required under [section 3334a(b)(1) of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3334a/b/1&num=0&edition=prelim), War and National Defense, see [section 3334a(e)(2) of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3334a/e/2&num=0&edition=prelim).
-
-#### Effective Date of 2008 Amendment
-Pub. L. 110–417, [div. A], title V, § 543(j), Oct. 14, 2008, 122 Stat. 4465, provided that: “The amendments made by this section [amending this section and sections 2163, 4314, 4321, 7048, 7101, 7102, 9314, and 9317 of this title] shall apply to any degree granting authority established, modified, or redesignated on or after the date of enactment of this Act [Oct. 14, 2008] for an institution of professional military education referred to in such amendments.”
 
 
 <a id="section-2162"></a>
@@ -159,7 +129,7 @@ Subsec. (b)(4). Pub. L. 110–181, § 526(a)(2), added par. (4).
 “(c) Regulations.—The authority provided by subsections (a) and (b) shall be exercised under regulations prescribed by the Secretary of Defense.”
 
 #### Effective Date of 2008 Amendment
-Amendment by Pub. L. 110–417 applicable to any degree granting authority established, modified, or redesignated on or after Oct. 14, 2008, for an institution of professional military education referred to in such amendment, see section 543(j) of Pub. L. 110–417, set out as a note under [section 2161 of this title](./chapter-108-department-of-defense-schools.md#section-2161).
+Pub. L. 110–417, [div. A], title V, § 543(j), Oct. 14, 2008, 122 Stat. 4465, provided that: “The amendments made by this section [amending this section and sections 2161, 4314, 4321, 7048, 7101, 7102, 9314, and 9317 of this title] shall apply to any degree granting authority established, modified, or redesignated on or after the date of enactment of this Act [Oct. 14, 2008] for an institution of professional military education referred to in such amendments.”
 
 Pub. L. 110–181, div. A, title V, § 526(c), Jan. 28, 2008, 122 Stat. 105, provided that: “Paragraph (4) of [section 2163(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2163/b&num=0&edition=prelim), United States Code, as added by subsection (a) of this section, applies with respect to any person who becomes a graduate of the National Defense University on or after September 6, 2006, and fulfills the requirements of the program referred to in such paragraph (4).”
 
@@ -484,14 +454,11 @@ Pub. L. 116–92, div. A, title XVII, § 1751, Dec. 20, 2019, 133 Stat. 1849, pr
 
 **(f) Cooperative Research and Development Agreements.—**
 
-(1) In engaging in research and development projects pursuant to subsection (a) of [section 2358 of this title](./chapter-139-research-and-development.md#section-2358) by a contract, cooperative agreement, or grant pursuant to subsection (b)(1) of such section, the Secretary may enter into such contract or cooperative agreement or award such grant through the National Defense University.
+(1) In engaging in research and development projects pursuant to subsection (a) of [section 4001 of this title](./chapter-301-research-and-engineering-generally.md#section-4001) by a contract, cooperative agreement, or grant pursuant to subsection (b)(1) of such section, the Secretary may enter into such contract or cooperative agreement or award such grant through the National Defense University.
 
 (2) The National Defense University shall be considered a Government-operated Federal laboratory for purposes of section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 ([15 U.S.C. 3710a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3710a&num=0&edition=prelim)).
 
 ### Statutory Notes
-
-#### Amendment of Subsection (f)(1)
-Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1841(e)(1), Jan. 1, 2021, 134 Stat. 4244, 4155, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, subsection (f)(1) of this section is amended by striking “section 2358” and inserting “section 4001”. See 2021 Amendment note below.
 
 #### Amendments
 2021—Subsec. (f)(1). Pub. L. 116–283 substituted “section 4001” for “section 2358”.
@@ -594,12 +561,23 @@ Pub. L. 107–107, div. A, title V, § 528(b), Dec. 28, 2001, 115 Stat. 1103, pr
 
 
 <a id="section-2168"></a>
-## § 2168. Defense Language Institute Foreign Language Center: degree of Associate of Arts in foreign language
-**(a)** Subject to subsection (b), the Commandant of the Defense Language Institute may confer an Associate of Arts degree in a foreign language upon any graduate of the Foreign Language Center of the Institute who fulfills the requirements for that degree.
+## § 2168. Defense Language Institute Foreign Language Center: degree of Associate or Bachelor of Arts in foreign language
+**(a)** Subject to subsection (b), the Commandant of the Defense Language Institute may confer—
+
+(1) an Associate of Arts degree in a foreign language upon any graduate of the Foreign Language Center of the Institute who fulfills the requirements for that degree; or
+
+(2) a Bachelor of Arts degree in a foreign language upon any graduate of the Foreign Language Center of the Institute who fulfills the requirements for that degree.
 
 **(b)** A degree may be conferred upon a student under this section only if the Provost of the Center certifies to the Commandant that the student has satisfied all the requirements prescribed for the degree.
 
 **(c)** The authority provided by subsection (a) shall be exercised under regulations prescribed by the Secretary of Defense.
+
+### Statutory Notes
+
+#### Amendments
+2021—Pub. L. 117–81, § 556(a)(1), substituted “Associate or Bachelor” for “Associate” in section catchline.
+
+Subsec. (a). Pub. L. 117–81, § 556(a)(2), amended subsec. (a). generally. Prior to amendment, subsec. (a) read as follows: “Subject to subsection (b), the Commandant of the Defense Language Institute may confer an Associate of Arts degree in a foreign language upon any graduate of the Foreign Language Center of the Institute who fulfills the requirements for that degree.”
 
 
 <a id="section-2169"></a>

@@ -191,7 +191,7 @@ Subsec. (c)(3)(B). Pub. L. 102–550, § 834(a)(2), substituted “October 28, 1
 Subsec. (a)(3)(A). Pub. L. 100–628, § 1090(a), amended first sentence generally. Prior to amendment, first sentence read as follows: “Except as provided in subparagraph (B), the Secretary shall designate the nominated areas with the highest average ranking with respect to the criteria set forth in subparagraphs (C), (D), and (E) of subsection (c)(3) of this section.”
 
 #### Regulations
-Pub. L. 100–628, title X, § 1090(c), Nov. 7, 1988, 102 Stat. 3283, provided that: “Not later than 30 days after the date of the enactment of this Act [Nov. 7, 1988], the Secretary of Housing and Urban Development shall revise the regulations issued by the Secretary to carry out title VII of the Housing and Community Development Act of 1987 ([42 U.S.C. 11501](./chapter-120-enterprise-zone-development.md#section-11501) et seq.) by issuing a final regulation, effective upon the date of publication, that carries out the amendments made by this section [amending this section].”
+Pub. L. 100–628, title X, § 1090(c), Nov. 7, 1988, 102 Stat. 3283, provided that not later than 30 days after Nov. 7, 1988, the Secretary of Housing and Urban Development was to revise the regulations issued by the Secretary to carry out title VII of Pub. L. 100–242 ([42 U.S.C. 11501](./chapter-120-enterprise-zone-development.md#section-11501) et seq.) by issuing a final regulation that carried out the amendments made to this section by section 1090 of Pub. L. 100–628.
 
 
 <a id="section-11502"></a>

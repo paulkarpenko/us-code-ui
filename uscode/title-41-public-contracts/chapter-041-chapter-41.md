@@ -112,19 +112,19 @@ In subsection (a), the words “(as defined in [section 253k of this title](http
 
 <a id="section-4104"></a>
 ## § 4104. Guidance on use of task and delivery order contracts
-**(a) Guidance in Federal Acquisition Regulation.—** The Federal Acquisition Regulation issued in accordance with sections 1121(b) and 1303(a)(1) of this title shall provide guidance to agencies on the appropriate use of task and delivery order contracts in accordance with this chapter and sections 2304a to 2304d of title 10.
+**(a) Guidance in Federal Acquisition Regulation.—** The Federal Acquisition Regulation issued in accordance with sections 1121(b) and 1303(a)(1) of this title shall provide guidance to agencies on the appropriate use of task and delivery order contracts in accordance with this chapter and chapter 245 of title 10.
 
 **(b) Content of Regulations.—** The regulations issued pursuant to subsection (a) at a minimum shall provide specific guidance on—
 
-(1) the appropriate use of Government-wide and other multiagency contracts entered into in accordance with this chapter and sections 2304a to 2304d of title 10; and
+(1) the appropriate use of Government-wide and other multiagency contracts entered into in accordance with this chapter and chapter 245 of title 10; and
 
 (2) steps that agencies should take in entering into and administering multiple award task and delivery order contracts to ensure compliance with the requirement in—
 
   (A) [section 11312 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section11312&num=0&edition=prelim) for capital planning and investment control in purchases of information technology products and services;
 
-  (B) [section 4106(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section4106/c&num=0&edition=prelim) and [section 2304c(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304c/b&num=0&edition=prelim) to ensure that all contractors are afforded a fair opportunity to be considered for the award of task and delivery orders; and
+  (B) [section 4106(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section4106/c&num=0&edition=prelim) and [section 3406(c) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3406/c&num=0&edition=prelim) to ensure that all contractors are afforded a fair opportunity to be considered for the award of task and delivery orders; and
 
-  (C) [section 4106(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section4106/e&num=0&edition=prelim) and [section 2304c(c) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304c/c&num=0&edition=prelim) for a statement of work in each task or delivery order issued that clearly specifies all tasks to be performed or property to be delivered under the order.
+  (C) [section 4106(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section4106/e&num=0&edition=prelim) and [section 3406(e) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3406/e&num=0&edition=prelim) for a statement of work in each task or delivery order issued that clearly specifies all tasks to be performed or property to be delivered under the order.
 
 **(c) Federal Supply Schedules Program.—** The Administrator for Federal Procurement Policy shall consult with the Administrator of General Services to assess the effectiveness of the multiple awards schedule program of the General Services Administration referred to in [section 152(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section152/3&num=0&edition=prelim) that is administered as the Federal Supply Schedules program. The assessment shall include examination of—
 
@@ -144,6 +144,13 @@ In this section, the text of section 804(d) of the National Defense Authorizatio
 In subsection (a), the words “Not later than 180 days after the date of the enactment of this Act” and “be revised to” are omitted as obsolete.
 
 In subsection (b)(1), the words “this chapter and sections 2304a to 2304d of title 10” are substituted for “the provisions of law referred to in that subsection” for clarity.
+
+#### Amendments
+2021—Subsecs. (a), (b)(1). Pub. L. 117–81, § 1702(h)(14)(A), (B)(i), substituted “chapter 245” for “sections 2304a to 2304d”.
+
+Subsec. (b)(2)(B). Pub. L. 117–81, § 1702(h)(14)(B)(ii), substituted “section 3406(c)” for “section 2304c(b)”.
+
+Subsec. (b)(2)(C). Pub. L. 117–81, § 1702(h)(14)(B)(iii), substituted “section 3406(e)” for “section 2304c(c)”.
 
 
 <a id="section-4105"></a>

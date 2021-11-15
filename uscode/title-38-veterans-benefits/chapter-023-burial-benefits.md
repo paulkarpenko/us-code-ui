@@ -243,7 +243,7 @@ Amendment by Pub. L. 95–476 effective Oct. 18, 1978, see section 205(a) of Pub
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 116–315, title II, § 2202(a), (d), Jan. 5, 2021, 134 Stat. 4984, 4985, provided that, applicable to deaths that occur on or after the date that is two years after Jan. 5, 2021, this section is amended as follows:
+Pub. L. 116–315, title II, § 2202(a)(1), (3), (d), Jan. 5, 2021, 134 Stat. 4984, 4985, provided that, applicable to deaths that occur on or after the date that is two years after Jan. 5, 2021, this section is amended as follows:
 
 (1) in the section catchline, by striking “Death in Department facility” and inserting “Death from non-service-connected disability”;
 
@@ -825,7 +825,7 @@ Pub. L. 116–315, title II, § 2203(b), Jan. 5, 2021, 134 Stat. 4986, provided 
 
 Pub. L. 116–315, title II, § 2204(b), Jan. 5, 2021, 134 Stat. 4986, provided that: “Subsection (i) of [section 2306 of title 38](./chapter-023-burial-benefits.md#section-2306), United States Code, as added by subsection (a), shall apply with respect to an individual who dies on or after October 1, 2019.”
 
-Pub. L. 116–315, title II, § 2207(b), Jan. 5, 2021, 134 Stat. 4988, provided that: “The amendments made by this section [amending this section] shall take on effect on the date that is two years after the date of the enactment of this Act [Jan. 5, 2021].”
+Pub. L. 116–315, title II, § 2207(b), Jan. 5, 2021, 134 Stat. 4988, provided that: “The amendments made by this section [amending this section] shall take on [sic] effect on the date that is two years after the date of the enactment of this Act [Jan. 5, 2021].”
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3001&num=0&edition=prelim), Armed Forces.

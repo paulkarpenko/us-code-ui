@@ -24,12 +24,6 @@ Section was formerly classified to section 623 of former Title 5, Executive Depa
 #### Transfer of Functions
 For transfer of functions, personnel, assets, and liabilities of the Department of Health and Human Services, including the functions of the Secretary of Health and Human Services and the Assistant Secretary for Public Health Emergency Preparedness [now Assistant Secretary for Preparedness and Response] relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(5) and (6), and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
-#### Emergency Preparedness Functions
-For assignment of certain emergency preparedness functions to Secretary of Health and Human Services, see Parts 1, 2, and 8 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under [section 5195 of this title](./chapter-068-disaster-relief.md#section-5195).
-
-#### Order of Succession
-For order of succession during any period when both Secretary and Deputy Secretary of Health and Human Services are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13250, Dec. 28, 2001, 67 F.R. 1597, listed in a table under [section 3345 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3345&num=0&edition=prelim), Government Organization and Employees.
-
 #### Reducing Administrative Burden for Researchers
 Pub. L. 114–255, div. A, title II, § 2034, Dec. 13, 2016, 130 Stat. 1059, provided that: “(a) Plan Preparation and Implementation of Measures To Reduce Administrative Burdens.—“(1) In general.—Not later than 2 years after the date of enactment of this Act [Dec. 13, 2016], the Secretary of Health and Human Services (referred to in this section as the ‘Secretary’) shall—“(A) lead a review by research funding agencies of all regulations and policies related to the disclosure of financial conflicts of interest, including the minimum threshold for reporting financial conflicts of interest; “(B) make revisions, as appropriate, to harmonize existing policies and reduce administrative burden on researchers while maintaining the integrity and credibility of research findings and protections of human participants; and “(C) confer with the Office of the Inspector General about the activities of such office related to financial conflicts of interest involving research funding agencies. “(2) Considerations.—In updating policies under paragraph (1)(B), the Secretary shall consider—“(A) modifying the timelines for the reporting of financial conflicts of interest to just-in-time information by institutions receiving grant or cooperative agreement funding from the National Institutes of Health; “(B) ensuring that financial interest disclosure reporting requirements are appropriate for, and relevant to, awards that will directly fund research, which may include modification of the definition of the term ‘investigator’ for purposes of the regulations and policies described in subparagraphs (A) and (B) of paragraph (1); and “(C) updating any applicable training modules of the National Institutes of Health related to Federal financial interest disclosure. “(b) Monitoring of Subrecipients of Funding From the National Institutes of Health.—The Director of the National Institutes of Health (referred to in this section as the ‘Director of National Institutes of Health’) shall implement measures to reduce the administrative burdens related to monitoring of subrecipients of grants by primary awardees of funding from the National Institutes of Health, which may incorporate findings and recommendations from existing and ongoing activities. Such measures may include, as appropriate—“(1) an exemption from subrecipient monitoring requirements, upon request from the primary awardees, provided that—“(A) the subrecipient is subject to Federal audit requirements pursuant to the Uniform Guidance of the Office of Management and Budget; “(B) the primary awardee conducts, pursuant to guidance of the National Institutes of Health, a pre-award evaluation of each subrecipient’s risk of noncompliance with Federal statutes and regulations, the conditions of the subaward, and any recurring audit findings; and “(C) such exemption does not absolve the primary awardee of liability for misconduct by subrecipients; and “(2) the implementation of alternative grant structures that obviate the need for subrecipient monitoring, which may include collaborative grant models allowing for multiple primary awardees. “(c) Reporting of Financial Expenditures.—The Secretary, in consultation with the Director of National Institutes of Health, shall evaluate financial expenditure reporting procedures and requirements for recipients of funding from the National Institutes of Health and take action, as appropriate, to avoid duplication between department and agency procedures and requirements and minimize burden to funding recipients. “(d) Animal Care and Use in Research.—Not later than 2 years after the date of enactment of this Act [Dec. 13, 2016], the Director of National Institutes of Health, in collaboration with the Secretary of Agriculture and the Commissioner of Food and Drugs, shall complete a review of applicable regulations and policies for the care and use of laboratory animals and make revisions, as appropriate, to reduce administrative burden on investigators while maintaining the integrity and credibility of research findings and protection of research animals. In carrying out this effort, the Director of the National Institutes of Health shall seek the input of experts, as appropriate. The Director of the National Institutes of Health shall—“(1) identify ways to ensure such regulations and policies are not inconsistent, overlapping, or unnecessarily duplicative, including with respect to inspection and review requirements by Federal agencies and accrediting associations; “(2) take steps to eliminate or reduce identified inconsistencies, overlap, or duplication among such regulations and policies; and “(3) take other actions, as appropriate, to improve the coordination of regulations and policies with respect to research with laboratory animals. “(e) Documentation of Personnel Expenses.—The Secretary shall clarify the applicability of the requirements under the Office of Management and Budget Uniform Guidance for management and certification systems adopted by entities receiving Federal research grants through the Department of Health and Human Services regarding documentation of personnel expenses, including clarification of the extent to which any flexibility to such requirements specified in such Uniform Guidance applies to entities receiving grants through the Department of Health and Human Services. “(f) Research Policy Board.—“(1) Establishment.—Not later than 1 year after the date of enactment of this Act [Dec. 13, 2016], the Director of the Office of Management and Budget shall establish an advisory committee, to be known as the ‘Research Policy Board’ (referred to in this subsection as the ‘Board’), to provide Federal Government officials with information on the effects of regulations related to Federal research requirements. “(2) Membership.—“(A) In general.—The Board shall include not more than 10 Federal members, including each of the following Federal members or their designees:“(i) The Administrator of the Office of Information and Regulatory Affairs of the Office of Management and Budget. “(ii) The Director of the Office of Science and Technology Policy. “(iii) The Secretary of Health and Human Services. “(iv) The Director of the National Science Foundation. “(v) The secretaries and directors of other departments and agencies that support or regulate scientific research, as determined by the Director of the Office of Management and Budget. “(B) Non-federal members.—The Board shall be comprised of not less than 9 and not more than 12 representatives of academic research institutions, other private, nonprofit research institutions, or other nonprofit organizations with relevant expertise. Such members shall be appointed by a formal process, to be established by the Director of the Office of Management and Budget, in consultation with the Federal membership, and that incorporates—“(i) nomination by members of the nonprofit scientific research community, including academic research institutions; and “(ii) procedures to fill membership positions vacated before the end of a member’s term. “(3) Purpose and responsibilities.—The Board shall make recommendations regarding the modification and harmonization of regulations and policies having similar purposes across research funding agencies to ensure that the administrative burden of such research policy and regulation is minimized to the greatest extent possible and consistent with maintaining responsible oversight of federally funded research. Activities of the Board may include—“(A) providing thorough and informed analysis of regulations and policies; “(B) identifying negative or adverse consequences of existing policies and making actionable recommendations regarding possible improvement of such policies; “(C) making recommendations with respect to efforts within the Federal Government to improve coordination of regulation and policy related to research; “(D) creating a forum for the discussion of research policy or regulatory gaps, challenges, clarification, or harmonization of such policies or regulation, and best practices; and “(E) conducting ongoing assessment and evaluation of regulatory burden, including development of metrics, periodic measurement, and identification of process improvements and policy changes. “(4) Expert subcommittees.—The Board may form temporary expert subcommittees, as appropriate, to develop timely analysis on pressing issues and assist the Board in anticipating future regulatory challenges, including challenges emerging from new scientific advances. “(5) Reporting requirements.—Not later than 2 years after the date of enactment of this Act, and once thereafter, the Board shall submit a report to the Director of the Office of Management and Budget, the Administrator of the Office of Information and Regulatory Affairs of the Office of Management and Budget, the Director of the Office of Science and Technology Policy, the heads of relevant Federal departments and agencies, the Committee on Health, Education, Labor, and Pensions of the Senate, and the Committee on Energy and Commerce of the House of Representatives containing formal recommendations on the conceptualization, development, harmonization, and reconsideration of scientific research policy, including the regulatory benefits and burdens. “(6) Sunset.—The Board shall terminate on September 30, 2021. “(7) GAO report.—Not later than 4 years after the date of enactment of this Act, the Comptroller General of the United States shall conduct an independent evaluation of the activities carried out by the Board pursuant to this subsection and submit to the appropriate committees of Congress a report regarding the results of the independent evaluation. Such report shall review and assess the Board’s activities with respect to the responsibilities described in paragraph (3).”
 
@@ -43,6 +37,12 @@ Pub. L. 101–509, title V, § 529 [title I, § 112(a)(1)], Nov. 5, 1990, 104 St
 
 #### Investigation of Youth Camp Safety
 Pub. L. 92–318, title VI, §§ 601–603, June 23, 1972, 86 Stat. 353, 354, authorized the Secretary of Health, Education, and Welfare to make a study of the field of youth camp safety to determine the need for Federal legislation, required the Secretary to submit a report on his investigation to the Congress before Mar. 1, 1973, and authorized $300,000 in appropriations to carry out the study.
+
+#### Emergency Preparedness Functions
+For assignment of certain emergency preparedness functions to Secretary of Health and Human Services, see Parts 1, 2, and 8 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under [section 5195 of this title](./chapter-068-disaster-relief.md#section-5195).
+
+#### Order of Succession
+For order of succession during any period when both Secretary and Deputy Secretary of Health and Human Services are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13250, Dec. 28, 2001, 67 F.R. 1597, listed in a table under [section 3345 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3345&num=0&edition=prelim), Government Organization and Employees.
 
 #### Eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631, as amended Sept. 11, 1967, Pub. L. 90–83, § 10(c), 81 Stat. 224
 Prepared by the President and transmitted to the Senate and to the House of Representatives in Congress assembled, March 12, 1953, pursuant to the provisions of the Reorganization Act of 1949, approved June 20, 1949, as amended [see [5 U.S.C. 901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section901&num=0&edition=prelim) et seq.].
@@ -332,7 +332,194 @@ Each agency on the Council shall be represented by the head of the agency or by 
 (c) agencies to the extent that they demonstrate within 30 days of the date of issuance of this Order, to the satisfaction of the Chairperson with the advice of the Council, that their activities have no substantial impact upon consumers.
 
 #### Executive Order No. 13125
-Ex. Ord. No. 13125, June 7, 1999, 64 F.R. 31105, as amended by Ex. Ord. No. 13216, June 6, 2001, 66 F.R. 31373, which established in the Department of Health and Human Services a President’s Advisory Commission on Asian Americans and Pacific Islanders, was superseded by Ex. Ord. No. 13515, § 4(a), Oct. 14, 2009, 74 F.R. 53638, set out as a note under [section 1501 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1501&num=0&edition=prelim), Commerce and Trade.
+Ex. Ord. No. 13125, June 7, 1999, 64 F.R. 31105, as amended by Ex. Ord. No. 13216, June 6, 2001, 66 F.R. 31373, which established in the Department of Health and Human Services a President’s Advisory Commission on Asian Americans and Pacific Islanders, was superseded by Ex. Ord. No. 13515, § 4(a), Oct. 14, 2009, 74 F.R. 53638, set out as a note under [section 1501 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1501&num=0&edition=prelim), Commerce and Trade, and by Ex. Ord. No. 14031, § 4(a), May 28, 2021, 86 F.R. 29680, set out below.
+
+#### Ex. Ord. No. 14031. Advancing Equity, Justice, and Opportunity for Asian Americans, Native Hawaiians, and Pacific Islanders
+Ex. Ord. No. 14031, May 28, 2021, 86 F.R. 29675, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. Policy. Asian American, Native Hawaiian, and Pacific Islander (AA and NHPI) individuals and communities are irrefutable sources of our Nation’s strength. These communities have molded the American experience, and the achievements of AA and NHPI communities make the United States stronger and more vibrant. The richness of America’s multicultural democracy is strengthened by the diversity of AA and NHPI communities and the many cultures and languages of AA and NHPI individuals in the United States.
+
+Asian American, Native Hawaiian, and Pacific Islander communities together constitute the fastest growing ethnic group in the United States and make rich contributions to our society, our economy, and our culture. Yet for far too long, systemic barriers to equity, justice, and opportunity put the American dream out of reach of many AA and NHPI communities. Many AA and NHPI individuals face persistent disparities in socioeconomic, health, and educational outcomes. Linguistic isolation and lack of access to language-assistance services continue to lock many AA and NHPI individuals out of opportunity. Too often Federal data collection practices fail to measure, reflect, and disaggregate the diversity of AA and NHPI experiences. These practices contribute to often painful and enduring stereotypes about Asian Americans as a “model minority” and obscure disparities within AA and NHPI communities.
+
+Our Nation has also seen again that anti-Asian bias, xenophobia, racism, and nativism have deep roots in our Nation. Tragic acts of anti-Asian violence have increased during the COVID–19 pandemic, casting a shadow of fear and grief over many AA and NHPI communities, in particular East Asian communities. Long before this pandemic, AA and NHPI communities in the United States—including South Asian and Southeast Asian communities—have faced persistent xenophobia, religious discrimination, racism, and violence. The Federal Government must provide the moral leadership, policies, and programs to address and end anti-Asian violence and discrimination, and advance inclusion and belonging for all AA and NHPI communities.
+
+At the same time, many AA and NHPI communities, and in particular Native Hawaiian and Pacific Islander communities, have also been disproportionately burdened by the COVID–19 public health crisis. Evidence suggests that Native Hawaiians and Pacific Islanders are three times more likely to contract COVID–19 compared to white people and nearly twice as likely to die from the disease. On top of these health inequities, many AA and NHPI families and small businesses have faced devastating economic losses during this crisis, which must be addressed.
+
+As I directed in Executive Order 13985 of January 20, 2021 (Advancing Racial Equity and Support for Underserved Communities Through the Federal Government) [[5 U.S.C. 601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section601&num=0&edition=prelim) note], the entire Federal Government must advance equity and racial justice for underserved communities, which include AA and NHPI communities. As I established in the Presidential Memorandum of January 26, 2021 (Condemning and Combating Racism, Xenophobia, and Intolerance Against Asian Americans and Pacific Islanders in the United States) [[34 U.S.C. 30501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section30501&num=0&edition=prelim) note], it is the policy of my Administration to address and confront racism, xenophobia, and intolerance. The purpose of this order is to build on those policies by establishing the President’s Advisory Commission on Asian Americans, Native Hawaiians, and Pacific Islanders and the White House Initiative on Asian Americans, Native Hawaiians, and Pacific Islanders. Both will work to advance equity, justice, and opportunity for AA and NHPI communities in the United States.
+
+Sec. 2. President’s Advisory Commission on Asian Americans, Native Hawaiians, and Pacific Islanders. (a) There is established in the Department of Health and Human Services the President’s Advisory Commission on Asian Americans, Native Hawaiians, and Pacific Islanders (Commission).
+
+(b) The Commission shall be led by two Co-Chairs, one of whom shall be the Secretary of Health and Human Services, the other of whom shall be the head of an executive department or agency (agency) designated by the President. The Commission shall provide advice to the President, in close coordination with the Deputy Assistant to the President and Asian American, Native Hawaiian, and Pacific Islander Senior Liaison, on:
+
+(i) the development, monitoring, and coordination of executive branch efforts to advance equity, justice, and opportunity for AA and NHPI communities in the United States, including efforts to close gaps in health, socioeconomic, employment, and educational outcomes;
+
+(ii) policies to address and end anti-Asian bias, xenophobia, racism, and nativism, and opportunities for the executive branch to advance inclusion, belonging, and public awareness of the diversity and accomplishments of AA and NHPI people, cultures, and histories;
+
+(iii) policies, programs, and initiatives to prevent, report, respond to, and track anti-Asian hate crimes and hate incidents;
+
+(iv) ways in which the Federal Government can build on the capacity and contributions of AA and NHPI communities through equitable Federal funding, grantmaking, and employment opportunities;
+
+(v) policies and practices to improve research and equitable data disaggregation regarding AA and NHPI communities;
+
+(vi) policies and practices to improve language access services to ensure AA and NHPI communities can access Federal programs and services; and
+
+(vii) strategies to increase public- and private-sector collaboration, and community involvement in improving the safety and socioeconomic, health, educational, occupational, and environmental well-being of AA and NHPI communities.
+
+(c) The Commission shall consist of 25 members appointed by the President. The Commission shall include members who:
+
+(i) have a history of advancing equity, justice, and opportunity for AA and NHPI communities;
+
+(ii) represent diverse sectors, including education, commerce, business, health, human services, housing, the environment, the arts, agriculture, labor and employment, transportation, justice, veterans affairs, economic and community development, immigration, law, and national security;
+
+(iii) are from organizations or associations representing one or more of the diverse AA and NHPI communities;
+
+(iv) have personal or professional experience addressing intersectional barriers faced by AA and NHPI communities, such as discrimination or lack of access to opportunity based on country of origin, immigration status, disability, age, or sex, including based on sexual orientation and gender identity; or
+
+(v) have such other experience as the President deems appropriate.
+
+(d) The Secretary of Health and Human Services shall designate an Executive Director of the Commission (Executive Director). The Executive Director shall report to the Secretary of Health and Human Services, in coordination with the other Co-Chair of the Commission and the Deputy Assistant to the President and Asian American, Native Hawaiian, and Pacific Islander Senior Liaison.
+
+(i) The Department of Health and Human Services shall provide funding and administrative support for the Commission to the extent permitted by law and within existing appropriations, and may, as necessary and appropriate under [section 1535 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1535&num=0&edition=prelim), United States Code, enter into one or more agreements to obtain goods or services from one or more agencies in support of the Commission.
+
+(ii) The heads of other agencies shall assist and provide information to the Commission, consistent with applicable law, as may be necessary to carry out its functions. Each agency shall bear its own expenses of assisting the Commission.
+
+(iii) Members of the Commission shall serve without compensation, but shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service ([5 U.S.C. 5701–570](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5701–570&num=0&edition=prelim)7). Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (the “Act”) [Pub. L. 92–463], may apply to the administration of the Commission, any functions of the President under the Act, except that of reporting to the Congress, shall be performed by the Secretary of Health and Human Services, in accordance with the guidelines issued by the Administrator of General Services.
+
+(e) The Commission shall terminate 2 years from the date of this order [May 28, 2021], unless sooner renewed by the President.
+
+Sec. 3. White House Initiative on Asian Americans, Native Hawaiians, and Pacific Islanders. (a) There is established the White House Initiative on Asian Americans, Native Hawaiians, and Pacific Islanders (Initiative), a Federal interagency working group. The Initiative shall be led by two Co-Chairs, one of whom shall be the Secretary of Health and Human Services, the other of whom shall be the head of an agency designated by the President. The Executive Director of the Commission established in section 2(d) of this order shall also serve as the Executive Director of the Initiative, reporting to the Secretary of Health and Human Services, in coordination with the other Co-Chair of the Initiative and the Deputy Assistant to the President and Asian American, Native Hawaiian, and Pacific Islander Senior Liaison.
+
+(b) The Initiative shall advance equity, justice, and opportunity for AA and NHPI communities by coordinating Federal interagency policymaking and program development efforts to eliminate barriers to equity, justice, and opportunity faced by AA and NHPI communities, including by advancing policies, programs, and initiatives. In developing and implementing such policies, programs, and initiatives, the Co-Chairs of the Initiative and the Executive Director shall coordinate closely with the Deputy Assistant to the President and Asian American, Native Hawaiian, and Pacific Islander Senior Liaison. To support implementation of a whole-of-government approach to equity and racial justice, as established in Executive Order 13985, the Assistant to the President for Domestic Policy and the Director of the Office of Management and Budget shall coordinate closely with the Co-Chairs of the Initiative and the Executive Director to ensure that the needs and voices of AA and NHPI communities are considered in the efforts of my Administration to advance equity and civil rights.In particular, the Initiative shall advance efforts to:
+
+(i) identify and eliminate any existing institutional policies or barriers within Federal programs and services that may disadvantage or burden AA and NHPI communities;
+
+(ii) improve safety, access to justice, and violence prevention for AA and NHPI communities, including by preventing, reporting, addressing, and better tracking acts of hate and bias (such as acts of hate and bias at the intersection of gender-based violence);
+
+(iii) promote inclusion and belonging for AA and NHPI communities, including by expanding public education and knowledge of AA and NHPI people and their diverse cultures, languages, and histories;
+
+(iv) expand the collection and use of disaggregated data at the Federal, State and local level on AA and NHPI communities, and facilitate improved research on policy and program outcomes for AA and NHPI communities, in coordination with the Interagency Working Group on Equitable Data established by Executive Order 13985;
+
+(v) end language access and other barriers faced by AA and NHPI communities in accessing government benefits and services;
+
+(vi) improve health outcomes, eliminate health disparities, and expand access to quality, affordable, and culturally competent medical and mental healthcare services for AA and NHPI individuals and communities;
+
+(vii) end disparities in educational outcomes for AA and NHPI youth and students of all ages, and address barriers to learning, including bullying, harassment, and other forms of discrimination at school;
+
+(viii) address the concentration of poverty facing many AA and NHPI communities, including by identifying and addressing disparities in access to safe, affordable housing and homeownership;
+
+(ix) expand economic opportunity for AA and NHPI families, including by advancing opportunities for AA and NHPI entrepreneurs and small businesses, supporting access to jobs and workforce training for AA and NHPI communities, promoting AA and NHPI participation and success in the private sector, ensuring workplaces are free from race and national origin harassment and other forms of employment discrimination, and ensuring AA and NHPI communities can access consumer and finance protections;
+
+(x) increase opportunities for civic engagement, such as electoral participation, within AA and NHPI communities;
+
+(xi) improve the equitable allocation of Federal resources, including through Federal funds, contracts, grants, and awards, to AA and NHPI communities and AA and NHPI-serving organizations;
+
+(xii) support AA and NHPI communities in responding to and recovering from national or regional crises and public health emergencies, including the COVID–19 pandemic and related economic crisis;
+
+(xiii) secure climate and environmental justice for AA and NHPI communities who are particularly impacted by the climate crisis and are overburdened by environmental degradation; and
+
+(xiv) identify ways to foster the recruitment, career and leadership development, retention, advancement, and participation of AA and NHPI public servants at all levels of the Federal workforce.
+
+(c) In addition to the Co-Chairs, the Initiative shall consist of senior officials from the following agencies and offices, designated by the heads thereof:
+
+(i) the Office of the Vice President;
+
+(ii) the Department of State;
+
+(iii) the Department of the Treasury;
+
+(iv) the Department of Defense;
+
+(v) the Department of Justice;
+
+(vi) the Department of the Interior;
+
+(vii) the Department of Agriculture;
+
+(viii) the Department of Commerce;
+
+(ix) the Department of Labor;
+
+(x) the Department of Health and Human Services;
+
+(xi) the Department of Housing and Urban Development;
+
+(xii) the Department of Energy;
+
+(xiii) the Department of Education;
+
+(xiv) the Department of Veterans Affairs;
+
+(xv) the Department of Homeland Security;
+
+(xvi) the Environmental Protection Agency;
+
+(xvii) the Office of Management and Budget;
+
+(xviii) the Office of the United States Trade Representative;
+
+(xix) the Small Business Administration;
+
+(xx) the Office of Science and Technology Policy;
+
+(xxi) the National Security Council;
+
+(xxii) the National Economic Council;
+
+(xxiii) the Domestic Policy Council;
+
+(xxiv) the Gender Policy Council;
+
+(xxv) the Council on Environmental Quality;
+
+(xxvi) the White House Office of Cabinet Affairs;
+
+(xxvii) the White House Office of Intergovernmental Affairs;
+
+(xxviii) the White House Office of Public Engagement;
+
+(xxix) the White House Office of Presidential Personnel;
+
+(xxx) the Social Security Administration;
+
+(xxxi) the General Services Administration;
+
+(xxxii) the United States Agency for International Development;
+
+(xxxiii) the Office of Personnel Management;
+
+(xxxiv) the Equal Employment Opportunity Commission; and
+
+(xxxv) other agencies and offices as the President may, from time to time, designate.
+
+At the direction of the Co-Chairs, the Initiative may establish subgroups consisting exclusively of Initiative members or their designees, as appropriate. To the extent permitted by law, members of the Initiative, or their designees, shall devote the time, skill, and resources necessary and adequate to carry out the functions of the Initiative. Each agency and office shall bear its own expenses for participating in the Initiative.
+
+(d) The Department of Health and Human Services shall provide funding and administrative support for the Initiative to the extent permitted by law and within existing appropriations, and may, as necessary and appropriate under [section 1535 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1535&num=0&edition=prelim), United States Code, enter into one or more agreements to obtain goods or services from one or more agencies in support of the Initiative.
+
+(e) Each agency in the Initiative shall prepare a plan (agency plan) outlining measurable actions the agency is considering or will take to advance equity, justice, and opportunity for AA and NHPI communities, including plans to implement the policy goals outlined in subsection (b) of this section. Agencies shall report their plans to the Co-Chairs of the Initiative and the Executive Director on a frequency established by the Executive Director. In developing such plans, officials participating in the Initiative shall seek opportunities to engage with employee affinity groups or Federal networks representing AA and NHPI public servants.
+
+(i) Each such agency shall assess and report to the Co-Chairs of the Initiative and the Executive Director on its progress in implementing its respective agency plan on a regular basis as established by the Co-Chairs of the Initiative and the Executive Director.
+
+(ii) On an annual basis, the Co-Chairs of the Initiative shall develop and submit to the President a report outlining a Government-wide interagency plan to advance equity, justice, and opportunity for AA and NHPI communities, and progress made in implementing the policy goals outlined in subsection (b) of this section.
+
+(f) The Initiative shall coordinate with and support the existing regional network of Federal officials who facilitate improved communication, engagement, and coordination between the Federal Government and AA and NHPI communities throughout the United States (Regional Network). Agencies identified as participants in the Initiative shall seek opportunities, consistent with applicable law and available resources, to provide support and resources to the Regional Network through each agency’s respective regional offices. The Executive Director shall coordinate the efforts of the Regional Network, and may establish regular reporting and information-sharing activities between the Regional Network and the Initiative.
+
+Sec. 4. General Provisions. (a) This order supersedes Executive Order 13125 of June 7, 1999 (Increasing Participation of Asian Americans and Pacific Islanders in Federal Programs) [formerly set out above]; Executive Order 13339 of May 13, 2004 (Increasing Economic Opportunity and Business Participation of Asian Americans and Pacific Islanders) [former [15 U.S.C. 1501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1501&num=0&edition=prelim) note]; Executive Order 13515 of October 14, 2009 (Increasing Participation of Asian Americans and Pacific Islanders in Federal Programs) [former [15 U.S.C. 1501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1501&num=0&edition=prelim) note]; and Executive Order 13872 of May 13, 2019 (Economic Empowerment of Asian Americans and Pacific Islanders) [former [15 U.S.C. 1501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1501&num=0&edition=prelim) note].
+
+(b) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(c) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(d) For purposes of this order, references to executive departments and agencies shall not include the agencies described in [section 3502(5) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502/5&num=0&edition=prelim), United States Code. Independent regulatory agencies are strongly encouraged to comply with the provisions of this order.
+
+(e) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+J.R. Biden, Jr.
 
 
 <a id="section-3501a"></a>
@@ -429,8 +616,11 @@ The Secretary of the Department of Health and Human Services is authorized to ad
 #### Codification
 Section was formerly classified to section 623d of former Title 5, Executive Departments and Government Officers and Employees, prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 1, 1966, 80 Stat. 378.
 
+#### Change of Name
+“Secretary of Health and Human Services” and “Department of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” and “Department of Health, Education, and Welfare”, respectively, pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Transfer of Functions
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
 #### Creation of Federal Security Agency
 The Federal Security Agency was created by Reorg. Plan No. 1 of 1939, § 201, eff. July 1, 1939, 4 F.R. 2727, 53 Stat. 1423, set out in the Appendix to Title 5, Government Organization and Employees.
@@ -495,11 +685,11 @@ Repeal effective July 1, 1975, see section 608 of Pub. L. 94–63, set out as an
 #### References in Text
 [Section 294n of this title](./chapter-6a-public-health-service.md#section-294n), referred to in subsec. (b), was in the original a reference to section 741 of act July 1, 1944. Section 741 of that Act was omitted in the general revision of subchapter V of this chapter by Pub. L. 102–408, title I, § 102, Oct. 13, 1992, 106 Stat. 1994. Pub. L. 102–408 enacted a new section 776 of act July 1, 1944, relating to acquired immune deficiency syndrome, which was classified to [section 294n of this title](./chapter-6a-public-health-service.md#section-294n) and was subsequently renumbered section 2692 and transferred to [section 300ff–111 of this title](./chapter-6a-public-health-service.md#section-300ff-111).
 
-#### Change of Name
-“Department of Health and Human Services” substituted for “Department of Health, Education, and Welfare” in subsec. (a) pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
-
 #### Amendments
 1990—Pub. L. 101–597 substituted “National Health Professional Shortage Clearinghouse” for “National Health Manpower Shortage Clearinghouse” in section catchline and subsec. (a).
+
+#### Change of Name
+“Department of Health and Human Services” substituted for “Department of Health, Education, and Welfare” in subsec. (a) pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
 
 <a id="section-3506"></a>
@@ -512,8 +702,11 @@ To the extent and under the conditions provided by regulations of the Secretary,
 #### Codification
 Section was formerly classified to section 623f of former Title 5, Executive Departments and Government Officers and Employees, prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 1, 1966, 80 Stat. 378.
 
+#### Change of Name
+“Secretary of Health and Human Services” and “Department of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” and “Department of Health, Education, and Welfare”, respectively, pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Transfer of Functions
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out in the Appendix to Title 5, Government Organization and Employees. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-3506a"></a>
@@ -566,8 +759,11 @@ July 2, 1942, ch. 475, title II, 56 Stat. 587.
 
 Apr. 28, 1942, ch. 247, title III, 56 Stat. 235.
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Transfer of Functions
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953 set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Federal Security Agency and office of Administrator abolished by section 8 of said Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953 set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Federal Security Agency and office of Administrator abolished by section 8 of said Reorg. Plan No. 1 of 1953.
 
 
 <a id="section-3508"></a>
@@ -675,8 +871,11 @@ Section was formerly classified to [section 905 of this title](https://uscode.ho
 #### Amendments
 1960—Pub. L. 86–703 made fund available for maintenance and operation of a central visual exhibit service, telephone, mail and messenger services, a central accounting and payroll service, and a central laborers’ service.
 
+#### Change of Name
+“Secretary of Health and Human Services” and “Department of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” and “Department of Health, Education, and Welfare”, respectively, pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Transfer of Functions
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. No. 1 of 1953, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. No. 1 of 1953, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
 
 <a id="section-3513a"></a>

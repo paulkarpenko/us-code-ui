@@ -43,15 +43,16 @@ Pub. L. 100–630, title IV, § 401, Nov. 7, 1988, 102 Stat. 3316, provided that
 #### Transfer of Functions
 “Secretary of Education” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to sections 301(a)(2)(M) and 507 of Pub. L. 96–88, which are classified to sections 3441(a)(2)(M) and 3507 of this title and which transferred functions of Secretary of Health, Education, and Welfare under this chapter to Secretary of Education.
 
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631, set out in the Appendix to Title 5, Government Organization and Employees. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
-
-Functions of Secretary of the Treasury over administration of appropriations for American Printing House for Blind (except function relating to administration of perpetual trust fund) transferred to Federal Security Agency, and annual report and vouchers of trustees directed to be furnished to Federal Security Administrator by Reorg. Plan No. II of 1939, § 201(b), eff. July 1, 1939, 4 F.R. 2732, 53 Stat. 1434, set out in the Appendix to Title 5.
-
 #### Compensation to American Printing House for the Blind for Vested Rights
 Pub. L. 100–630, title IV, § 404, Nov. 7, 1988, 102 Stat. 3316, provided that: “Any and all rights of the American Printing House for the Blind determined to have vested in the perpetual trust fund established by the Act of March 3, 1879 [see Codification note above], shall be deemed to be compensated by the appropriation to the American Printing House for the Blind for fiscal year 1990.”
 
 #### Ineffectiveness of References to Perpetual Trust Fund and Annual Appropriations
 Pub. L. 100–630, title IV, § 405, Nov. 7, 1988, 102 Stat. 3317, provided that: “Notwithstanding any Federal law, reference to the perpetual trust fund and permanent annual appropriations thereof established by the Act of March 3, 1879 [see Codification note above], shall not be given any effect.”
+
+#### Transfer of Functions
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631, set out in the Appendix to Title 5, Government Organization and Employees. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
+
+Functions of Secretary of the Treasury over administration of appropriations for American Printing House for Blind (except function relating to administration of perpetual trust fund) transferred to Federal Security Agency, and annual report and vouchers of trustees directed to be furnished to Federal Security Administrator by Reorg. Plan No. II of 1939, § 201(b), eff. July 1, 1939, 4 F.R. 2732, 53 Stat. 1434, set out in the Appendix to Title 5.
 
 
 <a id="section-102"></a>
@@ -99,6 +100,7 @@ Amendment by Pub. L. 87–294 effective immediately after Sept. 22, 1961, see se
 #### Transfer of Functions
 “Secretary of Education” substituted for “Secretary of Health, Education, and Welfare” in provision preceding par. (1) pursuant to sections 301(a)(2)(M) and 507 of Pub. L. 96–88, which are classified to sections 3441(a)(2)(M) and 3507 of this title and which transferred functions of Secretary of Health, Education, and Welfare under this chapter to Secretary of Education.
 
+#### Transfer of Functions
 Functions of Federal Security Administrator transferred to Secretary of Health, Education and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631, set out in the Appendix to Title 5, Government Organization and Employees. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
 Functions of Secretary of the Treasury over administration of appropriations for American Printing House for Blind (except function relating to administration of perpetual trust fund) transferred to Federal Security Agency, and annual report and vouchers of trustees directed to be furnished to Federal Security Administrator by Reorg. Plan No. II of 1939, § 201(b), eff. July 1, 1939, 4 F.R. 2732, 53 Stat. 1434, set out in the Appendix to Title 5.
@@ -126,6 +128,7 @@ The word “appropriation” substituted in text for “income” to conform to 
 #### Transfer of Functions
 “Secretary of Education” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to sections 301(a)(2)(M) and 507 of Pub. L. 96–88, which are classified to sections 3441(a)(2)(M) and 3507 of this title and which transferred functions of Secretary of Health, Education, and Welfare under this chapter to Secretary of Education.
 
+#### Transfer of Functions
 Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out in Appendix to Title 5, Government Organization and Employees. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
 Functions of Secretary of the Treasury over administration of appropriations for American Printing House for Blind (except function relating to administration of perpetual trust fund) transferred to Federal Security Agency, and annual report and vouchers of trustees directed to be furnished to Federal Security Administrator by Reorg. Plan No. II of 1939, § 201(b), eff. July 1, 1939, 4 F.R. 2732, 53 Stat. 1434, set out in the Appendix to Title 5.

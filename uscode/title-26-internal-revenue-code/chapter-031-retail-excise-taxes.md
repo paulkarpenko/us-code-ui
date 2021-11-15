@@ -61,7 +61,7 @@ Repeal effective Dec. 19, 2014, subject to a savings provision, see section 221(
 
     (iii) *Rate of tax on certain buses*
 
-      (I) *In general* — Except as provided in subclause (II), in the case of fuel sold for use or used in a use described in section 6427(b)(1) (after the application of section 6427(b)(3)), the rate of tax imposed by this paragraph shall be 7.3 cents per gallon (4.3 cents per gallon after September 30, 2022).
+      (I) *In general* — Except as provided in subclause (II), in the case of fuel sold for use or used in a use described in section 6427(b)(1) (after the application of section 6427(b)(3)), the rate of tax imposed by this paragraph shall be 7.3 cents per gallon (4.3 cents per gallon after September 30, 2028).
 
       (II) *School bus and intracity transportation* — No tax shall be imposed by this paragraph on any sale for use, or use, described in subparagraph (B) or (C) of section 6427(b)(2).
 
@@ -209,13 +209,13 @@ For purposes of paragraph (4), the term “nonprofit educational organization”
 
 (1) **In general** — In the case of the sale or use of any partially exempt methanol or ethanol fuel the rate of the tax imposed by subsection (a)(2) shall be—
 
-  (A) after September 30, 1997, and before October 1, 2022—
+  (A) after September 30, 1997, and before October 1, 2028—
 
     (i) in the case of fuel none of the alcohol in which consists of ethanol, 9.15 cents per gallon, and
 
     (ii) in any other case, 11.3 cents per gallon, and
 
-  (B) after September 30, 2022—
+  (B) after September 30, 2028—
 
     (i) in the case of fuel none of the alcohol in which consists of ethanol, 2.15 cents per gallon, and
 
@@ -226,6 +226,12 @@ For purposes of paragraph (4), the term “nonprofit educational organization”
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (a)(1)(C)(iii)(I). Pub. L. 117–58, § 80102(a)(1)(A), substituted “September 30, 2028” for “September 30, 2022”.
+
+Subsec. (m)(1)(A). Pub. L. 117–58, § 80102(a)(2)(A), substituted “October 1, 2028” for “October 1, 2022” in introductory provisions.
+
+Subsec. (m)(1)(B). Pub. L. 117–58, § 80102(a)(1)(B), substituted “October 1, 2028” for “October 1, 2022” in introductory provisions.
+
 2015—Subsec. (a)(1)(C)(iii)(I). Pub. L. 114–94, § 31102(a)(1)(A), substituted “September 30, 2022” for “September 30, 2016”.
 
 Subsec. (a)(2)(B)(ii). Pub. L. 114–41, § 2008(a)(1), added cl. (ii). Former cl. (ii) redesignated (iii).
@@ -716,6 +722,9 @@ Subsec. (d). Act Apr. 2, 1956, added subsec. (d).
 
 1955—Subsec. (c). Act Mar. 30, 1955, substituted “April 1, 1956” for “April 1, 1955”.
 
+#### Effective Date of 2021 Amendment
+Pub. L. 117–58, div. H, title I, § 80102(f), Nov. 15, 2021, 135 Stat. 1328, provided that: “The amendments made by this section [amending this section and sections 4051, 4071, 4081, 4221, 4481 to 4483, 6412, and 9503 of this title and [section 200310 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section200310&num=0&edition=prelim), National Park Service and Related Programs] shall take effect on October 1, 2021.”
+
 #### Effective Date of 2015 Amendment
 Pub. L. 114–94, div. C, title XXXI, § 31102(f), Dec. 4, 2015, 129 Stat. 1728, provided that: “The amendments made by this section [amending this section and sections 4051, 4071, 4081, 4221, 4481 to 4483, 6412, and 9503 of this title and [section 200310 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section200310&num=0&edition=prelim), National Park Service and Related Programs] shall take effect on October 1, 2016.”
 
@@ -1127,7 +1136,7 @@ Pub. L. 112–95, title XI, § 1103(d)(1), Feb. 14, 2012, 126 Stat. 151, provide
 
 (3) **Installers secondarily liable for tax** — The owners of the trade or business installing the parts or accessories shall be secondarily liable for the tax imposed by paragraph (1).
 
-**(c) Termination** On and after October 1, 2022, the taxes imposed by this section shall not apply.
+**(c) Termination** On and after October 1, 2028, the taxes imposed by this section shall not apply.
 
 **(d) Credit against tax for tire tax** If—
 
@@ -1142,6 +1151,8 @@ there shall be allowed as a credit against the tax imposed by this subchapter an
 A prior section 4051, act Aug. 16, 1954, ch. 736, 68A Stat. 479, defined the price for which articles were sold for purposes of determining retailers excise taxes, prior to repeal by Pub. L. 94–455, title XIX, § 1904(a)(1)(D), Oct. 4, 1976, 90 Stat. 1811.
 
 #### Amendments
+2021—Subsec. (c). Pub. L. 117–58 substituted “October 1, 2028” for “October 1, 2022”.
+
 2018—Subsec. (a)(3). Pub. L. 115–141 inserted closing parenthesis before period at end.
 
 2015—Subsec. (c). Pub. L. 114–94 substituted “October 1, 2022” for “October 1, 2016”.
@@ -1181,6 +1192,9 @@ Subsec. (d)(3). Pub. L. 99–514, § 1877(c), inserted at end “No tax shall be
 1984—Subsec. (b)(3). Pub. L. 98–369, § 734(g), substituted “The owners of the trade or business installing the parts or accessories shall be secondarily liable for the tax imposed by paragraph (1)” for “In addition to the owner, lessee, or operator of the vehicle, the owner of the trade or business installing the part or accessory shall be liable for the tax imposed by paragraph (1)”.
 
 Subsecs. (d), (e). Pub. L. 98–369, § 921, added subsec. (d) and redesignated former subsec. (d) as (e).
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 80102(f) of Pub. L. 117–58, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
 
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–94 effective Oct. 1, 2016, see section 31102(f) of Pub. L. 114–94, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).

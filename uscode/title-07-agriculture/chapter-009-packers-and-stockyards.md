@@ -148,7 +148,7 @@ Par. (c). Pub. L. 100–173, § 3(2), struck out reference to poultry handlers w
 1935—Act Aug. 15, 1921, title V, § 503, as added Aug. 14, 1935, inserted “or any live poultry dealer or handler” after “packer” wherever appearing.
 
 #### Termination Date of 1999 Amendment
-Amendment by Pub. L. 106–78 to terminate Sept. 30, 2020, see section 942 of Pub. L. 106–78, as amended, set out in a Livestock Mandatory Reporting note under [section 1635 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1635).
+Amendment by Pub. L. 106–78 to terminate Sept. 30, 2020, see section 942 of Pub. L. 106–78, set out in a Livestock Mandatory Reporting note under [section 1635 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1635). Section 942 of Pub. L. 106–78 to be applied by substituting “September 30, 2021” for “September 30, 2020”, see section 401 of Pub. L. 116–260, set out as a Mandatory Livestock Reporting Extension note under [section 1636i of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1636i).
 
 #### Effective Date of 1987 Amendment
 Amendment by Pub. L. 100–173 effective 90 days after Nov. 23, 1987, see section 12 of Pub. L. 100–173, set out as a note under [section 182 of this title](./chapter-009-packers-and-stockyards.md#section-182).
@@ -390,7 +390,7 @@ Except as provided in [section 198b(a) of this title](https://uscode.house.gov/v
 For termination of section by section 942 of Pub. L. 106–78, see Livestock Mandatory Reporting note set out under [section 1635 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1635).
 
 #### Termination Date
-Part to terminate Sept. 30, 2020, see section 942 of Pub. L. 106–78, as amended, set out in a Livestock Mandatory Reporting note under [section 1635 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1635).
+Section to terminate Sept. 30, 2020, see section 942 of Pub. L. 106–78, set out in a Livestock Mandatory Reporting note under [section 1635 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1635).
 
 
 <a id="section-198a"></a>
@@ -427,6 +427,9 @@ Part to terminate Sept. 30, 2020, see section 942 of Pub. L. 106–78, as amende
 
 #### Termination of Section
 For termination of section by section 942 of Pub. L. 106–78, see Livestock Mandatory Reporting note set out under [section 1635 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1635).
+
+#### Termination Date
+Section to terminate Sept. 30, 2020, see section 942 of Pub. L. 106–78, set out in a Livestock Mandatory Reporting note under [section 1635 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1635). Section 942 of Pub. L. 106–78 to be applied by substituting “September 30, 2021” for “September 30, 2020”, see section 401 of Pub. L. 116–260, set out as a Mandatory Livestock Reporting Extension note under [section 1636i of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1636i).
 
 
 <a id="section-198b"></a>
@@ -466,6 +469,9 @@ For termination of section by section 942 of Pub. L. 106–78, see Livestock Man
 The Federal Trade Commission Act, referred to in subsec. (b)(1), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 58 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section58&num=0&edition=prelim) and Tables.
 
 The Agricultural Marketing Act of 1946, referred to in subsec. (b)(2), is title II of act Aug. 14, 1946, ch. 966, 60 Stat. 1087, as amended, which is classified generally to chapter 38 (§ 1621 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1621 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1621) and Tables.
+
+#### Termination Date
+Section to terminate Sept. 30, 2020, see section 942 of Pub. L. 106–78, set out in a Livestock Mandatory Reporting note under [section 1635 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1635). Section 942 of Pub. L. 106–78 to be applied by substituting “September 30, 2021” for “September 30, 2020”, see section 401 of Pub. L. 116–260, set out as a Mandatory Livestock Reporting Extension note under [section 1636i of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1636i).
 
 
 <a id="section-201"></a>
@@ -1012,11 +1018,11 @@ Subsec. (f). Pub. L. 100–173, § 7(3), (5), redesignated former subsec. (e) as
 #### Effective Date of 1987 Amendment
 Amendment by Pub. L. 100–173 effective 90 days after Nov. 23, 1987, see section 12 of Pub. L. 100–173, set out as a note under [section 182 of this title](./chapter-009-packers-and-stockyards.md#section-182).
 
-#### Transfer of Functions
-Executive and administrative functions of Federal Trade Commission, with certain reservations, transferred to Chairman of such Commission by 1950 Reorg. Plan No. 8, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Construction of 1987 Amendments
 Pub. L. 100–173, § 11, Nov. 23, 1987, 101 Stat. 922, provided that: “(a) General Rule.—The amendments made by this Act [see Short Title of 1987 Amendment note set out under [section 181 of this title](./chapter-009-packers-and-stockyards.md#section-181)] to the Packers and Stockyards Act, 1921 [[7 U.S.C. 181](./chapter-009-packers-and-stockyards.md#section-181) et seq.], shall not be construed to limit or otherwise affect the power or jurisdiction of the Federal Trade Commission under the Federal Trade Commission Act [[15 U.S.C. 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section41&num=0&edition=prelim) et seq.] to prevent the use of—“(1) unfair methods of competition in or affecting commerce, and “(2) unfair and deceptive acts or practices in or affecting commerce, involving poultry products. “(b) Secretary’s Authority.—Subsection (a) shall not be construed to limit or otherwise affect the authority of the Secretary of Agriculture under section 406(e), as amended, of the Packers and Stockyards Act, 1921 [[7 U.S.C. 227(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section227/e&num=0&edition=prelim)].”
+
+#### Transfer of Functions
+Executive and administrative functions of Federal Trade Commission, with certain reservations, transferred to Chairman of such Commission by 1950 Reorg. Plan No. 8, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-228"></a>
@@ -1231,7 +1237,7 @@ Section, act Aug. 15, 1921, ch. 64, title IV, § 416, as added Pub. L. 105–277
 For termination of repeal by section 942 of Pub. L. 106–78, see Livestock Mandatory Reporting note set out under [section 1635 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1635).
 
 #### Termination Date of Repeal
-Repeal by Pub. L. 106–78 to terminate Sept. 30, 2020, see section 942 of Pub. L. 106–78, as amended, set out in a Livestock Mandatory Reporting note under [section 1635 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1635).
+Repeal by Pub. L. 106–78 to terminate Sept. 30, 2020, see section 942 of Pub. L. 106–78, set out in a Livestock Mandatory Reporting note under [section 1635 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1635). Section 942 of Pub. L. 106–78 to be applied by substituting “September 30, 2021” for “September 30, 2020”, see section 401 of Pub. L. 116–260, set out as a Mandatory Livestock Reporting Extension note under [section 1636i of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1636i).
 
 
 <a id="section-229b"></a>

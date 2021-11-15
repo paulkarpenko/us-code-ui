@@ -2,7 +2,7 @@
 title: 16
 chapter: '12'
 heading: FEDERAL REGULATION AND DEVELOPMENT OF POWER
-section_count: 111
+section_count: 112
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16&num=0&edition=prelim
 ---
@@ -56,8 +56,9 @@ Provisions which prescribed the compensation of commissioners were omitted as ob
 Act Oct. 15, 1949, ch. 695, § 5(a), 63 Stat. 880, formerly cited as a credit to this section, was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 655.
 
 #### Termination of Federal Power Commission; Transfer of Functions
-Federal Power Commission terminated and its functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
+The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
 
+#### Transfer of Functions
 Executive and administrative functions of Federal Power Commission, with certain reservations, transferred to Chairman of such Commission, with authority vested in him to authorize their performance by any officer, employee, or administrative unit under his jurisdiction, by Reorg. Plan No. 9 of 1950, set out below.
 
 #### REORGANIZATION PLAN NO. 9 OF 1950Eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265
@@ -295,7 +296,7 @@ Pub. L. 101–575, § 4, Nov. 15, 1990, 104 Stat. 2834, provided that: “Unless
 Pub. L. 102–486, title VII, § 731, Oct. 24, 1992, 106 Stat. 2921, provided that: “Nothing in this title [enacting sections 824l, 824m, and 825o–1 of this title and former sections 79z–5a and 79z–5b of Title 15, Commerce and Trade, and amending this section, sections 824, 824j, 824k, 825n, 825o, and 2621 of this title, and provisions formerly set out as a note under former [section 79k of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section79k&num=0&edition=prelim)] or in any amendment made by this title shall be construed as affecting or intending to affect, or in any way to interfere with, the authority of any State or local government relating to environmental protection or the siting of facilities.”
 
 #### Termination of Federal Power Commission; Transfer of Functions
-Federal Power Commission terminated and functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
+The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by [section 1302 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1302&num=0&edition=prelim), Transportation, and section 101 of Pub. L. 104–88, set out as a note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim). References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim).
@@ -382,7 +383,8 @@ Provisions repealing so much of this chapter “as authorizes licensing such use
 
 Section was not enacted as part of the Federal Power Act which generally comprises this chapter.
 
-Section 212 of act Aug. 26, 1935, ch. 687, title II, 49 Stat. 847, provided that nothing in this chapter, as amended should be construed to repeal or amend the provisions of the act approved Mar. 3, 1921 (41 Stat. 1353) [[16 U.S.C. 797a](./chapter-012-federal-regulation-and-development-of-power.md#section-797a)] or the provisions of any other Act relating to national parks and national monuments.
+#### Construction
+Act Aug. 26, 1935, ch. 687, title II, § 212, 49 Stat. 847, provided that nothing in this chapter should be construed to repeal or amend the provisions of the act approved Mar. 3, 1921 (41 Stat. 1353) [[16 U.S.C. 797a](./chapter-012-federal-regulation-and-development-of-power.md#section-797a)] or the provisions of any other Act relating to national parks and national monuments. See note preceding [section 791 of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791).
 
 
 <a id="section-797b"></a>
@@ -860,14 +862,15 @@ Department of War designated Department of the Army and title of Secretary of Wa
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
-Reference to Secretary of Commerce inserted in view of: creation of National Oceanic and Atmospheric Administration in Department of Commerce and Office of Administrator of such Administration; abolition of Bureau of Commercial Fisheries in Department of the Interior and Office of Director of such Bureau; transfers of functions, including functions formerly vested by law in Secretary of the Interior or Department of the Interior which were administered through Bureau of Commercial Fisheries or were primarily related to such Bureau, exclusive of certain enumerated functions with respect to Great Lakes fishery research, Missouri River Reservoir research, Gulf Breeze Biological Laboratory, and Trans-Alaska pipeline investigations; and transfer of marine sport fish program of Bureau of Sport Fisheries and Wildlife by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, Government Organization and Employees.
-
 Coast Guard transferred to Department of Transportation and all functions, powers, and duties, relating to Coast Guard, of Secretary of the Treasury and of other offices and officers of Department of the Treasury transferred to Secretary of Transportation by section 6(b)(1) of Pub. L. 89–670, Oct. 15, 1966, 80 Stat. 938. See [Section 108 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section108&num=0&edition=prelim), Transportation.
-
-Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, transferred Bureau of Fisheries in Department of Commerce and its functions to Department of the Interior, to be administered under direction and supervision of Secretary of the Interior.
 
 #### Clarification of Authority Regarding Fishways
 Pub. L. 102–486, title XVII, § 1701(b), Oct. 24, 1992, 106 Stat. 3008, provided that: “The definition of the term ‘fishway’ contained in 18 C.F.R. 4.30(b)(9)(iii), as in effect on the date of enactment of this Act [Oct. 24, 1992], is vacated without prejudice to any definition or interpretation by rule of the term ‘fishway’ by the Federal Energy Regulatory Commission for purposes of implementing section 18 of the Federal Power Act [[16 U.S.C. 811](./chapter-012-federal-regulation-and-development-of-power.md#section-811)]: Provided, That any future definition promulgated by regulatory rulemaking shall have no force or effect unless concurred in by the Secretary of the Interior and the Secretary of Commerce: Provided further, That the items which may constitute a ‘fishway’ under section 18 for the safe and timely upstream and downstream passage of fish shall be limited to physical structures, facilities, or devices necessary to maintain all life stages of such fish, and project operations and measures related to such structures, facilities, or devices which are necessary to ensure the effectiveness of such structures, facilities, or devices for such fish.”
+
+#### Transfer of Functions
+Reference to Secretary of Commerce inserted in view of: creation of National Oceanic and Atmospheric Administration in Department of Commerce and Office of Administrator of such Administration; abolition of Bureau of Commercial Fisheries in Department of the Interior and Office of Director of such Bureau; transfers of functions, including functions formerly vested by law in Secretary of the Interior or Department of the Interior which were administered through Bureau of Commercial Fisheries or were primarily related to such Bureau, exclusive of certain enumerated functions with respect to Great Lakes fishery research, Missouri River Reservoir research, Gulf Breeze Biological Laboratory, and Trans-Alaska pipeline investigations; and transfer of marine sport fish program of Bureau of Sport Fisheries and Wildlife by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, Government Organization and Employees.
+
+Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, transferred Bureau of Fisheries in Department of Commerce and its functions to Department of the Interior, to be administered under direction and supervision of Secretary of the Interior.
 
 
 <a id="section-812"></a>
@@ -2713,11 +2716,15 @@ The Secretary may, in consultation with appropriate Federal agencies and appropr
 ## § 824p. Siting of interstate electric transmission facilities
 **(a) Designation of national interest electric transmission corridors**
 
-(1) Not later than 1 year after August 8, 2005, and every 3 years thereafter, the Secretary of Energy (referred to in this section as the “Secretary”), in consultation with affected States, shall conduct a study of electric transmission congestion.
+(1) Not later than 1 year after August 8, 2005, and every 3 years thereafter, the Secretary of Energy (referred to in this section as the “Secretary”), in consultation with affected States and Indian Tribes, shall conduct a study of electric transmission capacity constraints and congestion.
 
-(2) After considering alternatives and recommendations from interested parties (including an opportunity for comment from affected States), the Secretary shall issue a report, based on the study, which may designate any geographic area experiencing electric energy transmission capacity constraints or congestion that adversely affects consumers as a national interest electric transmission corridor.
+(2) Not less frequently than once every 3 years, the Secretary, after considering alternatives and recommendations from interested parties (including an opportunity for comment from affected States and Indian Tribes), shall issue a report, based on the study under paragraph (1) or other information relating to electric transmission capacity constraints and congestion, which may designate as a national interest electric transmission corridor any geographic area that—
 
-(3) The Secretary shall conduct the study and issue the report in consultation with any appropriate regional entity referred to in section 824o of this title.
+  (i) 11 So in original. Probably should be “(A)”. is experiencing electric energy transmission capacity constraints or congestion that adversely affects consumers; or
+
+  (ii) 22 So in original. Probably should be “(B)”. is expected to experience such energy transmission capacity constraints or congestion.
+
+(3) Not less frequently than once every 3 years, the Secretary, in conducting the study under paragraph (1) and issuing the report under paragraph (2), shall consult with any appropriate regional entity referred to in section 824o of this title.
 
 (4) In determining whether to designate a national interest electric transmission corridor under paragraph (2), the Secretary may consider whether—
 
@@ -2729,11 +2736,21 @@ The Secretary may, in consultation with appropriate Federal agencies and appropr
 
     (ii) a diversification of supply is warranted;
 
-  (C) the energy independence of the United States would be served by the designation;
+  (C) the energy independence or energy security of the United States would be served by the designation;
 
-  (D) the designation would be in the interest of national energy policy; and
+  (D) the designation would be in the interest of national energy policy;
 
-  (E) the designation would enhance national defense and homeland security.
+  (E) the designation would enhance national defense and homeland security;
+
+  (F) the designation would enhance the ability of facilities that generate or transmit firm or intermittent energy to connect to the electric grid;
+
+  (G) the designation—
+
+    (i) maximizes existing rights-of-way; and
+
+    (ii) avoids and minimizes, to the maximum extent practicable, and offsets to the extent appropriate and practicable, sensitive environmental areas and cultural heritage sites; and
+
+  (H) the designation would result in a reduction in the cost to purchase electric energy for consumers.
 
 **(b) Construction permit** Except as provided in subsection (i), the Commission may, after notice and an opportunity for hearing, issue one or more permits for the construction or modification of electric transmission facilities in a national interest electric transmission corridor designated by the Secretary under subsection (a) if the Commission finds that—
 
@@ -2743,15 +2760,21 @@ The Secretary may, in consultation with appropriate Federal agencies and appropr
 
     (i) approve the siting of the facilities; or
 
-    (ii) consider the interstate benefits expected to be achieved by the proposed construction or modification of transmission facilities in the State;
+    (ii) consider the interstate benefits or interregional benefits expected to be achieved by the proposed construction or modification of transmission facilities in the State;
 
   (B) the applicant for a permit is a transmitting utility under this chapter but does not qualify to apply for a permit or siting approval for the proposed project in a State because the applicant does not serve end-use customers in the State; or
 
-  (C) a State commission or other entity that has authority to approve the siting of the facilities has—
+  (C) a State commission or other entity that has authority to approve the siting of the facilities—
 
-    (i) withheld approval for more than 1 year after the filing of an application seeking approval pursuant to applicable law or 1 year after the designation of the relevant national interest electric transmission corridor, whichever is later; or
+    (i) has not made a determination on an application seeking approval pursuant to applicable law by the date that is 1 year after the later of—
 
-    (ii) conditioned its approval in such a manner that the proposed construction or modification will not significantly reduce transmission congestion in interstate commerce or is not economically feasible;
+      (I) the date on which the application was filed; and
+
+      (II) the date on which the relevant national interest electric transmission corridor was designated by the Secretary under subsection (a);
+
+    (ii) has conditioned its approval in such a manner that the proposed construction or modification will not significantly reduce transmission capacity constraints or congestion in interstate commerce or is not economically feasible; or
+
+    (iii) has denied an application seeking approval pursuant to applicable law;
 
 (2) the facilities to be authorized by the permit will be used for the transmission of electric energy in interstate commerce;
 
@@ -2779,7 +2802,7 @@ The Secretary may, in consultation with appropriate Federal agencies and appropr
 
 **(e) Rights-of-way**
 
-(1) In the case of a permit under subsection (b) for electric transmission facilities to be located on property other than property owned by the United States or a State, if the permit holder cannot acquire by contract, or is unable to agree with the owner of the property to the compensation to be paid for, the necessary right-of-way to construct or modify the transmission facilities, the permit holder may acquire the right-of-way by the exercise of the right of eminent domain in the district court of the United States for the district in which the property concerned is located, or in the appropriate court of the State in which the property is located.
+(1) In the case of a permit under subsection (b) for electric transmission facilities to be located on property other than property owned by the United States or a State, if the permit holder cannot acquire by contract, or is unable to agree with the owner of the property to the compensation to be paid for, the necessary right-of-way to construct or modify, and operate and maintain, the transmission facilities and, in the determination of the Commission, the permit holder has made good faith efforts to engage with landowners and other stakeholders early in the applicable permitting process, the permit holder may acquire the right-of-way by the exercise of the right of eminent domain in the district court of the United States for the district in which the property concerned is located, or in the appropriate court of the State in which the property is located.
 
 (2) Any right-of-way acquired under paragraph (1) shall be used exclusively for the construction or modification of electric transmission facilities within a reasonable period of time after the acquisition.
 
@@ -2827,7 +2850,7 @@ The Secretary may, in consultation with appropriate Federal agencies and appropr
 
   (A) As lead agency head, the Secretary, in consultation with the affected agencies, shall prepare a single environmental review document, which shall be used as the basis for all decisions on the proposed project under Federal law.
 
-  (B) The Secretary and the heads of other agencies shall streamline the review and permitting of transmission within corridors designated under section 503 of the Federal Land Policy and Management Act 11 So in original. Probably should be followed by “of 1976”. ([43 U.S.C. 1763](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1763&num=0&edition=prelim)) by fully taking into account prior analyses and decisions relating to the corridors.
+  (B) The Secretary and the heads of other agencies shall streamline the review and permitting of transmission within corridors designated under section 503 of the Federal Land Policy and Management Act 33 So in original. Probably should be followed by “of 1976”. ([43 U.S.C. 1763](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1763&num=0&edition=prelim)) by fully taking into account prior analyses and decisions relating to the corridors.
 
   (C) The document shall include consideration by the relevant agencies of any applicable criteria or other matters as required under applicable law.
 
@@ -2893,11 +2916,15 @@ The Secretary may, in consultation with appropriate Federal agencies and appropr
 
   (B) carry out the electric energy transmission siting responsibilities of those States.
 
-(2) The Secretary may provide technical assistance to regional transmission siting agencies established under this subsection.
+(2) The Secretary shall provide technical assistance to regional transmission siting agencies established under this subsection.
 
 (3) The regional transmission siting agencies shall have the authority to review, certify, and permit siting of transmission facilities, including facilities in national interest electric transmission corridors (other than facilities on property owned by the United States).
 
-(4) The Commission shall have no authority to issue a permit for the construction or modification of an electric transmission facility within a State that is a party to a compact, unless the members of the compact are in disagreement and the Secretary makes, after notice and an opportunity for a hearing, the finding described in subsection (b)(1)(C).
+(4) The Commission shall have no authority to issue a permit for the construction or modification of an electric transmission facility within a State that is a party to a compact, unless the Secretary determines that the members of the compact are in disagreement after the later of—
+
+  (A) the date that is 1 year after the date on which the relevant application for the facility was filed; and
+
+  (B) the date that is 1 year after the date on which the relevant national interest electric transmission corridor was designated by the Secretary under subsection (a).
 
 **(j) Relationship to other laws**
 
@@ -2919,6 +2946,27 @@ The Federal Water Pollution Control Act, referred to in subsec. (h)(6)(D)(iii), 
 The National Environmental Policy Act of 1969, referred to in subsecs. (h)(6)(D)(iv) and (j), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 The Federal Land Policy and Management Act of 1976, referred to in subsec. (h)(6)(D)(v), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
+
+#### Amendments
+2021—Subsec. (a)(1). Pub. L. 117–58, § 40105(a)(1), inserted “and Indian Tribes” after “affected States” and “capacity constraints and” before “congestion”.
+
+Subsec. (a)(2). Pub. L. 117–58, § 40105(a)(2), substituted “Not less frequently than once every 3 years, the Secretary, after” for “After”, and “affected States and Indian Tribes), shall issue a report, based on the study under paragraph (1) or other information relating to electric transmission capacity constraints and congestion, which may designate as a national interest electric transmission corridor any geographic area that—” for “affected States), the Secretary shall issue a report, based on the study, which may designate any geographic area experiencing electric energy transmission capacity constraints or congestion that adversely affects consumers as a national interest electric transmission corridor.” and added (i) and (ii).
+
+Subsec. (a)(3). Pub. L. 117–58, § 40105(a)(3), substituted “Not less frequently than once every 3 years, the Secretary, in conducting the study under paragraph (1) and issuing the report under paragraph (2), shall consult” for “The Secretary shall conduct the study and issue the report in consultation”.
+
+Subsec. (a)(4)(C). Pub. L. 117–58, § 40105(a)(4)(A), inserted “or energy security” after “independence”.
+
+Subsec. (a)(4)(F) to (H). Pub. L. 117–58, § 40105(a)(4)(B)–(D), added subpars. (F) to (H).
+
+Subsec. (b)(1)(A)(ii). Pub. L. 117–58, § 40105(b)(1)(A), inserted “or interregional benefits” after “interstate benefits”.
+
+Subsec. (b)(1)(C). Pub. L. 117–58, § 40105(b)(1)(B), added subpar. (C) and struck out former subpar. (C), which related to State commission or other authority withholding approval of construction or giving conditional approval that will not result in significant reduction of transmission congestion in interstate commerce or is not economically feasible.
+
+Subsec. (e)(1). Pub. L. 117–58, § 40105(c), substituted “modify, and operate and maintain, the transmission facilities and, in the determination of the Commission, the permit holder has made good faith efforts to engage with landowners and other stakeholders early in the applicable permitting process, the” for “modify the transmission facilities, the”.
+
+Subsec. (i)(2). Pub. L. 117–58, § 40105(d)(1), substituted “shall provide” for “may provide”.
+
+Subsec. (i)(4). Pub. L. 117–58, § 40105(d)(2), substituted “the Secretary determines that the members of the compact are in disagreement after the later of—” and subpars. (A) and (B) for “the members of the compact are in disagreement and the Secretary makes, after notice and an opportunity for a hearing, the finding described in subsection (b)(1)(C).”
 
 
 <a id="section-824q"></a>
@@ -3021,6 +3069,53 @@ Pub. L. 109–58, title XII, § 1233(b), Aug. 8, 2005, 119 Stat. 960, provided t
 **(c) Incentives** In the rule issued under this section, the Commission shall, to the extent within its jurisdiction, provide for incentives to each transmitting utility or electric utility that joins a Transmission Organization. The Commission shall ensure that any costs recoverable pursuant to this subsection may be recovered by such utility through the transmission rates charged by such utility or through the transmission rates charged by the Transmission Organization that provides transmission service to such utility.
 
 **(d) Just and reasonable rates** All rates approved under the rules adopted pursuant to this section, including any revisions to the rules, are subject to the requirements of sections 824d and 824e of this title that all rates, charges, terms, and conditions be just and reasonable and not unduly discriminatory or preferential.
+
+
+<a id="section-824s-1"></a>
+## § 824s–1. Incentives for cybersecurity investments
+**(a) Definitions** In this section:
+
+(1) **Advanced cybersecurity technology** — The term “advanced cybersecurity technology” means any technology, operational capability, or service, including computer hardware, software, or a related asset, that enhances the security posture of public utilities through improvements in the ability to protect against, detect, respond to, or recover from a cybersecurity threat (as defined in [section 1501 of title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section1501&num=0&edition=prelim)).
+
+(2) **Advanced cybersecurity technology information** — The term “advanced cybersecurity technology information” means information relating to advanced cybersecurity technology or proposed advanced cybersecurity technology that is generated by or provided to the Commission or another Federal agency.
+
+**(b) Study** Not later than 180 days after November 15, 2021, the Commission, in consultation with the Secretary of Energy, the North American Electric Reliability Corporation, the Electricity Subsector Coordinating Council, and the National Association of Regulatory Utility Commissioners, shall conduct a study to identify incentive-based, including performance-based, rate treatments for the transmission and sale of electric energy subject to the jurisdiction of the Commission that could be used to encourage—
+
+(1) investment by public utilities in advanced cybersecurity technology; and
+
+(2) participation by public utilities in cybersecurity threat information sharing programs.
+
+**(c) Incentive-based rate treatment** Not later than 1 year after the completion of the study under subsection (b), the Commission shall establish, by rule, incentive-based, including performance-based, rate treatments for the transmission of electric energy in interstate commerce and the sale of electric energy at wholesale in interstate commerce by public utilities for the purpose of benefitting consumers by encouraging—
+
+(1) investments by public utilities in advanced cybersecurity technology; and
+
+(2) participation by public utilities in cybersecurity threat information sharing programs.
+
+**(d) Factors for consideration** In issuing a rule pursuant to this section, the Commission may provide additional incentives beyond those identified in subsection (c) in any case in which the Commission determines that an investment in advanced cybersecurity technology or information sharing program costs will reduce cybersecurity risks to—
+
+(1) defense critical electric infrastructure (as defined in section 824o–1(a) of this title) and other facilities subject to the jurisdiction of the Commission that are critical to public safety, national defense, or homeland security, as determined by the Commission in consultation with—
+
+  (A) the Secretary of Energy;
+
+  (B) the Secretary of Homeland Security; and
+
+  (C) other appropriate Federal agencies; and
+
+(2) facilities of small or medium-sized public utilities with limited cybersecurity resources, as determined by the Commission.
+
+**(e) Ratepayer protection**
+
+(1) **In general** — Any rate approved under a rule issued pursuant to this section, including any revisions to that rule, shall be subject to the requirements of sections 824d and 824e of this title that all rates, charges, terms, and conditions—
+
+  (A) shall be just and reasonable; and
+
+  (B) shall not be unduly discriminatory or preferential.
+
+(2) **Prohibition of duplicate recovery** — Any rule issued pursuant to this section shall preclude rate treatments that allow unjust and unreasonable double recovery for advanced cybersecurity technology.
+
+**(f) Single-issue rate filings** The Commission shall permit public utilities to apply for incentive-based rate treatment under a rule issued under this section on a single-issue basis by submitting to the Commission a tariff schedule under [section 824d of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-824d) that permits recovery of costs and incentives over the depreciable life of the applicable assets, without regard to changes in receipts or other costs of the public utility.
+
+**(g) Protection of information** Advanced cybersecurity technology information that is provided to, generated by, or collected by the Federal Government under subsection (b), (c), or (f) shall be considered to be critical electric infrastructure information under section 824o–1 of this title.
 
 
 <a id="section-824t"></a>
@@ -3428,9 +3523,9 @@ Repeal effective 6 months after Aug. 8, 2005, with provisions relating to effect
 
 (2)
 
-  (A) The Office shall be administered by a Director. The Director shall be appointed by the Chairman with the approval of the Commission. The Director may be removed during his term of office by the Chairman, with the approval of the Commission, only for inefficiency, neglect of duty, or malfeasance in office.
+  (A) The Office shall be administered by a Director. The Director shall be appointed by the Chairman with the approval of the Commission.
 
-  (B) The term of office of the Director shall be 4 years. The Director shall be responsible for the discharge of the functions and duties of the Office. He shall be appointed and compensated at a rate not in excess of the maximum rate prescribed for GS–18 of the General Schedule under [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim).
+  (B) The Director shall be responsible for the discharge of the functions and duties of the Office. The Director shall be compensated at a rate of pay not greater than the maximum rate of pay prescribed for a senior executive in the Senior Executive Service under [section 5382 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5382&num=0&edition=prelim).
 
 (3) The Director may appoint, and assign the duties of, employees of such Office, and with the concurrence of the Commission he may fix the compensation of such employees and procure temporary and intermittent services to the same extent as is authorized under [section 3109 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109&num=0&edition=prelim).
 
@@ -3446,9 +3541,14 @@ Repeal effective 6 months after Aug. 8, 2005, with provisions relating to effect
 
 (3) Nothing in this subsection affects or restricts any rights of any intervenor or participant under any other applicable law or rule of law.
 
-(4) There are authorized to be appropriated to the Secretary of Energy to be used by the Office for purposes of compensation of persons under the provisions of this subsection not to exceed $500,000 for the fiscal year 1978, not to exceed $2,000,000 for the fiscal year 1979, not to exceed $2,200,000 for the fiscal year 1980, and not to exceed $2,400,000 for the fiscal year 1981.
-
 ### Statutory Notes
+
+#### Amendments
+2021—Subsec. (a)(2)(A). Pub. L. 117–58, § 40432(1)(A), struck out third sentence, which read as follows: “The Director may be removed during his term of office by the Chairman, with the approval of the Commission, only for inefficiency, neglect of duty, or malfeasance in office.”
+
+Subsec. (a)(2)(B). Pub. L. 117–58, § 40432(1)(B), struck out first sentence, which provided for a 4-year term for the Director, and substituted “The Director shall be compensated at a rate of pay not greater than the maximum rate of pay prescribed for a senior executive in the Senior Executive Service under [section 5382 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5382&num=0&edition=prelim).” for “He shall be appointed and compensated at a rate not in excess of the maximum rate prescribed for GS–18 of the General Schedule under [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim).”
+
+Subsec. (b)(4). Pub. L. 117–58, § 40432(2), struck out par. (4), which read as follows: “There are authorized to be appropriated to the Secretary of Energy to be used by the Office for purposes of compensation of persons under the provisions of this subsection not to exceed $500,000 for the fiscal year 1978, not to exceed $2,000,000 for the fiscal year 1979, not to exceed $2,200,000 for the fiscal year 1980, and not to exceed $2,400,000 for the fiscal year 1981.”
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under [section 5376 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).
@@ -3478,12 +3578,13 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 Functions of Secretary of the Interior under this section transferred to Secretary of Energy by [section 7152(a)(1) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7152/a/1&num=0&edition=prelim).
 
-Federal Power Commission terminated and its functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
-
-Executive and administrative functions of Federal Power Commission, with certain reservations, transferred to Chairman of such Commission, with authority vested in him to authorize their performance by any officer, employee, or administrative unit under his jurisdiction, by Reorg. Plan No. 9 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out as a note under [section 792 of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-792).
+The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
 
 #### Section as Unaffected by Submerged Lands Act
 Provisions of this section as not amended, modified or repealed by the Submerged Lands Act [[43 U.S.C. 1301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim) et seq.], see [section 1303 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1303&num=0&edition=prelim), Public Lands.
+
+#### Transfer of Functions
+Executive and administrative functions of Federal Power Commission, with certain reservations, transferred to Chairman of such Commission, with authority vested in him to authorize their performance by any officer, employee, or administrative unit under his jurisdiction, by Reorg. Plan No. 9 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out as a note under [section 792 of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-792).
 
 
 <a id="section-825s-1"></a>
@@ -3618,6 +3719,7 @@ This section was not enacted as part of the Federal Power Act which generally co
 #### Transfer of Functions
 Functions of Federal Works Agency and of all agencies thereof, together with functions of Federal Works Administrator, transferred to Administrator of General Services by section 103(a) of act June 30, 1949. Both Federal Works Agency and office of Federal Works Administrator abolished by section 103(b) of said act. See Historical and Revision Notes under [section 303(b) of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section303/b&num=0&edition=prelim), Public Buildings, Property, and Works. Transfer of functions of Federal Works Agency effective July 1, 1949, see section 605, formerly § 505, of act June 30, 1949, ch. 288, 63 Stat. 403; renumbered by act Sept. 5, 1950, ch. 849, § 6(a), (b), 64 Stat. 583. [Section 303(b) of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section303/b&num=0&edition=prelim) was amended generally by Pub. L. 109–313, § 2(a)(1), Oct. 6, 2006, 120 Stat. 1734, and, as so amended, no longer relates to the Federal Works Agency and Commissioner of Public Buildings. See 2006 Amendment note under [section 303 of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section303&num=0&edition=prelim).
 
+#### Transfer of Functions
 Functions of Public Works Administration transferred to Federal Works Administrator by Ex. Ord. No. 9357, June 30, 1943, 8 F.R. 9041.
 
 
@@ -3665,7 +3767,7 @@ Section was not enacted as part of the Federal Power Act which generally compris
 #### Transfer of Functions
 “Secretary of Energy” and “Secretary” substituted in text for “Federal Power Commission” and “Commission”, respectively, pursuant to Pub. L. 95–91, § 301(b), which is classified to [section 7151(b) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7151/b&num=0&edition=prelim), The Public Health and Welfare.
 
-Federal Power Commission terminated and its functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
+The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
 
 
 <a id="section-828c"></a>

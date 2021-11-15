@@ -33,7 +33,7 @@ Minor changes were made in phraseology and translations.
 Act Sept. 3, 1954, ch. 1261, § 1, 68 Stat. 1216, provided that: “This Act [amending this section and sections 794 and 2153 to 2156 of this title] may be cited as the ‘Espionage and Sabotage Act of 1954’.”
 
 #### Repeals
-Section 7 of act June 30, 1953, ch. 175, 67 Stat. 134, repealed Joint Res. July 3, 1952, ch. 570, § 1(a)(29), 66 Stat. 333; Joint Res. Mar. 31, 1953, ch. 13, § 1, 67 Stat. 18, formerly cited as credits to this section and also formerly set out as a note under this section.
+Act June 30, 1953, ch. 175, § 7, 67 Stat. 134, repealed Joint Res. July 3, 1952, ch. 570, § 1(a)(29), 66 Stat. 333; Joint Res. Mar. 31, 1953, ch. 13, § 1, 67 Stat. 18, formerly cited as credits to this section and also formerly set out as a note under this section.
 
 
 <a id="section-2152"></a>

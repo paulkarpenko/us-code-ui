@@ -7,152 +7,234 @@ source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33&num=0&edition=prelim
 ---
 <a id="section-151"></a>
-## § 151. Repealed. Pub. L. 98–89, § 4(b), Aug. 26, 1983, 97 Stat. 599
+## § 151. High seas and inland waters demarcation lines
+**(a) Establishment and purpose** The Secretary of the department in which the Coast Guard is operating shall establish appropriate identifiable demarcation lines dividing the high seas from harbors, rivers, and other inland waters of the United States, for the purpose of determining the applicability of special navigational rules in lieu of the International Regulations for Preventing Collisions at Sea.
+
+**(b) Applicability of other statutes; limitation; position** The Secretary shall also establish appropriate identifiable lines dividing inland waters of the United States from the high seas for the purpose of determining the applicability of each statute that refers to this section or this section, as amended. These lines may not be located more than twelve nautical miles seaward of the base line from which the territorial sea is measured. These lines may differ in position for the purposes of different statutes.
+
+**(c) “United States” defined** For the purposes of this section, the term “United States” includes the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the United States Virgin Islands, the Commonwealth of the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and any other Commonwealth, territory, or possession of the United States.
 
 ### Statutory Notes
 
-Section 361, act June 20, 1874, ch. 344, § 10, 18 Stat. 128; 1946 Reorg. Plan. No. 3, §§ 101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097, required filing of reports to Coast Guard on accidents involving United States vessels and provided penalty for failure to comply. See sections 6101, 6103 of Title 46, Shipping.
+#### References in Text
+The International Regulations for Preventing Collisions at Sea, referred to in subsec. (a), came into effect pursuant to the Convention on the International Regulations for Preventing Collisions at Sea, 1972. See International Regulations for Preventing Collisions at Sea, 1972 note under [section 1602 of this title](./chapter-030-international-regulations-for-preventing-collisions-at-sea.md#section-1602).
 
-Section 362, act June 20, 1874, ch. 344, § 11, 18 Stat. 128; 1946 Reorg. Plan No. 3, §§ 101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097, required reporting of probable loss of vessels and provided penalty for failure to comply. See sections 6101, 6103 of Title 46.
+#### Codification
+Section was not enacted as part of act June 7, 1897, ch. 4, 30 Stat. 96, which comprises a major part of this chapter.
 
-Section 363, acts June 20, 1874, ch. 344, § 12, 18 Stat. 128; Feb. 14, 1903, ch. 552, § 10, 32 Stat. 829; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736; 1946 Reorg. Plan No. 3, §§ 101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097, related to transmission of reports by Coast Guard officials to Commandant of Coast Guard.
+#### Amendments
+1980—Subsec. (a). Pub. L. 96–324 designated existing provisions as subsec. (a), substituted provision authorizing the Secretary of the Department in which the Coast Guard is operating to establish demarcation lines for provision authorizing the Secretary of the Treasury to establish demarcation lines, and inserted provision specifying the purpose of establishing demarcation lines as determining the applicability of special navigational rules in lieu of the International Regulations for Preventing Collisions at Sea.
 
-Section 364, acts June 20, 1874, ch. 344, § 13, 18 Stat. 128; Mar. 3, 1897, ch. 389, § 11, 29 Stat. 689; Feb. 14, 1903, ch. 552, § 10, 32 Stat. 829; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736; 1946 Reorg. Plan No. 3, §§ 101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097, related to remission and recovery of penalties. See [section 2107 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section2107&num=0&edition=prelim).
+Subsec. (b). Pub. L. 96–324 added subsec. (b).
 
-Section 365, act Mar. 4, 1915, ch. 153, § 15, 38 Stat. 1184; 1946 Reorg. Plan No. 3, §§ 101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097, related to reports by owners of barges in tow. See [section 6101 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section6101&num=0&edition=prelim).
+Subsec. (c). Pub. L. 96–591 and Pub. L. 96–376 made identical amendments by striking out reference to the Canal Zone.
 
-Section 366, act Mar. 4, 1915, ch. 153, § 15, 38 Stat. 1184; 1946 Reorg. Plan No. 3, §§ 101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097, required Commandant of Coast Guard to transmit annually to Congress a summary of reports transmitted to him by Coast Guard officials as required under sections 361 to 365 of this title. See [section 6307 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section6307&num=0&edition=prelim).
+Pub. L. 96–324 added subsec. (c).
 
-Section 367, act Sept. 4, 1890, ch. 875, § 1, 26 Stat. 425, related to duty of master of a vessel in collision to give aid, and to give name of his vessel together with other information about his vessel. See sections 2303, 2304 of Title 46.
+#### Transfer of Functions
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
-Section 368, act Sept. 4, 1890, ch. 875, § 2, 26 Stat. 425, set out penalties for failure to give aid as required by [section 367 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section367&num=0&edition=prelim). See sections 2303, 2304 of Title 46.
+#### Termination of Trust Territory of the Pacific Islands
+For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
 
-Act Sept. 4, 1890, ch. 875, § 3, 26 Stat. 425, which provided that sections 367 and 368 of this title were to take effect at a time to be fixed by President by proclamation (effective Dec. 15, 1890, by Presidential Proclamation of Nov. 18, 1890, 26 Stat. 1561), was repealed by Pub. L. 98–89, § 4(b), 97 Stat. 599.
+#### Territorial Sea of United States
+For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim), Public Lands.
 
 
 <a id="section-152"></a>
-## § 152. Use of public vessels to suppress piracy
+## § 152. Regulation of length of towlines
 
-The President is authorized to employ so many of the public armed vessels as in his judgment the service may require, with suitable instructions to the commanders thereof, in protecting the merchant vessels of the United States and their crews from piratical aggressions and depredations.
+The Commandant of the Coast Guard shall prepare regulations limiting the length of hawsers between towing vessels and seagoing barges in tow and the length of such tows within any of the inland waters of the United States designated and defined from time to time pursuant to [section 151 of this title](./chapter-003-navigation-rules-for-harbors-rivers-and-inland-waters-generally.md#section-151), and such regulations shall have the force of law.
 
 ### Statutory Notes
 
 #### Codification
-R.S. § 4293 derived from acts Mar. 3, 1819, ch. 77, § 1, 3 Stat. 510; Jan. 30, 1823, ch. 7, 3 Stat. 721.
+Section was not enacted as part of act June 7, 1897, ch. 4, 30 Stat. 96, which comprises a major part of this chapter.
+
+#### Transfer of Functions
+“Commandant of the Coast Guard” substituted in text for provision that the Chairman of the Light House Board, the Supervising Inspector General of the Steamboat Inspection Service and the Commissioner of Navigation shall convene as a board to prepare regulations, and for approval of the regulations by the Secretary of Commerce and Labor.
+
+Secretary of Commerce and Labor designated Secretary of Commerce by act Mar. 4, 1913, which created Department of Labor.
+
+Sections 4 and 6 of act June 17, 1910, established in Department of Commerce and Labor a Bureau of Lighthouses with a Commissioner of Lighthouses as its head, and transferred duties of Light House Board to such Commissioner. Said sections 4 and 6 were repealed by section 20 of act Aug. 4, 1949, section 1 of which reestablished Coast Guard by enacting Title 14, Coast Guard. Section 2(a) of Reorg. Plan No. II, of 1939, set out in the Appendix to Title 5, Government Organization and Employees, consolidated Bureau of Lighthouses with Coast Guard, the Chief of which is Commandant of the Coast Guard.
+
+Supervising Inspector General of the Steamboat Inspection Service and Commissioner of Navigation of Bureau of Navigation were affected by Secretary’s authority to retain or dismiss officers and employees upon consolidation of bureaus under section 502(b) of act June 30, 1932.
+
+Steamboat Inspection Service and Bureau of Navigation consolidated into Bureau of Navigation and Steamboat Inspection to be under direction of a chief of bureau by section 501 of act June 30, 1932.
+
+Director of the Bureau of Navigation and Steamboat Inspection was designation given to chief of such Bureau by Secretary of Commerce under section 502(b) of act June 30, 1932.
+
+Bureau of Marine Inspection and Navigation was designation given to Bureau of Navigation and Steamboat Inspection by act May 27, 1936.
+
+Functions of Secretary of Commerce and Director of Bureau of Marine Inspection and Navigation under this section transferred to Commandant of the Coast Guard by Reorg. Plan No. 3, of 1946, §§ 101 to 104, set out in the Appendix to Title 5.
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+
+Coast Guard transferred to Department of Transportation, and functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in former section 3 (now 103) of Title 14, Coast Guard. See [section 108 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section108&num=0&edition=prelim), Transportation.
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury with power to delegate, see Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5. Functions of Coast Guard, and Commandant of the Coast Guard, excepted from transfer when Coast Guard is operating as part of Navy under former sections 1 and 3 (now 101 and 103) of Title 14, Coast Guard.
 
 
 <a id="section-153"></a>
-## § 153. Seizure of piratical vessels generally
+## § 153. Penalty for use of unlawful towline
 
-The President is authorized to instruct the commanders of the public armed vessels of the United States to subdue, seize, take, and send into any port of the United States, any armed vessel or boat, or any vessel or boat, the crew whereof shall be armed, and which shall have attempted or committed any piratical aggression, search, restraint, depredation, or seizure, upon any vessel of the United States, or of the citizens thereof, or upon any other vessel; and also to retake any vessel of the United States, or its citizens, which may have been unlawfully captured upon the high seas.
+The master of the towing vessel shall be liable to the suspension or revocation of his license for any willful violation of regulations issued pursuant to [section 152 of this title](./chapter-003-navigation-rules-for-harbors-rivers-and-inland-waters-generally.md#section-152) in the manner prescribed for incompetency, misconduct, or unskillfulness.
 
 ### Statutory Notes
 
 #### Codification
-R.S. § 4294 derived from acts Mar. 3, 1819, ch. 77, § 2, 3 Stat. 512; Jan. 30, 1823, ch. 7, 3 Stat. 721.
+Section was not enacted as part of act June 7, 1897, ch. 4, 30 Stat. 96, which comprises a major part of this chapter.
 
 
 <a id="section-154"></a>
-## § 154. Resistance of pirates by merchant vessels
-
-The commander and crew of any merchant vessel of the United States, owned wholly, or in part, by a citizen thereof, may oppose and defend against any aggression, search, restraint, depredation, or seizure, which shall be attempted upon such vessel, or upon any other vessel so owned, by the commander or crew of any armed vessel whatsoever, not being a public armed vessel of some nation in amity with the United States, and may subdue and capture the same; and may also retake any vessel so owned which may have been captured by the commander or crew of any such armed vessel, and send the same into any port of the United States.
+## § 154. Repealed. Pub. L. 96–591, § 8(a), Dec. 24, 1980, 94 Stat. 3435
 
 ### Statutory Notes
 
+Section, acts June 7, 1897, ch. 4, § 1, 30 Stat. 96; May 21, 1948, ch. 328, § 1, 62 Stat. 249; Aug. 8, 1953, ch. 386, § 1, 67 Stat. 497, provided for adoption of rules of navigation of harbors, rivers, and inland waters.
+
 #### Codification
-R.S. § 4295 derived from acts Mar. 3, 1819, ch. 77, § 3, 3 Stat. 513; Jan. 30, 1823, ch. 7, 3 Stat. 721.
+Prior rules for preventing collision prescribed by R.S. § 4233 to be followed by vessels of the Navy and mercantile marine of the United States, applicable originally to all waters, were superseded as to navigation on the high seas and waters connected therewith by the International Rules (act Aug. 19, 1890, ch. 802 [sec. 61 et seq. of this title]) were superseded as to navigation on the Great Lakes and their connecting and tributary waters as far east as Montreal, by act Feb. 8, 1895, ch. 64 (section 241 et seq. of this title); were adopted as special rules for the navigation of harbors, rivers, and inland waters of the United States, except the Great Lakes and their connecting and tributary waters as far east as Montreal by act of Feb. 19, 1895, ch. 102 (see section 301 et seq. of this title); and were superseded by act June 7, 1897, ch. 4, as to navigation of all harbors, rivers, and inland waters of the United States except as specified in this paragraph, leaving them applicable solely to the Red River of the North and the rivers emptying into the Gulf of Mexico and their tributaries.
+
+#### Effective Date of Repeal
+Repeal effective Dec. 24, 1981, see section 7 of Pub. L. 96–591, set out as an Effective Date of 1980 Amendment note under [section 1604 of this title](./chapter-030-international-regulations-for-preventing-collisions-at-sea.md#section-1604).
 
 
 <a id="section-155-to-159"></a>
-## § 155 to 159. Condemnation of piratical vessels
-
-Whenever any vessel, which shall have been built, purchased, fitted out in whole or in part, or held for the purpose of being employed in the commission of any piratical aggression, search, restraint, depredation, or seizure, or in the commission of any other act of piracy as defined by the law of nations, or from which any piratical aggression, search, restraint, depredation, or seizure shall have been first attempted or made, is captured and brought into or captured in any port of the United States, the same shall be adjudged and condemned to their use, and that of the captors after due process and trial in any court having admiralty jurisdiction, and which shall be holden for the district into which such captured vessel shall be brought; and the same court shall thereupon order a sale and distribution thereof accordingly, and at its discretion.
+## § 155 to 159. Repealed. Pub. L. 96–591, § 8(a), Dec. 24, 1980, 94 Stat. 3435
 
 ### Statutory Notes
 
-#### Codification
-R.S. § 4296 derived from acts Mar. 3, 1819, ch. 77, § 4, 3 Stat. 513; Jan. 30, 1823, ch. 7, 3 Stat. 721; Aug. 5, 1861, ch. 48, § 1, 12 Stat. 314.
+Section 155, act June 7, 1897, ch. 4, § 1, 30 Stat. 96, defined “sailing vessel”, “steam vessel”, and “under way”.
+
+Section 156, act June 7, 1897, ch. 4, § 1, 30 Stat. 96, defined “visible”.
+
+Section 157, acts June 7, 1897, ch. 4, § 2, 30 Stat. 102; May 25, 1914, ch. 98, 38 Stat. 381; June 30, 1932, ch. 314, pt. II, title V, §§ 501, 502(b), 47 Stat. 415; May 27, 1936, ch. 463, § 1, 49 Stat. 1380; 1946 Reorg. Plan No. 3, §§ 101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat 1097; May 21, 1948, ch. 328, § 3, 62 Stat. 249; Aug. 14, 1958, Pub. L. 85–656, § 1, 72 Stat. 612, provided for promulgation of special rules by the Secretary of the department in which the Coast Guard is operating, and covered publication of rules and hearings in connection therewith. See [section 2071 of this title](./chapter-034-inland-navigational-rules.md#section-2071).
+
+Section 157a, Pub. L. 88–163, Oct. 30, 1963, 77 Stat. 281, provided for regulations for navigation or operation under bridges over navigable waters.
+
+Section 158, acts June 7, 1897, ch. 4, § 3, 30 Stat. 102; May 21, 1948, ch. 328, § 3, 62 Stat. 249; Aug. 14, 1958, Pub. L. 85–656, § 1, 72 Stat. 612, set out penalties for violations by pilots, engineers, mates, or masters. See [section 2072 of this title](./chapter-034-inland-navigational-rules.md#section-2072).
+
+Section 159, acts June 7, 1897, ch. 4, § 4, 30 Stat. 103; May 21, 1948, ch. 328, § 3, 62 Stat. 249; Aug. 14, 1958, Pub. L. 85–656, § 1, 72 Stat. 612, provided for a penalty for violations by vessels. See [section 2072 of this title](./chapter-034-inland-navigational-rules.md#section-2072).
+
+#### Effective Date of Repeal
+Repeal effective Dec. 24, 1981, see section 7 of Pub. L. 96–591, set out as an Effective Date of 1980 Amendment note under [section 1604 of this title](./chapter-030-international-regulations-for-preventing-collisions-at-sea.md#section-1604).
 
 
 <a id="section-171-to-183"></a>
-## § 171 to 183. Seizure and condemnation of vessels fitted out for piracy
-
-Any vessel built, purchased, fitted out in whole or in part, or held for the purpose of being employed in the commission of any piratical aggression, search, restraint, depredation, or seizure, or in the commission of any other act of piracy, as defined by the law of nations, shall be liable to be captured and brought into any port of the United States if found upon the high seas, or to be seized if found in any port or place within the United States, whether the same shall have actually sailed upon any piratical expedition or not, and whether any act of piracy shall have been committed or attempted upon or from such vessel or not; and any such vessel may be adjudged and condemned, if captured by a vessel authorized as mentioned in [section 386 of this title](./chapter-007-regulations-for-the-suppression-of-piracy.md#section-386) to the use of the United States, and to that of the captors, and if seized by a collector, surveyor, or marshal, then to the use of the United States.
+## § 171 to 183. Repealed. Pub. L. 96–591, § 8(a), Dec. 24, 1980, 94 Stat. 3435
 
 ### Statutory Notes
 
-#### References in Text
-Surveyor, referred to in text, is probably an obsolete office in view of act July 5, 1932, ch. 430, title I, § 1, 47 Stat. 584, which abolished the offices of surveyors of customs, except at the Port of New York. Ports of delivery, except those which were made ports of entry, were abolished and the use of the term “port of delivery” was discontinued under the President’s plan of reorganization of the customs service communicated to Congress by message dated Mar. 3, 1913.
+Section 171, act June 7, 1897, ch. 4, § 1, 30 Stat. 96, made general provision for the application of rules regarding lights.
 
-#### Codification
-R.S. § 4297 derived from act Aug. 5, 1861, ch. 48, § 1, 12 Stat. 314.
+Section 172, act June 7, 1897, ch. 4, § 1, 30 Stat. 96, related to lights of steam vessels underway.
 
-#### Transfer of Functions
-All offices of collector of customs, comptroller of customs, surveyor of customs, and appraiser of merchandise in Bureau of Customs of Department of the Treasury to which appointments were required to be made by President with advice and consent of Senate ordered abolished with such offices to be terminated not later than December 31, 1966, by Reorg. Plan No. 1 of 1965, eff. May 25, 1965, 30 F.R. 7035, 79 Stat. 1317, set out in the Appendix to Title 5, Government Organization and Employees. All functions of offices eliminated were already vested in Secretary of the Treasury by Reorg. Plan No. 26 of 1950, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5.
+Section 173, acts June 7, 1897, ch. 4, § 1, 30 Stat. 97; May 20, 1936, ch. 433, 49 Stat. 1367; May 21, 1948, ch. 328, § 2, 62 Stat. 249; Aug. 14, 1958, Pub. L. 85–635, § 1, 72 Stat. 590, related to lights of vessels towing or pushing another vessel.
+
+Section 174, acts June 7, 1897, ch. 4, § 1, 30 Stat. 97; Mar. 1, 1933, ch. 157, 47 Stat. 1417, related to lights of sailing vessels underway and vessels being towed.
+
+Section 175, act June 7, 1897, ch. 4, § 1, 30 Stat. 97, related to lights of small vessels underway in bad weather.
+
+Section 176, act June 7, 1897, ch. 4, § 1, 30 Stat. 98, related to lights of rowboats.
+
+Section 177, acts June 7, 1897, ch. 4, § 1, 30 Stat. 98; Feb. 19, 1900, ch. 22, § 1, 31 Stat. 30, related to lights of pilot vessels on and off duty.
+
+Section 178, act June 7, 1897, ch. 4, § 1, 30 Stat. 98; 1946 Reorg. Plan No. 3, §§ 101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097, related to lights of fishing vessels.
+
+Section 179, acts June 7, 1897, ch. 4, § 1, 30 Stat. 98; Aug. 14, 1958, Pub. L. 85–635, § 2, 72 Stat. 590, related to lights of overtaken vessels.
+
+Section 180, acts June 7, 1897, ch. 4, § 1, 30 Stat. 98; Apr. 22, 1940, ch. 128, § 1, 54 Stat. 150; Aug. 5, 1963, Pub. L. 88–84, § 1, 77 Stat. 116; Oct. 15, 1966, Pub. L. 89–670, § 6, 80 Stat. 937, related to lights of vessels at anchor.
+
+Section 181, act June 7, 1897, ch. 4, § 1, 30 Stat. 99, related to additional lights when necessary.
+
+Section 182, act June 7, 1897, ch. 4, § 1, 30 Stat. 99, related to special lights for ships of war and convoy. See [section 2071 of this title](./chapter-034-inland-navigational-rules.md#section-2071).
+
+Section 183, act June 7, 1897, ch. 4, § 1, 30 Stat. 99, related to day signal of vessels under sail.
+
+#### Effective Date of Repeal
+Repeal effective Dec. 24, 1981, see section 7 of Pub. L. 96–591, set out as an Effective Date of 1980 Amendment note under [section 1604 of this title](./chapter-030-international-regulations-for-preventing-collisions-at-sea.md#section-1604).
 
 
 <a id="section-191-192"></a>
-## § 191, 192. Commissioning private vessels for seizure of piratical vessels
-
-The President is authorized to instruct the commanders of the public-armed vessels of the United States, and to authorize the commanders of any other armed vessels sailing under the authority of any letters of marque and reprisal granted by Congress, or the commanders of any other suitable vessels, to subdue, seize, take, and, if on the high seas, to send into any port of the United States, any vessel or boat built, purchased, fitted out, or held as mentioned in [section 385 of this title](./chapter-007-regulations-for-the-suppression-of-piracy.md#section-385).
+## § 191, 192. Repealed. Pub. L. 96–591, § 8(a), Dec. 24, 1980, 94 Stat. 3435
 
 ### Statutory Notes
 
-#### Codification
-R.S. § 4298 derived from act Aug. 5, 1861, ch. 48, § 2, 12 Stat. 315.
+Section 191, acts June 7, 1897, ch. 4, § 1, 30 Stat. 99; Aug. 5, 1963, Pub. L. 88–84, § 2, 77 Stat. 116, made general provision for sound signals for fog, etc.
+
+Section 192, act June 7, 1897, ch. 4, § 1, 30 Stat. 99, related to speed of vessels in fog, etc.
+
+#### Effective Date of Repeal
+Repeal effective Dec. 24, 1981, see section 7 of Pub. L. 96–591, set out as an Effective Date of 1980 Amendment note under [section 1604 of this title](./chapter-030-international-regulations-for-preventing-collisions-at-sea.md#section-1604).
 
 
 <a id="section-201-to-213"></a>
-## § 201 to 213. Duties of officers of customs and marshals as to seizure
-
-The collectors of the several ports of entry, the surveyors of the several ports of delivery, and the marshals of the several judicial districts within the United States, shall seize any vessel or boat built, purchased, fitted out, or held as mentioned in [section 385 of this title](./chapter-007-regulations-for-the-suppression-of-piracy.md#section-385), which may be found within their respective ports or districts, and to cause the same to be proceeded against and disposed of as provided by that section.
+## § 201 to 213. Repealed. Pub. L. 96–591, § 8(a), Dec. 24, 1980, 94 Stat. 3435
 
 ### Statutory Notes
 
-#### References in Text
-Surveyors of the several ports of delivery, referred to in text, are probably obsolete offices in view of act July 5, 1932, ch. 430, title I, § 1, 47 Stat. 584, which abolished the offices of surveyors of customs, except at the Port of New York. Ports of delivery, except those which were made ports of entry, were abolished and the use of the term “port of delivery” was discontinued under the President’s plan of reorganization of the customs service communicated to Congress by message dated Mar. 3, 1913.
+Section 201, act June 7, 1897, ch. 4, § 1, 30 Stat. 100, related to ascertainment of risk of collision.
 
-#### Codification
-R.S. § 4299 derived from act Aug. 5, 1861, ch. 48, § 3, 12 Stat. 315.
+Section 202, act June 7, 1897, ch. 4, § 1, 30 Stat. 100, related to sailing vessels approaching one another.
 
-#### Transfer of Functions
-All offices of collector of customs, comptroller of customs, surveyor of customs, and appraiser of merchandise in Bureau of Customs of Department of the Treasury to which appointments were required to be made by President with advice and consent of Senate ordered abolished, with such offices to be terminated not later than December 31, 1966, by Reorg. Plan No. 1, of 1965, eff. May 25, 1965, 30 F.R. 7035, 79 Stat. 1317, set out in the Appendix to Title 5, Government Organization and Employees. All functions of offices eliminated were already vested in Secretary of the Treasury by Reorg. Plan No. 26 of 1950, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5.
+Section 203, acts June 7, 1897, ch. 4, § 1, 30 Stat. 100; Aug. 21, 1935, ch. 595, § 2, 49 Stat. 669, related to steam vessels approaching, meeting, or passing one another.
+
+Section 204, act June 7, 1897, ch. 4, § 1, 30 Stat. 101, related to steam vessels crossing.
+
+Section 205, acts June 7, 1897, ch. 4, § 1, 30 Stat. 101; Nov. 5, 1966, Pub. L. 89–764, § 1, 80 Stat. 1313, related to steam and sailing vessels meeting.
+
+Section 206, act June 7, 1897, ch. 4, § 1, 30 Stat. 101, provided that vessel having the right of way was to keep course.
+
+Section 207, act June 7, 1897, ch. 4, § 1, 30 Stat. 101, related to situation when a vessel crosses ahead of a vessel having the right-of-way.
+
+Section 208, act June 7, 1897, ch. 4, § 1, 30 Stat. 101, related to duty of steam vessels to slacken speed.
+
+Section 209, act June 7, 1897, ch. 4, § 1, 30 Stat. 101, provided that an overtaking vessel keep out of the way and defined the term “overtaking vessel”.
+
+Section 210, acts June 7, 1897, ch. 4, § 1, 30 Stat. 101; Nov. 5, 1966, Pub. L. 89–764, § 2, 80 Stat. 1313, related to operation of steam vessels in a narrow channel.
+
+Section 211, act June 7, 1897, ch. 4, § 1, 30 Stat. 102, related to right of way of fishing vessels or boats.
+
+Section 212, act June 7, 1897, ch. 4, § 1, 30 Stat. 102, provided for departure from the rules in special circumstances.
+
+Section 213, act June 7, 1897, ch. 4, § 1, 30 Stat. 102, related to signal to be given that a vessel’s engines are going at full speed astern.
+
+#### Effective Date of Repeal
+Repeal effective Dec. 24, 1981, see section 7 of Pub. L. 96–591, set out as an Effective Date of 1980 Amendment note under [section 1604 of this title](./chapter-030-international-regulations-for-preventing-collisions-at-sea.md#section-1604).
 
 
 <a id="section-221-222"></a>
-## § 221, 222. Summary trials authorized
-
-Whenever a complaint shall be made against any master, officer, or seaman of any vessel belonging, in whole or in part, to any citizen of the United States, of the commission of any offense, not capital or otherwise infamous, against any law of the United States made for the protection of persons or property engaged in commerce or navigation, it shall be the duty of the United States attorney to investigate the same, and the general nature thereof, and if, in his opinion, the case is such as should be summarily tried, he shall report the same to the district judge, and the judge shall forthwith, or as soon as the ordinary business of the court will permit, proceed to try the cause, and for that purpose may, if necessary, hold a special session of the court, either in term time or vacation.
+## § 221, 222. Repealed. Pub. L. 96–591, § 8(a), Dec. 24, 1980, 94 Stat. 3435
 
 ### Statutory Notes
 
-#### Codification
-R.S. § 4300 derived from act June 11, 1864, ch. 121, § 2, 13 Stat. 124.
+Section 221, act June 7, 1897, ch. 4, § 1, 30 Stat. 102, related to usual additional precautions generally required.
 
-#### Change of Name
-Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorney” for “district attorney”. See [section 541 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section541&num=0&edition=prelim), Judiciary and Judicial Procedure, and Historical and Revision Notes set out thereunder.
+Section 222, act June 7, 1897, ch. 4, § 1, 30 Stat. 102, related to suspension of rules regarding the exhibition of lights on vessels of war or of the Coast Guard.
+
+#### Effective Date of Repeal
+Repeal effective Dec. 24, 1981, see section 7 of Pub. L. 96–591, set out as an Effective Date of 1980 Amendment note under [section 1604 of this title](./chapter-030-international-regulations-for-preventing-collisions-at-sea.md#section-1604).
 
 
 <a id="section-231"></a>
-## § 231. Complaint and answer; jury trial
-
-At the summary trial of offenses against the laws for the protection of persons or property engaged in commerce or navigation, it shall not be necessary that the accused shall have been previously indicted, but a statement of complaint, verified by oath in writing, shall be presented to the court, setting out the offense in such manner as clearly to apprise the accused of the character of the offense complained of, and to enable him to answer the complaint. The complaint or statement shall be read to the accused, who may plead to or answer the same, or make a counterstatement. The trial shall thereupon be proceeded with in a summary manner, and the case shall be decided by the court, unless, at the time for pleading or answering, the accused shall demand a jury, in which case the trial shall be upon the complaint and plea of not guilty.
+## § 231. Repealed. Pub. L. 96–591, § 8(a), Dec. 24, 1980, 94 Stat. 3435
 
 ### Statutory Notes
 
-#### Codification
-R.S. § 4301 derived from act June 11, 1864, ch. 121, §§ 3, 4, 13 Stat. 125.
+Section, act June 7, 1897, ch. 4, § 1, 30 Stat. 102, related to distress signals.
+
+#### Effective Date of Repeal
+Repeal effective Dec. 24, 1981, see section 7 of Pub. L. 96–591, set out as an Effective Date of 1980 Amendment note under [section 1604 of this title](./chapter-030-international-regulations-for-preventing-collisions-at-sea.md#section-1604).
 
 
 <a id="section-232"></a>
-## § 232. Amendments of complaint and adjournments
-
-It shall be lawful for the court to allow the United States attorney to amend his statement of complaint at any stage of the proceedings, before verdict, if, in the opinion of the court, such amendment will work no injustice to the accused; and if it appears to the court that the accused is unprepared to meet the charge as amended, and that an adjournment of the cause will promote the ends of justice, such adjournment shall be made, until a further day, to be fixed by the court.
+## § 232. Repealed. Pub. L. 96–591, § 8(a), Dec. 24, 1980, 94 Stat. 3435
 
 ### Statutory Notes
 
-#### Codification
-R.S. § 4302 derived from act June 11, 1864, ch. 121, § 6, 13 Stat. 125.
+Section, act June 7, 1897, ch. 4, § 1, as added Aug. 21, 1935, ch. 595, § 2, 49 Stat. 669, related to orders to helmsmen.
 
-#### Change of Name
-Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorney” for “district attorney”. See [section 541 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section541&num=0&edition=prelim), Judiciary and Judicial Procedure, and Historical and Revision Notes set out thereunder.
+#### Effective Date of Repeal
+Repeal effective Dec. 24, 1981, see section 7 of Pub. L. 96–591, set out as an Effective Date of 1980 Amendment note under [section 1604 of this title](./chapter-030-international-regulations-for-preventing-collisions-at-sea.md#section-1604).

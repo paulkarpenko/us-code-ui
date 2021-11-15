@@ -132,7 +132,7 @@ Provisions similar to those in subsec. (b) of this section were contained in Pub
 
   (F) to accept the voluntary services of guest scholars and other persons; and
 
-  (G) notwithstanding sections 2304, 2361, and 2374 of this title, to enter into contracts and cooperative agreements with, accept grants from, and make grants to, nonprofit entities (on a sole-source basis) for the purpose specified in subparagraph (A) or for any other purpose the Secretary determines to be consistent with the mission of the University.
+  (G) notwithstanding sections 2304,11 See References in Text note below. 4141, and 4024 of this title, to enter into contracts and cooperative agreements with, accept grants from, and make grants to, nonprofit entities (on a sole-source basis) for the purpose specified in subparagraph (A) or for any other purpose the Secretary determines to be consistent with the mission of the University.
 
 (2) The Secretary may not enter into any contract with the Henry M. Jackson Foundation for the Advancement of Military Medicine, or with any other entity, if the contract would obligate the University to make outlays in advance of the enactment of budget authority for such outlays.
 
@@ -145,8 +145,11 @@ Provisions similar to those in subsec. (b) of this section were contained in Pub
 #### Amendment of Section
 Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, except as otherwise provided in title XVIII of Pub. L. 116–283, in title 10, United States Code, each reference in the text of such title to a source section that is redesignated by title XVIII of Pub. L. 116–283, is amended by striking such reference and inserting a reference to the appropriate section as so redesignated. See 2021 Amendment note below.
 
+#### References in Text
+[Section 2304 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2304), referred to in subsec. (g)(1)(G), was repealed by Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1881(a), Jan. 1, 2021, 134 Stat. 4151, 4293, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law. Subsecs. (a) to (l) of section 2304 were transferred to various provisions in chapter 221 of this title, with the same effective date and conditions, by Pub. L. 116–283, div. A, title XVIII, § 1811(c)(2)–(5), (d)(2)–(9), Jan. 1, 2021, 134 Stat. 4165–4170.
+
 #### Amendments
-2021—Subsec. (g)(1)(G). Pub. L. 116–283, § 1883(b)(2), substituted “4015, and 4008 of this title” for “2361, and 2374 of this title”. Amendment directing that each reference in the text of title 10 to a section that was redesignated by title XVIII of Pub. L. 116–283, as such section was in effect before the redesignation, be amended by striking such reference and inserting a reference to the appropriate redesignated section, was not executed with respect to “section 2304”, which was redesignated as multiple sections.
+2021—Subsec. (g)(1)(G). Pub. L. 116–283, § 1883(b)(2), substituted “4141, and 4024 of this title” for “2361, and 2374 of this title”. Amendment directing that each reference in the text of title 10 to a section that was redesignated by title XVIII of Pub. L. 116–283, as such section was in effect before the redesignation, be amended by striking such reference and inserting a reference to the appropriate redesignated section, was not executed with respect to “section 2304”, which was redesignated as multiple sections.
 
 Pub. L. 116–283, § 714(a), added subpar. (G).
 
@@ -330,13 +333,31 @@ Pub. L. 116–283, div. A, title VII, § 715(b), Jan. 1, 2021, 134 Stat. 3694, p
 
 **(g)** In this section, the term “commissioned service obligation” means, with respect to an officer who is a graduate of the University, the period beginning on the date of the appointment of the officer in a regular component after graduation and ending on the tenth anniversary of that appointment.
 
-**(h)** The Secretary of Defense shall establish such selection procedures, service obligations, and other requirements as the Secretary considers appropriate for graduate students (other than medical students) in a postdoctoral, postgraduate, or technological institute established pursuant to [section 2113(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2113/e&num=0&edition=prelim).
+**(h)**
+
+(1) The Secretary of Defense, in coordination with the Secretary of Health and Human Services and the Secretary of Veterans Affairs, shall establish such selection procedures, service obligations, and other requirements as the Secretary considers appropriate for graduate students (other than medical students) in a postdoctoral, postgraduate, or technological institute established pursuant to [section 2113(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2113/e&num=0&edition=prelim).
+
+(2)
+
+  (A) A covered employee whose employment or service with the Department of Veterans Affairs, Public Health Service, or Coast Guard (as applicable) is in a position relevant to national security or health sciences may receive instruction at the University within the scope of such employment or service.
+
+  (B) If a covered employee receives instruction at the University pursuant to subparagraph (A), the head of the Federal agency concerned shall reimburse the University for the cost of providing such instruction to the covered employee. Amounts received by the University under this subparagraph shall be retained by the University to defray the costs of such instruction.
+
+  (C) Notwithstanding subsections (b) through (e) and subsection (i), the head of the Federal agency concerned shall determine the service obligations of the covered employee receiving instruction at the University pursuant to subparagraph (A) in accordance with applicable law.
+
+  (D) In this paragraph—
+
+    (i) the term “covered employee” means an employee of the Department of Veterans Affairs, a civilian employee of the Public Health Service, a member of the commissioned corps of the Public Health Service, a member of the Coast Guard, or a civilian employee of the Coast Guard; and
+
+    (ii) the term “head of the Federal agency concerned” means the head of the Federal agency that employs, or has jurisdiction over the uniformed service of, a covered employee permitted to receive instruction at the University under subparagraph (A) in the relevant position described in such subparagraph.
 
 **(i)** A graduate of the University who is relieved of the graduate’s active-duty service obligation under subsection (c) before the completion of that active-duty service obligation may be given, with or without the consent of the graduate, an alternative obligation in the same manner as provided in subparagraphs (A) and (B) of paragraph (1) of [section 2123(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2123/e&num=0&edition=prelim) or paragraph (2) of such section for members of the Armed Forces Health Professions Scholarship and Financial Assistance program.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (h). Pub. L. 117–81 substituted “(1) The Secretary of Defense, in coordination with the Secretary of Health and Human Services and the Secretary of Veterans Affairs,” for “The Secretary of Defense” and added par. (2).
+
 2008—Subsecs. (b), (c). Pub. L. 110–181, § 524(a)(1)(B), (2)(A), designated first 3 sentences of subsec. (b) as subsec. (b)(1), added subsec. (b)(2), designated last 3 sentences of subsec. (b) as subsec. (c), and substituted “Medical students who graduate” for “Upon graduation they”. Former subsec. (c) redesignated (d).
 
 Subsecs. (d) to (f). Pub. L. 110–181, § 524(a)(1)(A), redesignated subsecs. (c) to (e) as (d) to (f), respectively. Former subsec. (f) redesignated (g).

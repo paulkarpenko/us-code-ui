@@ -17,7 +17,7 @@ In this chapter—
 
 (3) the term “commuter rail passenger transportation” has the meaning given that term in section 24102;
 
-(4) the term “public transportation authority” means a local governmental authority (as defined in section 5302(a)(6)) 11 See References in Text note below. established to provide, or make a contract providing for, commuter rail passenger transportation;
+(4) the term “public transportation authority” means a local governmental authority (as defined in section 5302) established to provide, or make a contract providing for, commuter rail passenger transportation;
 
 (5) the term “rail carrier” means a person, other than a governmental authority, providing common carrier railroad transportation for compensation subject to the jurisdiction of the Board under chapter 105;
 
@@ -27,8 +27,8 @@ In this chapter—
 
 ### Statutory Notes
 
-#### References in Text
-Section 5302, referred to in par. (4), was amended generally by Pub. L. 112–141, div. B, § 20004, July 6, 2012, 126 Stat. 623, and, as so amended, no longer contains a subsec. (a). However, the term “local governmental authority” is defined elsewhere in that section.
+#### Amendments
+2021—Par. (4). Pub. L. 117–58 substituted “section 5302” for “section 5302(a)(6)”.
 
 
 <a id="section-28502"></a>

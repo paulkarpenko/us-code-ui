@@ -1143,13 +1143,13 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
 ### Statutory Notes
 
-#### Transfer of Functions
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under [section 78d of this title](./chapter-2b-securities-exchanges.md#section-78d).
-
 #### Parity for Closed-End Companies Regarding Offering and Proxy Rules
 Pub. L. 115–174, title V, § 509, May 24, 2018, 132 Stat. 1364, provided that: “(a) Revision to Rules.—Not later than the end of the 1-year period beginning on the date of enactment of this Act [May 24, 2018], the Securities and Exchange Commission shall propose and, not later than 2 years after the date of enactment of this Act, the Securities and Exchange Commission shall finalize any rules, as appropriate, to allow any closed-end company, as defined in section 5(a)(2) of the Investment Company Act of 1940 ([15 U.S.C. 80a–5](./chapter-2d-investment-companies-and-advisers.md#section-80a-5)), that is registered as an investment company under such Act [[15 U.S.C. 80a–1](./chapter-2d-investment-companies-and-advisers.md#section-80a-1) et seq.], and is listed on a national securities exchange or that makes periodic repurchase offers pursuant to section 270.23c–3 of title 17, Code of Federal Regulations, to use the securities offering and proxy rules, subject to conditions the Commission determines appropriate, that are available to other issuers that are required to file reports under section 13 or section 15(d) of the Securities Exchange Act of 1934 ([15 U.S.C. 78m](./chapter-2b-securities-exchanges.md#section-78m); 78o(d)). Any action that the Commission takes pursuant to this subsection shall consider the availability of information to investors, including what disclosures constitute adequate information to be designated as a ‘well-known seasoned issuer’. “(b) Treatment if Revisions Not Completed in a Timely Manner.—If the Commission fails to complete the revisions required by subsection (a) by the time required by such subsection, any registered closed-end company that is listed on a national securities exchange or that makes periodic repurchase offers pursuant to section 270.23c–3 of title 17, Code of Federal Regulations, shall be deemed to be an eligible issuer under the final rule of the Commission titled ‘Securities Offering Reform’ (70 Fed. Reg. 44722; published August 3, 2005). “(c) Rules of Construction.—“(1) No effect on rule 482.—Nothing in this section or the amendments made by this section shall be construed to impair or limit in any way a registered closed-end company from using section 230.482 of title 17, Code of Federal Regulations, to distribute sales material. “(2) References.—Any reference in this section to a section of title 17, Code of Federal Regulations, or to any form or schedule means such rule, section, form, or schedule, or any successor to any such rule, section, form, or schedule.”
 
 [For definition of “company” as used in section 509 of Pub. L. 115–174, set out above, see section 2 of Pub. L. 115–174, set out as a Definitions note under [section 5365 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5365&num=0&edition=prelim), Banks and Banking.]
+
+#### Transfer of Functions
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under [section 78d of this title](./chapter-2b-securities-exchanges.md#section-78d).
 
 
 <a id="section-80a-24"></a>
@@ -1841,11 +1841,11 @@ Pub. L. 104–290, title II, § 209(d)(3), Oct. 11, 1996, 110 Stat. 3436, provid
 
 Pub. L. 104–290, title II, § 209(d)(4), Oct. 11, 1996, 110 Stat. 3436, provided that: “Not later than 180 days after the date of enactment of this Act [Oct. 11, 1996], the Commission shall prescribe rules defining the term ‘beneficial owner’ for purposes of section 3(c)(7)(B) of the Investment Company Act of 1940 [[15 U.S.C. 80a–3(c)(7)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–3/c/7/B&num=0&edition=prelim)], as amended by this Act.”
 
-#### Transfer of Functions
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under [section 78d of this title](./chapter-2b-securities-exchanges.md#section-78d).
-
 #### Protection of Church Employee Benefit Plans Under State Law
 Pub. L. 104–290, title V, § 508(f), Oct. 11, 1996, 110 Stat. 3448, provided that: “(1) Registration requirements.—Any security issued by or any interest or participation in any church plan, company, or account that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940 [[15 U.S.C. 80a–3(c)(14)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–3/c/14&num=0&edition=prelim)], as added by subsection (a) of this section, and any offer, sale, or purchase thereof, shall be exempt from any law of a State that requires registration or qualification of securities. “(2) Treatment of church plans.—No church plan described in section 414(e) of the Internal Revenue Code of 1986 [[26 U.S.C. 414(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section414/e&num=0&edition=prelim)], no person or entity eligible to establish and maintain such a plan under the Internal Revenue Code of 1986 [[26 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1&num=0&edition=prelim) et seq.], no company or account that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940 [[15 U.S.C. 80a–3(c)(14)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–3/c/14&num=0&edition=prelim)], as added by subsection (a) of this section, and no trustee, director, officer, or employee of or volunteer for any such plan, person, entity, company, or account shall be required to qualify, register, or be subject to regulation as an investment company or as a broker, dealer, investment adviser, or agent under the laws of any State solely because such plan, person, entity, company, or account buys, holds, sells, or trades in securities for its own account or in its capacity as a trustee or administrator of or otherwise on behalf of, or for the account of, or provides investment advice to, for, or on behalf of, any such plan, person, or entity or any company or account that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940, as added by subsection (a) of this section.”
+
+#### Transfer of Functions
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under [section 78d of this title](./chapter-2b-securities-exchanges.md#section-78d).
 
 
 <a id="section-80a-30"></a>
@@ -2832,10 +2832,11 @@ Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub.
 #### Transfer of Functions
 Federal Savings and Loan Insurance Corporation abolished and functions transferred, see sections 401 to 406 of Pub. L. 101–73, set out as a note under [section 1437 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1437&num=0&edition=prelim), Banks and Banking.
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under [section 78d of this title](./chapter-2b-securities-exchanges.md#section-78d).
-
 #### Investment Company Provisions Inapplicable to Certain Life Insurance Benefits Issued Prior to March 23, 1959
 Subchapter inapplicable to certain life insurance benefits issued prior to Mar. 23, 1959, under certain conditions, see section 29 of Pub. L. 91–547, Dec. 14, 1970, 84 Stat. 1436, set out as a note under [section 77c of this title](./chapter-2a-securities-and-trust-indentures.md#section-77c).
+
+#### Transfer of Functions
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under [section 78d of this title](./chapter-2b-securities-exchanges.md#section-78d).
 
 
 <a id="section-80a-60"></a>
@@ -3325,9 +3326,6 @@ Amendment by section 929I(c) of Pub. L. 111–203 effective 1 day after July 21,
 
 Amendment by section 405 of Pub. L. 111–203 effective 1 year after July 21, 2010, except that any investment adviser may, at the discretion of the investment adviser, register with the Commission under the Investment Advisers Act of 1940 during that 1-year period, subject to the rules of the Commission, and except as otherwise provided, see section 419 of Pub. L. 111–203, set out as a note under [section 80b–2 of this title](./chapter-2d-investment-companies-and-advisers.md#section-80b-2).
 
-#### Transfer of Functions
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under [section 78d of this title](./chapter-2b-securities-exchanges.md#section-78d).
-
 #### Study on Improved Investor Access to Information on Investment Advisers and Broker-Dealers
 Pub. L. 111–203, title IX, § 919B, July 21, 2010, 124 Stat. 1838, provided that: “(a) Study.—“(1) In general.—Not later than 6 months after the date of enactment of this Act [July 21, 2010], the Commission shall complete a study, including recommendations, of ways to improve the access of investors to registration information (including disciplinary actions, regulatory, judicial, and arbitration proceedings, and other information) about registered and previously registered investment advisers, associated persons of investment advisers, brokers and dealers and their associated persons on the existing Central Registration Depository and Investment Adviser Registration Depository systems, as well as identify additional information that should be made publicly available. “(2) Contents.—The study required by subsection (a) shall include an analysis of the advantages and disadvantages of further centralizing access to the information contained in the 2 systems, including—“(A) identification of those data pertinent to investors; and “(B) the identification of the method and format for displaying and publishing such data to enhance accessibility by and utility to investors. “(b) Implementation.—Not later than 18 months after the date of completion of the study required by subsection (a), the Commission shall implement any recommendations of the study.”
 
@@ -3335,6 +3333,9 @@ Pub. L. 111–203, title IX, § 919B, July 21, 2010, 124 Stat. 1838, provided th
 
 #### Investor Access to Information
 Pub. L. 104–290, title III, § 306, Oct. 11, 1996, 110 Stat. 3439, required the Securities and Exchange Commission to provide for investor access to information concerning disciplinary actions involving investment advisers, prior to repeal by Pub. L. 109–290, § 7(b)(2), Sept. 29, 2006, 120 Stat. 1321.
+
+#### Transfer of Functions
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under [section 78d of this title](./chapter-2b-securities-exchanges.md#section-78d).
 
 
 <a id="section-80b-10a"></a>
@@ -3433,13 +3434,13 @@ Amendment by section 913(g)(2), (h)(2) of Pub. L. 111–203 effective 1 day afte
 
 Amendment by section 406 of Pub. L. 111–203 effective 1 year after July 21, 2010, except that any investment adviser may, at the discretion of the investment adviser, register with the Commission under the Investment Advisers Act of 1940 during that 1-year period, subject to the rules of the Commission, and except as otherwise provided, see section 419 of Pub. L. 111–203, set out as a note under [section 80b–2 of this title](./chapter-2d-investment-companies-and-advisers.md#section-80b-2).
 
-#### Transfer of Functions
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under [section 78d of this title](./chapter-2b-securities-exchanges.md#section-78d).
-
 #### Study on Enhancing Investment Adviser Examinations
 Pub. L. 111–203, title IX, § 914, July 21, 2010, 124 Stat. 1830, provided that: “(a) Study Required.—“(1) In general.—The Commission shall review and analyze the need for enhanced examination and enforcement resources for investment advisers. “(2) Areas of consideration.—The study required by this subsection shall examine—“(A) the number and frequency of examinations of investment advisers by the Commission over the 5 years preceding the date of the enactment of this subtitle [July 21, 2010]; “(B) the extent to which having Congress authorize the Commission to designate one or more self-regulatory organizations to augment the Commission’s efforts in overseeing investment advisers would improve the frequency of examinations of investment advisers; and “(C) current and potential approaches to examining the investment advisory activities of dually registered broker-dealers and investment advisers or affiliated broker-dealers and investment advisers. “(b) Report Required.—The Commission shall report its findings to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate, not later than 180 days after the date of enactment of this subtitle [July 21, 2010], and shall use such findings to revise its rules and regulations, as necessary. The report shall include a discussion of regulatory or legislative steps that are recommended or that may be necessary to address concerns identified in the study.”
 
 [For definitions of terms used in section 914 of Pub. L. 111–203, set out above, see [section 5301 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5301&num=0&edition=prelim), Banks and Banking.]
+
+#### Transfer of Functions
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under [section 78d of this title](./chapter-2b-securities-exchanges.md#section-78d).
 
 
 <a id="section-80b-12"></a>
@@ -3840,11 +3841,11 @@ Pub. L. 111–203, title IV, § 409(b), (c), July 21, 2010, 124 Stat. 1575, prov
 
 [For definitions of “Commission” and “investment adviser” as used in section 409(b), (c) of Pub. L. 111–203, set out above, see [section 5301 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5301&num=0&edition=prelim), Banks and Banking, and section 402(b) of Pub. L. 111–203, set out below, respectively.]
 
-#### Transfer of Functions
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under [section 78d of this title](./chapter-2b-securities-exchanges.md#section-78d).
-
 #### Definitions
 Pub. L. 111–203, title IV, § 402(b), July 21, 2010, 124 Stat. 1570, provided that: “As used in this title [enacting sections 80b–18b and 80b–18c of this title, amending this section and sections 80b–3, 80b–3a, 80b–4, 80b–5, 80b–10, and 80b–11 of this title, and enacting provisions set out as notes under this section and sections 77b and 80b–20 of this title], the terms ‘investment adviser’ and ‘private fund’ have the same meanings as in section 202 of the Investment Advisers Act of 1940 [[15 U.S.C. 80b–2](./chapter-2d-investment-companies-and-advisers.md#section-80b-2)], as amended by this title.”
+
+#### Transfer of Functions
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under [section 78d of this title](./chapter-2b-securities-exchanges.md#section-78d).
 
 
 <a id="section-80b-20"></a>

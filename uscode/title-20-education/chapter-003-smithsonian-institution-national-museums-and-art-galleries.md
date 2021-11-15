@@ -340,8 +340,6 @@ All collections of rocks, minerals, soils, fossils, and objects of natural histo
 #### Codification
 Words “Coast and Interior Survey” appearing in act Mar. 3, 1879, were in prior editions of the Code changed to “Coast and Geodetic Survey.” Congress never created a Coast and Interior Survey. In a communication dated Nov. 6, 1940, the Director of the Geological Survey explained that the words “Coast and Interior Survey” were inadvertently incorporated upon authority of report contained in Senate Misc. Doc. No. 9, 45th Congress, 3d Session, which recommended the “Coast and Geodetic Survey” be changed to “United States Coast and Interior Survey” and an organization be created in the Interior Department to be known as the “United States Geological Survey.” Congress adopted only the latter suggestion.
 
-Coast and Geodetic Survey consolidated with National Weather Bureau in 1965 to form Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318. Environmental Science Services Administration abolished in 1970 and its personnel, property, records, etc., transferred to National Oceanic and Atmospheric Administration by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090. By order of Acting Associate Administrator of National Oceanic and Atmospheric Administration, 35 F.R. 19249, Dec. 19, 1970, Coast and Geodetic Survey redesignated National Ocean Survey. See notes set out under [section 311 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section311&num=0&edition=prelim), Commerce and Trade.
-
 #### Change of Name
 “United States Geological Survey” substituted in text for “Geological Survey” pursuant to provision of title I of Pub. L. 102–154, set out as a note under [section 31 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section31&num=0&edition=prelim), Public Lands.
 
@@ -355,6 +353,9 @@ For provision deeming references to the Museum of History and Technology in laws
 
 #### Museum of History and Technology for the Smithsonian Institution
 Act June 28, 1955, ch. 201, 69 Stat. 189, authorized construction of a building for a Museum of History and Technology, which was redesignated the National Museum of American History, for the use of the Smithsonian Institution, at a cost not to exceed $36,000,000.
+
+#### Change of Name
+Coast and Geodetic Survey consolidated with National Weather Bureau in 1965 to form Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318. Environmental Science Services Administration abolished in 1970 and its personnel, property, records, etc., transferred to National Oceanic and Atmospheric Administration by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090. By order of Acting Associate Administrator of National Oceanic and Atmospheric Administration, 35 F.R. 19249, Dec. 19, 1970, Coast and Geodetic Survey redesignated National Ocean Survey. See notes set out under [section 311 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section311&num=0&edition=prelim), Commerce and Trade.
 
 
 <a id="section-60"></a>
@@ -707,6 +708,7 @@ Section 76a, act May 17, 1938, ch. 238, § 2, 52 Stat. 399, created Smithsonian 
 #### Transfer of Functions
 Functions of Federal Works Agency and of all agencies thereof, together with functions of Federal Works Administrator, transferred to Administrator of General Services, and Federal Works Agency and office of Federal Works Administrator abolished by section 103 of act June 30, 1949. See Historical and Revision Notes under [section 303(b) of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section303/b&num=0&edition=prelim), Public Buildings, Property, and Works. [Section 303(b) of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section303/b&num=0&edition=prelim) was amended generally by Pub. L. 109–313, § 2(a)(1), Oct. 6, 2006, 120 Stat. 1734, and, as so amended, no longer relates to the Federal Works Agency and Commissioner of Public Buildings. See 2006 Amendment note under [section 303 of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section303&num=0&edition=prelim).
 
+#### Transfer of Functions
 Functions of Director of Procurement relating to selection of location and sites of public buildings transferred to Federal Works Administrator by Reorg. Plan No. I of 1939, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
@@ -743,6 +745,7 @@ The Administrator of General Services and other agencies of the Government are a
 #### Transfer of Functions
 Functions of Federal Works Agency and of all agencies thereof, together with functions of Federal Works Administrator, transferred to Administrator of General Services, and Federal Works Agency and office of Federal Works Administrator abolished by section 103 of act June 30, 1949. See Historical and Revision Notes under [section 303(b) of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section303/b&num=0&edition=prelim), Public Buildings, Property, and Works. [Section 303(b) of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section303/b&num=0&edition=prelim) was amended generally by Pub. L. 109–313, § 2(a)(1), Oct. 6, 2006, 120 Stat. 1734, and, as so amended, no longer relates to the Federal Works Agency and Commissioner of Public Buildings. See 2006 Amendment note under [section 303 of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section303&num=0&edition=prelim).
 
+#### Transfer of Functions
 Public Buildings Branch of Procurement Division in Treasury Department and Public Works Administration and other agencies were consolidated into Federal Works Agency, and functions transferred to Federal Works Administrator, by Reorg. Plan No. I of 1939, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
@@ -3145,7 +3148,7 @@ This subchapter, referred to in subsecs. (a) and (g)(2), was in the original “
 ## § 80t–5. Building
 **(a) Location**
 
-(1) **In general** — Not later than 2 years after the December 27, 2020, the Board of Regents shall designate a site for the Museum.
+(1) **In general** — Not later than 2 years after December 27, 2020, the Board of Regents shall designate a site for the Museum.
 
 (2) **Sites for consideration** — In designating a site under paragraph (1), the Board of Regents shall—
 

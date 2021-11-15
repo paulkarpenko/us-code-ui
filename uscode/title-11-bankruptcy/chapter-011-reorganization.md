@@ -2754,7 +2754,7 @@ In this subchapter:
 ### Statutory Notes
 
 #### Amendment of Paragraph (1)
-Pub. L. 116–136, div. A, title I, § 1113(a)(5), Mar. 27, 2020, 134 Stat. 311, provided that 1 year after Mar. 27, 2020, paragraph (1) of this section is amended to read as follows:
+Pub. L. 116–136, div. A, title I, § 1113(a)(5), Mar. 27, 2020, 134 Stat. 311, as amended by Pub. L. 117–5, § 2(a)(1), Mar. 27, 2021, 135 Stat. 249, provided that, 2 years after Mar. 27, 2020, paragraph (1) of this section is amended to read as follows:
 
 (1) Debtor.—The term “debtor” means a small business debtor.
 
@@ -2768,7 +2768,7 @@ Pub. L. 116–136, § 1113(a)(1), temporarily amended par. (1) generally. Prior 
 #### Effective Date of 2020 Amendment
 Pub. L. 116–136, div. A, title I, § 1113(a)(3), Mar. 27, 2020, 134 Stat. 311, provided that: “The amendment made by paragraph (1) [amending this section] shall apply only with respect to cases commenced under title 11, United States Code, on or after the date of enactment of this Act [Mar. 27, 2020].”
 
-Pub. L. 116–136, div. A, title I, § 1113(a)(5), Mar. 27, 2020, 134 Stat. 311, provided in part that the amendment made by section 1113(a)(5) of Pub. L. 116–136 is effective 1 year after Mar. 27, 2020.
+Pub. L. 116–136, div. A, title I, § 1113(a)(5), Mar. 27, 2020, 134 Stat. 311, as amended by Pub. L. 117–5, § 2(a)(1), Mar. 27, 2021, 135 Stat. 249, provided in part that the amendment made by section 1113(a)(5) of Pub. L. 116–136 is effective 2 years after Mar. 27, 2020.
 
 #### Effective Date
 Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as an Effective Date of 2019 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).

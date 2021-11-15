@@ -148,7 +148,7 @@ Pub. L. 114–328, div. A, title VIII, § 820(d), Dec. 23, 2016, 130 Stat. 2276,
 
   (A) *Definition.—* — In this paragraph, the term “subcontract” includes a transfer of commercial products or commercial services between divisions, subsidiaries, or affiliates of a contractor or subcontractor.
 
-  (B) *When standards are to be used.—* — Cost accounting standards prescribed under this chapter are mandatory for use by all executive agencies and by contractors and subcontractors in estimating, accumulating, and reporting costs in connection with the pricing and administration of, and settlement of disputes concerning, all negotiated prime contract and subcontract procurements with the Federal Government in excess of the amount set forth in [section 2306a(a)(1)(A)(i) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2306a/a/1/A/i&num=0&edition=prelim) as the amount is adjusted in accordance with applicable requirements of law.
+  (B) *When standards are to be used.—* — Cost accounting standards prescribed under this chapter are mandatory for use by all executive agencies and by contractors and subcontractors in estimating, accumulating, and reporting costs in connection with the pricing and administration of, and settlement of disputes concerning, all negotiated prime contract and subcontract procurements with the Federal Government in excess of the amount set forth in [section 3702(a)(1)(A) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3702/a/1/A&num=0&edition=prelim) as the amount is adjusted in accordance with applicable requirements of law.
 
   (C) *Nonapplication of standards.—* — Subparagraph (B) does not apply to—
 
@@ -242,6 +242,8 @@ In subsection (b)(2)(A), the word “categories” is omitted as being included 
 In subsection (b)(3)(A)(ii), the words “as in effect on or after the effective date of this paragraph” are omitted as obsolete.
 
 #### Amendments
+2021—Subsec. (b)(1)(B). Pub. L. 117–81 substituted “section 3702(a)(1)(A)” for “section 2306a(a)(1)(A)(i)”.
+
 2018—Subsec. (b)(1)(A). Pub. L. 115–232, § 836(b)(1)(A), substituted “commercial products or commercial services” for “commercial items”.
 
 Subsec. (b)(1)(C)(i). Pub. L. 115–232, § 836(b)(1)(B), substituted “commercial product or commercial service” for “commercial item”.

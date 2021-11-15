@@ -692,10 +692,28 @@ Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set ou
 
 (2) **Manner.—** — The Secretary shall make such documentation available to the individual using an internet website in the same manner the Secretary provides documentation verifying compensation and other benefits furnished by the Secretary to individuals.
 
+**(l) Verification of Enrollment.—**
+
+(1) **In general.—** — The Secretary shall require—
+
+  (A) each educational institution to submit to the Secretary verification of each individual who is enrolled in a course or program of education at the educational institution and is receiving educational assistance under this chapter—
+
+    (i) not later than such time as the Secretary determines reasonable after the date on which the individual is enrolled; and
+
+    (ii) not later than such time as the Secretary determines reasonable after the last date on which a student is able to withdraw from the course or program of education without penalty; and
+
+  (B) each individual who is enrolled in a course or program of education and is receiving educational assistance under this chapter to submit to the Secretary verification of such enrollment for each month during which the individual is so enrolled and receiving such educational assistance.
+
+(2) **Form of verification.—** — Verification under this subsection shall be in an electronic form prescribed by the Secretary.
+
+(3) **Failure to submit verification.—** — If an individual fails to submit the verification required under paragraph (1)(B) for two consecutive months, the Secretary may not make a monthly housing stipend payment to the individual under this section until the individual submits such verification.
+
+(4) **Waiver.—** — The Secretary may waive the requirements of this subsection for an educational institution that the Secretary has determined uses a flat tuition and fee structure that would make the use of a second verification under this subsection unnecessary.
+
 ### Statutory Notes
 
 #### Amendment of Subsection (e)
-Pub. L. 116–315, title I, § 1009, Jan. 5, 2021, 134 Stat. 4938, provided that, effective Aug. 1, 2022, subsection (e) of this section is amended:
+Pub. L. 116–315, title I, § 1009, Jan. 5, 2021, 134 Stat. 4941, provided that, effective Aug. 1, 2022, subsection (e) of this section is amended:
 
 (1) in the heading, by inserting “for a Period of More Than 30 Days” after “Active Duty”;
 
@@ -704,25 +722,6 @@ Pub. L. 116–315, title I, § 1009, Jan. 5, 2021, 134 Stat. 4938, provided that
 (3) in paragraph (2), in the matter preceding subparagraph (A), by inserting “for a period of more than 30 days” after “active duty”.
 
 See 2021 Amendment notes below.
-
-#### Amendment of Subsection (l)
-Pub. L. 116–315, title I, § 1010, Jan. 5, 2021, 134 Stat. 4941, provided that, effective Aug. 1, 2021, this section is amended by adding at the end the following new subsection:
-
-(l) Verification of Enrollment.—(1) The Secretary shall require—
-
-(A) each educational institution to submit to the Secretary verification of each individual who is enrolled in a course or program of education at the educational institution and is receiving educational assistance under this chapter—
-
-(i) not later than such time as the Secretary determines reasonable after the date on which the individual is enrolled; and
-
-(ii) not later than such time as the Secretary determines reasonable after the last date on which a student is able to withdraw from the course or program of education without penalty; and
-
-(B) each individual who is enrolled in a course or program of education and is receiving educational assistance under this chapter to submit to the Secretary verification of such enrollment for each month during which the individual is so enrolled and receiving such educational assistance.
-
-(2) Verification under this subsection shall be in an electronic form prescribed by the Secretary.
-
-(3) If an individual fails to submit the verification required under paragraph (1)(B) for two consecutive months, the Secretary may not make a monthly stipend payment to the individual under this section until the individual submits such verification.
-
-See 2021 Amendment note below.
 
 #### References in Text
 Section 401(b) of the Higher Education Act of 1965, referred to in subsecs. (c)(1)(A)(i)(II), (ii)(I)(bb), (e)(2)(A)(i)(II), (ii)(I)(bb), (f)(2)(A)(i)(II), and (g)(3)(A)(i)(I)(bb), (C)(i)(I)(bb), (D)(i)(I)(bb), is classified to [section 1070a(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070a/b&num=0&edition=prelim), Education.
@@ -736,7 +735,11 @@ Subsec. (e). Pub. L. 116–315, § 1009(a)(1), inserted “for a Period of More 
 
 Subsec. (e)(1), (2). Pub. L. 116–315, § 1009(a)(2), (3), inserted “for a period of more than 30 days” after “active duty”.
 
-Subsec. (l). Pub. L. 116–315, § 1010(a), added subsec. (l).
+Subsec. (l). Pub. L. 117–16 amended subsec. (l) generally. Prior to amendment, subsec. (l) related to verification of enrollment of individuals receiving educational assistance.
+
+Pub. L. 116–315, § 1010(a), added subsec. (l).
+
+Subsec. (l)(4). Pub. L. 117–76 added par. (4).
 
 2019—Subsec. (g)(3)(B)(ii). Pub. L. 116–61 inserted comma after “for books”.
 
@@ -1000,9 +1003,6 @@ Pub. L. 111–377, title I, § 108(b), Jan. 4, 2011, 124 Stat. 4119, provided th
 (2) that has been approved by the State approving agency concerned.
 
 ### Statutory Notes
-
-#### Delayed Effective Date of Section
-Section effective Aug. 1, 2021, see Effective Date note below.
 
 #### Effective Date
 Pub. L. 116–154, § 5(d), Aug. 8, 2020, 134 Stat. 692, provided that: “The amendment made by subsection (a) [enacting this section] shall take effect on August 1, 2021.”
@@ -1364,11 +1364,11 @@ Amendment by section 201(b) of Pub. L. 111–377 effective Aug. 1, 2011, and app
 Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set out as an Effective Date of 2008 Amendment note under [section 16163 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section16163&num=0&edition=prelim), Armed Forces.
 
 #### Extension of Time Limitations for Use of Entitlement: Transfer Period
-Pub. L. 116–315, title I, § 1107(d)(2), Jan. 5, 2021, 134 Stat. 4966, provided that: “The subparagraph (C) temporarily added to section 3319(h)(5) of such title by section 6 of the Student Veteran Coronavirus Response Act of 2020 (Public Law 116–140)[set out as a note below] is amended by inserting ‘or training establishment’ after ‘educational institution’.”
+Pub. L. 116–315, title I, § 1107(d)(2), Jan. 5, 2021, 134 Stat. 4966, provided that: “The subparagraph (C) temporarily added to section 3319(h)(5) of such title by section 6 of the Student Veteran Coronavirus Response Act of 2020 (Public Law 116–140) [set out as a note below] is amended by inserting ‘or training establishment’ after ‘educational institution’.”
 
 Pub. L. 116–140, § 6(b)(2), Apr. 28, 2020, 134 Stat. 633, provided that: “During the covered period, the Secretary of Veterans Affairs shall apply section 3319(h)(5) of such title as if it were amended— “(A) in subparagraph (A) by inserting ‘or (C)’ after ‘subparagraph (B)’; and “(B) by adding at the end the following new subparagraph:“ ‘(C) Emergency situations.—In any case in which the Secretary determines that an individual to whom entitlement is transferred under this section has been prevented from pursuing the individual’s chosen program of education before the individual attains the age of 26 years because the educational institution closed (temporarily or permanently) under an established policy based on an Executive order of the President or due to an emergency situation, the Secretary shall extend the period during which the individual may use such entitlement for a period equal to the number of months that the individual was so prevented from pursuing the program of education, as determined by the Secretary.’.”
 
-[The term “covered period” as used in section 6(b)(2) of Pub. L. 116–140, set out above, means Mar. 1, 2020, to Dec. 21, 2021, see section 2 of Pub. L. 116–140, set out as a note under [section 3031 of this title](./chapter-030-all-volunteer-force-educational-assistance-program.md#section-3031).]
+[The term “covered period” as used in section 6(b)(2) of Pub. L. 116–140, set out above, means Mar. 1, 2020, to June 1, 2022, see section 2 of Pub. L. 116–140, set out as a note under [section 3031 of this title](./chapter-030-all-volunteer-force-educational-assistance-program.md#section-3031).]
 
 
 <a id="section-3320"></a>
@@ -1554,7 +1554,7 @@ Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set ou
 #### Extension of Time Limitations for Use of Entitlement: Post-9/11 Educational Assistance
 Pub. L. 116–140, § 6(b)(1), Apr. 28, 2020, 134 Stat. 632, provided that: “During the covered period, the Secretary of Veterans Affairs shall apply section 3321(b)(1) of such title as if it were amended— “(A) by inserting ‘(A)’ before ‘Subsections’; “(B) by striking ‘and (d)’ and inserting ‘(d), and (i)’; and [(C)] by adding at the end the following new subparagraph:“ ‘(B) Subsection (i) of section 3031 (as described in section 6 of the Student Veteran Coronavirus Response Act of 2020 [see section 6(a) of Pub. L. 116–140, [38 U.S.C. 3031](./chapter-030-all-volunteer-force-educational-assistance-program.md#section-3031) note]) shall apply with respect to the running of the 15-year period described in paragraphs (4)(A) and (5)(A) of this subsection in the same manner as such subsection applies under section 3031 with respect to the running of the 10-year period described in section 3031(a).’.”
 
-[The term “covered period” as used in section 6(b)(1) of Pub. L. 116–140, set out above, means Mar. 1, 2020, to Dec. 21, 2020, see section 2 of Pub. L. 116–140, set out as a note under [section 3031 of this title](./chapter-030-all-volunteer-force-educational-assistance-program.md#section-3031).]
+[The term “covered period” as used in section 6(b)(1) of Pub. L. 116–140, set out above, means Mar. 1, 2020, to June 1, 2022, see section 2 of Pub. L. 116–140, set out as a note under [section 3031 of this title](./chapter-030-all-volunteer-force-educational-assistance-program.md#section-3031).]
 
 
 <a id="section-3322"></a>

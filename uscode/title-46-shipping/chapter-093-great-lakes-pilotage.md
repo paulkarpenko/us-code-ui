@@ -256,19 +256,21 @@ Section 9306 prohibits State or local regulations of pilotage on the Great Lakes
 
 **(b)**
 
-(1) The Committee shall consist of seven members appointed by the Secretary in accordance with this subsection, each of whom has at least 5 years practical experience in maritime operations. The term of each member is for a period of not more than 5 years, specified by the Secretary. Before filling a position on the Committee, the Secretary shall publish a notice in the Federal Register soliciting nominations for membership on the Committee.
+(1) The Committee shall consist of 8 members appointed by the Secretary in accordance with this subsection, each of whom has at least 5 years practical experience in maritime operations. The term of each member is for a period of not more than 5 years, specified by the Secretary. Before filling a position on the Committee, the Secretary shall publish a notice in the Federal Register soliciting nominations for membership on the Committee.
 
 (2) The membership of the Committee shall include—
 
   (A) the President of each of the 3 Great Lakes pilotage districts, or the President’s representative;
 
-  (B) one member representing the interests of vessel operators that contract for Great Lakes pilotage services;
+  (B) one member chosen from among nominations made by vessel operators that contract for Great Lakes pilotage services;
 
-  (C) one member representing the interests of Great Lakes ports;
+  (C) one member chosen from among nominations made by Great Lakes port authorities and marine terminals;
 
-  (D) one member representing the interests of shippers whose cargoes are transported through Great Lakes ports; and
+  (D) one member chosen from among nominations made by shippers whose cargoes are transported through Great Lakes ports;
 
-  (E) a member with a background in finance or accounting, who—
+  (E) one member chosen from among nominations made by Great Lakes maritime labor organizations; and
+
+  (F) a member who—
 
     (i) must have been recommended to the Secretary by a unanimous vote of the other members of the Committee, and
 
@@ -300,7 +302,7 @@ Section 9306 prohibits State or local regulations of pilotage on the Great Lakes
 
 **(f)**
 
-(1) The Federal Advisory Committee Act (5 U.S.C. App.) applies to the Committee, except that the Committee terminates on September 30, 2020.
+(1) The Federal Advisory Committee Act (5 U.S.C. App.) applies to the Committee, except that the Committee terminates on September 30, 2030.
 
 (2) 2 years before the termination date set forth in paragraph (1) of this subsection, the Committee shall submit to the Congress its recommendation regarding whether the Committee should be renewed and continued beyond the termination date.
 
@@ -323,6 +325,20 @@ Subsection (c) provides for pay and travel expenses, including per diem, for the
 The Federal Advisory Committee Act, referred to in subsecs. (c)(2) and (f)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+2021—Subsec. (b)(1). Pub. L. 116–283, § 8334(a)(1)(A), substituted “8 members” for “seven members”.
+
+Subsec. (b)(2)(B). Pub. L. 116–283, § 8334(a)(1)(B)(i), substituted “chosen from among nominations made by” for “representing the interests of”.
+
+Subsec. (b)(2)(C). Pub. L. 116–283, § 8334(a)(1)(B)(ii), substituted “chosen from among nominations made by Great Lakes port authorities and marine terminals” for “representing the interests of Great Lakes ports”.
+
+Subsec. (b)(2)(D). Pub. L. 116–283, § 8334(a)(1)(B)(iii)(I), substituted “chosen from among nominations made by” for “representing the interests of” and “ports;” for “ports; and”.
+
+Subsec. (b)(2)(E). Pub. L. 116–283, § 8334(a)(1)(B)(v), added subpar. (E). Former subpar. (E) redesignated (F).
+
+Subsec. (b)(2)(F). Pub. L. 116–283, § 8334(a)(1)(B)(iv), (vi), redesignated subpar. (E) as (F) and struck out “with a background in finance or accounting,” after “a member” in introductory provisions.
+
+Subsec. (f)(1). Pub. L. 116–283, § 8334(a)(2), substituted “2030” for “2020”.
+
 2010—Subsec. (f)(1). Pub. L. 111–281 substituted “September 30, 2020” for “September 30, 2010”.
 
 2006—Subsec. (b)(2)(A). Pub. L. 109–304 substituted “the President” for “The President”.
@@ -340,6 +356,9 @@ Subsec. (d)(3). Pub. L. 106–554, § 1(a)(4) [div. A, § 1118(4)], added par. (
 Subsec. (f)(1). Pub. L. 106–554, § 1(a)(4) [div. A, § 1118(5)], substituted “September 30, 2005” for “September 30, 2003”.
 
 1998—Pub. L. 105–383 amended section generally, substituting provisions consisting of subsecs. (a) to (f) for former provisions consisting of subsecs. (a) to (c).
+
+#### Construction of 2021 Amendment
+Pub. L. 116–283, div. G, title LVXXXIII [LXXXIII], § 8334(b), Jan. 1, 2021, 134 Stat. 4706, provided that: “Notwithstanding [section 9307(f)(1) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section9307/f/1&num=0&edition=prelim), United States Code, in any case in which the date of enactment of this Act [Jan. 1, 2021] occurs after September 30, 2020, the Great Lakes Pilotage Advisory Committee in existence as of September 30, 2020, shall be deemed not expired during the period beginning on September 30, 2020 through the date of enactment of this Act. Accordingly, the committee membership, charter, and the activities of such Committee shall continue as though such Committee had not expired.”
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under [section 5376 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).

@@ -31,7 +31,7 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 96–101, Nov. 4, 1979, 93 Stat. 736, as amended, known as the Milwaukee Railroad Restructuring Act, which enacted this chapter and amended sections 231f, 662, 721, 821, and 825 of this title. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 96–101, Nov. 4, 1979, 93 Stat. 736, as amended, known as the Milwaukee Railroad Restructuring Act, which enacted this chapter and amended sections 231f, 662, 721, former section 821, and [section 825 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section825&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Short Title of 1983 Amendment
 Pub. L. 97–468, title II, § 201, Jan. 14, 1983, 96 Stat. 2543, provided that: “This title [amending sections 797c, 907, 913, 915, 1004, 1005, 1007, 1014, and 1017 of this title, repealing [section 1008 of this title](./chapter-019-rock-island-railroad-employee-assistance.md#section-1008) and enacting provisions set out as notes under this section] may be referred to as the ‘Bankrupt Railroad Service Preservation and Employee Protection Act of 1982’.”
@@ -383,14 +383,16 @@ Amendment by Pub. L. 96–448 effective Oct. 14, 1980, see section 710(d) of Pub
 
 **(e) Liability of United States respecting section 908 agreements** Except in connection with obligations guaranteed under this section, the United States shall incur no liability to employees in connection with any employee protection agreement entered into under [section 908 of this title](./chapter-018-milwaukee-railroad-restructuring.md#section-908).
 
-**(f) Applicability of [section 836 of this title](./chapter-017-railroad-revitalization-and-regulatory-reform.md#section-836)** [Section 836 of this title](./chapter-017-railroad-revitalization-and-regulatory-reform.md#section-836) shall not apply to any obligation guaranteed under this section.
+**(f) Applicability of [section 22404 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section22404&num=0&edition=prelim)** [Section 22404 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section22404&num=0&edition=prelim) shall not apply to any obligation guaranteed under this section.
 
 ### Statutory Notes
 
 #### References in Text
-[Section 831 of this title](./chapter-017-railroad-revitalization-and-regulatory-reform.md#section-831), referred to in subsec. (a), was repealed by Pub. L. 105–178, title VII, § 7203(a)(2), June 9, 1998, 112 Stat. 477, except for subsec. (c) of that section, which was renumbered and transferred to [section 823(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section823/b&num=0&edition=prelim) by section 7203(a)(4) of Pub. L. 105–178.
+[Section 831 of this title](./chapter-017-railroad-revitalization-and-regulatory-reform.md#section-831), referred to in subsec. (a), was repealed by Pub. L. 105–178, title VII, § 7203(a)(2), June 9, 1998, 112 Stat. 477, except for subsec. (c) of that section, which was renumbered and transferred to [section 823(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section823/b&num=0&edition=prelim) by section 7203(a)(4) of Pub. L. 105–178. [Section 823(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section823/b&num=0&edition=prelim) was subsequently repealed by Pub. L. 117–58, div. B, title I, § 21301(b)(1)(A), Nov. 15, 2021, 135 Stat. 683.
 
 #### Amendments
+2021—Subsec. (f). Pub. L. 117–58 substituted “[Section 22404 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section22404&num=0&edition=prelim)” for “[Section 836 of this title](./chapter-017-railroad-revitalization-and-regulatory-reform.md#section-836)”.
+
 1980—Subsec. (e). Pub. L. 96–448 inserted “to employees” after “no liability”.
 
 #### Effective Date of 1980 Amendment

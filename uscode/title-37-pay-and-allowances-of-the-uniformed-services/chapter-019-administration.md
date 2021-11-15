@@ -59,7 +59,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(b)**
 
-(1) A member who performs training or other duty without pay under subsection (a) may, in the discretion of the Secretary concerned, be authorized the travel and transportation allowances prescribed by section 474(a)–(d), and (f), of this title for travel performed to and from that training or duty, and, during the performance of that training or duty, be furnished with subsistence and quarters in kind or commutation thereof at a rate to be fixed by the Secretary concerned.
+(1) A member who performs training or other duty without pay under subsection (a) may, in the discretion of the Secretary concerned, be authorized the travel and transportation allowances prescribed by section 474(a)–(d), and (f),11 See References in Text below. of this title for travel performed to and from that training or duty, and, during the performance of that training or duty, be furnished with subsistence and quarters in kind or commutation thereof at a rate to be fixed by the Secretary concerned.
 
 (2) If a military technician (dual status), as described in [section 10216 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section10216&num=0&edition=prelim), is performing active duty without pay while on leave from technician employment, as authorized by [section 6323(d) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section6323/d&num=0&edition=prelim), the Secretary concerned may authorize the payment of a per diem allowance to the military technician in lieu of commutation for subsistence and quarters under paragraph (1).
 
@@ -80,6 +80,9 @@ In subsection (b), the words “section 404(a)–(d), and (f), of this title” 
 
 Subsection (d) is substituted for section 301(e) of existing title 37.
 
+#### References in Text
+[Section 474 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section474&num=0&edition=prelim), referred to in subsec. (b)(1), was repealed by Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767.
+
 #### Amendments
 2013—Subsec. (b)(1). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
 
@@ -93,13 +96,13 @@ Subsection (d) is substituted for section 301(e) of existing title 37.
 Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
 #### Effective Date of 1999 Amendment
-Pub. L. 106–65, div. A, title VI, § 672(c), Oct. 5, 1999, 113 Stat. 674, provided that: “The amendment made by subsection (a) [amending this section] shall be effective as of February 10, 1996, as if included in section 1039 of the National Defense Authorization Act for Fiscal Year 1996 (Public Law 104–106; 110 Stat. 432 [amending [section 6323 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section6323&num=0&edition=prelim), Government Organization and Employees]).
+Pub. L. 106–65, div. A, title VI, § 672(c), Oct. 5, 1999, 113 Stat. 674, provided that: “The amendment made by subsection (a) [amending this section] shall be effective as of February 10, 1996, as if included in section 1039 of the National Defense Authorization Act for Fiscal Year 1996 (Public Law 104–106; 110 Stat. 432 [amending [section 6323 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section6323&num=0&edition=prelim), Government Organization and Employees]).”
 
 
 <a id="section-1003"></a>
 ## § 1003. Assimilation of pay and allowances
 
-Chapters 3 and 5 and sections 402–403b, 474–477, 479–481, and 414 of this title apply equally to persons who are not serving as members of a uniformed service but whose pay or allowances, or both, are assimilated under law or a regulation prescribed under law, to the pay or allowances, or both, of commissioned officers, warrant officers, or enlisted members of any grade, rank, or rating in any uniformed service.
+Chapters 3 and 5 and sections 402–403b, 474–477, 479–481,11 See References in Text note below. and 414 of this title apply equally to persons who are not serving as members of a uniformed service but whose pay or allowances, or both, are assimilated under law or a regulation prescribed under law, to the pay or allowances, or both, of commissioned officers, warrant officers, or enlisted members of any grade, rank, or rating in any uniformed service.
 
 ### Statutory Notes
 
@@ -107,6 +110,9 @@ Chapters 3 and 5 and sections 402–403b, 474–477, 479–481, and 414 of this 
 | --- | --- | --- |
 | Revised section | Source (U.S. Code) | Source (Statutes at Large) |
 | 1003 | 37:309. | Oct. 12, 1949, ch. 681, § 509; restated May 19, 1952, ch. 310, § 3, 66 Stat. 80. |
+
+#### References in Text
+Sections 474 to 477 and 479 to 481 of this title, referred to in text, were repealed by Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767.
 
 #### Amendments
 2013—Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
@@ -174,7 +180,7 @@ The applicability of this section to members of the Air Force is based on Depart
 
 **(f)** Under regulations prescribed by the Secretary of Homeland Security, an advance of pay of not more than three months’ pay may be made to an officer of the Coast Guard who is ordered to sea duty or to or from shore duty beyond the seas. In addition, the Commandant of the Coast Guard may direct such advances as he considers necessary and proper to members of the Coast Guard stationed at distant stations where the pay and emoluments to which they are entitled cannot be paid regularly.
 
-**(g)** Under regulations prescribed by the Secretary concerned, the dislocation allowance authorized by [section 477 of this title](./chapter-008-travel-and-transportation-allowances.md#section-477) for a member of a uniformed service whose dependents are covered by [section 475a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section475a/a&num=0&edition=prelim) may be paid in advance of the evacuation of the dependents and to the dependents designated by the member.
+**(g)** Under regulations prescribed by the Secretary concerned, the dislocation allowance authorized by section 477 11 See References in Text note below. of this title for a member of a uniformed service whose dependents are covered by section 475a(a) 1 of this title may be paid in advance of the evacuation of the dependents and to the dependents designated by the member.
 
 **(h)** Notwithstanding subsections (a) and (b) of [section 3324 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3324&num=0&edition=prelim), the Secretary concerned may, when the last day of the pay period falls on a Saturday, Sunday, or legal holiday, authorize the payment of pay and allowances to members of uniformed service under his jurisdiction on the preceding workday but not more than three days before the last day of that pay period. If a member dies after he has received an advance payment under this subsection, but before the last day of the pay period for which the payment is made, no part of the amount so advance is recoverable by the United States.
 
@@ -201,6 +207,9 @@ In subsection (b), the words “may be paid in advance” are substituted for th
 In subsection (c), the words “Secretary concerned” are substituted for the words “heads of the departments concerned” to conform to the definition in section 101(5) of this revised title. The words “member of an armed force” are substituted for the words “members of the armed services”. The words “who are” are substituted for the words “in the event such dependents are”. The words “under subsection (a) or (b) of this section” are substituted for the words “in [section 310c of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section310c&num=0&edition=prelim)” to reflect the section of this revised title which restates that section. The words “dependents of members of the armed forces” are substituted for the words “military dependents.” The words “at a place” are omitted as surplusage.
 
 In subsection (d), the words “If a” are substituted for the words “In the event the”. The words “credited to the account” are substituted for the words “passed to credit in the account”.
+
+#### References in Text
+Sections 475a and 477 of this title, referred to in subsec. (g), were repealed by Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767.
 
 #### Amendments
 2013—Subsec. (g). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
@@ -281,7 +290,7 @@ Amendment by Pub. L. 96–76 effective Oct. 1, 1979, see section 314 of Pub. L. 
 Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on Oct. 22, 1968, see section 6 of Pub. L. 90–623, set out as a note under [section 5334 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5334&num=0&edition=prelim), Government Organization and Employees.
 
 #### Effective Date of 1965 Amendment
-Amendment by Pub. L. 89–26 effective Feb. 1, 1965, see section 2 of Pub. L. 89–26, as amended, set out as an Effective Date note under [section 475a of this title](./chapter-008-travel-and-transportation-allowances.md#section-475a).
+Pub. L. 89–26, § 2, May 22, 1965, 79 Stat. 117, as amended by Pub. L. 89–608, § 1, Sept. 30, 1966, 80 Stat. 851; Pub. L. 92–176, Dec. 2, 1971, 85 Stat. 494, provided that: “This Act [enacting [section 475a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section475a&num=0&edition=prelim) and amending this section and sections 407 and 411 of this title] becomes effective on February 1, 1965.”
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
@@ -393,7 +402,7 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 Provisions similar to those in subsec. (i) of this section were contained in [section 44c of Title 24](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title24-section44c&num=0&edition=prelim), Hospitals and Asylums, prior to repeal by Pub. L. 101–189, § 347(4).
 
 #### Amendments
-2021—Subsec. (b). Pub. L. 116–283, § 925(k)(2)(B)(i), which directed substitution of “the member” for “him”, was executed by making the substitution in both places it appeared, to reflect to the probable intent of Congress.
+2021—Subsec. (b). Pub. L. 116–283, § 925(k)(2)(B)(i), which directed substitution of “the member” for “him”, was executed by making the substitution in both places it appeared, to reflect the probable intent of Congress.
 
 Pub. L. 116–283, § 925(k)(2)(A)(i), substituted “, the Air Force, or the Space Force” for “or the Air Force”.
 

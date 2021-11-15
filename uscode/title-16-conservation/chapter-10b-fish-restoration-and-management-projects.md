@@ -65,13 +65,13 @@ Act Aug. 9, 1950, ch. 658, § 15, formerly § 16, formerly § 15, as added by Pu
 
 Act Aug. 9, 1950, ch. 658, as amended, is also popularly known as the “Federal Aid in Fish Restoration Act” and the “Fish Restoration and Management Projects Act”.
 
-#### Transfer of Functions
-Transfer of functions to Secretary of Commerce from Secretary of the Interior in view of: creation of National Oceanic and Atmospheric Administration in Department of Commerce and Office of Administrator of such Administration; abolition of Bureau of Commercial Fisheries in Department of the Interior and Office of Director of such Bureau; transfers of functions, including functions formerly vested by law in Secretary of the Interior or Department of the Interior which were administered through Bureau of Commercial Fisheries or were primarily related to such Bureau, exclusive of certain enumerated functions with respect to Great Lakes fishery research, Missouri River Reservoir research, Gulf-Breeze Biological Laboratory, and Trans-Alaska pipeline investigations; and transfer of marine sport fish program of Bureau of Sport Fisheries and Wildlife by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Fisheries Restoration and Irrigation Mitigation
 Pub. L. 106–502, Nov. 13, 2000, 114 Stat. 2294, as amended by Pub. L. 111–11, title XIII, § 13002, Mar. 30, 2009, 123 Stat. 1447; Pub. L. 114–322, title III, § 4010(b)(7), Dec. 16, 2016, 130 Stat. 1874, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Fisheries Restoration and Irrigation Mitigation Act of 2000’. “SEC. 2. DEFINITIONS.“In this Act:“(1) Pacific ocean drainage area.—The term ‘Pacific Ocean drainage area’ means the area comprised of portions of the States of Oregon, Washington, Montana, Idaho, and California from which water drains into the Pacific Ocean. “(2) Program.—The term ‘Program’ means the Fisheries Restoration and Irrigation Mitigation Program established by section 3(a). “(3) Secretary.—The term ‘Secretary’ means the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service. “SEC. 3. ESTABLISHMENT OF THE PROGRAM.“(a) Establishment.—There is established the Fisheries Restoration and Irrigation Mitigation Program within the Department of the Interior. “(b) Goals.—The goals of the Program are—“(1) to decrease fish mortality associated with the withdrawal of water for irrigation and other purposes without impairing the continued withdrawal of water for those purposes; and “(2) to decrease the incidence of juvenile and adult fish entering water supply systems. “(c) Impacts on Fisheries.—“(1) In general.—Under the Program, the Secretary, in consultation with the heads of other appropriate agencies, shall develop and implement projects to mitigate impacts to fisheries resulting from the construction and operation of water diversions by local governmental entities (including soil and water conservation districts) in the Pacific Ocean drainage area. “(2) Types of projects.—Projects eligible under the Program may include—“(A) the development, improvement, or installation of—“(i) fish screens; “(ii) fish passage devices; and “(iii) other related features agreed to by non-Federal interests, relevant Federal and tribal agencies, and affected States; and “(B) inventories by the States on the need and priority for projects described in clauses (i) through (iii). “(3) Priority.—The Secretary shall give priority to any project that has a total cost of less than $2,500,000. “SEC. 4. PARTICIPATION IN THE PROGRAM.“(a) Non-Federal.—“(1) In general.—Non-Federal participation in the Program shall be voluntary. “(2) Federal action.—The Secretary shall take no action that would result in any non-Federal entity being held financially responsible for any action under the Program, unless the entity applies to participate in the Program. “(b) Federal.—Development and implementation of projects under the Program on land or facilities owned by the United States shall be nonreimbursable Federal expenditures. “SEC. 5. EVALUATION AND PRIORITIZATION OF PROJECTS.“Evaluation and prioritization of projects for development under the Program shall be conducted on the basis of—“(1) benefits to fish species native to the project area, particularly to species that are listed as being, or considered by Federal or State authorities to be, endangered, threatened, or sensitive; “(2) the size and type of water diversion; “(3) the availability of other funding sources; “(4) cost effectiveness; and “(5) additional opportunities for biological or water delivery system benefits. “SEC. 6. ELIGIBILITY REQUIREMENTS.“(a) In General.—A project carried out under the Program shall not be eligible for funding unless—“(1) the project meets the requirements of the Secretary, as applicable, and any applicable State requirements; and “(2) the project is agreed to by all Federal and non-Federal entities with authority and responsibility for the project. “(b) Determination of Eligibility.—In determining the eligibility of a project under this Act, the Secretary shall—“(1) consult with other Federal, State, tribal, and local agencies; and “(2) make maximum use of all available data. “SEC. 7. COST SHARING.“(a) Non-Federal Share.—The non-Federal share of the cost of development and implementation of any project under the Program on land or at a facility that is not owned by the United States shall be 35 percent. “(b) Non-Federal Contributions.—The non-Federal participants in any project under the Program on land or at a facility that is not owned by the United States shall provide all land, easements, rights-of-way, dredged material disposal areas, and relocations necessary for the project. “(c) Credit for Contributions.—“(1) In general.—The value of land, easements, rights-of-way, dredged material disposal areas, and relocations provided under subsection (b) for a project shall be credited toward the non-Federal share of the costs of the project. “(2) Bonneville Power Administration.—“(A) In general.—The Secretary may, without further appropriation and without fiscal year limitation, accept any amounts provided to the Secretary by the Administrator of the Bonneville Power Administration. “(B) Non-federal share.—Any amounts provided by the Bonneville Power Administration directly or through a grant to another entity for a project carried under the Program shall be credited toward the non-Federal share of the costs of the project. “(d) Additional Costs.—“(1) Non-federal responsibilities.—The non-Federal participants in any project carried out under the Program on land or at a facility that is not owned by the United States shall be responsible for all costs associated with operating, maintaining, repairing, rehabilitating, and replacing the project. “(2) Federal responsibility.—The Federal Government shall be responsible for costs referred to in paragraph (1) for projects carried out on Federal land or at a Federal facility. “SEC. 8. LIMITATION ON ELIGIBILITY FOR FUNDING.“A project that receives funds under this Act shall be ineligible to receive Federal funds from any other source for the same purpose. “SEC. 9. REPORT.“On the expiration of the third fiscal year for which any amounts are made available to carry out this Act, the Secretary shall, after partnering with local governmental entities and the States in the Pacific Ocean drainage area, submit to Congress a report describing—“(1) the projects that have been completed under this Act; “(2) the projects that will be completed with amounts made available under this Act during the remaining fiscal years for which amounts are authorized to be appropriated under section 10; and “(3) recommended changes to the Program as a result of projects that have been carried out under this Act. “SEC. 10. AUTHORIZATION OF APPROPRIATIONS.“(a) In General.—There is authorized to be appropriated to carry out this Act $15 million through 2021. “(b) Limitations.—“(1) Single state.—“(A) In general.—Except as provided in subparagraph (B), not more than 25 percent of the total amount of funds made available under this section may be used for one or more projects in any single State. “(B) Waiver.—On notification to Congress, the Secretary may waive the limitation under subparagraph (A) if a State is unable to use the entire amount of funding made available to the State under this Act. “(2) Administrative expenses.—“(A) Definition of administrative expense.—In this paragraph, the term ‘administrative expense’ means, except as provided in subparagraph (B)(iii)(II), any expenditure relating to—“(i) staffing and overhead, such as the rental of office space and the acquisition of office equipment; and “(ii) the review, processing, and provision of applications for funding under the Program. “(B) Limitation.—“(i) In general.—Not more than 6 percent of amounts made available to carry out this Act for each fiscal year may be used for Federal and State administrative expenses of carrying out this Act. “(ii) Federal and state shares.—To the maximum extent practicable, of the amounts made available for administrative expenses under clause (i)— “(I) 50 percent shall be provided to the State agencies provided assistance under the Program; and “(II) an amount equal to the cost of 1 full-time equivalent Federal employee, as determined by the Secretary, shall be provided to the Federal agency carrying out the Program. “(iii) State expenses.—Amounts made available to States for administrative expenses under clause (i)— “(I) shall be divided evenly among all States provided assistance under the Program; and “(II) may be used by a State to provide technical assistance relating to the program, including any staffing expenditures (including staff travel expenses) associated with—“(aa) arranging meetings to promote the Program to potential applicants; “(bb) assisting applicants with the preparation of applications for funding under the Program; and “(cc) visiting construction sites to provide technical assistance, if requested by the applicant.”
 
 [Pub. L. 114–322, title III, § 4010(b)(7)(A), Dec. 16, 2016, 130 Stat. 1874, which directed the amendment of section 10(a) of Pub. L. 106–502, set out above, by substituting “$15 million through 2021” for “$25 million for each of fiscal years 2009 through 2015”, was executed by making the substitution for “$25,000,000 for each of fiscal years 2009 through 2015” to reflect the probable intent of Congress.]
+
+#### Transfer of Functions
+Transfer of functions to Secretary of Commerce from Secretary of the Interior in view of: creation of National Oceanic and Atmospheric Administration in Department of Commerce and Office of Administrator of such Administration; abolition of Bureau of Commercial Fisheries in Department of the Interior and Office of Director of such Bureau; transfers of functions, including functions formerly vested by law in Secretary of the Interior or Department of the Interior which were administered through Bureau of Commercial Fisheries or were primarily related to such Bureau, exclusive of certain enumerated functions with respect to Great Lakes fishery research, Missouri River Reservoir research, Gulf-Breeze Biological Laboratory, and Trans-Alaska pipeline investigations; and transfer of marine sport fish program of Bureau of Sport Fisheries and Wildlife by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-777a"></a>
@@ -138,16 +138,16 @@ Pub. L. 109–59, title X, § 10112(b)(2), Aug. 10, 2005, 119 Stat. 1927, which 
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–369 effective Oct. 1, 1984, and applicable with respect to fiscal years beginning after Sept. 30, 1984, see section 1014(b) of Pub. L. 98–369, set out as a note under [section 777 of this title](./chapter-10b-fish-restoration-and-management-projects.md#section-777).
 
-#### Transfer of Functions
-Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, see note set out under [section 777 of this title](./chapter-10b-fish-restoration-and-management-projects.md#section-777).
-
 #### Availability of Funds Until Expended
 Act Aug. 31, 1951, ch. 375, title I, § 101, 65 Stat. 262, provided that: “For carrying out the provisions of the Act of August 9, 1950 (Public Law 681) [this chapter], amounts equal to the revenues described in section 3 of said Act [this section] and credited during the next preceding fiscal year and each fiscal year thereafter, to remain available until expended.”
+
+#### Transfer of Functions
+Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, see note set out under [section 777 of this title](./chapter-10b-fish-restoration-and-management-projects.md#section-777).
 
 
 <a id="section-777c"></a>
 ## § 777c. Division of annual appropriations
-**(a) In general** For each fiscal year through fiscal year 2021, the balance of each annual appropriation made in accordance with the provisions of [section 777b of this title](./chapter-10b-fish-restoration-and-management-projects.md#section-777b) remaining after the distributions for administrative expenses and other purposes under subsection (b) and for activities under [section 777m(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section777m/e&num=0&edition=prelim) shall be distributed as follows:
+**(a) In general** For each fiscal year through fiscal year 2026, the balance of each annual appropriation made in accordance with the provisions of [section 777b of this title](./chapter-10b-fish-restoration-and-management-projects.md#section-777b) remaining after the distributions for administrative expenses and other purposes under subsection (b) and for activities under [section 777m(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section777m/e&num=0&edition=prelim) shall be distributed as follows:
 
 (1) **Coastal wetlands** — An amount equal to 18.673 percent to the Secretary of the Interior for distribution as provided in the Coastal Wetlands Planning, Protection,11 So in original. The comma probably should not appear. and Restoration Act ([16 U.S.C. 3951](./chapter-59a-wetlands.md#section-3951) et seq.).
 
@@ -165,39 +165,41 @@ Act Aug. 31, 1951, ch. 375, title I, § 101, 65 Stat. 262, provided that: “For
 
 (1) **In general**
 
-  (A) *Set-aside for administration* — From the annual appropriation made in accordance with [section 777b of this title](./chapter-10b-fish-restoration-and-management-projects.md#section-777b), for each fiscal year through fiscal year 2021, the Secretary of the Interior may use no more than the amount specified in subparagraph (B) for the fiscal year for expenses for administration incurred in the implementation of this chapter, in accordance with this section and [section 777h of this title](./chapter-10b-fish-restoration-and-management-projects.md#section-777h). The amount specified in subparagraph (B) for a fiscal year may not be included in the amount of the annual appropriation distributed under subsection (a) for the fiscal year.
+  (A) *Set-aside for administration* — From the annual appropriation made in accordance with [section 777b of this title](./chapter-10b-fish-restoration-and-management-projects.md#section-777b), for each fiscal year through fiscal year 2026, the Secretary of the Interior may use no more than the amount specified in subparagraph (B) for the fiscal year for expenses for administration incurred in the implementation of this chapter, in accordance with this section and [section 777h of this title](./chapter-10b-fish-restoration-and-management-projects.md#section-777h). The amount specified in subparagraph (B) for a fiscal year may not be included in the amount of the annual appropriation distributed under subsection (a) for the fiscal year.
 
   (B) *Available amounts* — The available amount referred to in subparagraph (A) is—
 
-    (i) for each of fiscal years 2001 and 2002, $9,000,000;
+    (i) for the fiscal year that includes November 15, 2021, the sum obtained by adding—
 
-    (ii) for fiscal year 2003, $8,212,000; and
+      (I) the available amount specified in this subparagraph for the preceding fiscal year; and
 
-    (iii) for fiscal year 2004 and each fiscal year thereafter, the sum of—
+      (II) $979,500; and
 
-      (I) the available amount for the preceding fiscal year; and
+    (ii) for each fiscal year thereafter, the sum obtained by adding—
 
-      (II) the amount determined by multiplying—
+      (I) the available amount specified in this subparagraph for the preceding fiscal year; and
 
-        (aa) the available amount for the preceding fiscal year; and
+      (II) the product obtained by multiplying—
+
+        (aa) the available amount specified in this subparagraph for the preceding fiscal year; and
 
         (bb) the change, relative to the preceding fiscal year, in the Consumer Price Index for All Urban Consumers published by the Department of Labor.
 
 (2) **Set-aside for Coast Guard administration**
 
-  (A) *In general* — From the annual appropriation made in accordance with [section 777b of this title](./chapter-10b-fish-restoration-and-management-projects.md#section-777b), for each of fiscal years 2016 through 2021, the Secretary of the department in which the Coast Guard is operating may use no more than the amount specified in subparagraph (B) for the fiscal year for the purposes set forth in [section 13107(c) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section13107/c&num=0&edition=prelim). The amount specified in subparagraph (B) for a fiscal year may not be included in the amount of the annual appropriation distributed under subsection (a) for the fiscal year.
+  (A) *In general* — From the annual appropriation made in accordance with [section 777b of this title](./chapter-10b-fish-restoration-and-management-projects.md#section-777b), for each of fiscal years 2022 through 2026, the Secretary of the department in which the Coast Guard is operating may use no more than the amount specified in subparagraph (B) for the fiscal year for the purposes set forth in [section 13107(c) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section13107/c&num=0&edition=prelim). The amount specified in subparagraph (B) for a fiscal year may not be included in the amount of the annual appropriation distributed under subsection (a) for the fiscal year.
 
   (B) *Available amounts* — The available amount referred to in subparagraph (A) is—
 
-    (i) for fiscal year 2016, $7,700,000; and
+    (i) for fiscal year 2022, $12,786,434; and
 
-    (ii) for fiscal year 2017 and each fiscal year thereafter, the sum of—
+    (ii) for fiscal year 2023 and each fiscal year thereafter, the sum obtained by adding—
 
-      (I) the available amount for the preceding fiscal year; and
+      (I) the available amount specified in this subparagraph for the preceding fiscal year; and
 
-      (II) the amount determined by multiplying—
+      (II) the product obtained by multiplying—
 
-        (aa) the available amount for the preceding fiscal year; and
+        (aa) the available amount specified in this subparagraph for the preceding fiscal year; and
 
         (bb) the change, relative to the preceding fiscal year, in the Consumer Price Index for All Urban Consumers published by the Department of Labor.
 
@@ -219,7 +221,7 @@ Act Aug. 31, 1951, ch. 375, title I, § 101, 65 Stat. 262, provided that: “For
 
 (1) **In general** — For each fiscal year, of the amounts appropriated under [section 777b of this title](./chapter-10b-fish-restoration-and-management-projects.md#section-777b), the Secretary of the Interior shall use only funds authorized for use under paragraphs (1), (3), (4), and (5) of subsection (a) to pay the expenses for administration incurred in carrying out the provisions of law referred to in those paragraphs, respectively.
 
-(2) **Maximum amount** — For each fiscal year, the Secretary of the Interior may use not more than $900,000 in accordance with paragraph (1).
+(2) **Maximum amount** — For each fiscal year, the Secretary of the Interior may use not more than $1,300,000 in accordance with paragraph (1).
 
 **(f) Transfer of certain funds** Amounts available under paragraphs (3) and (4) of subsection (a) that are unobligated by the Secretary of the Interior after 3 fiscal years shall be transferred to the Secretary of the department in which the Coast Guard is operating and shall be expended for State recreational boating safety programs under [section 13107(a) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section13107/a&num=0&edition=prelim).
 
@@ -231,6 +233,18 @@ The Coastal Wetlands Planning, Protection and Restoration Act, referred to in su
 Section 5604(c) of the Clean Vessel Act of 1992, referred to in subsec. (a)(3)(A), is section 5604(c) of Pub. L. 102–587, which is set out as a note under [section 1322 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1322&num=0&edition=prelim), Navigation and Navigable Waters.
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 117–58, § 28001(a)(1)(A), substituted “fiscal year 2026” for “fiscal year 2021” in introductory provisions.
+
+Subsec. (b)(1)(A). Pub. L. 117–58, § 28001(a)(1)(B)(i)(I), substituted “fiscal year 2026” for “fiscal year 2021”.
+
+Subsec. (b)(1)(B). Pub. L. 117–58, § 28001(a)(1)(B)(i)(II), added subpar. (B) and struck out former subpar. (B), which related to available amounts for fiscal years 2001 to 2004 and thereafter.
+
+Subsec. (b)(2)(A). Pub. L. 117–58, § 28001(a)(1)(B)(ii)(I), substituted “2022 through 2026” for “2016 through 2021”.
+
+Subsec. (b)(2)(B). Pub. L. 117–58, § 28001(a)(1)(B)(ii)(II), added subpar. (B) and struck out former subpar. (B), which related to available amounts for fiscal years 2016, 2017, and thereafter.
+
+Subsec. (e)(2). Pub. L. 117–58, § 28001(a)(1)(C), substituted ‘$1,300,000” for “$900,000”.
+
 2015—Subsec. (a). Pub. L. 114–94, § 10001(b)(1)(A), substituted “For each fiscal year through fiscal year 2021, the balance” for “For each fiscal year through 2015 and for the period beginning on October 1, 2015, and ending on October 29, 2015, the balance” and “activities under [section 777m(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section777m/e&num=0&edition=prelim)” for “multistate conservation grants under [section 777m of this title](./chapter-10b-fish-restoration-and-management-projects.md#section-777m)” in introductory provisions.
 
 Pub. L. 114–87, § 1103(1), which directed substitution of “December 4, 2015” for “November 20, 2015” in introductory provisions, could not be executed due to intervening amendment by Pub. L. 114–94, effective Oct. 1, 2015. See Amendment note above and Effective Date of 2015 Amendment note below.
@@ -715,37 +729,35 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 ## § 777h. Requirements and restrictions concerning use of amounts for expenses for administration
 **(a) Authorized expenses for administration** Except as provided in subsection (b), the Secretary of the Interior may use available amounts under [section 777c(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section777c/b&num=0&edition=prelim) only for expenses for administration that directly support the implementation of this chapter that consist of—
 
-(1) personnel costs of employees who directly administer this chapter on a full-time basis;
+(1) personnel costs of employees for the work hours of each employee spent directly administering this chapter, as those hours are certified by the supervisor of the employee;
 
-(2) personnel costs of employees who directly administer this chapter on a part-time basis for at least 20 hours each week, not to exceed the portion of those costs incurred with respect to the work hours of the employee during which the employee directly administers this chapter, as those hours are certified by the supervisor of the employee;
+(2) support costs directly associated with personnel costs authorized under paragraph (1), excluding costs associated with staffing and operation of regional offices of the United States Fish and Wildlife Service and the Department of the Interior other than for the purposes of this chapter;
 
-(3) support costs directly associated with personnel costs authorized under paragraphs (1) and (2), excluding costs associated with staffing and operation of regional offices of the United States Fish and Wildlife Service and the Department of the Interior other than for the purposes of this chapter;
+(3) costs of determining under [section 777e(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section777e/a&num=0&edition=prelim) whether State comprehensive plans and projects are substantial in character and design;
 
-(4) costs of determining under [section 777e(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section777e/a&num=0&edition=prelim) whether State comprehensive plans and projects are substantial in character and design;
-
-(5) overhead costs, including the costs of general administrative services, that are directly attributable to administration of this chapter and are based on—
+(4) overhead costs, including the costs of general administrative services, that are directly attributable to administration of this chapter and are based on—
 
   (A) actual costs, as determined by a direct cost allocation methodology approved by the Director of the Office of Management and Budget for use by Federal agencies; and
 
-  (B) in the case of costs that are not determinable under subparagraph (A), an amount per full-time equivalent employee authorized under paragraphs (1) and (2) that does not exceed the amount charged or assessed for costs per full-time equivalent employee for any other division or program of the United States Fish and Wildlife Service;
+  (B) in the case of costs that are not determinable under subparagraph (A), an amount per employee authorized under paragraph (1) that does not exceed the amount charged or assessed for costs per full-time equivalent employee for any other division or program of the United States Fish and Wildlife Service;
 
-(6) costs incurred in auditing, every 5 years, the wildlife and sport fish activities of each State fish and game department and the use of funds under [section 777e of this title](./chapter-10b-fish-restoration-and-management-projects.md#section-777e) by each State fish and game department;
+(5) costs incurred in auditing, every 5 years, the wildlife and sport fish activities of each State fish and game department and the use of funds under [section 777e of this title](./chapter-10b-fish-restoration-and-management-projects.md#section-777e) by each State fish and game department;
 
-(7) costs of audits under subsection (d);
+(6) costs of audits under subsection (d);
 
-(8) costs of necessary training of Federal and State full-time personnel who administer this chapter to improve administration of this chapter;
+(7) costs of necessary training of Federal and State full-time personnel who administer this chapter to improve administration of this chapter;
 
-(9) costs of travel to States, territories, and Canada by personnel who—
+(8) costs of travel to States, territories, and Canada by personnel who—
 
-  (A) administer this chapter on a full-time basis for purposes directly related to administration of State programs or projects; or
+  (A) administer this chapter for purposes directly related to administration of State programs or projects; or
 
   (B) administer grants under section 777e or 777m of this title;
 
-(10) costs of travel outside the United States (except travel to Canada), by personnel who administer this chapter on a full-time basis, for purposes that directly relate to administration of this chapter and that are approved directly by the Assistant Secretary for Fish and Wildlife and Parks;
+(9) costs of travel outside the United States (except travel to Canada), by personnel who administer this chapter on a full-time basis, for purposes that directly relate to administration of this chapter and that are approved directly by the Assistant Secretary for Fish and Wildlife and Parks;
 
-(11) relocation expenses for personnel who, after relocation, will administer this chapter on a full-time basis for at least 1 year, as certified by the Director of the United States Fish and Wildlife Service at the time at which the relocation expenses are incurred; and
+(10) relocation expenses for personnel who, after relocation, will administer this chapter on a full-time or part-time basis for at least 1 year, as certified by the Director of the United States Fish and Wildlife Service at the time at which the relocation expenses are incurred, subject to the condition that the percentage of the relocation expenses paid with funds made available pursuant to this chapter may not exceed the percentage of the work hours of the employee that are spent administering this chapter; and
 
-(12) costs to audit, evaluate, approve, disapprove, and advise concerning grants under sections 777e and 777m of this title.
+(11) costs to audit, evaluate, approve, disapprove, and advise concerning grants under sections 777e and 777m of this title.
 
 **(b) Reporting of other uses**
 
@@ -781,6 +793,24 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 In subsec. (d)(2)(A), “[section 132 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section132&num=0&edition=prelim)” substituted for “section 4 of the Office of Federal Procurement Policy Act ([41 U.S.C. 403](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section403&num=0&edition=prelim))” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
+2021—Subsec. (a)(1). Pub. L. 117–58, § 28001(a)(2)(A), added par. (1) and struck out former par. (1) which read as follows: “personnel costs of employees who directly administer this chapter on a full-time basis;”.
+
+Subsec. (a)(2). Pub. L. 117–58, § 28001(a)(2)(C), substituted “paragraph (1)” for “paragraphs (1) and (2)”.
+
+Pub. L. 117–58, § 28001(a)(2)(A), struck out par. (2) which read as follows: “personnel costs of employees who directly administer this chapter on a part-time basis for at least 20 hours each week, not to exceed the portion of those costs incurred with respect to the work hours of the employee during which the employee directly administers this chapter, as those hours are certified by the supervisor of the employee;”.
+
+Pub. L. 117–58, § 28001(a)(2)(B), redesignated par. (3) as (2).
+
+Subsec. (a)(3), (4). Pub. L. 117–58, § 28001(a)(2)(B), redesignated pars. (4) and (5) as (3) and (4), respectively.
+
+Subsec. (a)(4)(B). Pub. L. 117–58, § 28001(a)(2)(D), substituted “employee authorized under paragraph (1)” for “full-time equivalent employee authorized under paragraphs (1) and (2)”.
+
+Subsec. (a)(5) to (8). Pub. L. 117–58, § 28001(a)(2)(B), redesignated pars. (6) to (9) as (5) to (8), respectively.
+
+Subsec. (a)(8)(A). Pub. L. 117–58, § 28001(a)(2)(E), struck out “on a full-time basis” after “administer this chapter”.
+
+Subsec. (a)(9) to (12). Pub. L. 117–58, § 28001(a)(2)(B), (F), redesignated pars. (10) to (12) as (9) to (11), respectively, in par. (10) inserted “or part-time” after “full-time” and “, subject to the condition that the percentage of the relocation expenses paid with funds made available pursuant to this chapter may not exceed the percentage of the work hours of the employee that are spent administering this chapter” after “incurred”.
+
 2005—Subsecs. (a), (b)(1). Pub. L. 109–59 substituted “section 777c(b)” for “section 777c(d)(1)” in introductory provisions.
 
 2000—Pub. L. 106–408 amended section generally. Prior to amendment, section read as follows: “Out of the deductions set aside for administering and executing this chapter the Secretary of the Interior is authorized to employ such assistants, clerks, and other persons in the District of Columbia and elsewhere, to be taken from the eligible lists of the civil service; to rent or construct buildings outside of the District of Columbia; to purchase such supplies, materials, equipment, office fixtures, and apparatus; and to incur such travel and other expenses, including publication of technical and administrative reports, purchase, maintenance, and hire of passenger-carrying motor vehicles, as he may deem necessary for carrying out the provisions of this chapter.”
@@ -945,6 +975,8 @@ Section effective Oct. 1, 1988, see section 6(e) of Pub. L. 100–448, set out a
 
 (2) $400,000 shall be made available for the Sport Fishing and Boating Partnership Council established by the United States Fish and Wildlife Service.
 
+(3) A portion, as determined by the Sport Fishing and Boating Partnership Council, of funds disbursed for the purposes described in paragraph (2) but remaining unobligated as of October 1, 2021, shall be used to study the impact of derelict vessels and identify recyclable solutions for recreational vessels.
+
 **(f) Nonapplicability of Federal Advisory Committee Act** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to any activity carried out under this section.
 
 ### Statutory Notes
@@ -953,6 +985,8 @@ Section effective Oct. 1, 1988, see section 6(e) of Pub. L. 100–448, set out a
 The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+2021—Subsec. (e)(3). Pub. L. 117–58 added par. (3).
+
 2015—Subsec. (a)(1). Pub. L. 114–94, § 10001(f)(1), struck out “of each annual appropriation made in accordance with the provisions of [section 777b of this title](./chapter-10b-fish-restoration-and-management-projects.md#section-777b)” after “$3,000,000”.
 
 Subsec. (e). Pub. L. 114–94, § 10001(f)(2)(A), in introductory provisions, substituted “Not more than $1,200,000 of each annual appropriation made in accordance with the provisions of [section 777b of this title](./chapter-10b-fish-restoration-and-management-projects.md#section-777b) shall be distributed to the Secretary of the Interior for use as follows:” for “Of amounts made available under [section 777c(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section777c/b&num=0&edition=prelim) for each fiscal year—”.

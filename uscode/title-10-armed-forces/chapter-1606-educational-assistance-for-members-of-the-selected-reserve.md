@@ -148,9 +148,17 @@ source: >-
 
 (3) In no event shall payment of educational assistance under this subsection for such a test exceed the amount of the individual’s available entitlement under this chapter.
 
+**(k)**
+
+(1) In the case of an individual entitled to educational assistance under this chapter who is pursuing education or training described in subsection (a) or (c) of [section 2007 of this title](./chapter-101-training-generally.md#section-2007) on a half-time or more basis, the Secretary concerned shall, at the election of the individual, pay the individual educational assistance allowance under this chapter for pursuit of such education or training as if the individual were not also eligible to receive or in receipt of educational assistance under section 2007 for pursuit of such education or training.
+
+(2) Concurrent receipt of educational assistance under [section 2007 of this title](./chapter-101-training-generally.md#section-2007) and educational assistance under this chapter shall not be considered a duplication of benefits if the individual is enrolled in a program of education on a half-time or more basis.
+
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (k). Pub. L. 117–81 added subsec. (k).
+
 2016—Subsec. (c)(3)(B)(i). Pub. L. 114–315 substituted “12304, 12304a, or 12304b” for “or 12304”.
 
 2006—Subsec. (j). Pub. L. 109–163 added subsec. (j).
@@ -614,7 +622,7 @@ Amendment by Pub. L. 96–107 applicable only to individuals enlisting in the Re
 #### Extension of Time Limitations for Use of Entitlement: Educational Assistance for Members of the Selected Reserve
 Pub. L. 116–140, § 6(d), Apr. 28, 2020, 134 Stat. 634, provided that: “During the covered period, the Secretary concerned shall apply [section 16133(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section16133/b&num=0&edition=prelim), United States Code, as if it were amended by adding at the end the following new paragraph: “ ‘(5) In any case in which the Secretary concerned determines that a person entitled to educational assistance under this chapter has been prevented from using such person’s entitlement by reason of an Executive order of the President or due to an emergency situation, the Secretary concerned shall extend the period of entitlement prescribed in subsection (a) for a period equal to the number of months that the person was so prevented from using such entitlement, as determined by the Secretary.’.”
 
-[The term “covered period” as used in section 6(d) of Pub. L. 116–140, set out above, means Mar. 1, 2020, to Dec. 21, 2020, see section 2 of Pub. L. 116–140, set out as a note under [section 3031 of Title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3031&num=0&edition=prelim), Veterans’ Benefits.]
+[The term “covered period” as used in section 6(d) of Pub. L. 116–140, set out above, means Mar. 1, 2020, to June 1, 2022, see section 2 of Pub. L. 116–140, set out as a note under [section 3031 of Title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3031&num=0&edition=prelim), Veterans’ Benefits.]
 
 
 <a id="section-16134"></a>

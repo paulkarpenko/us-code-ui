@@ -157,7 +157,7 @@ Amendment by Pub. L. 90–77 effective first day of first calendar month which b
 The Radiation Exposure Compensation Act, referred to in subsec. (c), is Pub. L. 101–426, Oct. 15, 1990, 104 Stat. 920, as amended, which is set out as a note under [section 2210 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2210&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Amendments
-2021—Subsec. (b). Pub. L. 116–283 substituted ‘air, or space service” for “or air service” in two places.
+2021—Subsec. (b). Pub. L. 116–283 substituted “air, or space service” for “or air service” in two places.
 
 2004—Subsec. (c). Pub. L. 108–454 added subsec. (c).
 
@@ -972,7 +972,7 @@ Subsec. (b). Pub. L. 97–66, § 204(a), added subsec. (b).
 
 1974—Pub. L. 93–295 substituted “$108”, “$156”, “$201”, “$201”, and “$40” for “$92”, “$133”, “$172”, “$172”, and “$34”, in pars. (1), (2), (3), and (4), respectively.
 
-1971—Pub. L. 92–197 substituted “$92”, “$133”, “$172”, and “$172” and “$34” for “$88”, “$127”, “$164” and “164” and “$32”, in pars. (1), (2), (3), and (4). respectively.
+1971—Pub. L. 92–197 substituted “$92”, “$133”, “$172”, and “$172” and “$34” for “$88”, “$127”, “$164” and “164” and “$32”, in pars. (1), (2), (3), and (4), respectively.
 
 1970—Pub. L. 91–262 substituted “$88”, “$127”, “$164”, and “$164” and “$32”, for “$80”, “$115”, “$149”, and “$149” and “$29”, in pars. (1), (2), (3), and (4), respectively.
 

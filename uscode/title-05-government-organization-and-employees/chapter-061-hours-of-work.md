@@ -119,7 +119,7 @@ Repeal effective on first day of first applicable pay period beginning on or aft
 
 <a id="section-6103"></a>
 ## § 6103. Holidays
-**(a)** The following are legal public holidays:New Year’s Day, January 1. Birthday of Martin Luther King, Jr., the third Monday in January. Washington’s Birthday, the third Monday in February. Memorial Day, the last Monday in May. Independence Day, July 4. Labor Day, the first Monday in September. Columbus Day, the second Monday in October. Veterans Day, November 11. Thanksgiving Day, the fourth Thursday in November. Christmas Day, December 25.
+**(a)** The following are legal public holidays:New Year’s Day, January 1. Birthday of Martin Luther King, Jr., the third Monday in January. Washington’s Birthday, the third Monday in February. Memorial Day, the last Monday in May. Juneteenth National Independence Day, June 19. Independence Day, July 4. Labor Day, the first Monday in September. Columbus Day, the second Monday in October. Veterans Day, November 11. Thanksgiving Day, the fourth Thursday in November. Christmas Day, December 25.
 
 **(b)** For the purpose of statutes relating to pay and leave of employees, with respect to a legal public holiday and any other day declared to be a holiday by Federal statute or Executive order, the following rules apply:
 
@@ -168,6 +168,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 [Section 6309 of this title](./chapter-063-leave.md#section-6309), referred to in subsec. (b)(1)(B), was repealed by Pub. L. 94–183, § 2(26), Dec. 31, 1975, 89 Stat. 1058.
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 117–17 inserted item relating to Juneteenth National Independence Day.
+
 1998—Subsec. (b)(3). Pub. L. 105–261 added par. (3).
 
 1996—Subsec. (d). Pub. L. 104–201 added subsec. (d).

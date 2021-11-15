@@ -26,8 +26,16 @@ source: >-
 
 ### Statutory Notes
 
+#### Amendments
+2021—Pub. L. 116–283 renumbered [section 2227 of this title](./chapter-131-planning-and-coordination.md#section-2227) as this section.
+
 #### Effective Date of 2021 Amendment
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Effective Date
+Pub. L. 106–398, § 1 [[div. A], title X, § 1008(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–250, provided that: “(1) Subject to paragraph (2), the Secretary of Defense shall apply [section 2227 of title 10](./chapter-131-planning-and-coordination.md#section-2227), United States Code [now [10 U.S.C. 4601](./chapter-361-contract-administration.md#section-4601)] (as added by subsection (a)), with respect to contracts for which solicitations of offers are issued after June 30, 2001. “(2)(A) The Secretary may delay the implementation of section 2227 [now 4601] to a date after June 30, 2001, upon a finding that it is impracticable to implement that section until that later date. In no event, however, may the implementation be delayed to a date after October 1, 2002. “(B) Upon determining to delay the implementation of such section 2227 [now 4601] to a later date under subparagraph (A), the Secretary shall promptly publish a notice of the delay in the Federal Register. The notice shall include a specification of the later date on which the implementation of that section is to begin. Not later than 30 days before the later implementation date, the Secretary shall publish in the Federal Register another notice that such section is being implemented beginning on that date.”
+
+[Notice by Department of Defense of delay in the implementation of this section from June 30, 2001, until Oct. 1, 2002, was published on Aug. 21, 2001, at 66 F.R. 43841.]
 
 
 <a id="section-4602"></a>
@@ -38,8 +46,21 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 ### Statutory Notes
 
+#### Amendments
+2021—Pub. L. 116–283 renumbered [section 2226 of this title](./chapter-131-planning-and-coordination.md#section-2226) as this section.
+
+2018—Subsec. (b). Pub. L. 115–232 substituted “for services or deliverable items” for “for services, commercial items (as defined in [section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim)), or other deliverable items”.
+
+2011—Subsec. (b). Pub. L. 111–350 substituted “[section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim)” for “section 4(12) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(12)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section403/12&num=0&edition=prelim))”.
+
 #### Effective Date of 2021 Amendment
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under [section 453b of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section453b&num=0&edition=prelim), Domestic Security.
+
+#### Effective Date
+Pub. L. 106–398, § 1 [[div. A], title X, § 1006(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–248, provided that: “[Section 2226 of title 10](./chapter-131-planning-and-coordination.md#section-2226), United States Code [now [10 U.S.C. 4602](./chapter-361-contract-administration.md#section-4602)] (as added by subsection (a)), shall take effect on December 1, 2000.”
 
 
 <a id="section-4603"></a>
@@ -58,7 +79,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 (2) in the case of any other Department of Defense contract, to such officer or employee of the Department of Defense as the Secretary of Defense may direct.
 
-**(c) Availability of Notifications.—** The Secretary of Defense shall ensure that the notifications (or copies) are maintained in compiled form for a period of 5 years after the date of submission and are available for use in the preparation of the national defense technology and industrial base assessment carried out under section 4816 11 Reference reflects amendment made by section 1883(b)(2) of Pub. L. 116–283. of this title.
+**(c) Availability of Notifications.—** The Secretary of Defense shall ensure that the notifications (or copies) are maintained in compiled form for a period of 5 years after the date of submission and are available for use in the preparation of the national defense technology and industrial base assessment carried out under [section 4816 of this title](./chapter-382-policies-and-planning.md#section-4816).
 
 **(d) Inapplicability to Certain Contracts.—** This section shall not apply to contracts for any of the following:
 
@@ -80,5 +101,32 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 ### Statutory Notes
 
+#### Prior Provisions
+Prior sections 4621 and 4622 were renumbered sections 7621 and 7622 of this title, respectively.
+
+A prior section 4623, act Aug. 10, 1956, ch. 1041, 70A Stat. 258, provided that the Quartermaster Corps sell not more than 16 ounces of tobacco a month to an enlisted member of the Army on active duty who requests it, prior to repeal by Pub. L. 91–482, § 1(a), Oct. 21, 1970, 84 Stat. 1082.
+
+Prior sections 4624 to 4629 were renumbered sections 7624 to 7629 of this title, respectively.
+
+#### Amendments
+2021—Pub. L. 116–283, § 1861(b), renumbered [section 2410g of this title](./chapter-141-miscellaneous-provisions-relating-to-property.md#section-2410g) as this section.
+
+Subsec. (c). Pub. L. 116–283, § 1883(b)(2), substituted “section 4816” for “section 2505”.
+
+2018—Subsec. (d)(1). Pub. L. 115–232 substituted “Commercial products or commercial services (as defined in sections 103 and 103a, respectively, of title 41)” for “Commercial items (as defined in [section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim))”.
+
+2011—Subsec. (d)(1). Pub. L. 111–350 substituted “[section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim))” for “section 4(12) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(12)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section403/12&num=0&edition=prelim)))”.
+
+1996—Subsec. (d)(1). Pub. L. 104–106 inserted “(as defined in section 4(12) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(12)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section403/12&num=0&edition=prelim)))” before period at end.
+
 #### Effective Date of 2021 Amendment
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under [section 453b of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section453b&num=0&edition=prelim), Domestic Security.
+
+#### Effective Date of 1996 Amendment
+For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under [section 2302 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2302).
+
+#### Effective Date of 1992 Amendment
+Pub. L. 102–484, div. A, title VIII, § 840(b), Oct. 23, 1992, 106 Stat. 2467, provided that: “[Section 2410g of title 10](./chapter-141-miscellaneous-provisions-relating-to-property.md#section-2410g), United States Code [now [10 U.S.C. 4603](./chapter-361-contract-administration.md#section-4603)] (as added by subsection (a)), shall take effect 90 days after the date of the enactment of this Act [Oct. 23, 1992].”

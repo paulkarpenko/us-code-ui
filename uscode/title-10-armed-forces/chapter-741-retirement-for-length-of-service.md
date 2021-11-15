@@ -30,7 +30,7 @@ A prior section 7311 was renumbered [section 8681 of this title](./chapter-863-n
 
 A prior section 7312 was renumbered [section 8682 of this title](./chapter-863-naval-vessels.md#section-8682).
 
-Another prior section 7312, added Pub. L. 100–180, div. A, title XI, § 1102(a)(1), Dec. 4, 1987, 101 Stat. 1145; amended Pub. L. 100–456, div. A, title XII, § 1223, Sept. 29, 1988, 102 Stat. 2054; Pub. L. 101–189, div. A, title XVI, § 1612, Nov. 29, 1989, 103 Stat. 1601, related to progress payments under certain contracts for repair or maintenance of naval vessels, prior to repeal by Pub. L. 103–355, title II, § 2001(j)(1), title X, § 10001, Oct. 13, 1994, 108 Stat. 3303, 3404, effective Oct. 13, 1994, except as otherwise provided. See [section 2307(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2307/g&num=0&edition=prelim).
+Another prior section 7312, added Pub. L. 100–180, div. A, title XI, § 1102(a)(1), Dec. 4, 1987, 101 Stat. 1145; amended Pub. L. 100–456, div. A, title XII, § 1223, Sept. 29, 1988, 102 Stat. 2054; Pub. L. 101–189, div. A, title XVI, § 1612, Nov. 29, 1989, 103 Stat. 1601, related to progress payments under certain contracts for repair or maintenance of naval vessels, prior to repeal by Pub. L. 103–355, title II, § 2001(j)(1), title X, § 10001, Oct. 13, 1994, 108 Stat. 3303, 3404, effective Oct. 13, 1994, except as otherwise provided. See [section 3808 of this title](./chapter-277-contract-financing.md#section-3808).
 
 A prior section 7313 was renumbered [section 8683 of this title](./chapter-863-naval-vessels.md#section-8683).
 

@@ -23,6 +23,15 @@ In this subchapter:
 
 ### Statutory Notes
 
+#### Codification
+The text of pars. (1)(A), (2)–(4), and (6) of subsec. (l) of [section 2324 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2324), which were transferred to this section and amended by Pub. L. 116–283, § 1832(b)(1)–(3), was based on Pub. L. 103–355, title II, § 2101(d), Oct. 13, 1994, 108 Stat. 3308; Pub. L. 105–85, div. A, title VIII, § 808(a)(2), Nov. 18, 1997, 111 Stat. 1836; Pub. L. 115–232, div. A, title VIII, § 836(c)(9), Aug. 13, 2018, 132 Stat. 1866.
+
+#### Prior Provisions
+A prior section 3741 was renumbered [section 7271 of this title](./chapter-737-decorations-and-awards.md#section-7271).
+
+#### Amendments
+2021—Pub. L. 116–283, § 1832(b)(1)–(3), redesignated pars. (4), (1)(A), (6), (2), and (3) of section 2324(l) of this title as pars. (1) to (5), respectively, of this section and inserted headings.
+
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
@@ -33,6 +42,15 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 Effective on October 1 of each year that is divisible by five, the amount set forth in [section 3741(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3741/2&num=0&edition=prelim) shall be adjusted in accordance with [section 1908 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1908&num=0&edition=prelim).
 
 ### Statutory Notes
+
+#### Codification
+The text of par. (1)(B) of subsec. (l) of [section 2324 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2324), which was transferred to this section and amended by Pub. L. 116–283, § 1832(b)(4), was based on Pub. L. 103–355, title II, § 2101(d), Oct. 13, 1994, 108 Stat. 3308; Pub. L. 115–91, div. A, title VIII, § 811(e), Dec. 12, 2017, 131 Stat. 1460.
+
+#### Prior Provisions
+A prior section 3742 was renumbered [section 7272 of this title](./chapter-737-decorations-and-awards.md#section-7272).
+
+#### Amendments
+2021—Pub. L. 116–283, § 1832(b)(4), transferred subpar. (B) of section 2324(l)(1) of this title to this section, struck out subpar. (B) designation at beginning, and substituted “[section 3741(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3741/2&num=0&edition=prelim)” for “subparagraph (A)”.
 
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -71,6 +89,23 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 (2) is appealable in the manner provided in [section 7104(a) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section7104/a&num=0&edition=prelim).
 
 ### Statutory Notes
+
+#### Codification
+The text of subsec. (a) of [section 2324 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2324), which was transferred to this section by Pub. L. 116–283, § 1832(c)(1), was based on Pub. L. 99–145, title IX, § 911(a)(1), Nov. 8, 1985, 99 Stat. 682; Pub. L. 102–484, div. A, title VIII, § 818(a)(1)(A), Oct. 23, 1992, 106 Stat. 2457; Pub. L. 103–355, title II, § 2101(a), Oct. 13, 1994, 108 Stat. 3306.
+
+The text of subsec. (b) of [section 2324 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2324), which was transferred to this section and amended by Pub. L. 116–283, § 1832(c), was based on Pub. L. 99–145, title IX, § 911(a)(1), Nov. 8, 1985, 99 Stat. 682; Pub. L. 102–484, div. A, title VIII, § 818(a)(1)(B), (2), Oct. 23, 1992, 106 Stat. 2457, 2458; Pub. L. 103–355, title II, § 2101(a)(2), Oct. 13, 1994, 108 Stat. 3306.
+
+The text of subsec. (c) of [section 2324 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2324), which was transferred to this section by Pub. L. 116–283, § 1832(c)(1), was based on Pub. L. 102–484, div. A, title VIII, § 818(a)(5), Oct. 23, 1992, 106 Stat. 2458; Pub. L. 103–355, title II, § 2101(a)(3), Oct. 13, 1994, 108 Stat. 3307.
+
+The text of subsec. (d) of [section 2324 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2324), which was transferred to this section by Pub. L. 116–283, § 1832(c)(1), was based on Pub. L. 99–145, title IX, § 911(a)(1), Nov. 8, 1985, 99 Stat. 683; Pub. L. 102–484, div. A, title VIII, § 818(a)(4), Oct. 23, 1992, 106 Stat. 2458; Pub. L. 103–355, title II, § 2101(a)(4), Oct. 13, 1994, 108 Stat. 3307; Pub. L. 111–350, § 5(b)(19)(A), (B), Jan. 4, 2011, 124 Stat. 3844.
+
+#### Prior Provisions
+A prior section 3743 was renumbered [section 7273 of this title](./chapter-737-decorations-and-awards.md#section-7273).
+
+#### Amendments
+2021—Pub. L. 116–283, § 1832(c)(1), transferred subsecs. (a) to (d) of [section 2324 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2324) to this section.
+
+Subsec. (b). Pub. L. 116–283, § 1832(c)(2), realigned margins of pars. (1) and (2) and inserted par. (2) heading.
 
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -154,6 +189,42 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 ### Statutory Notes
 
+#### References in Text
+Section 4 of the Buy American Act (as added by section 7002(2) of the Omnibus Trade and Competitiveness Act of 1988), referred to in subsec. (d)(3), was section 4 of act Mar. 3, 1933, ch. 212, title III, as added Pub. L. 100–418, title VII, § 7002(2), Aug. 23, 1988, 102 Stat. 1545. Section 4, which was classified to section 10b–1 of former Title 41, Public Contracts, was omitted from the Code in view of section 7004 of Pub. L. 100–418 which provided that the amendment by Pub. L. 100–418 which enacted section 4 ceased to be effective on Apr. 30, 1996. Section 4 was subsequently repealed by Pub. L. 111–350, § 7(b), Jan. 4, 2011, 124 Stat. 3855, which Act enacted Title 41, Public Contracts.
+
+#### Codification
+The text of subsec. (e) of [section 2324 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2324), which was transferred to this section and amended by Pub. L. 116–283, § 1832(d), was based on Pub. L. 99–145, title IX, § 911(a)(1), Nov. 8, 1985, 99 Stat. 683; Pub. L. 99–190, § 101(b) [title VIII, § 8112(a)(1)], Dec. 19, 1985, 99 Stat. 1185, 1223; Pub. L. 100–180, div. A, title VIII, § 805(a), Dec. 4, 1987, 101 Stat. 1126; Pub. L. 100–370, § 1(f)(2)(A), July 19, 1988, 102 Stat. 846; Pub. L. 100–456, div. A, title III, § 322(a), title VIII, § 832(a), Sept. 29, 1988, 102 Stat. 1952, 2023; Pub. L. 100–700, § 8(b)(1), Nov. 19, 1988, 102 Stat. 4636; Pub. L. 101–189, div. A, title III, § 311(a)(1), Nov. 29, 1989, 103 Stat. 1411; Pub. L. 101–510, div. A, title XIII, § 1301(10), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 102–190, div. A, title III, § 346(a), Dec. 5, 1991, 105 Stat. 1346; Pub. L. 102–484, div. A, title XIII, § 1352(b), Oct. 23, 1992, 106 Stat. 2559; Pub. L. 103–355, title II, § 2101(a)(5), (b), Oct. 13, 1994, 108 Stat. 3307, 3308; Pub. L. 104–106, div. D, title XLIII, § 4321(b)(9)(A), Feb. 10, 1996, 110 Stat. 672; Pub. L. 105–85, div. A, title VIII, § 808(a)(1), Nov. 18, 1997, 111 Stat. 1836; Pub. L. 111–350, § 5(b)(19)(C), (D), Jan. 4, 2011, 124 Stat. 3844; Pub. L. 112–81, div. A, title VIII, § 803(a), Dec. 31, 2011, 125 Stat. 1485; Pub. L. 113–66, div. A, title VIII, § 811(a), Dec. 26, 2013, 127 Stat. 806; Pub. L. 113–67, div. A, title VII, § 702(a)(2), Dec. 26, 2013, 127 Stat. 1189; Pub. L. 113–291, div. A, title VIII, § 857, Dec. 19, 2014, 128 Stat. 3460.
+
+#### Prior Provisions
+A prior section 3744 was renumbered [section 7274 of this title](./chapter-737-decorations-and-awards.md#section-7274).
+
+#### Amendments
+2021—Pub. L. 116–283, § 1832(d)(1), transferred subsec. (e) of [section 2324 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2324) to this section, struck out subsec. (e) designation and heading “Specific Costs Not Allowable” at beginning, and redesignated pars. (1), (3), (4), and (2) as subsecs. (a) to (d), respectively.
+
+Subsec. (a). Pub. L. 116–283, § 1832(d)(2)(A), (B), after redesignation of par. (1) of [section 2324(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2324/e&num=0&edition=prelim) as subsec. (a) of this section, inserted heading and redesignated subpars. (A) to (Q) as pars. (1) to (17), respectively, including two subpars. (P) both redesignated par. (16).
+
+Subsec. (a)(15). Pub. L. 116–283, § 1832(d)(2)(C), substituted “[section 3750 of this title](./chapter-273-allowable-costs.md#section-3750)” for “subsection (k)”.
+
+Subsec. (a)(17). Pub. L. 116–283, § 1832(d)(2)(D), substituted “[section 3750(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3750/c&num=0&edition=prelim)” for “subsection (k)(2)”.
+
+Subsec. (b). Pub. L. 116–283, § 1832(d)(3)(A), (B), after redesignation of par. (3) of [section 2324(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2324/e&num=0&edition=prelim) as subsec. (b) of this section, inserted heading and redesignated subpars. (A) to (C) as pars. (1) to (3), respectively.
+
+Subsec. (b)(1). Pub. L. 116–283, § 1832(d)(3)(A), (C), inserted heading, substituted “subsection (d)” for “paragraph (2)” and “subsections (a)(13) and (a)(14)” for “paragraphs (1)(M) and (1)(N)” in introductory provisions, and redesignated cls. (i) to (iii) of former section 2324(e)(3)(A) as subpars. (A) to (C), respectively.
+
+Subsec. (b)(2). Pub. L. 116–283, § 1832(d)(3)(D), inserted heading, realigned margin, redesignated cls. (i) and (ii) of former section 2324(e)(3)(B) as subpars. (A) and (B), respectively, and, in subpar. (A), substituted “paragraph (1)” for “subparagraph (A)”.
+
+Subsec. (b)(3). Pub. L. 116–283, § 1832(d)(3)(E), inserted heading, realigned margin, and substituted “paragraph (1)” for “subparagraph (A)”.
+
+Subsec. (c). Pub. L. 116–283, § 1832(d)(4), after redesignation of par. (4) of [section 2324(e)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2324/e/3&num=0&edition=prelim) as subsec. (c) of this section, inserted heading and substituted “this subchapter” for “this section”.
+
+Subsec. (d). Pub. L. 116–283, § 1832(d)(5)(A), (B), after redesignation of par. (2) of [section 2324(e)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2324/e/3&num=0&edition=prelim) as subsec. (d) of this section, inserted heading, redesignated subpars. (A) to (C) as pars. (1) to (3), respectively, and realigned margins.
+
+Subsec. (d)(1). Pub. L. 116–283, § 1832(d)(5)(A), (C), inserted heading and substituted “subsections (a)(13) and (a)(14)” for “paragraphs (1)(M) and (1)(N)”.
+
+Subsec. (d)(2). Pub. L. 116–283, § 1832(d)(5)(D), inserted par. heading, substituted “paragraph (1)” for “subparagraph (A)” in introductory provisions, redesignated cls. (i) and (ii) of former section 2324(e)(2)(B) as subpars. (A) and (B), respectively, and inserted subpar. headings.
+
+Subsec. (d)(3). Pub. L. 116–283, § 1832(d)(5)(E), inserted heading and substituted “Paragraph (1)” for “Subparagraph (A)”.
+
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
@@ -212,6 +283,23 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 ### Statutory Notes
 
+#### Codification
+The text of subsec. (f) of [section 2324 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2324), which was transferred to this section and amended by Pub. L. 116–283, § 1832(e), was based on Pub. L. 99–145, title IX, § 911(a)(1), Nov. 8, 1985, 99 Stat. 683; Pub. L. 100–456, div. A, title VIII, § 826(a), Sept. 29, 1988, 102 Stat. 1952; Pub. L. 100–463, title VIII, § 8105(a), Oct. 1, 1988, 102 Stat. 2270–36; Pub. L. 100–526, title I, § 106(a)(2), Oct. 24, 1988, 102 Stat. 2625; Pub. L. 102–484, div. A, title X, § 1052(26)(A), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–355, title II, § 2101(a)(6), (c), Oct. 13, 1994, 108 Stat. 3307, 3308, as amended by Pub. L. 104–106, div. D, title XLIII, § 4321(a)(5), Feb. 10, 1996, 110 Stat. 671.
+
+Another section 1832(e) of Pub. L. 116–283 amended [section 3746 of this title](./chapter-273-allowable-costs.md#section-3746).
+
+#### Prior Provisions
+A prior section 3745 was renumbered [section 7275 of this title](./chapter-737-decorations-and-awards.md#section-7275).
+
+#### Amendments
+2021—Pub. L. 116–283, § 1832(e)(1)(A), transferred subsec. (f) of [section 2324 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2324) to this section and struck out subsec. (f) designation and heading “Required Regulations” at beginning.
+
+Subsec. (a). Pub. L. 116–283, § 1832(e)(1)(B), (2), redesignated first two sentences of par. (1) of [section 2324(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2324/f&num=0&edition=prelim) as subsec. (a) of this section and inserted heading. Third sentence designated subsec. (b).
+
+Subsec. (b). Pub. L. 116–283, § 1832(e)(1)(C), (3), designated third sentence of subsec. (a) as subsec. (b), inserted heading, and redesignated subpars. (A) to (Q) as pars. (1) to (17), respectively.
+
+Subsec. (c). Pub. L. 116–283, § 1832(e)(1)(D), (E), (4), redesignated pars. (2) to (4) of [section 2324(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2324/f&num=0&edition=prelim) collectively as subsec. (c) of this section and individually as pars. (1) to (3), respectively, thereof, inserted subsec. and par. headings, and realigned margins.
+
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
@@ -222,6 +310,17 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 The regulations referred to in sections 3744 and 3745(a) and (b) of this title shall require prime contractors of a covered contract, to the maximum extent practicable, to apply the provisions of such regulations to all subcontractors of the covered contract.
 
 ### Statutory Notes
+
+#### Codification
+The text of subsec. (g) of [section 2324 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2324), which was transferred to this section and amended by Pub. L. 116–283, § 1832(e), was based on Pub. L. 99–145, title IX, § 911(a)(1), Nov. 8, 1985, 99 Stat. 684; Pub. L. 103–355, title II, § 2101(a)(7), Oct. 13, 1994, 108 Stat. 3308.
+
+Another section 1832(e) of Pub. L. 116–283 amended [section 3745 of this title](./chapter-273-allowable-costs.md#section-3745).
+
+#### Prior Provisions
+A prior section 3746 was renumbered [section 7276 of this title](./chapter-737-decorations-and-awards.md#section-7276).
+
+#### Amendments
+2021—Pub. L. 116–283, § 1832(e), transferred subsec. (g) of [section 2324 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2324) to this section, struck out subsec. (g) designation and heading “Applicability of Regulations to Subcontractors” at beginning, and substituted “sections 3744 and 3745(a) and (b) of this title” for “subsections (e) and (f)(1)”.
 
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -239,6 +338,19 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 ### Statutory Notes
 
+#### Codification
+The text of subsec. (h) of [section 2324 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2324), which was transferred to this section and amended by Pub. L. 116–283, § 1832(f), was based on Pub. L. 99–145, title IX, § 911(a)(1), Nov. 8, 1985, 99 Stat. 684; Pub. L. 99–190, § 101(b) [title VIII, § 8112(a)(2)], Dec. 19, 1985, 99 Stat. 1185, 1223; Pub. L. 103–355, title II, § 2101(a)(8), Oct. 13, 1994, 108 Stat. 3308; Pub. L. 104–106, div. D, title XLIII, § 4321(b)(9)(B), Feb. 10, 1996, 110 Stat. 672.
+
+#### Prior Provisions
+A prior section 3746 was renumbered [section 7276 of this title](./chapter-737-decorations-and-awards.md#section-7276).
+
+#### Amendments
+2021—Pub. L. 116–283, § 1832(f)(1)(A), transferred subsec. (h) of [section 2324 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2324) to this section and struck out subsec. (h) designation and heading “Contractor Certification Required” at beginning.
+
+Subsec. (a). Pub. L. 116–283, § 1832(f)(1)(B), (2), redesignated par. (1) of [section 2324(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2324/h&num=0&edition=prelim) as subsec. (a) of this section and inserted heading.
+
+Subsec. (b). Pub. L. 116–283, § 1832(f)(1)(B), (3), redesignated par. (2) of [section 2324(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2324/h&num=0&edition=prelim) as subsec. (b) of this section, inserted heading, substituted “subsection (a)” for “paragraph (1)” in introductory provisions, and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively.
+
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
@@ -250,6 +362,15 @@ The submission to an agency of a proposal for settlement of costs for any period
 
 ### Statutory Notes
 
+#### Codification
+The text of subsec. (i) of [section 2324 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2324), which was transferred to this section and amended by Pub. L. 116–283, § 1832(g), was based on Pub. L. 99–145, title IX, § 911(a)(1), Nov. 8, 1985, 99 Stat. 684; Pub. L. 103–355, title II, § 2101(a)(9), Oct. 13, 1994, 108 Stat. 3308.
+
+#### Prior Provisions
+A prior section 3748 was renumbered [section 7278 of this title](./chapter-737-decorations-and-awards.md#section-7278).
+
+#### Amendments
+2021—Pub. L. 116–283, § 1832(g), transferred subsec. (i) of [section 2324 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2324) to this section and struck out subsec. (i) designation and heading “Penalties for Submission of Cost Known as Not Allowable” at beginning.
+
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
@@ -260,6 +381,15 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 In a proceeding before the Armed Services Board of Contract Appeals, the United States Court of Federal Claims, or any other Federal court in which the reasonableness of indirect costs for which a contractor seeks reimbursement from the Department of Defense is in issue, the burden of proof shall be upon the contractor to establish that those costs are reasonable.
 
 ### Statutory Notes
+
+#### Codification
+The text of subsec. (j) of [section 2324 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2324), which was transferred to this section and amended by Pub. L. 116–283, § 1832(h), was based on Pub. L. 100–370, § 1(f)(3)(A), July 19, 1988, 102 Stat. 846; Pub. L. 103–355, title II, § 2101(a)(10), Oct. 13, 1994, 108 Stat. 3308.
+
+#### Prior Provisions
+A prior section 3749 was renumbered [section 7279 of this title](./chapter-737-decorations-and-awards.md#section-7279).
+
+#### Amendments
+2021—Pub. L. 116–283, § 1832(h), transferred subsec. (j) of [section 2324 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2324) to this section and struck out subsec. (j) designation and heading “Contractor To Have Burden of Proof” at beginning.
 
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -336,9 +466,51 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
   (A) such proceeding involves the same contractor or subcontractor, or personal services contractor misconduct alleged as the basis of another criminal, civil, or administrative proceeding; and
 
-  (B) the costs of such other proceeding are not allowable under paragraph (1).11 So in original. Probably should be “under subsection (b).”
+  (B) the costs of such other proceeding are not allowable under subsection (b).
 
 ### Statutory Notes
+
+#### Codification
+The text of subsec. (k) of [section 2324 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2324), which was transferred to this section and amended by Pub. L. 116–283, § 1832(i), was based on Pub. L. 100–700, § 8(b), Nov. 19, 1988, 102 Stat. 4636; Pub. L. 101–189, div. A, title VIII, § 853(a)(1)(A), (b)(3), Nov. 29, 1989, 103 Stat. 1518; Pub. L. 103–355, title II, § 2101(a)(11), Oct. 13, 1994, 108 Stat. 3308; Pub. L. 112–239, div. A, title VIII, § 827(g), Jan. 2, 2013, 126 Stat. 1836; Pub. L. 114–261, § 1(b)(1), Dec. 14, 2016, 130 Stat. 1362.
+
+#### Prior Provisions
+Prior sections 3750 to 3756 were renumbered sections 7280 to 7286 of this title, respectively.
+
+#### Amendments
+2021—Subsec. (a). Pub. L. 116–283, § 1832(i)(1)(A), (B), redesignated par. (6) of [section 2324(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2324/k&num=0&edition=prelim) as subsec. (a) of this section, inserted heading, substituted “In this section” for “In this subsection” in introductory provisions, and redesignated subpars. (B), (C), and (A) as pars. (1) to (3), respectively.
+
+Subsec. (a)(1). Pub. L. 116–283, § 1832(i)(1)(C), inserted heading and redesignated cls. (i) and (ii) and its subcls. (I) to (IV) as subpars. (A) and (B) and cls. (i) to (iv), respectively.
+
+Subsec. (a)(2), (3). Pub. L. 116–283, § 1832(i)(1)(D), (E), inserted heading.
+
+Subsec. (b). Pub. L. 116–283, § 1832(i)(2), (3), redesignated par. (1) of subsec. (k) of [section 2324 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2324) as subsec. (b) of this section, inserted heading, substituted “this section” for “this subsection” and “section 4701” for “section 2409”, redesignated inline subpars. (A) and (B) as pars. (1) and (2), respectively, and reformatted text, and substituted “in section 4701(a)(1)” for “in subparagraphs (A) through (C) of section 2409(a)(1)” in par. (1) and “subsection (c)” for “paragraph (2)”in par. (2).
+
+Subsec. (c). Pub. L. 116–283, § 1832(i)(2), (4)(A)–(D), redesignated par. (2) of [section 2324(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2324/k&num=0&edition=prelim) as subsec. (c) of this section, inserted heading, substituted “subsection (b)(2)” for “paragraph (1)(B)” in introductory provisions, and “subsection (b)” for “paragraph (1)” wherever appearing, and redesignated subpars. (A) to (E) as pars. (1) to (5), respectively.
+
+Subsec. (c)(3). Pub. L. 116–283, § 1832(i)(4)(E), substituted “section 4701” for “section 2409”.
+
+Subsec. (c)(4). Pub. L. 116–283, § 1832(i)(4)(F), redesignated cls. (i) to (iii) as subpars. (A) to (C), respectively.
+
+Subsec. (c)(5). Pub. L. 116–283, § 1832(i)(4)(G), substituted “paragraphs (1), (2), (3), or (4)” for “subparagraph (A), (B), (C), or (D)”.
+
+Subsec. (d). Pub. L. 116–283, § 1832(i)(2), (5), redesignated par. (3) of [section 2324(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2324/k&num=0&edition=prelim) as subsec. (d) of this section, inserted heading, and substituted “subsection (b)” for “paragraph (1)” and “such subsection” for “such paragraph”.
+
+Subsec. (e). Pub. L. 116–283, § 1832(i)(2), (6), redesignated par. (4) of [section 2324(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2324/k&num=0&edition=prelim) as subsec. (e) of this section, inserted heading, and substituted “subsection (b)” for “paragraph (1)”, “(1)” for “(A)”, and “(2)” for “(B)”.
+
+Subsec. (f). Pub. L. 116–283, § 1832(i)(2), (7)(A), (B), redesignated par. (5) of [section 2324(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2324/k&num=0&edition=prelim) as subsec. (f) of this section, inserted heading, and redesignated subpars. (A) to (C) as pars. (1) to (3), respectively, and realigned margins.
+
+Subsec. (f)(1). Pub. L. 116–283, § 1832(i)(7)(A), (C), inserted heading and substituted “paragraph (3)” for “subparagraph (C)”, “subsection (b)” for “paragraph (1)”, and “paragraph (2)” for “subparagraph (B)”.
+
+Subsec. (f)(2). Pub. L. 116–283, § 1832(i)(7)(D)(i), (ii), inserted heading and redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively.
+
+Subsec. (f)(2)(A). Pub. L. 116–283, § 1832(i)(7)(D)(i), (iii), inserted heading and substituted “paragraph (1)” for “subparagraph (A)”.
+
+Subsec. (f)(2)(B). Pub. L. 116–283, § 1832(i)(7)(D)(iv), (E), inserted heading, substituted “subparagraph (A)” for “clause (i)”, inserted dash after “consideration of”, and reorganized remainder of existing text into designated cls. (i) to (iii).
+
+Subsec. (f)(3). Pub. L. 116–283, § 1832(i)(7)(F), as amended by Pub. L. 117–81, § 1701(b)(11), inserted heading, substituted “paragraph (1)” for “subparagraph (A)” and “under this subsection” for “under this paragraph”, inserted dash after “not allowable if”, redesignated inline cls. (i) and (ii) as subpars. (A) and (B), respectively, and reformatted text, and, in subpar. (B), substituted “subsection (b)” for “paragraph (1)”.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
 
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -362,8 +534,26 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 ### Statutory Notes
 
+#### Amendments
+2021—Pub. L. 116–283, § 1832(j)(2), renumbered [section 2325 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2325) as this section.
+
+Subsec. (a). Pub. L. 116–283, § 1832(j)(3)(B), (E), in introductory provisions, struck out par. (1) designation before “The Secretary” and substituted “subchapter I” for “[section 2324 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2324)” and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively. Former par. (2) of subsec. (a) redesignated subsec. (b).
+
+Subsec. (b). Pub. L. 116–283, § 1832(j)(3)(C)–(E), redesignated par. (2) of subsec. (a) as subsec. (b), inserted heading, substituted “subsection (a)” for “paragraph (1)” in introductory provisions, and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively. Former subsec. (b) redesignated (c).
+
+Subsec. (c). Pub. L. 116–283, § 1832(j)(3)(A), redesignated subsec. (b) as (c).
+
+2013—Subsec. (b). Pub. L. 112–239 redesignated subsec. (c) as (b) and struck out former subsec. (b) which required reports relating to business combinations occurring on or after August 15, 1994.
+
+2004—Subsec. (a)(2). Pub. L. 108–375 substituted “paragraph (1), with respect to a business combination, to an official of the Department of Defense—” for “paragraph (1) to an official of the Department of Defense below the level of an Assistant Secretary of Defense.” and added subpars. (A) and (B).
+
+1999—Subsec. (a)(1). Pub. L. 106–65 inserted “that occurs after November 18, 1997,” after “of the contractor” in introductory provisions.
+
 #### Effective Date of 2021 Amendment
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Effective Date
+Pub. L. 105–85, div. A, title VIII, § 804(c), Nov. 18, 1997, 111 Stat. 1834, provided that: “[Section 2325(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2325/a&num=0&edition=prelim), United States Code [now [10 U.S.C. 3761(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3761/a&num=0&edition=prelim)], as added by subsection (a), shall apply with respect to business combinations that occur after the date of the enactment of this Act [Nov. 18, 1997].”
 
 
 <a id="section-3762"></a>
@@ -388,8 +578,31 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 ### Statutory Notes
 
+#### Amendments
+2021—Pub. L. 116–283 renumbered [section 2372 of this title](./chapter-chapter-139-chapter-chapter-139.md#section-2372) as this section.
+
+2017—Subsec. (d). Pub. L. 115–91 substituted “subsection (c)(2)(A)” for “subsection (c)(3)(A)”.
+
+2016—Pub. L. 114–328 amended section generally. Prior to amendment, section related to payments to contractors for independent research and development and bid and proposal costs.
+
+1996—Subsec. (i)(1). Pub. L. 104–106 substituted “2324(l)” for “2324(m)”.
+
+1993—Subsec. (g)(5). Pub. L. 103–35 substituted “section 2506” for “section 2522”.
+
+1992—Subsec. (e)(1). Pub. L. 102–484 substituted “on December 4, 1991” for “on the day before the date of the enactment of the National Defense Authorization Act for Fiscal Years 1992 and 1993”.
+
+1991—Pub. L. 102–190 substituted section catchline for one which read “Independent research and development” and amended text generally, substituting present provisions for provisions authorizing payment of independent research and development or bid and proposal costs, encouraging contractors to engage in research and development activities, and authorizing advance agreements regarding the manner and extent in which the Department of Defense may pay independent research and development costs or bid and proposal costs.
+
+Subsec. (d)(2)(B). Pub. L. 102–25 substituted “subsection (b), including” for “subsection (b) or”.
+
 #### Effective Date of 2021 Amendment
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Effective Date of 1996 Amendment
+For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under [section 2302 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2302).
+
+#### Effective Date of 1991 Amendment
+Pub. L. 102–190, div. A, title VIII, § 802(e), Dec. 5, 1991, 105 Stat. 1414, provided that: “The amendments made by this section [amending this section and [section 4501 of this title](./chapter-341-acquisition-of-services-generally.md#section-4501)] shall take effect on October 1, 1992, and shall apply to independent research and development and bid and proposal costs incurred by a contractor during fiscal years of that contractor that begin on or after that date.”
 
 
 <a id="section-3763"></a>
@@ -421,6 +634,11 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 **(e) Effective Date.—** The regulations prescribed under subsection (a) shall apply to indirect costs incurred on or after October 1, 2017.
 
 ### Statutory Notes
+
+#### Amendments
+2021—Pub. L. 116–283, § 1832(j)(2), renumbered [section 2372a of this title](./chapter-chapter-139-chapter-chapter-139.md#section-2372a) as this section.
+
+Subsec. (b). Pub. L. 116–283, § 1832(j)(4), substituted “section 3741” for “section 2324(l)”.
 
 #### Effective Date of 2021 Amendment
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).

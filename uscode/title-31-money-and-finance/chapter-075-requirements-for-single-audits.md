@@ -95,9 +95,6 @@ Pub. L. 104–156, § 1(a), July 5, 1996, 110 Stat. 1396, provided that: “This
 #### Short Title of 1984 Amendment
 Pub. L. 98–502, § 1(a), Oct. 19, 1984, 98 Stat. 2327, provided that: “This Act [enacting this chapter and provisions set out as notes under this section] may be cited as the ‘Single Audit Act of 1984’.”
 
-#### Termination of Trust Territory of the Pacific Islands
-For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
-
 #### Transitional Application
 Pub. L. 104–156, § 3, July 5, 1996, 110 Stat. 1404, provided that: “Subject to [former] [section 7507 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section7507&num=0&edition=prelim), United States Code (as amended by section 2 of this Act) [now [31 U.S.C. 7506](./chapter-075-requirements-for-single-audits.md#section-7506)] the provisions of chapter 75 of such title (before amendment by section 2 of this Act) shall continue to apply to any State or local government with respect to any of its fiscal years beginning before July 1, 1996.”
 
@@ -108,6 +105,9 @@ Pub. L. 98–502, § 1(b), Oct. 19, 1984, 98 Stat. 2327, provided that: “It is
 
 #### Tennessee Valley Authority Audits Unaffected by Single Audit Requirements
 Pub. L. 98–502, § 2(b), Oct. 19, 1984, 98 Stat. 2334, provided that: “The provisions of this Act [enacting this chapter and provisions set out as notes under this section] shall not diminish or otherwise affect the authority of the Tennessee Valley Authority to conduct its own audits of any matter involving funds disbursed by the Tennessee Valley Authority.”
+
+#### Termination of Trust Territory of the Pacific Islands
+For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
 
 
 <a id="section-7502"></a>

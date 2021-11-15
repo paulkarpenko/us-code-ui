@@ -978,7 +978,7 @@ In subsection (c), the words “providing grants” are substituted for “the f
 
 In subsection (d), the words “money provided under the grant” are substituted for “grant funds” for consistency.
 
-#### References in Text
+#### Editorial Notes
 Section 14 of the Federal Advisory Committee Act, referred to in subsec. (f)(2), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments

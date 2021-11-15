@@ -995,13 +995,13 @@ The Patient Protection and Affordable Care Act, referred to in text, is Pub. L. 
 
     (i) subject to clause (iii), in the case of such item or service furnished in a State that has in effect a specified State law with respect to such plan; such a nonparticipating provider or nonparticipating emergency facility; and such an item or service, the amount determined in accordance with such law;
 
-    (ii) subject to clause (iii), in the case of such item or service furnished in a State that does not have in effect a specified State law, with respect to such plan; such a nonparticipating provider or nonparticipating emergency facility; and such an item or service, the amount that is the qualifying payment amount (as defined in subparagraph (E)) for such year and determined in accordance with rulemaking described in paragraph (2)(B)) for such item or service; or
+    (ii) subject to clause (iii), in the case of such item or service furnished in a State that does not have in effect a specified State law, with respect to such plan; such a nonparticipating provider or nonparticipating emergency facility; and such an item or service, the amount that is the qualifying payment amount (as defined in subparagraph (E)) 22 Closing parentheses so in original. for such year and determined in accordance with rulemaking described in paragraph (2)(B)) 2 for such item or service; or
 
     (iii) in the case of such item or service furnished in a State with an All-Payer Model Agreement under section 1115A of the Social Security Act, the amount that the State approves under such system for such item or service so furnished.
 
   (I) *Specified State law* — The term “specified State law” means, with respect to a State, an item or service furnished by a nonparticipating provider or nonparticipating emergency facility during a year and a group health plan, a State law that provides for a method for determining the total amount payable under such a plan (to the extent such State law applies to such plan, subject to section 514 1 ) in the case of a participant or beneficiary covered under such plan and receiving such item or service from such a nonparticipating provider or nonparticipating emergency facility.
 
-  (J) *Stabilize* — The term “to stabilize”, with respect to an emergency medical condition (as defined in subparagraph (B)), has the meaning give in section 1867(e)(3) of the Social Security Act ([42 U.S.C. 1395dd(e)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395dd/e/3&num=0&edition=prelim)).
+  (J) *Stabilize* — The term “to stabilize”, with respect to an emergency medical condition (as defined in subparagraph (B)), has the meaning give 33 So in original. Probably should be “given”. in section 1867(e)(3) of the Social Security Act ([42 U.S.C. 1395dd(e)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395dd/e/3&num=0&edition=prelim)).
 
   (K) *Out-of-network rate* — The term “out-of-network rate” means, with respect to an item or service furnished in a State during a year to a participant or beneficiary of a group health plan receiving such item or service from a nonparticipating provider or nonparticipating emergency facility—
 
@@ -1077,7 +1077,7 @@ The Patient Protection and Affordable Care Act, referred to in text, is Pub. L. 
 
     (iii) such items and services are related to the treatment of a similar condition; and
 
-    (iv) such items and services were furnished during the 30 day 22 So in original. Probably should be “30-day”. period following the date on which the first item or service included with respect to such determination was furnished or an alternative period as determined by the Secretary, for use in limited situations, such as by the consent of the parties or in the case of low-volume items and services, to encourage procedural efficiency and minimize health plan and provider administrative costs.
+    (iv) such items and services were furnished during the 30 day 44 So in original. Probably should be “30-day”. period following the date on which the first item or service included with respect to such determination was furnished or an alternative period as determined by the Secretary, for use in limited situations, such as by the consent of the parties or in the case of low-volume items and services, to encourage procedural efficiency and minimize health plan and provider administrative costs.
 
   (B) *Treatment of bundled payments* — In carrying out subparagraph (A), the Secretary shall provide that, in the case of items and services which are included by a provider or facility as part of a bundled payment, such items and services included in such bundled payment may be part of a single determination under this subsection.
 
@@ -1238,7 +1238,7 @@ An entity selected pursuant to the previous sentence to make a determination des
 
 (8) **Administrative fee**
 
-  (A) *In general* — Each party to a determination under paragraph (5) to which an entity is selected under paragraph (3) 33 So in original. Probably should be “paragraph (4)”. in a year shall pay to the Secretary, at such time and in such manner as specified by the Secretary, a fee for participating in the IDR process with respect to such determination in an amount described in subparagraph (B) for such year.
+  (A) *In general* — Each party to a determination under paragraph (5) to which an entity is selected under paragraph (3) 55 So in original. Probably should be “paragraph (4)”. in a year shall pay to the Secretary, at such time and in such manner as specified by the Secretary, a fee for participating in the IDR process with respect to such determination in an amount described in subparagraph (B) for such year.
 
   (B) *Amount of fee* — The amount described in this subparagraph for a year is an amount established by the Secretary in a manner such that the total amount of fees paid under this paragraph for such year is estimated to be equal to the amount of expenditures estimated to be made by the Secretary for such year in carrying out the IDR process.
 
@@ -1614,7 +1614,7 @@ Pub. L. 116–260, div. BB, title I, § 114(d), Dec. 27, 2020, 134 Stat. 2875, p
 
 (1) information in plain language on—
 
-  (A) the requirements and prohibitions applied under sections 2799B–1 and 2799B–2 of the Public Health Service Act(relating to prohibitions on balance billing in certain circumstances);
+  (A) the requirements and prohibitions applied under sections 2799B–1 and 2799B–2 of the Public Health Service Act (relating to prohibitions on balance billing in certain circumstances);
 
   (B) if provided for under applicable State law, any other requirements on providers and facilities regarding the amounts such providers and facilities may, with respect to an item or service, charge a participant or beneficiary of such plan with respect to which such a provider or facility does not have a contractual relationship for furnishing such item or service under the plan after receiving payment from the plan for such item or service and any applicable cost sharing payment from such participant or beneficiary; and
 

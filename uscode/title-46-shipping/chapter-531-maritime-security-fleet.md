@@ -523,7 +523,7 @@ Subsec. (f). Pub. L. 109–304, § 13(a)(4)(B), substituted “approves” for �
 
   (A) $5,000,000 for each of fiscal years 2018, 2019, and 2020;
 
-  (B) $5,233,463 for fiscal year 2021;
+  (B) $8,233,463 for fiscal year 2021;
 
   (C) $5,300,000 for each of fiscal years 2022, 2023, 2024, and 2025;
 
@@ -568,6 +568,8 @@ Subsec. (f). Pub. L. 109–304, § 13(a)(4)(B), substituted “approves” for �
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (a)(1)(B). Pub. L. 116–283 substituted “$8,233,463” for “$5,233,463”.
+
 2019—Subsec. (a)(1)(C) to (F). Pub. L. 116–92 substituted “$5,300,000 for each of fiscal years 2022, 2023, 2024, and 2025;” for “$3,700,000 for each of fiscal years 2022, 2023, 2024, and 2025.” in subpar. (C) and added subpars. (D) to (F).
 
 2018—Subsec. (a)(1). Pub. L. 115–232 redesignated subpars. (E) to (G) as (A) to (C), respectively, and struck out former subpars. (A) to (D) which set out payment amounts for fiscal years 2006 to 2017.
@@ -713,7 +715,7 @@ There are authorized to be appropriated for payments under section 53106, to rem
 
 (1) $300,000,000 for each of fiscal years 2018, 2019, and 2020;
 
-(2) $314,007,780 for fiscal year 2021;
+(2) $494,008,000 for fiscal year 2021;
 
 (3) $318,000,000 for each of fiscal years 2022, 2023, 2024, and 2025;
 
@@ -726,6 +728,8 @@ There are authorized to be appropriated for payments under section 53106, to rem
 ### Statutory Notes
 
 #### Amendments
+2021—Par. (2). Pub. L. 116–283 substituted “$494,008,000” for “$314,007,780”.
+
 2019—Pars. (3) to (6). Pub. L. 116–92 substituted “$318,000,000 for each of fiscal years 2022, 2023, 2024, and 2025;” for “$222,000,000 for each fiscal year thereafter through fiscal year 2025.” in par. (3) and added pars. (4) to (6).
 
 2018—Pub. L. 115–232 redesignated pars. (5) to (7) as (1) to (3), respectively, and struck out former pars. (1) to (4) which set out authorized amounts for fiscal years 2006 to 2017.

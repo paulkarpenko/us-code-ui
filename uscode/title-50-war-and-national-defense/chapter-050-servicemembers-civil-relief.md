@@ -813,13 +813,13 @@ Section applicable to any case not final before Dec. 19, 2003, see section 3 of 
 
 (2) is secured by a mortgage, trust deed, or other security in the nature of a mortgage.
 
-**(b) Stay of proceedings and adjustment of obligation** In an action filed during, or within 90 days after, a servicemember’s period of military service to enforce an obligation described in subsection (a), the court may after a hearing and on its own motion and shall upon application by a servicemember when the servicemember’s ability to comply with the obligation is materially affected by military service—
+**(b) Stay of proceedings and adjustment of obligation** In an action filed during, or within one year after, a servicemember’s period of military service to enforce an obligation described in subsection (a), the court may after a hearing and on its own motion and shall upon application by a servicemember when the servicemember’s ability to comply with the obligation is materially affected by military service—
 
 (1) stay the proceedings for a period of time as justice and equity require, or
 
 (2) adjust the obligation to preserve the interests of all parties.
 
-**(c) Sale or foreclosure** A sale, foreclosure, or seizure of property for a breach of an obligation described in subsection (a) shall not be valid if made during, or within 90 days after, the period of the servicemember’s military service except—
+**(c) Sale or foreclosure** A sale, foreclosure, or seizure of property for a breach of an obligation described in subsection (a) shall not be valid if made during, or within one year after, the period of the servicemember’s military service except—
 
 (1) upon a court order granted before such sale, foreclosure, or seizure with a return made and approved by the court; or
 
@@ -1009,7 +1009,7 @@ A prior section 305 of act Oct. 17, 1940, ch. 888, art. III, as added Oct. 6, 19
 #### Amendments
 2021—Subsec. (a)(3). Pub. L. 116–283, § 549(b), substituted “The spouse or dependent of the lessee” for “The spouse of the lessee”.
 
-Subsec. (a)(4). Pub. L. 116–283, § 549(a), amended par. (4) generally. Prior to amendment, text of par. (4) read as follows: “The spouse of the lessee on a lease described in subsection (b) may terminate the lease during the one-year period beginning on the date on which the lessee incurs a catastrophic injury or illness (as that term is defined in [section 439(g) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section439/g&num=0&edition=prelim), if the lessee incurs the catastrophic injury or illness during a period of military service or while performing full-time National Guard duty, active Guard and Reserve duty, or inactive-duty training (as such terms are defined in [section 101(d) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/d&num=0&edition=prelim)).”
+Subsec. (a)(4). Pub. L. 116–283, § 549(a), amended par. (4) generally. Prior to amendment, text read as follows: “The spouse of the lessee on a lease described in subsection (b) may terminate the lease during the one-year period beginning on the date on which the lessee incurs a catastrophic injury or illness (as that term is defined in [section 439(g) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section439/g&num=0&edition=prelim), if the lessee incurs the catastrophic injury or illness during a period of military service or while performing full-time National Guard duty, active Guard and Reserve duty, or inactive-duty training (as such terms are defined in [section 101(d) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/d&num=0&edition=prelim)).”
 
 Subsec. (b)(1)(C)(ii), (2)(C)(ii). Pub. L. 116–315, § 7202(a), substituted “Secretary concerned” for “Secretary of Defense”.
 
@@ -2113,8 +2113,11 @@ For the purposes of establishing the residency of a spouse of a servicemember fo
 
 ### Statutory Notes
 
-#### Codification
-Section 1739(a) of Pub. L. 116–92, which directed amendment of title VI of the Servicemembers Civil Relief Act by adding this section at the end, was executed by adding this section at the end of title VII of the Act, to reflect the probable intent of Congress.
+#### Amendments
+2021—Pub. L. 117–81 made technical amendment to directory language of Pub. L. 116–92, § 1739(a).
+
+#### Effective Date of of 2021 Amendment
+Pub. L. 117–81, div. A, title X, § 1081(c), Dec. 27, 2021, 135 Stat. 1922, provided that the amendment made by section 1081(c) is effective Dec. 20, 2019.
 
 
 <a id="section-4043"></a>

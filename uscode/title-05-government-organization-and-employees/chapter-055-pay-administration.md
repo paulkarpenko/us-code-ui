@@ -620,14 +620,19 @@ John F. Kennedy.
 <a id="section-5519"></a>
 ## § 5519. Crediting amounts received for certain Reserve or National Guard service
 
-An amount (other than a travel, transportation, or per diem allowance) received by an employee or individual for military service as a member of the Reserve or National Guard for a period for which he is granted military leave under section 6323(b) or (c) shall be credited against the pay payable to the employee or individual with respect to his civilian position for that period.
+An amount (other than a travel, transportation, or per diem allowance) received by an employee or individual for military service as a member of the Reserve or National Guard for a period for which he is granted military leave under section 6323(b) shall be credited against the pay payable to the employee or individual with respect to his civilian position for that period.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Pub. L. 117–81 struck out “or (c)” after “section 6323(b)”.
+
 1996—Pub. L. 104–106 substituted “granted military leave” for “entitled to leave”.
 
 1992—Pub. L. 102–378 substituted “6323(b) or (c)” for “6323(c) or (d) of this title”.
+
+#### Application of 2021 Amendment
+Pub. L. 117–81, div. A, title XI, § 1109(b), Dec. 27, 2021, 135 Stat. 1951, provided that: “The amendment made by subsection (a) [amending this section] shall apply to any amounts credited, by operation of such section 5519, against the pay of an employee or individual described under section 6323(c) of such title on or after the date of enactment of this Act [Dec. 27, 2021].”
 
 
 <a id="section-5520"></a>
@@ -1875,7 +1880,7 @@ Environmental Science Services Administration in Department of Commerce, includi
 
 (6)
 
-  (A) Notwithstanding paragraphs (1) and (2), for an employee of the Department of the Navy who is assigned to temporary duty to perform work aboard, or dockside in direct support of, the nuclear aircraft carrier that is forward deployed in Japan and who would be nonexempt under the Fair Labor Standards Act but for the application of the foreign area exemption in section 13(f) of that Act ([29 U.S.C. 213(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section213/f&num=0&edition=prelim)), the overtime hourly rate of pay is an amount equal to one and one-half times the hourly rate of basic pay of the employee, and all that amount is premium pay.
+  (A) Notwithstanding paragraphs (1) and (2), for an employee of the Department of the Navy who is assigned to temporary duty outside the United States to perform work aboard, or dockside in direct support of, naval vessels and who would be nonexempt under the Fair Labor Standards Act of 1938 but for the application of the foreign area exemption in section 13(f) of that Act ([29 U.S.C. 213(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section213/f&num=0&edition=prelim)), the employee shall be coded and paid overtime as if the employee’s exemption status under that Act is the same as it is at the employee’s permanent duty station.
 
   (B) Subparagraph (A) shall expire on September 30, 2026.
 
@@ -1961,6 +1966,36 @@ Environmental Science Services Administration in Department of Commerce, includi
 
   (F) shall not be credited with compensatory time off if the value of such time off would cause the aggregate premium pay of the border patrol agent to exceed the limitation established under section 5547 in the period in which it was earned.
 
+**(h)**
+
+(1)
+
+  (A) Notwithstanding any other provision of this section or section 5545b, any hours worked by a firefighter under a qualified trade-of-time arrangement shall be disregarded for purposes of any determination relating to eligibility for, or the amount of, any overtime pay under this section, including overtime pay under the Fair Labor Standards Act in accordance with subsection (c).
+
+  (B) The Director of the Office of Personnel Management—
+
+    (i) shall identify the situations in which a firefighter shall be deemed to have worked hours actually worked by a substituting firefighter under a qualified trade-of-time arrangement; and
+
+    (ii) may adopt necessary policies governing the treatment of both a substituting and substituted firefighter under a qualified trade-of-time arrangement, without regard to how those firefighters would otherwise be treated under other provisions of law or regulation.
+
+(2) In this subsection—
+
+  (A) the term “firefighter” means an employee—
+
+    (i) the work schedule of whom includes 24-hour duty shifts; and
+
+    (ii) who—
+
+      (I) is a firefighter, as defined in section 8331(21) or 8401(14);
+
+      (II) in the case of an employee who holds a supervisory or administrative position and is subject to subchapter III of chapter 83, but who does not qualify to be considered a firefighter within the meaning of section 8331(21), would so qualify if such employee had transferred directly to such position after serving as a firefighter within the meaning of such section;
+
+      (III) in the case of an employee who holds a supervisory or administrative position and is subject to chapter 84, but who does not qualify to be considered a firefighter within the meaning of section 8401(14), would so qualify if such employee had transferred directly to such position after performing duties described in section 8401(14)(A) and (B) for at least 3 years; and
+
+      (IV) in the case of an employee who is not subject to subchapter III of chapter 83 or chapter 84, holds a position that the Office of Personnel Management determines would satisfy subclause (I), (II), or (III) if the employee were subject to subchapter III of chapter 83 or chapter 84; and
+
+  (B) the term “qualified trade-of-time arrangement” means an arrangement under which 2 firefighters who are subject to the supervision of the same fire chief agree, solely at their option and with the approval of the employing agency, to substitute for one another during scheduled work hours in the performance of work in the same capacity.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -1986,14 +2021,20 @@ The words “of the Classification Act of 1949, as amended” are omitted as unn
 #### References in Text
 GS–10 and GS–14, referred to in subsec. (a), are contained in the General Schedule which is set out under [section 5332 of this title](./chapter-053-pay-rates-and-systems.md#section-5332).
 
-The Fair Labor Standards Act, referred to in subsec. (a)(6)(A), probably means the Fair Labor Standards Act of 1938, act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see [section 201 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section201&num=0&edition=prelim) and Tables.
+The Fair Labor Standards Act of 1938, referred to in subsec. (a)(6)(A), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see [section 201 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section201&num=0&edition=prelim) and Tables.
 
 Section 7 of the Fair Labor Standards Act of 1938, referred to in subsec. (c), is classified to [section 207 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section207&num=0&edition=prelim), Labor.
 
 Section 37(a)(3) of the State Department Basic Authorities Act of 1956, referred to in subsec. (e), is classified to [section 2709(a)(3) of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2709/a/3&num=0&edition=prelim), Foreign Relations and Intercourse.
 
+The Fair Labor Standards Act, referred to in subsec. (h)(1)(A), probably means the Fair Labor Standards Act of 1938, act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see [section 201 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section201&num=0&edition=prelim) and Tables.
+
 #### Amendments
-2021—Subsec. (a)(6)(B). Pub. L. 116–283 substituted “September 30, 2026” for “September 30, 2021”.
+2021—Subsec. (a)(6)(A). Pub. L. 117–81, § 1108, inserted “outside the United States” after “temporary duty” and “of 1938” after “Fair Labor Standards Act” and substituted “naval vessels” for “the nuclear aircraft carrier that is forward deployed in Japan” and “the employee shall be coded and paid overtime as if the employee’s exemption status under that Act is the same as it is at the employee’s permanent duty station.” for “the overtime hourly rate of pay is an amount equal to one and one-half times the hourly rate of basic pay of the employee, and all that amount is premium pay.”
+
+Subsec. (a)(6)(B). Pub. L. 116–283 substituted “September 30, 2026” for “September 30, 2021”.
+
+Subsec. (h). Pub. L. 117–81, § 1110, added subsec. (h).
 
 2018—Subsec. (a)(6)(B). Pub. L. 115–232 substituted “September 30, 2021” for “September 30, 2019”.
 
@@ -2236,7 +2277,11 @@ Except as otherwise provided by subsection (c) of this section, an employee is e
 
 **(d)** The Office shall establish a schedule or schedules of pay differentials for duty involving unusual physical hardship or hazard, and for any hardship or hazard related to asbestos, such differentials shall be determined by applying occupational safety and health standards consistent with the permissible exposure limit promulgated by the Secretary of Labor under the Occupational Safety and Health Act of 1970. Under such regulations as the Office may prescribe, and for such minimum periods as it determines appropriate, an employee to whom chapter 51 and subchapter III of chapter 53 of this title applies is entitled to be paid the appropriate differential for any period in which he is subjected to physical hardship or hazard not usually involved in carrying out the duties of his position. However, the pay differential—
 
-(1) does not apply to an employee in a position the classification of which takes into account the degree of physical hardship or hazard involved in the performance of the duties thereof, except in such circumstances as the Office may by regulation prescribe; and
+(1) does not apply to an employee in a position the classification of which takes into account the degree of physical hardship or hazard involved in the performance of the duties thereof, except—
+
+  (A) an employee in an occupational series covering positions for which the primary duties involve the prevention, control, suppression, or management of wildland fires, as determined by the Office; and
+
+  (B) in such other circumstances as the Office may by regulation prescribe; and
 
 (2) may not exceed an amount equal to 25 percent of the rate of basic pay applicable to the employee.
 
@@ -2273,6 +2318,8 @@ GS–10, referred to in subsec. (c)(1), is contained in the General Schedule whi
 The Occupational Safety and Health Act of 1970, referred to in subsec. (d), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 651 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section651&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2021—Subsec. (d)(1). Pub. L. 117–58 substituted “except—” and subpars. (A) and (B) for “except in such circumstances as the Office may by regulation prescribe; and”.
+
 2003—Subsec. (d). Pub. L. 108–136 inserted before period at end of first sentence “, and for any hardship or hazard related to asbestos, such differentials shall be determined by applying occupational safety and health standards consistent with the permissible exposure limit promulgated by the Secretary of Labor under the Occupational Safety and Health Act of 1970”.
 
 1992—Subsec. (d). Pub. L. 102–378 made technical correction to directory language of Pub. L. 101–509, § 529 [title II, § 203]. See 1990 Amendment note below.
@@ -2794,6 +2841,9 @@ Amendment by Pub. L. 97–276 effective at 5 o’clock ante meridian eastern day
 
 #### Short Title of 1988 Amendment
 Pub. L. 100–523, § 1, Oct. 24, 1988, 102 Stat. 2605, provided: “That this Act [amending this section] may be cited as the ‘Forest Wildfire Emergency Pay Equity Act of 1988’.”
+
+#### Premium Pay Waiver for Certain Employees Engaged in Emergency Wildland Fire Suppression Activities
+Pub. L. 117–43, div. B, title VII, § 1701, Sept. 30, 2021, 135 Stat. 367, provided that: “(a)(1) If services performed by the designated employees under paragraph (2) of this subsection at the Department of the Interior or the Department of Agriculture during 2021 are determined by the Secretary of the Interior or the Secretary of Agriculture, as applicable, to be primarily related to emergency wildland fire suppression activities, any premium pay for such services shall be disregarded in calculating the aggregate of such employee’s basic pay and premium pay for purposes of a limitation under [section 5547(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5547/a&num=0&edition=prelim), United States Code, or under any other provision of law, whether such employee’s pay is paid on a biweekly or calendar year basis. Any services during 2021 that generate payments payable in 2022 shall be disregarded in applying this subsection. “(2) The premium pay waiver under paragraph (1) of this subsection shall apply to individuals serving as wildland firefighters and as fire management response officials, including regional fire directors, deputy regional fire directors, agency officials who directly oversee fire operations, and fire management officers, and individuals serving on incident management teams (IMTs), at the National Interagency Fire Center (NIFC), at Geographic Area Coordinating Centers (GACCs), and at Operations centers. “(3) The Departments of the Interior and Agriculture shall provide a report to Congress detailing the number of positions, including by occupation, grade, and the aggregate pay by type of pay for each individual who receives pay authorized under subsection (a)(1). “(b) Any overtime pay for services described in subsection (a) that is payable under an authority outside of title 5, United States Code, shall be disregarded in calculating any annual limit on the amount of overtime pay payable in 2021. “(c) Any pay that is disregarded under either subsection (a) or (b) shall be disregarded in calculating such employee’s aggregate pay for purposes of applying the limitation in [section 5307 of title 5](./chapter-053-pay-rates-and-systems.md#section-5307), United States Code, during 2021. “(d)(1) Pay that is disregarded under subsection (a) or (b) shall not cause the aggregate of the employee’s basic pay and premium pay for the applicable calendar year to exceed the rate of basic pay payable for a position at level II of the Executive Schedule under [section 5313 of title 5](./chapter-053-pay-rates-and-systems.md#section-5313), United States Code, as in effect at the end of such calendar year. “(2) For purposes of applying this subsection to an employee who would otherwise be subject to the premium pay limits established under [section 5547 of title 5](./chapter-055-pay-administration.md#section-5547), United States Code, ‘premium pay’ means the premium pay paid under the provisions of law cited in section 5547(a). “(3) For purposes of applying this subsection to an employee under a premium pay limit established under an authority other than [section 5547 of title 5](./chapter-055-pay-administration.md#section-5547), United States Code, the agency responsible for administering such limit shall determine what payments are considered premium pay. “(4) For the purpose of applying this subsection, ‘basic pay’ includes any applicable locality-based comparability payment under [section 5304 of title 5](./chapter-053-pay-rates-and-systems.md#section-5304), United States Code, any applicable special rate supplement under section 5305 of such title, or any equivalent payment under a similar provision of law. “(e) This section shall take effect as if enacted on January 1, 2021. “(f) If application of this section results in the payment of additional premium pay to a covered employee of a type that is normally creditable as basic pay for retirement or any other purpose, that additional pay shall not—“(1) be considered to be basic pay of the covered employee for any purpose; or “(2) be used in computing a lump-sum payment to the covered employee for accumulated and accrued annual leave under section 5551 or [section 5552 of title 5](./chapter-055-pay-administration.md#section-5552), United States Code, or other similar provision of law. “(g) Not later than 45 days after the date of enactment of this Act [Sept. 30, 2021], the Secretary of the Interior and Secretary of Agriculture shall jointly provide to the Committees on Appropriations of the House of Representatives and the Senate, the Senate Committee on Agriculture[,] Nutrition[,] and Forestry, the House of Representatives Committee on Agriculture, the Senate Committee on Energy and Natural Resources, the House of Representatives Committee on Natural Resources, Senate Committee on Homeland Security and Governmental Affairs, and the House of Representatives Committee on Oversight and Reform, a framework to modernize the wildland firefighting workforce beginning in fiscal year 2022.”
 
 #### Premium Pay Authority for Services Related to Preparation, Prevention, or Response to Coronavirus
 Pub. L. 116–260, div. M, title III, § 303, Dec. 27, 2020, 134 Stat. 1922, provided that: “(a) If services performed by an employee during 2020 and 2021 are determined by the head of the agency to be primarily related to preparation, prevention, or response to coronavirus, any premium pay for such services shall be disregarded in calculating the aggregate of such employee’s basic pay and premium pay for purposes of a limitation under [section 5547(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5547/a&num=0&edition=prelim), United States Code, or under any other provision of law, whether such employees pay is paid on a biweekly or calendar year basis. “(b) Any overtime pay for such services shall be disregarded in calculating any annual limit on the amount of overtime pay payable in a calendar or fiscal year. “(c) With regard to such services, any pay that is disregarded under either subsection (a) or (b) shall be disregarded in calculating such employee’s aggregate pay for purposes of the limitation in section 5307 of such title 5. “(d)(1) Pay that is disregarded under subsection (a) or (b) shall not cause the aggregate of the employee’s basic pay and premium pay for the applicable calendar year to exceed the rate of basic pay payable for a position at level II of the Executive Schedule under [section 5313 of title 5](./chapter-053-pay-rates-and-systems.md#section-5313), United States Code, as in effect at the end of such calendar year. “(2) For purposes of applying this subsection to an employee who would otherwise be subject to the premium pay limits established under [section 5547 of title 5](./chapter-055-pay-administration.md#section-5547), United States Code, ‘premium pay’ means the premium pay paid under the provisions of law cited in section 5547(a). “(3) For purposes of applying this subsection to an employee under a premium pay limit established under an authority other than [section 5547 of title 5](./chapter-055-pay-administration.md#section-5547), United States Code, the agency responsible for administering such limit shall determine what payments are considered premium pay. “(e) This section shall take effect as if enacted on February 2, 2020. “(f) If application of this section results in the payment of additional premium pay to a covered employee of a type that is normally creditable as basic pay for retirement or any other purpose, that additional pay shall not—“(1) be considered to be basic pay of the covered employee for any purpose; or “(2) be used in computing a lump-sum payment to the covered employee for accumulated and accrued annual leave under section 5551 or [section 5552 of title 5](./chapter-055-pay-administration.md#section-5552), United States Code.”

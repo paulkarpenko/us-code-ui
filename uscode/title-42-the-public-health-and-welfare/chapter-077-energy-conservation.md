@@ -754,7 +754,7 @@ Subsecs. (c) to (e). Pub. L. 106–469, § 103(7)(C), struck out subsecs. (c) to
 1978—Subsecs. (b), (d). Pub. L. 95–619 substituted “Secretary” and “Secretary’s” for “Administrator” and “Administrator’s”, respectively, meaning Administrator of the Federal Energy Administration, wherever appearing.
 
 #### Strategic Petroleum Reserve Drawdown Plan
-Pub. L. 97–229, § 4(c), Aug. 3, 1982, 96 Stat. 252, provided that: “On or before December 1, 1982, the President shall transmit to the Congress a drawdown plan for the Strategic Petroleum Reserve consistent with the requirements of section 154 of the Energy Policy and Conservation Act [this section]. Such plan shall be transmitted to the Congress as an amendment to the Strategic Petroleum Reserve Plan. Such amendment shall take effect on the date it is transmitted to the Congress and shall not be subject to section 159(e) of such Act [[section 6239(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6239/e&num=0&edition=prelim)] relating to Congressional review. Subsequent amendments to such plan shall be in accordance with subsections (d) and (e) of such section 159.”
+Pub. L. 97–229, § 4(c), Aug. 3, 1982, 96 Stat. 252, required the President to transmit to Congress, on or before Dec. 1, 1982, and as an amendment to the Strategic Petroleum Reserve Plan, a drawdown plan for the Strategic Petroleum Reserve consistent with the requirements of this section, to take effect on the date of transmittal and not be subject to [section 6239(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6239/e&num=0&edition=prelim) relating to Congressional review.
 
 
 <a id="section-6240"></a>
@@ -1089,9 +1089,9 @@ Jimmy Carter.
 
   (B) for more than 60 days with respect to each such shortage;
 
-  (C) if there are fewer than 340,000,000 barrels of petroleum product stored in the Reserve; or
+  (C) if there are fewer than 252,400,000 barrels of petroleum product stored in the Reserve; or
 
-  (D) below the level of an aggregate of 340,000,000 barrels of petroleum product stored in the Reserve.
+  (D) below the level of an aggregate of 252,400,000 barrels of petroleum product stored in the Reserve.
 
 (3) During any period in which there is a drawdown and sale of the Reserve in effect under this subsection, the Secretary shall transmit a monthly report to the Congress containing an account of the drawdown and sale of petroleum products under this subsection and an assessment of its effect.
 
@@ -1175,6 +1175,8 @@ Jimmy Carter.
 This chapter, referred to in subsec. (j)(6), (7)(A), was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
 
 #### Amendments
+2021—Subsec. (h)(2)(C), (D). Pub. L. 117–58 substituted “252,400,000” for “340,000,000”.
+
 2018—Subsec. (h)(1)(C), (D). Pub. L. 115–123, § 30204(c)(1), added subpar. (C) and redesignated former subpar. (C) as (D).
 
 Subsec. (h)(2)(C), (D). Pub. L. 115–141 substituted “340,000,000” for “350,000,000”.
@@ -1249,6 +1251,8 @@ Pub. L. 105–388, § 9(b), Nov. 13, 1998, 112 Stat. 3484, provided that: “(1)
 
 #### Strategic Petroleum Reserve Drawdown and Sale
 Provisions related to drawdown and sale from the Strategic Petroleum Reserve were contained in the following acts:
+
+Pub. L. 117–58, div. I, § 90002(a)–(c)(1), Nov. 15, 2021, 135 Stat. 1342.
 
 Pub. L. 116–136, div. B, title IV, § 14002(b), Mar. 27, 2020, 134 Stat. 526.
 
@@ -3207,10 +3211,10 @@ Pub. L. 102–486, title I, § 125, Oct. 24, 1992, 106 Stat. 2833, provided that
 Pub. L. 102–486, title I, § 126, Oct. 24, 1992, 106 Stat. 2834, provided that: “(a) In General.—(1) The Secretary shall, after consulting with the National Electric Manufacturers Association, the American Lighting Association, and other interested organizations, provide financial and technical assistance to support a voluntary national testing and information program for those types of luminaires that are widely used and for which there is a potential for significant energy savings as a result of such program. “(2) Such program shall—“(A) consistent with the objectives of paragraph (1), determine the luminaires to be covered under such program; “(B) include specifications for testing procedures that will enable purchasers of such luminaires to make more informed decisions about the energy efficiency and costs of alternative products; and “(C) include information, which may be disseminated through catalogs, trade publications, labels, or other mechanisms, that will allow consumers to assess the energy consumption and potential cost savings of alternative products. “(3) Such program shall be developed by an appropriate organization (composed of interested parties) according to commonly accepted procedures for the development of national testing procedures and labeling programs. “(b) Monitoring.—The Secretary shall monitor and evaluate the efforts to develop the program described in subsection (a) and, not later than three years after the date of the enactment of this Act [Oct. 24, 1992], shall make a determination as to whether the program developed is consistent with the objectives of subsection (a). “(c) Alternative System.—(1) If the Secretary makes a determination under subsection (b) that a voluntary national testing and information program for luminaires consistent with the objectives of subsection (a) has not been developed, the Secretary shall, after consultation with the National Institute of Standards and Technology, develop, not later than two years after such determination, test procedures under section 323 of the Energy Policy and Conservation Act ([42 U.S.C. 6293](./chapter-077-energy-conservation.md#section-6293)) for such luminaires. “(2) Not later than one year after the Secretary develops test procedures under paragraph (1), the Federal Trade Commission (hereafter in this section referred to as the ‘Commission’) shall prescribe labeling rules under section 324 of such Act ([42 U.S.C. 6294](./chapter-077-energy-conservation.md#section-6294)) for those luminaires for which the Secretary has prescribed test procedures under paragraph (1) except that, with respect to any type of luminaire (or class thereof), the Secretary may determine that such labeling is not technologically feasible or economically justified or is not likely to assist consumers in making purchasing decisions. “(3) For purposes of sections 323, 324, and 327 of such Act [[42 U.S.C. 6293](./chapter-077-energy-conservation.md#section-6293), 6294, 6297], each product for which the Secretary has established test procedures or labeling rules pursuant to this subsection shall be considered a new covered product under section 322 of such Act ([42 U.S.C. 6292](./chapter-077-energy-conservation.md#section-6292)) to the extent necessary to carry out this subsection. “(4) For purposes of section 327(a) of such Act, the term ‘this part’ includes this subsection to the extent necessary to carry out this subsection.”
 
 #### Report on Potential of Cooperative Advanced Appliance Development
-Pub. L. 102–486, title I, § 127, Oct. 24, 1992, 106 Stat. 2835, provided that: “(a) In General.—Not later than 18 months after the date of the enactment of this Act [Oct. 24, 1992], the Secretary shall, in consultation with the Administrator of the Environmental Protection Agency, utilities, and appliance manufacturers, prepare and submit to the Congress, a report on the potential for the development and commercialization of appliances which are substantially more efficient than required by Federal or State law. “(b) Identification of High-Efficiency Appliances.—The report submitted under subsection (a) shall identify candidate high-efficiency appliances which meet the following criteria:“(1) The potential exists for substantial improvement in the appliance’s energy efficiency, beyond the minimum established in Federal and State law. “(2) There is the potential for significant energy savings at the national or regional level. “(3) Such appliances are likely to be cost-effective for consumers. “(4) Electric, water, or gas utilities are prepared to support and promote the commercialization of such appliances. “(5) Manufacturers are unlikely to undertake development and commercialization of such appliances on their own, or development and production would be substantially accelerated by support to manufacturers. “(c) Recommendations and Proposals.—The report submitted under subsection (a) shall also—“(1) describe the general actions the Secretary or the Administrator of the Environmental Protection Agency could take to coordinate and assist utilities and appliance manufacturers in developing and commercializing highly efficient appliances; “(2) describe specific proposals for Department of Energy or Environmental Protection Agency assistance to utilities and appliance manufacturers to promote the development and commercialization of highly efficient appliances; “(3) identify methods by which Federal purchase of highly efficient appliances could assist in the development and commercialization of such appliances; and “(4) identify the funding levels needed to develop and implement a Federal program to assist in the development and commercialization of highly efficient appliances.”
+Pub. L. 102–486, title I, § 127, Oct. 24, 1992, 106 Stat. 2835, provided that not later than 18 months after Oct. 24, 1992, the Secretary would, in consultation with the Administrator of the Environmental Protection Agency, utilities, and appliance manufacturers, submit to Congress, a report, based on certain criteria, on the potential for the development and commercialization of appliances substantially more efficient than required by Federal or State law.
 
 #### Evaluation of Utility Early Replacement Programs for Appliances
-Pub. L. 102–486, title I, § 128, Oct. 24, 1992, 106 Stat. 2836, provided that: “Within 18 months after the date of the enactment of this Act [Oct. 24, 1992], the Secretary, in consultation with the Administrator of the Environmental Protection Agency, utilities, and appliance manufacturers, shall evaluate and report to the Congress on the energy savings and environmental benefits of programs which are directed to the early replacement of older, less efficient appliances presently in use by consumers with existing products which are more efficient than required by Federal law. For the purposes of this section, the term ‘appliance’ means those consumer products specified in section 322(a) [[42 U.S.C. 6292(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6292/a&num=0&edition=prelim)].”
+Pub. L. 102–486, title I, § 128, Oct. 24, 1992, 106 Stat. 2836, required the Secretary, within 18 months after Oct. 24, 1992, and in consultation with the Administrator of the Environmental Protection Agency, utilities, and appliance manufacturers, to evaluate and report to Congress on the energy savings and environmental benefits of programs directed to the early replacement of older, less efficient appliances (as defined in subsec. (a) of this section) in use by consumers with products more efficient than required by Federal law.
 
 
 <a id="section-6294a"></a>
@@ -7464,8 +7468,8 @@ Pub. L. 102–486, title I, § 124(c), Oct. 24, 1992, 106 Stat. 2833, directed t
 
 
 <a id="section-6323"></a>
-## § 6323. Congressional findings and declaration of purpose
-**(a)** The Congress finds that—
+## § 6323. Findings; purpose; definitions
+**(a) Findings** Congress finds that—
 
 (1) the development and implementation by States of laws, policies, programs, and procedures to conserve and to improve efficiency in the use of energy will have an immediate and substantial effect in reducing the rate of growth of energy demand and in minimizing the adverse social, economic, political, and environmental impacts of increasing energy consumption;
 
@@ -7473,11 +7477,64 @@ Pub. L. 102–486, title I, § 124(c), Oct. 24, 1992, 106 Stat. 2833, directed t
 
 (3) the Federal Government has a responsibility to foster and promote comprehensive energy conservation programs and practices by establishing guidelines for such programs and providing overall coordination, technical assistance, and financial support for specific State initiatives in energy conservation.
 
-**(b)** It is the purpose of this part to promote the conservation of energy and reduce the rate of growth of energy demand by authorizing the Secretary to establish procedures and guidelines for the development and implementation of specific State energy conservation programs and to provide Federal financial and technical assistance to States in support of such programs.
+**(b) Purpose** It is the purpose of this part to promote the conservation of energy and reduce the rate of growth of energy demand by authorizing the Secretary to establish procedures and guidelines for the development and implementation of specific State energy conservation programs and to provide Federal financial and technical assistance to States in support of such programs.
+
+**(c) Definitions** In this part:
+
+(1) **Appliance** — The term “appliance” means any article, such as a room air-conditioner, refrigerator-freezer, or dishwasher, which the Secretary classifies as an appliance for purposes of this part.
+
+(2) **Building** — The term “building” means any structure which includes provision for a heating or cooling system, or both, or for a hot water system.
+
+(3) **Energy audit** — The term “energy audit” means any process which identifies and specifies the energy and cost savings which are likely to be realized through the purchase and installation of particular energy conservation measures or renewable-resource energy measures and which—
+
+  (A) is carried out in accordance with rules of the Secretary; and
+
+  (B) imposes—
+
+    (i) no direct costs, with respect to individuals who are occupants of dwelling units in any State having a supplemental State energy conservation plan; and
+
+    (ii) only reasonable costs, as determined by the Secretary, with respect to any person not described in clause (i).
+  Rules referred to in subparagraph (A) may include minimum qualifications for, and provisions with respect to conflicts of interest of, persons carrying out such energy audits.
+
+(4) **Energy conservation measure** — The term “energy conservation measure” means a measure which modifies any building, building system, energy consuming device associated with the building, or industrial plant, the construction of which has been completed prior to May 1, 1989, if such measure has been determined by means of an energy audit or by the Secretary, by rule under [section 6325(e)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6325/e/1&num=0&edition=prelim), to be likely to maintain or improve the efficiency of energy use and to reduce energy costs (as calculated on the basis of energy costs reasonably projected over time, as determined by the Secretary) in an amount sufficient to enable a person to recover the total cost of purchasing and installing such measure (without regard to any tax benefit or Federal financial assistance applicable thereto) within the period of—
+
+  (A) the useful life of the modification involved, as determined by the Secretary, or
+
+  (B) 15 years after the purchase and installation of such measure,
+  whichever is less. Such term does not include (i) the purchase or installation of any appliance, (ii) any conversion from one fuel or source of energy to another which is of a type which the Secretary, by rule, determines is ineligible on the basis that such type of conversion is inconsistent with national policy with respect to energy conservation or reduction of imports of fuels, or (iii) any measure, or type of measure, which the Secretary determines does not have as its primary purpose an improvement in efficiency of energy use.
+
+(5) **Industrial plant** — The term “industrial plant” means any fixed equipment or facility which is used in connection with, or as part of, any process or system for industrial production or output.
+
+(6) **Public building** — The term “public building” means any building which is open to the public during normal business hours.
+
+(7) **Renewable-resource energy measure** — The term “renewable-resource energy measure” means a measure which modifies any building or industrial plant, the construction of which has been completed prior to August 14, 1976, if such measure has been determined by means of an energy audit or by the Secretary, by rule under [section 6325(e)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6325/e/1&num=0&edition=prelim), to—
+
+  (A) involve changing, in whole or in part, the fuel or source of the energy used to meet the requirements of such building or plant from a depletable source of energy to a nondepletable source of energy; and
+
+  (B) be likely to reduce energy costs (as calculated on the basis of energy costs reasonably projected over time, as determined by the Secretary) in an amount sufficient to enable a person to recover the total cost of purchasing and installing such measure (without regard to any tax benefit or Federal financial assistance applicable thereto) within the period of—
+
+    (i) the useful life of the modification involved, as determined by the Secretary, or
+
+    (ii) 25 years after the purchase and installation of such measure,
+    whichever is less.
+  Such term does not include the purchase or installation of any appliance.
+
+(8) **Transportation controls** — The term “transportation controls” means any plan, procedure, method, or arrangement, or any system of incentives, disincentives, restrictions, and requirements, which is designed to reduce the amount of energy consumed in transportation, except that the term does not include rationing of gasoline or diesel fuel.
 
 ### Statutory Notes
 
+#### Codification
+Pars. (1) to (8) of [section 6326 of this title](./chapter-077-energy-conservation.md#section-6326), which was transferred to subsec. (c) of this section by Pub. L. 117–58, div. D, title I, § 40108(a)(3), Nov. 15, 2021, 135 Stat. 942, was based on Pub. L. 94–163, title III, § 366, Dec. 22, 1975, 89 Stat. 935; Pub. L. 94–385, title IV, § 431, Aug. 14, 1976, 90 Stat. 1158; Pub. L. 95–619, title VI, § 691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 101–440, § 2(b), Oct. 18, 1990, 104 Stat. 1006; Pub. L. 117–58, div. D, title I, § 40108(a)(2), Nov. 15, 2021, 135 Stat. 941.
+
 #### Amendments
+2021—Pub. L. 117–58, § 40108(a)(1)(A), substituted “Findings; purpose; definitions” for “Congressional findings and declaration of purpose” in section catchline and, in subsec. (a), inserted heading and substituted “Congress” for “The Congress” in introductory provisions.
+
+Subsec. (b). Pub. L. 117–58, § 40108(a)(1)(B), inserted heading.
+
+Subsec. (c). Pub. L. 117–58, § 40108(a)(1)(C), added subsec. (c).
+
+Subsec. (c)(1) to (8). Pub. L. 117–58, § 40108(a)(3), transferred pars. (1) to (8) of [section 6326 of this title](./chapter-077-energy-conservation.md#section-6326) to subsec. (c) of this section. See Codification note above.
+
 1978—Subsec. (b). Pub. L. 95–619 substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration.
 
 #### Report on Coordination of Energy Conservation Programs
@@ -7508,9 +7565,19 @@ Pub. L. 95–619, title VI, § 623, Nov. 9, 1978, 92 Stat. 3283, provided that n
 
 (4) mandatory thermal efficiency standards and insulation requirements for new and renovated buildings (except buildings owned or leased by the United States);
 
-(5) a traffic law or regulation which, to the maximum extent practicable consistent with safety, permits the operator of a motor vehicle to turn such vehicle right at a red stop light after stopping and to turn such vehicle left from a one-way street onto a one-way street at a red light after stopping; and
+(5) a traffic law or regulation which, to the maximum extent practicable consistent with safety, permits the operator of a motor vehicle to turn such vehicle right at a red stop light after stopping and to turn such vehicle left from a one-way street onto a one-way street at a red light after stopping;
 
-(6) procedures for ensuring effective coordination among various local, State, and Federal energy conservation programs within the State, including any program administered within the Office of Technical and Financial Assistance of the Department of Energy and the Low Income Home Energy Assistance Program administered by the Department of Health and Human Services.
+(6) procedures for ensuring effective coordination among various local, State, and Federal energy conservation programs within the State, including any program administered within the Office of Technical and Financial Assistance of the Department of Energy and the Low Income Home Energy Assistance Program administered by the Department of Health and Human Services; and
+
+(7) the mandatory conduct of activities to support transmission and distribution planning, including—
+
+  (A) support for local governments and Indian Tribes;
+
+  (B) feasibility studies for transmission line routes and alternatives;
+
+  (C) preparation of necessary project design and permits; and
+
+  (D) outreach to affected stakeholders.
 
 **(d) Optional features of plans** Each proposed State energy conservation plan may include—
 
@@ -7518,7 +7585,7 @@ Pub. L. 95–619, title VI, § 623, Nov. 9, 1978, 92 Stat. 3283, provided that n
 
 (2) restrictions on the use of decorative or nonessential lighting;
 
-(3) programs to increase transportation energy efficiency, including programs to accelerate the use of alternative transportation fuels for State government vehicles, fleet vehicles, taxies, mass transit, and privately owned vehicles;
+(3) programs to increase transportation energy efficiency, including programs to help reduce carbon emissions in the transportation sector by 2050 and accelerate the use of alternative transportation fuels for, and the electrification of, State government vehicles, fleet vehicles, taxis and ridesharing services, mass transit, school buses, ferries, and privately owned passenger and medium- and heavy-duty vehicles;
 
 (4) programs of public education to promote energy conservation;
 
@@ -7556,9 +7623,11 @@ Pub. L. 95–619, title VI, § 623, Nov. 9, 1978, 92 Stat. 3283, provided that n
 
 (15) support for prefeasibility and feasibility studies for projects that utilize renewable energy and energy efficiency resource technologies in order to facilitate access to capital and credit for such projects;
 
-(16) programs to facilitate and encourage the voluntary use of renewable energy technologies for eligible participants in Federal agency programs, including the Rural Electrification Administration and the Farmers Home Administration; and
+(16) programs to facilitate and encourage the voluntary use of renewable energy technologies for eligible participants in Federal agency programs, including the Rural Electrification Administration and the Farmers Home Administration;
 
-(17) any other appropriate method or programs to conserve and to promote efficiency in the use of energy.
+(17) programs that promote the installation and use of demand-response technology and demand-response practices; and
+
+(18) any other appropriate method or programs to conserve and to promote efficiency in the use of energy.
 
 **(e) Standby plans** The Governor of any State may submit to the Secretary a State energy conservation plan which is a standby energy conservation plan to significantly reduce energy demand by regulating the public and private consumption of energy during a severe energy supply interruption, which plan may be separately eligible for Federal assistance under this part without regard to subsections (c) and (d) of this section.
 
@@ -7603,6 +7672,12 @@ Pub. L. 95–619, title VI, § 623, Nov. 9, 1978, 92 Stat. 3283, provided that n
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (c)(7). Pub. L. 117–58, § 40109(a), added par. (7).
+
+Subsec. (d)(3). Pub. L. 117–58, § 40109(b), added par. (3) and struck out former par. (3) which read as follows: “programs to increase transportation energy efficiency, including programs to accelerate the use of alternative transportation fuels for State government vehicles, fleet vehicles, taxies, mass transit, and privately owned vehicles;”.
+
+Subsec. (d)(17), (18). Pub. L. 117–58, § 40104(b), added par. (17) and redesignated former par. (17) as (18).
+
 2005—Subsec. (g). Pub. L. 109–58 added subsec. (g).
 
 1998—Subsec. (a)(1). Pub. L. 105–388, § 5(a)(8)(A), inserted “of” after “of the implementation”.
@@ -7632,7 +7707,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 Pub. L. 102–486, title I, § 141(c)(2), Oct. 24, 1992, 106 Stat. 2841, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect January 1, 1995.”
 
 #### Study Regarding Impact of Permitting Right and Left Turns on Red Lights
-Pub. L. 102–486, title I, § 141(d), Oct. 24, 1992, 106 Stat. 2841, provided that: “(1) In General.—The Administrator of the National Highway Traffic Safety Administration, in consultation with State agencies with jurisdiction over traffic safety issues, shall conduct a study on the safety impact of the requirement specified in section 362(c)(5) of the Energy Policy and Conservation Act ([42 U.S.C. 6322(c)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6322/c/5&num=0&edition=prelim)), particularly with respect to the impact on pedestrian safety. “(2) Report.—The Administrator shall report the findings of the study conducted under paragraph (1) to the Congress and the Secretary not later than 2 years after the date of the enactment of this Act [Oct. 24, 1992].”
+Pub. L. 102–486, title I, § 141(d), Oct. 24, 1992, 106 Stat. 2841, required the Administrator of the National Highway Traffic Safety Administration, in consultation with State agencies with jurisdiction over traffic safety issues, to conduct a study on the safety impact of the requirement specified in subsec. (c)(5) of this section, particularly with respect to the impact on pedestrian safety, and to report the findings of the study to Congress and the Secretary by not later than 2 years after Oct. 24, 1992.
 
 
 <a id="section-6324"></a>
@@ -7666,13 +7741,7 @@ Pub. L. 102–486, title I, § 141(d), Oct. 24, 1992, 106 Stat. 2841, provided t
 
 **(d) Assistance as supplementing and not supplanting State and local funds** Each State receiving Federal financial assistance pursuant to this section shall provide reasonable assurance to the Secretary that it has established policies and procedures designed to assure that Federal financial assistance under this part and under part E of this subchapter will be used to supplement, and not to supplant, State and local funds, and to the extent practicable, to increase the amount of such funds that otherwise would be available, in the absence of such Federal financial assistance, for those programs set forth in the State energy conservation plan approved pursuant to subsection (b).
 
-**(e) Energy emergency planning program as prerequisite to assistance**
-
-(1) Effective October 1, 1991, to be eligible for Federal financial assistance pursuant to this section, a State shall submit to the Secretary, as a supplement to its energy conservation plan, an energy emergency planning program for an energy supply disruption, as designed by the State consistent with applicable Federal and State law. The contingency plan provided for by the program shall include an implementation strategy or strategies (including regional coordination) for dealing with energy emergencies. The submission of such plan shall be for informational purposes only and without any requirement of approval by the Secretary.
-
-(2) Federal financial assistance made available under this part to a State may be used to develop and conduct the energy emergency planning program requirement referred to in paragraph (1).
-
-**(f) State buildings energy efficiency improvements incentive fund** If the Secretary determines that a State has demonstrated a commitment to improving the energy efficiency of buildings within such State, the Secretary may, beginning in fiscal year 1994, provide up to $1,000,000 to such State for deposit into a revolving fund established by such State for the purpose of financing energy efficiency improvements in State and local government buildings. In making such determination the Secretary shall consider whether—
+**(e) State buildings energy efficiency improvements incentive fund** If the Secretary determines that a State has demonstrated a commitment to improving the energy efficiency of buildings within such State, the Secretary may, beginning in fiscal year 1994, provide up to $1,000,000 to such State for deposit into a revolving fund established by such State for the purpose of financing energy efficiency improvements in State and local government buildings. In making such determination the Secretary shall consider whether—
 
 (1) such State, or a majority of the units of local government with jurisdiction over building energy codes within such State, has adopted codes for energy efficiency in new buildings that are at least as stringent as American Society of Heating, Refrigerating, and Air-Conditioning Engineers Standard 90.1–1989 (with respect to commercial buildings) and Council of American Building Officials Model Energy Code, 1992 (with respect to residential buildings);
 
@@ -7686,6 +7755,8 @@ Pub. L. 102–486, title I, § 141(d), Oct. 24, 1992, 106 Stat. 2841, provided t
 This chapter, referred to in subsec. (b)(2)(B), (3)(C), was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
 
 #### Amendments
+2021—Subsecs. (e), (f). Pub. L. 117–58 redesignated subsec. (f) as (e) and struck out former subsec. (e) which related to energy emergency planning program as prerequisite to assistance.
+
 1992—Subsec. (f). Pub. L. 102–486 added subsec. (f).
 
 1990—Subsecs. (d), (e). Pub. L. 101–440 added subsecs. (d) and (e).
@@ -7747,7 +7818,15 @@ Each State energy conservation plan with respect to which assistance is made ava
 
 (2) designate, by rule, the types of, and requirements for, energy audits.
 
-**(f) Authorization of appropriations** For the purpose of carrying out this part, there are authorized to be appropriated $125,000,000 for each of fiscal years 2007 through 2012.
+**(f) Authorization of appropriations**
+
+(1) **In general** — There is authorized to be appropriated to carry out this part $500,000,000 for the period of fiscal years 2022 through 2026.
+
+(2) **Distribution** — Amounts made available under paragraph (1)—
+
+  (A) shall be distributed to the States in accordance with the applicable distribution formula in effect on January 1, 2021; and
+
+  (B) shall not be subject to the matching requirement described in [section 6323a of this title](./chapter-077-energy-conservation.md#section-6323a).
 
 **(g) State Energy Advisory Board**
 
@@ -7795,6 +7874,8 @@ The Federal Trade Commission Act, referred to in subsec. (d), is act Sept. 26, 1
 The Energy Conservation and Production Act, referred to in subsec. (g)(2)(A)(i), is Pub. L. 94–385, Aug. 14, 1976, 90 Stat. 1125, as amended. Part A of title IV of the Act is classified generally to part A (§ 6861 et seq.) of subchapter III of chapter 81 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6801 of this title](./chapter-081-energy-conservation-and-resource-renewal.md#section-6801) and Tables.
 
 #### Amendments
+2021—Subsec. (f). Pub. L. 117–58 added subsec. (f) and struck out former subsec. (f). Prior to amendment, text read as follows: “For the purpose of carrying out this part, there are authorized to be appropriated $125,000,000 for each of fiscal years 2007 through 2012.”
+
 2007—Subsec. (f). Pub. L. 110–140 substituted “$125,000,000 for each of fiscal years 2007 through 2012” for “$100,000,000 for each of the fiscal years 2006 and 2007 and $125,000,000 for fiscal year 2008”.
 
 2005—Subsec. (f). Pub. L. 109–58 substituted “$100,000,000 for each of the fiscal years 2006 and 2007 and $125,000,000 for fiscal year 2008” for “for fiscal years 1999 through 2003 such sums as may be necessary”.
@@ -7831,56 +7912,106 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 
 <a id="section-6341"></a>
-## § 6341. Definitions
+## § 6341. State energy security plans
+**(a) Definitions** In this section:
 
-As used in this part—
+(1) **Bulk-power system** — The term “bulk-power system” has the meaning given the term in section 824o(a) of title 16.
 
-(1) The term “appliance” means any article, such as a room air-conditioner, refrigerator-freezer, or dishwasher, which the Secretary classifies as an appliance for purposes of this part.
+(2) **State energy security plan** — The term “State energy security plan” means a State energy security plan described in subsection (b).
 
-(2) The term “building” means any structure which includes provision for a heating or cooling system, or both, or for a hot water system.
+**(b) Financial assistance for State energy security plans** Federal financial assistance made available to a State under this part may be used for the development, implementation, review, and revision of a State energy security plan that—
 
-(3) The term “energy audit” means any process which identifies and specifies the energy and cost savings which are likely to be realized through the purchase and installation of particular energy conservation measures or renewable-resource energy measures and which—
+(1) assesses the existing circumstances in the State; and
 
-  (A) is carried out in accordance with rules of the Secretary; and
+(2) proposes methods to strengthen the ability of the State, in consultation with owners and operators of energy infrastructure in the State—
 
-  (B) imposes—
+  (A) to secure the energy infrastructure of the State against all physical and cybersecurity threats;
 
-    (i) no direct costs, with respect to individuals who are occupants of dwelling units in any State having a supplemental State energy conservation plan approved under section 6327 11 See References in Text note below. of this title, and
+  (B)
 
-    (ii) only reasonable costs, as determined by the Secretary, with respect to any person not described in clause (i).
-  Rules referred to in subparagraph (A) may include minimum qualifications for, and provisions with respect to conflicts of interest of, persons carrying out such energy audits.
+    (i) to mitigate the risk of energy supply disruptions to the State; and
 
-(4) The term “energy conservation measure” means a measure which modifies any building, building system, energy consuming device associated with the building, or industrial plant, the construction of which has been completed prior to May 1, 1989, if such measure has been determined by means of an energy audit or by the Secretary, by rule under [section 6325(e)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6325/e/1&num=0&edition=prelim), to be likely to maintain or improve the efficiency of energy use and to reduce energy costs (as calculated on the basis of energy costs reasonably projected over time, as determined by the Secretary) in an amount sufficient to enable a person to recover the total cost of purchasing and installing such measure (without regard to any tax benefit or Federal financial assistance applicable thereto) within the period of—
+    (ii) to enhance the response to, and recovery from, energy disruptions; and
 
-  (A) the useful life of the modification involved, as determined by the Secretary, or
+  (C) to ensure that the State has reliable, secure, and resilient energy infrastructure.
 
-  (B) 15 years after the purchase and installation of such measure,
-  whichever is less. Such term does not include (i) the purchase or installation of any appliance, (ii) any conversion from one fuel or source of energy to another which is of a type which the Secretary, by rule, determines is ineligible on the basis that such type of conversion is inconsistent with national policy with respect to energy conservation or reduction of imports of fuels, or (iii) any measure, or type of measure, which the Secretary determines does not have as its primary purpose an improvement in efficiency of energy use.
+**(c) Contents of plan** A State energy security plan shall—
 
-(5) The term “industrial plant” means any fixed equipment or facility which is used in connection with, or as part of, any process or system for industrial production or output.
+(1) address all energy sources and regulated and unregulated energy providers;
 
-(6) The term “renewable-resource energy measure” means a measure which modifies any building or industrial plant, the construction of which has been completed prior to August 14, 1976, if such measure has been determined by means of an energy audit or by the Secretary, by rule under [section 6325(e)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6325/e/1&num=0&edition=prelim), to—
+(2) provide a State energy profile, including an assessment of energy production, transmission, distribution, and end-use;
 
-  (A) involve changing, in whole or in part, the fuel or source of the energy used to meet the requirements of such building or plant from a depletable source of energy to a nondepletable source of energy; and
+(3) address potential hazards to each energy sector or system, including—
 
-  (B) be likely to reduce energy costs (as calculated on the basis of energy costs reasonably projected over time, as determined by the Secretary) in an amount sufficient to enable a person to recover the total cost of purchasing and installing such measure (without regard to any tax benefit or Federal financial assistance applicable thereto) within the period of—
+  (A) physical threats and vulnerabilities; and
 
-    (i) the useful life of the modification involved, as determined by the Secretary, or
+  (B) cybersecurity threats and vulnerabilities;
 
-    (ii) 25 years after the purchase and installation of such measure,
-    whichever is less.
-  Such term does not include the purchase or installation of any appliance.
+(4) provide a risk assessment of energy infrastructure and cross-sector interdependencies;
 
-(7) The term “public building” means any building which is open to the public during normal business hours.
+(5) provide a risk mitigation approach to enhance reliability and end-use resilience; and
 
-(8) The term “transportation controls” means any plan, procedure, method, or arrangement, or any system of incentives, disincentives, restrictions, and requirements, which is designed to reduce the amount of energy consumed in transportation, except that the term does not include rationing of gasoline or diesel fuel.
+(6)
+
+  (A) address—
+
+    (i) multi-State and regional coordination, planning, and response; and
+
+    (ii) coordination with Indian Tribes with respect to planning and response; and
+
+  (B) to the extent practicable, encourage mutual assistance in cyber and physical response plans.
+
+**(d) Coordination** In developing or revising a State energy security plan, the State energy office of the State shall coordinate, to the extent practicable, with—
+
+(1) the public utility or service commission of the State;
+
+(2) energy providers from the private and public sectors; and
+
+(3) other entities responsible for—
+
+  (A) maintaining fuel or electric reliability; and
+
+  (B) securing energy infrastructure.
+
+**(e) Financial assistance** A State is not eligible to receive Federal financial assistance under this part for any purpose for a fiscal year unless the Governor of the State submits to the Secretary, with respect to that fiscal year—
+
+(1) a State energy security plan that meets the requirements of subsection (c); or
+
+(2) after an annual review, carried out by the Governor, of a State energy security plan—
+
+  (A) any necessary revisions to the State energy security plan; or
+
+  (B) a certification that no revisions to the State energy security plan are necessary.
+
+**(f) Technical assistance** On request of the Governor of a State, the Secretary, in consultation with the Secretary of Homeland Security, may provide information, technical assistance, and other assistance in the development, implementation, or revision of a State energy security plan.
+
+**(g) Requirement** Each State receiving Federal financial assistance under this part shall provide reasonable assurance to the Secretary that the State has established policies and procedures designed to assure that the financial assistance will be used—
+
+(1) to supplement, and not to supplant, State and local funds; and
+
+(2) to the maximum extent practicable, to increase the amount of State and local funds that otherwise would be available, in the absence of the Federal financial assistance, for the implementation of a State energy security plan.
+
+**(h) Protection of information** Information provided to, or collected by, the Federal Government pursuant to this section the disclosure of which the Secretary reasonably foresees could be detrimental to the physical security or cybersecurity of any electric utility or the bulk-power system—
+
+(1) shall be exempt from disclosure under [section 552(b)(3) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b/3&num=0&edition=prelim); and
+
+(2) shall not be made available by any Federal agency, State, political subdivision of a State, or Tribal authority pursuant to any Federal, State, political subdivision of a State, or Tribal law, respectively, requiring public disclosure of information or records.
+
+**(i) Sunset** The requirements of this section shall expire on October 31, 2025.
 
 ### Statutory Notes
 
-#### References in Text
-[Section 6327 of this title](./chapter-077-energy-conservation.md#section-6327), referred to in par. (3)(B)(i), was repealed by Pub. L. 101–440, § 4(c)(1), Oct. 18, 1990, 104 Stat. 1009.
-
 #### Amendments
+2021—Pub. L. 117–58, § 40108(a)(4), amended section generally. Prior to amendment, section defined terms used in this part.
+
+Pub. L. 117–58, § 40108(a)(3), redesignated pars. (1) to (8) as pars. (1) to (8) of [section 6321(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6321/c&num=0&edition=prelim).
+
+Pub. L. 117–58, § 40108(a)(2)(B), inserted headings in pars. (1) to (8).
+
+Par. (3)(B)(i). Pub. L. 117–58, § 40108(a)(2)(A), substituted “; and” for “approved under [section 6327 of this title](./chapter-077-energy-conservation.md#section-6327), and”.
+
+Pars. (6), (7). Pub. L. 117–58, § 40108(a)(2)(C), redesignated pars. (6) and (7) as (7) and (6), respectively, and rearranged pars. in numerical order.
+
 1990—Par. (4). Pub. L. 101–440 substituted “building, building system, energy consuming device associated with the building, or industrial” for “building or industrial”, “May 1, 1989” for “August 14, 1976”, and “maintain or improve the efficiency” for “improve the efficiency”.
 
 1978—Pars. (1), (3)(A), (B)(ii), (4), (A), (6), (B), (B)(i). Pub. L. 95–619 substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
@@ -8409,11 +8540,35 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
 
 <a id="section-6348"></a>
-## § 6348. Repealed. Pub. L. 99–509, title III, § 3101(b), Oct. 21, 1986, 100 Stat. 1888
+## § 6348. Sustainable manufacturing initiative
+**(a) In general** As part of the Office of Energy Efficiency and Renewable Energy of the Department of Energy, the Secretary, on the request of a manufacturer, shall carry out onsite technical assessments to identify opportunities for—
+
+(1) maximizing the energy efficiency of industrial processes and cross-cutting systems;
+
+(2) preventing pollution and minimizing waste;
+
+(3) improving efficient use of water in manufacturing processes;
+
+(4) conserving natural resources; and
+
+(5) achieving such other goals as the Secretary determines to be appropriate.
+
+**(b) Coordination** To implement any recommendations resulting from an onsite technical assessment carried out under subsection (a) and to accelerate the adoption of new and existing technologies and processes that improve energy efficiency, the Secretary shall coordinate with—
+
+(1) the Advanced Manufacturing Office of the Department of Energy;
+
+(2) the Building Technologies Office of the Department of Energy;
+
+(3) the Federal Energy Management Program of the Department of Energy; and
+
+(4) the private sector and other appropriate agencies, including the National Institute of Standards and Technology.
+
+**(c) Research and development program for sustainable manufacturing and industrial technologies and processes** As part of the industrial efficiency programs of the Department of Energy, the Secretary shall carry out a joint industry-government partnership program to research, develop, and demonstrate new sustainable manufacturing and industrial technologies and processes that maximize the energy efficiency of industrial plants, reduce pollution, and conserve natural resources.
 
 ### Statutory Notes
 
-Section, Pub. L. 94–163, title III, § 376, Dec. 22, 1975, 89 Stat. 938; Pub. L. 95–619, title IV, § 461(d)(1), title VI, § 691(b)(2), Nov. 9, 1978, 92 Stat. 3275, 3288, set forth general provisions relating to compliance with former part C reporting requirements, use of information, and absence of liability for failure to meet energy efficiency improvement targets.
+#### Prior Provisions
+A prior section 6346, Pub. L. 94–163, title III, § 376, Dec. 22, 1975, 89 Stat. 938; Pub. L. 95–619, title IV, § 461(d)(1), title VI, § 691(b)(2), Nov. 9, 1978, 92 Stat. 3275, 3288, set forth general provisions relating to compliance with former part C reporting requirements, use of information, and absence of liability for failure to meet energy efficiency improvement targets, prior to repeal by Pub. L. 99–509, title III, § 3101(b), Oct. 21, 1986, 100 Stat. 1888.
 
 
 <a id="section-6349"></a>
@@ -9438,7 +9593,7 @@ Section was enacted as a part of the National Energy Conservation Policy Act, an
 ## § 6372a. Coordination of energy retrofitting assistance for schools
 **(a) Definition of school** In this section, the term “school” means—
 
-(1) an elementary school or secondary school (as defined in section 8101 7801 of title 20);
+(1) an elementary school or secondary school (as defined in [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim));
 
 (2) an institution of higher education (as defined in [section 1001(a) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001/a&num=0&edition=prelim));
 
@@ -10016,7 +10171,7 @@ This subchapter, referred to in subsec. (c), was in the original “this title�
 1978—Subsec. (b). Pub. L. 95–619 purported to substitute “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration. See Transfer of Functions note below.
 
 #### Transfer of Functions
-“Secretary, the Department of the Interior, or the Federal Energy Regulatory Commission” and “Secretary” substituted for “Federal Energy Administration, the Department of the Interior, or the Federal Power Commission” and “Administration”, respectively, in subsec. (a)(1), and “Federal Energy Regulatory Commission, or the Secretary” substituted for “Federal Power Commission, or the Federal Energy Administration (or the Administrator)” in subsec. (b) pursuant to sections 301, 402, 703, and 707 of Pub. L. 95–91, which are classified to sections 7151, 7172, 7293, and 7297 of this title and which terminated Federal Energy Administration and transferred its functions and functions of Administrator thereof (with certain exceptions) to Secretary of Energy and terminated Federal Power Commission and transferred its functions to Federal Energy Regulatory Commission and Secretary of Energy.
+“Secretary, the Department of the Interior, or the Federal Energy Regulatory Commission” and “Secretary” substituted for “Federal Energy Administration, the Department of the Interior, or the Federal Power Commission” and “Administration”, respectively, in subsec. (a)(1), and “Federal Energy Regulatory Commission, or the Secretary” substituted for “Federal Power Commission, or the Federal Energy Administration (or the Administrator)” in subsec. (b) pursuant to sections 301, 402, 703, and 707 of Pub. L. 95–91, which are classified to sections 7151, 7172, 7293, and 7297 of this title and which terminated the Federal Energy Administration and transferred its functions and functions of Administrator thereof (with certain exceptions) to the Secretary of Energy and terminated the Federal Power Commission and transferred its functions to the Federal Energy Regulatory Commission and the Secretary of Energy.
 
 
 <a id="section-6384"></a>
@@ -10108,7 +10263,7 @@ The Securities and Exchange Commission shall afford interested persons an opport
 Subsec. (c)(1). Pub. L. 105–388, § 5(a)(15)(B), substituted “, controlling,” for “controlling” in concluding provisions.
 
 #### Transfer of Functions
-“Secretary” and “Federal Energy Regulatory Commission” substituted for “Federal Energy Administration” and “Federal Power Commission”, respectively, in subsec. (b)(1) pursuant to sections 301, 402, 703, and 707 of Pub. L. 95–91, which are classified to sections 7151, 7172, 7293, and 7297 of this title and which terminated Federal Energy Administration and transferred its functions (with certain exceptions) to Secretary of Energy and terminated Federal Power Commission and transferred its functions to Federal Energy Regulatory Commission and Secretary of Energy.
+“Secretary” and “Federal Energy Regulatory Commission” substituted for “Federal Energy Administration” and “Federal Power Commission”, respectively, in subsec. (b)(1) pursuant to sections 301, 402, 703, and 707 of Pub. L. 95–91, which are classified to sections 7151, 7172, 7293, and 7297 of this title and which terminated the Federal Energy Administration and transferred its functions (with certain exceptions) to the Secretary of Energy and terminated the Federal Power Commission and transferred its functions to the Federal Energy Regulatory Commission and the Secretary of Energy.
 
 
 <a id="section-6391"></a>
@@ -10302,7 +10457,7 @@ No provision of this chapter shall permit the imposition of any price controls o
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
 
 #### Transfer of Functions
-“Secretary or the Federal Energy Regulatory Commission” substituted for “Federal Power Commission” pursuant to sections 301(a), 402, 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7172, 7293, and 7297 of this title and which terminated Federal Power Commission and transferred its functions to Federal Energy Regulatory Commission and Secretary of Energy.
+“Secretary or the Federal Energy Regulatory Commission” substituted for “Federal Power Commission” pursuant to sections 301(a), 402, 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7172, 7293, and 7297 of this title and which terminated the Federal Power Commission and transferred its functions to the Federal Energy Regulatory Commission and the Secretary of Energy.
 
 
 <a id="section-6421"></a>

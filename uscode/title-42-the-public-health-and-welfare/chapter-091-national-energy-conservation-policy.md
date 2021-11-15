@@ -544,17 +544,17 @@ It is the purpose of this part to promote the conservation and the efficient use
 
 **(b) Energy and water management requirement for Federal agencies**
 
-(1) **In general** — Each agency shall—
+(1) **In general.—** — Each agency shall—
 
   (A) not later than October 1, 2022, to the maximum extent practicable, begin installing in Federal buildings owned by the United States all energy and water conservation measures determined by the Secretary to be life cycle cost-effective (as defined in subsection (f)(1)); and
 
   (B) complete the installation described in subparagraph (A) as soon as practicable after the date referred to in that subparagraph.
 
-(2) **Explanation of noncompliance**
+(2) **Explanation of noncompliance.—**
 
-  (A) *In general* — If an agency fails to comply with paragraph (1), the agency shall submit to the Secretary, using guidelines developed by the Secretary, an explanation of the reasons for the failure.
+  (A) *In general.—* — If an agency fails to comply with paragraph (1), the agency shall submit to the Secretary, using guidelines developed by the Secretary, an explanation of the reasons for the failure.
 
-  (B) *Report to Congress* — Not later than January 1, 2022, and every 2 years thereafter, the Secretary shall submit to Congress a report that describes any noncompliance by an agency with the requirements of paragraph (1).
+  (B) *Report to Congress.—* — Not later than January 1, 2022, and every 2 years thereafter, the Secretary shall submit to Congress a report that describes any noncompliance by an agency with the requirements of paragraph (1).
 
 (3) This subsection shall not apply to an agency’s facilities that generate or transmit electric energy or to the uranium enrichment facilities operated by the Department of Energy.
 
@@ -764,11 +764,11 @@ It is the purpose of this part to promote the conservation and the efficient use
 
         (bb) the date—
 
-  (AA) of the most recent commissioning, recommissioning, or retrocommissioning; or
+          (AA) of the most recent commissioning, recommissioning, or retrocommissioning; or
 
-  (BB) on which ongoing commissioning began; or
+          (BB) on which ongoing commissioning began; or
 
-  (II) has a long-term contract in place guaranteeing energy savings at least as great as the energy savings target under subclause (I).
+      (II) has a long-term contract in place guaranteeing energy savings at least as great as the energy savings target under subclause (I).
 
 (4) **Implementation of identified energy and water efficiency measures**
 
@@ -938,9 +938,11 @@ It is the purpose of this part to promote the conservation and the efficient use
 
 (1) **In general** — The Secretary shall carry out a program, to be known as the “Federal Energy Management Program” (referred to in this subsection as the “Program”), to facilitate the implementation by the Federal Government of cost-effective energy and water management and energy-related investment practices—
 
-  (A) to coordinate and strengthen Federal energy and water resilience; and
+  (A) to coordinate and strengthen Federal energy and water resilience;
 
-  (B) to promote environmental stewardship.
+  (B) to promote environmental stewardship; and
+
+  (C) to reduce energy consumption during periods of unusually high electricity or natural gas demand.
 
 (2) **Federal Director** — The Secretary shall appoint an individual to serve as the director of the Program (referred to in this subsection as the “Federal Director”), which shall be a career position in the Senior Executive service, to administer the Program.
 
@@ -956,9 +958,11 @@ It is the purpose of this part to promote the conservation and the efficient use
 
     (iv) establish and maintain internet-based information resources and project tracking systems and tools for energy and water management;
 
-    (v) coordinate comprehensive and strategic approaches to energy and water resilience planning for agencies; and
+    (v) coordinate comprehensive and strategic approaches to energy and water resilience planning for agencies;
 
-    (vi) establish a recognition program for Federal achievement in energy and water management, energy-related investment practices, environmental stewardship, and other relevant areas, through events such as individual recognition award ceremonies and public announcements.
+    (vi) establish a recognition program for Federal achievement in energy and water management, energy-related investment practices, environmental stewardship, and other relevant areas, through events such as individual recognition award ceremonies and public announcements; and
+
+    (vii) promote the installation of demand-response technology and the use of demand-response practices in Federal buildings.
 
   (B) *Energy and water management and reporting* — In administering the Program, the Federal Director shall—
 
@@ -1036,6 +1040,10 @@ This chapter, referred to in subsecs. (c)(1)(A)(iii), (f)(1)(F)(ii), and (i)(3)(
 The Energy Policy Act of 1992, referred to in subsec. (c)(1)(A)(iii), is Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2776, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 13201 of this title](./chapter-134-energy-policy.md#section-13201) and Tables.
 
 #### Amendments
+2021—Subsec. (i)(1)(C). Pub. L. 117–58, § 40104(c)(1), added subpar. (C).
+
+Subsec. (i)(3)(A)(vii). Pub. L. 117–58, § 40104(c)(2), added cl. (vii).
+
 2020—Pub. L. 116–260, § 1002(g)(1), inserted “and water” after “Energy” in section catchline.
 
 Subsec. (b). Pub. L. 116–260, § 1002(g)(2)(A), inserted “and water” after “Energy” in heading.
@@ -2414,7 +2422,7 @@ Section, Pub. L. 96–294, title V, § 597, June 30, 1980, 94 Stat. 762, which r
 
   (G) issuing a task or delivery order for energy savings performance contracting services to such contractor or contractors.
 
-(2) The issuance of a task or delivery order for energy savings performance contracting services pursuant to paragraph (1) is deemed to satisfy the task and delivery order competition requirements in [section 2304c(d) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304c/d&num=0&edition=prelim) and [section 4106(d) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section4106/d&num=0&edition=prelim).
+(2) The issuance of a task or delivery order for energy savings performance contracting services pursuant to paragraph (1) is deemed to satisfy the task and delivery order competition requirements in [section 3406(d) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3406/d&num=0&edition=prelim) and [section 4106(d) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section4106/d&num=0&edition=prelim).
 
 (3) The Secretary may issue guidance as necessary to agencies issuing task or delivery orders pursuant to paragraph (1).
 
@@ -2435,6 +2443,8 @@ In subsec. (b)(1)(A), “[section 1302(a) of title 41](https://uscode.house.gov/
 In subsec. (c)(2), “[section 4106(d) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section4106/d&num=0&edition=prelim)” substituted for “section 303J(d) of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 253j(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section253j/d&num=0&edition=prelim))”.
 
 #### Amendments
+2021—Subsec. (c)(2). Pub. L. 117–81 substituted “[section 3406(d) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3406/d&num=0&edition=prelim) and [section 4106(d) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section4106/d&num=0&edition=prelim).” for “[section 2304c(d) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304c/d&num=0&edition=prelim) and [section 4106(d) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section4106/d&num=0&edition=prelim).”
+
 2020—Subsec. (a)(2)(F)(iii). Pub. L. 116–260, § 1002(c), added cl. (iii).
 
 Subsec. (a)(2)(H), (I). Pub. L. 116–260, § 1002(d), added subpars. (H) and (I).
@@ -2478,7 +2488,7 @@ Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see secti
 Pub. L. 103–211, title III, § 402, Feb. 12, 1994, 108 Stat. 40, provided that: “The Architect of the Capitol shall be considered the agency for the purposes of the election in section 801(b)(2)(B) of the National Energy Conservation Policy Act [[42 U.S.C. 8287(b)(2)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8287/b/2/B&num=0&edition=prelim)] and the head of the agency for purposes of subsection (b)(2)(C) of such section.”
 
 #### Review
-Pub. L. 108–375, div. A, title X, § 1090(f), Oct. 28, 2004, 118 Stat. 2068, provided that, not later than 180 days after tOct. 28, 2004, the Secretary of Energy was to complete a review, and report its findings to Congress, of the Energy Savings Performance Contract program, which was to identify statutory, regulatory, and administrative obstacles that prevent Federal agencies from fully utilizing the program.
+Pub. L. 108–375, div. A, title X, § 1090(f), Oct. 28, 2004, 118 Stat. 2068, provided that, not later than 180 days after Oct. 28, 2004, the Secretary of Energy was to complete a review, and report its findings to Congress, of the Energy Savings Performance Contract program, which was to identify statutory, regulatory, and administrative obstacles that prevent Federal agencies from fully utilizing the program.
 
 #### Extension of Authority
 Pub. L. 109–58, title I, § 105(b), Aug. 8, 2005, 119 Stat. 611, provided that: “Any energy savings performance contract entered into under section 801 of the National Energy Conservation Policy Act ([42 U.S.C. 8287](./chapter-091-national-energy-conservation-policy.md#section-8287)) after October 1, 2003, and before the date of enactment of this Act [Aug. 8, 2005], shall be considered to have been entered into under that section.”
@@ -2530,7 +2540,7 @@ For purposes of this subchapter, the following definitions apply:
 
     (i) the lease or purchase of operating equipment, improvements, altered operation and maintenance, or technical services;
 
-    (ii) the increased efficient use of existing energy sources by cogeneration or heat recovery, excluding any cogeneration process for other than a Federal building (as defined in [section 8259 of this title](./chapter-091-national-energy-conservation-policy.md#section-8259); or
+    (ii) the increased efficient use of existing energy sources by cogeneration or heat recovery, excluding any cogeneration process for other than a Federal building (as defined in [section 8259 of this title](./chapter-091-national-energy-conservation-policy.md#section-8259)); or
 
     (iii) the increased efficient use of existing water sources in either interior or exterior applications;
 

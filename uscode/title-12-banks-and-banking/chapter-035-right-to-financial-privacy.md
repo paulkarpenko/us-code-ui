@@ -792,7 +792,7 @@ Section effective upon the expiration of 120 days after Nov. 10, 1978, see secti
   (A) crime against any financial institution or supervisory agency or crime involving a violation of the Controlled Substance Act [[21 U.S.C. 801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) et seq.], the Controlled Substances Import and Export Act [[21 U.S.C. 951](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section951&num=0&edition=prelim) et seq.], section 1956, 1957, or 1960 of title 18, sections 5313, 5316, 5322, 5324, 5331, and 5332 of title 31, or [section 6050I of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6050I&num=0&edition=prelim); or
 
   (B) conspiracy to commit such a crime,
-  about the existence or contents of such sub­poena, or information that has been furnished to the grand jury in response to such subpoena.
+  about the existence or contents of such subpoena, or information that has been furnished to the grand jury in response to such subpoena.
 
 (2) [Section 1818 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1818) and [section 1786(k)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1786/k/2&num=0&edition=prelim) shall apply to any violation of this subsection.
 

@@ -2,7 +2,7 @@
 title: 43
 chapter: '2'
 heading: UNITED STATES GEOLOGICAL SURVEY
-section_count: 40
+section_count: 42
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43&num=0&edition=prelim
 ---
@@ -293,9 +293,17 @@ Par. (7). Pub. L. 105–36, § 3(a)(2), (5), redesignated par. (5) as (7) and in
 
   (D) *Federal share* — The Federal share of the cost of activities under the education component for any fiscal year shall not exceed 50 percent.
 
+(4) **Abandoned mine land and mine waste component**
+
+  (A) *In general* — The geologic mapping program shall include an abandoned mine land and mine waste geologic mapping component, the objective of which shall be to establish the geologic framework of abandoned mine land and other land containing mine waste.
+
+  (B) *Mapping priorities* — For the component described in subparagraph (A), the priority shall be mapping abandoned mine land and other land containing mine waste where multiple critical mineral (as defined in [section 1606(a) of title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1606/a&num=0&edition=prelim)) and metal commodities are anticipated to be present, rather than single mineral resources.
+
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (d)(4). Pub. L. 117–58 added par. (4).
+
 2019—Subsec. (b)(1)(A), (B). Pub. L. 116–9 substituted “March 12, 2019” for “March 30, 2009”.
 
 2009—Subsec. (b)(1)(A). Pub. L. 111–11, § 11001(c)(1), substituted “not later than 1 year after March 30, 2009;” for “not later than 1 year after December 9, 1999;”.
@@ -525,7 +533,7 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 <a id="section-31h"></a>
 ## § 31h. Authorization of appropriations
-**(a) In general** There is authorized to be appropriated to carry out sections 31a to 31h of this title $64,000,000 for each of fiscal years 2009 through 2023.
+**(a) In general** There is authorized to be appropriated to carry out sections 31a to 31h of this title $64,000,000 for each of fiscal years 2009 through 2031.
 
 **(b) Allocation of appropriations** Of any amounts appropriated for any fiscal year in excess of the amount appropriated for fiscal year 2005—
 
@@ -542,6 +550,8 @@ Sections 31a to 31h of this title, referred to in subsec. (a), was in the origin
 A prior section 31h, Pub. L. 102–285, § 9, May 18, 1992, 106 Stat. 171; Pub. L. 105–36, § 3(g), Aug. 5, 1997, 111 Stat. 1111, authorized appropriations for the national cooperative geologic mapping program, prior to repeal by Pub. L. 106–148, § 9, Dec. 9, 1999, 113 Stat. 1724.
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 117–58 substituted “2031” for “2023”.
+
 2019—Subsec. (a). Pub. L. 116–9 substituted “2023” for “2018”.
 
 2009—Subsec. (a). Pub. L. 111–11, § 11001(i)(1), added subsec. (a) and struck out former subsec. (a) which appropriated funds to carry out sections 31a to 31h of this title for fiscal years 1999 to 2005.
@@ -645,6 +655,62 @@ Beginning in fiscal year 1998 and once every five years thereafter, the National
 
 #### Definition of “Secretary”
 Secretary means the Secretary of the Interior, see section 2 of Pub. L. 116–9, set out as a note under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
+
+
+<a id="section-31l"></a>
+## § 31l. Earth Mapping Resources Initiative
+**(a) Definition of critical mineral** In this section, the term “critical mineral” has the meaning given the term in [section 1606(a) of title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1606/a&num=0&edition=prelim).
+
+**(b) Establishment** There is established within the United States Geological Survey an initiative, to be known as the “Earth Mapping Resources Initiative” (referred to in this section as the “Initiative”).
+
+**(c) Purpose** The purpose of the Initiative shall be to accelerate efforts to carry out the fundamental resources and mapping mission of the United States Geological Survey by—
+
+(1) providing integrated topographic, geologic, geochemical, and geophysical mapping;
+
+(2) accelerating the integration and consolidation of geospatial and resource data; and
+
+(3) providing interpretation of subsurface and above-ground mineral resources data.
+
+**(d) Cooperative agreements**
+
+(1) **In general** — In carrying out the Initiative, the Director of the United States Geological Survey may enter into cooperative agreements with State geological surveys.
+
+(2) **Effect** — Nothing in paragraph (1) precludes the Director of the United States Geological Survey from using existing contracting authorities in carrying out the Initiative.
+
+**(e) Comprehensive mapping modernization**
+
+(1) **In general** — Not later than 10 years after November 15, 2021, the Initiative shall complete an initial comprehensive national modern surface and subsurface mapping and data integration effort.
+
+(2) **Approach** — In carrying out paragraph (1) with regard to minerals, mineralization, and mineral deposits, the Initiative shall focus on the full range of minerals, using a whole ore body approach rather than a single commodity approach, to emphasize all of the recoverable critical minerals in a given surface or subsurface deposit.
+
+(3) **Priority** — In carrying out paragraph (1) with regard to minerals, mineralization, and mineral deposits, the Initiative shall prioritize mapping and assessing critical minerals.
+
+(4) **Inclusions** — In carrying out paragraph (1), the Initiative shall also—
+
+  (A) map and collect data for areas containing mine waste to increase understanding of above-ground critical mineral resources in previously disturbed areas; and
+
+  (B) provide for analysis of samples, including samples within the National Geological and Geophysical Data Preservation Program established under [section 15908(b) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15908/b&num=0&edition=prelim) for the occurrence of critical minerals.
+
+**(f) Availability** The Initiative shall make the geospatial data and metadata gathered by the Initiative under subsection (e)(1) electronically publicly accessible on an ongoing basis.
+
+**(g) Integration of data sources** The Initiative shall integrate data sources, including data from—
+
+(1) the National Cooperative Geologic Mapping Program established by [section 31c(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section31c/a/1&num=0&edition=prelim);
+
+(2) the National Geological and Geophysical Data Preservation Program established under [section 15908(b) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15908/b&num=0&edition=prelim);
+
+(3) the USMIN Mineral Deposit Database of the United States Geological Survey;
+
+(4) the 3D Elevation Program established under [section 3104(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section3104/a&num=0&edition=prelim); and
+
+(5) other relevant sources, including sources providing geothermal resources data.
+
+**(h) Authorization of appropriations** There is authorized to be appropriated to the Secretary to carry out this section $320,000,000 for the period of fiscal years 2022 through 2026, to remain available until expended.
+
+### Statutory Notes
+
+#### Definition of “Secretary”
+For definitionof Secretary as used in this section, see section 18701 of Title, 42, The Public Health and Welfare.
 
 
 <a id="section-32"></a>
@@ -1178,6 +1244,35 @@ In text, “[section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=g
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in Pub. L. 105–277, div. A, § 101(e) [title I], Oct. 21, 1998, 112 Stat. 2681–231, 2681–243.
+
+
+<a id="section-50e"></a>
+## § 50e. USGS energy and minerals research facility
+**(a) Establishment** The Director of the United States Geological Survey (referred to in this section as the “Director”), shall fund, through a cooperative agreement with an academic partner, the design, construction, and tenant build-out of a facility to support energy and minerals research and appurtenant associated structures.
+
+**(b) Ownership** The United States Geological Survey shall retain ownership of the facility and associated structures described in subsection (a).
+
+**(c) Agreements** The Director may enter into agreements with, and to collect and expend funds or in-kind contributions from, academic, Federal, State, or other tenants over the life of the facility described in subsection (a) for the purposes of—
+
+(1) facility planning;
+
+(2) design;
+
+(3) maintenance;
+
+(4) operation; or
+
+(5) facility improvements.
+
+**(d) Leases** The Director may enter into a lease or other agreement with the academic partner with which the Director has entered into a cooperative agreement under subsection (a), at no cost to the Federal Government, to obtain land on which to construct the facility described in that subsection for a term of not less than 99 years.
+
+**(e) Reports** The Director shall submit to Congress annual reports on—
+
+(1) the facility described in subsection (a); and
+
+(2) the authorities used under this section.
+
+**(f) Authorization of appropriations** There is authorized to be appropriated to the Secretary of the Interior to carry out this section $167,000,000 for fiscal year 2022, to remain available until expended.
 
 
 <a id="section-50-1"></a>

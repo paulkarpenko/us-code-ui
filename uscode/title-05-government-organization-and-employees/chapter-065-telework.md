@@ -71,9 +71,11 @@ Pub. L. 106–346, § 101(a) [title III, § 359], Oct. 23, 2000, 114 Stat. 1356,
 
   (A) direct handling of secure materials determined to be inappropriate for telework by the agency head; or
 
-  (B) on-site activity that cannot be handled remotely or at an alternate worksite; and
+  (B) on-site activity that cannot be handled remotely or at an alternate worksite;
 
-(5) be incorporated as part of the continuity of operations plans of the agency in the event of an emergency.
+(5) be incorporated as part of the continuity of operations plans of the agency in the event of an emergency; and
+
+(6) enumerate the circumstances under which employees may be permitted to temporarily perform work requirements and duties from approved overseas locations, provided that, except in emergency situations as determined by the head of the agency, such circumstances shall not include a situation in which an employee’s official duties require on at least a monthly basis the direct handling of secure materials determined to be inappropriate for telework by the agency head.
 
 **(c) Required Telework.—** If an agency places an employee in investigative leave under section 6329b, the agency may require the employee to, through telework, perform duties similar to the duties that the employee performs on-site if—
 
@@ -97,7 +99,12 @@ Pub. L. 106–346, § 101(a) [title III, § 359], Oct. 23, 2000, 114 Stat. 1356,
 The date of enactment of this chapter, referred to in subsec. (a)(1), is the date of enactment of Pub. L. 111–292, which was approved Dec. 9, 2010.
 
 #### Amendments
+2021—Subsec. (b)(6). Pub. L. 117–81 added par. (6).
+
 2016—Subsec. (c). Pub. L. 114–328 added subsec. (c).
+
+#### Telecommuting Opportunities
+Pub. L. 117–81, div. F, title LXII, § 6202, Dec. 27, 2021, 135 Stat. 2389, provided that: “(a) DETO Policy.—“(1) In general.—Each Federal department and agency shall establish a policy enumerating the circumstances under which employees may be permitted to temporarily perform work requirements and duties from approved overseas locations where there is a related Foreign Service assignment pursuant to an approved Domestically Employed Teleworking Overseas (DETO) agreement, consistent with the requirements under [section 6502 of title 5](./chapter-065-telework.md#section-6502), United States code (relating to the executive agencies telework requirements), as amended by paragraph (2), and DETO requirements, as set forth in the Foreign Affairs Manual and Foreign Affairs Handbook of the Department of State. “(2) [Amended [section 6502(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section6502/b&num=0&edition=prelim).] “(b) Access to ICASS System.—Not later than 90 days after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of State shall revise chapter 900 of volume 6 of the Foreign Affairs Manual, the International Cooperative Administrative Support Services Handbook, the Personnel Operations Handbook, and any other relevant regulations to allow each Federal agency that has enacted a policy under subsection (a) to have access to the International Cooperative Administrative Support Services (ICASS) system.”
 
 
 <a id="section-6503"></a>

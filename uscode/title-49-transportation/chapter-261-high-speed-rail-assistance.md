@@ -130,9 +130,20 @@ A prior section 26102 was renumbered [section 28102 of this title](./chapter-281
 
 
 <a id="section-26103"></a>
-## § 26103. Safety regulations
+## § 26103. Safety regulations and evaluation
 
-The Secretary shall promulgate such safety regulations as may be necessary for high-speed rail services.
+The Secretary—
+
+(1) shall promulgate such safety regulations as may be necessary for high-speed rail services;
+
+(2) shall, before promulgating such regulations, consult with developers of new high-speed rail technologies to develop a method for evaluating safety performance; and
+
+(3) may solicit feedback from relevant safety experts or representatives of rail employees who perform work on similar technology or who may be expected to perform work on new technology, as appropriate.
+
+### Statutory Notes
+
+#### Amendments
+2021—Pub. L. 117–58 amended section generally. Prior to amendment, text read as follows: “The Secretary shall promulgate such safety regulations as may be necessary for high-speed rail services.”
 
 
 <a id="section-26104"></a>

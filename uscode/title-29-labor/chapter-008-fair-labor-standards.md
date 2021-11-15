@@ -2088,7 +2088,7 @@ The effective date of this amendment of subsection (d), referred to in subsec. (
 [Section 206(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section206/a/3&num=0&edition=prelim), referred to in subsec. (d)(3), was repealed and [section 206(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section206/a/4&num=0&edition=prelim) was redesignated section 206(a)(3) by Pub. L. 110–28, title VIII, § 8103(c)(1)(B), May 25, 2007, 121 Stat. 189.
 
 #### Constitutionality
-For information regarding constitutionality of certain provisions of section 16 of act June 25, 1938, as amended by section 6(d)(1) of Pub. L. 93–259, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For information regarding constitutionality of certain provisions of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
 
 #### Amendments
 2018—Subsec. (b). Pub. L. 115–141, § 1201(b)(1), inserted “Any employer who violates [section 203(m)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section203/m/2/B&num=0&edition=prelim) shall be liable to the employee or employees affected in the amount of the sum of any tip credit taken by the employer and all such tips unlawfully kept by the employer, and in an additional equal amount as liquidated damages.” after second sentence and struck out “either of” after “liability prescribed in”.

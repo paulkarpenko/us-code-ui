@@ -79,6 +79,9 @@ Amendment by act Jan. 19, 1949, effective at noon, Jan. 20, 1949, see section 3 
 #### Effective Date
 Act Aug. 2, 1946, ch. 753, title VI, § 601(a), 60 Stat. 850, provided that the salary rates provided by such section 601(a) are effective Jan. 3, 1947.
 
+#### Short Title of 2021 Amendment
+Pub. L. 117–10, § 1, Apr. 23, 2021, 135 Stat. 259, provided that: “This Act [amending [section 4576 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4576) and enacting provisions set out as a note under [section 4576 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4576)] may be cited as the ‘Senate Shared Employee Act’.”
+
 #### Short Title of 2013 Amendment
 Pub. L. 113–3, § 1, Feb. 4, 2013, 127 Stat. 51, provided that: “This Act [see Tables for classification] may be cited as the ‘No Budget, No Pay Act of 2013’.”
 
@@ -205,11 +208,11 @@ Committee on House Oversight of House of Representatives changed to Committee on
 #### Effective Date of 1976 Amendment
 Pub. L. 94–310, § 4, June 15, 1976, 90 Stat. 687, provided that: “The amendments made by this Act [amending this section and sections 6322 and 8906 of Title 5, Government Organization and Employees] shall take effect on October 1, 1976, or on the date of the enactment of this Act [June 15, 1976], whichever date is later.”
 
-#### Termination of Trust Territory of the Pacific Islands
-For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
-
 #### Termination of United States District Court for the District of the Canal Zone
 For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30 month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203(a) of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
+
+#### Termination of Trust Territory of the Pacific Islands
+For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
 
 
 <a id="section-4504"></a>
@@ -757,13 +760,13 @@ Pars. (3), (4). Pub. L. 116–94, § 212(b)(1)(B), (C), added par. (3) and redes
 #### Effective Date of 2019 Amendment
 Amendment by Pub. L. 116–94 effective on the later of the first day of the first applicable pay period beginning on or after Jan. 1, 2020, or the first day of the first applicable pay period beginning on or after Dec. 20, 2019, see section 212(c) of Pub. L. 116–94, set out as a note under [section 282b of this title](./chapter-009-office-of-legislative-counsel.md#section-282b).
 
-#### Speaker Pelosi, January 27, 2020
-Pursuant to the authority vested in the Speaker by section 311(d) of the Legislative Branch Appropriations Act, 1988, as amended by section 212(b) of the Legislative Branch Appropriations Act, 2020 ([2 U.S.C. 4532](./chapter-045-congressional-pay-and-benefits.md#section-4532)), in order to ensure parity of treatment between employees of the House of Representatives and certain other employees of the Government and to maintain the pay relationship between employees of the House of Representatives and the rate of pay of a Member of the House of Representatives who is not the Speaker, Majority Leader, or Minority Leader of the House, it is hereby—
+#### Speaker Pelosi, August 12, 2021
+Pursuant to the authority vested in the Speaker by section 311(d) of the Legislative Branch Appropriations Act, 1988, as amended by section 212(b) of the Legislative Branch Appropriations Act, 2020 ([2 U.S.C. 4532](./chapter-045-congressional-pay-and-benefits.md#section-4532)), in order to ensure parity of treatment between employees of the House of Representatives and certain other employees of the Government, it is hereby—
 
 Ordered,
 
 #### pay for specified positions
-SECTION 1. (a) The annual rate of pay for the Clerk, the Sergeant-at-Arms, the Chief Administrative Officer, the Chaplain, the General Counsel to the House, the Inspector General, the Director of Interparliamentary Affairs, the Attending Physician, and one additional position in the Office of the Sergeant at Arms with duties related to emergency preparedness, planning and operations is $173,900.
+SECTION 1. (a) The annual rate of pay for the Clerk, the Sergeant-at-Arms, the Chief Administrative Officer, the Chaplain, the General Counsel to the House, the Inspector General, the Director of Interparliamentary Affairs, the Attending Physician, and one additional position in the Office of the Sergeant at Arms with duties related to emergency preparedness, planning and operations is $199,300.
 
 (b) Subject to the maximum established under subsection (a), the annual rate of pay for the following positions is subject to the approval of the Speaker:
 
@@ -774,17 +777,19 @@ SECTION 1. (a) The annual rate of pay for the Clerk, the Sergeant-at-Arms, the C
 (3) The Law Revision Counsel.
 
 #### pay for other positions
-SEC. 2. The maximum annual rate of pay is $173,900 for any employee whose pay is disbursed by the Chief Administrative Officer and is not otherwise provided for in this Order or otherwise limited by law, rule, or regulation.
+SEC. 2. The maximum annual rate of pay is $199,300 for any employee whose pay is disbursed by the Chief Administrative Officer and is not otherwise provided for in this Order or otherwise limited by law, rule, or regulation.
 
 #### pay for shared employees
 SEC. 3. An employee who, under applicable rules and regulations, is paid from two (2) or more House sources may receive pay totaling the highest limitation applicable to any of the positions the employee occupies.
 
 #### effective date
-SEC. 4. The provisions of this Order shall take effect on January 1, 2020.
+SEC. 4. The provisions of this Order shall take effect on August 1, 2021.
 
 Prior Orders of the Speaker of the House of Representatives were issued on the following dates:
 
-Jan. 9, 2009, eff Jan. 1, 2009, as amended.
+Jan. 27, 2020, eff. Jan. 1, 2020.
+
+Jan. 9, 2009, eff. Jan. 1, 2009, as amended.
 
 Jan. 8, 2008, eff. Jan. 1, 2008.
 
@@ -2457,10 +2462,70 @@ Section effective on the later of the first day of the first applicable pay peri
 
 <a id="section-4576"></a>
 ## § 4576. Availability of appropriated funds for payment to an individual of pay from more than one position; conditions
+**(a)** Notwithstanding any other provision of law, appropriated funds are available for payment to an individual of pay from more than one qualifying position if the aggregate gross pay from those positions does not exceed—
 
-Notwithstanding any other provision of law, appropriated funds are available for payment to an individual of pay from more than one position, each of which is either in the office of a Senator and the pay of which is disbursed by the Secretary of the Senate or is in another office and the pay of which is disbursed by the Secretary of the Senate out of an appropriation under the heading “Salaries, Officers, and Employees”, if the aggregate gross pay from those positions does not exceed the maximum rate specified in [section 4575(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4575/d/2&num=0&edition=prelim).
+(1) the maximum rate specified in [section 4575(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4575/d/2&num=0&edition=prelim), as amended and modified; or
+
+(2) in a case where 1 or more of the individual’s qualifying positions are positions described in subsection (d)(2)(B), the maximum rate specified in [section 4575(e)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4575/e/3&num=0&edition=prelim), as amended and modified.
+
+**(b)**
+
+(1) For an individual serving in more than 1 qualifying position under subsection (a), the cost of any travel for official business shall be paid by the office authorizing the travel.
+
+(2) Messages for each electronic mail account used in connection with carrying out the official duties of an individual serving in more than 1 qualifying position under subsection (a) may be delivered to and sent from a single handheld communications device provided to the individual for purposes of official business.
+
+(3)
+
+  (A) For purposes of the Ethics in Government Act of 1978 (5 U.S.C. App.), the rate of basic pay for an individual serving in more than 1 qualifying position under subsection (a) shall be the total basic pay received by the individual from all such positions.
+
+  (B) For an individual serving in more than one qualifying position under subsection (a), for purposes of the rights and obligations described in, or described in the provisions applied under, title II of the Congressional Accountability Act of 1995 ([2 U.S.C. 1311](./chapter-024-congressional-accountability.md#section-1311) et seq.) related to practices used at a time when the individual is serving in such a qualifying position with an employing office, the rate of pay for the individual shall be the individual rate of pay received from the employing office.
+
+**(c)**
+
+(1) If the duties of a qualifying position under subsection (a) include information technology services and support, an individual may only serve in the qualifying position and 1 or more additional qualifying positions under such subsection if the individual is in compliance with each information technology standard and policy established for Senate offices by the Office of the Sergeant at Arms and Doorkeeper of the Senate.
+
+(2) Notwithstanding subsection (a), an employee serving in a qualifying position in the Office of the Secretary of the Senate or the Office of the Sergeant at Arms and Doorkeeper of the Senate may serve in an additional qualifying position only if—
+
+  (A) the other qualifying position is with the other Office; or
+
+  (B) the Committee on Rules and Administration of the Senate has approved the arrangement.
+
+**(d)** In this section, the term “qualifying position” means a position that—
+
+(1) is designated as a shared position for purposes of this section by the Senator or other head of the office in which the position is located; and
+
+(2) is one of the following:
+
+  (A) A position—
+
+    (i) that is in the office of a Senator; and
+
+    (ii) the pay of which is disbursed by the Secretary of the Senate.
+
+  (B) A position—
+
+    (i) that is in any committee of the Senate (including a select or special committee) or a joint committee of Congress; and
+
+    (ii) the pay of which is disbursed by the Secretary of the Senate out of an appropriation under the heading “inquiries and investigations” or “Joint Economic Committee”, or a heading relating to a Joint Congressional Committee on Inaugural Ceremonies.
+
+  (C) A position—
+
+    (i) that is in another office (excluding the Office of the Vice President and the Office of the Chaplain of the Senate); and
+
+    (ii) the pay of which is disbursed by the Secretary of the Senate out of an appropriation under the heading “Salaries, Officers and Employees”.
+
+  (D) A position—
+
+    (i) that is filled pursuant to [section 6311 of this title](./chapter-063-senate-members.md#section-6311); and
+
+    (ii) the pay of which is disbursed by the Secretary of the Senate out of an appropriation under the heading “miscellaneous items”.
 
 ### Statutory Notes
+
+#### References in Text
+The Ethics in Government Act of 1978, referred to in subsec.(b)(3)(A), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5, Government Organization and Employees, and Tables.
+
+The Congressional Accountability Act of 1995, referred to in subsec. (b)(3)(B), is Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3. Title II of the Act is classified principally to subchapter II (§ 1311 et seq.) of chapter 24 of this title. For complete classification of this Act to the Code, see Short Title note under [section 1301 of this title](./chapter-024-congressional-accountability.md#section-1301) and Tables.
 
 #### Codification
 Section was formerly classified to [section 61–1a of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-61-1a) prior to editorial reclassification and renumbering as this section. Some section numbers of this title referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification.
@@ -2468,9 +2533,16 @@ Section was formerly classified to [section 61–1a of this title](./chapter-004
 Section is from the Congressional Operations Appropriation Act, 1978, which is title I of the Legislative Branch Appropriation Act, 1978.
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 117–10, § 2(a)(1), (2), designated existing provisions as subsec. (a) and substituted “qualifying position if the aggregate gross pay from those positions does not exceed—” and pars. (1) and (2) for “position, each of which is either in the office of a Senator and the pay of which is disbursed by the Secretary of the Senate or is in another office and the pay of which is disbursed by the Secretary of the Senate out of an appropriation under the heading ‘Salaries, Officers, and Employees’, if the aggregate gross pay from those positions does not exceed the maximum rate specified in [section 4575(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4575/d/2&num=0&edition=prelim).”
+
+Subsecs. (b) to (d). Pub. L. 117–10, § 2(a)(3), added subsecs. (b) to (d).
+
 1987—Pub. L. 100–202 amended section generally. Prior to amendment, section read as follows: “Notwithstanding any other provision of law, appropriated funds are available for payment to an individual of pay from more than one position, the pay for each of which is disbursed by the Secretary of the Senate out of an appropriation under the heading ‘Salaries, Officers and Employees’, if the aggregate gross pay from those positions does not exceed the amount specified in [section 61–1(d)(2)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section61–1/d/2/ii&num=0&edition=prelim).”
 
 1978—Pub. L. 95–240 substituted provisions relating to pay disbursed by Secretary of Senate from appropriation with the heading for salaries, etc., for provisions requiring positions to be in office of a Senator and the pay for each disbursed by Secretary of Senate.
+
+#### Effective Date of 2021 Amendment
+Pub. L. 117–10, § 2(b), Apr. 23, 2021, 135 Stat. 261, provided that: “The amendments made by subsection (a) [amending this section] shall take effect beginning on the day that is 6 months after the date of enactment of this Act [Apr. 23, 2021].”
 
 
 <a id="section-4577"></a>

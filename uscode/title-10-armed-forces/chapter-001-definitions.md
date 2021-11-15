@@ -82,6 +82,10 @@ source: >-
 
 (18) The term “acquisition workforce” means the persons serving in acquisition positions within the Department of Defense, as designated pursuant to [section 1721(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1721/a&num=0&edition=prelim).
 
+(19) The term “climate resilience” means the capability to avoid, prepare for, minimize the effect of, adapt to, and recover from, extreme weather, or from anticipated or unanticipated changes in environmental conditions, that do (or have the potential to) adversely affect the national security of the United States or of allies and partners of the United States.
+
+(20) The term “extreme weather” means recurrent flooding, drought, desertification, wildfires, thawing permafrost, sea level fluctuation, changes in mean high tides, or any other weather-related event, or anticipated change in environmental conditions, that present (or are projected to present) a recurring annual threat to the climate security of the United States or of allies and partners of the United States.
+
 **(b) Personnel Generally.—** The following definitions relating to military personnel apply in this title:
 
 (1) The term “officer” means a commissioned or warrant officer.
@@ -327,6 +331,8 @@ Pub. L. 107–296, § 1704(b)(1), which directed amendment of [section 101(9) of
 #### Amendments
 2021—Subsec. (a)(13)(B). Pub. L. 116–283, § 1081(a)(5), substituted “section 3713” for “section 712”.
 
+Subsec. (a)(19), (20). Pub. L. 117–81 added pars. (19) and (20).
+
 Subsec. (b)(13). Pub. L. 116–283, § 924(a), substituted “Marine Corps, or Space Force” for “or Marine Corps”.
 
 2019—Subsec. (a)(4). Pub. L. 116–92, § 952(c), inserted “Space Force,” after “Marine Corps,”.
@@ -460,7 +466,7 @@ Pub. L. 104–106, div. A, title XV, § 1501(c), Feb. 10, 1996, 110 Stat. 498, p
 Amendment by section 1671(c)(1) of Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, and amendment by section 1621 of Pub. L. 103–337 effective Oct. 1, 1996, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 #### Effective Date of 1987 Amendment
-Pub. L. 100–180, div. A, title XII, § 1233(c)[(1)], Dec. 4, 1987, 101 Stat. 1161, provided that: “The amendments made by subsection (a) [amending this section, [section 2432 of this title](./chapter-144-major-defense-acquisition-programs.md#section-2432), and [section 406b of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section406b&num=0&edition=prelim), Pay and Allowances of the Uniformed Services] shall apply as if included in the enactment of the Defense Technical Corrections Act of 1987 (Public Law 100–26).”
+Pub. L. 100–180, div. A, title XII, § 1233(c)[(1)], Dec. 4, 1987, 101 Stat. 1161, provided that: “The amendments made by subsection (a) [amending this section, [section 2432 of this title](./chapter-chapter-144-chapter-chapter-144.md#section-2432), and [section 406b of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section406b&num=0&edition=prelim), Pay and Allowances of the Uniformed Services] shall apply as if included in the enactment of the Defense Technical Corrections Act of 1987 (Public Law 100–26).”
 
 #### Effective Date of 1981 Amendment
 Pub. L. 97–86, title IV, § 405(f), Dec. 1, 1981, 95 Stat. 1106, provided that: “The amendments made by this section [amending this section, sections 525, 601, 611, 612, 619, 625, 634, 635, 637, 638, 645, 741, 5138, 5149, 5155, 5442, 5444, 5457, 5501, and 6389 of this title, [section 201 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section201&num=0&edition=prelim), Pay and Allowances of the Uniformed Services, and a provision set out as a note under [section 611 of this title](./chapter-036-promotion-separation-and-involuntary-retirement-of-officers-on-the-active-duty-list.md#section-611)] shall take effect as of September 15, 1981.”
@@ -487,7 +493,7 @@ Pub. L. 115–232, div. A, title VI, § 621(a), Aug. 13, 2018, 132 Stat. 1798, p
 Pub. L. 114–328, div. E, § 5001, Dec. 23, 2016, 130 Stat. 2894, provided that: “This division [div. E (§§ 5001–5542) of Pub. L. 114–328, see Tables for classification] may be cited as the ‘Military Justice Act of 2016’.”
 
 #### Short Title of 2009 Amendment
-Pub. L. 111–23, § 1(a), May 22, 2009, 123 Stat. 1704, provided that: “This Act [enacting sections 139c, 139d, 2334, and 2433a of this title, amending sections 139a, 181, 2306b, 2366a, 2366b, 2430, 2433, 2434, 2445c, 2501, and 2505 of this title and [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees, enacting provisions set out as notes under sections 139a, 139c, 181, 2302, 2366a, 2366b, 2430, and 2433a of this title, and amending provisions set out as a note under [section 2304 of this title](./chapter-137-procurement-generally.md#section-2304)] may be cited as the ‘Weapon Systems Acquisition Reform Act of 2009’.”
+Pub. L. 111–23, § 1(a), May 22, 2009, 123 Stat. 1704, provided that: “This Act [enacting sections 139c, 139d, 2334, and 2433a of this title, amending sections 139a, 181, 2306b, 2366a, 2366b, 2430, 2433, 2434, 2445c, 2501, and 2505 of this title and [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees, enacting provisions set out as notes under sections 139a, 139c, 181, 2302, 2366a, 2366b, 2430, and 2433a of this title, and amending provisions set out as a note under [section 2304 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2304)] may be cited as the ‘Weapon Systems Acquisition Reform Act of 2009’.”
 
 #### Short Title of 2008 Amendment
 Pub. L. 110–317, § 1(a), Aug. 29, 2008, 122 Stat. 3526, provided that: “This Act [amending sections 1145, 1146, and 1174 of this title, sections 2108 and 8521 of Title 5, Government Organization and Employees, [section 685 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section685&num=0&edition=prelim), Internal Revenue Code, [section 303a of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section303a&num=0&edition=prelim), Pay and Allowances of the Uniformed Services, and sections 3011, 3012, 3702, and 4211 of Title 38, Veterans’ Benefits, and enacting provisions set out as notes under [section 2108 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2108&num=0&edition=prelim) and [section 685 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section685&num=0&edition=prelim)] may be cited as the ‘Hubbard Act’.”
@@ -500,7 +506,7 @@ Pub. L. 110–181, div. A, title XVIII, § 1801, Jan. 28, 2008, 122 Stat. 496, p
 Pub. L. 109–148, div. A, title VIII, § 8126(a), Dec. 30, 2005, 119 Stat. 2728, which provided that this Act, probably meaning section 8126 of div. A of Pub. L. 109–148, which amended [section 2554 of this title](./chapter-152-issue-of-supplies-services-and-facilities.md#section-2554) and [section 5309 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5309&num=0&edition=prelim), The Public Health and Welfare, and enacted provisions set out as notes under [section 2554 of this title](./chapter-152-issue-of-supplies-services-and-facilities.md#section-2554) and [section 301 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section301&num=0&edition=prelim), Government Organization and Employees, could be cited as the “Support Our Scouts Act of 2005”, was repealed by Pub. L. 109–364, div. A, title X, § 1071(f)(3), Oct. 17, 2006, 120 Stat. 2402.
 
 #### Short Title of 1999 Amendment
-Pub. L. 106–38, § 1, July 22, 1999, 113 Stat. 205, provided that: “This Act [enacting provisions set out as notes under [section 2431 of this title](./chapter-144-major-defense-acquisition-programs.md#section-2431) and [section 5901 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section5901&num=0&edition=prelim), Foreign Relations and Intercourse] may be cited as the ‘National Missile Defense Act of 1999’.”
+Pub. L. 106–38, § 1, July 22, 1999, 113 Stat. 205, provided that: “This Act [enacting provisions set out as notes under [section 2431 of this title](./chapter-chapter-144-chapter-chapter-144.md#section-2431) and [section 5901 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section5901&num=0&edition=prelim), Foreign Relations and Intercourse] may be cited as the ‘National Missile Defense Act of 1999’.”
 
 #### Short Title of 1991 Amendment
 Pub. L. 102–25, § 1, Apr. 6, 1991, 105 Stat. 75, provided that: “This Act [see Tables for classification] may be cited as the ‘Persian Gulf Conflict Supplemental Authorization and Personnel Benefits Act of 1991’.”
@@ -517,7 +523,7 @@ Pub. L. 96–513, § 1(a), Dec. 12, 1980, 94 Stat. 2835, provided that: “This 
 #### Savings Provision
 Pub. L. 96–513, title VII, § 703, Dec. 12, 1980, 94 Stat. 2956, provided that: “Except as otherwise provided in this Act, the provisions of this Act and the amendments made by this Act [see Tables for classification] do not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun before the effective date of this Act [see Effective Date of 1980 Amendment note above].”
 
-#### Rule of Construction Relating to use of Military Force
+#### Rule of Construction Relating to Use of Military Force
 Pub. L. 116–283, div. A, title XII, § 1299S, Jan. 1, 2021, 134 Stat. 4028, provided that: “Nothing in this Act [see Tables for classification] or any amendment made by this Act may be construed to authorize the use of military force.”
 
 #### Transfer of Functions
@@ -532,10 +538,15 @@ Authority vested by this title in “military departments”, “the Secretary c
 #### Public Health Service
 Authority vested by this title in “military departments”, “the Secretary concerned”, or “the Secretary of Defense” to be exercised, with respect to commissioned officers of Public Health Service, by Secretary of Health and Human Services or his designee, see [section 213a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section213a&num=0&edition=prelim), The Public Health and Welfare.
 
+#### Elimination of Need for Certain Separate Conforming Amendments
+Pub. L. 117–81, div. B, § 2003(b), Dec. 27, 2021, 135 Stat. 2162, provided that: “(1) Automatic execution of conforming changes.—When an amendment made by a provision of this division [div. B of Pub. L. 117–81, see Tables for classification] to a covered defense law adds a section or larger organizational unit to the covered defense law, repeals or transfers a section or larger organizational unit in the covered defense law, or amends the designation or heading of a section or larger organizational unit in the covered defense law, that amendment also shall have the effect of amending any table of sections, table of contents, or similar table of tabular entries in the covered defense law to alter the table to conform to the changes made by the amendment. “(2) Exceptions.—Paragraph (1) shall not apply to an amendment described in such paragraph when—“(A) the amendment, or a separate clerical amendment enacted at the same time as the amendment, expressly amends a table of sections, table of contents, or similar table of tabular entries in the covered defense law to alter the table to conform to the changes made by the amendment; or “(B) the amendment otherwise expressly exempts itself from the operation of this section. “(3) Covered defense law.—In this subsection, the term ‘covered defense law’ means—“(A) titles 10, 32, and 37 of the United States Code; “(B) any national defense authorization Act or military construction authorization Act that authorizes funds to be appropriated for a fiscal year to the Department of Defense; and “(C) any other law designated in the text thereof as a covered defense law for purposes of application of this section.”
+
 #### Coordination of Certain Sections of an Act With Other Provisions of That Act
-Pub. L. 116–283, div. A, title X, § 1081(g), Jan. 1, 2021, 134 Stat. 3875, provided that: “For purposes of applying amendments made by provisions of this Act other than this section [see Tables for classification], the amendments made by this section shall be treated as having been enacted immediately before any such amendments by other provisions of this Act.”
+Pub. L. 117–81, div. A, title X, § 1081(d), Dec. 27, 2021, 135 Stat. 1922, provided that: “For purposes of applying amendments made by provisions of this Act other than this section [see Tables for classification], the amendments made by this section shall be treated as having been enacted immediately before any such amendments by other provisions of this Act.”
 
 Similar provisions were contained in the following prior acts:
+
+Pub. L. 116–283, div. A, title X, § 1081(g), Jan. 1, 2021, 134 Stat. 3875.
 
 Pub. L. 116–92, div. A, title XVII, § 1731(f), Dec. 20, 2019, 133 Stat. 1816.
 
@@ -575,8 +586,21 @@ Pub. L. 103–160, div. A, title XI, § 1182(h), Nov. 30, 1993, 107 Stat. 1774.
 
 Pub. L. 102–484, div. A, title X, § 1055, Oct. 23, 1992, 106 Stat. 2503.
 
+#### Establishment of Certain Definitions
+Pub. L. 117–81, div. A, title VI, § 626(c), Dec. 27, 2021, 135 Stat. 1775, provided that: “Not later than one year after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of Defense, in coordination with the Secretaries of the military departments, shall publish an interim rule that establishes standard definitions, for use across the military departments, of the terms ‘gold star family’ and ‘gold star survivor’.”
+
+#### Standardization of Definitions Used by the Department of Defense for Terms Related to Suicide
+Pub. L. 117–81, div. A, title VII, § 726, Dec. 27, 2021, 135 Stat. 1795, provided that: “(a) Standardization of Definitions.—Not later than 120 days after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of Defense, in coordination with the Secretaries of the military departments, shall develop standardized definitions for the following terms:“(1) ‘Suicide’. “(2) ‘Suicide attempt’. “(3) ‘Suicidal ideation’. “(b) Required Use of Standardized Definitions.—Not later than 180 days after the date of the enactment of this Act, the Secretary shall issue policy guidance requiring the exclusive and uniform use across the Department of Defense and within each military department of the standardized definitions developed under subsection (a) for the terms specified in such subsection. “(c) Briefing.—Not later than 180 days after the date of the enactment of this Act, the Secretary shall provide to the Committees on Armed Services of the House of Representatives and the Senate a briefing that sets forth the standardized definitions developed under subsection (a) and includes—“(1) a description of the process that was used to develop such definitions; “(2) a description of the methods by which data shall be collected on suicide, suicide attempts, and suicidal ideations (as those terms are defined pursuant to such definitions) in a standardized format across the Department and within each military department; and “(3) an implementation plan to ensure the use of such definitions as required pursuant to subsection (b).”
+
+#### References to NDAA for Fiscal Year 2021
+Pub. L. 116–283, § 1(b), as added by Pub. L. 117–81, div. A, title X, § 1081(b)(2), Dec. 27, 2021, 135 Stat. 1922, provided that: “Any reference in this or any other Act to the ‘National Defense Authorization Act for Fiscal Year 2021’ shall be deemed to be a reference to the ‘William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021’ [Pub. L. 116–283].”
+
+[Pub. L. 117–81, div. A, title X, § 1081(b), Dec. 27, 2021, 135 Stat. 1922, provided that the enactment of section 1(b) of Pub. L. 116–283, set out above, by section 1081(b)(2) of Pub. L. 117–81 is effective as of Jan. 1, 2021, and as if included in Pub. L. 116–283.]
+
 #### Congressional Defense Committees Defined
 The following provisions provided that the term “congressional defense committees” for purposes of the Acts in which they were contained has the meaning given that term in subsec. (a)(16) of this section:
+
+Pub. L. 117–81, § 3, Dec. 27, 2021, 135 Stat. 1565.
 
 Pub. L. 116–283, § 3, Jan. 1, 2021, 134 Stat. 3421.
 

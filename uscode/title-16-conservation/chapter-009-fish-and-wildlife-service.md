@@ -104,9 +104,6 @@ Pub. L. 93–271, § 3, Apr. 22, 1974, 88 Stat. 92, provided that: “The amendm
 #### Effective Date of 1962 Amendment
 Amendment by Pub. L. 87–793 effective on first day of first pay period which begins on or after Oct. 11, 1962, see section 610 of Pub. L. 87–793.
 
-#### Transfer of Functions
-Transfer of functions to Secretary of Commerce from Secretary of the Interior in view of: creation of National Oceanic and Atmospheric Administration in Department of Commerce and Office of Administrator of such Administration; abolition of Bureau of Commercial Fisheries in the Interior Department and Office of Director of such Bureau; transfers of functions, including functions formerly vested by law in Secretary of the Interior or the Interior Department which were administered through Bureau of Commercial Fisheries or were primarily related to such Bureau, exclusive of certain enumerated functions with respect to Great Lakes fishery research, Missouri River Reservoir research, Gulf Breeze Biological Laboratory, and Trans-Alaska pipeline investigations; and transfer of marine sport fish program of Bureau of Sport Fisheries and Wildlife by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Murder Hornet Eradication Pilot Program
 Pub. L. 116–260, div. AA, title V, § 508, Dec. 27, 2020, 134 Stat. 2750, provided that: “(a) Grant Authority.—The Secretary of the Interior, acting through the Director of the Fish and Wildlife Service, and in consultation with all relevant Federal agencies, shall establish a pilot program to provide financial assistance to States for management, research, and public education activities necessary to—“(1) eradicate the Asian giant hornet; and “(2) restore bee populations damaged by the Asian giant hornet. “(b) Eligibility.—A State is eligible to receive financial assistance under this section if the State has demonstrated to the Secretary of the Interior sufficient need to implement measures to eradicate the Asian giant hornet. “(c) Cost Sharing.—“(1) Federal share.—The Federal share of the costs of activities carried out under the pilot program may not exceed 75 percent of the total costs of such activities. “(2) In-kind contributions.—The non-Federal share of the costs of activities carried out under the pilot program may be provided in the form of in-kind contributions of materials or services. “(d) Limitation on Administrative Expenses.—Not more than 5 percent of financial assistance provided by the Secretary of the Interior under this section may be used for administrative expenses. “(e) Authorization of Appropriations.—There is authorized to be appropriated to the Secretary of the Interior to carry out the pilot program $4,000,000 for each of fiscal years 2021 through 2025. “(f) Definitions.—In this section:“(1) Asian giant hornet.—The term ‘Asian giant hornet’ means a Vespa mandarinia. “(2) State.—The term ‘State’ means each of the several States, the District of Columbia, and the territories and insular possessions of the United States. “(g) Sunset.—The authority under this section shall terminate on the date that is 5 years after the date of enactment of this Act [Dec. 27, 2020].”
 
@@ -121,6 +118,9 @@ Pub. L. 116–9, title VII, § 7001(d), Mar. 12, 2019, 133 Stat. 788, as amended
 
 #### Fees for Training by National Conservation Training Center
 Pub. L. 104–208, div. A, title I, § 101(d) [title I], Sept. 30, 1996, 110 Stat. 3009–181, 3009–185, as amended by Pub. L. 105–83, title I, Nov. 14, 1997, 111 Stat. 1547, provided in part: “That hereafter, pursuant to [31 U.S.C. 9701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9701&num=0&edition=prelim), the Secretary shall charge reasonable fees for the full costs of providing training by the National Conservation Training Center, to be credited to this account, notwithstanding [31 U.S.C. 3302](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3302&num=0&edition=prelim), for the full costs of providing such training, to remain available until expended.”
+
+#### Transfer of Functions
+Transfer of functions to Secretary of Commerce from Secretary of the Interior in view of: creation of National Oceanic and Atmospheric Administration in Department of Commerce and Office of Administrator of such Administration; abolition of Bureau of Commercial Fisheries in the Interior Department and Office of Director of such Bureau; transfers of functions, including functions formerly vested by law in Secretary of the Interior or the Interior Department which were administered through Bureau of Commercial Fisheries or were primarily related to such Bureau, exclusive of certain enumerated functions with respect to Great Lakes fishery research, Missouri River Reservoir research, Gulf Breeze Biological Laboratory, and Trans-Alaska pipeline investigations; and transfer of marine sport fish program of Bureau of Sport Fisheries and Wildlife by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-742b-1"></a>
@@ -220,11 +220,11 @@ Pub. L. 91–387, § 3, Aug. 24, 1970, 84 Stat. 829, provided that: “The provi
 #### Effective Date of 1965 Amendment; Remaining Funds; Availability for Loans
 Pub. L. 89–85, § 5, July 24, 1965, 79 Stat. 263, provided that: “The provisions of this Act [amending this section] shall be effective July 1, 1965. Notwithstanding the provisions of section 4(c) of the Fish and Wildlife Act of 1956, as amended [subsec. (c) of this section], any balance remaining in the fisheries loan fund at the close of June 30, 1965, shall be available to make loans for the purposes of section 4 of said Act [this section] from July 1, 1965, to the close of June 30, 1970.”
 
-#### Transfer of Functions
-Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, see note set out under [section 742b of this title](./chapter-009-fish-and-wildlife-service.md#section-742b).
-
 #### Loans Under Fish and Wildlife Act of 1956
 Pub. L. 96–561, title II, § 221, Dec. 22, 1980, 94 Stat. 3295, as amended by Pub. L. 98–44, title I, § 103(b), July 12, 1983, 97 Stat. 216; Pub. L. 98–498, title IV, § 431, Oct. 19, 1984, 98 Stat. 2310, provided that during the period beginning Dec. 22, 1980, through the close of Sept. 30, 1986, the Secretary of Commerce could make loans from the fisheries loan fund established under subsec. (c) of this section only for the purpose of assisting obligors to avoid default on obligations covering fishing vessels and to cover operating losses.
+
+#### Transfer of Functions
+Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, see note set out under [section 742b of this title](./chapter-009-fish-and-wildlife-service.md#section-742b).
 
 
 <a id="section-742c-1"></a>
@@ -275,11 +275,11 @@ The Administrator of the Environmental Protection Agency is authorized and direc
 
 ### Statutory Notes
 
-#### Transfer of Functions
-“Administrator of the Environmental Protection Agency” substituted in text for “Secretary of the Interior” pursuant to Reorg. Plan No. 3 of 1970, set out in the Appendix to Title 5, Government Organization and Employees, which abolished the Federal Water Quality Administration in Department of the Interior and transferred to Administrator of Environmental Protection Agency all functions vested in Secretary of the Interior by this section.
-
 #### Appropriations
 Section 2 of Pub. L. 85–582, Aug. 1, 1958, 72 Stat. 479, as amended by Pub. L. 86–279, Sept. 16, 1959, 73 Stat. 563; Pub. L. 89–232, Oct. 1, 1965, 79 Stat. 902; Pub. L. 90–394, July 11, 1968, 82 Stat. 338, provided that: “In order to carry out the provisions of this Act [this section], there is authorized to be appropriated $3,500,000 for the fiscal year ending June 30, 1969, and for each of the two fiscal years immediately following such year. Such sums shall remain available until expended.”
+
+#### Transfer of Functions
+“Administrator of the Environmental Protection Agency” substituted in text for “Secretary of the Interior” pursuant to Reorg. Plan No. 3 of 1970, set out in the Appendix to Title 5, Government Organization and Employees, which abolished the Federal Water Quality Administration in Department of the Interior and transferred to Administrator of Environmental Protection Agency all functions vested in Secretary of the Interior by this section.
 
 
 <a id="section-742e"></a>
@@ -443,14 +443,14 @@ Subsec. (a)(5). Pub. L. 95–616, § 4(1), struck out par. (5) relating to wildl
 
 Subsecs. (b), (c). Pub. L. 95–616, § 4(3), added subsecs. (b) and (c).
 
-#### Transfer of Functions
-Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, see note set out under [section 742b of this title](./chapter-009-fish-and-wildlife-service.md#section-742b).
-
 #### Congressional Findings and Purposes
 Pub. L. 105–242, § 2, Oct. 5, 1998, 112 Stat. 1574, provided that: “(a) Findings.—Congress finds that—“(1) the National Wildlife Refuge System (referred to in this Act [amending this section and enacting provisions set out as notes under this section and [section 742a of this title](./chapter-009-fish-and-wildlife-service.md#section-742a)] as the ‘System’), consisting of more than 500 refuges and 93,000,000 acres, plays an integral role in the protection of the natural resources of the United States; “(2) the National Wildlife Refuge System Improvement Act of 1997 (Public Law 105–57; 111 Stat. 1252) [see Tables for classification] significantly improved the law governing the System, although the financial resources for implementing this law and managing the System remain limited; “(3) by encouraging volunteer programs and donations, and facilitating non-Federal partnerships with refuges, Federal funding for the refuges can be supplemented and the System can fully benefit from the amendments made by the National Wildlife Refuge System Improvement Act of 1997; and “(4) by encouraging refuge educational programs, public awareness of the resources of the System and public participation in the conservation of those resources can be promoted. “(b) Purposes.—The purposes of this Act are—“(1) to encourage the use of volunteers to assist the United States Fish and Wildlife Service in the management of refuges within the System; “(2) to facilitate partnerships between the System and non-Federal entities to promote public awareness of the resources of the System and public participation in the conservation of those resources; and “(3) to encourage donations and other contributions by persons and organizations to the System.”
 
 #### Pilot Projects
 Pub. L. 105–242, § 4(a), Oct. 5, 1998, 112 Stat. 1575, as amended, formerly set out as a note under this section, was transferred and is classified to [section 742f–1 of this title](./chapter-009-fish-and-wildlife-service.md#section-742f-1).
+
+#### Transfer of Functions
+Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, see note set out under [section 742b of this title](./chapter-009-fish-and-wildlife-service.md#section-742b).
 
 
 <a id="section-742f-1"></a>
@@ -775,6 +775,9 @@ R.S. § 4397 derived from Res. Feb. 9, 1871, No. 22, § 3, 16 Stat. 594.
 #### Amendments
 1980—Pub. L. 96–470 struck out provision requiring a detailed statement of expenditures under all appropriations for “propagation of fishes” be submitted annually to Congress at the beginning of each session.
 
+#### Survey of Marine and Fresh-Water Resources
+Act May 11, 1944, ch. 195, 58 Stat. 220, which expired January 1, 1945, provided for a comprehensive survey of all marine, fresh-water, and other aquatic resources of the United States, its Territories, and possessions; and for a report on survey, together with recommendations to Congress. It also appropriated $20,000 to carry out the purposes of the act.
+
 #### Transfer of Functions
 Secretary of the Interior or Secretary of Commerce, as appropriate, and Secretary substituted for Director of Fish and Wildlife Service and Director in view of: creation of National Oceanic and Atmospheric Administration in Department of Commerce and Office of Administrator of such Administration; abolition of Bureau of Commercial Fisheries in Department of the Interior and Office of Director of such Bureau; transfers of functions, including functions formerly vested by law in Secretary of the Interior or Department of the Interior which were administered through Bureau of Commercial Fisheries or were primarily related to such Bureau, exclusive of certain enumerated functions with respect to Great Lakes fishery research, Missouri River Reservoir research, Gulf Breeze Biological Laboratory, and Trans-Alaska pipeline investigations; and transfer of marine sport fish program of Bureau of Sport Fisheries and Wildlife by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -783,9 +786,6 @@ For transfer of functions of other officers, employees, and agencies of Departme
 Reorg. Plan No. III of 1940, § 3, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232, set out in the Appendix to Title 5, Government Organization and Employees, consolidated Bureau of Fisheries and Bureau of Biological Survey into one agency in Department of the Interior to be known as Fish and Wildlife Service. It was further provided that functions of consolidated agency should be administered under direction and supervision of Secretary of the Interior by a director and assistants, and that offices of Commissioner and Deputy Commissioner of Fisheries and offices of Chief and Associate Chief of Bureau of Biological Survey should be abolished and their functions transferred to consolidated agency.
 
 Reorg. Plan No. II of 1939, § 4(e), (f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433, set out in the Appendix to Title 5, transferred Bureau of Fisheries in Department of Commerce and its functions, and Bureau of Biological Survey in Department of Agriculture and its functions, to Department of the Interior, to be administered under direction and supervision of Secretary of the Interior.
-
-#### Survey of Marine and Fresh-Water Resources
-Act May 11, 1944, ch. 195, 58 Stat. 220, which expired January 1, 1945, provided for a comprehensive survey of all marine, fresh-water, and other aquatic resources of the United States, its Territories, and possessions; and for a report on survey, together with recommendations to Congress. It also appropriated $20,000 to carry out the purposes of the act.
 
 
 <a id="section-745"></a>

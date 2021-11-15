@@ -40,6 +40,9 @@ In accepting persons for original enlistment in the Regular Air Force or the Reg
 
 ### Statutory Notes
 
+#### Codification
+Another section 9132 was renumbered [section 9138 of this title](./chapter-913-enlistments.md#section-9138).
+
 #### Amendments
 2021—Pub. L. 116–283 substituted “Regular Air Force and Regular Space Force: gender-free basis for acceptance of original enlistments” for “Regular Air Force: gender-free basis for acceptance of original enlistments” in section catchline and inserted “or the Regular Space Force” after “Regular Air Force” in introductory provisions.
 
@@ -55,57 +58,6 @@ Pub. L. 100–456, div. A, title V, § 522(c), Sept. 29, 1988, 102 Stat. 1974, p
 
 #### Implementation
 Pub. L. 100–456, div. A, title V, § 522(b), Sept. 29, 1988, 102 Stat. 1973, provided that: “The Secretary of the Air Force shall develop a methodology for implementing [section 8252 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8252&num=0&edition=prelim), United States Code, as added by subsection (a), not later than October 1, 1989.”
-
-
-<a id="section-9132"></a>
-## § 9132. Regular Air Force and Regular Space Force: reenlistment after service as an officer 11 So in original. Probably should be “9138”.
-**(a)** Any former enlisted member of the Regular Air Force or the Regular Space Force who has served on active duty as an officer of the Air Force or the Space Force, or who was discharged as an enlisted member to accept an appointment as an officer of the Air Force or the Space Force, is entitled to be reenlisted in the Regular Air Force or the Regular Space Force in the enlisted grade that he held before his service as an officer, without loss of seniority or credit for service, regardless of the existence of a vacancy in his grade or of a physical disability incurred or having its inception in line of duty, if (1) his service as an officer is terminated by an honorable discharge or he is relieved from active duty for a purpose other than to await appellate review of a sentence that includes dismissal or dishonorable discharge, and (2) he applies for reenlistment within six months (or such other period as the Secretary of the Air Force prescribes for exceptional circumstances) after termination of that service.
-
-**(b)** A person is not entitled to be reenlisted under this section if—
-
-(1) the person was discharged or released from active duty as an officer on the basis of a determination of—
-
-  (A) misconduct;
-
-  (B) moral or professional dereliction;
-
-  (C) duty performance below prescribed standards for the grade held; or
-
-  (D) retention being inconsistent with the interests of national security; or
-
-(2) the person’s former enlisted status and grade was based solely on the participation by that person in a precommissioning program that resulted in the commission held by that person during the active duty from which the person was released or discharged.
-
-### Statutory Notes
-
-| Historical and Revision Notes |  |  |
-| --- | --- | --- |
-| Revised section | Source (U.S. Code) | Source (Statutes at Large) |
-| 8258 | 10:631a (less last proviso). | July 14, 1939, ch. 267, § 1 (less last proviso); restated May 29, 1954, ch. 249, § 19(b) (less last proviso), 68 Stat. 166. |
-
-The words “former” and “as an enlisted member” are inserted for clarity. The words “credit for service” are substituted for the words “of service”. The words “in his grade” are substituted for the words “in the appropriate enlisted grade”. The words “he applies” are substituted for the words “application * * * shall be made”. The words “Hereafter” and “while on active duty” are omitted as surplusage.
-
-#### Amendments
-2021—Pub. L. 116–283, § 923(c)(2)(B), which directed amending section 9132 by amending the section number and catchline generally, was executed by substituting “Regular Air Force and Regular Space Force: reenlistment after service as an officer” for “Regular Air Force: reenlistment after service as an officer” in the catchline for this section to reflect the probable intent of Congress.
-
-Subsec. (a). Pub. L. 116–283, § 923(c)(2)(A), inserted “or the Regular Space Force” after “Regular Air Force” in two places and “or the Space Force” after “officer of the Air Force” in two places.
-
-2018—Pub. L. 115–232 renumbered [section 8258 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8258&num=0&edition=prelim) as this section.
-
-2008—Subsec. (a). Pub. L. 110–181, § 506(b)(1), substituted “duty as an officer of the Air Force” for “duty as a reserve officer of the Air Force” and “an appointment” for “a temporary appointment”.
-
-Subsec. (b)(1). Pub. L. 110–181, § 506(b)(2)(A), substituted “an officer” for “a Reserve officer” in introductory provisions.
-
-Subsec. (b)(2). Pub. L. 110–181, § 506(b)(2)(B), substituted “the commission” for “the Reserve commission”.
-
-1992—Pub. L. 102–484 designated existing provisions as subsec. (a), added subsec. (b), and struck out at end of subsec. (a) “However, if his service as an officer terminated by a general discharge, he may, under regulations to be prescribed by the Secretary of the Air Force, be so reenlisted.”
-
-1958—Pub. L. 85–603 limited entitlement to be reenlisted in enlisted grade to those officers whose service terminated by an honorable discharge and those relieved from active duty for a purpose other than to await appellate review of a sentence that includes dismissal or dishonorable discharge, and provided that persons whose service terminated by a general discharge, may, under regulations to be prescribed by the Secretary of the Air Force, be so reenlisted.
-
-#### Effective Date of 2018 Amendment
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
-
-#### Effective Date of 1992 Amendment
-Amendment by Pub. L. 102–484 applicable to persons discharged or released from active duty as commissioned officers in the Air Force Reserve after Oct. 23, 1992, see section 520(c) of Pub. L. 102–484, set out as a note under [section 3258 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3258&num=0&edition=prelim).
 
 
 <a id="section-9137"></a>
@@ -161,3 +113,56 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to pre
 
 #### Effective Date of 1958 Amendment
 Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+
+
+<a id="section-9138"></a>
+## § 9138. Regular Air Force and Regular Space Force: reenlistment after service as an officer
+**(a)** Any former enlisted member of the Regular Air Force or the Regular Space Force who has served on active duty as an officer of the Air Force or the Space Force, or who was discharged as an enlisted member to accept an appointment as an officer of the Air Force or the Space Force, is entitled to be reenlisted in the Regular Air Force or the Regular Space Force in the enlisted grade that he held before his service as an officer, without loss of seniority or credit for service, regardless of the existence of a vacancy in his grade or of a physical disability incurred or having its inception in line of duty, if (1) his service as an officer is terminated by an honorable discharge or he is relieved from active duty for a purpose other than to await appellate review of a sentence that includes dismissal or dishonorable discharge, and (2) he applies for reenlistment within six months (or such other period as the Secretary of the Air Force prescribes for exceptional circumstances) after termination of that service.
+
+**(b)** A person is not entitled to be reenlisted under this section if—
+
+(1) the person was discharged or released from active duty as an officer on the basis of a determination of—
+
+  (A) misconduct;
+
+  (B) moral or professional dereliction;
+
+  (C) duty performance below prescribed standards for the grade held; or
+
+  (D) retention being inconsistent with the interests of national security; or
+
+(2) the person’s former enlisted status and grade was based solely on the participation by that person in a precommissioning program that resulted in the commission held by that person during the active duty from which the person was released or discharged.
+
+### Statutory Notes
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Revised section | Source (U.S. Code) | Source (Statutes at Large) |
+| 8258 | 10:631a (less last proviso). | July 14, 1939, ch. 267, § 1 (less last proviso); restated May 29, 1954, ch. 249, § 19(b) (less last proviso), 68 Stat. 166. |
+
+The words “former” and “as an enlisted member” are inserted for clarity. The words “credit for service” are substituted for the words “of service”. The words “in his grade” are substituted for the words “in the appropriate enlisted grade”. The words “he applies” are substituted for the words “application * * * shall be made”. The words “Hereafter” and “while on active duty” are omitted as surplusage.
+
+#### Amendments
+2021—Pub. L. 117–81, which directed redesignation of section 9132 (relating to Regular Air Force and Regular Space Force: reenlistment after service as an officer) as section 9138, was executed by substituting “9138” for “9132” in the numerator of this section to reflect the probable intent of Congress.
+
+Pub. L. 116–283, § 923(c)(2)(B), which directed amending section 9132 by amending the section number and catchline generally, was executed by substituting “Regular Air Force and Regular Space Force: reenlistment after service as an officer” for “Regular Air Force: reenlistment after service as an officer” in the catchline for this section to reflect the probable intent of Congress.
+
+Subsec. (a). Pub. L. 116–283, § 923(c)(2)(A), inserted “or the Regular Space Force” after “Regular Air Force” in two places and “or the Space Force” after “officer of the Air Force” in two places.
+
+2018—Pub. L. 115–232 renumbered [section 8258 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8258&num=0&edition=prelim) as this section.
+
+2008—Subsec. (a). Pub. L. 110–181, § 506(b)(1), substituted “duty as an officer of the Air Force” for “duty as a reserve officer of the Air Force” and “an appointment” for “a temporary appointment”.
+
+Subsec. (b)(1). Pub. L. 110–181, § 506(b)(2)(A), substituted “an officer” for “a Reserve officer” in introductory provisions.
+
+Subsec. (b)(2). Pub. L. 110–181, § 506(b)(2)(B), substituted “the commission” for “the Reserve commission”.
+
+1992—Pub. L. 102–484 designated existing provisions as subsec. (a), added subsec. (b), and struck out at end of subsec. (a) “However, if his service as an officer terminated by a general discharge, he may, under regulations to be prescribed by the Secretary of the Air Force, be so reenlisted.”
+
+1958—Pub. L. 85–603 limited entitlement to be reenlisted in enlisted grade to those officers whose service terminated by an honorable discharge and those relieved from active duty for a purpose other than to await appellate review of a sentence that includes dismissal or dishonorable discharge, and provided that persons whose service terminated by a general discharge, may, under regulations to be prescribed by the Secretary of the Air Force, be so reenlisted.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Effective Date of 1992 Amendment
+Amendment by Pub. L. 102–484 applicable to persons discharged or released from active duty as commissioned officers in the Air Force Reserve after Oct. 23, 1992, see section 520(c) of Pub. L. 102–484, set out as a note under [section 3258 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3258&num=0&edition=prelim).

@@ -71,6 +71,7 @@ Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (sub
 #### Transfer of Functions
 For provisions transferring Foreign Claims Settlement Commission of the United States to Department of Justice, as a separate agency, see section 1622a et seq. of Title 22, Foreign Relations and Intercourse.
 
+#### Transfer of Functions
 “Foreign Claims Settlement Commission” substituted in text for “War Claims Commission” pursuant to Reorg. Plan No. 1 of 1954, §§ 2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out in the Appendix to Title 5, Government Organization and Employees, which abolished War Claims Commission, including offices of its members, and transferred functions of Commission and members, officers, and employees thereof to Foreign Claims Settlement Commission of the United States.
 
 
@@ -87,6 +88,7 @@ Section was formerly classified to section 2002 of the former Appendix to this t
 #### Transfer of Functions
 For provisions transferring Foreign Claims Settlement Commission of the United States to Department of Justice, as a separate agency, see section 1622a et seq. of Title 22, Foreign Relations and Intercourse.
 
+#### Transfer of Functions
 War Claims Commission, including offices of its members, abolished and functions transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1 of 1954, §§ 2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out in the Appendix to Title 5, Government Organization and Employees. See, also, [section 4101 of this title](./chapter-051-war-claims.md#section-4101) and notes thereunder.
 
 
@@ -118,9 +120,10 @@ Section was formerly classified to section 2003 of the former Appendix to this t
 1962—Subsecs. (a), (b)(2). Pub. L. 87–846 made technical amendment to reference in original act which appears in text as reference to [section 4110 of this title](./chapter-051-war-claims.md#section-4110).
 
 #### Transfer of Functions
-“Secretary of Labor” substituted in subsecs. (a) and (b) for “Federal Security Administrator” and “Administrator” pursuant to Reorg. Plan No. 19 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1271, which transferred functions of Federal Security Administrator and Federal Security Agency under this section to Secretary of Labor, with power to delegate, prior to repeal by by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 662. See [section 8145 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8145&num=0&edition=prelim), Government Organization and Employees.
-
 For provisions transferring Foreign Claims Settlement Commission of the United States to Department of Justice, as a separate agency, see section 1622a et seq. of Title 22, Foreign Relations and Intercourse.
+
+#### Transfer of Functions
+“Secretary of Labor” substituted in subsecs. (a) and (b) for “Federal Security Administrator” and “Administrator” pursuant to Reorg. Plan No. 19 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1271, which transferred functions of Federal Security Administrator and Federal Security Agency under this section to Secretary of Labor, with power to delegate, prior to repeal by by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 662. See [section 8145 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8145&num=0&edition=prelim), Government Organization and Employees.
 
 War Claims Commission, including offices of its members, abolished and functions and funds transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1 of 1954, §§ 2, 4, 6(c), eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out in the Appendix to Title 5, Government Organization and Employees. See, also, [section 4101 of this title](./chapter-051-war-claims.md#section-4101) and notes thereunder.
 
@@ -283,9 +286,10 @@ Subsec. (g). Act Aug. 21, 1954, § 1(a), added subsec. (g).
 1952—Subsec. (e). Act Apr. 9, 1952, allowed the award for the benefit of claimant to be paid to the claimant’s natural or legal guardian, committee, conservator, or curator, or to such other person as is charged with the care of the claimant, and permitted the payment of an award payable to a minor, directly to such minor.
 
 #### Transfer of Functions
-“Secretary of Labor” substituted for “Federal Security Administrator” in subsec. (f)(6) pursuant to Reorg. Plan No. 19 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1271, which transferred functions of Federal Security Administrator and Federal Security Agency under this section to Secretary of Labor, with power to delegate, and was set out in the Appendix to Title 5, Government Organization and Employees, prior to repeal by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 662. See [section 8145 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8145&num=0&edition=prelim), Government Organization and Employees.
-
 For provisions transferring Foreign Claims Settlement Commission of the United States to Department of Justice, as a separate agency, see section 1622a et seq. of Title 22, Foreign Relations and Intercourse.
+
+#### Transfer of Functions
+“Secretary of Labor” substituted for “Federal Security Administrator” in subsec. (f)(6) pursuant to Reorg. Plan No. 19 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1271, which transferred functions of Federal Security Administrator and Federal Security Agency under this section to Secretary of Labor, with power to delegate, and was set out in the Appendix to Title 5, Government Organization and Employees, prior to repeal by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 662. See [section 8145 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8145&num=0&edition=prelim), Government Organization and Employees.
 
 War Claims Commission, including offices of its members, abolished and functions transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1 of 1954, §§ 2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out in the Appendix to Title 5, Government Organization and Employees. See, also, [section 4101 of this title](./chapter-051-war-claims.md#section-4101) and notes thereunder.
 
@@ -431,10 +435,11 @@ Subsec. (d). Act Apr. 9, 1952, ch. 167, added subsec. (d). Another subsec. (d), 
 #### Transfer of Functions
 For provisions transferring Foreign Claims Settlement Commission of the United States to Department of Justice, as a separate agency, see section 1622a et seq. of Title 22, Foreign Relations and Intercourse.
 
-War Claims Commission, including offices of its members, abolished and functions transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1 of 1954, §§ 2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out in the Appendix to Title 5, Government Organization and Employees. See, also, [section 4101 of this title](./chapter-051-war-claims.md#section-4101) and notes thereunder.
-
 #### Compensation for Persons Awarded Prisoner of War Medal Who Did Not Previously Receive Compensation as Prisoner of War
 Pub. L. 104–201, div. A, title VI, § 656, Sept. 23, 1996, 110 Stat. 2584, provided that: “(a) Authority To Make Payments.—The Secretary of the military department concerned shall make payments in the manner provided in section 6 of the War Claims Act of 1948 (50 U.S.C. App. 2005) [now [50 U.S.C. 4105](./chapter-051-war-claims.md#section-4105)] to (or on behalf of) any person described in subsection (b) who submits an application for such payment in accordance with subsection (d). “(b) Eligible Persons.—This section applies with respect to a member or former member of the Armed Forces who—“(1) has received the prisoner of war medal under [section 1128 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1128&num=0&edition=prelim), United States Code; and “(2) has not previously received a payment under section 6 of the War Claims Act of 1948 (50 U.S.C. App. 2005) [now [50 U.S.C. 4105](./chapter-051-war-claims.md#section-4105)] with respect to the period of internment for which the person received the prisoner of war medal. “(c) Amount of Payment.—The amount of the payment to any person under this section shall be determined based upon the provisions of section 6 of the War Claims Act of 1948 [[50 U.S.C. 4105](./chapter-051-war-claims.md#section-4105)] that are applicable with respect to the period of time during which the internment occurred for which the person received the prisoner of war medal. “(d) One-Year Period for Submission of Applications.—A payment may be made by reason of this section only in the case of a person who submits an application to the Secretary concerned for such payment during the one-year period beginning on the date of the enactment of this Act [Sept. 23, 1996]. Any such application shall be submitted in such form and manner as the Secretary may require.”
+
+#### Transfer of Functions
+War Claims Commission, including offices of its members, abolished and functions transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1 of 1954, §§ 2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out in the Appendix to Title 5, Government Organization and Employees. See, also, [section 4101 of this title](./chapter-051-war-claims.md#section-4101) and notes thereunder.
 
 
 <a id="section-4106"></a>
@@ -483,10 +488,11 @@ Subsec. (g). Pub. L. 87–846 made technical amendment to reference in original 
 #### Transfer of Functions
 For provisions transferring Foreign Claims Settlement Commission of the United States to Department of Justice, as a separate agency, see section 1622a et seq. of Title 22, Foreign Relations and Intercourse.
 
-War Claims Commission, including offices of its members, abolished and functions transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1 of 1954, §§ 2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out in the Appendix to Title 5, Government Organization and Employees. See, also, [section 4101 of this title](./chapter-051-war-claims.md#section-4101) and notes thereunder.
-
 #### Termination of Philippine War Damage Commission
 The Philippine War Damage Commission established by section 101 of act Apr. 30, 1946, ch. 243, title I, 60 Stat. 128, formerly classified to section 1751 of the former Appendix to this title, terminated under the provisions of subsec. (d) of such section, which provided for the winding up of the Commission’s affairs not later than two years after expiration of time for filing claims under act Apr. 30, 1946, ch. 243, if possible but in no event later than Apr. 30, 1951.
+
+#### Transfer of Functions
+War Claims Commission, including offices of its members, abolished and functions transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1 of 1954, §§ 2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out in the Appendix to Title 5, Government Organization and Employees. See, also, [section 4101 of this title](./chapter-051-war-claims.md#section-4101) and notes thereunder.
 
 
 <a id="section-4107"></a>
@@ -511,10 +517,11 @@ Section was formerly classified to section 2008 of the former Appendix to this t
 #### Transfer of Functions
 For provisions transferring Foreign Claims Settlement Commission of the United States to Department of Justice, as a separate agency, see section 1622a et seq. of Title 22, Foreign Relations and Intercourse.
 
-War Claims Commission, including offices of its members, abolished and functions transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1 of 1954, §§ 2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out in the Appendix to Title 5, Government Organization and Employees. See, also, [section 4101 of this title](./chapter-051-war-claims.md#section-4101) and notes thereunder.
-
 #### Modification of Reporting Requirements
 Pub. L. 89–348, § 2(6), Nov. 8, 1965, 79 Stat. 1312, modified the reporting requirements of this section as follows: “Beginning January 1, 1967, from semiannual to annual submission to the Congress by the Foreign Claims Settlement Commission of the United States of a report concerning its operations under the War Claims Act of 1948 (62 Stat. 1246; 50 U.S.C. App. 2008 [now [50 U.S.C. 4107](./chapter-051-war-claims.md#section-4107)]).”
+
+#### Transfer of Functions
+War Claims Commission, including offices of its members, abolished and functions transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1 of 1954, §§ 2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out in the Appendix to Title 5, Government Organization and Employees. See, also, [section 4101 of this title](./chapter-051-war-claims.md#section-4101) and notes thereunder.
 
 
 <a id="section-4108"></a>
@@ -536,6 +543,7 @@ Section was formerly classified to section 2009 of the former Appendix to this t
 #### Transfer of Functions
 For provisions transferring Foreign Claims Settlement Commission of the United States to Department of Justice, as a separate agency, see section 1622a et seq. of Title 22, Foreign Relations and Intercourse.
 
+#### Transfer of Functions
 War Claims Commission, including offices of its members, abolished and functions transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1 of 1954, §§ 2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out in the Appendix to Title 5, Government Organization and Employees. See, also, [section 4101 of this title](./chapter-051-war-claims.md#section-4101) and notes thereunder.
 
 
@@ -558,6 +566,7 @@ Section was formerly classified to section 2010 of the former Appendix to this t
 #### Transfer of Functions
 For provisions transferring Foreign Claims Settlement Commission of the United States to Department of Justice, as a separate agency, see section 1622a et seq. of Title 22, Foreign Relations and Intercourse.
 
+#### Transfer of Functions
 War Claims Commission, including offices of its members, abolished and functions transferred to Foreign Claims Settlement Commission of the United States by 68 Reorg. Plan No. 1 of 1954, §§ 2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out in the Appendix to Title 5, Government Organization and Employees. See, also, [section 4101 of this title](./chapter-051-war-claims.md#section-4101) and notes thereunder.
 
 
@@ -595,9 +604,10 @@ Subsec. (c). Act Aug. 31, 1954, § 104(a), provided that President may approve o
 Subsec. (d). Act Aug. 31, 1954, § 104(b), inserted “on or before August 1, 1956” before “Secretary of State”.
 
 #### Transfer of Functions
-“Secretary of Labor” substituted for “Federal Security Administrator” in subsecs. (b) and (c) pursuant to Reorg. Plan No. 19 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1271, which transferred functions of Federal Security Administrator and Federal Security Agency under this section to Secretary of Labor with power to delegate and was set out in the Appendix to Title 5, Government Organization and Employees, prior to repeal by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 662. See [section 8145 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8145&num=0&edition=prelim), Government Organization and Employees.
-
 For provisions transferring Foreign Claims Settlement Commission of the United States to Department of Justice, as a separate agency, see section 1622a et seq. of Title 22, Foreign Relations and Intercourse.
+
+#### Transfer of Functions
+“Secretary of Labor” substituted for “Federal Security Administrator” in subsecs. (b) and (c) pursuant to Reorg. Plan No. 19 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1271, which transferred functions of Federal Security Administrator and Federal Security Agency under this section to Secretary of Labor with power to delegate and was set out in the Appendix to Title 5, Government Organization and Employees, prior to repeal by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 662. See [section 8145 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8145&num=0&edition=prelim), Government Organization and Employees.
 
 War Claims Commission, including offices of its members, abolished and functions transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1 of 1954, §§ 2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out in the Appendix to Title 5, Government Organization and Employees. See, also, [section 4101 of this title](./chapter-051-war-claims.md#section-4101) and notes thereunder.
 
@@ -621,6 +631,7 @@ Section was formerly classified to section 2013 of the former Appendix to this t
 #### Transfer of Functions
 For provisions transferring Foreign Claims Settlement Commission of the United States to Department of Justice, as a separate agency, see section 1622a et seq. of Title 22, Foreign Relations and Intercourse.
 
+#### Transfer of Functions
 War Claims Commission, including offices of its members, abolished and functions of Commission and of members, officers, and employees thereof transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1 of 1954, §§ 2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out in the Appendix to Title 5, Government Organization and Employees. See, also, [section 4101 of this title](./chapter-051-war-claims.md#section-4101) and notes thereunder.
 
 

@@ -2,7 +2,7 @@
 title: 10
 chapter: '863'
 heading: NAVAL VESSELS
-section_count: 36
+section_count: 40
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -34,7 +34,7 @@ Pub. L. 112–81, div. B, title XXVIII, § 2828, Dec. 31, 2011, 125 Stat. 1694, 
 Pub. L. 111–84, div. A, title I, § 124(a), Oct. 28, 2009, 123 Stat. 2214, provided that: “(a) Advance Procurement.—With respect to a naval vessel for which amounts are authorized to be appropriated or otherwise made available for fiscal year 2010 or any fiscal year thereafter for advance procurement in shipbuilding and conversion, Navy, the Secretary of the Navy may enter into a contract, in advance of a contract for construction of any vessel, for any of the following:“(1) Components, parts, or materiel. “(2) Production planning and other related support services that reduce the overall procurement lead time of such vessel.”
 
 #### Assessments Required Prior to Start of Construction on First Ship of a Shipbuilding Program
-Pub. L. 110–181, div. A, title I, § 124, Jan. 28, 2008, 122 Stat. 28, provided that: “(a) In General.—Concurrent with approving the start of construction of the first ship for any major shipbuilding program, the Secretary of the Navy shall—“(1) submit a report to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] on the results of any production readiness review; and “(2) certify to the congressional defense committees that the findings of any such review support commencement of construction. “(b) Report.—The report required by subsection (a)(1) shall include, at a minimum, an assessment of each of the following:“(1) The maturity of the ship’s design, as measured by stability of the ship contract specifications and the degree of completion of detail design and production design drawings. “(2) The maturity of developmental command and control systems, weapon and sensor systems, and hull, mechanical and electrical systems. “(3) The readiness of the shipyard facilities and workforce to begin construction. “(4) The Navy’s estimated cost at completion and the adequacy of the budget to support the estimate. “(5) The Navy’s estimated delivery date and description of any variance to the contract delivery date. “(6) The extent to which adequate processes and metrics are in place to measure and manage program risks. “(c) Applicability.—This section applies to each major shipbuilding program beginning after the date of the enactment of this Act [Jan. 28, 2008]. “(d) Definitions.—For the purposes of subsection (a):“(1) Start of construction.—The term ‘start of construction’ means the beginning of fabrication of the hull and superstructure of the ship. “(2) First ship.—The term ‘first ship’ applies to a ship if—“(A) the ship is the first ship to be constructed under that shipbuilding program; or “(B) the shipyard at which the ship is to be constructed has not previously started construction on a ship under that shipbuilding program. “(3) Major shipbuilding program.—The term ‘major shipbuilding program’ means a program for the construction of combatant and support vessels required for the naval vessel force, as reported within the annual naval vessel construction plan required by [section 231 of title 10](./chapter-009-defense-budget-matters.md#section-231), United States Code. “(4) Production readiness review.—The term ‘production readiness review’ means a formal examination of a program prior to the start of construction to determine if the design is ready for production, production engineering problems have been resolved, and the producer has accomplished adequate planning for the production phase.”
+Pub. L. 110–181, div. A, title I, § 124, Jan. 28, 2008, 122 Stat. 28, required assessment of certain factors prior to start of construction on first ship of a shipbuilding program, prior to repeal by Pub. L. 117–81, div. A, title X, § 1013(c), Dec. 27, 2021, 135 Stat. 1893. See [section 8669c of this title](./chapter-863-naval-vessels.md#section-8669c).
 
 #### Fast Sealift Program
 Pub. L. 101–510, div. A, title XIV, § 1424, Nov. 5, 1990, 104 Stat. 1683, as amended by Pub. L. 102–190, div. A, title X, § 1015, Dec. 5, 1991, 105 Stat. 1458; Pub. L. 102–484, div. A, title X, § 1022, Oct. 23, 1992, 106 Stat. 2485; Pub. L. 103–337, div. A, title I, § 125, Oct. 5, 1994, 108 Stat. 2683, provided that: “(a) Establishment of Program.—The Secretary of the Navy shall establish a program for the construction and operation, or conversion and operation, of cargo vessels that incorporate features essential for military use of the vessels. “(b) Program Requirements.—The program under this section shall be carried out as follows:“(1) The Secretary of the Navy shall establish the design requirements for vessels to be constructed or converted under the program. “(2) In establishing the design requirements for vessels to be constructed or converted under the program, the Secretary shall use commercial design standards and shall consult with the Administrator of the Maritime Administration. “(3) Construction or conversion of the vessels shall be accomplished in private United States shipyards. “(4) The vessels constructed or converted under the program shall incorporate propulsion systems whose main components (that is, the engines, reduction gears, and propellers) are manufactured in the United States. “(5) The vessels constructed or converted under the program shall incorporate bridge and machinery control systems and interior communications equipment which—“(A) are manufactured in the United States; and “(B) have more than half of their value, in terms of cost, added in the United States. “(6) The Secretary of Defense may waive the requirement of paragraph (5) with respect to a system or equipment described in that paragraph if—“(A) the system or equipment is not available; or “(B) the costs of compliance would be unreasonable compared to the costs of purchase from a foreign manufacturer. “(c) Charter of Vessels Constructed.—(1) Except when the Secretary determines that having a vessel immediately available with a full or partial crew is in the national interest, the Secretary, in consultation with the Administrator of the Maritime Administration, shall charter each vessel constructed before October 1, 1995, under the program for commercial operation. Any such charter—“(A) shall not permit the operation of the vessel other than in the foreign commerce of the United States; “(B) may be made only with an individual or entity that is a citizen of the United States (which, in the case of a corporation, partnership, or association, shall be determined in the manner specified in section 2 of the Shipping Act, 1916 ([former] 46 U.S.C. App. 802)) [see [46 U.S.C. 50501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section50501&num=0&edition=prelim)]; and “(C) shall require that the vessel be documented (and remain documented) under the laws of the United States. “(2) The Secretary may enter into a charter under paragraph (1) only through the use of competitive bidding procedures that ensure that the highest charter rates are obtained by the United States consistent with good business practice, except that the Secretary may operate the vessel (or contract to have the vessel operated) in direct support of United States military forces during a time of war or national emergency and at other times when the Administrator of the Maritime Administration determines that that operation would not unfairly compete with another United States-flag vessel. “(3) If the Secretary determines that a vessel previously chartered under the program no longer has commercial utility, the Secretary may transfer the vessel to the National Defense Reserve Fleet. “(4) A contract for the charter of a vessel under paragraph (1) shall include a provision that the charter may be terminated for national security reasons without cost to the United States. “(d) Reports To Congress.—(1) Not later than six months after the date of the enactment of this Act [Nov. 5, 1990], the Secretary of the Navy shall submit to Congress a report describing the Secretary’s plan for implementing the fast sealift program authorized by this section. “(2) Not later than three years after the date of the enactment of this Act, the Secretary shall submit to Congress a report on the implementation of the plan described in the report submitted under paragraph (1). The report shall include a description of vessels built or under contract to be built pursuant to this section, the use of such vessels, and the operating experience and manning of such vessels. “(3) The reports under paragraphs (1) and (2) shall be prepared in consultation with the Administrator of the Maritime Administration. “(e) Availability of Funds.—Amounts appropriated to the Department of Defense for any fiscal year for acquisition of fast sealift vessels may be used for the program under this section.”
@@ -315,12 +315,9 @@ For delegation of authority of President under subsec. (a) of this section, see 
 
 (2) The term “future-years defense program” has the meaning given that term in [section 221 of this title](./chapter-009-defense-budget-matters.md#section-221).
 
-(3) The term “Milestone A approval” has the meaning given that term in [section 2431a of this title](./chapter-144-major-defense-acquisition-programs.md#section-2431a).
+(3) The term “Milestone A approval” has the meaning given that term in [section 4211 of this title](./chapter-322-major-systems-and-major-defense-acquisition-programs-generally.md#section-4211).
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, except as otherwise provided in title XVIII of Pub. L. 116–283, in title 10, United States Code, each reference in the text of such title to a source section that is redesignated by title XVIII of Pub. L. 116–283, is amended by striking such reference and inserting a reference to the appropriate section as so redesignated. See 2021 Amendment note below.
 
 #### References in Text
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 2020 and such date of enactment, referred to in subsec. (a)(1), is the date of enactment of Pub. L. 116–92, which was approved Dec. 20, 2019.
@@ -329,7 +326,54 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 2021—Subsec. (d)(3). Pub. L. 116–283 substituted “section 4211” for “section 2431a”.
 
 #### Effective Date of 2021 Amendment
-Amendment by 1883(b)(2) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+Amendment by section 1883(b)(2) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+
+<a id="section-8669c"></a>
+## § 8669c. Assessments required prior to start of construction on first ship of a shipbuilding program
+**(a) In General.—** The Secretary of the Navy may not approve the start of construction of the first ship for any major shipbuilding program until a period of 30 days has elapsed following the date on which the Secretary—
+
+(1) submits a report to the congressional defense committees on the results of any production readiness review;
+
+(2) certifies to the congressional defense committees that the findings of any such review support commencement of construction; and
+
+(3) certifies to the congressional defense committees that the basic and functional design of the vessel is complete.
+
+**(b) Report.—** The report required by subsection (a)(1) shall include, at a minimum, an assessment of each of the following:
+
+(1) The maturity of the ship’s design, as measured by stability of the ship contract specifications and the degree of completion of detail design and production design drawings.
+
+(2) The maturity of developmental command and control systems, weapon and sensor systems, and hull, mechanical and electrical systems.
+
+(3) The readiness of the shipyard facilities and workforce to begin construction.
+
+(4) The Navy’s estimated cost at completion and the adequacy of the budget to support the estimate.
+
+(5) The Navy’s estimated delivery date and description of any variance to the contract delivery date.
+
+(6) The extent to which adequate processes and metrics are in place to measure and manage program risks.
+
+**(c) Definitions.—** For the purposes of subsection (a):
+
+(1) **Basic and functional design.—** — The term “basic and functional design”, when used with respect to a vessel, means design through computer aided models, that—
+
+  (A) fixes the major hull structure of the vessel;
+
+  (B) sets the hydrodynamics of the vessel; and
+
+  (C) routes major portions of all distributive systems of the vessel, including electricity, water, and other utilities.
+
+(2) **First ship.—** — The term “first ship” applies to a ship if—
+
+  (A) the ship is the first ship to be constructed under that shipbuilding program; or
+
+  (B) the shipyard at which the ship is to be constructed has not previously started construction on a ship under that shipbuilding program.
+
+(3) **Major shipbuilding program.—** — The term “major shipbuilding program” means a program for the construction of combatant and support vessels required for the naval vessel force, as reported within the annual naval vessel construction plan required by [section 231 of this title](./chapter-009-defense-budget-matters.md#section-231).
+
+(4) **Production readiness review.—** — The term “production readiness review” means a formal examination of a program prior to the start of construction to determine if the design is ready for production, production engineering problems have been resolved, and the producer has accomplished adequate planning for the production phase.
+
+(5) **Start of construction.—** — The term “start of construction” means the beginning of fabrication of the hull and superstructure of the ship.
 
 
 <a id="section-8670"></a>
@@ -360,7 +404,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 (1) in the materials submitted to Congress by the Secretary of Defense in support of the budget of the President for each fiscal year (as submitted to Congress under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code); and
 
-(2) in any relevant Selected Acquisition Report submitted to Congress under [section 2432 of this title](./chapter-144-major-defense-acquisition-programs.md#section-2432).
+(2) in any relevant Selected Acquisition Report submitted to Congress under [section 4351 of this title](./chapter-324-selected-acquisition-reports.md#section-4351).
 
 **(c) Listing as Battle Force Ship in Naval Vessel Register.—** A covered vessel may not be listed in the Naval Vessel Register or other fleet inventory measures as a battle force ship until the delivery date specified in subsection (a).
 
@@ -376,11 +420,8 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 ### Statutory Notes
 
-#### Amendment of Subsection (b)(2)
-Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1849(m), Jan. 1, 2021, 134 Stat. 4151, 4264, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, subsection (b)(2) of this section is amended by striking “section 2432” and inserting “chapter 324”. See 2021 Amendment note below.
-
 #### Amendments
-2021—Subsec. (b)(2). Pub. L. 116–283 substituted “chapter 324” for “section 2432”.
+2021—Subsec. (b)(2). Pub. L. 116–283, § 1849(f), formerly § 1849(m), as renumbered and amended by Pub. L. 117–81, § 1701(o)(5)(B), (6)(D), substituted “section 4351” for “section 2432”.
 
 2018—Pub. L. 115–232, § 807(d)(2), renumbered [section 7301 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7301&num=0&edition=prelim) as this section.
 
@@ -391,6 +432,8 @@ Subsec. (d). Pub. L. 115–232, § 1014(b), added subsec. (d) and struck out for
 Pub. L. 115–232, § 1014(a)(1), redesignated subsec. (c) as (d).
 
 #### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
+
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 2018 Amendment
@@ -443,7 +486,7 @@ Amendment by section 807(d)(2) of Pub. L. 115–232 effective Feb. 1, 2019, with
 
 **(d) Annual Report.—**
 
-(1) Not later than March 1 each year, the board designated under subsection (a) shall submit to the congressional defense committees a report setting forth the following:
+(1) Not later than March 1 each year, the board designated under subsection (a) shall provide to the congressional defense committees a briefing and submit to such committees a report regarding the following:
 
   (A) An overall narrative summary of the material readiness of Navy ships as compared to established material requirements standards.
 
@@ -451,13 +494,21 @@ Amendment by section 807(d)(2) of Pub. L. 115–232 effective Feb. 1, 2019, with
 
   (C) For in-service vessels, material readiness trends by inspected functional area as compared to the previous five years.
 
-(2) Each report under this subsection shall be submitted in an unclassified form that is releasable to the public without further redaction.
+(2) Each report under this subsection shall be submitted in—
 
-(3) No report shall be required under this subsection after October 1, 2021.
+  (A) a classified form; and
+
+  (B) an unclassified form that is releasable to the public without further redaction.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (d)(1). Pub. L. 117–81, § 362(1), substituted “provide to the congressional defense committees a briefing and submit to such committees a report regarding” for “submit to the congressional defense committees a report setting forth” in introductory provisions.
+
+Subsec. (d)(2). Pub. L. 117–81, § 362(2), substituted “in—” for “in an unclassified form that is releasable to the public without further redaction.” and added subpars. (A) and (B).
+
+Subsec. (d)(3). Pub. L. 117–81, § 362(3), struck out par. (3) which read as follows: “No report shall be required under this subsection after October 1, 2021.”
+
 2018—Pub. L. 115–232, § 807(d)(2), renumbered [section 7304 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7304&num=0&edition=prelim) as this section.
 
 Subsec. (a). Pub. L. 115–232, § 322(a), designated existing provisions as par. (1) and added par. (2).
@@ -733,6 +784,49 @@ Notwithstanding any other provision of law, no combatant vessel of the Navy may 
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+
+<a id="section-8678a"></a>
+## § 8678a. Limitation on decommissioning or inactivating a battle force ship before the end of expected service life
+**(a) Limitation.—** The Secretary of the Navy may not decommission or inactivate a battle force ship before the end of the expected service life of the ship.
+
+**(b) Waiver.—** The Secretary of the Navy may waive the limitation under subsection (a) with respect to a battle force ship if—
+
+(1) the Secretary submits to the congressional defense committees the certification described in subsection (c) with respect to such ship; and
+
+(2) a period of 30 days has elapsed following the date on which such certification was submitted.
+
+**(c) Certification Described.—** A certification described in this subsection is a certification that—
+
+(1)
+
+  (A) maintaining the battle force ship in a reduced operating status is not feasible;
+
+  (B) maintaining the ship with reduced capability is not feasible;
+
+  (C) maintaining the ship as a Navy Reserve unit is not feasible;
+
+  (D) transferring the ship to the Coast Guard is not feasible; and
+
+  (E) maintaining the ship is not required to support the most recent national defense strategy required by [section 113(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section113/g&num=0&edition=prelim); and
+
+(2) includes an explanation of—
+
+  (A) the options assessed and the rationale for the determinations under subparagraphs (A) through (D) of paragraph (1); and
+
+  (B) the rationale for the determination under subparagraph (E) of such paragraph.
+
+**(d) Form.—** A certification submitted under subsection (b) shall be submitted in unclassified form, but may include a classified annex.
+
+**(e) Definitions.—** In this section:
+
+(1) The term “battle force ship” means the following:
+
+  (A) A commissioned United States Ship warship capable of contributing to combat operations.
+
+  (B) A United States Naval Ship that contributes directly to Navy warfighting or support missions.
+
+(2) The term “expected service life” means the number of years a naval vessel is expected to be in service.
 
 
 <a id="section-8679"></a>
@@ -1072,29 +1166,17 @@ Pub. L. 100–456, div. A, title XII, § 1225(b), Sept. 29, 1988, 102 Stat. 2055
 
 
 <a id="section-8684a"></a>
-## § 8684a. Repair, maintenance, or overhaul of naval vessels: rate for progress payments
-
-The Secretary of the Navy shall provide that the rate for progress payments on any contract awarded by the Secretary for repair, maintenance, or overhaul of a naval vessel shall be not less than—
-
-(1) 95 percent, in the case of a firm considered to be a small business; and
-
-(2) 90 percent, in the case of any other firm.
+## § 8684a. Omitted]
 
 ### Statutory Notes
 
 #### Codification
-The text of subsec. (g)(1) of [section 2307 of this title](./chapter-137-procurement-generally.md#section-2307), which was transferred to this section and amended by Pub. L. 116–283, § 1876(a)(2), was based on Pub. L. 103–355, title II, § 2001(g), Oct. 13, 1994, 108 Stat. 3302.
-
-#### Amendments
-2021—Pub. L. 116–283, § 1876(a)(2), transferred text of subsec. (g)(1) of [section 2307 of this title](./chapter-137-procurement-generally.md#section-2307) to this section and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively.
-
-#### Effective Date
-Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+Section, added and amended Pub. L. 116–283, div. A, title XVIII, § 1876(a), Jan. 1, 2021, 134 Stat. 4291, related to rate for progress payments in the repair, maintenance, or overhaul of naval vessels, and was to become effective Jan. 1, 2022. Pub. L. 117–81, div. A, title XVII, § 1701(n)(3), Dec. 27, 2021, 135 Stat. 2146, repealed section 1876 of Pub. L. 116–283, effective as if included in title XVIII of Pub. L. 116–283, thereby omitting this section before it took effect. Text of [section 2307(g)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2307/g/1&num=0&edition=prelim), which had been transferred to this section, was transferred to [section 3808(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3808/a&num=0&edition=prelim).
 
 
 <a id="section-8685"></a>
 ## § 8685. Preservation of Navy shipbuilding capability
-**(a) Shipbuilding Capability Preservation Agreements.—** The Secretary of the Navy may enter into an agreement, to be known as a “shipbuilding capability preservation agreement”, with a shipbuilder under which the cost reimbursement rules described in subsection (b) shall be applied to the shipbuilder under a Navy contract for the construction of a ship. Such an agreement may be entered into in any case in which the Secretary determines that the application of such cost reimbursement rules would facilitate the achievement of the policy objectives set forth in [section 2501(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2501/b&num=0&edition=prelim).
+**(a) Shipbuilding Capability Preservation Agreements.—** The Secretary of the Navy may enter into an agreement, to be known as a “shipbuilding capability preservation agreement”, with a shipbuilder under which the cost reimbursement rules described in subsection (b) shall be applied to the shipbuilder under a Navy contract for the construction of a ship. Such an agreement may be entered into in any case in which the Secretary determines that the application of such cost reimbursement rules would facilitate the achievement of the policy objectives set forth in [section 4811(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4811/b&num=0&edition=prelim).
 
 **(b) Cost Reimbursement Rules.—** The cost reimbursement rules applicable under an agreement entered into under subsection (a) are as follows:
 
@@ -1112,7 +1194,7 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 (3) The total amount of allocable indirect private sector costs for a contract covered by the agreement may not exceed the amount of indirect costs that a shipbuilder would have allocated to its private sector work during the period covered by the agreement in accordance with the shipbuilder’s established accounting practices.
 
-**(c) Authority To Modify Cost Reimbursement Rules.—** The cost reimbursement rules set forth in subsection (b) may be modified by the Secretary of the Navy for a particular agreement if the Secretary determines that modifications are appropriate to the particular situation to facilitate achievement of the policy set forth in [section 2501(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2501/b&num=0&edition=prelim).
+**(c) Authority To Modify Cost Reimbursement Rules.—** The cost reimbursement rules set forth in subsection (b) may be modified by the Secretary of the Navy for a particular agreement if the Secretary determines that modifications are appropriate to the particular situation to facilitate achievement of the policy set forth in [section 4811(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4811/b&num=0&edition=prelim).
 
 **(d) Applicability.—**
 
@@ -1125,9 +1207,6 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 (2) In a shipbuilding capability preservation agreement applicable to a shipbuilder, the Secretary may agree to apply the cost reimbursement rules set forth in subsection (b) to allocations of indirect costs to private sector work performed by the shipbuilder only with respect to costs that the shipbuilder incurred on or after November 18, 1997, under a contract between the shipbuilder and a private sector customer of the shipbuilder that became effective on or after January 26, 1996.
 
 ### Statutory Notes
-
-#### Amendment of Subsections (a) and (c)
-Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1867(e)(3), Jan. 1, 2021, 134 Stat. 4151, 4282, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is amended by striking “section 2501(b)” in subsections (a) and (c) and inserting “section 4811(b)”. See 2021 Amendment note below.
 
 #### Prior Provisions
 A prior section 8685, acts Aug. 10, 1956, ch. 1041, 70A Stat. 535; Sept. 2, 1958, Pub. L 85–861, § 1(187), 72 Stat. 1534, set forth restrictions on consideration of a husband or child as dependent of a female member of Regular Air Force, Air National Guard of the United States or Air Force Reserve, prior to repeal by Pub. L. 90–235, § 7(a)(3), Jan. 2, 1968, 81 Stat. 763.
@@ -1192,16 +1271,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 ## § 8687. Status of Government rights in the designs of vessels, boats, and craft, and components thereof
 **(a) In General.—** Government rights in the design of a vessel, boat, or craft, and its components, including the hull, decks, superstructure, and all shipboard equipment and systems, shall be determined solely as follows:
 
-(1) In the case of a vessel, boat, craft, or component procured through a contract, in accordance with the provisions of [section 2320 of this title](./chapter-137-procurement-generally.md#section-2320).
+(1) In the case of a vessel, boat, craft, or component procured through a contract, in accordance with the provisions of subchapter I of chapter 275 of this title.
 
-(2) In the case of a vessel, boat, craft, or component procured through an instrument not governed by [section 2320 of this title](./chapter-137-procurement-generally.md#section-2320), by the terms of the instrument (other than a contract) under which the design for such vessel, boat, craft, or component, as applicable, was developed for the Government.
+(2) In the case of a vessel, boat, craft, or component procured through an instrument not governed by subchapter I of chapter 275 of this title, by the terms of the instrument (other than a contract) under which the design for such vessel, boat, craft, or component, as applicable, was developed for the Government.
 
 **(b) Construction of Superseding Authorities.—** This section may be modified or superseded by a provision of statute only if such provision expressly refers to this section in modifying or superseding this section.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (a)
-Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1833(p), Jan. 1, 2021, 134 Stat. 4151, 4234, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, subsection (a) of this section is amended by striking “section 2320” each place it appears and inserting “subchapter I of chapter 275”. See 2021 Amendment note below.
 
 #### Prior Provisions
 A prior section 8687, acts Aug. 10, 1956, ch. 1041, 70A Stat. 536; Sept. 2, 1958, Pub. L. 85–861, § 1(188), 72 Stat. 1534; Sept. 7, 1962, Pub. L. 87–649, § 6(d), 76 Stat. 494, related to compensation for members of Air Force other than Regular Air Force prior to repeal by Pub. L. 99–661, div. A, title VI, § 604(f)(1)(A), Nov. 14, 1986, 100 Stat. 3877.
@@ -1240,20 +1316,12 @@ Pub. L. 114–328, div. A, title X, § 1022(b), Dec. 23, 2016, 130 Stat. 2388, p
 
 
 <a id="section-8688a"></a>
-## § 8688a. Construction and conversion of naval vessels: liens
-
-The Secretary of the Navy shall provide, in each contract for construction or conversion of a naval vessel, that, when partial, progress, or other payments are made under such contract, the United States is secured by a lien upon work in progress and on property acquired for performance of the contract on account of all payments so made. The lien is paramount to all other liens.
+## § 8688a. Omitted]
 
 ### Statutory Notes
 
 #### Codification
-The text of subsec. (g)(3) of [section 2307 of this title](./chapter-137-procurement-generally.md#section-2307), which was transferred to this section by Pub. L. 116–283, § 1876(b)(2), was based on Pub. L. 103–355, title II, § 2001(g), Oct. 13, 1994, 108 Stat. 3302.
-
-#### Amendments
-2021—Pub. L. 116–283, § 1876(b)(2), transferred text of subsec. (g)(3) of [section 2307 of this title](./chapter-137-procurement-generally.md#section-2307) to this section.
-
-#### Effective Date
-Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+Section, added and amended Pub. L. 116–283, div. A, title XVIII, § 1876(b), Jan. 1, 2021, 134 Stat. 4291, related to liens in contracts for construction or conversion of naval vessels, and was to become effective Jan. 1, 2022. Pub. L. 117–81, div. A, title XVII, § 1701(n)(3), Dec. 27, 2021, 135 Stat. 2146, repealed section 1876 of Pub. L. 116–283, effective as if included in title XVIII of Pub. L. 116–283, thereby omitting this section before it took effect. Text of [section 2307(g)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2307/g/3&num=0&edition=prelim), which had been transferred to this section, was transferred to [section 3808(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3808/c&num=0&edition=prelim).
 
 
 <a id="section-8689"></a>
@@ -1395,16 +1463,16 @@ Amendment by section 807(d)(2) of Pub. L. 115–232 effective Feb. 1, 2019, with
 
 ### Statutory Notes
 
+#### Codification
+Another section 8692 was renumbered [section 8693 of this title](./chapter-863-naval-vessels.md#section-8693).
+
 #### Prior Provisions
 A prior section 8692, act Aug. 10, 1956, ch. 1041, 70A Stat. 538, provided qualifications to receive a rating of pilot in time of peace, prior to repeal by Pub. L. 92–168, § 3(1), Nov. 24, 1971, 85 Stat. 489. See [section 2003 of this title](./chapter-101-training-generally.md#section-2003).
 
-A prior section 8693, act Aug. 10, 1956, ch. 1041, 70A Stat. 538, provided for replacement of a lost or destroyed certificate of discharge from Air Force, prior to repeal by Pub. L. 90–235, § 7(a)(3), Jan. 2, 1968, 81 Stat. 763. See [section 1040 of this title](./chapter-053-miscellaneous-rights-and-benefits.md#section-1040).
 
-
-<a id="section-8692"></a>
-## § 8692. Biennial report on shipbuilder training and the defense industrial base
-
-Not later than February 1 of each even-numbered year until 2026, the Secretary of the Navy, in coordination with the Secretary of Labor, shall submit to the Committee on Armed Services and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Armed Services and the Committee on Education and Labor of the House of Representatives a report on shipbuilder training and hiring requirements necessary to achieve the Navy’s 30-year shipbuilding plan and to maintain the shipbuilding readiness of the defense industrial base. Each such report shall include each of the following:
+<a id="section-8693"></a>
+## § 8693. Biennial report on shipbuilder training and the defense industrial base
+**(a) In General.—** Not later than February 1 of each even-numbered year until 2026, the Secretary of the Navy, in coordination with the Secretary of Labor, shall submit to the Committee on Armed Services and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Armed Services and the Committee on Education and Labor of the House of Representatives a report on shipbuilder training and hiring requirements necessary to achieve the Navy’s 30-year shipbuilding plan and to maintain the shipbuilding readiness of the defense industrial base. Each such report shall include each of the following:
 
 (1) An analysis and estimate of the time and investment required for new shipbuilders to gain proficiency in particular shipbuilding occupational specialties, including detailed information about the occupational specialty requirements necessary for construction of naval surface ship and submarine classes to be included in the Navy’s 30-year shipbuilding plan.
 
@@ -1417,3 +1485,126 @@ Not later than February 1 of each even-numbered year until 2026, the Secretary o
 (5) An analysis of whether emerging technologies, such as augmented reality, may aid in new shipbuilder training.
 
 (6) Recommendations concerning how to encourage young adults to enter the defense shipbuilding industry and to develop the skills necessary to support the shipbuilding defense industrial base.
+
+(7) An analysis of the potential benefits of multi-year procurement contracting for the stability of the shipbuilding defense industrial base.
+
+**(b) Solicitation and Analysis of Information.—** In order to carry out subsection (a)(2), the Secretary of the Navy and Secretary of Labor shall—
+
+(1) solicit information regarding the age demographics and occupational experience level from the private shipyards of the shipbuilding defense industrial base; and
+
+(2) analyze such information for findings relevant to carrying out subsection (a)(2), including findings related to the current and projected defense shipbuilding workforce, current and projected labor needs, and the readiness of the current and projected workforce to supply the proficiencies analyzed in subsection (a)(1).
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 8693, act Aug. 10, 1956, ch. 1041, 70A Stat. 538, provided for replacement of a lost or destroyed certificate of discharge from Air Force, prior to repeal by Pub. L. 90–235, § 7(a)(3), Jan. 2, 1968, 81 Stat. 763. See [section 1040 of this title](./chapter-053-miscellaneous-rights-and-benefits.md#section-1040).
+
+#### Amendments
+2021—Pub. L. 117–81, § 1015(a), renumbered [section 8692 of this title](./chapter-863-naval-vessels.md#section-8692), as added by section 1026(a) of Pub. L. 116–283, as this section.
+
+Pub. L. 117–81, § 1015(b)(1), (3), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
+Subsec. (a)(7). Pub. L. 117–81, § 1015(b)(2), added par. (7).
+
+
+<a id="section-8694"></a>
+## § 8694. Annual report on ship maintenance
+**(a) Report Required.—** Not later than October 15 of each year, the Secretary of the Navy shall submit to the Committees on Armed Services of the Senate and House of Representatives a report setting forth each of the following:
+
+(1) A description of all ship maintenance planned for the fiscal year during which the report is submitted, by hull.
+
+(2) The estimated cost of the maintenance described pursuant to paragraph (1).
+
+(3) A summary of all ship maintenance conducted by the Secretary during the previous fiscal year.
+
+(4) A detailed description of any ship maintenance that was deferred during the previous fiscal year, including specific reasons for the delay or cancellation of any availability.
+
+(5) A detailed description of the effect of each of the planned ship maintenance actions that were delayed or cancelled during the previous fiscal year, including—
+
+  (A) a summary of the effects on the costs and schedule for each delay or cancellation; and
+
+  (B) the accrued operational and fiscal cost of all the deferments over the fiscal year.
+
+**(b) Form of Report.—** Each report submitted under subsection (a) shall be submitted in unclassified form and made publicly available on an appropriate internet website in a searchable format, but may contain a classified annex.
+
+
+<a id="section-8695"></a>
+## § 8695. Navy battle force ship assessment and requirement reporting
+**(a) In General.—** Not later than 180 days after the date on which a covered event occurs, the Chief of Naval Operations shall submit to the congressional defense committees a battle force ship assessment and requirement.
+
+**(b) Assessment.—** Each assessment required by subsection (a) shall include the following:
+
+(1) A review of the strategic guidance of the Federal Government, the Department of Defense, and the Navy for identifying priorities, missions, objectives, and principles, in effect as of the date on which the assessment is submitted, that the force structure of the Navy must follow.
+
+(2) An identification of the steady-state demand for maritime security and security force assistance activities.
+
+(3) An identification of the force options that can satisfy the steady-state demands for activities required by theater campaign plans of combatant commanders.
+
+(4) A force optimization analysis that produces a day-to-day global posture required to accomplish peacetime and steady-state tasks assigned by combatant commanders.
+
+(5) A modeling of the ability of the force to fight and win scenarios approved by the Department of Defense.
+
+(6) A calculation of the number and global posture of each force element required to meet steady-state presence demands and warfighting response timelines.
+
+**(c) Requirement.—**
+
+(1) Each requirement required by subsection (a) shall—
+
+  (A) be based on the assessment required by subsection (b); and
+
+  (B) identify, for each of the fiscal years that are five, 10, 15, 20, 25, and 30 years from the date of the covered event—
+
+    (i) the total number of battle force ships required;
+
+    (ii) the number of battle force ships required in each of the categories described in paragraph (2);
+
+    (iii) the classes of battle force ships included in each of the categories described in paragraph (2); and
+
+    (iv) the number of battle force ships required in each class.
+
+(2) The categories described in this paragraph are the following:
+
+  (A) Aircraft carriers.
+
+  (B) Large surface combatants.
+
+  (C) Small surface combatants.
+
+  (D) Amphibious warfare ships.
+
+  (E) Attack submarines.
+
+  (F) Ballistic missile submarines.
+
+  (G) Combat logistics force.
+
+  (H) Expeditionary fast transport.
+
+  (I) Expeditionary support base.
+
+  (J) Command and support.
+
+  (K) Other.
+
+**(d) Definitions.—** In this section:
+
+(1) The term “battle force ship” means the following:
+
+  (A) A commissioned United States Ship warship capable of contributing to combat operations.
+
+  (B) A United States Naval Ship that contributes directly to Navy warfighting or support missions.
+
+(2) The term “covered event” means a significant change to any of the following:
+
+  (A) Strategic guidance that results in changes to theater campaign plans or warfighting scenarios.
+
+  (B) Strategic laydown of vessels or aircraft that affects sustainable peacetime presence or warfighting response timelines.
+
+  (C) Operating concepts, including employment cycles, crewing constructs, or operational tempo limits, that affect peacetime presence or warfighting response timelines.
+
+  (D) Assigned missions that affect the type or quantity of force elements.
+
+### Statutory Notes
+
+#### Baseline Assessment and Requirement Required
+Pub. L. 117–81, div. A, title X, § 1017(c), Dec. 27, 2021, 135 Stat. 1897, provided that: “The date of the enactment of this Act [Dec. 27, 2021] is deemed to be a covered event for the purposes of establishing a baseline battle force ship assessment and requirement under [section 8695 of title 10](./chapter-863-naval-vessels.md#section-8695), United States Code, as added by subsection (a) [enacting this section].”

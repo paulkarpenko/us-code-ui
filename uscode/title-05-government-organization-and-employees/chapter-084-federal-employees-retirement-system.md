@@ -2692,19 +2692,13 @@ Pub. L. 101–335, § 2(b), July 17, 1990, 104 Stat. 320, provided that: “The 
 
 (2)
 
-  (A) An employee to whom this section applies may elect, for purposes of section 8433(d), or paragraph (1) or (2) of section 8433(h),11 See References in Text note below. as the case may be, to have such employee’s separation (described in subsection (a)(1)) treated as if it had never occurred.
+  (A) An employee to whom this section applies may elect, for purposes of subsection (d) or (f) of section 8433, as the case may be, to have such employee’s separation (described in subsection (a)(1)) treated as if it had never occurred.
 
   (B) An election under this paragraph shall be made within such period of time after restoration or reemployment (as the case may be) and otherwise in such manner as the Executive Director prescribes.
 
 **(i)** The Executive Director shall prescribe regulations to carry out this section.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (h)(2)(A)
-Pub. L. 115–84, § 2(e), (g), Nov. 17, 2017, 131 Stat. 1273, provided that, effective on the date on which the regulations prescribed under section 2(f) of Pub. L. 115–84 (set out as a note under [section 8433 of this title](./chapter-084-federal-employees-retirement-system.md#section-8433)) take effect, subsection (h)(2)(A) of this section is amended by striking “section 8433(d), or paragraph (1) or (2) of section 8433(h)” and inserting “subsection (d) or (f) of section 8433”. See 2017 Amendment note below.
-
-#### References in Text
-Section 8433(h), referred to in subsec. (h)(2)(A), was redesignated section 8433(f) by Pub. L. 103–226, § 9(b)(2), Mar. 30, 1994, 108 Stat. 119.
 
 #### Amendments
 2017—Subsec. (h)(2)(A). Pub. L. 115–84 substituted “subsection (d) or (f) of section 8433” for “section 8433(d), or paragraph (1) or (2) of section 8433(h)”.
@@ -2716,7 +2710,7 @@ Section 8433(h), referred to in subsec. (h)(2)(A), was redesignated section 8433
 Subsec. (c). Pub. L. 106–65, § 661(a)(3)(C), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
 
 #### Effective Date of 2017 Amendment
-Pub. L. 115–84, § 2(g), Nov. 17, 2017, 131 Stat. 1273, provided that: “The amendments made by this section [amending this section and [section 8433 of this title](./chapter-084-federal-employees-retirement-system.md#section-8433)] shall take effect on the date on which the regulations prescribed under subsection (f) [section 2(f) of Pub. L. 115–84, set out as a Regulations note under [section 8433 of this title](./chapter-084-federal-employees-retirement-system.md#section-8433)] take effect.”
+Pub. L. 115–84, § 2(g), Nov. 17, 2017, 131 Stat. 1273, provided that: “The amendments made by this section [amending this section and [section 8433 of this title](./chapter-084-federal-employees-retirement-system.md#section-8433)] shall take effect on the date on which the regulations prescribed under subsection (f) [section 2(f) of Pub. L. 115–84, set out as a Regulations note under [section 8433 of this title](./chapter-084-federal-employees-retirement-system.md#section-8433)] take effect [Sept. 15, 2019; see 84 FR 46419].”
 
 #### Effective Date of 2015 Amendment; Implementation
 Amendment by Pub. L. 114–92 effective Jan. 1, 2018, with certain implementation requirements, see section 635 of Pub. L. 114–92, set out as a note under [section 8432 of this title](./chapter-084-federal-employees-retirement-system.md#section-8432).
@@ -2823,7 +2817,7 @@ Section 402A of the Internal Revenue Code of 1986, referred to in subsec. (a), i
 
 **(c)**
 
-(1) In addition to the right provided under subsection (b) to withdraw the balance of the account, an employee or Member who separates from Government service and who has not made a withdrawal under subsection (h)(1)(A) may make one withdrawal of any amount as a single payment in accordance with subsection (b)(2) from the employee’s or Member’s account.
+(1) In addition to the right provided under subsection (b) to withdraw the balance of the account, an employee or Member who separates from Government service may make one or more withdrawals of any amount in the same manner as a single payment is made in accordance with subsection (b)(2) from the employee’s or Member’s account.
 
 (2) An employee or Member may request that the amount withdrawn from the Thrift Savings Fund in accordance with subsection (b)(2) be transferred to an eligible retirement plan.
 
@@ -2831,11 +2825,13 @@ Section 402A of the Internal Revenue Code of 1986, referred to in subsec. (a), i
 
 (4) A transfer may not be made for an employee, Member, former employee, or former Member under paragraph (2) until the Executive Director receives from that individual the information required by the Executive Director specifically to identify the eligible retirement plan or plans to which the transfer is to be made.
 
+(5) Withdrawals under this subsection shall be subject to such other limitations or conditions as the Executive Director may prescribe by regulation.
+
 **(d)**
 
-(1) Subject to paragraph (2) and subsections (a) and (c) of [section 8435 of this title](./chapter-084-federal-employees-retirement-system.md#section-8435), an employee or Member may change an election previously made under this subchapter.
+(1) Subject to paragraph (2) and subsections (a) and (c) of [section 8435 of this title](./chapter-084-federal-employees-retirement-system.md#section-8435), an employee or Member may change an election previously made under this subchapter, except that in the case of an election to receive an annuity, a former employee or Member may not change an election under this section on or after the date on which an annuity contract is purchased to provide for the annuity elected by the former employee or Member.
 
-(2) A former employee or Member may not change an election under this section on or after the date on which a payment is made in accordance with such election or, in the case of an election to receive an annuity, the date on which an annuity contract is purchased to provide for the annuity elected by the former employee or Member.
+(2) A former employee or Member may not return a payment that was made pursuant to an election under this section.
 
 **(e)**
 
@@ -2853,15 +2849,7 @@ Section 402A of the Internal Revenue Code of 1986, referred to in subsec. (a), i
 
 (3) The Executive Director shall prescribe regulations to carry out this subsection.
 
-**(f)**
-
-(1) Notwithstanding subsection (b), if an employee or Member separates from Government employment, and such employee’s or Member’s nonforfeitable account balance is less than an amount that the Executive Director prescribes by regulation, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment, unless an election under section 8432b(h)(2) is made to treat such separation for purposes of this paragraph as if it had never occurred.
-
-(2) Unless otherwise elected under this section, and subject to paragraph (1), benefits under this subchapter shall be paid as an annuity commencing for an employee, Member, former employee, or former Member on April 1 of the year following the latest of the year in which—
-
-  (A) the employee, Member, former employee, or former Member becomes 70½ years of age; or
-
-  (B) the employee, Member, former employee, or former Member separates from Government employment.
+**(f)** Notwithstanding subsection (b), if an employee or Member separates from Government employment, and such employee’s or Member’s nonforfeitable account balance is less than an amount that the Executive Director prescribes by regulation, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment, unless an election under section 8432b(h)(2) is made to treat such separation for purposes of this subsection as if it had never occurred.
 
 **(g)**
 
@@ -2881,48 +2869,13 @@ Section 402A of the Internal Revenue Code of 1986, referred to in subsec. (a), i
 
   (B) financial hardship.
 
-(2) A withdrawal under paragraph (1)(A) shall be available to each eligible participant one time only.
-
-(3) A withdrawal under paragraph (1)(B) shall be available only for an amount not exceeding the value of that portion of such account which is attributable to contributions made by the employee or Member.
-
-(4) Withdrawals under paragraph (1) shall be subject to such other conditions as the Executive Director may prescribe by regulation.
-
-(5) A withdrawal may not be made under this subsection unless the requirements of [section 8435(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8435/e&num=0&edition=prelim) are satisfied.
-
-### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 115–84, § 2(a)–(d), (g), Nov. 17, 2017, 131 Stat. 1272, 1273, made a number of amendments to this section, effective on the date on which the regulations prescribed under section 2(f) of Pub. L. 115–84 (set out as a Regulations note below) take effect. After such effective date, subsections (c), (d), (f), and (h) of this section will read as follows:
-
-(c)(1) In addition to the right provided under subsection (b) to withdraw the balance of the account, an employee or Member who separates from Government service may make one or more withdrawals of any amount in the same manner as a single payment is made in accordance with subsection (b)(2) from the employee’s or Member’s account.
-
-(2) An employee or Member may request that the amount withdrawn from the Thrift Savings Fund in accordance with subsection (b)(2) be transferred to an eligible retirement plan.
-
-(3) The Executive Director shall make each transfer elected under paragraph (2) directly to an eligible retirement plan or plans (as defined in section 402(c)(8) of the Internal Revenue Code of 1986) identified by the employee, Member, former employee, or former Member for whom the transfer is made.
-
-(4) A transfer may not be made for an employee, Member, former employee, or former Member under paragraph (2) until the Executive Director receives from that individual the information required by the Executive Director specifically to identify the eligible retirement plan or plans to which the transfer is to be made.
-
-(5) Withdrawals under this subsection shall be subject to such other limitations or conditions as the Executive Director may prescribe by regulation.
-
-(d)(1) Subject to paragraph (2) and subsections (a) and (c) of [section 8435 of this title](./chapter-084-federal-employees-retirement-system.md#section-8435), an employee or Member may change an election previously made under this subchapter, except that in the case of an election to receive an annuity, a former employee or Member may not change an election under this section on or after the date on which an annuity contract is purchased to provide for the annuity elected by the former employee or Member.
-
-(2) A former employee or Member may not return a payment that was made pursuant to an election under this section.
-
-(f) Notwithstanding subsection (b), if an employee or Member separates from Government employment, and such employee’s or Member’s nonforfeitable account balance is less than an amount that the Executive Director prescribes by regulation, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment, unless an election under section 8432b(h)(2) is made to treat such separation for purposes of this subsection as if it had never occurred.
-
-(h)(1) An employee or Member may apply, before separation, to the Board for permission to withdraw an amount from the employee’s or Member’s account based upon—
-
-(A) the employee or Member having attained age 59½; or
-
-(B) financial hardship.
-
 (2) A withdrawal under paragraph (1)(B) shall be available only for an amount not exceeding the value of that portion of such account which is attributable to contributions made by the employee or Member.
 
 (3) Withdrawals under paragraph (1) shall be subject to such other limitations or conditions as the Executive Director may prescribe by regulation.
 
 (4) A withdrawal may not be made under this subsection unless the requirements of [section 8435(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8435/e&num=0&edition=prelim) are satisfied.
 
-See 2017 Amendment notes below.
+### Statutory Notes
 
 #### References in Text
 Sections 72(p) and 402(c)(8) of the Internal Revenue Code of 1986, referred to in subsecs. (c)(3) and (g)(3), are classified to sections 72(p) and 402(c)(8), respectively, of Title 26, Internal Revenue Code.
@@ -3076,6 +3029,8 @@ Amendment by section 6(a)(2) of Pub. L. 101–335 effective as of second electio
 
 #### Regulations
 Pub. L. 115–84, § 2(f), Nov. 17, 2017, 131 Stat. 1273, provided that: “As soon as is practicable, as determined by the Executive Director of the Federal Retirement Thrift Investment Board, but not later than 2 years after the date of enactment of this Act [Nov. 17, 2017], the Executive Director shall prescribe such regulations as are necessary to carry out the amendments made by this section [amending this section and [section 8432b of this title](./chapter-084-federal-employees-retirement-system.md#section-8432b)].”
+
+[Regulations referred to by section 2(f) of Pub. L. 115–84, set out above, effective Sept. 15, 2019; see section 2(g) of Pub. L. 115–84, set out as an Effective Date of 2017 Amendment note under [section 8432b of this title](./chapter-084-federal-employees-retirement-system.md#section-8432b).]
 
 Pub. L. 101–335, § 6(b)(4), July 17, 1990, 104 Stat. 324, provided that: “The Executive Director (as appointed under [section 8474(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8474/a&num=0&edition=prelim), United States Code) shall prescribe regulations under which the purposes of the amendments made by this section [amending this section and sections 8351, 8401, 8435, 8440a, and 8440b of this title] shall be carried out with respect to any individuals participating in the Thrift Savings Plan who would not otherwise be affected by this section.”
 

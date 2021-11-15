@@ -2,12 +2,12 @@
 title: 10
 chapter: '951'
 heading: TRAINING GENERALLY
-section_count: 13
+section_count: 14
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
 <a id="section-9401"></a>
-## § 9401. Members of Air Force and Space Force: detail as students, observers and investigators at educational institutions, industrial plants, and hospitals
+## § 9401. Members of Air Force and Space Force: detail as students, observers, and investigators at educational institutions, industrial plants, and hospitals
 **(a)** The Secretary of the Air Force may detail members of the Air Force and members of the Space Force as students at such technical, professional, and other civilian educational institutions, or as students, observers, or investigators at such industrial plants, hospitals, and other places, as are best suited to enable them to acquire knowledge or experience in the specialties in which it is considered necessary that they perfect themselves.
 
 **(b)** An officer, other than one of the Regular Air Force or the Regular Space Force on the active-duty list, who is detailed under subsection (a) shall be ordered to additional active duty immediately upon termination of the detail, for a period at least as long as the detail. However, if the detail is for 90 days or less, the officer may be ordered to that additional duty only with his consent and in the discretion of the Secretary.
@@ -45,7 +45,9 @@ In subsection (f), the last sentence is substituted for 5:626q (words within par
 In subsection (g), the words “under this section” are substituted for 5:626r (9th through 41st words).
 
 #### Amendments
-2021—Pub. L. 116–283, § 923(d)(1)(C), substituted “Members of Air Force and Space Force: detail as students, observers and investigators at educational institutions, industrial plants, and hospitals” for “Members of Air Force: detail as students, observers, and investigators at educational institutions, industrial plants, and hospitals” in section catchline.
+2021—Pub. L. 117–81 inserted a comma after “observers” in section catchline.
+
+Pub. L. 116–283, § 923(d)(1)(C), substituted “Members of Air Force and Space Force: detail as students, observers and investigators at educational institutions, industrial plants, and hospitals” for “Members of Air Force: detail as students, observers, and investigators at educational institutions, industrial plants, and hospitals” in section catchline.
 
 Subsec. (a). Pub. L. 116–283, § 923(d)(1)(A)(i), inserted “and members of the Space Force” after “members of the Air Force”.
 
@@ -55,7 +57,7 @@ Subsec. (c). Pub. L. 116–283, § 923(d)(1)(A)(iii), (B), inserted “or Reserv
 
 Subsec. (e). Pub. L. 116–283, § 923(d)(1)(A)(iv), inserted “or the Space Force” after “Air Force”.
 
-Subsec. (f). Pub. L. 116–283, § 923(d)(1)(A)(v)(II), which directed amendment of subsec. (f) by inserting “or the Space Force Reserve” after “the reserve components of the Air Force”, was executed by making the insertion after “the total of reserve components of the Air Force” to reflect the probable intent of Congress.
+Subsec. (f). Pub. L. 116–283, § 923(d)(1)(A)(v)(II), which directed amendment by inserting “or the Space Force Reserve” after “the reserve components of the Air Force”, was executed by making the insertion after “the total of reserve components of the Air Force” to reflect the probable intent of Congress.
 
 Pub. L. 116–283, § 923(d)(1)(A)(v)(I), inserted “or the Regular Space Force” after “Regular Air Force”.
 
@@ -77,7 +79,7 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. 
 
 
 <a id="section-9402"></a>
-## § 9402. Enlisted members Air Force or Space Force: schools
+## § 9402. Enlisted members of Air Force or Space Force: schools
 **(a)** So far as consistent with the requirements of military training and service, and under regulations to be prescribed by the Secretary of the Air Force with the approval of the President, enlisted members of the Air Force and enlisted members of the Space Force shall be permitted to study and receive instruction to increase their military efficiency and to enable them to return to civilian life better equipped for industrial, commercial, and business occupations. Part of this instruction may be vocational education in agriculture or the mechanic arts. Civilian teachers may be employed to aid Air Force officers and Space Force officers in this instruction.
 
 **(b)** Schools for the instruction of enlisted members of the Air Force or the Space Force in the common branches of education, including United States history, shall be maintained at all air bases at which members of the Air Force or the Space Force are stationed. The Secretary may detail members of the Air Force or the Space Force to carry out this subsection. The commander of each air base where schools are maintained under this subsection shall provide a suitable room or building for school and religious purposes.
@@ -95,7 +97,9 @@ In subsection (a), the first 12 words are substituted for 10:1176 (1st 5, and la
 In subsection (b), the words “garrisons, and permanent camps” are omitted as covered by the word “posts”. The word “including” is substituted for the words “and especially in”. The word “members” is substituted for the words “officers and enlisted men”. The words “as may be necessary”, “It * * * be the duty”, and “or garrison” are omitted as surplusage.
 
 #### Amendments
-2021—Pub. L. 116–283, § 923(d)(2)(B), amended section catchline generally. Prior to amendment, catchline read as follows: “Enlisted members of Air Force: schools”.
+2021—Pub. L. 117–81 substituted “Enlisted members of Air Force or Space Force: schools” for “Enlisted members Air Force or Space Force: schools” in section catchline.
+
+Pub. L. 116–283, § 923(d)(2)(B), amended section catchline generally. Prior to amendment, catchline read as follows: “Enlisted members of Air Force: schools”.
 
 Subsec. (a). Pub. L. 116–283, § 923(d)(2)(A)(i), inserted “and enlisted members of the Space Force” after “members of the Air Force” and “and Space Force officers” after “Air Force officers”.
 
@@ -213,6 +217,12 @@ Prior sections 9411 to 9413 were renumbered sections 9481 to 9483 of this title,
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 
+<a id="section-9413"></a>
+## § 9413. United States Air Force Institute of Technology: establishment
+
+There is in the Department of the Air Force a United States Air Force Institute of Technology, the purposes of which are to perform research and to provide, to members of the Air Force and Space Force (including the reserve components) and civilian employees of such Department, advanced instruction and technical education regarding their duties.
+
+
 <a id="section-9414"></a>
 ## § 9414. Degree granting authority for United States Air Force Institute of Technology
 **(a) Authority.—** Under regulations prescribed by the Secretary of the Air Force, the commander of the Air University may, upon the recommendation of the faculty of the United States Air Force Institute of Technology, confer appropriate degrees upon graduates of the United States Air Force Institute of Technology who meet the degree requirements.
@@ -318,7 +328,7 @@ Subsecs. (a), (b). Pub. L. 99–145, § 504(a)(1), designated existing provision
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 2008 Amendment
-Amendment by section 543(h)(1) of Pub. L. 110–417 applicable to any degree granting authority established, modified, or redesignated on or after Oct. 14, 2008, for an institution of professional military education referred to in such amendment, see section 543(j) of Pub. L. 110–417, set out as a note under [section 2161 of this title](./chapter-108-department-of-defense-schools.md#section-2161).
+Amendment by section 543(h)(1) of Pub. L. 110–417 applicable to any degree granting authority established, modified, or redesignated on or after Oct. 14, 2008, for an institution of professional military education referred to in such amendment, see section 543(j) of Pub. L. 110–417, set out as a note under [section 2163 of this title](./chapter-108-department-of-defense-schools.md#section-2163).
 
 #### Effective Date of 1990 Amendment
 Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under [section 5301 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5301&num=0&edition=prelim), Government Organization and Employees.
@@ -497,7 +507,7 @@ Subsec. (b)(1). Pub. L. 116–283, § 923(d)(6)(B)(i), inserted “or the Space 
 
 Subsec. (b)(2). Pub. L. 116–283, § 923(d)(6)(B)(ii), substituted “other than the Air Force or the Space Force who are serving as instructors at Department of the Air Force training schools.” for “other than the Air Force who are serving as instructors at Air Force training schools.”
 
-Subsec. (b)(3). Pub. L. 116–283, § 923(d)(6)(B)(iii), which directed amendment of par. (3) by inserting “or the Space Force” after “Air Force”, was executed by making the insertion after “Air Force” first place appearing to reflect the probable intent of Congress.
+Subsec. (b)(3). Pub. L. 116–283, § 923(d)(6)(B)(iii), which directed amendment of par. (3) by inserting “or the Space Force” after “Air Force”, was executed by making the insertion after “Air Force” the first place appearing to reflect the probable intent of Congress.
 
 2019—Subsec. (b)(3). Pub. L. 116–92 added par. (3).
 
@@ -595,7 +605,7 @@ Subsec. (a). Pub. L. 106–65, § 543(a), amended heading and text of subsec. (a
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 2008 Amendment
-Amendment by Pub. L. 110–417 applicable to any degree granting authority established, modified, or redesignated on or after Oct. 14, 2008, for an institution of professional military education referred to in such amendment, see section 543(j) of Pub. L. 110–417, set out as a note under [section 2161 of this title](./chapter-108-department-of-defense-schools.md#section-2161).
+Amendment by Pub. L. 110–417 applicable to any degree granting authority established, modified, or redesignated on or after Oct. 14, 2008, for an institution of professional military education referred to in such amendment, see section 543(j) of Pub. L. 110–417, set out as a note under [section 2163 of this title](./chapter-108-department-of-defense-schools.md#section-2163).
 
 #### Effective Date
 Pub. L. 103–337, div. A, title IX, § 913(b), Oct. 5, 1994, 108 Stat. 2828, provided that: “The authority provided by section 9317(a) [now 9417(a)] of title 10, United States Code, as added by subsection (a), shall become effective on the date on which the Secretary of Education determines that the requirements established by the School of Advanced Airpower Studies of the Air University for the degree of master of airpower art and science are in accordance with generally applicable requirements for a degree of master of arts or a degree of master of science.”

@@ -270,7 +270,7 @@ Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as
 
   (B) The actual or estimated cost of shrinkage, spoilage, and pilferage of merchandise under the control of commissary stores.
 
-**(f) Procurement of Commercial Products Using Procedures Other Than Competitive Procedures.—** The Secretary of Defense may use the exception provided in [section 2304(c)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304/c/5&num=0&edition=prelim) for the procurement of any commercial product (including brand-name and generic items) for resale in, at, or by commissary stores.
+**(f) Procurement of Commercial Products Using Procedures Other Than Competitive Procedures.—** The Secretary of Defense may use the exception provided in [section 3204(a)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3204/a/5&num=0&edition=prelim) for the procurement of any commercial product (including brand-name and generic items) for resale in, at, or by commissary stores.
 
 **(g) Special Rules for Certain Merchandise.—**
 
@@ -316,6 +316,16 @@ Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as
 
   (E) Fees paid by sources of products in order to obtain favorable display of the products for resale, known as business related management fees.
 
+  (F) Amounts made available for any purpose set forth in paragraph (1) pursuant to an agreement with a host nation.
+
+  (G) Amounts appropriated for repair or reconstruction of a commissary store in response to a disaster or emergency.
+
+(6) Revenues made available under paragraph (5) for the purposes set forth in paragraphs (1), (2), and (3) may be supplemented with additional funds derived from—
+
+  (A) improved management practices implemented pursuant to sections 2481(c)(3), 2485(b), and 2487(c) of this title; and
+
+  (B) the variable pricing program implemented pursuant to subsection (i).
+
 **(i) Variable Pricing Program.—**
 
 (1) Notwithstanding subsection (e), and subject to subsection (k), the Secretary of Defense may establish a variable pricing program pursuant to which prices may be established in response to market conditions and customer demand, in accordance with the requirements of this subsection. Notwithstanding the amount of the uniform surcharge assessed in subsection (d), the Secretary may provide for an alternative surcharge of not more than five percent of sales proceeds under the variable pricing program to be made available for the purposes specified in subsection (h).
@@ -360,9 +370,6 @@ Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as
 
 ### Statutory Notes
 
-#### Amendment of Section
-Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, except as otherwise provided in title XVIII of Pub. L. 116–283, in title 10, United States Code, each reference in the text of such title to a source section that is redesignated by title XVIII of Pub. L. 116–283, is amended by striking such reference and inserting a reference to the appropriate section as so redesignated. See 2021 Amendment note below.
-
 #### References in Text
 The date of the enactment of this subsection, referred to in subsec. (j)(3)(C), is the date of enactment of Pub. L. 114–328, which was approved Dec. 23, 2016.
 
@@ -371,6 +378,10 @@ A prior section 2484 was renumbered [section 2483 of this title](./chapter-147-c
 
 #### Amendments
 2021—Subsec. (f). Pub. L. 116–283 substituted “section 3204(a)(5)” for “section 2304(c)(5)”.
+
+Subsec. (h)(5)(F), (G). Pub. L. 117–81, § 631(1), added subpars. (F) and (G).
+
+Subsec. (h)(6). Pub. L. 117–81, § 631(2), added par. (6).
 
 2018—Subsec. (f). Pub. L. 115–232 substituted “Commercial Products” for “Commercial Items” in heading and substituted “commercial product” for “commercial item” in text.
 
@@ -832,7 +843,7 @@ Subsec. (c). Pub. L. 112–239, § 651(a), struck out subsec. (c). Text read as 
 ### Statutory Notes
 
 #### Prior Provisions
-A prior section 2491 was renumbered [section 2500 of this title](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2500).
+A prior section 2491 was renumbered [section 4801 of this title](./chapter-381-defense-industrial-base-generally.md#section-4801).
 
 #### Amendments
 2004—Pub. L. 108–375 renumbered [section 2494 of this title](./chapter-147-commissaries-and-exchanges-and-other-morale-welfare-and-recreation-activities.md#section-2494) as this section.
@@ -968,7 +979,7 @@ Pub. L. 111–84, div. A, title VI, § 651(c), Oct. 28, 2009, 123 Stat. 2369, pr
 
     (i) The primary next of kin of a member of the armed forces who dies while located or serving overseas.
 
-    (ii) Other family members of the deceased member who are eligible for transportation under [section 481f(d) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section481f/d&num=0&edition=prelim).
+    (ii) Other family members of the deceased member who are eligible for transportation under section 481f(d) 11 See References in Text note below. of title 37.
 
     (iii) An escort of a family member described in clause (i) or (ii).
 
@@ -991,6 +1002,9 @@ Pub. L. 111–84, div. A, title VI, § 651(c), Oct. 28, 2009, 123 Stat. 2369, pr
 **(f) Base Operating Support.—** The Secretary of a military department may provide base operating support for Fisher Houses associated with facilities of that military department.
 
 ### Statutory Notes
+
+#### References in Text
+[Section 481f of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section481f&num=0&edition=prelim), referred to in subsec. (a)(4)(B)(ii), was repealed by Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767.
 
 #### Amendments
 2015—Subsec. (a)(4)(B)(ii). Pub. L. 114–92 substituted “section 481f(d)” for “section 481f(e)”.

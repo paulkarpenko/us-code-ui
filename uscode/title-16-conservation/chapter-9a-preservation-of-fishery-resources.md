@@ -232,14 +232,15 @@ The Secretary of Commerce is authorized and directed to conduct such fishing exp
 1960—Pub. L. 86–624 substituted “the United States and its island possessions” for “the Territories and island possessions of the United States”.
 
 #### Transfer of Functions
-“Secretary of Commerce” substituted for “Secretary of the Interior, through the United States Fish and Wildlife Service of the Department of the Interior,” in view of: creation of National Oceanic and Atmospheric Administration in Department of Commerce and Office of Administrator of such Administration; abolition of Bureau of Commercial Fisheries in Department of the Interior and Office of Director of such Bureau; transfers of functions, including functions formerly vested by law in Secretary of the Interior or Department of the Interior which were administered through Bureau of Commercial Fisheries or were primarily related to such Bureau, exclusive of certain enumerated functions with respect to Great Lakes fishery research, Missouri River Reservoir research, Gulf Breeze Biological Laboratory, and Trans-Alaska pipeline investigations; and transfer of marine sport fish program of Bureau of Sport Fisheries and Wildlife by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, Government Organization and Employees.
-
 United States Fish and Wildlife Service, consisting of Bureau of Commercial Fisheries and Bureau of Sport Fisheries and Wildlife, succeeded and replaced Fish and Wildlife Service of Department of the Interior under provisions of Fish and Wildlife Act of 1956, as originally provided in section 742b(a) and (d) of this title.
-
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Dogfish Sharks: Research To Control and Eradicate or To Discover Commercial Uses
 Pub. L. 85–887, Sept. 2, 1958, 72 Stat. 1710, directed Secretary of the Interior to prosecute, for a period of not to exceed four years from Sept. 2, 1958, investigations of the abundance and distribution of dogfish sharks, experiments to develop control measures, and a vigorous program for the elimination and eradication or development of economic uses of dogfish shark populations.
+
+#### Transfer of Functions
+“Secretary of Commerce” substituted for “Secretary of the Interior, through the United States Fish and Wildlife Service of the Department of the Interior,” in view of: creation of National Oceanic and Atmospheric Administration in Department of Commerce and Office of Administrator of such Administration; abolition of Bureau of Commercial Fisheries in Department of the Interior and Office of Director of such Bureau; transfers of functions, including functions formerly vested by law in Secretary of the Interior or Department of the Interior which were administered through Bureau of Commercial Fisheries or were primarily related to such Bureau, exclusive of certain enumerated functions with respect to Great Lakes fishery research, Missouri River Reservoir research, Gulf Breeze Biological Laboratory, and Trans-Alaska pipeline investigations; and transfer of marine sport fish program of Bureau of Sport Fisheries and Wildlife by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, Government Organization and Employees.
+
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-758b"></a>
@@ -280,13 +281,13 @@ There is hereby authorized to be appropriated from time to time in fiscal years 
 #### Codification
 Words “personal services, traveling expenses, transportation of things, purchase, maintenance, and operation of motor vehicles, miscellaneous equipment, and supplies, communications, other contractual services, necessary printing locally, and maintenance, repair, improvement, equipment, and operation of vessels and buildings or other structures”, appearing in text, were inserted in place of words “all the classes of expenditures enumerated in the foregoing section”. The “foregoing section” referred to section 5 of Act Aug. 4, 1947, which is set out as a note under this section.
 
+#### Appropriations for Fiscal Year 1947–1948
+Section 5 of act Aug. 4, 1947, authorized appropriation of additional sums for expenses during the fiscal year 1947–1948 to carry out the purposes of sections 758 to 758d of this title.
+
 #### Transfer of Functions
 Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, see note set out under [section 758a of this title](./chapter-9a-preservation-of-fishery-resources.md#section-758a).
 
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Appropriations for Fiscal Year 1947–1948
-Section 5 of act Aug. 4, 1947, authorized appropriation of additional sums for expenses during the fiscal year 1947–1948 to carry out the purposes of sections 758 to 758d of this title.
 
 
 <a id="section-758e"></a>

@@ -1628,7 +1628,7 @@ Par. (5)(A). Pub. L. 92–315, § 1(4), expanded definition of “member” to i
 1970—Pub. L. 91–291 struck out from definition of “active duty” a reference to calls or orders to duty which specify a period of 30 days or less, inserted definitions for “active duty for training” and “inactive duty training”, and, in definition of “uniformed services”, inserted provisions limiting the scope of that term in the case of personnel of the Public Health Service and the Environmental Science Services Administration to the commissioned corps thereof respectively.
 
 #### Change of Name
-Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 402(c)(3) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402/c/3&num=0&edition=prelim), The Public Health and Welfare.
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 204(c)(3) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section204/c/3&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Effective Date of 2005 Amendment
 Amendment by Pub. L. 109–13 effective on the first day of the first month beginning more than 180 days after May 11, 2005, see section 1032(d)(1) of Pub. L. 109–13, set out as an Effective Date note under [section 1980A of this title](./chapter-019-insurance.md#section-1980a).

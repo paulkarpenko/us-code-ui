@@ -30,11 +30,14 @@ Pub. L. 102–138, title I, § 198(c)(2), Oct. 28, 1991, 105 Stat. 691, provided
 
   (B) The Advisory Committee on Historical Diplomatic Documentation shall review records, and shall advise and make recommendations to the Historian concerning all aspects of preparation and publication of the FRUS series, including, in accordance with the procedures contained in [section 4353 of this title](./chapter-53b-foreign-relations-of-the-united-states-historical-series.md#section-4353), the review and selection of records for inclusion in volumes of the series.
 
-(2) Other departments, agencies, and other entities of the United States Government shall cooperate with the Office of the Historian by providing full and complete access to the records pertinent to United States foreign policy decisions and actions and by providing copies of selected records in accordance with the procedures developed under [section 4353 of this title](./chapter-53b-foreign-relations-of-the-united-states-historical-series.md#section-4353), except that no access to any record, and no provision of any copy of a record, shall be required in the case of any record that was prepared less than 26 years before the date of a request for such access or copy made by the Office of the Historian.
+(2) Other departments, agencies, and other entities of the United States Government shall cooperate with the Office of the Historian by providing full and complete access to the records pertinent to United States foreign policy decisions and actions and by providing copies of selected records in accordance with the procedures developed under [section 4353 of this title](./chapter-53b-foreign-relations-of-the-united-states-historical-series.md#section-4353), except that no access to any record, and no provision of any copy of a record, shall be required in the case of any record that was prepared less than 20 years before the date of a request for such access or copy made by the Office of the Historian.
 
 **(b) National Archives and Records Administration** Notwithstanding any other provision of this chapter, the requirement for the National Archives and Records Administration to provide access to, and copies of, records to the Department of State for the FRUS series shall be governed by chapter 21 of title 44, by any agreement concluded between the Department of State and the National Archives and Records Administration, and, in the case of Presidential records, by section 2204 of such title.
 
 ### Statutory Notes
+
+#### Amendments
+2021—Subsec. (a)(2). Pub. L. 117–81 substituted “20” for “26”.
 
 #### Authority of Secretary of State
 Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see [section 2651a of this title](./chapter-038-department-of-state.md#section-2651a) and section 161(d) of Pub. L. 103–236, set out as a note under [section 2651a of this title](./chapter-038-department-of-state.md#section-2651a).
@@ -78,7 +81,7 @@ Except as otherwise provided, Secretary of State to have and exercise any author
 ## § 4354. Declassification of State Department records
 **(a) Deadline for declassification**
 
-(1) Except as provided in subsection (b), each classified record of permanent historical value (as determined by the Secretary of State and the Archivist of the United States) which was published, issued, or otherwise prepared by the Department of State (or any officer or employee thereof acting in an official capacity) shall be declassified not later than 30 years after the record was prepared, shall be transferred to the National Archives and Records Administration, and shall be made available at the National Archives for public inspection and copying.
+(1) Except as provided in subsection (b), each classified record of permanent historical value (as determined by the Secretary of State and the Archivist of the United States) which was published, issued, or otherwise prepared by the Department of State (or any officer or employee thereof acting in an official capacity) shall be declassified not later than 25 years after the record was prepared, shall be transferred to the National Archives and Records Administration, and shall be made available at the National Archives for public inspection and copying.
 
 (2) Nothing in this subsection may be construed to require the declassification of a record wholly prepared by a foreign government.
 
@@ -121,6 +124,8 @@ Except as otherwise provided, Secretary of State to have and exercise any author
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (a)(1). Pub. L. 117–81 substituted “25” for “30”.
+
 2002—Subsec. (d). Pub. L. 107–228, § 205(a), substituted “Annual reports by the Advisory Committee” for “Reporting requirement” in heading and inserted “and to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives” after “Secretary of State” in text.
 
 Subsec. (e). Pub. L. 107–228, § 205(b), substituted “Annual reports by the Secretary” for “Report to Congress” in heading and amended text generally. Prior to amendment, text read as follows: “Not later than 180 days after October 28, 1991, the Secretary of State shall prepare and submit a written report to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate on factors relevant to compliance with this section, and the procedures to be used for implementing the requirements of this section.”

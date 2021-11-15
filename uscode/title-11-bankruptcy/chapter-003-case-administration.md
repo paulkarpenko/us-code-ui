@@ -741,7 +741,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 (2) Deposits into the Chapter 7 Trustee Fund under [section 589a(f)(1)(C) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section589a/f/1/C&num=0&edition=prelim) shall be available until expended for the purposes described in paragraph (3).
 
-(3) For fiscal years 2021 through 2026, the Chapter 7 Trustee Fund shall be available to pay the trustee serving in a case that is filed under chapter 7 or a case that is converted to a chapter 7 case in the most recent fiscal year (referred to in this subsection as a “chapter 7 case”) the amount described in paragraph (4) for the chapter 7 case in which the trustee has rendered services in that fiscal year.
+(3) For fiscal years 2021 through 2026, the Chapter 7 Trustee Fund shall be available to pay the trustee serving in a case that is filed under chapter 7 or a case that is converted to a chapter 7 case in the most recent fiscal year (referred to in this subsection as a “chapter 7 case”) the amount described in paragraph (4) for the chapter 7 case in which the trustee has rendered services.
 
 (4) The amount described in this paragraph shall be the lesser of—
 
@@ -791,6 +791,8 @@ The date of the enactment of the Bankruptcy Reform Act of 1994, referred to in s
 
 #### Amendments
 2021—Subsec. (e). Pub. L. 116–325 added subsec. (e).
+
+Subsec. (e)(3). Pub. L. 117–43 struck out before period at end “in that fiscal year”.
 
 2005—Subsec. (a)(1). Pub. L. 109–8, § 1104(b)(1), inserted “an ombudsman appointed under section 333, or” before “a professional person” in introductory provisions.
 

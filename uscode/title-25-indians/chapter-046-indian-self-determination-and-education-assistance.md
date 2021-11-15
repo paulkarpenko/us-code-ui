@@ -798,6 +798,41 @@ This memorandum is not intended to, and does not, create any right or benefit, s
 
 Barack Obama.
 
+#### Tribal Consultation and Strengthening Nation-to-Nation Relationships
+Memorandum of President of the United States, Jan. 26, 2021, 86 F.R. 7491, provided:
+
+Memorandum for the Heads of Executive Departments and Agencies
+
+American Indian and Alaska Native Tribal Nations are sovereign governments recognized under the Constitution of the United States, treaties, statutes, Executive Orders, and court decisions. It is a priority of my Administration to make respect for Tribal sovereignty and self-governance, commitment to fulfilling Federal trust and treaty responsibilities to Tribal Nations, and regular, meaningful, and robust consultation with Tribal Nations cornerstones of Federal Indian policy. The United States has made solemn promises to Tribal Nations for more than two centuries. Honoring those commitments is particularly vital now, as our Nation faces crises related to health, the economy, racial justice, and climate change—all of which disproportionately harm Native Americans. History demonstrates that we best serve Native American people when Tribal governments are empowered to lead their communities, and when Federal officials speak with and listen to Tribal leaders in formulating Federal policy that affects Tribal Nations.
+
+To this end, Executive Order 13175 of November 6, 2000 (Consultation and Coordination With Indian Tribal Governments) [set out above], charges all executive departments and agencies with engaging in regular, meaningful, and robust consultation with Tribal officials in the development of Federal policies that have Tribal implications. Tribal consultation under this order strengthens the Nation-to-Nation relationship between the United States and Tribal Nations. The Presidential Memorandum of November 5, 2009 (Tribal Consultation) [set out above], requires each agency to prepare and periodically update a detailed plan of action to implement the policies and directives of Executive Order 13175. This memorandum reaffirms the policy announced in that memorandum.
+
+Section 1. Consultation. My Administration is committed to honoring Tribal sovereignty and including Tribal voices in policy deliberation that affects Tribal communities. The Federal Government has much to learn from Tribal Nations and strong communication is fundamental to a constructive relationship. Accordingly, I hereby direct as follows:
+
+(a) The head of each agency shall submit to the Director of the Office of Management and Budget (OMB), within 90 days of the date of this memorandum [Jan. 26, 2021], a detailed plan of actions the agency will take to implement the policies and directives of Executive Order 13175. The plan shall be developed after consultation by the agency with Tribal Nations and Tribal officials as defined in Executive Order 13175.
+
+(b) Each agency’s plan and subsequent reports shall designate an appropriate agency official to coordinate implementation of the plan and preparation of progress reports required by this memorandum. These officials shall submit reports to the Assistant to the President for Domestic Policy (APDP) and the Director of OMB, who will review agency plans and subsequent reports for consistency with the policies and directives of Executive Order 13175.
+
+(c) The head of each agency shall submit to the Director of OMB, within 270 days of the date of this memorandum, and annually thereafter, a progress report on the status of each action included in the agency’s plan, together with any proposed updates to its plan.
+
+(d) The Director of OMB, in coordination with the APDP, shall submit to the President, within 1 year from the date of this memorandum, a report on the implementation of Executive Order 13175 across the executive branch based on the review of agency plans and progress reports. Recommendations for improving the plans and making the Tribal consultation process more effective, if any, should be included in this report.
+
+Sec. 2. Definitions. The terms “Tribal officials,” “policies that have Tribal implications,” and “agency” as used in this memorandum are as defined in Executive Order 13175.
+
+Sec. 3. General Provisions. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Sec. 4. Publication. The Director of OMB is authorized and directed to publish this memorandum in the Federal Register.
+
+J.R. Biden, Jr.
+
 
 <a id="section-5322"></a>
 ## § 5322. Congressional declaration of policy
@@ -1635,7 +1670,7 @@ The Small Business Act, referred to in subsec. (a)(3)(C)(ii)(X), is Pub. L. 85�
 
 Executive Order Nos. 12138, 11246, 11701 and 11758, referred to in subsec. (a)(3)(C)(ii)(XI), are Ex. Ord. No. 12138, May 18, 1979, 44 F.R. 29637, which is set out as a note under [section 631 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section631&num=0&edition=prelim), Commerce and Trade, Ex. Ord. No. 11246, Sept. 24, 1965, 30 F.R. 12319, which is set out as a note under [section 2000e of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000e&num=0&edition=prelim), The Public Health and Welfare, Ex. Ord. No. 11701, Jan. 24, 1973, 38 F.R. 2675, which is set out as a note under [section 4212 of Title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4212&num=0&edition=prelim), Veterans’ Benefits, and Ex. Ord. No. 11758, Jan. 15, 1974, 39 F.R. 2075, which is set out as a note under [section 701 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim), Labor.
 
-This subchapter, referred to in subsecs. (b), (i)(2) and (q)(1), was in the original “this title”, meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to this subchapter (§ 5321 et seq.). For complete classification of title I to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
+This subchapter, referred to in subsecs. (b), (i)(2), and (q)(1), was in the original “this title”, meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to this subchapter (§ 5321 et seq.). For complete classification of title I to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 Section 314 of the Department of the Interior and Related Agencies Appropriations Act, 1991, referred to in subsec. (m)(1)(B), is section 314 of Pub. L. 101–512, which is set out as a note under [section 5321 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321).
 
@@ -3129,7 +3164,7 @@ Subsec. (b)(2). Pub. L. 116–180, § 101(d)(2)(B), substituted “[section 5372
 
 Subsec. (b)(3). Pub. L. 116–180, § 101(d)(2)(C), substituted period for semicolon at end.
 
-Subsec. (b)(4). Pub. L. 116–260, which directed amendment of par. (4) by adding “and” at end of subpar. (A), striking out “and” at end of subpar. (B), and striking out subpar. (C), could not be executed due to intervening amendment by Pub. 116–180, § 101(d)(2)(B)(D). See note below.
+Subsec. (b)(4). Pub. L. 116–260, which directed amendment of par. (4) by adding “and” at end of subpar. (A), striking out “and” at end of subpar. (B), and striking out subpar. (C), could not be executed due to intervening amendment by Pub. 116–180, § 101(d)(2)(D). See note below.
 
 Pub. L. 116–180, § 101(d)(2)(D), struck out par. (4) which read as follows: “prohibit the inclusion of funds provided—
 
@@ -3139,7 +3174,7 @@ Pub. L. 116–180, § 101(d)(2)(D), struck out par. (4) which read as follows: �
 
 “(C) the Flathead Agency Irrigation Division or the Flathead Agency Power Division, except that nothing in this section shall affect the contract authority of such divisions under [section 5321 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321);”.
 
-Subsec. (b)(5) to (9). Pub. L. 116–180, § 101(d)(2)(B)(D), struck out pars. (5) to (9) which set out various requirements and responsibilities related to funding agreements.
+Subsec. (b)(5) to (9). Pub. L. 116–180, § 101(d)(2)(D), struck out pars. (5) to (9) which set out various requirements and responsibilities related to funding agreements.
 
 Subsec. (f). Pub. L. 116–180, § 101(d)(3), struck out “for review” after “Submission” in heading, substituted “such agreement to” for “such agreement to—”, struck out par. (1) designation before “each Indian tribe”, substituted “agreement.” for “agreement;”, and struck out pars. (2) and (3) which read as follows:
 

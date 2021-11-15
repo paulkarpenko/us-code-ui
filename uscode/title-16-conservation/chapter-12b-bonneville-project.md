@@ -58,6 +58,7 @@ Act Mar. 6, 1940, ch. 47, § 1, 54 Stat. 47, cited as a credit to this section, 
 #### Transfer of Functions
 In subsec. (a), “Secretary of Energy” substituted for “Secretary of the Interior” in five places and “Department of Energy” substituted for “Department of the Interior” pursuant to Pub. L. 95–91, § 302(a)(1)(D), (2), which is classified to section 7152(a)(1)(D), (2) of Title 42, The Public Health and Welfare, and which transferred functions of Secretary of the Interior with respect to Bonneville Power Administration to Secretary of Energy, with Bonneville Power Administration to be preserved as a distinct organizational entity within Department of Energy and headed by an Administrator.
 
+#### Transfer of Functions
 Provisions of the second sentence of the second par. of subsec. (a), which related to the advisory board and its composition, were omitted pursuant to Reorg. Plan No. 4 of 1965, §§ 11(c) and 13(a), set out in the Appendix to Title 5, Government Organization and Employees, which abolished the advisory board and transferred its functions, including the functions of the chairman and other officers, to the Secretary of the Interior.
 
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
@@ -115,8 +116,9 @@ Functions of Secretary of the Interior with respect to Bonneville Power Administ
 
 Functions of Secretary of the Interior with respect to Bonneville Power Administration transferred to Secretary of Energy by section 7152(a)(1)(D), (2) of Title 42, with Bonneville Power Administration to be preserved as a distinct organizational entity within Department of Energy and headed by an Administrator.
 
-Federal Power Commission terminated and its functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
+The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
 
+#### Transfer of Functions
 Executive and administrative functions of Federal Power Commission, with certain reservations, transferred to Chairman of such Commission, with authority vested in him to authorize their performance by any officer, employee, or administrative unit under his jurisdiction, by Reorg. Plan No. 9 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out as a note under [section 792 of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-792).
 
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
@@ -137,8 +139,9 @@ Schedules of rates and charges for electric energy produced at the Bonneville pr
 
 Functions of Secretary of the Interior with respect to Bonneville Power Administration transferred to Secretary of Energy by section 7152(a)(1)(D), (2) of Title 42, The Public Health and Welfare, with Bonneville Power Administration to be preserved as a distinct organizational entity within Department of Energy and headed by an Administrator.
 
-Federal Power Commission terminated and its functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
+The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
 
+#### Transfer of Functions
 Executive and administrative functions of Federal Power Commission, with certain reservations, transferred to Chairman of such Commission, with authority vested in him to authorize their performance by any officer, employee, or administrative unit under his jurisdiction, by Reorg. Plan No. 9 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out as a note under [section 792 of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-792).
 
 
@@ -152,7 +155,7 @@ It is the intent of Congress that rate schedules for the sale of electric energy
 #### Transfer of Functions
 “Secretary of Energy” substituted in text for “Federal Power Commission” pursuant to Pub. L. 95–91, § 301(b), which is classified to [section 7151(b) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7151/b&num=0&edition=prelim), The Public Health and Welfare.
 
-Federal Power Commission terminated and its functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
+The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
 
 
 <a id="section-832g"></a>
@@ -190,8 +193,9 @@ Functions of Secretary of the Interior with respect to Bonneville Power Administ
 
 “Federal Energy Regulatory Commission” substituted for “Federal Power Commission” in subsec. (a) pursuant to Pub. L. 95–91, § 402(a)(1)(B), which is classified to [section 7172(a)(1)(B) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7172/a/1/B&num=0&edition=prelim).
 
-Federal Power Commission terminated and its functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
+The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
 
+#### Transfer of Functions
 Executive and administrative functions of Federal Power Commission, with certain reservations, transferred to Chairman of such Commission, with authority vested in him to authorize their performance by any officer, employee, or administrative unit under his jurisdiction, by Reorg. Plan No. 9 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out as a note under [section 792 of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-792).
 
 
@@ -215,19 +219,20 @@ Provisions of the second and fourth sentences of subsec. (b) which authorized th
 
 1945—Act Oct. 23, 1945, added subsecs. (a) and (c), designated existing provisions as subsec. (b), and amended such provisions generally.
 
-#### Repeals
-Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
-
 #### Change of Name
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued military Department of the Army under administrative supervision of Secretary of the Army.
+
+#### Repeals
+Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
 
 #### Transfer of Functions
 “Secretary of Energy” substituted for “Secretary of the Interior” in subsec. (a) pursuant to Pub. L. 95–91, § 302(a)(1)(D), (2), which is classified to section 7152(a)(1)(D), (2) of Title 42, The Public Health and Welfare, which transferred functions of Secretary of the Interior with respect to Bonneville Power Administration to Secretary of Energy, with Bonneville Power Administration to be preserved as a distinct organizational entity within Department of Energy and headed by an Administrator.
 
 “Secretary of Energy” substituted for “Federal Power Commission” in subsec. (b) pursuant to Pub. L. 95–91, § 301(b), which is classified to [section 7151(b) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7151/b&num=0&edition=prelim).
 
-Federal Power Commission terminated and its functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
+The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
 
+#### Transfer of Functions
 Executive and administrative functions of Federal Power Commission, with certain reservations, transferred to Chairman of such Commission, with authority vested in him to authorize their performance by any officer, employee, or administrative unit under his jurisdiction, by Reorg. Plan No. 9 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out as a note under [section 792 of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-792).
 
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
@@ -243,7 +248,7 @@ All receipts from transmission and sale of electric energy generated at the Bonn
 #### Transfer of Functions
 Functions of Secretary of the Interior with respect to Bonneville Power Administration transferred to Secretary of Energy by section 7152(a)(1)(D), (2) of Title 42, The Public Health and Welfare, with Bonneville Power Administration to be preserved as a distinct organizational entity within Department of Energy and headed by an Administrator.
 
-Federal Power Commission terminated and its functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7193 of Title 42.
+The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to Secretary of Energy (except for certain functions transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7193 of Title 42.
 
 
 <a id="section-832k"></a>

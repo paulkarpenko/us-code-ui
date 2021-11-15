@@ -7,104 +7,71 @@ source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33&num=0&edition=prelim
 ---
 <a id="section-1001-to-1011"></a>
-## § 1001 to 1011. Establishment of program
-
-The Secretary of Commerce, acting through the National Sea Grant Office, shall establish a program to provide training, education, outreach, and technical assistance initiatives for young fishermen, to be known as the ‘Young Fishermen’s Development Grant Program’ (referred to in this section 11 So in original. Probably should be “this subchapter”. as the ‘Program’).
+## § 1001 to 1011. Repealed. Pub. L. 96–478, § 12, Oct. 21, 1980, 94 Stat. 2303
 
 ### Statutory Notes
 
-#### Codification
-Section was enacted as part of the Young Fishermen’s Development Act, and not as part of the Marine Resources and Engineering Development Act of 1966 which comprises this chapter.
+Section 1001, Pub. L. 87–167, § 2, Aug. 30, 1961, 75 Stat. 402; Pub. L. 89–551, § 1(2), Sept. 1, 1966, 80 Stat. 372; Pub. L. 89–670, § 6(g)(5), Oct. 15, 1966, 80 Stat. 941; Pub. L. 93–119, § 2(1), Oct. 4, 1973, 87 Stat. 424; Pub. L. 97–449, § 2(e)(1), Jan. 12, 1983, 96 Stat. 2440, defined terms used in this chapter.
+
+Section 1002, Pub. L. 87–167, § 3, Aug. 30, 1961, 75 Stat. 402; Pub. L. 89–551, § 1(3), Sept. 1, 1966, 80 Stat. 373; Pub. L. 93–119, § 2(2), Oct. 4, 1973, 87 Stat. 425, prohibited discharge of oil or oily mixtures, but included certain permissible discharges.
+
+Section 1003, Pub. L. 87–167, § 4, Aug. 30, 1961, 75 Stat. 402; Pub. L. 89–551, § 1(4), Sept. 1, 1966, 80 Stat. 373; Pub. L. 93–119, § 2(3), Oct. 4, 1973, 87 Stat. 425, excepted from the prohibition of [section 1002 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1002&num=0&edition=prelim) discharges relating to securing safety of ship, prevention of damage to ship or cargo, saving life, and resulting from a damaged ship or unavoidable leakage.
+
+Section 1004, Pub. L. 87–167, § 5, Aug. 30, 1961, 75 Stat. 403; Pub. L. 89–551, § 1(5), Sept. 1, 1966, 80 Stat. 374; Pub. L. 93–119, § 2(4), Oct. 4, 1973, 87 Stat. 425, excepted from the prohibition of [section 1002 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1002&num=0&edition=prelim) discharges relating to tanker ballast from cargo tank.
+
+Section 1004a, Pub. L. 87–167, § 6, as added Pub. L. 93–119, § 2(5), Oct. 4, 1973, 87 Stat. 425, provided construction standards for United States tankers, the subsections relating to following subject matter: subsec. (a) tank arrangement and tank size limitation pursuant to provisions of annex C to convention and building contracts placed on or after effective date; subsec. (b) building contracts placed or keel laid before effective date; subsec. (c) domestic tankers without certificate of compliance or exemption prohibited from engaging in domestic or foreign trade; subsec. (d) foreign tankers with foreign registry but without certificate of compliance, consultation with foreign government, and denial of access; subsec. (e) foreign tankers without foreign registry and denial of access.
+
+Section 1005, Pub. L. 87–167, § 7, formerly § 6, Aug. 30, 1961, 75 Stat. 403; renumbered and amended Pub. L. 93–119, § 2(6), Oct. 4, 1973, 87 Stat. 426, related to penalties for violations, the subsections providing for following subject matter: subsec. (a) criminal penalties for willful violations and separate violations; subsec. (b) civil penalties for willful or negligent and other violations and separate violations; subsec. (c) liability of vessel and venue; and subsec. (d) administrative proceedings, assessment of civil penalties, remission, mitigation, or compromise of any penalty, notice and hearing, judicial proceedings, civil actions by Attorney General for collection of penalties, and trial de novo.
+
+Section 1006, Pub. L. 87–167, § 8, formerly § 7, Aug. 30, 1961, 75 Stat. 403; renumbered Pub. L. 93–119, § 2(7), Oct. 4, 1973, 87 Stat. 427, provided for suspension or revocation of license of officers of offending vessels.
+
+Section 1007, Pub. L. 87–167, § 9, formerly § 8, Aug. 30, 1961, 75 Stat. 403; Pub. L. 90–578, title IV, § 402(b)(2), Oct. 17, 1968, 82 Stat. 1118; renumbered and amended Pub. L. 93–119, § 2(8), Oct. 4, 1973, 87 Stat. 427, related to personnel for enforcement of provisions, arrest of offenders and procedure, and ship fittings and equipment.
+
+Section 1008, Pub. L. 87–167, § 10, formerly § 9, Aug. 30, 1961, 75 Stat. 404; Pub. L. 89–551, § 1(6), Sept. 1, 1966, 80 Stat. 374; renumbered and amended Pub. L. 93–119, § 2(9), Oct. 4, 1973, 87 Stat. 427, provided for oil record books, the subsections relating to following subject matter: subsec. (a) printing and regulations of the Secretary; subsec. (b) supplying the books without charge and their inspection and surrender; subsec. (c) operations requiring recordation; subsec. (d) entries and signatures; and subsec. (e) rules and regulations.
+
+Section 1009, Pub. L. 87–167, § 11, formerly § 10, Aug. 30, 1961, 75 Stat. 404; Pub. L. 89–551, § 1(7), Sept. 1, 1966, 80 Stat. 375; renumbered and amended Pub. L. 93–119, § 2(10), Oct. 4, 1973, 87 Stat. 428, authorized the Secretary to promulgate regulations for the administration of specific sections of this chapter.
+
+Section 1010, Pub. L. 87–167, § 12, formerly § 11, Aug. 30, 1961, 75 Stat. 404; renumbered and amended Pub. L. 93–119, § 2(11), Oct. 4, 1973, 87 Stat. 428, related to boarding of ships, production of records, and evidence of violations by foreign ships.
+
+Section 1011, Pub. L. 87–167, § 12, Aug. 30, 1961, 75 Stat. 404; Pub. L. 89–551, § 1(8), Sept. 1, 1966, 80 Stat. 375, specified prohibited zones and provided for reduction or extension of such zones.
+
+#### Effective Date of Repeal
+Repeal effective Oct. 2, 1983, see section 14(a) of Pub. L. 96–478, set out as an Effective Date note under [section 1901 of this title](./chapter-033-prevention-of-pollution-from-ships.md#section-1901).
+
+#### Short Title
+Pub. L. 87–167, § 1, Aug. 30, 1961, 75 Stat. 402, as amended by Pub. L. 89–551, § 1(1), Sept. 1, 1966, 80 Stat. 372, which provided that Pub. L. 87–167 could be cited as the “Oil Pollution Act, 1961, as amended”, was repealed by Pub. L. 96–478, § 12, Oct. 21, 1980, 94 Stat. 2303.
+
+Pub. L. 93–119, § 1, Oct. 4, 1973, 87 Stat. 424, which provided that Pub. L. 93–119 could be cited as the “Oil Pollution Act Amendments of 1973” was repealed by Pub. L. 96–478, § 12, Oct. 21, 1980, 94 Stat. 2303.
+
+#### Savings Provision
+Pub. L. 96–478, § 12(a), Oct. 21, 1980, 94 Stat. 2303, provided in part that any criminal or civil penalty proceeding under this chapter for a violation occurring prior to Oct. 2, 1983, may be initiated or continued to conclusion as though this chapter had not been repealed.
+
+Any rights or liabilities existing on Oct. 2, 1983, not to be affected and any regulations or procedures promulgated or effected pursuant to this chapter to remain in effect until modified or superseded, see section 14(c) of Pub. L. 96–478, set out as a note under [section 1901 of this title](./chapter-033-prevention-of-pollution-from-ships.md#section-1901).
+
+#### Separability
+Pub. L. 87–167, § 14, formerly § 15, Aug. 30, 1961, 75 Stat. 407, renumbered by Pub. L. 93–119, § 2(13), Oct. 4, 1973, 87 Stat. 428, which provided for the separability of the provisions of Pub. L. 87–167, was repealed by Pub. L. 96–478, § 12, Oct. 21, 1980, 94 Stat. 2303.
 
 
 <a id="section-1012"></a>
-## § 1012. Grants
-**(a) In general** In carrying out the Program, the Secretary shall make competitive grants to support new and established local and regional training, education, outreach, and technical assistance initiatives for young fishermen, including programs, workshops, and services relating to—
-
-(1) seamanship, navigation, electronics, and safety;
-
-(2) vessel and engine care, maintenance, and repair;
-
-(3) innovative conservation fishing gear engineering and technology;
-
-(4) sustainable fishing practices;
-
-(5) entrepreneurship and good business practices;
-
-(6) direct marketing, supply chain, and traceability;
-
-(7) financial and risk management, including vessel, permit, and quota purchasing;
-
-(8) State and Federal legal requirements for specific fisheries, including reporting, monitoring, licenses, and regulations;
-
-(9) State and Federal fisheries policy and management;
-
-(10) mentoring, apprenticeships, or internships; and
-
-(11) any other activities, opportunities, or programs, as the Secretary determines appropriate.
-
-**(b) Eligibility**
-
-(1) **Applicants** — To be eligible to receive a grant under the Program, a recipient shall be a collaborative State, Tribal, local, or regionally based network or partnership of public or private entities, which may include—
-
-  (A) a Sea Grant Institution;
-
-  (B) a Federal or State agency or a Tribal organization;
-
-  (C) a community-based nongovernmental organization;
-
-  (D) fishermen’s cooperatives or associations;
-
-  (E) an institution of higher education (including an institution awarding an associate’s degree), or a foundation maintained by an institution of higher education; or
-
-  (F) any other appropriate entity, as the Secretary determines appropriate.
-
-(2) **Participants** — All young fishermen seeking to participate in the commercial fisheries of the United States and the Great Lakes are eligible to participate in the activities funded through grants provided for in this section, except that participants in such activities shall be selected by each grant recipient.
-
-**(c) Maximum term and amount of grant**
-
-(1) **In general** — A grant under this section shall—
-
-  (A) have a term of no more than 3 fiscal years; and
-
-  (B) be in an amount that is not more than $200,000 for each fiscal year.
-
-(2) **Consecutive grants** — An eligible recipient may receive consecutive grants under this section.
-
-**(d) Matching requirement** To be eligible to receive a grant under this section, a recipient shall provide a match in the form of cash or in-kind contributions from the recipient in the amount equal to or greater than 25 percent of the funds provided by the grant.
-
-**(e) Regional balance** In making grants under this section, the Secretary shall, to the maximum extent practicable, ensure geographic diversity.
-
-**(f) Cooperation and evaluation criteria** In carrying out this section and in developing criteria for evaluating grant applications, the Secretary shall consult, to the maximum extent practicable, with—
-
-(1) Sea Grant Institutions and extension agents of such institutions;
-
-(2) community-based nongovernmental fishing organizations;
-
-(3) Federal and State agencies, including Regional Fishery Management Councils established under the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1851](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1851&num=0&edition=prelim) et seq.); 11 See References in Text note below.
-
-(4) institutions of higher education with fisheries expertise and programs; and
-
-(5) partners, as the Secretary determines.
-
-**(g) Prohibition** A grant under this section may not be used to purchase any fishing license, permit, quota, or other harvesting right.
+## § 1012. Repealed. Pub. L. 89–551, § 1(9), Sept. 1, 1966, 80 Stat. 375
 
 ### Statutory Notes
 
-#### References in Text
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (f)(3), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of Title 16, Conservation. Title III of the Act is classified generally to subchapter IV (§ 1851 et seq.) of chapter 38 of Title 16. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1801&num=0&edition=prelim) and Tables.
-
-#### Codification
-Section was enacted as part of the Young Fishermen’s Development Act, and not as part of the Marine Resources and Engineering Development Act of 1966 which comprises this chapter.
+Section, Pub. L. 87–167, § 13, Aug. 30, 1961, 75 Stat. 405, set out the form and required entries for the oil record book.
 
 
 <a id="section-1013-to-1016"></a>
-## § 1013 to 1016. Funding
-**(a) Authorizations** There are authorized to be appropriated to carry out this subchapter $2,000,000 for each of fiscal years 2022 through 2026.
-
-**(b) Derivation** Funds to carry out the activities under this subchapter shall be derived from amounts authorized to be appropriated pursuant to the preceding subsection that are enacted after January 5, 2021.
+## § 1013 to 1016. Repealed. Pub. L. 96–478, § 12, Oct. 21, 1980, 94 Stat. 2303
 
 ### Statutory Notes
 
-#### Codification
-Section was enacted as part of the Young Fishermen’s Development Act, and not as part of the Marine Resources and Engineering Development Act of 1966 which comprises this chapter.
+Section 1013, Pub. L. 87–167, § 13, formerly § 14, Aug. 30, 1961, 75 Stat. 407; renumbered Pub. L. 93–119, § 2(13), Oct. 4, 1973, 87 Stat. 428, authorized appropriations to carry out this chapter.
+
+Section 1014, Pub. L. 87–167, § 15, formerly § 16, Aug. 30, 1961, 75 Stat. 407; renumbered and amended Pub. L. 93–119, § 2(14), Oct. 4, 1973, 87 Stat. 428, related to effect of this chapter on [section 1321 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1321) and [section 89 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section89&num=0&edition=prelim), Coast Guard.
+
+Section 1015, Pub. L. 87–167, § 17, Aug. 30, 1961, 75 Stat. 407; Pub. L. 89–551, § 1(10), Sept. 1, 1966, 80 Stat. 375, specified the effective date of this chapter and provided savings provision for rights, liabilities, procedures, or regulations existing on the effective date of this chapter. Pub. L. 93–119, § 2(15), Oct. 4, 1973, 87 Stat. 428, which provided for the repeal of this section was repealed by section 12 of Pub. L. 96–478.
+
+Section 1016, Pub. L. 93–119, § 3, Oct. 4, 1973, 87 Stat. 428, provided effective date of 1973 amendments to this chapter by Pub. L. 93–119, the subsections covering the following subject matter: subsec. (a) general effective date; subsec. (b) savings provision; and subsec. (c) effective date of section 1004(d) and (e) of this title.
+
+#### Effective Date of Repeal
+Repeal effective Oct. 2, 1983, see section 14(a) of Pub. L. 96–478, set out as an Effective Date note under [section 1901 of this title](./chapter-033-prevention-of-pollution-from-ships.md#section-1901).

@@ -208,9 +208,17 @@ Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88
 
   (B) that in transporting passengers over a route between a place in a State and a place in another State, or between a place in a State and another place in the same State through another State, the transportation is exempt from jurisdiction under this part only if the motor carrier operating the motor vehicle also is lawfully providing intrastate transportation of passengers over the entire route under the laws of each State through which the route runs;
 
-(2) transportation by motor vehicle provided casually, occasionally, or reciprocally but not as a regular occupation or business, except when a broker or other person sells or offers for sale passenger transportation provided by a person authorized to transport passengers by motor vehicle under an application pending, or registration issued, under this part; or
+(2) transportation by motor vehicle provided casually, occasionally, or reciprocally but not as a regular occupation or business, except when a broker or other person sells or offers for sale passenger transportation provided by a person authorized to transport passengers by motor vehicle under an application pending, or registration issued, under this part;
 
-(3) the emergency towing of an accidentally wrecked or disabled motor vehicle.
+(3) the emergency towing of an accidentally wrecked or disabled motor vehicle; or
+
+(4) transportation by a motor vehicle designed or used to transport not fewer than 9, and not more than 15, passengers (including the driver), whether operated alone or with a trailer attached for the transport of recreational equipment, if—
+
+  (A) the motor vehicle is operated by a person that provides recreational activities;
+
+  (B) the transportation is provided within a 150 air-mile radius of the location at which passengers initially boarded the motor vehicle at the outset of the trip; and
+
+  (C) in the case of a motor vehicle transporting passengers over a route between a place in a State and a place in another State, the person operating the motor vehicle is lawfully providing transportation of passengers over the entire route in accordance with applicable State law.
 
 ### Statutory Notes
 
@@ -224,6 +232,8 @@ Section 13904(d), referred to in subsec. (a)(14), was redesignated section 13904
 Provisions similar to those in this section were contained in [section 10526 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section10526&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
 #### Amendments
+2021—Subsec. (b)(4). Pub. L. 117–58 added par. (4).
+
 2015—Subsec. (a)(16). Pub. L. 114–113 added par. (16).
 
 2002—Subsec. (a)(2). Pub. L. 107–298 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “a motor vehicle providing taxicab service and having a capacity of not more than 6 passengers and not operated on a regular route or between specified places;”.

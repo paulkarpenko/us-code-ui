@@ -8,7 +8,7 @@ source: >-
 ---
 <a id="section-4831"></a>
 ## § 4831. Defense dual-use critical technology program
-**(a) Establishment of Program.—** The Secretary of Defense shall conduct a program to further the national security objectives set forth in [section 4811(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4811/a&num=0&edition=prelim) by encouraging and providing for research, development, and application of dual-use critical technologies. The Secretary may make grants, enter into contracts, or enter into cooperative agreements and other transactions pursuant to [section 4002 of this title](./chapter-301-research-and-engineering-generally.md#section-4002) in furtherance of the program. The Secretary shall identify projects to be conducted as part of the program.
+**(a) Establishment of Program.—** The Secretary of Defense shall conduct a program to further the national security objectives set forth in [section 4811(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4811/a&num=0&edition=prelim) by encouraging and providing for research, development, and application of dual-use critical technologies. The Secretary may make grants, enter into contracts, or enter into cooperative agreements and other transactions pursuant to [section 4002 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4002&num=0&edition=prelim) in furtherance of the program. The Secretary shall identify projects to be conducted as part of the program.
 
 **(b) Assistance Authorized.—** The Secretary of Defense may provide technical and other assistance to facilitate the achievement of the purposes of projects conducted under the program. In providing such assistance, the Secretary shall make available, as appropriate for the work to be performed, equipment and facilities of Department of Defense laboratories (including the scientists and engineers at those laboratories) for purposes of projects selected by the Secretary.
 
@@ -42,6 +42,26 @@ source: >-
 
 ### Statutory Notes
 
+#### Prior Provisions
+A prior section 4831 was renumbered [section 7831 of this title](./chapter-783-accountability-and-responsibility.md#section-7831).
+
+Provisions similar to those in this section were contained in [section 2523 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2523&num=0&edition=prelim), prior to repeal by Pub. L. 102–484, § 4202(a).
+
+#### Amendments
+2021—Pub. L. 116–283, § 1868(b), renumbered [section 2511 of this title](./chapter-chapter-148-chapter-chapter-148.md#section-2511) as this section.
+
+Subsec. (a). Pub. L. 116–283, § 1868(c)(1)(A), substituted “section 4811(a)” for “section 2501(a)” and “section 4002” for “section 2371”.
+
+Subsec. (e)(1). Pub. L. 116–283, § 1868(c)(1)(B), substituted “section 4811(a)” for “section 2501(a)”.
+
+1996—Pub. L. 104–106 substituted “program” for “partnerships” in section catchline and amended text generally. Prior to amendment, text related to program for establishment of cooperative arrangements between Department of Defense and eligible entities.
+
+1994—Subsec. (c)(3). Pub. L. 103–337 added par. (3).
+
+1993—Subsec. (c). Pub. L. 103–160, § 1315(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary of Defense shall ensure that, to the maximum extent he determines to be practicable, the amount of the funds provided by the Federal Government under a partnership does not exceed the total amount provided by non-Federal Government participants in that partnership.”
+
+Subsec. (e). Pub. L. 103–160, § 1317(c), struck out “, except that procedures other than competitive procedures may be used in any case in which an exception set out in [section 2304(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304/c&num=0&edition=prelim) applies” after “partnerships”.
+
 #### Effective Date of 2021 Amendment
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
@@ -64,6 +84,18 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 ### Statutory Notes
 
+#### Prior Provisions
+A prior section 4832, act Aug. 10, 1956, ch. 1041, 70A Stat. 272, authorized Secretary of the Army to prescribe regulations for the accounting for Army property, prior to repeal by Pub. L. 110–181, div. A, title III, §375(c)(1)(A), Jan. 28, 2008, 122 Stat. 83.
+
+Provisions similar to those in subsecs. (a) and (b) of this section were contained in [section 2363 of this title](./chapter-chapter-139-chapter-chapter-139.md#section-2363) prior to repeal by Pub. L. 102–484, §§ 4224(c), 4271(a)(2).
+
+#### Amendments
+2021—Pub. L. 116–283, § 1868(b), renumbered [section 2514 of this title](./chapter-chapter-148-chapter-chapter-148.md#section-2514) as this section.
+
+Subsec. (a). Pub. L. 116–283, § 1868(c)(2), substituted “section 4811(a)” for “section 2501(a)”.
+
+1996—Subsec. (c)(5). Pub. L. 104–201 struck out par. (5) which read as follows: “The Secretary shall coordinate the Program with the National Defense Technology and Industrial Base Council.”
+
 #### Effective Date of 2021 Amendment
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
@@ -80,7 +112,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **(c) Assistance Authorized.—**
 
-(1) The Secretary may make grants, enter into contracts, enter into cooperative agreements and other transactions pursuant to [section 4002 of this title](./chapter-301-research-and-engineering-generally.md#section-4002), and enter into cooperative research and development agreements under section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 ([15 U.S.C. 3710a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3710a&num=0&edition=prelim)) in order to establish partnerships.
+(1) The Secretary may make grants, enter into contracts, enter into cooperative agreements and other transactions pursuant to section 4002 11 See References in Text note below. of this title, and enter into cooperative research and development agreements under section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 ([15 U.S.C. 3710a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3710a&num=0&edition=prelim)) in order to establish partnerships.
 
 (2) Subject to subsection (d), the Secretary may provide a partnership with technical and other assistance in order to facilitate the achievement of the purpose of this section.
 
@@ -98,6 +130,27 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 ### Statutory Notes
 
+#### References in Text
+[Section 4002 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4002&num=0&edition=prelim), referred to in subsec. (c)(1), probably should be a reference to [section 4021 of this title](./chapter-301-research-and-engineering-generally.md#section-4021). Pub. L. 116–283, div. A, title XVIII, § 1841(b)(1), Jan. 1, 2021, 134 Stat. 4243, initially transferred [section 2371 of this title](./chapter-chapter-139-chapter-chapter-139.md#section-2371) to section 4002, to become effective Jan. 1, 2022. However, Pub. L. 117–81, div. A, title XVII, § 1701(u)(2)(B), Dec. 27, 2021, 135 Stat. 2151, amended section 1841(b)(1) of Pub. L. 116–283, effective as if included therein, so as to eliminate the transfer to section 4002 and instead transfer section 2371 to [section 4021 of this title](./chapter-301-research-and-engineering-generally.md#section-4021).
+
+#### Prior Provisions
+A prior section 4833, act Aug. 10, 1956, ch. 1041, 70A Stat. 272, related to accountability of Army officers for public money, prior to repeal by Pub. L. 87–480, § 1(2), June 8, 1962, 76 Stat. 94. See [section 2773 of this title](./chapter-165-accountability-and-responsibility.md#section-2773).
+
+#### Amendments
+2021—Pub. L. 116–283, § 1868(b), renumbered [section 2519 of this title](./chapter-chapter-148-chapter-chapter-148.md#section-2519) as this section.
+
+Subsec. (a). Pub. L. 116–283, § 1868(c)(3)(A), substituted “section 4811(a)” for “section 2501(a)”.
+
+Subsec. (c)(1). Pub. L. 116–283, § 1868(c)(3)(B), substituted “section 4002” for “section 2371”.
+
+Subsec. (d)(2). Pub. L. 116–283, § 1868(c)(3)(C), substituted “section 4831(c)(2)” for “section 2511(c)(2)”.
+
+Subsec. (f). Pub. L. 116–283, § 1868(c)(3)(D), substituted “section 4831(e)” for “section 2511(e)”.
+
+1996—Subsec. (b). Pub. L. 104–106, § 1081(d)(1), struck out “referred to in [section 2511(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2511/b&num=0&edition=prelim)” after “corporations”.
+
+Subsec. (f). Pub. L. 104–106, § 1081(d)(2), substituted “section 2511(e)” for “section 2511(f)”.
+
 #### Effective Date of 2021 Amendment
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
@@ -109,6 +162,20 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 **(b) Eligible Organizations.—** Any not-for-profit industrial or professional organization that has economic and scientific interests in research, development, and applications of dual-use critical technologies is eligible to enter into a cooperative arrangement referred to in subsection (a).
 
 ### Statutory Notes
+
+#### Prior Provisions
+A prior section 4834, acts Aug. 10, 1956, ch. 1041, 70A Stat. 272; Nov. 2, 1966, Pub. L. 89–718, § 31, 80 Stat. 1119, required commissioned officers of the Quartermaster Corps to give fidelity bonds, prior to repeal by Pub. L. 92–310, title II, § 204(a), June 6, 1972, 86 Stat. 202.
+
+A prior section 4835, act Aug. 10, 1956, ch. 1041, 70A Stat. 273; Pub. L. 103–160, div. A, title III, § 362, Nov. 30, 1993, 107 Stat. 1628, related to actions taken upon reports of surveys and vouchers pertaining to the loss, spoilage, unserviceability, unsuitability, or destruction of or damage to property of the United States under the control of the Department of the Army, prior to repeal by Pub. L. 107–314, div. A, title X, § 1006(c)(1), (d), Dec. 2, 2002, 116 Stat. 2633, applicable with respect to property affected after the effective date of regulations prescribed pursuant to [section 2787 of this title](./chapter-165-accountability-and-responsibility.md#section-2787).
+
+A prior section 4836, act Aug. 10, 1956, ch. 1041, 70A Stat. 273, prohibited unauthorized disposition of individual equipment by enlisted members of the Army, prior to repeal by Pub. L. 110–181, div. A, title III, § 375(c)(1)(B), Jan. 28, 2008, 122 Stat. 83.
+
+Prior sections 4837 to 4840 were renumbered sections 7837 to 7840 of this title, respectively.
+
+#### Amendments
+2021—Pub. L. 116–283 renumbered [section 2518 of this title](./chapter-chapter-148-chapter-chapter-148.md#section-2518) as this section.
+
+1992—Pub. L. 102–484 renumbered [section 2526 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2526&num=0&edition=prelim) as section 2518.
 
 #### Effective Date of 2021 Amendment
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).

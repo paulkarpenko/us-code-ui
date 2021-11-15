@@ -111,81 +111,11 @@ Pub. L. 113–235, div. M, § 1, Dec. 16, 2014, 128 Stat. 2767, provided that: �
 #### Short Title
 Pub. L. 111–148, § 1(a), Mar. 23, 2010, 124 Stat. 119, provided that: “This Act [see Tables for classification] may be cited as the ‘Patient Protection and Affordable Care Act’.”
 
-#### Ex. Ord. No. 13765. Minimizing the Economic Burden of the Patient Protection and Affordable Care Act Pending Repeal
-Ex. Ord. No. 13765, Jan. 20, 2017, 82 F.R. 8351, provided:
+#### Executive Order No. 13765
+Ex. Ord. No. 13765, Jan. 20, 2017, 82 F.R. 8351, which related to minimizing the economic burden of the Patient Protection and Affordable Care Act (Pub. L. 111–148) pending repeal, was revoked by Ex. Ord. No. 14009, § 4(a), Jan. 28, 2021, 86 F.R. 7794, set out below.
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
-
-Section 1. It is the policy of my Administration to seek the prompt repeal of the Patient Protection and Affordable Care Act (Public Law 111–148), as amended (the “Act”). In the meantime, pending such repeal, it is imperative for the executive branch to ensure that the law is being efficiently implemented, take all actions consistent with law to minimize the unwarranted economic and regulatory burdens of the Act, and prepare to afford the States more flexibility and control to create a more free and open healthcare market.
-
-Sec. 2. To the maximum extent permitted by law, the Secretary of Health and Human Services (Secretary) and the heads of all other executive departments and agencies (agencies) with authorities and responsibilities under the Act shall exercise all authority and discretion available to them to waive, defer, grant exemptions from, or delay the implementation of any provision or requirement of the Act that would impose a fiscal burden on any State or a cost, fee, tax, penalty, or regulatory burden on individuals, families, healthcare providers, health insurers, patients, recipients of healthcare services, purchasers of health insurance, or makers of medical devices, products, or medications.
-
-Sec. 3. To the maximum extent permitted by law, the Secretary and the heads of all other executive departments and agencies with authorities and responsibilities under the Act, shall exercise all authority and discretion available to them to provide greater flexibility to States and cooperate with them in implementing healthcare programs.
-
-Sec. 4. To the maximum extent permitted by law, the head of each department or agency with responsibilities relating to healthcare or health insurance shall encourage the development of a free and open market in interstate commerce for the offering of healthcare services and health insurance, with the goal of achieving and preserving maximum options for patients and consumers.
-
-Sec. 5. To the extent that carrying out the directives in this order would require revision of regulations issued through notice-and-comment rulemaking, the heads of agencies shall comply with the Administrative Procedure Act and other applicable statutes in considering or promulgating such regulatory revisions.
-
-Sec. 6. (a) Nothing in this order shall be construed to impair or otherwise affect:
-
-(i) the authority granted by law to an executive department or agency, or the head thereof; or
-
-(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
-
-(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
-
-(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-
-Donald J. Trump.
-
-#### Ex. Ord. No. 13813. Promoting Healthcare Choice and Competition Across the United States
-Ex. Ord. No. 13813, Oct. 12, 2017, 82 F.R. 48385, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
-
-Section 1. Policy. (a) It shall be the policy of the executive branch, to the extent consistent with law, to facilitate the purchase of insurance across State lines and the development and operation of a healthcare system that provides high-quality care at affordable prices for the American people. The Patient Protection and Affordable Care Act (PPACA), however, has severely limited the choice of healthcare options available to many Americans and has produced large premium increases in many State individual markets for health insurance. The average exchange premium in the 39 States that are using www.healthcare.gov in 2017 is more than double the average overall individual market premium recorded in 2013. The PPACA has also largely failed to provide meaningful choice or competition between insurers, resulting in one-third of America’s counties having only one insurer offering coverage on their applicable government-run exchange in 2017.
-
-(b) Among the myriad areas where current regulations limit choice and competition, my Administration will prioritize three areas for improvement in the near term: association health plans (AHPs), short-term, limited-duration insurance (STLDI), and health reimbursement arrangements (HRAs).
-
-(i) Large employers often are able to obtain better terms on health insurance for their employees than small employers because of their larger pools of insurable individuals across which they can spread risk and administrative costs. Expanding access to AHPs can help small businesses overcome this competitive disadvantage by allowing them to group together to self-insure or purchase large group health insurance. Expanding access to AHPs will also allow more small businesses to avoid many of the PPACA’s costly requirements. Expanding access to AHPs would provide more affordable health insurance options to many Americans, including hourly wage earners, farmers, and the employees of small businesses and entrepreneurs that fuel economic growth.
-
-(ii) STLDI is exempt from the onerous and expensive insurance mandates and regulations included in title I of the PPACA. This can make it an appealing and affordable alternative to government-run exchanges for many people without coverage available to them through their workplaces. The previous administration took steps to restrict access to this market by reducing the allowable coverage period from less than 12 months to less than 3 months and by preventing any extensions selected by the policyholder beyond 3 months of total coverage.
-
-(iii) HRAs are tax-advantaged, account-based arrangements that employers can establish for employees to give employees more flexibility and choices regarding their healthcare. Expanding the flexibility and use of HRAs would provide many Americans, including employees who work at small businesses, with more options for financing their healthcare.
-
-(c) My Administration will also continue to focus on promoting competition in healthcare markets and limiting excessive consolidation throughout the healthcare system. To the extent consistent with law, government rules and guidelines affecting the United States healthcare system should:
-
-(i) expand the availability of and access to alternatives to expensive, mandate-laden PPACA insurance, including AHPs, STLDI, and HRAs;
-
-(ii) re-inject competition into healthcare markets by lowering barriers to entry, limiting excessive consolidation, and preventing abuses of market power; and
-
-(iii) improve access to and the quality of information that Americans need to make informed healthcare decisions, including data about healthcare prices and outcomes, while minimizing reporting burdens on affected plans, providers, or payers.
-
-Sec. 2. Expanded Access to Association Health Plans. Within 60 days of the date of this order, the Secretary of Labor shall consider proposing regulations or revising guidance, consistent with law, to expand access to health coverage by allowing more employers to form AHPs. To the extent permitted by law and supported by sound policy, the Secretary should consider expanding the conditions that satisfy the commonality-of-interest requirements under current Department of Labor advisory opinions interpreting the definition of an “employer” under section 3(5) of the Employee Retirement Income Security Act of 1974. The Secretary of Labor should also consider ways to promote AHP formation on the basis of common geography or industry.
-
-Sec. 3. Expanded Availability of Short-Term, Limited-Duration Insurance. Within 60 days of the date of this order, the Secretaries of the Treasury, Labor, and Health and Human Services shall consider proposing regulations or revising guidance, consistent with law, to expand the availability of STLDI. To the extent permitted by law and supported by sound policy, the Secretaries should consider allowing such insurance to cover longer periods and be renewed by the consumer.
-
-Sec. 4. Expanded Availability and Permitted Use of Health Reimbursement Arrangements. Within 120 days of the date of this order, the Secretaries of the Treasury, Labor, and Health and Human Services shall consider proposing regulations or revising guidance, to the extent permitted by law and supported by sound policy, to increase the usability of HRAs, to expand employers’ ability to offer HRAs to their employees, and to allow HRAs to be used in conjunction with nongroup coverage.
-
-Sec. 5. Public Comment. The Secretaries shall consider and evaluate public comments on any regulations proposed under sections 2 through 4 of this order.
-
-Sec. 6. Reports. Within 180 days of the date of this order, and every 2 years thereafter, the Secretary of Health and Human Services, in consultation with the Secretaries of the Treasury and Labor and the Federal Trade Commission, shall provide a report to the President that:
-
-(a) details the extent to which existing State and Federal laws, regulations, guidance, requirements, and policies fail to conform to the policies set forth in section 1 of this order; and
-
-(b) identifies actions that States or the Federal Government could take in furtherance of the policies set forth in section 1 of this order.
-
-Sec. 7. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
-
-(i) the authority granted by law to an executive department or agency, or the head thereof; or
-
-(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
-
-(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
-
-(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-
-Donald J. Trump.
+#### Executive Order No. 13813
+Ex. Ord. No. 13813, Oct. 12, 2017, 82 F.R. 48385, which related to promoting association health plans, short-term, limited-duration insurance, and health reimbursement arrangements, was revoked by Ex. Ord. No. 13009, § 4(a), Jan. 28, 2021, 86 F.R. 7794, set out below.
 
 #### Ex. Ord. No. 13877. Improving Price and Quality Transparency in American Healthcare To Put Patients First
 Ex. Ord. No. 13877, June 24, 2019, 84 F.R. 30849, provided:
@@ -354,6 +284,47 @@ Sec. 6. General Provisions. (a) Nothing in this order shall be construed to impa
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Donald J. Trump.
+
+#### Ex. Ord. No. 14009. Strengthening Medicaid and the Affordable Care Act
+Ex. Ord. No. 14009, Jan. 28, 2021, 86 F.R. 7793, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. Policy. In the 10 years since its enactment, the [Patient Protection and] Affordable Care Act (ACA) [Pub. L. 111–148] has reduced the number of uninsured Americans by more than 20 million, extended critical consumer protections to more than 100 million people, and strengthened and improved the Nation’s healthcare system. At the same time, millions of people who are potentially eligible for coverage under the ACA or other laws remain uninsured, and obtaining insurance benefits is more difficult than necessary. For these reasons, it is the policy of my Administration to protect and strengthen Medicaid and the ACA and to make high-quality healthcare accessible and affordable for every American.
+
+Sec. 2. Special Enrollment Period. The coronavirus disease 2019 (COVID–19) pandemic has triggered a historic public health and economic crisis. In January of 2020, as the COVID–19 pandemic was spreading, the Secretary of Health and Human Services declared a public health emergency. In March of 2020, the President declared a national emergency. Although almost a year has passed, the emergency continues—over 5 million Americans have contracted the disease in January 2021, and thousands are dying every week. Over 30 million Americans remain uninsured, preventing many from obtaining necessary health services and treatment. Black, Latino, and Native American persons are more likely to be uninsured, and communities of color have been especially hard hit by both the COVID–19 pandemic and the economic downturn. In light of the exceptional circumstances caused by the ongoing COVID–19 pandemic, the Secretary of Health and Human Services shall consider establishing a Special Enrollment Period for uninsured and under-insured Americans to seek coverage through the Federally Facilitated Marketplace, pursuant to existing authorities, including sections 18031 and 18041 of title 42, United States Code, and section 155.420(d)(9) of title 45, Code of Federal Regulations, and consistent with applicable law.
+
+Sec. 3. Immediate Review of Agency Actions. (a) The Secretary of the Treasury, the Secretary of Labor, the Secretary of Health and Human Services, and the heads of all other executive departments and agencies with authorities and responsibilities related to Medicaid and the ACA (collectively, heads of agencies) shall, as soon as practicable, review all existing regulations, orders, guidance documents, policies, and any other similar agency actions (collectively, agency actions) to determine whether such agency actions are inconsistent with the policy set forth in section 1 of this order. As part of this review, the heads of agencies shall examine the following:
+
+(i) policies or practices that may undermine protections for people with pre-existing conditions, including complications related to COVID–19, under the ACA;
+
+(ii) demonstrations and waivers, as well as demonstration and waiver policies, that may reduce coverage under or otherwise undermine Medicaid or the ACA;
+
+(iii) policies or practices that may undermine the Health Insurance Marketplace or the individual, small group, or large group markets for health insurance in the United States;
+
+(iv) policies or practices that may present unnecessary barriers to individuals and families attempting to access Medicaid or ACA coverage, including for mid-year enrollment; and
+
+(v) policies or practices that may reduce the affordability of coverage or financial assistance for coverage, including for dependents.
+
+(b) Heads of agencies shall, as soon as practicable and as appropriate and consistent with applicable law, consider whether to suspend, revise, or rescind—and, as applicable, publish for notice and comment proposed rules suspending, revising, or rescinding—those agency actions identified as inconsistent with the policy set forth in section 1 of this order.
+
+(c) Heads of agencies shall, as soon as practicable and as appropriate and consistent with applicable law, consider whether to take any additional agency actions to more fully enforce the policy set forth in section 1 of this order.
+
+Sec. 4. Revocation of Certain Presidential Actions and Review of Associated Agency Actions. (a) Executive Order 13765 of January 20, 2017 (Minimizing the Economic Burden of the Patient Protection and Affordable Care Act Pending Repeal) [formerly set out above], and Executive Order 13813 of October 12, 2017 (Promoting Healthcare Choice and Competition Across the United States) [formerly set out above], are revoked.
+
+(b) As part of the review required under section 3 of this order, heads of agencies shall identify existing agency actions related to or arising from Executive Orders 13765 and 13813. Heads of agencies shall, as soon as practicable, consider whether to suspend, revise, or rescind—and, as applicable, publish for notice and comment proposed rules suspending, revising, or rescinding—any such agency actions, as appropriate and consistent with applicable law and the policy set forth in section 1 of this order.
+
+Sec. 5. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+J.R. Biden, Jr.
 
 
 <a id="section-18002"></a>
@@ -614,9 +585,9 @@ Section effective for plan years beginning on or after Jan. 1, 2014, see section
 
 **(c) Qualified expatriates, spouses, and dependents not United States health risk**
 
-(1) **In general** — For purposes of section 9010 of the Patient Protection and Affordable Care Act ([26 U.S.C. 4001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section4001&num=0&edition=prelim) note prec.), for calendar years after 2015, a qualified expatriate (and any spouse, dependent, or any other individual enrolled in the plan) enrolled in an expatriate health plan shall not be considered a United States health risk.
+(1) **In general** — For purposes of section 9010 1 of the Patient Protection and Affordable Care Act ([26 U.S.C. 4001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section4001&num=0&edition=prelim) note prec.), for calendar years after 2015, a qualified expatriate (and any spouse, dependent, or any other individual enrolled in the plan) enrolled in an expatriate health plan shall not be considered a United States health risk.
 
-(2) **Special rule** — Notwithstanding paragraph (1), the fee under section 9010 of such Act for each of calendar years 2014 and 2015 with respect to any expatriate health insurance issuer shall be the amount which bears the same ratio to the fee amount determined by the Secretary of the Treasury with respect to such issuer under such section for each such year (determined without regard to this paragraph) as—
+(2) **Special rule** — Notwithstanding paragraph (1), the fee under section 9010 1 of such Act for each of calendar years 2014 and 2015 with respect to any expatriate health insurance issuer shall be the amount which bears the same ratio to the fee amount determined by the Secretary of the Treasury with respect to such issuer under such section for each such year (determined without regard to this paragraph) as—
 
   (A) the amount of premiums taken into account under such section with respect to such issuer for each such year, less the amount of premiums for expatriate health plans taken into account under such section with respect to such issuer for each such year, bears to
 
@@ -646,7 +617,7 @@ Section effective for plan years beginning on or after Jan. 1, 2014, see section
 
   (F) The plan or coverage—
 
-    (i) is issued by an expatriate health plan issuer, or administered by an administrator, that together with any other person in the expatriate health plan issuer’s or administrator’s controlled group (as described in section 9010 of the Patient Protection and Affordable Care Act (and the regulations promulgated thereunder)), has licenses to sell insurance in more than two countries, and, with respect to such plan, coverage, or company in the controlled group—
+    (i) is issued by an expatriate health plan issuer, or administered by an administrator, that together with any other person in the expatriate health plan issuer’s or administrator’s controlled group (as described in section 9010 1 of the Patient Protection and Affordable Care Act (and the regulations promulgated thereunder)), has licenses to sell insurance in more than two countries, and, with respect to such plan, coverage, or company in the controlled group—
 
       (I) maintains network provider agreements that provide for direct claims payments, directly or through third party contracts, with health care providers in eight or more countries;
 
@@ -695,7 +666,7 @@ Section effective for plan years beginning on or after Jan. 1, 2014, see section
 ### Statutory Notes
 
 #### References in Text
-The Patient Protection and Affordable Care Act, referred to in subsecs. (a) and (d)(2)(G), is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119. For complete classification of this Act to the Code, see Short Title note set out under [section 18001 of this title](./chapter-157-quality-affordable-health-care-for-all-americans.md#section-18001) and Tables.
+The Patient Protection and Affordable Care Act, referred to in subsecs. (a), (c), and (d)(2)(F)(i), (G), is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119. Section 9010 of the Act was set out as a note preceding [section 4001 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section4001&num=0&edition=prelim), Internal Revenue Code, prior to repeal by Pub. L. 116–94, div. N, title I, § 502(a), Dec. 20, 2019, 133 Stat. 3119. For complete classification of this Act to the Code, see Short Title note set out under [section 18001 of this title](./chapter-157-quality-affordable-health-care-for-all-americans.md#section-18001) and Tables.
 
 The Health Care and Education Reconciliation Act of 2010, referred to in subsecs. (a) and (d)(2)(G), is Pub. L. 111–152, Mar. 30, 2010, 124 Stat. 1029. For complete classification of this Act to the Code, see Short Title of 2010 Amendment note set out under [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
@@ -1497,6 +1468,9 @@ Subsec. (e)(3). Pub. L. 111–148, § 10104(f)(2), added par. (3).
 Subsec. (g)(1)(E). Pub. L. 111–148, § 10104(g), added subpar. (E).
 
 Subsec. (i)(2)(B). Pub. L. 111–148, § 10104(h), substituted “resource partners of the Small Business Administration” for “small business development centers”.
+
+#### Establishing a Grant Program for Exchange Modernization
+Pub. L. 117–2, title II, § 2801, Mar. 11, 2021, 135 Stat. 49, provided that: “(a) In General.—Out of funds appropriated under subsection (b), the Secretary of Health and Human Services (in this subtitle [subtitle I (§ 2801) of title II of Pub. L. 117–2] referred to as the ‘Secretary’) shall award grants to each American Health Benefits Exchange established under section 1311(b) of the Patient Protection and Affordable Care Act ([42 U.S.C. 18031(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18031/b&num=0&edition=prelim)) (other than an Exchange established by the Secretary under section 1321(c) of such Act ([42 U.S.C. 18041(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18041/c&num=0&edition=prelim))) that submits to the Secretary an application at such time and in such manner, and containing such information, as specified by the Secretary, for purposes of enabling such Exchange to modernize or update any system, program, or technology utilized by such Exchange to ensure such Exchange is compliant with all applicable requirements. “(b) Funding.—In addition to amounts otherwise available, there is appropriated, for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $20,000,000, to remain available until September 30, 2022, for carrying out this section.”
 
 
 <a id="section-18032"></a>
@@ -2563,7 +2537,13 @@ In the case of an individual described in [section 36B(c)(1)(B) of title 26](htt
 
 (3) **Secretarial authority** — The Secretary, in consultation with the Secretary of the Treasury, shall prescribe rules setting forth the methods by which calculations of family size and household income are made for purposes of this subsection. Such rules shall be designed to ensure that the least burden is placed on individuals enrolling in qualified health plans through an Exchange and taxpayers eligible for the credit allowable under this section.
 
-**(f) Definitions and special rules** In this section:
+**(f) Special rule for individuals who receive unemployment compensation during 2021** For purposes of this section, in the case of an individual who has received, or has been approved to receive, unemployment compensation for any week beginning during 2021, for the plan year in which such week begins—
+
+(1) such individual shall be treated as meeting the requirements of subsection (b)(2), and
+
+(2) for purposes of subsections (c) and (d), there shall not be taken into account any household income of the individual in excess of 133 percent of the poverty line for a family of the size involved.
+
+**(g) Definitions and special rules** In this section:
 
 (1) **In general** — Any term used in this section which is also used in [section 36B of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section36B&num=0&edition=prelim) shall have the meaning given such term by such section.
 
@@ -2574,6 +2554,8 @@ In the case of an individual described in [section 36B(c)(1)(B) of title 26](htt
 ### Statutory Notes
 
 #### Amendments
+2021—Subsecs. (f), (g). Pub. L. 117–2 added subsec. (f) and redesignated former subsec. (f) as (g).
+
 2010—Subsec. (c)(1)(B)(i)(I). Pub. L. 111–152, § 1001(b)(1)(A), substituted “94” for “90”.
 
 Subsec. (c)(1)(B)(i)(II). Pub. L. 111–152, § 1001(b)(1)(B)(i), substituted “87” for “80”.
@@ -2585,6 +2567,9 @@ Subsec. (c)(2)(A). Pub. L. 111–152, § 1001(b)(2)(A)(i), substituted “94” 
 Subsec. (c)(2)(B). Pub. L. 111–152, § 1001(b)(2)(B)(i), substituted “87” for “80”.
 
 Subsec. (c)(2)(C). Pub. L. 111–152, § 1001(b)(2)(A)(ii), (B)(ii), (C), added subpar. (C).
+
+#### Effective Date of 2021 Amendment
+Pub. L. 117–2, title II, § 2305(b), Mar. 11, 2021, 135 Stat. 40, provided that: “The amendment made by this section [amending this section] shall apply to plan years beginning after December 31, 2020.”
 
 
 <a id="section-18081"></a>

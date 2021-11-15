@@ -6,8 +6,8 @@ section_count: 1
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30&num=0&edition=prelim
 ---
-<a id="section-1801-to-1810"></a>
-## § 1801 to 1810. Repealed. Pub. L. 116–260, div. Z, title VII, § 7002(n)(1), Dec. 27, 2020, 134 Stat. 2576
+<a id="section-1801-to-1811"></a>
+## § 1801 to 1811. Repealed. Pub. L. 116–260, div. Z, title VII, § 7002(n)(1), Dec. 27, 2020, 134 Stat. 2576
 
 ### Statutory Notes
 

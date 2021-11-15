@@ -39,7 +39,7 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 ### Statutory Notes
 
 #### Prior Provisions
-Provisions similar to those in this section were contained in [section 2540 of this title](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2540), prior to repeal by Pub. L. 103–337, § 1664(c)(2).
+Provisions similar to those in this section were contained in [section 2540 of this title](./chapter-chapter-148-chapter-chapter-148.md#section-2540), prior to repeal by Pub. L. 103–337, § 1664(c)(2).
 
 #### Effective Date
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).

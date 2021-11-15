@@ -2,7 +2,7 @@
 title: 49
 chapter: '55'
 heading: INTERMODAL TRANSPORTATION
-section_count: 14
+section_count: 15
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49&num=0&edition=prelim
 ---
@@ -43,37 +43,11 @@ In this section, the words “Dwight D. Eisenhower System of Interstate and Defe
 
 
 <a id="section-5502"></a>
-## § 5502. Intermodal Transportation Advisory Board
-**(a) Organization.—** The Intermodal Transportation Advisory Board is a board in the Office of the Secretary of Transportation.
-
-**(b) Membership.—** The Board consists of the Secretary, who serves as chairman, and the Administrator, or the Administrator’s designee, of—
-
-(1) the Federal Highway Administration;
-
-(2) the Federal Aviation Administration;
-
-(3) the Maritime Administration;
-
-(4) the Federal Railroad Administration;
-
-(5) the Federal Transit Administration; and
-
-(6) the Federal Motor Carrier Safety Administration.
-
-**(c) Duties and Powers.—** The Board shall provide recommendations for carrying out the duties of the Secretary described in [section 301(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section301/3&num=0&edition=prelim).
+## § 5502. Repealed. Pub. L. 117–58, div. B, title V, § 25021(a), Nov. 15, 2021, 135 Stat. 878]
 
 ### Statutory Notes
 
-| Historical and Revision Notes |  |  |
-| --- | --- | --- |
-| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 5502 | 49:301 (note). | Dec. 18, 1991, Pub. L. 102–240, § 5002(b), 105 Stat. 2158. |
-
-#### Amendments
-2005—Subsec. (b)(6). Pub. L. 109–59 added par. (6).
-
-#### Termination of Advisory Boards
-Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by Congress, its duration is otherwise provided by law. See sections 3(2), and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Section, Pub. L. 103–272, § 1(d), July 5, 1994, 108 Stat. 849; Pub. L. 109–59, title IV, § 4145(a), Aug. 10, 2005, 119 Stat. 1749, related to Intermodal Transportation Advisory Board.
 
 
 <a id="section-5503"></a>
@@ -109,15 +83,15 @@ Repeal effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as 
 ## § 5505. University transportation centers program
 **(a) University Transportation Centers Program.—**
 
-(1) **Establishment and operation.—** — The Secretary shall make grants under this section to eligible nonprofit institutions of higher education to establish and operate university transportation centers.
+(1) **Establishment and operation.—** — The Secretary of Transportation, acting through the Assistant Secretary for Research and Technology (referred to in this section as the “Secretary”), shall make grants under this section to eligible nonprofit institutions of higher education to establish and operate university transportation centers.
 
 (2) **Role of centers.—** — The role of each university transportation center referred to in paragraph (1) shall be—
 
   (A) to advance transportation expertise and technology in the varied disciplines that comprise the field of transportation through education, research, and technology transfer activities;
 
-  (B) to provide for a critical transportation knowledge base outside of the Department of Transportation; and
+  (B) to provide for a critical multimodal transportation knowledge base outside of the Department of Transportation; and
 
-  (C) to address critical workforce needs and educate the next generation of transportation leaders.
+  (C) to address critical workforce needs and educate the next generation of transportation leaders with respect to the matters described in subparagraphs (A) through (G) of section 6503(c)(1).
 
 **(b) Competitive Selection Process.—**
 
@@ -125,7 +99,7 @@ Repeal effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as 
 
 (2) **Restriction.—**
 
-  (A) *Limitation.—* — A lead institution of a consortium of nonprofit institutions of higher education, as applicable, may only receive 1 grant per fiscal year for each of the transportation centers described under paragraphs (2), (3), and (4) of subsection (c).
+  (A) *Limitation.—* — A lead institution of a consortium of nonprofit institutions of higher education, as applicable, may only receive 1 grant per fiscal year as a lead institution under this section, except as provided in subparagraph (B).
 
   (B) *Exception for consortium members that are not lead institutions.—* — Subparagraph (A) shall not apply to a nonprofit institution of higher education that is a member of a consortium of nonprofit institutions of higher education but not the lead institution of such consortium.
 
@@ -133,9 +107,9 @@ Repeal effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as 
 
 (4) **General selection criteria.—**
 
-  (A) *In general.—* — Except as otherwise provided by this section, the Secretary shall award grants under this section in nonexclusive candidate topic areas established by the Secretary that address the research priorities identified in chapter 65.
+  (A) *In general.—* — Except as otherwise provided by this section, the Secretary shall award grants under this section in nonexclusive candidate topic areas established by the Secretary that address the research priorities described in subparagraphs (A) through (G) of section 6503(c)(1).
 
-  (B) *Criteria.—* — The Secretary, in consultation with the Assistant Secretary for Research and Technology and the Administrator of the Federal Highway Administration and other modal administrations as appropriate, shall select each recipient of a grant under this section through a competitive process based on the assessment of the Secretary relating to—
+  (B) *Criteria.—* — The Secretary, in consultation with the heads of the modal administrations of the Department of Transportation, as appropriate, shall select each recipient of a grant under this section through a competitive process based on the assessment of the Secretary relating to—
 
     (i) the demonstrated ability of the recipient to address each specific topic area described in the research and strategic plans of the recipient;
 
@@ -163,7 +137,7 @@ Repeal effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as 
 
   (A) *In general.—* — The Secretary shall provide to each applicant, upon request, any materials, including copies of reviews (with any information that would identify a reviewer redacted), used in the evaluation process of the proposal of the applicant.
 
-  (B) *Reports.—* — The Secretary shall submit to the Committees on Transportation and Infrastructure and Science, Space, and Technology of the House of Representatives and the Committee on Environment and Public Works of the Senate a report describing the overall review process under paragraph (4) that includes—
+  (B) *Reports.—* — The Secretary shall make available to the public on a website of the Department of Transportation a report describing the overall review process under paragraph (4) that includes—
 
     (i) specific criteria of evaluation used in the review;
 
@@ -227,7 +201,11 @@ Repeal effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as 
 
       (II) [section 505 of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section505&num=0&edition=prelim).
 
-  (E) *Focused research.—* — The Secretary shall make a grant to 1 of the 10 regional university transportation centers established under this paragraph for the purpose of furthering the objectives described in subsection (a)(2) in the field of comprehensive transportation safety, congestion, connected vehicles, connected infrastructure, and autonomous vehicles.
+  (E) *Focused research.—*
+
+    (i) *In general.—* — A regional university transportation center receiving a grant under this paragraph shall carry out research focusing on 1 or more of the matters described in subparagraphs (A) through (G) of section 6503(c)(1).
+
+    (ii) *Focused objectives.—* — The Secretary shall make a grant to 1 of the 10 regional university transportation centers established under this paragraph for the purpose of furthering the objectives described in subsection (a)(2) in the field of comprehensive transportation safety, congestion, connected vehicles, connected infrastructure, and autonomous vehicles, including the cybersecurity implications of technologies relating to connected vehicles, connected infrastructure, and autonomous vehicles.
 
 (4) **Tier 1 university transportation centers.—**
 
@@ -253,13 +231,13 @@ Repeal effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as 
 
   (B) disseminate the results of that research through the establishment and operation of a publicly accessible online information clearinghouse.
 
-(2) **Annual review and evaluation.—** — Not less frequently than annually, and consistent with the plan developed under section 6503, the Secretary shall—
+(2) **Review and evaluation.—** — Not less frequently than biennially, and consistent with the plan developed under section 6503, the Secretary shall—
 
   (A) review and evaluate the programs carried out under this section by grant recipients; and
 
-  (B) submit to the Committees on Transportation and Infrastructure and Science, Space, and Technology of the House of Representatives and the Committees on Environment and Public Works and Commerce, Science, and Transportation of the Senate a report describing that review and evaluation.
+  (B) make available to the public on a website of the Department of Transportation a report describing that review and evaluation.
 
-(3) **Program evaluation and oversight.—** — For each of fiscal years 2016 through 2020, the Secretary shall expend not more than 1 and a half percent of the amounts made available to the Secretary to carry out this section for any coordination, evaluation, and oversight activities of the Secretary under this section.
+(3) **Program evaluation and oversight.—** — For each of fiscal years 2022 through 2026, the Secretary shall expend not more than 1 and a half percent of the amounts made available to the Secretary to carry out this section for any coordination, evaluation, and oversight activities of the Secretary under this section.
 
 **(e) Limitation on Availability of Amounts.—** Amounts made available to the Secretary to carry out this section shall remain available for obligation by the Secretary for a period of 3 years after the last day of the fiscal year for which the amounts are authorized.
 
@@ -271,6 +249,28 @@ Repeal effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as 
 The date of enactment of this section, referred to in subsec. (c)(1), probably means the date of enactment of Pub. L. 114–94, which amended this section generally and was approved Dec. 4, 2015.
 
 #### Amendments
+2021—Subsec. (a)(1). Pub. L. 117–58, § 25017(1)(A), inserted “of Transportation, acting through the Assistant Secretary for Research and Technology (referred to in this section as the ‘Secretary’),” after “The Secretary”.
+
+Subsec. (a)(2)(B). Pub. L. 117–58, § 25017(1)(B)(i), inserted “multimodal” after “critical”.
+
+Subsec. (a)(2)(C). Pub. L. 117–58, § 25017(1)(B)(ii), inserted “with respect to the matters described in subparagraphs (A) through (G) of section 6503(c)(1)” after “transportation leaders”.
+
+Subsec. (b)(2)(A). Pub. L. 117–58, § 25017(2)(A), substituted “as a lead institution under this section, except as provided in subparagraph (B)” for “for each of the transportation centers described under paragraphs (2), (3), and (4) of subsection (c)”.
+
+Subsec. (b)(4)(A). Pub. L. 117–58, § 25017(2)(B)(i), substituted “described in subparagraphs (A) through (G) of section 6503(c)(1)” for “identified in chapter 65”.
+
+Subsec. (b)(4)(B). Pub. L. 117–58, § 25017(2)(B)(ii), substituted “the heads of the modal administrations of the Department of Transportation,” for “the Assistant Secretary for Research and Technology and the Administrator of the Federal Highway Administration and other modal administrations” in introductory provisions.
+
+Subsec. (b)(5)(B). Pub. L. 117–58, § 25017(2)(C), substituted “make available to the public on a website of the Department of Transportation” for “submit to the Committees on Transportation and Infrastructure and Science, Space, and Technology of the House of Representatives and the Committee on Environment and Public Works of the Senate” in introductory provisions.
+
+Subsec. (c)(3)(E). Pub. L. 117–58, § 25017(3), added cl. (i), designated existing provisions as cl. (ii) and inserted heading, and inserted “, including the cybersecurity implications of technologies relating to connected vehicles, connected infrastructure, and autonomous vehicles” after “autonomous vehicles”.
+
+Subsec. (d)(2). Pub. L. 117–58, § 25017(4)(A)(i), (ii), substituted “Review” for “Annual review” in heading and “biennially” for “annually” in introductory provisions.
+
+Subsec. (d)(2)(B). Pub. L. 117–58, § 25017(4)(A)(iii), substituted “make available to the public on a website of the Department of Transportation” for “submit to the Committees on Transportation and Infrastructure and Science, Space, and Technology of the House of Representatives and the Committees on Environment and Public Works and Commerce, Science, and Transportation of the Senate”.
+
+Subsec. (d)(3). Pub. L. 117–58, § 25017(4)(B), substituted “2022 through 2026” for “2016 through 2020”.
+
 2015—Pub. L. 114–94 amended section generally. Prior to amendment, section related to the university transportation centers program.
 
 2012—Pub. L. 112–141 amended section generally. Prior to amendment, section related to national university transportation centers.
@@ -294,14 +294,132 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 
 
 <a id="section-5506"></a>
-## § 5506. Repealed. Pub. L. 112–141, div. E, title II, § 52010(a), July 6, 2012, 126 Stat. 887]
+## § 5506. Advanced transportation research initiative
+**(a) Definition of Eligible Entity.—** In this section, the term “eligible entity” means—
+
+(1) a State agency;
+
+(2) a local government agency;
+
+(3) an institution of higher education (as defined in section 102 of the Higher Education Act of 1965 ([20 U.S.C. 1002](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1002&num=0&edition=prelim))), including a university transportation center established under section 5505;
+
+(4) a nonprofit organization, including a nonprofit research organization; and
+
+(5) a private sector organization working in collaboration with an entity described in any of paragraphs (1) through (4).
+
+**(b) Pilot Program.—** The Secretary of Transportation (referred to in this section as the “Secretary”) shall establish an advanced transportation research pilot program under which the Secretary—
+
+(1) shall establish a process for eligible entities to submit to the Secretary unsolicited research proposals; and
+
+(2) may enter into arrangements with 1 or more eligible entities to fund research proposed under paragraph (1), in accordance with this section.
+
+**(c) Eligible Research.—** The Secretary may enter into an arrangement with an eligible entity under this section to fund research that—
+
+(1) addresses—
+
+  (A) a research need identified by—
+
+    (i) the Secretary; or
+
+    (ii) the Administrator of a modal administration of the Department of Transportation; or
+
+  (B) an issue that the Secretary determines to be important; and
+
+(2) is not duplicative of—
+
+  (A) any other Federal research project; or
+
+  (B) any project for which funding is provided by another Federal agency.
+
+**(d) Project Review.—** The Secretary shall—
+
+(1) review each research proposal submitted under the pilot program established under subsection (b); and
+
+(2)
+
+  (A) if funding is denied for the research proposal—
+
+    (i) provide to the eligible entity that submitted the proposal a written notice of the denial that, as applicable—
+
+      (I) explains why the research proposal was not selected, including whether the research proposal fails to cover an area of need; and
+
+      (II) recommends that the research proposal be submitted to another research program; and
+
+    (ii) if the Secretary recommends that the research proposal be submitted to another research program under clause (i)(II), provide guidance and direction to—
+
+      (I) the eligible entity; and
+
+      (II) the proposed research program office; or
+
+  (B) if the research proposal is selected for funding—
+
+    (i) provide to the eligible entity that submitted the proposal a written notice of the selection; and
+
+    (ii) seek to enter into an arrangement with the eligible entity to provide funding for the proposed research.
+
+**(e) Coordination.—**
+
+(1) **In general.—** — The Secretary shall ensure that the activities carried out under subsection (c) are coordinated with, and do not duplicate the efforts of, programs of the Department of Transportation and other Federal agencies.
+
+(2) **Intraagency coordination.—** — The Secretary shall coordinate the research carried out under this section with—
+
+  (A) the research, education, and technology transfer activities carried out by grant recipients under section 5505; and
+
+  (B) the research, development, demonstration, and commercial application activities of other relevant programs of the Department of Transportation, including all modal administrations of the Department.
+
+(3) **Interagency collaboration.—** — The Secretary shall coordinate, as appropriate, regarding fundamental research with the potential for application in the transportation sector with—
+
+  (A) the Director of the Office of Science and Technology Policy;
+
+  (B) the Director of the National Science Foundation;
+
+  (C) the Secretary of Energy;
+
+  (D) the Director of the National Institute of Standards and Technology;
+
+  (E) the Secretary of Homeland Security;
+
+  (F) the Administrator of the National Oceanic and Atmospheric Administration;
+
+  (G) the Secretary of Defense; and
+
+  (H) the heads of other appropriate Federal agencies, as determined by the Secretary.
+
+**(f) Review, Evaluation, and Report.—** Not less frequently than biennially, in accordance with the plan developed under section 6503, the Secretary shall—
+
+(1) review and evaluate the pilot program established under subsection (b), including the research carried out under that pilot program; and
+
+(2) make public on a website of the Department of Transportation a report describing the review and evaluation under paragraph (1).
+
+**(g) Federal Share.—**
+
+(1) **In general.—** — The Federal share of the cost of an activity carried out under this section shall not exceed 80 percent.
+
+(2) **Non-federal share.—** — All costs directly incurred by the non-Federal partners (including personnel, travel, facility, and hardware development costs) shall be credited toward the non-Federal share of the cost of an activity carried out under this section.
+
+**(h) Limitation on Certain Expenses.—** Of any amounts made available to carry out this section for a fiscal year, the Secretary may use not more than 1.5 percent for coordination, evaluation, and oversight activities under this section.
+
+**(i) Authorization of Appropriations.—** There is authorized to be appropriated to the Secretary to carry out this section $50,000,000 for each of fiscal years 2022 through 2026.
 
 ### Statutory Notes
 
-Section, added Pub. L. 105–178, title V, § 5111(a), June 9, 1998, 112 Stat. 444; amended Pub. L. 109–59, title V, § 5402(a), Aug. 10, 2005, 119 Stat. 1815; Pub. L. 110–244, title I, §§ 111(g)(3), 116, June 6, 2008, 122 Stat. 1605, 1607, related to grants for university transportation research.
+#### Prior Provisions
+A prior section 5506, added Pub. L. 105–178, title V, § 5111(a), June 9, 1998, 112 Stat. 444; amended Pub. L. 109–59, title V, § 5402(a), Aug. 10, 2005, 119 Stat. 1815; Pub. L. 110–244, title I, §§ 111(g)(3), 116, June 6, 2008, 122 Stat. 1605, 1607, related to grants for university transportation research, prior to repeal by Pub. L. 112–141, div. E, title II, § 52010(a), July 6, 2012, 126 Stat. 887, effective Oct. 1, 2012.
 
-#### Effective Date of Repeal
-Repeal effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+<a id="section-5507"></a>
+## § 5507. Transportation workforce outreach program
+**(a) In General.—** The Secretary of Transportation (referred to in this section as the “Secretary”) shall establish and administer a transportation workforce outreach program, under which the Secretary shall carry out a series of public service announcement campaigns during each of fiscal years 2022 through 2026.
+
+**(b) Purposes.—** The purpose of the campaigns carried out under the program under this section shall be—
+
+(1) to increase awareness of career opportunities in the transportation sector, including aviation pilots, safety inspectors, mechanics and technicians, air traffic controllers, flight attendants, truck and bus drivers, engineers, transit workers, railroad workers, and other transportation professionals; and
+
+(2) to target awareness of professional opportunities in the transportation sector to diverse segments of the population, including with respect to race, sex, ethnicity, ability (including physical and mental ability), veteran status, and socioeconomic status.
+
+**(c) Advertising.—** The Secretary may use, or authorize the use of, amounts made available to carry out the program under this section for the development, production, and use of broadcast, digital, and print media advertising and outreach in carrying out a campaign under this section.
+
+**(d) Funding.—** The Secretary may use to carry out this section any amounts otherwise made available to the Secretary, not to exceed $5,000,000, for each of fiscal years 2022 through 2026.
 
 
 <a id="section-5561"></a>

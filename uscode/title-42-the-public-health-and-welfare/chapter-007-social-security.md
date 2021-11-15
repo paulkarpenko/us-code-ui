@@ -2,7 +2,7 @@
 title: 42
 chapter: '7'
 heading: SOCIAL SECURITY
-section_count: 613
+section_count: 621
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
@@ -27,11 +27,11 @@ Pub. L. 92–603, title III, § 303(a), (b), Oct. 30, 1972, 86 Stat. 1484, provi
 
 1950—Act Aug. 28, 1950, § 361(a), substituted “Federal Security Administrator (hereinafter referred to as the ‘Administrator’)” for “Social Security Board established by subchapter I of this chapter (hereinafter referred to as the ‘Board’)”.
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Effective Date of 1960 Amendment
 Pub. L. 86–778, title VI, § 604, Sept. 13, 1960, 74 Stat. 992, provided that: “The amendments made by section 601 of this Act [amending this section and sections 302, 303, 304, and 306 of this title] shall take effect October 1, 1960, and the amendments made by section 602 [amending [section 1308 of this title](./chapter-007-social-security.md#section-1308)] shall be effective with respect to fiscal years ending after 1960.”
-
-#### Change of Name
-Secretary of Health and Human Services substituted in text for Secretary of Health, Education, and Welfare pursuant to section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
 #### Short Title
 For short title of this chapter and of amendments thereto, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Short Title notes set out thereunder.
@@ -277,6 +277,9 @@ Subsec. (b). Act Aug. 10, 1946, § 501(b), temporarily changed references to cl.
 
 1939—Act Aug. 10, 1939, amended section generally, including substitution of $40 for $30 in subsec. (a).
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (b) pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Effective Date of 1993 Amendment
 Pub. L. 103–66, title XIII, § 13741(c), Aug. 10, 1993, 107 Stat. 663, provided that: “(1) In general.—Except as provided in paragraph (2) of this subsection, the amendments made by subsections (a) and (b) [amending this section and sections 603, 1203, and 1353 of this title and provisions set out as a note under [section 1383 of this title](./chapter-007-social-security.md#section-1383)] shall be effective with respect to calendar quarters beginning on or after April 1, 1994. “(2) Special rule.—In the case of a State whose legislature meets biennially, and does not have a regular session scheduled in calendar year 1994, the amendments made by subsections (a) and (b) shall be effective no later than the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of enactment of this Act [Aug. 10, 1993].”
 
@@ -337,13 +340,13 @@ Act Aug. 10, 1946, ch. 951, title V, § 504, 60 Stat. 993, as amended by act Aug
 #### Effective Date of 1939 Amendment
 Act Aug. 10, 1939, ch. 666, title I, § 102, 53 Stat. 1361, provided that the amendment made by that section is effective Jan. 1, 1940.
 
-#### Transfer of Functions
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
-
-“Fiscal Service” substituted for “Division of Disbursement” in subsec. (b)(3) on authority of section 1(a)(1) of Reorg. Plan No. III of 1940, eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231, set out in the Appendix to Title 5, Government Organization and Employees, which consolidated such division into Fiscal Service of Treasury Department. See [section 306 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section306&num=0&edition=prelim), Money and Finance.
-
 #### Nonduplication of Payments to States: Prohibition of Payments After December 31, 1969
 Prohibition of payments under this subchapter to States with respect to aid or assistance in form of medical or other type of remedial care for any period for which States received payments under subchapter XIX of this chapter or for any period after Dec. 31, 1969, see section 121(b) of Pub. L. 89–97, set out as a note under [section 1396b of this title](./chapter-007-social-security.md#section-1396b).
+
+#### Transfer of Functions
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
+
+“Fiscal Service” substituted for “Division of Disbursement” in subsec. (b)(3) on authority of section 1(a)(1) of Reorg. Plan No. III of 1940, eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231, set out in the Appendix to Title 5, Government Organization and Employees, which consolidated such division into Fiscal Service of Treasury Department. See [section 306 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section306&num=0&edition=prelim), Money and Finance.
 
 
 <a id="section-304"></a>
@@ -368,11 +371,14 @@ Pub. L. 92–603, title III, § 303(a), (b), Oct. 30, 1972, 86 Stat. 1484, provi
 
 1950—Act Aug. 28, 1950, substituted “Administrator” for “Board”, and “he”, “him”, or “his” for “it”, or “its”, wherever appearing.
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Effective Date of 1960 Amendment
 Amendment by Pub. L. 86–778 effective Oct. 1, 1960, see section 604 of Pub. L. 86–778, set out as a note under [section 301 of this title](./chapter-007-social-security.md#section-301).
 
 #### Transfer of Functions
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
 
 <a id="section-305"></a>
@@ -4728,9 +4734,6 @@ Pub. L. 97–35, title XXII, § 2204, Aug. 13, 1981, 95 Stat. 837, provided that
 #### Increased Exempt Amounts for Individuals Described in Subsec. (f)(8)(D); Notification in 1977 to 1981; Individuals Other Than Those Described in Subsec. (f)(8)(D)
 Pub. L. 95–216, title III, § 301(c)(2), Dec. 20, 1997, 91 Stat. 1530, provided that: “No notification with respect to an increased exempt amount for individuals described in section 203(f)(8)(D) of the Social Security Act [[42 U.S.C. 403(f)(8)(D)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section403/f/8/D&num=0&edition=prelim)] (as added by paragraph (1) of this subsection) shall be required under the last sentence of section 203(f)(8)(B) of such Act in 1977, 1978, 1979, 1980, or 1981; and section 203(f)(8)(C) of such Act shall not prevent the new exempt amount determined and published under section 203(f)(8)(A) in 1977 from becoming effective to the extent that such new exempt amount applies to individuals other than those described in section 203(f)(8)(D) of such Act (as so added).”
 
-#### Retirement Test Exempt Amount for 1976
-By notice of the Secretary of Health, Education, and Welfare [now Health and Human Services], Oct. 22, 1975, 40 F.R. 50556, it was determined and announced that, pursuant to authority contained in subsec. (f)(8) of this section, the monthly exempt amount under the retirement test would be $230 with respect to taxable years ending in calendar year 1976.
-
 #### Cost-of-Living Increase in Benefits
 For purposes of subsec. (f)(8) of this section, the increase in benefits provided by section 2 of Pub. L. 93–233, revising benefits table of [section 415(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section415/a&num=0&edition=prelim) and amending sections 427(a), (b) and 428(b)(1), (2), (c)(3)(A), (B) of this title considered an increase under [section 415(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section415/i&num=0&edition=prelim), see section 3(i) of Pub. L. 93–233, set out as a note under [section 415 of this title](./chapter-007-social-security.md#section-415).
 
@@ -5776,7 +5779,7 @@ The Peace Corps Act, referred to in subsec. (p)(1), is Pub. L. 87–293, Sept. 2
 
 Section 3122 of the Internal Revenue Code of 1954, referred to in subsec. (p)(1), redesignated section 3122 of the Internal Revenue Code of 1986 by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, and is classified to [section 3122 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3122&num=0&edition=prelim), Internal Revenue Code.
 
-Section 802 of division FF of the Consolidated Appropriations Act, 2021, referred to in subsec. (r)(3)(A)(i)(III), is section 802 of Pub. L. 116—260, div. FF, Dec. 27, 2020, 134 Stat. 3203, which is not classified to the Code.
+Section 802 of division FF of the Consolidated Appropriations Act, 2021, referred to in subsec. (r)(3)(A)(i)(III), is section 802 of Pub. L. 116–260, div. FF, Dec. 27, 2020, 134 Stat. 3203, which is not classified to the Code.
 
 The Help America Vote Act of 2002, referred to in subsec. (r)(9)(A), is Pub. L. 107–252, Oct. 29, 2002, 116 Stat. 1666, which was formerly classified principally to chapter 146 (§ 15301 et seq.) of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 209 (§ 20901 et seq.) of Title 52. For complete classification of this Act to the Code, see Tables.
 
@@ -6427,9 +6430,6 @@ Act Aug. 10, 1939, ch. 666, title II, § 201, 53 Stat. 1362, provided that the a
 #### Repeals: Amendments and Application of Amendments Unaffected
 Section 202(b)(3) of Pub. L. 87–293, cited as a credit to this section, was repealed by Pub. L. 89–572, § 5(a), Sept. 13, 1966, 80 Stat. 765. Such repeal not deemed to affect amendments to this section contained in such provisions, and continuation in full force and effect until modified by appropriate authority of all determinations, authorization, regulation, orders, contracts, agreements, and other actions issued, undertaken, or entered into under authority of the repealed provisions, see section 5(b) of Pub. L. 89–572, set out as a note under [section 2515 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2515&num=0&edition=prelim), Foreign Relations and Intercourse.
 
-#### Termination of Trust Territory of the Pacific Islands
-For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
-
 #### Regulations
 Pub. L. 115–165, title II, § 201(c), Apr. 13, 2018, 132 Stat. 1266, provided that: “Not later than 18 months after the date of the enactment of this section [Apr. 13, 2018], the Commissioner of Social Security shall promulgate regulations specifying the information an individual is required to provide to the Commissioner in order to designate another individual to serve as the individual’s representative payee under section 205(j)(1)(C) of the Social Security Act [[42 U.S.C. 405(j)(1)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section405/j/1/C&num=0&edition=prelim)] (as added by subsection (a)).”
 
@@ -6497,6 +6497,9 @@ Pub. L. 89–97, title III, § 331(c), July 30, 1965, 79 Stat. 402, provided tha
 
 Pub. L. 86–778, title I, § 101(e), Sept. 13, 1960, 74 Stat. 928, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The provisions of section 205(c)(5)(F) of the Social Security Act [[42 U.S.C. 405(c)(5)(F)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section405/c/5/F&num=0&edition=prelim)], insofar as they prohibit inclusion in the records of the Secretary of Health, Education, and Welfare [now Health and Human Services] of self-employment income for a taxable year when the return or statement including such income is filed after the time limitation following such taxable year, shall not be applicable to earnings which are derived in any taxable year ending before 1960 and which constitute self-employment income solely by reason of the filing of a certificate which is effective under section 1402(e)(3)(B) or (5) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] [former section 1402(e)(3)(B) or (5) of Title 26].”
 
+#### Termination of Trust Territory of the Pacific Islands
+For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
+
 
 <a id="section-405a"></a>
 ## § 405a. Regulations pertaining to frequency or due dates of payments and reports under voluntary agreements covering State and local employees; effective date
@@ -6512,7 +6515,7 @@ Subsec. (e) of [section 418 of this title](./chapter-007-social-security.md#sect
 Section was not enacted as part of the Social Security Act which comprises this chapter.
 
 #### Change of Name
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in text pursuant to section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+“Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
 #### Time for Making Social Security Contributions With Respect to Covered State and Local Employees
 Pub. L. 96–265, title V, § 503(c), June 9, 1980, 94 Stat. 471, provided that: “The provisions of section 7 of Public Law 94–202 [[42 U.S.C. 405a](./chapter-007-social-security.md#section-405a)] shall not be applicable to any regulation which becomes effective on or after July 1, 1980, and which is designed to carry out the purposes of subsection (a) of this section [amending [section 418 of this title](./chapter-007-social-security.md#section-418)].”
@@ -8010,6 +8013,9 @@ The Military Selective Service Act, referred to in subsec. (m)(5)(B), is act Jun
 
 The Peace Corps Act, referred to in subsec. (o), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, which is classified principally to chapter 34 (§ 2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of that Act to the Code, see Short Title note set out under [section 2501 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2501&num=0&edition=prelim) and Tables.
 
+#### Constitutionality
+For information regarding constitutionality of certain provisions of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
+
 #### Amendments
 2018—Subsec. (a)(22). Pub. L. 115–243 added par. (22).
 
@@ -8280,9 +8286,7 @@ Subsec. (k)(3)(C). Act Sept. 1, 1954, § 101(f), struck out requirement that ser
 #### Change of Name
 “United States magistrate judge” substituted for “United States magistrate” in subsec. (a)(5)(E) pursuant to section 321 of Pub. L. 101–650, set out as a note under [section 631 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section631&num=0&edition=prelim), Judiciary and Judicial Procedure.
 
-Coast and Geodetic Survey consolidated with National Weather Bureau in 1965 to form Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out in the Appendix to Title 5, Government Organization and Employees. Commissioned Officer Corps of the Environmental Science Services Administration changed to Commissioned Officer Corps of National Oceanic and Atmospheric Administration, see Reorg. Plan No. 4 of 1970, § 4(d), eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5.
-
-Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 402(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402/c/3&num=0&edition=prelim).
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 204(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section204/c/3&num=0&edition=prelim).
 
 #### Effective Date of 2014 Amendment
 Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1&num=0&edition=prelim), Internal Revenue Code.
@@ -8477,6 +8481,9 @@ Act Sept. 1, 1954, ch. 1206, title I, § 115, 68 Stat. 1087, which prohibited co
 
 #### Termination of War and Emergencies
 Joint Res. July 25, 1947, ch. 327, § 3, 61 Stat. 451, provided that in the interpretation of this section, the date July 25, 1947, shall be deemed to be the date of termination of any state of war theretofore declared by Congress and of the national emergencies proclaimed by the President on Sept. 8, 1939, and May 27, 1941.
+
+#### Change of Name
+Coast and Geodetic Survey consolidated with National Weather Bureau in 1965 to form Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out in the Appendix to Title 5, Government Organization and Employees. Commissioned Officer Corps of the Environmental Science Services Administration changed to Commissioned Officer Corps of National Oceanic and Atmospheric Administration, see Reorg. Plan No. 4 of 1970, § 4(d), eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5.
 
 
 <a id="section-410a"></a>
@@ -10361,6 +10368,9 @@ Subsec. (f)(2). Act July 18, 1952, § 6(a), provided that upon application an in
 
 Subsec. (f)(5), (6). Act July 18, 1952, § 6(b), added par. (5) and redesignated former par. (5) as (6).
 
+#### Change of Name
+“Secretary of Health and Human Services” and “Department of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” and “Department of Health, Education, and Welfare”, respectively, pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Effective Date of 1994 Amendment
 Amendment by section 107(a)(4) of Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under [section 401 of this title](./chapter-007-social-security.md#section-401).
 
@@ -10510,9 +10520,6 @@ Act July 18, 1952, ch. 945, § 2(c)(1), (3), 66 Stat. 768, 769, provided that: �
 
 1952—Act July 18, 1952, ch. 945, § 2(d), 66 Stat. 769, provided that: “(1) Where—“(A) an individual was entitled (without the application of section 202(j)(1) of the Social Security Act [[42 U.S.C. 402(j)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402/j/1&num=0&edition=prelim)]) to an old-age insurance benefit under title II of such Act [[42 U.S.C. 401](./chapter-007-social-security.md#section-401) et seq.] for August 1952; “(B) two or more other persons were entitled (without the application of such section 202(j)(1) [[42 U.S.C. 402(j)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402/j/1&num=0&edition=prelim)]) to monthly benefits under such title for such month on the basis of the wages and self-employment income of such individual; and “(C) the total of the benefits to which all persons are entitled under such title [this subchapter] on the basis of such individual’s wages and self-employment income for any subsequent month for which he is entitled to an old-age insurance benefit under such title, would (but for the provisions of this paragraph) be reduced by reason of the application of section 203(a) of the Social Security Act, as amended by this Act [[42 U.S.C. 403(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section403/a&num=0&edition=prelim)], then the total of benefits, referred to in clause (C), for such subsequent month shall be reduced to whichever of the following is the larger: “(D) the amount determined pursuant to section 203(a) of the Social Security Act, as amended by this Act [[42 U.S.C. 403(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section403/a&num=0&edition=prelim)]; or “(E) the amount determined pursuant to such section, as in effect prior to the enactment of this Act [July 18, 1952], for August 1952 plus the excess of (i) the amount of his old-age insurance benefit for August 1952 computed as if the amendments made by the preceding subsections of this section had been applicable in the case of such benefit for August 1952, over (ii) the amount of his old-age insurance benefit for August 1952. “(2) No increase in any benefit by reason of the amendments made by this section or by reason of paragraph (2) of subsection (c) of this section shall be regarded as a recomputation for purposes of section 215(f) of the Social Security Act [[42 U.S.C. 415(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section415/f&num=0&edition=prelim)].”
 
-#### Transfer of Functions
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, 31 F.R. 8855, 80 Stat. 1610, effective June 25, 1966, set out in the Appendix to Title 5, Government Organization and Employees. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
-
 #### Commission on the Social Security “Notch” Issue
 Pub. L. 102–393, title VI, § 635, Oct. 6, 1992, 106 Stat. 1777, as amended by Pub. L. 103–123, title VI, § 627, Oct. 28, 1993, 107 Stat. 1266, established a Commission on the Social Security “Notch” Issue, provided for its composition, directed Commission to conduct a comprehensive study of what had become known as the “notch” issue and transmit to Congress, not later than Dec. 31, 1994, a report with a detailed statement of its findings and conclusions, together with any recommendations, and provided the Commission terminate 30 days after transmittal of report.
 
@@ -10609,6 +10616,9 @@ Act Sept. 1, 1954, ch. 1206, title I, § 109, 68 Stat. 1084, as amended by Pub. 
 Pub. L. 86–778, title II, § 205(c), Sept. 13, 1960, 74 Stat. 949, provided that: “The primary insurance amount (for purposes of title II of the Social Security Act [[42 U.S.C. 401](./chapter-007-social-security.md#section-401) et seq.]) of any individual who died prior to 1940, and who had not less than six quarters of coverage (as defined in section 213 of such Act [[42 U.S.C. 413](./chapter-007-social-security.md#section-413)]), shall be computed under section 215(a)(2) of such Act [[42 U.S.C. 415(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section415/a/2&num=0&edition=prelim)].”
 
 [Section 205(c) of Pub. L. 86–778 as applicable only in the case of monthly benefits under this subchapter for months after September 1960, on the basis of applications filed in or after such month, see section 205(d) of Pub. L. 86–778, set out as an Effective Date of 1960 Amendment note under [section 402 of this title](./chapter-007-social-security.md#section-402).]
+
+#### Transfer of Functions
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, 31 F.R. 8855, 80 Stat. 1610, effective June 25, 1966, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-416"></a>
@@ -10840,7 +10850,7 @@ except that paragraph (2) of this subsection shall not apply if the Commissioner
 The Internal Revenue Code of 1986, referred to in subsec. (j), is classified generally to Title 26, Internal Revenue Code.
 
 #### Constitutionality
-For constitutionality of section 339(a) of Pub. L. 89–97, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For constitutionality of section 339(a) of Pub. L. 89–97, amending this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
 
 #### Amendments
 2004—Subsec. (c). Pub. L. 108–203, § 414(a), designated existing provisions as par. (1), redesignated former cls. (1) to (6) as cls. (A) to (F), respectively, of par. (1), in cl. (E) inserted “except as provided in paragraph (2),” before “she was married”, in cl. (F) redesignated former subcls. (A) to (C) as subcls. (i) to (iii), respectively, and added par. (2).
@@ -11434,9 +11444,6 @@ Subsec. (a)(1). Act July 5, 1952, § 5(d)(1), inserted provision following cl. (
 
 Subsec. (e). Act July 18, 1952, § 5(a), added subsec. (e).
 
-#### Change of Name
-Coast and Geodetic Survey consolidated with Weather Bureau to form a new agency in Department of Commerce to be known as Environmental Science Services Administration, and commissioned officers of Survey transferred to ESSA, by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out in the Appendix to Title 5, Government Organization and Employees. Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, abolished Environmental Science Services Administration, established National Oceanic and Atmospheric Administration, and redesignated Commissioned Officer Corps of ESSA as Commissioned Officer Corps of NOAA. For further details, see Transfer of Functions note set out under [section 851 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section851&num=0&edition=prelim), Navigation and Navigable Waters.
-
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under [section 401 of this title](./chapter-007-social-security.md#section-401).
 
@@ -11486,6 +11493,9 @@ Pub. L. 85–840, title III, § 314(c)(2), Aug. 28, 1958, 72 Stat. 1037, provide
 
 #### Recomputation of Social Security Benefits of Widows and Children Who Waive Right to Annuity Under Civil Service Retirement Act
 Act Aug. 1, 1956, ch. 837, title IV, § 404(c), 70 Stat. 874, provided that: “In the case of any deceased individual—“(1) who is a World War II veteran (as defined in section 217(d)(2) of the Social Security Act [[42 U.S.C. 417(d)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section417/d/2&num=0&edition=prelim)]) or a veteran (as defined in section 217(e)(4) of such Act); and “(2) whose widow or child is entitled under the Civil Service Retirement Act of May 29, 1930, as amended [see section 8301 et seq. of Title 5, Government Organization and Employees], to an annuity in the computation of which his active military or naval service after September 15, 1940, and before January 1, 1957, was included; and “(3) whose widow or child is entitled under section 202 of the Social Security Act [[42 U.S.C. 402](./chapter-007-social-security.md#section-402)], on the basis of his wages and self-employment income, to a monthly benefit in the computation of which such active military or naval service was excluded (under clause (B) of subsection (a)(1) or (e)(1) of section 217 of such Act) solely by reason of the annuity described in the preceding paragraph; and “(4) whose widow or child is entitled by reason of section 217(f) of the Social Security Act to have such active military or naval service included in the computation of such monthly benefit, the Secretary of Health, Education, and Welfare [now Health and Human Services] shall, notwithstanding the provisions of section 215(f)(1) of the Social Security Act [[42 U.S.C. 415(f)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section415/f/1&num=0&edition=prelim)], recompute the primary insurance amount of such individual upon the filing of an application, after December 1956, by or on behalf of such widow or child. Such recomputation shall be made only in the manner provided in title II of the Social Security Act [[42 U.S.C. 401](./chapter-007-social-security.md#section-401) et seq.] as in effect at the time of such individual’s death, and as though application therefor was filed in the month in which he died. No recomputation made under this subsection shall be regarded as a recomputation under section 215(f) of the Social Security Act. Any such recomputation shall be effective for and after the twelfth month before the month in which the application is filed, but in no case for any month before the first month with respect to which such widow or child is entitled by reason of section 217(f) of the Social Security Act to have such active military or naval service included in the computation of such monthly benefits. The terms used in this subsection shall have the same meaning as when used in title II of the Social Security Act.”
+
+#### Change of Name
+Coast and Geodetic Survey consolidated with Weather Bureau to form a new agency in Department of Commerce to be known as Environmental Science Services Administration, and commissioned officers of Survey transferred to ESSA, by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out in the Appendix to Title 5, Government Organization and Employees. Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, abolished Environmental Science Services Administration, established National Oceanic and Atmospheric Administration, and redesignated Commissioned Officer Corps of ESSA as Commissioned Officer Corps of NOAA. For further details, see Transfer of Functions note set out under [section 851 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section851&num=0&edition=prelim), Navigation and Navigable Waters.
 
 
 <a id="section-418"></a>
@@ -12475,7 +12485,7 @@ June 29, 1956, ch. 477, title II, 70 Stat. 434.
 Aug. 1, 1955, ch. 437, title II, 69 Stat. 408.
 
 #### Review of Decisions Rendered by Administrative Law Judges as Result of Disability Hearings; Report to Congress
-Pub. L. 96–265, title III, § 304(g), June 9, 1980, 94 Stat. 456, required the Secretary of Health and Human Services to implement a program of reviewing decisions rendered by administrative law judges based on hearings under subsec. (d) of of this section and to report to Congress by Jan. 1, 1982, on its progress.
+Pub. L. 96–265, title III, § 304(g), June 9, 1980, 94 Stat. 456, required the Secretary of Health and Human Services to implement a program of reviewing decisions rendered by administrative law judges based on hearings under subsec. (d) of this section and to report to Congress by Jan. 1, 1982, on its progress.
 
 #### Assumption by Secretary of Functions and Operations of State Disability Determination Units
 Pub. L. 96–265, title III, § 304(i), June 9, 1980, 94 Stat. 457, directed Secretary of Health and Human Services to submit to Congress by July 1, 1980, a detailed plan on how he intended to assume functions and operations of a State disability determination unit when this became necessary under amendments made by this section [amending this section], and how he intended to meet requirements of section 221(b)(3) of Social Security Act [[42 U.S.C. 421(b)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section421/b/3&num=0&edition=prelim)]. Such plan was to assume the uninterrupted operation of disability determination function and utilization of best qualified personnel to carry out such function, and was to include recommendations for any amendment of Federal law or regulation required to carry out such plan.
@@ -13159,7 +13169,11 @@ Subsec. (c)(1). Pub. L. 85–840, § 204(b), substituted “fully insured” for
 Subsec. (c)(3). Pub. L. 85–840, § 202(b), inserted “which continues until such application is filed” after “under a disability” in cl. (A), and substituted “eighteenth month” for “sixth month” in three instances in cl. (B).
 
 #### Effective Date of 2020 Amendment
-Pub. L. 116–250, § 2(b), Dec. 22, 2020, 134 Stat. 1128, provided that: “The amendment made by this section [amending this section] shall apply with respect to applications for disability insurance benefits filed after the date of the enactment of this Act [Dec. 22, 2020].”
+Pub. L. 116–250, § 2(b), Dec. 22, 2020, 134 Stat. 1128, as amended by Pub. L. 117–3, § 1(a), Mar. 23, 2021, 135 Stat. 246, provided that: “The amendment made by this section [amending this section] shall apply with respect to applications for disability insurance benefits approved after the date that is 5 months before the date of enactment of this Act [Dec. 22, 2020].”
+
+[Pub. L. 117–3, § 1(b), Mar. 23, 2021, 135 Stat. 246, provided that: “The amendment made by this section [amending section 2(b) of Pub. L. 116–250, set out above] shall take effect as if included in the enactment of the ALS Disability Insurance Access Act of 2019 (Public Law 116–250).” ]
+
+[Pub. L. 117–3, § 1(a), Mar. 23, 2021, 135 Stat. 246, which directed substitution of “applications for disability insurance benefits approved after the date that is 5 months before the date of enactment of this Act” for “applications for disability insurance benefits filed after the date of enactment of this Act” in section 2(b) of Pub. L. 116–250, set out above, was executed by making the substitution for “applications for disability insurance benefits filed after the date of the enactment of this Act” to reflect the probable intent of Congress.]
 
 #### Effective Date of 2015 Amendment
 Pub. L. 114–74, title VIII, § 812(c), Nov. 2, 2015, 129 Stat. 602, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to determinations of disability made on or after the earlier of— “(1) the effective date of the regulations issued by the Commissioner under subsection (b) [set out as a note under this section]; or “(2) one year after the date of the enactment of this Act [Nov. 2, 2015].”
@@ -14465,7 +14479,14 @@ Amendment by Pub. L. 93–66 applicable only with respect to remuneration paid a
 #### Effective Date of 1972 Amendment
 Amendment by Pub. L. 92–603 effective in like manner as if such amendment had been included in title II of Pub. L. 92–336, see section 144(b) of Pub. L. 92–603, set out as a note under [section 403 of this title](./chapter-007-social-security.md#section-403).
 
+#### Cost-of-Living Increase in Benefits
+For purposes of subsec. (a) of this section, the increase in benefits provided by section 2 of Pub. L. 93–233, revising benefits table of [section 415(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section415/a&num=0&edition=prelim) and amending sections 427(a), (b) and 428(b)(1), (2), (c)(3)(A), (B) of this title considered an increase under [section 415(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section415/i&num=0&edition=prelim), see section 3(i) of Pub. L. 93–233, set out as a note under [section 415 of this title](./chapter-007-social-security.md#section-415).
+
 #### Social Security Contribution and Benefit Base
+2021—By notice of the Commissioner of Social Security, Oct. 22, 2020, 85 F.R. 67413, it was determined and announced that the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2021 is $142,800.
+
+2020—By notice of the Commissioner of Social Security, Oct. 22, 2019, 84 F.R. 56515, it was determined and announced that the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2020 is $137,700.
+
 2019—By notice of the Commissioner of Social Security, Oct. 24, 2018, 83 F.R. 53702, it was determined and announced that the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2019 is $132,900.
 
 2018—By notice of the Commissioner of Social Security, Dec. 15, 2017, 82 F.R. 59937, it was determined and announced that the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2018 is $128,400.
@@ -14545,9 +14566,6 @@ Amendment by Pub. L. 92–603 effective in like manner as if such amendment had 
 1977—By notice of the Secretary of Health, Education, and Welfare, Oct. 7, 1976, 41 F.R. 44878, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base with respect to remuneration paid in, and taxable years beginning in, 1977 is $16,500.
 
 1976—By notice of the Secretary of Health, Education, and Welfare, Oct. 22, 1975, 40 F.R. 50556, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base with respect to remuneration paid in, and taxable years beginning in, 1976 is $15,300.
-
-#### Cost-of-Living Increase in Benefits
-For purposes of subsec. (a) of this section, the increase in benefits provided by section 2 of Pub. L. 93–233, revising benefits table of [section 415(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section415/a&num=0&edition=prelim) and amending sections 427(a), (b) and 428(b)(1), (2), (c)(3)(A), (B) of this title considered an increase under [section 415(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section415/i&num=0&edition=prelim), see section 3(i) of Pub. L. 93–233, set out as a note under [section 415 of this title](./chapter-007-social-security.md#section-415).
 
 
 <a id="section-431"></a>
@@ -14825,6 +14843,9 @@ Pub. L. 99–603, title I, § 121(c)(2), Nov. 6, 1986, 100 Stat. 3391, provided 
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under [section 401 of this title](./chapter-007-social-security.md#section-401).
 
+#### Report on Method of Allocating Administrative Funds Among States
+Pub. L. 102–164, title III, § 304, Nov. 15, 1991, 105 Stat. 1061, as amended by Pub. L. 102–318, title V, § 533, July 3, 1992, 106 Stat. 317, provided that: “(a) In General.—The Secretary of Labor shall submit to the Congress, before December 31, 1994, a comprehensive report setting forth a proposal for revising the method of allocating grants among the States under section 302 of the Social Security Act [[42 U.S.C. 502](./chapter-007-social-security.md#section-502)]. “(b) Specific Requirements.—The report required by subsection (a) shall include an analysis of—“(1) the use of unemployment insurance workload levels as the primary factor in allocating grants among the States under section 302 of the Social Security Act [[42 U.S.C. 502](./chapter-007-social-security.md#section-502)], “(2) ways to ensure that each State receive not less than a minimum grant amount for each fiscal year, “(3) the use of nationally available objective data to determine the unemployment compensation administrative costs of each State, with consideration of legitimate cost differences among the States, “(4) ways to simplify the method of allocating such grants among the States, “(5) ways to eliminate the disincentives to productivity and efficiency which exist in the current method of allocating such grants among the States, “(6) ways to promote innovation and cost-effective practices in the method of allocating such grants among the States, and “(7) the effect of the proposal set forth in such report on the grant amounts allocated to each State. “(c) Congressional Review Period.—The Secretary of Labor may not revise the method in effect on the date of the enactment of this Act [Nov. 15, 1991] for allocating grants among the States under section 302 of the Social Security Act [[42 U.S.C. 502](./chapter-007-social-security.md#section-502)], until after the expiration of the 12-month period beginning on the date on which the report required by subsection (a) is submitted to the Congress.”
+
 #### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of Labor, with certain exceptions, to Secretary of Labor, with power to delegate, see Reorg. Plan No. 6 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -14833,9 +14854,6 @@ Functions of Federal Security Administrator with respect to unemployment compens
 Section 1 of Reorg. Plan No. 2 of 1949, also provided that functions transferred by this section shall be performed by Secretary of Labor, or subject to his direction and control, by such officers, agencies, and employees of Department of Labor as he shall designate.
 
 “Administrator” substituted for “Board” by section 4 of Reorg. Plan No. 2 of 1946, set out in the Appendix to Title 5.
-
-#### Report on Method of Allocating Administrative Funds Among States
-Pub. L. 102–164, title III, § 304, Nov. 15, 1991, 105 Stat. 1061, as amended by Pub. L. 102–318, title V, § 533, July 3, 1992, 106 Stat. 317, provided that: “(a) In General.—The Secretary of Labor shall submit to the Congress, before December 31, 1994, a comprehensive report setting forth a proposal for revising the method of allocating grants among the States under section 302 of the Social Security Act [[42 U.S.C. 502](./chapter-007-social-security.md#section-502)]. “(b) Specific Requirements.—The report required by subsection (a) shall include an analysis of—“(1) the use of unemployment insurance workload levels as the primary factor in allocating grants among the States under section 302 of the Social Security Act [[42 U.S.C. 502](./chapter-007-social-security.md#section-502)], “(2) ways to ensure that each State receive not less than a minimum grant amount for each fiscal year, “(3) the use of nationally available objective data to determine the unemployment compensation administrative costs of each State, with consideration of legitimate cost differences among the States, “(4) ways to simplify the method of allocating such grants among the States, “(5) ways to eliminate the disincentives to productivity and efficiency which exist in the current method of allocating such grants among the States, “(6) ways to promote innovation and cost-effective practices in the method of allocating such grants among the States, and “(7) the effect of the proposal set forth in such report on the grant amounts allocated to each State. “(c) Congressional Review Period.—The Secretary of Labor may not revise the method in effect on the date of the enactment of this Act [Nov. 15, 1991] for allocating grants among the States under section 302 of the Social Security Act [[42 U.S.C. 502](./chapter-007-social-security.md#section-502)], until after the expiration of the 12-month period beginning on the date on which the report required by subsection (a) is submitted to the Congress.”
 
 
 <a id="section-503"></a>
@@ -15273,14 +15291,6 @@ Pub. L. 96–249, title I, § 127(b)(3), May 26, 1980, 94 Stat. 367, provided th
 #### Transfer of Functions
 Functions, powers, and duties of Secretary of Labor under subsec. (a)(1) of this section, insofar as relates to the prescription of personnel standards on a merit basis, transferred to Office of Personnel Management, see [section 4728(a)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4728/a/2/B&num=0&edition=prelim).
 
-For transfer of functions of other officers, employees, and agencies of Department of Labor, with certain exceptions, to Secretary of Labor, with to delegate, see Reorg. Plan No. 6 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
-
-Functions of Federal Security Administrator with respect to unemployment compensation transferred to Secretary of Labor by section 1 of Reorg. Plan No. 2 of 1949 set out in the Appendix to Title 5.
-
-Section 1 of Reorg. Plan No. 2 of 1949 also provided that functions transferred by this section shall be performed by Secretary of Labor, or subject to his direction and control, by such officers, agencies, and employees of Department of Labor as he shall designate.
-
-“Administrator” substituted for “Board” by section 2 of Reorg. Plan No. 2 of 1946, set out in the Appendix to Title 5.
-
 #### Application to Federal Payments
 Pub. L. 112–40, title II, § 251(b), Oct. 21, 2011, 125 Stat. 421, provided that: “(1) In general.—As a condition for administering any unemployment compensation program of the United States (as defined in paragraph (2)) as an agent of the United States, if the State determines that an erroneous payment was made by the State to an individual under any such program due to fraud committed by such individual, the State shall assess a penalty on such individual and deposit any such penalty received in the same manner as the State assesses and deposits such penalties under provisions of State law implementing section 303(a)(11) of the Social Security Act [[42 U.S.C. 503(a)(11)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section503/a/11&num=0&edition=prelim)], as added by subsection (a). “(2) Definition.—For purposes of this subsection, the term ‘unemployment compensation program of the United States’ means—“(A) unemployment compensation for Federal civilian employees under subchapter I of chapter 85 of title 5, United States Code; “(B) unemployment compensation for ex-servicemembers under subchapter II of chapter 85 of title 5, United States Code; “(C) trade readjustment allowances under sections 231 through 234 of the Trade Act of 1974 ([19 U.S.C. 2291–229](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2291–229&num=0&edition=prelim)4); “(D) disaster unemployment assistance under section 410(a) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5177(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5177/a&num=0&edition=prelim)); “(E) any Federal temporary extension of unemployment compensation; “(F) any Federal program which increases the weekly amount of unemployment compensation payable to individuals; and “(G) any other Federal program providing for the payment of unemployment compensation.”
 
@@ -15292,6 +15302,15 @@ Pub. L. 103–152, § 4(c), Nov. 24, 1993, 107 Stat. 1518, provided that: “The
 
 #### Profiling System Report to Congress
 Pub. L. 103–152, § 4(d), Nov. 24, 1993, 107 Stat. 1518, provided that, not later than 3 years after Nov. 24, 1993, the Secretary of Labor was to report to the Congress on the operation and effectiveness of the profiling system required under the amendments made by section 4(a) of Pub. L. 103–152 (amending this section and [section 504 of this title](./chapter-007-social-security.md#section-504)) and the participation requirement provided by the amendments made under section 4(b) of Pub. L. 103–152 (amending this section).
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of Labor, with certain exceptions, to Secretary of Labor, with to delegate, see Reorg. Plan No. 6 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+
+Functions of Federal Security Administrator with respect to unemployment compensation transferred to Secretary of Labor by section 1 of Reorg. Plan No. 2 of 1949 set out in the Appendix to Title 5.
+
+Section 1 of Reorg. Plan No. 2 of 1949 also provided that functions transferred by this section shall be performed by Secretary of Labor, or subject to his direction and control, by such officers, agencies, and employees of Department of Labor as he shall designate.
+
+“Administrator” substituted for “Board” by section 2 of Reorg. Plan No. 2 of 1946, set out in the Appendix to Title 5.
 
 
 <a id="section-504"></a>
@@ -16110,7 +16129,7 @@ Pub. L. 90–248, title II, § 202(d), Jan. 2, 1968, 81 Stat. 882, provided that
 
     (ii) *Private industry council* — As used in this paragraph, the term “private industry council” means, with respect to a service delivery area, the private industry council or local workforce development board established for the local workforce development area pursuant to title I of the Workforce Innovation and Opportunity Act [[29 U.S.C. 3111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3111&num=0&edition=prelim) et seq.], as appropriate.
 
-    (iii) *Service delivery area* — As used in this paragraph, the term “service delivery area” shall have the meaning given such term for purposes of the Job Training Partnership Act or.66 So in original.
+    (iii) *Service delivery area* — As used in this paragraph, the term “service delivery area” shall have the meaning given such term for purposes of the Job Training Partnership Act or.55 So in original.
 
   (E) *Funding for Indian tribes* — 1 percent of the amount specified in subparagraph (H) for fiscal year 1998 and $15,000,000 of the amount so specified for fiscal year 1999 shall be reserved for grants to Indian tribes under [section 612(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section612/a/3&num=0&edition=prelim).
 
@@ -16280,6 +16299,78 @@ Pub. L. 90–248, title II, § 202(d), Jan. 2, 1968, 81 Stat. 882, provided that
 
 (8) **Annual reports** — The Secretary shall annually report to the Congress on the status of the Fund.
 
+**(c) Pandemic emergency assistance**
+
+(1) **Appropriation** — In addition to amounts otherwise available, there is appropriated for fiscal year 2021, out of any money in the Treasury of the United States not otherwise appropriated, $1,000,000,000, to remain available until expended, to carry out this subsection.
+
+(2) **Reservation of funds for technical assistance** — Of the amount specified in paragraph (1), the Secretary shall reserve $2,000,000 for administrative expenses and the provision of technical assistance to States and Indian tribes with respect to the use of funds provided under this subsection.
+
+(3) **Allotments**
+
+  (A) *50 states and the District of Columbia*
+
+    (i) *Total amount to be allotted* — The Secretary shall allot a total of 92.5 percent of the amount specified in paragraph (1) that is not reserved under paragraph (2) among the States that are not a territory and that are operating a program funded under this part, in accordance with clause (ii) of this subparagraph.
+
+    (ii) *Allotment formula* — The Secretary shall allot to each such State the sum of the following percentages of the total amount described in clause (i):
+
+      (I) 50 percent, multiplied by—
+
+        (aa) the population of children in the State, determined on the basis of the most recent population estimates as determined by the Bureau of the Census; divided by
+
+        (bb) the total population of children in the States that are not territories, as so determined; plus
+
+      (II) 50 percent, multiplied by—
+
+        (aa) the total amount expended by the State for basic assistance, non-recurrent short term benefits, and emergency assistance in fiscal year 2019, as reported by the State under [section 611 of this title](./chapter-007-social-security.md#section-611); divided by
+
+        (bb) the total amount expended by the States that are not territories for basic assistance, non-recurrent short term benefits, and emergency assistance in fiscal year 2019, as so reported by the States.
+
+  (B) *Territories and Indian Tribes* — The Secretary shall allot among the territories and Indian tribes otherwise eligible for a grant under this part such portions of 7.5 percent of the amount specified in paragraph (1) that are not reserved under paragraph (2) as the Secretary deems appropriate based on the needs of the territory or Indian tribe involved.
+
+  (C) *Expenditure commitment requirement* — To receive the full amount of funding payable under this subsection, a State or Indian tribe shall inform the Secretary as to whether it intends to use all of its allotment under this paragraph and provide that information—
+
+    (i) in the case of a State that is not a territory, within 45 days after March 11, 2021; or
+
+    (ii) in the case of a territory or an Indian tribe, within 90 days after such date.
+
+(4) **Grants**
+
+  (A) *In general* — The Secretary shall provide funds to each State and Indian tribe to which an amount is allotted under paragraph (3), from the amount so allotted.
+
+  (B) *Treatment of unused funds*
+
+    (i) *Reallotment* — The Secretary shall reallot in accordance with paragraph (3) all funds provided to any State or Indian tribe under this subsection that are unused, among the other States and Indian tribes eligible for funds under this subsection. For purposes of paragraph (3), the Secretary shall treat the funds as if included in the amount specified in paragraph (1).
+
+    (ii) *Provision* — The Secretary shall provide funds to each such other State or Indian tribe in an amount equal to the amount so reallotted.
+
+(5) **Recipient of funds provided for territories** — In the case of a territory not operating a program funded under this part, the Secretary shall provide the funds required to be provided to the territory under this subsection, to the agency that administers the bulk of local human services programs in the territory.
+
+(6) **Use of funds**
+
+  (A) *In general* — A State or Indian tribe to which funds are provided under this subsection may use the funds only for non-recurrent short term benefits, whether in the form of cash or in other forms.
+
+  (B) *Limitation on use for administrative expenses* — A State to which funds are provided under this subsection shall not expend more than 15 percent of the funds for administrative purposes.
+
+  (C) *Nonsupplantation* — Funds provided under this subsection shall be used to supplement and not supplant other Federal, State, or tribal funds for services and activities that promote the purposes of this part.
+
+  (D) *Expenditure deadline*
+
+    (i) *In general* — Except as provided in clause (ii), a State or Indian tribe to which funds are provided under this subsection shall expend the funds not later than the end of fiscal year 2022.
+
+    (ii) *Exception for reallotted funds* — A State or Indian tribe to which funds are provided under paragraph (4)(B) shall expend the funds within 12 months after receipt.
+
+(7) **Suspension of territory spending cap** — [Section 1308 of this title](./chapter-007-social-security.md#section-1308) shall not apply with respect to any funds provided under this subsection.
+
+(8) **Definitions** — In this subsection:
+
+  (A) *Applicable period* — The term “applicable period” means the period that begins with April 1, 2021, and ends with September 30, 2022.
+
+  (B) *Non-recurrent short term benefits* — The term “non-recurrent short term benefits” has the meaning given the term in OMB approved Form ACF–196R, published on July 31, 2014.
+
+  (C) *State* — The term “State” means the 50 States of the United States, the District of Columbia, and the territories.
+
+  (D) *Territory* — The term “territory” means the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+
 ### Statutory Notes
 
 #### References in Text
@@ -16302,6 +16393,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 A prior section 603, acts Aug. 14, 1935, ch. 531, title IV, § 403, 49 Stat. 628; Aug. 10, 1939, ch. 666, title IV, § 402, 53 Stat. 1380; Aug. 10, 1946, ch. 951, title V, § 502, 60 Stat. 992; June 14, 1948, ch. 468, § 3(b), 62 Stat. 439; Aug. 28, 1950, ch. 809, title III, pt. 2, § 322(a), pt. 6, § 361(c), (d), 64 Stat. 550, 558; July 18, 1952, ch. 945, § 8(b), 66 Stat. 778; Sept. 1, 1954, ch. 1206, title III, § 303(a), 68 Stat. 1097; Aug. 1, 1956, ch. 836, title III, §§ 302, 312(c), 342, 351(a), 70 Stat. 847, 849, 852, 854; Aug. 28, 1958, Pub. L. 85–840, title V, § 502, 72 Stat. 1048; July 25, 1962, Pub. L. 87–543, title I, §§ 101(a)(2), (b)(2)(A)–(C), 104(a)(3)(C), 108(b), (c), 76 Stat. 174, 180, 185, 190; July 30, 1965, Pub. L. 89–97, title I, § 122, title IV, § 401(c), 79 Stat. 353, 415; Jan. 2, 1968, Pub. L. 90–248, title II, §§ 201(c)–(e)(3), 205(b), 206(a), 207(b), 208, 241(b)(2), (3), 81 Stat. 879, 880, 892–894, 916; June 28, 1968, Pub. L. 90–364, title III, § 301, 82 Stat. 273; July 9, 1969, Pub. L. 91–41, § 3, 83 Stat. 45; Dec. 28, 1971, Pub. L. 92–223, § 3(a)(8), (9), 85 Stat. 805; Oct. 20, 1972, Pub. L. 92–512, title III, § 301(b)–(d), 86 Stat. 946, 947; Oct. 30, 1972, Pub. L. 92–603, title II, §§ 299E(d), 299F, 86 Stat. 1462, 1463; Jan. 4, 1975, Pub. L. 93–647, §§ 3(a)(3), (4), (e)(2), 5(b), 101(c)(6)(A), 88 Stat. 2348–2350, 2360; Aug. 9, 1975, Pub. L. 94–88, title II, § 204, 89 Stat. 435; Nov. 12, 1977, Pub. L. 95–171, § 3(a)(1), 91 Stat. 1354; Dec. 20, 1977, Pub. L. 95–216, title IV, §§ 401, 402(a), 91 Stat. 1559, 1560; June 9, 1980, Pub. L. 96–265, title IV, §§ 401(g), (h), 406(a), 407(c), 94 Stat. 462, 465, 467; Aug. 13, 1981, Pub. L. 97–35, title XXI, §§ 2181(a)(1), 2184(b)(1), title XXIII, §§ 2307(b), 2315(b), 2317(a), 2319(a)–(c), 2353(b)(1), (d), 95 Stat. 815, 817, 848, 855–857, 872; Sept. 3, 1982, Pub. L. 97–248, title I, §§ 154(b), 156(a)–(c), 157(a), 96 Stat. 397–399; July 18, 1984, Pub. L. 98–369, div. B, title VI, § 2663(c)(2), (j)(2)(B)(i), (3)(B)(i), 98 Stat. 1166, 1170, 1171; Aug. 16, 1984, Pub. L. 98–378, § 9(b), 98 Stat. 1316; Nov. 6, 1986, Pub. L. 99–603, title I, § 121(b)(1), 100 Stat. 3390; Dec. 22, 1987, Pub. L. 100–203, title IX, § 9102(c), 101 Stat. 1330–300; Oct. 13, 1988, Pub. L. 100–485, title II, §§ 201(c), (d), 202(b)(4)–(6), 204(b)(2), title III, §§ 302(b)(2), 304(b)(2), title VI, §§ 601(c)(1), 606, 609(a), 102 Stat. 2372, 2377, 2381, 2384, 2393, 2407, 2410, 2424; Dec. 19, 1989, Pub. L. 101–239, title VIII, § 8004(b), 103 Stat. 2460; Nov. 5, 1990, Pub. L. 101–508, title V, § 5081(b), 104 Stat. 1388–235; Aug. 10, 1993, Pub. L. 103–66, title XIII, § 13741(a), 107 Stat. 663; July 27, 1995, Pub. L. 104–19, title I, 109 Stat. 215; Apr. 26, 1996, Pub. L. 104–134, title III, 110 Stat. 1321–355; Aug. 22, 1996, Pub. L. 104–193, title I, § 103(c)(2)(B), 110 Stat. 2161; June 12, 1997, Pub. L. 105–18, title II, 111 Stat. 204, related to payments to States with approved plans for aid and services to needy families with children, prior to repeal by Pub. L. 104–193, § 103(a)(1), as amended by Pub. L. 105–33, title V, § 5514(c), Aug. 5, 1997, 111 Stat. 620, effective July 1, 1997.
 
 #### Amendments
+2021—Subsec. (c). Pub. L. 117–2 added subsec. (c).
+
 2017—Subsec. (a)(1)(A). Pub. L. 115–31, § 102(a)(1), substituted “each of fiscal years 2017 and 2018” for “fiscal year 2012”.
 
 Subsec. (a)(1)(B). Pub. L. 115–31, § 102(c)(2), inserted “, reduced by the percentage specified in [section 613(h)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section613/h/1&num=0&edition=prelim) with respect to the fiscal year,” before “as the amount”.
@@ -16582,7 +16675,7 @@ Pub. L. 108–40, § 8, June 30, 2003, 117 Stat. 838, provided that: “The amen
 Pub. L. 106–554, § 1(a)(1) [title I, § 107(d)], Dec. 21, 2000, 114 Stat. 2763, 2763A–12, provided that: “The amendments made by subsections (a), (b), and (c) of this section [amending this section and [section 612 of this title](./chapter-007-social-security.md#section-612)] shall take effect on October 1, 2000.”
 
 #### Effective Date of 1999 Amendment
-Pub. L. 106–113, div. B, § 1000(a)(4) [title VIII, § 801(e)], Nov. 29, 1999, 113 Stat. 1535, 1501A–283, provided that: “The amendments made by this section [amending this section and sections 604 and 612 of this title]— “(1) shall be effective January 1, 2000, with respect to the determination of eligible individuals for purposes of section 403(a)(5)(B) of the Social Security Act [[42 U.S.C. 603(a)(5)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section603/a/5/B&num=0&edition=prelim)] (relating to competitive grants); “(2) shall be effective July 1, 2000, except that expenditures from allotments to the States shall not be made before October 1, 2000—“(A) with respect to the determination of eligible individuals for purposes of section 403(a)(5)(A) of the Social Security Act [[42 U.S.C. 603(a)(5)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section603/a/5/A&num=0&edition=prelim)] (relating to formula grants) in the case of those individuals who may be determined to be so eligible, but would not have been eligible before July 1, 2000; or “(B) for allowable activities described in section 403(a)(5)(C)(i)(VII) of the Social Security Act [[42 U.S.C. 603(a)(5)(C)(i)(VII)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section603/a/5/C/i/VII&num=0&edition=prelim)] (as added by [section 802 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section802&num=0&edition=prelim)) provided to any individuals determined to be eligible for purposes of section 403(a)(5)(A) of the Social Security Act (relating to formula grants).”
+Pub. L. 106–113, div. B, § 1000(a)(4) [title VIII, § 801(e)], Nov. 29, 1999, 113 Stat. 1535, 1501A–283, provided that: “The amendments made by this section [amending this section and sections 604 and 612 of this title]— “(1) shall be effective January 1, 2000, with respect to the determination of eligible individuals for purposes of section 403(a)(5)(B) of the Social Security Act [[42 U.S.C. 603(a)(5)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section603/a/5/B&num=0&edition=prelim)] (relating to competitive grants); “(2) shall be effective July 1, 2000, except that expenditures from allotments to the States shall not be made before October 1, 2000—“(A) with respect to the determination of eligible individuals for purposes of section 403(a)(5)(A) of the Social Security Act [[42 U.S.C. 603(a)(5)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section603/a/5/A&num=0&edition=prelim)] (relating to formula grants) in the case of those individuals who may be determined to be so eligible, but would not have been eligible before July 1, 2000; or “(B) for allowable activities described in section 403(a)(5)(C)(i)(VII) of the Social Security Act [[42 U.S.C. 603(a)(5)(C)(i)(VII)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section603/a/5/C/i/VII&num=0&edition=prelim)] (as added by [section 802 of this title](./chapter-007-social-security.md#section-802)) provided to any individuals determined to be eligible for purposes of section 403(a)(5)(A) of the Social Security Act (relating to formula grants).”
 
 #### Effective Date of 1998 Amendments
 Pub. L. 105–306, § 6(b), Oct. 28, 1998, 112 Stat. 2928, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as if included in the enactment of section 5001 of the Balanced Budget Act of 1997 [Pub. L. 105–33].”
@@ -18889,7 +18982,7 @@ Section effective July 1, 1997, with transition rules relating to State options 
 
 (2) **Remainder**
 
-  (A) *Grants* — The Secretary shall use any amounts appropriated for a fiscal year under paragraph (3), and remaining after the reservation described in paragraph (4) and after grants are awarded under paragraph (1), to make grants to States under this paragraph.
+  (A) *Grants* — The Secretary shall use any amounts appropriated for a fiscal year under paragraph (3)(A), after grants are awarded under paragraph (1), to make grants to States under this paragraph.
 
   (B) *Allotments to States* — The total amount available for payments to States under this paragraph, as determined under subparagraph (A), shall be allotted among the States based on the formula used for determining the amount of Federal payments to each State under [section 603(n) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section603/n&num=0&edition=prelim) (as in effect before October 1, 1995).
 
@@ -18901,9 +18994,25 @@ Section effective July 1, 1997, with transition rules relating to State options 
 
     (ii) *Time of determination and distribution* — The determination of the Secretary under clause (i) for a fiscal year shall be made not later than the end of the first quarter of the subsequent fiscal year. The redistribution of amounts under clause (i) shall be made as close as practicable to the date on which such determination is made. Any amount made available to a State from an appropriation for a fiscal year in accordance with this subparagraph shall, for purposes of this part, be regarded as part of such State’s payment (as determined under this subsection) for the fiscal year in which the redistribution is made.
 
-(3) **Appropriation** — For grants under this section, there are appropriated $2,917,000,000 for each of fiscal years 2017 and 2018.
+(3) **Appropriation** — For grants under this section, there are appropriated $3,550,000,000 for each fiscal year, of which—
 
-(4) **Indian tribes** — The Secretary shall reserve not less than 1 percent, and not more than 2 percent, of the aggregate amount appropriated to carry out this section in each fiscal year for payments to Indian tribes and tribal organizations.
+  (A) $3,375,000,000 shall be available for grants to States;
+
+  (B) $100,000,000 shall be available for grants to Indian tribes and tribal organizations; and
+
+  (C) $75,000,000 shall be available for grants to territories.
+
+(4) **Territories**
+
+  (A) *Grants* — The Secretary shall use the amounts made available by paragraph (3)(C) to make grants to the territories under this paragraph.
+
+  (B) *Allotments* — The amount described in subparagraph (A) shall be allotted among the territories in proportion to their respective needs.
+
+  (C) *Redistribution* — The 1st sentence of clause (i) and clause (ii) of paragraph (2)(D) shall apply with respect to the amounts allotted to the territories under this paragraph, except that the 2nd sentence of paragraph (2)(D) shall not apply and the amounts allotted to the territories that are available for redistribution for a fiscal year shall be redistributed to each territory that applies for the additional amounts, to the extent that the Secretary determines that the territory will be able to use the additional amounts to provide child care assistance, in an amount that bears the same ratio to the amount so available for redistribution as the amount allotted to the territory for the fiscal year bears to the total amount allotted to all the territories receiving redistributed funds under this paragraph for the fiscal year.
+
+  (D) *Inapplicability of payment limitation* — [Section 1308(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1308/a&num=0&edition=prelim) shall not apply with respect to any amount paid under this paragraph.
+
+  (E) *Territory* — In this paragraph, the term “territory” means the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
 (5) **Data used to determine State and Federal shares of expenditures** — In making the determinations concerning expenditures required under paragraphs (1) and (2)(C), the Secretary shall use information that was reported by the State on ACF Form 231 and available as of the applicable dates specified in clauses (i)(I), (ii), and (iii)(III) of section 603(a)(1)(D) 11 See References in Text note below. of this title.
 
@@ -18925,6 +19034,12 @@ Section effective July 1, 1997, with transition rules relating to State options 
 The Child Care and Development Block Grant Act of 1990, referred to in subsec. (c), is subchapter C (§ 658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, § 5082(2), Nov. 5, 1990, 104 Stat. 1388–236, which is classified generally to subchapter II–B (§ 9857 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see [section 9857(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9857/a&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2021—Subsec. (a)(2)(A). Pub. L. 117–2, § 9801(a)(2), substituted “paragraph (3)(A),” for “paragraph (3), and remaining after the reservation described in paragraph (4) and”.
+
+Subsec. (a)(3). Pub. L. 117–2, § 9801(a)(1), amended par. (3) generally. Prior to amendment, text read as follows: “For grants under this section, there are appropriated $2,917,000,000 for each of fiscal years 2017 and 2018.”
+
+Subsec. (a)(4). Pub. L. 117–2, § 9801(c), amended par. (4) generally. Prior to amendment, text read as follows: “The Secretary shall reserve not less than 1 percent, and not more than 2 percent, of the aggregate amount appropriated to carry out this section in each fiscal year for payments to Indian tribes and tribal organizations.”
+
 2017—Subsec. (a)(3). Pub. L. 115–31 substituted “each of fiscal years 2017 and 2018” for “fiscal year 2012”.
 
 2012—Subsec. (a)(3). Pub. L. 112–96 substituted “appropriated $2,917,000,000 for fiscal year 2012.” for “appropriated—” and struck out subpars. (A) to (G) which appropriated amounts for fiscal years 1997 to 2010.
@@ -18964,6 +19079,9 @@ Pub. L. 105–33, title V, § 5603, Aug. 5, 1997, 111 Stat. 646, provided that: 
 
 #### Effective Date
 Section effective Oct. 1, 1996, see section 615 of Pub. L. 104–193, set out as an Effective Date of 1996 Amendment note under [section 9858 of this title](./chapter-105-community-services-programs.md#section-9858).
+
+#### Modification of State Match Requirement for Funding Increases in Fiscal Years 2021 and 2022
+Pub. L. 117–2, title IX, § 9801(b), Mar. 11, 2021, 135 Stat. 207, provided that: “With respect to the amounts made available by section 418(a)(3) of the Social Security Act [[42 U.S.C. 618(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section618/a/3&num=0&edition=prelim)] for each of fiscal years 2021 and 2022, section 418(a)(2)(C) of such Act [[42 U.S.C. 618(a)(2)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section618/a/2/C&num=0&edition=prelim)] shall be applied and administered with respect to any State that is entitled to receive the entire amount that would be allotted to the State under section 418(a)(2)(B) of such Act [[42 U.S.C. 618(a)(2)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section618/a/2/B&num=0&edition=prelim)] for the fiscal year in the manner authorized for fiscal year 2020, as if the Federal medical assistance percentage for the State for the fiscal year were 100 percent.”
 
 
 <a id="section-619"></a>
@@ -20457,7 +20575,7 @@ Amendment by Pub. L. 107–133 effective Jan. 17, 2002, with delay permitted if 
 
 <a id="section-629f"></a>
 ## § 629f. Authorization of appropriations; reservation of certain amounts
-**(a) Authorization** In addition to any amount otherwise made available to carry out this subpart, there are authorized to be appropriated to carry out this subpart $345,000,000 for each of fiscal years 2017 through 2021.
+**(a) Authorization** In addition to any amount otherwise made available to carry out this subpart, there are authorized to be appropriated to carry out this subpart $345,000,000 for each of fiscal years 2017 through 2022.
 
 **(b) Reservation of certain amounts** From the amount specified in subsection (a) for a fiscal year, the Secretary shall reserve amounts as follows:
 
@@ -20473,7 +20591,7 @@ Amendment by Pub. L. 107–133 effective Jan. 17, 2002, with delay permitted if 
 
 (4) **Support for monthly caseworker visits**
 
-  (A) *Reservation* — The Secretary shall reserve for allotment in accordance with [section 629c(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section629c/e&num=0&edition=prelim) $20,000,000 for each of fiscal years 2017 through 2021.
+  (A) *Reservation* — The Secretary shall reserve for allotment in accordance with [section 629c(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section629c/e&num=0&edition=prelim) $20,000,000 for each of fiscal years 2017 through 2022.
 
   (B) *Use of funds*
 
@@ -20481,14 +20599,11 @@ Amendment by Pub. L. 107–133 effective Jan. 17, 2002, with delay permitted if 
 
     (ii) *Nonsupplantation* — A State to which an amount is paid from amounts reserved pursuant to subparagraph (A) shall not use the amount to supplant any Federal funds paid to the State under part E that could be used as described in clause (i).
 
-(5) **Regional partnership grants** — The Secretary shall reserve for awarding grants under [section 629g(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section629g/f&num=0&edition=prelim) $20,000,000 for each of fiscal years 2017 through 2021.
+(5) **Regional partnership grants** — The Secretary shall reserve for awarding grants under [section 629g(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section629g/f&num=0&edition=prelim) $20,000,000 for each of fiscal years 2017 through 2022.
 
 **(c) Support for foster family homes** Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated to the Secretary for fiscal year 2018, $8,000,000 for the Secretary to make competitive grants to States, Indian tribes, or tribal consortia to support the recruitment and retention of high-quality foster families to increase their capacity to place more children in family settings, focused on States, Indian tribes, or tribal consortia with the highest percentage of children in non-family settings. The amount appropriated under this subparagraph shall remain available through fiscal year 2022.
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 116–260, div. CC, title III, § 305(a), (c), Dec. 27, 2020, 134 Stat. 2994, 2995, provided that, effective Oct. 1, 2021, this section is amended in each of subsections (a), (b)(4)(A), (b)(5), and (f)(10) by striking “2021” and inserting “2022”. See 2020 Amendment notes below.
 
 #### Prior Provisions
 A prior section 436 of act Aug. 14, 1935, was classified to [section 636 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section636&num=0&edition=prelim) prior to repeal by Pub. L. 100–485.
@@ -20496,7 +20611,7 @@ A prior section 436 of act Aug. 14, 1935, was classified to [section 636 of this
 #### Amendments
 2020—Subsecs. (a), (b)(4)(A), (5). Pub. L. 116–260 substituted “2022” for “2021”.
 
-Subsec. (f)(10). Pub. L. 116–260 which directed amendment of subsec. (f)(10) of this section by substituting “2022” for “2021”, could not be executed because no subsec. (f)(10) has been enacted.
+Subsec. (f)(10). Pub. L. 116–260, which directed amendment of subsec. (f)(10) of this section by substituting “2022” for “2021”, could not be executed because no subsec. (f)(10) has been enacted.
 
 2018—Subsec. (a). Pub. L. 115–123, § 50752(b)(1), substituted “for each of fiscal years 2017 through 2021” for “for each of fiscal years 2012 through 2016”.
 
@@ -20956,136 +21071,41 @@ Section effective Jan. 17, 2002, with delay permitted if State legislation is re
 
 (2) to implement improvements the highest state 33 So in original. Probably should be capitalized. courts deem necessary as a result of the assessments, including—
 
-  (A) to provide for the safety, well-being, and permanence of children in foster care, as set forth in the Adoption and Safe Families Act of 1997 (Public Law 105–89), including the requirements in the Act related to concurrent planning;
+  (A) to provide for the safety, well-being, and permanence of children in foster care in a timely and complete manner, as set forth in the Adoption and Safe Families Act of 1997 (Public Law 105–89), including the requirements in the Act related to concurrent planning;
 
   (B) to implement a corrective action plan, as necessary, resulting from reviews of child and family service programs under [section 1320a–2a of this title](./chapter-007-social-security.md#section-1320a-2a); and
 
-  (C) to increase and improve engagement of the entire family in court processes relating to child welfare, family preservation, family reunification, and adoption;
+  (C) to increase and improve engagement of the entire family in court processes relating to child welfare, family preservation, family reunification, and adoption, including by training judges, attorneys, and other legal personnel.
 
-(3) to ensure that the safety, permanence, and well-being needs of children are met in a timely and complete manner; and
+**(b) Applications** In order to be eligible to receive a grant under this section, a highest State court shall have in effect a rule requiring State courts to ensure that foster parents, pre-adoptive parents, and relative caregivers of a child in foster care under the responsibility of the State are notified of any proceeding to be held with respect to the child, shall provide for the training of judges, attorneys, and other legal personnel in child welfare cases on Federal child welfare policies and payment limitations with respect to children in foster care who are placed in settings that are not a foster family home, and shall submit to the Secretary an application at such time, in such form, and including such information and assurances as the Secretary may require, including—
 
-(4)
+(1) a description of how courts and child welfare agencies on the local and State levels will use not less than 30 percent of grant funds to collaborate and jointly plan for the collection and sharing of all relevant data and information to demonstrate how improved case tracking and analysis of child abuse and neglect cases will produce safe and timely permanency decisions;
 
-  (A) to provide for the training of judges, attorneys and other legal personnel in child welfare cases; and
+(2) a demonstration that a portion of the grant will be used for cross-training initiatives that are jointly planned and executed with the State agency or any other agency under contract with the State to administer the State program under the State plan under subpart 1, the State plan approved under [section 629d of this title](./chapter-007-social-security.md#section-629d), or the State plan approved under part E; and
 
-  (B) to increase and improve engagement of the entire family in court processes relating to child welfare, family preservation, family reunification, and adoption.
-
-**(b) Applications**
-
-(1) **In general** — In order to be eligible to receive a grant under this section, a highest State court shall have in effect a rule requiring State courts to ensure that foster parents, pre-adoptive parents, and relative caregivers of a child in foster care under the responsibility of the State are notified of any proceeding to be held with respect to the child, shall provide for the training of judges, attorneys, and other legal personnel in child welfare cases on Federal child welfare policies and payment limitations with respect to children in foster care who are placed in settings that are not a foster family home, and shall submit to the Secretary an application at such time, in such form, and including such information and assurances as the Secretary may require, including—
-
-  (A) in the case of a grant for the purpose described in subsection (a)(3), a description of how courts and child welfare agencies on the local and State levels will collaborate and jointly plan for the collection and sharing of all relevant data and information to demonstrate how improved case tracking and analysis of child abuse and neglect cases will produce safe and timely permanency decisions;
-
-  (B) in the case of a grant for the purpose described in subsection (a)(4), a demonstration that a portion of the grant will be used for cross-training initiatives that are jointly planned and executed with the State agency or any other agency under contract with the State to administer the State program under the State plan under subpart 1, the State plan approved under [section 629d of this title](./chapter-007-social-security.md#section-629d), or the State plan approved under part E; and
-
-  (C) in the case of a grant for any purpose described in subsection (a), a demonstration of meaningful and ongoing collaboration among the courts in the State, the State agency or any other agency under contract with the State who is responsible for administering the State program under this part or part E, and, where applicable, Indian tribes.
-
-(2) **Single grant application** — Pursuant to the requirements under paragraph (1) of this subsection, a highest State court desiring a grant under this section shall submit a single application to the Secretary that specifies whether the application is for a grant for—
-
-  (A) the purposes described in paragraphs (1) and (2) of subsection (a);
-
-  (B) the purpose described in subsection (a)(3);
-
-  (C) the purpose described in subsection (a)(4); or
-
-  (D) the purposes referred to in 2 or more (specifically identified) of subparagraphs (A), (B), and (C) of this paragraph.
+(3) a demonstration of meaningful and ongoing collaboration among the courts in the State, the State agency or any other agency under contract with the State who is responsible for administering the State program under this part or part E, and, where applicable, Indian tribes.
 
 **(c) Amount of grant**
 
-(1) **In general** — With respect to each of subparagraphs (A), (B), and (C) of subsection (b)(2) that refers to 1 or more grant purposes for which an application of a highest State court is approved under this section, the court shall be entitled to payment, for each of fiscal years 2017 through 2022, from the amount allocated under paragraph (3) of this subsection for grants for the purpose or purposes, of an amount equal to $85,000 plus the amount described in paragraph (2) of this subsection with respect to the purpose or purposes.
+(1) **In general** — From the amounts reserved under sections 629f(b)(2) and 629g(b)(2) of this title for a fiscal year, each highest State court that has an application approved under this section for the fiscal year shall be entitled to payment of an amount equal to the sum of—
 
-(2) **Amount described** — The amount described in this paragraph for any fiscal year with respect to the purpose or purposes referred to in a subparagraph of subsection (b)(2) is the amount that bears the same ratio to the total of the amounts allocated under paragraph (3) of this subsection for grants for the purpose or purposes as the number of individuals in the State who have not attained 21 years of age bears to the total number of such individuals in all States the highest State courts of which have approved applications under this section for grants for the purpose or purposes.
+  (A) $255,000; and
 
-(3) **Allocation of funds**
+  (B) the amount described in paragraph (2) with respect to the court and the fiscal year.
 
-  (A) *Mandatory funds* — Of the amounts reserved under [section 629f(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section629f/b/2&num=0&edition=prelim) for any fiscal year, the Secretary shall allocate—
+(2) **Amount described** — The amount described in this paragraph with respect to a court and a fiscal year is the amount that bears the same ratio to the total of the amounts reserved under sections 629f(b)(2) and 629g(b)(2) of this title for grants under this section for the fiscal year (after applying paragraphs (1)(A) and (3) of this subsection) as the number of individuals in the State in which the court is located who have not attained 21 years of age bears to the total number of such individuals in all States with a highest State court that has an approved application under this section for the fiscal year.
 
-    (i) $9,000,000 for grants for the purposes described in paragraphs (1) and (2) of subsection (a);
+(3) **Indian tribes** — From the amounts reserved under [section 629f(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section629f/b/2&num=0&edition=prelim) for a fiscal year, the Secretary shall, before applying paragraph (1) of this subsection, allocate $1,000,000 for grants to be awarded on a competitive basis among the highest courts of Indian tribes or tribal consortia that—
 
-    (ii) $10,000,000 for grants for the purpose described in subsection (a)(3);
+  (A) are operating a program under part E, in accordance with [section 679c of this title](./chapter-007-social-security.md#section-679c);
 
-    (iii) $10,000,000 for grants for the purpose described in subsection (a)(4); and
+  (B) are seeking to operate a program under part E and have received an implementation grant under [section 676 of this title](./chapter-007-social-security.md#section-676); or
 
-    (iv) $1,000,000 for grants to be awarded on a competitive basis among the highest courts of Indian tribes or tribal consortia that—
+  (C) have a court responsible for proceedings related to foster care or adoption.
 
-      (I) are operating a program under part E, in accordance with [section 679c of this title](./chapter-007-social-security.md#section-679c);
-
-      (II) are seeking to operate a program under part E and have received an implementation grant under [section 676 of this title](./chapter-007-social-security.md#section-676); or
-
-      (III) has 44 So in original. Probably should be “have”. a court responsible for proceedings related to foster care or adoption.
-
-  (B) *Discretionary funds* — The Secretary shall allocate all of the amounts reserved under [section 629g(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section629g/b/2&num=0&edition=prelim) for grants for the purposes described in paragraphs (1) and (2) of subsection (a).
-
-**(d) Federal share** Each highest State court which receives funds paid under this section may use such funds to pay not more than 75 percent of the cost of activities under this section in each of fiscal years 2017 through 2021.
+**(d) Federal share** Each highest State court which receives funds paid under this section may use such funds to pay not more than 75 percent of the cost of activities under this section in each of fiscal years 2018 through 2022.
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 116–260, div. CC, title III, § 305(b), (c), Dec. 27, 2020, 134 Stat. 2994, 2995, provided that, effective Oct. 1, 2021, this section is amended as follows:
-
-(1) in subsection (a)—
-
-(A) in paragraph (2)—
-
-(i) in subparagraph (A), by inserting “in a timely and complete manner” before “, as set forth”;
-
-(ii) in subparagraph (C), by striking the semicolon and inserting “, including by training judges, attorneys, and other legal personnel.”; and
-
-(B) by striking paragraphs (3) and (4);
-
-(2) in subsection (b)—
-
-(A) by striking paragraph (2);
-
-(B) by striking all that precedes “be eligible to receive” and inserting the following:
-
-(b) Applications
-
-In order to; and
-
-(C) in the matter preceding paragraph (2)—
-
-(i) by moving the matter 2 ems to the left;
-
-(ii) in subparagraph (A)—
-
-(I) by striking “(A) in the case of a grant for the purpose described in subsection (a)(3),” and inserting “(1)”; and
-
-(II) by inserting “use not less than 30 percent of grant funds to” before “collaborate”;
-
-(iii) in subparagraph (B), by striking “(B) in the case of a grant for the purpose described in subsection (a)(4),” and inserting “(2)”; and
-
-(iv) in subparagraph (C), by striking “(C) in the case of a grant for the purpose described in subsection (a),” and inserting “(3)”;
-
-(3) by striking subsection (c) and inserting the following:
-
-(c) Amount of grant
-
-(1) In general
-
-From the amounts reserved under sections 629f(b)(2) and 629g(b)(2) of this title for a fiscal year, each highest State court that has an application approved under this section for the fiscal year shall be entitled to payment of an amount equal to the sum of—
-
-(A) $255,000; and
-
-(B) the amount described in paragraph (2) with respect to the court and the fiscal year.
-
-(2) Amount described
-
-The amount described in this paragraph with respect to a court and a fiscal year is the amount that bears the same ratio to the total of the amounts reserved under sections 629f(b)(2) and 629g(b)(2) of this title for grants under this section for the fiscal year (after applying paragraphs (1)(A) and (3) of this subsection) as the number of individuals in the State in which the court is located who have not attained 21 years of age bears to the total number of such individuals in all States with a highest State court that has an approved application under this section for the fiscal year.
-
-(3) Indian tribes
-
-From the amounts reserved under [section 629f(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section629f/b/2&num=0&edition=prelim) for a fiscal year, the Secretary shall, before applying paragraph (1) of this subsection, allocate $1,000,000 for grants to be awarded on a competitive basis among the highest courts of Indian tribes or tribal consortia that—
-
-(A) are operating a program under part E, in accordance with [section 679c of this title](./chapter-007-social-security.md#section-679c);
-
-(B) are seeking to operate a program under part E and have received an implementation grant under [section 676 of this title](./chapter-007-social-security.md#section-676); or
-
-(C) have a court responsible for proceedings related to foster care or adoption.
-
-(4) in subsection (d), by striking “2017 through 2021” and inserting “2018 through 2022”.
-
-See 2020 Amendment notes below.
 
 #### References in Text
 The Adoption and Safe Families Act of 1997, referred to in subsec. (a)(2)(A), is Pub. L. 105–89, Nov. 19, 1997, 111 Stat. 2115. For complete classification of this Act to the Code, see Short Title of 1997 Amendment note set out under [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
@@ -21107,9 +21127,9 @@ Subsec. (a)(3), (4). Pub. L. 116–260, § 305(b)(1)(B), struck out pars. (3) an
 
 “(4)(A) to provide for the training of judges, attorneys and other legal personnel in child welfare cases; and
 
-(B) to increase and improve engagement of the entire family in court processes relating to child welfare, family preservation, family reunification, and adoption.”.
+“(B) to increase and improve engagement of the entire family in court processes relating to child welfare, family preservation, family reunification, and adoption.”
 
-Subsec. (b). Pub. L. 116–260, § 305(b)(2), designated par. (1) as text of section and struck out par. (1) heading “In general”, redesignated subpars. (A) to (C) as pars. (1) to (3), respectively, and realigned margins, in par. (1), struck out “in the case of a grant for the purpose described in subsection (a)(3),” before “a description” and, inserted “use not less than 30 percent of grant funds to” before “collaborate”, in par. (2), struck out “in the case of a grant for the purpose described in subsection (a)(4),” before “a demonstration”, in par. (3), struck out “in the case of a grant for any purpose described in subsection (a),” before “a demonstration”, and struck out former par. (2) which related to single grant application.
+Subsec. (b). Pub. L. 116–260, § 305(b)(2), designated par. (1) as text of section and struck out par. (1) heading “In general”, redesignated subpars. (A) to (C) as pars. (1) to (3), respectively, and realigned margins, in par. (1), struck out “in the case of a grant for the purpose described in subsection (a)(3),” before “a description” and inserted “use not less than 30 percent of grant funds to” before “collaborate”, in par. (2), struck out “in the case of a grant for the purpose described in subsection (a)(4),” before “a demonstration”, in par. (3), struck out “in the case of a grant for any purpose described in subsection (a),” before “a demonstration”, and struck out former par. (2) which related to single grant application.
 
 Subsec. (c). Pub. L. 116–260, § 305(b)(3), added subsec. (c) and struck out former subsec. (c) which related to amount of grant and allocation of mandatory and discretionary funds.
 
@@ -27380,7 +27400,7 @@ The Secretary of Health and Human Services shall take all possible steps to enco
 Section was enacted as part of the Adoption Assistance and Child Welfare Act of 1980, and not as part of the Social Security Act which comprises this chapter.
 
 #### Change of Name
-“Secretary of Health and Human Services” was substituted for “Secretary of Health, Education, and Welfare” in text, pursuant to Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+“Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
 
 <a id="section-673b"></a>
@@ -30594,7 +30614,7 @@ A prior section 710, act Aug. 14, 1935, ch. 531, title V, § 510, as added Jan. 
 
 Pub. L. 116–159, § 2104(1), substituted “December 11, 2020” for “November 30, 2020” wherever appearing.
 
-Subsec. (a)(1). Pub. L. 116–260, § 303(1)(A)(i), in introductory provisions, substituted “2023’ for “2020 and for the period beginning October 1, 2020, and ending December 18, 2020” and struck out “(or, with respect to such period, for fiscal year 2021)” before “under [section 705(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section705/a&num=0&edition=prelim)”.
+Subsec. (a)(1). Pub. L. 116–260, § 303(1)(A)(i), in introductory provisions, substituted “2023” for “2020 and for the period beginning October 1, 2020, and ending December 18, 2020” and struck out “(or, with respect to such period, for fiscal year 2021)” before “under [section 705(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section705/a&num=0&edition=prelim)”.
 
 Pub. L. 116–136, § 3821(1)(A), in introductory provisions, substituted “through 2020 and for the period beginning October 1, 2020, and ending November 30, 2020” for “and 2019 and for the period beginning October 1, 2019, and ending May 22, 2020” and “fiscal year 2021” for “fiscal year 2020”.
 
@@ -31108,6 +31128,44 @@ Pub. L. 116–260, div. X, § 10, Dec. 27, 2020, 134 Stat. 2416, provided that: 
 [For definitions of terms used in section 10 of div. X of Pub. L. 116–260, set out above, see section 2 of div. X of Pub. L. 116–260, set out as a note under [section 629h of this title](./chapter-007-social-security.md#section-629h).]
 
 
+<a id="section-711a"></a>
+## § 711a. Emergency assistance to families through home visiting programs
+**(a) Supplemental appropriation** In addition to amounts otherwise appropriated, out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated to the Secretary $150,000,000, to remain available through September 30, 2022, to enable eligible entities to conduct programs in accordance with [section 711 of this title](./chapter-007-social-security.md#section-711) and subsection (c) of this section.
+
+**(b) Eligibility for funds** To be eligible to receive funds made available by subsection (a) of this section, an entity shall—
+
+(1) as of March 11, 2021, be conducting a program under [section 711 of this title](./chapter-007-social-security.md#section-711);
+
+(2) ensure the modification of grants, contracts, and other agreements, as applicable, executed under [section 711 of this title](./chapter-007-social-security.md#section-711) under which the program is conducted as are necessary to provide that, during the period that begins with March 11, 2021 and ends with the end of the 2nd succeeding fiscal year after the funds are awarded, the entity shall—
+
+  (A) not reduce funding for, or staffing levels of, the program on account of reduced enrollment in the program; and
+
+  (B) when using funds to provide emergency supplies to eligible families receiving grant services under [section 711 of this title](./chapter-007-social-security.md#section-711), ensure coordination with local diaper banks to the extent practicable; and
+
+(3) reaffirm that, in conducting the program, the entity will focus on priority populations (as defined in [section 711(d)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section711/d/4&num=0&edition=prelim)).
+
+**(c) Uses of funds** An entity to which funds are provided under this section shall use the funds—
+
+(1) to serve families with home visits or with virtual visits, that may be conducted by the use of electronic information and telecommunications technologies, in a service delivery model described in [section 711(d)(3)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section711/d/3/A&num=0&edition=prelim);
+
+(2) to pay hazard pay or other additional staff costs associated with providing home visits or administration for programs funded under [section 711 of this title](./chapter-007-social-security.md#section-711);
+
+(3) to train home visitors employed by the entity in conducting a virtual home visit and in emergency preparedness and response planning for families served, and may include training on how to safely conduct intimate partner violence screenings, and training on safety and planning for families served to support the family outcome improvements listed in [section 711(d)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section711/d/2/B&num=0&edition=prelim);
+
+(4) for the acquisition by families served by programs under [section 711 of this title](./chapter-007-social-security.md#section-711) of such technological means as are needed to conduct and support a virtual home visit;
+
+(5) to provide emergency supplies (such as diapers and diapering supplies including diaper wipes and diaper cream, necessary to ensure that a child using a diaper is properly cleaned and protected from diaper rash, formula, food, water, hand soap and hand sanitizer) to an eligible family (as defined in [section 711(k)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section711/k/2&num=0&edition=prelim));
+
+(6) to coordinate with and provide reimbursement for supplies to diaper banks when using such entities to provide emergency supplies specified in paragraph (5); or
+
+(7) to provide prepaid grocery cards to an eligible family (as defined in [section 711(k)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section711/k/2&num=0&edition=prelim)) participating in the maternal, infant, and early childhood home visiting program under [section 711 of this title](./chapter-007-social-security.md#section-711) for the purpose of enabling the family to meet the emergency needs of the family.
+
+### Statutory Notes
+
+#### Effective Date
+Pub. L. 117–2, title IX, § 9101, Mar. 11, 2021, 135 Stat. 123, provided in part that this section is effective 1 day after the date of enactment of this Act [Mar. 11, 2021].
+
+
 <a id="section-712"></a>
 ## § 712. Services to individuals with a postpartum condition and their families
 **(a) In general** In addition to any other payments made under this subchapter to a State, the Secretary may make grants to eligible entities for projects for the establishment, operation, and coordination of effective and cost-efficient systems for the delivery of essential services to individuals with or at risk for postpartum conditions and their families.
@@ -31223,7 +31281,7 @@ Pub. L. 111–148, title II, § 2952(a), Mar. 23, 2010, 124 Stat. 344, provided 
 
 (4) **Authority to award grants from State allotments to local organizations and entities in nonparticipating States**
 
-  (A) *Grants from unexpended allotments* — If a State does not submit an application under this section for fiscal year 2010 or 2011, the State shall no longer be eligible to submit an application to receive funds from the amounts allotted for the State for each of fiscal years 2010 through 2023and such amounts shall be used by the Secretary to award grants under this paragraph for each of fiscal years 2012 through 2023. The Secretary also shall use any amounts from the allotments of States that submit applications under this section for a fiscal year that remain unexpended as of the end of the period in which the allotments are available for expenditure under paragraph (3) for awarding grants under this paragraph.
+  (A) *Grants from unexpended allotments* — If a State does not submit an application under this section for fiscal year 2010 or 2011, the State shall no longer be eligible to submit an application to receive funds from the amounts allotted for the State for each of fiscal years 2010 through 2023 and such amounts shall be used by the Secretary to award grants under this paragraph for each of fiscal years 2012 through 2023. The Secretary also shall use any amounts from the allotments of States that submit applications under this section for a fiscal year that remain unexpended as of the end of the period in which the allotments are available for expenditure under paragraph (3) for awarding grants under this paragraph.
 
   (B) *Competitive prep grants*
 
@@ -31357,7 +31415,7 @@ Pub. L. 116–136, § 3822(1)(A)(ii), substituted “October 1, 2020, and ending
 
 Subsec. (a)(1)(C)(i). Pub. L. 116–260, § 302(1)(A)(iii), struck out “or the period described in subparagraph (A)” after “for a fiscal year” and “or period” after “for the fiscal year”.
 
-Subsec. (a)(3). Pub. L. 116–260, § 302(1)(B), struck out “or the period described in paragraph (1)(A)” after “for a fiscal year” and or period after “such fiscal year”.
+Subsec. (a)(3). Pub. L. 116–260, § 302(1)(B), struck out “or the period described in paragraph (1)(A)” after “for a fiscal year” and “or period” after “such fiscal year”.
 
 Subsec. (a)(4)(A). Pub. L. 116–260, § 302(1)(C), in first sentence, substituted “2023” for “2020 and for the period described in paragraph (1)(A)” and “2023” for “2020 and for the period so described” and, in second sentence, struck out “or the period so described” before “that remain unexpended”.
 
@@ -31596,29 +31654,398 @@ The Inspector General Act of 1978, referred to in subsec. (f)(4), is Pub. L. 95�
 #### Prior Provisions
 A prior section 801, act Aug. 14, 1935, ch. 531, title VI, § 601, as added Pub. L. 108–27, title IV, § 401(b), May 28, 2003, 117 Stat. 766, related to temporary State fiscal relief, prior to repeal by act Aug. 14, 1935, ch. 531, title VI, § 601(g), as added Pub. L. 108–27, title IV, § 401(b), May 28, 2003, 117 Stat. 768.
 
-Another prior section 801, act Aug. 14, 1935, ch. 531, title VI, § 601, as added Oct. 30, 1972, Pub. L. 92–603, title III, § 302, 86 Stat. 1478, authorized appropriations for encouraging States to furnish rehabilitation to needy individuals 65 years of age or older, and the blind or disabled.
+Another prior section 801, act Aug. 14, 1935, ch. 531, title VI, § 601, as added Oct. 30, 1972, Pub. L. 92–603, title III, § 302, 86 Stat. 1478, authorized appropriations for encouraging States to furnish rehabilitation to needy individuals 65 years of age or older, and the blind or disabled, prior to repeal by Pub. L. 93–647, §§ 3(b), 7(b), Jan. 4, 1975, 88 Stat. 2349, 2351.
 
 Another prior section 801, acts Aug. 14, 1935, ch. 531, title VI, § 601, 49 Stat. 634; Aug. 10, 1939, ch. 666, title V, § 509, 53 Stat. 1381, which provided appropriations for the purpose of assisting States and subdivisions in maintaining adequate public health services, was repealed by act July 1, 1944, ch. 373, title XIII, § 1313, formerly title VI, § 611, 58 Stat. 719. See [section 246 of this title](./chapter-6a-public-health-service.md#section-246).
-
-Prior sections 802 to 805 were repealed by Pub. L. 93–647, §§ 3(b), 7(b), Jan. 4, 1975, 88 Stat. 2349, 2351, effective with respect to payments under section 803 for quarters commencing after Sept. 30, 1975.
-
-Section 802, act Aug. 14, 1935, ch. 531, title VI, § 602, as added Oct. 30, 1972, Pub. L. 92–603, title III, § 302, 86 Stat. 1479, set out the necessary provisions for State plans for services to the aged, blind, or disabled.
-
-Another prior section 802, act Aug. 14, 1935, ch. 531, title VI, § 602, 49 Stat. 634, which provided for allotments to States by Surgeon General, was repealed by act July 1, 1944, ch. 373, title XIII, § 1313, formerly title VI, § 611, 58 Stat. 719. See [section 246 of this title](./chapter-6a-public-health-service.md#section-246).
-
-Section 803, act Aug. 14, 1935, ch. 531, title VI, § 603, as added Oct. 30, 1972, Pub. L. 92–603, title III, § 302, 86 Stat. 1481, provided for payments to States under approved plans for services to the aged, blind, or disabled.
-
-Another prior section 803, act Aug. 14, 1935, ch. 531, title VI, § 603, 49 Stat. 635, which provided for allotments to States by appropriations for investigation of diseases by Public Health Service, was repealed by act July 1, 1944, ch. 373, title XIII, § 1313, formerly title VI, § 611, 58 Stat. 719. See [section 246 of this title](./chapter-6a-public-health-service.md#section-246).
-
-Section 804, act Aug. 14, 1935, ch. 531, title VI, § 604, as added Oct. 30, 1972, Pub. L. 92–603, title III, § 302, 86 Stat. 1484, provided for notification to States and termination of payments in case of noncompliance with laws or State plan.
-
-Section 805, act Aug. 14, 1935, ch. 531, title VI, § 605, as added Oct. 30, 1972, Pub. L. 92–603, title III, § 302, 86 Stat. 1484, defined “services to the aged, blind or disabled”.
 
 #### Amendments
 2020—Subsec. (d)(3). Pub. L. 116–260 substituted “December 31, 2021” for “December 30, 2020”.
 
 #### Renumbering of Repealing Act
 Act July 1, 1944, ch. 373, title VI, § 611, 58 Stat. 719, which repealed prior sections 801 to 803, was renumbered title VII, § 711, by act Aug. 13, 1946, ch. 958, § 5, 60 Stat. 1049; renumbered § 713 by act Feb. 28, 1948, ch. 83, § 9(b), 62 Stat. 47; renumbered title VIII, § 813, by act July 30, 1956, ch. 779, § 3(b), 70 Stat. 721; renumbered title IX, § 913, by Pub. L. 88–581, § 4(b), Sept. 4, 1964, 78 Stat. 919; renumbered title X, § 1013, by Pub. L. 89–239, § 3(b), Oct. 6, 1965, 79 Stat. 931; renumbered title XI, § 1113, by Pub. L. 91–572, § 6(b), Dec. 24, 1970, 84 Stat. 1506; renumbered title XII, § 1213, by Pub. L. 92–294. § 3(b), May 16, 1972, 86 Stat. 137; renumbered title XIII, § 1313, by Pub. L. 93–154, § 2(b)(2), Nov. 16, 1973, 87 Stat. 604, and repealed by Pub. L. 93–222, § 7(b), Dec. 29, 1973, 87 Stat. 936.
+
+
+<a id="section-802"></a>
+## § 802. Coronavirus State fiscal recovery fund
+**(a) Appropriation** In addition to amounts otherwise available, there is appropriated for fiscal year 2021, out of any money in the Treasury not otherwise appropriated—
+
+(1) $219,800,000,000, to remain available through December 31, 2024, for making payments under this section to States, territories, and Tribal governments to mitigate the fiscal effects stemming from the public health emergency with respect to the Coronavirus Disease (COVID–19); and
+
+(2) $50,000,000, to remain available until expended, for the costs of the Secretary for administration of the funds established under this subchapter.
+
+**(b) Authority to make payments**
+
+(1) **Payments to territories**
+
+  (A) *In general* — The Secretary shall reserve $4,500,000,000 of the amount appropriated under subsection (a)(1) to make payments to the territories.
+
+  (B) *Allocation* — Of the amount reserved under subparagraph (A)—
+
+    (i) 50 percent of such amount shall be allocated by the Secretary equally to each territory; and
+
+    (ii) 50 percent of such amount shall be allocated by the Secretary as an additional amount to each territory in an amount which bears the same proportion to ½ of the total amount reserved under subparagraph (A) as the population of the territory bears to the total population of all such territories.
+
+  (C) *Payment* — The Secretary shall pay each territory the total of the amounts allocated for the territory under subparagraph (B) in accordance with paragraph (6).
+
+(2) **Payments to Tribal governments**
+
+  (A) *In general* — The Secretary shall reserve $20,000,000,000 of the amount appropriated under subsection (a)(1) to make payments to Tribal governments.
+
+  (B) *Allocation* — Of the amount reserved under subparagraph (A)—
+
+    (i) $1,000,000,000 shall be allocated by the Secretary equally among each of the Tribal governments; and
+
+    (ii) $19,000,000,000 shall be allocated by the Secretary to the Tribal governments in a manner determined by the Secretary.
+
+  (C) *Payment* — The Secretary shall pay each Tribal government the total of the amounts allocated for the Tribal government under subparagraph (B) in accordance with paragraph (6).
+
+(3) **Payments to each of the 50 states and the District of Columbia**
+
+  (A) *In general* — The Secretary shall reserve $195,300,000,000 of the amount appropriated under subsection (a)(1) to make payments to each of the 50 States and the District of Columbia.
+
+  (B) *Allocations* — Of the amount reserved under subparagraph (A)—
+
+    (i) $25,500,000,000 of such amount shall be allocated by the Secretary equally among each of the 50 States and the District of Columbia;
+
+    (ii) an amount equal to $1,250,000,000 less the amount allocated for the District of Columbia pursuant to [section 801(c)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section801/c/6&num=0&edition=prelim) shall be allocated by the Secretary as an additional amount to the District of Columbia; and
+
+    (iii) an amount equal to the remainder of the amount reserved under subparagraph (A) after the application of clauses (i) and (ii) of this subparagraph shall be allocated by the Secretary as an additional amount to each of the 50 States and the District of Columbia in an amount which bears the same proportion to such remainder as the average estimated number of seasonally-adjusted unemployed individuals (as measured by the Bureau of Labor Statistics Local Area Unemployment Statistics program) in the State or District of Columbia over the 3-month period ending with December 2020 bears to the average estimated number of seasonally-adjusted unemployed individuals in all of the 50 States and the District of Columbia over the same period.
+
+  (C) *Payment*
+
+    (i) *In general* — Subject to clause (ii), the Secretary shall pay each of the 50 States and the District of Columbia, from the amount reserved under subparagraph (A), the total of the amounts allocated for the State and District of Columbia under subparagraph (B) in accordance with paragraph (6).
+
+    (ii) *Minimum payment requirement*
+
+      (I) *In general* — The sum of—
+
+        (aa) the total amounts allocated for 1 of the 50 States or the District of Columbia under subparagraph (B) (as determined without regard to this clause); and
+
+        (bb) the amounts allocated under [section 803 of this title](./chapter-007-social-security.md#section-803) to the State (for distribution by the State to nonentitlement units of local government in the State) and to metropolitan cities and counties in the State;
+    shall not be less than the amount allocated to the State or District of Columbia for fiscal year 2020 under [section 801 of this title](./chapter-007-social-security.md#section-801), including any amount paid directly to a unit of local government in the State under such section.
+
+  (II) *Pro rata adjustment* — The Secretary shall adjust on a pro rata basis the amount of the allocations for each of the 50 States and the District of Columbia determined under subparagraph (B)(iii) (without regard to this clause) to the extent necessary to comply with the requirement of subclause (I).
+
+(4) **Pro rata adjustment authority** — The amounts otherwise determined for allocation and payment under paragraphs (1), (2), and (3) may be adjusted by the Secretary on a pro rata basis to the extent necessary to ensure that all available funds are allocated to States, territories, and Tribal governments in accordance with the requirements specified in each such paragraph (as applicable).
+
+(5) **Population data** — For purposes of determining allocations for a territory under this section, the population of the territory shall be determined based on the most recent data available from the Bureau of the Census.
+
+(6) **Timing**
+
+  (A) *States and territories*
+
+    (i) *In general* — To the extent practicable, subject to clause (ii), with respect to each State and territory allocated a payment under this subsection, the Secretary shall make the payment required for the State or territory not later than 60 days after the date on which the certification required under subsection (d)(1) is provided to the Secretary.
+
+    (ii) *Authority to split payment*
+
+      (I) *In general* — The Secretary shall have the authority to withhold payment of up to 50 percent of the amount allocated to each State and territory (other than payment of the amount allocated under paragraph (3)(B)(ii) to the District of Columbia) for a period of up to 12 months from the date on which the State or territory provides the certification required under subsection (d)(1). The Secretary shall exercise such authority with respect to a State or territory based on the unemployment rate in the State or territory as of such date.
+
+      (II) *Payment of withheld amount* — Before paying to a State or territory the remainder of an amount allocated to the State or territory (subject to subclause (III)) that has been withheld by the Secretary under subclause (I), the Secretary shall require the State or territory to submit a second certification under subsection (d)(1), in addition to such other information as the Secretary may require.
+
+      (III) *Recovery of amounts subject to recoupment* — If a State or territory is required under subsection (e) to repay funds for failing to comply with subsection (c), the Secretary may reduce the amount otherwise payable to the State or territory under subclause (II) by the amount that the State or territory would otherwise be required to repay under such subsection (e).
+
+  (B) *Tribal governments* — To the extent practicable, with respect to each Tribal government for which an amount is allocated under this subsection, the Secretary shall make the payment required for the Tribal government not later than 60 days after March 11, 2021.
+
+  (C) *Initial payment to District of Columbia* — The Secretary shall pay the amount allocated under paragraph (3)(B)(ii) to the District of Columbia not later than 15 days after March 11, 2021.
+
+**(c) Requirements**
+
+(1) **Use of funds** — Subject to paragraph (2), and except as provided in paragraph (3), a State, territory, or Tribal government shall only use the funds provided under a payment made under this section, or transferred pursuant to [section 803(c)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section803/c/4&num=0&edition=prelim), to cover costs incurred by the State, territory, or Tribal government, by December 31, 2024—
+
+  (A) to respond to the public health emergency with respect to the Coronavirus Disease 2019 (COVID–19) or its negative economic impacts, including assistance to households, small businesses, and nonprofits, or aid to impacted industries such as tourism, travel, and hospitality;
+
+  (B) to respond to workers performing essential work during the COVID–19 public health emergency by providing premium pay to eligible workers of the State, territory, or Tribal government that are performing such essential work, or by providing grants to eligible employers that have eligible workers who perform essential work;
+
+  (C) for the provision of government services to the extent of the reduction in revenue of such State, territory, or Tribal government due to the COVID–19 public health emergency relative to revenues collected in the most recent full fiscal year of the State, territory, or Tribal government prior to the emergency; or
+
+  (D) to make necessary investments in water, sewer, or broadband infrastructure.
+
+(2) **Further restriction on use of funds**
+
+  (A) *In general* — A State or territory shall not use the funds provided under this section or transferred pursuant to [section 803(c)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section803/c/4&num=0&edition=prelim) to either directly or indirectly offset a reduction in the net tax revenue of such State or territory resulting from a change in law, regulation, or administrative interpretation during the covered period that reduces any tax (by providing for a reduction in a rate, a rebate, a deduction, a credit, or otherwise) or delays the imposition of any tax or tax increase.
+
+  (B) *Pension funds* — No State or territory may use funds made available under this section for deposit into any pension fund.
+
+(3) **Transfer authority** — A State, territory, or Tribal government receiving a payment from funds made available under this section may transfer funds to a private nonprofit organization (as that term is defined in section 11360(17) 11 See References in Text note below. of this title), a Tribal organization (as that term is defined in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)), a public benefit corporation involved in the transportation of passengers or cargo, or a special-purpose unit of State or local government.
+
+(4) **Use of funds to satisfy non-federal matching requirements for authorized Bureau of Reclamation water projects** — Funds provided under this section for an authorized Bureau of Reclamation project may be used for purposes of satisfying any non-Federal matching requirement required for the project.
+
+**(d) Certifications and reports**
+
+(1) **In general** — In order for a State or territory to receive a payment under this section, or a transfer of funds under [section 803(c)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section803/c/4&num=0&edition=prelim), the State or territory shall provide the Secretary with a certification, signed by an authorized officer of such State or territory, that such State or territory requires the payment or transfer to carry out the activities specified in subsection (c) of this section and will use any payment under this section, or transfer of funds under [section 803(c)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section803/c/4&num=0&edition=prelim), in compliance with subsection (c) of this section.
+
+(2) **Reporting** — Any State, territory, or Tribal government receiving a payment under this section shall provide to the Secretary periodic reports providing a detailed accounting of—
+
+  (A) the uses of funds by such State, territory, or Tribal government, including, in the case of a State or a territory, all modifications to the State’s or territory’s tax revenue sources during the covered period; and
+
+  (B) such other information as the Secretary may require for the administration of this section.
+
+**(e) Recoupment** Any State, territory, or Tribal government that has failed to comply with subsection (c) shall be required to repay to the Secretary an amount equal to the amount of funds used in violation of such subsection, provided that, in the case of a violation of subsection (c)(2)(A), the amount the State or territory shall be required to repay shall be lesser of—
+
+(1) the amount of the applicable reduction to net tax revenue attributable to such violation; and
+
+(2) the amount of funds received by such State or territory pursuant to a payment made under this section or a transfer made under [section 803(c)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section803/c/4&num=0&edition=prelim).
+
+**(f) Regulations** The Secretary shall have the authority to issue such regulations as may be necessary or appropriate to carry out this section.
+
+**(g) Definitions** In this section:
+
+(1) **Covered period** — The term “covered period” means, with respect to a State, territory, or Tribal government, the period that—
+
+  (A) begins on March 3, 2021; and
+
+  (B) ends on the last day of the fiscal year of such State, territory, or Tribal government in which all funds received by the State, territory, or Tribal government from a payment made under this section or a transfer made under [section 803(c)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section803/c/4&num=0&edition=prelim) have been expended or returned to, or recovered by, the Secretary.
+
+(2) **Eligible workers** — The term “eligible workers” means those workers needed to maintain continuity of operations of essential critical infrastructure sectors and additional sectors as each Governor of a State or territory, or each Tribal government, may designate as critical to protect the health and well-being of the residents of their State, territory, or Tribal government.
+
+(3) **Premium pay** — The term “premium pay” means an amount of up to $13 per hour that is paid to an eligible worker, in addition to wages or remuneration the eligible worker otherwise receives, for all work performed by the eligible worker during the COVID–19 public health emergency. Such amount may not exceed $25,000 with respect to any single eligible worker.
+
+(4) **Secretary** — The term “Secretary” means the Secretary of the Treasury.
+
+(5) **State** — The term “State” means each of the 50 States and the District of Columbia.
+
+(6) **Territory** — The term “territory” means the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, the Commonwealth of the Northern Mariana Islands, and American Samoa.
+
+(7) **Tribal Government** — The term “Tribal Government” means the recognized governing body of any Indian or Alaska Native tribe, band, nation, pueblo, village, community, component band, or component reservation, individually identified (including parenthetically) in the list published most recently as of March 11, 2021 pursuant to [section 5131 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5131&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### References in Text
+[Section 11360(17) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11360/17&num=0&edition=prelim), referred to in subsec. (c)(3), no longer defines the term “private nonprofit organization”. However, the term is defined elsewhere in that section.
+
+#### Prior Provisions
+A prior section 802, act Aug. 14, 1935, ch. 531, title VI, § 602, as added Oct. 30, 1972, Pub. L. 92–603, title III, § 302, 86 Stat. 1479, which set out the necessary provisions for State plans for services to the aged, blind, or disabled, was repealed by Pub. L. 93–647, §§ 3(b), 7(b), Jan. 4, 1975, 88 Stat. 2349, 2351.
+
+Another prior section 802, act Aug. 14, 1935, ch. 531, title VI, § 602, 49 Stat. 634, which provided for allotments to States by Surgeon General, was repealed by act July 1, 1944, ch. 373, title XIII, § 1313, formerly title VI, § 611, 58 Stat. 719. See [section 246 of this title](./chapter-6a-public-health-service.md#section-246).
+
+#### Amendments
+2021—Subsec. (c)(4). Pub. L. 117–58 added par. (4).
+
+#### Effective Date of 2021 Amendment
+Pub. L. 117–58, div. D, title IX, § 40909(c), Nov. 15, 2021, 135 Stat. 1126, provided that: “The amendments made by this section [amending this section and [section 803 of this title](./chapter-007-social-security.md#section-803)] shall take effect as if included in the enactment of section 9901 of the American Rescue Plan Act of 2021 (Public Law 117–2; 135 Stat. 223).”
+
+
+<a id="section-803"></a>
+## § 803. Coronavirus local fiscal recovery fund
+**(a) Appropriation** In addition to amounts otherwise available, there is appropriated for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $130,200,000,000, to remain available through December 31, 2024, for making payments under this section to metropolitan cities, nonentitlement units of local government, and counties to mitigate the fiscal effects stemming from the public health emergency with respect to the Coronavirus Disease (COVID–19).
+
+**(b) Authority to make payments**
+
+(1) **Metropolitan cities**
+
+  (A) *In general* — Of the amount appropriated under subsection (a), the Secretary shall reserve $45,570,000,000 to make payments to metropolitan cities.
+
+  (B) *Allocation and payment* — From the amount reserved under subparagraph (A), the Secretary shall allocate and, in accordance with paragraph (7), pay to each metropolitan city an amount determined for the metropolitan city consistent with the formula under [section 5306(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5306/b&num=0&edition=prelim), except that, in applying such formula, the Secretary shall substitute “all metropolitan cities” for “all metropolitan areas” each place it appears.
+
+(2) **Nonentitlement units of local government**
+
+  (A) *In general* — Of the amount appropriated under subsection (a), the Secretary shall reserve $19,530,000,000 to make payments to States for distribution by the State to nonentitlement units of local government in the State.
+
+  (B) *Allocation and payment* — From the amount reserved under subparagraph (A), the Secretary shall allocate and, in accordance with paragraph (7), pay to each State an amount which bears the same proportion to such reserved amount as the total population of all areas that are non-metropolitan cities in the State bears to the total population of all areas that are non-metropolitan cities in all such States.
+
+  (C) *Distribution to nonentitlement units of local government*
+
+    (i) *In general* — Not later than 30 days after a State receives a payment under subparagraph (B), the State shall distribute to each nonentitlement unit of local government in the State an amount that bears the same proportion to the amount of such payment as the population of the nonentitlement unit of local government bears to the total population of all the nonentitlement units of local government in the State, subject to clause (iii).
+
+    (ii) *Distribution of funds*
+
+      (I) *Extension for distribution* — If an authorized officer of a State required to make distributions under clause (i) certifies in writing to the Secretary before the end of the 30-day distribution period described in such clause that it would constitute an excessive administrative burden for the State to meet the terms of such clause with respect to 1 or more such distributions, the authorized officer may request, and the Secretary shall grant, an extension of such period of not more than 30 days to allow the State to make such distributions in accordance with clause (i).
+
+      (II) *Additional extensions*
+
+        (aa) *In general* — If a State has been granted an extension to the distribution period under subclause (I) but is unable to make all the distributions required under clause (i) before the end of such period as extended, an authorized officer of the State may request an additional extension of the distribution period of not more than 30 days. The Secretary may grant a request for an additional extension of such period only if—
+
+          (AA) the authorized officer making such request provides a written plan to the Secretary specifying, for each distribution for which an additional extension is requested, when the State expects to make such distribution and the actions the State has taken and will take in order to make all such distributions before the end of the distribution period (as extended under subclause (I) and this subclause); and
+
+          (BB) the Secretary determines that such plan is reasonably designed to distribute all such funds to nonentitlement units of local government by the end of the distribution period (as so extended).
+
+        (bb) *Further additional extensions* — If a State granted an additional extension of the distribution period under item (aa) requires any further additional extensions of such period, the request only may be made and granted subject to the requirements specified in item (aa).
+
+    (iii) *Capped amount* — The total amount distributed to a nonentitlement unit of local government under this paragraph may not exceed the amount equal to 75 percent of the most recent budget for the nonentitlement unit of local government as of January 27, 2020.
+
+    (iv) *Return of excess amounts* — Any amounts not distributed to a nonentitlement unit of local government as a result of the application of clause (iii) shall be returned to the Secretary.
+
+  (D) *Penalty for noncompliance* — If, by the end of the 120-day period that begins on the date a State receives a payment from the amount allocated under subparagraph (B) or, if later, the last day of the distribution period for the State (as extended with respect to the State under subparagraph (C)(ii)), such State has failed to make all the distributions from such payment in accordance with the terms of subparagraph (C) (including any extensions of the distribution period granted in accordance with such subparagraph), an amount equal to the amount of such payment that remains undistributed as of such date shall be booked as a debt of such State owed to the Federal Government, shall be paid back from the State’s allocation provided under [section 802(b)(3)(B)(iii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section802/b/3/B/iii&num=0&edition=prelim), and shall be deposited into the general fund of the Treasury.
+
+(3) **Counties**
+
+  (A) *Amount* — From the amount appropriated under subsection (a), the Secretary shall reserve and allocate $65,100,000,000 of such amount to make payments directly to counties in an amount which bears the same proportion to the total amount reserved under this paragraph as the population of each such county bears to the total population of all such entities and shall pay such allocated amounts to such counties in accordance with paragraph (7).
+
+  (B) *Special rules*
+
+    (i) *Urban counties* — No county that is an “urban county” (as defined in [section 5302 of this title](./chapter-069-community-development.md#section-5302)) shall receive less than the amount the county would otherwise receive if the amount paid under this paragraph were allocated to metropolitan cities and urban counties under [section 5306(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5306/b&num=0&edition=prelim).
+
+    (ii) *Counties that are not units of general local government* — In the case of an amount to be paid to a county that is not a unit of general local government, the amount shall instead be paid to the State in which such county is located, and such State shall distribute such amount to each unit of general local government within such county in an amount that bears the same proportion to the amount to be paid to such county as the population of such units of general local government bears to the total population of such county.
+
+    (iii) *District of Columbia* — For purposes of this paragraph, the District of Columbia shall be considered to consist of a single county that is a unit of general local government.
+
+(4) **Consolidated governments** — A unit of general local government that has formed a consolidated government, or that is geographically contained (in full or in part) within the boundaries of another unit of general local government may receive a distribution under each of paragraphs (1), (2), and (3), as applicable, based on the respective formulas specified in such paragraphs.
+
+(5) **Pro rata adjustment authority** — The amounts otherwise determined for allocation and payment under paragraphs (1), (2), and (3) may be adjusted by the Secretary on a pro rata basis to the extent necessary to ensure that all available funds are distributed to metropolitan cities, counties, and States in accordance with the requirements specified in each paragraph (as applicable) and the certification requirement specified in subsection (d).
+
+(6) **Population** — For purposes of determining allocations under this section, the population of an entity shall be determined based on the most recent data are available from the Bureau of the Census or, if not available, from such other data as a State determines appropriate.
+
+(7) **Timing**
+
+  (A) *First tranche amount* — To the extent practicable, with respect to each metropolitan city for which an amount is allocated under paragraph (1), each State for which an amount is allocated under paragraph (2) for distribution to nonentitlement units of local government, and each county for which an amount is allocated under paragraph (3), the Secretary shall pay from such allocation the First Tranche Amount for such city, State, or county not later than 60 days after March 11, 2021.
+
+  (B) *Second tranche amount* — The Secretary shall pay to each metropolitan city for which an amount is allocated under paragraph (1), each State for which an amount is allocated under paragraph (2) for distribution to nonentitlement units of local government, and each county for which an amount is allocated under paragraph (3), the Second Tranche Amount for such city, State, or county not earlier than 12 months after the date on which the First Tranche Amount is paid to the city, State, or county.
+
+**(c) Requirements**
+
+(1) **Use of funds** — Subject to paragraph (2), and except as provided in paragraphs (3) and (4), a metropolitan city, nonentitlement unit of local government, or county shall only use the funds provided under a payment made under this section to cover costs incurred by the metropolitan city, nonentitlement unit of local government, or county, by December 31, 2024—
+
+  (A) to respond to the public health emergency with respect to the Coronavirus Disease 2019 (COVID–19) or its negative economic impacts, including assistance to households, small businesses, and nonprofits, or aid to impacted industries such as tourism, travel, and hospitality;
+
+  (B) to respond to workers performing essential work during the COVID–19 public health emergency by providing premium pay to eligible workers of the metropolitan city, nonentitlement unit of local government, or county that are performing such essential work, or by providing grants to eligible employers that have eligible workers who perform essential work;
+
+  (C) for the provision of government services to the extent of the reduction in revenue of such metropolitan city, nonentitlement unit of local government, or county due to the COVID–19 public health emergency relative to revenues collected in the most recent full fiscal year of the metropolitan city, nonentitlement unit of local government, or county prior to the emergency; or
+
+  (D) to make necessary investments in water, sewer, or broadband infrastructure.
+
+(2) **Pension funds** — No metropolitan city, nonentitlement unit of local government, or county may use funds made available under this section for deposit into any pension fund.
+
+(3) **Transfer authority** — A metropolitan city, nonentitlement unit of local government, or county receiving a payment from funds made available under this section may transfer funds to a private nonprofit organization (as that term is defined in section 11360(17) 11 See References in Text note below. of this title, a public benefit corporation involved in the transportation of passengers or cargo, or a special-purpose unit of State or local government.
+
+(4) **Transfers to states** — Notwithstanding paragraph (1), a metropolitan city, nonentitlement unit of local government, or county receiving a payment from funds made available under this section may transfer such funds to the State in which such entity is located.
+
+(5) **Use of funds to satisfy non-Federal matching, maintenance of effort, or other expenditure requirement** — Funds provided under this section for an authorized Bureau of Reclamation project may be used for purposes of satisfying any non-Federal matching requirement required for the project.
+
+**(d) Reporting** Any metropolitan city, nonentitlement unit of local government, or county receiving funds provided under a payment made under this section shall provide to the Secretary periodic reports providing a detailed accounting of the uses of such funds by such metropolitan city, nonentitlement unit of local government, or county and including such other information as the Secretary may require for the administration of this section.
+
+**(e) Recoupment** Any metropolitan city, nonentitlement unit of local government, or county that has failed to comply with subsection (c) shall be required to repay to the Secretary an amount equal to the amount of funds used in violation of such subsection.
+
+**(f) Regulations** The Secretary shall have the authority to issue such regulations as may be necessary or appropriate to carry out this section.
+
+**(g) Definitions** In this section:
+
+(1) **County** — The term “county” means a county, parish, or other equivalent county division (as defined by the Bureau of the Census).
+
+(2) **Eligible workers** — The term “eligible workers” means those workers needed to maintain continuity of operations of essential critical infrastructure sectors and additional sectors as each chief executive officer of a metropolitan city, nonentitlement unit of local government, or county may designate as critical to protect the health and well-being of the residents of their metropolitan city, nonentitlement unit of local government, or county.
+
+(3) **First tranche amount** — The term “First Tranche Amount” means, with respect to each metropolitan city for which an amount is allocated under subsection (b)(1), each State for which an amount is allocated under subsection (b)(2) for distribution to nonentitlement units of local government, and each county for which an amount is allocated under subsection (b)(3), 50 percent of the amount so allocated to such metropolitan city, State, or county (as applicable).
+
+(4) **Metropolitan city** — The term “metropolitan city” has the meaning given that term in [section 5302(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5302/a/4&num=0&edition=prelim) and includes cities that relinquish or defer their status as a metropolitan city for purposes of receiving allocations under [section 5306 of this title](./chapter-069-community-development.md#section-5306) for fiscal year 2021.
+
+(5) **Nonentitlement unit of local government** — The term “nonentitlement unit of local government” means a “city”, as that term is defined in [section 5302(a)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5302/a/5&num=0&edition=prelim), that is not a metropolitan city.
+
+(6) **Premium pay** — The term “premium pay” has the meaning given such term in [section 802(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section802/g&num=0&edition=prelim).
+
+(7) **Second tranche amount** — The term “Second Tranche Amount” means, with respect to each metropolitan city for which an amount is allocated under subsection (b)(1), each State for which an amount is allocated under subsection (b)(2) for distribution to nonentitlement units of local government, and each county for which an amount is allocated under subsection (b)(3), an amount not to exceed 50 percent of the amount so allocated to such metropolitan city, State, or county (as applicable).
+
+(8) **Secretary** — The term “Secretary” means the Secretary of the Treasury.
+
+(9) **State** — The term “State” means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, the Commonwealth of the Northern Mariana Islands, and American Samoa.
+
+(10) **Unit of general local government** — The term “unit of general local government” has the meaning given that term in [section 5302(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5302/a/1&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### References in Text
+[Section 11360(17) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11360/17&num=0&edition=prelim), referred to in subsec. (c)(3), no longer defines the term “private nonprofit organization”. However, the term is defined elsewhere in that section.
+
+#### Prior Provisions
+A prior section 803, act Aug. 14, 1935, ch. 531, title VI, § 603, as added Oct. 30, 1972, Pub. L. 92–603, title III, § 302, 86 Stat. 1481, which provided for payments to States under approved plans for services to the aged, blind, or disabled, was repealed by Pub. L. 93–647, §§ 3(b), 7(b), Jan. 4, 1975, 88 Stat. 2349, 2351, effective with respect to payments under section 803 for quarters commencing after Sept. 30, 1975.
+
+Another prior section 803, act Aug. 14, 1935, ch. 531, title VI, § 603, 49 Stat. 635, which provided for allotments to States by appropriations for investigation of diseases by Public Health Service, was repealed by act July 1, 1944, ch. 373, title XIII, § 1313, formerly title VI, § 611, 58 Stat. 719. See [section 246 of this title](./chapter-6a-public-health-service.md#section-246).
+
+#### Amendments
+2021—Subsec. (c)(5). Pub. L. 117–58 added par. (5).
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–58 effective as if included in the enactment of section 9901 of the American Rescue Plan Act of 2021 (Public Law 117–2; 135 Stat. 223), see section 40909(c) of Pub. L. 117–58, set out as a note under [section 802 of this title](./chapter-007-social-security.md#section-802).
+
+
+<a id="section-804"></a>
+## § 804. Coronavirus capital projects fund
+**(a) Appropriation** In addition to amounts otherwise available, there is appropriated for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $10,000,000,000, to remain available until expended, for making payments to States, territories, and Tribal governments to carry out critical capital projects directly enabling work, education, and health monitoring, including remote options, in response to the public health emergency with respect to the Coronavirus Disease (COVID–19).
+
+**(b) Payments**
+
+(1) **Minimum amounts** — From the amount appropriated under subsection (a)—
+
+  (A) the Secretary shall pay $100,000,000 to each State;
+
+  (B) the Secretary shall pay $100,000,000 of such amount in equal shares to the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau; and
+
+  (C) the Secretary shall pay $100,000,000 of such amount in equal shares to Tribal governments and the State of Hawaii (in addition to the amount paid to the State of Hawaii under subparagraph (A)), of which—
+
+    (i) not less than $50,000 shall be paid to each Tribal government; and
+
+    (ii) not less than $50,000, and not more than $200,000, shall be paid to the State of Hawaii for the exclusive use of the Department of Hawaiian Home Lands and the Native Hawaiian Education Programs to assist Native Hawaiians in accordance with this section.
+
+(2) **Remaining amounts**
+
+  (A) *In general* — From the amount of the appropriation under subsection (a) that remains after the application of paragraph (1), the Secretary shall make payments to States based on population such that—
+
+    (i) 50 percent of such amount shall be allocated among the States based on the proportion that the population of each State bears to the population of all States;
+
+    (ii) 25 percent of such amount shall be allocated among the States based on the proportion that the number of individuals living in rural areas in each State bears to the number of individuals living in rural areas in all States; and
+
+    (iii) 25 percent of such amount shall be allocated among the States based on the proportion that the number of individuals with a household income that is below 150 percent of the poverty line applicable to a family of the size involved in each State bears to the number of such individuals in all States.
+
+  (B) *Data* — In determining the allocations to be made to each State under subparagraph (A), the Secretary of the Treasury shall use the most recent data available from the Bureau of the Census.
+
+**(c) Timing** The Secretary shall establish a process of applying for grants to access funding made available under section (b) not later than 60 days after March 11, 2021.
+
+**(d) Definitions** In this section:
+
+(1) **Secretary** — The term “Secretary” means the Secretary of the Treasury.
+
+(2) **State** — The term “State” means each of the 50 States, the District of Columbia, and Puerto Rico.
+
+(3) **Tribal government** — The term “Tribal government” has the meaning given such term in [section 802(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section802/g&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 804, act Aug. 14, 1935, ch. 531, title VI, § 604, as added Oct. 30, 1972, Pub. L. 92–603, title III, § 302, 86 Stat. 1484, which provided for notification to States and termination of payments in case of noncompliance with laws or State plan, was repealed by Pub. L. 93–647, §§ 3(b), 7(b), Jan. 4, 1975, 88 Stat. 2349, 2351.
+
+
+<a id="section-805"></a>
+## § 805. Local assistance and Tribal consistency fund
+**(a) Appropriation** In addition to amounts otherwise available, there is appropriated for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $2,000,000,000 to remain available until September 30, 2023, with amounts to be obligated for each of fiscal years 2022 and 2023 in accordance with subsection (b), for making payments under this section to eligible revenue sharing counties and eligible Tribal governments.
+
+**(b) Authority to make payments**
+
+(1) **Payments to eligible revenue sharing counties** — For each of fiscal years 2022 and 2023, the Secretary shall reserve $750,000,000 of the total amount appropriated under subsection (a) to allocate and pay to each eligible revenue sharing county in amounts that are determined by the Secretary taking into account economic conditions of each eligible revenue sharing county, using measurements of poverty rates, household income, land values, and unemployment rates as well as other economic indicators, over the 20-year period ending with September 30, 2021.
+
+(2) **Payments to eligible Tribal governments** — For each of fiscal years 2022 and 2023, the Secretary shall reserve $250,000,000 of the total amount appropriated under subsection (a) to allocate and pay to eligible Tribal governments in amounts that are determined by the Secretary taking into account economic conditions of each eligible Tribe.
+
+**(c) Use of payments** An eligible revenue sharing county or an eligible Tribal government may use funds provided under a payment made under this section for any governmental purpose other than a lobbying activity.
+
+**(d) Reporting requirement** Any eligible revenue sharing county receiving a payment under this section shall provide to the Secretary periodic reports providing a detailed accounting of the uses of fund by such eligible revenue sharing county and such other information as the Secretary may require for the administration of this section.
+
+**(e) Recoupment** Any eligible revenue sharing county that has failed to submit a report required under subsection (d) or failed to comply with subsection (c), shall be required to repay to the Secretary an amount equal to—
+
+(1) in the case of a failure to comply with subsection (c), the amount of funds used in violation of such subsection; and
+
+(2) in the case of a failure to submit a report required under subsection (d), such amount as the Secretary determines appropriate, but not to exceed 5 percent of the amount paid to the eligible revenue sharing county under this section for all fiscal years.
+
+**(f) Definitions** In this section:
+
+(1) **Eligible revenue sharing county** — The term “eligible revenue sharing county” means—
+
+  (A) a county, parish, or borough—
+
+    (i) that is independent of any other unit of local government; and
+
+    (ii) that, as determined by the Secretary, is the principal provider of government services for the area within its jurisdiction; and
+
+    (iii) for which, as determined by the Secretary, there is a negative revenue impact due to implementation of a Federal program or changes to such program; and
+
+  (B) the District of Columbia, the Commonwealth of Puerto Rico, Guam, and the United States Virgin Islands.
+
+(2) **Eligible Tribal government** — The term “eligible Tribal government” means the recognized governing body of an eligible Tribe.
+
+(3) **Eligible Tribe** — The term “eligible Tribe” means any Indian or Alaska Native tribe, band, nation, pueblo, village, community, component band, or component reservation, individually identified (including parenthetically) in the list published most recently as of March 11, 2021 pursuant to [section 5131 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5131&num=0&edition=prelim).
+
+(4) **Secretary** — The term “Secretary” means the Secretary of the Treasury.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 805, act Aug. 14, 1935, ch. 531, title VI, § 605, as added Oct. 30, 1972, Pub. L. 92–603, title III, § 302, 86 Stat. 1484, which defined “services to the aged, blind or disabled”, was repealed by Pub. L. 93–647, §§ 3(b), 7(b), Jan. 4, 1975, 88 Stat. 2349, 2351.
 
 
 <a id="section-901"></a>
@@ -33459,11 +33886,11 @@ Pub. L. 102–318, title V, § 531(e), July 3, 1992, 106 Stat. 317, provided tha
 
   (A) In addition to any other amounts, the Secretary of Labor shall provide for the transfer of funds with respect to the applicable period to the accounts of the States in the Unemployment Trust Fund, by transfer from amounts reserved for that purpose in the Federal unemployment account, in accordance with the succeeding provisions of this subsection.
 
-  (B) The amount of funds transferred to the account of a State under subparagraph (A) during the applicable period shall, as determined by the Secretary of Labor, be equal to one-half of the amounts of compensation (as defined in section 3306(h) of the Internal Revenue Code of 1986) attributable under the State law to service to which section 3309(a) of such Code applies and to service provided by employees of an entity created by Public Law 85–874 ([20 U.S.C. 76h](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section76h&num=0&edition=prelim) et seq.) that were paid by the State for weeks of unemployment beginning and ending during such period. Such transfers shall be made at such times as the Secretary of Labor considers appropriate.
+  (B) The amount of funds transferred to the account of a State under subparagraph (A) during the applicable period shall, as determined by the Secretary of Labor and except as otherwise provided in this subparagraph, be equal to one-half of the amounts of compensation (as defined in section 3306(h) of the Internal Revenue Code of 1986) attributable under the State law to service to which section 3309(a) of such Code applies and to service provided by employees of an entity created by Public Law 85–874 ([20 U.S.C. 76h](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section76h&num=0&edition=prelim) et seq.) that were paid by the State for weeks of unemployment beginning and ending during such period. With respect to the amounts of such compensation paid for weeks of unemployment beginning after March 31, 2021, and ending on or before September 6, 2021, the preceding sentence shall be applied by substituting “75 percent” for “one-half”. Such transfers shall be made at such times as the Secretary of Labor considers appropriate.
 
   (C) Notwithstanding any other provision of law, funds transferred to the account of a State under subparagraph (A) shall be used exclusively to reduce the amounts required to be paid in lieu of contributions into the State unemployment fund pursuant to such section by governmental entities and other organizations described in section 3309(a) of such Code or an entity created by Public Law 85–874 ([20 U.S.C. 76h](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section76h&num=0&edition=prelim) et seq.).
 
-  (D) For purposes of this paragraph, the term “applicable period” means the period beginning on March 13, 2020, and ending on March 14, 2021.
+  (D) For purposes of this paragraph, the term “applicable period” means the period beginning on March 13, 2020, and ending on September 6, 2021.
 
 (2)
 
@@ -33490,6 +33917,10 @@ Public Law 85–874, referred to in subsec. (i)(1)(B), (C), is Pub. L. 85–874,
 A prior section 1103, act Aug. 14, 1935, ch. 531, title IX, § 903, 49 Stat. 640, related to approval and certification of State laws. For further details, see Prior Law note set out preceding [section 1101 of this title](./chapter-007-social-security.md#section-1101).
 
 #### Amendments
+2021—Subsec. (i)(1)(B). Pub. L. 117–2, § 9012(b), inserted “and except as otherwise provided in this subparagraph” after “as determined by the Secretary of Labor” and “With respect to the amounts of such compensation paid for weeks of unemployment beginning after March 31, 2021, and ending on or before September 6, 2021, the preceding sentence shall be applied by substituting ‘75 percent’ for ‘one-half’.” after “during such period.”.
+
+Subsec. (i)(1)(D). Pub. L. 117–2, § 9012(a), substituted “September 6, 2021” for “March 14, 2021”.
+
 2020—Subsec. (h). Pub. L. 116–127 added subsec. (h).
 
 Subsec. (h)(2)(B). Pub. L. 116–136, § 3603, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The State ensures that applications for unemployment compensation, and assistance with the application process, are accessible in at least two of the following: in-person, by phone, or online.”
@@ -33972,8 +34403,11 @@ Pub. L. 92–603, title III, § 303(a), (b), Oct. 30, 1972, 86 Stat. 1484, provi
 
 1950—Act Aug. 28, 1950, substituted “Federal Security Administrator” for “Social Security Board”.
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Transfer of Functions
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
 
 <a id="section-1202"></a>
@@ -34049,6 +34483,9 @@ Subsec. (b). Act Aug. 28, 1950, § 361(c), (d), substituted “Administrator” 
 
 Subsec. (a)(8), (9). Act Aug. 10, 1939, § 701(b), added cls. (8) and (9).
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under [section 601 of this title](./chapter-007-social-security.md#section-601).
 
@@ -34089,10 +34526,11 @@ Act Aug. 10, 1939, ch. 666, title VII, § 701(b), 53 Stat. 1397, provided that t
 #### Transfer of Functions
 Functions, powers, and duties of Secretary under subsec. (a)(5)(A) of this section, insofar as relates to the prescription of personnel standards on a merit basis, transferred to Office of Personnel Management, see [section 4728(a)(3)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4728/a/3/D&num=0&edition=prelim).
 
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
-
 #### Public Access to State Disbursement Records
 Public access to State records of disbursements of funds and payments under this subchapter, see note set out under [section 302 of this title](./chapter-007-social-security.md#section-302).
+
+#### Transfer of Functions
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
 
 <a id="section-1202a"></a>
@@ -34202,6 +34640,9 @@ Subsec. (b). Act Aug. 10, 1946, § 503(b), temporarily substituted “the State�
 
 1939—Act Aug. 10. 1939, amended section generally.
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (b) pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Effective Date of 1993 Amendment
 Amendment by Pub. L. 103–66 effective with respect to calendar quarters beginning on or after Apr. 1, 1994, with special rule for States whose legislature meets biennially, and does not have regular session scheduled in calendar year 1994, see section 13741(c) of Pub. L. 103–66, set out as a note under [section 303 of this title](./chapter-007-social-security.md#section-303).
 
@@ -34256,16 +34697,16 @@ Amendment by section 503 of act Aug. 10, 1946, effective only for period beginni
 #### Effective Date of 1939 Amendment
 Act Aug. 10, 1939, ch. 666, title VII, § 702, 53 Stat. 1397, provided that the amendment made by that section is effective Jan. 1, 1940.
 
-#### Transfer of Functions
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
-
-“Fiscal Service” substituted for “Division of Disbursement” in subsec. (b)(3), on authority of section 1(a)(1) of Reorg. Plan No. III of 1940, eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231, set out in the Appendix to Title 5, Government Organization and Employees, which consolidated such division into the Fiscal Service of the Treasury Department. See [section 306 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section306&num=0&edition=prelim), Money and Finance.
-
 #### Nonduplication of Payments to States, Prohibition of Payments After December 31, 1969
 Prohibition of payments under this subchapter to States with respect to aid or assistance in form of medical or other type of remedial care for any period for which States received payments under subchapter XIX of this chapter or for any period after Dec. 31, 1969, see section 121(b) of Pub. L. 89–97, set out as a note under [section 1396b of this title](./chapter-007-social-security.md#section-1396b).
 
 #### Election of Payments Under Combined State Plan Rather Than Separate Plans
 Payments to States under combined State plan under subchapter XVI of this chapter as precluding payment under State plan conforming to this subchapter, see Pub. L. 87–543, title I, § 141(b), July 25, 1962, 76 Stat. 205.
+
+#### Transfer of Functions
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
+
+“Fiscal Service” substituted for “Division of Disbursement” in subsec. (b)(3), on authority of section 1(a)(1) of Reorg. Plan No. III of 1940, eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231, set out in the Appendix to Title 5, Government Organization and Employees, which consolidated such division into the Fiscal Service of the Treasury Department. See [section 306 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section306&num=0&edition=prelim), Money and Finance.
 
 
 <a id="section-1204"></a>
@@ -34288,8 +34729,11 @@ Pub. L. 92–603, title III, § 303(a), (b), Oct. 30, 1972, 86 Stat. 1484, provi
 
 1950—Act Aug. 28, 1950, substituted “Administrator” for “Board” and “his” for “its”.
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Transfer of Functions
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
 
 <a id="section-1205"></a>
@@ -34496,6 +34940,9 @@ Subsec. (a)(7). Act Aug. 28, 1950, § 403(b), added par. (7).
 
 1939—Subsec. (a)(1). Act Aug. 10, 1939, redefined “State”.
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (a)(6) and (8)(B) pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under [section 401 of this title](./chapter-007-social-security.md#section-401).
 
@@ -34575,12 +35022,6 @@ The provisions of subsecs. (a)(1), (3), (6), (c) of this section were incorporat
 
 Provisions of the Internal Revenue Code of 1939 were generally repealed by [section 7851 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section7851&num=0&edition=prelim), Internal Revenue Code of 1954 (act Aug. 16, 1954, ch. 736, 68A Stat. 3). See, also, section 7807 of said Title 26, I.R.C. 1954, respecting rules in effect upon enactment of I.R.C. 1954. The I.R.C. 1954 was redesignated I.R.C. 1986 by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095. Said repealed sections are covered by sections 3121, 3123, 3306, 3307, 7701 of Title 26.
 
-#### Transfer of Functions
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and Office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
-
-#### Termination of Trust Territory of the Pacific Islands
-For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
-
 #### Provisions Relating to Federal Security Administrator
 Pub. L. 98–369, div. B, title VI, § 2663(l), July 18, 1984, 98 Stat. 1171, provided that: “Any reference to the Federal Security Administrator which may remain in the provisions of title II, IV, VII, or XI of the Social Security Act [[[42 U.S.C. 401](./chapter-007-social-security.md#section-401) et seq., 601 et seq., 901 et seq., 1301 et seq.] (other than section 1101(a)(6) of such Act [[42 U.S.C. 1301(a)(6)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1301/a/6&num=0&edition=prelim)]) is amended—“(1) by substituting ‘Secretary’ or ‘Secretary’s’ for the term ‘Administrator’ or ‘Administrator’s’, where the reference is to that term alone; “(2) by substituting ‘Secretary of Health, Education, and Welfare’ for the term ‘Federal Security Administrator’, where the reference is to that term, if the provision containing such reference is amended by paragraph (2) or (3) of subsection (j) [Pub. L. 98–369, § 2663(j)(2), (3), see Tables for classification] (in which case the amendment of such provision under this paragraph shall be deemed to have taken effect immediately prior to the amendment of such provision under such paragraph (2) or (3)); and “(3) by substituting ‘Secretary of Health and Human Services’ for the term ‘Federal Security Administrator’ in any other case where the reference is to that term; and any reference to the Federal Security Agency which may remain in such provisions is amended by substituting ‘Department of Health and Human Services’ for the term ‘Federal Security Agency’; but nothing in this subsection shall affect the exercise under section 402(a)(5) of such Act [[42 U.S.C. 602(a)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section602/a/5&num=0&edition=prelim)] of the functions, powers, and duties relating to the prescription of personnel standards on a merit basis which were transferred from the Secretary of Health, Education, and Welfare by section 208(a)(3)(D) of Public Law 91–648 [[42 U.S.C. 4728(a)(3)(D)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4728/a/3/D&num=0&edition=prelim)].”
 
@@ -34605,6 +35046,12 @@ Pub. L. 85–840, title VII, § 702, Aug. 28, 1958, 72 Stat. 1056, as amended by
 Act Aug. 1, 1956, ch. 836, title I, § 119, 70 Stat. 836, as amended Oct. 17, 1979, Pub. L. 96–88, title V, § 509(b), 93 Stat. 695, provided that: “As used in this Act and in the provisions of the Social Security Act set forth in this Act [see Short Title of 1956 Amendment note set out under [section 1305 of this title](./chapter-007-social-security.md#section-1305)], the term ‘Secretary’ means the Secretary of Health and Human Services.”
 
 Act Sept. 1, 1954, ch. 1206, title I, § 114, 68 Stat. 1087, as amended Oct. 17, 1979, Pub. L. 96–88, title V, § 509(b), 93 Stat. 695, provided that: “As used in the provisions of the Social Security Act amended by this title [[42 U.S.C. 402](./chapter-007-social-security.md#section-402), 403, 415, 421], the term ‘Secretary’ means the Secretary of Health and Human Services.”
+
+#### Transfer of Functions
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and Office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
+
+#### Termination of Trust Territory of the Pacific Islands
+For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
 
 
 <a id="section-1301a"></a>
@@ -34685,6 +35132,9 @@ The right to alter, amend, or repeal any provision of this chapter is hereby res
 This chapter may be cited as the “Social Security Act”.
 
 ### Statutory Notes
+
+#### Short Title of 2021 Amendment
+Pub. L. 117–39, § 1, Aug. 31, 2021, 135 Stat. 336, provided that: “This Act [amending [section 1313 of this title](./chapter-007-social-security.md#section-1313)] may be cited as the ‘Emergency Repatriation Assistance for Returning Americans Act’.”
 
 #### Short Title of 2020 Amendment
 Pub. L. 116–260, div. X, § 1, Dec. 27, 2020, 134 Stat. 2409, provided that: “This division [amending [section 629h of this title](./chapter-007-social-security.md#section-629h), enacting provisions set out as notes under sections 629d, 629h, 671, 674, 677, and 711 of this title, and amending provisions set out as a note under [section 1396d of this title](./chapter-007-social-security.md#section-1396d)] may be cited as the ‘Supporting Foster Youth and Families through the Pandemic Act’.”
@@ -35903,7 +36353,7 @@ Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules rel
 
 
 <a id="section-1310"></a>
-## § 1310. Cooperative research or demonstration proj­ects
+## § 1310. Cooperative research or demonstration projects
 **(a) In general**
 
 (1) There are hereby authorized to be appropriated for the fiscal year ending June 30, 1957, $5,000,000 and for each fiscal year thereafter such sums as the Congress may determine for (A) making grants to States and public and other organizations and agencies for paying part of the cost of research or demonstration projects such as those relating to the prevention and reduction of dependency, or which will aid in effecting coordination of planning between private and public welfare agencies or which will help improve the administration and effectiveness of programs carried on or assisted under this chapter and programs related thereto, and (B) making contracts or jointly financed cooperative arrangements with States and public and other organizations and agencies for the conduct of research or demonstration projects relating to such matters.
@@ -36025,7 +36475,7 @@ In order to assist the States to extend the scope and content, and improve the q
 
 **(c) “Temporary assistance” defined** For purposes of this section, the term “temporary assistance” means money payments, medical care, temporary billeting, transportation, and other goods and services necessary for the health or welfare of individuals (including guidance, counseling, and other welfare services) furnished to them within the United States upon their arrival in the United States and for such period after their arrival, not exceeding ninety days, as may be provided in regulations of the Secretary; except that assistance under this section may be furnished beyond such ninety-day period in the case of any citizen or dependent upon a finding by the Secretary that the circumstances involved necessitate or justify the furnishing of assistance beyond such period in that particular case.
 
-**(d) Maximum total amount of temporary assistance** The total amount of temporary assistance provided under this section shall not exceed $1,000,000 during any fiscal year beginning after September 30, 2009, except that, in the case of fiscal year 2020, the total amount of such assistance provided during such fiscal year shall not exceed $10,000,000.
+**(d) Maximum total amount of temporary assistance** The total amount of temporary assistance provided under this section shall not exceed $1,000,000 during any fiscal year beginning after September 30, 2009, except that, in the case of fiscal years 2021 and 2022, the total amount of such assistance provided during each such fiscal year shall not exceed $10,000,000.
 
 **(e) Authority of Secretary to accept gifts**
 
@@ -36036,6 +36486,8 @@ In order to assist the States to extend the scope and content, and improve the q
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (d). Pub. L. 117–39 substituted “fiscal years 2021 and 2022, the total amount of such assistance provided during each such fiscal year shall not exceed $10,000,000” for “fiscal year 2020, the total amount of such assistance provided during such fiscal year shall not exceed $10,000,000”.
+
 2020—Subsec. (d). Pub. L. 116–148 substituted “fiscal year 2020, the total amount of such assistance provided during such fiscal year shall not exceed $10,000,000.” for “fiscal years 2017 and 2018, the total amount of such assistance provided during each such fiscal year shall not exceed $25,000,000.”
 
 2017—Subsec. (d). Pub. L. 115–57 substituted “fiscal years 2017 and 2018” for “fiscal year 2010” and “each such fiscal year” for “that fiscal year”.
@@ -36514,7 +36966,7 @@ Subsec. (a). Pub. L. 93–647, § 3(c)(2), inserted references to sections 1397a
 
 Subsec. (b). Pub. L. 93–647, § 3(c)(3), (4), substituted “1396b, or 1397a” for “1396b”, and inserted “or expenditures with respect to which payment shall be made under [section 1397a of this title](./chapter-007-social-security.md#section-1397a)” after “administration of such State plan or plans,”.
 
-1973—Pub. L. 93–233 inserted references in text preceding subsec. (a) to subchapter VI of this chapter, in subsec. (a) to [section 802 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section802&num=0&edition=prelim), and in subsec. (b) to [section 803 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section803&num=0&edition=prelim).
+1973—Pub. L. 93–233 inserted references in text preceding subsec. (a) to subchapter VI of this chapter, in subsec. (a) to [section 802 of this title](./chapter-007-social-security.md#section-802), and in subsec. (b) to [section 803 of this title](./chapter-007-social-security.md#section-803).
 
 1968—Pub. L. 90–248, § 241(c)(4), in opening phrase struck out “IV,” after “I,” and inserted “, or part A of subchapter IV,” after “XIX”.
 
@@ -36958,7 +37410,7 @@ Subsec. (b). Pub. L. 93–647, § 3(d)(1), substituted “XIX or XX” for “or
 
 Subsec. (d). Pub. L. 93–647, § 3(d)(3), inserted “XX,” after “XIX,”.
 
-1973—Subsec. (a). Pub. L. 93–233, § 18(z–2)(1)(C)(i), (ii), inserted references in par. (1) to subchapter VI of this chapter and in par. (3) to [section 804 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section804&num=0&edition=prelim).
+1973—Subsec. (a). Pub. L. 93–233, § 18(z–2)(1)(C)(i), (ii), inserted references in par. (1) to subchapter VI of this chapter and in par. (3) to [section 804 of this title](./chapter-007-social-security.md#section-804).
 
 Subsecs. (b), (d). Pub. L. 93–233, § 18(z–2)(1)(C)(iii), (iv), inserted reference to subchapter VI of this chapter.
 
@@ -38161,7 +38613,7 @@ Amendment by section 2353(k) of Pub. L. 97–35 effective Oct. 1, 1981, except a
 (9) 4 knowingly makes or causes to be made any false statement, omission, or misrepresentation of a material fact in any application, bid, or contract to participate or enroll as a provider of services or a supplier under a Federal health care program (as so defined), including Medicare Advantage organizations under part C of subchapter XVIII, prescription drug plan sponsors under part D of subchapter XVIII, medicaid managed care organizations under subchapter XIX, and entities that apply to participate as providers of services or suppliers in such managed care organizations and such plans; 55 So in original. Probably should be followed by “or”.
 
 (10) knows of an overpayment (as defined in paragraph (4) of [section 1320a–7k(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320a–7k/d&num=0&edition=prelim)) and does not report and return the overpayment in accordance with such section;
-shall be subject, in addition to any other penalties that may be prescribed by law, to a civil money penalty of not more than $20,000 for each item or service (or, in cases under paragraph (3), $30,000 for each individual with respect to whom false or misleading information was given; in cases under paragraph (4), $20,000 for each day the prohibited relationship occurs; in cases under paragraph (7), $100,000 for each such act,66 So in original. The comma probably should be a semicolon. in cases under paragraph (8),77 So in original. Probably is a reference to the first paragraph (8). $100,000 for each false record or statement,6 or 88 So in original. The word “or” probably should not appear. in cases under paragraph (9),99 So in original. Probably is a reference to the first paragraph (9). $15,000 for each day of the failure described in such paragraph); 1010 So in original. Probably should be “paragraph;”. or in cases under paragraph (9),1111 So in original. Probably is a reference to the second paragraph (9). $100,000 for each false statement or misrepresentation of a material fact). In addition, such a person shall be subject to an assessment of not more than 3 times the amount claimed for each such item or service in lieu of damages sustained by the United States or a State agency because of such claim (or, in cases under paragraph (7), damages of not more than 3 times the total amount of remuneration offered, paid, solicited, or received, without regard to whether a portion of such remuneration was offered, paid, solicited, or received for a lawful purpose; or in cases under paragraph (9), an assessment of not more than 3 times the total amount claimed for each item or service for which payment was made based upon the application containing the false statement or misrepresentation of a material fact). In addition the Secretary may make a determination in the same proceeding to exclude the person from participation in the Federal health care programs (as defined in [section 1320a–7b(f)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320a–7b/f/1&num=0&edition=prelim)) and to direct the appropriate State agency to exclude the person from participation in any State health care program.
+shall be subject, in addition to any other penalties that may be prescribed by law, to a civil money penalty of not more than $20,000 for each item or service (or, in cases under paragraph (3), $30,000 for each individual with respect to whom false or misleading information was given; in cases under paragraph (4), $20,000 for each day the prohibited relationship occurs; in cases under paragraph (7), $100,000 for each such act,66 So in original. The comma probably should be a semicolon. in cases under paragraph (8),77 So in original. Probably is a reference to the first paragraph (8). $100,000 for each false record or statement,6 or 3 in cases under paragraph (9),88 So in original. Probably is a reference to the first paragraph (9). $15,000 for each day of the failure described in such paragraph); 99 So in original. Probably should be “paragraph;”. or in cases under paragraph (9),1010 So in original. Probably is a reference to the second paragraph (9). $100,000 for each false statement or misrepresentation of a material fact). In addition, such a person shall be subject to an assessment of not more than 3 times the amount claimed for each such item or service in lieu of damages sustained by the United States or a State agency because of such claim (or, in cases under paragraph (7), damages of not more than 3 times the total amount of remuneration offered, paid, solicited, or received, without regard to whether a portion of such remuneration was offered, paid, solicited, or received for a lawful purpose; or in cases under paragraph (9), an assessment of not more than 3 times the total amount claimed for each item or service for which payment was made based upon the application containing the false statement or misrepresentation of a material fact). In addition the Secretary may make a determination in the same proceeding to exclude the person from participation in the Federal health care programs (as defined in [section 1320a–7b(f)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320a–7b/f/1&num=0&edition=prelim)) and to direct the appropriate State agency to exclude the person from participation in any State health care program.
 
 **(b) Payments to induce reduction or limitation of services**
 
@@ -38223,7 +38675,7 @@ shall be subject, in addition to any other penalties that may be prescribed by l
 
 (3) such other matters as justice may require.
 
-**(e) Review by courts of appeals** Any person adversely affected by a determination of the Secretary under this section may obtain a review of such determination in the United States Court of Appeals for the circuit in which the person resides, or in which the claim or specified claim was presented, by filing in such court (within sixty days following the date the person is notified of the Secretary’s determination) a written petition requesting that the determination be modified or set aside. A copy of the petition shall be forthwith transmitted by the clerk of the court to the Secretary, and thereupon the Secretary shall file in the Court 1212 So in original. Probably should not be capitalized. the record in the proceeding as provided in [section 2112 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2112&num=0&edition=prelim). Upon such filing, the court shall have jurisdiction of the proceeding and of the question determined therein, and shall have the power to make and enter upon the pleadings, testimony, and proceedings set forth in such record a decree affirming, modifying, remanding for further consideration, or setting aside, in whole or in part, the determination of the Secretary and enforcing the same to the extent that such order is affirmed or modified. No objection that has not been urged before the Secretary shall be considered by the court, unless the failure or neglect to urge such objection shall be excused because of extraordinary circumstances. The findings of the Secretary with respect to questions of fact, if supported by substantial evidence on the record considered as a whole, shall be conclusive. If any party shall apply to the court for leave to adduce additional evidence and shall show to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for the failure to adduce such evidence in the hearing before the Secretary, the court may order such additional evidence to be taken before the Secretary and to be made a part of the record. The Secretary may modify his findings as to the facts, or make new findings, by reason of additional evidence so taken and filed, and he shall file with the court such modified or new findings, which findings with respect to questions of fact, if supported by substantial evidence on the record considered as a whole, shall be conclusive, and his recommendations, if any, for the modification or setting aside of his original order. Upon the filing of the record with it, the jurisdiction of the court shall be exclusive and its judgment and decree shall be final, except that the same shall be subject to review by the Supreme Court of the United States, as provided in [section 1254 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1254&num=0&edition=prelim).
+**(e) Review by courts of appeals** Any person adversely affected by a determination of the Secretary under this section may obtain a review of such determination in the United States Court of Appeals for the circuit in which the person resides, or in which the claim or specified claim was presented, by filing in such court (within sixty days following the date the person is notified of the Secretary’s determination) a written petition requesting that the determination be modified or set aside. A copy of the petition shall be forthwith transmitted by the clerk of the court to the Secretary, and thereupon the Secretary shall file in the Court 1111 So in original. Probably should not be capitalized. the record in the proceeding as provided in [section 2112 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2112&num=0&edition=prelim). Upon such filing, the court shall have jurisdiction of the proceeding and of the question determined therein, and shall have the power to make and enter upon the pleadings, testimony, and proceedings set forth in such record a decree affirming, modifying, remanding for further consideration, or setting aside, in whole or in part, the determination of the Secretary and enforcing the same to the extent that such order is affirmed or modified. No objection that has not been urged before the Secretary shall be considered by the court, unless the failure or neglect to urge such objection shall be excused because of extraordinary circumstances. The findings of the Secretary with respect to questions of fact, if supported by substantial evidence on the record considered as a whole, shall be conclusive. If any party shall apply to the court for leave to adduce additional evidence and shall show to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for the failure to adduce such evidence in the hearing before the Secretary, the court may order such additional evidence to be taken before the Secretary and to be made a part of the record. The Secretary may modify his findings as to the facts, or make new findings, by reason of additional evidence so taken and filed, and he shall file with the court such modified or new findings, which findings with respect to questions of fact, if supported by substantial evidence on the record considered as a whole, shall be conclusive, and his recommendations, if any, for the modification or setting aside of his original order. Upon the filing of the record with it, the jurisdiction of the court shall be exclusive and its judgment and decree shall be final, except that the same shall be subject to review by the Supreme Court of the United States, as provided in [section 1254 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1254&num=0&edition=prelim).
 
 **(f) Compromise of penalties and assessments; recovery; use of funds recovered** Civil money penalties and assessments imposed under this section may be compromised by the Secretary and may be recovered in a civil action in the name of the United States brought in United States district court for the district where the claim or specified claim (as defined in subsection (r)) was presented, or where the claimant (or, with respect to a person described in subsection (o), the person) resides, as determined by the Secretary. Amounts recovered under this section shall be paid to the Secretary and disposed of as follows:
 
@@ -38246,7 +38698,7 @@ The amount of such penalty or assessment, when finally determined, or the amount
 
 **(i) Definitions** For the purposes of this section:
 
-(1) The term “State agency” means the agency established or designated to administer or supervise the administration of the State plan under subchapter XIX of this chapter or designated to administer the State’s program under subchapter V or division A 1313 See References in Text note below. of subchapter XX of this chapter.
+(1) The term “State agency” means the agency established or designated to administer or supervise the administration of the State plan under subchapter XIX of this chapter or designated to administer the State’s program under subchapter V or division A 1212 See References in Text note below. of subchapter XX of this chapter.
 
 (2) The term “claim” means an application for payments for items and services under a Federal health care program (as defined in [section 1320a–7b(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320a–7b/f&num=0&edition=prelim)).
 
@@ -38276,7 +38728,7 @@ The amount of such penalty or assessment, when finally determined, or the amount
 
   (D) incentives given to individuals to promote the delivery of preventive care as determined by the Secretary in regulations so promulgated;
 
-  (E) a reduction in the copayment amount for covered OPD services under section 1395l(t)(5)(B) 13 of this title; or 8
+  (E) a reduction in the copayment amount for covered OPD services under section 1395l(t)(5)(B) 12 of this title; or 3
 
   (F) any other remuneration which promotes access to care and poses a low risk of harm to patients and Federal health care programs (as defined in [section 1320a–7b(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320a–7b/f&num=0&edition=prelim) and designated by the Secretary under regulations);
 
@@ -38951,6 +39403,9 @@ Pub. L. 95–142, § 4(d), Oct. 25, 1977, 91 Stat. 1183, provided that: “The a
 
 #### Effective Date
 Pub. L. 92–603, title II, § 242(d), Oct. 30, 1972, 86 Stat. 1420, provided that: “The provisions of amendments made by this section [enacting this section and [section 1396h of this title](./chapter-007-social-security.md#section-1396h) and amending [section 1395ii of this title](./chapter-007-social-security.md#section-1395ii)] shall not be applicable to any acts, statements, or representations made or committed prior to the enactment of this Act [Oct. 30, 1972].”
+
+#### Moratorium on Implementation of Rule Relating to Eliminating the Anti-Kickback Statute Safe Harbor Protection for Prescription Drug Rebates
+Pub. L. 117–58, div. I, § 90006, Nov. 15, 2021, 135 Stat. 1346, provided that: “Notwithstanding any other provision of law, the Secretary of Health and Human Services shall not, prior to January 1, 2026, implement, administer, or enforce the provisions of the final rule published by the Office of the Inspector General of the Department of Health and Human Services on November 30, 2020, and titled ‘Fraud and Abuse; Removal of Safe Harbor Protection for Rebates Involving Prescription Pharmaceuticals and Creation of New Safe Harbor Protection for Certain Point-of-Sale Reductions in Price on Prescription Pharmaceuticals and Certain Pharmacy Benefit Manager Service Fees’ (85 Fed. Reg. 76666).”
 
 #### Rulemaking for Exception for Health Center Entity Arrangements
 Pub. L. 108–173, title IV, § 431(b), Dec. 8, 2003, 117 Stat. 2287, provided that: “(1) Establishment.—“(A) In general.—The Secretary [of Health and Human Services] shall establish, on an expedited basis, standards relating to the exception described in section 1128B(b)(3)(H) [now section 1128B(b)(3)(I)] of the Social Security Act [[42 U.S.C. 1320a–7b(b)(3)(I)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320a–7b/b/3/I&num=0&edition=prelim)], as added by subsection (a), for health center entity arrangements to the antikickback penalties. “(B) Factors to consider.—The Secretary shall consider the following factors, among others, in establishing standards relating to the exception for health center entity arrangements under subparagraph (A):“(i) Whether the arrangement between the health center entity and the other party results in savings of Federal grant funds or increased revenues to the health center entity. “(ii) Whether the arrangement between the health center entity and the other party restricts or limits an individual’s freedom of choice. “(iii) Whether the arrangement between the health center entity and the other party protects a health care professional’s independent medical judgment regarding medically appropriate treatment. The Secretary may also include other standards and criteria that are consistent with the intent of Congress in enacting the exception established under this section. “(2) Deadline.—Not later than 1 year after the date of the enactment of this Act [Dec. 8, 2003] the Secretary shall publish final regulations establishing the standards described in paragraph (1).”
@@ -41015,11 +41470,11 @@ Subsecs. (f), (g), (h)(1)(B). Pub. L. 103–296, § 108(b)(13)(A), substituted �
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under [section 401 of this title](./chapter-007-social-security.md#section-401).
 
-#### Termination of Trust Territory of the Pacific Islands
-For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
-
 #### Time Limit for Establishment of Blood Donor Locator Service
 Pub. L. 100–647, title VIII, § 8008(b)(2), Nov. 10, 1988, 102 Stat. 3786, required the Secretary of Health and Human Services to establish the Blood Donor Locator Service pursuant to this section no later than 180 days after Nov. 10, 1988.
+
+#### Termination of Trust Territory of the Pacific Islands
+For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
 
 
 <a id="section-1320b-12"></a>
@@ -42141,6 +42596,71 @@ Section was enacted as part of the American Recovery and Reinvestment Act of 200
 **(f) Definitions** In this section, the terms “elder justice”, “long-term care facility”, and “law enforcement” have the meanings given those terms in [section 1397j of this title](./chapter-007-social-security.md#section-1397j).
 
 
+<a id="section-1320b-26"></a>
+## § 1320b–26. Funding for providers relating to COVID–19
+**(a) Funding** In addition to amounts otherwise available, there is appropriated to the Secretary, for fiscal year 2021, out of any monies in the Treasury not otherwise appropriated, $8,500,000,000 for purposes of making payments to eligible health care providers for health care related expenses and lost revenues that are attributable to COVID–19. Amounts appropriated under the preceding sentence shall remain available until expended.
+
+**(b) Application requirement** To be eligible for a payment under this section, an eligible health care provider shall submit to the Secretary an application in such form and manner as the Secretary shall prescribe. Such application shall contain the following:
+
+(1) A statement justifying the need of the provider for the payment, including documentation of the health care related expenses attributable to COVID–19 and lost revenues attributable to COVID–19.
+
+(2) The tax identification number of the provider.
+
+(3) Such assurances as the Secretary determines appropriate that the eligible health care provider will maintain and make available such documentation and submit such reports (at such time, in such form, and containing such information as the Secretary shall prescribe) as the Secretary determines is necessary to ensure compliance with any conditions imposed by the Secretary under this section.
+
+(4) Any other information determined appropriate by the Secretary.
+
+**(c) Limitation** Payments made to an eligible health care provider under this section may not be used to reimburse any expense or loss that—
+
+(1) has been reimbursed from another source; or
+
+(2) another source is obligated to reimburse.
+
+**(d) Application of requirements, rules, and procedures** The Secretary shall apply any requirements, rules, or procedures as the Secretary deems appropriate for the efficient execution of this section.
+
+**(e) Definitions** In this section:
+
+(1) **Eligible health care provider** — The term “eligible health care provider” means—
+
+  (A) a provider of services (as defined in [section 1395x(u) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/u&num=0&edition=prelim)) or a supplier (as defined in [section 1395x(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/d&num=0&edition=prelim)) that—
+
+    (i) is enrolled in the Medicare program under subchapter XVIII under [section 1395cc(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395cc/j&num=0&edition=prelim) (including temporarily enrolled during the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim) for such period);
+
+    (ii) provides diagnoses, testing, or care for individuals with possible or actual cases of COVID–19; and
+
+    (iii) is a rural provider or supplier; or
+
+  (B) a provider or supplier that—
+
+    (i) is enrolled with a State Medicaid plan under subchapter XIX (or a waiver of such plan) in accordance with subsections (a)(77) and (kk) of [section 1396a of this title](./chapter-007-social-security.md#section-1396a) (including enrolled pursuant to section 1396a(a)(78) or [section 1396u–2(d)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396u–2/d/6&num=0&edition=prelim)) or enrolled with a State child health plan under subchapter XXI (or a waiver of such plan) in accordance with subparagraph (G) of [section 1397gg(e)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1397gg/e/1&num=0&edition=prelim) (including enrolled pursuant to subparagraph (D) or (Q) of such section);
+
+    (ii) provides diagnoses, testing, or care for individuals with possible or actual cases of COVID–19; and
+
+    (iii) is a rural provider or supplier.
+
+(2) **Health care related expenses attributable to COVID–19** — The term “health care related expenses attributable to COVID–19” means health care related expenses to prevent, prepare for, and respond to COVID–19, including the building or construction of a temporary structure, the leasing of a property, the purchase of medical supplies and equipment, including personal protective equipment and testing supplies, providing for increased workforce and training (including maintaining staff, obtaining additional staff, or both), the operation of an emergency operation center, retrofitting a facility, providing for surge capacity, and other expenses determined appropriate by the Secretary.
+
+(3) **Lost revenue attributable to COVID–19** — The term “lost revenue attributable to COVID–19” has the meaning given that term in the Frequently Asked Questions guidance released by the Department of Health and Human Services in June 2020, including the difference between such provider’s budgeted and actual revenue if such budget had been established and approved prior to March 27, 2020.
+
+(4) **Payment** — The term “payment” includes, as determined appropriate by the Secretary, a pre-payment, a prospective payment, a retrospective payment, or a payment through a grant or other mechanism.
+
+(5) **Rural provider or supplier** — The term “rural provider or supplier” means—
+
+  (A) a—
+
+    (i) provider or supplier located in a rural area (as defined in [section 1395ww(d)(2)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395ww/d/2/D&num=0&edition=prelim)); or
+
+    (ii) provider treated as located in a rural area pursuant to [section 1395ww(d)(8)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395ww/d/8/E&num=0&edition=prelim);
+
+  (B) a provider or supplier located in any other area that serves rural patients (as defined by the Secretary), which may include, but is not required to include, a metropolitan statistical area with a population of less than 500,000 (determined based on the most recently available data);
+
+  (C) a rural health clinic (as defined in [section 1395x(aa)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/aa/2&num=0&edition=prelim));
+
+  (D) a provider or supplier that furnishes home health, hospice, or long-term services and supports in an individual’s home located in a rural area (as defined in [section 1395ww(d)(2)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395ww/d/2/D&num=0&edition=prelim)); or
+
+  (E) any other rural provider or supplier (as defined by the Secretary).
+
+
 <a id="section-1320b-3"></a>
 ## § 1320b–3. Applicants or recipients under public assistance programs not to be required to make election respecting certain veterans’ benefits
 **(a) Supplemental Security Income program** Notwithstanding any other provision of law (but subject to subsection (b)), no individual who is an applicant for or recipient of aid or assistance under a State plan approved under subchapter I, X, XIV, or XVI, or of benefits under the Supplemental Security Income program established by subchapter XVI shall—
@@ -42264,10 +42784,12 @@ Pub. L. 96–499, title IX, § 901(b), Dec. 5, 1980, 94 Stat. 2611, provided tha
 
     (i) the patient’s right to request privacy restrictions; and
 
-    (ii) the patient’s right to request confidential communications; and
+    (ii) the patient’s right to request confidential communications;
 
-(8) in the case of a telehealth service (as defined in paragraph (4)(F) of [section 1395m(m) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395m/m&num=0&edition=prelim)) furnished in any emergency area (or portion of such an area) during any portion of any emergency period, the requirements of [section 1395m(m) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395m/m&num=0&edition=prelim).
-Insofar as the Secretary exercises authority under paragraph (6) with respect to individuals enrolled in a Medicare+Choice plan, to the extent possible given the circumstances, the Secretary shall reconcile payments made on behalf of such enrollees to ensure that the enrollees do not pay more than would be required had they received services from providers within the network of the plan and may reconcile payments to the organization offering the plan to ensure that such organization pays for services for which payment is included in the capitation payment it receives under part C of subchapter XVIII. A waiver or modification provided for under paragraph (3) or (7) shall only be in effect if such actions are taken in a manner that does not discriminate among individuals on the basis of their source of payment or of their ability to pay, and, except in the case of a waiver or modification to which the fifth sentence of this subsection applies, shall be limited to a 72-hour period beginning upon implementation of a hospital disaster protocol. A waiver or modification under such paragraph (7) shall be withdrawn after such period and the provider shall comply with the requirements under such paragraph for any patient still under the care of the provider. If a public health emergency described in subsection (g)(1)(B) involves a pandemic infectious disease (such as pandemic influenza), the duration of a waiver or modification under paragraph (3) shall be determined in accordance with subsection (e) as such subsection applies to public health emergencies.
+(8) in the case of a telehealth service (as defined in paragraph (4)(F) of [section 1395m(m) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395m/m&num=0&edition=prelim)) furnished in any emergency area (or portion of such an area) during any portion of any emergency period, the requirements of [section 1395m(m) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395m/m&num=0&edition=prelim); and
+
+(9) any requirement under [section 1395x(s)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/s/7&num=0&edition=prelim) or section 1395m(l) of this title that an ambulance service include the transport of an individual to the extent necessary to allow payment for ground ambulance services furnished in response to a 911 call (or the equivalent in areas without a 911 call system) in cases in which an individual would have been transported to a destination permitted under Medicare regulations (as described in section 410.40 to title 42, Code of Federal Regulations (or successor regulations)) but such transport did not occur as a result of community-wide emergency medical service (EMS) protocols due to the public health emergency described in subsection (g)(1)(B).
+Insofar as the Secretary exercises authority under paragraph (6) with respect to individuals enrolled in a Medicare+Choice plan, to the extent possible given the circumstances, the Secretary shall reconcile payments made on behalf of such enrollees to ensure that the enrollees do not pay more than would be required had they received services from providers within the network of the plan and may reconcile payments to the organization offering the plan to ensure that such organization pays for services for which payment is included in the capitation payment it receives under part C of subchapter XVIII. A waiver or modification provided for under paragraph (3) or (7) shall only be in effect if such actions are taken in a manner that does not discriminate among individuals on the basis of their source of payment or of their ability to pay, and, except in the case of a waiver or modification to which the fifth sentence of this subsection applies, shall be limited to a 72-hour period beginning upon implementation of a hospital disaster protocol. A waiver or modification under such paragraph (7) shall be withdrawn after such period and the provider shall comply with the requirements under such paragraph for any patient still under the care of the provider. If a public health emergency described in subsection (g)(1)(B) involves a pandemic infectious disease (such as pandemic influenza), the duration of a waiver or modification under paragraph (3) shall be determined in accordance with subsection (e) as such subsection applies to public health emergencies. Ground ambulance services for which payment is made pursuant to paragraph (9) shall be paid at the base rate that would have been paid under the fee schedule established under 22 So in original. The word “section” probably should appear. 1395m(l) of this title (excluding any mileage payment) if the individual had been so transported and, with respect to ambulance services furnished by a critical access hospital or an entity described in paragraph (8) of such section, at the amount that otherwise would be paid under such paragraph.
 
 **(c) Authority for retroactive waiver** A waiver or modification of requirements pursuant to this section may, at the Secretary’s discretion, be made retroactive to the beginning of the emergency period or any subsequent date in such period specified by the Secretary.
 
@@ -42309,7 +42831,7 @@ Insofar as the Secretary exercises authority under paragraph (6) with respect to
 
     (ii) a public health emergency declared by the Secretary pursuant to [section 247d of this title](./chapter-6a-public-health-service.md#section-247d).
 
-  (B) *Exception* — For purposes of subsection (b)(8), an “emergency area” is a geographical area in which, and an “emergency period” is the period during which, there exists—
+  (B) *Exception* — For purposes of paragraphs (8) and (9) of subsection (b), an “emergency area” is a geographical area in which, and an “emergency period” is the period during which, there exists—
 
     (i) the public health emergency declared by the Secretary pursuant to [section 247d of this title](./chapter-6a-public-health-service.md#section-247d) on January 31, 2020, entitled “Determination that a Public Health Emergency Exists Nationwide as the Result of the 2019 Novel Coronavirus”; and
 
@@ -42330,6 +42852,12 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 A prior section 1320b–5, act Aug. 14, 1935, ch. 531, title XI, § 1135, as added Pub. L. 97–35, title XXI, § 2173(c), Aug. 13, 1981, 95 Stat. 809; amended Pub. L. 97–248, title I, § 101(b)(3), Sept. 3, 1982, 96 Stat. 335; Pub. L. 99–509, title IX, § 9343(f), Oct. 21, 1986, 100 Stat. 2041; Pub. L. 100–203, title IV, § 4068(b), Dec. 22, 1987, 101 Stat. 1330–114; Pub. L. 100–360, title IV, § 411(g)(6), July 1, 1988, 102 Stat. 785; Pub. L. 103–432, title I, § 147(c)(2), Oct. 31, 1994, 108 Stat. 4429, related to development of model prospective rate methodology, prior to repeal by Pub. L. 106–113, div. B, § 1000(a)(6) [title III, § 321(l)], Nov. 29, 1999, 113 Stat. 1536, 1501A–368, effective Nov. 29, 1999.
 
 #### Amendments
+2021—Subsec. (b). Pub. L. 117–2, § 9832(a)(2), inserted at end of concluding provisions “Ground ambulance services for which payment is made pursuant to paragraph (9) shall be paid at the base rate that would have been paid under the fee schedule established under 1395m(l) of this title (excluding any mileage payment) if the individual had been so transported and, with respect to ambulance services furnished by a critical access hospital or an entity described in paragraph (8) of such section, at the amount that otherwise would be paid under such paragraph.”
+
+Subsec. (b)(9). Pub. L. 117–2, § 9832(a)(1), added par. (9).
+
+Subsec. (g)(1)(B). Pub. L. 117–2, § 9832(b), substituted “paragraphs (8) and (9) of subsection (b)” for “subsection (b)(8)” in introductory provisions.
+
 2020—Subsec. (b)(8). Pub. L. 116–136, § 3703(1), substituted “, the requirements of [section 1395m(m) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395m/m&num=0&edition=prelim).” for “to an individual by a qualified provider (as defined in subsection (g)(3))—
 
 “(A) the requirements of paragraph (4)(C) of such section, except that a facility fee under paragraph (2)(B)(i) of such section may only be paid to an originating site that is a site described in any of subclauses (I) through (IX) of paragraph (4)(C)(ii) of such section; and
@@ -42346,7 +42874,7 @@ Subsec. (g)(1). Pub. L. 116–123, § 102(b), amended par. (1) generally. Prior 
 
 Subsec. (g)(3). Pub. L. 116–136, § 3703(2), struck out par. (3) which defined the term “qualified provider”.
 
-Pub. L. 116–123, § 102(a)(2), added par.(3).
+Pub. L. 116–123, § 102(a)(2), added par. (3).
 
 Subsec. (g)(3)(A). Pub. L. 116–127 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “furnished to such individual an item or service for which payment was made under subchapter XVIII during the 3-year period ending on the date such telehealth service was furnished; or”.
 
@@ -45391,7 +45919,7 @@ Pub. L. 110–233, title I, § 105(b)(1), May 21, 2008, 122 Stat. 905, provided 
 
   (A) Information contained in research findings as specified in subsection (d)(9).
 
-  (B) The process and methods for the conduct of research, including the identity of the entity and the investigators conducing 66 So in original. Probably should be “conducting”. such research and any conflicts of interests of such parties, any direct or indirect links the entity has to industry, and research protocols, including measures taken, methods of research and analysis, research results, and such other information the Institute determines appropriate) 77 So in original. concurrent with the release of research findings.
+  (B) The process and methods for the conduct of research, including the identity of the entity and the investigators conducing 66 So in original. Probably should be “conducting”. such research and any conflicts of interests of such parties, any direct or indirect links the entity has to industry, and research protocols, including measures taken, methods of research and analysis, research results, and such other information the Institute determines appropriate) 5 concurrent with the release of research findings.
 
   (C) Notice of public comment periods under paragraph (1), including deadlines for public comments.
 
@@ -45411,11 +45939,11 @@ Pub. L. 110–233, title I, § 105(b)(1), May 21, 2008, 122 Stat. 905, provided 
 
   (B) *Manner of disclosure* — Conflicts of interest shall be disclosed as described in subparagraph (A) as soon as practicable on the Internet web site of the Institute. The information disclosed under the preceding sentence shall include the type, nature, and magnitude of the interests of the individual involved, except to the extent that the individual recuses himself or herself from participating in the consideration of or any other activity with respect to the study as to which the potential conflict exists.
 
-**(i) Rules** The Institute,7 its Board or staff, shall be prohibited from accepting gifts, bequeaths,88 So in original. Probably should be “bequests”. or donations of services or property. In addition, the Institute shall be prohibited from establishing a corporation or generating revenues from activities other than as provided under this section.
+**(i) Rules** The Institute,5 its Board or staff, shall be prohibited from accepting gifts, bequeaths,77 So in original. Probably should be “bequests”. or donations of services or property. In addition, the Institute shall be prohibited from establishing a corporation or generating revenues from activities other than as provided under this section.
 
 **(j) Rules of construction**
 
-(1) **99 So in original. No par. (2) has been enacted. Coverage** — Nothing in this section shall be construed—
+(1) **88 So in original. No par. (2) has been enacted. Coverage** — Nothing in this section shall be construed—
 
   (A) to permit the Institute to mandate coverage, reimbursement, or other policies for any public or private payer; or
 
@@ -45699,7 +46227,7 @@ Act June 1, 1955, ch. 118, 69 Stat. 81, authorized the Governor of Alaska to obt
 
 (10)
 
-  (A) With respect to the period beginning on March 18, 2020, and ending on March 14, 2021—
+  (A) With respect to the period beginning on March 18, 2020, and ending on September 6, 2021—
 
     (i) any interest payment otherwise due from a State under this subsection during such period shall be deemed to have been made by the State; and
 
@@ -45717,6 +46245,8 @@ Section 203 of the Federal-State Extended Unemployment Compensation Act of 1970,
 The Internal Revenue Code of 1986, referred to in subsec. (b)(5), (8)(B)(i), is classified generally to Title 26.
 
 #### Amendments
+2021—Subsec. (b)(10)(A). Pub. L. 117–2 substituted “September 6, 2021” for “March 14, 2021” in introductory provisions.
+
 2020—Subsec. (b)(10)(A). Pub. L. 116–260 substituted “March 14, 2021” for “December 31, 2020” in introductory provisions.
 
 Pub. L. 116–127 substituted “beginning on March 18, 2020, and ending on December 31, 2020” for “beginning on February 17, 2009, and ending on December 31, 2010” in introductory provisions.
@@ -45842,8 +46372,11 @@ Pub. L. 92–603, title III, § 303(a), (b), Oct. 30, 1972, 86 Stat. 1484, provi
 
 1956—Act Aug. 1, 1956, restated purpose to include assistance to individuals to attain self-support of self-care.
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Transfer of Functions
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
 
 <a id="section-1352"></a>
@@ -45889,6 +46422,9 @@ Subsec. (a)(8). Pub. L. 87–543, § 106(a)(3), inserted “, as well as any exp
 
 1956—Subsec. (a)(12). Act Aug. 1, 1956, added cl. (12).
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under [section 601 of this title](./chapter-007-social-security.md#section-601).
 
@@ -45910,10 +46446,11 @@ Amendment by act Aug. 1, 1956, effective July 1, 1957, see section 314 [315] of 
 #### Transfer of Functions
 Functions, powers, and duties of Secretary under subsec. (a)(5)(A) of this section, insofar as relates to the prescription of personnel standards on a merit basis, transferred to Office of Personnel Management, see [section 4728(a)(3)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4728/a/3/D&num=0&edition=prelim).
 
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
-
 #### Public Access to State Disbursement Records
 Public access to State records of disbursements of funds and payments under this subchapter, see note set out under [section 302 of this title](./chapter-007-social-security.md#section-302).
+
+#### Transfer of Functions
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
 
 <a id="section-1353"></a>
@@ -45998,6 +46535,9 @@ Act Aug. 1, 1956, § 344, substituted “October 1, 1956” for “October 1, 19
 
 1952—Subsec. (a). Act July 18, 1952, increased the Federal share of the State’s average monthly payment to four-fifths of the first $25 plus one-half of the remainder within individual maximums of $55, and changed formulas for computing the Federal share of public assistance for Puerto Rico and the Virgin Islands.
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (b) pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Effective Date of 1993 Amendment
 Amendment by Pub. L. 103–66 effective with respect to calendar quarters beginning on or after Apr. 1, 1994, with special rule for States whose legislature meets biennially, and does not have regular session scheduled in calendar year 1994, see section 13741(c) of Pub. L. 103–66, set out as a note under [section 303 of this title](./chapter-007-social-security.md#section-303).
 
@@ -46036,14 +46576,14 @@ Amendment by section 344 of act Aug. 1, 1956, effective only for period beginnin
 #### Effective and Termination Date of 1952 Amendment
 Amendment by act July 18, 1952, effective for period beginning Oct. 1, 1952, and ending Sept. 30, 1956, see section 8(e) of act July 18, 1952, set out as a note set out under [section 303 of this title](./chapter-007-social-security.md#section-303).
 
-#### Transfer of Functions
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and Office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
-
 #### Nonduplication of Payments to States: Prohibition of Payments After December 31, 1969
 Prohibition of payments under this subchapter to States with respect to aid or assistance in form of medical or other type of remedial care for any period for which States received payments under subchapter XIX of this chapter or for any period after Dec. 31, 1969, see section 121(b) of Pub. L. 89–97, set out as a note under [section 1396b of this title](./chapter-007-social-security.md#section-1396b).
 
 #### Election of Payments Under Combined State Plan Rather Than Separate Plans
 Payments to States under combined State plan under subchapter XVI or this chapter as precluding payment under State plan conforming to this subchapter, see section 141(b) of Pub. L. 87–543, set out as a note under [section 1382e of this title](./chapter-007-social-security.md#section-1382e).
+
+#### Transfer of Functions
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and Office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
 
 <a id="section-1354"></a>
@@ -46064,8 +46604,11 @@ Pub. L. 92–603, title III, § 303(a), (b), Oct. 30, 1972, 86 Stat. 1484, provi
 #### Amendments
 1968—Pub. L. 90–248 inserted “(or, in his discretion, that payments will be limited to categories under or parts of the State plan not affected by such failure)” after “further payments will not be made to the State” and substituted in last sentence “further payments to such State (or shall limit payments to categories under or parts of the State plan not affected by such failure)” for “further certification to the Secretary of the Treasury with respect to such State”.
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Transfer of Functions
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under [section 3501 of this title](./chapter-043-department-of-health-and-human-services.md#section-3501). Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
 
 <a id="section-1355"></a>
@@ -46830,7 +47373,7 @@ Pub. L. 106–169, title II, § 261, Dec. 14, 1999, 113 Stat. 1856, required a s
 Pub. L. 104–193, title II, § 203(b), Aug. 22, 1996, 110 Stat. 2187, required a study on various improvements in the furnishing of information to the Commissioner by courts and prisons and a report to be submitted no later than 1 year after Aug. 22, 1996.
 
 #### Additional Report to Congress
-Pub. L. 104–193, title II, § 203(c), Aug. 22, 1996, 110 Stat. 2187, required the Commissioner, to provide, no later than Oct. 1, 1998, a list of institutions providing or not providing information under subsec. (e)(1)(I) of this section.
+Pub. L. 104–193, title II, § 203(c), Aug. 22, 1996, 110 Stat. 2187, required the Commissioner to provide, no later than Oct. 1, 1998, a list of institutions providing or not providing information under subsec. (e)(1)(I) of this section.
 
 #### Study by General Accounting Office
 Pub. L. 104–193, title II, § 232, Aug. 22, 1996, 110 Stat. 2198, provided that, not later than Jan. 1, 1999, the Comptroller General was to study and report on the impact of the amendments and provisions of title II of Pub. L. 104–193 on the supplemental security income program under this subchapter and extra expenses incurred by families of children receiving benefits under this subchapter not covered by other Federal, State, or local programs.
@@ -52264,13 +52807,13 @@ Pub. L. 106–554, § 1(a)(6) [title IV, § 422(b)], Dec. 21, 2000, 114 Stat. 27
 Pub. L. 106–554, § 1(a)(6) [title IV, § 422(c)], Dec. 21, 2000, 114 Stat. 2763, 2763A–517, provided that: “(1) Development.—The Secretary of Health and Human Services shall develop a system which includes, to the maximum extent feasible, in the composite rate used for payment under section 1881(b)(7) of the Social Security Act ([42 U.S.C. 1395rr(b)(7)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395rr/b/7&num=0&edition=prelim)), payment for clinical diagnostic laboratory tests and drugs (including drugs paid under section 1881(b)(11)(B) of such Act ([42 U.S.C. 1395rr(b)(11)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395rr/b/11/B&num=0&edition=prelim)) that are routinely used in furnishing dialysis services to medicare beneficiaries but which are currently separately billable by renal dialysis facilities. “(2) Report.—The Secretary shall include, as part of the report submitted under subsection (b)(2) [set out above], a report on the system developed under paragraph (1) and recommendations on the appropriateness of incorporating the system into medicare payment for renal dialysis services.”
 
 #### GAO Study on Access to Services
-Pub. L. 106–554, § 1(a)(6) [title IV, § 422(d)], Dec. 21, 2000, 114 Stat. 2763, 2763A–517, provided that: “(1) Study.—The Comptroller General of the United States shall study access of medicare beneficiaries to renal dialysis services. Such study shall include whether there is a sufficient supply of facilities to furnish needed renal dialysis services, whether medicare payment levels are appropriate, taking into account audited costs of facilities for all services furnished, to ensure continued access to such services, and improvements in access (and quality of care) that may result in the increased use of long nightly and short daily hemodialysis modalities. “(2) Report.—Not later than January 1, 2003, the Comptroller General shall submit to Congress a report on the study conducted under paragraph (1).”
+Pub. L. 106–554, § 1(a)(6) [title IV, § 422(d)], Dec. 21, 2000, 114 Stat. 2763, 2763A–517, directed the Comptroller General of the United States to study access of medicare beneficiaries to renal dialysis services and required the Comptroller General to submit to Congress a report on the study by not later than Jan. 1, 2003.
 
 #### Special Rule for Payment for 2001
 Pub. L. 106–554, § 1(a)(6) [title IV, § 422(e)], Dec. 21, 2000, 114 Stat. 2763, 2763A–517, provided that: “Notwithstanding the amendment made by subsection (a)(1) [amending this section], for purposes of making payments under section 1881(b) of the Social Security Act ([42 U.S.C. 1395rr(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395rr/b&num=0&edition=prelim)) for dialysis services furnished during 2001, the composite rate payment under paragraph (7) of such section— “(1) for services furnished on or after January 1, 2001, and before April 1, 2001, shall be the composite rate payment determined under the provisions of law in effect on the day before the date of the enactment of this Act [Dec. 21, 2000]; and “(2) for services furnished on or after April 1, 2001, and before January 1, 2002, shall be the composite rate payment (as determined taking into account the amendment made by subsection (a)(1)) increased by a transitional percentage allowance equal to 0.39 percent (to account for the timing of implementation of the CPI update).”
 
 #### Study on Payment Level for Home Hemodialysis
-Pub. L. 106–113, div. B, § 1000(a)(6) [title II, § 222(c)], Nov. 29, 1999, 113 Stat. 1536, 1501A–352, provided that: “The Medicare Payment Advisory Commission shall conduct a study on the appropriateness of the differential in payment under the medicare program for hemodialysis services furnished in a facility and such services furnished in a home. Not later than 18 months after the date of the enactment of this Act [Nov. 29, 1999], the Commission shall submit to Congress a report on such study and shall include recommendations regarding changes in medicare payment policy in response to the study.”
+Pub. L. 106–113, div. B, § 1000(a)(6) [title II, § 222(c)], Nov. 29, 1999, 113 Stat. 1536, 1501A–352, required the Medicare Payment Advisory Commission to conduct a study on the appropriateness of a differential in payment level for home hemodialysis and to submit a report to Congress no later than 18 months after Nov. 29, 1999.
 
 #### Renal Dialysis-Related Services
 Pub. L. 105–33, title IV, § 4558, Aug. 5, 1997, 111 Stat. 463, provided that: “(a) Auditing of Cost Reports.—Beginning with cost reports for 1996, the Secretary shall audit cost reports of each renal dialysis provider at least once every 3 years. “(b) Implementation of Quality Standards.—The Secretary of Health and Human Services shall develop, by not later than January 1, 1999, and implement, by not later than January 1, 2000, a method to measure and report quality of renal dialysis services provided under the medicare program under title XVIII of the Social Security Act [this subchapter].”
@@ -53699,7 +54242,7 @@ Pub. L. 109–13, div. A, title VI, § 6045(c), May 11, 2005, 119 Stat. 295, pro
 
 **(b) Funding**
 
-(1) **In general** — There shall be available to the Fund, for expenditures from the Fund for services furnished during and after fiscal year 2021, $165,000,000.
+(1) **In general** — There shall be available to the Fund, for expenditures from the Fund for services furnished during and after fiscal year 2021, $101,000,000.
 
 (2) **Payment from Trust Funds** — The amount specified under paragraph (1) shall be available to the Fund, as expenditures are made from the Fund, from the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund in such proportion as the Secretary determines appropriate.
 
@@ -53710,6 +54253,12 @@ Pub. L. 109–13, div. A, title VI, § 6045(c), May 11, 2005, 119 Stat. 295, pro
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (b)(1). Pub. L. 117–71 substituted “fiscal year 2021, $101,000,000.” for “fiscal year 2021, $69,000,000.”
+
+Pub. L. 117–70 substituted “$56,000,000” for “$69,000,000”.
+
+Pub. L. 117–43 substituted “$69,000,000” for “$165,000,000”.
+
 2020—Subsec. (b)(1). Pub. L. 116–260 substituted “$165,000,000” for “$0”.
 
 2018—Subsec. (b)(1). Pub. L. 115–123 substituted “$0” for “$220,000,000”.
@@ -55064,7 +55613,7 @@ Pub. L. 105–33, title IV, § 4507(c), Aug. 5, 1997, 111 Stat. 442, provided th
 Pub. L. 114–255, div. C, title XVII, § 17003, Dec. 13, 2016, 130 Stat. 1331, provided that: “(a) In General.—Not later than 12 months after the last day of the period for the request of information described in subsection (b), the Secretary of Health and Human Services shall, taking into consideration information collected pursuant to subsection (b), update the information included in the Welcome to Medicare package to include information, presented in a clear and simple manner, about options for receiving benefits under the Medicare program under title XVIII of the Social Security Act ([42 U.S.C. 1395](./chapter-007-social-security.md#section-1395) et seq.), including through the original medicare fee-for-service program under parts A and B of such title ([42 U.S.C. 1395c](./chapter-007-social-security.md#section-1395c) et seq., [42 U.S.C. 1395j](./chapter-007-social-security.md#section-1395j) et seq.), Medicare Advantage plans under part C of such title ([42 U.S.C. 1395w–21](./chapter-007-social-security.md#section-1395w-21) et seq.), and prescription drug plans under part D of such title ([42 U.S.C. 1395w–101](./chapter-007-social-security.md#section-1395w-101) et seq.)). The Secretary shall make subsequent updates to the information included in the Welcome to Medicare package as appropriate. “(b) Request for Information.—Not later than 6 months after the date of the enactment of this Act [Dec. 13, 2016], the Secretary of Health and Human Services shall request information, including recommendations, from stakeholders (including patient advocates, issuers, and employers) on information included in the Welcome to Medicare package, including pertinent data and information regarding enrollment and coverage for Medicare eligible individuals.”
 
 #### Report to Congress on Effect of Private Contracts
-Pub. L. 105–33, title IV, § 4507(b), Aug. 5, 1997, 111 Stat. 441, required a report to be submitted to Congress no later than Oct. 1, 2001, on the effect on the program under title IV of Pub. L. 105–33 of certain private contracts.
+Pub. L. 105–33, title IV, § 4507(b), Aug. 5, 1997, 111 Stat. 441, required a report to be submitted to Congress, no later than Oct. 1, 2001, on the effect on the program under title IV of Pub. L. 105–33 of certain private contracts.
 
 
 <a id="section-1395dd"></a>
@@ -59815,11 +60364,11 @@ Pub. L. 100–203, title IV, § 4065(c), Dec. 22, 1987, 101 Stat. 1330–112, pr
 
 Pub. L. 100–203, title IV, § 4070(c)(2), Dec. 22, 1987, 101 Stat. 1330–115, provided that: “(A) The amendments made by subsection (b) [amending this section and sections 1395l and 1395n of this title] shall become effective on the date of enactment of this Act [Dec. 22, 1987]. “(B) The Secretary of Health and Human Services shall implement the amendments made by subsection (b) so as to ensure that there is no additional cost to the medicare program by reason of such amendments.”
 
-Pub. L. 100–203, title IV, § 4071(b), Dec. 22, 1987, 101 Stat. 1330–116, provided that: “(1) The provisions of subsection (e) of section 4072 of this subpart [section 4072(e) of Pub. L. 100–203, set out below] shall apply to this section [amending this section] in the same manner as it applies to section 4072. [Amendments became effective pursuant to final report dated Apr. 26, 1993. See Cong. Rec., vol. 139, pt. 7, p. 10460, Ex. Comm. 1254.] “(2) In conducting the demonstration project pursuant to paragraph (1), in order to determine the cost effectiveness of including influenza vaccine in the medicare program, the Secretary of Health and Human Services is required to conduct a demonstration of the provision of influenza vaccine as a service for medicare beneficiaries and to expend $25,000,000 each year of the demonstration project for this purpose. In conducting this demonstration, the Secretary is authorized to purchase in bulk influenza vaccine and to distribute it in a manner to make it widely available to medicare beneficiaries, to develop projects to provide vaccine in the same manner as other covered medicare services in large scale demonstration projects, including statewide projects, and to engage in other appropriate use of moneys to provide influenza vaccine to medicare beneficiaries and evaluate the cost effectiveness of its use. In determining cost effectiveness, the Secretary shall consider the direct cost of the vaccine, the utilization of vaccine which might otherwise not have occurred, the costs of illnesses and nursing home days avoided, and other relevant factors, except that extended life for beneficiaries shall not be considered to reduce the cost effectiveness of the vaccine.”
+Pub. L. 100–203, title IV, § 4071(b), Dec. 22, 1987, 101 Stat. 1330–116, provided that: “(1) The provisions of subsection (e) of section 4072 of this subpart [section 4072(e) of Pub. L. 100–203, set out below] shall apply to this section [amending this section] in the same manner as it applies to section 4072. [Amendments became effective pursuant to final report dated Apr. 26, 1993. See Cong. Rec., vol. 139, pt. 7, p. 10460, Ex. Comm. 1254, May 19, 1993.] “(2) In conducting the demonstration project pursuant to paragraph (1), in order to determine the cost effectiveness of including influenza vaccine in the medicare program, the Secretary of Health and Human Services is required to conduct a demonstration of the provision of influenza vaccine as a service for medicare beneficiaries and to expend $25,000,000 each year of the demonstration project for this purpose. In conducting this demonstration, the Secretary is authorized to purchase in bulk influenza vaccine and to distribute it in a manner to make it widely available to medicare beneficiaries, to develop projects to provide vaccine in the same manner as other covered medicare services in large scale demonstration projects, including statewide projects, and to engage in other appropriate use of moneys to provide influenza vaccine to medicare beneficiaries and evaluate the cost effectiveness of its use. In determining cost effectiveness, the Secretary shall consider the direct cost of the vaccine, the utilization of vaccine which might otherwise not have occurred, the costs of illnesses and nursing home days avoided, and other relevant factors, except that extended life for beneficiaries shall not be considered to reduce the cost effectiveness of the vaccine.”
 
 Pub. L. 100–203, title IV, § 4072(e), Dec. 22, 1987, 101 Stat. 1330–117, provided that: “(1) The amendments made by this section [amending this section and sections 1395l, 1395y, 1395aa, 1395bb, 1396a, and 1396n of this title] shall become effective (if at all) in accordance with paragraph (2). “(2)(A) The Secretary of Health and Human Services (in this paragraph referred to as the ‘Secretary’), shall establish a demonstration project to begin on October 1, 1988, to test the cost-effectiveness of furnishing therapeutic shoes under the medicare program to the extent provided under the amendments made by this section to a sample group of medicare beneficiaries. “(B)(i) The demonstration project under subparagraph (A) shall be conducted for an initial period of 24 months. Not later than October 1, 1990, the Secretary shall report to the Congress on the results of such project. If the Secretary finds, on the basis of existing data, that furnishing therapeutic shoes under the medicare program to the extent provided under the amendments made by this section is cost-effective, the Secretary shall include such finding in such report, such project shall be discontinued, and the amendments made by this section shall become effective on November 1, 1990. “(ii) If the Secretary determines that such finding cannot be made on the basis of existing data, such project shall continue for an additional 24 months. Not later than April 1, 1993, the Secretary shall submit a final report to the Congress on the results of such project. The amendments made by this section shall become effective on the first day of the first month to begin after such report is submitted to the Congress unless the report contains a finding by the Secretary that furnishing therapeutic shoes under the medicare program to the extent provided under the amendments made by this section is not cost-effective (in which case the amendments made by this section shall not become effective).”
 
-[Amendments by section 4072 of Pub. L. 100–203 became effective pursuant to final report dated Apr. 26, 1993. See Cong. Rec., vol. 139, pt. 7, p. 10460, Ex. Comm. 1252.]
+[Amendments by section 4072 of Pub. L. 100–203 became effective pursuant to final report dated Apr. 26, 1993. See Cong. Rec., vol. 139, pt. 7, p. 10460, Ex. Comm. 1252, May 19, 1993.]
 
 Amendment by section 4073(a), (c) of Pub. L. 100–203 effective with respect to services performed on or after July 1, 1988, see section 4073(e) of Pub. L. 100–203, set out as a note under [section 1395k of this title](./chapter-007-social-security.md#section-1395k).
 
@@ -60332,7 +60881,7 @@ Subsec. (b). Pub. L. 97–35, § 2193(d)(3), substituted reference to subchapter
 Subsec. (b). Pub. L. 92–603, § 222(b)(2), inserted references to demonstration projects and inserted “, or to reimbursement or payment only for such services or items as may be specified in the experiment”.
 
 #### Change of Name
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (a)(1) pursuant to section 509(b) Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+“Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–369 effective July 18, 1984, see section 2331(c) of Pub. L. 98–369, set out as a note under [section 1310 of this title](./chapter-007-social-security.md#section-1310).
@@ -60828,7 +61377,11 @@ until such time as the Secretary withdraws such proposed order.
 
 **(f) Utilization guidelines for provision of home health services** The Secretary shall establish utilization guidelines for the determination of whether or not payment may be made, consistent with paragraph (1)(A) of subsection (a), under part A or part B for expenses incurred with respect to the provision of home health services, and shall provide for the implementation of such guidelines through a process of selective postpayment coverage review by intermediaries or otherwise.
 
-**(g) Contracts with quality improvement organizations** The Secretary shall, in making the determinations under paragraphs (1) and (9) of subsection (a), and for the purposes of promoting the effective, efficient, and economical delivery of health care services, and of promoting the quality of services of the type for which payment may be made under this subchapter, enter into contracts with quality improvement organizations pursuant to part B of subchapter XI of this chapter.
+**(g) Contracts with quality improvement organizations**
+
+(1) The Secretary shall, in making the determinations under paragraphs (1) and (9) of subsection (a), and for the purposes of promoting the effective, efficient, and economical delivery of health care services, and of promoting the quality of services of the type for which payment may be made under this subchapter, enter into contracts with quality improvement organizations pursuant to part B of subchapter XI of this chapter.
+
+(2) In addition to any funds otherwise available, there are appropriated to the Secretary, out of any monies in the Treasury not otherwise obligated, $200,000,000, to remain available until expended, for purposes of requiring multiple organizations described in paragraph (1) to provide to skilled nursing facilities (as defined in [section 1935i–3(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1935i–3/a&num=0&edition=prelim)), infection control and vaccination uptake support relating to the prevention or mitigation of COVID–19, as determined appropriate by the Secretary.
 
 **(h) Waiver of electronic form requirement**
 
@@ -60971,6 +61524,8 @@ Section 107(c)(3) of the Drug Amendments of 1962, referred to in subsec. (c)(1)(
 Amendments by section 301(a) to (c) of Pub. L. 108–173 were executed to this section as it read on the date of enactment of Pub. L. 108–173 to reflect the probable intent of Congress, notwithstanding section 301(d) of Pub. L. 108–173, set out as an Effective Date of 2003 Amendment note below, which provided that the amendments by section 301(a) of Pub. L. 108–173 be effective as if included in the enactment of title III of Pub. L. 98–369 and that the amendments by section 301(b), (c) of Pub. L. 108–173 be effective as if included in the enactment of section 953 of Pub. L. 96–499. The amendments by section 301(a) are incapable of being executed to this section as it read on the effective date of title III of Pub. L. 98–369, and the amendments by section 301(b), (c) are incapable of being executed to this section as it read on the effective date of section 953 of Pub. L. 96–499. See 2003 Amendment notes below.
 
 #### Amendments
+2021—Subsec. (g). Pub. L. 117–2 designated existing provisions as par. (1) and added par. (2).
+
 2020—Subsec. (b)(8)(G). Pub. L. 116–215 inserted clause (i) designation and heading and added clause (ii).
 
 2018—Subsec. (b)(7)(A)(i). Pub. L. 115–271, § 4002, amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “secure from the plan sponsor and plan participants such information as the Secretary shall specify for the purpose of identifying situations where the group health plan is or has been a primary plan to the program under this subchapter; and”.
@@ -63350,7 +63905,7 @@ Pub. L. 110–275, title I, § 125(c), July 15, 2008, 122 Stat. 2519, provided t
 
   (E) *Adjusting for different area wage levels.—*
 
-    (i) *In general.—* — Except as provided in clause (ii) or (iii), the Secretary shall adjust the proportion, (as estimated by the Secretary from time to time) of hospitals’ costs which are attributable to wages and wage-related costs, of the DRG prospective payment rates computed under subparagraph (D) for area differences in hospital wage levels by a factor (established by the Secretary) reflecting the relative hospital wage level in the geographic area of the hospital compared to the national average hospital wage level. Not later than October 1, 1990, and October 1, 1993 (and at least every 12 months thereafter), the Secretary shall update the factor under the preceding sentence on the basis of a survey conducted by the Secretary (and updated as appropriate) of the wages and wage-related costs of subsection (d) hospitals in the United States. Not less often than once every 3 years the Secretary (through such survey or otherwise) shall measure the earnings and paid hours of employment by occupational category and shall exclude data with respect to the wages and wage-related costs incurred in furnishing skilled nursing facility services. Any adjustments or updates made under this subparagraph for a fiscal year (beginning with fiscal year 1991) shall be made in a manner that assures that the aggregate payments under this subsection in the fiscal year are not greater or less than those that would have been made in the year without such adjustment. The Secretary shall apply the previous sentence for any period as if the amendments made by section 403(a)(1) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 and the amendments made by section 10324(a)(1) of the Patient Protection and Affordable Care Act had not been enacted.
+    (i) *In general.—* — Except as provided in clause (ii), (iii), or (iv), the Secretary shall adjust the proportion, (as estimated by the Secretary from time to time) of hospitals’ costs which are attributable to wages and wage-related costs, of the DRG prospective payment rates computed under subparagraph (D) for area differences in hospital wage levels by a factor (established by the Secretary) reflecting the relative hospital wage level in the geographic area of the hospital compared to the national average hospital wage level. Not later than October 1, 1990, and October 1, 1993 (and at least every 12 months thereafter), the Secretary shall update the factor under the preceding sentence on the basis of a survey conducted by the Secretary (and updated as appropriate) of the wages and wage-related costs of subsection (d) hospitals in the United States. Not less often than once every 3 years the Secretary (through such survey or otherwise) shall measure the earnings and paid hours of employment by occupational category and shall exclude data with respect to the wages and wage-related costs incurred in furnishing skilled nursing facility services. Any adjustments or updates made under this subparagraph for a fiscal year (beginning with fiscal year 1991) shall be made in a manner that assures that the aggregate payments under this subsection in the fiscal year are not greater or less than those that would have been made in the year without such adjustment. The Secretary shall apply the previous sentence for any period as if the amendments made by section 403(a)(1) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003, the amendments made by section 10324(a)(1) of the Patient Protection and Affordable Care Act, and the amendments made by section 9831(a) of the American Rescue Plan Act of 2021 had not been enacted.
 
     (ii) *Alternative proportion to be adjusted beginning in fiscal year 2005.—* — For discharges occurring on or after October 1, 2004, the Secretary shall substitute “62 percent” for the proportion described in the first sentence of clause (i), unless the application of this clause would result in lower payments to a hospital than would otherwise be made.
 
@@ -63363,6 +63918,16 @@ Pub. L. 110–275, title I, § 125(c), July 15, 2008, 122 Stat. 2519, provided t
       (III) *Frontier county defined.—* — In this clause, the term “frontier county” means a county in which the population per square mile is less than 6.
 
       (IV) *Limitation.—* — This clause shall not apply to any hospital located in a State that receives a non-labor related share adjustment under paragraph (5)(H).
+
+    (iv) *Floor on area wage index for hospitals in all-urban states.—*
+
+      (I) *In general.—* — For discharges occurring on or after October 1, 2021, the area wage index applicable under this subparagraph to any hospital in an all-urban State (as defined in subclause (IV)) may not be less than the minimum area wage index for the fiscal year for hospitals in that State, as established under subclause (II).
+
+      (II) *Minimum area wage index.—* — For purposes of subclause (I), the Secretary shall establish a minimum area wage index for a fiscal year for hospitals in each all-urban State using the methodology described in section 412.64(h)(4)(vi) of title 42, Code of Federal Regulations, as in effect for fiscal year 2018.
+
+      (III) *Waiving budget neutrality.—* — Pursuant to the fifth sentence of clause (i), this clause shall not be applied in a budget neutral manner.
+
+      (IV) *All-urban state defined.—* — In this clause, the term “all-urban State” means a State in which there are no rural areas (as defined in paragraph (2)(D)) or a State in which there are no hospitals classified as rural under this section.
 
 (4)
 
@@ -63382,7 +63947,7 @@ Pub. L. 110–275, title I, § 125(c), July 15, 2008, 122 Stat. 2519, provided t
 
       (I) For discharges occurring during the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim), in the case of a discharge of an individual diagnosed with COVID–19, the Secretary shall increase the weighting factor that would otherwise apply to the diagnosis-related group to which the discharge is assigned by 20 percent. The Secretary shall identify a discharge of such an individual through the use of diagnosis codes, condition codes, or other such means as may be necessary.
 
-      (II) Any adjustment under subclause (I) shall not be taken into account in applying budget neutrality under clause (iii)
+      (II) Any adjustment under subclause (I) shall not be taken into account in applying budget neutrality under clause (iii) 55 So in original. Probably should be followed by a period.
 
       (III) In the case of a State for which the Secretary has waived all or part of this section under the authority of [section 1315a of this title](./chapter-007-social-security.md#section-1315a), nothing in this section shall preclude such State from implementing an adjustment similar to the adjustment under subclause (I).
 
@@ -63591,7 +64156,7 @@ Pub. L. 110–275, title I, § 125(c), July 15, 2008, 122 Stat. 2519, provided t
 
       (I) in the case of such a hospital with a disproportionate patient percentage (as defined in clause (vi)) greater than 20.2— (a) for discharges occurring on or after April 1, 1990, and on or before December 31, 1990, (P−20.2)(.65) + 5.62, (b) for discharges occurring on or after January 1, 1991, and on or before September 30, 1993, (P−20.2)(.7) + 5.62, (c) for discharges occurring on or after October 1, 1993, and on or before September 30, 1994, (P−20.2)(.8) + 5.88, and (d) for discharges occurring on or after October 1, 1994, (P−20.2)(.825) + 5.88; or
 
-      (II) in the case of any other such hospital— (a) for discharges occurring on or after April 1, 1990, and on or before December 31, 1990, (P−15)(.6) + 2.5, (b) for discharges occurring on or after January 1, 1991, and on or before September 30, 1993, (P−15)(.6) + 2.5,55 So in original. Probably should be followed by “and”. (c) for discharges occurring on or after October 1, 1993, (P−15)(.65) + 2.5,
+      (II) in the case of any other such hospital— (a) for discharges occurring on or after April 1, 1990, and on or before December 31, 1990, (P−15)(.6) + 2.5, (b) for discharges occurring on or after January 1, 1991, and on or before September 30, 1993, (P−15)(.6) + 2.5,66 So in original. Probably should be followed by “and”. (c) for discharges occurring on or after October 1, 1993, (P−15)(.65) + 2.5,
 
     (viii) Subject to clause (xiv), the formula used to determine the disproportionate share adjustment percentage for a cost reporting period for a hospital described in clause (iv)(IV) or (iv)(V) is the percentage determined in accordance with the following formula: (P−30)(.6) + 4.0, where “P” is the hospital’s disproportionate patient percentage (as defined in clause (vi)).
 
@@ -63948,7 +64513,7 @@ Pub. L. 110–275, title I, § 125(c), July 15, 2008, 122 Stat. 2519, provided t
 
       (I) The Board shall render a decision on an application submitted under clause (i) not later than 180 days after the deadline referred to in clause (ii).
 
-      (II) Appeal of decisions of the Board shall be subject to the provisions of section 557b 66 So in original. Probably should be section “557(b)”. of title 5. The Secretary shall issue a decision on such an appeal not later than 90 days after the date on which the appeal is filed. The decision of the Secretary shall be final and shall not be subject to judicial review.
+      (II) Appeal of decisions of the Board shall be subject to the provisions of section 557b 77 So in original. Probably should be section “557(b)”. of title 5. The Secretary shall issue a decision on such an appeal not later than 90 days after the date on which the appeal is filed. The decision of the Secretary shall be final and shall not be subject to judicial review.
 
   (D)
 
@@ -64028,11 +64593,11 @@ Pub. L. 110–275, title I, § 125(c), July 15, 2008, 122 Stat. 2519, provided t
 
       (I) a subsection (d) hospital of the Indian Health Service (whether operated by such Service or by an Indian tribe or tribal organization (as those terms are defined in [section 1603 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1603&num=0&edition=prelim))), or
 
-      (II) a subsection (d) hospital other than a hospital of the Indian Health Service meets the mileage criterion under clause (i) with respect to fiscal year 2011 or a succeeding fiscal year, the Secretary shall apply the policy described in the regulation at part 77 So in original. Probably should be “section”. 412.101(e) of title 42, Code of Federal Regulations (as in effect on March 23, 2018).
+      (II) a subsection (d) hospital other than a hospital of the Indian Health Service meets the mileage criterion under clause (i) with respect to fiscal year 2011 or a succeeding fiscal year, the Secretary shall apply the policy described in the regulation at part 88 So in original. Probably should be “section”. 412.101(e) of title 42, Code of Federal Regulations (as in effect on March 23, 2018).
 
   (D) *Temporary applicable percentage increase.—* — For discharges occurring in fiscal years 2011 through 2022, the Secretary shall determine an applicable percentage increase for purposes of subparagraph (A) using a continuous linear sliding scale ranging from 25 percent for low-volume hospitals—
 
-    (i) with respect to each of fiscal years 2011 through 2018, with 200 or fewer discharges of individuals entitled to, or enrolled for, benefits under part A in the fiscal year or the portion of fiscal year to 0 percent for low-volume hospitals with greater than 1,600 discharges of such individuals in the fiscal year or the portion of fiscal year or portion of fiscal year; 88 So in original. and
+    (i) with respect to each of fiscal years 2011 through 2018, with 200 or fewer discharges of individuals entitled to, or enrolled for, benefits under part A in the fiscal year or the portion of fiscal year to 0 percent for low-volume hospitals with greater than 1,600 discharges of such individuals in the fiscal year or the portion of fiscal year or portion of fiscal year; 99 So in original. and
 
     (ii) with respect to each of fiscal years 2019 through 2022, with 500 or fewer discharges in the fiscal year to 0 percent for low-volume hospitals with greater than 3,800 discharges in the fiscal year.
 
@@ -64252,7 +64817,7 @@ Pub. L. 110–275, title I, § 125(c), July 15, 2008, 122 Stat. 2519, provided t
       (II) no more than 3.0 full-time-equivalent residents in any cost reporting period beginning on or after October 1, 1997, and before December 27, 2020, as determined by the Secretary,
       in lieu of such FTE resident amount the Secretary shall, in accordance with the methodology described in section 413.77(e) of title 42 of the Code of Federal Regulations (or any successor regulation), establish a new FTE resident amount if the hospital trains at least 1.0 full-time-equivalent resident (in the case of a hospital described in subclause (I)) or more than 3.0 full-time-equivalent residents (in the case of a hospital described in subclause (II)) in a cost reporting period beginning on or after such date and before the date that is 5 years after such date.
 
-    (iv) For purposes of carrying out this subparagraph for cost reporting periods beginning on or after December 27, 2020, a hospital shall report full-time-equivalent residents on its cost report for a cost reporting period if the hospital trains at least 1.0 full-time-equivalent residents in an approved medical residency training program or programs in such period.
+    (iv) For purposes of carrying out this subparagraph for cost reporting periods beginning on or after December 27, 2020, a hospital shall report full-time-equivalent residents on its cost report for a cost reporting period if the hospital trains at least 1.0 full-time-equivalent residents 9 in an approved medical residency training program or programs in such period.
 
     (v) As appropriate, the Secretary may consider information from any cost reporting period necessary to establish a new FTE resident amount as described in clause (iii).
 
@@ -64330,7 +64895,7 @@ Pub. L. 110–275, title I, § 125(c), July 15, 2008, 122 Stat. 2519, provided t
 
   (E) *Counting time spent in outpatient settings* — Subject to subparagraphs (J) and (K), such rules shall provide that only time spent in activities relating to patient care shall be counted and that—
 
-    (i) effective for cost reporting periods beginning before July 1, 2010, all the time; 99 So in original. The semicolon probably should not appear. so spent by a resident under an approved medical residency training program shall be counted towards the determination of full-time equivalency, without regard to the setting in which the activities are performed, if the hospital incurs all, or substantially all, of the costs for the training program in that setting; and
+    (i) effective for cost reporting periods beginning before July 1, 2010, all the time; 1010 So in original. The semicolon probably should not appear. so spent by a resident under an approved medical residency training program shall be counted towards the determination of full-time equivalency, without regard to the setting in which the activities are performed, if the hospital incurs all, or substantially all, of the costs for the training program in that setting; and
 
     (ii) effective for cost reporting periods beginning on or after July 1, 2010, all the time so spent by a resident shall be counted towards the determination of full-time equivalency, without regard to the setting in which the activities are performed, if a hospital incurs the costs of the stipends and fringe benefits of the resident during the time the resident spends in that setting. If more than one hospital incurs these costs, either directly or through a third party, such hospitals shall count a proportional share of the time, as determined by written agreement between the hospitals, that a resident spends training in that setting.
     Any hospital claiming under this subparagraph for time spent in a nonprovider setting shall maintain and make available to the Secretary records regarding the amount of such time and such amount in comparison with amounts of such time in such base year as the Secretary shall specify.
@@ -64361,7 +64926,7 @@ Pub. L. 110–275, title I, § 125(c), July 15, 2008, 122 Stat. 2519, provided t
 
       (II) In applying this clause in the case of a hospital that, on or after December 27, 2020, begins training residents in a new approved medical residency training program or programs (as defined by the Secretary), the Secretary shall not determine a limitation applicable to the hospital under subparagraph (F) until such time as the Secretary determines that the hospital has trained at least 1.0 full-time-equivalent resident in such new approved medical residency training program or programs in a cost reporting period.
 
-      (III) In applying this clause in the case of a hospital that, as of December 27, 2020, has a limitation under subparagraph (F), based on a cost reporting period beginning before October 1, 1997, of less than 1.0 full-time-equivalent resident, the Secretary shall adjust the limitation in the manner applicable to a new approved medical residency training program if the Secretary determines the hospital begins training at least 1.0 full-time-equivalent residents in a program year beginning on or after such date and before the date that is 5 years after such date.
+      (III) In applying this clause in the case of a hospital that, as of December 27, 2020, has a limitation under subparagraph (F), based on a cost reporting period beginning before October 1, 1997, of less than 1.0 full-time-equivalent resident, the Secretary shall adjust the limitation in the manner applicable to a new approved medical residency training program if the Secretary determines the hospital begins training at least 1.0 full-time-equivalent residents 9 in a program year beginning on or after such date and before the date that is 5 years after such date.
 
       (IV) In applying this clause in the case of a hospital that, as of December 27, 2020, has a limitation under subparagraph (F), based on a cost reporting period beginning on or after October 1, 1997, and before such date, of no more than 3.0 full-time-equivalent residents, the Secretary shall adjust the limitation in the manner applicable to a new approved medical residency training program if the Secretary determines the hospital begins training more than 3.0 full-time-equivalent residents in a program year beginning on or after such date and before the date that is 5 years after such date.
 
@@ -64375,7 +64940,7 @@ Pub. L. 110–275, title I, § 125(c), July 15, 2008, 122 Stat. 2519, provided t
 
       (I) *Cost reporting periods beginning before October 1, 2022* — For cost reporting periods beginning before October 1, 2022, in the case of a hospital that is not located in a rural area but establishes separately accredited approved medical residency training programs (or rural tracks) in a rural area or has an accredited training program with an integrated rural track, the Secretary shall adjust the limitation under subparagraph (F) in an appropriate manner insofar as it applies to such programs in such rural areas in order to encourage the training of physicians in rural areas.
 
-      (II) *Cost reporting periods beginning on or after October 1, 2022* — For cost reporting periods beginning on or after October 1, 2022, in the case of a hospital not located in a rural area that established or establishes a medical residency training program (or rural tracks) in a rural area or establishes an accredited program where greater than 50 percent of the program occurs in a rural area, the Secretary shall 1010 So in original. Probably should be followed by a comma. consistent with the principles of subparagraphs (F) and (G) and subject to paragraphs (7) and (8), prescribe rules for the application of such subparagraphs with respect to such a program and, in accordance with such rules, adjust in an appropriate manner the limitation under subparagraph (F) for such hospital and each such hospital located in a rural area that participates in such a training.
+      (II) *Cost reporting periods beginning on or after October 1, 2022* — For cost reporting periods beginning on or after October 1, 2022, in the case of a hospital not located in a rural area that established or establishes a medical residency training program (or rural tracks) in a rural area or establishes an accredited program where greater than 50 percent of the program occurs in a rural area, the Secretary shall 1111 So in original. Probably should be followed by a comma. consistent with the principles of subparagraphs (F) and (G) and subject to paragraphs (7) and (8), prescribe rules for the application of such subparagraphs with respect to such a program and, in accordance with such rules, adjust in an appropriate manner the limitation under subparagraph (F) for such hospital and each such hospital located in a rural area that participates in such a training.
 
     (v) *Special provider agreement* — If an entity enters into a provider agreement pursuant to [section 1395cc(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395cc/a&num=0&edition=prelim) to provide hospital services on the same physical site previously used by Medicare Provider No. 05–0578—
 
@@ -64403,7 +64968,7 @@ Pub. L. 110–275, title I, § 125(c), July 15, 2008, 122 Stat. 2519, provided t
 
       (V) *Administration* — Chapter 35 of title 44 shall not apply to the implementation of this clause.
 
-  (J) *1111 So in original. No subpar. (I) has been enacted. Treatment of certain nonprovider and didactic activities* — Such rules shall provide that all time spent by an intern or resident in an approved medical residency training program in a nonprovider setting that is primarily engaged in furnishing patient care (as defined in paragraph (5)(K)) in non-patient care activities, such as didactic conferences and seminars, but not including research not associated with the treatment or diagnosis of a particular patient, as such time and activities are defined by the Secretary, shall be counted toward the determination of full-time equivalency.
+  (J) *1212 So in original. No subpar. (I) has been enacted. Treatment of certain nonprovider and didactic activities* — Such rules shall provide that all time spent by an intern or resident in an approved medical residency training program in a nonprovider setting that is primarily engaged in furnishing patient care (as defined in paragraph (5)(K)) in non-patient care activities, such as didactic conferences and seminars, but not including research not associated with the treatment or diagnosis of a particular patient, as such time and activities are defined by the Secretary, shall be counted toward the determination of full-time equivalency.
 
   (K) *Treatment of certain other activities* — In determining the hospital’s number of full-time equivalent residents for purposes of this subsection, all the time that is spent by an intern or resident in an approved medical residency training program on vacation, sick leave, or other approved leave, as such time is defined by the Secretary, and that does not prolong the total time the resident is participating in the approved program beyond the normal duration of the program shall be counted toward the determination of full-time equivalency.
 
@@ -64489,7 +65054,7 @@ Pub. L. 110–275, title I, § 125(c), July 15, 2008, 122 Stat. 2519, provided t
 
   (B) *Approval of plan applications* — The Secretary may not approve the application of an qualifying entity unless—
 
-    (i) the application is submitted in a form and manner specified by the Secretary and by not later than November 1, 1999,1212 So in original. The comma probably should be a semicolon.
+    (i) the application is submitted in a form and manner specified by the Secretary and by not later than November 1, 1999,1313 So in original. The comma probably should be a semicolon.
 
     (ii) the application provides for the operation of a plan for the reduction in the number of full-time equivalent residents in the approved medical residency training programs of the entity consistent with the requirements of subparagraph (D);
 
@@ -64610,7 +65175,7 @@ Pub. L. 110–275, title I, § 125(c), July 15, 2008, 122 Stat. 2519, provided t
     (ii) such reduction was based on a reference resident level that was determined using a cost report and where a revised or corrected notice of program reimbursement was issued for such cost report between September 1, 2006 and September 15, 2006, whether as a result of an appeal or otherwise, and the reference resident level under such settled cost report is higher than the level used for the reduction under subparagraph (A)(i)(I);
     the Secretary shall apply subparagraph (A)(i)(I) using the higher resident reference level and make any necessary adjustments to such reduction. Any such necessary adjustments shall be effective for portions of cost reporting periods occurring on or after July 1, 2005.
 
-  (E) *Judicial review* — There shall be no administrative or judicial review under [section 1395ff of this title](./chapter-007-social-security.md#section-1395ff), 1395oo of this title, or otherwise, with respect to determinations made under this paragraph, paragraph (8),1313 So in original. Probably should be followed by “paragraph (9),”. See 2020 Amendment notes below. clause (i), (ii), (iii), or (v) of paragraph (2)(F), or clause (i) or (vi) of paragraph (4)(H).
+  (E) *Judicial review* — There shall be no administrative or judicial review under [section 1395ff of this title](./chapter-007-social-security.md#section-1395ff), 1395oo of this title, or otherwise, with respect to determinations made under this paragraph, paragraph (8),1414 So in original. Probably should be followed by “paragraph (9),”. See 2020 Amendment notes below. clause (i), (ii), (iii), or (v) of paragraph (2)(F), or clause (i) or (vi) of paragraph (4)(H).
 
 (8) **Distribution of additional residency positions**
 
@@ -64890,7 +65455,7 @@ Pub. L. 110–275, title I, § 125(c), July 15, 2008, 122 Stat. 2519, provided t
 
 (2) **Qualified nonhospital providers** — For purposes of this subsection, the term “qualified nonhospital providers” means—
 
-  (A) a Federally 1414 So in original. Probably should not be capitalized. qualified health center, as defined in [section 1395x(aa)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/aa/4&num=0&edition=prelim);
+  (A) a Federally 1515 So in original. Probably should not be capitalized. qualified health center, as defined in [section 1395x(aa)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/aa/4&num=0&edition=prelim);
 
   (B) a rural health clinic, as defined in [section 1395x(aa)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/aa/2&num=0&edition=prelim);
 
@@ -65212,7 +65777,7 @@ Pub. L. 110–275, title I, § 125(c), July 15, 2008, 122 Stat. 2519, provided t
 
     (ii) the methodology and standards for determining a meaningful EHR user under paragraph (3), including selection of measures under paragraph (3)(B), specification of the means of demonstrating meaningful EHR use under paragraph (3)(C), and the hardship exception under subsection (b)(3)(B)(ix)(II); and
 
-    (iii) the specification of EHR reporting periods under paragraph (6)(B) 1515 So in original. Probably should be “(6)(A)”. and the selection of the form of payment under paragraph (2)(F).
+    (iii) the specification of EHR reporting periods under paragraph (6)(B) 1616 So in original. Probably should be “(6)(A)”. and the selection of the form of payment under paragraph (2)(F).
 
   (B) *Posting on website* — The Secretary shall post on the Internet website of the Centers for Medicare & Medicaid Services, in an easily understandable format, a list of the names of the eligible hospitals that are meaningful EHR users under this subsection or subsection (b)(3)(B)(ix) (and a list of the names of critical access hospitals to which paragraph (3) or (4) of section 1395f(l) of this title applies), and other relevant data as determined appropriate by the Secretary. The Secretary shall ensure that an eligible hospital (or critical access hospital) has the opportunity to review the other relevant data that are to be made public with respect to the hospital (or critical access hospital) prior to such data being made public.
 
@@ -65747,6 +66312,8 @@ The Omnibus Budget Reconciliation Act of 1990, referred to in subsec. (d)(3)(C)(
 
 The Patient Protection and Affordable Care Act, referred to in subsecs. (d)(3)(E)(i) and (r)(2)(B)(i)(I), is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119. Section 10324(a)(1) of the Act amended this section. For complete classification of this Act to the Code, see Short Title note set out under [section 18001 of this title](./chapter-157-quality-affordable-health-care-for-all-americans.md#section-18001) and Tables.
 
+Section 9831(a) of the American Rescue Plan Act of 2021, referred to in subsec. (d)(3)(E)(i), is section 9831(a) of Pub. L. 117–2, which amended subsec. (d)(3)(E)(i), (iv) of this section.
+
 Section 9304 of the Omnibus Budget Reconciliation Act of 1986, referred to in subsec. (e)(1)(C)(ii), is section 9304 of Pub. L. 99–509, which enacted subsecs. (d)(9) and (e)(1)(C) of this section and amended subsec. (d)(5)(C)(i)(I), (ii) of this section.
 
 Section 4628 of the Balanced Budget Act of 1997, referred to in subsec. (h)(6)(C)(iii), is section 4628 of Pub. L. 105–33, which is set out as a note below.
@@ -65766,6 +66333,12 @@ The Health Care and Education Reconciliation Act of 2010, referred to in subsec.
 Section 124 of the Medicare, Medicaid, and SCHIP Balanced Budget Refinement Act of 1999, referred to in subsec. (s)(1), is section 1000(a)(6) [title I, § 124] of Pub. L. 106–113, which enacted provisions set out as a note under this section.
 
 #### Amendments
+2021—Subsec. (d)(3)(E)(i). Pub. L. 117–2, § 9831(b), substituted “, the amendments” for “and the amendments” and inserted “, and the amendments made by section 9831(a) of the American Rescue Plan Act of 2021” after “the Patient Protection and Affordable Care Act”.
+
+Pub. L. 117–2, § 9831(a)(1), substituted “, (iii), or (iv)” for “or (iii)”.
+
+Subsec. (d)(3)(E)(iv). Pub. L. 117–2, § 9831(a)(2), added cl. (iv).
+
 2020—Subsec. (d)(4)(C)(iv). Pub. L. 116–136 added cl. (iv).
 
 Subsec. (d)(5)(B)(v). Pub. L. 116–260, § 126(b)(1), substituted “(h)(8), and (h)(9)” for “and (h)(8)”.
@@ -68046,7 +68619,7 @@ Pub. L. 101–239, title VI, § 6015(b), Dec. 19, 1989, 103 Stat. 2164, provided
 Pub. L. 101–239, title VI, § 6205(b), Dec. 19, 1989, 103 Stat. 2243, provided that: “(1) The Secretary of Health and Human Services (in this subsection referred to as the ‘Secretary’) shall not, before October 1, 1990, recoup from, or otherwise reduce or adjust payments under title XVIII of the Social Security Act [[42 U.S.C. 1395](./chapter-007-social-security.md#section-1395) et seq.] to, hospitals because of alleged overpayments to such hospitals under such title due to a determination that costs which were reported by a hospital on its medicare cost reports relating to approved nursing and allied health education programs were allowable costs and are included in the definition of ‘operating costs of inpatient hospital services’ pursuant to section 1886(a)(4) of such Act [[42 U.S.C. 1395ww(a)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395ww/a/4&num=0&edition=prelim)], so that no pass-through of such costs was permitted under that section. “(2)(A) Before July 1, 1990, the Secretary shall issue regulations respecting payment of costs described in paragraph (1). “(B) In issuing such regulations—“(i) the Secretary shall allow a comment period of not less than 60 days, “(ii) the Secretary shall consult with the Prospective Payment Assessment Commission, and “(iii) any final rule shall not be effective prior to October 1, 1990, or 30 days after publication of the final rule in the Federal Register, whichever is later. “(C) Such regulations shall specify—“(i) the relationship required between an approved nursing or allied health education program and a hospital for the program’s costs to be attributed to the hospital; “(ii) the types of costs related to nursing or allied health education programs that are allowable by medicare; “(iii) the distinction between costs of approved educational activities as recognized under section 1886(a)(3) of the Social Security Act [[42 U.S.C. 1395ww(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395ww/a/3&num=0&edition=prelim)] and educational costs treated as operating costs of inpatient hospital services; and “(iv) the treatment of other funding sources for the program.”
 
 #### Inner-City Hospital Triage Demonstration Project
-Pub. L. 101–2399, title VI, § 6217, Dec. 19, 1989, 103 Stat. 2253, as amended by Pub. L. 101–508, title IV, § 4207(k)(5), formerly § 4027(k)(5), Nov. 5, 1990, 104 Stat. 1388–125, renumbered Pub. L. 103–432, title I, § 160(d)(4), Oct. 31, 1994, 108 Stat. 4444, provided that: “(a) Establishment.—The Secretary of Health and Human Services shall establish a demonstration project in a public hospital that is located in a large urban area and that has established a triage system, under which the Secretary shall make payments out of the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund (in such proportions as the Secretary determines to be appropriate in a year) for 3 years to reimburse the hospital for the reasonable costs of operating the system, including costs—“(1) to train hospital personnel to operate and participate in the system; and “(2) to provide services to patients who might otherwise be denied appropriate and prompt care. “(b) Limitations on Payment.—(1) The Secretary may not make payment under the demonstration project established under subsection (a) for costs that the Secretary determines are not reasonable. “(2) The amount of payment made under the demonstration project during a single year may not exceed $500,000.”
+Pub. L. 101–239, title VI, § 6217, Dec. 19, 1989, 103 Stat. 2253, as amended by Pub. L. 101–508, title IV, § 4207(k)(5), formerly § 4027(k)(5), Nov. 5, 1990, 104 Stat. 1388–125, renumbered Pub. L. 103–432, title I, § 160(d)(4), Oct. 31, 1994, 108 Stat. 4444, provided that: “(a) Establishment.—The Secretary of Health and Human Services shall establish a demonstration project in a public hospital that is located in a large urban area and that has established a triage system, under which the Secretary shall make payments out of the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund (in such proportions as the Secretary determines to be appropriate in a year) for 3 years to reimburse the hospital for the reasonable costs of operating the system, including costs—“(1) to train hospital personnel to operate and participate in the system; and “(2) to provide services to patients who might otherwise be denied appropriate and prompt care. “(b) Limitations on Payment.—(1) The Secretary may not make payment under the demonstration project established under subsection (a) for costs that the Secretary determines are not reasonable. “(2) The amount of payment made under the demonstration project during a single year may not exceed $500,000.”
 
 #### Transition Adjustments to Target Amounts for Inpatient Hospital Services
 Pub. L. 101–234, title I, § 101(c)(2)(B), Dec. 13, 1989, 103 Stat. 1980, provided that: “The Secretary of Health and Human Services shall make an appropriate adjustment to the target amount established under section 1886(b)(3)(A) of the Social Security Act [[42 U.S.C. 1395ww(b)(3)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395ww/b/3/A&num=0&edition=prelim)] in the case of inpatient hospital services provided to an inpatient whose stay began before January 1, 1990, in order to take into account the target amount that would have applied but for the amendments made by this title [see Tables for classification].”
@@ -69526,9 +70099,9 @@ The matter following clause (v) of [section 1395ww(d)(1)(B) of this title](https
 #### Amendments
 2020—Subsec. (a). Pub. L. 116–136, § 3708(a)(4), in fourth sentence of concluding provisions, inserted “or no later than 6 months after March 27, 2020, for purposes of documentation for certification and recertification made under paragraph (2) by a nurse practitioner, clinical nurse specialist, or physician assistant,” after “January 1, 2019” and “, nurse practitioner, clinical nurse specialist, or physician assistant” after “of the physician”.
 
-Pub. L. 116–136, § 3708(a)(3), in third sentence of concluding provisions, inserted “, nurse practitioner, clinical nurse specialist, or physician assistant” after “physician”
+Pub. L. 116–136, § 3708(a)(3), in third sentence of concluding provisions, inserted “, nurse practitioner, clinical nurse specialist, or physician assistant” after “physician”.
 
-Pub. L. 116–136, § 3708(a)(2), in second sentence of concluding provisions, substituted “With respect to the certification” for “With respect to the physician certification” and “which prohibit a physician, nurse practitioner, clinical nurse specialist, or physician assistant who” for “which prohibit a physician who” and inserted (or in the case of regulations to implement the amendments made by section 3708 of the CARES Act, the Secretary shall prescribe regulations, which shall become effective no later than 6 months after March 27, 2020)” after “July 1, 1981”.
+Pub. L. 116–136, § 3708(a)(2), in second sentence of concluding provisions, substituted “With respect to the certification” for “With respect to the physician certification” and “which prohibit a physician, nurse practitioner, clinical nurse specialist, or physician assistant who” for “which prohibit a physician who” and inserted “(or in the case of regulations to implement the amendments made by section 3708 of the CARES Act, the Secretary shall prescribe regulations, which shall become effective no later than 6 months after March 27, 2020)” after “July 1, 1981”.
 
 Subsec. (a)(2). Pub. L. 116–136, § 3708(a)(1)(A), in introductory provisions, inserted “, a nurse practitioner or clinical nurse specialist (as such terms are defined in [section 1395x(aa)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/aa/5&num=0&edition=prelim)) who is working in accordance with State law, or a physician assistant (as defined in [section 1395x(aa)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/aa/5&num=0&edition=prelim)) who is working in accordance with State law, who is” after “in the case of services described in subparagraph (C), a physician”.
 
@@ -70019,7 +70592,7 @@ Pub. L. 106–554, § 1(a)(6) [title III, § 321(c)], Dec. 21, 2000, 114 Stat. 2
 Pub. L. 106–113, div. B, § 1000(a)(6) [title I, § 131], Nov. 29, 1999, 113 Stat. 1536, 1501A–333, provided that: “(a) Increase for Fiscal Years 2001 and 2002.—For purposes of payments under section 1814(i)(1)(C) of the Social Security Act ([42 U.S.C. 1395f(i)(1)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395f/i/1/C&num=0&edition=prelim)) for hospice care furnished during fiscal years 2001 and 2002, the Secretary of Health and Human Services shall increase the payment rate in effect (but for this section) for—“(1) fiscal year 2001, by 0.5 percent, and “(2) fiscal year 2002, by 0.75 percent. “(b) Additional Payment Not Built Into the Base.—The Secretary of Health and Human Services shall not include any additional payment made under this subsection (a) in updating the payment rate, as increased by the applicable market basket percentage increase for the fiscal year involved under section 1814(i)(1)(C)(ii) of that Act ([42 U.S.C. 1395f(i)(1)(C)(ii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395f/i/1/C/ii&num=0&edition=prelim)).”
 
 #### Study and Report to Congress Regarding Modification of Payment Rates for Hospice Care
-Pub. L. 106–113, div. B, § 1000(a)(6) [title I, § 132], Nov. 29, 1999, 113 Stat. 1536, 1501A–333, provided that: “(a) Study.—The Comptroller General of the United States shall conduct a study to determine the feasibility and advisability of updating the payment rates and the cap amount determined with respect to a fiscal year under section 1814(i) of the Social Security Act ([42 U.S.C. 1395f(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395f/i&num=0&edition=prelim)) for routine home care and other services included in hospice care. Such study shall examine the cost factors used to determine such rates and such amount and shall evaluate whether such factors should be modified, eliminated, or supplemented with additional cost factors. “(b) Report.—Not later than one year after the date of enactment of this Act [Nov. 29, 1999], the Comptroller General of the United States shall submit to Congress a report on the study conducted under subsection (a), together with any recommendations for legislation that the Comptroller General determines to be appropriate as a result of such study.”
+Pub. L. 106–113, div. B, § 1000(a)(6) [title I, § 132], Nov. 29, 1999, 113 Stat. 1536, 1501A–333, provided that the Comptroller General of the United States would conduct a study, including cost factors, to determine the feasibility and advisability of updating the payment rates and the cap amount determined with respect to a fiscal year under subsec. (i) of this section for routine home care and other services included in hospice care, and provided the the Comptroller General was to submit to Congress a report on the study together with any recommendations for legislation deemed appropriate not later than one year after Nov. 29, 1999.
 
 #### Study of Methods To Compensate Hospices for High-Cost Care
 Pub. L. 101–239, title VI, § 6016, Dec. 19, 1989, 103 Stat. 2164, directed Secretary of Health and Human Services to conduct a study of high-cost hospice care provided to medicare beneficiaries under the medicare program, evaluate the ability of hospice programs participating in the medicare program to provide such high-cost care to such patients, develop methods to compensate such programs for providing such high-cost care, and submit, not later than Apr. 1, 1991, a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the study, including in the report any recommendations developed by the Secretary to compensate hospice programs for providing high-cost hospice care to medicare beneficiaries.
@@ -70038,7 +70611,7 @@ Pub. L. 98–369, div. B, title III, § 2308(a), July 18, 1984, 98 Stat. 1074, p
 Pub. L. 98–369, div. B, title III, § 2308(b)(1), July 18, 1984, 98 Stat. 1074, provided that: “For purposes of applying the nominality test under sections 1814(b)(2) [[42 U.S.C. 1395f(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395f/b/2&num=0&edition=prelim)] and 1833(a)(2)(B)(ii) [[42 U.S.C. 1395](./chapter-007-social-security.md#section-1395)l(a)(2)(B)(ii)] of the Social Security Act, the Secretary shall, in addition to those rules for establishing nominality which the Secretary determines to be appropriate, provide that charges representing 60 percent or less of costs shall be considered nominal. The charges used in making such determinations shall be the charges actually billed to charge-paying patients who are not entitled to benefits under either part of such title [[42 U.S.C. 1395c](./chapter-007-social-security.md#section-1395c) et seq., 1395j et seq.]. Such determination shall be made separately with respect to payments for services under part A and services under part B of such title (other than clinical diagnostic laboratory tests paid under section 1833(h)), or on the basis of inpatient and outpatient services, except that the determination need not be made separately for home health services if the Secretary finds that such separation is not appropriate.”
 
 #### Study and Report Relating to the Reimbursement Method and Benefit Structure for Hospice Care; Supervision of Report by Comptroller General
-Pub. L. 97–248, title I, § 122(j), formerly § 122(i), Sept. 3, 1982, 96 Stat. 363, as redesignated by Pub. L. 97–448, title III, § 309(a)(6), Jan. 12, 1983, 96 Stat. 2408, provided that: “(1) The Secretary of Health and Human Services shall conduct a study and, prior to January 1, 1986, report to the Congress on whether or not the reimbursement method and benefit structure (including copayments) for hospice care under title XVIII of the Social Security Act [[42 U.S.C. 1395](./chapter-007-social-security.md#section-1395) et seq.] are fair and equitable and promote the most efficient provision of hospice care. Such report shall include the feasibility and advisability of providing for prospective reimbursement for hospice care, an evaluation of the inclusion of payment for outpatient drugs, an evaluation of the need to alter the method of reimbursement for nutritional, dietary, and bereavement counseling as hospice care, and any recommendations for legislative changes in the hospice care reimbursement or benefit structure. “(2) The Comptroller General shall monitor and evaluate the study and the preparation of the report under paragraph (1).”
+Pub. L. 97–248, title I, § 122(j), formerly § 122(i), Sept. 3, 1982, 96 Stat. 363, as redesignated by Pub. L. 97–448, title III, § 309(a)(6), Jan. 12, 1983, 96 Stat. 2408, provided that the Secretary of Health and Human Services would conduct a study and, prior to January 1, 1986, report to the Congress on whether the reimbursement method and benefit structure (including copayments) for hospice care under title XVIII of the Social Security Act ([42 U.S.C. 1395](./chapter-007-social-security.md#section-1395) et seq.) were fair and equitable and promote the most efficient provision of hospice care.
 
 #### Waiver of Limitations To Allow Pre-Existing Hospices To Participate as a Hospice Program
 Pub. L. 97–248, title I, § 122(k), formerly § 122(j), Sept. 3, 1982, 96 Stat. 363, as redesignated and amended by Pub. L. 97–448, title III, § 309(a)(6), (7), Jan. 12, 1983, 96 Stat. 2408, provided that: “The Secretary of Health and Human Services shall grant waivers of the limitations imposed by section 1814(i)(2) of the Social Security Act [[42 U.S.C. 1395f(i)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395f/i/2&num=0&edition=prelim)] (relating to the cap amount), section 1861(dd)(1)(G) of such Act [[42 U.S.C. 1395x(dd)(1)(G)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/dd/1/G&num=0&edition=prelim)] (relating to the limitations on the frequency and number of respite care days), and section 1861(dd)(2)(A)(iii) of such Act [[42 U.S.C. 1395x(dd)(2)(A)(iii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/dd/2/A/iii&num=0&edition=prelim)] (relating to the aggregate limit on the number of days of inpatient care), as may be necessary to allow any institution which commenced operations as a hospice prior to January 1, 1975, to participate until October 1, 1986, in a viable manner as a hospice program under title XVIII of the Social Security Act [[42 U.S.C. 1395](./chapter-007-social-security.md#section-1395) et seq.].”
@@ -70469,7 +71042,7 @@ Subsec. (a)(1)(N). Pub. L. 116–260, § 125(b)(2)(A)(ii)(I), substituted “, c
 
 Subsec. (a)(1)(N)(i). Pub. L. 116–260, § 125(b)(2)(A)(ii)(II), substituted “, critical access hospital, or rural emergency hospital” for “or critical access hospital”.
 
-Subsec. (a)(1)(N)(iv). Pub. L. 116–260, § 125(b)(2)(A)(ii)(III), substituted “, critical access hospital, or rural emergency hospital” for “hospital”.
+Subsec. (a)(1)(N)(iv). Pub. L. 116–260, § 125(b)(2)(A)(ii)(III), inserted “, critical access hospital, or rural emergency hospital” after “hospital”.
 
 Subsec. (a)(3)(A). Pub. L. 116–260, § 125(b)(1)(B)(i), inserted “rural emergency hospital,” after “critical access hospital,”.
 
@@ -71785,9 +72358,6 @@ In applying this subsection the Secretary shall make appropriate adjustments to 
 
 ### Statutory Notes
 
-#### Applicability of Amendment
-Amendment of section by section 134(a) of Pub. L. 116–260 applicable to items and services furnished on or after Oct. 1, 2021. See 2020 Amendment note below.
-
 #### References in Text
 Section 101 of the Medicare, Medicaid, and SCHIP Balanced Budget Refinement Act of 1999, referred to in subsec. (e)(12)(A), is section 1000(a)(6) [title I, § 101] of Pub. L. 106–113, div. B, Nov. 29, 1999, 113 Stat. 1536, 1501A–324, which is not classified to the Code.
 
@@ -72986,7 +73556,7 @@ Pub. L. 116–159 substituted “December 11, 2020” for “November 30, 2020�
 
 Pub. L. 116–136, § 3802, substituted “$20,000,000 for fiscal year 2020, and for the period beginning on October 1, 2020, and ending on November 30, 2020, the amount equal to the pro rata portion of the amount appropriated for such period for fiscal year 2020” for “and $4,830,000 for the period beginning on October 1, 2019, and ending on May 22, 2020” in first sentence and “, 2019, and 2020, and for the period beginning on October 1, 2020, and ending on November 30, 2020,” for “and 2019 and for the period beginning on October 1, 2019, and ending on May 22, 2020” in last sentence.
 
-Subsec. (e). Pub. L. 116–260, § 102(b)(1)(A), (B), (G), designated existing provisions as par. (1), redesignated former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (1), and added par. (2).
+Subsec. (e). Pub. L. 116–260, § 102(b)(1)(A), (B), (G), designated existing provisions as par. (1), inserted heading, redesignated former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (1), and added par. (2).
 
 Subsec. (e)(1)(A). Pub. L. 116–260, § 102(b)(1)(C), struck out at end “In years after the first plan under this paragraph is submitted, the requirements of this paragraph may be met by providing an update to the plan.”
 
@@ -75319,6 +75889,8 @@ Advisory councils established after Jan. 5, 1973, to terminate not later than th
 
 **(j) Construction** Where requirements or obligations under this section are identical to those provided under [section 1396r of this title](./chapter-007-social-security.md#section-1396r), the fulfillment of those requirements or obligations under [section 1396r of this title](./chapter-007-social-security.md#section-1396r) shall be considered to be the fulfillment of the corresponding requirements or obligations under this section.
 
+**(k) Funding for strike teams** In addition to amounts otherwise available, there is appropriated to the Secretary, out of any monies in the Treasury not otherwise appropriated, $250,000,000, to remain available until expended, for purposes of allocating such amount among the States (including the District of Columbia and each territory of the United States) for such a State to establish and implement a strike team that will be deployed to a skilled nursing facility in the State with diagnosed or suspected cases of COVID–19 among residents or staff for the purposes of assisting with clinical care, infection control, or staffing during the emergency period described in section 1320b–5(g)(1)(B) of this section and the 1-year period immediately following the end of such emergency period.
+
 ### Statutory Notes
 
 #### Amendment of Subsection (d)(1)
@@ -75332,6 +75904,8 @@ Subparagraphs (B), (C), and (D) of section 6901(b)(4) of the Omnibus Budget Reco
 Section 21(b) of the Medicare-Medicaid Anti-Fraud and Abuse Amendments of 1977, referred to in subsec. (f)(7)(A), probably means section 21(b) of the Medicare-Medicaid Anti-Fraud and Abuse Amendments, Pub. L. 95–142, which is set out as a note under [section 1395x of this title](./chapter-007-social-security.md#section-1395x).
 
 #### Amendments
+2021—Subsec. (k). Pub. L. 117–2 added subsec. (k).
+
 2014—Subsec. (i)(3). Pub. L. 113–185 added par. (3).
 
 2010—Subsec. (b)(5)(F). Pub. L. 111–148, § 6121(a)(2), inserted concluding provisions.
@@ -75609,7 +76183,7 @@ Pub. L. 111–148, title VI, § 6114, Mar. 23, 2010, 124 Stat. 720, provided tha
 Pub. L. 108–173, title I, § 107(b), Dec. 8, 2003, 117 Stat. 2169, provided that: “(1) Review.—“(A) In general.—Not later than 12 months after the date of the enactment of this Act [Dec. 8, 2003], the Secretary [of Health and Human Services] shall conduct a thorough review of the current standards of practice for pharmacy services provided to patients in nursing facilities. “(B) Specific matters reviewed.—In conducting the review under subparagraph (A), the Secretary shall—“(i) assess the current standards of practice, clinical services, and other service requirements generally used for pharmacy services in long-term care settings; and “(ii) evaluate the impact of those standards with respect to patient safety, reduction of medication errors and quality of care. “(2) Report.—“(A) In general.—Not later than the date that is 18 months after the date of the enactment of this Act [Dec. 8, 2003], the Secretary shall submit a report to Congress on the study conducted under paragraph (1)(A). “(B) Contents.—The report submitted under subparagraph (A) shall contain—“(i) a description of the plans of the Secretary to implement the provisions of this Act [see Tables for classification] in a manner consistent with applicable State and Federal laws designed to protect the safety and quality of care of nursing facility patients; and “(ii) recommendations regarding necessary actions and appropriate reimbursement to ensure the provision of prescription drugs to medicare beneficiaries residing in nursing facilities in a manner consistent with existing patient safety and quality of care standards under applicable State and Federal laws.”
 
 #### Study and Report Regarding State Licensure and Certification Standards and Respiratory Therapy Competency Examinations
-Pub. L. 106–113, div. B, § 1000(a)(6) [title I, § 107], Nov. 29, 1999, 113 Stat. 1536, 1501A–328, provided that: “(a) Study.—The Secretary of Health and Human Services shall conduct a study that—“(1) identifies variations in State licensure and certification standards for health care providers (including nursing and allied health professionals) and other individuals providing respiratory therapy in skilled nursing facilities; “(2) examines State requirements relating to respiratory therapy competency examinations for such providers and individuals; and “(3) determines whether regular respiratory therapy competency examinations or certifications should be required under the medicare program under title XVIII of the Social Security Act ([42 U.S.C. 1395](./chapter-007-social-security.md#section-1395) et seq.) for such providers and individuals. “(b) Report.—Not later than 18 months after the date of enactment of this Act [Nov. 29, 1999], the Secretary of Health and Human Services shall submit to Congress a report on the results of the study conducted under this section, together with any recommendations for legislation that the Secretary determines to be appropriate as a result of such study.”
+Pub. L. 106–113, div. B, § 1000(a)(6) [title I, § 107], Nov. 29, 1999, 113 Stat. 1536, 1501A–328, provided that the Secretary of Health and Human Services would conduct a study that identifies variations in State licensure and certification standards for health care providers and other individuals providing respiratory therapy in skilled nursing facilities, examines State requirements relating to respiratory therapy competency examinations for such providers and individuals and determines whether regular respiratory therapy competency examinations or certifications should be required under the medicare program under title XVIII of the Social Security Act ([42 U.S.C. 1395](./chapter-007-social-security.md#section-1395) et seq.), and submit a report of the results of the study and any recommendations by 18 months after Nov. 29, 1999.
 
 #### Retroactive Review
 Pub. L. 105–33, title IV, § 4755(c), Aug. 5, 1997, 111 Stat. 527, provided that: “The procedures developed by a State under the amendments made by subsection[s] (a) and (b) [amending this section and [section 1396r of this title](./chapter-007-social-security.md#section-1396r)] shall permit an individual to petition for a review of any finding made by a State under section 1819(g)(1)(C) or 1919(g)(1)(C) of the Social Security Act ([42 U.S.C. 1395i](./chapter-007-social-security.md#section-1395i)-3(g)(1)(C) or 1396r(g)(1)(C)) after January 1, 1995.”
@@ -78164,21 +78738,33 @@ Paragraph (3)(A) shall not apply to Federally qualified health center services f
 
     (i) in 2021, after March 31, at an amount equal to the greater of—
 
-      (I) the per visit payment amount applicable to such rural health clinic for rural health clinic services furnished in 2020, increased by the percentage increase in the MEI applicable to primary care services furnished as of the first day of 2021; or
+      (I) with respect to a rural health clinic that had a per visit payment amount established for services furnished in 2020—
 
-      (II) the limit described in paragraph (2)(A); and
+        (aa) the per visit payment amount applicable to such rural health clinic for rural health clinic services furnished in 2020, increased by the percentage increase in the MEI applicable to primary care services furnished as of the first day of 2021; or
+
+        (bb) the limit described in paragraph (2)(A); and
+
+      (II) with respect to a rural health clinic that did not have a per visit payment amount established for services furnished in 2020—
+
+        (aa) the per visit payment amount applicable to such rural health clinic for rural health clinic services furnished in 2021; or
+
+        (bb) the limit described in paragraph (2)(A); and
 
     (ii) in a subsequent year, at an amount equal to the greater of—
 
-      (I) the amount established under clause (i)(I) or this subclause for the previous year with respect to such rural health clinic, increased by the percentage increase in the MEI applicable to primary care services furnished as of the first day of such subsequent year; or
+      (I) the amount established under subclause (I) or (II) of clause (i), as applicable, or this subclause for the previous year with respect to such rural health clinic, increased by the percentage increase in the MEI applicable to primary care services furnished as of the first day of such subsequent year; or
 
       (II) the limit established under paragraph (2) for such subsequent year.
 
-  (B) A rural health clinic described in this subparagraph is a rural health clinic that, as of December 31, 2019, was—
+  (B) A rural health clinic described in this subparagraph is a rural health clinic that—
 
-    (i) in a hospital with less than 50 beds; and
+    (i) as of December 31, 2020, was in a hospital with less than 50 beds and after such date such hospital continues to have less than 50 beds (not taking into account any increase in the number of beds pursuant to a waiver under subsection (b)(1)(A) of [section 1320b–5 of this title](./chapter-007-social-security.md#section-1320b-5) during the emergency period described in subsection (g)(1)(B) of such section); and
 
-    (ii) enrolled under [section 1395cc(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395cc/j&num=0&edition=prelim).
+    (ii)
+
+      (I) as of December 31, 2020, was enrolled under [section 1395cc(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395cc/j&num=0&edition=prelim) (including temporary enrollment during such emergency period for such emergency period); or
+
+      (II) submitted an application for enrollment under [section 1395cc(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395cc/j&num=0&edition=prelim) (or a request for such a temporary enrollment for such emergency period) that was received not later than December 31, 2020.
 
 **(g) Physical therapy services**
 
@@ -79669,6 +80255,22 @@ Section 4521 of The Balanced Budget Act of 1997, referred to in subsec. (t)(7)(F
 Pub. L. 111–148, § 10221(a), enacted into law S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, “[e]xcept as provided in” section 10221(b) of Pub. L. 111–148. Section 201(b) of S. 1790 would have amended this section but was stricken out by section 10221(b)(4) of Pub. L. 111–148.
 
 #### Amendments
+2021—Subsec. (f)(3)(A)(i). Pub. L. 117–7, § 2(a)(1)(A)(i), added subcls. (I) and (II) and struck out former subcls. (I) and (II) which read as follows:
+
+“(I) the per visit payment amount applicable to such rural health clinic for rural health clinic services furnished in 2020, increased by the percentage increase in the MEI applicable to primary care services furnished as of the first day of 2021; or
+
+“(II) the limit described in paragraph (2)(A); and”.
+
+Subsec. (f)(3)(A)(ii)(I). Pub. L. 117–7, § 2(a)(1)(A)(ii), substituted “under subclause (I) or (II) of clause (i), as applicable,” for “under clause (i)(I)”.
+
+Subsec. (f)(3)(B). Pub. L. 117–7, § 2(a)(1)(B), added subpar. (B) and struck out former subpar. (B) which read as follows:
+
+“(B) A rural health clinic described in this subparagraph is a rural health clinic that, as of December 31, 2019, was—
+
+“(i) in a hospital with less than 50 beds; and
+
+“(ii) enrolled under [section 1395cc(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395cc/j&num=0&edition=prelim).”
+
 2020—Subsec. (a). Pub. L. 116–260, § 122(a), in concluding provisions, substituted “section 1395m(o) of this title” for “[section 1395m(0) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395m/0&num=0&edition=prelim)”, realigned margins, and inserted at end “For services furnished on or after January 1, 2022, paragraph (1)(Y) shall apply with respect to a colorectal cancer screening test regardless of the code that is billed for the establishment of a diagnosis as a result of the test, or for the removal of tissue or other matter or other procedure that is furnished in connection with, as a result of, and in the same clinical encounter as the screening test.”
 
 Subsec. (a)(1)(Y). Pub. L. 116–260, § 122(b)(1), inserted “subject to subsection (dd),” before “with respect to”.
@@ -80976,6 +81578,9 @@ Pub. L. 90–248, § 135(c), inserted last sentence providing that there shall b
 Subsec. (d). Pub. L. 90–248, § 129(c)(8), struck out reference to subsection (a)(2)(A) of [section 1395e of this title](./chapter-007-social-security.md#section-1395e).
 
 Subsec. (f). Pub. L. 90–248, § 132(b), added subsec. (f).
+
+#### Effective Date of 2021 Amendment
+Pub. L. 117–7, § 2(a)(2), Apr. 14, 2021, 135 Stat. 252, provided that: “The amendments made by this subsection [amending this section] shall take effect as if included in the enactment of the Consolidated Appropriations Act, 2021 (Public Law 116–260).”
 
 #### Effective Date of 2020 Amendment
 Pub. L. 116–260, div. CC, title I, § 114(c), Dec. 27, 2020, 134 Stat. 2948, provided that: “The amendments made by this section [amending this section and [section 1395w–4 of this title](./chapter-007-social-security.md#section-1395w-4)] shall take effect on the date of the enactment of this Act [Dec. 27, 2020].”
@@ -84140,7 +84745,7 @@ Subsec. (e). Pub. L. 100–360, § 204(b)(2), added subsec. (e) relating to paym
 
 1987—Subsec. (b). Pub. L. 100–203, § 4049(a)(2), as amended by Pub. L. 100–360, § 411(a)(3)(A), (B)(ii), (f)(8)(B)(ii), added subsec. (b).
 
-#### Effective date of 2020 Amendment
+#### Effective Date of 2020 Amendment
 Pub. L. 116–260, div. CC, title I, § 121(b)(2), Dec. 27, 2020, 134 Stat. 2955, provided that: “The amendment made by paragraph (1) [amending Pub. L. 105–33 which amended this section] shall take effect as if included in the enactment of the Balanced Budget Act of 1997 (Public Law 105–33).”
 
 Amendment by section 125(a)(2)(B), (c) of Pub. L. 116–260 applicable to items and services furnished on or after Jan. 1, 2023, see section 125(g) of Pub. L. 116–260, set out as a note under section 1395l of this title.
@@ -84796,7 +85401,7 @@ Pub. L. 100–203, title IV, § 4062(c), Dec. 22, 1987, 101 Stat. 1330–107, as
 
       (IV) subsection (b)(6) shall not be taken into account in applying clause (ii)(II) for 2010, 2011, or the first 2 months of 2012; and
 
-      (V) subsection (t) shall not be taken into account in applying clause (ii)(II) for 2021.
+      (V) subsection (t) shall not be taken into account in applying clause (ii)(II) for 2021 or 2022.
 
     (v) *Exemption of certain reduced expenditures from budget-neutrality calculation* — The following reduced expenditures, as estimated by the Secretary, shall not be taken into account in applying clause (ii)(II):
 
@@ -86910,17 +87515,21 @@ Pub. L. 100–203, title IV, § 4062(c), Dec. 22, 1987, 101 Stat. 1330–107, as
 
 (7) **Administration** — Chapter 35 of title 44 shall not apply to the collection of information for the development of quality measures.
 
-**(t) Supporting physicians and other professionals in adjusting to Medicare payment changes during 2021**
+**(t) Supporting physicians and other professionals in adjusting to Medicare payment changes during 2021 and 2022**
 
-(1) **In general** — In order to support physicians and other professionals in adjusting to changes in payment for physicians’ services during 2021, the Secretary shall increase fee schedules under subsection (b) that establish payment amounts for such services furnished on or after January 1, 2021, and before January 1, 2022, by 3.75 percent.
+(1) **In general** — In order to support physicians and other professionals in adjusting to changes in payment for physicians’ services during 2021 and 2022, the Secretary shall increase fee schedules under subsection (b) that establish payment amounts for—
+
+  (A) such services furnished on or after January 1, 2021, and before January 1, 2022, by 3.75 percent; and
+
+  (B) such services furnished on or after January 1, 2022, and before January 1, 2023, by 3.0 percent.
 
 (2) **Implementation**
 
   (A) *Administration* — Notwithstanding any other provision of law, the Secretary may implement this subsection by program instruction or otherwise.
 
-  (B) *Limitation* — There shall be no administrative or judicial review under [section 1395ff of this title](./chapter-007-social-security.md#section-1395ff), 1395oo of this title or otherwise of the fee schedules that establish payment amounts calculated pursuant to this subsection.
+  (B) *Limitation* — There shall be no administrative or judicial review under [section 1395ff of this title](./chapter-007-social-security.md#section-1395ff), 1395oo of this title 6 or otherwise of the fee schedules that establish payment amounts calculated pursuant to this subsection.
 
-  (C) *Application only for 2021* — The increase in fee schedules that establish payment amounts under this subsection shall not be taken into account in determining such fee schedules that establish payment amounts for services furnished in years after 2021.
+  (C) *Application only for 2021 and 2022* — The increase in fee schedules that establish payment amounts under this subsection for services furnished in 2021 or 2022 shall not be taken into account in determining such fee schedules that establish payment amounts for services furnished in years after 2021 or 2022, respectively.
 
 (3) **Funding** — For purposes of increasing the fee schedules that establish payment amounts pursuant to this subsection—
 
@@ -86951,6 +87560,14 @@ Section 2(d) of the Improving Medicare Post-Acute Care Transformation Act of 201
 The text of section 101(c) of Pub. L. 109–432, div. B, title I, Dec. 20, 2006, 120 Stat. 2977, as amended by Pub. L. 110–173, title I, § 101(b)(2), Dec. 29, 2007, 121 Stat. 2494, which was formerly set out as a note under this section, was transferred to subsec. (m) of this section and amended by Pub. L. 110–275.
 
 #### Amendments
+2021—Subsec. (c)(2)(B)(iv)(V). Pub. L. 117–71, § 3(a)(1), substituted “2021 or 2022” for “2021”.
+
+Subsec. (t). Pub. L. 117–71, § 3(a)(2)(A), substituted “2021 and 2022” for “2021” in heading.
+
+Subsec. (t)(1). Pub. L. 117–71, § 3(a)(2)(B), substituted “during 2021 and 2022” for “during 2021” and “payment amounts for—” and subpars. (A) and (B) for “payment amounts for such services furnished on or after January 1, 2021, and before January 1, 2022, by 3.75 percent.”
+
+Subsec. (t)(2)(C). Pub. L. 117–71, § 3(a)(2)(C), substituted “2021 and 2022” for “2021” in heading and, in text, inserted “for services furnished in 2021 or 2022” after “under this subsection” and “or 2022, respectively” before period at end.
+
 2020—Subsec. (c)(2)(B)(iv)(V). Pub. L. 116–260, § 101(b), added subcl. (V).
 
 Subsec. (e)(1)(E). Pub. L. 116–260 substituted “January 1, 2024” for “December 19, 2020”.
@@ -88599,9 +89216,6 @@ Section was enacted as part of the Medicare Access and CHIP Reauthorization Act 
 
 ### Statutory Notes
 
-#### Applicability of Amendment
-Amendment of section by section 17006(a)(1), (c)(2) of Pub. L. 114–255 applicable with respect to plan years beginning on or after Jan. 1, 2021. See 2016 Amendment notes below.
-
 #### References in Text
 Subsec. (e)(2)(C), referred to in subsec. (e)(2)(B)(i), was amended generally by section 3204(a)(1) of Pub. L. 111–148 and, as so amended, no longer contains a cl. (iii).
 
@@ -89366,9 +89980,6 @@ Pub. L. 105–33, title IV, § 4018, Aug. 5, 1997, 111 Stat. 346, provided that:
 
 ### Statutory Notes
 
-#### Applicability of Amendment
-Amendment of section by section 17006(a)(2)(A), (c)(1) of Pub. L. 114–255 applicable with respect to plan years beginning on or after Jan. 1, 2021. See 2016 Amendment notes below.
-
 #### References in Text
 Section 2702 of the Public Health Service Act, referred to in subsec. (b)(1), is section 2702 of act July 1, 1944, which was classified to [section 300gg–1 of this title](./chapter-6a-public-health-service.md#section-300gg-1), was amended by Pub. L. 111–148, title I, § 1201(3), Mar. 23, 2010, 124 Stat. 154, and was transferred to subsecs. (b) to (f) of [section 300gg–4 of this title](./chapter-6a-public-health-service.md#section-300gg-4), effective for plan years beginning on or after Jan. 1, 2014. A new section 2702 of act July 1, 1944, related to guaranteed availability of coverage, was added by Pub. L. 111–148, title I, § 1201(4), Mar. 23, 2010, 124 Stat. 156, effective for plan years beginning on or after Jan. 1, 2014, and is classified to [section 300gg–1 of this title](./chapter-6a-public-health-service.md#section-300gg-1).
 
@@ -89439,7 +90050,7 @@ Pub. L. 108–173, § 221(d)(3)(A), inserted “and except as provided in paragr
 
 Subsec. (a)(2)(C). Pub. L. 108–173, § 948(b)(2), substituted “determination” for “policy” wherever appearing in heading and text.
 
-Subsec. (a)(3)(C). Pub. L. 108–173, § 222(a)(3), inserted at end “Such benefits may include reductions in cost-sharing below the actuarial value specified in [section 1395w–24(e)(4)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–24/e/4/B&num=0&edition=prelim).”
+Subsec. (a)(3)(C). Pub. L. 108–173, § 222(a)(3), which directed insertion of “Such benefits may include reductions in cost-sharing below the actuarial value specified in [section 1395w–24(e)(4)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–24/e/4/B&num=0&edition=prelim).” at the end of par. (3), was executed by making the insertion at the end of the final subpar. in par. (3), which was subpar. (C), to reflect the probable intent of Congress.
 
 Subsec. (a)(5). Pub. L. 108–173, § 900(e)(1)(F), substituted “Centers for Medicare & Medicaid Services” for “Health Care Financing Administration” in concluding provisions.
 
@@ -92656,9 +93267,6 @@ Pub. L. 111–148, title X, § 10327(c)(2), Mar. 23, 2010, 124 Stat. 964, provid
 
 ### Statutory Notes
 
-#### Applicability of Amendment
-Amendment of section by section 17006(a)(2)(B) of Pub. L. 114–255 applicable with respect to plan years beginning on or after Jan. 1, 2021. See 2016 Amendment note below.
-
 #### References in Text
 The Internal Revenue Code of 1986, referred to in subsec. (e)(3)(A), is classified generally to Title 26, Internal Revenue Code.
 
@@ -94766,9 +95374,9 @@ Pub. L. 110–275, title I, § 114(b), July 15, 2008, 122 Stat. 2507, provided t
 
   (B) *Revised reporting period* — In the case of reporting with respect to clinical diagnostic laboratory tests that are not advanced diagnostic laboratory tests, the Secretary shall revise the reporting period under subparagraph (A) such that—
 
-    (i) no reporting is required during the period beginning January 1, 2020, and ending December 31, 2021;
+    (i) no reporting is required during the period beginning January 1, 2020, and ending December 31, 2022;
 
-    (ii) reporting is required during the period beginning January 1, 2022, and ending March 31, 2022; and
+    (ii) reporting is required during the period beginning January 1, 2023, and ending March 31, 2023; and
 
     (iii) reporting is required every three years after the period described in clause (ii).
 
@@ -94836,15 +95444,15 @@ Pub. L. 110–275, title I, § 114(b), July 15, 2008, 122 Stat. 2507, provided t
 
 (3) **Phase-in of reductions from private payor rate implementation**
 
-  (A) *In general* — Payment amounts determined under this subsection for a clinical diagnostic laboratory test for each of 2017 through 2024 shall not result in a reduction in payments for a clinical diagnostic laboratory test for the year of greater than the applicable percent (as defined in subparagraph (B)) of the amount of payment for the test for the preceding year.
+  (A) *In general* — Payment amounts determined under this subsection for a clinical diagnostic laboratory test for each of 2017 through 2025 shall not result in a reduction in payments for a clinical diagnostic laboratory test for the year of greater than the applicable percent (as defined in subparagraph (B)) of the amount of payment for the test for the preceding year.
 
   (B) *Applicable percent defined* — In this paragraph, the term “applicable percent” means—
 
     (i) for each of 2017 through 2020, 10 percent;
 
-    (ii) for 2021, 0 percent; and
+    (ii) for each of 2021 and 2022, 0 percent; and
 
-    (iii) for each of 2022 through 2024, 15 percent.
+    (iii) for each of 2023 through 2025, 15 percent.
 
   (C) *No application to new tests* — This paragraph shall not apply to payment amounts determined under this section for either of the following.
 
@@ -94970,6 +95578,16 @@ Pub. L. 110–275, title I, § 114(b), July 15, 2008, 122 Stat. 2507, provided t
 The Federal Advisory Committee Act, referred to in subsec. (f)(2), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+2021—Subsec. (a)(1)(B)(i). Pub. L. 117–71, § 4(b)(1), substituted “December 31, 2022” for “December 31, 2021”.
+
+Subsec. (a)(1)(B)(ii). Pub. L. 117–71, § 4(b)(2), substituted “January 1, 2023” for “January 1, 2022” and “March 31, 2023” for “March 31, 2022”.
+
+Subsec. (b)(3)(A). Pub. L. 117–71, § 4(a)(1), substituted “through 2025” for “through 2024”.
+
+Subsec. (b)(3)(B)(ii). Pub. L. 117–71, § 4(a)(2)(A), substituted “for each of 2021 and 2022” for “for 2021”.
+
+Subsec. (b)(3)(B)(iii). Pub. L. 117–71, § 4(a)(2)(B), substituted “2023 through 2025” for “2022 through 2024”.
+
 2020—Subsec. (a)(1)(B)(i). Pub. L. 116–136, § 3718(a)(1), substituted “December 31, 2021” for “December 31, 2020”.
 
 Subsec. (a)(1)(B)(ii). Pub. L. 116–136, § 3718(a)(2), substituted “January 1, 2022” for “January 1, 2021” and “March 31, 2022” for “March 31, 2021”.
@@ -98280,7 +98898,7 @@ Pub. L. 105–33, title IV, § 4319(c), Aug. 5, 1997, 111 Stat. 394, provided th
 
   (D) *Increasing oversight and enforcement* — For calendar quarters beginning on or after January 1, 2022, [section 1396r–8(b)(3)(C)(iv) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396r–8/b/3/C/iv&num=0&edition=prelim) shall be applied as if—
 
-    (i) each reference to “under this subparagraph and subsection (c)(4)(B)(ii)(III)” were a reference to “under this subparagraph, subsection (c)(4)(B)(ii)(III), and subparagraphs (A), (B), and (C) of [section 1395w–3a(d)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–3a/d/4&num=0&edition=prelim); and
+    (i) each reference to “under this subparagraph and subsection (c)(4)(B)(ii)(III)” were a reference to “under this subparagraph, subsection (c)(4)(B)(ii)(III), and subparagraphs (A), (B), and (C) of [section 1395w–3a(d)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–3a/d/4&num=0&edition=prelim)”; and
 
     (ii) the reference to “activities related to the oversight and enforcement of this section and agreements under this section” were a reference to “activities related to the oversight and enforcement of this section and under subsection (f)(2) of [section 1395w–3a of this title](./chapter-007-social-security.md#section-1395w-3a) and subparagraphs (A), (B), and (C) of this sub[section 1395w–3a(d)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–3a/d/4&num=0&edition=prelim) and, if applicable, agreements under this section”.
 
@@ -98354,7 +98972,87 @@ Pub. L. 105–33, title IV, § 4319(c), Aug. 5, 1997, 111 Stat. 394, provided th
 
   (B) the amount of payment otherwise determined under this section for such billing and payment code without application of this subsection.
 
-**(h) Judicial review** There shall be no administrative or judicial review under [section 1395ff of this title](./chapter-007-social-security.md#section-1395ff), section 1395oo of this title, or otherwise, of—
+**(h) Refund for certain discarded single-dose container or single-use package drugs**
+
+(1) **Secretarial provision of information**
+
+  (A) *In general* — For each calendar quarter beginning on or after January 1, 2023, the Secretary shall, with respect to a refundable single-dose container or single-use package drug (as defined in paragraph (8)), report to each manufacturer (as defined in subsection (c)(6)(A)) of such refundable single-dose container or single-use package drug the following for the calendar quarter:
+
+    (i) Subject to subparagraph (C), information on the total number of units of the billing and payment code of such drug, if any, that were discarded during such quarter, as determined using a mechanism such as the JW modifier used as of November 15, 2021 (or any such successor modifier that includes such data as determined appropriate by the Secretary).
+
+    (ii) The refund amount that the manufacturer is liable for pursuant to paragraph (3).
+
+  (B) *Determination of discarded amounts* — For purposes of subparagraph (A)(i), with respect to a refundable single-dose container or single-use package drug furnished during a quarter, the amount of such drug that was discarded shall be determined based on the amount of such drug that was unused and discarded for each drug on the date of service.
+
+  (C) *Exclusion of units of packaged drugs* — The total number of units of the billing and payment code of a refundable single-dose container or single-use package drug of a manufacturer furnished during a calendar quarter for purposes of subparagraph (A)(i), and the determination of the estimated total allowed charges for the drug in the quarter for purposes of paragraph (3)(A)(ii), shall not include such units that are packaged into the payment amount for an item or service and are not separately payable.
+
+(2) **Manufacturer requirement** — For each calendar quarter beginning on or after January 1, 2023, the manufacturer of a refundable single-dose container or single-use package drug shall, for such drug, provide to the Secretary a refund that is equal to the amount specified in paragraph (3) for such drug for such quarter.
+
+(3) **Refund amount**
+
+  (A) *In general* — The amount of the refund specified in this paragraph is, with respect to a refundable single-dose container or single-use package drug of a manufacturer assigned to a billing and payment code for a calendar quarter beginning on or after January 1, 2023, an amount equal to the estimated amount (if any) by which—
+
+    (i) the product of—
+
+      (I) the total number of units of the billing and payment code for such drug that were discarded during such quarter (as determined under paragraph (1)); and
+
+      (II)
+
+        (aa) in the case of a refundable single-dose container or single-use package drug that is a single source drug or biological, the amount of payment determined for such drug or biological under subsection (b)(1)(B) for such quarter; or
+
+        (bb) in the case of a refundable single-dose container or single-use package drug that is a biosimilar biological product, the amount of payment determined for such product under subsection (b)(1)(C) for such quarter; exceeds
+
+    (ii) an amount equal to the applicable percentage (as defined in subparagraph (B)) of the estimated total allowed charges for such drug under this part during the quarter.
+
+  (B) *Applicable percentage defined*
+
+    (i) *In general* — For purposes of subparagraph (A)(ii), the term “applicable percentage” means—
+
+      (I) subject to subclause (II), 10 percent; and
+
+      (II) if applicable, in the case of a refundable single-dose container or single-use package drug described in clause (ii), a percentage specified by the Secretary pursuant to such clause.
+
+    (ii) *Treatment of drugs that have unique circumstances* — In the case of a refundable single-dose container or single-use package drug that has unique circumstances involving similar loss of product as that described in paragraph (8)(B)(ii), the Secretary, through notice and comment rulemaking, may increase the applicable percentage otherwise applicable under clause (i)(I) as determined appropriate by the Secretary.
+
+(4) **Frequency** — Amounts required to be refunded pursuant to paragraph (2) shall be paid in regular intervals (as determined appropriate by the Secretary).
+
+(5) **Refund deposits** — Amounts paid as refunds pursuant to paragraph (2) shall be deposited into the Federal Supplementary Medical Insurance Trust Fund established under [section 1395t of this title](./chapter-007-social-security.md#section-1395t).
+
+(6) **Enforcement**
+
+  (A) *Audits*
+
+    (i) *Manufacturer audits* — Each manufacturer of a refundable single-dose container or single-use package drug that is required to provide a refund under this subsection shall be subject to periodic audit with respect to such drug and such refunds by the Secretary.
+
+    (ii) *Provider audits* — The Secretary shall conduct periodic audits of claims submitted under this part with respect to refundable single-dose container or single-use package drugs in accordance with the authority under section 1395l(e) of this title to ensure compliance with the requirements applicable under this subsection.
+
+  (B) *Civil money penalty*
+
+    (i) *In general* — The Secretary shall impose a civil money penalty on a manufacturer of a refundable single-dose container or single-use package drug who has failed to comply with the requirement under paragraph (2) for such drug for a calendar quarter in an amount equal to the sum of—
+
+      (I) the amount that the manufacturer would have paid under such paragraph with respect to such drug for such quarter; and
+
+      (II) 25 percent of such amount.
+
+    (ii) *Application* — The provisions of [section 1320a–7a of this title](./chapter-007-social-security.md#section-1320a-7a) (other than subsections (a) and (b)) shall apply to a civil money penalty under this subparagraph in the same manner as such provisions apply to a penalty or proceeding under [section 1320a–7a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320a–7a/a&num=0&edition=prelim).
+
+(7) **Implementation** — The Secretary shall implement this subsection through notice and comment rulemaking.
+
+(8) **Definition of refundable single-dose container or single-use package drug**
+
+  (A) *In general* — Except as provided in subparagraph (B), in this subsection, the term “refundable single-dose container or single-use package drug” means a single source drug or biological (as defined in subsection (c)(6)(D)) or a biosimilar biological product (as defined in subsection (c)(6)(H)) for which payment is made under this part and that is furnished from a single-dose container or single-use package.
+
+  (B) *Exclusions* — The term “refundable single-dose container or single-use package drug” does not include—
+
+    (i) a drug or biological that is either a radiopharmaceutical or an imaging agent;
+
+    (ii) a drug or biological approved by the Food and Drug Administration for which dosage and administration instructions included in the labeling require filtration during the drug preparation process, prior to dilution and administration, and require that any unused portion of such drug after the filtration process be discarded after the completion of such filtration process; or
+
+    (iii) a drug or biological approved by the Food and Drug Administration on or after November 15, 2021, and with respect to which payment has been made under this part for fewer than 18 months.
+
+(9) **Report to Congress** — Not later than 3 years after November 15, 2021, the Office of the Inspector General, after consultation with the Centers for Medicare & Medicaid Services and the Food and Drug Administration, shall submit to the Committee on Finance of the Senate and the Committee on Energy and Commerce and the Committee on Ways and Means of the House of Representatives, a report on any impact this section is reported to have on the licensure, market entry, market retention, or marketing of biosimilar biological products. Such report shall be updated periodically at the direction of the Committee on Finance of the Senate and the Committee on Energy and Commerce and the Committee on Ways and Means of the House of Representatives.
+
+**(i) Judicial review** There shall be no administrative or judicial review under [section 1395ff of this title](./chapter-007-social-security.md#section-1395ff), section 1395oo of this title, or otherwise, of—
 
 (1) determinations of payment amounts under this section, including the assignment of National Drug Codes to billing and payment codes;
 
@@ -98369,6 +99067,8 @@ Pub. L. 105–33, title IV, § 4319(c), Aug. 5, 1997, 111 Stat. 394, provided th
 ### Statutory Notes
 
 #### Amendments
+2021—Subsecs. (h), (i). Pub. L. 117–58 added subsec. (h) and redesignated former subsec. (h) as (i).
+
 2020—Subsec. (b)(2)(A). Pub. L. 116–260, § 401(a)(1)(A), inserted “or subsection (f)(2), as applicable” before period at end.
 
 Subsec. (b)(3). Pub. L. 116–260, § 401(a)(1)(B), inserted “or subsection (f)(2), as applicable,” before “determined by” in introductory provisions.
@@ -98966,7 +99666,7 @@ is eligible to enroll in the insurance program established by this part.
 ### Statutory Notes
 
 #### Amendments
-2020—Subsecs. (a), (b). Pub. L. 116–260 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+2020—Pub. L. 116–260 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 1972—Pub. L. 92–603 designed former par. (2)(B) as par. (1), former par. (1) as introductory clause in par. (2), and former pars. (2)(A)(i) and (ii) as pars. (2)(A) and (B), and struck out “(A)” after “(2)”.
 
@@ -99101,7 +99801,7 @@ shall be deemed to have enrolled in the medical insurance program established by
 
 (3) An individual described in paragraph (1) whose entitlement for hospital insurance benefits under part A ends by reason of [section 426–1(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section426–1/b/2&num=0&edition=prelim) on or after January 1, 2023, shall be deemed to have enrolled in the medical insurance program established by this part for purposes of coverage of immunosuppressive drugs.
 
-(4) The Secretary shall establish a process under which an individual described in paragraph (1) whose other coverage described in section 1395o(b)(2)(A) of this title, or coverage under this part (including the medical insurance program established under this part for purposes of coverage of immunosuppressive drugs), is terminated voluntarily or involuntary may enroll or reenroll, if applicable, in the medical insurance program established under this part for purposes of coverage of immunosuppressive drugs.
+(4) The Secretary shall establish a process under which an individual described in paragraph (1) whose other coverage described in section 1395o(b)(2)(A) of this title, or coverage under this part (including the medical insurance program established under this part for purposes of coverage of immunosuppressive drugs), is terminated voluntarily or involuntary 11 So in original. Probably should be “involuntarily”. may enroll or reenroll, if applicable, in the medical insurance program established under this part for purposes of coverage of immunosuppressive drugs.
 
 ### Statutory Notes
 
@@ -99670,7 +100370,7 @@ Subsec. (a)(7). Pub. L. 116–159, § 2401(a)(3), added par. (7).
 
 Subsec. (b). Pub. L. 116–260, § 402(d)(1)(A), inserted at end “No increase in the premium shall be effected for individuals who are enrolled pursuant to section 1395o(b) of this title for coverage only of immunosuppressive drugs.”
 
-Pub. L. 116–260, § 120(a)(2)(C)(ii), (3), substituted “(i)(4), (l), or (m)” for “(i)(4) or (l)” and inserted at end “For purposes of determining any increase under this subsection for individuals whose enrollment occurs on or after January 1, 2023, the second sentence of this subsection shall be applied by substituting “close of the month” for “close of the enrollment period” each place it appears.”
+Pub. L. 116–260, § 120(a)(2)(C)(ii), (3), substituted “(i)(4), (l), or (m)” for “(i)(4) or (l)” and inserted at end “For purposes of determining any increase under this subsection for individuals whose enrollment occurs on or after January 1, 2023, the second sentence of this subsection shall be applied by substituting ‘close of the month’ for ‘close of the enrollment period’ each place it appears.”
 
 Subsec. (d). Pub. L. 116–260, § 402(a)(2)(B)(i), substituted “section 1395o(a) of this title” for “section 1395o of this title” in two places.
 
@@ -102871,7 +103571,7 @@ Pub. L. 111–3, § 1(c), Feb. 4, 2009, 123 Stat. 8, provided that: “In this A
   (F) at the option of a State, for making medical assistance available for COBRA premiums (as defined in subsection (u)(2)) for qualified COBRA continuation beneficiaries described in subsection (u)(1); and
 
   (G) that, in applying eligibility criteria of the supplemental security income program under subchapter XVI for purposes of determining eligibility for medical assistance under the State plan of an individual who is not receiving supplemental security income, the State will disregard the provisions of subsections (c) and (e) of [section 1382b of this title](./chapter-007-social-security.md#section-1382b);
-  except that (I) the making available of the services described in paragraph (4), (14), or (16) of [section 1396d(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a&num=0&edition=prelim) to individuals meeting the age requirements prescribed therein shall not, by reason of this paragraph (10), require the making available of any such services, or the making available of such services of the same amount, duration, and scope, to individuals of any other ages, (II) the making available of supplementary medical insurance benefits under part B of subchapter XVIII to individuals eligible therefor (either pursuant to an agreement entered into under [section 1395v of this title](./chapter-007-social-security.md#section-1395v) or by reason of the payment of premiums under such subchapter by the State agency on behalf of such individuals), or provision for meeting part or all of the cost of deductibles, cost sharing, or similar charges under part B of subchapter XVIII for individuals eligible for benefits under such part, shall not, by reason of this paragraph (10), require the making available of any such benefits, or the making available of services of the same amount, duration, and scope, to any other individuals, (III) the making available of medical assistance equal in amount, duration, and scope to the medical assistance made available to individuals described in clause (A) to any classification of individuals approved by the Secretary with respect to whom there is being paid, or who are eligible, or would be eligible if they were not in a medical institution, to have paid with respect to them, a State supplementary payment shall not, by reason of this paragraph (10), require the making available of any such assistance, or the making available of such assistance of the same amount, duration, and scope, to any other individuals not described in clause (A), (IV) the imposition of a deductible, cost sharing, or similar charge for any item or service furnished to an individual not eligible for the exemption under section 1396o(a)(2) or (b)(2) of this title shall not require the imposition of a deductible, cost sharing, or similar charge for the same item or service furnished to an individual who is eligible for such exemption, (V) the making available to pregnant women covered under the plan of services relating to pregnancy (including prenatal, delivery, and postpartum services) or to any other condition which may complicate pregnancy shall not, by reason of this paragraph (10), require the making available of such services, or the making available of such services of the same amount, duration, and scope, to any other individuals, provided such services are made available (in the same amount, duration, and scope) to all pregnant women covered under the State plan, (VI) with respect to the making available of medical assistance for hospice care to terminally ill individuals who have made a voluntary election described in section 1396d(o) of this title to receive hospice care instead of medical assistance for certain other services, such assistance may not be made available in an amount, duration, or scope less than that provided under subchapter XVIII, and the making available of such assistance shall not, by reason of this paragraph (10), require the making available of medical assistance for hospice care to other individuals or the making available of medical assistance for services waived by such terminally ill individuals, (VII) the medical assistance made available to an individual described in subsection (l)(1)(A) who is eligible for medical assistance only because of subparagraph (A)(i)(IV) or (A)(ii)(IX) shall be limited to medical assistance for services related to pregnancy (including prenatal, delivery, postpartum, and family planning services) and to other conditions which may complicate pregnancy, (VIII) the medical assistance made available to a qualified medicare beneficiary described in [section 1396d(p)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/p/1&num=0&edition=prelim) who is only entitled to medical assistance because the individual is such a beneficiary shall be limited to medical assistance for medicare cost-sharing (described in [section 1396d(p)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/p/3&num=0&edition=prelim)), subject to the provisions of subsection (n) and section 1396o(b) of this title, (IX) the making available of respiratory care services in accordance with subsection (e)(9) shall not, by reason of this paragraph (10), require the making available of such services, or the making available of such services of the same amount, duration, and scope, to any individuals not included under subsection (e)(9)(A), provided such services are made available (in the same amount, duration, and scope) to all individuals described in such subsection, (X) if the plan provides for any fixed durational limit on medical assistance for inpatient hospital services (whether or not such a limit varies by medical condition or diagnosis), the plan must establish exceptions to such a limit for medically necessary inpatient hospital services furnished with respect to individuals under one year of age in a hospital defined under the State plan, pursuant to [section 1396r–4(a)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396r–4/a/1/A&num=0&edition=prelim), as a disproportionate share hospital and subparagraph (B) (relating to comparability) shall not be construed as requiring such an exception for other individuals, services, or hospitals, (XI) the making available of medical assistance to cover the costs of premiums, deductibles, coinsurance, and other cost-sharing obligations for certain individuals for private health coverage as described in [section 1396e of this title](./chapter-007-social-security.md#section-1396e) shall not, by reason of paragraph (10), require the making available of any such benefits or the making available of services of the same amount, duration, and scope of such private coverage to any other individuals, (XII) the medical assistance made available to an individual described in subsection (u)(1) who is eligible for medical assistance only because of subparagraph (F) shall be limited to medical assistance for COBRA continuation premiums (as defined in subsection (u)(2)), (XIII) the medical assistance made available to an individual described in subsection (z)(1) who is eligible for medical assistance only because of subparagraph (A)(ii)(XII) shall be limited to medical assistance for TB-related services (described in subsection (z)(2)), (XIV) the medical assistance made available to an individual described in subsection (aa) who is eligible for medical assistance only because of subparagraph (A)(10)(ii)(XVIII) shall be limited to medical assistance provided during the period in which such an individual requires treatment for breast or cervical cancer 55 So in original. Probably should be followed by a comma. (XV) the medical assistance made available to an individual described in subparagraph (A)(i)(VIII) shall be limited to medical assistance described in subsection (k)(1), (XVI) the medical assistance made available to an individual described in subsection (ii) shall be limited to family planning services and supplies described in [section 1396d(a)(4)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/4/C&num=0&edition=prelim) including medical diagnosis and treatment services that are provided pursuant to a family planning service in a family planning setting, (XVII) if an individual is described in subclause (IX) of subparagraph (A)(i) and is also described in subclause (VIII) of that subparagraph, the medical assistance shall be made available to the individual through subclause (IX) instead of through subclause (VIII), and (XVIII) the medical assistance made available to an uninsured individual (as defined in subsection (ss)) who is eligible for medical assistance only because of subparagraph (A)(ii)(XXIII) shall be limited to medical assistance for any in vitro diagnostic product described in [section 1396d(a)(3)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/3/B&num=0&edition=prelim) that is administered during any portion of the emergency period described in such section beginning on or after March 18, 2020 (and the administration of such product) and any visit described in section 1396o(a)(2)(G) of this title that is furnished during any such portion;
+  except that (I) the making available of the services described in paragraph (4), (14), or (16) of [section 1396d(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a&num=0&edition=prelim) to individuals meeting the age requirements prescribed therein shall not, by reason of this paragraph (10), require the making available of any such services, or the making available of such services of the same amount, duration, and scope, to individuals of any other ages, (II) the making available of supplementary medical insurance benefits under part B of subchapter XVIII to individuals eligible therefor (either pursuant to an agreement entered into under [section 1395v of this title](./chapter-007-social-security.md#section-1395v) or by reason of the payment of premiums under such subchapter by the State agency on behalf of such individuals), or provision for meeting part or all of the cost of deductibles, cost sharing, or similar charges under part B of subchapter XVIII for individuals eligible for benefits under such part, shall not, by reason of this paragraph (10), require the making available of any such benefits, or the making available of services of the same amount, duration, and scope, to any other individuals, (III) the making available of medical assistance equal in amount, duration, and scope to the medical assistance made available to individuals described in clause (A) to any classification of individuals approved by the Secretary with respect to whom there is being paid, or who are eligible, or would be eligible if they were not in a medical institution, to have paid with respect to them, a State supplementary payment shall not, by reason of this paragraph (10), require the making available of any such assistance, or the making available of such assistance of the same amount, duration, and scope, to any other individuals not described in clause (A), (IV) the imposition of a deductible, cost sharing, or similar charge for any item or service furnished to an individual not eligible for the exemption under section 1396o(a)(2) or (b)(2) of this title shall not require the imposition of a deductible, cost sharing, or similar charge for the same item or service furnished to an individual who is eligible for such exemption, (V) the making available to pregnant women covered under the plan of services relating to pregnancy (including prenatal, delivery, and postpartum services) or to any other condition which may complicate pregnancy shall not, by reason of this paragraph (10), require the making available of such services, or the making available of such services of the same amount, duration, and scope, to any other individuals, provided such services are made available (in the same amount, duration, and scope) to all pregnant women covered under the State plan, (VI) with respect to the making available of medical assistance for hospice care to terminally ill individuals who have made a voluntary election described in section 1396d(o) of this title to receive hospice care instead of medical assistance for certain other services, such assistance may not be made available in an amount, duration, or scope less than that provided under subchapter XVIII, and the making available of such assistance shall not, by reason of this paragraph (10), require the making available of medical assistance for hospice care to other individuals or the making available of medical assistance for services waived by such terminally ill individuals, (VII) the medical assistance made available to an individual described in subsection (l)(1)(A) who is eligible for medical assistance only because of subparagraph (A)(i)(IV) or (A)(ii)(IX) shall be limited to medical assistance for services related to pregnancy (including prenatal, delivery, postpartum, and family planning services), medical assistance for services related to other conditions which may complicate pregnancy, and medical assistance for vaccines described in [section 1396d(a)(4)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/4/E&num=0&edition=prelim) and the administration of such vaccines during the period described in such section, (VIII), medical assistance for services related to other conditions which may complicate pregnancy, and medical assistance for vaccines described in [section 1396d(a)(4)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/4/E&num=0&edition=prelim) and the administration of such vaccines during the period described in such section, (VIII) the medical assistance made available to a qualified medicare beneficiary described in [section 1396d(p)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/p/1&num=0&edition=prelim) who is only entitled to medical assistance because the individual is such a beneficiary shall be limited to medical assistance for medicare cost-sharing (described in [section 1396d(p)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/p/3&num=0&edition=prelim)), subject to the provisions of subsection (n) and section 1396o(b) of this title, (IX) the making available of respiratory care services in accordance with subsection (e)(9) shall not, by reason of this paragraph (10), require the making available of such services, or the making available of such services of the same amount, duration, and scope, to any individuals not included under subsection (e)(9)(A), provided such services are made available (in the same amount, duration, and scope) to all individuals described in such subsection, (X) if the plan provides for any fixed durational limit on medical assistance for inpatient hospital services (whether or not such a limit varies by medical condition or diagnosis), the plan must establish exceptions to such a limit for medically necessary inpatient hospital services furnished with respect to individuals under one year of age in a hospital defined under the State plan, pursuant to [section 1396r–4(a)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396r–4/a/1/A&num=0&edition=prelim), as a disproportionate share hospital and subparagraph (B) (relating to comparability) shall not be construed as requiring such an exception for other individuals, services, or hospitals, (XI) the making available of medical assistance to cover the costs of premiums, deductibles, coinsurance, and other cost-sharing obligations for certain individuals for private health coverage as described in [section 1396e of this title](./chapter-007-social-security.md#section-1396e) shall not, by reason of paragraph (10), require the making available of any such benefits or the making available of services of the same amount, duration, and scope of such private coverage to any other individuals, (XII) the medical assistance made available to an individual described in subsection (u)(1) who is eligible for medical assistance only because of subparagraph (F) shall be limited to medical assistance for COBRA continuation premiums (as defined in subsection (u)(2)), (XIII) the medical assistance made available to an individual described in subsection (z)(1) who is eligible for medical assistance only because of subparagraph (A)(ii)(XII) shall be limited to medical assistance for TB-related services (described in subsection (z)(2)) and medical assistance for vaccines described in [section 1396d(a)(4)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/4/E&num=0&edition=prelim) and the administration of such vaccines during the period described in such section, (XIV) the medical assistance made available to an individual described in subsection (aa) who is eligible for medical assistance only because of subparagraph (A)(10)(ii)(XVIII) shall be limited to medical assistance provided during the period in which such an individual requires treatment for breast or cervical cancer 55 So in original. Probably should be followed by a comma. (XV) the medical assistance made available to an individual described in subparagraph (A)(i)(VIII) shall be limited to medical assistance described in subsection (k)(1) and medical assistance for vaccines described in [section 1396d(a)(4)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/4/E&num=0&edition=prelim) and the administration of such vaccines during the period described in such section, (XVI) the medical assistance made available to an individual described in subsection (ii) shall be limited to family planning services and supplies described in [section 1396d(a)(4)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/4/C&num=0&edition=prelim) including medical diagnosis and treatment services that are provided pursuant to a family planning service in a family planning setting and medical assistance for vaccines described in [section 1396d(a)(4)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/4/E&num=0&edition=prelim) and the administration of such vaccines during the period described in such section, (XVII) if an individual is described in subclause (IX) of subparagraph (A)(i) and is also described in subclause (VIII) of that subparagraph, the medical assistance shall be made available to the individual through subclause (IX) instead of through subclause (VIII), and (XVIII) the medical assistance made available to an uninsured individual (as defined in subsection (ss)) who is eligible for medical assistance only because of subparagraph (A)(ii)(XXIII) shall be limited to medical assistance for any in vitro diagnostic product described in [section 1396d(a)(3)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/3/B&num=0&edition=prelim) that is administered during any portion of the emergency period described in such section beginning on or after March 18, 2020 (and the administration of such product), any service described in section 1396o(a)(2)(G) of this title that is furnished during any such portion, any vaccine described in [section 1396d(a)(4)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/4/E&num=0&edition=prelim) (and the administration of such vaccine) that is furnished during any such portion, and testing and treatments for COVID–19, including specialized equipment and therapies (including preventive therapies), and, in the case of an individual who is diagnosed with or presumed to have COVID–19, during the period such individual has (or is presumed to have) COVID–19, the treatment of a condition that may seriously complicate the treatment of COVID–19, if otherwise covered under the State plan (or waiver of such plan), and (XIX) medical assistance shall be made available during the period described in [section 1396d(a)(4)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/4/E&num=0&edition=prelim) for vaccines described in such section and the administration of such vaccines, for any individual who is eligible for and receiving medical assistance under the State plan or under a waiver of such plan (other than an individual who is eligible for medical assistance consisting only of payment of premiums pursuant to subparagraph (E) or (F) or [section 1396u–3 of this title](./chapter-007-social-security.md#section-1396u-3)), notwithstanding any provision of this subchapter or waiver under [section 1315 of this title](./chapter-007-social-security.md#section-1315) impacting such individual’s eligibility for medical assistance under such plan or waiver to coverage for a limited type of benefits and services that would not otherwise include coverage of a COVID–19 vaccine and its administration;
 
 (11)
 
@@ -103594,6 +104294,18 @@ The requirement of clause (A) of paragraph (37) with respect to a State plan may
 
 (15) **Exclusion of compensation for participation in a clinical trial for testing of treatments for a rare disease or condition.—** — The first $2,000 received by an individual (who has attained 19 years of age) as compensation for participation in a clinical trial meeting the requirements of [section 1382a(b)(26) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1382a/b/26&num=0&edition=prelim) shall be disregarded for purposes of determining the income eligibility of such individual for medical assistance under the State plan or any waiver of such plan.
 
+(16) **Extending certain coverage for pregnant and postpartum women.—**
+
+  (A) *In general.—* — At the option of the State, the State plan (or waiver of such State plan) may provide, that an individual who, while pregnant, is eligible for and has received medical assistance under the State plan approved under this subchapter (or a waiver of such plan) (including during a period of retroactive eligibility under subsection (a)(34)) shall, in addition to remaining eligible under paragraph (5) for all pregnancy-related and postpartum medical assistance available under the State plan (or waiver) through the last day of the month in which the 60-day period (beginning on the last day of her pregnancy) ends, remain eligible under the State plan (or waiver) for medical assistance for the period beginning on the first day occurring after the end of such 60-day period and ending on the last day of the month in which the 12-month period (beginning on the last day of her pregnancy) ends.
+
+  (B) *Full benefits during pregnancy and throughout the 12-month postpartum period.—* — The medical assistance provided for a pregnant or postpartum individual by a State making an election under this paragraph, without regard to the basis on which the individual is eligible for medical assistance under the State plan (or waiver), shall—
+
+    (i) include all items and services covered under the State plan (or waiver) that are not less in amount, duration, or scope, or are determined by the Secretary to be substantially equivalent, to the medical assistance available for an individual described in subsection (a)(10)(A)(i); and
+
+    (ii) be provided for the individual while pregnant and during the 12-month period that begins on the last day of the individual’s pregnancy and ends on the last day of the month in which such 12-month period ends.
+
+  (C) *Coverage under chip.—* — A State making an election under this paragraph that covers under subchapter XXI child health assistance for targeted low-income children who are pregnant or targeted low-income pregnant women, as applicable, shall also make the election under [section 1397gg(e)(1)(J) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1397gg/e/1/J&num=0&edition=prelim).
+
 **(f) Effective date of State plan as determinative of duty of State to provide medical assistance to aged, blind, or disabled individuals** Notwithstanding any other provision of this subchapter, except as provided in subsection (e) and [section 1382h(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1382h/b/3&num=0&edition=prelim) and [section 1396r–5 of this title](./chapter-007-social-security.md#section-1396r-5), except with respect to qualified disabled and working individuals (described in [section 1396d(s) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/s&num=0&edition=prelim)), and except with respect to qualified medicare beneficiaries, qualified severely impaired individuals, and individuals described in subsection (m)(1), no State not eligible to participate in the State plan program established under subchapter XVI shall be required to provide medical assistance to any aged, blind, or disabled individual (within the meaning of subchapter XVI) for any month unless such State would be (or would have been) required to provide medical assistance to such individual for such month had its plan for medical assistance approved under this subchapter and in effect on January 1, 1972, been in effect in such month, except that for this purpose any such individual shall be deemed eligible for medical assistance under such State plan if (in addition to meeting such other requirements as are or may be imposed under the State plan) the income of any such individual as determined in accordance with [section 1396b(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396b/f&num=0&edition=prelim) (after deducting any supplemental security income payment and State supplementary payment made with respect to such individual, and incurred expenses for medical care as recognized under State law regardless of whether such expenses are reimbursed under another public program of the State or political subdivision thereof) is not in excess of the standard for medical assistance established under the State plan as in effect on January 1, 1972. In States which provide medical assistance to individuals pursuant to paragraph (10)(C) of subsection (a) of this section, an individual who is eligible for medical assistance by reason of the requirements of this section concerning the deduction of incurred medical expenses from income shall be considered an individual eligible for medical assistance under paragraph (10)(A) of that subsection if that individual is, or is eligible to be (1) an individual with respect to whom there is payable a State supplementary payment on the basis of which similarly situated individuals are eligible to receive medical assistance equal in amount, duration, and scope to that provided to individuals eligible under paragraph (10)(A), or (2) an eligible individual or eligible spouse, as defined in subchapter XVI, with respect to whom supplemental security income benefits are payable; otherwise that individual shall be considered to be an individual eligible for medical assistance under paragraph (10)(C) of that subsection. In States which do not provide medical assistance to individuals pursuant to paragraph (10)(C) of that subsection, an individual who is eligible for medical assistance by reason of the requirements of this section concerning the deduction of incurred medical expenses from income shall be considered an individual eligible for medical assistance under paragraph (10)(A) of that subsection.
 
 **(g) Reduction of aid or assistance to providers of services attempting to collect from beneficiary in violation of third-party provisions** In addition to any other sanction available to a State, a State may provide for a reduction of any payment amount otherwise due with respect to a person who furnishes services under the plan in an amount equal to up to three times the amount of any payment sought to be collected by that person in violation of subsection (a)(25)(C).
@@ -104304,6 +105016,8 @@ will be disregarded for purposes of determining the amount of any post-eligibili
 ### Statutory Notes
 
 #### Applicability of Amendment
+Amendment of section by section 9812(a) of Pub. L. 117–2 applicable with respect to State elections made under subsec. (e)(16) of this section during the 5-year period beginning on the 1st day of the 1st fiscal year quarter that begins one year after Mar. 11, 2021. See 2021 Amendment note below.
+
 Amendment of section by section 210(b) of Pub. L. 116–260 applicable with respect to items and services furnished on or after Jan. 1, 2022. See 2020 Amendment note below.
 
 #### Amendment of Subsection (a)
@@ -104372,9 +105086,23 @@ The Alaska Native Claims Settlement Act, referred to in subsec. (ff)(1), is Pub.
 In subsec. (a)(4)(D), “chapter 21 of title 41” substituted for “section 27 of the Office of Federal Procurement Policy Act ([41 U.S.C. 423](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section423&num=0&edition=prelim))” and “[section 2102(a)(3) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section2102/a/3&num=0&edition=prelim)” substituted for “subsection (a)(2) of such section of that Act” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
+2021—Subsec. (a)(10). Pub. L. 117–2, § 9811(a)(2)(F), inserted before semicolon at end of concluding provisions “, and (XIX) medical assistance shall be made available during the period described in [section 1396d(a)(4)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/4/E&num=0&edition=prelim) for vaccines described in such section and the administration of such vaccines, for any individual who is eligible for and receiving medical assistance under the State plan or under a waiver of such plan (other than an individual who is eligible for medical assistance consisting only of payment of premiums pursuant to subparagraph (E) or (F) or [section 1396u–3 of this title](./chapter-007-social-security.md#section-1396u-3)), notwithstanding any provision of this subchapter or waiver under [section 1315 of this title](./chapter-007-social-security.md#section-1315) impacting such individual’s eligibility for medical assistance under such plan or waiver to coverage for a limited type of benefits and services that would not otherwise include coverage of a COVID–19 vaccine and its administration”.
+
+Pub. L. 117–2, § 9811(a)(2)(E), in concluding provisions, substituted “, any service described in section 1396o(a)(2)(G) of this title that is furnished during any such portion, any vaccine described in [section 1396d(a)(4)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/4/E&num=0&edition=prelim) (and the administration of such vaccine) that is furnished during any such portion, and testing and treatments for COVID–19, including specialized equipment and therapies (including preventive therapies), and, in the case of an individual who is diagnosed with or presumed to have COVID–19, during the period such individual has (or is presumed to have) COVID–19, the treatment of a condition that may seriously complicate the treatment of COVID–19, if otherwise covered under the State plan (or waiver of such plan)” for “and any visit described in section 1396o(a)(2)(G) of this title that is furnished during any such portion”.
+
+Pub. L. 117–2, § 9811(a)(2)(D), in concluding provisions, inserted “and medical assistance for vaccines described in [section 1396d(a)(4)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/4/E&num=0&edition=prelim) and the administration of such vaccines during the period described in such section” after “family planning setting”.
+
+Pub. L. 117–2, § 9811(a)(2)(C), in concluding provisions, inserted “and medical assistance for vaccines described in [section 1396d(a)(4)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/4/E&num=0&edition=prelim) and the administration of such vaccines during the period described in such section” after “described in subsection (k)(1)”.
+
+Pub. L. 117–2, § 9811(a)(2)(B), in concluding provisions, inserted “and medical assistance for vaccines described in [section 1396d(a)(4)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/4/E&num=0&edition=prelim) and the administration of such vaccines during the period described in such section” after “(described in subsection (z)(2))”.
+
+Pub. L. 117–2, § 9811(a)(2)(A), in concluding provisions, substituted “, medical assistance for services related to other conditions which may complicate pregnancy, and medical assistance for vaccines described in [section 1396d(a)(4)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/4/E&num=0&edition=prelim) and the administration of such vaccines during the period described in such section, (VIII)” for “and to other conditions which may complicate pregnancy, (VIII)”.
+
+Subsec. (e)(16). Pub. L. 117–2, § 9812(a), added par. (16).
+
 2020—Subsec. (a)(4)(A). Pub. L. 116–260, § 209(a)(1), substituted “including provision for utilization” for “and including provision for utilization” and inserted “, and, subject to [section 1396b(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396b/i&num=0&edition=prelim), including a specification that the single State agency described in paragraph (5) will ensure necessary transportation for beneficiaries under the State plan to and from providers and a description of the methods that such agency will use to ensure such transportation” after “supervision of administration of the plan”.
 
-Subsec. (a)(10). Pub. L. 116–127, § 6004(a)(3)(A)(ii), substituted “, (XVII)” for “and (XVII)” and inserted before semicolon at end “, and (XVIII) the medical assistance made available to an uninsured individual (as defined in subsection (ss)) who is eligible for medical assistance only because of subparagraph (A)(ii)(XXIII) shall be limited to medical assistance for any in vitro diagnostic product described in [section 1396d(a)(3)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/3/B&num=0&edition=prelim) that is administered during any portion of the emergency period described in such section beginning on or after March 18, 2020 (and the administration of such product) and any visit described in section 1396o(a)(2)(G) of this title that is furnished during any such portion”.
+Subsec. (a)(10). Pub. L. 116–127, § 6004(a)(3)(A)(ii), in concluding provisions, substituted “, (XVII)” for “and (XVII)” and inserted before semicolon at end “, and (XVIII) the medical assistance made available to an uninsured individual (as defined in subsection (ss)) who is eligible for medical assistance only because of subparagraph (A)(ii)(XXIII) shall be limited to medical assistance for any in vitro diagnostic product described in [section 1396d(a)(3)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/3/B&num=0&edition=prelim) that is administered during any portion of the emergency period described in such section beginning on or after March 18, 2020 (and the administration of such product) and any visit described in section 1396o(a)(2)(G) of this title that is furnished during any such portion”.
 
 Subsec. (a)(10)(A). Pub. L. 116–260, § 210(b), substituted “(29), and (30)” for “and (29)” in introductory provisions.
 
@@ -105808,6 +106536,9 @@ Subsec. (b)(2). Pub. L. 90–248, § 241(f)(3), inserted “part A of” before 
 
 Subsec. (c). Pub. L. 90–248, § 241(f)(4), struck out “IV,” after “I,” and inserted “, or part A of subchapter IV of this chapter” after “XVI of this chapter”.
 
+#### Effective Date of 2021 Amendment
+Pub. L. 117–2, title IX, § 9812(b), Mar. 11, 2021, 135 Stat. 213, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to State elections made under paragraph (16) of section 1902(e) of the Social Security Act ([42 U.S.C. 1396a(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/e&num=0&edition=prelim)), as added by subsection (a), during the 5-year period beginning on the 1st day of the 1st fiscal year quarter that begins one year after the date of the enactment of this Act [Mar. 11, 2021].”
+
 #### Effective Date of 2020 Amendment
 Pub. L. 116–260, div. CC, title II, § 209(a)(4), Dec. 27, 2020, 134 Stat. 2986, provided that: “The amendments made by this subsection [amending this section and sections 1396b and 1396u–7 of this title] shall take effect on the date of the enactment of this Act [Dec. 27, 2020] and shall apply to transportation furnished on or after such date.”
 
@@ -106461,7 +107192,7 @@ Pub. L. 109–171, title VI, § 6063, Feb. 8, 2006, 120 Stat. 99, provided that:
 #### Money Follows the Person Rebalancing Demonstration
 Pub. L. 116–260, div. CC, title II, § 204(g), Dec. 27, 2020, 134 Stat. 2983, provided that: “Not later than 1 year after the date of the enactment of this Act [Dec. 27, 2020], the Secretary shall update the terms and conditions of any approved MFP demonstration project under section 6071 of the Deficit Reduction Act of 2005 [Pub. L. 109–171] ([42 U.S.C. 1396a](./chapter-007-social-security.md#section-1396a) note) in effect on the date of the enactment of this Act to ensure that such terms and conditions are the same as are required for any new State applicant for such project under the amendments made by this section.”
 
-Pub. L. 109–171, title VI, § 6071, Feb. 8, 2006, 120 Stat. 102, as amended by Pub. L. 111–148, title II, § 2403(a), (b)(1), Mar. 23, 2010, 124 Stat. 304, 305; Pub. L. 116–3, § 2, Jan. 24, 2019, 133 Stat. 6; Pub. L. 116–16, § 5, Apr. 18, 2019, 133 Stat. 859; Pub. L. 116–39, § 4, Aug. 6, 2019, 133 Stat. 1061; Pub. L. 116–94, div. N, title I, § 205, Dec. 20, 2019, 133 Stat. 3112; Pub. L. 116–136, div. A, title III, § 3811, Mar. 27, 2020, 134 Stat. 429; Pub. L. 116–159, div. C, title III, § 2301, Oct. 1, 2020, 134 Stat. 7; Pub. L. 116–215, div. B, title I, § 1107, Dec. 11, 2020, 134 Stat. 1043; Pub. L. 116–260, div. CC, title II, § 204(a), (b)(1), (c)–(f), Dec. 27, 2020, 134 Stat. 2980–2983, provided that: “(a) Program Purpose and Authority.—The Secretary is authorized to award, on a competitive basis, grants to States in accordance with this section for demonstration projects (each in this section referred to as an ‘MFP demonstration project’) designed to achieve the following objectives with respect to institutional and home and community-based long-term care services under State Medicaid programs:“(1) Rebalancing.—Increase the use of home and community-based, rather than institutional, long-term care services. “(2) Money follows the person.—Eliminate barriers or mechanisms, whether in the State law, the State Medicaid plan, the State budget, or otherwise, that prevent or restrict the flexible use of Medicaid funds to enable Medicaid-eligible individuals to receive support for appropriate and necessary long-term services in the settings of their choice. “(3) Continuity of service.—Increase the ability of the State Medicaid program to assure continued provision of home and community-based long-term care services to eligible individuals who choose to transition from an institutional to a community setting. “(4) Quality assurance and quality improvement.—Ensure that procedures are in place (at least comparable to those required under the qualified HCB program) to provide quality assurance for eligible individuals receiving Medicaid home and community-based long-term care services and to provide for continuous quality improvement in such services. “(b) Definitions.—For purposes of this section:“(1) Home and community-based long-term care services.—The term ‘home and community-based long-term care services’ means, with respect to a State Medicaid program, home and community-based services (including home health and personal care services) that are provided under the State’s qualified HCB program or that could be provided under such a program but are otherwise provided under the Medicaid program. “(2) Eligible individual.—The term ‘eligible individual’ means, with respect to an MFP demonstration project of a State, an individual in the State—“(A) who, immediately before beginning participation in the MFP demonstration project—“(i) resides (and has resided for a period of not less than 60 consecutive days) in an inpatient facility; “(ii) is receiving Medicaid benefits for inpatient services furnished by such inpatient facility; and “(iii) with respect to whom a determination has been made that, but for the provision of home and community-based long-term care services, the individual would continue to require the level of care provided in an inpatient facility and, in any case in which the State applies a more stringent level of care standard as a result of implementing the State plan option permitted under section 1915(i) of the Social Security Act [[42 U.S.C. 1396n(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396n/i&num=0&edition=prelim)], the individual must continue to require at least the level of care which had resulted in admission to the institution; and “(B) who resides in a qualified residence beginning on the initial date of participation in the demonstration project. “(3) Inpatient facility.—The term ‘inpatient facility’ means a hospital, nursing facility, or intermediate care facility for the mentally retarded. Such term includes an institution for mental diseases, but only, with respect to a State, to the extent medical assistance is available under the State Medicaid plan for services provided by such institution. “(4) Medicaid.—The term ‘Medicaid’ means, with respect to a State, the State program under title XIX of the Social Security Act [[42 U.S.C. 1396](./chapter-007-social-security.md#section-1396) et seq.] (including any waiver or demonstration under such title or under section 1115 of such Act [[42 U.S.C. 1315](./chapter-007-social-security.md#section-1315)] relating to such title). “(5) Qualified hcb program.—The term ‘qualified HCB program’ means a program providing home and community-based long-term care services operating under Medicaid, whether or not operating under waiver authority. “(6) Qualified residence.—The term ‘qualified residence’ means, with respect to an eligible individual—“(A) a home owned or leased by the individual or the individual’s family member; “(B) an apartment with an individual lease, with lockable access and egress, and which includes living, sleeping, bathing, and cooking areas over which the individual or the individual’s family has domain and control; and “(C) a residence, in a community-based residential setting, in which no more than 4 unrelated individuals reside. “(7) Qualified expenditures.—The term ‘qualified expenditures’ means expenditures by the State under its MFP demonstration project for home and community-based long-term care services for an eligible individual participating in the MFP demonstration project, but only with respect to services furnished during the 12-month period beginning on the date the individual is discharged from an inpatient facility referred to in paragraph (2)(A)(i). “(8) Self-directed services.—The term ‘self-directed’ means, with respect to home and community-based long-term care services for an eligible individual, such services for the individual which are planned and purchased under the direction and control of such individual or the individual’s authorized representative (as defined by the Secretary), including the amount, duration, scope, provider, and location of such services, under the State Medicaid program consistent with the following requirements:“(A) Assessment.—There is an assessment of the needs, capabilities, and preferences of the individual with respect to such services. “(B) Service plan.—Based on such assessment, there is developed jointly with such individual or the individual’s authorized representative a plan for such services for such individual that is approved by the State and that—“(i) specifies those services, if any, which the individual or the individual’s authorized representative would be responsible for directing; “(ii) identifies the methods by which the individual or the individual’s authorized representative or an agency designated by an individual or representative will select, manage, and dismiss providers of such services; “(iii) specifies the role of family members and others whose participation is sought by the individual or the individual’s authorized representative with respect to such services; “(iv) is developed through a person-centered process that— “(I) is directed by the individual or the individual’s authorized representative; “(II) builds upon the individual’s capacity to engage in activities that promote community life and that respects the individual’s preferences, choices, and abilities; and “(III) involves families, friends, and professionals as desired or required by the individual or the individual’s authorized representative; “(v) includes appropriate risk management techniques that recognize the roles and sharing of responsibilities in obtaining services in a self-directed manner and assure the appropriateness of such plan based upon the resources and capabilities of the individual or the individual’s authorized representative; and “(vi) may include an individualized budget which identifies the dollar value of the services and supports under the control and direction of the individual or the individual’s authorized representative. “(C) Budget process.—With respect to individualized budgets described in subparagraph (B)(vi), the State application under subsection (c)—“(i) describes the method for calculating the dollar values in such budgets based on reliable costs and service utilization; “(ii) defines a process for making adjustments in such dollar values to reflect changes in individual assessments and service plans; and “(iii) provides a procedure to evaluate expenditures under such budgets. “(9) State.—The term ‘State’ has the meaning given such term for purposes of title XIX of the Social Security Act [[42 U.S.C. 1396](./chapter-007-social-security.md#section-1396) et seq.]. “(10) Secretary.—The term ‘Secretary’ means the Secretary of Health and Human Services. “(c) State Application.—A State seeking approval of an MFP demonstration project shall submit to the Secretary, at such time and in such format as the Secretary requires, an application meeting the following requirements and containing such additional information, provisions, and assurances, as the Secretary may require:“(1) Assurance of a public development process.—The application contains an assurance that the State has engaged, and will continue to engage, in a public process for the design, development, and evaluation of the MFP demonstration project that allows for input from eligible individuals, the families of such individuals, authorized representatives of such individuals, providers, and other interested parties. “(2) Operation in connection with qualified hcb program to assure continuity of services.—The State will conduct the MFP demonstration project for eligible individuals in conjunction with the operation of a qualified HCB program that is in operation (or approved) in the State for such individuals in a manner that assures continuity of Medicaid coverage for such individuals so long as such individuals continue to be eligible for medical assistance. “(3) Demonstration project period.—The application shall specify the period of the MFP demonstration project. “(4) Service area.—The application shall specify the service area or areas of the MFP demonstration project, which may be a statewide area or 1 or more geographic areas of the State. “(5) Targeted groups and numbers of individuals served.—The application shall specify—“(A) the target groups of eligible individuals to be assisted to transition from an inpatient facility to a qualified residence during each fiscal year of the MFP demonstration project; “(B) the projected numbers of eligible individuals in each targeted group of eligible individuals to be so assisted during each such year; and “(C) the estimated total annual qualified expenditures for each fiscal year of the MFP demonstration project. “(6) Individual choice, continuity of care.—The application shall contain assurances that—“(A) each eligible individual or the individual’s authorized representative will be provided the opportunity to make an informed choice regarding whether to participate in the MFP demonstration project; “(B) each eligible individual or the individual’s authorized representative will choose the qualified residence in which the individual will reside and the setting in which the individual will receive home and community-based long-term care services; “(C) the State will continue to make available, so long as the State operates its qualified HCB program consistent with applicable requirements, home and community-based long-term care services to each individual who completes participation in the MFP demonstration project for as long as the individual remains eligible for medical assistance for such services under such qualified HCB program (including meeting a requirement relating to requiring a level of care provided in an inpatient facility and continuing to require such services, and, if the State applies a more stringent level of care standard as a result of implementing the State plan option permitted under section 1915(i) of the Social Security Act [[42 U.S.C. 1396n(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396n/i&num=0&edition=prelim)], meeting the requirement for at least the level of care which had resulted in the individual’s admission to the institution). “(7) Expenditures.—The application shall—“(A) provide such information as the Secretary may require concerning the dollar amounts of State Medicaid expenditures for the fiscal year, immediately preceding the first fiscal year of the State’s MFP demonstration project, for long-term care services and the percentage of such expenditures that were for institutional long-term care services or were for home and community-based long-term care services; and “(B)(i) specify the methods to be used by the State to increase, for each fiscal year during the MFP demonstration project, the dollar amount of such total expenditures for home and community-based long-term care services and the percentage of such total expenditures for long-term care services that are for home and community-based long-term care services; “(ii) describe the extent to which the MFP demonstration project will contribute to accomplishment of objectives described in subsection (a); and “(iii) include a work plan that describes for each Federal fiscal year that occurs during the proposed MFP demonstration project—“(I) the use of grant funds for each proposed initiative that is designed to accomplish the objective described in subsection (a)(1), including a funding source for each activity that is part of each such proposed initiative; “(II) an evaluation plan that identifies expected results for each such proposed initiative; and “(III) a sustainability plan for components of such proposed initiatives that are intended to improve transitions, which shall be updated with actual expenditure information for each Federal fiscal year that occurs during the MFP demonstration project; and “(iv) contain assurances that grant funds used to accomplish the objective described in subsection (a)(1) shall be obligated not later than 24 months after the date on which the funds are awarded and shall be expended not later than 60 months after the date on which the funds are awarded (unless the Secretary waives either such requirement). “(8) Money follows the person.—The application shall describe the methods to be used by the State to eliminate any legal, budgetary, or other barriers to flexibility in the availability of Medicaid funds to pay for long-term care services for eligible individuals participating in the project in the appropriate settings of their choice, including costs to transition from an institutional setting to a qualified residence. “(9) Maintenance of effort and cost-effectiveness.—The application shall contain or be accompanied by such information and assurances as may be required to satisfy the Secretary that—“(A) total expenditures under the State Medicaid program for home and community-based long-term care services will not be less for any fiscal year during the MFP demonstration project than for the greater of such expenditures for—“(i) fiscal year 2005; or “(ii) any succeeding fiscal year before the first year of the MFP demonstration project; and “(B) in the case of a qualified HCB program operating under a waiver under subsection (c) or (d) of section 1915 of the Social Security Act ([42 U.S.C. 1396n](./chapter-007-social-security.md#section-1396n)), but for the amount awarded under a grant under this section, the State program would continue to meet the cost-effectiveness requirements of subsection (c)(2)(D) of such section or comparable requirements under subsection (d)(5) of such section, respectively. “(10) Waiver requests.—The application shall contain or be accompanied by requests for any modification or adjustment of waivers of Medicaid requirements described in subsection (d)(3), including adjustments to the maximum numbers of individuals included and package of benefits, including one-time transitional services, provided. “(11) Quality assurance and quality improvement.—The application shall include—“(A) a plan satisfactory to the Secretary for quality assurance and quality improvement for home and community-based long-term care services under the State Medicaid program, including a plan to assure the health and welfare of individuals participating in the MFP demonstration project; and “(B) an assurance that the State will cooperate in carrying out activities under subsection (f) to develop and implement continuous quality assurance and quality improvement systems for home and community-based long-term care services. “(12) Optional program for self-directed services.—If the State elects to provide for any home and community-based long-term care services as self-directed services (as defined in subsection (b)(8)) under the MFP demonstration project, the application shall provide the following:“(A) Meeting requirements.—A description of how the project will meet the applicable requirements of such subsection for the provision of self-directed services. “(B) Voluntary election.—A description of how eligible individuals will be provided with the opportunity to make an informed election to receive self-directed services under the project and after the end of the project. “(C) State support in service plan development.—Satisfactory assurances that the State will provide support to eligible individuals who self-direct in developing and implementing their service plans. “(D) Oversight of receipt of services.—Satisfactory assurances that the State will provide oversight of eligible individual’s receipt of such self-directed services, including steps to assure the quality of services provided and that the provision of such services are consistent with the service plan under such subsection. Nothing in this section shall be construed as requiring a State to make an election under the project to provide for home and community-based long-term care services as self-directed services, or as requiring an individual to elect to receive self-directed services under the project. “(13) Reports and evaluation.—The application shall provide that—“(A) the State will furnish to the Secretary such reports concerning the MFP demonstration project, on such timetable, in such uniform format, and containing such information as the Secretary may require, as will allow for reliable comparisons of MFP demonstration projects across States, and in such manner as will meet the reporting requirements set forth for the Transformed Medicaid Statistical Information System (T–MSIS); “(B) the State shall report on a quarterly basis on the use of grant funds by distinct activity, as described in the approved work plan, and by specific population as targeted by the State; “(C) if the State fails to report the information required under subparagraph (B), fails to report such information on a quarterly basis, or fails to make progress under the approved work plan, the State shall implement a corrective action plan approved by the Secretary; and “(D) the State will participate in and cooperate with the evaluation of the MFP demonstration project. “(d) Secretary’s Award of Competitive Grants.—“(1) In general.—The Secretary shall award grants under this section on a competitive basis to States selected from among those with applications meeting the requirements of subsection (c), in accordance with the provisions of this subsection. “(2) Selection and modification of state applications.—In selecting State applications for the awarding of such a grant, the Secretary—“(A) shall take into consideration the manner in which, and extent to which, the State proposes to achieve the objectives specified in subsection (a); “(B) shall seek to achieve an appropriate national balance in the numbers of eligible individuals, within different target groups of eligible individuals, who are assisted to transition to qualified residences under MFP demonstration projects, and in the geographic distribution of States operating MFP demonstration projects; “(C) shall give preference to State applications proposing—“(i) to provide transition assistance to eligible individuals within multiple target groups; and “(ii) to provide eligible individuals with the opportunity to receive home and community-based long-term care services as self-directed services, as defined in subsection (b)(8); and “(D) shall take such objectives into consideration in setting the annual amounts of State grant awards under this section. “(3) Waiver authority.—The Secretary is authorized to waive the following provisions of title XIX of the Social Security Act [[42 U.S.C. 1396](./chapter-007-social-security.md#section-1396) et seq.], to the extent necessary to enable a State initiative to meet the requirements and accomplish the purposes of this section:“(A) Statewideness.—Section 1902(a)(1) [[42 U.S.C. 1396a(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/a/1&num=0&edition=prelim)], in order to permit implementation of a State initiative in a selected area or areas of the State. “(B) Comparability.—Section 1902(a)(10)(B), in order to permit a State initiative to assist a selected category or categories of individuals described in subsection (b)(2)(A). “(C) Income and resources eligibility.—Section 1902(a)(10)(C)(i)(III), in order to permit a State to apply institutional eligibility rules to individuals transitioning to community-based care. “(D) Provider agreements.—Section 1902(a)(27), in order to permit a State to implement self-directed services in a cost-effective manner. “(4) Conditional approval of outyear grant.—In awarding grants under this section, the Secretary shall condition the grant for the second and any subsequent fiscal years of the grant period on the following:“(A) Numerical benchmarks.—The State must demonstrate to the satisfaction of the Secretary that it is meeting numerical benchmarks specified in the grant agreement for—“(i) increasing State Medicaid support for home and community-based long-term care services under subsection (c)(5); and “(ii) numbers of eligible individuals assisted to transition to qualified residences. “(B) Quality of care.—The State must demonstrate to the satisfaction of the Secretary that it is meeting the requirements under subsection (c)(11) to assure the health and welfare of MFP demonstration project participants. “(C) Corrective action plan progress.—In the case of a State required to implement a corrective action plan under subparagraph (C) of subsection (c)(13), the State must implement such plan and demonstrate progress in reporting information under subparagraph (B) of such subsection or progress under the approved work plan (as applicable). “(e) Payments to States; Carryover of Unused Grant Amounts.—“(1) Payments.—For each calendar quarter in a fiscal year during the period a State is awarded a grant under subsection (d), the Secretary shall pay to the State from its grant award for such fiscal year an amount equal to the lesser of—“(A) the MFP-enhanced FMAP (as defined in paragraph (5)) of the amount of qualified expenditures made during such quarter; or “(B) the total amount remaining in such grant award for such fiscal year (taking into account the application of paragraph (2)). “(2) Carryover of unused amounts.—Any portion of a State grant award for a fiscal year under this section remaining at the end of such fiscal year shall remain available to the State for the next 4 fiscal years, subject to paragraph (3). “(3) Reawarding of certain unused amounts.—In the case of a State that the Secretary determines pursuant to subsection (d)(4) has failed to meet the conditions for continuation of a MFP demonstration project under this section in a succeeding year or years, the Secretary shall rescind the grant awards for such succeeding year or years, together with any unspent portion of an award for prior years, and shall add such amounts to the appropriation for the immediately succeeding fiscal year for grants under this section. “(4) Preventing duplication of payment.—The payment under a MFP demonstration project with respect to qualified expenditures shall be in lieu of any payment with respect to such expenditures that could otherwise be paid under Medicaid, including under section 1903(a) of the Social Security Act [[42 U.S.C. 1396b(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396b/a&num=0&edition=prelim)]. Nothing in the previous sentence shall be construed as preventing the payment under Medicaid for such expenditures in a grant year after amounts available to pay for such expenditures under the MFP demonstration project have been exhausted. “(5) MFP-enhanced fmap.—For purposes of paragraph (1)(A), the ‘MFP-enhanced FMAP’, for a State for a fiscal year, is equal to the Federal medical assistance percentage (as defined in the first sentence of section 1905(b) [[42 U.S.C. 1396d(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/b&num=0&edition=prelim)]) for the State increased by a number of percentage points equal to 50 percent of the number of percentage points by which (A) such Federal medical assistance percentage for the State, is less than (B) 100 percent; but in no case shall the MFP-enhanced FMAP for a State exceed 90 percent. “(f) Quality Assurance and Improvement; Technical Assistance; Oversight.—“(1) In general.—The Secretary, either directly or by grant or contract, shall provide for technical assistance to, and oversight of, States for purposes of upgrading quality assurance and quality improvement systems under Medicaid home and community-based waivers, including—“(A) dissemination of information on promising practices; “(B) guidance on system design elements addressing the unique needs of participating beneficiaries; “(C) ongoing consultation on quality, including assistance in developing necessary tools, resources, and monitoring systems; and “(D) guidance on remedying programmatic and systemic problems. “(2) Funding.—From the amounts appropriated under subsection (h)(1), $3,000,000 shall be available to the Secretary to carry out this subsection. Such amount shall remain available until expended. “(g) Research and Evaluation.—“(1) In general.—The Secretary, directly or through grant or contract, shall provide for research on, and a national evaluation of, the program under this section, including assistance to the Secretary in preparing the final report required under paragraph (2). The evaluation shall include an analysis of projected and actual savings related to the transition of individuals to qualified residences in each State conducting an MFP demonstration project. “(2) Final report.—The Secretary shall make a final report to the President and Congress, not later than September 30, 2026, reflecting the evaluation described in paragraph (1) and providing findings and conclusions on the conduct and effectiveness of MFP demonstration projects. “(3) Funding.—From the amounts appropriated under subsection (h)(1) for each of fiscal years 2008 through 2016, and for each of fiscal years 2021 through 2023[,] not more than $1,100,000 per year shall be available to the Secretary to carry out this subsection. “(h) Appropriations.—“(1) In general.—There are appropriated, from any funds in the Treasury not otherwise appropriated, for grants to carry out this section—“(A) $250,000,000 for the portion of fiscal year 2007 beginning on January 1, 2007, and ending on September 30, 2007; “(B) $300,000,000 for fiscal year 2008; “(C) $350,000,000 for fiscal year 2009; “(D) $400,000,000 for fiscal year 2010; “(E) $450,000,000 for each of fiscal years 2011 through 2016; “(F) $254,500,000 for fiscal year 2019; and [sic] “(G) $337,500,000 for the period beginning on January 1, 2020, and ending on September 30, 2020; “(H) for the period beginning on October 1, 2020, and ending on December 18, 2020, the amount equal to the pro rata portion of the amount appropriated for such period for fiscal year 2020; and “(I) for the period beginning on December 19, 2020, and ending on September 30, 2021, the amount equal to the pro rata portion of an annual appropriation of $450,000,000; “(J) $450,000,000 for fiscal year 2022; and “(K) $450,000,000 for fiscal year 2023. “(2) Availability.—Amounts made available under paragraph (1) for a fiscal year shall remain available for the awarding of grants to States by not later than September 30, 2023. “(i) Best Practices.—“(1) Report.—The Secretary, directly or through grant or contract, shall submit a report to the President and Congress not later than September 30, 2022, that contains findings and conclusions on best practices from MFP demonstration projects carried out with grants made under this section. The report shall include information and analyses with respect to the following:“(A) The most effective State strategies for transitioning beneficiaries from institutional to qualified community settings carried out under MFP demonstration projects and how such strategies may vary for different types of beneficiaries, such as beneficiaries who are aged, physically disabled, intellectually or developmentally disabled, or individuals with serious mental illnesses, and other targeted waiver beneficiary populations under section 1915(c) of the Social Security Act [[42 U.S.C. 1396n(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396n/c&num=0&edition=prelim)]. “(B) The most common and the most effective State uses of grant funds carried out under demonstration projects for transitioning beneficiaries from institutional to qualified community settings and improving health outcomes, including differentiating funding for current initiatives that are designed for such purpose and funding for proposed initiatives that are designed for such purpose. “(C) The most effective State approaches carried out under MFP demonstration projects for improving person-centered care and planning. “(D) Identification of program, financing, and other flexibilities available under MFP demonstration projects, that are not available under the traditional Medicaid program, and which directly contributed to successful transitions and improved health outcomes under MFP demonstration projects. “(E) State strategies and financing mechanisms for effective coordination of housing financed or supported under MFP demonstration projects with local housing authorities and other resources. “(F) Effective State approaches for delivering Money Follows the Person transition services through managed care entities. “(G) Other best practices and effective transition strategies demonstrated by States with approved MFP demonstration projects, as determined by the Secretary. “(H) Identification and analyses of opportunities and challenges to integrating effective Money Follows the Person practices and State strategies into the traditional Medicaid program. “(2) Collaboration.—In preparing the report required under this subsection, the Secretary shall collect and incorporate information from States with approved MFP demonstration projects and beneficiaries participating in such projects, and providers participating in such projects. “(3) Waiver of paperwork reduction act.—Chapter 35 of title 44, United States Code, shall not apply to preparation of the report described in paragraph (1) or collection of information described in paragraph (2). “(4) Funding.—From the amounts appropriated under subsection (h)(1) for each of fiscal years 2021 and 2022, not more than $300,000 shall be available to the Secretary for each such fiscal year to carry out this subsection. “(j) MACPAC Report.—Prior to the final implementation date established by the Secretary for the criteria established for home and community-based settings in section 441.301(c)(4) of title 42, Code of Federal Regulations, as part of final implementation of the Home and Community Based Services (HCBS) Final Rule published on January 16, 2014 (79 Fed. Reg. 2947) (referred to in this subsection as the ‘HCBS final rule’), the Medicaid and CHIP Payment and Access Commission (MACPAC) shall submit to Congress a report that—“(1) identifies the types of home and community-based settings and associated services that are available to eligible individuals in both the MFP demonstration program and sites in compliance with the HCBS final rule; and “(2) if determined appropriate by the Commission, recommends policies to align the criteria for a qualified residence under subsection (b)(6) (as in effect on October 1, 2017) with the criteria in the HCBS final rule.”
+Pub. L. 109–171, title VI, § 6071, Feb. 8, 2006, 120 Stat. 102, as amended by Pub. L. 111–148, title II, § 2403(a), (b)(1), Mar. 23, 2010, 124 Stat. 304, 305; Pub. L. 116–3, § 2, Jan. 24, 2019, 133 Stat. 6; Pub. L. 116–16, § 5, Apr. 18, 2019, 133 Stat. 859; Pub. L. 116–39, § 4, Aug. 6, 2019, 133 Stat. 1061; Pub. L. 116–94, div. N, title I, § 205, Dec. 20, 2019, 133 Stat. 3112; Pub. L. 116–136, div. A, title III, § 3811, Mar. 27, 2020, 134 Stat. 429; Pub. L. 116–159, div. C, title III, § 2301, Oct. 1, 2020, 134 Stat. 731; Pub. L. 116–215, div. B, title I, § 1107, Dec. 11, 2020, 134 Stat. 1043; Pub. L. 116–260, div. CC, title II, § 204(a), (b)(1), (c)–(f), Dec. 27, 2020, 134 Stat. 2980–2983, provided that: “(a) Program Purpose and Authority.—The Secretary is authorized to award, on a competitive basis, grants to States in accordance with this section for demonstration projects (each in this section referred to as an ‘MFP demonstration project’) designed to achieve the following objectives with respect to institutional and home and community-based long-term care services under State Medicaid programs:“(1) Rebalancing.—Increase the use of home and community-based, rather than institutional, long-term care services. “(2) Money follows the person.—Eliminate barriers or mechanisms, whether in the State law, the State Medicaid plan, the State budget, or otherwise, that prevent or restrict the flexible use of Medicaid funds to enable Medicaid-eligible individuals to receive support for appropriate and necessary long-term services in the settings of their choice. “(3) Continuity of service.—Increase the ability of the State Medicaid program to assure continued provision of home and community-based long-term care services to eligible individuals who choose to transition from an institutional to a community setting. “(4) Quality assurance and quality improvement.—Ensure that procedures are in place (at least comparable to those required under the qualified HCB program) to provide quality assurance for eligible individuals receiving Medicaid home and community-based long-term care services and to provide for continuous quality improvement in such services. “(b) Definitions.—For purposes of this section:“(1) Home and community-based long-term care services.—The term ‘home and community-based long-term care services’ means, with respect to a State Medicaid program, home and community-based services (including home health and personal care services) that are provided under the State’s qualified HCB program or that could be provided under such a program but are otherwise provided under the Medicaid program. “(2) Eligible individual.—The term ‘eligible individual’ means, with respect to an MFP demonstration project of a State, an individual in the State—“(A) who, immediately before beginning participation in the MFP demonstration project—“(i) resides (and has resided for a period of not less than 60 consecutive days) in an inpatient facility; “(ii) is receiving Medicaid benefits for inpatient services furnished by such inpatient facility; and “(iii) with respect to whom a determination has been made that, but for the provision of home and community-based long-term care services, the individual would continue to require the level of care provided in an inpatient facility and, in any case in which the State applies a more stringent level of care standard as a result of implementing the State plan option permitted under section 1915(i) of the Social Security Act [[42 U.S.C. 1396n(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396n/i&num=0&edition=prelim)], the individual must continue to require at least the level of care which had resulted in admission to the institution; and “(B) who resides in a qualified residence beginning on the initial date of participation in the demonstration project. “(3) Inpatient facility.—The term ‘inpatient facility’ means a hospital, nursing facility, or intermediate care facility for the mentally retarded. Such term includes an institution for mental diseases, but only, with respect to a State, to the extent medical assistance is available under the State Medicaid plan for services provided by such institution. “(4) Medicaid.—The term ‘Medicaid’ means, with respect to a State, the State program under title XIX of the Social Security Act [[42 U.S.C. 1396](./chapter-007-social-security.md#section-1396) et seq.] (including any waiver or demonstration under such title or under section 1115 of such Act [[42 U.S.C. 1315](./chapter-007-social-security.md#section-1315)] relating to such title). “(5) Qualified hcb program.—The term ‘qualified HCB program’ means a program providing home and community-based long-term care services operating under Medicaid, whether or not operating under waiver authority. “(6) Qualified residence.—The term ‘qualified residence’ means, with respect to an eligible individual—“(A) a home owned or leased by the individual or the individual’s family member; “(B) an apartment with an individual lease, with lockable access and egress, and which includes living, sleeping, bathing, and cooking areas over which the individual or the individual’s family has domain and control; and “(C) a residence, in a community-based residential setting, in which no more than 4 unrelated individuals reside. “(7) Qualified expenditures.—The term ‘qualified expenditures’ means expenditures by the State under its MFP demonstration project for home and community-based long-term care services for an eligible individual participating in the MFP demonstration project, but only with respect to services furnished during the 12-month period beginning on the date the individual is discharged from an inpatient facility referred to in paragraph (2)(A)(i). “(8) Self-directed services.—The term ‘self-directed’ means, with respect to home and community-based long-term care services for an eligible individual, such services for the individual which are planned and purchased under the direction and control of such individual or the individual’s authorized representative (as defined by the Secretary), including the amount, duration, scope, provider, and location of such services, under the State Medicaid program consistent with the following requirements:“(A) Assessment.—There is an assessment of the needs, capabilities, and preferences of the individual with respect to such services. “(B) Service plan.—Based on such assessment, there is developed jointly with such individual or the individual’s authorized representative a plan for such services for such individual that is approved by the State and that—“(i) specifies those services, if any, which the individual or the individual’s authorized representative would be responsible for directing; “(ii) identifies the methods by which the individual or the individual’s authorized representative or an agency designated by an individual or representative will select, manage, and dismiss providers of such services; “(iii) specifies the role of family members and others whose participation is sought by the individual or the individual’s authorized representative with respect to such services; “(iv) is developed through a person-centered process that— “(I) is directed by the individual or the individual’s authorized representative; “(II) builds upon the individual’s capacity to engage in activities that promote community life and that respects the individual’s preferences, choices, and abilities; and “(III) involves families, friends, and professionals as desired or required by the individual or the individual’s authorized representative; “(v) includes appropriate risk management techniques that recognize the roles and sharing of responsibilities in obtaining services in a self-directed manner and assure the appropriateness of such plan based upon the resources and capabilities of the individual or the individual’s authorized representative; and “(vi) may include an individualized budget which identifies the dollar value of the services and supports under the control and direction of the individual or the individual’s authorized representative. “(C) Budget process.—With respect to individualized budgets described in subparagraph (B)(vi), the State application under subsection (c)—“(i) describes the method for calculating the dollar values in such budgets based on reliable costs and service utilization; “(ii) defines a process for making adjustments in such dollar values to reflect changes in individual assessments and service plans; and “(iii) provides a procedure to evaluate expenditures under such budgets. “(9) State.—The term ‘State’ has the meaning given such term for purposes of title XIX of the Social Security Act [[42 U.S.C. 1396](./chapter-007-social-security.md#section-1396) et seq.]. “(10) Secretary.—The term ‘Secretary’ means the Secretary of Health and Human Services. “(c) State Application.—A State seeking approval of an MFP demonstration project shall submit to the Secretary, at such time and in such format as the Secretary requires, an application meeting the following requirements and containing such additional information, provisions, and assurances, as the Secretary may require:“(1) Assurance of a public development process.—The application contains an assurance that the State has engaged, and will continue to engage, in a public process for the design, development, and evaluation of the MFP demonstration project that allows for input from eligible individuals, the families of such individuals, authorized representatives of such individuals, providers, and other interested parties. “(2) Operation in connection with qualified hcb program to assure continuity of services.—The State will conduct the MFP demonstration project for eligible individuals in conjunction with the operation of a qualified HCB program that is in operation (or approved) in the State for such individuals in a manner that assures continuity of Medicaid coverage for such individuals so long as such individuals continue to be eligible for medical assistance. “(3) Demonstration project period.—The application shall specify the period of the MFP demonstration project. “(4) Service area.—The application shall specify the service area or areas of the MFP demonstration project, which may be a statewide area or 1 or more geographic areas of the State. “(5) Targeted groups and numbers of individuals served.—The application shall specify—“(A) the target groups of eligible individuals to be assisted to transition from an inpatient facility to a qualified residence during each fiscal year of the MFP demonstration project; “(B) the projected numbers of eligible individuals in each targeted group of eligible individuals to be so assisted during each such year; and “(C) the estimated total annual qualified expenditures for each fiscal year of the MFP demonstration project. “(6) Individual choice, continuity of care.—The application shall contain assurances that—“(A) each eligible individual or the individual’s authorized representative will be provided the opportunity to make an informed choice regarding whether to participate in the MFP demonstration project; “(B) each eligible individual or the individual’s authorized representative will choose the qualified residence in which the individual will reside and the setting in which the individual will receive home and community-based long-term care services; “(C) the State will continue to make available, so long as the State operates its qualified HCB program consistent with applicable requirements, home and community-based long-term care services to each individual who completes participation in the MFP demonstration project for as long as the individual remains eligible for medical assistance for such services under such qualified HCB program (including meeting a requirement relating to requiring a level of care provided in an inpatient facility and continuing to require such services, and, if the State applies a more stringent level of care standard as a result of implementing the State plan option permitted under section 1915(i) of the Social Security Act [[42 U.S.C. 1396n(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396n/i&num=0&edition=prelim)], meeting the requirement for at least the level of care which had resulted in the individual’s admission to the institution). “(7) Expenditures.—The application shall—“(A) provide such information as the Secretary may require concerning the dollar amounts of State Medicaid expenditures for the fiscal year, immediately preceding the first fiscal year of the State’s MFP demonstration project, for long-term care services and the percentage of such expenditures that were for institutional long-term care services or were for home and community-based long-term care services; and “(B)(i) specify the methods to be used by the State to increase, for each fiscal year during the MFP demonstration project, the dollar amount of such total expenditures for home and community-based long-term care services and the percentage of such total expenditures for long-term care services that are for home and community-based long-term care services; “(ii) describe the extent to which the MFP demonstration project will contribute to accomplishment of objectives described in subsection (a); and “(iii) include a work plan that describes for each Federal fiscal year that occurs during the proposed MFP demonstration project—“(I) the use of grant funds for each proposed initiative that is designed to accomplish the objective described in subsection (a)(1), including a funding source for each activity that is part of each such proposed initiative; “(II) an evaluation plan that identifies expected results for each such proposed initiative; and “(III) a sustainability plan for components of such proposed initiatives that are intended to improve transitions, which shall be updated with actual expenditure information for each Federal fiscal year that occurs during the MFP demonstration project; and “(iv) contain assurances that grant funds used to accomplish the objective described in subsection (a)(1) shall be obligated not later than 24 months after the date on which the funds are awarded and shall be expended not later than 60 months after the date on which the funds are awarded (unless the Secretary waives either such requirement). “(8) Money follows the person.—The application shall describe the methods to be used by the State to eliminate any legal, budgetary, or other barriers to flexibility in the availability of Medicaid funds to pay for long-term care services for eligible individuals participating in the project in the appropriate settings of their choice, including costs to transition from an institutional setting to a qualified residence. “(9) Maintenance of effort and cost-effectiveness.—The application shall contain or be accompanied by such information and assurances as may be required to satisfy the Secretary that—“(A) total expenditures under the State Medicaid program for home and community-based long-term care services will not be less for any fiscal year during the MFP demonstration project than for the greater of such expenditures for—“(i) fiscal year 2005; or “(ii) any succeeding fiscal year before the first year of the MFP demonstration project; and “(B) in the case of a qualified HCB program operating under a waiver under subsection (c) or (d) of section 1915 of the Social Security Act ([42 U.S.C. 1396n](./chapter-007-social-security.md#section-1396n)), but for the amount awarded under a grant under this section, the State program would continue to meet the cost-effectiveness requirements of subsection (c)(2)(D) of such section or comparable requirements under subsection (d)(5) of such section, respectively. “(10) Waiver requests.—The application shall contain or be accompanied by requests for any modification or adjustment of waivers of Medicaid requirements described in subsection (d)(3), including adjustments to the maximum numbers of individuals included and package of benefits, including one-time transitional services, provided. “(11) Quality assurance and quality improvement.—The application shall include—“(A) a plan satisfactory to the Secretary for quality assurance and quality improvement for home and community-based long-term care services under the State Medicaid program, including a plan to assure the health and welfare of individuals participating in the MFP demonstration project; and “(B) an assurance that the State will cooperate in carrying out activities under subsection (f) to develop and implement continuous quality assurance and quality improvement systems for home and community-based long-term care services. “(12) Optional program for self-directed services.—If the State elects to provide for any home and community-based long-term care services as self-directed services (as defined in subsection (b)(8)) under the MFP demonstration project, the application shall provide the following:“(A) Meeting requirements.—A description of how the project will meet the applicable requirements of such subsection for the provision of self-directed services. “(B) Voluntary election.—A description of how eligible individuals will be provided with the opportunity to make an informed election to receive self-directed services under the project and after the end of the project. “(C) State support in service plan development.—Satisfactory assurances that the State will provide support to eligible individuals who self-direct in developing and implementing their service plans. “(D) Oversight of receipt of services.—Satisfactory assurances that the State will provide oversight of eligible individual’s receipt of such self-directed services, including steps to assure the quality of services provided and that the provision of such services are consistent with the service plan under such subsection. Nothing in this section shall be construed as requiring a State to make an election under the project to provide for home and community-based long-term care services as self-directed services, or as requiring an individual to elect to receive self-directed services under the project. “(13) Reports and evaluation.—The application shall provide that—“(A) the State will furnish to the Secretary such reports concerning the MFP demonstration project, on such timetable, in such uniform format, and containing such information as the Secretary may require, as will allow for reliable comparisons of MFP demonstration projects across States, and in such manner as will meet the reporting requirements set forth for the Transformed Medicaid Statistical Information System (T–MSIS); “(B) the State shall report on a quarterly basis on the use of grant funds by distinct activity, as described in the approved work plan, and by specific population as targeted by the State; “(C) if the State fails to report the information required under subparagraph (B), fails to report such information on a quarterly basis, or fails to make progress under the approved work plan, the State shall implement a corrective action plan approved by the Secretary; and “(D) the State will participate in and cooperate with the evaluation of the MFP demonstration project. “(d) Secretary’s Award of Competitive Grants.—“(1) In general.—The Secretary shall award grants under this section on a competitive basis to States selected from among those with applications meeting the requirements of subsection (c), in accordance with the provisions of this subsection. “(2) Selection and modification of state applications.—In selecting State applications for the awarding of such a grant, the Secretary—“(A) shall take into consideration the manner in which, and extent to which, the State proposes to achieve the objectives specified in subsection (a); “(B) shall seek to achieve an appropriate national balance in the numbers of eligible individuals, within different target groups of eligible individuals, who are assisted to transition to qualified residences under MFP demonstration projects, and in the geographic distribution of States operating MFP demonstration projects; “(C) shall give preference to State applications proposing—“(i) to provide transition assistance to eligible individuals within multiple target groups; and “(ii) to provide eligible individuals with the opportunity to receive home and community-based long-term care services as self-directed services, as defined in subsection (b)(8); and “(D) shall take such objectives into consideration in setting the annual amounts of State grant awards under this section. “(3) Waiver authority.—The Secretary is authorized to waive the following provisions of title XIX of the Social Security Act [[42 U.S.C. 1396](./chapter-007-social-security.md#section-1396) et seq.], to the extent necessary to enable a State initiative to meet the requirements and accomplish the purposes of this section:“(A) Statewideness.—Section 1902(a)(1) [[42 U.S.C. 1396a(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/a/1&num=0&edition=prelim)], in order to permit implementation of a State initiative in a selected area or areas of the State. “(B) Comparability.—Section 1902(a)(10)(B), in order to permit a State initiative to assist a selected category or categories of individuals described in subsection (b)(2)(A). “(C) Income and resources eligibility.—Section 1902(a)(10)(C)(i)(III), in order to permit a State to apply institutional eligibility rules to individuals transitioning to community-based care. “(D) Provider agreements.—Section 1902(a)(27), in order to permit a State to implement self-directed services in a cost-effective manner. “(4) Conditional approval of outyear grant.—In awarding grants under this section, the Secretary shall condition the grant for the second and any subsequent fiscal years of the grant period on the following:“(A) Numerical benchmarks.—The State must demonstrate to the satisfaction of the Secretary that it is meeting numerical benchmarks specified in the grant agreement for—“(i) increasing State Medicaid support for home and community-based long-term care services under subsection (c)(5); and “(ii) numbers of eligible individuals assisted to transition to qualified residences. “(B) Quality of care.—The State must demonstrate to the satisfaction of the Secretary that it is meeting the requirements under subsection (c)(11) to assure the health and welfare of MFP demonstration project participants. “(C) Corrective action plan progress.—In the case of a State required to implement a corrective action plan under subparagraph (C) of subsection (c)(13), the State must implement such plan and demonstrate progress in reporting information under subparagraph (B) of such subsection or progress under the approved work plan (as applicable). “(e) Payments to States; Carryover of Unused Grant Amounts.—“(1) Payments.—For each calendar quarter in a fiscal year during the period a State is awarded a grant under subsection (d), the Secretary shall pay to the State from its grant award for such fiscal year an amount equal to the lesser of—“(A) the MFP-enhanced FMAP (as defined in paragraph (5)) of the amount of qualified expenditures made during such quarter; or “(B) the total amount remaining in such grant award for such fiscal year (taking into account the application of paragraph (2)). “(2) Carryover of unused amounts.—Any portion of a State grant award for a fiscal year under this section remaining at the end of such fiscal year shall remain available to the State for the next 4 fiscal years, subject to paragraph (3). “(3) Reawarding of certain unused amounts.—In the case of a State that the Secretary determines pursuant to subsection (d)(4) has failed to meet the conditions for continuation of a MFP demonstration project under this section in a succeeding year or years, the Secretary shall rescind the grant awards for such succeeding year or years, together with any unspent portion of an award for prior years, and shall add such amounts to the appropriation for the immediately succeeding fiscal year for grants under this section. “(4) Preventing duplication of payment.—The payment under a MFP demonstration project with respect to qualified expenditures shall be in lieu of any payment with respect to such expenditures that could otherwise be paid under Medicaid, including under section 1903(a) of the Social Security Act [[42 U.S.C. 1396b(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396b/a&num=0&edition=prelim)]. Nothing in the previous sentence shall be construed as preventing the payment under Medicaid for such expenditures in a grant year after amounts available to pay for such expenditures under the MFP demonstration project have been exhausted. “(5) MFP-enhanced fmap.—For purposes of paragraph (1)(A), the ‘MFP-enhanced FMAP’, for a State for a fiscal year, is equal to the Federal medical assistance percentage (as defined in the first sentence of section 1905(b) [[42 U.S.C. 1396d(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/b&num=0&edition=prelim)]) for the State increased by a number of percentage points equal to 50 percent of the number of percentage points by which (A) such Federal medical assistance percentage for the State, is less than (B) 100 percent; but in no case shall the MFP-enhanced FMAP for a State exceed 90 percent. “(f) Quality Assurance and Improvement; Technical Assistance; Oversight.—“(1) In general.—The Secretary, either directly or by grant or contract, shall provide for technical assistance to, and oversight of, States for purposes of upgrading quality assurance and quality improvement systems under Medicaid home and community-based waivers, including—“(A) dissemination of information on promising practices; “(B) guidance on system design elements addressing the unique needs of participating beneficiaries; “(C) ongoing consultation on quality, including assistance in developing necessary tools, resources, and monitoring systems; and “(D) guidance on remedying programmatic and systemic problems. “(2) Funding.—From the amounts appropriated under subsection (h)(1), $3,000,000 shall be available to the Secretary to carry out this subsection. Such amount shall remain available until expended. “(g) Research and Evaluation.—“(1) In general.—The Secretary, directly or through grant or contract, shall provide for research on, and a national evaluation of, the program under this section, including assistance to the Secretary in preparing the final report required under paragraph (2). The evaluation shall include an analysis of projected and actual savings related to the transition of individuals to qualified residences in each State conducting an MFP demonstration project. “(2) Final report.—The Secretary shall make a final report to the President and Congress, not later than September 30, 2026, reflecting the evaluation described in paragraph (1) and providing findings and conclusions on the conduct and effectiveness of MFP demonstration projects. “(3) Funding.—From the amounts appropriated under subsection (h)(1) for each of fiscal years 2008 through 2016, and for each of fiscal years 2021 through 2023[,] not more than $1,100,000 per year shall be available to the Secretary to carry out this subsection. “(h) Appropriations.—“(1) In general.—There are appropriated, from any funds in the Treasury not otherwise appropriated, for grants to carry out this section—“(A) $250,000,000 for the portion of fiscal year 2007 beginning on January 1, 2007, and ending on September 30, 2007; “(B) $300,000,000 for fiscal year 2008; “(C) $350,000,000 for fiscal year 2009; “(D) $400,000,000 for fiscal year 2010; “(E) $450,000,000 for each of fiscal years 2011 through 2016; “(F) $254,500,000 for fiscal year 2019; and [sic] “(G) $337,500,000 for the period beginning on January 1, 2020, and ending on September 30, 2020; “(H) for the period beginning on October 1, 2020, and ending on December 18, 2020, the amount equal to the pro rata portion of the amount appropriated for such period for fiscal year 2020; and “(I) for the period beginning on December 19, 2020, and ending on September 30, 2021, the amount equal to the pro rata portion of an annual appropriation of $450,000,000; “(J) $450,000,000 for fiscal year 2022; and “(K) $450,000,000 for fiscal year 2023. “(2) Availability.—Amounts made available under paragraph (1) for a fiscal year shall remain available for the awarding of grants to States by not later than September 30, 2023. “(i) Best Practices.—“(1) Report.—The Secretary, directly or through grant or contract, shall submit a report to the President and Congress not later than September 30, 2022, that contains findings and conclusions on best practices from MFP demonstration projects carried out with grants made under this section. The report shall include information and analyses with respect to the following:“(A) The most effective State strategies for transitioning beneficiaries from institutional to qualified community settings carried out under MFP demonstration projects and how such strategies may vary for different types of beneficiaries, such as beneficiaries who are aged, physically disabled, intellectually or developmentally disabled, or individuals with serious mental illnesses, and other targeted waiver beneficiary populations under section 1915(c) of the Social Security Act [[42 U.S.C. 1396n(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396n/c&num=0&edition=prelim)]. “(B) The most common and the most effective State uses of grant funds carried out under demonstration projects for transitioning beneficiaries from institutional to qualified community settings and improving health outcomes, including differentiating funding for current initiatives that are designed for such purpose and funding for proposed initiatives that are designed for such purpose. “(C) The most effective State approaches carried out under MFP demonstration projects for improving person-centered care and planning. “(D) Identification of program, financing, and other flexibilities available under MFP demonstration projects, that are not available under the traditional Medicaid program, and which directly contributed to successful transitions and improved health outcomes under MFP demonstration projects. “(E) State strategies and financing mechanisms for effective coordination of housing financed or supported under MFP demonstration projects with local housing authorities and other resources. “(F) Effective State approaches for delivering Money Follows the Person transition services through managed care entities. “(G) Other best practices and effective transition strategies demonstrated by States with approved MFP demonstration projects, as determined by the Secretary. “(H) Identification and analyses of opportunities and challenges to integrating effective Money Follows the Person practices and State strategies into the traditional Medicaid program. “(2) Collaboration.—In preparing the report required under this subsection, the Secretary shall collect and incorporate information from States with approved MFP demonstration projects and beneficiaries participating in such projects, and providers participating in such projects. “(3) Waiver of paperwork reduction act.—Chapter 35 of title 44, United States Code, shall not apply to preparation of the report described in paragraph (1) or collection of information described in paragraph (2). “(4) Funding.—From the amounts appropriated under subsection (h)(1) for each of fiscal years 2021 and 2022, not more than $300,000 shall be available to the Secretary for each such fiscal year to carry out this subsection. “(j) MACPAC Report.—Prior to the final implementation date established by the Secretary for the criteria established for home and community-based settings in section 441.301(c)(4) of title 42, Code of Federal Regulations, as part of final implementation of the Home and Community Based Services (HCBS) Final Rule published on January 16, 2014 (79 Fed. Reg. 2947) (referred to in this subsection as the ‘HCBS final rule’), the Medicaid and CHIP Payment and Access Commission (MACPAC) shall submit to Congress a report that—“(1) identifies the types of home and community-based settings and associated services that are available to eligible individuals in both the MFP demonstration program and sites in compliance with the HCBS final rule; and “(2) if determined appropriate by the Commission, recommends policies to align the criteria for a qualified residence under subsection (b)(6) (as in effect on October 1, 2017) with the criteria in the HCBS final rule.”
 
 [Pub. L. 116–260, div. CC, title II, § 204(b)(2), Dec. 27, 2020, 134 Stat. 2980, provided that: “The amendments made by paragraph (1) [amending section 6071 of Pub. L. 109–171, set out above] shall take effect on the date that is 30 days after the date of the enactment of this Act [Dec. 27, 2020].” ]
 
@@ -108845,7 +109576,7 @@ Subsec. (f). Pub. L. 90–248, § 220(a), added subsec. (f).
 References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under [section 1395w–21 of this title](./chapter-007-social-security.md#section-1395w-21).
 
 #### Effective Date of 2020 Amendment
-Amendment by section 209(a)(3) of Pub. L. 116–260 effective Dec. 27, 2020 and applicable to transportation furnished on or after such date, see section 209(a)(4) of Pub. L. 116–260, set out as a note under [section 1396a of this title](./chapter-007-social-security.md#section-1396a).
+Amendment by section 209(a)(3) of Pub. L. 116–260 effective Dec. 27, 2020, and applicable to transportation furnished on or after such date, see section 209(a)(4) of Pub. L. 116–260, set out as a note under [section 1396a of this title](./chapter-007-social-security.md#section-1396a).
 
 #### Effective Date of 2019 Amendment
 Amendment by section 6(a)(2)(A) of Pub. L. 116–16 effective on Apr. 18, 2019, and applicable to covered outpatient drugs supplied by manufacturers under agreements under [section 1396r–8 of this title](./chapter-007-social-security.md#section-1396r-8) on or after that date, see section 6(e) of Pub. L. 116–16, set out as a note under [section 1320a–7 of this title](./chapter-007-social-security.md#section-1320a-7).
@@ -109288,7 +110019,7 @@ the Secretary shall notify such State agency that further payments will not be m
 ### Statutory Notes
 
 #### Constitutionality
-For constitutionality of section 121(a) of Pub. L. 89–97, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For constitutionality of section 121(a) of Pub. L. 89–97, amending this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
 
 
 <a id="section-1396d"></a>
@@ -109347,7 +110078,7 @@ but whose income and resources are insufficient to meet all of such cost—
 
 (4)
 
-  (A) nursing facility services (other than services in an institution for mental diseases) for individuals 21 years of age or older; (B) early and periodic screening, diagnostic, and treatment services (as defined in subsection (r)) for individuals who are eligible under the plan and are under the age of 21; (C) family planning services and supplies furnished (directly or under arrangements with others) to individuals of child-bearing age (including minors who can be considered to be sexually active) who are eligible under the State plan and who desire such services and supplies; and (D) counseling and pharmacotherapy for cessation of tobacco use by pregnant women (as defined in subsection (bb));
+  (A) nursing facility services (other than services in an institution for mental diseases) for individuals 21 years of age or older; (B) early and periodic screening, diagnostic, and treatment services (as defined in subsection (r)) for individuals who are eligible under the plan and are under the age of 21; (C) family planning services and supplies furnished (directly or under arrangements with others) to individuals of child-bearing age (including minors who can be considered to be sexually active) who are eligible under the State plan and who desire such services and supplies; and (D) counseling and pharmacotherapy for cessation of tobacco use by pregnant women (as defined in subsection (bb)); and (E) during the period beginning on March 11, 2021, and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim), a COVID–19 vaccine and administration of the vaccine; and (F) during the period beginning on March 11, 2021, and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim), testing and treatments for COVID–19, including specialized equipment and therapies (including preventive therapies), and, without regard to the requirements of [section 1396a(a)(10)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/a/10/B&num=0&edition=prelim) (relating to comparability), in the case of an individual who is diagnosed with or presumed to have COVID–19, during the period such individual has (or is presumed to have) COVID–19, the treatment of a condition that may seriously complicate the treatment of COVID–19, if otherwise covered under the State plan (or waiver of such plan);
 
 (5)
 
@@ -109419,7 +110150,7 @@ except as otherwise provided in paragraph (16), such term does not include—
 (B) any such payments with respect to care or services for any individual who has not attained 65 years of age and who is a patient in an institution for mental diseases (except in the case of services provided under a State plan amendment described in section 1396n(l) of this title).
 For purposes of clause (vi) of the preceding sentence, a person shall be considered essential to another individual if such person is the spouse of and is living with such individual, the needs of such person are taken into account in determining the amount of aid or assistance furnished to such individual (under a State plan approved under subchapter I, X, XIV, or XVI), and such person is determined, under such a State plan, to be essential to the well-being of such individual. The payment described in the first sentence may include expenditures for medicare cost-sharing and for premiums under part B of subchapter XVIII for individuals who are eligible for medical assistance under the plan and (A) are receiving aid or assistance under any plan of the State approved under subchapter I, X, XIV, or XVI, or part A of subchapter IV, or with respect to whom supplemental security income benefits are being paid under subchapter XVI, or (B) with respect to whom there is being paid a State supplementary payment and are eligible for medical assistance equal in amount, duration, and scope to the medical assistance made available to individuals described in [section 1396a(a)(10)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/a/10/A&num=0&edition=prelim), and, except in the case of individuals 65 years of age or older and disabled individuals entitled to health insurance benefits under subchapter XVIII who are not enrolled under part B of subchapter XVIII, other insurance premiums for medical or any other type of remedial care or the cost thereof. No service (including counseling) shall be excluded from the definition of “medical assistance” solely because it is provided as a treatment service for alcoholism or drug dependency. In the case of a woman who is eligible for medical assistance on the basis of being pregnant (including through the end of the month in which the 60-day period beginning on the last day of her pregnancy ends), who is a patient in an institution for mental diseases for purposes of receiving treatment for a substance use disorder, and who was enrolled for medical assistance under the State plan immediately before becoming a patient in an institution for mental diseases or who becomes eligible to enroll for such medical assistance while such a patient, the exclusion from the definition of “medical assistance” set forth in the subdivision (B) following paragraph (30) of the first sentence of this subsection shall not be construed as prohibiting Federal financial participation for medical assistance for items or services that are provided to the woman outside of the institution.
 
-**(b) Federal medical assistance percentage; State percentage; Indian health care percentage** Subject to subsections (y), (z), (aa), and (ff) and [section 1396u–3(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396u–3/d&num=0&edition=prelim), the term “Federal medical assistance percentage” for any State shall be 100 per centum less the State percentage; and the State percentage shall be that percentage which bears the same ratio to 45 per centum as the square of the per capita income of such State bears to the square of the per capita income of the continental United States (including Alaska) and Hawaii; except that (1) the Federal medical assistance percentage shall in no case be less than 50 per centum or more than 83 per centum, (2) the Federal medical assistance percentage for Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa shall be 55 percent, (3) for purposes of this subchapter and subchapter XXI, the Federal medical assistance percentage for the District of Columbia shall be 70 percent, (4) the Federal medical assistance percentage shall be equal to the enhanced FMAP described in [section 1397ee(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1397ee/b&num=0&edition=prelim) with respect to medical assistance provided to individuals who are eligible for such assistance only on the basis of [section 1396a(a)(10)(A)(ii)(XVIII) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/a/10/A/ii/XVIII&num=0&edition=prelim), and (5) in the case of a State that provides medical assistance for services and vaccines described in subparagraphs (A) and (B) of subsection (a)(13), and prohibits cost-sharing for such services and vaccines, the Federal medical assistance percentage, as determined under this subsection and subsection (y) (without regard to paragraph (1)(C) of such subsection), shall be increased by 1 percentage point with respect to medical assistance for such services and vaccines and for items and services described in subsection (a)(4)(D). The Federal medical assistance percentage for any State shall be determined and promulgated in accordance with the provisions of [section 1301(a)(8)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1301/a/8/B&num=0&edition=prelim). Notwithstanding the first sentence of this section, the Federal medical assistance percentage shall be 100 per centum with respect to amounts expended as medical assistance for services which are received through an Indian Health Service facility whether operated by the Indian Health Service or by an Indian tribe or tribal organization (as defined in [section 1603 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1603&num=0&edition=prelim)). Notwithstanding the first sentence of this subsection, in the case of a State plan that meets the condition described in subsection (u)(1), with respect to expenditures (other than expenditures under [section 1396r–4 of this title](./chapter-007-social-security.md#section-1396r-4)) described in subsection (u)(2)(A) or subsection (u)(3) for the State for a fiscal year, and that do not exceed the amount of the State’s available allotment under [section 1397dd of this title](./chapter-007-social-security.md#section-1397dd), the Federal medical assistance percentage is equal to the enhanced FMAP described in [section 1397ee(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1397ee/b&num=0&edition=prelim). Notwithstanding the first sentence of this subsection, the Federal medical assistance percentage shall be 100 per centum with respect to (and, notwithstanding any other provision of this subchapter, available for) medical assistance provided to uninsured individuals (as defined in [section 1396a(ss) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/ss&num=0&edition=prelim)) who are eligible for such assistance only on the basis of [section 1396a(a)(10)(A)(ii)(XXIII) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/a/10/A/ii/XXIII&num=0&edition=prelim) and with respect to expenditures described in [section 1396b(a)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396b/a/7&num=0&edition=prelim) that a State demonstrates to the satisfaction of the Secretary are attributable to administrative costs related to providing for such medical assistance to such individuals under the State plan.
+**(b) Federal medical assistance percentage; State percentage; Indian health care percentage** Subject to subsections (y), (z), (aa), (ff), (hh), and (ii) and [section 1396u–3(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396u–3/d&num=0&edition=prelim), the term “Federal medical assistance percentage” for any State shall be 100 per centum less the State percentage; and the State percentage shall be that percentage which bears the same ratio to 45 per centum as the square of the per capita income of such State bears to the square of the per capita income of the continental United States (including Alaska) and Hawaii; except that (1) the Federal medical assistance percentage shall in no case be less than 50 per centum or more than 83 per centum, (2) the Federal medical assistance percentage for Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa shall be 55 percent, (3) for purposes of this subchapter and subchapter XXI, the Federal medical assistance percentage for the District of Columbia shall be 70 percent, (4) the Federal medical assistance percentage shall be equal to the enhanced FMAP described in [section 1397ee(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1397ee/b&num=0&edition=prelim) with respect to medical assistance provided to individuals who are eligible for such assistance only on the basis of [section 1396a(a)(10)(A)(ii)(XVIII) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/a/10/A/ii/XVIII&num=0&edition=prelim), and (5) in the case of a State that provides medical assistance for services and vaccines described in subparagraphs (A) and (B) of subsection (a)(13), and prohibits cost-sharing for such services and vaccines, the Federal medical assistance percentage, as determined under this subsection and subsection (y) (without regard to paragraph (1)(C) of such subsection), shall be increased by 1 percentage point with respect to medical assistance for such services and vaccines and for items and services described in subsection (a)(4)(D). The Federal medical assistance percentage for any State shall be determined and promulgated in accordance with the provisions of [section 1301(a)(8)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1301/a/8/B&num=0&edition=prelim). Notwithstanding the first sentence of this section, the Federal medical assistance percentage shall be 100 per centum with respect to amounts expended as medical assistance for services which are received through an Indian Health Service facility whether operated by the Indian Health Service or by an Indian tribe or tribal organization (as defined in section 4 of the Indian Health Care Improvement Act [[25 U.S.C. 1603](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1603&num=0&edition=prelim)]); for the 8 fiscal year quarters beginning with the first fiscal year quarter beginning after March 11, 2021, the Federal medical assistance percentage shall also be 100 per centum with respect to amounts expended as medical assistance for services which are received through an Urban Indian organization (as defined in paragraph (29) of section 4 of the Indian Health Care Improvement Act [[25 U.S.C. 1603(29)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1603/29&num=0&edition=prelim)]) that has a grant or contract with the Indian Health Service under title V of such Act [[25 U.S.C. 1651](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1651&num=0&edition=prelim) et seq.]; and, for such 8 fiscal year quarters, the Federal medical assistance percentage shall also be 100 per centum with respect to amounts expended as medical assistance for services which are received through a Native Hawaiian Health Center (as defined in [section 11711(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11711/4&num=0&edition=prelim)) or a qualified entity (as defined in [section 11705(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11705/b&num=0&edition=prelim)) that has a grant or contract with the Papa Ola Lokahi under [section 11707 of this title](./chapter-122-native-hawaiian-health-care.md#section-11707). Notwithstanding the first sentence of this subsection, in the case of a State plan that meets the condition described in subsection (u)(1), with respect to expenditures (other than expenditures under [section 1396r–4 of this title](./chapter-007-social-security.md#section-1396r-4)) described in subsection (u)(2)(A) or subsection (u)(3) for the State for a fiscal year, and that do not exceed the amount of the State’s available allotment under [section 1397dd of this title](./chapter-007-social-security.md#section-1397dd), the Federal medical assistance percentage is equal to the enhanced FMAP described in [section 1397ee(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1397ee/b&num=0&edition=prelim). Notwithstanding the first sentence of this subsection, the Federal medical assistance percentage shall be 100 per centum with respect to (and, notwithstanding any other provision of this subchapter, available for) medical assistance provided to uninsured individuals (as defined in [section 1396a(ss) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/ss&num=0&edition=prelim)) who are eligible for such assistance only on the basis of [section 1396a(a)(10)(A)(ii)(XXIII) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/a/10/A/ii/XXIII&num=0&edition=prelim) and with respect to expenditures described in [section 1396b(a)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396b/a/7&num=0&edition=prelim) that a State demonstrates to the satisfaction of the Secretary are attributable to administrative costs related to providing for such medical assistance to such individuals under the State plan.
 
 **(c) Nursing facility** For definition of the term “nursing facility”, see [section 1396r(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396r/a&num=0&edition=prelim).
 
@@ -109910,13 +110641,13 @@ Nothing in this subchapter shall be construed as limiting providers of early and
 
   (B) a covered outpatient drug (as defined in [section 1396r–8(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396r–8/k&num=0&edition=prelim), except that, in applying paragraph (2)(A) of such section to a drug described in paragraph (1)(A), such drug shall be deemed a prescribed drug for purposes of subsection (a)(12)).
 
-**(ff) Temporary increase in FMAP for territories for certain fiscal years** Notwithstanding subsection (b) or (z)(2)—
+**(ff) Temporary increase in FMAP for territories for certain fiscal years** Notwithstanding subsection (b) or (z)(2), subject to subsections (hh) and (ii)—
 
 (1) for the period beginning October 1, 2019, and ending December 20, 2019, the Federal medical assistance percentage for Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa shall be equal to 100 percent;
 
-(2) subject to [section 1308(g)(7)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1308/g/7/C&num=0&edition=prelim), for the period beginning December 21, 2019, and ending September 30, 2021, the Federal medical assistance percentage for Puerto Rico shall be equal to 76 percent; and
+(2) subject to [section 1308(g)(7)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1308/g/7/C&num=0&edition=prelim), for the period beginning December 21, 2019, and ending December 3, 2021, the Federal medical assistance percentage for Puerto Rico shall be equal to 76 percent; and
 
-(3) subject to [section 1308(g)(8)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1308/g/8/B&num=0&edition=prelim), for the period beginning December 21, 2019, and ending September 30, 2021, the Federal medical assistance percentage for the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa shall be equal to 83 percent.
+(3) subject to [section 1308(g)(8)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1308/g/8/B&num=0&edition=prelim), for the period beginning December 21, 2019, and ending February 18, 2022, the Federal medical assistance percentage for the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa shall be equal to 83 percent.
 
 **(gg)**
 
@@ -109988,6 +110719,34 @@ Nothing in this subchapter shall be construed as limiting providers of early and
 
   (D) shall not require submission of the protocols of the qualifying clinical trial, or any other documentation that may be proprietary or determined by the Secretary to be burdensome to provide.
 
+**(hh) Temporary increased FMAP for medical assistance for coverage and administration of COVID–19 vaccines**
+
+(1) **In general** — Notwithstanding any other provision of this subchapter, during the period described in paragraph (2), the Federal medical assistance percentage for a State, with respect to amounts expended by the State for medical assistance for a vaccine described in subsection (a)(4)(E) (and the administration of such a vaccine), shall be equal to 100 percent.
+
+(2) **Period described** — The period described in this paragraph is the period that—
+
+  (A) begins on the first day of the first quarter beginning after March 11, 2021; and
+
+  (B) ends on the last day of the first quarter that begins one year after the last day of the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim).
+
+(3) **Exclusion of expenditures from territorial caps** — Any payment made to a territory for expenditures for medical assistance under subsection (a)(4)(E) that are subject to the Federal medical assistance percentage specified under paragraph (1) shall not be taken into account for purposes of applying payment limits under subsections (f) and (g) of [section 1308 of this title](./chapter-007-social-security.md#section-1308).
+
+**(ii) Temporary increase in FMAP for medical assistance under state medicaid plans which begin to expend amounts for certain mandatory individuals**
+
+(1) **In general** — For each quarter occurring during the 8-quarter period beginning with the first calendar quarter during which a qualifying State (as defined in paragraph (3)) expends amounts for all individuals described in [section 1396a(a)(10)(A)(i)(VIII) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/a/10/A/i/VIII&num=0&edition=prelim) under the State plan (or waiver of such plan), the Federal medical assistance percentage determined under subsection (b) for such State shall, after application of any increase, if applicable, under section 6008 of the Families First Coronavirus Response Act, be increased by 5 percentage points, except for any quarter (and each subsequent quarter) during such period during which the State ceases to provide medical assistance to any such individual under the State plan (or waiver of such plan).
+
+(2) **Special application rules** — Any increase described in paragraph (1) (or payment made for expenditures on medical assistance that are subject to such increase)—
+
+  (A) shall not apply with respect to disproportionate share hospital payments described in [section 1396r–4 of this title](./chapter-007-social-security.md#section-1396r-4);
+
+  (B) shall not be taken into account in calculating the enhanced FMAP of a State under section 2105;
+
+  (C) shall not be taken into account for purposes of part A, D, or E of subchapter IV; and
+
+  (D) shall not be taken into account for purposes of applying payment limits under subsections (f) and (g) of [section 1308 of this title](./chapter-007-social-security.md#section-1308).
+
+(3) **Definition** — For purposes of this subsection, the term “qualifying State” means a State which has not expended amounts for all individuals described in [section 1396a(a)(10)(A)(i)(VIII) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/a/10/A/i/VIII&num=0&edition=prelim) before March 11, 2021.
+
 ### Statutory Notes
 
 #### Applicability of Amendment
@@ -109998,7 +110757,7 @@ Amendment of section by section 210(a) of Pub. L. 116–260 applicable with resp
 
 Section 211 of Pub. L. 93–66, referred to in subsec. (k), is section 211 of Pub. L. 93–66, July 9, 1973, 87 Stat. 152, which is set out as a note under [section 1382 of this title](./chapter-007-social-security.md#section-1382).
 
-The Indian Self-Determination Act, referred to in subsec. (l)(2)(B), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which was classified principally to part A (§ 450f et seq.) of subchapter II of chapter 14 of Title 25, Indians, prior to editorial reclassification as subchapter I (§ 5321 et seq.) of chapter 46 of Title 25. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) and Tables.
+The Indian Self-Determination Act, referred to in subsecs. (b) and (l)(2)(B), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which was classified principally to part A (§ 450f et seq.) of subchapter II of chapter 14 of Title 25, Indians, prior to editorial reclassification as subchapter I (§ 5321 et seq.) of chapter 46 of Title 25. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) and Tables.
 
 The Indian Health Care Improvement Act, referred to in subsec. (l)(2)(B), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400. Title V of the Act is classified generally to subchapter IV (§ 1651 et seq.) of chapter 18 of Title 25. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1601&num=0&edition=prelim) and Tables.
 
@@ -110014,9 +110773,29 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 Section 10202 of the Patient Protection and Affordable Care Act, referred to in subsec. (aa)(3), is section 10202 of Pub. L. 111–148, which is set out as a note under this section.
 
-Section 6008 of the Families First Coronavirus Response Act, referred to in subsec. (cc), is section 6008 of Pub. L. 116–127, which amended this section and enacted provisions set out as a note under this section.
+Section 6008 of the Families First Coronavirus Response Act, referred to in subsecs. (cc) and (ii)(1), is section 6008 of Pub. L. 116–127, which amended this section and enacted provisions set out as a note under this section.
 
 #### Amendments
+2021—Subsec. (a)(4). Pub. L. 117–2, § 9811(a)(1), inserted at end “and (E) during the period beginning on March 11, 2021 and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim), a COVID–19 vaccine and administration of the vaccine; and (F) during the period beginning on March 11, 2021 and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim), testing and treatments for COVID–19, including specialized equipment and therapies (including preventive therapies), and, without regard to the requirements of [section 1396a(a)(10)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/a/10/B&num=0&edition=prelim) (relating to comparability), in the case of an individual who is diagnosed with or presumed to have COVID–19, during the period such individual has (or is presumed to have) COVID–19, the treatment of a condition that may seriously complicate the treatment of COVID–19, if otherwise covered under the State plan (or waiver of such plan);”.
+
+Subsec. (b). Pub. L. 117–2, § 9815, inserted “; for the 8 fiscal year quarters beginning with the first fiscal year quarter beginning after March 11, 2021, the Federal medical assistance percentage shall also be 100 per centum with respect to amounts expended as medical assistance for services which are received through an Urban Indian organization (as defined in paragraph (29) of section 4 of the Indian Health Care Improvement Act [[25 U.S.C. 1603(29)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1603/29&num=0&edition=prelim)]) that has a grant or contract with the Indian Health Service under title V of such Act [[25 U.S.C. 1651](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1651&num=0&edition=prelim) et seq.]; and, for such 8 fiscal year quarters, the Federal medical assistance percentage shall also be 100 per centum with respect to amounts expended as medical assistance for services which are received through a Native Hawaiian Health Center (as defined in [section 11711(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11711/4&num=0&edition=prelim)) or a qualified entity (as defined in [section 11705(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11705/b&num=0&edition=prelim)) that has a grant or contract with the Papa Ola Lokahi under [section 11707 of this title](./chapter-122-native-hawaiian-health-care.md#section-11707)” after “after (as defined in section 4 of the Indian Health Care Improvement Act).
+
+Pub. L. 117–2, § 9814(1), substituted “(hh), and (ii)” for “and (hh)”.
+
+Pub. L. 117–2, § 9811(b)(1), substituted “(ff), and (hh)” for “and (ff)”.
+
+Subsec. (ff). Pub. L. 117–43 substituted “December 3, 2021” for “September 30, 2021” in two places.
+
+Pub. L. 117–2, § 9814(2), substituted “subject to subsections (hh) and (ii)” for “subject to subsection (hh)” in introductory provisions.
+
+Pub. L. 117–2, § 9811(b)(2), inserted “, subject to subsection (hh)” after “or (z)(2)” in introductory provisions.
+
+Subsec. (ff)(3). Pub. L. 117–70 substituted “February 18, 2022” for “December 3, 2021”.
+
+Subsec. (hh). Pub. L. 117–2, § 9811(b)(3), added subsec. (hh).
+
+Subsec. (ii). Pub. L. 117–2, § 9814(3), added subsec. (ii).
+
 2020—Subsec. (a)(3)(A). Pub. L. 116–127, § 6004(a)(1)(A), (B), designated existing provisions as subpar. (A) and inserted “and” at end.
 
 Subsec. (a)(3)(B). Pub. L. 116–136 struck out “that are approved, cleared, or authorized under section 360(k), 360c, 360e or 360bbb–3 of title 21” after “that causes COVID–19”.
@@ -110800,8 +111579,11 @@ Pub. L. 108–357, title VII, § 712(a)(2), Oct. 22, 2004, 118 Stat. 1558, provi
 #### Construction of 1999 Amendment
 Amendment by Pub. L. 106–170 to be executed as if Pub. L. 106–169 had been enacted after the enactment of Pub. L. 106–170, see section 121(c)(1) of Pub. L. 106–169, set out as a note under [section 1396a of this title](./chapter-007-social-security.md#section-1396a).
 
+#### Additional support for Medicaid home and community-based services during the COVID–19 Emergency
+Pub. L. 117–2, title IX, § 9817, Mar. 11, 2021, 135 Stat. 216, provided that: “(a) Increased FMAP.—“(1) In general.—Notwithstanding section 1905(b) of the Social Security Act ([42 U.S.C. 1396d(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/b&num=0&edition=prelim)) or section 1905(ff), in the case of a State that meets the HCBS program requirements under subsection (b), the Federal medical assistance percentage determined for the State under section 1905(b) of such Act(or, if applicable, under section 1905(ff)) and, if applicable, increased under subsection (y), (z), (aa), or (ii) of section 1905 of such Act ([42 U.S.C. 1396d](./chapter-007-social-security.md#section-1396d)), section 1915(k) of such Act ([42 U.S.C. 1396n(k)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396n/k&num=0&edition=prelim)), or section 6008(a) of the Families First Coronavirus Response Act (Public Law 116–127)[set out as a note below], shall be increased by 10 percentage points with respect to expenditures of the State under the State Medicaid program for home and community-based services (as defined in paragraph (2)(B)) that are provided during the HCBS program improvement period (as defined in paragraph (2)(A)). In no case may the application of the previous sentence result in the Federal medical assistance percentage determined for a State being more than 95 percent with respect to such expenditures. Any payment made to Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, or American Samoa for expenditures on medical assistance that are subject to the Federal medical assistance percentage increase specified under the first sentence of this paragraph shall not be taken into account for purposes of applying payment limits under subsections (f) and (g) of section 1108 of the Social Security Act ([42 U.S.C. 1308](./chapter-007-social-security.md#section-1308)). “(2) Definitions.—In this section:“(A) HCBS program improvement period.—The term ‘HCBS program improvement period’ means, with respect to a State, the period—“(i) beginning on April 1, 2021; and “(ii) ending on March 31, 2022. “(B) Home and community-based services.—The term ‘home and community-based services’ means any of the following:“(i) Home health care services authorized under paragraph (7) of section 1905(a) of the Social Security Act ([42 U.S.C. 1396d(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a&num=0&edition=prelim)). “(ii) Personal care services authorized under paragraph (24) of such section. “(iii) PACE services authorized under paragraph (26) of such section. “(iv) Home and community-based services authorized under subsections (b), (c), (i), (j), and (k) of section 1915 of such Act ([42 U.S.C. 1396n](./chapter-007-social-security.md#section-1396n)), such services authorized under a waiver under section 1115 of such Act ([42 U.S.C. 1315](./chapter-007-social-security.md#section-1315)), and such services through coverage authorized under section 1937 of such Act ([42 U.S.C. 1396u–7](./chapter-007-social-security.md#section-1396u-7)). “(v) Case management services authorized under section 1905(a)(19) of the Social Security Act ([42 U.S.C. 1396d(a)(19)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/19&num=0&edition=prelim)) and section 1915(g) of such Act ([42 U.S.C. 1396n(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396n/g&num=0&edition=prelim)). “(vi) Rehabilitative services, including those related to behavioral health, described in section 1905(a)(13) of such Act ([42 U.S.C. 1396d(a)(13)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/13&num=0&edition=prelim)). “(vii) Such other services specified by the Secretary of Health and Human Services. “(C) Eligible individual.—The term ‘eligible individual’ means an individual who is eligible for and enrolled for medical assistance under a State Medicaid program and includes an individual who becomes eligible for medical assistance under a State Medicaid program when removed from a waiting list. “(D) Medicaid program.—The term ‘Medicaid program’ means, with respect to a State, the State program under title XIX of the Social Security Act ([42 U.S.C. 1396](./chapter-007-social-security.md#section-1396) et seq.) (including any waiver or demonstration under such title or under section 1115 of such Act ([42 U.S.C. 1315](./chapter-007-social-security.md#section-1315)) relating to such title). “(E) State.—The term ‘State’ has the meaning given such term for purposes of title XIX of the Social Security Act ([42 U.S.C. 1396](./chapter-007-social-security.md#section-1396) et seq.). “(b) State Requirements for FMAP Increase.—As conditions for receipt of the increase under subsection (a) to the Federal medical assistance percentage determined for a State, the State shall meet each of the following requirements (referred to in subsection (a) as the HCBS program requirements):“(1) Supplement, not supplant.—The State shall use the Federal funds attributable to the increase under subsection (a) to supplement, and not supplant, the level of State funds expended for home and community-based services for eligible individuals through programs in effect as of April 1, 2021. “(2) Required implementation of certain activities.—The State shall implement, or supplement the implementation of, one or more activities to enhance, expand, or strengthen home and community-based services under the State Medicaid program.”
+
 #### Temporary Increase of Medicaid FMAP
-Pub. L. 116–127, div. F, § 6008(a), (b), (d), Mar. 18, 2020, 134 Stat. 208, as amended by Pub. L. 116–136, div. A, title III, § 3720, Mar. 27, 2020, 134 Stat. 427; Pub. L. 116–260, div. X, § 11, Dec. 27, 2020, 134 Stat. 2417, provided that: “(a) In General.—Subject to subsection (b), for each calendar quarter occurring during the period beginning on the first day of the emergency period defined in paragraph (1)(B) of section 1135(g) of the Social Security Act ([42 U.S.C. 1320b–5(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g&num=0&edition=prelim)) and ending on the last day of the calendar quarter in which the last day of such emergency period occurs, the Federal medical assistance percentage determined for each State, including the District of Columbia, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, Puerto Rico, and the United States Virgin Islands, under section 1905(b) of the Social Security Act ([42 U.S.C. 1396d(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/b&num=0&edition=prelim)) shall be increased by 6.2 percentage points. “(b) Requirement for All States.—A State described in subsection (a) may not receive the increase described in such subsection in the Federal medical assistance percentage for such State, with respect to a quarter, if—“(1) eligibility standards, methodologies, or procedures under the State plan of such State under title XIX of the Social Security Act ([42 U.S.C. 1396](./chapter-007-social-security.md#section-1396) et seq.) (including any waiver under such title or section 1115 of such Act ([42 U.S.C. 1315](./chapter-007-social-security.md#section-1315))) are more restrictive during such quarter than the eligibility standards, methodologies, or procedures, respectively, under such plan (or waiver) as in effect on January 1, 2020; “(2) the amount of any premium imposed by the State pursuant to section 1916 or 1916A of such Act ([42 U.S.C. 1396](./chapter-007-social-security.md#section-1396)o, 1396o–1) during such quarter, with respect to an individual enrolled under such plan (or waiver), exceeds the amount of such premium as of January 1, 2020; “(3) the State fails to provide that an individual who is enrolled for benefits under such plan (or waiver) as of the date of enactment of this section [Mar. 18, 2020] or enrolls for benefits under such plan (or waiver) during the period beginning on such date of enactment and ending the last day of the month in which the emergency period described in subsection (a) ends shall be treated as eligible for such benefits through the end of the month in which such emergency period ends unless the individual requests a voluntary termination of eligibility or the individual ceases to be a resident of the State; or “(4) the State does not provide coverage under such plan (or waiver), without the imposition of cost sharing, during such quarter for any testing services and treatments for COVID–19, including vaccines, specialized equipment, and therapies. “(d) [sic] Delay in Application of Premium Requirement.—During the 30 day period beginning on the date of enactment of this Act, a State shall not be ineligible for the increase to the Federal medical assistance percentage of the State described in subsection (a) on the basis that the State imposes a premium that violates the requirement of subsection (b)(2) if such premium was in effect on the date of enactment of this Act. “(d) [sic] Delay in Application of Premium Requirement.—During the 30 day period beginning on the date of enactment of this Act, a State shall not be ineligible for the increase to the Federal medical assistance percentage of the State described in subsection (a) on the basis that the State imposes a premium that violates the requirement of subsection (b)(2) if such premium was in effect on the date of enactment of this Act. “(d) [sic] Application to title IV-E payments.—If the District of Columbia receives the increase described in subsection (a) in the Federal medical assistance percentage for the District of Columbia with respect to a quarter, the Federal medical assistance percentage for the District of Columbia, as so increased, shall apply to payments made to the District of Columbia under part E of title IV of the Social Security Act ([42 U.S.C. 670](./chapter-007-social-security.md#section-670) et seq.) for that quarter, and the payments under such part shall be deemed to be made on the basis of the Federal medical assistance percentage applied with respect to such District for purposes of title XIX of such Act ([42 U.S.C. 1396](./chapter-007-social-security.md#section-1396) et seq.) and as increased under subsection (a).”
+Pub. L. 116–127, div. F, § 6008(a), (b), (d), Mar. 18, 2020, 134 Stat. 208, as amended by Pub. L. 116–136, div. A, title III, § 3720, Mar. 27, 2020, 134 Stat. 427; Pub. L. 116–260, div. X, § 11, Dec. 27, 2020, 134 Stat. 2417, provided that: “(a) In General.—Subject to subsection (b), for each calendar quarter occurring during the period beginning on the first day of the emergency period defined in paragraph (1)(B) of section 1135(g) of the Social Security Act ([42 U.S.C. 1320b–5(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g&num=0&edition=prelim)) and ending on the last day of the calendar quarter in which the last day of such emergency period occurs, the Federal medical assistance percentage determined for each State, including the District of Columbia, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, Puerto Rico, and the United States Virgin Islands, under section 1905(b) of the Social Security Act ([42 U.S.C. 1396d(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/b&num=0&edition=prelim)) shall be increased by 6.2 percentage points. “(b) Requirement for All States.—A State described in subsection (a) may not receive the increase described in such subsection in the Federal medical assistance percentage for such State, with respect to a quarter, if—“(1) eligibility standards, methodologies, or procedures under the State plan of such State under title XIX of the Social Security Act ([42 U.S.C. 1396](./chapter-007-social-security.md#section-1396) et seq.) (including any waiver under such title or section 1115 of such Act ([42 U.S.C. 1315](./chapter-007-social-security.md#section-1315))) are more restrictive during such quarter than the eligibility standards, methodologies, or procedures, respectively, under such plan (or waiver) as in effect on January 1, 2020; “(2) the amount of any premium imposed by the State pursuant to section 1916 or 1916A of such Act ([42 U.S.C. 1396](./chapter-007-social-security.md#section-1396)o, 1396o–1) during such quarter, with respect to an individual enrolled under such plan (or waiver), exceeds the amount of such premium as of January 1, 2020; “(3) the State fails to provide that an individual who is enrolled for benefits under such plan (or waiver) as of the date of enactment of this section [Mar. 18, 2020] or enrolls for benefits under such plan (or waiver) during the period beginning on such date of enactment and ending the last day of the month in which the emergency period described in subsection (a) ends shall be treated as eligible for such benefits through the end of the month in which such emergency period ends unless the individual requests a voluntary termination of eligibility or the individual ceases to be a resident of the State; or “(4) the State does not provide coverage under such plan (or waiver), without the imposition of cost sharing, during such quarter for any testing services and treatments for COVID–19, including vaccines, specialized equipment, and therapies. “(d) [sic] Delay in Application of Premium Requirement.—During the 30 day period beginning on the date of enactment of this Act, a State shall not be ineligible for the increase to the Federal medical assistance percentage of the State described in subsection (a) on the basis that the State imposes a premium that violates the requirement of subsection (b)(2) if such premium was in effect on the date of enactment of this Act. “(d) [sic] Delay in Application of Premium Requirement.—During the 30 day period beginning on the date of enactment of this Act, a State shall not be ineligible for the increase to the Federal medical assistance percentage of the State described in subsection (a) on the basis that the State imposes a premium that violates the requirement of subsection (b)(2) if such premium was in effect on the date of enactment of this Act. “(d) [sic] Application to Title IV-E Payments.—If the District of Columbia receives the increase described in subsection (a) in the Federal medical assistance percentage for the District of Columbia with respect to a quarter, the Federal medical assistance percentage for the District of Columbia, as so increased, shall apply to payments made to the District of Columbia under part E of title IV of the Social Security Act ([42 U.S.C. 670](./chapter-007-social-security.md#section-670) et seq.) for that quarter, and the payments under such part shall be deemed to be made on the basis of the Federal medical assistance percentage applied with respect to such District for purposes of title XIX of such Act ([42 U.S.C. 1396](./chapter-007-social-security.md#section-1396) et seq.) and as increased under subsection (a).”
 
 Pub. L. 111–5, div. B, title V, § 5001, Feb. 17, 2009, 123 Stat. 496, as amended by Pub. L. 111–226, title II, § 201, Aug. 10, 2010, 124 Stat. 2393, provided for a temporary increase of the Federal medical assistance percentage rate that States are reimbursed for most Medicaid expenditures through June 30, 2011.
 
@@ -112410,9 +113192,13 @@ Pub. L. 99–272, title IX, § 9502(f), Apr. 7, 1986, 100 Stat. 204, provided th
 
   (E) services furnished to an individual who is receiving hospice care (as defined in section 1396d(o) of this title),
 
-  (F) any in vitro diagnostic product described in [section 1396d(a)(3)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/3/B&num=0&edition=prelim) that is administered during any portion of the emergency period described in such section beginning on or after March 18, 2020 (and the administration of such product), or
+  (F) any in vitro diagnostic product described in [section 1396d(a)(3)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/3/B&num=0&edition=prelim) that is administered during any portion of the emergency period described in such section beginning on or after March 18, 2020 (and the administration of such product),
 
-  (G) COVID–19 testing-related services for which payment may be made under the State plan; and
+  (G) COVID–19 testing-related services for which payment may be made under the State plan 11 So in original. Probably should be followed by a comma.
+
+  (H) during the period beginning on March 11, 2021 and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim), a COVID–19 vaccine and the administration of such vaccine (for any individual eligible for medical assistance for such vaccine (and administration)); or
+
+  (I) during the period beginning on March 11, 2021 and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim), testing and treatments for COVID–19, including specialized equipment and therapies (including preventive therapies), and, in the case of an individual who is diagnosed with or presumed to have COVID–19, during the period during which such individual has (or is presumed to have) COVID–19, the treatment of a condition that may seriously complicate the treatment of COVID–19, if otherwise covered under the State plan (or waiver of such plan); and
 
 (3) any deduction, cost sharing, or similar charge imposed under the plan with respect to other such individuals or other care and services will be nominal in amount (as determined by the Secretary in regulations which shall, if the definition of “nominal” under the regulations in effect on July 1, 1982 is changed, take into account the level of cash assistance provided in such State and such other criteria as the Secretary determines to be appropriate); except that a deduction, cost-sharing, or similar charge of up to twice the nominal amount established for outpatient services may be imposed by a State under a waiver granted by the Secretary for services received at a hospital emergency room if the services are not emergency services (referred to in paragraph (2)(D)) and the State has established to the satisfaction of the Secretary that individuals eligible for services under the plan have actually available and accessible to them alternative sources of nonemergency, outpatient services.
 
@@ -112432,9 +113218,13 @@ Pub. L. 99–272, title IX, § 9502(f), Apr. 7, 1986, 100 Stat. 204, provided th
 
   (E) services furnished to an individual who is receiving hospice care (as defined in section 1396d(o) of this title),
 
-  (F) any in vitro diagnostic product described in [section 1396d(a)(3)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/3/B&num=0&edition=prelim) that is administered during any portion of the emergency period described in such section beginning on or after March 18, 2020 (and the administration of such product), or
+  (F) any in vitro diagnostic product described in [section 1396d(a)(3)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/3/B&num=0&edition=prelim) that is administered during any portion of the emergency period described in such section beginning on or after March 18, 2020 (and the administration of such product),
 
-  (G) COVID–19 testing-related services for which payment may be made under the State plan; and
+  (G) COVID–19 testing-related services for which payment may be made under the State plan 1
+
+  (H) during the period beginning on March 11, 2021 and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim), a COVID–19 vaccine and the administration of such vaccine (for any individual eligible for medical assistance for such vaccine (and administration)); or
+
+  (I) during the period beginning on March 11, 2021 and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim), testing and treatments for COVID–19, including specialized equipment and therapies (including preventive therapies), and, in the case of an individual who is diagnosed with or presumed to have COVID–19, during the period during which such individual has (or is presumed to have) COVID–19, the treatment of a condition that may seriously complicate the treatment of COVID–19, if otherwise covered under the State plan (or waiver of such plan); and
 
 (3) any deduction, cost sharing, or similar charge imposed under the plan with respect to other such individuals or other care and services will be nominal in amount (as determined by the Secretary in regulations which shall, if the definition of “nominal” under the regulations in effect on July 1, 1982 is changed, take into account the level of cash assistance provided in such State and such other criteria as the Secretary determines to be appropriate); except that a deduction, cost-sharing, or similar charge of up to twice the nominal amount established for outpatient services may be imposed by a State under a waiver granted by the Secretary for services received at a hospital emergency room if the services are not emergency services (referred to in paragraph (2)(D)) and the State has established to the satisfaction of the Secretary that individuals eligible for services under the plan have actually available and accessible to them alternative sources of nonemergency, outpatient services.
 
@@ -112509,6 +113299,8 @@ In the case of any calendar year beginning after 2000, the dollar amount specifi
 The Internal Revenue Code of 1986, referred to in subsec. (g)(2), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
+2021—Subsecs. (a)(2)(H), (I), (b)(2)(H), (I). Pub. L. 117–2 added subpars. (H) and (I).
+
 2020—Subsecs. (a)(2)(F), (G), (b)(2)(F), (G). Pub. L. 116–127 added subpars. (F) and (G).
 
 2010—Subsecs. (a)(2)(B), (b)(2)(B). Pub. L. 111–148 inserted “, and counseling and pharmacotherapy for cessation of tobacco use by pregnant women (as defined in [section 1396d(bb) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/bb&num=0&edition=prelim)) and covered outpatient drugs (as defined in subsection (k)(2) of [section 1396r–8 of this title](./chapter-007-social-security.md#section-1396r-8) and including nonprescription drugs described in subsection (d)(2) of such section) that are prescribed for purposes of promoting, and when used to promote, tobacco cessation by pregnant women in accordance with the Guideline referred to in [section 1396d(bb)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/bb/2/A&num=0&edition=prelim)” after “complicate the pregnancy”.
@@ -112676,7 +113468,11 @@ Pub. L. 116–127, div. F, § 6004(a)(2)(C), Mar. 18, 2020, 134 Stat. 205, provi
 
     (x) Items and services furnished to an Indian directly by the Indian Health Service, an Indian Tribe, Tribal Organization or Urban Indian Organization or through referral under contract health services.
 
-    (xi) Any in vitro diagnostic product described in [section 1396d(a)(3)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/3/B&num=0&edition=prelim) that is administered during any portion of the emergency period described in such section beginning on or after March 18, 2020 (and the administration of such product) and any visit described in section 1396o(a)(2)(G) of this title that is furnished during any such portion.
+    (xi) Any in vitro diagnostic product described in [section 1396d(a)(3)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/3/B&num=0&edition=prelim) that is administered during any portion of the emergency period described in such section beginning on or after March 18, 2020 (and the administration of such product) and any service described in section 1396o(a)(2)(G) of this title that is furnished during any such portion.
+
+    (xii) During the period beginning on March 11, 2021 and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim), a COVID–19 vaccine and the administration of such vaccine (for any individual eligible for medical assistance for such vaccine (and administration)).
+
+    (xiii) During the period beginning on March 11, 2021 and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim), testing and treatments for COVID–19, including specialized equipment and therapies (including preventive therapies), and, in the case of an individual who is diagnosed with or presumed to have COVID–19, during the period during which such individual has (or is presumed to have) COVID–19, the treatment of a condition that may seriously complicate the treatment of COVID–19, if otherwise covered under the State plan (or waiver of such plan).
 
   (C) *Construction* — Nothing in this paragraph shall be construed as preventing a State from exempting additional classes of individuals from premiums under this section or from exempting additional individuals or services from cost sharing under subsection (a).
 
@@ -112762,6 +113558,10 @@ Pub. L. 116–127, div. F, § 6004(a)(2)(C), Mar. 18, 2020, 134 Stat. 205, provi
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (b)(3)(B)(xi). Pub. L. 117–2, § 9811(a)(3)(B)(i), substituted “any service” for “any visit”.
+
+Subsec. (b)(3)(B)(xii), (xiii). Pub. L. 117–2, § 9811(a)(3)(B)(ii), added cls. (xii) and (xiii).
+
 2020—Subsec. (b)(3)(B)(xi). Pub. L. 116–127 added cl. (xi).
 
 2010—Subsec. (a)(1). Pub. L. 111–148, § 2102(b), substituted “, (i), or (j)” for “or (i)”.
@@ -113750,7 +114550,7 @@ Such term also includes any facility which is located in a State on an Indian re
 
       (III) in the case of residents with developmental disabilities, the mailing address and telephone number of the agency responsible for the protection and advocacy system for developmentally disabled individuals established under subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 [[42 U.S.C. 15041](./chapter-144-developmental-disabilities-assistance-and-bill-of-rights.md#section-15041) et seq.]; and
 
-      (IV) in the case of mentally ill residents (as defined in subsection (e)(7)(G)(i)), the mailing address and telephone number of the agency responsible for the protection and advocacy system for mentally ill individuals established under the Protection and Advocacy for Mentally Ill Individuals Act 22 See References in Text note below. [[42 U.S.C. 10801](./chapter-114-protection-and-advocacy-for-individuals-with-mental-illness.md#section-10801) et seq.].
+      (IV) in the case of mentally ill residents (as defined in subsection (e)(7)(G)(i)), the mailing address and telephone number of the agency responsible for the protection and advocacy system for mentally ill individuals established under the Protection and Advocacy for Mentally Ill Individuals Act 1 [[42 U.S.C. 10801](./chapter-114-protection-and-advocacy-for-individuals-with-mental-illness.md#section-10801) et seq.].
 
   (C) *Orientation* — A nursing facility must provide sufficient preparation and orientation to residents to ensure safe and orderly transfer or discharge from the facility.
 
@@ -113897,7 +114697,7 @@ Such term also includes any facility which is located in a State on an Indian re
 
   (C) *Nursing facility administrator* — The administrator of a nursing facility must meet standards established by the Secretary under subsection (f)(4).
 
-  (V) *33 So in original. There are no subpars. (D) to (U). Availability of survey, certification, and complaint investigation reports* — A nursing facility must—
+  (V) *22 So in original. There are no subpars. (D) to (U). Availability of survey, certification, and complaint investigation reports* — A nursing facility must—
 
     (i) have reports with respect to any surveys, certifications, and complaint investigations made respecting the facility during the 3 preceding years available for any individual to review upon request; and
 
@@ -114044,7 +114844,7 @@ Such term also includes any facility which is located in a State on an Indian re
 
   (A) *In general* — For purposes of subsections (b)(5) and (e)(1)(A), the Secretary shall establish, by not later than September 1, 1988—
 
-    (i) requirements for the approval of nurse aide training and competency evaluation programs, including requirements relating to (I) the areas to be covered in such a program (including at least basic nursing skills, personal care skills, recognition of mental health and social service needs, care of cognitively impaired residents, basic restorative services, and residents’ rights) and content of the curriculum (including, in the case of initial training and, if the Secretary determines appropriate, in the case of ongoing training, dementia management training, and patient abuse prevention training 44 So in original. Probably should be followed by a closing parenthesis., (II) minimum hours of initial and ongoing training and retraining (including not less than 75 hours in the case of initial training), (III) qualifications of instructors, and (IV) procedures for determination of competency;
+    (i) requirements for the approval of nurse aide training and competency evaluation programs, including requirements relating to (I) the areas to be covered in such a program (including at least basic nursing skills, personal care skills, recognition of mental health and social service needs, care of cognitively impaired residents, basic restorative services, and residents’ rights) and content of the curriculum (including, in the case of initial training and, if the Secretary determines appropriate, in the case of ongoing training, dementia management training, and patient abuse prevention training 33 So in original. Probably should be followed by a closing parenthesis., (II) minimum hours of initial and ongoing training and retraining (including not less than 75 hours in the case of initial training), (III) qualifications of instructors, and (IV) procedures for determination of competency;
 
     (ii) requirements for the approval of nurse aide competency evaluation programs, including requirement relating to the areas to be covered in such a program, including at least basic nursing skills, personal care skills, recognition of mental health and social service needs, care of cognitively impaired residents, basic restorative services, and residents’ rights, and procedures for determination of competency;
 
@@ -114066,7 +114866,7 @@ Such term also includes any facility which is located in a State on an Indian re
 
     (iii) subject to subparagraphs (C) and (D), shall prohibit approval of such a program—
 
-      (I) offered by or in a nursing facility which, within the previous 2 years— (a) has operated under a waiver under subsection (b)(4)(C)(ii) that was granted on the basis of a demonstration that the facility is unable to provide the nursing care required under subsection (b)(4)(C)(i) for a period in excess of 48 hours during a week; (b) has been subject to an extended (or partial extended) survey under [section 1395i–3(g)(2)(B)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395i–3/g/2/B/i&num=0&edition=prelim) or subsection (g)(2)(B)(i); or (c) has been assessed a civil money penalty described in [section 1395i–3(h)(2)(B)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395i–3/h/2/B/ii&num=0&edition=prelim) or subsection (h)(2)(A)(ii) of not less than $5,000, or has been subject to a remedy described in subsection (h)(1)(B)(i), clauses 55 So in original. Probably should be “clause”. (i), (iii), or (iv) of subsection (h)(2)(A), clauses 5 (i) or (iii) of [section 1395i–3(h)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395i–3/h/2/B&num=0&edition=prelim), or [section 1395i–3(h)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395i–3/h/4&num=0&edition=prelim), or
+      (I) offered by or in a nursing facility which, within the previous 2 years— (a) has operated under a waiver under subsection (b)(4)(C)(ii) that was granted on the basis of a demonstration that the facility is unable to provide the nursing care required under subsection (b)(4)(C)(i) for a period in excess of 48 hours during a week; (b) has been subject to an extended (or partial extended) survey under [section 1395i–3(g)(2)(B)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395i–3/g/2/B/i&num=0&edition=prelim) or subsection (g)(2)(B)(i); or (c) has been assessed a civil money penalty described in [section 1395i–3(h)(2)(B)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395i–3/h/2/B/ii&num=0&edition=prelim) or subsection (h)(2)(A)(ii) of not less than $5,000, or has been subject to a remedy described in subsection (h)(1)(B)(i), clauses 44 So in original. Probably should be “clause”. (i), (iii), or (iv) of subsection (h)(2)(A), clauses 4 (i) or (iii) of [section 1395i–3(h)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395i–3/h/2/B&num=0&edition=prelim), or [section 1395i–3(h)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395i–3/h/4&num=0&edition=prelim), or
 
       (II) offered by or in a nursing facility unless the State makes the determination, upon an individual’s completion of the program, that the individual is competent to provide nursing and nursing-related services in nursing facilities.
     A State may not delegate (through subcontract or otherwise) its responsibility under clause (iii)(II) to the nursing facility.
@@ -114231,7 +115031,7 @@ Such term also includes any facility which is located in a State on an Indian re
 
     (iv) information disclosed under [section 1320a–5 of this title](./chapter-007-social-security.md#section-1320a-5).
 
-  (B) *Notice to ombudsman* — Each State shall notify the State long-term care ombudsman (established under title III or VII of the Older Americans Act of 1965 [[42 U.S.C. 3021](./chapter-035-programs-for-older-americans.md#section-3021) et seq., 3058 et seq.] in accordance with section 712 of the Act [[42 U.S.C. 3058g](./chapter-035-programs-for-older-americans.md#section-3058g)]) of the State’s findings of noncompliance with any of the requirements of subsections (b), (c), and (d), or of any adverse action taken against a nursing facility under paragraphs 66 So in original. Probably should be “paragraph”. (1), (2), or (3) of subsection (h), with respect to a nursing facility in the State.
+  (B) *Notice to ombudsman* — Each State shall notify the State long-term care ombudsman (established under title III or VII of the Older Americans Act of 1965 [[42 U.S.C. 3021](./chapter-035-programs-for-older-americans.md#section-3021) et seq., 3058 et seq.] in accordance with section 712 of the Act [[42 U.S.C. 3058g](./chapter-035-programs-for-older-americans.md#section-3058g)]) of the State’s findings of noncompliance with any of the requirements of subsections (b), (c), and (d), or of any adverse action taken against a nursing facility under paragraphs 55 So in original. Probably should be “paragraph”. (1), (2), or (3) of subsection (h), with respect to a nursing facility in the State.
 
   (C) *Notice to physicians and nursing facility administrator licensing board* — If a State finds that a nursing facility has provided substandard quality of care, the State shall notify—
 
@@ -114353,7 +115153,7 @@ Such term also includes any facility which is located in a State on an Indian re
 
 (4) **Effective period of denial of payment** — A finding to deny payment under this subsection shall terminate when the State or Secretary (or both, as the case may be) finds that the facility is in substantial compliance with all the requirements of subsections (b), (c), and (d).
 
-(5) **Immediate termination of participation for facility where State or Secretary finds noncompliance and immediate jeopardy** — If either the State or the Secretary finds that a nursing facility has not met a requirement of subsection (b), (c), or (d), and finds that the failure immediately jeopardizes the health or safety of its residents, the State or the Secretary, respectively 77 So in original. Probably should be followed by a comma. shall notify the other of such finding, and the State or the Secretary, respectively, shall take immediate action to remove the jeopardy and correct the deficiencies through the remedy specified in paragraph (2)(A)(iii) or (3)(C)(iii), or terminate the facility’s participation under the State plan. If the facility’s participation in the State plan is terminated by either the State or the Secretary, the State shall provide for the safe and orderly transfer of the residents eligible under the State plan consistent with the requirements of subsection (c)(2).
+(5) **Immediate termination of participation for facility where State or Secretary finds noncompliance and immediate jeopardy** — If either the State or the Secretary finds that a nursing facility has not met a requirement of subsection (b), (c), or (d), and finds that the failure immediately jeopardizes the health or safety of its residents, the State or the Secretary, respectively 66 So in original. Probably should be followed by a comma. shall notify the other of such finding, and the State or the Secretary, respectively, shall take immediate action to remove the jeopardy and correct the deficiencies through the remedy specified in paragraph (2)(A)(iii) or (3)(C)(iii), or terminate the facility’s participation under the State plan. If the facility’s participation in the State plan is terminated by either the State or the Secretary, the State shall provide for the safe and orderly transfer of the residents eligible under the State plan consistent with the requirements of subsection (c)(2).
 
 (6) **Special rules where State and Secretary do not agree on finding of noncompliance**
 
@@ -114381,7 +115181,7 @@ Such term also includes any facility which is located in a State on an Indian re
 
     (ii) if both the Secretary and the State establish one or more remedies which are additional or alternative to the remedy of terminating the facility’s participation under the State plan, only the additional or alternative remedies of the Secretary shall apply.
 
-(8) **Construction** — The remedies provided under this subsection are in addition to those otherwise available under State or Federal law and shall not be construed as limiting such other remedies, including any remedy available to an individual at common law. The remedies described in clauses (i), (ii)(IV),88 So in original. Cl. (ii) of par. (2)(A) of this subsection does not contain subclauses. Probably means cl. (ii)(IV) of par. (3)(C) of this subsection. (iii), and (iv) of paragraph (2)(A) may be imposed during the pendency of any hearing. The provisions of this subsection shall apply to a nursing facility (or portion thereof) notwithstanding that the facility (or portion thereof) also is a skilled nursing facility for purposes of subchapter XVIII.
+(8) **Construction** — The remedies provided under this subsection are in addition to those otherwise available under State or Federal law and shall not be construed as limiting such other remedies, including any remedy available to an individual at common law. The remedies described in clauses (i), (ii)(IV),77 So in original. Cl. (ii) of par. (2)(A) of this subsection does not contain subclauses. Probably means cl. (ii)(IV) of par. (3)(C) of this subsection. (iii), and (iv) of paragraph (2)(A) may be imposed during the pendency of any hearing. The provisions of this subsection shall apply to a nursing facility (or portion thereof) notwithstanding that the facility (or portion thereof) also is a skilled nursing facility for purposes of subchapter XVIII.
 
 (9) **Sharing of information** — Notwithstanding any other provision of law, all information concerning nursing facilities required by this section to be filed with the Secretary or a State agency shall be made available by such facilities to Federal or State employees for purposes consistent with the effective administration of programs established under this subchapter and subchapter XVIII, including investigations by State medicaid fraud control units.
 
@@ -114441,6 +115241,8 @@ Such term also includes any facility which is located in a State on an Indian re
 
 **(j) Construction** Where requirements or obligations under this section are identical to those provided under [section 1395i–3 of this title](./chapter-007-social-security.md#section-1395i-3), the fulfillment of those requirements or obligations under [section 1395i–3 of this title](./chapter-007-social-security.md#section-1395i-3) shall be considered to be the fulfillment of the corresponding requirements or obligations under this section.
 
+**(k) Funding for State strike teams** In addition to amounts otherwise available, there is appropriated to the Secretary, out of any monies in the Treasury not otherwise appropriated, $250,000,000, to remain available until expended, for purposes of allocating such amount among the States (including the District of Columbia and each territory of the United States) for such a State to establish and implement a strike team that will be deployed to a nursing facility in the State with diagnosed or suspected cases of COVID–19 among residents or staff for the purposes of assisting with clinical care, infection control, or staffing during the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim) and the 1-year period immediately following the end of such emergency period.
+
 ### Statutory Notes
 
 #### Amendment of Subsection (d)(1)
@@ -114461,6 +115263,8 @@ Section 21(b) of the Medicare-Medicaid Anti-Fraud and Abuse Amendments of 1977, 
 A prior section 1919 of act Aug. 14, 1935, was renumbered section 1922 and is classified to [section 1396r–3 of this title](./chapter-007-social-security.md#section-1396r-3).
 
 #### Amendments
+2021—Subsec. (k). Pub. L. 117–2 added subsec. (k).
+
 2010—Subsec. (b)(5)(F). Pub. L. 111–148, § 6121(b)(2), inserted concluding provisions.
 
 Subsec. (d)(1)(B). Pub. L. 111–148, § 6101(c)(1)(B), redesignated subpar. (C) as (B) and struck out former subpar. (B) which related to required notice to a State licensing agency of change in ownership, control interest, management, or certain positions of responsibility for a nursing facility.
@@ -115478,7 +116282,7 @@ except that, for purposes of paragraphs (1)(B) and (2)(A) of subsection (a), the
 
 (3) **State DSH allotments for fiscal year 2003 and thereafter**
 
-  (A) *In general* — Except as provided in paragraphs (6), (7), and (8) and subparagraph (E), the DSH allotment for any State for fiscal year 2003 and each succeeding fiscal year is equal to the DSH allotment for the State for the preceding fiscal year under paragraph (2) or this paragraph, increased, subject to subparagraphs (B) and (C) and paragraph (5), by the percentage change in the consumer price index for all urban consumers (all items; U.S. city average), for the previous fiscal year.
+  (A) *In general* — Except as provided in paragraphs (6), (7), and (8) and subparagraphs (E) and (F), the DSH allotment for any State for fiscal year 2003 and each succeeding fiscal year is equal to the DSH allotment for the State for the preceding fiscal year under paragraph (2) or this paragraph, increased, subject to subparagraphs (B) and (C) and paragraph (5), by the percentage change in the consumer price index for all urban consumers (all items; U.S. city average), for the previous fiscal year.
 
   (B) *Limitation* — The DSH allotment for a State shall not be increased under subparagraph (A) for a fiscal year to the extent that such an increase would result in the DSH allotment for the year exceeding the greater of—
 
@@ -115505,6 +116309,12 @@ except that, for purposes of paragraphs (1)(B) and (2)(A) of subsection (a), the
       (III) for each succeeding fiscal year is equal to the DSH allotment for the State under this paragraph determined without applying subclauses (I) and (II).
 
     (ii) *Application* — Clause (i) shall not apply to a State for a year in the case that the DSH allotment for such State for such year under this paragraph determined without applying clause (i) would grow higher than the DSH allotment specified under clause (i) for the State for such year.
+
+  (F) *Allotments during the coronavirus temporary medicaid FMAP increase*
+
+    (i) *In general* — Notwithstanding any other provision of this subsection, for any fiscal year for which the Federal medical assistance percentage applicable to expenditures under this section is increased pursuant to section 6008 of the Families First Coronavirus Response Act, the Secretary shall recalculate the annual DSH allotment, including the DSH allotment specified under paragraph (6)(A)(vi), to ensure that the total DSH payments (including both Federal and State shares) that a State may make related to a fiscal year is equal to the total DSH payments that the State could have made for such fiscal year without such increase to the Federal medical assistance percentage.
+
+    (ii) *No application to allotments beginning after COVID–19 emergency period* — The DSH allotment for any State for the first fiscal year beginning after the end of the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim) or any succeeding fiscal year shall be determined under this paragraph without regard to the DSH allotments determined under clause (i).
 
 (4) **Special rule for fiscal years 2001 and 2002**
 
@@ -115613,29 +116423,41 @@ except that, for purposes of paragraphs (1)(B) and (2)(A) of subsection (a), the
 
 **(g) Limit on amount of payment to hospital**
 
-(1) **Amount of adjustment subject to uncompensated costs**
+(1) **In general**
 
-  (A) *In general* — A payment adjustment during a fiscal year shall not be considered to be consistent with subsection (c) with respect to a hospital if the payment adjustment exceeds the costs incurred during the year of furnishing hospital services (as determined by the Secretary and net of payments under this subchapter, other than under this section, and by uninsured patients) by the hospital to individuals who either are eligible for medical assistance under the State plan or have no health insurance (or other source of third party coverage) for services provided during the year. For purposes of the preceding sentence, payments made to a hospital for services provided to indigent patients made by a State or a unit of local government within a State shall not be considered to be a source of third party payment.
+  (A) *Amount of adjustment subject to uncompensated costs* — A payment adjustment during a fiscal year shall not be considered to be consistent with subsection (c) with respect to a hospital (other than a hospital described in paragraph (2)(B)) if the payment adjustment exceeds an amount equal to—
 
-  (B) *Limit to public hospitals during transition period* — With respect to payment adjustments during a State fiscal year that begins before January 1, 1995, subparagraph (A) shall apply only to hospitals owned or operated by a State (or by an instrumentality or a unit of government within a State).
+    (i) the costs incurred during the year of furnishing hospital services by the hospital to individuals described in subparagraph (B) minus—
 
-  (C) *Modifications for private hospitals* — With respect to hospitals that are not owned or operated by a State (or by an instrumentality or a unit of government within a State), the Secretary may make such modifications to the manner in which the limitation on payment adjustments is applied to such hospitals as the Secretary considers appropriate.
+    (ii) the sum of—
 
-(2) **Additional amount during transition period for certain hospitals with high disproportionate share**
+      (I) payments under this subchapter (other than under this section) for such services; and
 
-  (A) *In general* — In the case of a hospital with high disproportionate share (as defined in subparagraph (B)), a payment adjustment during a State fiscal year that begins before January 1, 1995, shall be considered consistent with subsection (c) if the payment adjustment does not exceed 200 percent of the costs of furnishing hospital services described in paragraph (1)(A) during the year, but only if the Governor of the State certifies to the satisfaction of the Secretary that the hospital’s applicable minimum amount is used for health services during the year. In determining the amount that is used for such services during a year, there shall be excluded any amounts received under the Public Health Service Act [[42 U.S.C. 201](./chapter-6a-public-health-service.md#section-201) et seq.], subchapter V, subchapter XVIII, or from third party payors (not including the State plan under this subchapter) that are used for providing such services during the year.
+      (II) payments by uninsured patients for such services.
 
-  (B) *“Hospital with high disproportionate share” defined* — In subparagraph (A), a hospital is a “hospital with high disproportionate share” if—
+  (B) *Individuals described* — For purposes of subparagraph (A), the individuals described in this clause are the following:
 
-    (i) the hospital is owned or operated by a State (or by an instrumentality or a unit of government within a State); and
+    (i) Individuals who are eligible for medical assistance under the State plan or under a waiver of such plan and for whom the State plan or waiver is the primary payor for such services.
 
-    (ii) the hospital—
+    (ii) Subject to subparagraph (C), individuals who have no health insurance (or other source of third party coverage) for services provided during the year, as determined by the Secretary.
 
-      (I) meets the requirement described in subsection (b)(1)(A), or
+  (C) *Exclusion of certain payments* — For purposes of subparagraph (B)(ii), payments made to a hospital for services provided to indigent patients made by a State or a unit of local government within a State shall not be considered to be a source of third party coverage.
 
-      (II) has the largest number of inpatient days attributable to individuals entitled to benefits under the State plan of any hospital in such State for the previous State fiscal year.
+(2) **Application of limits for certain hospitals**
 
-  (C) *“Applicable minimum amount” defined* — In subparagraph (A), the “applicable minimum amount” for a hospital for a fiscal year is equal to the difference between the amount of the hospital’s payment adjustment for the fiscal year and the costs to the hospital of furnishing hospital services described in paragraph (1)(A) during the fiscal year.
+  (A) *In general* — A payment adjustment during a fiscal year shall not be considered to be consistent with subsection (c) with respect to a hospital described in subparagraph (B) if the payment adjustment exceeds the higher of—
+
+    (i) the amount determined for the hospital and fiscal year under paragraph (1)(A); and
+
+    (ii) the amount determined for the hospital under paragraph (1)(A) as in effect on January 1, 2020.
+
+  (B) *Hospitals described* — A hospital is described in this subparagraph for a fiscal year if, for the most recent cost reporting period, the hospital is in at least the 97th percentile of all hospitals with respect to—
+
+    (i) the number of inpatient days for such period that were made up of patients who (for such days) were entitled to benefits under part A of subchapter XVIII and were entitled to supplemental security income benefits under subchapter XVI (excluding any State supplementary benefits paid with respect to such patients); or
+
+    (ii) the percentage of total inpatient days that were made up of patients who (for such days) were described in clause (i).
+
+(3) **Continued application of grandfathered transition rule** — Notwithstanding paragraph (2) of this subsection (as in effect on October 1, 2021), paragraph (2) of this subsection (as in effect on September 30, 2021, and as applied under section 4721(e) of the Balanced Budget Act of 1997, and amended by section 607 of the Medicare, Medicaid, and SCHIP Balanced Budget Refinement Act of 1999 (Public Law 106–113)) shall apply in determining whether a payment adjustment for a hospital in a State referenced in section 4721(e) of the Balanced Budget Act of 1997 during a State fiscal year shall be considered consistent with subsection (c).
 
 **(h) Limitation on certain State DSH expenditures**
 
@@ -115699,59 +116521,10 @@ except that, for purposes of paragraphs (1)(B) and (2)(A) of subsection (a), the
 
 ### Statutory Notes
 
-#### Amendment of Subsection (g)
-Pub. L. 116–260, div. CC, title II, § 203, Dec. 27, 2020, 134 Stat. 2978, provided that, effective Oct. 1, 2021, and applicable to payment adjustments made under this section during fiscal years beginning on or after such date, subsection (g) of this section is amended to read as follows:
-
-(g) Limit on amount of payment to hospital
-
-(1) In general
-
-(A) Amount of adjustment subject to uncompensated costs
-
-A payment adjustment during a fiscal year shall not be considered to be consistent with subsection (c) with respect to a hospital (other than a hospital described in paragraph (2)(B)) if the payment adjustment exceeds an amount equal to—
-
-(i) the costs incurred during the year of furnishing hospital services by the hospital to individuals described in subparagraph (B) minus—
-
-(ii) the sum of—
-
-(I) payments under this subchapter (other than under this section) for such services; and
-
-(II) payments by uninsured patients for such services.
-
-(B) Individuals described
-
-For purposes of subparagraph (A), the individuals described in this clause are the following:
-
-(i) Individuals who are eligible for medical assistance under the State plan or under a waiver of such plan and for whom the State plan or waiver is the primary payor for such services.
-
-(ii) Subject to subparagraph (C), individuals who have no health insurance (or other source of third party coverage) for services provided during the year, as determined by the Secretary.
-
-(C) Exclusion of certain payments
-
-For purposes of subparagraph (B)(ii), payments made to a hospital for services provided to indigent patients made by a State or a unit of local government within a State shall not be considered to be a source of third party coverage.
-
-(2) Application of limits for certain hospitals
-
-(A) In general
-
-A payment adjustment during a fiscal year shall not be considered to be consistent with subsection (c) with respect to a hospital described in subparagraph (B) if the payment adjustment exceeds the higher of—
-
-(i) the amount determined for the hospital and fiscal year under paragraph (1)(A); and
-
-(ii) the amount determined for the hospital under paragraph (1)(A) as in effect on January 1, 2020.
-
-(B) Hospitals described
-
-A hospital is described in this subparagraph for a fiscal year if, for the most recent cost reporting period, the hospital is in at least the 97th percentile of all hospitals with respect to—
-
-(i) the number of inpatient days for such period that were made up of patients who (for such days) were entitled to benefits under part A of subchapter XVIII and were entitled to supplemental security income benefits under subchapter XVI (excluding any State supplementary benefits paid with respect to such patients); or
-
-(ii) the percentage of total inpatient days that were made up of patients who (for such days) were described in clause (i).
-
-See 2020 Amendment note below.
-
 #### References in Text
-The Public Health Service Act, referred to in subsec. (g)(2)(A), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§ 201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
+Section 6008 of the Families First Coronavirus Response Act, referred to in subsec. (f)(3)(F), is section 6008 of Pub. L. 116–127, which amended [section 1396d of this title](./chapter-007-social-security.md#section-1396d) and enacted provisions set out as a note under [section 1396d of this title](./chapter-007-social-security.md#section-1396d).
+
+Section 4721(e) of the Balanced Budget Act of 1997, and amended by section 607 of the Medicare, Medicaid, and SCHIP Balanced Budget Refinement Act of 1999 (Public Law 106–113), referred to in subsec. (g)(3), is Pub. L. 105–33, title IV, § 4721(e), Aug. 5, 1997, 111 Stat. 514, as amended by Pub. L. 106–113, div. B, § 1000(a)(6) [title VI, § 607(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–396, which is set out as a note under this section.
 
 #### Codification
 Prior to redesignation by Pub. L. 100–360, section 4112 of Pub. L. 100–203, cited in the credits to this section, was classified as a note under [section 1396a of this title](./chapter-007-social-security.md#section-1396a).
@@ -115760,6 +116533,12 @@ Prior to redesignation by Pub. L. 100–360, section 4112 of Pub. L. 100–203, 
 A prior section 1923 of act Aug. 14, 1935, was renumbered section 1939 and is classified to [section 1396v of this title](./chapter-007-social-security.md#section-1396v).
 
 #### Amendments
+2021—Subsec. (f)(3)(A). Pub. L. 117–2, § 9819(a)(1), substituted “subparagraphs (E) and (F)” for “subparagraph (E)”.
+
+Subsec. (f)(3)(F). Pub. L. 117–2, § 9819(a)(2), added subpar. (F).
+
+Subsec. (g)(3). Pub. L. 117–7 added par. (3).
+
 2020—Subsec. (f)(7)(A)(i). Pub. L. 116–260, § 201(1)(A), substituted “For each of fiscal years 2024 through 2027,” for “For the period beginning December 19, 2020, and ending September 30, 2021, and for each of fiscal years 2022 through 2025” in introductory provisions.
 
 Pub. L. 116–215 substituted “December 19, 2020” for “December 12, 2020” in introductory provisions.
@@ -116033,6 +116812,11 @@ Subsec. (d)(1). Pub. L. 100–360, § 411(k)(6)(B)(vi), as amended by Pub. L. 10
 Subsec. (d)(2)(B). Pub. L. 100–360, § 411(k)(6)(B)(vii), made technical amendment to reference to [section 1395ww of this title](./chapter-007-social-security.md#section-1395ww) involving underlying provisions of original Act.
 
 Subsec. (e). Pub. L. 100–360, § 411(k)(6)(A)(vii), as amended by Pub. L. 100–485, § 608(d)(26)(B), (C), designated existing provisions as par. (1), inserted “based on a pooling arrangement involving a majority of the hospitals participating under the plan” after first reference to “payment adjustments”, added par. (2) and substituted “statewide” for “Statewide” in par. (2).
+
+#### Effective Date of 2021 Amendment
+Pub. L. 117–7, § 2(b), Apr. 14, 2021, 135 Stat. 252, provided that the amendment made by section 2(b) is effective as if included in the enactment of section 203(a) of title II of division CC of Public Law 116–260.
+
+Pub. L. 117–2, title IX, § 9819(b), Mar. 11, 2021, 135 Stat. 218, provided that: “The amendment made by subsection (a) [amending this section] shall take effect and apply as if included in the enactment of the Families First Coronavirus Response Act (Public Law 116–127).”
 
 #### Effective Date of 2020 Amendment
 Pub. L. 116–260, div. CC, title II, § 203(b), Dec. 27, 2020, 134 Stat. 2979, provided that: “The amendment made by this section [amending this section] shall take effect on October 1, 2021, and shall apply to payment adjustments made under section 1923 of the Social Security Act ([42 U.S.C. 1396r–4](./chapter-007-social-security.md#section-1396r-4)) during fiscal years beginning on or after such date.”
@@ -116824,7 +117608,7 @@ Pub. L. 105–33, title IV, § 4713(b), Aug. 5, 1997, 111 Stat. 509, provided th
 
     (iv) to States to carry out this subchapter,
 
-    (v) to the Secretary to disclose (through a website accessible to the public) the weighted average of the most recently reported monthly average manufacturer prices and the average retail survey price determined for each multiple source drug in accordance with subsection (f)
+    (v) to the Secretary to disclose (through a website accessible to the public) the weighted average of the most recently reported monthly average manufacturer prices and the average retail survey price determined for each multiple source drug in accordance with subsection (f),
 
     (vi) in the case of categories of drug product or classification information that were not considered confidential by the Secretary on the day before April 18, 2019, and
 
@@ -116987,7 +117771,7 @@ Pub. L. 105–33, title IV, § 4713(b), Aug. 5, 1997, 111 Stat. 509, provided th
       (III) the total number of units of each dosage form and strength of the line extension product paid for under the State plan in the rebate period (as reported by the State).
     In this subparagraph, the term “line extension” means, with respect to a drug, a new formulation of the drug, such as an extended release formulation, but does not include an abuse-deterrent formulation of the drug (as determined by the Secretary), regardless of whether such abuse-deterrent formulation is an extended release formulation.
 
-  (D) *Maximum rebate amount* — In no case shall the sum of the amounts applied under paragraph (1)(A)(ii) and this paragraph with respect to each dosage form and strength of a single source drug or an innovator multiple source drug for a rebate period beginning after December 31, 2009, exceed 100 percent of the average manufacturer price of the drug.
+  (D) *Maximum rebate amount* — In no case shall the sum of the amounts applied under paragraph (1)(A)(ii) and this paragraph with respect to each dosage form and strength of a single source drug or an innovator multiple source drug for a rebate period beginning after December 31, 2009, and before January 1, 2024, exceed 100 percent of the average manufacturer price of the drug.
 
 (3) **Rebate for other drugs**
 
@@ -117131,6 +117915,8 @@ Pub. L. 105–33, title IV, § 4713(b), Aug. 5, 1997, 111 Stat. 509, provided th
   (C) Benzodiazepines.
 
   (D) Drugs and biological products described in subsection (ee)(1)(A) of [section 1396d of this title](./chapter-007-social-security.md#section-1396d) that are furnished as medical assistance in accordance with subsection (a)(29) of such section and [section 1396a(a)(10)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/a/10/A&num=0&edition=prelim).
+
+  (E) Drugs and biological products to which [section 1396d(a)(4)(F) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/4/F&num=0&edition=prelim) and subclause (XVIII) in the matter following subparagraph (G) of [section 1396a(a)(10) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/a/10&num=0&edition=prelim) apply that are furnished as medical assistance in accordance with such section or clause, respectively, for the treatment or prevention, of COVID–19, as described in such subparagraph or subclause, respectively, and [section 1396a(a)(10)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/a/10/A&num=0&edition=prelim).
 
 **(e) Treatment of pharmacy reimbursement limits**
 
@@ -117458,9 +118244,13 @@ Subsec. (i) of this section, which required the Secretary to transmit to the Com
 A prior section 1927 of act Aug. 14, 1935, was renumbered section 1939 and is classified to [section 1396v of this title](./chapter-007-social-security.md#section-1396v).
 
 #### Amendments
+2021—Subsec. (c)(2)(D). Pub. L. 117–2, § 9816, inserted “and before January 1, 2024,” after “December 31, 2009,”.
+
+Subsec. (d)(7)(E). Pub. L. 117–2, § 9811(a)(4)(B), added subpar. (E).
+
 2020—Subsec. (b)(3)(A). Pub. L. 116–260, § 401(c)(1), inserted at end of concluding provisions “For purposes of applying clause (iii), for calendar quarters beginning on or after January 1, 2022, a drug or biological described in the flush matter following such clause includes items, services, supplies, and products that are payable under part B of subchapter XVIII as a drug or biological.”
 
-Subsec. (b)(3)(A)(iii). Pub. L. 116–260, § 401(c)(2), substituted “[section 1395rr(b)(14)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395rr/b/14/B&num=0&edition=prelim)” for “[section 1395rr(b)(13)(A)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395rr/b/13/A/ii&num=0&edition=prelim)”.
+Subsec. (b)(3)(A)(iii). Pub. L. 116–260, § 401(c)(2), substituted “[section 1395rr(b)(14)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395rr/b/14/B&num=0&edition=prelim)” for “[section 1395rr(b)(13)(A)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395rr/b/13/A/ii&num=0&edition=prelim)” in concluding provisions.
 
 Subsec. (b)(3)(D). Pub. L. 116–260, § 112(b)(5), (6), in concluding provisions, substituted “1395w–104(c)(2)(G) of this title” for “1395w–104(c)(2)(E) of this title” and inserted at end “Any information disclosed to the Executive Director of the Medicare Payment Advisory Commission or the Executive Director of the Medicaid and CHIP Payment and Access Commission pursuant to this subparagraph shall not be disclosed by either such Executive Director in a form which discloses the identity of a specific manufacturer or wholesaler or prices charged for drugs by such manufacturer or wholesaler. Such information also shall not be disclosed by either such Executive Director to individual Commissioners of the Medicare Payment Advisory Commission or of the Medicaid and CHIP Payment and Access Commission in a form which discloses the identity of a specific manufacturer or wholesaler or prices charged for drugs by such manufacturer or wholesaler.”
 
@@ -117800,6 +118590,9 @@ Pub. L. 102–585, title VI, § 601(e), Nov. 4, 1992, 106 Stat. 4966, provided t
 
 #### Regulations
 Pub. L. 109–171, title VI, § 6001(c)(3), Feb. 8, 2006, 120 Stat. 55, provided that: “(A) Inspector general recommendations.—Not later than June 1, 2006, the Inspector General of the Department of Health and Human Services shall—“(i) review the requirements for, and manner in which, average manufacturer prices are determined under section 1927 of the Social Security Act [[42 U.S.C. 1396r–8](./chapter-007-social-security.md#section-1396r-8)], as amended by this section; and “(ii) shall submit to the Secretary of Health and Human Services and Congress such recommendations for changes in such requirements or manner as the Inspector General determines to be appropriate. “(B) Deadline for promulgation.—Not later than July 1, 2007, the Secretary of Health and Human Services shall promulgate a regulation that clarifies the requirements for, and manner in which, average manufacturer prices are determined under section 1927 of the Social Security Act, taking into consideration the recommendations submitted to the Secretary in accordance with subparagraph (A)(ii).”
+
+#### Inclusion in the Medicaid Drug Rebate Program of Covered Outpatient Drugs Used for COVID–19 Treatment
+Pub. L. 117–2, title IX, § 9811(a)(4)(A), Mar. 11, 2021, 135 Stat. 210, provided that: “(A) In general.—The requirements of section 1927 of the Social Security Act ([42 U.S.C. 1396r–8](./chapter-007-social-security.md#section-1396r-8)) shall apply to any drug or biological product to which subparagraph (F) of section 1905(a)(4) of such Act [[42 U.S.C. 1396d(a)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/4&num=0&edition=prelim)], as added by paragraph (1), applies or to which the subclause (XVIII) in the matter following subparagraph (G) of section 1902(a)(10) of such Act [[42 U.S.C. 1396a(a)(10)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/a/10&num=0&edition=prelim)], as added by paragraph (2), applies that is—“(i) furnished as medical assistance in accordance with section 1902(a)(10)(A) of such Act and such subparagraph (F) [probably means [42 U.S.C. 1396d(a)(4)(F)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/4/F&num=0&edition=prelim)] or subclause (XVIII) [probably means subcl. (XVIII) in [42 U.S.C. 1396a(a)(10)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/a/10&num=0&edition=prelim) concluding provisions] and section 1902(a)(10)(A) of such Act, as applicable, for the treatment, or prevention, of COVID–19, as described in such subparagraph or subclause, respectively; and “(ii) a covered outpatient drug (as defined in section 1927(k) of such Act, except that, in applying paragraph (2)(A) of such section [probably means [42 U.S.C. 1396r–8(k)(2)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396r–8/k/2/A&num=0&edition=prelim)] to a drug to which such subparagraph (F) [probably means [42 U.S.C. 1396d(a)(4)(F)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/4/F&num=0&edition=prelim)] or such subclause (XVIII) [probably means subcl. (XVIII) in [42 U.S.C. 1396a(a)(10)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/a/10&num=0&edition=prelim) concluding provisions] applies, such drug shall be deemed a prescribed drug for purposes of section 1905(a)(12) of such Act).”
 
 #### Pharmacy Reimbursement Under Medicaid
 Pub. L. 110–275, title II, § 203, July 15, 2008, 122 Stat. 2592, provided that: “(a) Delay in Application of New Payment Limit for Multiple Source Drugs Under Medicaid.—Notwithstanding paragraphs (4) and (5) of subsection (e) of section 1927 of the Social Security Act ([42 U.S.C. 1396r–8](./chapter-007-social-security.md#section-1396r-8)) or part 447 of title 42, Code of Federal Regulations, as published on July 17, 2007 (72 Federal Register 39142)—“(1) the specific upper limit under section 447.332 of title 42, Code of Federal Regulations (as in effect on December 31, 2006) applicable to payments made by a State for multiple source drugs under a State Medicaid plan shall continue to apply through September 30, 2009, for purposes of the availability of Federal financial participation for such payments; and “(2) the Secretary of Health and Human Services shall not, prior to October 1, 2009, finalize, implement, enforce, or otherwise take any action (through promulgation of regulation, issuance of regulatory guidance, use of Federal payment audit procedures, or other administrative action, policy, or practice, including a Medical Assistance Manual transmittal or letter to State Medicaid directors) to impose the specific upper limit established under section 447.514(b) of title 42, Code of Federal Regulations as published on July 17, 2007 (72 Federal Register 39142). “(b) Temporary Suspension of Updated Publicly Available AMP Data.—Notwithstanding clause (v) of section 1927(b)(3)(D) of the Social Security Act ([42 U.S.C. 1396r–8(b)(3)(D)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396r–8/b/3/D&num=0&edition=prelim)), the Secretary of Health and Human Services shall not, prior to October 1, 2009, make publicly available any AMP disclosed to the Secretary. “(c) Definitions.—In this subsection:“(1) The term ‘multiple source drug’ has the meaning given that term in section 1927(k)(7)(A)(i) of the Social Security Act ([42 U.S.C. 1396r–8(k)(7)(A)(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396r–8/k/7/A/i&num=0&edition=prelim)). “(2) The term ‘AMP’ has the meaning given ‘average manufacturer price’ in section 1927(k)(1) of the Social Security Act ([42 U.S.C. 1396r–8(k)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396r–8/k/1&num=0&edition=prelim)) and ‘AMP’ in section 447.504(a) of title 42, Code of Federal Regulations as published on July 17, 2007 (72 Federal Register 39142).”
@@ -120003,7 +120796,7 @@ Pub. L. 110–379, § 5(b)(2), Oct. 8, 2008, 122 Stat. 4079, provided that: “T
 
   (B) payment for such services is made in accordance with the requirements of [section 1396a(bb) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/bb&num=0&edition=prelim).
 
-(5) **Minimum standards** — Effective January 1, 2014, any benchmark benefit package under paragraph (1) or benchmark equivalent coverage under paragraph (2) must provide at least essential health benefits as described in [section 18022(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18022/b&num=0&edition=prelim), and beginning January 1, 2022, coverage of routine patient costs for items and services furnished in connection with participation in a qualifying clinical trial (as defined in [section 1396d(gg) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/gg&num=0&edition=prelim))”.
+(5) **Minimum standards** — Effective January 1, 2014, any benchmark benefit package under paragraph (1) or benchmark equivalent coverage under paragraph (2) must provide at least essential health benefits as described in [section 18022(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18022/b&num=0&edition=prelim), and beginning January 1, 2022, coverage of routine patient costs for items and services furnished in connection with participation in a qualifying clinical trial (as defined in [section 1396d(gg) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/gg&num=0&edition=prelim)).
 
 (6) **Mental health services parity**
 
@@ -120012,6 +120805,12 @@ Pub. L. 110–379, § 5(b)(2), Oct. 8, 2008, 122 Stat. 4079, provided that: “T
   (B) *Deemed compliance* — Coverage provided with respect to an individual described in [section 1396d(a)(4)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/4/B&num=0&edition=prelim) and covered under the State plan under [section 1396a(a)(10)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/a/10/A&num=0&edition=prelim) of the services described in [section 1396d(a)(4)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/4/B&num=0&edition=prelim) (relating to early and periodic screening, diagnostic, and treatment services defined in [section 1396d(r) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/r&num=0&edition=prelim)) and provided in accordance with [section 1396a(a)(43) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/a/43&num=0&edition=prelim), shall be deemed to satisfy the requirements of subparagraph (A).
 
 (7) **Coverage of family planning services and supplies** — Notwithstanding the previous provisions of this section, a State may not provide for medical assistance through enrollment of an individual with benchmark coverage or benchmark-equivalent coverage under this section unless such coverage includes for any individual described in [section 1396d(a)(4)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/4/C&num=0&edition=prelim), medical assistance for family planning services and supplies in accordance with such section.
+
+(8) **COVID–19 vaccines, testing, and treatment** — Notwithstanding the previous provisions of this section, a State may not provide for medical assistance through enrollment of an individual with benchmark coverage or benchmark-equivalent coverage under this section unless, during the period beginning on March 11, 2021 and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim), such coverage includes (and does not impose any deduction, cost sharing, or similar charge for)—
+
+  (A) COVID–19 vaccines and administration of the vaccines; and
+
+  (B) testing and treatments for COVID–19, including specialized equipment and therapies (including preventive therapies), and, in the case of such an individual who is diagnosed with or presumed to have COVID–19, during the period such individual has (or is presumed to have) COVID–19, the treatment of a condition that may seriously complicate the treatment of COVID–19, if otherwise covered under the State plan (or waiver of such plan).
 
 **(c) Publication of provisions affected** With respect to a State plan amendment to provide benchmark benefits in accordance with subsections (a) and (b) that is approved by the Secretary, the Secretary shall publish on the Internet website of the Centers for Medicare & Medicaid Services, a list of the provisions of this subchapter that the Secretary has determined do not apply in order to enable the State to carry out the plan amendment and the reason for each such determination on the date such approval is made, and shall publish such list in the Federal Register and 22 So in original. not later than 30 days after such date of approval.
 
@@ -120024,6 +120823,8 @@ Amendment of section by section 210(c) of Pub. L. 116–260 applicable with resp
 A prior section 1937 of act Aug. 14, 1935, was renumbered section 1939 and is classified to [section 1396v of this title](./chapter-007-social-security.md#section-1396v).
 
 #### Amendments
+2021—Subsec. (b)(8). Pub. L. 117–2 added par. (8).
+
 2020—Subsec. (a)(1)(A). Pub. L. 116–260, § 209(a)(2)(A), substituted “subparagraphs (E) and (F)” for “subsection (E)”.
 
 Subsec. (a)(1)(F). Pub. L. 116–260, § 209(a)(2)(B), added subpar. (F).
@@ -121143,6 +121944,53 @@ Section 5001 of Public Law 111–5, referred to in subsec. (c)(3)(B), is section
 **(c) Implementing effective approaches** Not later than 24 months after March 23, 2010, the Secretary shall implement the approaches identified in the report submitted under subsection (b)(1) for the ongoing, accurate, and timely collection and evaluation of data on health care disparities on the basis of race, ethnicity, sex, primary language, and disability status.
 
 
+<a id="section-1396w-6"></a>
+## § 1396w–6. State option to provide qualifying community-based mobile crisis intervention services
+**(a) In general** Notwithstanding [section 1396a(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/a/1&num=0&edition=prelim) (relating to Statewideness), [section 1396a(a)(10)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/a/10/B&num=0&edition=prelim) (relating to comparability), [section 1396a(a)(23)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/a/23/A&num=0&edition=prelim) (relating to freedom of choice of providers), or [section 1396a(a)(27) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/a/27&num=0&edition=prelim) (relating to provider agreements), a State may, during the 5-year period beginning on the first day of the first fiscal year quarter that begins on or after the date that is 1 year after March 11, 2021, provide medical assistance for qualifying community-based mobile crisis intervention services.
+
+**(b) Qualifying community-based mobile crisis intervention services defined** For purposes of this section, the term “qualifying community-based mobile crisis intervention services” means, with respect to a State, items and services for which medical assistance is available under the State plan under this subchapter or a waiver of such plan, that are—
+
+(1) furnished to an individual otherwise eligible for medical assistance under the State plan (or waiver of such plan) who is—
+
+  (A) outside of a hospital or other facility setting; and
+
+  (B) experiencing a mental health or substance use disorder crisis;
+
+(2) furnished by a multidisciplinary mobile crisis team—
+
+  (A) that includes at least 1 behavioral health care professional who is capable of conducting an assessment of the individual, in accordance with the professional’s permitted scope of practice under State law, and other professionals or paraprofessionals with appropriate expertise in behavioral health or mental health crisis response, including nurses, social workers, peer support specialists, and others, as designated by the State through a State plan amendment (or waiver of such plan);
+
+  (B) whose members are trained in trauma-informed care, de-escalation strategies, and harm reduction;
+
+  (C) that is able to respond in a timely manner and, where appropriate, provide—
+
+    (i) screening and assessment;
+
+    (ii) stabilization and de-escalation; and
+
+    (iii) coordination with, and referrals to, health, social, and other services and supports as needed, and health services as needed;
+
+  (D) that maintains relationships with relevant community partners, including medical and behavioral health providers, primary care providers, community health centers, crisis respite centers, and managed care organizations (if applicable); and
+
+  (E) that maintains the privacy and confidentiality of patient information consistent with Federal and State requirements; and
+
+(3) available 24 hours per day, every day of the year.
+
+**(c) Payments** Notwithstanding section 1396d(b) or 1396d(ff) of this title and subject to subsections (y) and (z) of [section 1396d of this title](./chapter-007-social-security.md#section-1396d), during each of the first 12 fiscal quarters occurring during the period described in subsection (a) that a State meets the requirements described in subsection (d), the Federal medical assistance percentage applicable to amounts expended by the State for medical assistance for qualifying community-based mobile crisis intervention services furnished during such quarter shall be equal to 85 percent. In no case shall the application of the previous sentence result in the Federal medical assistance percentage applicable to amounts expended by a State for medical assistance for such qualifying community-based mobile crisis intervention services furnished during a quarter being less than the Federal medical assistance percentage that would apply to such amounts expended by the State for such services furnished during such quarter without application of the previous sentence.
+
+**(d) Requirements** The requirements described in this subsection are the following:
+
+(1) The State demonstrates, to the satisfaction of the Secretary that it will be able to support the provision of qualifying community-based mobile crisis intervention services that meet the conditions specified in subsection (b).
+
+(2) The State provides assurances satisfactory to the Secretary that—
+
+  (A) any additional Federal funds received by the State for qualifying community-based mobile crisis intervention services provided under this section that are attributable to the increased Federal medical assistance percentage under subection (c) will be used to supplement, and not supplant, the level of State funds expended for such services for the fiscal year preceding the first fiscal quarter occurring during the period described in subsection (a);
+
+  (B) if the State made qualifying community-based mobile crisis intervention services available in a region of the State in such fiscal year, the State will continue to make such services available in such region under this section during each month occurring during the period described in subsection (a) for which the Federal medical assistance percentage under subsection (c) is applicable with respect to the State.
+
+**(e) Funding for state planning grants** There is appropriated, out of any funds in the Treasury not otherwise appropriated, $15,000,000 to the Secretary for purposes of implementing, administering, and making planning grants to States as soon as practicable for purposes of developing a State plan amendment or section 1315, 1396n(b), or 1396n(c) of this title waiver request (or an amendment to such a waiver) to provide qualifying community-based mobile crisis intervention services under this section, to remain available until expended.
+
+
 <a id="section-1396-1"></a>
 ## § 1396–1. Appropriations
 
@@ -121609,6 +122457,12 @@ A prior section 1397c, act Aug. 14, 1935, ch. 531, title XX, § 2004, as added J
 
 (10) **Certain in vitro diagnostic products for COVID–19 testing** — The child health assistance provided to a targeted low-income child shall include coverage of any in vitro diagnostic product described in [section 1396d(a)(3)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/3/B&num=0&edition=prelim) that is administered during any portion of the emergency period described in such section beginning on or after March 18, 2020 11 See References in Text note below. (and the administration of such product).
 
+(11) **Required coverage of COVID–19 vaccines and treatment** — Regardless of the type of coverage elected by a State under subsection (a), the child health assistance provided for a targeted low-income child, and, in the case of a State that elects to provide pregnancy-related assistance pursuant to section 1397ll of this title, the pregnancy-related assistance provided for a targeted low-income pregnant woman (as such terms are defined for purposes of such section), shall include coverage, during the period beginning on March 11, 2021 and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim), of—
+
+  (A) a COVID–19 vaccine (and the administration of the vaccine); and
+
+  (B) testing and treatments for COVID–19, including specialized equipment and therapies (including preventive therapies), and, in the case of an individual who is diagnosed with or presumed to have COVID–19, during the period during which such individual has (or is presumed to have) COVID–19, the treatment of a condition that may seriously complicate the treatment of COVID–19, if otherwise covered under the State child health plan (or waiver of such plan).
+
 **(d) Description of existing comprehensive State-based coverage**
 
 (1) **In general** — A program described in this paragraph is a child health coverage program that—
@@ -121636,7 +122490,7 @@ A prior section 1397c, act Aug. 14, 1935, ch. 531, title XX, § 2004, as added J
 
   (B) *Protection for lower income children* — The State child health plan may only vary premiums, deductibles, coinsurance, and other cost sharing based on the family income of targeted low-income children in a manner that does not favor children from families with higher income over children from families with lower income.
 
-(2) **No cost sharing on benefits for preventive services, COVID–19 testing, or pregnancy-related assistance** — The State child health plan may not impose deductibles, coinsurance, or other cost sharing with respect to benefits for services within the categories of services described in subsection (c)(1)(D), in vitro diagnostic products described in subsection (c)(10) (and administration of such products), visits described in section 1396o(a)(2)(G) of this title, or for pregnancy-related assistance.
+(2) **No cost sharing on benefits for preventive services, COVID–19 testing, a covid–19 vaccine, covid–19 treatment, or pregnancy-related assistance** — The State child health plan may not impose deductibles, coinsurance, or other cost sharing with respect to benefits for services within the categories of services described in subsection (c)(1)(D), in vitro diagnostic products described in subsection (c)(10) (and administration of such products), services described in section 1396o(a)(2)(G) of this title, vaccines described in section 1396o(a)(2)(H) of this title administered during the period described in such section (and the administration of such vaccines), testing or treatments described in section 1396o(a)(2)(I) of this title furnished during the period described in such section, or for pregnancy-related assistance.
 
 (3) **Limitations on premiums and cost-sharing**
 
@@ -121683,7 +122537,11 @@ The Employee Retirement Income Security Act of 1974, referred to in subsec. (f)(
 The Public Health Service Act, referred to in subsec. (f), is act July 1, 1944, ch. 373, 58 Stat. 682. Title XXVII of the Act is classified generally to subchapter XXV (§ 300gg et seq.) of chapter 6A of this title. Subpart 2 of part A of title XXVII of the Act may refer to subpart II of part A of subchapter XXV of chapter 6A of this title. Pub. L. 111–148, title I, §§ 1001(5), 1563(c)(2), (11), formerly § 1562(c)(2), (11), title X, § 10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 265, 268, 911, amended part A by inserting “subpart ii—improving coverage” (preceding [section 300gg–11 of this title](./chapter-6a-public-health-service.md#section-300gg-11)), by striking out “subpart 2—other requirements” (preceding [section 300gg–4 of this title](./chapter-6a-public-health-service.md#section-300gg-4)), and by redesignating subpart 4 as subpart 2 “exclusion of plans; enforcement; preemption” (preceding [section 300gg–21 of this title](./chapter-6a-public-health-service.md#section-300gg-21)). For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
 
 #### Amendments
-2020—Subsec. (c)(7)(A). Pub. L. 116–260, § 203(a)(4)(C)(ii), inserted at end “In applying the previous sentence with respect to requirements under paragraph (8) of section 2726(a) of the Public Health Service Act [[42 U.S.C. 300gg–26(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–26/a&num=0&edition=prelim)], a State child health plan described in such sentence shall be treated as in compliance with such requirements if the State child health plan is in compliance with section 457.496 of title 42, Code of Federal Regulations, or any successor regulation.”
+2021—Subsec. (c)(11). Pub. L. 117–2, § 9821(a)(1), added par. (11).
+
+Subsec. (e)(2). Pub. L. 117–2, § 9821(a)(2), in heading, inserted “a covid–19 vaccine, covid–19 treatment,” before “or pregnancy-related assistance” and, in text, substituted “services described in section 1396o(a)(2)(G) of this title, vaccines described in section 1396o(a)(2)(H) of this title administered during the period described in such section (and the administration of such vaccines), testing or treatments described in section 1396o(a)(2)(I) of this title furnished during the period described in such section, or” for “visits described in section 1396o(a)(2)(G) of this title, or”.
+
+2020—Subsec. (c)(7)(A). Pub. L. 116–260, § 203(a)(4)(C)(ii), inserted at end “In applying the previous sentence with respect to requirements under paragraph (8) of section 2726(a) of the Public Health Service Act, a State child health plan described in such sentence shall be treated as in compliance with such requirements if the State child health plan is in compliance with section 457.496 of title 42, Code of Federal Regulations, or any successor regulation.”
 
 Pub. L. 116–260, § 203(a)(4)(C)(i), which directed substitution of “section 2726(a)” for “section 2705(a)”, could not be executed because of the intervening general amendment by Pub. L. 115–271, § 5022(d). See 2018 Amendment note below.
 
@@ -122317,7 +123175,7 @@ Amendment by Pub. L. 100–93 effective at end of fourteen-day period beginning 
       (II) the amount of any payments made to the State under subsection (n) for fiscal year 2011,
     multiplied by the allotment increase factor under paragraph (6) for fiscal year 2012.
 
-  (B) *Fiscal year 2013 and each succeeding fiscal year* — Subject to paragraphs (5) and (7), from the amount made available under paragraphs (16) through (27) of subsection (a) for fiscal year 2013 and each succeeding fiscal year, respectively, the Secretary shall compute a State allotment for each State (including the District of Columbia and each commonwealth and territory) for each such fiscal year as follows:
+  (B) *Fiscal year 2013 and each succeeding fiscal year* — Subject to paragraphs (5), (7), and (12), from the amount made available under paragraphs (16) through (27) of subsection (a) for fiscal year 2013 and each succeeding fiscal year, respectively, the Secretary shall compute a State allotment for each State (including the District of Columbia and each commonwealth and territory) for each such fiscal year as follows:
 
     (i) *Rebasing in fiscal year 2013 and each succeeding odd-numbered fiscal year* — For fiscal year 2013 and each succeeding odd-numbered fiscal year (other than fiscal years 2015, 2017,,3 2023, and 2027), the allotment of the State is equal to the Federal payments to the State that are attributable to (and countable toward) the total amount of allotments available under this section to the State in the preceding fiscal year (including payments made to the State under subsection (n) for such preceding fiscal year as well as amounts redistributed to the State in such preceding fiscal year), multiplied by the allotment increase factor under paragraph (6) for such odd-numbered fiscal year.
 
@@ -122459,6 +123317,16 @@ Amendment by Pub. L. 100–93 effective at end of fourteen-day period beginning 
 
       (II) the amount made available under subsection (a)(28)(B).
 
+(12) **Adjusting allotments to account for increased Federal payments for coverage and administration of COVID–19 vaccines** — If a State, commonwealth, or territory receives payment for a fiscal year (beginning with fiscal year 2021) under subsection (a) of [section 1397ee of this title](./chapter-007-social-security.md#section-1397ee) for expenditures that are subject to the enhanced FMAP specified under subsection (c)(12) of such section, the amount of the allotment determined for the State, commonwealth, or territory under this subsection—
+
+  (A) for such fiscal year shall be increased by the projected expenditures for such year by the State, commonwealth, or territory under the State child health plan (or a waiver of such plan) for vaccines described in [section 1396d(a)(4)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/4/E&num=0&edition=prelim) (and the administration of such vaccines); and
+
+  (B) once actual expenditures are available in the subsequent fiscal year, the fiscal year allotment that was adjusted by the amount described in subparagraph (A) shall be adjusted on the basis of the difference between—
+
+    (i) such projected amount of expenditures described in subparagraph (A) for such fiscal year described in such subparagraph by the State, commonwealth, or territory; and
+
+    (ii) the actual amount of expenditures for such fiscal year described in subparagraph (A) by the State, commonwealth, or territory under the State child health plan (or waiver of such plan) for vaccines described in [section 1396d(a)(4)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/4/E&num=0&edition=prelim) (and the administration of such vaccines).
+
 **(n) Child Enrollment Contingency Fund**
 
 (1) **Establishment** — There is hereby established in the Treasury of the United States a fund which shall be known as the “Child Enrollment Contingency Fund” (in this subsection referred to as the “Fund”). Amounts in the Fund shall be available without further appropriations for payments under this subsection.
@@ -122519,6 +123387,10 @@ Section 3002(b)(2) of the HEALTHY KIDS Act, referred to in subsec. (m)(10)(A), (
 Section 50101(b)(2) of the Advancing Chronic Care, Extenders, and Social Services Act, referred to in subsec. (m)(11)(A), (D)(i)(II), probably means section 50101(b)(2) of the Advancing Chronic Care, Extenders, and Social Services (ACCESS) Act, Pub. L. 115–123, div. E, title I, Feb. 9, 2018, 132 Stat. 173, which relates to a one-time appropriation for fiscal year 2027 and is not classified to the Code.
 
 #### Amendments
+2021—Subsec. (m)(2)(B). Pub. L. 117–2, § 9821(c)(1), substituted “paragraphs (5), (7), and (12)” for “paragraphs (5) and (7)”.
+
+Subsec. (m)(12). Pub. L. 117–2, § 9821(c)(2), added par. (12).
+
 2018—Subsec. (a)(21) to (26). Pub. L. 115–120, § 3002(a)(1), added pars. (21) to (26) and struck out former par. (21) which related to semi-annual allotment for fiscal year 2018 ending on March 31, 2018.
 
 Subsec. (a)(27), (28). Pub. L. 115–123, § 50101(a), added pars. (27) and (28).
@@ -123182,6 +124054,8 @@ Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed a
 
 (11) **Enhanced payments** — Notwithstanding subsection (b), the enhanced FMAP with respect to payments under subsection (a) for expenditures related to the administration of the payment error rate measurement (PERM) requirements applicable to the State child health plan in accordance with the 4 subchapter IV of chapter 33 of title 31 and parts 431 and 457 of title 42, Code of Federal Regulations (or any related or successor guidance or regulations) shall in no event be less than 90 percent.
 
+(12) **Temporary enhanced payment for coverage and administration of covid–19 vaccines** — During the period described in [section 1396d(hh)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/hh/2&num=0&edition=prelim), notwithstanding subsection (b), the enhanced FMAP for a State, with respect to payments under subsection (a) for expenditures under the State child health plan (or a waiver of such plan) for a vaccine described in [section 1396d(a)(4)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/4/E&num=0&edition=prelim) (and the administration of such a vaccine), shall be equal to 100 percent.
+
 **(d) Maintenance of effort**
 
 (1) **In medicaid eligibility standards** — No payment may be made under subsection (a) with respect to child health assistance provided under a State child health plan if the State adopts income and resource standards and methodologies for purposes of determining a child’s eligibility for medical assistance under the State plan under subchapter XIX that are more restrictive than those applied as of June 1, 1997, except as required under [section 1396a(e)(14) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/e/14&num=0&edition=prelim).
@@ -123254,6 +124128,8 @@ Section 2701 of the Public Health Service Act, referred to in subsec. (c)(10)(B)
 The Internal Revenue Code of 1986, referred to in subsecs. (c)(10)(B)(i)(III), (ii) and (d)(3)(B), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
+2021—Subsec. (c)(12). Pub. L. 117–2 added par. (12).
+
 2020—Subsec. (c)(2)(C)(iv), (11). Pub. L. 116–117 substituted “subchapter IV of chapter 33 of title 31” for “Improper Payments Information Act of 2002”.
 
 2018—Subsec. (b). Pub. L. 115–120, § 3005, inserted “and during the period that begins on October 1, 2019, and ends on September 30, 2020, the enhanced FMAP determined for a State for a fiscal year (or for any portion of a fiscal year occurring during such period) shall be increased by 11.5 percentage points” after “23 percentage points,”.
@@ -123863,25 +124739,27 @@ Pub. L. 116–136, div. A, title III, § 3823, Mar. 27, 2020, 134 Stat. 433, pro
 
   (I) [Section 1396a(e)(14) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/e/14&num=0&edition=prelim) (relating to income determined using modified adjusted gross income and household income).
 
-  (J) [Section 1396a(bb) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/bb&num=0&edition=prelim) (relating to payment for services provided by Federally-qualified health centers and rural health clinics).
+  (J) Paragraphs (5) and (16) of [section 1396a(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/e&num=0&edition=prelim) (relating to the State option to provide medical assistance consisting of full benefits during pregnancy and throughout the 12-month postpartum period under subchapter XIX), if the State provides child health assistance for targeted low-income children who are pregnant or to targeted low-income pregnant women and the State has elected to apply such paragraph (16) with respect to pregnant women under subchapter XIX, the provision of assistance under the State child health plan or waiver for targeted low-income children or targeted low-income pregnant women during pregnancy and the 12-month postpartum period shall be required and not at the option of the State and shall include coverage of all items or services provided to a targeted low-income child or targeted low-income pregnant woman (as applicable) under the State child health plan or waiver).
 
-  (K) [Section 1396a(ff) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/ff&num=0&edition=prelim) (relating to disregard of certain property for purposes of making eligibility determinations).
+  (K) [Section 1396a(bb) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/bb&num=0&edition=prelim) (relating to payment for services provided by Federally-qualified health centers and rural health clinics).
 
-  (L) Paragraphs (2), (16), and (17) of [section 1396b(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396b/i&num=0&edition=prelim) (relating to limitations on payment).
+  (L) [Section 1396a(ff) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/ff&num=0&edition=prelim) (relating to disregard of certain property for purposes of making eligibility determinations).
 
-  (M) [Section 1396b(m)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396b/m/3&num=0&edition=prelim) (relating to limitation on payment with respect to managed care).
+  (M) Paragraphs (2), (16), and (17) of [section 1396b(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396b/i&num=0&edition=prelim) (relating to limitations on payment).
 
-  (N) Paragraph (4) of [section 1396b(v) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396b/v&num=0&edition=prelim) (relating to optional coverage of categories of lawfully residing immigrant children or pregnant women), but only if the State has elected to apply such paragraph with respect to such category of children or pregnant women under subchapter XIX.
+  (N) [Section 1396b(m)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396b/m/3&num=0&edition=prelim) (relating to limitation on payment with respect to managed care).
 
-  (O) [Section 1396b(w) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396b/w&num=0&edition=prelim) (relating to limitations on provider taxes and donations).
+  (O) Paragraph (4) of [section 1396b(v) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396b/v&num=0&edition=prelim) (relating to optional coverage of categories of lawfully residing immigrant children or pregnant women), but only if the State has elected to apply such paragraph with respect to such category of children or pregnant women under subchapter XIX.
 
-  (P) [Section 1396r–1a of this title](./chapter-007-social-security.md#section-1396r-1a) (relating to presumptive eligibility for children).
+  (P) [Section 1396b(w) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396b/w&num=0&edition=prelim) (relating to limitations on provider taxes and donations).
 
-  (Q) Subsections (a)(2)(C) (relating to Indian enrollment), (d)(5) (relating to contract requirement for managed care entities), (d)(6) (relating to enrollment of providers participating with a managed care entity), and (h) (relating to special rules with respect to Indian enrollees, Indian health care providers, and Indian managed care entities) of [section 1396u–2 of this title](./chapter-007-social-security.md#section-1396u-2).
+  (Q) [Section 1396r–1a of this title](./chapter-007-social-security.md#section-1396r-1a) (relating to presumptive eligibility for children).
 
-  (R) [Section 1396w–2 of this title](./chapter-007-social-security.md#section-1396w-2) (relating to authorization to receive data directly relevant to eligibility determinations).
+  (R) Subsections (a)(2)(C) (relating to Indian enrollment), (d)(5) (relating to contract requirement for managed care entities), (d)(6) (relating to enrollment of providers participating with a managed care entity), and (h) (relating to special rules with respect to Indian enrollees, Indian health care providers, and Indian managed care entities) of [section 1396u–2 of this title](./chapter-007-social-security.md#section-1396u-2).
 
-  (S) [Section 1396w–3(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396w–3/b&num=0&edition=prelim) (relating to coordination with State Exchanges and the State Medicaid agency).
+  (S) [Section 1396w–2 of this title](./chapter-007-social-security.md#section-1396w-2) (relating to authorization to receive data directly relevant to eligibility determinations).
+
+  (T) [Section 1396w–3(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396w–3/b&num=0&edition=prelim) (relating to coordination with State Exchanges and the State Medicaid agency).
 
 (2) **Subchapter XI provisions**
 
@@ -123917,10 +124795,15 @@ Pub. L. 116–136, div. A, title III, § 3823, Mar. 27, 2020, 134 Stat. 433, pro
 
 ### Statutory Notes
 
+#### Applicability of Amendment
+Amendment of section by Pub. L. 117–2 applicable with respect to State elections made under [section 1396a(e)(16) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/e/16&num=0&edition=prelim) during the 5-year period beginning on the 1st day of the 1st fiscal year quarter that begins one year after Mar. 11, 2021. See 2021 Amendment note below.
+
 #### Codification
 Amendment by section 501(d)(2) of Pub. L. 111–3 executed after amendment by section 214(b) of Pub. L. 111–3 to reflect the probable intent of Congress, notwithstanding section 501(d)(3) of Pub. L. 111–3, set out as an Effective Date of 2009 Amendment note under [section 1396a of this title](./chapter-007-social-security.md#section-1396a).
 
 #### Amendments
+2021—Subsec. (e)(1)(J) to (T). Pub. L. 117–2 added subpar. (J) and redesignated former subpars. (J) to (S) as (K) to (T), respectively.
+
 2018—Subsec. (e)(1)(B) to (S). Pub. L. 115–123 added subpar. (B) and redesignated former subpars. (B) to (R) as (C) to (S), respectively.
 
 Subsec. (g). Pub. L. 115–120 added subsec. (g).
@@ -124042,6 +124925,9 @@ Subsec. (f)(2). Pub. L. 111–3, § 112(a)(2)(A)(iv), added par. (2).
 2006—Subsec. (f). Pub. L. 109–171 added subsec. (f).
 
 2000—Subsec. (e)(1)(D). Pub. L. 106–554 added subpar. (D).
+
+#### Effective Date of 2021 Amendment
+Pub. L. 117–2, title IX, § 9822(b), Mar. 11, 2021, 135 Stat. 221, provided that: “The amendments made by subsection (a) [amending this section], shall apply with respect to State elections made under paragraph (16) of section 1902(e) of the Social Security Act ([42 U.S.C. 1396a(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/e&num=0&edition=prelim)), as added by section 9812(a) of subtitle J of this title [subtitle J (§§ 9811–9819) of title IX of Pub. L. 117–2], during the 5-year period beginning on the 1st day of the 1st fiscal year quarter that begins one year after the date of the enactment of this Act [Mar. 11, 2021].”
 
 #### Effective Date of 2009 Amendment
 Amendment by Pub. L. 111–5 effective July 1, 2009, see section 5006(f) of Pub. L. 111–5, set out as a note under [section 1396a of this title](./chapter-007-social-security.md#section-1396a).
@@ -124294,6 +125180,17 @@ Amendment by section 501(e)(2) of Pub. L. 111–3 effective for annual reports s
 
 #### Standardized Reporting Format
 Pub. L. 111–3, title IV, § 402(b), Feb. 4, 2009, 123 Stat. 83, provided that: “(1) In general.—Not later than 1 year after the date of enactment of this Act [Feb. 4, 2009], the Secretary [of Health and Human Services] shall specify a standardized format for States to use for reporting the information required under section 2108(e) of the Social Security Act [[42 U.S.C. 1397hh(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1397hh/e&num=0&edition=prelim)], as added by subsection (a)(2). “(2) Transition period for states.—Each State that is required to submit a report under subsection (a) of section 2108 of the Social Security Act [[42 U.S.C. 1397hh(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1397hh/a&num=0&edition=prelim)] that includes the information required under subsection (e) of such section may use up to 3 reporting periods to transition to the reporting of such information in accordance with the standardized format specified by the Secretary under paragraph (1).”
+
+
+<a id="section-1397i"></a>
+## § 1397i. Additional funding for aging and disability services programs
+**(a) Appropriation** In addition to amounts otherwise available, there is appropriated for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $276,000,000, to remain available until expended, to carry out the programs described in division B of this subchapter.
+
+**(b) Use of funds** Of the amounts made available by subsection (a)—
+
+(1) $88,000,000 shall be made available to carry out the programs described in division B of this subchapter in fiscal year 2021, of which not less than an amount equal to $100,0000,000 minus the amount previously provided in fiscal year 2021 to carry out [section 1397m–1(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1397m–1/b&num=0&edition=prelim) shall be made available to carry out such section; and
+
+(2) $188,000,000 shall be made available to carry out the programs described in division B of this subchapter in fiscal year 2022, of which not less than $100,000,000 shall be for activities described in [section 1397m–1(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1397m–1/b&num=0&edition=prelim).
 
 
 <a id="section-1397ii"></a>
@@ -125062,7 +125959,7 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (j), is
 
 (2) **Targeted low-income pregnant woman** — The term “targeted low-income pregnant woman” means an individual—
 
-  (A) during pregnancy and through the end of the month in which the 60-day period (beginning on the last day of her pregnancy) ends;
+  (A) during pregnancy and through the end of the month in which the 60-day period, or, in the case that subparagraph (A) of [section 1396a(e)(16) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/e/16&num=0&edition=prelim) applies to the State child health plan (or waiver of such plan), pursuant to [section 1397gg(e)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1397gg/e/1&num=0&edition=prelim), the 12-month period, (beginning on the last day of her pregnancy) ends;
 
   (B) whose family income exceeds 185 percent (or, if higher, the percent applied under subsection (b)(1)(A)) of the poverty line applicable to a family of the size involved, but does not exceed the income eligibility level established under the State child health plan under this subchapter for a targeted low-income child; and
 
@@ -125089,6 +125986,8 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (j), is
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (d)(2)(A). Pub. L. 117–2 inserted “, or, in the case that subparagraph (A) of [section 1396a(e)(16) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/e/16&num=0&edition=prelim) applies to the State child health plan (or waiver of such plan), pursuant to section 1397gg (e)(1) of this title, the 12-month period,” after “60-day period”.
+
 2020—Subsec. (b)(4). Pub. L. 116–127 inserted “under [section 1397cc(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1397cc/c&num=0&edition=prelim)” after “same requirements”.
 
 #### Effective Date

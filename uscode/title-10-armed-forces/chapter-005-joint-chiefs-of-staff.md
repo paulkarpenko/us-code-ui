@@ -24,6 +24,8 @@ source: >-
 
 (7) The Chief of the National Guard Bureau.
 
+(8) The Chief of Space Operations.
+
 **(b) Function as Military Advisers.—**
 
 (1) The Chairman of the Joint Chiefs of Staff is the principal military adviser to the President, the National Security Council, the Homeland Security Council, and the Secretary of Defense.
@@ -68,13 +70,6 @@ source: >-
 
 ### Statutory Notes
 
-#### Amendment of Subsection (a)
-Pub. L. 116–92, div. A, title IX, § 953(c), Dec. 20, 2019, 133 Stat. 1564, provided that, effective on the date that is one year after Dec. 20, 2019, subsection (a) of this section is amended by adding at the end the following new paragraph:
-
-(8) The Chief of Space Operations.
-
-See 2019 Amendment note below.
-
 #### Amendments
 2019—Subsec. (a)(8). Pub. L. 116–92 added par. (8).
 
@@ -112,7 +107,7 @@ Pub. L. 116–92, div. A, title IX, § 953(c), Dec. 20, 2019, 133 Stat. 1564, pr
 
   (A) the Vice Chairman of the Joint Chiefs of Staff;
 
-  (B) the Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force, or the Commandant of the Marine Corps, or the Chief of Space Operations; or
+  (B) the Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force, the Commandant of the Marine Corps, or the Chief of Space Operations; or
 
   (C) the commander of a unified or specified combatant command.
 
@@ -123,9 +118,9 @@ Pub. L. 116–92, div. A, title IX, § 953(c), Dec. 20, 2019, 133 Stat. 1564, pr
 ### Statutory Notes
 
 #### Amendments
-2021—Subsec. (b)(1)(B). Pub. L. 116–283, § 924(b)(7)(A)(i), which directed substitution of “the Commandant of the Marine Corps, or the Chief of Space Operations” for “or the Commandant of the Marine Corps” in subpar. (C), was executed by making substitution in subpar. (B), to reflect the probable intent of Congress.
+2021—Subsec. (b)(1)(B). Pub. L. 116–283, § 924(b)(7)(A)(i), which directed substitution of “the Commandant of the Marine Corps, or the Chief of Space Operations” for “or the Commandant of the Marine Corps” in subpar. (C), was executed by making the substitution in subpar. (B), to reflect the probable intent of Congress.
 
-Subsec. (c). Pub. L. 116–283, § 924(b)(7)(A)(ii), substituted “, in the case of the Navy, admiral, or, in the case of an officer of the Space Force, the equivalent grade,” for “or, in the case of an officer of the Navy, admiral”.
+Subsec. (c). Pub. L. 116–283, § 924(b)(7)(A)(ii), which directed substitution of “, in the case of the Navy, admiral, or, in the case of an officer of the Space Force, the equivalent grade,” for “or, in the case of the Navy, admiral”, was executed by making the substitution for “or, in the case of an officer of the Navy, admiral”, to reflect the probable intent of Congress.
 
 2016—Subsec. (a)(1). Pub. L. 114–328, § 921(b)(1)(A), substituted “four years, beginning on October 1 of an odd-numbered year. The limitation does not apply in time of war.” for “two years, beginning on October 1 of odd-numbered years. Subject to paragraph (3), an officer serving as Chairman may be reappointed in the same manner for two additional terms. However, in time of war there is no limit on the number of reappointments.”
 
@@ -267,6 +262,8 @@ Pub. L. 114–328, div. A, title IX, § 921(b)(2), Dec. 23, 2016, 130 Stat. 2351
 
     (vi) Identify and assess the critical deficiencies and strengths in force capabilities (including manpower, logistics, intelligence, and mobility support) identified during the preparation and review of the contingency plans of each unified combatant command, and identify and assess the effect of such deficiencies and strengths for the National Military Strategy (or update).
 
+    (vii) Identify and assess risk resulting from, or likely to result from, current or projected effects on military installation resilience.
+
 (3) **Submittal of national military strategy and risk assessment to congress.—**
 
   (A) Not later than February 15 of each even-numbered year, the Chairman shall, through the Secretary of Defense, submit to the Committees on Armed Services of the Senate and the House of Representatives the National Military Strategy or update, if any, prepared under paragraph (1) in such year.
@@ -302,6 +299,8 @@ Pub. L. 114–328, div. A, title IX, § 921(b)(2), Dec. 23, 2016, 130 Stat. 2351
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (b)(2)(B)(vii). Pub. L. 117–81 added cl. (vii).
+
 2018—Subsec. (a)(6)(D). Pub. L. 115–232, § 912, amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “formulating policies for concept development and experimentation for the joint employment of the armed forces;”.
 
 Subsec. (b)(1)(D)(iii). Pub. L. 115–232, § 913(1), substituted “military risk” for “military strategic and operational risks”.
@@ -435,7 +434,13 @@ Pub. L. 99–433, title II, § 204(a), (b), Oct. 1, 1986, 100 Stat. 1011, provid
 
 (2) The Chairman and Vice Chairman may not be members of the same armed force. However, the President may waive the restriction in the preceding sentence for a limited period of time in order to provide for the orderly transition of officers appointed to serve in the positions of Chairman and Vice Chairman.
 
-(3) The Vice Chairman serves at the pleasure of the President for a term of two years and may be reappointed in the same manner for two additional terms. However, in time of war there is no limit on the number of reappointments.
+(3) The Vice Chairman serves at the pleasure of the President for a single term of four years, beginning on October 1 of an odd-numbered year, except that the term may not begin in the same year as the term of a Chairman. In time of war, there is no limit on the number of reappointments.
+
+(4)
+
+  (A) The Vice Chairman shall not be eligible for promotion to the position of Chairman or any other position in the armed forces.
+
+  (B) The President may waive subparagraph (A) if the President determines such action is necessary in the national interest.
 
 **(b) Requirement for Appointment.—**
 
@@ -456,19 +461,6 @@ Pub. L. 99–433, title II, § 204(a), (b), Oct. 1, 1986, 100 Stat. 1011, provid
 **(f) Grade and Rank.—** The Vice Chairman, while so serving, holds the grade of general or, in the case of an officer of the Navy, admiral and outranks all other officers of the armed forces except the Chairman. The Vice Chairman may not exercise military command over the Joint Chiefs of Staff or any of the armed forces.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (a)
-Pub. L. 114–328, div. A, title IX, § 921(d), Dec. 23, 2016, 130 Stat. 2354, provided that, effective on Jan. 1, 2021, and applicable to individuals appointed as Vice Chairman of the Joint Chiefs of Staff on or after that date, subsection (a) of this section is amended as follows:
-
-(1) in paragraph (3), by striking “for a term of two years” and all that follows and inserting “for a single term of four years, beginning on October 1 of an odd-numbered year, except that the term may not begin in the same year as the term of a Chairman. In time of war, there is no limit on the number of reappointments.”; and
-
-(2) by adding at the end the following new paragraph:
-
-“(4)(A) The Vice Chairman shall not be eligible for promotion to the position of Chairman or any other position in the armed forces.
-
-“(B) The President may waive subparagraph (A) if the President determines such action is necessary in the national interest.”
-
-See 2016 Amendment notes below.
 
 #### References in Text
 [Section 664(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section664/f&num=0&edition=prelim), referred to in subsec. (b)(1)(B), was redesignated as [section 664(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section664/d&num=0&edition=prelim) by Pub. L. 114–328, div. A, title V, § 510(g)(1), Dec. 23, 2016, 130 Stat. 2111.

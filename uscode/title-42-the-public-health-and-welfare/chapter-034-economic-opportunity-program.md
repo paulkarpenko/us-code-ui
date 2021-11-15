@@ -1663,7 +1663,7 @@ Pub. L. 96–565, title III, §§ 301–307, Dec. 22, 1980, 94 Stat. 3324–3326
 ## § 2991f. Financial assistance for Native American projects
 **(a) Authorization for financial assistance to public and nonprofit agencies; consultation with other Federal agencies to avoid duplication** The Commissioner is authorized to provide financial assistance, on a single year or multiyear basis, to public and nonprofit private agencies, including but not limited to, governing bodies of Indian Tribes on Federal and State reservations, Alaska Native villages and regional corporations established by the Alaska Native Claims Settlement Act [[43 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) et seq.], and such public and nonprofit private agencies serving Native Hawaiians, and Indian and Alaska Native organizations in urban or rural areas that are not Indian reservations or Alaska Native villages, for projects pertaining to the purposes of this subchapter. The Commissioner is authorized to provide financial assistance to public and nonprofit private agencies serving other Native American Pacific Islanders (including American Samoan Natives) for projects pertaining to the purposes of this Act. In determining the projects to be assisted under this subchapter, the Commissioner shall consult with other Federal agencies for the purpose of eliminating duplication or conflict among similar activities or projects and for the purpose of determining whether the findings resulting from those projects may be incorporated into one or more programs for which those agencies are responsible. Every determination made with respect to a request for financial assistance under this section shall be made without regard to whether the agency making such request serves, or the project to be assisted is for the benefit of, Indians who are not members of a federally recognized Tribe. To the greatest extent practicable, the Commissioner shall ensure that each project to be assisted under this subchapter is consistent with the priorities established by the agency which receives such assistance.
 
-**(b) Economic Development**
+**(b) Economic development**
 
 (1) **In general** — The Commissioner may provide assistance under subsection (a) for projects relating to the purposes of this subchapter to a Native community development financial institution, as defined by the Secretary of the Treasury.
 
@@ -2109,6 +2109,8 @@ to be used to assist Native Americans in ensuring the survival and continuing vi
 
       (II) to sell such products, or copies of such products, for profit to the entities referred to in clause (i).
 
+**(g) Emergency grants for Native American language preservation and maintenance** Not later than 180 days after the effective date of this subsection, the Secretary shall award grants to entities eligible to receive assistance under subsection (a)(1) to ensure the survival and continuing vitality of Native American languages during and after the public health emergency declared by the Secretary pursuant to [section 247d of this title](./chapter-6a-public-health-service.md#section-247d) with respect to the COVID–19 pandemic.
+
 ### Statutory Notes
 
 #### References in Text
@@ -2116,8 +2118,12 @@ The Indian Self-Determination Act ([25 U.S.C. 450f](https://uscode.house.gov/vie
 
 [Section 3215 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3215&num=0&edition=prelim), referred to in subsec. (f)(2)(B)(ii), was in the original a reference to section 5135 of the Elementary and Secondary Education Act of 1965, Pub. L. 89–10. Section 5135 of that Act was omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3519.
 
+The effective date of this subsection, referred to in subsec. (g), probably means the date of enactment of Pub. L. 117–2, which added subsec. (g) of this section and was approved Mar. 11, 2021.
+
 #### Amendments
-2020—Subsecs. (d) to (f). Pub. L. 116–261 substituted “Tribe” for “tribe”, “Tribes” for “tribes”, and“Tribal” for “tribal” wherever appearing.
+2021—Subsec. (g). Pub. L. 117–2 added subsec. (g).
+
+2020—Subsecs. (d) to (f). Pub. L. 116–261 substituted “Tribe” for “tribe”, “Tribes” for “tribes”, and “Tribal” for “tribal” wherever appearing.
 
 2019—Subsec. (b)(7)(A)(i). Pub. L. 116–101, § 2(1)(A), substituted “5 children” for “10 children”.
 
@@ -2500,9 +2506,13 @@ Amendment by Pub. L. 100–175 effective Oct. 1, 1987, see section 701(a) of Pub
 
 **(e)** There are authorized to be appropriated to carry out [section 2991b–3 of this title](./chapter-034-economic-opportunity-program.md#section-2991b-3) $13,000,000 for each of fiscal years 2020 through 2024.
 
+**(f)** In addition to amounts otherwise available, there is appropriated for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $20,000,000 to remain available until expended, to carry out [section 2291b–3(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2291b–3/g&num=0&edition=prelim).
+
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (f). Pub. L. 117–2 added subsec. (f).
+
 2020—Subsec. (a). Pub. L. 116–261 substituted “2991b(e)” for “2991b(d)”, “$34,000,000” for “such sums as may be necessary”, and “2021 through 2025” for “1999, 2000, 2001, and 2002”.
 
 Subsecs. (b), (c). Pub. L. 116–261, § 5(c)(1), substituted “2991b(e)” for “2991b(d)”.

@@ -2937,11 +2937,11 @@ Subsec. (e). Pub. L. 102–237, § 322, substituted “November 28, 1990” for 
 #### Effective Date of 1990 Amendment
 Amendment by Pub. L. 101–624 effective Jan. 1, 1991, see section 1513 of Pub. L. 101–624, set out as a note under [section 1691 of this title](./chapter-041-food-for-peace.md#section-1691).
 
-#### Delegation of Functions
-Functions of President under this section delegated to Secretary of Agriculture, in consultation with Food Assistance Policy Council and Department of the Treasury, by section 4(d) of Ex. Ord. No. 12752, Feb. 25, 1991, 56 F.R. 8256, set out as a note under [section 1691 of this title](./chapter-041-food-for-peace.md#section-1691).
-
 #### Renegotiation of Payment Terms of Loans for Sale of Agricultural Commodities
 Pub. L. 102–27, title II, Apr. 10, 1991, 105 Stat. 147, as amended by Pub. L. 110–246, title III, § 3001(c), June 18, 2008, 122 Stat. 1821, provided that: “Title I of the Public Law 480 [[7 U.S.C. 1701](./chapter-041-food-for-peace.md#section-1701) et seq.] program allowed for the repayment of loans for the sale of agricultural commodities in foreign or local currencies until December 31, 1971. Since that time, until the law was changed in the 1985 farm bill [probably means Pub. L. 99–198, see Tables for classification], all sales have been on dollar credit terms. In view of the present financial situation, it is impossible for many countries to repay their loans in dollars. Therefore, the President may use the authority in section 411 and section 604 of the Food for Peace Act [[7 U.S.C. 1736e](./chapter-041-food-for-peace.md#section-1736e), 1738c] to renegotiate the payment on Public Law 480 debt in eligible countries in Latin America, the Caribbean and sub-Saharan Africa.”
+
+#### Delegation of Functions
+Functions of President under this section delegated to Secretary of Agriculture, in consultation with Food Assistance Policy Council and Department of the Treasury, by section 4(d) of Ex. Ord. No. 12752, Feb. 25, 1991, 56 F.R. 8256, set out as a note under [section 1691 of this title](./chapter-041-food-for-peace.md#section-1691).
 
 
 <a id="section-1736g"></a>
@@ -3008,9 +3008,6 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 #### Effective Date of 1990 Amendment
 Amendment by Pub. L. 101–624 effective Jan. 1, 1991, see section 1513 of Pub. L. 101–624, set out as a note under [section 1691 of this title](./chapter-041-food-for-peace.md#section-1691).
 
-#### Delegation of Functions
-Functions of President under subsec. (b) of this section delegated to Director of the Office of Management and Budget by section 4(e) of Ex. Ord. No. 12752, Feb. 25, 1991, 56 F.R. 8256, set out as a note under [section 1691 of this title](./chapter-041-food-for-peace.md#section-1691).
-
 #### Availability of Funds
 Pub. L. 109–97, title VII, § 722, Nov. 10, 2005, 119 Stat. 2152, as amended by Pub. L. 110–246, title III, § 3001(c), June 18, 2008, 122 Stat. 1821, provided that: “Hereafter, notwithstanding section 412 of the Food for Peace Act ([7 U.S.C. 1736f](./chapter-041-food-for-peace.md#section-1736f)), any balances available to carry out title III of such Act [[7 U.S.C. 1727](./chapter-041-food-for-peace.md#section-1727) et seq.] as of the date of enactment of this Act [Nov. 10, 2005], and any recoveries and reimbursements that become available to carry out title III of such Act, may be used to carry out title II of such Act [[7 U.S.C. 1721](./chapter-041-food-for-peace.md#section-1721) et seq.].”
 
@@ -3023,6 +3020,9 @@ Pub. L. 108–199, div. A, title VII, § 724, Jan. 23, 2004, 118 Stat. 34.
 Pub. L. 108–7, div. A, title VII, § 727, Feb. 20, 2003, 117 Stat. 42.
 
 Pub. L. 107–76, title VII, § 730, Nov. 28, 2001, 115 Stat. 736.
+
+#### Delegation of Functions
+Functions of President under subsec. (b) of this section delegated to Director of the Office of Management and Budget by section 4(e) of Ex. Ord. No. 12752, Feb. 25, 1991, 56 F.R. 8256, set out as a note under [section 1691 of this title](./chapter-041-food-for-peace.md#section-1691).
 
 
 <a id="section-1736g-1"></a>

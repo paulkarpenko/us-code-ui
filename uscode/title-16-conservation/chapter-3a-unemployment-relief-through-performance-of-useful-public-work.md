@@ -72,8 +72,6 @@ Act Oct. 21, 1940, ch. 906, 54 Stat. 1206, formerly classified to [section 584g 
 #### Transfer of Functions
 Civilian Conservation Corps camps transferred to Administrator of Food Production and Distribution by former section 1355(e) of the former Appendix to Title 50, War and National Defense.
 
-Civilian Conservation Corps and its functions consolidated with other agencies under Federal Security Agency, to be administered by Director of said Corps under direction and supervision of Federal Security Administration by Reorg. Plan No. I of 1939, §§ 201 and 207, eff. July 1, 1939, 4 F.R. 2728, 2729, 53 Stat. 1425, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Sections Continued for Purposes of Liquidation
 Act July 12, 1943, ch. 221, title II, 57 Stat. 499, provided in part: “For the purposes hereof the provisions of the Act to establish the Civilian Conservation Corps and for other purposes approved June 28, 1937, as amended, shall continue in full force and effect to such extent as may be necessary to facilitate liquidation of such corps, and the Federal Security Administrator shall exercise the authority vested in the Director of such corps by such Act.”
 
@@ -90,11 +88,14 @@ Acts July 2, 1942, ch. 475, title II, 56 Stat. 569, and July 12, 1943, ch. 221, 
 #### Continuance of Employment
 Act July 1, 1937, ch. 425, § 1, 50 Stat. 470, provided for continuance of employment without reappointment of certain employees of Emergency Conservation Work and of cooperating Federal agencies.
 
-#### Cooperation of Department Heads Authorized
-Ex. Ord. No. 7677–A, § 3, July 1, 1937, 2 F.R. 1581 DI, 1346 BV, as amended by Ex. Ord. No. 7717, Sept. 29, 1937, 2 F.R. 2435 DI, 2087 BV; Ex. Ord. No. 8133, May 15, 1939, 4 F.R. 2043; Ex. Ord. No. 8221, July 1, 1939, 4 F.R. 3715, provided for cooperation of Secretary of War, Secretary of the Interior, Secretary of Agriculture and Administrator of Veterans’ Affairs with Director of C.C.C.
-
 #### Medical and Burial Expenses
 Acts July 12, 1943, ch. 221, title III, 57 Stat. 514; June 28, 1944, ch. 302, title III, 58 Stat. 567; July 3, 1945, ch. 263, title III, 59 Stat. 377; July 26, 1946, ch. 672, title III, § 301, 60 Stat. 697, provided for medical and burial expenses of certain enrollees of the Civilian Conservation Corps.
+
+#### Transfer of Functions
+Civilian Conservation Corps and its functions consolidated with other agencies under Federal Security Agency, to be administered by Director of said Corps under direction and supervision of Federal Security Administration by Reorg. Plan No. I of 1939, §§ 201 and 207, eff. July 1, 1939, 4 F.R. 2728, 2729, 53 Stat. 1425, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Cooperation of Department Heads Authorized
+Ex. Ord. No. 7677–A, § 3, July 1, 1937, 2 F.R. 1581 DI, 1346 BV, as amended by Ex. Ord. No. 7717, Sept. 29, 1937, 2 F.R. 2435 DI, 2087 BV; Ex. Ord. No. 8133, May 15, 1939, 4 F.R. 2043; Ex. Ord. No. 8221, July 1, 1939, 4 F.R. 3715, provided for cooperation of Secretary of War, Secretary of the Interior, Secretary of Agriculture and Administrator of Veterans’ Affairs with Director of C.C.C.
 
 #### Projects on Private Lands
 Ex. Ord. No. 7677–A, § 2, July 1, 1937, 2 F.R. 1581 DI, 1346 BV, as amended by Ex. Ord. No. 8221, July 1, 1939, 4 F.R. 3715, authorized Director of C.C.C. to undertake projects on lands of counties and municipalities and lands in private ownership.

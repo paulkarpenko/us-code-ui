@@ -510,10 +510,10 @@ Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as
 
 
 <a id="section-2640"></a>
-## § 2640. Charter air transportation of members of the armed forces
+## § 2640. Charter air transportation of members of the armed forces or cargo
 **(a) Requirements.—**
 
-(1) The Secretary of Defense may not enter into a contract with an air carrier for the charter air transportation of members of the armed forces unless the air carrier—
+(1) The Secretary of Defense may not enter into a contract with an air carrier for the charter air transportation of members of the armed forces or cargo unless the air carrier—
 
   (A) meets, at a minimum, the safety standards established by the Secretary of Transportation under chapter 447 of title 49;
 
@@ -527,7 +527,7 @@ Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as
 
   (B) shall be conducted in accordance with regulations prescribed by the Secretary, after consultation with the Secretary of Transportation.
 
-**(b) Inspections.—** The Secretary shall provide for inspections of each air carrier that contracts with the Department of Defense for the charter air transportation of members of the armed forces. The inspections shall be conducted in accordance with standards established by the Secretary, after consultation with the Secretary of Transportation, and shall include, at a minimum, the following:
+**(b) Inspections.—** The Secretary shall provide for inspections of each air carrier that contracts with the Department of Defense for the charter air transportation of members of the armed forces or cargo. The inspections shall be conducted in accordance with standards established by the Secretary, after consultation with the Secretary of Transportation, and shall include, at a minimum, the following:
 
 (1) An on-site capability survey of the air carrier conducted at least once every two years.
 
@@ -549,7 +549,7 @@ Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as
 
 **(d) Suspension and Reinstatement.—**
 
-(1) The Secretary shall establish guidelines for the suspension of air carriers under contract with the Department of Defense for the charter air transportation of members of the armed forces and for the reinstatement of air carriers that have been so suspended. The guidelines—
+(1) The Secretary shall establish guidelines for the suspension of air carriers under contract with the Department of Defense for the charter air transportation of members of the armed forces or cargo and for the reinstatement of air carriers that have been so suspended. The guidelines—
 
   (A) shall require the immediate determination of whether to suspend an air carrier if an aircraft of the air carrier is involved in a fatal accident; and
 
@@ -563,9 +563,9 @@ Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as
 
 (3) The Secretary shall include in each contract subject to this section the provisions on suspension and reinstatement established under this subsection.
 
-**(e) Authority To Leave Unsafe Aircraft.—** A representative of the Military Airlift Command, the Military Traffic Management Command, or such other agency as may be designated by the Secretary of Defense (or if there is no such representative reasonably available, the senior officer on board a chartered aircraft) may order members of the armed forces to leave a chartered aircraft if the representative (or officer) determines that a condition exists on the aircraft which may endanger the safety of the members.
+**(e) Authority To Leave Unsafe Aircraft.—** A representative of the Military Airlift Command, the Military Traffic Management Command, or such other agency as may be designated by the Secretary of Defense (or if there is no such representative reasonably available, the senior officer on board a chartered aircraft) may order members of the armed forces or cargo to leave a chartered aircraft if the representative (or officer) determines that a condition exists on the aircraft which may endanger the safety of the members or cargo.
 
-**(f) FAA Information.—** The Secretary shall request the Secretary of Transportation to provide to the Secretary a report on each inspection performed by Federal Aviation Administration personnel, and the status of corrective actions taken, on each aircraft of an air carrier under contract with the Department of Defense for the charter air transportation of members of the armed forces.
+**(f) FAA Information.—** The Secretary shall request the Secretary of Transportation to provide to the Secretary a report on each inspection performed by Federal Aviation Administration personnel, and the status of corrective actions taken, on each aircraft of an air carrier under contract with the Department of Defense for the charter air transportation of members of the armed forces or cargo.
 
 **(g) Waiver.—** After considering recommendations by the Commercial Airlift Review Board, the Secretary may waive any provision of this section in an emergency.
 
@@ -585,14 +585,28 @@ Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as
 
 **(j) Definitions.—** In this section:
 
-(1) The terms “air carrier”, “aircraft”, “air transportation”, and “charter air transportation” have the meanings given such terms by [section 40102(a) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40102/a&num=0&edition=prelim).
+(1) The terms “air carrier”, “aircraft”, “air transportation”, “cargo”, and “charter air transportation” have the meanings given such terms by [section 40102(a) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40102/a&num=0&edition=prelim).
 
 (2) The term “members of the armed forces” means members of the Army, Navy, Air Force, Marine Corps, and Space Force.
 
 ### Statutory Notes
 
 #### Amendments
-2021—Subsec. (j)(2). Pub. L. 116–283 substituted “Marine Corps, and Space Force” for “and Marine Corps”.
+2021—Pub. L. 117–81, § 1083(d)(1)(A), inserted “or cargo” after “armed forces” in section catchline.
+
+Subsec. (a)(1). Pub. L. 117–81, § 1083(d)(1)(B), inserted “or cargo” after “members of the armed forces” in introductory provisions.
+
+Subsec. (b). Pub. L. 117–81, § 1083(d)(1)(C), inserted “or cargo” after “members of the armed forces” in introductory provisions.
+
+Subsec. (d)(1). Pub. L. 117–81, § 1083(d)(1)(D), inserted “or cargo” after “members of the armed forces” in introductory provisions.
+
+Subsec. (e). Pub. L. 117–81, § 1083(d)(1)(E), inserted “or cargo” after “members of the armed forces” and before period at end.
+
+Subsec. (f). Pub. L. 117–81, § 1083(d)(1)(F), inserted “or cargo” after “members of the armed forces”.
+
+Subsec. (j)(1). Pub. L. 117–81, § 1083(d)(1)(G), inserted “ ‘cargo’,” after “ ‘air transportation’,”.
+
+Subsec. (j)(2). Pub. L. 116–283 substituted “Marine Corps, and Space Force” for “and Marine Corps”.
 
 1997—Subsecs. (h) to (j). Pub. L. 105–85 added subsec. (h) and redesignated former subsecs. (h) and (i) as (i) and (j), respectively.
 
@@ -961,7 +975,7 @@ Subsec. (g). Pub. L. 108–136, § 1031(a)(26)(B), struck out heading and text o
 
 **(c) Definitions.—** In this section:
 
-(1) The term “head of an agency” has the meaning given that term in [section 2302(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302/1&num=0&edition=prelim).
+(1) The term “head of an agency” has the meaning given that term in [section 3004 of this title](./chapter-201-definitions.md#section-3004).
 
 (2) The term “official travel” means travel at the expense of the Federal Government.
 
@@ -970,9 +984,6 @@ Subsec. (g). Pub. L. 108–136, § 1031(a)(26)(B), struck out heading and text o
 **(d) Inapplicability to Coast Guard and NASA.—** This section does not apply to the Coast Guard when it is not operating as a service in the Navy, nor to the National Aeronautics and Space Administration.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (c)(1)
-Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1806(e)(1)(B), Jan. 1, 2021, 134 Stat. 4151, 4155, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, subsection (c)(1) of this section is amended by striking “section 2302(1)” and inserting “section 3004”. See 2021 Amendment note below.
 
 #### Amendments
 2021—Subsec. (c)(1). Pub. L. 116–283 substituted “section 3004” for “section 2302(1)”.

@@ -2,7 +2,7 @@
 title: 37
 chapter: '7'
 heading: ALLOWANCES OTHER THAN TRAVEL AND TRANSPORTATION ALLOWANCES
-section_count: 62
+section_count: 63
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37&num=0&edition=prelim
 ---
@@ -448,6 +448,102 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 Pub. L. 106–398, § 1 [[div. A], title VI, § 604(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–147, provided that: “[Section 402a of title 37](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-402a), United States Code, as added by subsection (a), shall take effect on the first day of the first month that begins not less than 180 days after the date of the enactment of this Act [Oct. 30, 2000].”
 
 
+<a id="section-402b"></a>
+## § 402b. Basic needs allowance for members on active service in the Armed Forces
+**(a) Allowance Required.—** The Secretary concerned shall pay to each member who is eligible under subsection (b) a basic needs allowance in the amount determined for such member under subsection (c).
+
+**(b) Eligible Members.—** A member on active service in the armed forces is eligible for the allowance under subsection (a) if—
+
+(1) the member has completed initial entry training;
+
+(2) the gross household income of the member during the most recent calendar year did not exceed an amount equal to 130 percent of the Federal poverty guidelines of the Department of Health and Human Services for the location of the member and the number of individuals in the household of the member for such year; and
+
+(3) the member—
+
+  (A) is not ineligible for the allowance under subsection (d); and
+
+  (B) does not elect under subsection (g) not to receive the allowance.
+
+**(c) Amount of Allowance.—** The amount of the monthly allowance payable to a member under subsection (a) shall be the amount equal to—
+
+(1)
+
+  (A) 130 percent of the Federal poverty guidelines of the Department of Health and Human Services for the calendar year during which the allowance is paid based on the location of the member and the number of individuals in the household of the member during the month for which the allowance is paid; minus
+
+  (B) the gross household income of the member during the preceding calendar year; divided by
+
+(2) 12.
+
+**(d) Bases of Ineligibility.—**
+
+(1) **In general.—** — The following members are ineligible for the allowance under subsection (a):
+
+  (A) A member who does not have any dependents.
+
+  (B) A cadet at the United States Military Academy, the United States Air Force Academy, or the Coast Guard Academy, a midshipman at the United States Naval Academy, or a cadet or midshipman serving elsewhere in the armed forces.
+
+(2) **Household with more than one eligible member.—** — In the event a household contains two or more members determined under subsection (f) to be eligible to receive the allowance under subsection (a), only one allowance may be paid to a member among such members as such members shall jointly elect.
+
+(3) **Automatic ineligibility of members receiving certain pay increases.—** — A member determined to be eligible under subsection (f) for the allowance under subsection (a) whose monthly gross household income increases as a result of a promotion or other permanent increase to pay or allowances under this title to an amount that, on an annualized basis, would exceed the amount described in subsection (b)(2) is ineligible for the allowance. If such member is receiving the allowance, payment of the allowance shall automatically terminate within a reasonable time, as determined by the Secretary of Defense in regulations prescribed under subsection (j).
+
+(4) **Ineligibility of certain changes in income.—** — A member whose gross household income for the preceding year decreases because of a fine, forfeiture, or reduction in rank imposed as a part of disciplinary action or an action under chapter 47 of title 10 (the Uniform Code of Military Justice) is not eligible for the allowance under subsection (a) solely as a result of the fine, forfeiture, or reduction in rank.
+
+**(e) Application by Members Seeking Allowance.—**
+
+(1) **In general.—** — A member who seeks to receive the allowance under subsection (a) shall submit to the Secretary concerned an application for the allowance that includes such information as the Secretary may require in order to determine whether or not the member is eligible to receive the allowance.
+
+(2) **Timing of submission.—** — A member who receives the allowance under subsection (a) and seeks to continue to receive the allowance shall submit to the Secretary concerned an updated application under paragraph (1) at such times as the Secretary may require, but not less frequently than annually.
+
+(3) **Voluntary submission.—** — The submission of an application under paragraph (1) is voluntary.
+
+(4) **Screening of members for eligibility.—** — The Secretary of Defense shall—
+
+  (A) ensure that all members of the armed forces are screened during initial entry training and regularly thereafter for eligibility for the allowance under subsection (a); and
+
+  (B) notify any member so screened who may be eligible that the member may apply for the allowance by submitting an application under paragraph (1).
+
+**(f) Determinations of Eligibility.—**
+
+(1) **In general.—** — The Secretary concerned shall—
+
+  (A) determine which members of the armed forces are eligible under subsection (b); and
+
+  (B) notify each such member, in writing, of that determination.
+
+(2) **Information included in notice.—** — The notice under paragraph (1) shall include information regarding financial management and assistance programs for which the member may be eligible.
+
+**(g) Election Not to Receive Allowance.—**
+
+(1) **In general.—** — A member determined under subsection (f) to be eligible for the allowance under subsection (a) may elect, in writing, not to receive the allowance.
+
+(2) **Deemed ineligible.—** — A member who does not submit an application under subsection (e) within a reasonable time (as determined by the Secretary concerned) shall be deemed ineligible for the allowance under subsection (a).
+
+**(h) Special Rule for Members Stationed Outside United States.—** In the case of a member assigned to a duty location outside the United States, the Secretary concerned shall make the calculations described in subsections (b)(2) and (c)(1) using the Federal poverty guidelines of the Department of Health and Human Services for the continental United States.
+
+**(i) Regulations.—** Not later than one year after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2022, the Secretary of Defense shall prescribe regulations for the administration of this section.
+
+**(j) Effective Period.—**
+
+(1) **Implementation period.—** — The allowance under subsection (a) is payable for months beginning on or after the date that is one year after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2022.
+
+(2) **Termination.—** — The allowance under subsection (a) may not be paid for any month beginning after December 31, 2027.
+
+**(k) Definitions.—** In this section:
+
+(1) **Gross household income.—** — The term “gross household income”, with respect to a member of the armed forces, includes—
+
+  (A) all household income, derived from any source; minus
+
+  (B) in the case of a member whom the Secretary concerned determines resides in an area with a high cost of living, any portion of the basic allowance for housing under [section 403 of this title](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-403) that the Secretary concerned elects to exclude.
+
+(2) **Household.—** — The term “household” means a member of the armed forces and any dependents of the member enrolled in the Defense Enrollment Eligibility Reporting System, regardless of the location of those dependents.
+
+### Statutory Notes
+
+#### References in Text
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2022, referred to in subsecs. (i) and (j)(1), is the date of enactment of Pub. L. 117–81, which was approved Dec. 27, 2021.
+
+
 <a id="section-403"></a>
 ## § 403. Basic allowance for housing
 **(a) General Entitlement.—**
@@ -506,7 +602,7 @@ Pub. L. 106–398, § 1 [[div. A], title VI, § 604(b)], Oct. 30, 2000, 114 Stat
 
   (D) Subject to subparagraph (E), an increase in the rates of basic allowance for housing in an area under this paragraph shall remain in effect until the effective date of the first adjustment in rates of basic allowance for housing made for the area pursuant to a redetermination of housing costs in the area under this subsection that occurs after the date of the increase under this paragraph.
 
-  (E) An increase in the rates of basic allowance for housing for an area may not be prescribed under this paragraph or continue after December 31, 2021.
+  (E) An increase in the rates of basic allowance for housing for an area may not be prescribed under this paragraph or continue after December 31, 2022.
 
 (8)
 
@@ -540,7 +636,7 @@ Pub. L. 106–398, § 1 [[div. A], title VI, § 604(b)], Oct. 30, 2000, 114 Stat
 
 (2) A permanent duty location referred to in paragraph (1) is a location—
 
-  (A) to which the movement of the member’s dependents is not authorized at the expense of the United States under [section 476 of this title](./chapter-008-travel-and-transportation-allowances.md#section-476), and the member’s dependents do not reside at or near the location; and
+  (A) to which the movement of the member’s dependents is not authorized at the expense of the United States under section 476 11 See References in Text note below. of this title, and the member’s dependents do not reside at or near the location; and
 
   (B) at which quarters of the United States are not available for assignment to the member.
 
@@ -594,9 +690,9 @@ Pub. L. 106–398, § 1 [[div. A], title VI, § 604(b)], Oct. 30, 2000, 114 Stat
 
   (B) which is owned by the member or for which the member is responsible for rental payments.
 
-(2) The Secretary concerned may provide a basic allowance for housing to a member described in paragraph (1) at a monthly rate equal to the rate of the basic allowance for housing established under subsection (b) or the overseas basic allowance for housing established under subsection (c), whichever applies to the location at which the member is serving, for members in the same grade at that location without dependents. The member may receive both a basic allowance for housing under paragraph (1) and under this paragraph for the same month, but may not receive the portion of the allowance authorized under [section 474 of this title](./chapter-008-travel-and-transportation-allowances.md#section-474), if any, for lodging expenses if a basic allowance for housing is provided under this paragraph.
+(2) The Secretary concerned may provide a basic allowance for housing to a member described in paragraph (1) at a monthly rate equal to the rate of the basic allowance for housing established under subsection (b) or the overseas basic allowance for housing established under subsection (c), whichever applies to the location at which the member is serving, for members in the same grade at that location without dependents. The member may receive both a basic allowance for housing under paragraph (1) and under this paragraph for the same month, but may not receive the portion of the allowance authorized under section 474 1 of this title, if any, for lodging expenses if a basic allowance for housing is provided under this paragraph.
 
-(3) Paragraphs (1) and (2) shall not apply if the member is authorized transportation of household goods under [section 476 of this title](./chapter-008-travel-and-transportation-allowances.md#section-476) as part of the call or order to active duty described in such paragraph.
+(3) Paragraphs (1) and (2) shall not apply if the member is authorized transportation of household goods under section 476 1 of this title as part of the call or order to active duty described in such paragraph.
 
 (4) The rate of basic allowance for housing to be paid to the following members of a reserve component shall be equal to the rate in effect for similarly situated members of a regular component of the uniformed services:
 
@@ -708,10 +804,16 @@ In subsection (f), the words “may be used” are substituted for the words “
 In subsection (g), the word “including” is substituted for the words “and such regulations shall include, but not be limited to”.
 
 #### References in Text
+[Section 476 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section476&num=0&edition=prelim), referred to in subsecs. (d)(2)(A) and (g)(3), was repealed by Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767.
+
+[Section 474 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section474&num=0&edition=prelim), referred to in subsec. (g)(2), was repealed by Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767.
+
 The Servicemembers Civil Relief Act, referred to in subsec. (p), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, which is classified generally to chapter 50 (§ 3901 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see [section 3901 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3901&num=0&edition=prelim) and Tables.
 
 #### Amendments
-2021—Subsec. (b)(7)(E). Pub. L. 116–283, § 611(e), substituted “December 31, 2021” for “December 31, 2020”.
+2021—Subsec. (b)(7)(E). Pub. L. 117–81 substituted “December 31, 2022” for “December 31, 2021”.
+
+Pub. L. 116–283, § 611(e), substituted “December 31, 2021” for “December 31, 2020”.
 
 Subsec. (p). Pub. L. 116–283, § 603, added subsec. (p).
 
@@ -917,7 +1019,7 @@ Subsec. (k). Pub. L. 96–579, § 7, added subsec. (k).
 | E–2 | 45.00 | 45.00 |
 | E–1 | 45.00 | 45.00” |
 
-and struck out “A member in pay grade E–4 (less than four years’ service), E–3, E–2, or E–1 is considered at all times to be without dependents.”.
+and struck out “A member in pay grade E–4 (less than four years’ service), E–3, E–2, or E–1 is considered at all times to be without dependents.”
 
 Subsec. (b). Pub. L. 93–64, § 105(3), in second sentence substituted reference to subsection “(j)” for “(g)”.
 
@@ -1806,7 +1908,7 @@ Amendment by Pub. L. 90–623 intended to restate without substantive change the
 
 (2) In procuring athletic footwear to comply with paragraph (1), the Secretary of Defense shall—
 
-  (A) procure athletic footwear that complies with the requirements of [section 2533a of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2533a&num=0&edition=prelim), without regard to the applicability of any simplified acquisition threshold under chapter 137 of title 10 (or any other provision of law); and
+  (A) procure athletic footwear that complies with the requirements of [section 4862 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4862&num=0&edition=prelim), without regard to the applicability of any simplified acquisition threshold under chapter 137 legacy provisions (as such term is defined in [section 3016 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3016&num=0&edition=prelim)) (or any other provision of law); and
 
   (B) procure additional athletic footwear, for two years following the date of the enactment of the National Defense Authorization Act for Fiscal Year 2017, that is necessary to provide a member described in paragraph (1) with sufficient choices in athletic shoes so as to minimize the incidence of athletic injuries and potential unnecessary harm and risk to the safety and well-being of members in initial entry training.
 
@@ -1835,6 +1937,8 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 #### Amendments
 2021—Subsec. (d)(1). Pub. L. 116–283, § 925(e)(2)(A), substituted “Marine Corps, or Space Force” for “or Marine Corps”.
 
+Subsec. (d)(2)(A). Pub. L. 117–81 substituted “section 4862” for “section 2533a” and “chapter 137 legacy provisions (as such term is defined in [section 3016 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3016&num=0&edition=prelim))” for “chapter 137 of title 10”.
+
 Subsec. (d)(4). Pub. L. 116–283, § 925(e)(2)(B), substituted “the Marine Corps, or the Space Force” for “or the Marine Corps”.
 
 2017—Subsec. (d)(4), (5). Pub. L. 115–91 added pars. (4) and (5).
@@ -1853,6 +1957,9 @@ Subsec. (c). Pub. L. 104–201 substituted “for which clothing is furnished or
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim), Armed Forces.
+
+#### Reduction of Gender-Related Inequities in Costs of Uniforms to Members of the Armed Forces
+Pub. L. 117–81, div. A, title V, § 571, Dec. 27, 2021, 135 Stat. 1753, provided that: “(a) Establishment of Criteria.—Not later than 180 days after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of Defense, acting through the Under Secretary of Defense for Personnel and Readiness and in coordination with the Secretaries of the military departments, shall establish criteria, consistent across the Armed Forces, for determining which uniform or clothing items across the Armed Forces are considered uniquely military for purposes of calculating the standard cash clothing replacement allowances, in part to reduce differences in out-of pocket costs incurred by enlisted members of the Armed Forces across the military services and by gender within an Armed Force. “(b) Reviews.—“(1) Quinquennial review.—The Under Secretary shall review the criteria established under subsection (a) every five years after such establishment and recommend to the Secretaries of the military departments adjustments to clothing allowances for enlisted members if such allowances are insufficient to pay for uniquely military items determined pursuant to such criteria. “(2) Periodic reviews.—The Secretary of Defense, acting through the Under Secretary of Defense for Personnel and Readiness, and in coordination with the Secretaries of the military departments, shall periodically review—“(A) all uniform clothing plans of each Armed Force under the jurisdiction of the Secretary of a military department to identify data needed to facilitate cost discussions and make recommendations described in paragraph (1); “(B) not less than once every five years, calculations of each Armed Force for standard clothing replacement allowances for enlisted members, in order to develop a standard by which to identify differences described in subsection (a); “(C) not less than once every 10 years, initial clothing allowances for officers, in order to identify data necessary to facilitate cost discussions and make recommendations described in paragraph (1); and “(D) all plans of each Armed Force under the jurisdiction of the Secretary of a military department for changing uniform items to determine if such planned changes will result in differences described in subsection (a). “(c) Regulations.—Not later than September 30, 2022, each Secretary of a military department shall prescribe regulations that ensure the following:“(1) The out-of-pocket cost to an officer or enlisted member of an Armed Force for a mandatory uniform item (or part of such uniform) may not exceed such cost to another officer or enlisted member of that Armed Force for such uniform (or part, or equivalent part, of such uniform) solely based on gender. “(2) If a change to a uniform of an Armed Force affects only enlisted members of one gender, an enlisted member of such gender in such Armed Force shall be entitled to an allowance equal to the out-of-pocket cost to the officer or enlisted member relating to such change. “(3) An individual who has separated or retired, or been discharged or dismissed, from the Armed Forces, shall not entitled to an allowance under paragraph (2). “(d) Report.—Not later than December 31, 2022, the Secretary of Defense, in coordination with the Secretaries of the military departments, shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on—“(1) the estimated production costs and average retail prices of military clothing items for members (including officers and enlisted members) of each Armed Force; and “(2) a comparison of costs for male and female military clothing items for members of each Armed Force.”
 
 #### Ex. Ord. No. 10113. Clothing Allowances for Enlisted Personnel
 Ex. Ord. No. 10113, Feb. 24, 1950, 15 F.R. 1065, as amended by Ex. Ord. No. 13286, § 83, Feb. 28, 2003, 68 F.R. 10631, provided:
@@ -1893,7 +2000,7 @@ Pub. L. 100–180, div. A, title VI, § 611(b), Dec. 4, 1987, 101 Stat. 1093, pr
 ## § 420. Allowances while participating in international sports
 **(a)** [Section 717 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section717&num=0&edition=prelim) does not authorize the payment of allowances at higher rates than those provided for participation in military activities not covered by that section.
 
-**(b)** Notwithstanding any other law, a member of a uniformed service is not entitled to travel and transportation allowances under sections 474–481 of this title for any period during which his expenses for travel or transportation are being paid by the agency sponsoring his participation in a competition covered by [section 717 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section717&num=0&edition=prelim).
+**(b)** Notwithstanding any other law, a member of a uniformed service is not entitled to travel and transportation allowances under sections 474–481 11 See References in Text note below. of this title for any period during which his expenses for travel or transportation are being paid by the agency sponsoring his participation in a competition covered by [section 717 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section717&num=0&edition=prelim).
 
 **(c)** Notwithstanding any other law, a member of a uniformed service who has no dependents is not entitled to the basic allowances for subsistence and housing authorized by sections 402 and 403 of this title for a period during which he is subsisted and quartered by the agency sponsoring his participation in a competition covered by [section 717 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section717&num=0&edition=prelim).
 
@@ -1903,6 +2010,9 @@ Pub. L. 100–180, div. A, title VI, § 611(b), Dec. 4, 1987, 101 Stat. 1093, pr
 | --- | --- | --- |
 | Revised section | Source (U.S. Code) | Source (Statutes at Large) |
 | 419(a) 419(b) 419(c) | 37:256a(a). 37:256a(b). 37:256a(c). | Oct. 12, 1949, ch. 681, § 307; added Sept. 2, 1958, Pub. L. 85–861, § 11, 72 Stat. 1556. |
+
+#### References in Text
+Sections 474 to 481 of this title, referred to in subsec. (b), were repealed by Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767.
 
 #### Prior Provisions
 A prior section 420 was renumbered [section 421 of this title](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-421).
@@ -1943,7 +2053,7 @@ A prior section 421, Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 479; Pub. L. 88�
 
 <a id="section-422"></a>
 ## § 422. Cadets and midshipmen
-**(a)** A cadet at the United States Military Academy, the United States Air Force Academy, or the Coast Guard Academy, or a midshipman at the United States Naval Academy, is entitled to the allowances provided by law for a midshipman in the Navy, and to travel and transportation allowances prescribed under [section 480 of this title](./chapter-008-travel-and-transportation-allowances.md#section-480) while traveling under orders as a cadet or midshipman.
+**(a)** A cadet at the United States Military Academy, the United States Air Force Academy, or the Coast Guard Academy, or a midshipman at the United States Naval Academy, is entitled to the allowances provided by law for a midshipman in the Navy, and to travel and transportation allowances prescribed under section 480 11 See References in Text note below. of this title while traveling under orders as a cadet or midshipman.
 
 **(b)** Each midshipman of the Navy to whom a Navy ration is not furnished is entitled to the commuted value of the ration in money for each day that he is on active duty, including each day that he is on leave. The Secretary of the Navy may prescribe regulations stating the conditions under which the commuted value shall be allowed and may prescribe regulations establishing the rates at which the ration shall be commuted.
 
@@ -1969,6 +2079,9 @@ However, no allowance for travel on discharge may be paid to a discharged cadet 
 | 422(d) | 10:6906(c) (1st sentence, less applicability to pay). | [None.] |
 
 In subsection (a), the words “prescribed under [section 410 of this title](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-410)” are inserted to reflect that revised section.
+
+#### References in Text
+[Section 480 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section480&num=0&edition=prelim), referred to in subsec. (a), was repealed by Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767.
 
 #### Amendments
 2013—Subsec. (a). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
@@ -2077,7 +2190,7 @@ Section, Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 480, provided for payment to 
 
 (1) In addition to any allowance or per diem to which he otherwise may be entitled under this title a member of a uniformed service with dependents is entitled to a monthly allowance equal to $250 if—
 
-  (A) the movement of his dependents to his permanent station or a place near that station is not authorized at the expense of the United States under [section 476 of this title](./chapter-008-travel-and-transportation-allowances.md#section-476) and his dependents do not reside at or near that station;
+  (A) the movement of his dependents to his permanent station or a place near that station is not authorized at the expense of the United States under section 476 11 See References in Text note below. of this title and his dependents do not reside at or near that station;
 
   (B) he is on duty on board a ship away from the home port of the ship (or under orders to remain on board the ship while at the home port) for a continuous period of more than 30 days; or
 
@@ -2093,7 +2206,7 @@ Section, Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 480, provided for payment to 
 
 **(c) Effect of Election to Serve Unaccompanied Tour of Duty.—**
 
-(1) Except as provided in paragraph (2) or (3), a member who elects to serve a tour of duty unaccompanied by his dependents at a permanent station to which the movement of his dependents is authorized at the expense of the United States under [section 476 of this title](./chapter-008-travel-and-transportation-allowances.md#section-476) is not entitled to an allowance under subsection (a)(1)(A).
+(1) Except as provided in paragraph (2) or (3), a member who elects to serve a tour of duty unaccompanied by his dependents at a permanent station to which the movement of his dependents is authorized at the expense of the United States under section 476 1 of this title is not entitled to an allowance under subsection (a)(1)(A).
 
 (2) The prohibition in the first sentence of paragraph (1) does not apply to a member who elects to serve an unaccompanied tour of duty because a dependent cannot accompany the member to or at that permanent station for certified medical reasons.
 
@@ -2108,6 +2221,9 @@ Section, Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 480, provided for payment to 
 (3) [Section 421 of this title](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-421) does not apply to bar the entitlement to an allowance under this section. Except as provided in paragraph (2), not more than one monthly allowance may be paid with respect to a married couple under this section.
 
 ### Statutory Notes
+
+#### References in Text
+[Section 476 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section476&num=0&edition=prelim), referred to in subsecs. (a)(1)(A) and (c)(1), was repealed by Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767.
 
 #### Amendments
 2021—Subsec. (a)(1)(B). Pub. L. 116–283 inserted “(or under orders to remain on board the ship while at the home port)” after “of the ship”.
@@ -2220,7 +2336,7 @@ Pub. L. 91–529, § 2, Dec. 7, 1970, 84 Stat. 1389, provided that: “Section 1
 Section effective Oct. 1, 1963, see section 14 of Pub. L. 88–132, set out as an Effective Date of 1963 Amendment note under [section 201 of this title](./chapter-003-basic-pay.md#section-201).
 
 #### Savings Provision
-Pub. L. 99–661, div. A, title VI, § 618(b), Nov. 14, 1986, 100 Stat. 3881, as amended by Pub. L. 112–81, div. A, title VI, § 631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: “Notwithstanding the amendments made by subsection (a) [amending this section], a member who on September 30, 1986, was assigned to a permanent station to which the movement of his dependents was authorized at the expense of the United States under [section 476 of title 37](./chapter-008-travel-and-transportation-allowances.md#section-476), United States Code, and who elected to serve a tour of duty at that station unaccompanied by his dependents, shall, until he departs that station as a result of a change of permanent station, be entitled to receive the allowance authorized by section 427(b) of such title without regard to paragraph (3) [now (4)] of such section, as added by subsection (a).”
+Pub. L. 99–661, div. A, title VI, § 618(b), Nov. 14, 1986, 100 Stat. 3881, as amended by Pub. L. 112–81, div. A, title VI, § 631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: “Notwithstanding the amendments made by subsection (a) [amending this section], a member who on September 30, 1986, was assigned to a permanent station to which the movement of his dependents was authorized at the expense of the United States under [section 476 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section476&num=0&edition=prelim), United States Code, and who elected to serve a tour of duty at that station unaccompanied by his dependents, shall, until he departs that station as a result of a change of permanent station, be entitled to receive the allowance authorized by section 427(b) of such title without regard to paragraph (3) [now (4)] of such section, as added by subsection (a).”
 
 #### Rates of Pay for Fiscal Year 2004
 Rates of pay authorized under subsec. (a)(1) of this section from Oct. 1, 2003, through Sept. 30, 2004, to be $250, see section 1104 of Pub. L. 108–106, set out as a note under [section 310 of this title](./chapter-005-special-and-incentive-pays.md#section-310).
@@ -2250,7 +2366,7 @@ Pub. L. 91–534, Dec. 7, 1970, 84 Stat. 1392, provided: “That, under regulati
 ### Statutory Notes
 
 #### Codification
-Section 431, which related to benefits for certain members assigned to the Defense Intelligence Agency, was transferred to chapter 8 of this title by Pub. L. 112–81, div. A, title VI, § 631(d)(2), Dec. 31, 2011, 125 Stat. 1460, and renumbered [section 491 of this title](./chapter-008-travel-and-transportation-allowances.md#section-491) by Pub. L. 112–239, div. A, title X, § 1076(h)(2), Jan. 2, 2013, 126 Stat. 1955.
+Section 431, which related to benefits for certain members assigned to the Defense Intelligence Agency, was transferred to chapter 8 of this title by Pub. L. 112–81, div. A, title VI, § 631(d)(2), Dec. 31, 2011, 125 Stat. 1460, and renumbered [section 491 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section491&num=0&edition=prelim) by Pub. L. 112–239, div. A, title X, § 1076(h)(2), Jan. 2, 2013, 126 Stat. 1955, prior to repeal by Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767.
 
 
 <a id="section-432"></a>
@@ -2261,13 +2377,16 @@ Section 431, which related to benefits for certain members assigned to the Defen
 ## § 433. Allowance for muster duty
 **(a)** Under uniform regulations prescribed by the Secretaries concerned, a member of the Ready Reserve who is not a member of the National Guard or of the Selected Reserve is entitled to an allowance for muster duty performed pursuant to [section 12319 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12319&num=0&edition=prelim) if the member is engaged in that duty for at least two hours.
 
-**(b)** The amount of the allowance under this section shall be 125 percent of the amount of the average per diem rate for the United States (other than Alaska and Hawaii) under [section 474(d)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section474/d/2/A&num=0&edition=prelim) as in effect on September 30 of the year preceding the year in which the muster duty is performed.
+**(b)** The amount of the allowance under this section shall be 125 percent of the amount of the average per diem rate for the United States (other than Alaska and Hawaii) under section 474(d)(2)(A) 11 See References in Text note below. of this title as in effect on September 30 of the year preceding the year in which the muster duty is performed.
 
 **(c)** The allowance authorized by this section may not be disbursed in kind. The allowance may be paid to the member before, on, or after the date on which the muster duty is performed, but not later than 30 days after that date. The allowance shall constitute the single, flat-rate monetary allowance authorized for the performance of muster duty and shall constitute payment in full to the member, regardless of grade or rank in which serving, as commutation for travel to the immediate vicinity of the designated muster duty location, transportation, subsistence, and the special or extraordinary costs of enforced absence from home and civilian pursuits, including such absence on weekends and holidays.
 
 **(d)** A member who performs muster duty is not entitled to compensation for inactive-duty training under [section 206(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section206/a&num=0&edition=prelim) for the same period.
 
 ### Statutory Notes
+
+#### References in Text
+[Section 474 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section474&num=0&edition=prelim), referred to in subsec. (b), was repealed by Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767.
 
 #### Amendments
 2013—Subsec. (b). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
@@ -2329,7 +2448,7 @@ A prior section 435 was renumbered [section 495 of this title](./chapter-008-tra
 #### Amendments
 2021—Pub. L. 116–283, § 604(b)(1), renumbered [section 495 of this title](./chapter-008-travel-and-transportation-allowances.md#section-495) as this section.
 
-Subsec. (c). Pub. L. 116–283, § 604(b)(2), struck out subsec. (c). Text read as follows: “No allowance may be paid under this section for any day after the travel authorities transition expiration date.”.
+Subsec. (c). Pub. L. 116–283, § 604(b)(2), struck out subsec. (c). Text read as follows: “No allowance may be paid under this section for any day after the travel authorities transition expiration date.”
 
 2011—Pub. L. 112–81, § 631(d)(2), renumbered [section 435 of this title](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-435) as section 495.
 

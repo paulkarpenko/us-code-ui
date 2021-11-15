@@ -271,7 +271,7 @@ The Controlled Substances Act, referred to in par. (6)(A), is title II of Pub. L
 This chapter, referred to in par. (10)(B)(i), was in the original “this Act”, meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12101) and Tables.
 
 #### Constitutionality
-For constitutionality of section 101 of Pub. L. 101–336, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For constitutionality of section 101 of Pub. L. 101–336, see note under [section 12112 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12112).
 
 #### Amendments
 2008—Par. (8). Pub. L. 110–325 struck out “with a disability” after “individual” in heading and the first two places appearing in text.
@@ -373,6 +373,9 @@ Pub. L. 101–336, title I, § 108, July 26, 1990, 104 Stat. 337, provided that:
 
 #### References in Text
 This chapter, referred to in subsec. (d)(3)(B)(iii), was in the original “this Act”, meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12101) and Tables.
+
+#### Constitutionality
+For constitutionality of certain provisions of this subchapter, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
 #### Amendments
 2008—Subsec. (a). Pub. L. 110–325, § 5(a)(1), substituted “on the basis of disability” for “with a disability because of the disability of such individual”.
@@ -1581,9 +1584,6 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### References in Text
 This chapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12101) and Tables.
-
-#### Constitutionality
-For constitutionality of section 503 of Pub. L. 101–336, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
 
 <a id="section-12206"></a>

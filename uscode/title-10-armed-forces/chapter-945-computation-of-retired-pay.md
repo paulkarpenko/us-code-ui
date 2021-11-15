@@ -132,7 +132,7 @@ Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 
 #### Effective Date of 1958 Amendment
 Amendment by section 6(6), (8) of Pub. L. 85–422 inapplicable to retired persons or to persons to whom retired pay is granted before May 31, 1958, see section 6 of Pub. L. 85–422, set out in part under [section 3991 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3991&num=0&edition=prelim).
 
-Amendment by Pub. L. 85–422 effective on June 1, 1958, see section 9 of Pub. L. 85–422.
+Amendment by Pub. L. 85–422 effective on June 1, 1958, see section 9 of Pub. L. 85–422, May 20, 1958, 72 Stat. 130.
 
 #### Computation of Retired Pay for Certain Enlisted Members Retired Prior to June 1, 1958
 Members retired prior to June 1, 1958, authorized to include active service performed to the date of retirement as creditable service in computation of basic pay upon which retired pay is based, see Pub. L. 87–537, set out as a note under [section 7361 of this title](./chapter-745-computation-of-retired-pay.md#section-7361).

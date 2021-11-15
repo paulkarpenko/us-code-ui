@@ -1155,7 +1155,7 @@ Pub. L. 98–94, title X, § 1032(b), Sept. 24, 1983, 97 Stat. 672, provided tha
 
 (2) The Secretary of Defense shall prescribe annually a flat rate daily stipend for purposes of paragraph (1)(A). Such stipend shall be set at a rate so as to encompass typical costs for transportation and other miscellaneous expenses for persons participating in funeral honors details who are members of the armed forces in a retired status and other persons who are not members of the armed forces or employees of the United States.
 
-(3) A stipend paid under this subsection to a member of the armed forces in a retired status is in addition to any compensation to which the member is entitled under [section 495(a)(2) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section495/a/2&num=0&edition=prelim) and any other compensation to which the member may be entitled.
+(3) A stipend paid under this subsection to a member of the armed forces in a retired status is in addition to any compensation to which the member is entitled under section 495(a)(2) 11 See References in Text note below. of title 37 and any other compensation to which the member may be entitled.
 
 **(e) Waiver Authority.—**
 
@@ -1185,6 +1185,8 @@ Pub. L. 98–94, title X, § 1032(b), Sept. 24, 1983, 97 Stat. 672, provided tha
 
 #### References in Text
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 2020, referred to in subsec. (b)(3)(A), is the date of enactment of Pub. L. 116–92, which was approved Dec. 20, 2019.
+
+[Section 495 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section495&num=0&edition=prelim), referred to in subsec. (d)(3), was renumbered [section 435 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section435&num=0&edition=prelim) by Pub. L. 116–283, div. A, title VI, § 604(b)(1), Jan. 1, 2021, 134 Stat. 3672.
 
 #### Amendments
 2021—Subsec. (b)(2). Pub. L. 116–283 struck out “, at least one of whom shall be a member of the armed force of which the veteran was a member” after “retired status)”.
@@ -1250,7 +1252,7 @@ Pub. L. 116–92, div. A, title V, § 574(b), Dec. 20, 2019, 133 Stat. 1404, pro
 
 <a id="section-1492"></a>
 ## § 1492. Authority to provide travel and transportation allowances in connection with transfer ceremonies of certain civilian employees who die overseas
-**(a) Authority.—** A covered official may treat a covered relative of a covered employee under the jurisdiction of that covered official in the same manner the Secretary of a military department treats, under [section 481f(d) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section481f/d&num=0&edition=prelim), next of kin and family members of a member of the armed forces who dies while located or serving overseas.
+**(a) Authority.—** A covered official may treat a covered relative of a covered employee under the jurisdiction of that covered official in the same manner the Secretary of a military department treats, under section 481f(d) 11 See References in Text note below. of title 37, next of kin and family members of a member of the armed forces who dies while located or serving overseas.
 
 **(b) Definitions.—** In this section:
 
@@ -1273,3 +1275,8 @@ Pub. L. 116–92, div. A, title V, § 574(b), Dec. 20, 2019, 133 Stat. 1404, pro
   (B) two family members (other than primary next of kin) of the covered employee; and
 
   (C) one or more additional family members of the covered employee, at the discretion of the Secretary a sibling of the covered employee.
+
+### Statutory Notes
+
+#### References in Text
+[Section 481f of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section481f&num=0&edition=prelim), referred to in subsec. (a), was repealed by Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767.

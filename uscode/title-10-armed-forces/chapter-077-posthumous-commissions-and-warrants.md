@@ -49,11 +49,11 @@ Subsec. (c). Pub. L. 110–417, § 502(a)(2), added subsec. (c).
 
 Subsec. (b). Pub. L. 106–398, § 1 [[div. A], title V, § 505(b)], substituted “official recommendation” for “approval” in two places.
 
-#### Delegation of Functions
-For assignment of functions of President under subsec. (a) of this section, see sections 1(a) and 2(a) of Ex. Ord. No. 13358, Sept. 28, 2004, 69 F.R. 58797, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
-
 #### Determination of Date of Death Under Missing Persons Act
 Act July 28, 1942, ch. 528, § 5, as added July 17, 1953, ch. 220, § 1(e), 67 Stat. 177, provided that for purposes of this chapter, in any case where the date of death is established under the Missing Persons Act, as amended, the date of death is the date of receipt by the head of the department concerned of evidence that the person is dead, or the date the finding of death is made under section 5 of that Act, prior to repeal by Pub. L. 89–718, § 12(b), Nov. 2, 1966, 80 Stat. 1117. See [section 1524 of this title](./chapter-077-posthumous-commissions-and-warrants.md#section-1524).
+
+#### Delegation of Functions
+For assignment of functions of President under subsec. (a) of this section, see sections 1(a) and 2(a) of Ex. Ord. No. 13358, Sept. 28, 2004, 69 F.R. 58797, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
 
 
 <a id="section-1522"></a>

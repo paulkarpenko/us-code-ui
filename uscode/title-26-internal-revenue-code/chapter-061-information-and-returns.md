@@ -2055,11 +2055,11 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 ### Statutory Notes
 
-#### Effective Date
-Section applicable to property with respect to which an estate tax return is filed after July 31, 2015, see section 2004(d) of Pub. L. 114–41, set out as an Effective Date of 2015 Amendment note under [section 1014 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1014).
-
 #### Prior Provisions
 A prior section 6035, act Aug. 16, 1954, ch. 736, 68A Stat. 743; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title III, § 340(a), Sept. 3, 1982, 96 Stat. 633, related to information returns of officers, directors, and shareholders of foreign personal holding companies, prior to repeal by Pub. L. 108–357, title IV, § 413(c)(26), (d)(1), Oct. 22, 2004, 118 Stat. 1509, 1510, applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end.
+
+#### Effective Date
+Section applicable to property with respect to which an estate tax return is filed after July 31, 2015, see section 2004(d) of Pub. L. 114–41, set out as an Effective Date of 2015 Amendment note under [section 1014 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1014).
 
 
 <a id="section-6036"></a>
@@ -3915,7 +3915,46 @@ during the period such short sale or similar transaction is open, the broker sha
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 117–58, div. H, title VI, § 80603(a), (b)(1), (c), Nov. 15, 2021, 135 Stat. 1339–1341, provided that, applicable to returns required to be filed, and statements required to be furnished, after Dec. 31, 2023, this section is amended as follows:
+
+(1) in subsection (c)(1)—
+
+(A) by striking “and” at the end of subparagraph (B),
+
+(B) in subparagraph (C), by striking “any other person who (for a consideration)” and inserting “any person who (for consideration)” and by striking the period at the end and inserting “, and”, and
+
+(C) by inserting after subparagraph (C) the following new subparagraph:
+
+“(D) any person who (for consideration) is responsible for regularly providing any service effectuating transfers of digital assets on behalf of another person.”;
+
+(2) in subsection (g)(3)(B), by striking “and” at the end of clause (iii), by redesignating clause (iv) as clause (v), and by inserting after clause (iii) the following new clause:
+
+“(iv) any digital asset, and”;
+
+(3) in subsection (g)(3)(C), by striking “and” at the end of clause (ii), by redesignating clause (iii) as clause (iv), and by inserting after clause (ii) the following new clause:
+
+“(iii) January 1, 2023, in the case of any specified security which is a digital asset, and”; and
+
+(4) in subsection (g)(3), by adding at the end the following new subparagraph:
+
+“(D) Digital asset
+
+“Except as otherwise provided by the Secretary, the term ‘digital asset’ means any digital representation of value which is recorded on a cryptographically secured distributed ledger or any similar technology as specified by the Secretary.”
+
+See 2021 Amendment notes below.
+
 #### Amendments
+2021—Subsec. (c)(1)(C). Pub. L. 117–58, § 80603(a)(2), substituted “any person who (for consideration)” for “any other person who (for a consideration)” and “, and” for period at end.
+
+Subsec. (c)(1)(D). Pub. L. 117–58, § 80603(a)(1), (3), added subpar. (D).
+
+Subsec. (g)(3)(B)(iv), (v). Pub. L. 117–58, § 80603(b)(1)(A), added cl. (iv) and redesignated former cl. (iv) as (v).
+
+Subsec. (g)(3)(C)(iii), (iv). Pub. L. 117–58, § 80603(b)(1)(C), added cl. (iii) and redesignated former cl. (iii) as (iv).
+
+Subsec. (g)(3)(D). Pub. L. 117–58, § 80603(b)(1)(B), added subpar. (D).
+
 2015—Subsec. (g)(2)(B)(iii). Pub. L. 114–113 added cl. (iii).
 
 2014—Subsec. (g)(6). Pub. L. 113–295 added par. (6).
@@ -3964,6 +4003,9 @@ Subsec. (d). Pub. L. 98–369, § 150(a), added subsec. (d).
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
+#### Effective Date of 2021 Amendment
+Pub. L. 117–58, div. H, title VI, § 80603(c), Nov. 15, 2021, 135 Stat. 1341, provided that: “The amendments made by this section [amending this section and sections 6045A, 6050I, and 6724 of this title] shall apply to returns required to be filed, and statements required to be furnished, after December 31, 2023.”
+
 #### Effective Date of 2015 Amendment
 Pub. L. 114–113, div. Q, title II, § 202(e), Dec. 18, 2015, 129 Stat. 3078, as amended by Pub. L. 115–141, div. U, title I, § 101(f)(3), Mar. 23, 2018, 132 Stat. 1161, provided that: “The amendments made by this section [amending this section and sections 6721 and 6722 of this title] shall apply to returns required to be filed, and payee statements required to be furnished, after December 31, 2016.”
 
@@ -4011,6 +4053,9 @@ Amendment by section 714(e)(1) of Pub. L. 98–369 effective as if included in t
 #### Effective Date of 1982 Amendment
 Pub. L. 97–248, title III, § 311(c)(1), Sept. 3, 1982, 96 Stat. 601, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsection (a) [amending this section and [section 6678 of this title](./chapter-068-additions-to-the-tax-additional-amounts-and-assessable-penalties.md#section-6678)] shall take effect on the date of the enactment of this Act [Sept. 3, 1982], except that— “(A) regulations relating to reporting by commodities and securities brokers shall be issued under section 6045 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (as amended by this Act) within 6 months after the date of the enactment of this Act [Sept. 3, 1982], and “(B) such regulations shall not apply to transactions occurring before January 1, 1983.”
 
+#### Rule of Construction
+Pub. L. 117–58, div. H, title VI, § 80603(d), Nov. 15, 2021, 135 Stat. 1341, provided that: “Nothing in this section [amending this section and sections 6045A, 6050I, and 6724 of this title and enacting provisions set out as a note under this section] or the amendments made by this section shall be construed to create any inference, for any period prior to the effective date of such amendments [see section 80603(c) of Pub. L. 117–58, set out as an Effective Date of 2021 Amendment note above], with respect to— “(1) whether any person is a broker under section 6045(c)(1) of the Internal Revenue Code of 1986, or “(2) whether any digital asset is property which is a specified security under section 6045(g)(3)(B) of such Code.”
+
 #### No Penalty for Payments Before January 1, 1985
 Pub. L. 98–369, div. A, title VII, § 714(e)(2), July 18, 1984, 98 Stat. 961, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that no penalty for payments made before Jan. 1, 1985, would be imposed with respect to any person required to file a return under this section, as amended by section 714(e)(1) of Pub. L. 98–369.
 
@@ -4028,6 +4073,27 @@ Pub. L. 98–369, div. A, title VII, § 714(e)(2), July 18, 1984, 98 Stat. 961, 
 **(c) Time for furnishing statement** Except as otherwise provided by the Secretary, any statement required by subsection (a) shall be furnished not later than 15 days after the date of the transfer described in such subsection.
 
 ### Statutory Notes
+
+#### Amendment of Section
+Pub. L. 117–58, div. H, title VI, § 80603(b)(2)(A), (c), Nov. 15, 2021, 135 Stat. 1340, 1341, provided that, applicable to returns required to be filed, and statements required to be furnished, after Dec. 31, 2023, this section is amended—
+
+(1) in subsection (a), by striking “a security which is”, and
+
+(2) by adding at the end the following:
+
+“(d) Return requirement for certain transfers of digital assets not otherwise subject to reporting
+
+“Any broker, with respect to any transfer (which is not part of a sale or exchange executed by such broker) during a calendar year of a covered security which is a digital asset from an account maintained by such broker to an account which is not maintained by, or an address not associated with, a person that such broker knows or has reason to know is also a broker, shall make a return for such calendar year, in such form as determined by the Secretary, showing the information otherwise required to be furnished with respect to transfers subject to subsection (a).”
+
+See 2021 Amendment notes below.
+
+#### Amendments
+2021—Subsec. (a). Pub. L. 117–58, § 80603(b)(2)(A)(i), struck out “a security which is” after “section 6045(c)(1))”.
+
+Subsec. (d). Pub. L. 117–58, § 80603(b)(2)(A)(ii), added subsec. (d).
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–58 applicable to returns required to be filed, and statements required to be furnished, after Dec. 31, 2023, see section 80603(c) of Pub. L. 117–58, set out as a note under [section 6045 of this title](./chapter-061-information-and-returns.md#section-6045).
 
 #### Effective Date
 Section effective Jan. 1, 2011, see section 403(e)(1) of Pub. L. 110–343, set out as an Effective Date of 2008 Amendment note under [section 1012 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1012).
@@ -5289,7 +5355,16 @@ The written statement required under the preceding sentence shall be furnished t
 
 ### Statutory Notes
 
+#### Amendment of Subsection (d)
+Pub. L. 117–58, div. H, title VI, § 80603(b)(3), (c), Nov. 15, 2021, 135 Stat. 1341, provided that, applicable to returns required to be filed, and statements required to be furnished, after Dec. 31, 2023, subsection (d) of this section is amended by inserting after paragraph (2) the following new paragraph:
+
+“(3) any digital asset (as defined in section 6045(g)(3)(D)).”
+
+See 2021 Amendment note below.
+
 #### Amendments
+2021—Subsec. (d)(3). Pub. L. 117–58 added par. (3).
+
 1996—Subsec. (e)(1). Pub. L. 104–168 substituted “name, address, and phone number of the information contact” for “name and address”.
 
 1994—Pub. L. 103–322, § 20415(b)(3), substituted “business, etc.” for “business” in section catchline.
@@ -5303,6 +5378,9 @@ Subsec. (f). Pub. L. 101–508, § 11318(c), substituted heading for one which r
 1988—Subsec. (f). Pub. L. 100–690 added subsec. (f).
 
 1986—Subsec. (e). Pub. L. 99–514 substituted “information is required” for “information is furnished” in heading and, in text, substituted references to persons required to make a return for former references to persons making a return and references to persons whose name is required to be set forth for former references to persons whose name is set forth.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–58 applicable to returns required to be filed, and statements required to be furnished, after Dec. 31, 2023, see section 80603(c) of Pub. L. 117–58, set out as a note under [section 6045 of this title](./chapter-061-information-and-returns.md#section-6045).
 
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–168 applicable to statements required to be furnished after Dec. 31, 1996 (determined without regard to any extension), see section 1201(b) of Pub. L. 104–168, set out as a note under [section 6041 of this title](./chapter-061-information-and-returns.md#section-6041).
@@ -6039,7 +6117,7 @@ Such return shall be made at such time and in such form and manner as the Secret
 
 (2) **Payment card transaction** — The term “payment card transaction” means any transaction in which a payment card is accepted as payment.
 
-(3) **Third party network transaction** — The term “third party network transaction” means any transaction which is settled through a third party payment network.
+(3) **Third party network transaction** — The term “third party network transaction” means any transaction described in subsection (d)(3)(A)(iii) which is settled through a third party payment network.
 
 **(d) Other definitions** For purposes of this section—
 
@@ -6079,11 +6157,7 @@ Such return shall be made at such time and in such form and manner as the Secret
   (C) which guarantees persons providing goods or services pursuant to such agreement or arrangement that such persons will be paid for providing such goods or services.
   Such term shall not include any agreement or arrangement which provides for the issuance of payment cards.
 
-**(e) Exception for de minimis payments by third party settlement organizations** A third party settlement organization shall be required to report any information under subsection (a) with respect to third party network transactions of any participating payee only if—
-
-(1) the amount which would otherwise be reported under subsection (a)(2) with respect to such transactions exceeds $20,000, and
-
-(2) the aggregate number of such transactions exceeds 200.
+**(e) De minimis exception for third party settlement organizations** A third party settlement organization shall not be required to report any information under subsection (a) with respect to third party network transactions of any participating payee if the amount which would otherwise be reported under subsection (a)(2) with respect to such transactions does not exceed $600.
 
 **(f) Statements to be furnished to persons with respect to whom information is required** Every person required to make a return under subsection (a) shall furnish to each person with respect to whom such a return is required a written statement showing—
 
@@ -6097,7 +6171,14 @@ The written statement required under the preceding sentence shall be furnished t
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (c)(3). Pub. L. 117–2, § 9674(b), inserted “described in subsection (d)(3)(A)(iii)” after “any transaction”.
+
+Subsec. (e). Pub. L. 117–2, § 9674(a), amended subsec. (e) generally. Prior to amendment, subsec. (e) related to an exception for de minimis payments by third party settlement organizations.
+
 2018—Subsec. (d)(1)(B). Pub. L. 115–123 inserted at end “Notwithstanding the preceding sentence, a person with only a foreign address shall not be treated as a participating payee with respect to any payment settlement entity solely because such person receives payments from such payment settlement entity in dollars.”
+
+#### Effective Date of 2021 Amendment
+Pub. L. 117–2, title IX, § 9674(c), Mar. 11, 2021, 135 Stat. 185, provided that: “(1) In general.—The amendment made by subsection (a) [amending this section] shall apply to returns for calendar years beginning after December 31, 2021. “(2) Clarification.—The amendment made by subsection (b) [amending this section] shall apply to transactions after the date of the enactment of this Act [Mar. 11, 2021].”
 
 #### Effective Date of 2018 Amendment
 Pub. L. 115–123, div. D, title II, § 41117(b), Feb. 9, 2018, 132 Stat. 162, provided that: “The amendment made by this section [amending this section] shall apply to returns for calendar years beginning after December 31, 2017.”
@@ -8483,7 +8564,7 @@ shall disclose any return or return information obtained by him in any manner in
 
     (ii) is specifically authorized and designated by the Secretary of Education for purposes of such subparagraph (applied separately with respect to each such subparagraph).
 
-  (F) *Joint returns* — In the case of a joint return, any disclosure authorized under subparagraph (A), (B), or (C), and any redisclosure authorized under clause (iii), (iv) (v), or (vi) of subparagraph (D), with respect to an individual shall be treated for purposes of this paragraph as applying with respect to the taxpayer.
+  (F) *Joint returns* — In the case of a joint return, any disclosure authorized under subparagraph (A), (B), or (C), and any redisclosure authorized under clause (iii), (iv) 22 So in original. Probably should be followed by a comma. (v), or (vi) of subparagraph (D), with respect to an individual shall be treated for purposes of this paragraph as applying with respect to the taxpayer.
 
 (14) **Disclosure of return information to United States Customs Service** — The Secretary may, upon written request from the Commissioner of the United States Customs Service, disclose to officers and employees of the Department of the Treasury such return information with respect to taxes imposed by chapters 1 and 6 as the Secretary may prescribe by regulations, solely for the purpose of, and only to the extent necessary in—
 
@@ -8677,7 +8758,7 @@ shall disclose any return or return information obtained by him in any manner in
 
 (3) **Records of inspection and disclosure**
 
-  (A) *System of recordkeeping* — Except as otherwise provided by this paragraph, the Secretary shall maintain a permanent system of standardized records or accountings of all requests for inspection or disclosure of returns and return information (including the reasons for and dates of such requests) and of returns and return information inspected or disclosed under this section and section 6104(c). Notwithstanding the provisions of [section 552a(c) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a/c&num=0&edition=prelim), United States Code, the Secretary shall not be required to maintain a record or accounting of requests for inspection or disclosure of returns and return information, or of returns and return information inspected or disclosed, under the authority of subsection (c), (e), (f)(5), (h)(1), (3)(A), or (4), (i)(4), or (8)(A)(ii), (k)(1), (2), (6), (8), or (9), (l)(1), (4)(B), (5), (7), (8), (9), (10), (11), (12), (13)(D)(iv), (13)(D)(v), (13)(D)(vi)22 So in original. (14), (15), (16), (17), or (18), (m), or (n). The records or accountings required to be maintained under this paragraph shall be available for examination by the Joint Committee on Taxation or the Chief of Staff of such joint committee. Such record or accounting shall also be available for examination by such person or persons as may be, but only to the extent, authorized to make such examination under [section 552a(c)(3) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a/c/3&num=0&edition=prelim), United States Code.
+  (A) *System of recordkeeping* — Except as otherwise provided by this paragraph, the Secretary shall maintain a permanent system of standardized records or accountings of all requests for inspection or disclosure of returns and return information (including the reasons for and dates of such requests) and of returns and return information inspected or disclosed under this section and section 6104(c). Notwithstanding the provisions of [section 552a(c) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a/c&num=0&edition=prelim), United States Code, the Secretary shall not be required to maintain a record or accounting of requests for inspection or disclosure of returns and return information, or of returns and return information inspected or disclosed, under the authority of subsection (c), (e), (f)(5), (h)(1), (3)(A), or (4), (i)(4), or (8)(A)(ii), (k)(1), (2), (6), (8), or (9), (l)(1), (4)(B), (5), (7), (8), (9), (10), (11), (12), (13)(D)(iv), (13)(D)(v), (13)(D)(vi) 2 (14), (15), (16), (17), or (18), (m), or (n). The records or accountings required to be maintained under this paragraph shall be available for examination by the Joint Committee on Taxation or the Chief of Staff of such joint committee. Such record or accounting shall also be available for examination by such person or persons as may be, but only to the extent, authorized to make such examination under [section 552a(c)(3) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a/c/3&num=0&edition=prelim), United States Code.
 
   (B) *Report by the Secretary* — The Secretary shall, within 90 days after the close of each calendar year, furnish to the Joint Committee on Taxation a report with respect to, or summary of, the records or accountings described in subparagraph (A) in such form and containing such information as such joint committee or the Chief of Staff of such joint committee may designate. Such report or summary shall not, however, include a record or accounting of any request by the President under subsection (g) for, or the disclosure in response to such request of, any return or return information with respect to any individual who, at the time of such request, was an officer or employee of the executive branch of the Federal Government. Such report or summary, or any part thereof, may be disclosed by such joint committee to such persons and for such purposes as the joint committee may, by record vote of a majority of the members of the joint committee, determine.
 
@@ -8709,7 +8790,7 @@ shall disclose any return or return information obtained by him in any manner in
 
     (i) in the case of an agency, body, or commission described in subsection (d), (i)(3)(B)(i), (k)(10), or (l)(6), (7), (8), (9), or (16), any appropriate State officer (as defined in section 6104(c)), or any other person described in subsection (k)(10) or (15) or subsection (l)(10), (13)(A), (13)(B), (13)(C), (13)(D)(i), (16), (18), (19), or (20) return to the Secretary such returns or return information (along with any copies made therefrom) or make such returns or return information undisclosable in any manner and furnish a written report to the Secretary describing such manner,
 
-    (ii) in the case of an agency described in subsection (h)(2), (h)(5), (i)(1), (2), (3), (5) or (7), (j)(1), (2), or (5), (k)(8), (10), (11), or (15), (l)(1), (2), (3), (5), (10), (11), (12), (13)(A), (13)(B), (13)(C), (13)(D)(i), (14), (15), (17), or (22),,2 (o)(1)(A), or (o)(3) or any entity described in subsection (l)(21), the Government Accountability Office, or the Congressional Budget Office, either—
+    (ii) in the case of an agency described in subsection (h)(2), (h)(5), (i)(1), (2), (3), (5) or (7), (j)(1), (2), or (5), (k)(8), (10), (11), or (15), (l)(1), (2), (3), (5), (10), (11), (12), (13)(A), (13)(B), (13)(C), (13)(D)(i), (14), (15), (17), or (22),,33 So in original. (o)(1)(A), or (o)(3) or any entity described in subsection (l)(21), the Government Accountability Office, or the Congressional Budget Office, either—
 
       (I) return to the Secretary such returns or return information (along with any copies made therefrom),
 
@@ -8835,7 +8916,7 @@ Subsec. (p)(3)(A). Pub. L. 116–260, div. N, § 284(a)(3)(B), and div. FF, § 1
 
 Pub. L. 116–136, § 3516(a)(2), substituted “(12), (13)(A), (13)(B), (13)(C), (13)(D)(i)” for “(12),”.
 
-Subsec. (p)(4). Pub. L. 116–260, div. N, § 283(b)(2)(B), and div. FF, § 102(b)(2)(B), amended par. (4) identically, substituting “(k)(8), (10), (11), or (15)” for “(k)(8), (10), or (11)” in two places and “any other person described in subsection (k)(10) or (15)” for“any other person described in subsection (k)(10)” wherever appearing.
+Subsec. (p)(4). Pub. L. 116–260, div. N, § 283(b)(2)(B), and div. FF, § 102(b)(2)(B), amended par. (4) identically, substituting “(k)(8), (10), (11), or (15)” for “(k)(8), (10), or (11)” in two places and “any other person described in subsection (k)(10) or (15)” for “any other person described in subsection (k)(10)” wherever appearing.
 
 Pub. L. 116–136, § 3516(a)(4), substituted “(13)(A), (13)(B), (13)(C), (13)(D)(i)” for “(13)” wherever appearing.
 
@@ -9591,11 +9672,11 @@ Words “magistrate judge” substituted for “magistrate” wherever appearing
 #### Effective Date of 2020 Amendment
 Pub. L. 116–260, div. N, title II, § 283(c), Dec. 27, 2020, 134 Stat. 1985, provided that: “The amendments made by this section [amending this section, [section 7213 of this title](./chapter-075-crimes-other-offenses-and-forfeitures.md#section-7213), and [section 1306 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1306&num=0&edition=prelim), The Public Health and Welfare] shall apply to disclosures made on or after the date of the enactment of this Act [Dec. 27, 2020].”
 
-Pub. L. 116–260, div. N, title II, § 284(a)(4), Dec. 27, 2020, 134 Stat. 1986, provided that: “The amendments made by this subsection [amending this section] shall apply to disclosures made after the date of the enactment of the FUTURE Act (Public Law 116–91).”
+Pub. L. 116–260, div. N, title II, § 284(a)(4), Dec. 27, 2020, 134 Stat. 1986, provided that: “The amendments made by this subsection [amending this section] shall apply to disclosures made after the date of the enactment of the FUTURE Act (Public Law 116–91) [Dec. 19, 2019].”
 
 Pub. L. 116–260, div. FF, title I, § 102(c), Dec. 27, 2020, 134 Stat. 3084, provided that: “The amendments made by this section [amending this section, [section 7213 of this title](./chapter-075-crimes-other-offenses-and-forfeitures.md#section-7213), and [section 1306 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1306&num=0&edition=prelim), The Public Health and Welfare] shall apply to disclosures made on or after the date of the enactment of this Act [Dec. 27, 2020].”
 
-Pub. L. 116–260, div. FF, title I, § 103(a)(4), Dec. 27, 2020, 134 Stat. 3086, provided that: “The amendments made by this subsection [amending this section] shall apply to disclosures made after the date of the enactment of the FUTURE Act (Public Law 116–91).”
+Pub. L. 116–260, div. FF, title I, § 103(a)(4), Dec. 27, 2020, 134 Stat. 3086, provided that: “The amendments made by this subsection [amending this section] shall apply to disclosures made after the date of the enactment of the FUTURE Act (Public Law 116–91) [Dec. 19, 2019].”
 
 Pub. L. 116–136, div. A, title III, § 3516(b), Mar. 27, 2020, 134 Stat. 407, provided that: “The amendments made by this section [amending this section] shall apply as if included in the enactment of the FUTURE Act (Public Law 116–91).”
 

@@ -429,6 +429,7 @@ Pub. L. 106–555, title II, § 205(c), Dec. 21, 2000, 114 Stat. 2770, provided 
 | National Marine Sanctuary of American Samoa (former Fagatele Bay National Marine Sanctuary).—51 F.R. 15878, Apr. 29, 1986; 15 C.F.R. part 922, subpart J; 77 F.R. 43942, July 26, 2012, effective Oct. 15, 2012 (see 77 F.R. 65815). |
 | Olympic Coast National Marine Sanctuary.—59 F.R. 24586, May 11, 1994; 15 C.F.R. 922, subpart O; Pub. L. 100–627, title II, § 205(a)(4), Nov. 7, 1988, 102 Stat. 3217; Pub. L. 102–587, title II, § 2207, Nov. 4, 1992, 106 Stat. 5053. |
 | Thunder Bay National Marine Sanctuary and Underwater Preserve.—65 F.R. 39042, June 19, 2000; 15 C.F.R. part 922, subpart R. |
+| Wisconsin Shipwreck Coast National Marine Sanctuary.—86 F.R. 32737, June 23, 2021; 15 C.F.R. part 922, subpart T. |
 
 #### Northwest Straits
 Pub. L. 104–283, § 10, Oct. 11, 1996, 110 Stat. 3368, provided that: “No designation of an area in the Northwest Straits in the State of Washington as a national marine sanctuary under the National Marine Sanctuaries Act [[16 U.S.C. 1431](./chapter-032-marine-sanctuaries.md#section-1431) et seq.] shall take effect unless that designation is specifically authorized by a law enacted after the date of enactment of this Act [Oct. 11, 1996].”

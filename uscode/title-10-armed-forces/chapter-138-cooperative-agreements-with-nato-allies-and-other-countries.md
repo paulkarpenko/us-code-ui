@@ -38,7 +38,7 @@ Par. (2). Pub. L. 102–484, § 1312(a)(2), in introductory provisions, struck o
 
 Pub. L. 99–661 amended section generally, restating existing provisions into introductory text and par. (1) and adding par. (2).
 
-1985—Pub. L. 99–145 renumbered [section 2321 of this title](./chapter-137-procurement-generally.md#section-2321) as this section and substituted “section 2343” for “section 2323”.
+1985—Pub. L. 99–145 renumbered [section 2321 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2321&num=0&edition=prelim) as this section and substituted “section 2343” for “section 2323”.
 
 #### Effective Date of 1994 Amendment
 Pub. L. 103–337, div. A, title XIII, § 1317(j), Oct. 5, 1994, 108 Stat. 2902, provided that: “The amendments made by this section [enacting [section 2349a of this title](./chapter-138-cooperative-agreements-with-nato-allies-and-other-countries.md#section-2349a) and amending this section and sections 2342 to 2347 and 2350 of this title] shall apply with regard to any acquisition or transfer of logistic support, supplies, and services under the authority of subchapter I of chapter 138 of title 10, United States Code, that is initiated after the date of the enactment of this Act [Oct. 5, 1994].”
@@ -218,7 +218,7 @@ Subsec. (c). Pub. L. 103–337, § 1317(b)(3), substituted “or international o
 
 1986—Pub. L. 99–661 amended section generally, restating existing provisions in introductory text and par. (1) of subsec. (a), adding pars. (2) and (3) of subsec. (a), and adding subsecs. (b) to (d).
 
-1985—Pub. L. 99–145 renumbered [section 2322 of this title](./chapter-137-procurement-generally.md#section-2322) as this section and substituted “section 2343” for “section 2323”.
+1985—Pub. L. 99–145 renumbered [section 2322 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2322&num=0&edition=prelim) as this section and substituted “section 2343” for “section 2323”.
 
 #### Change of Name
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
@@ -233,27 +233,16 @@ Pub. L. 113–291, div. A, title XII, § 1207, Dec. 19, 2014, 128 Stat. 3539, as
 <a id="section-2343"></a>
 ## § 2343. Waiver of applicability of certain laws
 
-Sections 2207, 2304(a), 2306(a), 2306(b), 2306(e), 2306a, and 2313 of this title and [section 6306 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6306&num=0&edition=prelim) shall not apply to acquisitions made under the authority of [section 2341 of this title](./chapter-138-cooperative-agreements-with-nato-allies-and-other-countries.md#section-2341) or to agreements entered into under [section 2342 of this title](./chapter-138-cooperative-agreements-with-nato-allies-and-other-countries.md#section-2342).
+Sections 4651, 3201, 3351, 3352(a), 3352(c), 3701 through 3708, and 3841 of this title and [section 6306 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6306&num=0&edition=prelim) shall not apply to acquisitions made under the authority of [section 2341 of this title](./chapter-138-cooperative-agreements-with-nato-allies-and-other-countries.md#section-2341) or to agreements entered into under [section 2342 of this title](./chapter-138-cooperative-agreements-with-nato-allies-and-other-countries.md#section-2342).
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1817(h), 1831(j)(3), 1862(c)(1), Jan. 1, 2021, 134 Stat. 4151, 4188, 4216, 4278, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is amended as follows:
-
-(1) by striking “Sections 2207,” and inserting “Sections 4651,”; and
-
-(2) by striking “2306(a), 2306(b), 2306(e), 2306a, and 2313” and inserting “3351, 3352(a), 3352(c), 3701–3708, and 3841”.
-
-Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, except as otherwise provided in title XVIII of Pub. L. 116–283, in title 10, United States Code, each reference in the text of such title to a source section that is redesignated by title XVIII of Pub. L. 116–283, is amended by striking such reference and inserting a reference to the appropriate section as so redesignated.
-
-See 2021 Amendment notes below.
 
 #### Amendments
 2021—Pub. L. 116–283, § 1883(b)(2), substituted “3201” for “2304(a)”.
 
 Pub. L. 116–283, § 1862(c)(1), substituted “Sections 4651,” for “Sections 2207,”.
 
-Pub. L. 116–283, § 1831(j)(3), substituted “3701–3708, and 3841” for “2306a, and 2313”.
+Pub. L. 116–283, § 1831(j)(3), as amended by Pub. L. 117–81, § 1701(b)(10)(I)(i), substituted “3701 through 3708, and 3841” for “2306a, and 2313”.
 
 Pub. L. 116–283, § 1817(h), substituted “3351, 3352(a), 3352(c)” for “2306(a), 2306(b), 2306(e)”.
 
@@ -271,7 +260,7 @@ Pub. L. 103–337, § 1317(c)(1), designated subsec. (b) as entire section and s
 
 1987—Subsec. (b). Pub. L. 100–26 substituted “section 2306a,” for “2306(f),”.
 
-1985—Pub. L. 99–145, § 1304(a)(1), renumbered [section 2323 of this title](./chapter-137-procurement-generally.md#section-2323) as this section.
+1985—Pub. L. 99–145, § 1304(a)(1), renumbered [section 2323 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2323) as this section.
 
 Subsec. (a). Pub. L. 99–145, § 1304(a)(5), substituted “section 2341” for “section 2321” and “section 2342” for “section 2322”.
 
@@ -280,13 +269,15 @@ Subsec. (b). Pub. L. 99–145, § 1304(a)(5), substituted “section 2341” for
 Pub. L. 99–145, § 961(b), substituted “section 2304(a)” for “section 2304(g)”.
 
 #### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out as a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
+
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–337 applicable with regard to any acquisition or transfer of logistic support, supplies, and services under authority of this subchapter that is initiated after Oct. 5, 1994, see section 1317(j) of Pub. L. 103–337, set out as a note under [section 2341 of this title](./chapter-138-cooperative-agreements-with-nato-allies-and-other-countries.md#section-2341).
 
 #### Effective Date of 1985 Amendment
-Amendment by section 961(b) of Pub. L. 99–145 effective as if included in enactment of Competition in Contracting Act of 1984, Pub. L. 98–369, div. B, title VII, making amendment applicable with respect to any solicitation for bids or proposals issued after Mar. 31, 1985, see section 961(e) of Pub. L. 99–145, set out as a note under [section 2304 of this title](./chapter-137-procurement-generally.md#section-2304).
+Amendment by section 961(b) of Pub. L. 99–145 effective as if included in enactment of Competition in Contracting Act of 1984, Pub. L. 98–369, div. B, title VII, making amendment applicable with respect to any solicitation for bids or proposals issued after Mar. 31, 1985, see section 961(e) of Pub. L. 99–145, set out as a note under [section 2304 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2304).
 
 
 <a id="section-2344"></a>
@@ -341,7 +332,7 @@ Subsec. (c). Pub. L. 101–189, § 938(b), added subsec. (c).
 
 1986—Subsec. (b)(1), (3). Pub. L. 99–661 inserted “or other foreign country” after “country”.
 
-1985—Pub. L. 99–145 renumbered [section 2324 of this title](./chapter-137-procurement-generally.md#section-2324) as this section.
+1985—Pub. L. 99–145 renumbered [section 2324 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2324) as this section.
 
 1981—Subsec. (b)(2)(B). Pub. L. 97–22 substituted “this chapter” for “this Act”.
 
@@ -372,7 +363,7 @@ Amendment by Pub. L. 103–337 applicable with regard to any acquisition or tran
 
 1986—Pub. L. 99–661 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1985—Pub. L. 99–145 renumbered [section 2325 of this title](./chapter-137-procurement-generally.md#section-2325) as this section.
+1985—Pub. L. 99–145 renumbered [section 2325 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2325) as this section.
 
 #### Effective Date of 2016 Amendment
 Pub. L. 114–328, div. A, title X, § 1083(b), Dec. 23, 2016, 130 Stat. 2420, provided that: “Subsection (c) of [section 2345 of title 10](./chapter-138-cooperative-agreements-with-nato-allies-and-other-countries.md#section-2345), United States Code, as added by subsection (a), shall apply with respect to credits accrued by the United States that— “(1) were accrued prior to, and remain unpaid as of, the date of the enactment of this Act [Dec. 23, 2016]; or “(2) are accrued after the date of the enactment of this Act.”
@@ -393,7 +384,7 @@ Any receipt of the United States as a result of an agreement entered into under 
 
 1989—Pub. L. 101–189 substituted “this subchapter” for “this chapter”.
 
-1985—Pub. L. 99–145 renumbered [section 2326 of this title](./chapter-137-procurement-generally.md#section-2326) as this section.
+1985—Pub. L. 99–145 renumbered [section 2326 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2326) as this section.
 
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–337 applicable with regard to any acquisition or transfer of logistic support, supplies, and services under authority of this subchapter that is initiated after Oct. 5, 1994, see section 1317(j) of Pub. L. 103–337, set out as a note under [section 2341 of this title](./chapter-138-cooperative-agreements-with-nato-allies-and-other-countries.md#section-2341).
@@ -454,7 +445,7 @@ Pub. L. 102–484, § 1312(b)(4)(B), as amended by Pub. L. 103–35, substituted
 
 Subsec. (b). Pub. L. 99–661, § 1104(d)(2), designated existing provisions as par. (1) and added par. (2).
 
-1985—Pub. L. 99–145 renumbered [section 2327 of this title](./chapter-137-procurement-generally.md#section-2327) as this section.
+1985—Pub. L. 99–145 renumbered [section 2327 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2327) as this section.
 
 #### Effective Date of 2006 Amendment
 Pub. L. 109–364, div. A, title XII, § 1221(b), Oct. 17, 2006, 120 Stat. 2423, provided that: “The amendments made by subsection (a) [amending this section] shall take effect beginning with fiscal year 2007.”
@@ -481,7 +472,7 @@ Inventories of supplies for elements of the armed forces may not be increased fo
 
 1986—Pub. L. 99–661 struck out “to military forces of any North Atlantic Treaty Organization country or any North Atlantic Treaty Organization subsidiary body” after “chapter”.
 
-1985—Pub. L. 99–145 renumbered [section 2328 of this title](./chapter-137-procurement-generally.md#section-2328) as this section.
+1985—Pub. L. 99–145 renumbered [section 2328 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2328) as this section.
 
 1981—Pub. L. 97–22 substituted “this chapter” for “this Act”.
 
@@ -562,7 +553,7 @@ Par. (4). Pub. L. 103–337, § 1317(h)(2), added par. (4).
 
 1986—Par. (3). Pub. L. 99–661 added par. (3).
 
-1985—Pub. L. 99–145 renumbered [section 2331 of this title](./chapter-137-procurement-generally.md#section-2331) as this section.
+1985—Pub. L. 99–145 renumbered [section 2331 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2331) as this section.
 
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–337 applicable with regard to any acquisition or transfer of logistic support, supplies, and services under authority of this subchapter that is initiated after Oct. 5, 1994, see section 1317(j) of Pub. L. 103–337, set out as a note under [section 2341 of this title](./chapter-138-cooperative-agreements-with-nato-allies-and-other-countries.md#section-2341).
@@ -634,7 +625,7 @@ Amendment by Pub. L. 103–337 applicable with regard to any acquisition or tran
 
 (2) The Secretary of Defense may acquire covered equipment, munitions, and technologies for the purpose of conducting the testing described in that paragraph.
 
-(3) The use of side-by-side testing under this subsection may be considered to be the use of competitive procedures for purposes of chapter 137 of this title, when procuring items within 5 years after an initial determination that the items have been successfully tested and found to satisfy United States military requirements or to correct operational deficiencies.
+(3) The use of side-by-side testing under this subsection may be considered to be the use of competitive procedures for purposes of chapter 137 11 See References in Text note below. of this title, when procuring items within 5 years after an initial determination that the items have been successfully tested and found to satisfy United States military requirements or to correct operational deficiencies.
 
 (4) **Covered Equipment, Munitions, and Technologies Defined.—** — In this subsection, the term “covered equipment, munitions, and technologies” means—
 
@@ -658,8 +649,11 @@ Amendment by Pub. L. 103–337 applicable with regard to any acquisition or tran
 
 ### Statutory Notes
 
+#### References in Text
+Chapter 137 of this title, referred to in subsec. (g)(3), was repealed by Pub. L. 116–283, div. A, title XVIII, § 1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, in conjunction with the transfer and reorganization of acquisition provisions in this title by Pub. L. 116–283, div. A, title XVIII, Jan. 1, 2022, 134 Stat. 4149.
+
 #### Prior Provisions
-Provisions relating to NATO countries were contained in Pub. L. 99–145, title XI, § 1103, Nov. 8, 1985, 99 Stat. 712, which was set out as a note under [section 2407 of this title](./chapter-141-miscellaneous-procurement-provisions.md#section-2407), prior to repeal by Pub. L. 101–189, § 931(d)(1).
+Provisions relating to NATO countries were contained in Pub. L. 99–145, title XI, § 1103, Nov. 8, 1985, 99 Stat. 712, which was set out as a note under [section 2407 of this title](./chapter-141-miscellaneous-provisions-relating-to-property.md#section-2407), prior to repeal by Pub. L. 101–189, § 931(d)(1).
 
 Provisions relating to major non-NATO allies were contained in [section 2767a of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2767a&num=0&edition=prelim), Foreign Relations and Intercourse, prior to repeal by Pub. L. 101–189, § 931(d)(2).
 
@@ -795,7 +789,7 @@ Pub. L. 107–314, div. A, title X, § 1062(f), Dec. 2, 2002, 116 Stat. 2651, pr
 Pub. L. 102–484, div. A, title VIII, § 843(c), Oct. 23, 1992, 106 Stat. 2469, as amended by Pub. L. 103–35, title II, § 202(a)(7), May 31, 1993, 107 Stat. 101, provided that, effective Oct. 23, 1994, subsections (a) and (b) of section 843 of Pub. L. 102–484 (amending sections 2350a and 2350d of this title and [section 2767 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2767&num=0&edition=prelim), Foreign Relations and Intercourse) were to cease to be in effect, and section 27(c) of the Arms Export Control Act ([22 U.S.C. 2767(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2767/c&num=0&edition=prelim)) and sections 2350a(c) and 2350d(c) of this title were to read as if such subsections had not been enacted, prior to repeal by Pub. L. 103–337, div. A, title XIII, § 1318, Oct. 5, 1994, 108 Stat. 2902.
 
 #### Administration of the American, British, Canadian, and Australian Armies’ Program
-Pub. L. 112–239, div. A, title XII, § 1274, Jan. 2, 2013, 126 Stat. 2026, as amended by Pub. L. 115–91, div. A, title XII, § 1274, Dec. 12, 2017, 131 Stat. 1697, provided that: “(a) Authority.—As part of the participation by the United States in the land-force program known as the American, British, Canadian, and Australian Armies’ Program (in this section referred to as the ‘Program’), the Secretary of Defense may, with the concurrence of the Secretary of State, enter into agreements with the other participating countries in accordance with this section, and the Program shall be managed pursuant to a joint agreement among the participating countries. “(b) Participating Countries.—In addition to the United States, the countries participating in the Program are the following:“(1) Australia. “(2) Canada. “(3) New Zealand. “(4) The United Kingdom. “(c) Contributions by Participants.—“(1) In general.—An agreement under subsection (a) shall provide that each participating country shall contribute to the Program—“(A) its equitable share of the full cost for the Program, including the full cost of overhead and administrative costs related to the Program; and “(B) any amount allocated to it in accordance with the agreement for the cost for monetary claims asserted against any participating country as a result of participation in the Program. “(2) Additional authorized contribution.—Such an agreement shall also provide that each participating country (including the United States) may provide its contribution for its equitable share under the agreement in funds, in personal property, or in services required for the Program (or in any combination thereof). “(3) Funding for united states contribution.—Any contribution by the United States to the Program that is provided in funds shall be made from funds available to the Department of Defense for operation and maintenance. “(4) Treatment of contributions received from other countries.—Any contribution received by the United States from another participating country to meet that country’s share of the costs of the Program shall be credited to appropriations available to the Department of Defense, as determined by the Secretary of Defense. The amount of a contribution credited to an appropriation account in connection with the Program shall be available only for payment of the share of the Program expenses allocated to the participating country making the contribution. Amounts so credited shall be available for the following purposes:“(A) Payments to contractors and other suppliers (including the Department of Defense and participating countries acting as suppliers) for necessary goods and services of the Program. “(B) Payments for any damages and costs resulting from the performance or cancellation of any contract or other obligation in support of the Program. “(C) Payments for any monetary claim against a participating country as a result of the participation of that country in the Program. “(D) Payments or reimbursements of other Program expenses, including overhead and administrative costs for any administrative office for the Program. “(E) Refunds to other participating countries. “(5) Costs of operation of offices established for program.—Costs for the operation of any office established to carry out the Program shall be borne jointly by the participating countries as provided for in an agreement referred to in subsection (a). “(d) Authority To Contract for Program Activities.—As part of the participation by the United States in the Program, the Secretary of Defense may enter into contracts or incur other obligations on behalf of the other participating countries for activities under the Program. Any payment for such a contract or other obligation under this subsection may be paid only from contributions credited to an appropriation under subsection (c)(4). “(e) Disposal of Property.—As part of the participation by the United States in the Program, the Secretary of Defense may, with respect to any property that is jointly acquired by the countries participating in the Program, agree to the disposal of the property without regard to any law of the United States that is otherwise applicable to the disposal of property owned by the United States. Such disposal may include the transfer of the interest of the United States in the property to one or more of the other participating countries or the sale of the property. Reimbursement for the value of the property disposed of (including the value of the interest of the United States in the property) shall be made in accordance with an agreement under subsection (a). “(f) Reports.—Not later than 60 days before the expiration date of any agreement under subsection (a), the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the activities, costs, and accomplishments of the Program during the five-year period ending on the date of such report. “(g) Sunset.—Any agreement entered into by the United States with another country under subsection (a), and United States participation in the joint agreement described in that subsection, shall expire not later than ten years after the date of the enactment of this Act [Jan. 2, 2013].”
+Pub. L. 112–239, div. A, title XII, § 1274, Jan. 2, 2013, 126 Stat. 2026, as amended by Pub. L. 115–91, div. A, title XII, § 1274, Dec. 12, 2017, 131 Stat. 1697; Pub. L. 117–81, div. A, title XIII, § 1321, Dec. 27, 2021, 135 Stat. 2002, provided that: “(a) Authority.—As part of the participation by the United States in the land-force program known as the American, British, Canadian, and Australian Armies’ Program (in this section referred to as the ‘Program’), the Secretary of Defense may, with the concurrence of the Secretary of State, enter into agreements with the other participating countries in accordance with this section, and the Program shall be managed pursuant to a joint agreement among the participating countries. “(b) Participating Countries.—In addition to the United States, the countries participating in the Program are the following:“(1) Australia. “(2) Canada. “(3) New Zealand. “(4) The United Kingdom. “(c) Contributions by Participants.—“(1) In general.—An agreement under subsection (a) shall provide that—“(A) the United States, as the host country for the Program, shall provide office facilities and related office equipment and supplies for the Program; and “(B) each participating country shall contribute its equitable share of the remaining costs for the Program, including—“(i) the agreed upon share of administrative costs related to the Program, except the costs for facilities and equipment and supplies described in subparagraph (A); and “(ii) any amount allocated against the country for monetary claims as a result of participation in the Program, in accordance with the agreement. “(2) Equitable contributions.—The contributions, as allocated under paragraph (1) and set forth in an agreement under subsection (a), shall be considered equitable for purposes of this subsection and section 27(c) of the Arms Export Control Act ([22 U.S.C. 2767(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2767/c&num=0&edition=prelim)). “(3) Authorized contribution.—An agreement under subsection (a) shall provide that each participating country may provide its contribution in funds, in personal property, in services required for the Program, or any combination thereof. “(4) Funding for united states contribution.—Any monetary contribution by the United States to the Program that is provided in funds shall be made from funds available to the Department of Defense for operation and maintenance. “(5) Contributions and reimbursements from other participating countries.—“(A) In general.—The Secretary of Defense may accept from any other participating country a contribution or reimbursement of funds, personal property, or services made by the participating country in furtherance of the Program. “(B) Credit to appropriations.—Any contribution or reimbursement of funds received by the United States from any other participating country to meet that country’s share of the costs of the Program shall be credited to the appropriations available to the appropriate military department, as determined by the Secretary of Defense. “(C) Treatment of personal property.—Any contribution or reimbursement of personal property received under this paragraph may be—“(i) retained and used by the Program in the form in which it was contributed; “(ii) sold or otherwise disposed of in accordance with such terms, conditions, and procedures as the members of the Program consider appropriate, and any resulting proceeds shall be credited to appropriations of the appropriate military department, as described in subparagraph (B); or “(iii) converted into a form usable by the Program. “(D) Use of credited funds.—“(i) In general.—Amounts credited under subparagraph (B) or (C)(ii) shall be— “(I) merged with amounts in the appropriation concerned; “(II) subject to the same conditions and limitations as amounts in such appropriation; and “(III) available for payment of Program expenses described in clause (ii). “(ii) Program expenses described.—The Program expenses described in this clause include— “(I) payments to contractors and other suppliers, including the Department of Defense and participating countries acting as suppliers, for necessary goods and services of the Program; “(II) payments for any damages or costs resulting from the performance or cancellation of any contract or other obligation in support of the Program; “(III) payments or reimbursements for other Program expenses; or “(IV) refunds to other participating countries. “(d) Authority To Contract for Program Activities.—As part of the participation by the United States in the Program, the Secretary of Defense may enter into contracts or incur other obligations on behalf of the other participating countries for activities under the Program. Any payment for such a contract or other obligation under this subsection may be paid only from contributions credited to an appropriation under subsection (c)(4). “(e) Disposal of Property.—As part of the participation by the United States in the Program, the Secretary of Defense may, with respect to any property that is jointly acquired by the countries participating in the Program, agree to the disposal of the property without regard to any law of the United States that is otherwise applicable to the disposal of property owned by the United States. Such disposal may include the transfer of the interest of the United States in the property to one or more of the other participating countries or the sale of the property. Reimbursement for the value of the property disposed of (including the value of the interest of the United States in the property) shall be made in accordance with an agreement under subsection (a). “(f) Reports.—Not later than 60 days before the expiration date of any agreement under subsection (a), the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the activities, costs, and accomplishments of the Program during the five-year period ending on the date of such report.”
 
 
 <a id="section-2350b"></a>
@@ -804,13 +798,13 @@ Pub. L. 112–239, div. A, title XII, § 1274, Jan. 2, 2013, 126 Stat. 2026, as 
 
 (1) If the President delegates to the Secretary of Defense the authority to carry out section 27(d) of the Arms Export Control Act ([22 U.S.C. 2767(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2767/d&num=0&edition=prelim)), relating to cooperative projects (as defined in such section), the Secretary may utilize his authority under this title in carrying out contracts or obligations incurred under such section.
 
-(2) Except as provided in subsection (c), chapter 137 of this title shall apply to such contracts (referred to in paragraph (1)) entered into by the Secretary of Defense. Except to the extent waived under subsection (c) or some other provision of law, all other provisions of law relating to procurement, if otherwise applicable, shall apply to such contracts entered into by the Secretary of Defense.
+(2) Except as provided in subsection (c), chapter 137 11 See References in Text note below. of this title shall apply to such contracts (referred to in paragraph (1)) entered into by the Secretary of Defense. Except to the extent waived under subsection (c) or some other provision of law, all other provisions of law relating to procurement, if otherwise applicable, shall apply to such contracts entered into by the Secretary of Defense.
 
 **(b)** When contracting or incurring obligations under section 27(d) of the Arms Export Control Act for cooperative projects, the Secretary of Defense may require subcontracts to be awarded to particular subcontractors in furtherance of the cooperative project.
 
 **(c)**
 
-(1) Subject to paragraph (2), when entering into contracts or incurring obligations under section 27(d) of the Arms Export Control Act outside the United States, the Secretary of Defense may waive with respect to any such contract or subcontract the application of any provision of law, other than a provision of the Arms Export Control Act or [section 2304 of this title](./chapter-137-procurement-generally.md#section-2304), that specifically prescribes—
+(1) Subject to paragraph (2), when entering into contracts or incurring obligations under section 27(d) of the Arms Export Control Act outside the United States, the Secretary of Defense may waive with respect to any such contract or subcontract the application of any provision of law, other than a provision of the Arms Export Control Act or section 2304 1 of this title, that specifically prescribes—
 
   (A) procedures to be followed in the formation of contracts;
 
@@ -848,11 +842,12 @@ Pub. L. 112–239, div. A, title XII, § 1274, Jan. 2, 2013, 126 Stat. 2026, as 
 
 ### Statutory Notes
 
-#### Amendment of Section
-Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, except as otherwise provided in title XVIII of Pub. L. 116–283, in title 10, United States Code, each reference in the text of such title to a source section that is redesignated by title XVIII of Pub. L. 116–283, is amended by striking such reference and inserting a reference to the appropriate section as so redesignated. See 2021 Amendment note below.
-
 #### References in Text
+Chapter 137 of this title, referred to in subsec. (a)(2), was repealed by Pub. L. 116–283, div. A, title XVIII, § 1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, in conjunction with the transfer and reorganization of acquisition provisions in this title by Pub. L. 116–283, div. A, title XVIII, Jan. 1, 2022, 134 Stat. 4149.
+
 The Arms Export Control Act, referred to in subsec. (c)(1), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§ 2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2751&num=0&edition=prelim) and Tables.
+
+[Section 2304 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2304), referred to in subsec. (c)(1), was repealed by Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1881(a), Jan. 1, 2021, 134 Stat. 4151, 4293, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law. Subsecs. (a) to (l) of section 2304 were transferred to various provisions in chapter 221 of this title, with the same effective date and conditions, by Pub. L. 116–283, div. A, title XVIII, § 1811(c)(2)–(5), (d)(2)–(9), Jan. 1, 2021, 134 Stat. 4165–4170.
 
 #### Amendments
 2021—Subsec. (c)(1). Pub. L. 116–283, which directed that each reference in the text of title 10 to a section that was redesignated by title XVIII of Pub. L. 116–283, as such section was in effect before the redesignation, be amended by striking such reference and inserting a reference to the appropriate redesignated section, was not executed in introductory provisions with respect to “section 2304”, which was redesignated as multiple sections.
@@ -871,7 +866,7 @@ Subsec. (e)(1). Pub. L. 104–106, § 1335(1), inserted “or a NATO organizatio
 
 Subsec. (e)(2). Pub. L. 104–106, § 1335(2), substituted “such a cooperative project or a NATO organization” for “a cooperative project”.
 
-1989—Pub. L. 101–189 renumbered [section 2407 of this title](./chapter-141-miscellaneous-procurement-provisions.md#section-2407) as this section and substituted “Cooperative projects under Arms Export Control Act: acquisition of defense equipment” for “Acquisition of defense equipment under cooperative projects” as section catchline.
+1989—Pub. L. 101–189 renumbered [section 2407 of this title](./chapter-141-miscellaneous-provisions-relating-to-property.md#section-2407) as this section and substituted “Cooperative projects under Arms Export Control Act: acquisition of defense equipment” for “Acquisition of defense equipment under cooperative projects” as section catchline.
 
 1986—Pub. L. 99–661, § 1103(b)(2)(A), struck out “North Atlantic Treaty Organization” before “cooperative projects” in section catchline.
 
@@ -884,10 +879,10 @@ Subsec. (e). Pub. L. 99–661, § 1103(b)(1)(C), struck out “NATO” after “
 Subsec. (g)(2). Pub. L. 99–661, § 1343(a)(15), substituted “[section 2631 of this title](./chapter-157-transportation.md#section-2631) and section 901(b) of the Merchant Marine Act, 1936 (46 U.S.C. App. 1241(b))” for “the Military Cargo Preference Act of 1904 ([10 U.S.C. 2631](./chapter-157-transportation.md#section-2631)) and the Cargo Preference Act of 1954 ([46 U.S.C. 1241(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section1241/b&num=0&edition=prelim))”.
 
 #### Effective Date of 2021 Amendment
-Amendment by 1883(b)(2) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 1996 Amendment
-For effective date and applicability of amendment by section 4321(b)(10) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under [section 2302 of this title](./chapter-137-procurement-generally.md#section-2302).
+For effective date and applicability of amendment by section 4321(b)(10) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under [section 2302 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2302).
 
 
 <a id="section-2350c"></a>
@@ -969,7 +964,7 @@ Pub. L. 110–181, div. A, title X, § 1032, Jan. 28, 2008, 122 Stat. 306, provi
 
 **(c) Sharing of Administrative Expenses.—** Each Support or Procurement Partnership Agreement shall provide for joint management by the participating countries and for the equitable sharing of the administrative costs and costs of claims incident to the agreement.
 
-**(d) Application of Chapter 137.—** Except as otherwise provided in this section, the provisions of chapter 137 of this title apply to a contract entered into by the Secretary of Defense for the acquisition of logistics support under a Support or Procurement Partnership Agreement.
+**(d) Application of Chapter 137.—** Except as otherwise provided in this section, the provisions of chapter 137 11 See References in Text note below. of this title apply to a contract entered into by the Secretary of Defense for the acquisition of logistics support under a Support or Procurement Partnership Agreement.
 
 **(e) Application of Arms Export Control Act.—** Any transfer of defense articles or defense services to a member country of the North Atlantic Treaty Organization or to the NATO Support and Procurement Organization and its executive agencies for the purposes of a Support or Procurement Partnership Agreement shall be carried out in accordance with this chapter and the Arms Export Control Act ([22 U.S.C. 2751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2751&num=0&edition=prelim) et seq.).
 
@@ -978,10 +973,12 @@ Pub. L. 110–181, div. A, title X, § 1032, Jan. 28, 2008, 122 Stat. 306, provi
 ### Statutory Notes
 
 #### References in Text
+Chapter 137 of this title, referred to in subsec. (d), was repealed by Pub. L. 116–283, div. A, title XVIII, § 1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, in conjunction with the transfer and reorganization of acquisition provisions in this title by Pub. L. 116–283, div. A, title XVIII, Jan. 1, 2022, 134 Stat. 4149.
+
 The Arms Export Control Act, referred to in subsec. (e), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§ 2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2751&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
-Provisions similar to those in this section were contained in Pub. L. 99–661, div. A, title XI, § 1102, Nov. 14, 1986, 100 Stat. 3961, which was set out as a note under [section 2407 of this title](./chapter-141-miscellaneous-procurement-provisions.md#section-2407), prior to repeal by Pub. L. 101–189, § 931(d)(2).
+Provisions similar to those in this section were contained in Pub. L. 99–661, div. A, title XI, § 1102, Nov. 14, 1986, 100 Stat. 3961, which was set out as a note under [section 2407 of this title](./chapter-141-miscellaneous-provisions-relating-to-property.md#section-2407), prior to repeal by Pub. L. 101–189, § 931(d)(2).
 
 #### Amendments
 2018—Subsec. (a). Pub. L. 115–232, § 1279(a)(1), substituted “NATO Support and Procurement Organization” for “NATO Support Organization” wherever appearing.
@@ -1062,7 +1059,7 @@ Subsec. (e). Pub. L. 113–66, § 1250(a)(1), (3), substituted “NATO Support O
 ### Statutory Notes
 
 #### Prior Provisions
-Provisions similar to those in this section were contained in Pub. L. 97–86, title I, § 103, Dec. 1, 1981, 95 Stat. 1100, as amended, which was set out as a note under [section 2407 of this title](./chapter-141-miscellaneous-procurement-provisions.md#section-2407), prior to repeal by Pub. L. 101–189, § 932(b).
+Provisions similar to those in this section were contained in Pub. L. 97–86, title I, § 103, Dec. 1, 1981, 95 Stat. 1100, as amended, which was set out as a note under [section 2407 of this title](./chapter-141-miscellaneous-provisions-relating-to-property.md#section-2407), prior to repeal by Pub. L. 101–189, § 932(b).
 
 #### Amendments
 1993—Subsec. (d). Pub. L. 103–160 struck out subsec. (d) which read as follows: “Expiration.—The authority provided by this section expires on September 30, 1993.”
@@ -1109,7 +1106,7 @@ Subsec. (d). Pub. L. 102–190, § 1051(2), substituted “1993” for “1991�
 
 1990—Subsec. (d)(1)(A). Pub. L. 101–510 substituted a semicolon for “, or” at end.
 
-1989—Pub. L. 101–189, § 933(a), renumbered [section 2401a of this title](./chapter-141-miscellaneous-procurement-provisions.md#section-2401a) as this section.
+1989—Pub. L. 101–189, § 933(a), renumbered [section 2401a of this title](./chapter-141-miscellaneous-provisions-relating-to-property.md#section-2401a) as this section.
 
 Subsec. (a). Pub. L. 101–189, § 933(b), substituted “a bilateral arrangement with any allied country or allied international organization or may enter into a multilateral arrangement with allied countries and allied international organizations” for “an arrangement with the Minister of Defense or other appropriate official of any allied country or with the North Atlantic Treaty Organization (NATO),” and “the allied country or countries or allied international organization or allied international organizations, as the case may be,” for “such country or NATO” and inserted “The term of an arrangement entered into under this subsection may not exceed five years.”
 
@@ -1405,10 +1402,12 @@ Pub. L. 104–106, div. A, title XIII, § 1332(b), Feb. 10, 1996, 110 Stat. 484,
 
 ### Statutory Notes
 
-#### Transfer of Section
-Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1844(b)(1), Jan. 1, 2021, 134 Stat. 4151, 4245, provided in part that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 307 of this title, as added by section 1844(a) of Pub. L. 116–283, inserted after the table of sections, and redesignated as [section 4145 of this title](./chapter-307-research-and-development-centers-and-facilities.md#section-4145). See Effective Date of 2021 Amendment note below.
+#### Amendments
+2021—Pub. L. 116–283, § 1844(b)(1), which directed the renumbering of this section as [section 4145 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4145&num=0&edition=prelim), was repealed by Pub. L. 117–81, § 1701(u)(5)(B).
 
 #### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
+
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 
@@ -1464,53 +1463,6 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 A prior section 2350m was renumbered [section 344 of this title](./chapter-016-security-cooperation.md#section-344).
 
 
-<a id="section-2350m"></a>
-## § 2350m. Execution of projects under the North Atlantic Treaty Organization Security Investment Program
-**(a) Authority To Execute Projects.—** When the United States is designated as the Host Nation for purposes of executing a project under the North Atlantic Treaty Organization Security Investment Program (in this section referred to as the “Program”), the Secretary of Defense may accept such designation and carry out such project consistent with the requirements of this section.
-
-**(b) Project Funding.—** The Secretary of Defense may fund authorized expenditures of projects accepted under subsection (a) with—
-
-(1) contributions under subsection (c);
-
-(2) appropriations of the Department of Defense for the Program when directed by the North Atlantic Treaty Organization to apply amounts of such appropriations as part of the share of contributions of the United States for the Program; or
-
-(3) any combination of amounts described in paragraphs (1) and (2).
-
-**(c) Authority To Accept Contributions.—**
-
-(1) The Secretary of Defense may accept contributions from the North Atlantic Treaty Organization and member nations of the North Atlantic Treaty Organization for the purpose of carrying out a project under subsection (a).
-
-(2) Contributions accepted under paragraph (1) shall be placed in an account established for the purpose of carrying out the project for which the funds were provided and shall remain available until expended.
-
-(3)
-
-  (A) If contributions are made under paragraph (1) as reimbursement for a project or portion of a project previously completed by the Department of Defense, such contributions shall be credited to—
-
-    (i) the appropriations used for the project or portion thereof, if such appropriations have not yet expired; or
-
-    (ii) the appropriations for the Program, if the appropriations described in clause (i) have expired.
-
-  (B) Funding credited under subparagraph (A) shall merge with and remain available for the same purposes and duration as the appropriations to which credited.
-
-**(d) Obligation Authority.—** The construction agent of the Department of Defense designated by the Secretary of Defense to execute a project under subsection (a) may recognize the North Atlantic Treaty Organization project authorization amounts as budgetary resources to incur obligations against for the purposes of executing the project.
-
-**(e) Insufficient Contributions.—**
-
-(1) In the event that the North Atlantic Treaty Organization does not agree to contribute funding for all costs necessary for the Department of Defense to carry out a project under subsection (a), including necessary personnel costs of the construction agent designated by the Department of Defense, contract claims, and any conjunctive funding requirements that exceed the project authorization or standards of the North Atlantic Treaty Organization, the Secretary of Defense, upon determination that completion of the project is in the national interest of the United States, may fund such costs, and undertake such conjunctively funded requirements not otherwise authorized by law, using any unobligated funds available among funds appropriated for the Program for military construction.
-
-(2) The use of funds under paragraph (1) from appropriations for the Program may be in addition to or in place of any other funding sources otherwise available for the purposes for which those funds are used.
-
-**(f) Authorized Expenditures Defined.—** In this section, the term “authorized expenditures” means project expenses for which the North Atlantic Treaty Organization has agreed to contribute funding.
-
-### Statutory Notes
-
-#### Prior Provisions
-A prior section 2350m was renumbered [section 344 of this title](./chapter-016-security-cooperation.md#section-344).
-
-#### Effective Date
-Pub. L. 116–283, div. B, § 2003, Jan. 1, 2021, 134 Stat. 4295, provided that: “Titles XXI through XXVII and title XXIX [see Tables for classification] shall take effect on the later of— “(1) October 1, 2020; or “(2) the date of the enactment of this Act [Jan. 1, 2021].”
-
-
 <a id="section-2350n"></a>
 ## § 2350n. North Atlantic Treaty Organization Joint Force Command
 **(a) Authorization.—** The Secretary of Defense shall authorize the establishment of, and the participation by members of the armed forces in, the North Atlantic Treaty Organization Joint Force Command (in this section referred to as the “Joint Force Command”), to be established in the United States.
@@ -1548,7 +1500,7 @@ Pub. L. 116–283, div. B, § 2003, Jan. 1, 2021, 134 Stat. 4295, provided that:
 
 ### Statutory Notes
 
-#### Authority to Establish a Movement Coordination Center Pacific in the Indo-Pacific Region
+#### Authority To Establish a Movement Coordination Center Pacific in the Indo-Pacific Region
 Pub. L. 116–283, div. A, title X, § 1061, Jan. 1, 2021, 134 Stat. 3858, provided that: “(a) Authority To Establish.—“(1) In general.—The Secretary of Defense, with the concurrence of the Secretary of State, may authorize—“(A) the establishment of a Movement Coordination Center Pacific (in this section referred to as the ‘Center’); and “(B) the participation of the Department of Defense in an Air Transport and Air-to-Air refueling and other Exchanges of Services program (in this section referred to as the ‘ATARES program’) of the Center. “(2) Scope of participation.—Participation in the ATARES program under paragraph (1)(B) shall be limited to the reciprocal exchange or transfer of air transportation and air refueling services on a reimbursable basis or by replacement-in-kind or the exchange of air transportation or air refueling services of an equal value with foreign militaries. “(3) Limitations.—The Department of Defense’s balance of executed transportation hours, whether as credits or debits, in participation in the ATARES program under paragraph (1)(B) may not exceed 500 hours. The Department of Defense’s balance of executed flight hours for air refueling in the ATARES program under paragraph (1)(B) may not exceed 200 hours. “(b) Written Arrangement or Agreement.—“(1) Arrangement or agreement required.—The participation of the Department of Defense in the ATARES program under subsection (a) shall be in accordance with a written arrangement or agreement entered into by the Secretary of Defense, with the concurrence of the Secretary of State. “(2) Funding arrangements.—If Department of Defense facilities, equipment, or funds are used to support the ATARES program, the written arrangement or agreement under paragraph (1) shall specify the details of any equitable cost-sharing or other funding arrangement. “(3) Other elements.—Any written arrangement or agreement entered into under paragraph (1) shall require that any accrued credits and liabilities resulting from an unequal exchange or transfer of air transportation or air refueling services shall be liquidated, not less than once every 5 years, through the ATARES program. “(c) Implementation.—In carrying out any written arrangement or agreement entered into under subsection (b), the Secretary of Defense may—“(1) pay the Department of Defense’s equitable share of the operating expenses of the Center and the ATARES program from funds available to the Department of Defense for operation and maintenance; and “(2) assign members of the Armed Forces or Department of Defense civilian personnel, within billets authorized for the United States Indo-Pacific Command, to duty at the Center as necessary to fulfill the obligations of the Department of Defense under that arrangement or agreement.”
 
 
@@ -1605,3 +1557,50 @@ Pub. L. 116–283, div. A, title X, § 1061, Jan. 1, 2021, 134 Stat. 3858, provi
   (F) Any other country designated as a partner country by the Secretary of Defense, with the concurrence of the Secretary of State, for purposes of this section.
 
 (3) **Patient movement.—** — The term “patient movement” means the act or process of moving wounded, ill, injured, or other persons (including contaminated, contagious, and potentially exposed patients) to obtain medical, surgical, mental health, or dental care or treatment.
+
+
+<a id="section-2350q"></a>
+## § 2350q. Execution of projects under the North Atlantic Treaty Organization Security Investment Program
+**(a) Authority To Execute Projects.—** When the United States is designated as the Host Nation for purposes of executing a project under the North Atlantic Treaty Organization Security Investment Program (in this section referred to as the “Program”), the Secretary of Defense may accept such designation and carry out such project consistent with the requirements of this section.
+
+**(b) Project Funding.—** The Secretary of Defense may fund authorized expenditures of projects accepted under subsection (a) with—
+
+(1) contributions under subsection (c);
+
+(2) appropriations of the Department of Defense for the Program when directed by the North Atlantic Treaty Organization to apply amounts of such appropriations as part of the share of contributions of the United States for the Program; or
+
+(3) any combination of amounts described in paragraphs (1) and (2).
+
+**(c) Authority To Accept Contributions.—**
+
+(1) The Secretary of Defense may accept contributions from the North Atlantic Treaty Organization and member nations of the North Atlantic Treaty Organization for the purpose of carrying out a project under subsection (a).
+
+(2) Contributions accepted under paragraph (1) shall be placed in an account established for the purpose of carrying out the project for which the funds were provided and shall remain available until expended.
+
+(3)
+
+  (A) If contributions are made under paragraph (1) as reimbursement for a project or portion of a project previously completed by the Department of Defense, such contributions shall be credited to—
+
+    (i) the appropriations used for the project or portion thereof, if such appropriations have not yet expired; or
+
+    (ii) the appropriations for the Program, if the appropriations described in clause (i) have expired.
+
+  (B) Funding credited under subparagraph (A) shall merge with and remain available for the same purposes and duration as the appropriations to which credited.
+
+**(d) Obligation Authority.—** The construction agent of the Department of Defense designated by the Secretary of Defense to execute a project under subsection (a) may recognize the North Atlantic Treaty Organization project authorization amounts as budgetary resources to incur obligations against for the purposes of executing the project.
+
+**(e) Insufficient Contributions.—**
+
+(1) In the event that the North Atlantic Treaty Organization does not agree to contribute funding for all costs necessary for the Department of Defense to carry out a project under subsection (a), including necessary personnel costs of the construction agent designated by the Department of Defense, contract claims, and any conjunctive funding requirements that exceed the project authorization or standards of the North Atlantic Treaty Organization, the Secretary of Defense, upon determination that completion of the project is in the national interest of the United States, may fund such costs, and undertake such conjunctively funded requirements not otherwise authorized by law, using any unobligated funds available among funds appropriated for the Program for military construction.
+
+(2) The use of funds under paragraph (1) from appropriations for the Program may be in addition to or in place of any other funding sources otherwise available for the purposes for which those funds are used.
+
+**(f) Authorized Expenditures Defined.—** In this section, the term “authorized expenditures” means project expenses for which the North Atlantic Treaty Organization has agreed to contribute funding.
+
+### Statutory Notes
+
+#### Amendments
+2021—Pub. L. 117–81 renumbered this section, which was a second [section 2350m of this title](./chapter-138-cooperative-agreements-with-nato-allies-and-other-countries.md#section-2350m), as [section 2350q of this title](./chapter-138-cooperative-agreements-with-nato-allies-and-other-countries.md#section-2350q).
+
+#### Effective Date
+Pub. L. 116–283, div. B, § 2003, Jan. 1, 2021, 134 Stat. 4295, provided that: “Titles XXI through XXVII and title XXIX [see Tables for classification] shall take effect on the later of— “(1) October 1, 2020; or “(2) the date of the enactment of this Act [Jan. 1, 2021].”

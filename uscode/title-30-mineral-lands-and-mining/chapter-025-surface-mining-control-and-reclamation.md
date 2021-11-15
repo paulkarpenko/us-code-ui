@@ -2,7 +2,7 @@
 title: 30
 chapter: '25'
 heading: SURFACE MINING CONTROL AND RECLAMATION
-section_count: 97
+section_count: 99
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30&num=0&edition=prelim
 ---
@@ -602,13 +602,13 @@ Section was enacted as part of the Mining and Mineral Resources Research Institu
 
 (2) **Amounts**
 
-  (A) *For fiscal years 2008 through 2022* — For each of fiscal years 2008 through 2022, the amount distributed by the Secretary under this subsection shall be equal to—
+  (A) *For fiscal years 2008 through 2035* — For each of fiscal years 2008 through 2035, the amount distributed by the Secretary under this subsection shall be equal to—
 
     (i) the amounts deposited into the fund under paragraphs (1), (2), and (4) of subsection (b) for the preceding fiscal year that were allocated under paragraphs (1) and (5) of [section 1232(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1232/g&num=0&edition=prelim); plus
 
     (ii) the amount needed for the adjustment under [section 1232(g)(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1232/g/8&num=0&edition=prelim) for the current fiscal year.
 
-  (B) *Fiscal years 2023 and thereafter* — For fiscal year 2023 and each fiscal year thereafter, to the extent that funds are available, the Secretary shall distribute an amount equal to the amount distributed under subparagraph (A) during fiscal year 2022.
+  (B) *Fiscal years 2036 and thereafter* — For fiscal year 2036 and each fiscal year thereafter, to the extent that funds are available, the Secretary shall distribute an amount equal to the amount distributed under subparagraph (A) during fiscal year 2035.
 
 (3) **Distribution**
 
@@ -639,6 +639,10 @@ Section was enacted as part of the Mining and Mineral Resources Research Institu
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (f)(2)(A). Pub. L. 117–58, § 40703(1), substituted “2035” for “2022” in heading and in introductory provisions.
+
+Subsec. (f)(2)(B). Pub. L. 117–58, § 40703(2), substituted “2036” for “2023” in heading and “2036” for “2023” and “2035” for “2022” in text.
+
 2006—Subsec. (c)(2) to (13). Pub. L. 109–432, § 201(a)(1), redesignated pars. (3) to (5) and (7) to (13) as (2) to (4) and (5) to (11), respectively, and struck out former pars. (2) and (6) which read as follows:
 
 “(2) for transfer on an annual basis to the Secretary of Agriculture for use under [section 1236 of this title](./chapter-025-surface-mining-control-and-reclamation.md#section-1236);” and
@@ -684,11 +688,68 @@ Pub. L. 105–277, div. A, § 101(e) [title I], Oct. 21, 1998, 112 Stat. 2681–
 Pub. L. 99–509, title III, § 3501, Oct. 21, 1986, 100 Stat. 1891, as amended by Pub. L. 102–285, § 10(b), May 18, 1992, 106 Stat. 172, provided that after enactment of Pub. L. 99–509, the research and demonstration authorities of the Department of the Interior under former subsec. (c)(6) of this section were to be transferred to, and carried out by, the Director of the United States Bureau of Mines.
 
 
+<a id="section-1231a"></a>
+## § 1231a. Abandoned mine reclamation fund authorization of appropriations
+**(a) In general** There is authorized to be appropriated, for deposit into the Abandoned Mine Reclamation Fund established by section 401(a) of the Surface Mining Control and Reclamation Act of 1977 ([30 U.S.C. 1231(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1231/a&num=0&edition=prelim)) $11,293,000,000 for fiscal year 2022, to remain available until expended.
+
+**(b) Use of funds**
+
+(1) **In general** — Subject to subsection (g), amounts made available under subsection (a) shall be used to provide, as expeditiously as practicable, to States and Indian Tribes described in paragraph (2) annual grants for abandoned mine land and water reclamation projects under the Surface Mining Control and Reclamation Act of 1977 ([30 U.S.C. 1201](./chapter-025-surface-mining-control-and-reclamation.md#section-1201) et seq.).
+
+(2) **Eligible grant recipients** — Grants may be made under paragraph (1) to—
+
+  (A) States and Indian Tribes that have a State or Tribal program approved under section 405 of the Surface Mining Control and Reclamation Act of 1977 ([30 U.S.C. 1235](./chapter-025-surface-mining-control-and-reclamation.md#section-1235));
+
+  (B) States and Indian Tribes that are certified under section 411(a) of that Act ([30 U.S.C. 1240a(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1240a/a&num=0&edition=prelim)); and
+
+  (C) States and Indian Tribes that are referred to in section 402(g)(8)(B) of that Act ([30 U.S.C. 1232(g)(8)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1232/g/8/B&num=0&edition=prelim)).
+
+(3) **Contract aggregation** — In applying for grants under paragraph (1), States and Indian Tribes may aggregate bids into larger statewide or regional contracts.
+
+**(c) Covered activities** Grants under subsection (b)(1) shall only be used for activities described in subsections (a) and (b) of section 403 and section 410 of the Surface Mining Control and Reclamation Act of 1977 ([30 U.S.C. 1233](./chapter-025-surface-mining-control-and-reclamation.md#section-1233), 1240).
+
+**(d) Allocation**
+
+(1) **In general** — Subject to subsection (e), the Secretary of the Interior shall allocate and distribute amounts made available for grants under subsection (b)(1) to States and Indian Tribes on an equal annual basis over a 15-year period beginning on November 15, 2021, based on the number of tons of coal historically produced in the States or from the applicable Indian land before August 3, 1977, regardless of whether the State or Indian Tribe is certified under section 411(a) of the Surface Mining Control and Reclamation Act of 1977 ([30 U.S.C. 1240a(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1240a/a&num=0&edition=prelim)).
+
+(2) **Surface Mining Control and Reclamation Act exception** — Section 401(f)(3)(B) of the Surface Mining Control and Reclamation Act of 1977 ([30 U.S.C. 1231(f)(3)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1231/f/3/B&num=0&edition=prelim)) shall not apply to grant funds distributed under subsection (b)(1).
+
+(3) **Report to Congress on allocations**
+
+  (A) *In general* — Not later than 6 years after the date on which the first allocation to States and Indian Tribes is made under paragraph (1), the Secretary of the Interior shall submit to Congress a report that describes any progress made under this section in addressing outstanding reclamation needs under subsection (a) or (b) of section 403 or section 410 of the Surface Mining Control and Reclamation and Act of 1977 ([30 U.S.C. 1233](./chapter-025-surface-mining-control-and-reclamation.md#section-1233), 1240).
+
+  (B) *Input* — The Secretary of the Interior shall—
+
+    (i) prior to submitting the report under subparagraph (A), solicit the input of the States and Indian Tribes regarding the progress referred to in that subparagraph; and
+
+    (ii) include in the report submitted to Congress under that subparagraph a description of any input received under clause (i).
+
+(4) **Redistribution of funds**
+
+  (A) *Evaluation* — Not later than 20 years after November 15, 2021, the Secretary of the Interior shall evaluate grant payments to States and Indian Tribes made under this section.
+
+  (B) *Unused funds* — On completion of the evaluation under subparagraph (A), States and Indian Tribes shall return any unused funds under this section to the Abandoned Mine Reclamation Fund.
+
+**(e) Total amount of grant** The total amount of grant funding provided under subsection (b)(1) to an eligible State or Indian Tribe shall be not less than $20,000,000, to the extent that the amount needed for reclamation projects described in that subsection on the land of the State or Indian Tribe is not less than $20,000,000.
+
+**(f) Priority** In addition to the priorities described in section 403(a) of the Surface Mining Control and Reclamation Act of 1977 ([30 U.S.C. 1233(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1233/a&num=0&edition=prelim)), in providing grants under this section, priority may also be given to reclamation projects described in subsection (b)(1) that provide employment for current and former employees of the coal industry.
+
+**(g) Reservation** Of the funds made available under subsection (a), $25,000,000 shall be made available to the Secretary of the Interior to provide States and Indian Tribes with the financial and technical assistance necessary for the purpose of making amendments to the inventory maintained under section 403(c) of the Surface Mining Control and Reclamation Act of 1977 ([30 U.S.C. 1233(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1233/c&num=0&edition=prelim)).
+
+### Statutory Notes
+
+#### References in Text
+The Surface Mining Control and Reclamation Act of 1977, referred to in subsec. (b)(1), is Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1201 of this title](./chapter-025-surface-mining-control-and-reclamation.md#section-1201) and Tables.
+
+#### Codification
+Section was enacted as part of the Infrastructure Investment and Jobs Act, and not as part of the Surface Mining Control and Reclamation Act of 1977 which comprises this chapter.
+
+
 <a id="section-1232"></a>
 ## § 1232. Reclamation fee
-**(a) Payment; rate** All operators of coal mining operations subject to the provisions of this chapter shall pay to the Secretary of the Interior, for deposit in the fund, a reclamation fee of 28 cents per ton of coal produced by surface coal mining and 12 cents per ton of coal produced by underground mining or 10 per centum of the value of the coal at the mine, as determined by the Secretary, whichever is less, except that the reclamation fee for lignite coal shall be at a rate of 2 per centum of the value of the coal at the mine, or 8 cents per ton, whichever is less.
+**(a) Payment; rate** All operators of coal mining operations subject to the provisions of this chapter shall pay to the Secretary of the Interior, for deposit in the fund, a reclamation fee of 22.4 cents per ton of coal produced by surface coal mining and 9.6 cents per ton of coal produced by underground mining or 10 per centum of the value of the coal at the mine, as determined by the Secretary, whichever is less, except that the reclamation fee for lignite coal shall be at a rate of 2 per centum of the value of the coal at the mine, or 6.4 cents per ton, whichever is less.
 
-**(b) Due date** Such fee shall be paid no later than thirty days after the end of each calendar quarter beginning with the first calendar quarter occurring after August 3, 1977, and ending September 30, 2021.
+**(b) Due date** Such fee shall be paid no later than thirty days after the end of each calendar quarter beginning with the first calendar quarter occurring after August 3, 1977, and ending September 30, 2034.
 
 **(c) Submission of statement** Together with such reclamation fee, all operators of coal mine operations shall submit a statement of the amount of coal produced during the calendar quarter, the method of coal removal and the type of coal, the accuracy of which shall be sworn to by the operator and notarized. Such statement shall include an identification of the permittee of the surface coal mining operation, any operator in addition to the permittee, the owner of the coal, the preparation plant, tripple,11 So in original. Probably should be “tipple,”. or loading point for the coal, and the person purchasing the coal from the operator. The report shall also specify the number of the permit required under [section 1256 of this title](./chapter-025-surface-mining-control-and-reclamation.md#section-1256) and the mine safety and health identification number. Each quarterly report shall contain a notification of any changes in the information required by this subsection since the date of the preceding quarterly report. The information contained in the quarterly reports under this subsection shall be maintained by the Secretary in a computerized database.
 
@@ -947,7 +1008,7 @@ Pub. L. 99–509, title III, § 3501, Oct. 21, 1986, 100 Stat. 1891, as amended 
 
     (iii) the percentage transferred is the same for all transfers made under paragraph (1) for the fiscal year.
 
-  (C) *Increase in limitation to account for calculation of health benefit plan excess* — The dollar limitation under subparagraph (A) shall be increased by the amount of the cost to provide benefits which are taken into account under subsection (h)(2)(C)(ii) solely by reason of the amendments made by section 2(a) of the American Miner Benefits Improvement Act of 2020
+  (C) *Increase in limitation to account for calculation of health benefit plan excess* — The dollar limitation under subparagraph (A) shall be increased by the amount of the cost to provide benefits which are taken into account under subsection (h)(2)(C)(ii) solely by reason of the amendments made by section 2(a) of the American Miner Benefits Improvement Act of 2020.
 
 (4) **Additional amounts**
 
@@ -1028,6 +1089,10 @@ The amendments made by section 2(a) of the American Miner Benefits Improvement A
 November 5, 1990, referred to in subsec. (g)(4)(B)(ii), was in the original “the date of enactment of this paragraph”, which was translated as meaning the date of enactment of Pub. L. 101–508, which amended this section generally, to reflect the probable intent of Congress.
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 117–58, § 40702(a), substituted “22.4 cents” for “28 cents”, “9.6 cents” for “12 cents”, and “6.4 cents” for “8 cents”.
+
+Subsec. (b). Pub. L. 117–58, § 40702(b), substituted “September 30, 2034” for “September 30, 2021”.
+
 2020—Subsec. (h)(2)(C)(ii). Pub. L. 116–260, § 2(a)(4), substituted “January 1, 2020” for “January 1, 2019” in concluding provisions.
 
 Pub. L. 116–260, § 2(a)(1), substituted “December 27, 2020” for “December 20, 2019” wherever appearing.
@@ -1599,6 +1664,47 @@ All departments, boards, commissioners, and agencies of the United States of Ame
     (ii) conduct remining activities that meet the priorities specified in paragraph (1) or (2) of [section 1233(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1233/a&num=0&edition=prelim).
 
   (B) *Amount* — The amount of a rebate or waiver provided as an incentive under paragraph (1)(A) to remine or reclaim eligible land shall not exceed the estimated cost of reclaiming the eligible land under this section.
+
+
+<a id="section-1245"></a>
+## § 1245. Abandoned hardrock mine reclamation
+**(a) Establishment** Not later than 90 days after November 15, 2021, the Secretary of the Interior (referred to in this section as the “Secretary”) shall establish a program to inventory, assess, decommission, reclaim, respond to hazardous substance releases on, and remediate abandoned hardrock mine land based on conditions including need, public health and safety, potential environmental harm, and other land use priorities.
+
+**(b) Award of grants** Subject to the availability of funds, the Secretary shall provide grants on a competitive or formula basis to States and Indian Tribes that have jurisdiction over abandoned hardrock mine land to reclaim that land.
+
+**(c) Eligibility** Amounts made available under this section may only be used for Federal, State, Tribal, local, and private land that has been affected by past hardrock mining activities, and water resources that traverse or are contiguous to such land, including any of the following:
+
+(1) Land and water resources that were—
+
+  (A) used for, or affected by, hardrock mining activities; and
+
+  (B) abandoned or left in an inadequate reclamation status before November 15, 2021.
+
+(2) Land for which the Secretary makes a determination that there is no continuing reclamation responsibility of a claim holder, liable party, operator, or other person that abandoned the site prior to completion of required reclamation under Federal or State law.
+
+**(d) Eligible activities**
+
+(1) **In general** — Amounts made available to carry out this section shall be used to inventory, assess, decommission, reclaim, respond to hazardous substance releases on, and remediate abandoned hardrock mine land based on the priorities described in subsection (a).
+
+(2) **Exclusion** — Amounts made available to carry out this section may not be used to fulfill obligations under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ([42 U.S.C. 9601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601&num=0&edition=prelim) et seq.) agreed to in a legal settlement or imposed by a court, whether for payment of funds or for work to be performed.
+
+**(e) Authorization of appropriations**
+
+(1) **In general** — There is authorized to be appropriated to carry out this section $3,000,000,000, to remain available until expended, of which—
+
+  (A) 50 percent shall be for grants to States and Indian Tribes under subsection (b) for eligible activities described in subsection (d)(1); and
+
+  (B) 50 percent shall be for available to the Secretary for eligible activities described in subsection (d)(1) on Federal land.
+
+(2) **Transfer** — The Secretary may transfer amounts made available to the Secretary under paragraph (1)(B) to the Secretary of Agriculture for activities described in subsection (a) on National Forest System land.
+
+### Statutory Notes
+
+#### References in Text
+The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (d)(2), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, which is classified principally to chapter 103 (§ 9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601&num=0&edition=prelim) and Tables.
+
+#### Codification
+Section was enacted as part of the Infrastructure Investment and Jobs Act, and not as part of the Surface Mining Control and Reclamation Act of 1977 which comprises this chapter.
 
 
 <a id="section-1251"></a>

@@ -17,6 +17,8 @@ shall, where the acts in violation of this section constitute only simple assaul
 
 **(b) Enhanced Penalty.—** Whoever, in the commission of any acts described in subsection (a), uses a deadly or dangerous weapon (including a weapon intended to cause death or danger but that fails to do so by reason of a defective component) or inflicts bodily injury, shall be fined under this title or imprisoned not more than 20 years, or both.
 
+**(c) Extraterritorial Jurisdiction.—** There is extraterritorial jurisdiction over the conduct prohibited by this section.
+
 ### Statutory Notes
 
 #### Historical and Revision Notes
@@ -29,6 +31,8 @@ Also the words “Bureau of Animal Industry of the Department of Agriculture” 
 The punishment provision of [section 254 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section254&num=0&edition=prelim), U.S.C., 1940 ed., was adopted as the latest expression of Congressional intent. This consolidation eliminates a serious incongruity in punishment and application.
 
 #### Amendments
+2021—Subsec. (c). Pub. L. 117–59 added subsec. (c).
+
 2008—Subsec. (a). Pub. L. 110–177 substituted “where such acts involve physical contact with the victim of that assault or the intent to commit another felony” for “in all other cases” in concluding provisions.
 
 2002—Subsec. (a). Pub. L. 107–273, § 11008(b)(1), substituted “8” for “three” in concluding provisions.
@@ -49,6 +53,9 @@ Subsec. (b). Pub. L. 103–322, § 320101(a)(2), inserted “or inflicts bodily 
 
 #### Short Title of 2002 Amendment
 Pub. L. 107–273, div. C, title I, § 11008(a), Nov. 2, 2002, 116 Stat. 1818, provided that: “This section [amending this section, sections 115 and 876 of this title, and provisions set out as a note under [section 994 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section994&num=0&edition=prelim), Judiciary and Judicial Procedure] may be cited as the ‘Federal Judiciary Protection Act of 2002’.”
+
+#### Sense of Congress Regarding Amendment by Pub. L. 117–59
+For sense of Congress regarding amendment to this section by Pub. L. 117–59, see section 2(6) of Pub. L. 117–59, set out as a note under [section 1114 of this title](./chapter-051-homicide.md#section-1114).
 
 
 <a id="section-112"></a>
@@ -312,9 +319,13 @@ This section [section 3] corrects a typographical error in [section 114 of title
 
 **(d)** This section shall not interfere with the investigative authority of the United States Secret Service, as provided under sections 3056, 871, and 879 of this title.
 
+**(e)** There is extraterritorial jurisdiction over the conduct prohibited by this section.
+
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (e). Pub. L. 117–59 added subsec. (e).
+
 2008—Subsec. (b)(1). Pub. L. 110–177 added par. (1) and struck out former par. (1) which read as follows: “An assault in violation of this section shall be punished as provided in [section 111 of this title](./chapter-007-assault.md#section-111).”
 
 2002—Subsec. (b)(2). Pub. L. 107–273, § 4002(b)(9), substituted “or attempted kidnapping of, or a conspiracy to kidnap, a person” for “, attempted kidnapping, or conspiracy to kidnap of a person”.

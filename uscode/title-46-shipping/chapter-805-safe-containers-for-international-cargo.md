@@ -148,7 +148,7 @@ In subsection (c), the word “initial” is added for consistency in the sectio
 
 (2) **Testing, inspection, and initial approval.—** — The owner of a container submitted to the procedure established by the Secretary for testing, inspection, and initial approval, and the manufacturer of a container that submits a design to the procedure established by the Secretary for testing, inspection, and initial approval, shall pay or reimburse the Secretary for the expenses arising from the testing, inspection, or approval.
 
-(3) **Credit to appropriation.—** — Amounts received by the Secretary as reimbursement shall be credited to the appropriation for operating expenses of the Coast Guard.
+(3) **Credit to appropriation.—** — Amounts received by the Secretary as reimbursement shall be credited to the appropriation for operations and support of the Coast Guard.
 
 **(c) Presumption Based on Safety Approval Plate.—** A container bearing a safety approval plate authorized by a country that is a party to the Convention is presumed to be in a safe condition unless there is significant evidence that the container is in a condition that creates an obvious risk to safety.
 
@@ -186,6 +186,9 @@ In subsection (b)(3), the words “appropriation for the operating expenses of t
 In subsection (d)(2), the word “reasonably” is omitted as unnecessary.
 
 In subsection (e), the words “which first occurs” are omitted as unnecessary. In paragraph (1), the words “the Secretary declares” are substituted for “is declared by the Secretary, or under regulations promulgated by the Secretary” to eliminate unnecessary words.
+
+#### Amendments
+2021—Subsec. (b)(3). Pub. L. 116–283 substituted “operations and support” for “operating expenses”.
 
 
 <a id="section-80506"></a>

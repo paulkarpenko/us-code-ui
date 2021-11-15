@@ -89,7 +89,7 @@ An applicant receiving a grant award under this chapter may use such funds to—
 ### Statutory Notes
 
 #### Prior Provisions
-A prior section 40503, Pub. L. 106–177, title II, § 204, Mar. 10, 2000, 114 Stat. 36, related to uses of funds that State received to establish or expand programs developed to improve the reporting of unidentified persons, prior to repeal by Pub. L. 116–277, § 2(a)(3), Dec. 31, 2020, 134 Stat. 3369. Such section was formerly classified to [section 14663 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14663&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as section 40503.
+A prior section 40503, Pub. L. 106–177, title II, § 204, Mar. 10, 2000, 114 Stat. 36, related to uses of funds that a State received to establish or expand programs developed to improve the reporting of unidentified persons, prior to repeal by Pub. L. 116–277, § 2(a)(3), Dec. 31, 2020, 134 Stat. 3369. Such section was formerly classified to [section 14663 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14663&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as section 40503.
 
 
 <a id="section-40504"></a>
@@ -124,7 +124,7 @@ Section was formerly classified to [section 14665 of Title 42](https://uscode.ho
 2018—Subsec. (b). Pub. L. 115–401 substituted “this title” for “this Act”.
 
 #### Authorization of Funding
-Pub. L. 106–468, title I, § 102, formerly § 3, Nov. 9, 2000, 114 Stat. 2028, renumbered title I, § 102, and amended by Pub. L. 115–401, § 2(1), (2), (4), Dec. 31, 2018, 132 Stat. 5336, and Pub. L. 116–277, § 2(b), Dec. 31, 2020, 134 Stat. 3370, provided that: “To the extent provided in advance in appropriations Acts, the Attorney General is authorized to use funds appropriated for the operationalization, maintenance, and expansion of the National Missing and Unidentified Persons System (NamUs) for the purpose of carrying out this Act [enacting this section].”
+Pub. L. 106–468, title I, § 102, formerly § 3, Nov. 9, 2000, 114 Stat. 2028, renumbered title I, § 102, and amended by Pub. L. 115–401, § 2(1), (2), (4), Dec. 31, 2018, 132 Stat. 5336; Pub. L. 116–277, § 2(b), Dec. 31, 2020, 134 Stat. 3370, provided that: “To the extent provided in advance in appropriations Acts, the Attorney General is authorized to use funds appropriated for the operationalization, maintenance, and expansion of the National Missing and Unidentified Persons System (NamUs) for the purpose of carrying out this Act [enacting this section].”
 
 
 <a id="section-40505"></a>

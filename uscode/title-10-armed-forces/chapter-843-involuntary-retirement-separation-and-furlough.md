@@ -51,7 +51,7 @@ Section not applicable to an officer serving on Oct. 5, 1999, in the position of
 
 **(c) Retired Grade and Retired Pay.—** Each officer retired under subsection (a) or (b)—
 
-(1) unless otherwise entitled to a higher grade, shall be retired in the grade determined under [section 1370 of this title](./chapter-069-retired-grade.md#section-1370); and
+(1) unless otherwise entitled to a higher grade, shall be retired in the grade determined under section 1370 11 See References in Text note below. of this title; and
 
 (2) is entitled to retired pay computed under [section 8333 of this title](./chapter-841-voluntary-retirement.md#section-8333).
 
@@ -115,6 +115,9 @@ The second proviso in § 312(g) of the Officer Personnel Act of 1947 ([34 U.S.C.
 In subsection (f) the words “to which he would otherwise become entitled” are omitted as surplusage and the words “based on the service for which he has received payment” are substituted for the words “attributable to the active service in respect of which lump-sum payment shall have been made to him”.
 
 The second proviso in § 312(f) of the Officer Personnel Act of 1947 ([34 U.S.C. 410j(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section410j/f&num=0&edition=prelim)), which provides that officers who exercise their option to revert to a warrant officer grade shall be retired upon completing 30 years of active naval service, is omitted as superseded by § 14(b)(2) of the Warrant Officer Act of 1954 ([34 U.S.C. 430(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section430/b/2&num=0&edition=prelim)), codified in [§ 1305 of this title](./chapter-065-retirement-of-warrant-officers-for-length-of-service.md#section-1305).
+
+#### References in Text
+[Section 1370 of this title](./chapter-069-retired-grade.md#section-1370), referred to in subsec. (c)(1), was repealed and new sections 1370 and 1370a of this title were enacted by Pub. L. 116–283, div. A, title V, § 508(a)(1), Jan. 1, 2021, 134 Stat. 3574, 3580. In determining the retired grade of certain commissioned officers of the Armed Forces who retire after Jan. 1, 2021, any reference to [section 1370 of this title](./chapter-069-retired-grade.md#section-1370) in such determination with respect to such officers deemed to be a reference to [section 1370a of this title](./chapter-069-retired-grade.md#section-1370a), see section 508(c) of Pub. L. 116–283, set out as a note under [section 1370 of this title](./chapter-069-retired-grade.md#section-1370).
 
 #### Prior Provisions
 A prior section 8372, added Pub. L. 85–861, § 1(178)(C), Sept. 2, 1958, 72 Stat. 1527; amended Pub. L. 86–559, § 1(57), June 30, 1960, 74 Stat. 276, related to promotion of officers with special qualifications to grade of captain, major, lieutenant colonel, or colonel of Air Force Reserve, prior to repeal by Pub. L. 103–337, div. A, title XVI, § 1629(c)(1), Oct. 5, 1994, 108 Stat. 2963, effective Oct. 1, 1996. See section 14301 et seq. of this title.
@@ -217,7 +220,7 @@ Amendment by section 336 of Pub. L. 96–513 effective Sept. 15, 1981, but the a
 Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 88–132, set out as a note under [section 201 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section201&num=0&edition=prelim), Pay and Allowances of the Uniformed Services.
 
 #### Effective Date of 1958 Amendment
-Amendment by Pub. L. 85–422 effective June 1, 1958, see section 9 of Pub. L. 85–422.
+Amendment by Pub. L. 85–422 effective June 1, 1958, see section 9 of Pub. L. 85–422, May 20, 1958, 72 Stat. 130.
 
 #### Transition Provisions Under Defense Officer Personnel Management Act
 For transition provisions relating to limited-duty officers of the Regular Navy or Regular Marine Corps, see section 616 of Pub. L. 96–513, set out as a note under [section 611 of this title](./chapter-036-promotion-separation-and-involuntary-retirement-of-officers-on-the-active-duty-list.md#section-611).

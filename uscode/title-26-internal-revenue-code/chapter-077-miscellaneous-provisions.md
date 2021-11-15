@@ -2,7 +2,7 @@
 title: 26
 chapter: '77'
 heading: MISCELLANEOUS PROVISIONS
-section_count: 31
+section_count: 33
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26&num=0&edition=prelim
 ---
@@ -245,7 +245,7 @@ Amendment by Pub. L. 94–455 effective on first day of first month which begins
 
   (B) Payment of any income, estate, gift, employment, or excise tax or any installment thereof or of any other liability to the United States in respect thereof;
 
-  (C) Filing a petition with the Tax Court for redetermination of a deficiency, or for review of a decision rendered by the Tax Court;
+  (C) Filing a petition with the Tax Court, or filing a notice of appeal from a decision of the Tax Court;
 
   (D) Allowance of a credit or refund of any tax;
 
@@ -259,7 +259,7 @@ Amendment by Pub. L. 94–455 effective on first day of first month which begins
 
   (I) Collection, by the Secretary, by levy or otherwise, of the amount of any liability in respect of any tax;
 
-  (J) Bringing suit by the United States, or any officer on its behalf, in respect of any liability in respect of any tax; and
+  (J) Bringing suit by the United States, or any officer on its behalf, in respect of any liability in respect of any tax or in respect of any erroneous refund; and
 
   (K) Any other act required or permitted under the internal revenue laws specified by the Secretary;
 
@@ -305,6 +305,10 @@ Paragraph (2) shall not apply for purposes of applying this section with respect
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (a)(1)(C). Pub. L. 117–58, § 80502(a)(1), added subpar. (C) and struck out former subpar. (C) which read as follows: “Filing a petition with the Tax Court for redetermination of a deficiency, or for review of a decision rendered by the Tax Court;”.
+
+Subsec. (a)(1)(J). Pub. L. 117–58, § 80502(a)(2), inserted “or in respect of any erroneous refund” after “any tax”.
+
 2015—Subsec. (a)(3). Pub. L. 114–94 added par. (3).
 
 Subsec. (e)(3). Pub. L. 114–113 added par. (3).
@@ -350,6 +354,9 @@ Subsec. (b). Pub. L. 94–569 substituted “taxable year beginning” for “ta
 Subsec. (d). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
 1975—Subsecs. (b) to (d). Pub. L. 93–597 added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
+
+#### Effective Date of 2021 Amendment
+Pub. L. 117–58, div. H, title V, § 80502(b), Nov. 15, 2021, 135 Stat. 1336, provided that: “The amendments made by this section [amending this section] shall apply to any period for performing an act which has not expired before the date of the enactment of this Act [Nov. 15, 2021].”
 
 #### Effective Date of 2015 Amendment
 Pub. L. 114–113, div. Q, title III, § 309(b), Dec. 18, 2015, 129 Stat. 3090, provided that: “The amendment made by this section [amending this section] shall apply to taxes assessed before, on, or after the date of the enactment of this Act [Dec. 18, 2015].”
@@ -402,16 +409,16 @@ George Bush.
 
 
 <a id="section-7508a"></a>
-## § 7508A. Authority to postpone certain deadlines by reason of Presidentially declared disaster or terroristic or military actions
-**(a) In general** In the case of a taxpayer determined by the Secretary to be affected by a federally declared disaster (as defined by section 165(i)(5)(A)) or a terroristic or military action (as defined in section 692(c)(2)), the Secretary may specify a period of up to 1 year that may be disregarded in determining, under the internal revenue laws, in respect of any tax liability of such taxpayer—
+## § 7508A. Authority to postpone certain deadlines by reason of Federally declared disaster, significant fire, or terroristic or military actions
+**(a) In general** In the case of a taxpayer determined by the Secretary to be affected by a federally declared disaster (as defined by section 165(i)(5)(A)), a significant fire, or a terroristic or military action (as defined in section 692(c)(2)), the Secretary may specify a period of up to 1 year that may be disregarded in determining, under the internal revenue laws, in respect of any tax liability of such taxpayer—
 
-(1) whether any of the acts described in paragraph (1) of section 7508(a) were performed within the time prescribed therefor (determined without regard to extension under any other provision of this subtitle for periods after the date (determined by the Secretary) of such disaster or action),
+(1) whether any of the acts described in paragraph (1) of section 7508(a) were performed within the time prescribed therefor (determined without regard to extension under any other provision of this subtitle for periods after the date (determined by the Secretary) of such disaster, fire, or action),
 
 (2) the amount of any interest, penalty, additional amount, or addition to the tax for periods after such date, and
 
 (3) the amount of any credit or refund.
 
-**(b) Special rules regarding pensions, etc.** In the case of a pension or other employee benefit plan, or any sponsor, administrator, participant, beneficiary, or other person with respect to such plan, affected by a disaster or action described in subsection (a), the Secretary may specify a period of up to 1 year which may be disregarded in determining the date by which any action is required or permitted to be completed under this title. No plan shall be treated as failing to be operated in accordance with the terms of the plan solely as the result of disregarding any period by reason of the preceding sentence.
+**(b) Special rules regarding pensions, etc.** In the case of a pension or other employee benefit plan, or any sponsor, administrator, participant, beneficiary, or other person with respect to such plan, affected by a disaster, fire, or action described in subsection (a), the Secretary may specify a period of up to 1 year which may be disregarded in determining the date by which any action is required or permitted to be completed under this title. No plan shall be treated as failing to be operated in accordance with the terms of the plan solely as the result of disregarding any period by reason of the preceding sentence.
 
 **(c) Special rules for overpayments** The rules of section 7508(b) shall apply for purposes of this section.
 
@@ -421,8 +428,8 @@ George Bush.
 
   (A) beginning on the earliest incident date specified in the declaration to which the disaster area referred to in paragraph (2) relates, and
 
-  (B) ending on the date which is 60 days after the latest incident date so specified,
-  shall be disregarded in the same manner as a period specified under subsection (a).
+  (B) ending on the date which is 60 days after the later of such earliest incident date described in subparagraph (A) or the date such declaration was issued,
+  shall be disregarded in determining, under the internal revenue laws, in respect of any tax liability of such qualified taxpayer, whether any of the acts described in subparagraphs (A) through (F) of section 7508(a)(1) were performed within the time prescribed therefor (determined without regard to extension under any other provision of this subtitle for periods after the date determined under subparagraph (B)).
 
 (2) **Qualified taxpayer** — For purposes of this subsection, the term “qualified taxpayer” means—
 
@@ -438,7 +445,7 @@ George Bush.
 
   (F) solely with respect to a joint return, any spouse of an individual described in any preceding subparagraph of this paragraph.
 
-(3) **Disaster area** — For purposes of this subsection, the term “disaster area” has the meaning given such term under subparagraph (B) of section 165(i)(5) with respect to a Federally declared disaster (as defined in subparagraph (A) of such section).
+(3) **Disaster area** — For purposes of this subsection, the term “disaster area” means an area in which a major disaster for which the President provides financial assistance under section 408 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5174](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5174&num=0&edition=prelim)) occurs.
 
 (4) **Application to rules regarding pensions** — In the case of any person described in subsection (b), a rule similar to the rule of paragraph (1) shall apply for purposes of subsection (b) with respect to—
 
@@ -452,9 +459,34 @@ George Bush.
 
 (5) **Coordination with periods specified by the Secretary** — Any period described in paragraph (1) with respect to any person (including by reason of the application of paragraph (4)) shall be in addition to (or concurrent with, as the case may be) any period specified under subsection (a) or (b) with respect to such person.
 
+(6) **Multiple declarations** — For purposes of paragraph (1), in the case of multiple declarations relating to a disaster area which are issued within a 60-day period, a separate period shall be determined under such paragraph with respect to each such declaration.
+
+**(e) Significant fire** For purposes of this section, the term “significant fire” means any fire with respect to which assistance is provided under section 420 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act.
+
 ### Statutory Notes
 
+#### References in Text
+Section 420 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (e), is classified to [section 5187 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5187&num=0&edition=prelim), The Public Health and Welfare.
+
 #### Amendments
+2021—Pub. L. 117–58, § 80504(b)(1), substituted “Federally declared disaster, significant fire,” for “Presidentially declared disaster” in section catchline.
+
+Subsec. (a). Pub. L. 117–58, § 80504(a)(1), which directed insertion of “, a significant fire,” after “federally declared disaster (as defined in section 165(i)(5)(A))”, was executed by making the insertion after “federally declared disaster (as defined by section 165(i)(5)(A))” in introductory provisions, to reflect the probable intent of Congress.
+
+Subsec. (a)(1). Pub. L. 117–58, § 80504(a)(2), inserted “, fire,” after “disaster”.
+
+Subsec. (b). Pub. L. 117–58, § 80504(a)(2), inserted “, fire,” after “disaster”.
+
+Subsec. (d)(1). Pub. L. 117–58, § 80501(a)(1)(B), in concluding provisions, substituted “in determining, under the internal revenue laws, in respect of any tax liability of such qualified taxpayer, whether any of the acts described in subparagraphs (A) through (F) of section 7508(a)(1) were performed within the time prescribed therefor (determined without regard to extension under any other provision of this subtitle for periods after the date determined under subparagraph (B))” for “in the same manner as a period specified under subsection (a)”.
+
+Subsec. (d)(1)(B). Pub. L. 117–58, § 80501(a)(1)(A), substituted “the later of such earliest incident date described in subparagraph (A) or the date such declaration was issued” for “the latest incident date so specified”.
+
+Subsec. (d)(3). Pub. L. 117–58, § 80501(a)(2), added par. (3) and struck out former par. (3) which defined the term “disaster area”.
+
+Subsec. (d)(6). Pub. L. 117–58, § 80501(a)(3), added par. (6).
+
+Subsec. (e). Pub. L. 117–58, § 80504(a)(3), added subsec. (e).
+
 2019—Subsec. (d). Pub. L. 116–94 added subsec. (d).
 
 2018—Subsec. (a). Pub. L. 115–141 substituted “section 165(i)(5)(A)” for “section 165(h)(3)(C)(i)” in introductory provisions.
@@ -464,6 +496,11 @@ George Bush.
 2002—Pub. L. 107–134 amended section catchline and text generally, substituting present provisions for provisions which had: in subsec. (a), authorized Secretary to postpone certain tax-related deadlines by reason of presidentially declared disaster, and in subsec. (b), provided that subsec. (a) would not apply for the purpose of determining interest on any overpayment or underpayment.
 
 2001—Subsec. (a). Pub. L. 107–16 substituted “120 days” for “90 days” in introductory provisions.
+
+#### Effective Date of 2021 Amendment
+Pub. L. 117–58, div. H, title V, § 80501(b), Nov. 15, 2021, 135 Stat. 1335, provided that: “The amendment made by this section [amending this section] shall apply to federally declared disasters declared after the date of enactment of this Act [Nov. 15, 2021].”
+
+Pub. L. 117–58, div. H, title V, § 80504(c), Nov. 15, 2021, 135 Stat. 1337, provided that: “The amendments made by this section [amending this section] shall apply to fires for which assistance is provided after the date of the enactment of this Act [Nov. 15, 2021].”
 
 #### Effective Date of 2019 Amendment
 Pub. L. 116–94, div. Q, title II, § 205(b), Dec. 20, 2019, 133 Stat. 3246, provided that: “The amendment made by this section [amending this section] shall apply to federally declared disasters declared after the date of the enactment of this Act [Dec. 20, 2019].”
@@ -1637,6 +1674,101 @@ Nothing in the amendments made by title II of Pub. L. 107–210, other than prov
 Pub. L. 111–5, div. B, title I, § 1899B(c), Feb. 17, 2009, 123 Stat. 424, provided that: “The Secretary of the Treasury shall not be required to make any payments under section 7527(e) of the Internal Revenue Code of 1986, as added by this section, until after the date that is 6 months after the date of the enactment of this Act [Feb. 17, 2009].”
 
 
+<a id="section-7527a"></a>
+## § 7527A. Advance payment of child tax credit
+**(a) In general** The Secretary shall establish a program for making periodic payments to taxpayers which, in the aggregate during any calendar year, equal the annual advance amount determined with respect to such taxpayer for such calendar year. Except as provided in subsection (b)(3)(B), the periodic payments made to any taxpayer for any calendar year shall be in equal amounts.
+
+**(b) Annual advance amount** For purposes of this section—
+
+(1) **In general** — Except as otherwise provided in this subsection, the term “annual advance amount” means, with respect to any taxpayer for any calendar year, the amount (if any) which is estimated by the Secretary as being equal to 50 percent of the amount which would be treated as allowed under subpart C of part IV of subchapter A of chapter 1 by reason of section 24(i)(1) for the taxpayer’s taxable year beginning in such calendar year if—
+
+  (A) the status of the taxpayer as a taxpayer described in section 24(i)(1) is determined with respect to the reference taxable year,
+
+  (B) the taxpayer’s modified adjusted gross income for such taxable year is equal to the taxpayer’s modified adjusted gross income for the reference taxable year,
+
+  (C) the only children of such taxpayer for such taxable year are qualifying children properly claimed on the taxpayer’s return of tax for the reference taxable year, and
+
+  (D) the ages of such children (and the status of such children as qualifying children) are determined for such taxable year by taking into account the passage of time since the reference taxable year.
+
+(2) **Reference taxable year** — Except as provided in paragraph (3)(A), the term “reference taxable year” means, with respect to any taxpayer for any calendar year, the taxpayer’s taxable year beginning in the preceding calendar year or, in the case of taxpayer who did not file a return of tax for such taxable year, the taxpayer’s taxable year beginning in the second preceding calendar year.
+
+(3) **Modifications during calendar year**
+
+  (A) *In general* — The Secretary may modify, during any calendar year, the annual advance amount with respect to any taxpayer for such calendar year to take into account—
+
+    (i) a return of tax filed by such taxpayer during such calendar year (and the taxable year to which such return relates may be taken into account as the reference taxable year), and
+
+    (ii) any other information provided by the taxpayer to the Secretary which allows the Secretary to determine payments under subsection (a) which, in the aggregate during any taxable year of the taxpayer, more closely total the Secretary’s estimate of the amount treated as allowed under subpart C of part IV of subchapter A of chapter 1 by reason of section 24(i)(1) for such taxable year of such taxpayer.
+
+  (B) *Adjustment to reflect excess or deficit in prior payments* — In the case of any modification of the annual advance amount under subparagraph (A), the Secretary may adjust the amount of any periodic payment made after the date of such modification to properly take into account the amount by which any periodic payment made before such date was greater than or less than the amount that such payment would have been on the basis of the annual advance amount as so modified.
+
+(4) **Determination of status** — If information contained in the taxpayer’s return of tax for the reference taxable year does not establish the status of the taxpayer as being described in section 24(i)(1), the Secretary shall, for purposes of paragraph (1)(A), determine such status based on information known to the Secretary.
+
+(5) **Treatment of certain deaths** — A child shall not be taken into account in determining the annual advance amount under paragraph (1) if the death of such child is known to the Secretary as of the beginning of the calendar year for which the estimate under such paragraph is made.
+
+**(c) On-line information portal** The Secretary shall establish an on-line portal which allows taxpayers to—
+
+(1) elect not to receive payments under this section, and
+
+(2) provide information to the Secretary which would be relevant to a modification under subsection (b)(3)(B) of the annual advance amount, including information regarding—
+
+  (A) a change in the number of the taxpayer’s qualifying children, including by reason of the birth of a child,
+
+  (B) a change in the taxpayer’s marital status,
+
+  (C) a significant change in the taxpayer’s income, and
+
+  (D) any other factor which the Secretary may provide.
+
+**(d) Notice of payments** Not later than January 31 of the calendar year following any calendar year during which the Secretary makes one or more payments to any taxpayer under this section, the Secretary shall provide such taxpayer with a written notice which includes the taxpayer’s taxpayer identity (as defined in section 6103(b)(6)), the aggregate amount of such payments made to such taxpayer during such calendar year, and such other information as the Secretary determines appropriate.
+
+**(e) Administrative provisions**
+
+(1) **Application of electronic funds payment requirement** — The payments made by the Secretary under subsection (a) shall be made by electronic funds transfer to the same extent and in the same manner as if such payments were Federal payments not made under this title.
+
+(2) **Application of certain rules** — Rules similar to the rules of subparagraphs (B) and (C) of section 6428A(f)(3) shall apply for purposes of this section.
+
+(3) **Exception from reduction or offset** — Any payment made to any individual under this section shall not be—
+
+  (A) subject to reduction or offset pursuant to subsection (c), (d), (e), or (f) of section 6402 or any similar authority permitting offset, or
+
+  (B) reduced or offset by other assessed Federal taxes that would otherwise be subject to levy or collection.
+
+(4) **Application of advance payments in the possessions of the United States**
+
+  (A) *In general* — The advance payment amount determined under this section shall be determined—
+
+    (i) by applying section 24(i)(1) without regard to the phrase “or is a bona fide resident of Puerto Rico (within the meaning of section 937(a))”, and
+
+    (ii) without regard to section 24(k)(3)(C)(ii)(I).
+
+  (B) *Mirror code possessions* — In the case of any possession of the United States with a mirror code tax system (as defined in section 24(k)), this section shall not be treated as part of the income tax laws of the United States for purposes of determining the income tax law of such possession unless such possession elects to have this section be so treated.
+
+  (C) *Administrative expenses of advance payments*
+
+    (i) *Mirror code possessions* — In the case of any possession described in subparagraph (B) which makes the election described in such subparagraph, the amount otherwise paid by the Secretary to such possession under section 24(k)(1)(A) with respect to taxable years beginning in 2021 shall be increased by $300,000 if such possession has a plan, which has been approved by the Secretary, for making advance payments consistent with such election.
+
+    (ii) *American Samoa* — The amount otherwise paid by the Secretary to American Samoa under subparagraph (A) of section 24(k)(3) with respect to taxable years beginning in 2021 shall be increased by $300,000 if the plan described in subparagraph (B) of such section includes a program, which has been approved by the Secretary, for making advance payments under rules similar to the rules of this section.
+
+    (iii) *Timing of payment* — The Secretary may pay, upon the request of the possession of the United States to which the payment is to be made, the amount of the increase determined under clause (i) or (ii) immediately upon approval of the plan referred to in such clause, respectively.
+
+**(f) Application** No payments shall be made under the program established under subsection (a) with respect to—
+
+(1) any period before July 1, 2021, or
+
+(2) any period after December 31, 2021.
+
+**(g) Regulations** The Secretary shall issue such regulations or other guidance as the Secretary determines necessary or appropriate to carry out the purposes of this section and subsections (i)(1) and (j) of section 24, including regulations or other guidance which provides for the application of such provisions where the filing status of the taxpayer for a taxable year is different from the status used for determining the annual advance amount.
+
+### Statutory Notes
+
+#### Effective Date
+Section applicable to taxable years beginning after Dec. 31, 2020, see section 9611(c)(1) of Pub. L. 117–2, set out as an Effective Date of 2021 note under [section 24 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-24).
+
+#### Establishment of Advance Payment Program
+Pub. L. 117–2, title IX, § 9611(c)(2), Mar. 11, 2021, 135 Stat. 150, provided that: “The Secretary of the Treasury (or the Secretary’s designee) shall establish the program described in section 7527A of the Internal Revenue Code of 1986 as soon as practicable after the date of the enactment of this Act [Mar. 11, 2021], except that the Secretary shall ensure that the timing of the establishment of such program does not interfere with carrying out section 6428B(g) as rapidly as possible.”
+
+
 <a id="section-7528"></a>
 ## § 7528. Internal Revenue Service user fees
 **(a) General rule** The Secretary shall establish a program requiring the payment of user fees for—
@@ -1764,3 +1896,102 @@ Pub. L. 116–25, title II, § 2007(b)(3), July 1, 2019, 133 Stat. 1006, provide
 
 #### Guidelines for Stolen Identity Refund Fraud Cases
 Pub. L. 116–25, title II, § 2008, July 1, 2019, 133 Stat. 1006, provided that: “(a) In General.—Not later than 1 year after the date of the enactment of this Act [July 1, 2019], the Secretary of the Treasury (or the Secretary’s delegate), in consultation with the National Taxpayer Advocate, shall develop and implement publicly available guidelines for management of cases involving stolen identity refund fraud in a manner that reduces the administrative burden on taxpayers who are victims of such fraud. “(b) Standards and Procedures To Be Considered.—The guidelines described in subsection (a) may include—“(1) standards for—“(A) the average length of time in which a case involving stolen identity refund fraud should be resolved; “(B) the maximum length of time, on average, a taxpayer who is a victim of stolen identity refund fraud and is entitled to a tax refund which has been stolen should have to wait to receive such refund; and “(C) the maximum number of offices and employees within the Internal Revenue Service with whom a taxpayer who is a victim of stolen identity refund fraud should be required to interact in order to resolve a case; “(2) standards for opening, assigning, reassigning, or closing a case involving stolen identity refund fraud; and “(3) procedures for implementing and accomplishing the standards described in paragraphs (1) and (2), and measures for evaluating such procedures and determining whether such standards have been successfully implemented.”
+
+
+<a id="section-7530"></a>
+## § 7530. Application of earned income tax credit to possessions of the United States
+**(a) Puerto Rico**
+
+(1) **In general** — With respect to calendar year 2021 and each calendar year thereafter, the Secretary shall, except as otherwise provided in this subsection, make payments to Puerto Rico equal to—
+
+  (A) the specified matching amount for such calendar year, plus
+
+  (B) in the case of calendar years 2021 through 2025, the lesser of—
+
+    (i) the expenditures made by Puerto Rico during such calendar year for education efforts with respect to individual taxpayers and tax return preparers relating to the earned income tax credit, or
+
+    (ii) $1,000,000.
+
+(2) **Requirement to reform earned income tax credit** — The Secretary shall not make any payments under paragraph (1) with respect to any calendar year unless Puerto Rico has in effect an earned income tax credit for taxable years beginning in or with such calendar year which (relative to the earned income tax credit which was in effect for taxable years beginning in or with calendar year 2019) increases the percentage of earned income which is allowed as a credit for each group of individuals with respect to which such percentage is separately stated or determined in a manner designed to substantially increase workforce participation.
+
+(3) **Specified matching amount** — For purposes of this subsection—
+
+  (A) *In general* — The term “specified matching amount” means, with respect to any calendar year, the lesser of—
+
+    (i) the excess (if any) of—
+
+      (I) the cost to Puerto Rico of the earned income tax credit for taxable years beginning in or with such calendar year, over
+
+      (II) the base amount for such calendar year, or
+
+    (ii) the product of 3, multiplied by the base amount for such calendar year.
+
+  (B) *Base amount*
+
+    (i) *Base amount for 2021* — In the case of calendar year 2021, the term “base amount” means the greater of—
+
+      (I) the cost to Puerto Rico of the earned income tax credit for taxable years beginning in or with calendar year 2019 (rounded to the nearest multiple of $1,000,000), or
+
+      (II) $200,000,000.
+
+    (ii) *Inflation adjustment* — In the case of any calendar year after 2021, the term “base amount” means the dollar amount determined under clause (i) increased by an amount equal to—
+
+      (I) such dollar amount, multiplied by—
+
+      (II) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year, determined by substituting “calendar year 2020” for “calendar year 2016” in subparagraph (A)(ii) thereof.
+    Any amount determined under this clause shall be rounded to the nearest multiple of $1,000,000.
+
+(4) **Rules related to payments**
+
+  (A) *Timing of payments* — The Secretary shall make payments under paragraph (1) for any calendar year—
+
+    (i) after receipt of such information as the Secretary may require to determine such payments, and
+
+    (ii) except as provided in clause (i), within a reasonable period of time before the due date for individual income tax returns (as determined under the laws of Puerto Rico) for taxable years which began on the first day of such calendar year.
+
+  (B) *Information* — The Secretary may require the reporting of such information as the Secretary may require to carry out this subsection.
+
+  (C) *Determination of cost of earned income tax credit* — For purposes of this subsection, the cost to Puerto Rico of the earned income tax credit shall be determined by the Secretary on the basis of the laws of Puerto Rico and shall include reductions in revenues received by Puerto Rico by reason of such credit and refunds attributable to such credit, but shall not include any administrative costs with respect to such credit.
+
+**(b) Possessions with mirror code tax systems**
+
+(1) **In general** — With respect to calendar year 2021 and each calendar year thereafter, the Secretary shall, except as otherwise provided in this subsection, make payments to the Virgin Islands, Guam, and the Commonwealth of the Northern Mariana Islands equal to—
+
+  (A) the cost to such possession of the earned income tax credit for taxable years beginning in or with such calendar year, plus
+
+  (B) in the case of calendar years 2021 through 2025, the lesser of—
+
+    (i) the expenditures made by such possession during such calendar year for education efforts with respect to individual taxpayers and tax return preparers relating to such earned income tax credit, or
+
+    (ii) $50,000.
+
+(2) **Application of certain rules** — Rules similar to the rules of subparagraphs (A), (B), and (C) of subsection (a)(4) shall apply for purposes of this subsection.
+
+**(c) American Samoa**
+
+(1) **In general** — With respect to calendar year 2021 and each calendar year thereafter, the Secretary shall, except as otherwise provided in this subsection, make payments to American Samoa equal to—
+
+  (A) the lesser of—
+
+    (i) the cost to American Samoa of the earned income tax credit for taxable years beginning in or with such calendar year, or
+
+    (ii) $16,000,000, plus
+
+  (B) in the case of calendar years 2021 through 2025, the lesser of—
+
+    (i) the expenditures made by American Samoa during such calendar year for education efforts with respect to individual taxpayers and tax return preparers relating to such earned income tax credit, or
+
+    (ii) $50,000.
+
+(2) **Requirement to enact and maintain an earned income tax credit** — The Secretary shall not make any payments under paragraph (1) with respect to any calendar year unless American Samoa has in effect an earned income tax credit for taxable years beginning in or with such calendar year which allows a refundable tax credit to individuals on the basis of the taxpayer’s earned income which is designed to substantially increase workforce participation.
+
+(3) **Inflation adjustment** — In the case of any calendar year after 2021, the $16,000,000 amount in paragraph (1)(A)(ii) shall be increased by an amount equal to—
+
+  (A) such dollar amount, multiplied by—
+
+  (B) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year, determined by substituting “calendar year 2020” for “calendar year 2016” in subparagraph (A)(ii) thereof.
+  Any increase determined under this clause shall be rounded to the nearest multiple of $100,000.
+
+(4) **Application of certain rules** — Rules similar to the rules of subparagraphs (A), (B), and (C) of subsection (a)(4) shall apply for purposes of this subsection.
+
+**(d) Treatment of payments** For purposes of [section 1324 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1324&num=0&edition=prelim), United States Code, the payments under this section shall be treated in the same manner as a refund due from a credit provision referred to in subsection (b)(2) of such section.

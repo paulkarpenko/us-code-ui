@@ -64,7 +64,7 @@ Act of September 26, 1914, known as the Federal Trade Commission Act, as amended
 
 (3) For purposes of this subsection—
 
-  (A) the term “antitrust laws” has the meaning given it in [section 12(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section12/a&num=0&edition=prelim), except that such term includes [section 45 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-45) to the extent that such section 45 applies to unfair methods of competition;
+  (A) the term “antitrust laws” has the meaning given it in subsection (a) of [section 12 of this title](./chapter-001-monopolies-and-combinations-in-restraint-of-trade.md#section-12), except that such term includes [section 45 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-45) to the extent that such section 45 applies to unfair methods of competition;
 
   (B) the term “business of health insurance (including the business of dental insurance and limited-scope dental benefits)” does not include—
 

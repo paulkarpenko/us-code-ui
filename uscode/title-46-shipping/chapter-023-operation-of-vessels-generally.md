@@ -137,9 +137,14 @@ Section 2303 requires a master or anyone in charge of a vessel to provide assist
 
 <a id="section-2303a"></a>
 ## § 2303a. Post serious marine casualty alcohol testing
-**(a)** The Secretary shall establish procedures to ensure that after a serious marine casualty occurs, alcohol testing of crew members or other persons responsible for the operation or other safety-sensitive functions of the vessel or vessels involved in such casualty is conducted no later than 2 hours after the casualty occurs, unless such testing cannot be completed within that time due to safety concerns directly related to the casualty.
+**(a)** The Secretary shall establish procedures to ensure that after a serious marine casualty occurs, alcohol testing of crew members or other individuals responsible for the operation or other safety-sensitive functions of the vessel or vessels involved in such casualty is conducted no later than 2 hours after the casualty occurs, unless such testing cannot be completed within that time due to safety concerns directly related to the casualty.
 
 **(b)** The procedures in subsection (a) shall require that if alcohol testing cannot be completed within 2 hours of the occurrence of the casualty, such testing shall be conducted as soon thereafter as the safety concerns in subsection (a) have been adequately addressed to permit such testing, except that such testing may not be required more than 8 hours after the casualty occurs.
+
+### Statutory Notes
+
+#### Amendments
+2021—Subsec. (a). Pub. L. 116–283 substituted “individuals” for “persons”.
 
 
 <a id="section-2304"></a>
@@ -203,7 +208,11 @@ Section 2305 provides injunctive authority to enjoin the negligent operation of 
 
   (B) use all available means to determine the status of the vessel.
 
-(3) A person notifying the Coast Guard under paragraph (1) or (2) of this subsection shall provide the name and identification number of the vessel, the names of individuals on board, and other information that may be requested by the Coast Guard. The owner, charterer, managing operator, or agent also shall submit written confirmation to the Coast Guard within 24 hours after nonwritten notification to the Coast Guard under those paragraphs.
+(3) An owner, charterer, managing operator, or agent of a vessel of the United States notifying the Coast Guard under paragraph (1) or (2) shall—
+
+  (A) provide the name and identification number of the vessel, the names of individuals on board, and other information that may be requested by the Coast Guard; and
+
+  (B) submit written confirmation to the Coast Guard within 24 hours after nonwritten notification to the Coast Guard under such paragraphs.
 
 (4) An owner, charterer, managing operator, or agent violating this subsection is liable to the United States Government for a civil penalty of not more than $5,000 for each day during which the violation occurs.
 
@@ -218,6 +227,8 @@ Section 2305 provides injunctive authority to enjoin the negligent operation of 
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (a)(3). Pub. L. 116–283 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “A person notifying the Coast Guard under paragraph (1) or (2) of this subsection shall provide the name and identification number of the vessel, the names of individuals on board, and other information that may be requested by the Coast Guard. The owner, charterer, managing operator, or agent also shall submit written confirmation to the Coast Guard within 24 hours after nonwritten notification to the Coast Guard under those paragraphs.”
+
 2006—Subsec. (a)(2). Pub. L. 109–304 substituted “[section 50113 of this title](./chapter-501-policy-studies-and-reports.md#section-50113)” for “section 212(A) of the Merchant Marine Act, 1936 (46 App. U.S.C. 1122a),”.
 
 #### Effective Date

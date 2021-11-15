@@ -116,7 +116,7 @@ In this chapter:
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this division”, meaning div. E of Pub. L. 116–283, Jan. 1, 2021, 134 Stat. 4523, which is classified principally to this chapter. For complete classification of division E to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in text, was in the original “this division”, meaning div. E of Pub. L. 116–283, Jan. 1, 2021, 134 Stat. 4523, which is classified principally to this chapter. For complete classification of div. E to the Code, see Short Title note set out below and Tables.
 
 #### Short Title
 Pub. L. 116–283, div. E, § 5001, Jan. 1, 2021, 134 Stat. 4523, provided that: “This division [enacting this chapter and [section 278h–1 of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278h-1) and amending sections 1862i and 1862n–1 of Title 42, The Public Health and Welfare] may be cited as the ‘National Artificial Intelligence Initiative Act of 2020’.”
@@ -167,7 +167,7 @@ Pub. L. 116–283, div. E, § 5001, Jan. 1, 2021, 134 Stat. 4523, provided that:
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (d) and (e), was in the original “this division”, meaning div. E of Pub. L. 116–283, Jan. 1, 2021, 134 Stat. 4523, which is classified principally to this chapter. For complete classification of division E to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsecs. (d) and (e), was in the original “this division”, meaning div. E of Pub. L. 116–283, Jan. 1, 2021, 134 Stat. 4523, which is classified principally to this chapter. For complete classification of div. E to the Code, see Short Title note set out below and Tables.
 
 [50 U.S.C. 3003](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003&num=0&edition=prelim), referred to in subsec. (d)(1), was so in the original, but probably should have been a reference to section 3 of the National Security Act of 1947, act July 26, 1947, ch. 343, which is classified to [section 3003 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003&num=0&edition=prelim), War and National Defense.
 
@@ -240,7 +240,7 @@ This chapter, referred to in subsecs. (d) and (e), was in the original “this d
 
 (3) the state of the science around artificial intelligence, including progress toward artificial general intelligence;
 
-(4) issues related to artificial intelligence and the United States workforce, including matters relating to the potential for using artificial intelligence for workforce training, the possible consequences of technological displacement, and supporting workforce training opportunities for occupations that lead to economic self-sufficiency for individuals with barriers to employment and historically underrepresented populations, including minorities, Indians (as defined in [25 U.S.C. 5304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim) 11 See References in Text note below.), low-income populations, and persons with disabilities.
+(4) issues related to artificial intelligence and the United States workforce, including matters relating to the potential for using artificial intelligence for workforce training, the possible consequences of technological displacement, and supporting workforce training opportunities for occupations that lead to economic self-sufficiency for individuals with barriers to employment and historically underrepresented populations, including minorities, Indians (as defined in [25 U.S.C. 5304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim) 11 See References in Text note below. ), low-income populations, and persons with disabilities.
 
 (5) how to leverage the resources of the initiative to streamline and enhance operations in various areas of government operations, including health care, cybersecurity, infrastructure, and disaster recovery;
 
@@ -318,7 +318,7 @@ The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–
 
   (D) *Vacancy* — Any vacancy occurring in the membership of the Task Force shall be filled in the same manner in which the original appointment was made.
 
-  (E) *Co-chairpersons* — The Director of the Office of Science and Technology Policy and the Director of the National Sciences 11 So in original. Probably should be “National Science Foundation”. Foundation, or their designees, shall be the co-chairpersons of the Task Force. If the role of the Director of the National Science Foundation is vacant, the Chair of the National Science Board shall act as a co-chairperson of the Task Force.
+  (E) *Co-chairpersons* — The Director of the Office of Science and Technology Policy and the Director of the National Sciences Foundation,11 So in original. Probably should be “National Science Foundation,”. or their designees, shall be the co-chairpersons of the Task Force. If the role of the Director of the National Science Foundation is vacant, the Chair of the National Science Board shall act as a co-chairperson of the Task Force.
 
   (F) *Expenses for non-Federal Members*
 
@@ -501,7 +501,7 @@ In carrying out the activities under [section 278h–1 of this title](./chapter-
 
 <a id="section-9451"></a>
 ## § 9451. National Oceanic and Atmospheric Administration Artificial Intelligence Center
-**(a) In general** The Administrator of the National Oceanic and Atmospheric Administration (hereafter referred to as “the Administrator”) shall establish, a Center for Artificial Intelligence (hereafter referred to as “the Center”).
+**(a) In general** The Administrator of the National Oceanic and Atmospheric Administration (hereafter referred to as “the Administrator”) shall establish,11 So in original. The comma probably should not appear. a Center for Artificial Intelligence (hereafter referred to as “the Center”).
 
 **(b) Center goals** The goals of the Center shall be to—
 

@@ -48,7 +48,7 @@ Section 7394, acts Aug. 10, 1956, ch. 1041, 70A Stat. 457; July 10, 1962, Pub. L
 Prior sections 7395 and 7396 were renumbered sections 8715 and 8716 of this title, respectively.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 4061 of this title](./chapter-303-innovation.md#section-4061) as this section.
+2018—Pub. L. 115–232 renumbered [section 4061 of this title](./chapter-303-research-and-engineering-activities.md#section-4061) as this section.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).

@@ -559,9 +559,6 @@ Amendment by Pub. L. 109–432 applicable to plan years of the Combined Fund beg
 
 ### Statutory Notes
 
-#### Constitutionality
-For information regarding constitutionality of certain provisions of this section, as added by section 19143(a) of Pub. L. 102–486, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
-
 #### Amendments
 2006—Subsec. (h). Pub. L. 109–432 added subsec. (h).
 

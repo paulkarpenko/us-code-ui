@@ -65,11 +65,15 @@ For International Conventions for the Safety of Life at Sea to which the United 
 
   (B) is a foreign vessel departing from a place under the jurisdiction of the United States on a voyage, any part of which is on the high seas.
 
-**(b) Other Passenger Vessels.—** This chapter applies to a vessel that is—
+**(b) Other Passenger Vessels.—**
 
-(1) a passenger vessel or small passenger vessel; and
+(1) **In general.—** — This chapter applies to a vessel that is—
 
-(2) is transporting more passengers than a number prescribed by the Secretary based on the number of individuals on the vessel that could be killed or injured in a marine casualty.
+  (A) a passenger vessel or small passenger vessel; and
+
+  (B) is transporting more passengers than a number prescribed by the Secretary based on the number of individuals on the vessel that could be killed or injured in a marine casualty.
+
+(2) **Safety management system.—** — Notwithstanding any other provision in this chapter, including paragraph (1)(B), any regulations under section 3203, including the safety management system established by such regulations, issued on or after the date of enactment of the Elijah E. Cummings Coast Guard Authorization Act of 2020, shall apply to all covered small passenger vessels, as defined in section 3306(n)(5).
 
 **(c) Voluntary Application.—** This chapter applies to a vessel not described in subsection (a) of this section if the owner of the vessel requests the Secretary to apply this chapter to the vessel.
 
@@ -87,7 +91,12 @@ For International Conventions for the Safety of Life at Sea to which the United 
 
 ### Statutory Notes
 
+#### References in Text
+The date of enactment of the Elijah E. Cummings Coast Guard Authorization Act of 2020, referred to in subsec. (b)(2), is the date of enactment of div. G of Pub. L. 116–283, which was approved Jan. 1, 2021.
+
 #### Amendments
+2021—Subsec. (b). Pub. L. 116–283 designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1) and realigned margins, and added par. (2).
+
 2018—Subsec. (a)(1)(A). Pub. L. 115–232 substituted “section 2101(29)(A)” for “section 2101(21)(A)”.
 
 2010—Subsec. (a). Pub. L. 111–281, § 610(a)(1), substituted “Foreign Voyages and Foreign Vessels.—” for “Mandatory Application.—” in heading.
@@ -109,7 +118,7 @@ Subsec. (d)(4). Pub. L. 111–281, § 610(a)(5), inserted “that is not describ
 
 <a id="section-3203"></a>
 ## § 3203. Safety management system
-**(a) In General.—** The Secretary shall prescribe regulations which establish a safety management system for responsible persons and vessels to which this chapter applies, including—
+**(a) In General.—** The Secretary shall prescribe regulations which establish a safety management system for responsible persons and vessels to which this chapter applies (including, for purposes of this section, all covered small passenger vessels, as defined in section 3306(n)(5)), including—
 
 (1) a safety and environmental protection policy;
 
@@ -134,6 +143,8 @@ Subsec. (d)(4). Pub. L. 111–281, § 610(a)(5), inserted “that is not describ
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 116–283 inserted “(including, for purposes of this section, all covered small passenger vessels, as defined in section 3306(n)(5))” after “vessels to which this chapter applies” in introductory provisions.
+
 2010—Subsec. (c). Pub. L. 111–281 added subsec. (c).
 
 2004—Subsec. (b). Pub. L. 108–293 substituted “vessels to which this chapter applies under [section 3202(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section3202/a&num=0&edition=prelim)” for “vessels engaged on a foreign voyage”.

@@ -8,7 +8,7 @@ source: >-
 ---
 <a id="section-651"></a>
 ## § 651. Members: required service
-**(a)** Each person who becomes a member of an armed force, other than a person deferred under the next to the last sentence of section 6(d)(1) of the Military Selective Service Act ([50 U.S.C. 3806(d)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3806/d/1&num=0&edition=prelim)) 11 So in original. Probably should be followed by a comma. shall serve in the armed forces for a total initial period of not less than six years nor more than eight years, as provided in regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction and by the Secretary of Homeland Security for the Coast Guard when it is not operating as service in the Navy, unless such person is sooner discharged under such regulations because of personal hardship. Any part of such service that is not active duty or that is active duty for training shall be performed in a reserve component.
+**(a)** Each person who becomes a member of an armed force, other than a person deferred under the next to the last sentence of section 6(d)(1) of the Military Selective Service Act ([50 U.S.C. 3806(d)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3806/d/1&num=0&edition=prelim)), shall serve in the armed forces for a total initial period of not less than six years nor more than eight years, as provided in regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction and by the Secretary of Homeland Security for the Coast Guard when it is not operating as service in the Navy, unless such person is sooner discharged under such regulations because of personal hardship. Any part of such service that is not active duty or that is active duty for training shall be performed in a reserve component.
 
 **(b)** Each person covered by subsection (a) who is not a Reserve, and who is qualified, shall, upon his release from active duty, be transferred to a reserve component to complete the service required by subsection (a).
 
@@ -44,7 +44,9 @@ In [former] subsection (c), the words “who is released from active duty” are
 In subsection (a), the word “male” is inserted, since the source statute applies only to male persons. The words “subsequent to the date of enactment of the Reserve Forces Act of 1955” are omitted as executed. The words “becomes a member” are substituted for the words “is inducted, enlisted, or appointed . . . in”. The last sentence is substituted for the words “on active training and service . . . and in a reserve component”. The requirement of transfer to and service in a reserve component, after active training and service is covered by subsection (b) of this section. The words “under any provision of law” and “including the reserve components thereof” are omitted as surplusage.
 
 #### Amendments
-2021—Subsec. (b). Pub. L. 116–283 struck out “of his armed force” after “reserve component”.
+2021—Subsec. (a). Pub. L. 117–81 inserted comma after “3806(d)(1))”.
+
+Subsec. (b). Pub. L. 116–283 struck out “of his armed force” after “reserve component”.
 
 2019—Subsec. (a). Pub. L. 116–92 inserted “shall serve” before “in the armed forces”.
 
@@ -252,7 +254,7 @@ Pub. L. 103–160, div. A, title V, § 571(b)–(d), Nov. 30, 1993, 107 Stat. 16
 #### Amendments
 2021—Pub. L. 116–283, § 571(a)(3)(A), amended section catchline generally, substituting “Diversity in military leadership: plan; mentoring and career counseling program” for “Diversity in military leadership: plan”.
 
-Subsecs. (b) to (f). Pub. L. 116–283, § 571(a)(1)(B), added subsec. (b). Former subsec. (b) redesignated (c).
+Subsec. (b). Pub. L. 116–283, § 571(a)(1)(B), added subsec. (b). Former subsec. (b) redesignated (c).
 
 Subsec. (c). Pub. L. 116–283, § 571(a)(1)(A), (2), redesignated subsec. (b) as (c) and inserted “and Mentoring and Career Counseling Program” after “Developing and Implementing Plan” in heading and “and the mentoring and career counseling program under subsection (b)” after “the plan under subsection (a)” in text. Former subsec. (c) redesignated (d).
 

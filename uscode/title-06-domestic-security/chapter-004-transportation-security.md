@@ -2,7 +2,7 @@
 title: 6
 chapter: '4'
 heading: TRANSPORTATION SECURITY
-section_count: 59
+section_count: 60
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6&num=0&edition=prelim
 ---
@@ -840,7 +840,7 @@ Executive Order No. 13416, referred to in subsec. (d)(2), is set out as a note u
 
 (2) Operating uses of funds, including—
 
-  (A) security training, including training under [section 1137 of this title](./chapter-004-transportation-security.md#section-1137) and training developed by institutions of higher education and by nonprofit employee labor organizations, for public transportation employees, including frontline employees;
+  (A) security training and associated backfill, including training under [section 1137 of this title](./chapter-004-transportation-security.md#section-1137) and training developed by institutions of higher education and by nonprofit employee labor organizations, for public transportation employees, including frontline employees;
 
   (B) live or simulated exercises under [section 1136 of this title](./chapter-004-transportation-security.md#section-1136);
 
@@ -882,7 +882,13 @@ Executive Order No. 13416, referred to in subsec. (d)(2), is set out as a note u
 
 **(l) Return of misspent grant funds** The Secretary shall establish a process to require the return of any misspent grant funds received under this section determined to have been spent for a purpose other than those specified in the grant award.
 
-**(m) Authorization of appropriations**
+**(m) Periods of performance**
+
+(1) **In general** — Except as provided in paragraph (2), funds provided pursuant to a grant awarded under this section for a use specified in subsection (b) shall remain available for use by a grant recipient for a period of not fewer than 36 months.
+
+(2) **Exception** — Funds provided pursuant to a grant awarded under this section for a use specified in subparagraph (M) or (N) of subsection (b)(1) shall remain available for use by a grant recipient for a period of not fewer than 48 months.
+
+**(n) Authorization of appropriations**
 
 (1) There are authorized to be appropriated to the Secretary to make grants under this section—
 
@@ -905,7 +911,12 @@ Executive Order No. 13416, referred to in subsec. (d)(2), is set out as a note u
 ### Statutory Notes
 
 #### References in Text
-Public Law 110–28, referred to in subsec. (m)(4), is Pub. L. 110–28, May 25, 2007, 121 Stat. 112, known as the U.S. Troop Readinesss, Veterans’ Care, Katrina Recovery, and Iraq Accountability Appropriations Act, 2007. For complete classification of this Act to the Code, see Tables.
+Public Law 110–28, referred to in subsec. (n)(4), is Pub. L. 110–28, May 25, 2007, 121 Stat. 112, known as the U.S. Troop Readinesss, Veterans’ Care, Katrina Recovery, and Iraq Accountability Appropriations Act, 2007. For complete classification of this Act to the Code, see Tables.
+
+#### Amendments
+2021—Subsec. (b)(2)(A). Pub. L. 117–81, § 6420, inserted “and associated backfill” after “security training”.
+
+Subsec. (m), (n). Pub. L. 117–81, § 6421, added subsec. (m) and redesignated former subsec. (m) as (n).
 
 
 <a id="section-1136"></a>
@@ -1010,6 +1021,60 @@ Public Law 110–28, referred to in subsec. (m)(4), is Pub. L. 110–28, May 25,
 **(h) Ferry exemption** This section shall not apply to any ferry system for which training is required to be conducted pursuant to [section 70103 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70103&num=0&edition=prelim).
 
 **(i) Report** Not later than 2 years after the date of issuance of the final regulation, the Comptroller General shall review implementation of the training program, including interviewing a representative sample of public transportation agencies and employees, and report to the appropriate congressional committees, on the number of reviews conducted and the results. The Comptroller General may submit the report in both classified and redacted formats as necessary.
+
+
+<a id="section-1137a"></a>
+## § 1137a. Local law enforcement security training
+**(a) In general** The Secretary of Homeland Security, in consultation with public and private sector stakeholders, may in a manner consistent with the protection of privacy rights, civil rights, and civil liberties, develop, through the Federal Law Enforcement Training Centers, a training program to enhance the protection, preparedness, and response capabilities of law enforcement agencies with respect to threats of terrorism and other threats, including targeted violence, at a surface transportation asset.
+
+**(b) Requirements** If the Secretary of Homeland Security develops the training program described in subsection (a), such training program shall—
+
+(1) be informed by current information regarding tactics used by terrorists and others engaging in targeted violence;
+
+(2) include tactical instruction tailored to the diverse nature of the surface transportation asset operational environment; and
+
+(3) prioritize training officers from law enforcement agencies that are eligible for or receive grants under sections 2003 or 2004 of the Homeland Security Act of 2002 ([6 U.S.C. 604](./chapter-001-homeland-security-organization.md#section-604) and 11 So in original. 605) and officers employed by railroad carriers that operate passenger service, including interstate passenger service.
+
+**(c) Report** If the Secretary of Homeland Security develops the training program described in subsection (a), not later than one year after the date on which the Secretary first implements the program, and annually thereafter during each year the Secretary carries out the program, the Secretary shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on the program. Each such report shall include, for the year covered by the report—
+
+(1) a description of the curriculum for the training and any changes to such curriculum;
+
+(2) an identification of any contracts entered into for the development or provision of training under the program;
+
+(3) information on the law enforcement agencies the personnel of which received the training, and for each such agency, the number of participants; and
+
+(4) a description of the measures used to ensure the program was carried out to provide for protections of privacy rights, civil rights, and civil liberties.
+
+**(d) Definitions** In this section:
+
+(1) The term “public and private sector stakeholders” has the meaning given such term in [section 114(t)(1)(c) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section114/t/1/c&num=0&edition=prelim).
+
+(2) The term “surface transportation asset” includes facilities, equipment, or systems used to provide transportation services by—
+
+  (A) a public transportation agency (as such term is defined in [section 1131(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section1131/5&num=0&edition=prelim));
+
+  (B) a railroad carrier (as such term is defined in [section 20102(3) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section20102/3&num=0&edition=prelim));
+
+  (C) an owner or operator of—
+
+    (i) an entity offering scheduled, fixed-route transportation services by over-the-road bus (as such term is defined in [section 1151(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section1151/4&num=0&edition=prelim)); or
+
+    (ii) a bus terminal; or
+
+  (D) other transportation facilities, equipment, or systems, as determined by the Secretary.
+
+(3) The term “targeted violence” means an incident of violence in which an attacker selected a particular target in order to inflict mass injury or death with no discernable political or ideological motivation beyond mass injury or death.
+
+(4) The term “terrorism” means the terms—
+
+  (A) domestic terrorism (as such term is defined in [section 2331(5) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2331/5&num=0&edition=prelim)); and
+
+  (B) international terrorism (as such term is defined in [section 2331(1) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2331/1&num=0&edition=prelim)).
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2022, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
 
 
 <a id="section-1138"></a>

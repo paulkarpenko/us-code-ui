@@ -376,40 +376,8 @@ Pub. L. 111–203, title X, § 1001, July 21, 2010, 124 Stat. 1955, provided tha
 
 Pub. L. 111–203, title XII, § 1201, July 21, 2010, 124 Stat. 2129, provided that: “This title [enacting subchapter VII of this chapter and [section 4719 of this title](./chapter-047-community-development-banking.md#section-4719)] may be cited as the ‘Improving Access to Mainstream Financial Institutions Act of 2010’.”
 
-#### Ex. Ord. No. 13772. Core Principles for Regulating the United States Financial System
-Ex. Ord. No. 13772, Feb. 3, 2017, 82 F.R. 9965, provided:
-
-By the power vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
-
-Section 1. Policy. It shall be the policy of my Administration to regulate the United States financial system in a manner consistent with the following principles of regulation, which shall be known as the Core Principles:
-
-(a) empower Americans to make independent financial decisions and informed choices in the marketplace, save for retirement, and build individual wealth;
-
-(b) prevent taxpayer-funded bailouts;
-
-(c) foster economic growth and vibrant financial markets through more rigorous regulatory impact analysis that addresses systemic risk and market failures, such as moral hazard and information asymmetry;
-
-(d) enable American companies to be competitive with foreign firms in domestic and foreign markets;
-
-(e) advance American interests in international financial regulatory negotiations and meetings;
-
-(f) make regulation efficient, effective, and appropriately tailored; and
-
-(g) restore public accountability within Federal financial regulatory agencies and rationalize the Federal financial regulatory framework.
-
-Sec. 2. Directive to the Secretary of the Treasury. The Secretary of the Treasury shall consult with the heads of the member agencies of the Financial Stability Oversight Council and shall report to the President within 120 days of the date of this order (and periodically thereafter) on the extent to which existing laws, treaties, regulations, guidance, reporting and recordkeeping requirements, and other Government policies promote the Core Principles and what actions have been taken, and are currently being taken, to promote and support the Core Principles. That report, and all subsequent reports, shall identify any laws, treaties, regulations, guidance, reporting and recordkeeping requirements, and other Government policies that inhibit Federal regulation of the United States financial system in a manner consistent with the Core Principles.
-
-Sec. 3. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
-
-(i) the authority granted by law to an executive department or agency, or the head thereof; or
-
-(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
-
-(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
-
-(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-
-Donald J. Trump.
+#### Executive Order No. 13772
+Ex. Ord. No. 13772, Feb. 3, 2017, 82 F.R. 9965, which set out Core Principles for regulating the United States financial system, was revoked by Ex. Ord. No. 14018, § 1, Feb. 24, 2021, 86 F.R. 11855.
 
 
 <a id="section-5322"></a>
@@ -6002,6 +5970,9 @@ Pub. L. 111–203, title XIV, § 1400(b), July 21, 2010, 124 Stat. 2136, provide
 **(e) Offices** The principal office of the Bureau shall be in the District of Columbia. The Director may establish regional offices of the Bureau, including in cities in which the Federal reserve banks, or branches of such banks, are located, in order to carry out the responsibilities assigned to the Bureau under the Federal consumer financial laws.
 
 ### Statutory Notes
+
+#### Constitutionality
+For information regarding constitutionality of provisions of subsection (c)(3) of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
 
 #### Effective Date
 Pub. L. 111–203, title X, § 1018, July 21, 2010, 124 Stat. 1979, provided that: “This subtitle [subtitle A (§§ 1011–1018), enacting this part and amending [section 9702 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9702&num=0&edition=prelim), Education] shall become effective on the date of enactment of this Act [July 21, 2010].”

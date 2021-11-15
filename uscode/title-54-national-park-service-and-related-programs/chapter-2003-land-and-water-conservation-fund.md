@@ -176,7 +176,7 @@ Lyndon B. Johnson.
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 200303 | [16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–6. | Pub. L. 88–578, title I, § 3, Sept. 3, 1964, 78 Stat. 899; Pub. L. 100–203, title V, § 5201(f)(2), Dec. 22, 1987, 101 Stat. 1330-267. |
+| 200303 | [16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–6. | Pub. L. 88–578, title I, § 3, Sept. 3, 1964, 78 Stat. 899; Pub. L. 100–203, title V, § 5201(f)(2), Dec. 22, 1987, 101 Stat. 1330–267. |
 
 The words “or from the special account established under section 460l–6a(i)(1) of this title” are omitted as obsolete.
 
@@ -189,6 +189,33 @@ The date of enactment of the Great American Outdoors Act, referred to in subsec.
 
 #### Amendments
 2020—Pub. L. 116–152 amended section generally. Prior to amendment, text read as follows: “Amounts deposited in the Fund shall be available for expenditure for the purposes of this chapter only when appropriated for those purposes. The appropriations may be made without fiscal-year limitation. Amounts made available for obligation or expenditure from the Fund may be obligated or expended only as provided in this chapter.”
+
+#### Delegation of Authority for Fiscal Year 2021 Cost Estimates and Annual Reports to the Congress for the Land and Water Conservation Fund
+Memorandum of President of the United States, Nov. 9, 2020, 85 F.R. 72889, provided:
+
+Memorandum for the Secretary of the Interior [and] the Secretary of Agriculture
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, it is hereby ordered as follows:
+
+Section 1. The Secretary of the Interior and the Secretary of Agriculture are hereby authorized to submit, for their respective agencies:
+
+(a) the cost estimates to the Congress required by [54 U.S.C. 200303(c)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section200303/c/1/A&num=0&edition=prelim), as amended by section 3(a) of the Great American Outdoors Act (Public Law 116–152) (the “Act”); and
+
+(b) annually, the report to the Congress required by [54 U.S.C. 200303(c)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section200303/c/4&num=0&edition=prelim), as amended by section 3(a) of the Act.
+
+Sec. 2. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(d) The Secretary of the Interior is authorized and directed to publish this memorandum in the Federal Register.
+
+Donald J. Trump.
 
 
 <a id="section-200304"></a>
@@ -494,9 +521,9 @@ The Secretary may enter into contracts for options to acquire land, water, or in
 
 **(b) Refunds of Taxes.—** There shall be paid from time to time from the Fund into the general fund of the Treasury amounts estimated by the Secretary of the Treasury as equivalent to—
 
-(1) the amounts paid before October 1, 2023, under section 6421 of the Internal Revenue Code of 1986 ([26 U.S.C. 6421](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6421&num=0&edition=prelim)) with respect to gasoline used after December 31, 1964, in motorboats, on the basis of claims filed for periods ending before October 1, 2022; and
+(1) the amounts paid before October 1, 2029, under section 6421 of the Internal Revenue Code of 1986 ([26 U.S.C. 6421](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6421&num=0&edition=prelim)) with respect to gasoline used after December 31, 1964, in motorboats, on the basis of claims filed for periods ending before October 1, 2028; and
 
-(2) 80 percent of the floor stocks refunds made before October 1, 2023, under section 6412(a)(1) of the Internal Revenue Code of 1986 ([26 U.S.C. 6412(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6412/a/1&num=0&edition=prelim)) with respect to gasoline to be used in motorboats.
+(2) 80 percent of the floor stocks refunds made before October 1, 2029, under section 6412(a)(1) of the Internal Revenue Code of 1986 ([26 U.S.C. 6412(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6412/a/1&num=0&edition=prelim)) with respect to gasoline to be used in motorboats.
 
 ### Statutory Notes
 
@@ -510,9 +537,14 @@ In subsection (a), the words “(relating to special motor fuels and gasoline us
 In subsection (b), the words “(relating to amounts paid in respect of gasoline used for certain nonhighway purposes or by local transit systems)” are omitted as unnecessary.
 
 #### Amendments
+2021—Subsec. (b). Pub. L. 117–58, substituted “October 1, 2029” for “October 1, 2023” in pars. (1) and (2) and “October 1, 2028” for “October 1, 2022” in par. (1).
+
 2015—Subsec. (b)(1). Pub. L. 114–94 substituted “October 1, 2023” for “October 1, 2017” and “October 1, 2022” for “October 1, 2016”.
 
 Subsec. (b)(2). Pub. L. 114–94, § 31102(e)(2)(B)(i), substituted “October 1, 2023” for “October 1, 2017”.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 80102(f) of Pub. L. 117–58, set out as a note under [section 4041 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section4041&num=0&edition=prelim), Internal Revenue Code.
 
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–94 effective Oct. 1, 2016, see section 31102(f) of Pub. L. 114–94, set out as a note under [section 4041 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section4041&num=0&edition=prelim), Internal Revenue Code.

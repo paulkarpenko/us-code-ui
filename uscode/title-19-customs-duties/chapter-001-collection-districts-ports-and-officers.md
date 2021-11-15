@@ -148,19 +148,6 @@ The President is authorized from time to time, as the exigencies of the service 
 #### Effective Date of 1970 Amendment
 Amendment by Pub. L. 91–271 effective with respect to articles entered, or withdrawn from warehouse for consumption, on or after Oct. 1, 1970, and such other articles entered or withdrawn from warehouse for consumption prior to such date, or with respect to which a protest has not been disallowed in whole or in part before Oct. 1, 1970, see section 203 of Pub. L. 91–271, set out as a note under [section 1500 of this title](./chapter-004-tariff-act-of-1930.md#section-1500).
 
-#### Transfer of Functions
-All offices of collector of customs, comptroller of customs, surveyor of customs, and appraiser of merchandise in Bureau of Customs of Department of the Treasury to which appointments were required to be made by President with advice and consent of Senate ordered abolished, with such offices to be terminated not later than December 31, 1966, by Reorg. Plan No. 1 of 1965, eff. May 25, 1965, 30 F.R. 7035, 79 Stat. 1317, set out as a note under [section 1 of this title](./chapter-001-collection-districts-ports-and-officers.md#section-1).
-
-Functions of all officers of Department of the Treasury, and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Delegation of Functions
-For delegation to Secretary of the Treasury of authority vested in President by this section, see Ex. Ord. No. 10289, § 1(a), Sept. 17, 1951, 16 F.R. 9499, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
-
-#### Customs Districts and Ports of Entry
-An alphabetical index of ports of entry is contained in Schedule D of the Harmonized Tariff Schedule, which is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under [section 1202 of this title](./chapter-004-tariff-act-of-1930.md#section-1202).
-
-For list of international airports of entry, see section 122.13 of Part 122 of Chapter 1 of Title 19, Customs Duties, of the Code of Federal Regulations.
-
 #### Virginia Inland Port; Withdrawal of Designation as Customs Service Port of Entry Prohibited
 Pub. L. 104–52, title V, § 512, Nov. 19, 1995, 109 Stat. 492, provided that: “Notwithstanding any provision of this or any other Act, during the fiscal year ending September 30, 1996, and thereafter, no funds may be obligated or expended in any way to withdraw the designation of the Virginia Inland Port at Front Royal, Virginia, as a United States Customs Service port of entry.”
 
@@ -171,6 +158,19 @@ Pub. L. 98–573, title II, § 238, Oct. 30, 1984, 98 Stat. 2993, directed Commi
 
 #### Pembina, North Dakota, Customs District; Change in Boundaries Prohibited Without Congressional Consent
 Pub. L. 93–245, ch. X, § 1000, Jan. 3, 1974, 87 Stat. 1083, prohibited use of funds to change boundaries of Pembina, North Dakota Customs District (Region IX), without consent of certain Congressional committees.
+
+#### Customs Districts and Ports of Entry
+An alphabetical index of ports of entry is contained in Schedule D of the Harmonized Tariff Schedule, which is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under [section 1202 of this title](./chapter-004-tariff-act-of-1930.md#section-1202).
+
+For list of international airports of entry, see section 122.13 of Part 122 of Chapter 1 of Title 19, Customs Duties, of the Code of Federal Regulations.
+
+#### Transfer of Functions
+All offices of collector of customs, comptroller of customs, surveyor of customs, and appraiser of merchandise in Bureau of Customs of Department of the Treasury to which appointments were required to be made by President with advice and consent of Senate ordered abolished, with such offices to be terminated not later than December 31, 1966, by Reorg. Plan No. 1 of 1965, eff. May 25, 1965, 30 F.R. 7035, 79 Stat. 1317, set out as a note under [section 1 of this title](./chapter-001-collection-districts-ports-and-officers.md#section-1).
+
+Functions of all officers of Department of the Treasury, and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Delegation of Functions
+For delegation to Secretary of the Treasury of authority vested in President by this section, see Ex. Ord. No. 10289, § 1(a), Sept. 17, 1951, 16 F.R. 9499, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
 
 
 <a id="section-3"></a>
@@ -185,7 +185,7 @@ R.S. § 249 derived from act May 8, 1792, ch. 37, § 6, 1 Stat. 280.
 
 Section, prior to its incorporation into the Code, contained the words “and tonnage,” after “duties on imports”. These words were omitted as superseded by section 3 of the former Appendix to Title 46, Shipping, which charged the Chief of the Bureau of Navigation and Steamboat Inspection with the execution of the laws relating to the collection of the tonnage tax. Section 3 of the former Appendix to Title 46 was repealed by Pub. L. 109–304, § 19, Oct. 6, 2006, 120 Stat. 1710.
 
-#### Analysis Regarding CES Program; Effect on Implementation of Program
+#### Analysis Regarding the CES Program; Effect on Implementation of Program
 Pub. L. 100–203, title IX, § 9501(c), Dec. 22, 1987, 101 Stat. 1330–380, as amended by Pub. L. 103–182, title VI, § 691(b)(1), Dec. 8, 1993, 107 Stat. 2224; Pub. L. 114–125, title VIII, § 802(d)(2), Feb. 24, 2016, 130 Stat. 210, provided that: “(1) The Comptroller General of the United States shall conduct a comprehensive analysis, including a cost-benefit study, of the centralized cargo examination station (CES) concept from the perspective of both the United States Customs Service and business community users. The analysis shall be submitted on the same day to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate (hereinafter in this subsection referred to as the ‘Committees’) not later than March 30, 1988, and shall include recommendations as to how best to implement cargo inspection procedures. “(2) The United States Customs Service—“(A) may not, after the date of the enactment of this Act [Dec. 22, 1987], establish any new centralized cargo examination station at any ocean port, airport, or land border location unless the Customs Service provides to the Committees advance notice, in writing, of not less than 90 days regarding the proposed establishment; and “(B) shall, on such date of enactment, suspend operations at each centralized cargo examination station that was operating at an airport on the day before such date until the 90th day after a date—“(i) that is not earlier than the date on which the analysis required under paragraph (1) is submitted to the Committees, and “(ii) on which the Customs Service provides to the Committees notice, in writing, that it intends to resume such operations at the station. During the period of suspension of operations under subparagraph (B) at any centralized cargo examination station at an airport, the Secretary of the Treasury shall maintain customs operations and staffing at that airport at a level not less than that which was in effect immediately before the suspension took effect. “(3) The Commissioner of U.S. Customs and Border Protection is authorized to obtain from the operators of centralized cargo examination stations information regarding the fees paid to them for the provision of services at these stations.”
 
 [For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).]
@@ -240,6 +240,7 @@ Act June 25, 1948, ch. 646, § 38, 62 Stat. 992, provided that the amendment mad
 #### Transfer of Functions
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
+#### Transfer of Functions
 All offices of collector of customs, comptroller of customs, surveyor of customs, and appraiser of merchandise in Bureau of Customs of Department of the Treasury to which appointments were required to be made by President with advice and consent of Senate ordered abolished, with such offices to be terminated not later than December 31, 1966, by Reorg. Plan No. 1 of 1965, eff. May 25, 1965, 30 F.R. 7035, 79 Stat. 1317, set out as a note under [section 1 of this title](./chapter-001-collection-districts-ports-and-officers.md#section-1).
 
 Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by 1950 Reorg. Plan No. 26. §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees.
@@ -1077,11 +1078,11 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 (3)
 
-  (A) Fees may not be charged under paragraphs (9) and (10) of subsection (a) after October 21, 2029.
+  (A) Fees may not be charged under paragraphs (9) and (10) of subsection (a) after September 30, 2031.
 
   (B)
 
-    (i) Subject to clause (ii), Fees 33 So in original. Probably should not be capitalized. may not be charged under paragraphs (1) through (8) of subsection (a) after October 21, 2029.
+    (i) Subject to clause (ii), Fees 33 So in original. Probably should not be capitalized. may not be charged under paragraphs (1) through (8) of subsection (a) after September 30, 2031.
 
     (ii) In fiscal year 2006 and in each succeeding fiscal year for which fees under paragraphs (1) through (8) of subsection (a) are authorized—
 
@@ -1175,6 +1176,14 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Section is comprised of section 13031 of Pub. L. 99–272. Subsec. (h) of section 13031 of Pub. L. 99–272 amended [section 545(i) of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section545/i&num=0&edition=prelim), Railroads, and repealed section 1741(e) of former Title 49, Transportation.
 
 #### Amendments
+2021—Subsec. (j)(3)(A). Pub. L. 117–58, § 80301(a)(1), substituted “September 30, 2031” for “September 30, 2030”.
+
+Pub. L. 117–2, § 9912(a)(1), substituted “September 30, 2030” for “October 21, 2029”.
+
+Subsec. (j)(3)(B)(i). Pub. L. 117–58, § 80301(a)(2), substituted “September 30, 2031” for “September 30, 2030”.
+
+Pub. L. 117–2, § 9912(a)(2), substituted “September 30, 2030” for “October 21, 2029”.
+
 2020—Subsec. (b)(10)(B). Pub. L. 116–113 added subpar. (B) and struck out former subpar. (B) which read as follows: “For goods qualifying under the rules of origin set out in [section 3332 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3332&num=0&edition=prelim), the fee under subsection (a)(9) or (10)—
 
 “(i) may not be charged with respect to goods that qualify to be marked as goods of Canada pursuant to Annex 311 of the North American Free Trade Agreement, for such time as Canada is a NAFTA country, as defined in [section 3301(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3301/4&num=0&edition=prelim); and
@@ -1964,12 +1973,13 @@ To aid in the enforcement of the customs and immigration laws along the Canadian
 #### Transfer of Functions
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
-Functions of all other officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees. Customs Service was under Department of the Treasury.
-
-Immigration and Naturalization Service of Department of Labor (including Office of Commissioner of Immigration and Naturalization) and its functions were transferred to Department of Justice, to be administered under direction and supervision of Attorney General; and functions and powers of Secretary of Labor relating to administration of the Service and its functions or to administration of immigration and naturalization laws were transferred to Attorney General, by Reorg. Plan No. V of 1940, eff. June 15, 1940, 5 F.R. 2223, 54 Stat. 1238, set out in the Appendix to Title 5.
-
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under [section 1551 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1551&num=0&edition=prelim), Aliens and Nationality.
+
+#### Transfer of Functions
+Functions of officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees. Customs Service was under Department of the Treasury.
+
+Immigration and Naturalization Service of Department of Labor (including Office of Commissioner of Immigration and Naturalization) and its functions were transferred to Department of Justice, to be administered under direction and supervision of Attorney General; and functions and powers of Secretary of Labor relating to administration of the Service and its functions or to administration of immigration and naturalization laws were transferred to Attorney General, by Reorg. Plan No. V of 1940, eff. June 15, 1940, 5 F.R. 2223, 54 Stat. 1238, set out in the Appendix to Title 5.
 
 
 <a id="section-69"></a>
@@ -1982,7 +1992,8 @@ The Secretary of the Treasury is authorized to expend, from the funds appropriat
 #### Transfer of Functions
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
-Functions of all other officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees. Customs Service was under Department of the Treasury.
+#### Transfer of Functions
+Functions of officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees. Customs Service was under Department of the Treasury.
 
 Functions vested by law in Attorney General, Department of Justice, or any other officer or any agency of that Department, with respect to inspection at regular inspection locations at ports of entry of persons, and documents of persons, entering or leaving United States, were to have been transferred to Secretary of the Treasury by 1973 Reorg. Plan No. 2, § 2, eff. July 1, 1973, 38 F.R. 15932, 87 Stat. 1091, set out in the Appendix to Title 5. The transfer was negated by section 1(a)(1), (b) of Pub. L. 93–253, Mar. 16, 1974, 88 Stat. 50, which repealed section 2 of 1973 Reorg. Plan No. 2, eff. July 1, 1973.
 

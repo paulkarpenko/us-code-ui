@@ -1636,7 +1636,7 @@ Subsec. (c). Pub. L. 95–630, § 502(b), substituted “Board” for “Adminis
 
 Subsecs. (d), (e). Pub. L. 95–630, §§ 502(b), 504(c), struck out subsec. (d), redesignated subsec. (e) as (d) and substituted “Board” for “Administrator”.
 
-1977—Subsec. (c)(3) Pub. L. 95–22 struck out par. (3) which provided for approval by Administrator of applications of State credit unions for insurance of its member accounts where credit union meets requirements of this chapter and where in the event of liquidation of the credit union, the claims with respect to demand deposit accounts shall be subordinate to the claims with respect to member accounts.
+1977—Subsec. (c)(3). Pub. L. 95–22 struck out par. (3) which provided for approval by Administrator of applications of State credit unions for insurance of its member accounts where credit union meets requirements of this chapter and where in the event of liquidation of the credit union, the claims with respect to demand deposit accounts shall be subordinate to the claims with respect to member accounts.
 
 1971—Subsec. (c)(2). Pub. L. 92–221, § 1(a), substituted “disapproved” for “reject”.
 
@@ -4966,7 +4966,7 @@ As used in this subchapter, the term—
 ### Statutory Notes
 
 #### Amendment of Paragraph (1)
-Pub. L. 116–136, div. A, title IV, § 4016(b)(1)(A), (2), Mar. 27, 2020, 134 Stat. 482, as amended by Pub. L. 116–260, div. N, title V, § 540(a)(2), Dec. 27, 2020, 134 Stat. 2090, effective Dec. 31, 2021, inserted “primarily serving natural persons” after “credit unions” in introductory provisions of paragraph (1) of this section. See 2020 Amendment note below.
+Pub. L. 116–136, div. A, title IV, § 4016(b)(1)(A), (2), Mar. 27, 2020, 134 Stat. 482, as amended by Pub. L. 116–260, div. N, title V, § 540(a)(2), Dec. 27, 2020, 134 Stat. 2090, provided that, effective Dec. 31, 2021, paragraph (1) of this section is amended by inserting “primarily serving natural persons” after “credit unions” in introductory provisions. See 2020 Amendment note below.
 
 #### Codification
 Section 309(b)(1) of Pub. L. 96–221 redesignated subch. III as title III of act June 26, 1934, ch. 750, cited as a credit to this section.
@@ -5064,7 +5064,7 @@ Subsecs. (d), (e). Pub. L. 96–221, § 309(a)(4), (b)(2), substituted “Board�
 1978—Pub. L. 95–630, § 502(b), substituted “Board” for “Administrator” wherever appearing.
 
 #### Effective Date of 2020 Amendment
-Amendment by section 4016(b)(1)(B) of Pub. L. 116–136, effective Dec. 31, 2021, see section 4016(b)(2) of Pub. L. 116–136, as amended,set out as a note under [section 1795a of this title](./chapter-014-federal-credit-unions.md#section-1795a).
+Amendment by section 4016(b)(1)(B) of Pub. L. 116–136, effective Dec. 31, 2021, see section 4016(b)(2) of Pub. L. 116–136, set out as a note under [section 1795a of this title](./chapter-014-federal-credit-unions.md#section-1795a).
 
 #### Effective Date of 1978 Amendment
 Amendment effective on expiration of 120 days after Nov. 10, 1978, and transitional provisions, see section 509 of Pub. L. 95–630 set out as a note under [section 1752 of this title](./chapter-014-federal-credit-unions.md#section-1752).
@@ -5144,7 +5144,7 @@ Pub. L. 116–136, § 4016(a)(3), which directed substitution of “without firs
 1978—Pub. L. 95–630, § 502(b), substituted “Board” for “Administrator” wherever appearing.
 
 #### Effective Date of 2020 Amendment
-Amendment by section 4016(b)(1)(C) of Pub. L. 116–136, effective Dec. 31, 2020, see section 4016(b)(2) of Pub. L. 116–136, as amended, set out as a note under [section 1795a of this title](./chapter-014-federal-credit-unions.md#section-1795a).
+Amendment by section 4016(b)(1)(C) of Pub. L. 116–136, effective Dec. 31, 2020, see section 4016(b)(2) of Pub. L. 116–136, set out as a note under [section 1795a of this title](./chapter-014-federal-credit-unions.md#section-1795a).
 
 #### Effective Date of 1978 Amendment
 Amendment effective on expiration of 120 days after Nov. 10, 1978, and transitional provisions, see section 509 of Pub. L. 95–630, set out as a note under [section 1752 of this title](./chapter-014-federal-credit-unions.md#section-1752).

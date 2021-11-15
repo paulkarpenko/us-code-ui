@@ -153,7 +153,7 @@ Section, act Sept. 22, 1922, ch. 414, 42 Stat. 1028, which related to foreign tr
 
 ### Statutory Notes
 
-Section, act June 20, 1936, ch. 635, §§ 1, 2, 49 Stat. 1557, related to prohibition against commercial use of arms of Swiss Confederation. See [section 708 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section708&num=0&edition=prelim), Crimes and Criminal Procedure.
+Section, act June 20, 1936, ch. 635, §§ 1, 2, 49 Stat. 1557, related to prohibition against commercial use of arms of Swiss Confederation. See former [section 708 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section708&num=0&edition=prelim), Crimes and Criminal Procedure.
 
 
 <a id="section-249-to-250f"></a>

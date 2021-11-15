@@ -4832,14 +4832,24 @@ Pub. L. 109–280, title XII, § 1215(d)(3), Aug. 17, 2006, 120 Stat. 1079, prov
 
 
 <a id="section-6720c"></a>
-## § 6720C. Repealed. Pub. L. 115–141, div. U, title IV, § 401(d)(7)(B), Mar. 23, 2018, 132 Stat. 1212]
+## § 6720C. Penalty for failure to notify health plan of cessation of eligibility for continuation coverage premium assistance
+**(a) In general** Except in the case of a failure described in subsection (b) or (c), any person required to notify a group health plan under section 9501(a)(2)(B) of the American Rescue Plan Act of 2021 who fails to make such a notification at such time and in such manner as the Secretary of Labor may require shall pay a penalty of $250 for each such failure.
+
+**(b) Intentional failure** In the case of any such failure that is fraudulent, such person shall pay a penalty equal to the greater of—
+
+(1) $250, or
+
+(2) 110 percent of the premium assistance provided under section 9501(a)(1)(A) of the American Rescue Plan Act of 2021 after termination of eligibility under such section.
+
+**(c) Reasonable cause exception** No penalty shall be imposed under this section with respect to any failure if it is shown that such failure is due to reasonable cause and not to willful neglect.
 
 ### Statutory Notes
 
-Section, added Pub. L. 111–5, div. B, title III, § 3001(a)(13)(A), Feb. 17, 2009, 123 Stat. 464; amended Pub. L. 111–144, § 3(b)(5)(D), Mar. 2, 2010, 124 Stat. 45, related to penalty for failure to notify health plan of cessation of eligibility for COBRA premium assistance.
+#### References in Text
+Section 9501(a) of the American Rescue Plan Act of 2021, referred to in subsecs. (a) and (b)(2), is section 9501(a) of title IX of Pub. L. 117–2, Mar. 11, 2021, 135 Stat. 127, which is set out as a note under [section 4980B of this title](./chapter-043-qualified-pension-etc-plans.md#section-4980b).
 
-#### Savings Provision
-For provisions that nothing in repeal by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under [section 23 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-23).
+#### Prior Provisions
+A prior section 6720C, added Pub. L. 111–5, div. B, title III, § 3001(a)(13)(A), Feb. 17, 2009, 123 Stat. 464; amended Pub. L. 111–144, § 3(b)(5)(D), Mar. 2, 2010, 124 Stat. 45, related to penalty for failure to notify health plan of cessation of eligibility for COBRA premium assistance, prior to repeal by Pub. L. 115–141, div. U, title IV, § 401(d)(7)(B), Mar. 23, 2018, 132 Stat. 1212.
 
 
 <a id="section-6721"></a>
@@ -5438,12 +5448,23 @@ Section applicable to returns the due date for which (determined without regard 
 
 ### Statutory Notes
 
+#### Amendment of Subsection (d)(1)(B)
+Pub. L. 117–58, div. H, title VI, § 80603(b)(2)(B), (c), Nov. 15, 2021, 135 Stat. 1340, 1341, provided that, applicable to returns required to be filed, and statements required to be furnished, after Dec. 31, 2023, subsection (d)(1)(B) of this section is amended striking “or” at the end of clause (xxv), by striking “and” at the end of clause (xxvi), and by inserting after clause (xxvi) the following new clause:
+
+“(xxvii) section 6045A(d) (relating to returns for certain digital assets),”.
+
+See 2021 Amendment note below.
+
 #### Codification
 Section 1211(b)(1) of Pub. L. 109–280, which directed the amendment of section 6724 without specifying the act to be amended, was executed to this section, which is section 6724 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
 Amendments to subsec. (d)(2) of this section by section 1901(c)(1) of Pub. L. 104–188 were executed before amendments by sections 1116(b)(2)(B) and 1455(a)(2) of Pub. L. 104–188, to reflect the probable intent of Congress.
 
 #### Amendments
+2021—Subsec. (d)(1)(B)(xxv), (xxvi). Pub. L. 117–58 struck out “or” at end of cl. (xxv) and “and” at end of cl. (xxvi).
+
+Subsec. (d)(1)(B)(xxvii). Pub. L. 117–58 added cl. (xxvii).
+
 2019—Subsec. (c). Pub. L. 116–25 substituted “the applicable number (determined under section 6011(e)(5) with respect to the calendar year to which such returns relate) of information returns” for “250 information returns (more than 100 information returns in the case of a partnership having more than 100 partners)”.
 
 2018—Subsec. (d)(1). Pub. L. 115–141, § 401(a)(317), realigned margin of concluding provisions.
@@ -5761,6 +5782,9 @@ Subsec. (d)(2). Pub. L. 100–647, § 3001(b)(2), which directed that “or” b
 Pub. L. 100–418, § 1941(b)(2)(M)(ii), redesignated subpars. (B) to (J) as (A) to (I), respectively, and struck out former subpar. (A) which read as follows: “section 4997(a) (relating to records and information; regulations),” and redesignated subpars. (L) to (T) as (J) to (R), respectively, and struck out former subpar. (K) which read as follows: “section 6050C (relating to information regarding windfall profit tax on domestic crude oil),”.
 
 Subsec. (d)(2)(B). Pub. L. 100–647, § 1015(a), substituted “6031(b) or (c)” for “6031(b)”.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–58 applicable to returns required to be filed, and statements required to be furnished, after December 31, 2023, see section 80603(c) of div. H of Pub. L. 117–58, set out as a note under [section 6045 of this title](./chapter-061-information-and-returns.md#section-6045).
 
 #### Effective Date of 2018 Amendment
 Amendment by section 206(o) of Pub. L. 115–141 effective as if included in section 1101 of Pub. L. 114–74, see section 207 of Pub. L. 115–141, set out as a note under [section 6031 of this title](./chapter-061-information-and-returns.md#section-6031).

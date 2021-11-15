@@ -151,7 +151,7 @@ Subsec. (c). Pub. L. 116–260, § 3006(a)(1)(C)(i), in introductory provisions,
 
 Subsec. (c)(1). Pub. L. 116–260, § 3006(a)(1)(C)(ii), redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: “not to exceed $39,000,000 shall be available for the Photovoltaic Energy Systems Program;”.
 
-Subsec. (c)(2). Pub. L. 116–260, § 3006(a)(1)(C)(iii), redesignated subpars. (B) and (C) as (A) and (B), respectively, adn struck out form subpar. (A) which read as follows: “not to exceed $40,000,000 shall be available for the Photovoltaic Energy Systems Program;”.
+Subsec. (c)(2). Pub. L. 116–260, § 3006(a)(1)(C)(iii), redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out form subpar. (A) which read as follows: “not to exceed $40,000,000 shall be available for the Photovoltaic Energy Systems Program;”.
 
 1992—Subsec. (a)(4), (5). Pub. L. 102–486, § 1202(b)(1), added par. (4), redesignated former par. (4) as (5), and inserted “Biodiesel Energy Systems,” after “Biofuels Energy Systems,”.
 

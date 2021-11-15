@@ -2,7 +2,7 @@
 title: 10
 chapter: '859'
 heading: PROFESSIONAL MILITARY EDUCATION SCHOOLS
-section_count: 4
+section_count: 5
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -45,7 +45,7 @@ source: >-
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 2008 Amendment
-Amendment by Pub. L. 110–417 applicable to any degree granting authority established, modified, or redesignated on or after Oct. 14, 2008, for an institution of professional military education referred to in such amendment, see section 543(j) of Pub. L. 110–417, set out as a note under [section 2161 of this title](./chapter-108-department-of-defense-schools.md#section-2161).
+Amendment by Pub. L. 110–417 applicable to any degree granting authority established, modified, or redesignated on or after Oct. 14, 2008, for an institution of professional military education referred to in such amendment, see section 543(j) of Pub. L. 110–417, set out as a note under [section 2163 of this title](./chapter-108-department-of-defense-schools.md#section-2163).
 
 
 <a id="section-8592"></a>
@@ -75,7 +75,7 @@ Amendment by Pub. L. 110–417 applicable to any degree granting authority estab
 ### Statutory Notes
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 7102 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7102&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 7102 of this title](./chapter-711-strength.md#section-7102) as this section.
 
 2008—Pub. L. 110–417 amended section generally. Prior to amendment, section related to conferral of master of military studies, master of strategic studies, and master of operational studies degrees by Marine Corps University and establishment of a board of advisors.
 
@@ -105,7 +105,7 @@ Subsec. (d). Pub. L. 107–107, § 532(c)(1), added subsec. (d).
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 2008 Amendment
-Amendment by Pub. L. 110–417 applicable to any degree granting authority established, modified, or redesignated on or after Oct. 14, 2008, for an institution of professional military education referred to in such amendment, see section 543(j) of Pub. L. 110–417, set out as a note under [section 2161 of this title](./chapter-108-department-of-defense-schools.md#section-2161).
+Amendment by Pub. L. 110–417 applicable to any degree granting authority established, modified, or redesignated on or after Oct. 14, 2008, for an institution of professional military education referred to in such amendment, see section 543(j) of Pub. L. 110–417, set out as a note under [section 2163 of this title](./chapter-108-department-of-defense-schools.md#section-2163).
 
 #### Effective Date of 2003 Amendment
 Pub. L. 108–136, div. A, title V, § 531(b), Nov. 24, 2003, 117 Stat. 1472, provided that: “The authority to confer the degree of master of operational studies under section 7102(c) [now 8592(c)] of title 10, United States Code (as added by subsection (a)) may not be exercised until the Secretary of Education determines, and certifies to the President of the Marine Corps University, that the requirements established by the Command and General Staff College of the Marine Corps University for that degree are in accordance with generally applicable requirements for a degree of master of arts.” [Approval granted by Secretary of Education on Jan. 10, 2003, for Marine Corps University to award the Master’s degree in operational studies for successful completion of the School of Advanced Warfighting program.]
@@ -164,3 +164,62 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+
+<a id="section-8595"></a>
+## § 8595. United States Naval Community College: establishment and degree granting authority
+**(a) Establishment and Function.—** There is a United States Naval Community College. The primary function of such College shall be to provide—
+
+(1) programs of academic instruction and professional and technical education for individuals described in subsection (b) in—
+
+  (A) academic and technical fields of the liberal arts and sciences which are relevant to the current and future needs of the Navy and Marine Corps, including in designated fields of national and economic importance such as cybersecurity, artificial intelligence, machine learning, data science, and software engineering; and
+
+  (B) their practical duties;
+
+(2) remedial, developmental, or continuing education programs, as prescribed by the Secretary of the Navy, which are necessary to support, maintain, or extend programs under paragraph (1);
+
+(3) support and advisement services for individuals pursuing such programs; and
+
+(4) continuous monitoring of the progress of such individuals.
+
+**(b) Individuals Eligible for Programs.—** Subject to such other eligibility requirements as the Secretary of the Navy may prescribe, the following individuals are eligible to participate in programs and services under subsection (a):
+
+(1) Enlisted members of the Navy and Marine Corps.
+
+(2) Officers of the Navy and Marine Corps who hold a commission but have not completed a postsecondary degree.
+
+(3) Civilian employees of the Department of the Navy.
+
+(4) Other individuals, as determined by the Secretary of the Navy, so long as access to programs and services under subsection (a) by such individuals is—
+
+  (A) in alignment with the mission of the United States Naval Community College; and
+
+  (B) determined to support the mission or needs of the Department of the Navy.
+
+**(c) Degree and Credential Granting Authority.—**
+
+(1) **In general.—** — Under regulations prescribed by the Secretary of the Navy, the head of the United States Naval Community College may, upon the recommendation of the directors and faculty of the College, confer appropriate degrees or academic credentials upon graduates who meet the degree or credential requirements.
+
+(2) **Limitation.—** — A degree or credential may not be conferred under this subsection unless—
+
+  (A) the Secretary of Education has recommended approval of the degree or credential in accordance with the Federal Policy Governing Granting of Academic Degrees by Federal Agencies; and
+
+  (B) the United States Naval Community College is accredited by the appropriate civilian academic accrediting agency or organization to award the degree or credential, as determined by the Secretary of Education.
+
+(3) **Congressional notification requirements.—**
+
+  (A) When seeking to establish degree or credential granting authority under this subsection, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives—
+
+    (i) a copy of the self assessment questionnaire required by the Federal Policy Governing Granting of Academic Degrees by Federal Agencies, at the time the assessment is submitted to the Department of Education’s National Advisory Committee on Institutional Quality and Integrity; and
+
+    (ii) the subsequent recommendations and rationale of the Secretary of Education regarding the establishment of the degree or credential granting authority.
+
+  (B) Upon any modification or redesignation of existing degree or credential granting authority, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing the rationale for the proposed modification or redesignation and any subsequent recommendation of the Secretary of Education on the proposed modification or redesignation.
+
+  (C) The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing an explanation of any action by the appropriate academic accrediting agency or organization not to accredit the United States Naval Community College to award any new or existing degree or credential.
+
+**(d) Civilian Faculty Members.—**
+
+(1) **Authority of secretary.—** — The Secretary of the Navy may employ as many civilians as professors, instructors, and lecturers at the United States Naval Community College as the Secretary considers necessary.
+
+(2) **Compensation.—** — The compensation of persons employed under this subsection shall be prescribed by the Secretary of the Navy.

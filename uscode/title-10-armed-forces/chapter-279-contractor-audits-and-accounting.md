@@ -14,7 +14,7 @@ source: >-
 
 (1) The head of an agency, acting through an authorized representative, is authorized to inspect the plant and audit the records of—
 
-  (A) a contractor performing a cost-reimbursement, incentive, time-and-materials, labor-hour, or price-redeterminable contract, or any combination of such contracts,made by that agency under a chapter 137 legacy provision; and
+  (A) a contractor performing a cost-reimbursement, incentive, time-and-materials, labor-hour, or price-redeterminable contract, or any combination of such contracts, made by that agency under a chapter 137 legacy provision; and
 
   (B) a subcontractor performing any cost-reimbursement, incentive, time-and-materials, labor-hour, or price-redeterminable subcontract or any combination of such subcontracts under a contract referred to in subparagraph (A).
 
@@ -69,6 +69,35 @@ source: >-
 (3) The contractor or subcontractor retains the original records for a minimum of one year after imaging to permit periodic validation of the imaging systems.
 
 ### Statutory Notes
+
+#### Codification
+The text of subsecs. (a), (e), (g), (h), and (i) of [section 2313 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2313), which were transferred to this section, redesignated as subsecs. (b), (f), (h), (i), and (j), respectively, and amended by Pub. L. 116–283, § 1835(b)(1)–(3), (6), was based on Pub. L. 103–355, title II, § 2201(a)(1), Oct. 13, 1994, 108 Stat. 3316, which amended section 2313 generally.
+
+The text of subsec. (b) of [section 2313 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2313), which was transferred to this section, redesignated as subsec. (c), and amended by Pub. L. 116–283, § 1835(b)(1), (4), was based on Pub. L. 103–355, title II, § 2201(a)(1), Oct. 13, 1994, 108 Stat. 3316; Pub. L. 104–106, div. A, title XV, § 1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, § 1032(a)(2), Oct. 5, 1999, 113 Stat. 751.
+
+The text of subsec. (c) of [section 2313 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2313), which was transferred to this section, redesignated as subsec. (d), and amended by Pub. L. 116–283, § 1835(b)(1), (5), was based on Pub. L. 103–355, title II, § 2201(a)(1), Oct. 13, 1994, 108 Stat. 3317; Pub. L. 110–417, [div. A], title VIII, § 871(b), Oct. 14, 2008, 122 Stat. 4555.
+
+The text of subsec. (d) of [section 2313 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2313), which was transferred to this section and redesignated as subsec. (e) by Pub. L. 116–283, § 1835(b)(1), was based on Pub. L. 104–201, div. A, title VIII, § 808(a), Sept. 23, 1996, 110 Stat. 2607, which amended subsec. (d) generally.
+
+The text of subsec. (f) of [section 2313 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2313), which was transferred to this section and redesignated as subsec. (e) by Pub. L. 116–283, § 1835(b)(1), was based on Pub. L. 103–355, title II, § 2201(a)(1), title IV, § 4102(c), Oct. 13, 1994, 108 Stat. 3317, 3340.
+
+#### Prior Provisions
+A prior section 3841, added Pub. L. 85–861, § 1(94), Sept. 2, 1958, 72 Stat. 1483, related to separation or transfer to retired reserve of reserve nurses and medical specialists at age 50 if in a reserve grade below major, prior to repeal by Pub. L. 86–559, § 1(22), June 30, 1960, 74 Stat. 271.
+
+#### Amendments
+2021—Subsec. (a). Pub. L. 116–283, § 1835(b)(2), redesignated subsec. (i) of [section 2313 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2313) as subsec. (a) of this section.
+
+Subsec. (b). Pub. L. 116–283, § 1835(b)(1), (3), redesignated subsec. (a) of [section 2313 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2313) as subsec. (b) of this section, realigned margins of pars. (1) and (2), and substituted “made by that agency under a chapter 137 legacy provision” for “made by that agency under this chapter” in par. (1)(A) and “chapter 271” for “section 2306a” in par. (2).
+
+Subsec. (c). Pub. L. 116–283, § 1835(b)(1), (4), redesignated subsec. (b) of [section 2313 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2313) as subsec. (c) of this section, inserted heading and substituted “subsection (b)” for “subsection (a)” in par. (1), and inserted headings and realigned margins of pars. (2) and (3).
+
+Subsec. (d). Pub. L. 116–283, § 1835(b)(1), (5), redesignated subsec. (c) of [section 2313 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2313) as subsec. (d) of this section and inserted headings and realigned margins of pars. (1) to (3).
+
+Subsec. (e). Pub. L. 116–283, § 1835(b)(1), redesignated subsec. (d) of [section 2313 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2313) as subsec. (e) of this section.
+
+Subsec. (f). Pub. L. 116–283, § 1835(b)(1), (6), redesignated subsec. (e) of [section 2313 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2313) as subsec. (f) of this section and substituted “subsection (b)” for “subsection (a)” and “subsection (d)” for “subsection (c)”.
+
+Subsecs. (g) to (i). Pub. L. 116–283, § 1835(b)(1), redesignated subsecs. (f) to (h) of [section 2313 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2313) as subsecs. (g) to (i), respectively, of this section.
 
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -198,27 +227,58 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 ### Statutory Notes
 
+#### References in Text
+The date of the enactment of this section, referred to in subsecs. (b)(1)(E)(i) and (g)(3), is the date of enactment of Pub. L. 115–91, which was approved Dec. 12, 2017.
+
+Section 809 of the National Defense Authorization Act for Fiscal Year 2016, referred to in subsec. (f)(2), is section 809 of Pub. L. 114–92, div. A, title VIII, Nov. 25, 2015, 129 Stat. 889, which relates to the establishment of an advisory panel on streamlining acquisition regulations and is not classified to the Code.
+
+#### Prior Provisions
+A prior section 3842, added Pub. L. 85–861, § 1(94), Sept. 2, 1958, 72 Stat. 1483, related to separation or transfer to Retired Reserve of Reserve nurses and medical specialists at age 55 if in a reserve grade above captain, prior to repeal by Pub. L. 86–559, § 1(22), June 30, 1960, 74 Stat. 271.
+
+#### Amendments
+2021—Pub. L. 116–283, § 1835(c), renumbered [section 2313b of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2313b) as this section.
+
+Subsec. (g)(5). Pub. L. 116–283, § 1835(d)(1), substituted “section 3847” for “section 2313a”.
+
+2019—Subsec. (d)(1), (2). Pub. L. 116–92 substituted “a task order” for “an task order”.
+
+2018—Subsec. (b)(1)(E). Pub. L. 115–232 redesignated cls. (A) and (B) as (i) and (ii), respectively.
+
 #### Effective Date of 2021 Amendment
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 
 <a id="section-3843"></a>
-## § 3843. Contractor internal audit reports: Department of Defense access to, use of, and safeguards and protections for
-
-[Reserved.]
+## § 3843. [Reserved]
 
 ### Statutory Notes
+
+#### Prior Provisions
+A prior section 3843, added Pub. L. 85–861, § 1(94), Sept. 2, 1958, 72 Stat. 1483; amended Pub. L. 86–559, § 1(23), June 30, 1960, 74 Stat. 271; Pub. L. 99–145, title XIII, § 1303(a)(20)(A), Nov. 8, 1985, 99 Stat. 739, related to transfer or discharge of reserve commissioned officers below grade of major general, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1629(a)(3), 1691(b)(1), Oct. 5, 1994, 108 Stat. 2963, 3026, effective Oct. 1, 1996. See sections 14509 and 14510 of this title.
+
+#### Amendments
+2021—Pub. L. 117–81, § 1701(i)(7)(B)(i), amended Pub. L. 116–283, § 1835(e)(1), which enacted this section, by adding section 3843 designation and catchline “[Reserved]” and striking out former section 3843 designation and catchline “Contractor internal audit reports: Department of Defense access to, use of, and safeguards and protections for”.
+
+#### Effective Date of 2021 Amendment
+Amendment made to Pub. L. 116–283 by Pub. L. 117–81, resulting in omission of this section, applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
 
 #### Effective Date
 Section effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 
 <a id="section-3844"></a>
-## § 3844. Contractor business systems
-
-[Reserved.]
+## § 3844. [Reserved]
 
 ### Statutory Notes
+
+#### Prior Provisions
+A prior section 3844, added Pub. L. 85–861, § 1(94), Sept. 2, 1958, 72 Stat. 1484; amended Pub. L. 86–559, § 1(24), June 30, 1960, 74 Stat. 271, related to transfer or discharge of certain reserve major generals and brigadier generals who are 62 years old, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1629(a)(3), 1691(b)(1), Oct. 5, 1994, 108 Stat. 2963, 3026, effective Oct. 1, 1996. See [section 14511 of this title](./chapter-1407-failure-of-selection-for-promotion-and-involuntary-separation.md#section-14511).
+
+#### Amendments
+2021—Pub. L. 117–81, § 1701(i)(7)(B)(i), amended Pub. L. 116–283, § 1835(e)(1), which enacted this section, by adding section 3844 designation and catchline “[Reserved]” and striking out former section 3844 designation and catchline “Contractor business systems”.
+
+#### Effective Date of 2021 Amendment
+Amendment made to Pub. L. 116–283 by Pub. L. 117–81, resulting in omission of this section, applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
 
 #### Effective Date
 Section effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -238,16 +298,53 @@ Section effective Jan. 1, 2022, with additional provisions for delayed implement
 
 ### Statutory Notes
 
+#### Prior Provisions
+A prior section 3845, added Pub. L. 85–861, § 1(94), Sept. 2, 1958, 72 Stat. 1484; amended Pub. L. 100–456, div. A, title XII, § 1234(a)(1), Sept. 29, 1988, 102 Stat. 2059, related to transfer or discharge of certain officers of Army National Guard of United States who are 64 years of age, prior to repeal Pub. L. 103–337, div. A, title XVI, §§ 1629(a)(3), 1691(b)(1), Oct. 5, 1994, 108 Stat. 2963, 3026, effective Oct. 1, 1996. See [section 14512(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14512/a&num=0&edition=prelim).
+
+#### Amendments
+2021—Pub. L. 116–283, § 1835(c), renumbered [section 2410b of this title](./chapter-141-miscellaneous-provisions-relating-to-property.md#section-2410b) as this section.
+
+Subsec. (c). Pub. L. 116–283, § 1835(d)(2), struck out “(as defined in [section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim))” after “commercial products”.
+
+2018—Subsec. (c). Pub. L. 115–232 substituted “commercial products” for “commercial items”.
+
+2011—Subsec. (c). Pub. L. 111–350 substituted “[section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim))” for “section 4(12) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(12)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section403/12&num=0&edition=prelim)))”.
+
+1996—Subsec. (a)(2). Pub. L. 104–106, as amended by Pub. L. 104–201, struck out “certification and” after “appropriate”.
+
+1994—Subsecs. (a), (b). Pub. L. 103–355, § 4102(h), designated existing provisions as subsec. (a) and added subsec. (b).
+
+Subsec. (c). Pub. L. 103–355, § 8105(i), added subsec. (c).
+
 #### Effective Date of 2021 Amendment
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under [section 453b of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section453b&num=0&edition=prelim), Domestic Security.
+
+#### Effective Date of 1996 Amendment
+For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under [section 2302 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2302).
+
+#### Effective Date of 1994 Amendment
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 2302 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2302).
+
+#### Regulations
+Pub. L. 100–456, div. A, title VIII, § 834(b), Sept. 29, 1988, 102 Stat. 2025, provided that: “(1) The Secretary of Defense shall prescribe the regulations required by paragraph (1) of [section 2410b of title 10](./chapter-141-miscellaneous-provisions-relating-to-property.md#section-2410b), United States Code [now [10 U.S.C. 3845(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3845/a/1&num=0&edition=prelim)], as added by subsection (a), not later than 30 days after the date of the enactment of this Act [Sept. 29, 1988]. “(2) The Secretary of Defense shall prescribe the regulations required by paragraph (2) of [section 2410b of title 10](./chapter-141-miscellaneous-provisions-relating-to-property.md#section-2410b), United States Code [now [10 U.S.C. 3845(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3845/a/2&num=0&edition=prelim)], as added by subsection (a), not later than 180 days after the date of the enactment of this Act.”
+
 
 <a id="section-3846"></a>
-## § 3846. Defense Contract Audit Agency: legal resources and expertise
-
-[Reserved.]
+## § 3846. [Reserved]
 
 ### Statutory Notes
+
+#### Prior Provisions
+A prior section 3846, added Pub. L. 85–861, § 1(94), Sept. 2, 1958, 72 Stat. 1484, related to transfer or discharge of reserve first lieutenants, captains, and majors not recommended for promotion by two selection boards, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1629(a)(3), 1691(b)(1), Oct. 5, 1994, 108 Stat. 2963, 3026, effective Oct. 1, 1996. See section 14501 et seq. of this title.
+
+#### Amendments
+2021—Pub. L. 117–81, § 1701(i)(7)(B)(i), amended Pub. L. 116–283, § 1835(e)(1), which enacted this section, by adding section 3846 designation and catchline “[Reserved]” and striking out former section 3846 designation and catchline “Defense Contract Audit Agency: legal resources and expertise”.
+
+#### Effective Date of 2021 Amendment
+Amendment made to Pub. L. 116–283 by Pub. L. 117–81, resulting in omission of this section, applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
 
 #### Effective Date
 Section effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -299,8 +396,42 @@ Section effective Jan. 1, 2022, with additional provisions for delayed implement
 
 ### Statutory Notes
 
+#### Prior Provisions
+A prior section 3847, added Pub. L. 85–861, § 1(94), Sept. 2, 1958, 72 Stat. 1484; Pub. L. 86–559, § 1(25), June 30, 1960, 74 Stat. 272, provided for transfer to Retired Reserve or discharge from his reserve appointment, after July 1, 1960, of each officer in a reserve grade below lieutenant colonel with 25 years service assigned to Army Nurse Corps, Army Medical Specialist Corps, or Women’s Army Corps who had not been recommended for promotion to reserve grade of lieutenant colonel or who has not remained on active duty since such a recommendation, prior to repeal by Pub. L. 90–130, § 1(12)(A), Nov. 8, 1967, 81 Stat. 376.
+
+#### Amendments
+2021—Pub. L. 116–283, § 1835(c), renumbered [section 2313a of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2313a) as this section.
+
+Subsec. (d)(1). Pub. L. 116–283, § 1835(d)(3), substituted “section 3842” for “section 2313b”.
+
+2017—Subsec. (a)(2)(A). Pub. L. 115–91, § 811(d)(1)(A)(i), inserted “and dollar value” after “number” and “, set forth separately by type of audit” after “pending”.
+
+Subsec. (a)(2)(C). Pub. L. 115–91, § 811(d)(1)(A)(ii), inserted “, both from the date of receipt of a qualified incurred cost submission and from the date the audit begins” after “audit”.
+
+Subsec. (a)(2)(D). Pub. L. 115–91, § 811(d)(1)(A)(iii), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “the total costs of sustained or recovered costs both as a total number and as a percentage of questioned costs; and”.
+
+Subsec. (a)(2)(E) to (H). Pub. L. 115–91, § 811(d)(1)(A)(iv), (v), added subpars. (E) to (H) and struck out former subpar. (E) which read as follows: “an assessment of the number and types of audits pending for a period longer than allowed pursuant to guidance of the Defense Contract Audit Agency;”.
+
+Subsec. (a)(4), (5). Pub. L. 115–91, § 1081(d)(5), amended Pub. L. 114–328, § 824(d)(1)(B). See 2016 Amendment note below.
+
+Subsec. (d). Pub. L. 115–91, § 811(d)(1)(B), added subsec. (d).
+
+2016—Subsec. (a)(4), (5). Pub. L. 114–328, § 824(d)(1)(B), as amended by Pub. L. 115–91, § 1081(d)(5), added pars. (4) and (5). Former pars. (4) and (5) redesignated (6) and (7), respectively.
+
+Subsec. (a)(6), (7). Pub. L. 114–328, § 824(d)(1)(A), redesignated pars. (4) and (5) as (6) and (7), respectively.
+
+2015—Subsec. (a)(2)(D). Pub. L. 114–92, § 893(b)(1), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “the total dollar value of questioned costs (including a separate category for the dollar value of unsupported costs); and”.
+
+Subsec. (a)(4), (5). Pub. L. 114–92, § 893(b)(2)–(4), added par. (4) and redesignated former par. (4) as (5).
+
 #### Effective Date of 2021 Amendment
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Effective Date of 2017 Amendment
+Pub. L. 115–91, div. A, title X, § 1081(d), Dec. 12, 2017, 131 Stat. 1599, provided that the amendment made by section 1081(d)(5) is effective as of Dec. 23, 2016, and as if included in Pub. L. 114–328 as enacted.
+
+#### Effective Date of 2016 Amendment
+Pub. L. 114–328, div. A, title VIII, § 824(d)(2), Dec. 23, 2016, 130 Stat. 2279, provided that: “The amendments made by this subsection [amending this section] shall take effect on October 1, 2018.”
 
 
 <a id="section-3848"></a>
@@ -326,6 +457,28 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 **(d) Defense Audit Agency Defined.—** In this section, the term “defense audit agency” means the Defense Contract Audit Agency and the Defense Contract Management Agency.
 
 ### Statutory Notes
+
+#### Prior Provisions
+A prior section 3848, added Pub. L. 85–861, § 1(94), Sept. 2, 1958, 72 Stat. 1485; amended Pub. L. 86–559, § 1(26), June 30, 1960, 74 Stat. 272; Pub. L. 90–130, § 1(12)(B), Nov. 8, 1967, 81 Stat. 376; Pub. L. 90–486, § 9(1), Aug. 13, 1968, 82 Stat. 760; Pub. L. 95–485, title VIII, § 820(h), Oct. 20, 1978, 92 Stat. 1627; Pub. L. 96–513, title V, § 512(8), Dec. 12, 1980, 94 Stat. 2929; Pub. L. 99–145, title V, § 522(a)(1), title XIII, § 1303(a)(20)(B), Nov. 8, 1985, 99 Stat. 631, 739; Pub. L. 100–456, div. A, title XII, § 1234(a)(1), Sept. 29, 1988, 102 Stat. 2059, related to transfer or discharge of reserve first lieutenants, captains, majors, and lieutenant colonels with 28 years of service, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1629(a)(3), 1691(b)(1), Oct. 5, 1994, 108 Stat. 2963, 3026, effective Oct. 1, 1996. See section 14501 et seq. of this title.
+
+A prior section 3849, added Pub. L. 85–861, § 1(94), Sept. 2, 1958, 72 Stat. 1485, related to separation or transfer to retired reserve of officers in the reserve grade of lieutenant colonel assigned to the Women’s Army Corps upon completion of 28 years of service, prior to repeal by Pub. L. 86–559, § 1(27), June 30, 1960, 74 Stat. 272.
+
+Prior sections 3850 to 3855 were repealed by Pub. L. 103–337, div. A, title XVI, §§ 1629(a)(3), 1691(b)(1), Oct. 5, 1994, 108 Stat. 2963, 3026, effective Oct. 1, 1996.
+
+Section 3850, added Pub. L. 85–861, § 1(94), Sept. 2, 1958, 72 Stat. 1485; amended Pub. L. 104–106, div. A, title XV, § 1501(c)(25), Feb. 10, 1996, 110 Stat. 499, related to transfer or discharge of excessive reserve commissioned officers in active status with thirty or more years of service. See sections 14514 and 14704 of this title.
+
+Section 3851, added Pub. L. 85–861, § 1(94), Sept. 2, 1958, 72 Stat. 1486; amended Pub. L. 86–559, § 1(28), June 30, 1960, 74 Stat. 272; Pub. L. 90–486, § 9(1), Aug. 13, 1968, 82 Stat. 760; Pub. L. 96–513, title V, § 512(8), Dec. 12, 1980, 94 Stat. 2929; Pub. L. 98–525, title V, § 513, Oct. 19, 1984, 98 Stat. 2522; Pub. L. 99–145, title V, § 522(a)(2), title XIII, § 1303(a)(20)(B), Nov. 8, 1985, 99 Stat. 631, 739; Pub. L. 99–661, div. A, title XIII, § 1342(g), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 100–456, div. A, title XII, § 1234(a)(1), Sept. 29, 1988, 102 Stat. 2059, related to transfer or discharge of reserve colonels and brigadier generals with 30 years of service or five years in grade. See section 14508(a), (e) of this title.
+
+Section 3852, added Pub. L. 85–861, § 1(94), Sept. 2, 1958, 72 Stat. 1486; amended Pub. L. 86–559, § 1(29), June 30, 1960, 74 Stat. 272; Pub. L. 99–145, title V, § 523, title XIII, § 1303(a)(20)(B), Nov. 8, 1985, 99 Stat. 632, 739; Pub. L. 100–456, div. A, title XII, § 1234(a)(1), Sept. 29, 1988, 102 Stat. 2059, related to transfer or discharge of reserve major generals with 35 years of service or five years in grade. See section 14508(b), (f) of this title.
+
+Section 3853, added Pub. L. 85–861, § 1(94), Sept. 2, 1958, 72 Stat. 1486; amended Pub. L. 86–559, § 1(30), June 30, 1960, 74 Stat. 273; Pub. L. 86–651, title I, § 115, Sept. 7, 1962, 76 Stat. 513; Pub. L. 96–513, title V, § 512(9), Dec. 12, 1980, 94 Stat. 2929; Pub. L. 98–94, title X, § 1016(a), Sept. 24, 1983, 97 Stat. 668; Pub. L. 103–337, div. A, title XVI, § 1635(a), Oct. 5, 1994, 108 Stat. 2968, related to computation of years of service. See [section 14706 of this title](./chapter-1409-continuation-of-officers-on-the-reserve-active-status-list-and-selective-early-removal.md#section-14706).
+
+Section 3854, added Pub. L. 85–861, § 1(94), Sept. 2, 1958, 72 Stat. 1486, authorized Secretary of the Army to prescribe regulations to carry out this chapter.
+
+Section 3855, added Pub. L. 86–559, § 1(31), June 30, 1960, 74 Stat. 273; amended Pub. L. 96–107, title IV, § 403(a), Nov. 9, 1979, 93 Stat. 808; Pub. L. 96–513, title II, § 215(a), Dec. 12, 1980, 94 Stat. 2885; Pub. L. 100–180, div. A, title VII, § 717(a), (d)(1)(A), Dec. 4, 1987, 101 Stat. 1113, 1114; Pub. L. 101–189, div. A, title VII, §§ 710(a), 711(a), Nov. 29, 1989, 103 Stat. 1476, 1477, related to retention in active status of certain reserve officers. See section 14703(a)(1), (b) of this title.
+
+#### Amendments
+2021—Pub. L. 116–283 renumbered [section 204 of this title](./chapter-008-defense-agencies-and-department-of-defense-field-activities.md#section-204) as this section and substituted “Defense audit agencies: Small Business Ombudsmen” for “Small Business Ombudsman for defense audit agencies” in section catchline.
 
 #### Effective Date of 2021 Amendment
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).

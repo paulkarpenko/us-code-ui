@@ -309,7 +309,7 @@ Subsec. (e)(3). Pub. L. 99–651, § 102(a)(4)(C), substituted “$1,000” for 
 
 Subsec. (g). Pub. L. 99–651, § 102(b)(1), redesignated subsec. (h) as (g), and struck out former subsec. (g) which provided for discretionary appointments by the court or magistrate.
 
-Subsec. (g)(2)(A), formerly (h)(2)(A). Pub. L. 99–651, § 102(a)(5)(A), substituted “in accordance with [section 605 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section605&num=0&edition=prelim)” for “similarly as under title 28, United States Code, section 605, and subject to the conditions of that section”, and after fourth sentence inserted provision authorizing the continuation in office, upon a majority vote of the judges of the court of appeals, of a Federal Public Defender whose term has expired until appointment of a successor or until one year after the expiration of such Defender’s term, which­ever is earlier.
+Subsec. (g)(2)(A), formerly (h)(2)(A). Pub. L. 99–651, § 102(a)(5)(A), substituted “in accordance with [section 605 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section605&num=0&edition=prelim)” for “similarly as under title 28, United States Code, section 605, and subject to the conditions of that section”, and after fourth sentence inserted provision authorizing the continuation in office, upon a majority vote of the judges of the court of appeals, of a Federal Public Defender whose term has expired until appointment of a successor or until one year after the expiration of such Defender’s term, whichever is earlier.
 
 Subsec. (g)(2)(B), formerly (h)(2)(B). Pub. L. 99–651, § 102(a)(5)(B), substituted “for the next fiscal year” for “for the coming year” in introductory provisions.
 
@@ -548,7 +548,7 @@ Section effective 30 days after Oct. 12, 1984, see section 1409(a) of Pub. L. 98
 
 <a id="section-3014"></a>
 ## § 3014. Additional special assessment
-**(a) In General.—** Beginning on the date of enactment of the Justice for Victims of Trafficking Act of 2015 and ending on September 30, 2021, in addition to the assessment imposed under section 3013, the court shall assess an amount of $5,000 on any non-indigent person or entity convicted of an offense under—
+**(a) In General.—** Beginning on the date of enactment of the Justice for Victims of Trafficking Act of 2015 and ending on February 18, 2022, in addition to the assessment imposed under section 3013, the court shall assess an amount of $5,000 on any non-indigent person or entity convicted of an offense under—
 
 (1) chapter 77 (relating to peonage, slavery, and trafficking in persons);
 
@@ -598,7 +598,7 @@ Section effective 30 days after Oct. 12, 1984, see section 1409(a) of Pub. L. 98
 
 (3) **Grants.—** — Of the amounts in the Fund used under paragraph (1), not less than $2,000,000, if such amounts are available in the Fund during the relevant fiscal year, shall be used for grants to provide services for child pornography victims and child victims of a severe form of trafficking (as defined in section 103 of the Victims of Trafficking and Violence Protection Act of 2000 ([22 U.S.C. 7102](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102&num=0&edition=prelim))) under section 214(b) of the Victims of Child Abuse Act of 1990 ([42 U.S.C. 13002(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13002/b&num=0&edition=prelim)).1
 
-(4) **Application of provision.—** — The application of the provisions of section 221(c) of the Medicare Access and CHIP Reauthorization Act of 2015, section 50901(e) of the Advancing Chronic Care, Extenders, and Social Services Act, section 3831 of the CARES Act, section 2101 of the Continuing Appropriations Act, 2021 and Other Extensions Act,,22 So in original. section 1201(d) of the Further Continuing Appropriations Act, 2021, and Other Extensions Act, and section 301(d) of division BB of the Consolidated Appropriations Act, 2021.2 shall continue to apply to the amounts transferred pursuant to paragraph (1).
+(4) **Application of provision.—** — The application of the provisions of section 221(c) of the Medicare Access and CHIP Reauthorization Act of 2015, section 50901(e) of the Advancing Chronic Care, Extenders, and Social Services Act, section 3831 of the CARES Act, section 2101 of the Continuing Appropriations Act, 2021 and Other Extensions Act,,22 So in original. section 1201(d) of the Further Continuing Appropriations Act, 2021, and Other Extensions Act, and section 301(d) of division BB of the Consolidated Appropriations Act, 2021.12\ shall continue to apply to the amounts transferred pursuant to paragraph (1).
 
 ### Statutory Notes
 
@@ -624,6 +624,10 @@ Section 1201(d) of the Further Continuing Appropriations Act, 2021, and Other Ex
 Section 301(d) of division BB of the Consolidated Appropriations Act, 2021, referred to in subsec. (h)(4), is section 301(d) of Pub. L. 116–260, div. BB, title III, Dec. 27, 2020, 134 Stat. 2922, which related to application of amounts appropriated pursuant to the amendments made by that section and is not classified to the Code.
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 117–70 substituted “February 18, 2022” for “December 31, 2021” in introductory provisions.
+
+Pub. L. 117–43 substituted “December 31, 2021” for “September 30, 2021” in introductory provisions.
+
 2020—Subsec. (h)(4). Pub. L. 116–260 substituted “, section 1201(d) of the Further Continuing Appropriations Act, 2021, and Other Extensions Act, and section 301(d) of division BB of the Consolidated Appropriations Act, 2021.” for “and section 1201(d) of the Further Continuing Appropriations Act, 2021, and Other Extensions Act”.
 
 Pub. L. 116–215 substituted “Social Services Act,” for “Social Services Act,,” and “section 2101 of the Continuing Appropriations Act, 2021 and Other Extensions Act, and section 1201(d) of the Further Continuing Appropriations Act, 2021, and Other Extensions Act” for “and section 2101 of the Continuing Appropriations Act, 2021 and Other Extensions Act”.

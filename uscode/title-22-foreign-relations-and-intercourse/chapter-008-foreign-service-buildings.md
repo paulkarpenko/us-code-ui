@@ -2,7 +2,7 @@
 title: 22
 chapter: '8'
 heading: FOREIGN SERVICE BUILDINGS
-section_count: 19
+section_count: 21
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22&num=0&edition=prelim
 ---
@@ -41,6 +41,23 @@ Subsec. (b). Pub. L. 95–105, § 106(a)(2), substituted “to carry out” for 
 1963—Pub. L. 88–94 struck out “, subject to the direction of the commission hereinafter established,” after “is empowered”, “under such terms and conditions as in the judgment of the commission may best protect the interests of the United States,” after “in part,” and “, to the extent deemed advisable by the commission,” after “consolidating” and substituted “. The space in such buildings shall be allotted by the Secretary of State” for “, which buildings shall be appropriately designated by the commission, and the space in which shall be allotted by the Secretary of State under the direction of the commission.”
 
 1928—Act May 29, 1928, inserted “or by exchange, in whole or in part, under such terms and conditions as in the judgment of the commission may best protect the interest of the United States, of any building or grounds of the United States in foreign countries and under the jurisdiction and control of the Secretary of State”.
+
+#### Standard Design in Capital Construction
+Pub. L. 117–81, div. E, title LII, § 5202, Dec. 27, 2021, 135 Stat. 2353, provided that: “(a) Sense of Congress.—It is the sense of Congress that the Department’s Bureau of Overseas Building Operations (OBO) or successor office should give appropriate consideration to standardization in construction, in which each new United States embassy and consulate starts with a standard design and keeps customization to a minimum. “(b) Consultation.—The Secretary shall carry out any new United States embassy compound or new consulate compound project that utilizes a non-standard design, including those projects that are in the design or pre-design phase as of the date of the enactment of this Act [Dec. 27, 2021], only in consultation with the appropriate congressional committees and the Committees on Appropriations of the Senate and the House of Representatives. The Secretary shall provide the appropriate congressional committees and the Committees on Appropriations of the Senate and the House of Representatives, for each such project, the following documentation:“(1) A comparison of the estimated full lifecycle costs of the project to the estimated full lifecycle costs of such project if it were to use a standard design. “(2) A comparison of the estimated completion date of such project to the estimated completion date of such project if it were to use a standard design. “(3) A comparison of the security of the completed project to the security of such completed project if it were to use a standard design. “(4) A justification for the Secretary’s selection of a non-standard design over a standard design for such project. “(5) A written explanation if any of the documentation necessary to support the comparisons and justification, as the case may be, described in paragraphs (1) through (4) cannot be provided. “(c) Sunset.—The consultation requirement under subsection (b) shall expire on the date that is 4 years after the date of the enactment of this Act.”
+
+[For definitions of “Department”, “Secretary”, and “appropriate congressional committees” as used in section 5202 of Pub. L. 117–81, set out above, see section 5002 of Pub. L. 117–81, set out as a note under [section 263c of this title](./chapter-007-international-bureaus-congresses-etc.md#section-263c).]
+
+[For definition of “non-standard design” as used in section 5202 of Pub. L. 117–81, set out above, see section 5214 of Pub. L. 117–81, set out as a note under [section 306 of this title](./chapter-008-foreign-service-buildings.md#section-306).]
+
+#### Value Engineering and Risk Assessment
+Pub. L. 117–81, div. E, title LII, § 5207, Dec. 27, 2021, 135 Stat. 2357, provided that: “(a) Findings.—Congress makes the following findings:“(1) Federal departments and agencies are required to use value engineering (VE) as a management tool, where appropriate, to reduce program and acquisition costs pursuant to OMB Circular A–131, Value Engineering, dated December 31, 2013. “(2) OBO has a Policy Directive and Standard Operation Procedure, dated May 24, 2017, on conducting risk management studies on all international construction projects. “(b) Notification Requirements.—“(1) Submission to authorizing committees.—Any notification that includes the allocation of capital construction and maintenance funds shall be submitted to the appropriate congressional committees. “(2) Requirement to confirm completion of value engineering and risk assessment studies.—The notifications required under paragraph (1) shall include confirmation that the Department has completed the requisite VE and risk management process described in subsection (a), or applicable successor process. “(c) Reporting and Briefing Requirements.—The Secretary shall provide to the appropriate congressional committees upon request—“(1) a description of each risk management study referred to in subsection (a)(2) and a table detailing which recommendations related to each such study were accepted and which were rejected; and “(2) a report or briefing detailing the rationale for not implementing any such recommendations that may otherwise yield significant cost savings to the Department if implemented.”
+
+[For definitions of “Department”, “Secretary”, and “appropriate congressional committees” as used in section 5207 of Pub. L. 117–81, set out above, see section 5002 of Pub. L. 117–81, set out as a note under [section 263c of this title](./chapter-007-international-bureaus-congresses-etc.md#section-263c).]
+
+#### Statement of Policy
+Pub. L. 117–81, div. E, title LII, § 5213, Dec. 27, 2021, 135 Stat. 2358, provided that: “It is the policy of the United States that the Bureau of Overseas Building Operations of the Department or its successor office shall continue to balance functionality and security with accessibility, as defined by guidelines established by the United States Access Board in constructing embassies and consulates, and shall ensure compliance with the Architectural Barriers Act of 1968 ([42 U.S.C. 4151](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4151&num=0&edition=prelim) et seq.) to the fullest extent possible.”
+
+[For definition of “Department” as used in section 5213 of Pub. L. 117–81, set out above, see section 5002 of Pub. L. 117–81, set out as a note under [section 263c of this title](./chapter-007-international-bureaus-congresses-etc.md#section-263c).]
 
 #### Property Agreements
 Pub. L. 103–236, title I, § 134, Apr. 30, 1994, 108 Stat. 396, as amended by Pub. L. 103–415, § 1(z), Oct. 25, 1994, 108 Stat. 4302, provided that: “Whenever the Department of State enters into lease-purchase agreements involving property in foreign countries pursuant to section 1 of the Foreign Service Buildings Act, 1926 ([22 U.S.C. 292](./chapter-008-foreign-service-buildings.md#section-292)), the Department shall account for such transactions in accordance with fiscal year obligations.”
@@ -485,18 +502,28 @@ Section, act May 7, 1926, ch. 250, § 12, as added Pub. L. 105–277, div. G, su
 
 
 <a id="section-304"></a>
-## § 304. Annual report on embassy construction costs
-**(a) In general** Not later than 180 days after December 16, 2016, and annually thereafter, the Secretary shall submit to the appropriate congressional committees and the Committees on Appropriations of the Senate and the House of Representatives a comprehensive report regarding all ongoing embassy construction projects and major embassy security upgrade projects.
+## § 304. Biannual report on overseas capital construction projects
+**(a) In general** Not later than 180 days after December 27, 2021, and every 180 days thereafter until the date that is 4 years after such date, the Secretary shall submit to the appropriate congressional committees and the Committees on Appropriations of the Senate and the House of Representatives a comprehensive report regarding all ongoing overseas capital construction projects and major embassy security upgrade projects.
 
-**(b) Contents** Each report required under subsection (a) shall include the following with respect to each ongoing embassy construction projects and major embassy security upgrade projects:
+**(b) Contents** Each report required under subsection (a) shall include the following with respect to each ongoing overseas capital construction project and major embassy security upgrade project:
 
-(1) The initial cost estimate.
+(1) The initial cost estimate as specified in the proposed allocation of capital construction and maintenance funds required by the Committees on Appropriations for Acts making appropriations for the Department of State, foreign operations, and related programs.
 
-(2) The amount expended on the project to date.
+(2) The current cost estimate.
 
-(3) The projected timeline for completing the project.
+(3) The value of each request for equitable adjustment received by the Department to date.
 
-(4) Any cost overruns incurred by the project.
+(4) The value of each certified claim received by the Department to date.
+
+(5) The value of any usage of the project’s contingency fund to date and the value of the remainder of the project’s contingency fund.
+
+(6) An enumerated list of each request for adjustment and certified claim that remains outstanding or unresolved.
+
+(7) An enumerated list of each request for equitable adjustment and certified claim that has been fully adjudicated or that the Department has settled, and the final dollar amount of each adjudication or settlement.
+
+(8) The date of estimated completion specified in the proposed allocation of capital construction and maintenance funds required by the Committees on Appropriations not later than 45 days after the date of the enactment of an Act making appropriations for the Department of State, foreign operations, and related programs.
+
+(9) The current date of estimated completion.
 
 **(c) Initial report** The first report required under subsection (a) shall include an annex regarding all embassy construction projects and major embassy security upgrade projects completed during the 10-year period ending on December 16, 2016, including, for each such project, the following:
 
@@ -514,7 +541,67 @@ Section, act May 7, 1926, ch. 250, § 12, as added Pub. L. 105–277, div. G, su
 Section was enacted as part of the Department of State Authorities Act, Fiscal Year 2017, and not as part of the Foreign Service Buildings Act, 1926, which comprises this chapter.
 
 #### Amendments
+2021—Pub. L. 117–81, § 5203(a)(1), substituted “Biannual report on overseas capital construction projects” for “Annual report on embassy construction costs” in section catchline.
+
+Subsec. (a). Pub. L. 117–81, § 5203(a)(2), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “Not later than 180 days after December 16, 2016, and annually thereafter, the Secretary shall submit to the appropriate congressional committees and the Committees on Appropriations of the Senate and the House of Representatives a comprehensive report regarding all ongoing embassy construction projects and major embassy security upgrade projects.”
+
+Subsec. (b). Pub. L. 117–81, § 5203(a)(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “Each report required under subsection (a) shall include the following with respect to each ongoing embassy construction projects and major embassy security upgrade projects:
+
+“(1) The initial cost estimate.
+
+“(2) The amount expended on the project to date.
+
+“(3) The projected timeline for completing the project.
+
+“(4) Any cost overruns incurred by the project.”
+
 2017—Subsec. (a). Pub. L. 115–94 inserted “and the Committees on Appropriations of the Senate and the House of Representatives” after “appropriate congressional committees”.
 
 #### Definitions
 For definitions of “Secretary” and “appropriate congressional committees” as used in this section, see section 2 of Pub. L. 114–323, set out as a note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651).
+
+
+<a id="section-305"></a>
+## § 305. Growth projections for new embassies and consulates
+**(a) In general** For each new United States embassy compound (NEC) and new consulate compound project (NCC) in or not yet in the design phase as of December 27, 2021, the Department shall project growth over the estimated life of the facility using all available and relevant data, including the following:
+
+(1) Relevant historical trends for Department personnel and personnel from other agencies represented at the NEC or NCC that is to be constructed.
+
+(2) An analysis of the tradeoffs between risk and the needs of United States Government policy conducted as part of the most recent Vital Presence Validation Process, if applicable.
+
+(3) Reasonable assumptions about the strategic importance of the NEC or NCC, as the case may be, over the life of the building at issue.
+
+(4) Any other data that would be helpful in projecting the future growth of NEC or NCC.
+
+**(b) Other Federal agencies** The head of each Federal agency represented at a United States embassy or consulate shall provide to the Secretary, upon request, growth projections for the personnel of each such agency over the estimated life of each embassy or consulate, as the case may be.
+
+**(c) Basis for estimates** The Department shall base its growth assumption for all NECs and NCCs on the estimates required under subsections (a) and (b).
+
+**(d) Congressional notification** Any congressional notification of site selection for a NEC or NCC submitted after December 27, 2021 shall include the growth assumption used pursuant to subsection (c).
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Department of State Authorization Act of 2021 and also as part of the National Defense Authorization Act for Fiscal Year 2022, and not as part of the Foreign Service Buildings Act, 1926, which comprises this chapter.
+
+#### Definitions
+For definitions of “Department” and “Secretary” as used in this section, see section 5002 of Pub. L. 117–81, set out as a note under [section 263c of this title](./chapter-007-international-bureaus-congresses-etc.md#section-263c).
+
+
+<a id="section-306"></a>
+## § 306. Contracting methods in capital construction
+**(a) Delivery** Unless the Secretary of State notifies the appropriate congressional committees that the use of the design-build project delivery method would not be appropriate, the Secretary shall make use of such method at United States diplomatic posts that have not yet received design or capital construction contracts as of December 27, 2021.
+
+**(b) Notification** Before executing a contract for a delivery method other than design-build in accordance with subsection (a), the Secretary of State shall notify the appropriate congressional committees in writing of the decision, including the reasons therefor. The notification required by this subsection may be included in any other report regarding a new United States diplomatic post that is required to be submitted to the appropriate congressional committees.
+
+**(c) Performance evaluation** Not later than 180 days after December 27, 2021, the Secretary of State shall report to the appropriate congressional committees regarding performance evaluation measures in accordance with GAO’s “Standards for Internal Control in the Federal Government” that will be applicable to design and construction, lifecycle cost, and building maintenance programs of the Bureau of Overseas Building Operations of the Department.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Department of State Authorization Act of 2021 and also as part of the National Defense Authorization Act for Fiscal Year 2022, and not as part of the Foreign Service Buildings Act, 1926, which comprises this chapter.
+
+#### Definitions
+For definitions of “appropriate congressional committees” and “Department” as used in this section, see section 5002 of Pub. L. 117–81, set out as a note under [section 263c of this title](./chapter-007-international-bureaus-congresses-etc.md#section-263c).
+
+Pub. L. 117–81, div. E, title LII, § 5214, Dec. 27, 2021, 135 Stat. 2359, provided that: “In this title [enacting this section and [section 305 of this title](./chapter-008-foreign-service-buildings.md#section-305), amending sections 304 and 4852 of this title, and enacting provisions set out as notes under sections 292, 4802, and 4851 of this title]: “(1) Design-build.—The term ‘design-build’ means a method of project delivery in which one entity works under a single contract with the Department to provide design and construction services. “(2) Non-standard design.—The term ‘non-standard design’ means a design for a new embassy compound project or new consulate compound project that does not utilize a standardized design for the structural, spatial, or security requirements of such embassy compound or consulate compound, as the case may be.”

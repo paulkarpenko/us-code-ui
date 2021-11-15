@@ -410,7 +410,7 @@ Section effective Sept. 15, 1981, but the authority to prescribe regulations und
 
 **(c)** A selection board convened under [section 611(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section611/a&num=0&edition=prelim) shall include in its report to the Secretary concerned the name of any officer considered and not recommended for promotion by the board who submitted to the board a request not to be selected for promotion or who otherwise directly caused his nonselection through written communication to the Board under [section 614(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section614/b&num=0&edition=prelim).
 
-**(d)** A selection board convened under [section 611(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section611/a&num=0&edition=prelim) shall, when authorized under section [section 616(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section616/h&num=0&edition=prelim), include in its report to the Secretary concerned the names of those officers recommended by the board to be placed higher on the promotion list and the order in which the board recommends that those officers should be placed on the list.
+**(d)** A selection board convened under [section 611(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section611/a&num=0&edition=prelim) shall, when authorized under [section 616(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section616/h&num=0&edition=prelim), include in its report to the Secretary concerned the names of those officers recommended by the board to be placed higher on the promotion list and the order in which the board recommends that those officers should be placed on the list.
 
 ### Statutory Notes
 
@@ -571,7 +571,7 @@ Nothing in section 1 of Ex. Ord. No. 12396 deemed to delegate authority vested i
 
   (B) Two years, in the case of an officer holding a permanent appointment in the grade of first lieutenant or lieutenant (junior grade), except that the minimum period of service in effect under this subparagraph before October 1, 2008, shall be eighteen months.
 
-(2) Subject to paragraph (4), an officer who is on the active-duty list of the Army, Air Force, Marine Corps, or Space Force and holds a permanent appointment in a grade above first lieutenant or is on the active-duty list of the Navy and holds a permanent appointment in a grade above lieutenant (junior grade) may not be considered for selection for promotion to the next higher permanent grade until he has completed the following period of service in the grade in which he holds a permanent appointment:
+(2) Subject to paragraph (5), an officer who is on the active-duty list of the Army, Air Force, Marine Corps, or Space Force and holds a permanent appointment in a grade above first lieutenant or is on the active-duty list of the Navy and holds a permanent appointment in a grade above lieutenant (junior grade) may not be considered for selection for promotion to the next higher permanent grade until he has completed the following period of service in the grade in which he holds a permanent appointment:
 
   (A) Three years, in the case of an officer of the Army, Air Force, Marine Corps, or Space Force holding a permanent appointment in the grade of captain, major, or lieutenant colonel or of an officer of the Navy holding a permanent appointment in the grade of lieutenant, lieutenant commander, or commander.
 
@@ -579,9 +579,11 @@ Nothing in section 1 of Ex. Ord. No. 12396 deemed to delegate authority vested i
 
 (3) When the needs of the service require, the Secretary of the military department concerned may prescribe a longer period of service in grade for eligibility for promotion, in the case of officers to whom paragraph (1) applies, or for eligibility for consideration for promotion, in the case of officers to whom paragraph (2) applies.
 
-(4) The Secretary of the military department concerned may waive paragraph (2) to the extent necessary to assure that officers described in subparagraph (A) of such paragraph have at least two opportunities for consideration for promotion to the next higher grade as officers below the promotion zone.
+(4) When the needs of the service require, the Secretary of the military department concerned may prescribe a shorter period of service in grade, but not less than two years, for eligibility for consideration for promotion, in the case of officers designated for limited duty to whom paragraph (2) applies.
 
-(5) In computing service in grade for purposes of this section, service in a grade held as a result of assignment to a position is counted as service in the grade in which the officer would have served except for such assignment or appointment.
+(5) The Secretary of the military department concerned may waive paragraph (2) to the extent necessary to assure that officers described in subparagraph (A) of such paragraph have at least two opportunities for consideration for promotion to the next higher grade as officers below the promotion zone.
+
+(6) In computing service in grade for purposes of this section, service in a grade held as a result of assignment to a position is counted as service in the grade in which the officer would have served except for such assignment or appointment.
 
 **(b) Continued Eligibility for Consideration for Promotion of Officers Who Have Previously Failed of Selection.—**
 
@@ -650,7 +652,11 @@ Nothing in section 1 of Ex. Ord. No. 12396 deemed to delegate authority vested i
 ### Statutory Notes
 
 #### Amendments
-2021—Subsec. (a)(1), (2). Pub. L. 116–283 substituted “Marine Corps, or Space Force” for “or Marine Corps” wherever appearing.
+2021—Subsec. (a). Pub. L. 116–283 substituted “Marine Corps, or Space Force” for “or Marine Corps” wherever appearing.
+
+Subsec. (a)(2). Pub. L. 117–81, § 502(1), substituted “paragraph (5)” for “paragraph (4)”.
+
+Subsec. (a)(4) to (6). Pub. L. 117–81, § 502(2), (3), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
 
 2018—Subsec. (d)(6). Pub. L. 115–232, § 505(a)(1), added par. (6).
 
@@ -1276,11 +1282,11 @@ Amendment by Pub. L. 102–190 effective Feb. 1, 1992, see section 1132 of Pub. 
 #### Effective Date
 Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under [section 101 of this title](./chapter-001-definitions.md#section-101).
 
-#### Delegation of Functions
-Functions of President under subsec. (d)(1) to approve, modify, or disapprove report of a selection board delegated to Secretary of Defense to perform, without approval, ratification, or other action by President, and with authority for Secretary to redelegate, see Ex. Ord. No. 12396, §§ 1(a), 3, Dec. 9, 1982, 47 F.R. 55897, 55898, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
-
 #### Ratification of Codified Practice
 Pub. L. 105–261, div. A, title V, § 501(f), Oct. 17, 1998, 112 Stat. 2002, provided that the consideration by a special selection board convened under this section before Oct. 17, 1998, of a person who, at the time of consideration, had been a retired officer or former officer of the Armed Forces (including a deceased retired or former officer) was ratified.
+
+#### Delegation of Functions
+Functions of President under subsec. (d)(1) to approve, modify, or disapprove report of a selection board delegated to Secretary of Defense to perform, without approval, ratification, or other action by President, and with authority for Secretary to redelegate, see Ex. Ord. No. 12396, §§ 1(a), 3, Dec. 9, 1982, 47 F.R. 55897, 55898, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
 
 
 <a id="section-628a"></a>
@@ -2374,7 +2380,7 @@ Section effective on the first day of the first month beginning more than 180 da
 ## § 649c. Eligibility for consideration for promotion
 **(a) In General.—** Except as provided by this section, eligibility for promotion of officers in any competitive category of officers designated for purposes of this subchapter shall be governed by the provisions of [section 619 of this title](./chapter-036-promotion-separation-and-involuntary-retirement-of-officers-on-the-active-duty-list.md#section-619).
 
-**(b) Inapplicability of Certain Time-in-grade Requirements.—** Paragraphs (2) through (4) of [section 619(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section619/a&num=0&edition=prelim) shall not apply to the promotion of officers described in subsection (a).
+**(b) Inapplicability of Certain Time-in-grade Requirements.—** Paragraphs (2) through (4) 11 See References in Text note below. of [section 619(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section619/a&num=0&edition=prelim) shall not apply to the promotion of officers described in subsection (a).
 
 **(c) Inapplicability to Officers Above and Below Promotion Zone.—** The following provisions of [section 619(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section619/c&num=0&edition=prelim) shall not apply to the promotion of officers described in subsection (a):
 
@@ -2395,6 +2401,9 @@ Section effective on the first day of the first month beginning more than 180 da
 (4) An officer recommended by a selection board to be removed from consideration for promotion in accordance with [section 649b(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section649b/c&num=0&edition=prelim).
 
 ### Statutory Notes
+
+#### References in Text
+Paragraph (4) of [section 619(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section619/a&num=0&edition=prelim), referred to in subsec. (b), was redesignated paragraph (5) of [section 619(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section619/a&num=0&edition=prelim) by Pub. L. 117–81, div. A, title V, § 502(2), Dec. 27, 2021, 135 Stat. 1680.
 
 #### Amendments
 2021—Subsecs. (d), (e). Pub. L. 116–283 added subsec. (d) and redesignated former subsec. (d) as (e).

@@ -1927,7 +1927,7 @@ Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Bo
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).
 
-#### Construction of Division N of Public Law 116–260
+#### Construction of Div. N of Pub. L. 116–260
 Pub. L. 116–260, div. N, title X, § 1006, Dec. 27, 2020, 134 Stat. 2147, provided that: “Except as expressly set forth in paragraphs (1) and (2) of subsection (c) of section 4029 of the CARES Act [[15 U.S.C. 9063(c)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9063/c/1&num=0&edition=prelim), (2)], as added by this Act, nothing in this Act [div. N of Pub. L. 116–260, see Tables for classification] shall be construed to modify or limit the authority of the Board of Governors of the Federal Reserve System under section 13(3) of the Federal Reserve Act ([12 U.S.C. 343(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section343/3&num=0&edition=prelim)) as of the day before the date of enactment of the CARES Act (Public Law 116–136) [Mar. 27, 2020].”
 
 #### References to Third Undesignated Paragraph Deemed To Be References to Paragraph (3)

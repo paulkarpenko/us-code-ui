@@ -76,7 +76,7 @@ In maintaining camps established under [section 9481 of this title](./chapter-95
 The word “supplies” is substituted for the words “such arms, ammunition, accoutrements, equipments, tentage, field equipage”, since, under the definition of the word “supplies”, in [section 101(26) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/26&num=0&edition=prelim), those words are covered by the word “supplies”. The words “belonging to the United States”, “and imparting military instruction and training thereat”, “during the period of their attendance”, “theoretical and practical instruction”, “persons attending the camps authorized by this section”, and “as he may deem” are omitted as surplusage. The word “detail” is substituted for the word “employ”. The word “members” is substituted for the words “officers, warrant officers, and enlisted men”.
 
 #### Amendments
-2021—Par. (4). Pub. L. 116–283, § 923(d)(17)(A), inserted “or the Regular Space Force” after Regular Air Force”.
+2021—Par. (4). Pub. L. 116–283, § 923(d)(17)(A), inserted “or the Regular Space Force” after “Regular Air Force”.
 
 Par. (7). Pub. L. 116–283, § 923(d)(17)(B), inserted “or Space Force” after “Air Force” in introductory provisions.
 
@@ -114,7 +114,7 @@ In subsection (b), the words “of the actual performance of the same” are omi
 Subsection (c) is substituted for the words “the most usual and direct route within such limits as to territory as the Secretary of the Army may prescribe * * * for the distance by the shortest usually traveled route from the places from which they are authorized to proceed to the camp, and for the return travel thereto”.
 
 #### Amendments
-2018—Pub. L. 115–232, § 806(a)(2), renumbered [section 9413 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9413&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232, § 806(a)(2), renumbered [section 9413 of this title](./chapter-951-training-generally.md#section-9413) as this section.
 
 Subsec. (a). Pub. L. 115–232, § 809(a), substituted “section 9481” for “section 9411” in introductory provisions.
 

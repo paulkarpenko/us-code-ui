@@ -868,12 +868,16 @@ Section applicable with respect to pay and allowances deposited (or scheduled to
 
 (7) The Defense Institute for Security Governance.
 
+(8) The Defense Institute of International Legal Studies.
+
 **(d) Application to Faculty Members at NDU.—** In the case of the National Defense University, this section applies with respect to persons selected by the Secretary for employment as professors, instructors, and lecturers at the National Defense University after February 27, 1990.
 
 ### Statutory Notes
 
 #### Amendments
 2021—Subsec. (c)(6), (7). Pub. L. 116–283 added pars. (6) and (7).
+
+Subsec. (c)(8). Pub. L. 117–81 added par. (8).
 
 2018—Subsec. (c)(5). Pub. L. 115–232 added par. (5).
 
@@ -1046,11 +1050,13 @@ Pub. L. 108–375, div. A, title XI, § 1102(b), Oct. 28, 2004, 118 Stat. 2072, 
 
 **(d) Involuntary Reductions of Civilian Positions.—** The Secretary of Defense may not implement any involuntary reduction or furlough of civilian positions in a military department, Defense Agency, or other component of the Department of Defense until the expiration of the 45-day period beginning on the date on which the Secretary submits to Congress a report setting forth the reasons why such reductions or furloughs are required and a description of any change in workload or positions requirements that will result from such reductions or furloughs.
 
-**(e) Reductions Based Primarily on Performance.—** The Secretary of Defense shall establish procedures to provide that, in implementing any reduction in force for civilian positions in the Department of Defense in the competitive service or the excepted service, the determination of which employees shall be separated from employment in the Department shall be made primarily on the basis of performance, as determined under any applicable performance management system.
+**(e) Consideration of Employee Performance in Reductions.—** The Secretary of Defense shall establish procedures to provide that, in implementing any reduction in force for civilian positions in the Department of Defense in the competitive service or the excepted service, the determination of which employees shall be separated from employment in the Department shall, among other factors as determined by the Secretary, account for employee performance, as determined under any applicable performance management system.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (e). Pub. L. 117–81 substituted “Consideration of Employee Performance in Reductions” for “Reductions Based Primarily on Performance” in heading and “, among other factors as determined by the Secretary, account for employee” for “be made primarily on the basis of” in text.
+
 2017—Subsec. (c). Pub. L. 115–91, § 1051(a)(6)(A)(iii), struck out “or a master plan prepared under subsection (c)” after “established under subsection (b)”.
 
 Pub. L. 115–91, § 1051(a)(6)(A)(ii), which directed the “striking” of subsec. (d) as (c), was executed by redesignating subsec. (d) as (c), to reflect the probable intent of Congress.
@@ -1187,10 +1193,10 @@ Subsec. (d)(2)(A), (B). Pub. L. 104–201 substituted “two school years” for
 Subsec. (e)(4). Pub. L. 103–35 struck out par. (4) which read as follows: “A person who receives a stipend under [section 4436 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4436&num=0&edition=prelim) shall not be paid a stipend pursuant to paragraph (1).”
 
 #### Effective Date of 1993 Amendment
-Pub. L. 103–160, div. A, title XIII, § 1331(h), Nov. 30, 1993, 107 Stat. 1793, provided that: “The amendments made by subsections (c) and (d) [amending this section and sections 1151 and 2410j of this title] shall not apply with respect to— “(1) persons selected by the Secretary of Defense before the date of the enactment of this Act [Nov. 30, 1993] to participate in the teacher and teacher’s aide placement programs established pursuant to sections 1151, 1598, and 2410j of title 10, United States Code; or “(2) agreements entered into by the Secretary before such date with local educational agencies under such sections.”
+Pub. L. 103–160, div. A, title XIII, § 1331(h), Nov. 30, 1993, 107 Stat. 1793, provided that: “The amendments made by subsections (c) and (d) [amending this section and sections 1151 and 2410j of this title] shall not apply with respect to— “(1) persons selected by the Secretary of Defense before the date of the enactment of this Act [Nov. 30, 1993] to participate in the teacher and teacher’s aide placement programs established pursuant to sections 1151, 1598, and 2410j [now [10 U.S.C. 4703](./chapter-365-contractor-workforce.md#section-4703)] of title 10, United States Code; or “(2) agreements entered into by the Secretary before such date with local educational agencies under such sections.”
 
 #### Savings Provision
-Pub. L. 104–201, div. A, title V, § 576(d), Sept. 23, 1996, 110 Stat. 2535, provided that: “The amendments made by this section [amending this section and sections 1151 and 2410j of this title] do not affect obligations under agreements entered into in accordance with section 1151, 1598, or 2410j of title 10, United States Code, before the date of the enactment of this Act [Sept. 23, 1996].”
+Pub. L. 104–201, div. A, title V, § 576(d), Sept. 23, 1996, 110 Stat. 2535, provided that: “The amendments made by this section [amending this section and sections 1151 and 2410j of this title] do not affect obligations under agreements entered into in accordance with section 1151, 1598, or 2410j [now [10 U.S.C. 4703](./chapter-365-contractor-workforce.md#section-4703)] of title 10, United States Code, before the date of the enactment of this Act [Sept. 23, 1996].”
 
 
 <a id="section-1599"></a>
@@ -1345,8 +1351,17 @@ Pub. L. 107–314, div. A, title XI, § 1104(b), Dec. 2, 2002, 116 Stat. 2661, p
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 117–81, div. A, title XI, § 1106(a)(1), Dec. 27, 2021, 135 Stat. 1950, provided that, effective Dec. 31, 2022, this section is repealed.
+
+#### Effective Date of Repeal
+Pub. L. 117–81, div. A, title XI, § 1106(a)(1), Dec. 27, 2021, 135 Stat. 1950, provided that the repeal of this section is effective Dec. 31, 2022.
+
 #### Effective Date
 Pub. L. 114–92, div. A, title XI, § 1105(b), Nov. 25, 2015, 129 Stat. 1024, provided that: “The amendment made by subsection (a) [enacting this section] shall apply to any covered employee (as that term is defined in [section 1599e of title 10](./chapter-081-civilian-employees.md#section-1599e), United States Code, as added by such subsection) appointed after the date of the enactment of this section [Nov. 25, 2015].”
+
+#### Application
+Pub. L. 117–81, div. A, title XI, § 1106(a)(2), Dec. 27, 2021, 135 Stat. 1950, provided that: “The modification of probationary periods for covered employees (as that term is defined in such section 1599e as in effect on the date immediately preceding the date of enactment of this Act [Dec. 27, 2021]) by operation of the amendment made by paragraph (1) [repealing this section] shall only apply to an individual appointed as such an employee on or after the effective date specified in paragraph (1) [set out above].”
 
 
 <a id="section-1599f"></a>
@@ -1607,108 +1622,7 @@ Pub. L. 116–283, div. A, title XI, § 1102(b)–(d), Jan. 1, 2021, 134 Stat. 3
 
 
 <a id="section-1599h"></a>
-## § 1599h. Personnel management authority to attract experts in science and engineering
-**(a) Programs Authorized.—**
-
-(1) **Laboratories of the military departments.—** — The Secretary of Defense may carry out a program of personnel management authority provided in subsection (b) in order to facilitate recruitment of eminent experts in science or engineering for such laboratories of the military departments as the Secretary shall designate for purposes of the program for research and development projects of such laboratories.
-
-(2) **DARPA.—** — The Director of the Defense Advanced Research Projects Agency may carry out a program of personnel management authority provided in subsection (b) in order to facilitate recruitment of eminent experts in science or engineering for research and development projects and to enhance the administration and management of the Agency.
-
-(3) **DOTE.—** — The Director of the Office of Operational Test and Evaluation may carry out a program of personnel management authority provided in subsection (b) in order to facilitate recruitment of eminent experts in science or engineering to support operational test and evaluation missions of the Office.
-
-(4) **Strategic capabilities office.—** — The Director of the Strategic Capabilities Office may carry out a program of personnel management authority provided in subsection (b) in order to facilitate recruitment of eminent experts in science or engineering for the Office.
-
-(5) **DIU.—** — The Director of the Defense Innovation Unit may carry out a program of personnel management authority provided in subsection (b) in order to facilitate recruitment of eminent experts in science or engineering for the Unit.
-
-(6) **Joint artificial intelligence center.—** — The Director of the Joint Artificial Intelligence Center may carry out a program of personnel management authority provided in subsection (b) in order to facilitate recruitment of eminent experts in science or engineering for the Center. The authority to carry out the program under this paragraph shall terminate on December 31, 2024.
-
-(7) **11 So in original. Two pars. (7) have been enacted. NGA.—** — The Director of the National Geospatial-Intelligence Agency may carry out a program of personnel management authority provided in subsection (b) in order to facilitate recruitment of eminent experts in science or engineering for research and development projects and to enhance the administration and management of the Agency.
-
-(7) **1 SDA.—** — The Director of the Space Development Agency may carry out a program of personnel management authority provided in subsection (b) in order to facilitate recruitment of eminent experts in science or engineering for research and development projects and to enhance the administration and management of the Agency. The authority to carry out the program under this paragraph shall terminate on December 31, 2025.
-
-(8) **United states cyber command.—** — The Commander of United States Cyber Command may carry out a program of personnel management authority provided in subsection (b) in order to facilitate the recruitment of eminent experts in computer science, data science, engineering, mathematics, and computer network exploitation within the headquarters of United States Cyber Command and the Cyber National Mission Force.
-
-**(b) Personnel Management Authority.—** Under a program under subsection (a), the official responsible for administration of the program may—
-
-(1) without regard to any provision of title 5 governing the appointment of employees in the civil service—
-
-  (A) in the case of the laboratories of the military departments designated pursuant to subsection (a)(1), appoint scientists and engineers to a total of not more than 40 scientific and engineering positions in such laboratories;
-
-  (B) in the case of the Defense Advanced Research Projects Agency, appoint individuals to a total of not more than 140 positions in the Agency, of which not more than 5 such positions may be positions of administration or management of the Agency;
-
-  (C) in the case of the Office of Operational Test and Evaluation, appoint scientists and engineers to a total of not more than 10 scientific and engineering positions in the Office;
-
-  (D) in the case of the Strategic Capabilities Office, appoint scientists and engineers to a total of not more than 5 scientific and engineering positions in the Office;
-
-  (E) in the case of the Defense Innovation Unit, appoint scientists and engineers to a total of not more than 5 scientific and engineering positions in the Unit;
-
-  (F) in the case of the Joint Artificial Intelligence Center, appoint scientists and engineers to a total of not more than 5 scientific and engineering positions in the Center;
-
-  (G) 33 So in original. Two subpars. (G) have been enacted. in the case of the National Geospatial-Intelligence Agency, appoint individuals to a total of not more than 7 positions in the Agency, of which not more than 2 such positions may be positions of administration or management in the Agency;
-
-  (G) 3 in the case of the Space Development Agency, appoint individuals to a total of not more than 10 positions in the Agency, of which not more than 3 such positions may be positions of administration or management of the Agency; and
-
-  (H) in the case of United States Cyber Command, appoint computer scientists, data scientists, engineers, mathematicians, and computer network exploitation specialists to a total of not more than 10 scientific and engineering positions in the Command;
-
-(2) notwithstanding any provision of title 5 governing the rates of pay or classification of employees in the executive branch, prescribe the rates of basic pay for positions to which employees are appointed under paragraph (1)—
-
-  (A) in the case of employees appointed pursuant to paragraph (1)(B) to any of 5 positions designated by the Director of the Defense Advanced Research Projects Agency for purposes of this subparagraph, at rates not in excess of a rate equal to 150 percent of the maximum rate of basic pay authorized for positions at Level I of the Executive Schedule under [section 5312 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5312&num=0&edition=prelim); and
-
-  (B) in the case of any other employee appointed pursuant to paragraph (1), at rates not in excess of the maximum rate of basic pay authorized for senior-level positions under [section 5376 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim); and
-
-(3) pay any employee appointed under paragraph (1), other than an employee appointed to a position designated as described in paragraph (2)(A), payments in addition to basic pay within the limit applicable to the employee under subsection (d).
-
-**(c) Limitation on Term of Appointment.—**
-
-(1) **In general.—** — Except as provided in paragraph (2), the service of an employee under an appointment under subsection (b)(1) may not exceed four years.
-
-(2) **Extension.—** — The official responsible for the administration of a program under subsection (a) may, in the case of a particular employee under the program, extend the period to which service is limited under paragraph (1) by up to two years if the official determines that such action is necessary to promote the efficiency of a laboratory of a military department, the Defense Advanced Research Projects Agency, the Office of Operational Test and Evaluation, the Strategic Capabilities Office, the Defense Innovation Unit, the Joint Artificial Intelligence Center, or the National Geospatial-Intelligence Agency, as applicable.
-
-**(d) Maximum Amount of Additional Payments Payable.—** Notwithstanding any other provision of this section or [section 5307 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5307&num=0&edition=prelim), no additional payments may be paid to an employee under subsection (b)(3) in any calendar year if, or to the extent that, the employee’s total annual compensation in such calendar year will exceed the maximum amount of total annual compensation payable at the salary set in accordance with [section 104 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section104&num=0&edition=prelim).
-
-### Statutory Notes
-
-#### Amendments
-2021—Subsec. (a)(7). Pub. L. 116–283, § 1602(a), added par. (7) relating to the Space Development Agency.
-
-Subsec. (a)(8). Pub. L. 116–283, § 1708(a)(1), added par. (8).
-
-Subsec. (b)(1)(G). Pub. L. 116–283, § 1602(b), added subpar. (G) relating to the Space Development Agency. Similar conforming amendments to subsec. (b)(1)(E) and (F) were made by Pub. L. 116–260 and Pub. L. 116–283. Text of subsec. (b)(1)(E) reflects amendment made by Pub. L. 116–283.
-
-Subsec. (b)(1)(H). Pub. L. 116–283, § 1708(a)(2), added subpar. (H). Conforming amendment inserting “and” at end of subpar. (G) was executed to the second subpar. (G) to reflect the probable intent of Congress.
-
-2020—Subsec. (a)(7). Pub. L. 116–260, § 402(1), added par. (7) relating to the National Geospatial-Intelligence Agency.
-
-Subsec. (b)(1)(G). Pub. L. 116–260, § 402(2), added subpar. (G) relating to the National Geospatial-Intelligence Agency.
-
-Subsec. (c)(2). Pub. L. 116–260, § 402(3), substituted “the Joint Artificial Intelligence Center, or the National Geospatial-Intelligence Agency” for “or the Joint Artificial Intelligence Center”.
-
-2019—Subsec. (a)(5). Pub. L. 116–92, § 212(d)(1), substituted “DIU” for “Diux” in heading and struck out “Experimental” after “Innovation Unit”.
-
-Subsec. (a)(6). Pub. L. 116–92, § 212(a), added par. (6).
-
-Subsec. (b)(1)(B). Pub. L. 116–92, § 1101, substituted “140 positions” for “100 positions”.
-
-Subsec. (b)(1)(E). Pub. L. 116–92, § 212(d)(2), struck out “Experimental” after “Innovation Unit”.
-
-Subsec. (b)(1)(F). Pub. L. 116–92, § 212(b), added subpar. (F).
-
-Subsec. (c)(2). Pub. L. 116–92, § 212(c), substituted “the Defense Innovation Unit, or the Joint Artificial Intelligence Center” for “or the Defense Innovation Unit Experimental”.
-
-2018—Subsec. (a)(4), (5). Pub. L. 115–232, § 1111(a), added pars. (4) and (5).
-
-Subsec. (b)(1)(D), (E). Pub. L. 115–232, § 1111(b), added subpars. (D) and (E).
-
-Subsec. (c)(2). Pub. L. 115–232, § 1111(c), substituted “the Office of Operational Test and Evaluation, the Strategic Capabilities Office, or the Defense Innovation Unit Experimental” for “or the Office of Operational Test and Evaluation”.
-
-#### Program To Develop Accesses, Discover Vulnerabilities, and Engineer Cyber Tools and Develop Tactics, Techniques, and Procedures for Offensive Cyber Operations
-Pub. L. 116–283, div. A, title XVII, § 1708(b), Jan. 1, 2021, 134 Stat. 4085, provided that: “(1) In general.—Pursuant to the authority provided under [section 1599h(a)(8) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599h/a/8&num=0&edition=prelim), United States Code, as added by subsection (a), the Commander of United States Cyber Command shall establish a program or augment an existing program within the Command to develop accesses, discover vulnerabilities, and engineer cyber tools and develop tactics, techniques, and procedures for the use of these assets and capabilities in offensive cyber operations. “(2) Elements.—The program or augmented program required by paragraph (1) shall—“(A) develop accesses, discover vulnerabilities, and engineer cyber tools and develop tactics, techniques, and procedures fit for Department of Defense military operations in cyberspace, such as reliability, meeting short development and operational timelines, low cost, and expendability; “(B) aim to decrease the reliance of Cyber Command on accesses, tools, and expertise provided by the intelligence community; “(C) be designed to provide technical and operational expertise on par with that of programs of the intelligence community; “(D) enable the Commander to attract and retain expertise resident in the private sector and other technologically elite government organizations; and “(E) coordinate development activities with, and, as appropriate, facilitate transition of capabilities from, the Defense Advanced Research Projects Agency, the Strategic Capabilities Office, and components within the intelligence community. “(3) Intelligence community defined.—In this subsection, the term ‘intelligence community’ has the meaning given such term in section 3 of the National Security Act of 1947 ([50 U.S.C. 3003](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003&num=0&edition=prelim)).”
-
-#### Guidance and Direction on Use of Direct Hiring Processes for Artificial Intelligence Professionals and Other Data Science and Software Development Personnel
-Pub. L. 116–283, div. A, title XVII, § 1751, Jan. 1, 2021, 134 Stat. 4143, provided that: “(a) Guidance Required.—Not later than 180 days after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of Defense shall review applicable Department of Defense guidance and where beneficial issue new guidance to the secretaries of the military departments and the heads of the defense components on improved use of the direct hiring processes for artificial intelligence professionals and other data science and software development personnel. “(b) Objective.—The objective of the guidance issued under subsection (a) shall be to ensure that organizational leaders assume greater responsibility for the results of civilian hiring of artificial intelligence professionals and other data science and software development personnel. “(c) Contents of Guidance.—At a minimum, the guidance required by subsection (a) shall—“(1) instruct human resources professionals and hiring authorities to utilize available direct hiring authorities (including excepted service authorities) for the hiring of artificial intelligence professionals and other data science and software development personnel, to the maximum extent practicable; “(2) instruct hiring authorities, when using direct hiring authorities, to prioritize utilization of panels of subject matter experts over human resources professionals to assess applicant qualifications and determine which applicants are best qualified for a position; “(3) authorize and encourage the use of ePortfolio reviews to provide insight into the previous work of applicants as a tangible demonstration of capabilities and contribute to the assessment of applicant qualifications by subject matter experts; and “(4) encourage the use of referral bonuses for recruitment and hiring of highly qualified artificial intelligence professionals and other data science and software development personnel in accordance with volume 451 of Department of Defense Instruction 1400.25. “(d) Report.—“(1) In general.—Not later than one year after the date on which the guidance is issued under subsection (a), the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the guidance issued pursuant to subsection (a). “(2) Contents.—At a minimum, the report submitted under paragraph (1) shall address the following:“(A) The objectives of the guidance and the manner in which the guidance seeks to achieve those objectives. “(B) The effect of the guidance on the hiring process for artificial intelligence professionals and other data science and software development personnel, including the effect on—“(i) hiring time; “(ii) the use of direct hiring authority; “(iii) the use of subject matter experts; and “(iv) the quality of new hires, as assessed by hiring managers and organizational leaders.”
-
-#### Applicability of Personnel Management Authority to Personnel Currently Employed Under Superseded Authority
-Pub. L. 114–328, div. A, title XI, § 1121(c), Dec. 23, 2016, 130 Stat. 2452, provided that: “(1) In general.—Any individual employed as of the date of the enactment of this Act [Dec. 23, 2016] under section 1101(b)(1) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 ([5 U.S.C. 3104](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3104&num=0&edition=prelim) note) (as in effect on the day before such date) shall remain employed under [section 1599h of title 10](./chapter-081-civilian-employees.md#section-1599h), United States Code (as added by subsection (a)), after such date in accordance with such section 1599h and the applicable program carried out under such section 1599h. “(2) Date of appointment.—For purposes of subsection (c) of [section 1599h of title 10](./chapter-081-civilian-employees.md#section-1599h), United States Code (as so added), the date of the appointment of any employee who remains employed as described in paragraph (1) shall be the date of the appointment of such employee under section 1101(b)(1) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 ([5 U.S.C. 3104](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3104&num=0&edition=prelim) note) (as so in effect).”
+## § 1599h. Renumbered § 4092]
 
 
 <a id="section-1599i"></a>

@@ -2,7 +2,7 @@
 title: 32
 heading: NATIONAL GUARD
 positive_law: true
-sections: 75
+sections: 76
 chapters: 5
 ---
 # Title 32. NATIONAL GUARD

@@ -325,9 +325,9 @@ shall be considered to have been incurred in or aggravated by such service, notw
 The Radiation Exposure Compensation Act, referred to in subsec. (c)(4), is Pub. L. 101–426, Oct. 15, 1990, 104 Stat. 920, as amended, which is set out as a note under [section 2210 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2210&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Amendments
-2021—Subsec. (b)(1). Pub. L. 116–283 substituted “air, or space service’ for “or air service” in subpars. (A) and (B).
+2021—Subsec. (b)(1). Pub. L. 116–283 substituted “air, or space service” for “or air service” in subpars. (A) and (B).
 
-Subsec. (c)(1). Pub. L. 116–283 substituted “air, or space service’ for “or air service”.
+Subsec. (c)(1). Pub. L. 116–283 substituted “air, or space service” for “or air service”.
 
 2008—Subsec. (b)(2)(F). Pub. L. 110–389 added subpar. (F).
 
@@ -1484,7 +1484,7 @@ Subsec. (r). Pub. L. 94–433, §§ 101(a)(16), 401(5), 404(8), increased compen
 
 Subsec. (s). Pub. L. 94–433, §§ 101(a)(17), 404(8), increased compensation from $732 to $791 and substituted “such veteran’s” for “his” after “by reason of” and before “house”, respectively.
 
-1975—Subsecs. (a) to (p), (r), (s). Pub. L. 94–71 increased compensation in subsec. (a) from $32 to $35, subsec. (b) from $59 to $65, subsec. (c) from $89 to $98, subsec. (d) from $122 to $134, subsec. (e) from $171 to $188, subsec. (f) from $211 to $236, subsec. (g) from $250 to $280, subsec. (h) from $289 to $324, subsec. (i) from $325 to $364, subsec. (j) from $584 to $655, subsec. (k) from $727 and $1,017 to $814 and $1,139 respectively, subsec. (l) from $727 to $814, subsec. (m) from $800 to $896, subsec. (n) from $909 to $1,018, subsec. (o) from $1,017 to $1,139, subsec. (p) from $1,017 to $1,139, subsec. (r) from $437 to $489, and subsec. (s) from $654 to $732.
+1975—Subsecs. (a) to (p), (r), (s). Pub. L. 94–71 increased compensation in subsec. (a) from $32 to $35, subsec. (b) from $59 to $65, subsec. (c) from $89 to $98, subsec. (d) from $122 to $134, subsec. (e) from $171 to $188, subsec. (f) from $211 to $236, subsec. (g) from $250 to $280, subsec. (h) from $289 to $324, subsec. (i) from $325 to $364, subsec. (j) from $584 to $655, subsec. (k) from $727 and $1,017 to $814 and $1,139, respectively, subsec. (l) from $727 to $814, subsec. (m) from $800 to $896, subsec. (n) from $909 to $1,018, subsec. (o) from $1,017 to $1,139, subsec. (p) from $1,017 to $1,139, subsec. (r) from $437 to $489, and subsec. (s) from $654 to $732.
 
 1974—Subsecs. (a) to (p), (r), (s). Pub. L. 93–295 increased compensation in subsec. (a) from $28 to $32, subsec. (b) from $51 to $59, subsec. (c) from $77 to $89, subsec. (d) from $106 to $122, subsec. (e) from $149 to $171, subsec. (f) from $179 to $211, subsec. (g) from $212 to $250, subsec. (h) from $245 to $289, subsec. (i) from $275 to $325, subsec. (j) from $495 to $584, subsec. (k) from $47, $616 and $862 to $52, $727 and $1,017, respectively, subsec. (l) from $616 to $727, subsec. (m) from $678 to $800, subsec. (n) from $770 to $909, subsec. (o) from $862 to $1,017, subsec. (p) from $862 to $1,017, subsec. (r) from $370 to $437, and subsec. (s) from $554 to $654.
 
@@ -1658,9 +1658,33 @@ Pub. L. 85–782, § 2, Aug. 27, 1958, 72 Stat. 936, provided that the amendment
 Pub. L. 97–253, title IV, § 405, Sept. 8, 1982, 96 Stat. 803, [amending this section and sections 315, 362, 411, 413, and 414 [now 1115, 1162, 1311, 1313, and 1314] of this title and enacting provisions set out as notes under this section] was repealed by Pub. L. 97–306, title I, § 107, Oct. 14, 1982, 96 Stat. 1431. Section 405 of Pub. L. 97–253 had amended those sections relating to compensation to be effective Jan. 1, 1983, in contemplation of the later enactment of a law providing for cost-of-living increases for fiscal year 1983, with the intent that the increases provided for under section 405 of Pub. L. 97–253 be superseded by increases provided for in the later law. Pub. L. 97–306 provided for the anticipated increases and repealed section 405 of Pub. L. 97–253.
 
 #### Disability Compensation and Dependency and Indemnity Compensation Rate Increases
-Pub. L. 116–178, §§ 2(a)–(c), 3, Oct. 20, 2020, 134 Stat. 853, 854, provided that: “SEC. 2. INCREASE IN RATES OF DISABILITY COMPENSATION AND DEPENDENCY AND INDEMNITY COMPENSATION.“(a) Rate Adjustment.—Effective on December 1, 2020, the Secretary of Veterans Affairs shall increase, in accordance with subsection (c), the dollar amounts in effect on November 30, 2020, for the payment of disability compensation and dependency and indemnity compensation under the provisions specified in subsection (b). “(b) Amounts To Be Increased.—The dollar amounts to be increased pursuant to subsection (a) are the following:“(1) Wartime disability compensation.—Each of the dollar amounts under [section 1114 of title 38](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1114), United States Code. “(2) Additional compensation for dependents.—Each of the dollar amounts under section 1115(1) of such title. “(3) Clothing allowance.—The dollar amount under section 1162 of such title. “(4) Dependency and indemnity compensation to surviving spouse.—Each of the dollar amounts under subsections (a) through (d) of section 1311 of such title. “(5) Dependency and indemnity compensation to children.—Each of the dollar amounts under sections 1313(a) and 1314 of such title. “(c) Determination of Increase.—Each dollar amount described in subsection (b) shall be increased by the same percentage as the percentage by which benefit amounts payable under title II of the Social Security Act ([42 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim) et seq.) are increased effective December 1, 2020, as a result of a determination under section 215(i) of such Act ([42 U.S.C. 415(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section415/i&num=0&edition=prelim)). “SEC. 3. PUBLICATION OF ADJUSTED RATES.“The Secretary of Veterans Affairs shall publish in the Federal Register the amounts specified in section 2(b) [set out as a note above], as increased under that section, not later than the date on which the matters specified in section 215(i)(2)(D) of the Social Security Act ([42 U.S.C. 415(i)(2)(D)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section415/i/2/D&num=0&edition=prelim)) are required to be published by reason of a determination made under section 215(i) of such Act during fiscal year 2021.”
+Pub. L. 117–45, §§ 2(a)–(c), 3, Oct. 8, 2021, 135 Stat. 389, 390, provided that:
+
+SEC. 2. INCREASE IN RATES OF DISABILITY COMPENSATION AND DEPENDENCY AND INDEMNITY COMPENSATION.
+
+“(a) Rate Adjustment.—Effective on December 1, 2021, the Secretary of Veterans Affairs shall increase, in accordance with subsection (c), the dollar amounts in effect on November 30, 2021, for the payment of disability compensation and dependency and indemnity compensation under the provisions specified in subsection (b).
+
+“(b) Amounts To Be Increased.—The dollar amounts to be increased pursuant to subsection (a) are the following:
+
+“(1) Wartime disability compensation.—Each of the dollar amounts under [section 1114 of title 38](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1114), United States Code.
+
+“(2) Additional compensation for dependents.—Each of the dollar amounts under section 1115(1) of such title.
+
+“(3) Clothing allowance.—The dollar amount under section 1162 of such title.
+
+“(4) Dependency and indemnity compensation to surviving spouse.—Each of the dollar amounts under subsections (a) through (d) of section 1311 of such title.
+
+“(5) Dependency and indemnity compensation to children.—Each of the dollar amounts under sections 1313(a) and 1314 of such title.
+
+“(c) Determination of Increase.—Each dollar amount described in subsection (b) shall be increased by the same percentage as the percentage by which benefit amounts payable under title II of the Social Security Act ([42 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim) et seq.) are increased effective December 1, 2021, as a result of a determination under section 215(i) of such Act ([42 U.S.C. 415(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section415/i&num=0&edition=prelim)).
+
+SEC. 3. PUBLICATION OF ADJUSTED RATES.
+
+“The Secretary of Veterans Affairs shall publish in the Federal Register the amounts specified in section 2(b), as increased under that section, not later than the date on which the matters specified in section 215(i)(2)(D) of the Social Security Act ([42 U.S.C. 415(i)(2)(D)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section415/i/2/D&num=0&edition=prelim)) are required to be published by reason of a determination made under section 215(i) of such Act during fiscal year 2022.”
 
 Similar provisions were contained in the following acts:
+
+Pub. L. 116–178, §§ 2(a)–(c), 3, Oct. 20, 2020, 134 Stat. 853, 854.
 
 Pub. L. 116–58, §§ 2(a)–(c), 3, Sept. 26, 2019, 133 Stat. 1091, 1092.
 
@@ -1707,9 +1731,11 @@ Pub. L. 103–418, §§ 2(a)–(c), 3, Oct. 25, 1994, 108 Stat. 4336, 4337.
 Pub. L. 102–510, § 2(a), (c), Oct. 24, 1992, 106 Stat. 3318, 3319.
 
 #### Administrative Adjustment of Disability Rates of Certain Persons Not Covered by This Chapter
-Pub. L. 116–178, § 2(d), Oct. 20, 2020, 134 Stat. 853, provided that: “The Secretary of Veterans Affairs may adjust administratively, consistent with the increases made under subsection (a) [set out as a note above], the rates of disability compensation payable to persons under section 10 of Public Law 85–857 (72 Stat. 1263) [set out as a note preceding [section 101 of this title](./chapter-001-general.md#section-101)] who have not received compensation under chapter 11 of title 38, United States Code.”
+Pub. L. 117–45, § 2(d), Oct. 8, 2021, 135 Stat. 389, provided that: “The Secretary of Veterans Affairs may adjust administratively, consistent with the increases made under subsection (a) [set out as a note above], the rates of disability compensation payable to persons under section 10 of Public Law 85–857 (72 Stat. 1263) [set out as a note preceding [section 101 of this title](./chapter-001-general.md#section-101)] who have not received compensation under chapter 11 of title 38, United States Code.”
 
 Similar provisions were contained in the following acts:
+
+Pub. L. 116–178, § 2(d), Oct. 20, 2020, 134 Stat. 853.
 
 Pub. L. 116–58, § 2(d), Sept. 26, 2019, 133 Stat. 1091.
 
@@ -2156,7 +2182,7 @@ Par. (2). Pub. L. 94–433, § 404(11), struck out “his” before “disabilit
 
 1970—Par. (1). Pub. L. 91–376 substituted $28 for $25 in subpar. (A), $48 for $43 in subpar. (B), $61 for $55 in subpar. (C), $75 and $14 for $68 and $13, respectively, in subpar. (D), $19 for $17 in subpar. (E), $33 for $30 in subpar. (F), $48 and $14 for $43 and $13, respectively, in subpar. (G), $23 for $21 in subpar. (H), and $44 for $40 in subpar. (I).
 
-1965—Par. (1). Pub. L. 89–311 substituted $25 for $23 in subpar. (A), $43 for $39 in subpar. (B), $55 for $50 in subpar. (C), $68 and $13 for $62 and $12 respectively in subpar. (D), $17 for $15 in subpar. (E), $30 for $27 in subpar. (F), $43 and $13 for $39 and $12 respectively in subpar. (G), and $21 for $19 in subpar. (H), and added subpar. (I).
+1965—Par. (1). Pub. L. 89–311 substituted $25 for $23 in subpar. (A), $43 for $39 in subpar. (B), $55 for $50 in subpar. (C), $68 and $13 for $62 and $12, respectively, in subpar. (D), $17 for $15 in subpar. (E), $30 for $27 in subpar. (F), $43 and $13 for $39 and $12, respectively, in subpar. (G), and $21 for $19 in subpar. (H), and added subpar. (I).
 
 Pub. L. 89–137 struck out subsec. (b) which prohibited payment of the additional compensation to any veteran during any period he is in receipt of an increased rate of subsistence allowance or education and training allowance on account of a dependent or dependents, and redesignated subsec. (a) as entire section.
 
@@ -2843,16 +2869,16 @@ Pub. L. 102–83, § 5(c)(1), substituted “1131” for “331”.
 
 <a id="section-1133"></a>
 ## § 1133. Presumptions relating to certain diseases
-**(a)** For the purposes of [section 1131 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1131), and subject to the provisions of subsections (b) and (c) of this section, any veteran who served for six months or more and contracts a tropical disease or a resultant disorder or disease originating because of therapy administered in connection with a tropical disease, or as a preventative thereof, shall be deemed to have incurred such disability in the active military, naval, air, or space service’ when it is shown to exist within one year after separation from active service, or at a time when standard and accepted treatises indicate that the incubation period thereof commenced during active service.
+**(a)** For the purposes of [section 1131 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1131), and subject to the provisions of subsections (b) and (c) of this section, any veteran who served for six months or more and contracts a tropical disease or a resultant disorder or disease originating because of therapy administered in connection with a tropical disease, or as a preventative thereof, shall be deemed to have incurred such disability in the active military, naval, air, or space service when it is shown to exist within one year after separation from active service, or at a time when standard and accepted treatises indicate that the incubation period thereof commenced during active service.
 
-**(b)** Service-connection shall not be granted pursuant to subsection (a), in any case where the disease or disorder is shown by clear and unmistakable evidence to have had its inception before or after active military, naval, air, or space service’.
+**(b)** Service-connection shall not be granted pursuant to subsection (a), in any case where the disease or disorder is shown by clear and unmistakable evidence to have had its inception before or after active military, naval, air, or space service.
 
-**(c)** Nothing in this section shall be construed to prevent the granting of service-connection for any disease or disorder otherwise shown by sound judgment to have been incurred in or aggravated by active military, naval, air, or space service’.
+**(c)** Nothing in this section shall be construed to prevent the granting of service-connection for any disease or disorder otherwise shown by sound judgment to have been incurred in or aggravated by active military, naval, air, or space service.
 
 ### Statutory Notes
 
 #### Amendments
-2021—Pub. L. 116–283 substituted “air, or space service”’ for “or air service” wherever appearing.
+2021—Pub. L. 116–283 substituted “air, or space service” for “or air service” wherever appearing.
 
 1991—Pub. L. 102–83, § 5(a), renumbered [section 333 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section333&num=0&edition=prelim) as this section.
 
@@ -3648,9 +3674,21 @@ The National Emergencies Act, referred to in subsec. (b)(1)(A), (2)(A), is Pub. 
 
 The date of the enactment of the Johnny Isakson and David P. Roe, M.D. Veterans Health Care and Benefits Improvement Act of 2020, referred to in subsec. (b)(1)(B), (2)(B), is the date of enactment of Pub. L. 116–315, which was approved Jan. 5, 2021.
 
+#### Codification
+Another section 1164 was renumbered [section 1166 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1166).
 
-<a id="section-1164"></a>
-## § 1164. Specialized teams to evaluate claims involving military sexual trauma
+
+<a id="section-1165"></a>
+## § 1165. Choice of sex of medical examiner for certain disabilities
+**(a) In General.—** The Secretary shall ensure that a veteran who requires a medical examination from a covered medical provider in support of a claim for compensation under this chapter for a mental or physical health condition that resulted from a physical assault of a sexual nature, battery of a sexual nature, or sexual harassment may designate the sex of the medical provider who provides such medical examination.
+
+**(b) Covered Medical Providers.—** For purposes of this section, a covered medical provider is any medical provider who is employed by the Department or is under any contract with the Department to provide a medical examination or a medical opinion when such an examination or opinion is necessary to make a decision on a claim.
+
+**(c) Notice.—** Before providing any medical examination for a veteran in support for a claim described in subsection (a), the Secretary shall notify the veteran of the veteran’s rights under subsection (a).
+
+
+<a id="section-1166"></a>
+## § 1166. Specialized teams to evaluate claims involving military sexual trauma
 **(a) In General.—** The Secretary shall establish specialized teams to process claims for compensation for a covered mental health condition based on military sexual trauma experienced by a veteran during active military, naval, or air service.
 
 **(b) Training.—** The Secretary shall ensure that members of teams established under subsection (a) are trained to identify markers indicating military sexual trauma.
@@ -3663,14 +3701,7 @@ The date of the enactment of the Johnny Isakson and David P. Roe, M.D. Veterans 
 
 ### Statutory Notes
 
-#### Codification
-Pub. L. 116–315, § 5501(a)(1), which added this section at the end of subchapter VI of chapter 11 of “such title” without specifying the title to be amended, was added at the end of subchapter VI of chapter 11 of this title to reflect the probable intent of Congress.
+#### Amendments
+2021—Pub. L. 117–16, § 7(b)(4)(A), made technical correction to directory language of Pub. L. 116–315, § 5501(a)(1), which enacted this section.
 
-
-<a id="section-1165"></a>
-## § 1165. Choice of sex of medical examiner for certain disabilities
-**(a) In General.—** The Secretary shall ensure that a veteran who requires a medical examination from a covered medical provider in support of a claim for compensation under this chapter for a mental or physical health condition that resulted from a physical assault of a sexual nature, battery of a sexual nature, or sexual harassment may designate the sex of the medical provider who provides such medical examination.
-
-**(b) Covered Medical Providers.—** For purposes of this section, a covered medical provider is any medical provider who is employed by the Department or is under any contract with the Department to provide a medical examination or a medical opinion when such an examination or opinion is necessary to make a decision on a claim.
-
-**(c) Notice.—** Before providing any medical examination for a veteran in support for a claim described in subsection (a), the Secretary shall notify the veteran of the veteran’s rights under subsection (a).
+Pub. L. 117–16, § 7(a)(1), renumbered [section 1164 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1164), relating to specialized teams to evaluate claims involving military sexual trauma, as this section.

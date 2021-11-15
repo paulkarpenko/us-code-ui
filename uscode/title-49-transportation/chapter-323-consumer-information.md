@@ -2,7 +2,7 @@
 title: 49
 chapter: '323'
 heading: CONSUMER INFORMATION
-section_count: 10
+section_count: 12
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49&num=0&edition=prelim
 ---
@@ -33,7 +33,7 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 <a id="section-32302"></a>
 ## § 32302. Passenger motor vehicle information
-**(a) Information Program.—** The Secretary of Transportation shall maintain a program for developing the following information on passenger motor vehicles:
+**(a) Information Program.—** The Secretary of Transportation (referred to in this section as the “Secretary”) shall maintain a program for developing the following information on passenger motor vehicles:
 
 (1) damage susceptibility.
 
@@ -57,6 +57,46 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 (2) **Application.—** — The requirements under paragraph (1) shall apply to passenger motor vehicles manufactured in any model year beginning more than 1 year after the date on which a final rule is published under paragraph (1).
 
+**(e) Advanced Crash-avoidance Technologies.—**
+
+(1) **Notice.—** — Not later than 1 year after the date of enactment of this subsection, the Secretary shall publish a notice, for purposes of public review and comment, to establish, distinct from crashworthiness information, a means for providing to consumers information relating to advanced crash-avoidance technologies, in accordance with subsection (a).
+
+(2) **Inclusions.—** — The notice under paragraph (1) shall include—
+
+  (A) an appropriate methodology for—
+
+    (i) determining which advanced crash-avoidance technologies shall be included in the information;
+
+    (ii) developing performance test criteria for use by manufacturers in evaluating advanced crash-avoidance technologies;
+
+    (iii) determining a distinct rating involving each advanced crash-avoidance technology to be included; and
+
+    (iv) updating overall vehicle ratings to incorporate advanced crash-avoidance technology ratings; and
+
+  (B) such other information and analyses as the Secretary determines to be necessary to implement the rating of advanced crash-avoidance technologies.
+
+(3) **Report.—** — Not later than 18 months after the date of enactment of this subsection, the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that describes a plan for implementing an advanced crash-avoidance technology information and rating system, in accordance with subsection (a).
+
+**(f) Vulnerable Road User Safety.—**
+
+(1) **Notice.—** — Not later than 1 year after the date of enactment of this subsection, the Secretary shall publish a notice, for purposes of public review and comment, to establish a means for providing to consumers information relating to pedestrian, bicyclist, or other vulnerable road user safety technologies, in accordance with subsection (a).
+
+(2) **Inclusions.—** — The notice under paragraph (1) shall include—
+
+  (A) an appropriate methodology for—
+
+    (i) determining which technologies shall be included in the information;
+
+    (ii) developing performance test criteria for use by manufacturers in evaluating the extent to which automated pedestrian safety systems in light vehicles attempt to prevent and mitigate, to the best extent possible, pedestrian injury;
+
+    (iii) determining a distinct rating involving each technology to be included; and
+
+    (iv) updating overall vehicle ratings to incorporate vulnerable road user safety technology ratings; and
+
+  (B) such other information and analyses as the Secretary determines to be necessary to implement the rating of vulnerable road user safety technologies.
+
+(3) **Report.—** — Not later than 18 months after the date of enactment of this subsection, the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that describes a plan for implementing an information and rating system for vulnerable road user safety technologies, in accordance with subsection (a).
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -78,7 +118,13 @@ The date of enactment of the Safety Through Informed Consumers Act of 2015, refe
 
 The date of enactment of the Motor Vehicle and Highway Safety Improvement Act of 2012, referred to in subsec. (d)(1), is the date of enactment of title I of div. C of Pub. L. 112–141, which was approved July 6, 2012.
 
+The date of enactment of this subsection, referred to in subsecs. (e)(1), (3) and (f)(1), (3), is the date of enactment of Pub. L. 117–58, which was approved Nov. 15, 2021.
+
 #### Amendments
+2021—Subsec. (a). Pub. L. 117–58, § 24213(b)(1), inserted “(referred to in this section as the ‘Secretary’)” after “of Transportation”.
+
+Subsecs. (e), (f). Pub. L. 117–58, § 24213(b)(2), added subsecs. (e) and (f).
+
 2015—Subsec. (c). Pub. L. 114–94 added subsec. (c).
 
 2013—Subsec. (b). Pub. L. 112–252, § 2(a), inserted at end “The Secretary, after providing an opportunity for public comment, shall study and report to Congress the most useful data, format, and method for providing simple and understandable damage susceptibility information to consumers.”
@@ -96,6 +142,12 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 #### Regulations
 Pub. L. 112–252, § 1, Jan. 10, 2013, 126 Stat. 2406, provided in part that: “any regulations promulgated under such subsection [former subsec. (c) of this section] shall have no force or effect.”
+
+#### New Car Assessment Program; Updates
+Pub. L. 117–58, div. B, title IV, § 24213(a), Nov. 15, 2021, 135 Stat. 826, provided that: “Not later than 1 year after the date of enactment of this Act [Nov. 15, 2021], the Secretary [of Transportation] shall finalize the proceeding for which comments were requested in the notice entitled ‘New Car Assessment Program’ (80 Fed. Reg. 78522 (December 16, 2015)) to update the passenger motor vehicle information required under [section 32302(a) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section32302/a&num=0&edition=prelim), United States Code.”
+
+#### Improved Vehicle Safety Databases
+Pub. L. 117–58, div. B, title IV, § 24217, Nov. 15, 2021, 135 Stat. 830, provided that: “Not later than 3 years after the date of enactment of this Act [Nov. 15, 2021], after consultation with frequent users of publicly available databases, the Secretary [of Transportation] shall improve public accessibility to information relating to the publicly accessible vehicle safety databases of the National Highway Traffic Safety Administration by revising the publicly accessible vehicle safety databases— “(1) to improve organization and functionality, including design features such as drop-down menus; “(2) to allow data from applicable publicly accessible vehicle safety databases to be searched, sorted, aggregated, and downloaded in a manner that—“(A) is consistent with the public interest; and “(B) facilitates easy use by consumers; “(3) to provide greater consistency in presentation of vehicle safety issues; “(4) to improve searchability regarding specific vehicles and issues, which may include the standardization of commonly used search terms; and “(5) to ensure nonconfidential documents and materials relating to information created or obtained by the National Highway Traffic Safety Administration are made publicly available in a manner that is—“(A) timely; and “(B) searchable in databases by any element that the Secretary determines to be in the public interest.”
 
 #### Consumer Guidance
 Pub. L. 114–94, div. B, title XXIV, § 24103(d), Dec. 4, 2015, 129 Stat. 1703, provided that: “Not later than 1 year after the date of enactment of this Act [Dec. 4, 2015], the Secretary shall make available to the public on the Internet detailed guidance for consumers submitting safety complaints, including— “(1) a detailed explanation of what information a consumer should include in a complaint; and “(2) a detailed explanation of the possible actions the National Highway Traffic Safety Administration can take to address a complaint and respond to the consumer, including information on—“(A) the consumer records, such as photographs and police reports, that could assist with an investigation; and “(B) the length of time a consumer should retain the records described in subparagraph (A).”
@@ -461,6 +513,32 @@ Subsecs. (b) to (h). Pub. L. 114–94, § 24332(3), (4), added subsecs. (b) to (
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
+<a id="section-32304b"></a>
+## § 32304B. Child safety
+**(a) Definitions.—** In this section:
+
+(1) **Passenger motor vehicle.—** — The term “passenger motor vehicle” has the meaning given that term in section 32101.
+
+(2) **Rear-designated seating position.—** — The term “rear-designated seating position” means designated seating positions that are rearward of the front seat.
+
+(3) **Secretary.—** — The term “Secretary” means the Secretary of Transportation.
+
+**(b) Rulemaking.—** Not later than 2 years after the date of enactment of this section, the Secretary shall issue a final rule requiring all new passenger motor vehicles weighing less than 10,000 pounds gross vehicle weight to be equipped with a system to alert the operator to check rear-designated seating positions after the vehicle engine or motor is deactivated by the operator.
+
+**(c) Means.—** The alert required under subsection (b)—
+
+(1) shall include a distinct auditory and visual alert, which may be combined with a haptic alert; and
+
+(2) shall be activated when the vehicle motor is deactivated by the operator.
+
+**(d) Phase-in.—** The rule issued pursuant to subsection (b) shall require full compliance with the rule beginning on September 1st of the first calendar year that begins 2 years after the date on which the final rule is issued.
+
+### Statutory Notes
+
+#### References in Text
+The date of enactment of this section, referred to in subsec. (b), is the date of enactment of Pub. L. 117–58, which was approved Nov. 15, 2021.
+
+
 <a id="section-32305"></a>
 ## § 32305. Information and assistance from other departments, agencies, and instrumentalities
 **(a) Authority To Request.—** The Secretary of Transportation may request information necessary to carry out this chapter from a department, agency, or instrumentality of the United States Government. The head of the department, agency, or instrumentality shall provide the information.
@@ -626,3 +704,95 @@ This amends the catchline for 49:32309 to correct an error in the codification e
 
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under [section 321 of this title](./chapter-003-general-duties-and-powers.md#section-321).
+
+
+<a id="section-32310"></a>
+## § 32310. New Car Assessment Program roadmap
+**(a) Establishment.—** Not later than 1 year after the date of enactment of this section, and not less frequently than once every 4 years thereafter, the Secretary of Transportation (referred to in this section as the “Secretary”) shall establish a roadmap for the implementation of the New Car Assessment Program of the National Highway Traffic Safety Administration.
+
+**(b) Requirements.—** A roadmap under subsection (a) shall—
+
+(1) cover a term of 10 years, consisting of—
+
+  (A) a mid-term component covering the initial 5 years of the term; and
+
+  (B) a long-term component covering the final 5 years of the term; and
+
+(2) be in accordance with—
+
+  (A) [section 306 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section306&num=0&edition=prelim);
+
+  (B) [section 1115 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1115&num=0&edition=prelim);
+
+  (C) section 24401 of the FAST Act ([49 U.S.C. 105](./chapter-001-organization.md#section-105) note; Public Law 114–94); and
+
+  (D) any other relevant plans of the National Highway Traffic Safety Administration.
+
+**(c) Contents.—** A roadmap under subsection (a) shall include—
+
+(1) a plan for any changes to the New Car Assessment Program of the National Highway Traffic Safety Administration, including—
+
+  (A) descriptions of actions to be carried out to update the passenger motor vehicle information developed under section 32302(a), including the development of test procedures, test devices, test fixtures, and safety performance metrics, which shall, as applicable, incorporate—
+
+    (i) objective criteria for evaluating safety technologies; and
+
+    (ii) reasonable time periods for compliance with new or updated tests;
+
+  (B) key milestones, including the anticipated start of an action, completion of an action, and effective date of an update; and
+
+  (C) descriptions of the means by which an update will improve the passenger motor vehicle information developed under section 32302(a);
+
+(2) an identification and prioritization of safety opportunities and technologies—
+
+  (A) with respect to the mid-term component of the roadmap under subsection (b)(1)(A)—
+
+    (i) that are practicable; and
+
+    (ii) for which objective rating tests, evaluation criteria, and other consumer data exist for a market-based, consumer information approach; and
+
+  (B) with respect to the long-term component of the roadmap under subsection (b)(1)(B), exist or are in development;
+
+(3) an identification of—
+
+  (A) any safety opportunity or technology that—
+
+    (i) is identified through the activities carried out pursuant to subsection (d) or (e); and
+
+    (ii) is not included in the roadmap under paragraph (2);
+
+  (B) the reasons why such a safety opportunity or technology is not included in the roadmap; and
+
+  (C) any developments or information that would be necessary for the Secretary to consider including such a safety opportunity or technology in a future roadmap; and
+
+(4) consideration of the benefits of consistency with other rating systems used—
+
+  (A) within the United States; and
+
+  (B) internationally.
+
+**(d) Considerations.—** Before finalizing a roadmap under this section, the Secretary shall—
+
+(1) make the roadmap available for public comment;
+
+(2) review any public comments received under paragraph (1); and
+
+(3) incorporate in the roadmap under this section those comments, as the Secretary determines to be appropriate.
+
+**(e) Stakeholder Engagement.—** Not less frequently than annually, the Secretary shall engage stakeholders that represent a diversity of technical backgrounds and viewpoints—
+
+(1) to identify—
+
+  (A) safety opportunities or technologies in development that could be included in future roadmaps; and
+
+  (B) opportunities to benefit from collaboration or harmonization with third-party safety rating programs;
+
+(2) to assist with long-term planning;
+
+(3) to provide an interim update of the status and development of the following roadmap to be established under subsection (a); and
+
+(4) to collect feedback or other information that the Secretary determines to be relevant to enhancing the New Car Assessment Program of the National Highway Traffic Safety Administration.
+
+### Statutory Notes
+
+#### References in Text
+The date of enactment of this section, referred to in subsec. (a), is the date of enactment of Pub. L. 117–58, which was approved Nov. 15, 2021.

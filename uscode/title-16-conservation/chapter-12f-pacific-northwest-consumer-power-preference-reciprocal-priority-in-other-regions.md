@@ -38,7 +38,7 @@ Amendment by Pub. L. 96–501 effective Dec. 5, 1980, see section 11 of Pub. L. 
 #### Transfer of Functions
 “Secretary of Energy” substituted for “Secretary of the Interior” in subsec. (a) pursuant to Pub. L. 95–91, § 302(a), which is classified to [section 7152(a) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7152/a&num=0&edition=prelim), The Public Health and Welfare.
 
-Federal Power Commission terminated and the functions, personnel, property, funds, etc., thereof transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
+The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
 
 
 <a id="section-837a"></a>

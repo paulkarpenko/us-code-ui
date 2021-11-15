@@ -22,6 +22,7 @@ Section was formerly classified to [section 591 of Title 5](https://uscode.house
 #### Transfer of Functions
 A Department of Labor, under charge of a Commissioner of Labor, was established by act June 13, 1888, ch. 380, 25 Stat. 182, and by section 9 of that act, the Bureau of Labor created under act June 27, 1884, ch. 127, 23 Stat. 60, was to cease on the organization of the Department. The Department of Commerce and Labor, as an Executive Department, with a Secretary of Commerce and Labor as the head thereof, was established by act Feb. 14, 1903, ch. 552, 32 Stat. 825, and by section 4 of that act, the Department of Labor was placed under the jurisdiction and made a part of the Department of Commerce and Labor with various other offices, bureaus, and branches of the public service also transferred to and placed under the jurisdiction of the Department so established. In subsequent appropriation and other acts, the Department of Labor was designated as the Bureau of Labor in that Department. But by act March 4, 1913, ch. 141, 37 Stat. 736, a new executive department was created, to be called “The Department of Labor,” with a Secretary of Labor to be the head thereof, and the Department of Commerce and Labor was thereafter to be called the Department of Commerce, and the Secretary thereof to be called the Secretary of Commerce.
 
+#### Transfer of Functions
 Functions of all other officers of Department of Commerce and functions of all agencies and employees of such Department, with a few exceptions, transferred to Secretary of Commerce, with power vested in him to authorize their performance or the performance of any of his functions by any such officers, agencies, and employees by Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out below.
 
 #### Deputy Secretary of Commerce
@@ -70,10 +71,10 @@ The White House, March 13, 1950.
 Section 307 of Reorg. Plan No. 21 of 1950, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1273, set out in the Appendix to Title 5, Government Organization and Employees, provided that the functions transferred by the provisions of that Plan should not be subject to the provisions of Reorg. Plan No. 5 of 1950, set out above. Said Reorg. Plan No. 21 of 1950 created, within the Department of Commerce, the Federal Maritime Board, and the Maritime Administration, the latter, with a Maritime Administrator at its head. It abolished the United States Maritime Commission, transferring some of its functions and some of the functions of its Chairman to said Federal Maritime Board. It transferred the remainder of the functions of that Commission and its Chairman to the Secretary of Commerce, with power vested in him to authorize their performance by said Maritime Administrator.
 
 #### Executive Order No. 13339
-Ex. Ord. No. 13339, May 13, 2004, 69 F.R. 28037, as amended by Ex. Ord. No. 13403, § 3, May 12, 2006, 71 F.R. 28543, which established in the Department of Commerce a President’s Advisory Commission on Asian Americans and Pacific Islanders, was superseded by Ex. Ord. No. 13515, § 4(a), Oct. 14, 2009, 74 F.R. 53638, set out below.
+Ex. Ord. No. 13339, May 13, 2004, 69 F.R. 28037, as amended by Ex. Ord. No. 13403, § 3, May 12, 2006, 71 F.R. 28543, which established in the Department of Commerce a President’s Advisory Commission on Asian Americans and Pacific Islanders, was superseded by Ex. Ord. No. 13515, § 4(a), Oct. 14, 2009, 74 F.R. 53638, set out below, and by Ex. Ord. No. 14031, § 4(a), May 28, 2021, 86 F.R. 29680, set out in a note under [section 3501 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3501&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Executive Order No. 13515
-Ex. Ord. No. 13515, Oct. 14, 2009, 74 F.R. 53635, as amended by Ex. Ord. No. 13585, § 4, Sept. 30, 2011, 76 F.R. 62282; Ex. Ord. No. 13652, § 8, Sept. 30, 2013, 78 F.R. 61819, which established the President’s Advisory Commission on Asian Americans and Pacific Islanders and White House Initiative on Asian Americans and Pacific Islanders, was superseded by Ex. Ord. No. 13872, § 4(a), May 13, 2019, 84 F.R. 22324, set out below.
+Ex. Ord. No. 13515, Oct. 14, 2009, 74 F.R. 53635, as amended by Ex. Ord. No. 13585, § 4, Sept. 30, 2011, 76 F.R. 62282; Ex. Ord. No. 13652, § 8, Sept. 30, 2013, 78 F.R. 61819, which established the President’s Advisory Commission on Asian Americans and Pacific Islanders and White House Initiative on Asian Americans and Pacific Islanders, was superseded by Ex. Ord. No. 13872, § 4(a), May 13, 2019, 84 F.R. 22324, set out below, and by Ex. Ord. No. 14031, § 4(a), May 28, 2021, 86 F.R. 29680, set out in a note under [section 3501 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3501&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Extension of Term of Commission on Asian Americans and Pacific Islanders
 Prior to revocation of Ex. Ord. No. 13515, term of Commission on Asian Americans and Pacific Islanders was extended until Sept. 30, 2019, by Ex. Ord. No. 13811, § 1(s), Sept. 29, 2017, 82 F.R. 46363, formerly set out in a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
@@ -86,124 +87,8 @@ Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, extended term until Sept. 30,
 
 Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, extended term until Sept. 30, 2013.
 
-#### Ex. Ord. No. 13872. Economic Empowerment of Asian Americans and Pacific Islanders
-Ex. Ord. No. 13872, May 13, 2019, 84 F.R. 22321, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to empower Asian Americans and Pacific Islanders to improve the quality of their lives, raise the standard of living of their families and communities, and more fully participate in our economy, it is hereby ordered as follows:
-
-Section 1. Policy. There are presently more than 20 million people of Asian American or Pacific Islander (AAPI) descent residing in the United States, which amounts to more than 6 percent of the population. The AAPI population is the most rapidly growing ethnic group in the country and is expected to increase to over 40 million individuals by 2060. At that time, people of AAPI descent are projected to be more than 9 percent of the Nation’s population. Asian Americans and Pacific Islanders have helped build a strong and vibrant America. Generations of AAPI individuals, families, and communities are composed of diverse and varied ethnicities, languages, and cultures, and include residents of United States Pacific Island territories and freely associated states. They play an important economic role, having started businesses and generated jobs that pay billions of dollars in wages and taxes, including founding some of our Nation’s most successful and innovative enterprises. Asian Americans and Pacific Islanders have made important contributions to science and technology, culture and the arts, and the professions, such as business, law, medicine, education, politics, and economics. Their shared accomplishments and legacies are an inspirational, significant, and celebrated part of the American experience.
-
-While we celebrate the many contributions of the AAPI communities to our Nation, we also recognize that AAPI communities and enterprises encounter challenges accessing economic resources and opportunities. Many of the more than 1.9 million AAPI-owned enterprises are small sole-proprietorships that need assistance to access available resources such as business development counseling, small-business loans, and government procurement opportunities. Today’s AAPI workforce is the largest it has been in American history, and we will continue striving toward furthering AAPI advancement in employment and workforce development as well as increasing AAPI participation and representation in the upper levels of leadership in the public and private sectors.
-
-The purpose of this order is to establish the President’s Advisory Commission on Asian Americans and Pacific Islanders and the White House Initiative on Asian Americans and Pacific Islanders. Each will work to broaden access by AAPI employers and communities to economic resources and opportunities, thus empowering AAPIs to improve the quality of their lives, raise the standard of living of their families and communities, and more fully participate in our economy. Additionally, each will work to advance relevant evidence-based research, data collection, and analysis for AAPI populations, subpopulations, and businesses.
-
-Sec. 2. President’s Advisory Commission on Asian Americans and Pacific Islanders. The President’s Advisory Commission on Asian Americans and Pacific Islanders (the “Commission”) is established in the Department of Commerce.
-
-(a) Mission and Function of the Commission. The Commission shall provide advice to the President, through the Secretary of Commerce and the Secretary of Transportation, who shall serve as Co-Chairs of the Initiative described in section 3 of this order, on:
-
-(i) the development, monitoring, and coordination of executive branch efforts to broaden access by AAPI employers and communities to economic resources and opportunities;
-
-(ii) strategies for encouraging innovation and entrepreneurship in AAPI communities, empowering the economic growth of AAPI enterprises and communities, and increasing AAPI business diversification, including through general reductions in regulatory and tax burdens;
-
-(iii) strategies for increasing Federal procurement opportunities for AAPI enterprises;
-
-(iv) strategies for increasing participation of AAPI enterprises in partnerships between the public and private sectors;
-
-(v) economic strategies for AAPI enterprises and communities to employ existing knowledge and relationships in order to pursue trade and investment opportunities in the Asia-Pacific region;
-
-(vi) opportunities to empower students and families with the freedom to pursue the educational opportunities that best prepare them for success in life and work;
-
-(vii) strategies for increasing the diversity of our workforce with greater inclusion of AAPI employees through better recruitment, training, educational workshops, career development, advancement, vocational training, or other appropriate and effective means;
-
-(viii) the compilation and analysis of research and data related to AAPI populations, subpopulations, and businesses; and
-
-(ix) an analysis of the economic condition of the United States Pacific Island territories and freely associated states in an effort to devise strategies for helping each island develop and maintain a strong and diversified economy that supports its residents.
-
-(b) Membership of the Commission. The Commission shall consist of members appointed by the President who are United States citizens or nationals, or who are citizens of the Republic of Palau, the Republic of the Marshall Islands, or the Federated States of Micronesia who are subject to an applicable compact of free association with the United States, and shall include individuals having a history of engagement and involvement with AAPI communities and enterprises. The President shall designate one member of the Commission to serve as Chair.
-
-(c) Administration of the Commission. (i) The Secretary of Commerce, in consultation with the Secretary of Transportation, shall designate an Executive Director for the Commission. The Department of Commerce shall provide funding and administrative support for the Commission to the extent permitted by law and within existing appropriations, and shall, as necessary and appropriate under [section 1535 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1535&num=0&edition=prelim), United States Code, enter into one or more agreements to obtain goods or services from the Department of Transportation in support of the Commission. The heads of other executive departments and agencies shall assist and provide information to the Commission, consistent with applicable law, as may be necessary to carry out its functions. Each executive department and agency shall bear its own expenses of assisting the Commission.
-
-(ii) Members of the Commission shall serve without compensation, but shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service ([5 U.S.C. 5701–570](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5701–570&num=0&edition=prelim)7). Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) [Pub. L. 92–463] (the “Act”), may apply to the administration of the Commission, any functions of the President under the Act, except that of reporting to the Congress, shall be performed by the Secretary of Commerce, in consultation with the Secretary of Transportation, in accordance with the guidelines issued by the Administrator of General Services.
-
-(d) Termination Date. The Commission shall terminate 2 years from the date of this order [May 13, 2019], unless renewed by the President prior to that date.
-
-Sec. 3. White House Initiative on Asian Americans and Pacific Islanders. There is established the White House Initiative on Asian Americans and Pacific Islanders (Initiative), a Federal interagency working group whose members shall be selected by their respective agencies. The Secretaries of Commerce and Transportation shall serve as the Co-Chairs of the Initiative and shall convene regular meetings of the Initiative, determine its agenda, and direct its work pursuant to the guidance and direction of the President. The Executive Director established in section 2(c) of this order shall serve in the same role for the Initiative and shall report to the Co-Chairs, or their designees, on Initiative matters.
-
-(a) Mission and Function of the Initiative. The Initiative shall work to broaden AAPI access to economic resources and opportunities and thus empower AAPIs to improve the quality of their lives, raise the standard of living of their families and communities, and more fully participate in our economy. The Initiative shall advise the Co-Chairs on the implementation and coordination of Federal programs as they relate to AAPI access to economic resources and opportunities.
-
-(b) Membership of the Initiative. In addition to the Co-Chairs, the Initiative shall consist of senior officials from the following executive branch departments, agencies, and offices:
-
-(i) the Department of State;
-
-(ii) the Department of the Treasury;
-
-(iii) the Department of Defense;
-
-(iv) the Department of Justice;
-
-(v) the Department of the Interior;
-
-(vi) the Department of Agriculture;
-
-(vii) the Department of Labor;
-
-(viii) the Department of Health and Human Services;
-
-(ix) the Department of Housing and Urban Development;
-
-(x) the Department of Energy;
-
-(xi) the Department of Education;
-
-(xii) the Department of Veterans Affairs;
-
-(xiii) the Department of Homeland Security;
-
-(xiv) the Office of Management and Budget;
-
-(xv) the Environmental Protection Agency;
-
-(xvi) the Small Business Administration;
-
-(xvii) the Office of Personnel Management;
-
-(xviii) the Social Security Administration;
-
-(xix) the White House Office of Cabinet Affairs;
-
-(xx) the White House Office of Intergovernmental Affairs;
-
-(xxi) the White House Office of Public Liaison;
-
-(xxii) the National Economic Council;
-
-(xxiii) the Domestic Policy Council;
-
-(xxiv) the Office of Science and Technology Policy;
-
-(xxv) the Office of the U.S. Intellectual Property Enforcement Coordinator; and
-
-(xxvi) other executive branch departments, agencies, and offices as the President may, from time to time, designate.
-
-The heads of each of the foregoing executive branch departments, agencies, and offices shall designate the senior Federal officials who will serve as their respective representatives on the Initiative. At the direction of the Co-Chairs, the Initiative may establish subgroups consisting exclusively of Initiative members or their designees under this section, as appropriate. To the extent permitted by law, members of the Initiative, or their designees, shall devote the time, skill, and resources necessary and adequate to carry out the functions of the Initiative. Each executive department, agency, and office shall bear its own expenses for participating in the Initiative.
-
-(c) Administration of the Initiative. The Department of Commerce shall provide funding and administrative support for the Initiative to the extent permitted by law and within existing appropriations, and shall, as necessary and appropriate under [section 1535 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1535&num=0&edition=prelim), United States Code, enter into one or more agreements to obtain goods or services from the Department of Transportation in support of the Initiative.
-
-Sec. 4. General Provisions. (a) This order supersedes section 1(s) of Executive Order 13811 of September 29, 2017 (Continuance of Certain Federal Advisory Committees), and Executive Order 13515 of October 14, 2009 (Increasing Participation of Asian Americans and Pacific Islanders in Federal Programs).
-
-(b) Nothing in this order shall be construed to impair or otherwise affect:
-
-(i) the authority granted by law to an executive department, agency, or the head thereof; or
-
-(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
-
-(c) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
-
-(d) For purposes of this order, the term “Asian American” includes persons within the jurisdiction of the United States having origins or ancestry in any of the original peoples of East Asia, Southeast Asia, or South Asia; and the term “Pacific Islander” includes persons within the jurisdiction of the United States having origins or ancestry in any of the original peoples of Hawaii, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, or other Pacific Islands.
-
-(e) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-
-Donald J. Trump.
+#### Executive Order No. 13872
+Ex. Ord. No. 13872, May 13, 2019, 84 F.R. 22321, which established the President’s Advisory Commission on Asian Americans and Pacific Islanders and the White House Initiative on Asian Americans and Pacific Islanders to promote the economic empowerment of Asian Americans and Pacific Islanders, was superseded by Ex. Ord. No. 14031, § 4(a), May 28, 2021, 86 F.R. 29680, set out in a note under [section 3501 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3501&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Extension of Term of Commission on Asian Americans and Pacific Islanders
 Term of Commission on Asian Americans and Pacific Islanders extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
@@ -435,8 +320,6 @@ Section was originally based on part of section 4 of act Feb. 14, 1903, which pr
 
 “Patent and Trademark Office” substituted for “Patent Office”, in par. (d) [now par. (4)] pursuant to section 3 of Pub. L. 93–596, set out as a note under [section 1 of Title 35](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section1&num=0&edition=prelim), Patents. “Patent and Trademark Office” subsequently amended to read “United States Patent and Trademark Office” by Pub. L. 106–113. See 1999 Amendment note above.
 
-In order to implement the provisions of Reorganization Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, as amended, set out below, the following organizational names appearing in chapter IX of subtitle B of Title 15, Code of Federal Regulations, which covers the administration of the National Oceanic and Atmospheric Administration, were changed by order of the Acting Associate Administrator, 35 F.R. 19249, Dec. 19, 1970, as follows: Environmental Science Services Administration to National Oceanic and Atmospheric Administration (ESSA to NOAA); Coast and Geodetic Survey to National Ocean Survey; and Weather Bureau to National Weather Service.
-
 #### Effective Date of 1999 Amendment
 Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under [section 1 of Title 35](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section1&num=0&edition=prelim), Patents.
 
@@ -495,6 +378,9 @@ Environmental Science Services Administration in Department of Commerce, includi
 Weather Bureau transferred from Department of Agriculture by section 8 of Reorg. Plan No. IV of 1940, which is set out in the Appendix to Title 5. Coast and Geodetic Survey and Weather Bureau consolidated to form a new agency in Department of Commerce known as Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 4443, set out in the Appendix to Title 5.
 
 Functions, powers, and duties of Office of Audits and Investigations and Inspections Staff and that portion of office referred to as Office of Investigations and Security which had responsibility for investigation of alleged criminal violations and program abuse in Department of Commerce transferred to Office of Inspector General in Department of Commerce, as established by Pub. L. 95–452, § 2, Oct. 12, 1978, 92 Stat. 1101, set out in the Appendix to Title 5, Government Organization and Employees. See section 9(a)(1)(B) of Pub. L. 95–452, set out in the Appendix to Title 5.
+
+#### Change of Name
+In order to implement the provisions of Reorganization Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, as amended, set out below, the following organizational names appearing in chapter IX of subtitle B of Title 15, Code of Federal Regulations, which covers the administration of the National Oceanic and Atmospheric Administration, were changed by order of the Acting Associate Administrator, 35 F.R. 19249, Dec. 19, 1970, as follows: Environmental Science Services Administration to National Oceanic and Atmospheric Administration (ESSA to NOAA); Coast and Geodetic Survey to National Ocean Survey; and Weather Bureau to National Weather Service.
 
 #### REORGANIZATION PLAN NO. 4 OF 1970Eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, as amended Pub. L. 94–461, § 4(c)(1), Oct. 8, 1976, 90 Stat. 1969; Pub. L. 95–219, § 3(a)(1), Dec. 28, 1977, 91 Stat. 1613; Pub. L. 98–498, title III, § 320(c)(3), Oct. 19, 1984, 98 Stat. 2309; Pub. L. 99–659, title IV, § 407(d), Nov. 14, 1986, 100 Stat. 3739; Pub. L. 112–166, § 2(b)(1), Aug. 10, 2012, 126 Stat. 1283
 Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, July 9, 1970, pursuant to the provisions of Chapter 9 of Title 5 of the United States Code.
@@ -940,17 +826,17 @@ All duties performed and all power and authority possessed or exercised by the h
 
 ### Statutory Notes
 
-#### Change of Name
-Act Mar. 4, 1913, ch. 141, 37 Stat. 736, provided that the Department of Commerce and Labor and Secretary of Commerce and Labor were to be thereafter called the Department of Commerce and Secretary of Commerce and that the act creating the Department of Commerce and Labor (act Feb. 14, 1903) was amended accordingly.
-
 #### Codification
 Section was formerly classified to [section 599 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section599&num=0&edition=prelim) prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
 
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out as a note under [section 1501 of this title](./chapter-040-department-of-commerce.md#section-1501).
+#### Change of Name
+Act Mar. 4, 1913, ch. 141, 37 Stat. 736, provided that the Department of Commerce and Labor and Secretary of Commerce and Labor were to be thereafter called the Department of Commerce and Secretary of Commerce and that the act creating the Department of Commerce and Labor (act Feb. 14, 1903) was amended accordingly.
 
 #### Government Interest in Patents
 For duties and powers of Secretary of Commerce with respect to interest of Government in patents, see executive orders set out as notes under [section 266 of Title 35](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section266&num=0&edition=prelim), Patents.
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out as a note under [section 1501 of this title](./chapter-040-department-of-commerce.md#section-1501).
 
 
 <a id="section-1513a"></a>

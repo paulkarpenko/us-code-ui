@@ -139,7 +139,7 @@ In this chapter:
 
 (6) **Indian-owned business** — The term “Indian-owned business” means an entity organized for the conduct of trade or commerce with respect to which at least 50 percent of the property interests of the entity are owned by Indians or Indian Tribes (or a combination thereof).
 
-(7) **Indian tribe 11 So in original. Probably should be capitalized.** — The term “Indian Tribe” has the meaning given the term “Indian tribe” in [section 5304(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304/e&num=0&edition=prelim).
+(7) **Indian Tribe** — The term “Indian Tribe” has the meaning given the term “Indian tribe” in [section 5304(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304/e&num=0&edition=prelim).
 
 (8) **Office** — The term “Office” means the Office of Native American Business Development established by [section 4303(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4303/a/1&num=0&edition=prelim).
 
@@ -178,13 +178,13 @@ Pub. L. 116–261, § 3(e)(1)(B), which directed substitution of “The term ‘
 
 Pub. L. 116–261, § 3(b)(1), redesignated par. (5) as (6). Former par. (6) redesignated (7).
 
-Par. (7). Pub. L. 116–261, § 3(e)(1)(B), which directed substitution of “The term ‘Indian Tribe’ has the meaning given the term ‘Indian tribe’ ” for “The term ‘Indian tribe’ has the meaning given that term” in par. (6) was executed by making the substitution in par. (7) in light of the intervening amendment by Pub. L. 116–261, § 3(b)(1), redesignating former par. (6) as (7), to reflect the probable intent of Congress. See below.
+Par. (7). Pub. L. 116–261, § 3(e)(1)(B), which directed substitution of “The term ‘Indian Tribe’ has the meaning given the term ‘Indian tribe’ ” for “The term ‘Indian tribe’ has the meaning given that term” in par. (6), was executed by making the substitution in par. (7) in light of the intervening amendment by Pub. L. 116–261, § 3(b)(1), redesignating former par. (6) as (7), to reflect the probable intent of Congress. See below.
 
 Pub. L. 116–261, § 3(b)(1), redesignated par. (6) as (7). Former par. (7) redesignated (9).
 
-Par. (8). Pub. L. 116–261, § 3(e)(1)(A), which directed substitution of “Tribe” for “tribe” in par. (8), could not be executed because the term “tribe” do not appear. See below. See below.
+Par. (8). Pub. L. 116–261, § 3(e)(1)(A), which directed substitution of “Tribe” for “tribe” in par. (8), could not be executed because the term “tribe” does not appear. See below.
 
-Pub. L. 116–261, § 3(b)(3), added par. (8), Former par. (8) redesignated (10).
+Pub. L. 116–261, § 3(b)(3), added par. (8). Former par. (8) redesignated (10).
 
 Par. (9). Pub. L. 116–261, § 3(b)(1), redesignated par. (7) as (9). Former par. (9) redesignated (11).
 
@@ -377,9 +377,9 @@ Subsec. (c). Pub. L. 116–261, § 3(c)(2), added subsec. (c).
 ### Statutory Notes
 
 #### Amendments
-2020—Subsec. (a)(1). Pub. L. 116–261, § 3(e)(2), (3), substituted “Tribes” for “tribes” and “Tribal” for “tribal”.
+2020—Subsec. (a)(1). Pub. L. 116–261 substituted “Tribes” for “tribes” and “Tribal” for “tribal”.
 
-Subsec. (a)(3). Pub. L. 116–261, § 3(e)(2), (3), substituted “Tribes” for “tribes” and “Tribal” for “tribal” in two places.
+Subsec. (a)(3). Pub. L. 116–261 substituted “Tribes” for “tribes” and “Tribal” for “tribal” in two places.
 
 
 <a id="section-4306"></a>

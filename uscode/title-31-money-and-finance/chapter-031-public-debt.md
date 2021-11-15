@@ -84,6 +84,10 @@ Pub. L. 98–342 substituted “$1,573,000,000,000” for “$1,389,000,000,000,
 Pub. L. 98–34 substituted “$1,389,000,000,000” for “$400,000,000,000”.
 
 #### Temporary Debt Limit Extension
+Pub. L. 117–73, Dec. 16, 2021, 135 Stat. 1514, provided: “That the limitation under [section 3101(b) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3101/b&num=0&edition=prelim), United States Code, as most recently increased by Public Law 117–50 ([31 U.S.C. 3101](./chapter-031-public-debt.md#section-3101) note), is increased by $2,500,000,000,000.”
+
+Pub. L. 117–50, § 1, Oct. 14, 2021, 135 Stat. 407, provided that: “The limitation under [section 3101(b) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3101/b&num=0&edition=prelim), United States Code, as most recently increased by section 301 of the Bipartisan Budget Act of 2019 [Pub. L. 116–37] ([31 U.S.C. 3101](./chapter-031-public-debt.md#section-3101) note), is increased by $480,000,000,000.”
+
 Pub. L. 116–37, title III, § 301, Aug. 2, 2019, 133 Stat. 1057, provided that: “(a) In General.—[Section 3101(b) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3101/b&num=0&edition=prelim), United States Code, shall not apply for the period beginning on the date of the enactment of this Act [Aug. 2, 2019] and ending on July 31, 2021. “(b) Special Rule Relating to Obligations Issued During Extension Period.—Effective on August 1, 2021, the limitation in effect under [section 3101(b) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3101/b&num=0&edition=prelim), United States Code, shall be increased to the extent that—“(1) the face amount of obligations issued under chapter 31 of such title and the face amount of obligations whose principal and interest are guaranteed by the United States Government (except guaranteed obligations held by the Secretary of the Treasury) outstanding on August 1, 2021, exceeds “(2) the face amount of such obligations outstanding on the date of the enactment of this Act. “(c) Extension Limited to Necessary Obligations.—An obligation shall not be taken into account under subsection (b)(1) unless the issuance of such obligation was necessary to fund a commitment incurred pursuant to law by the Federal Government that required payment before August 1, 2021.”
 
 Pub. L. 115–123, div. C, title III, § 30301, Feb. 9, 2018, 132 Stat. 132, provided that: “(a) In General.—[Section 3101(b) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3101/b&num=0&edition=prelim), United States Code, shall not apply for the period beginning on the date of the enactment of this Act [Feb. 9, 2018] and ending on March 1, 2019. “(b) Special Rule Relating to Obligations Issued During Extension Period.—Effective on March 2, 2019, the limitation in effect under [section 3101(b) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3101/b&num=0&edition=prelim), United States Code, shall be increased to the extent that—“(1) the face amount of obligations issued under chapter 31 of such title and the face amount of obligations whose principal and interest are guaranteed by the United States Government (except guaranteed obligations held by the Secretary of the Treasury) outstanding on March 2, 2019, exceeds “(2) the face amount of such obligations outstanding on the date of the enactment of this Act. “(c) Restoring Congressional Authority Over the National Debt.—“(1) Extension limited to necessary obligations.—An obligation shall not be taken into account under subsection (b)(1) unless the issuance of such obligation was necessary to fund a commitment incurred pursuant to law by the Federal Government that required payment before March 2, 2019. “(2) Prohibition on creation of cash reserve during extension period.—The Secretary of the Treasury shall not issue obligations during the period specified in subsection (a) for the purpose of increasing the cash balance above normal operating balances in anticipation of the expiration of such period.”
@@ -601,6 +605,39 @@ Sec. 4. As used in this Order, the term “Federal agencies” means departments
 Sec. 5. This Order supersedes Executive Order No. 11532 of June 2, 1970.
 
 Jimmy Carter.
+
+#### Ex. Ord. No. 13968. Promoting Redemption of Savings Bonds
+Ex. Ord. No. 13968, Dec. 18, 2020, 85 F.R. 83745, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. Purpose. Since 1935, the Department of the Treasury (Department) has issued savings bonds to the American public. Backed by the full faith and credit of the United States Government, these bonds are extremely safe investments that were designed to be accessible even to inexperienced investors. Indeed, over the years, savings bonds have proved to be a popular birthday or graduation gift, helping introduce younger Americans to the rewards of investing in our country’s future. Among other things, savings bonds provided the United States with a critical source of financing during World War II.
+
+By law, savings bonds never expire, and there is no deadline for owners to redeem them. It is currently estimated that more than 75 million matured savings bonds, issued as far back as 1935, remain unredeemed. The total value of these unredeemed savings bonds is approximately $27 billion.
+
+Above and beyond any legal requirements applicable to savings bonds, the Department should take all appropriate action to make sure that those Americans who invested in the future success of their country have the opportunity to receive the remuneration to which they are lawfully entitled. Under my Administration, the Department has already undertaken significant measures to reunite matured savings bonds with their rightful owners. For example, the Department in 2019 released an online tool known as “Treasury Hunt” to help individuals determine if they are the owners of matured unredeemed savings bonds. This order is the next step in ensuring that owners of matured savings bonds have a full opportunity to redeem their bonds.
+
+Sec. 2. Updating Records. The Department shall work to digitize and make electronically searchable sufficient information to identify the registered owner of any matured unredeemed savings bond, including the name and registered address of such owner and of any registered beneficiaries. In particular, the Department shall complete its ongoing pilot project to assess the feasibility and cost of digitizing and making these records searchable and accessible, which is being carried out in conjunction with multiple vendors, before the end of calendar year 2020. If the pilot project is successful, a vendor shall be selected to begin digitizing savings bond records. When digitizing records, the Department shall, to the extent feasible, focus first on the bond-issuance years that represent the highest percentage of matured unredeemed debt.
+
+Sec. 3. Information Accessibility. Within 30 days of beginning to receive data from the digitization of records described in section 2 of this order, the Department shall incorporate into the data accessible through Treasury Hunt information collected from the digitized records, in a secure manner and consistent with applicable law, including the Privacy Act [[5 U.S.C. 552a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim)]. The Department shall work to ensure that this information can be used through Treasury Hunt to help individuals determine if they are the owners of matured unredeemed savings bonds.
+
+Sec. 4. Customer Research. The Department shall conduct customer research to determine why individuals do not redeem savings bonds upon maturity, any barriers individuals encounter when they do attempt to redeem their bonds, and the feasibility of modifying redemption methods or developing alternative redemption methods in order to mitigate, overcome, or avoid any such barriers.
+
+Sec. 5. Collaboration with States. The Department shall engage with States and State associations to obtain additional data and information to help the Department identify owners of unredeemed bonds, to learn best practices employed by the States regarding the redemption of mature bonds, and to encourage the States to add direct links to Treasury Hunt to States’ unclaimed property websites or other appropriate State publications or information portals.
+
+Sec. 6. Public Reporting. Within 6 months of the date of this order [Dec. 18, 2020], the Secretary of the Treasury shall publish a report on actions and initiatives undertaken by the Department to implement this order.
+
+Sec. 7. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department, agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
 
 
 <a id="section-3106"></a>

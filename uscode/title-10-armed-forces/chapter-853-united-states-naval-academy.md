@@ -2,7 +2,7 @@
 title: 10
 chapter: '853'
 heading: UNITED STATES NAVAL ACADEMY
-section_count: 32
+section_count: 33
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -368,6 +368,15 @@ Secretary to take such action as may be necessary and appropriate to insure that
 
 #### Secretary To Implement Policy of Expeditious Admission of Women to the Academy
 Secretary to continue to exercise the authority granted under this chapter and chapters 403 and 903 of this title, but such authority to be exercised within a program providing for the orderly and expeditious admission of women to the Academy, consistent with the needs of the services, see section 803(c) of Pub. L. 94–106, set out as a note under [section 7442 of this title](./chapter-753-united-states-military-academy.md#section-7442).
+
+
+<a id="section-8454a"></a>
+## § 8454a. Midshipmen: nomination in event of death, resignation, or expulsion from office of Member of Congress otherwise authorized to nominate
+**(a) Senators.—** In the event a Senator does not submit all nominations for midshipmen allocated to such Senator for an academic year in accordance with [section 8454(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8454/a/3&num=0&edition=prelim), due to death, resignation from office, or expulsion from office, and the date of the swearing-in of the Senator’s successor as Senator occurs after the date of the deadline for submittal of nominations for midshipmen for the academic year, the nominations for midshipmen for such academic year, otherwise authorized to be made by the Senator pursuant to such section, may be made instead by the other Senator from the State of such Representative.
+
+**(b) Representatives.—** In the event a Representative does not submit all nominations for midshipmen allocated to such Representative for an academic year in accordance with [section 8454(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8454/a/4&num=0&edition=prelim), due to death, resignation from office, or expulsion from office, and the date of the swearing-in of the Representative’s successor as Representative occurs after the date of the deadline for submittal of nominations for midshipmen for the academic year, the nominations for midshipmen for such academic year, otherwise authorized to be made by the Representative pursuant to such section, may be made instead by the Senators from the State of such Representative, with such nominations divided equally among such Senators and any remainder going to the senior Senator from the State.
+
+**(c) Rule of Construction.—** The nomination of a midshipman by a Member of Congress pursuant to this section shall not be construed to permanently reallocate nominations under [section 8454 of this title](./chapter-853-united-states-naval-academy.md#section-8454).
 
 
 <a id="section-8455"></a>
@@ -886,7 +895,7 @@ Act Aug. 10, 1956, ch. 1041, § 35, 70A Stat. 634, provided in part that, under 
 
 (5) six persons designated by the President.
 
-**(b)** The persons designated by the President serve for three years each except that any member whose term of office has expired shall continue to serve until his successor is appointed. The President shall designate two persons each year to succeed the members whose terms expire that year.
+**(b)** The persons designated by the President serve for three years each except that any member whose term of office has expired shall continue to serve until his successor is appointed by the President. The President shall designate two persons each year to succeed the members whose terms expire that year.
 
 **(c)** If a member of the Board dies or resigns, a successor shall be designated for the unexpired portion of the term by the official who designated the member.
 
@@ -899,6 +908,16 @@ Act Aug. 10, 1956, ch. 1041, § 35, 70A Stat. 634, provided in part that, under 
 **(g)** Upon approval by the Secretary, the Board may call in advisers for consultation.
 
 **(h)** While performing his duties, each member of the Board and each adviser shall be reimbursed under Government travel regulations for his travel expenses.
+
+**(i)**
+
+(1) A majority of the members of the Board may call an official meeting of the Board once per year.
+
+(2) A member may attend such meeting—
+
+  (A) in person, at the Academy; or
+
+  (B) remotely, at the election of such member.
 
 ### Statutory Notes
 
@@ -917,6 +936,10 @@ In subsection (a) the words “A Board of Visitors to the Naval Academy is const
 In subsection (b) the language establishing staggered terms is eliminated as executed, and the existence of such terms is recognized by the use of the words “two persons shall be designated by him each year to succeed the members whose terms expire that year”. No effect is given to the language “the nine Presidential appointees”. The hearings indicate that one of the bills considered provided for nine such “appointees”, and it appears that the number nine was inadvertently retained. The provision specifically authorizes only six Presidential designees.
 
 #### Amendments
+2021—Subsec. (b). Pub. L. 117–81, § 554(b), substituted “is appointed by the President” for “is appointed”.
+
+Subsec. (i). Pub. L. 117–81, § 555(b), added subsec. (i).
+
 2018—Pub. L. 115–232 renumbered [section 6968 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6968&num=0&edition=prelim) as this section.
 
 1999—Subsec. (a)(3). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
@@ -995,11 +1018,14 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(d) Retired Grade and Retired Pay.—** Each officer retired under this section—
 
-(1) unless otherwise entitled to a higher grade, shall be retired in the grade determined under [section 1370 of this title](./chapter-069-retired-grade.md#section-1370); and
+(1) unless otherwise entitled to a higher grade, shall be retired in the grade determined under section 1370 11 See References in Text note below. of this title; and
 
 (2) is entitled to retired pay computed under [section 8333 of this title](./chapter-841-voluntary-retirement.md#section-8333).
 
 ### Statutory Notes
+
+#### References in Text
+[Section 1370 of this title](./chapter-069-retired-grade.md#section-1370), referred to in subsec. (d)(1), was repealed and new sections 1370 and 1370a of this title were enacted by Pub. L. 116–283, div. A, title V, § 508(a)(1), Jan. 1, 2021, 134 Stat. 3574, 3580. In determining the retired grade of certain commissioned officers of the Armed Forces who retire after Jan. 1, 2021, any reference to [section 1370 of this title](./chapter-069-retired-grade.md#section-1370) in such determination with respect to such officers deemed to be a reference to [section 1370a of this title](./chapter-069-retired-grade.md#section-1370a), see section 508(c) of Pub. L. 116–283, set out as a note under [section 1370 of this title](./chapter-069-retired-grade.md#section-1370).
 
 #### Amendments
 2018—Pub. L. 115–232, § 807(c)(1), renumbered [section 6970a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6970a&num=0&edition=prelim) as this section.
@@ -1448,7 +1474,7 @@ Secretary of a military department to provide for focus groups to ascertain info
 ## § 8481. Support of athletic and physical fitness programs
 **(a) Authority.—**
 
-(1) **Contracts and cooperative agreements.—** — The Secretary of the Navy may enter into contracts and cooperative agreements with the Naval Academy Athletic Association for the purpose of supporting the athletic and physical fitness programs of the Naval Academy. Notwithstanding [section 2304(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304/k&num=0&edition=prelim), the Secretary may enter such contracts or cooperative agreements on a sole source basis pursuant to [section 2304(c)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304/c/5&num=0&edition=prelim). Notwithstanding chapter 63 of title 31, a cooperative agreement under this section may be used to acquire property or services for the direct benefit or use of the Naval Academy.
+(1) **Contracts and cooperative agreements.—** — The Secretary of the Navy may enter into contracts and cooperative agreements with the Naval Academy Athletic Association for the purpose of supporting the athletic and physical fitness programs of the Naval Academy. Notwithstanding [section 3201(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3201/e&num=0&edition=prelim), the Secretary may enter such contracts or cooperative agreements on a sole source basis pursuant to [section 3204(a)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3204/a/5&num=0&edition=prelim). Notwithstanding chapter 63 of title 31, a cooperative agreement under this section may be used to acquire property or services for the direct benefit or use of the Naval Academy.
 
 (2) **Leases.—** — The Secretary may enter into leases, in accordance with [section 2667 of this title](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2667), or licenses with the Association for the purpose of supporting the athletic and physical fitness programs of the Naval Academy. Any such lease or license shall be deemed to satisfy the conditions of [section 2667(h)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2667/h/2&num=0&edition=prelim).
 
@@ -1481,9 +1507,6 @@ Secretary of a military department to provide for focus groups to ascertain info
 **(h) Association Defined.—** In this section, the term “Association” means the Naval Academy Athletic Association.
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, except as otherwise provided in title XVIII of Pub. L. 116–283, in title 10, United States Code, each reference in the text of such title to a source section that is redesignated by title XVIII of Pub. L. 116–283, is amended by striking such reference and inserting a reference to the appropriate section as so redesignated. See 2021 Amendment note below.
 
 #### References in Text
 Section 501(c)(3) of the Internal Revenue Code of 1986, referred to in subsec. (g)(1), is classified to [section 501(c)(3) of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim), Internal Revenue Code.

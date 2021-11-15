@@ -21,7 +21,7 @@ source: >-
 ### Statutory Notes
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 4021 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4021&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 4021 of this title](./chapter-301-research-and-engineering-generally.md#section-4021) as this section.
 
 2001—Subsec. (c)(1). Pub. L. 107–107 substituted “November 29, 1989” for “the date of the enactment of this section”.
 
@@ -44,7 +44,7 @@ The Secretary of the Army shall appoint an expert accountant to perform duties u
 The words “in case of vacancy” are omitted as surplusage.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 4024 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4024&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 4024 of this title](./chapter-301-research-and-engineering-generally.md#section-4024) as this section.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -65,7 +65,7 @@ During a national emergency declared by the President, the regular working hours
 The words “Notwithstanding the provisions of any other law” are omitted as surplusage. The word “producing” is substituted for the words “who are engaged in the manufacture or production”. The last sentence is substituted for 5:189a (last 34 words).
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 4025 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4025&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 4025 of this title](./chapter-301-research-and-engineering-generally.md#section-4025) as this section.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -82,7 +82,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 ### Statutory Notes
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 4027 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4027&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 4027 of this title](./chapter-301-research-and-engineering-generally.md#section-4027) as this section.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).

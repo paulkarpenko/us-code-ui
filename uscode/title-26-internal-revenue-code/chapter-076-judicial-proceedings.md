@@ -2110,11 +2110,11 @@ Pub. L. 91–172, title IX, § 962(d), Dec. 30, 1969, 83 Stat. 736, as amended b
 #### Effective Date of 1966 Amendment
 Pub. L. 89–354, § 2, Feb. 2, 1966, 80 Stat. 5, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by the first section of this Act [amending this section and section 1106 of I.R.C. 1939] shall apply with respect to retired pay accruing under section 1106 of the Internal Revenue Code of 1939 or section 7447 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] on or after the first day of the first calendar month which begins after the date of enactment of this Act [Feb. 2, 1966].”
 
-#### Transfer of Functions
-Functions vested by statute in United States Civil Service Commission or Chairman thereof transferred to Director of Office of Personnel Management (except as otherwise specified) by Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under [section 1101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1101&num=0&edition=prelim), Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under [section 1101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1101&num=0&edition=prelim).
-
 #### Redepositing Funds in Civil Service Retirement and Disability Fund; Creditable Service
 Pub. L. 95–472, § 2(b), Oct. 17, 1978, 92 Stat. 1333, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Any individual who elects to revoke under section 7447(i) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] within one year after the date of enactment of this Act [Oct. 17, 1978] shall be treated as having the requisite current service for purposes of redepositing funds in the Civil Service Retirement and Disability Fund and for purposes of reviving creditable service under subchapter III of chapter 83 of title 5 of the United States Code.”
+
+#### Transfer of Functions
+Functions vested by statute in United States Civil Service Commission or Chairman thereof transferred to Director of Office of Personnel Management (except as otherwise specified) by Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under [section 1101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1101&num=0&edition=prelim), Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under [section 1101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1101&num=0&edition=prelim).
 
 
 <a id="section-7448"></a>
@@ -2411,13 +2411,26 @@ Pub. L. 97–362, title I, § 105(c), Oct. 25, 1982, 96 Stat. 1729, as amended b
 
 
 <a id="section-7451"></a>
-## § 7451. Fee for filing petition
+## § 7451. Petitions
+**(a) Fees** The Tax Court is authorized to impose a fee in an amount not in excess of $60 to be fixed by the Tax Court for the filing of any petition.
 
-The Tax Court is authorized to impose a fee in an amount not in excess of $60 to be fixed by the Tax Court for the filing of any petition.
+**(b) Tolling of time in certain cases**
+
+(1) **In general** — Notwithstanding any other provision of this title, in any case (including by reason of a lapse in appropriations) in which a filing location is inaccessible or otherwise unavailable to the general public on the date a petition is due, the relevant time period for filing such petition shall be tolled for the number of days within the period of inaccessibility plus an additional 14 days.
+
+(2) **Filing location** — For purposes of this subsection, the term “filing location” means—
+
+  (A) the office of the clerk of the Tax Court, or
+
+  (B) any on-line portal made available by the Tax Court for electronic filing of petitions.
 
 ### Statutory Notes
 
 #### Amendments
+2021—Pub. L. 117–58, § 80503(b)(1), substituted “Petitions” for “Fee for filing petition” in section catchline.
+
+Pub. L. 117–58, § 80503(a), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
 2006—Pub. L. 109–280 struck out “for the redetermination of a deficiency or for a declaratory judgment under part IV of this subchapter or under section 7428 or for judicial review under section 6226 or section 6228(a)” after “petition”.
 
 1982—Pub. L. 97–248 inserted provision relating to judicial review under section 6226 or section 6228(a).
@@ -2427,6 +2440,9 @@ The Tax Court is authorized to impose a fee in an amount not in excess of $60 to
 1976—Pub. L. 94–455 inserted “or under section 7428” after “part IV of this subchapter”.
 
 1974—Pub. L. 93–406 inserted reference to a declaratory judgment under part IV of this subchapter.
+
+#### Effective Date of 2021 Amendment
+Pub. L. 117–58, div. H, title V, § 80503(c), Nov. 15, 2021, 135 Stat. 1336, provided that: “The amendments made by this section [amending this section] shall apply to petitions required to be timely filed (determined without regard to the amendments made by this section) after the date of enactment of this Act [Nov. 15, 2021].”
 
 #### Effective Date of 2006 Amendment
 Pub. L. 109–280, title VIII, § 859(b), Aug. 17, 2006, 120 Stat. 1020, provided that: “The amendment made by this section [amending this section] shall take effect on the date of the enactment of this Act [Aug. 17, 2006].”

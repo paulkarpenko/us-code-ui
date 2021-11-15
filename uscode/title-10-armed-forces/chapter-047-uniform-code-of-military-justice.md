@@ -2,7 +2,7 @@
 title: 10
 chapter: '47'
 heading: UNIFORM CODE OF MILITARY JUSTICE
-section_count: 201
+section_count: 202
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -55,6 +55,29 @@ In this chapter (the Uniform Code of Military Justice):
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 117–81, div. A, title V, §§ 533, 539C, Dec. 27, 2021, 135 Stat. 1695, 1699, provided that, effective on the date that is two years after Dec. 27, 2021, and applicable with respect to offenses that occur after that date, with provisions for delayed effect and applicability, this section is amended:
+
+(1) by inserting after paragraph (10) the following new paragraph:
+
+“(11) The term ‘military magistrate’ means a commissioned officer certified for duty as a military magistrate in accordance with [section 826a of this title](./chapter-047-uniform-code-of-military-justice.md#section-826a) (article 26a).”; and
+
+(2) by adding at the end the following new paragraphs:
+
+“(17) The term ‘covered offense’ means—
+
+“(A) an offense under section 917a (article 117a), section 918 (article 118), section 919 (article 119), section 920 (article 120), section 920b (article 120b), section 920c (article 120c), section 925 (article 125), section 928b (article 128b), section 930 (article 130), section 932 (article 132), or the standalone offense of child pornography punishable under section 934 (article 134) of this title;
+
+“(B) a conspiracy to commit an offense specified in subparagraph (A) as punishable under [section 881 of this title](./chapter-047-uniform-code-of-military-justice.md#section-881) (article 81);
+
+“(C) a solicitation to commit an offense specified in subparagraph (A) as punishable under [section 882 of this title](./chapter-047-uniform-code-of-military-justice.md#section-882) (article 82); or
+
+“(D) an attempt to commit an offense specified in subparagraph (A), (B), or (C) as punishable under [section 880 of this title](./chapter-047-uniform-code-of-military-justice.md#section-880) (article 80).
+
+“(18) The term ‘special trial counsel’ means a judge advocate detailed as a special trial counsel in accordance with [section 824a of this title](./chapter-047-uniform-code-of-military-justice.md#section-824a) (article 24a) and includes a judge advocate appointed as a lead special trial counsel pursuant to [section 1044f(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1044f/a/2&num=0&edition=prelim).”
+
+See 2021 Amendment notes below.
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised section | Source (U.S. Code) | Source (Statutes at Large) |
@@ -79,6 +102,10 @@ In clause (8), the word “refers” is substituted for the words “shall be co
 In clause (12), the words “Marine Corps” are inserted to make explicit that the clause applies to the Marine Corps. The word “commissioned” is inserted for clarity.
 
 #### Amendments
+2021—Par. (11). Pub. L. 117–81, § 533(1), added par. (11).
+
+Pars. (17), (18). Pub. L. 117–81, § 533(2), added pars. (17) and (18).
+
 2017—Pub. L. 115–91, § 1081(c)(1)(A), which directed insertion of “(the Uniform Code of Military Justice)” after “chapter” in introductory provisions, was not executed in light of the prior amendment by section 1081(a)(21) of Pub. L. 115–91, to reflect the probable intent of Congress. See Amendment note below and section 1081(c)(4) of Pub. L. 115–91, set out as an Effective Date of 2017 Amendment note below.
 
 Pub. L. 115–91, § 1081(a)(21), inserted “(the Uniform Code of Military Justice)” after “chapter” in introductory provisions.
@@ -112,6 +139,9 @@ Cl. (14). Pub. L. 98–209, § 6(a), added cl. (14).
 Cl. (13). Pub. L. 90–179, § 1(2), added cl. (13).
 
 1966—Pub. L. 89–670 substituted the General Counsel of the Department of Transportation for the General Counsel of the Department of the Treasury in definition of “Judge Advocate General” applicable to the Coast Guard when operating as a service in the Navy.
+
+#### Effective Date of 2021 Amendment
+Pub. L. 117–81, div. A, title V, § 539C, Dec. 27, 2021, 135 Stat. 1699, provided that: “(a) In General.—Except as provided in subsection (b), the amendments made by this part [part 1 (§§ 531–539C) of subtitle D of title V of Pub. L. 117–81, enacting sections 824a and 1044f of this title and amending this section and sections 822, 823, 827, 832, 834, 844, 853a, 865 to 867, and 869 of this title] shall take effect on the date that is two years after the date of the enactment of this Act [Dec. 27, 2021] and shall apply with respect to offenses that occur after that date. “(b) Regulations.—“(1) Requirement.—The President shall prescribe regulations to carry out this part not later than two years after the date of the enactment of this Act. “(2) Impact of delay of issuance.—If the President does not prescribe the regulations necessary to carry out this part before the date that is two years after the date of the enactment of this Act, the amendments made by this part shall take effect on the date on which such regulations are prescribed and shall apply with respect to offenses that occur on or after that date.”
 
 #### Effective Date of 2017 Amendment
 Pub. L. 115–91, div. A, title V, § 531(p), Dec. 12, 2017, 131 Stat. 1388, provided that: “The amendments made by this section [amending sections 806b, 830a, 838, 853a, 856, 858a, 858b, 862, 863, 866, 946, 1059, and 1408 of this title and provisions set out as a note below] shall take effect immediately after the amendments made by the Military Justice Act of 2016 (division E [§§ 5001–5542] of Public Law 114–328 [enacting, amending, and transferring numerous sections throughout this chapter]) take effect as provided for in section 5542 of that Act (130 Stat. 2967) [set out below].”
@@ -162,6 +192,9 @@ Act Aug. 10, 1956, ch. 1041, § 49(e), 70A Stat. 640, provided that: “In chapt
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+
+#### Applicability to the United States Coast Guard
+Pub. L. 117–81, div. A, title V, § 539B, Dec. 27, 2021, 135 Stat. 1699, provided that: “The Secretary of Defense shall consult and enter into an agreement with the Secretary of Homeland Security to apply the provisions of this part [part 1 (§§ 531–539C) of subtitle D of title V of Pub. L. 117–81, enacting sections 824a and 1044f of this title, amending this section and sections 822, 823, 827, 832, 834, 844, 853a, 865 to 867, and 869 of this title, and enacting provisions set out as a note under this section] and the amendments made by this part, and the policies, mechanisms, and processes established pursuant to such provisions, to the United States Coast Guard when it is operating as a service in the Department of Homeland Security.”
 
 #### Assessment of Racial, Ethnic, and Gender Disparities in the Military Justice System
 Pub. L. 116–92, div. A, title V, § 540I, Dec. 20, 2019, 133 Stat. 1369, provided that: “(a) In General.—The Secretary of Defense shall provide for the carrying out of the activities described in subsections (b) and (c) in order to improve the ability of the Department of Defense to detect and address racial, ethnic, and gender disparities in the military justice system. “(b) Secretary of Defense and Related Activities.—The activities described in this subsection are the following, to be commenced or carried out (as applicable) by not later than 180 days after the date of the enactment of this Act [Dec. 20, 2019]:“(1) For each court-martial conducted by an Armed Force after the date of the enactment of this Act, the Secretary of Defense shall require the head of the Armed Force concerned—“(A) to record the race, ethnicity, and gender of the victim and the accused, and such other demographic information about the victim and the accused as the Secretary considers appropriate; “(B) to include data based on the information described in subparagraph (A) in the annual military justice reports of the Armed Force. “(2) The Secretary of Defense, in consultation with the Secretaries of the military departments and the Secretary of Homeland Security, shall issue guidance that—“(A) establishes criteria to determine when data indicating possible racial, ethnic, or gender disparities in the military justice process should be further reviewed; and “(B) describes how such a review should be conducted. “(3) The Secretary of Defense, in consultation with the Secretaries of the military departments and the Secretary of Homeland Security, shall—“(A) conduct an evaluation to identify the causes of any racial, ethnic, or gender disparities identified in the military justice system; “(B) take steps to address the causes of any such disparities, as appropriate. “(c) DAC–IPAD Activities.—“(1) In general.—The activities described in this subsection are the following, to be conducted by the independent committee DAC–IPAD:“(A) A review and assessment, by fiscal year, of the race and ethnicity of members of the Armed Forces accused of a penetrative sexual assault offense or contact sexual assault offense in an unrestricted report made pursuant to Department of Defense Instruction 6495.02, including an unrestricted report involving a spouse or intimate partner, in all cases completed in each fiscal year assessed. “(B) A review and assessment, by fiscal year, of the race and ethnicity of members of the Armed Forces against whom charges were preferred pursuant to Rule for Courts-Martial 307 for a penetrative sexual assault offense or contact sexual assault offense in all cases completed in each fiscal year assessed. “(C) A review and assessment, by fiscal year, of the race and ethnicity of members of the Armed Forces who were convicted of a penetrative sexual assault offense or contact sexual assault offense in all cases completed in each fiscal year assessed. “(2) Information from federal agencies.—“(A) In general.—Upon request by the chair of the committee, a department or agency of the Federal Government shall provide information that the committee considers necessary to conduct reviews and assessments required by paragraph (1), including military criminal investigation files, charge sheets, records of trial, and personnel records. “(B) Handling, storage, and return.—The committee shall handle and store all records received and reviewed under this subsection in accordance with applicable privacy laws and Department of Defense policy, and shall return all records so received in a timely manner. “(3) Report.—Not later than one year after the date of the enactment of this Act [Dec. 20, 2019], the committee shall submit to the Secretary of Defense, and to the Committees on Armed Services of the Senate and the House of Representatives, a report setting forth the results of the reviews and assessments required by paragraph (1). The report shall include such recommendations for legislative or administrative action as the committee considers appropriate in light of such results. “(4) Definitions.—In this subsection:“(A) The term ‘independent committee DAC–IPAD’ means the independent committee established by the Secretary of Defense under section 546 of the Carl Levin and Howard P. ‘Buck’ McKeon National Defense Authorization Act for Fiscal Year 2015 (Public Law 113–291; 128 Stat. 3374) [[10 U.S.C. 1561](./chapter-080-miscellaneous-investigation-requirements-and-other-duties.md#section-1561) note], commonly known as the ‘DAC-IPAD’. “(B) The term ‘case’ means an unrestricted report of any penetrative sexual assault offense or contact sexual assault offense made against a member of the Armed Forces pursuant to Department of Defense Instruction 6495.02, including any unrestricted report involving a spouses or intimate partner for which an investigation has been opened by a criminal investigative organization. “(C) The term ‘completed’, with respect to a case, means that the case was tried to verdict, dismissed without further action, or dismissed and then resolved by non-judicial or administrative proceedings. “(D) The term ‘contact sexual assault offense’ means aggravated sexual contact, abusive sexual contact, wrongful sexual contact, and attempts to commit such offenses under the Uniform Code of Military Justice. “(E) The term ‘penetrative sexual assault offense’ means rape, aggravated sexual assault, sexual assault, forcible sodomy, and attempts to commit such offenses under the Uniform Code of Military Justice.”
@@ -719,9 +752,6 @@ In clause (12), the words “Secretary concerned” are substituted for the word
 
 The Act of August 1, 1956, was enacted during the pendency of the codification bill.
 
-#### Constitutionality
-For information regarding constitutionality of certain provisions of section 1 (Art. 2) of act May 5, 1950, ch. 169, cited as the source of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
-
 #### Amendments
 2016—Subsec. (a)(3). Pub. L. 114–328 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Members of a reserve component while on inactive-duty training, but in the case of members of the Army National Guard of the United States or the Air National Guard of the United States only when in Federal service.”
 
@@ -757,6 +787,9 @@ Subsec. (b). Pub. L. 98–209, § 13(a)(2), struck out “of this section” aft
 
 1959—Pub. L. 86–70 struck out “that part of Alaska east of longitude 172 degrees west,” before “the Canal Zone” in cls. (11) and (12).
 
+#### Change of Name
+The Secretary of Health, Education, and Welfare was redesignated the Secretary of Health and Human Services by [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Effective Date of 2016 Amendment
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
 
@@ -779,16 +812,14 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 #### Repeals
 The directory language of, but not the amendment made by, Pub. L. 89–718, § 8(a), Nov. 2, 1966, 80 Stat. 1117, cited as a credit to this section, was repealed by Pub. L. 97–295, § 6(b), Oct. 12, 1982, 96 Stat. 1314.
 
-#### Transfer of Functions
-All functions of Public Health Service, of the Surgeon General of the Public Health Service, and of all other officers and employees of the Public Health Service, and all functions of all agencies of or in the Public Health Service transferred to Secretary of Health, Education, and Welfare by 1966 Reorg. Plan No. 3, 31 F.R. 8855, 80 Stat. 1610, effective June 25, 1966, set out in the Appendix to Title 5, Government Organization and Employees.
-
-The Secretary of Health, Education, and Welfare was redesignated the Secretary of Health and Human Services by [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
-
 #### Applicability of Uniform Code of Military Justice to Members of the Armed Forces Ordered to Duty Overseas in Inactive Duty for Training Status
 Pub. L. 109–364, div. A, title V, § 551, Oct. 17, 2006, 120 Stat. 2217, provided that: “Not later than March 1, 2007, the Secretaries of the military departments shall prescribe regulations, or amend current regulations, in order to provide that members of the Armed Forces who are ordered to duty at locations overseas in an inactive duty for training status are subject to the jurisdiction of the Uniform Code of Military Justice, pursuant to the provisions of [section 802(a)(3) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section802/a/3&num=0&edition=prelim), United States Code (article 2(a)(3) of the Uniform Code of Military Justice), continuously from the commencement of execution of such orders to the conclusion of such orders.”
 
 #### Advisory Committee on Criminal Law Jurisdiction Over Civilians Accompanying Armed Forces in Time of Armed Conflict
 Pub. L. 104–106, div. A, title XI, § 1151, Feb. 10, 1996, 110 Stat. 467, directed the Secretary of Defense and the Attorney General, not later than 45 days after Feb. 10, 1996, to jointly appoint an advisory committee to review and make recommendations concerning the appropriate forum for criminal jurisdiction over civilians accompanying the Armed Forces outside the United States in time of armed conflict, directed the committee to transmit to the Secretary of Defense and the Attorney General a report setting forth its findings and recommendations not later than Dec. 15, 1996, directed the Secretary of Defense and the Attorney General to jointly transmit the report of the committee to Congress not later than Jan. 15, 1997, and provided that the committee would terminate 30 days after the date on which the report had been submitted to Congress.
+
+#### Transfer of Functions
+All functions of Public Health Service, of the Surgeon General of the Public Health Service, and of all other officers and employees of the Public Health Service, and all functions of all agencies of or in the Public Health Service transferred to Secretary of Health, Education, and Welfare by 1966 Reorg. Plan No. 3, 31 F.R. 8855, 80 Stat. 1610, effective June 25, 1966, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Ex. Ord. No. 10631. Code of Conduct for Members of the Armed Forces
 Ex. Ord. No. 10631, Aug. 17, 1955, 20 F.R. 6057, as amended by Ex. Ord. No. 11382, Nov. 28, 1967, 32 F.R. 16247; Ex. Ord. No. 12017, Nov. 3, 1977, 42 F.R. 57941; Ex. Ord. No. 12633, Mar. 28, 1988, 53 F.R. 10355; Ex. Ord. No. 13286, § 76, Feb. 28, 2003, 68 F.R. 106231, provided:
@@ -1019,7 +1050,9 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 (7) The right to proceedings free from unreasonable delay.
 
-(8) The right to be treated with fairness and with respect for the dignity and privacy of the victim of an offense under this chapter.
+(8) The right to be informed in a timely manner of any plea agreement, separation-in-lieu-of-trial agreement, or non-prosecution agreement relating to the offense, unless providing such information would jeopardize a law enforcement proceeding or would violate the privacy concerns of an individual other than the accused.
+
+(9) The right to be treated with fairness and with respect for the dignity and privacy of the victim of an offense under this chapter.
 
 **(b) Victim of an Offense Under This Chapter Defined.—** In this section, the term “victim of an offense under this chapter” means an individual who has suffered direct physical, emotional, or pecuniary harm as a result of the commission of an offense under this chapter.
 
@@ -1072,6 +1105,8 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 #### Amendments
 2021—Subsec. (a)(2)(D) to (F). Pub. L. 116–283 added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
 
+Subsec. (a)(8), (9). Pub. L. 117–81 added par. (8) and redesignated former par. (8) as (9).
+
 2017—Subsec. (b). Pub. L. 115–91, § 1081(c)(1)(B), which directed striking out “(the Uniform Code of Military Justice)” after “this chapter”, was not executed in light of the prior amendment by section 1081(a)(22) of Pub. L. 115–91, to reflect the probable intent of Congress. See Amendment note below and Effective Date of 2017 Amendment note below.
 
 Pub. L. 115–91, § 1081(a)(22), struck out “(the Uniform Code of Military Justice)” after “this chapter”.
@@ -1110,8 +1145,8 @@ Amendment by section 1081(c)(1)(B) of Pub. L. 115–91 effective immediately aft
 #### Effective Date of 2016 Amendment
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
 
-#### Notice to Victims of Alleged Sexual Assault of Pendency of Further Administrative Action Following a Determination Not To Refer to Trial by Court-Martial
-Pub. L. 116–92, div. A, title V, § 549, Dec. 20, 2019, 133 Stat. 1379, provided that: “Under regulations prescribed by the Secretary of Defense, upon a determination not to refer a case of alleged sexual assault for trial by court-martial under chapter 47 of title 10, United States Code (the Uniform Code of Military Justice), the commander making such determination shall periodically notify the victim of the status of a final determination on further action on such case, whether non-judicial punishment under section 815 of such title (article 15 of the Uniform Code of Military Justice), other administrative action, or no further action. Such notifications shall continue not less frequently than monthly until such final determination.”
+#### Notice to Victims of Alleged Sex-Related Offense of Pendency of Further Administrative Action Following a Determination Not To Refer to Trial by Court-Martial
+Pub. L. 116–92, div. A, title V, § 549, Dec. 20, 2019, 133 Stat. 1379, as amended by Pub. L. 117–81, div. A, title V, § 545, Dec. 27, 2021, 135 Stat. 1711, provided that: “Notwithstanding [section 552a of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), United States Code, and under regulations prescribed by the Secretary of Defense, upon a determination not to refer a case of an alleged sex-related offense (as defined in [section 1044e(h) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1044e/h&num=0&edition=prelim), United States Code) for trial by court-martial under chapter 47 of title 10, United States Code (the Uniform Code of Military Justice), the commander making such determination shall periodically notify the victim of the status of a final determination on further action on such case, whether non-judicial punishment under section 815 of such title (article 15 of the Uniform Code of Military Justice), other administrative action, or no further action. Such notifications shall continue not less frequently than monthly until such final determination. Upon such final determination, the commander shall notify the victim of the type of action taken on such case, the outcome of the action (including any punishments assigned or characterization of service, as applicable), and such other information as the commander determines to be relevant.”
 
 #### Implementation
 Pub. L. 113–66, div. A, title XVII, § 1701(b), Dec. 26, 2013, 127 Stat. 953, provided that: “(1) Issuance.—Not later than one year after the date of the enactment of this Act [Dec. 26, 2013]—“(A) the Secretary of Defense shall recommend to the President changes to the Manual for Courts-Martial to implement [section 806b of title 10](./chapter-047-uniform-code-of-military-justice.md#section-806b), United States Code (article 6b of the Uniform Code of Military Justice), as added by subsection (a); and “(B) the Secretary of Defense and Secretary of Homeland Security (with respect to the Coast Guard when it is not operating as a service in the Navy) shall prescribe such regulations as each such Secretary considers appropriate to implement such section. “(2) Mechanisms for affording rights.—The recommendations and regulations required by paragraph (1) shall include the following:“(A) Mechanisms for ensuring that victims are notified of, and accorded, the rights specified in [section 806b of title 10](./chapter-047-uniform-code-of-military-justice.md#section-806b), United States Code (article 6b of the Uniform Code of Military Justice), as added by subsection (a). “(B) Mechanisms for ensuring that members of the Armed Forces and civilian personnel of the Department of Defense and the Coast Guard make their best efforts to ensure that victims are notified of, and accorded, the rights specified in such section. “(C) Mechanisms for the enforcement of such rights, including mechanisms for application for such rights and for consideration and disposition of applications for such rights. “(D) The designation of an authority within each Armed Force to receive and investigate complaints relating to the provision or violation of such rights. “(E) Disciplinary sanctions for members of the Armed Forces and other personnel of the Department of Defense and Coast Guard who willfully or wantonly fail to comply with requirements relating to such rights.”
@@ -1706,6 +1741,17 @@ The words “do not deprive” are substituted for the words “shall not be con
 
 ### Statutory Notes
 
+#### Amendment of Subsection (b)
+Pub. L. 117–81, div. A, title V, §§ 534(a), 539C, Dec. 27, 2021, 135 Stat. 1696, 1699, provided that, effective on the date that is two years after Dec. 27, 2021, and applicable with respect to offenses that occur after that date, with provisions for delayed effect and applicability, subsection (b) of this section is amended:
+
+(1) by striking “If any” and inserting “(1) If any”; and
+
+(2) by adding at the end the following new paragraph:
+
+(2) A commanding officer shall not be considered an accuser solely due to the role of the commanding officer in convening a general court-martial to which charges and specifications were referred by a special trial counsel in accordance with this chapter.
+
+See 2021 Amendment note below.
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised section | Source (U.S. Code) | Source (Statutes at Large) |
@@ -1722,11 +1768,16 @@ In subsection (b), the word “If” is substituted for the word “When”. The
 #### Amendments
 2021—Subsec. (a)(7). Pub. L. 116–283 substituted “Marine Corps, or the commanding officer of a corresponding unit of the Space Force” for “Marine Corps”.
 
+Subsec. (b). Pub. L. 117–81 designated existing provisions as par. (1) and added par. (2).
+
 2016—Subsec. (a)(6). Pub. L. 114–328 struck out “in chief” after “the commander”.
 
 2006—Subsec. (a)(5). Pub. L. 109–163 struck out “a Territorial Department,” before “an Army Group”.
 
 1986—Subsec. (a)(2) to (9). Pub. L. 99–433 added pars. (2) and (3) and redesignated existing pars. (2) to (7) as (4) to (9), respectively.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–81 effective on the date that is two years after Dec. 27, 2021, and applicable with respect to offenses that occur after that date, with provisions for delayed effect and applicability if regulations are not prescribed by the President before the date that is two years after Dec. 27, 2021, see section 539C of Pub. L. 117–81, set out as a note under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
 
 #### Effective Date of 2016 Amendment
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
@@ -1741,7 +1792,7 @@ Pub. L. 116–92, div. A, title V, § 540A, Dec. 20, 2019, 133 Stat. 1365, provi
 
 (1) any person who may convene a general court-martial;
 
-(2) the commanding officer of a district, garrison, fort, camp, station, Air Force or Space Force military installation, auxiliary air field, or other place where members of the Army 11 So in original. A comma probably should appear. the Air Force, or the Space Force are on duty;
+(2) the commanding officer of a district, garrison, fort, camp, station, Air Force or Space Force military installation, auxiliary air field, or other place where members of the Army, the Air Force, or the Space Force are on duty;
 
 (3) the commanding officer of a brigade, regiment, detached battalion, or corresponding unit of the Army;
 
@@ -1757,6 +1808,17 @@ Pub. L. 116–92, div. A, title V, § 540A, Dec. 20, 2019, 133 Stat. 1365, provi
 
 ### Statutory Notes
 
+#### Amendment of Subsection (b)
+Pub. L. 117–81, div. A, title V, §§ 534(b), 539C, Dec. 27, 2021, 135 Stat. 1696, 1699, provided that, effective on the date that is two years after Dec. 27, 2021, and applicable with respect to offenses that occur after that date, with provisions for delayed effect and applicability, subsection (b) of this section is amended:
+
+(1) by striking “If any” and inserting “(1) If any”; and
+
+(2) by adding at the end the following new paragraph:
+
+(2) A commanding officer shall not be considered an accuser solely due to the role of the commanding officer in convening a special court-martial to which charges and specifications were referred by a special trial counsel in accordance with this chapter.
+
+See 2021 Amendment notes below.
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised section | Source (U.S. Code) | Source (Statutes at Large) |
@@ -1767,9 +1829,16 @@ In subsection (a)(7), the words “Secretary concerned” are substituted for th
 In subsection (b), the word “If” is substituted for the word “When”. The words “if considered” are substituted for the words “when deemed”.
 
 #### Amendments
-2021—Subsec. (a)(2). Pub. L. 116–283, § 924(b)(21)(B)(i), substituted “Air Force or Space Force military installation” for “Air Force base” and “the Air Force, or the Space Force” for “or the Air Force”.
+2021—Subsec. (a)(2). Pub. L. 117–81, § 1081(a)(13), inserted comma after “Army”.
+
+Pub. L. 116–283, § 924(b)(21)(B)(i), substituted “Air Force or Space Force military installation” for “Air Force base” and “the Air Force, or the Space Force” for “or the Air Force”.
 
 Subsec. (a)(4). Pub. L. 116–283, § 924(b)(21)(B)(ii), inserted “or a corresponding unit of the Space Force” after “Air Force”.
+
+Subsec. (b). Pub. L. 117–81, § 534(b), designated existing provisions as par. (1) and added par. (2).
+
+#### Effective Date of 2021 Amendment
+Amendment by section 534(b) of Pub. L. 117–81 effective on the date that is two years after Dec. 27, 2021, and applicable with respect to offenses that occur after that date, with provisions for delayed effect and applicability if regulations are not prescribed by the President before the date that is two years after Dec. 27, 2021, see section 539C of Pub. L. 117–81, set out as a note under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
@@ -1802,6 +1871,54 @@ In subsection (b), the words “only one commissioned” are substituted for the
 
 #### Amendments
 2021—Subsec. (a)(3). Pub. L. 116–283 inserted “or a corresponding unit of the Space Force” after “Air Force”.
+
+
+<a id="section-824a"></a>
+## § 824a. Art 24a. Special trial counsel
+**(a) Detail of Special Trial Counsel.—** Each Secretary concerned shall promulgate regulations for the detail of commissioned officers to serve as special trial counsel.
+
+**(b) Qualifications.—** A special trial counsel shall be a commissioned officer who—
+
+(1)
+
+  (A) is a member of the bar of a Federal court or a member of the bar of the highest court of a State; and
+
+  (B) is certified to be qualified, by reason of education, training, experience, and temperament, for duty as a special trial counsel by—
+
+    (i) the Judge Advocate General of the armed force of which the officer is a member; or
+
+    (ii) in the case of the Marine Corps, the Staff Judge Advocate to the Commandant of the Marine Corps; and
+
+(2) in the case of a lead special trial counsel appointed pursuant to [section 1044f(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1044f/a/2&num=0&edition=prelim), is in a grade no lower than O–7.
+
+**(c) Duties and Authorities.—**
+
+(1) **In general.—** — Special trial counsel shall carry out the duties described in this chapter and any other duties prescribed by the Secretary concerned, by regulation.
+
+(2) **Determination of covered offense; related charges.—**
+
+  (A) *Authority.—* — A special trial counsel shall have exclusive authority to determine if a reported offense is a covered offense and shall exercise authority over any such offense in accordance with this chapter. Any determination to prefer or refer charges shall not act to disqualify the special trial counsel as an accuser.
+
+  (B) *Known and related offenses.—* — If a special trial counsel determines that a reported offense is a covered offense, the special trial counsel may also exercise authority over any offense that the special trial counsel determines to be related to the covered offense and any other offense alleged to have been committed by a person alleged to have committed the covered offense.
+
+(3) **Dismissal; referral; plea bargains.—** — Subject to paragraph (4), with respect to charges and specifications alleging any offense over which a special trial counsel exercises authority, a special trial counsel shall have exclusive authority to, in accordance with this chapter—
+
+  (A) on behalf of the Government, withdraw or dismiss the charges and specifications or make a motion to withdraw or dismiss the charges and specifications;
+
+  (B) refer the charges and specifications for trial by a special or general court-martial;
+
+  (C) enter into a plea agreement; and
+
+  (D) determine if an ordered rehearing is impracticable.
+
+(4) **Binding determination.—** — The determination of a special trial counsel to refer charges and specifications to a court-martial for trial shall be binding on any applicable convening authority for the referral of such charges and specifications.
+
+(5) **Deferral to commander or convening authority.—** — If a special trial counsel exercises authority over an offense and elects not to prefer charges and specifications for such offense or, with respect to charges and specifications for such offense preferred by a person other than a special trial counsel, elects not to refer such charges and specifications, a commander or convening authority may exercise any of the authorities of such commander or convening authority under this chapter with respect to such offense, except that such commander or convening authority may not refer charges and specifications for a covered offense for trial by special or general court-martial.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is two years after Dec. 27, 2021, and applicable with respect to offenses that occur after that date, with provisions for delayed effect and applicability if regulations are not prescribed by the President before the date that is two years after Dec. 27, 2021, see section 539C of Pub. L. 117–81, set out as an Effective Date of 2021 Amendment note under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
 
 
 <a id="section-825"></a>
@@ -2042,6 +2159,17 @@ Section effective on Jan. 1, 2019, as designated by the President, with implemen
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 117–81, div. A, title V, §§ 535, 539C, Dec. 27, 2021, 135 Stat. 1696, 1699, provided that, effective on the date that is two years after Dec. 27, 2021, and applicable with respect to offenses that occur after that date, with provisions for delayed effect and applicability, this section is amended by adding at the end the following new subsection:
+
+(e) For each general and special court-martial for which charges and specifications were referred by a special trial counsel—
+
+(1) a special trial counsel shall be detailed as trial counsel; and
+
+(2) a special trial counsel may detail other trial counsel as necessary who are judge advocates.
+
+See 2021 Amendment note below.
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised section | Source (U.S. Code) | Source (Statutes at Large) |
@@ -2057,7 +2185,9 @@ In subsections (b) and (c), the word “must” is substituted for the word “s
 In subsection (b), the word “for” is substituted for the words “in the case of”. The words “person * * * a person who is” are omitted as surplusage.
 
 #### Amendments
-Subsec. (a)(2). Pub. L. 114–328, § 5186(1), substituted “No person who, with respect to a case, has served as a preliminary hearing officer, court member, military judge, military magistrate, or appellate judge, may later serve as trial counsel,” for “No person who has acted as investigating officer, military judge, or court member in any case may act later as trial counsel,”.
+2021—Subsec. (e). Pub. L. 117–81 added subsec. (e).
+
+2016—Subsec. (a)(2). Pub. L. 114–328, § 5186(1), substituted “No person who, with respect to a case, has served as a preliminary hearing officer, court member, military judge, military magistrate, or appellate judge, may later serve as trial counsel,” for “No person who has acted as investigating officer, military judge, or court member in any case may act later as trial counsel,”.
 
 Subsec. (b). Pub. L. 114–328, § 5186(2), substituted “Trial counsel, defense counsel, or assistant defense counsel” for “Trial counsel or defense counsel” in introductory provisions.
 
@@ -2083,6 +2213,9 @@ Subsec. (c). Pub. L. 90–632, § 2(10)(B), redesignated former pars. (1) and (2
 
 1967—Subsec. (b)(1). Pub. L. 90–179 inserted reference to judge advocate of the Marine Corps and substituted reference to judge advocate of the Navy for reference to law specialist of the Navy.
 
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–81 effective on the date that is two years after Dec. 27, 2021, and applicable with respect to offenses that occur after that date, with provisions for delayed effect and applicability if regulations are not prescribed by the President before the date that is two years after Dec. 27, 2021, see section 539C of Pub. L. 117–81, set out as a note under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
+
 #### Effective Date of 2016 Amendment
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
 
@@ -2091,6 +2224,9 @@ Amendment by Pub. L. 98–209 effective first day of eighth calendar month begin
 
 #### Effective Date of 1968 Amendment
 Amendment by Pub. L. 90–632 effective first day of tenth month following October 1968, see section 4 of Pub. L. 90–632, set out as a note under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
+
+#### Military Defense Counsel
+Pub. L. 117–81, div. A, title V, § 549D, Dec. 27, 2021, 135 Stat. 1726, provided that: “Each Secretary of a military department shall— “(1) ensure that military defense counsel have timely and reliable access to and funding for defense investigators, expert witnesses, trial support, pre-trial and post-trial support, paralegal support, counsel travel, and other necessary resources; “(2) ensure that military defense counsel detailed to represent a member of the Armed Forces accused of a covered offense (as defined in [section 801(17) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section801/17&num=0&edition=prelim), United States Code (article 1(17) of the Uniform Code of Military Justice), as added by section 533 of this Act) are well-trained and experienced, highly skilled, and competent in the defense of cases involving covered offenses; and “(3) take or direct such other actions regarding military defense counsel as may be warranted in the interest of the fair administration of justice.”
 
 #### Effective Prosecution and Defense in Courts-Martial and Pilot Programs on Professional Military Justice Development for Judge Advocates
 Pub. L. 114–328, div. A, title V, § 542, Dec. 23, 2016, 130 Stat. 2126, as amended by Pub. L. 115–91, div. A, title V, § 532, Dec. 12, 2017, 131 Stat. 1388, provided that: “(a) Program for Effective Prosecution and Defense.—The Secretary concerned shall carry out a program to ensure that—“(1) trial counsel and defense counsel detailed to prosecute or defend a court-martial have sufficient experience and knowledge to effectively prosecute or defend the case or there is adequate supervision and oversight of trial counsel and defense counsel so detailed to ensure effective prosecution and defense in the court-martial; and “(2) a deliberate professional developmental process is in place to ensure effective prosecution and defense in all courts-martial. “(b) Military Justice Experience Designators or Skill Identifiers.—The Secretary concerned shall establish and use a system of military justice experience designators or skill identifiers for purposes of identifying judge advocates with skill and experience in military justice proceedings in order to ensure that judge advocates with experience and skills identified through such experience designators or skill identifiers are assigned to develop less experienced judge advocates in the prosecution and defense in courts-martial under a program carried out pursuant to subsection (a). “(c) Use of Civilian Employees to Advise Less Experienced Judge Advocates in Prosecution and Defense.—The Secretary concerned may use highly qualified experts and other civilian employees who are under the jurisdiction of the Secretary concerned, are available, and are experienced in the prosecution or defense of complex criminal cases to provide assistance to, and consult with, less experienced judge advocates throughout the court-martial process. “(d) Pilot Programs on Professional Developmental Process for Judge Advocates.—“(1) Purpose.—The Secretary concerned shall carry out a pilot program to assess the feasibility and advisability of a military justice career track for judge advocates under the jurisdiction of the Secretary. “(2) Additional matters.—A pilot program may also assess such other matters related to professional military justice development for judge advocates as the Secretary concerned considers appropriate. “(3) Duration.—Each pilot program shall be for a period of five years. “(4) Elements.—Each pilot program shall include the following:“(A) A military justice career track for judge advocates that leads to judge advocates with military justice expertise in the grade of colonel, or in the grade of captain in the case of judge advocates of the Navy. “(B) The use of skill identifiers to identify judge advocates for participation in the pilot program from among judge advocates having appropriate skill and experience in military justice matters. “(C) Guidance for promotion boards considering the selection for promotion of officers participating in the pilot program in order to ensure that judge advocates who are participating in the pilot program have the same opportunity for promotion as all other judge advocate officers being considered for promotion by such boards. “(D) Such other matters as the Secretary concerned considers appropriate. “(5) Report.—Not later than four years after the date of the enactment of this Act [Dec. 23, 2016], the Secretary concerned shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the pilot programs conducted under this section. The report shall include the following:“(A) A description and assessment of each pilot program. “(B) Such recommendations as the Secretary considers appropriate in light of the pilot programs, including whether any pilot program should be extended or made permanent. “(e) Secretary Concerned Defined.—In this section, the term ‘Secretary concerned’ has the meaning given that term in [section 101(a)(9) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a/9&num=0&edition=prelim), United States Code.”
@@ -2422,6 +2558,33 @@ The word “may” is substituted for the word “shall” throughout the revise
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 117–81, div. A, title V, §§ 536, 539C, Dec. 27, 2021, 135 Stat. 1696, 1699, provided that, effective on the date that is two years after Dec. 27, 2021, and applicable with respect to offenses that occur after that date, with provisions for delayed effect and applicability, this section is amended:
+
+(1) in subsection (a)(1)—
+
+(A) in subparagraph (A), by striking “hearing officer” and all that follows through the period at the end and inserting “hearing officer detailed in accordance with subparagraph (C).”;
+
+(B) in subparagraph (B), by striking “written waiver” and all that follows through the period at the end and inserting the following: “written waiver to—
+
+“(i) except as provided in clause (ii), the convening authority and the convening authority determines that a hearing is not required; and
+
+“(ii) with respect to charges and specifications over which the special trial counsel is exercising authority in accordance with [section 824a of this title](./chapter-047-uniform-code-of-military-justice.md#section-824a) (article 24a), the special trial counsel and the special trial counsel determines that a hearing is not required.”; and
+
+(C) by adding at the end the following new subparagraph:
+
+“(C)(i) Except as provided in clause (ii), the convening authority shall detail a hearing officer.
+
+“(ii) If a special trial counsel is exercising authority over the charges and specifications subject to a preliminary hearing under this section (article), the special trial counsel shall request a hearing officer and a hearing officer shall be provided by the convening authority, in accordance with regulations prescribed by the President.”; and
+
+(2) in subsection (c)—
+
+(A) in the heading, by inserting “or Special Trial Counsel” after “Convening Authority”; and
+
+(B) in the matter preceding paragraph (1) by striking “to the convening authority” and inserting “to the convening authority or, in the case of a preliminary hearing in which the hearing officer is provided at the request of a special trial counsel to the special trial counsel,”.
+
+See 2021 Amendment notes below.
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised section | Source (U.S. Code) | Source (Statutes at Large) |
@@ -2438,6 +2601,14 @@ In subsection (c), the word “before” is substituted for the words “prior t
 In subsection (d), the word “are” is substituted for the words “shall be.” The word “does” is substituted for the words “in any case shall”.
 
 #### Amendments
+2021—Subsec. (a)(1)(A). Pub. L. 117–81, § 536(a)(1), substituted “hearing officer detailed in accordance with subparagraph (C).” for “hearing officer, detailed by the convening authority in accordance with subsection (b).”
+
+Subsec. (a)(1)(B). Pub. L. 117–81, § 536(a)(2), substituted “written waiver to—” and cls. (i) and (ii) for “written waiver to the convening authority and the convening authority determines that a hearing is not required.”
+
+Subsec. (a)(1)(C). Pub. L. 117–81, § 536(a)(3), added subpar. (C).
+
+Subsec. (c). Pub. L. 117–81, § 536(b), inserted “or Special Trial Counsel” after “Convening Authority” in heading and substituted “to the convening authority or, in the case of a preliminary hearing in which the hearing officer is provided at the request of a special trial counsel to the special trial counsel,” for “to the convening authority” in introductory provisions.
+
 2016—Pub. L. 114–328, § 5203(a), substituted “Preliminary hearing required before referral to general court-martial” for “Preliminary hearing” in section catchline.
 
 Subsecs. (a) to (c). Pub. L. 114–328, § 5203(a), added subsecs. (a) to (c) and struck out former subsecs. (a) to (c) which related to requirement of preliminary hearing, hearing officer, and report of hearing results, respectively.
@@ -2461,6 +2632,9 @@ Subsec. (g). Pub. L. 114–328, § 5203(d), inserted at end “A defect in a rep
 1996—Subsecs. (d), (e). Pub. L. 104–106 added subsec. (d) and redesignated former subsec. (d) as (e).
 
 1981—Subsec. (b). Pub. L. 97–81 substituted “The accused has the right to be represented at that investigation as provided in [section 838 of this title](./chapter-047-uniform-code-of-military-justice.md#section-838) (article 38) and in regulations prescribed under that section” for “Upon his own request he shall be represented by civilian counsel if provided by him, or military counsel of his own selection if such counsel is reasonably available, or by counsel detailed by the officer exercising general court-martial jurisdiction over the command”.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–81 effective on the date that is two years after Dec. 27, 2021, and applicable with respect to offenses that occur after that date, with provisions for delayed effect and applicability if regulations are not prescribed by the President before the date that is two years after Dec. 27, 2021, see section 539C of Pub. L. 117–81, set out as a note under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
 
 #### Effective Date of 2016 Amendment
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
@@ -2519,6 +2693,33 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 117–81, div. A, title V, §§ 537, 539C, Dec. 27, 2021, 135 Stat. 1697, 1699, provided that, effective on the date that is two years after Dec. 27, 2021, and applicable with respect to offenses that occur after that date, with provisions for delayed effect and applicability, this section is amended:
+
+(1) in subsection (a)(1), by striking “Before referral” and inserting “Subject to subsection (c), before referral”;
+
+(2) in subsection (b), by striking “Before referral” and inserting “Subject to subsection (c), before referral”;
+
+(3) by redesignating subsections (c) and (d) as subsections (d) and (e) respectively;
+
+(4) by inserting after subsection (b) the following new subsection:
+
+“(c) Covered Offenses.—A referral to a general or special court-martial for trial of charges and specifications over which a special trial counsel exercises authority may only be made—
+
+“(1) by a special trial counsel, subject to a special trial counsel’s written determination accompanying the referral that—
+
+“(A) each specification under a charge alleges an offense under this chapter;
+
+“(B) there is probable cause to believe that the accused committed the offense charged; and
+
+“(C) a court-martial would have jurisdiction over the accused and the offense; or
+
+“(2) in the case of charges and specifications that do not allege a covered offense and as to which a special trial counsel declines to prefer or, in the case of charges and specifications preferred by a person other than a special trial counsel, refer charges, by the convening authority in accordance with this section.”; and
+
+(5) in subsection (e), as so redesignated, by inserting “or, with respect to charges and specifications over which a special trial counsel exercises authority in accordance with [section 824a of this title](./chapter-047-uniform-code-of-military-justice.md#section-824a) (article 24a), a special trial counsel,” after “convening authority”.
+
+See 2021 Amendment notes below.
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised section | Source (U.S. Code) | Source (Statutes at Large) |
@@ -2527,6 +2728,16 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 In subsection (a), the word “may” is substituted for the word “shall”.
 
 #### Amendments
+2021—Subsec. (a)(1). Pub. L. 117–81, § 537(1), substituted “Subject to subsection (c), before referral” for “Before referral” in introductory provisions.
+
+Subsec. (b). Pub. L. 117–81, § 537(2), substituted “Subject to subsection (c), before referral” for “Before referral”.
+
+Subsecs. (c), (d). Pub. L. 117–81, § 537(3), (4), added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
+
+Subsec. (e). Pub. L. 117–81, § 537(5), inserted “or, with respect to charges and specifications over which a special trial counsel exercises authority in accordance with [section 824a of this title](./chapter-047-uniform-code-of-military-justice.md#section-824a) (article 24a), a special trial counsel,” after “convening authority”.
+
+Pub. L. 117–81, § 537(3), redesignated subsec. (d) as (e).
+
 2016—Pub. L. 114–328 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) relating to reference of charge to staff judge advocate for consideration and advice before trial, written and signed statement of advice by the staff judge advocate, and corrections to charges and specifications, respectively.
 
 2014—Subsec. (a)(2). Pub. L. 113–291 inserted “(if there is such a report)” after “(article 32)”.
@@ -2536,6 +2747,9 @@ In subsection (a), the word “may” is substituted for the word “shall”.
 1983—Subsec. (a). Pub. L. 98–209, § 4(a), substituted “judge advocate” for “judge advocate or legal officer”, and provisions that the convening authority may not refer a specification under a charge to a general court-martial for trial unless he has been advised in writing by the staff judge advocate that the specification alleges an offense under this chapter, the specification is warranted by the evidence indicated in the report of investigation under [section 832 of this title](./chapter-047-uniform-code-of-military-justice.md#section-832) (article 32) (if there is such a report), and a court-martial would have jurisdiction over the accused and the offense, for provision that the convening authority could not refer a charge to a general court-martial for trial unless he found that the charge alleged an offense under this chapter and was warranted by evidence indicated in the report of investigation.
 
 Subsecs. (b), (c). Pub. L. 98–209, § 4(b), added subsec. (b) and redesignated former subsec. (b) as (c).
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–81 effective on the date that is two years after Dec. 27, 2021, and applicable with respect to offenses that occur after that date, with provisions for delayed effect and applicability if regulations are not prescribed by the President before the date that is two years after Dec. 27, 2021, see section 539C of Pub. L. 117–81, set out as a note under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
 
 #### Effective Date of 2016 Amendment
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
@@ -3154,6 +3368,11 @@ Pub. L. 115–91, div. A, title V, § 531(n)(2), (3), Dec. 12, 2017, 131 Stat. 1
 
 ### Statutory Notes
 
+#### Amendment of Subsection (c)
+Pub. L. 117–81, div. A, title V, §§ 538, 539C, Dec. 27, 2021, 135 Stat. 1698, 1699, provided that, effective on the date that is two years after Dec. 27, 2021, and applicable with respect to offenses that occur after that date, with provisions for delayed effect and applicability, subsection (c) of this section is amended by inserting “or the special trial counsel” after “the convening authority” each place it appears.
+
+See 2021 Amendment note below.
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised section | Source (U.S. Code) | Source (Statutes at Large) |
@@ -3166,7 +3385,12 @@ In subsection (b), the word “is” is substituted for the words “shall be he
 In subsection (c), the word “after” is substituted for the words “subsequent to”. The word “before” is substituted for the words “prior to”. The word “is” is substituted for the words “shall be”.
 
 #### Amendments
+2021—Subsec. (c). Pub. L. 117–81 inserted “or the special trial counsel” after “the convening authority” in two places.
+
 2016—Subsec. (c). Pub. L. 114–328 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “A proceeding which, after the introduction of evidence but before a finding, is dismissed or terminated by the convening authority or on motion of the prosecution for failure of available evidence or witnesses without any fault of the accused is a trial in the sense of this article.”
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–81 effective on the date that is two years after Dec. 27, 2021, and applicable with respect to offenses that occur after that date, with provisions for delayed effect and applicability if regulations are not prescribed by the President before the date that is two years after Dec. 27, 2021, see section 539C of Pub. L. 117–81, set out as a note under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
 
 #### Effective Date of 2016 Amendment
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
@@ -3706,6 +3930,31 @@ Amendment by Pub. L. 90–632 effective first day of tenth month following Octob
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 117–81, div. A, title V, § 539E(a), (f), Dec. 27, 2021, 135 Stat. 1700, 1706, provided that, effective on the date that is two years after Dec. 27, 2021, and applicable to sentences adjudged in cases in which all findings of guilty are for offenses that occurred after the date that is two years after Dec. 27, 2021, this section is amended:
+
+(1) in subsection (b), by amending paragraph (1) to read as follows:
+
+“(1) General and special courts-martial.—Except as provided in subsection (c) for capital offenses, if the accused is convicted of an offense in a trial by general or special court-martial, the military judge shall sentence the accused. The sentence determined by the military judge constitutes the sentence of the court-martial.”; and
+
+(2) in subsection (c)—
+
+(A) by amending paragraph (1) to read as follows:
+
+“(1) In general.—In a capital case, if the accused is convicted of an offense for which the court-martial may sentence the accused to death—
+
+“(A) the members shall determine—
+
+“(i) whether the sentence for that offense shall be death or life in prison without eligibility for parole; or
+
+“(ii) whether the matter shall be returned to the military judge for determination of a lesser punishment; and
+
+“(B) the military judge shall sentence the accused for that offense in accordance with the determination of the members under subparagraph (A).”; and
+
+(B) in paragraph (2), by striking “the court-martial” and inserting “the military judge”.
+
+See 2021 Amendment notes below.
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised section | Source (U.S. Code) | Source (Statutes at Large) |
@@ -3714,9 +3963,18 @@ Amendment by Pub. L. 90–632 effective first day of tenth month following Octob
 The word “A” is substituted for the word “Every”.
 
 #### Amendments
+2021—Subsec. (b)(1). Pub. L. 117–81, § 539E(a)(1), amended par. (1) generally. Prior to amendment, par. (1) provided that, except for capital offenses, accused who is convicted in trial by general or special court-martial shall be sentenced by military judge or, if court-martial consisted of military judge and members, accused may elect sentencing by members.
+
+Subsec. (c)(1). Pub. L. 117–81, § 539E(a)(2)(A), amended par. (1) generally. Prior to amendment, text of par. (1) read as follows: “In a capital case, if the accused is convicted of an offense for which the court-martial may sentence the accused to death, the members shall determine whether the sentence for that offense shall be death or a lesser authorized punishment.”
+
+Subsec. (c)(2). Pub. L. 117–81, § 539E(a)(2)(B), substituted “the military judge” for “the court-martial”.
+
 2017—Subsec. (b)(1)(B). Pub. L. 115–91 struck out “in a trial” after “convicted of an offense”.
 
 2016—Pub. L. 114–328 amended section generally. Prior to amendment, text read as follows: “A court-martial shall announce its findings and sentence to the parties as soon as determined.”
+
+#### Effective Date of 2021 Amendment
+Pub. L. 117–81, div. A, title V, § 539E(f), Dec. 27, 2021, 135 Stat. 1706, provided that: “The amendments made by this section [amending this section and sections 853a, 856, and 866 of this section and repealing provisions set out as a note under section 856 of this section] shall take effect on the date that is two years after the date of the enactment of this Act [Dec. 27, 2021] and shall apply to sentences adjudged in cases in which all findings of guilty are for offenses that occurred after the date that is two years after the date of the enactment of this Act.”
 
 #### Effective Date of 2017 Amendment
 Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act ([10 U.S.C. 801](./chapter-047-uniform-code-of-military-justice.md#section-801) note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
@@ -3759,12 +4017,56 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 117–81, div. A, title V, §§ 539, 539C, Dec. 27, 2021, 135 Stat. 1698, 1699, provided that, effective on the date that is two years after Dec. 27, 2021, and applicable with respect to offenses that occur after that date, with provisions for delayed effect and applicability, this section is amended:
+
+(1) in subsection (a)—
+
+(A) in paragraph (1), by striking “At any time” and inserting “Subject to paragraph (3), at any time”; and
+
+(B) by adding at the end the following new paragraph:
+
+“(3) With respect to charges and specifications over which a special trial counsel exercises authority pursuant to [section 824a of this title](./chapter-047-uniform-code-of-military-justice.md#section-824a) (article 24a), a plea agreement under this section may only be entered into between a special trial counsel and the accused. Such agreement shall be subject to the same limitations and conditions applicable to other plea agreements under this section (article).”; and
+
+(2) in subsection (d), by inserting after “parties” the following: “(including the convening authority and the special trial counsel in the case of a plea agreement entered into under subsection (a)(3))”.
+
+Pub. L. 117–81, div. A, title V, § 539E(b), (f), Dec. 27, 2021, 135 Stat. 1701, 1706, provided that, effective on the date that is two years after Dec. 27, 2021, and applicable to sentences adjudged in cases in which all findings of guilty are for offenses that occurred after the date that is two years after Dec. 27, 2021, this section is amended:
+
+(1) by redesignating subsections (b), (c), and (d), as subsections (c), (d), and (e), respectively; and
+
+(2) by inserting after subsection (a) the following new subsection:
+
+(b) Acceptance of Plea Agreement.—Subject to subsection (c), the military judge of a general or special court-martial shall accept a plea agreement submitted by the parties, except that—
+
+(1) in the case of an offense with a sentencing parameter set forth in regulations prescribed by the President pursuant to section 539E(e) of the National Defense Authorization Act for Fiscal Year 2022, the military judge may reject a plea agreement that proposes a sentence that is outside the sentencing parameter if the military judge determines that the proposed sentence is plainly unreasonable; and
+
+(2) in the case of an offense for which the President has not established a sentencing parameter pursuant to section 539E(e) of the National Defense Authorization Act for Fiscal Year 2022, the military judge may reject a plea agreement that proposes a sentence if the military judge determines that the proposed sentence is plainly unreasonable.
+
+See 2021 Amendment notes below.
+
 #### Amendments
+2021—Subsec. (a)(1). Pub. L. 117–81, § 539(a)(1), substituted “Subject to paragraph (3), at any time” for “At any time” in introductory provisions.
+
+Subsec. (a)(3). Pub. L. 117–81, § 539(a)(2), added par. (3).
+
+Subsecs. (b), (c). Pub. L. 117–81, § 539E(b), added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
+
+Subsec. (d). Pub. L. 117–81, § 539E(b)(1), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+
+Pub. L. 117–81, § 539(b), inserted “(including the convening authority and the special trial counsel in the case of a plea agreement entered into under subsection (a)(3))” after “parties”.
+
+Subsec. (e). Pub. L. 117–81, § 539E(b)(1), redesignated subsec. (d) as (e).
+
 2017—Subsec. (b)(4), (5). Pub. L. 115–91, § 531(d)(1), added pars. (4) and (5).
 
 Subsec. (d). Pub. L. 115–91, § 1081(c)(1)(H), which directed substitution of “court-martial” for “military judge” the second place it appeared, could not be executed because of the prior amendment by Pub. L. 115–91, § 531(d)(2). See below.
 
 Pub. L. 115–91, § 531(d)(2), substituted “shall bind the parties and the court-martial” for “shall bind the parties and the military judge”.
+
+#### Effective Date of 2021 Amendment
+Amendment by section 539 of Pub. L. 117–81 effective on the date that is two years after Dec. 27, 2021, and applicable with respect to offenses that occur after that date, with provisions for delayed effect and applicability if regulations are not prescribed by the President before the date that is two years after Dec. 27, 2021, see section 539C of Pub. L. 117–81, set out as a note under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
+
+Amendment by section 539E(b) of Pub. L. 117–81 effective on the date that is two years after Dec. 27, 2021, and applicable to sentences adjudged in cases in which all findings of guilty are for offenses that occurred after the date that is two years after Dec. 27, 2021, see section 539E(f) of Pub. L. 117–81, set out as a note under [section 853 of this title](./chapter-047-uniform-code-of-military-justice.md#section-853).
 
 #### Effective Date of 2017 Amendment
 Amendment by section 531(d) of Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act ([10 U.S.C. 801](./chapter-047-uniform-code-of-military-justice.md#section-801) note), see section 531(p) of Pub. L. 115–91, set out as a note under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
@@ -3865,7 +4167,7 @@ The word “may” is substituted for the word “shall”.
 
 **(b) Sentence Minimums for Certain Offenses.—**
 
-(1) Except as provided in subsection (d) of [section 853a of this title](./chapter-047-uniform-code-of-military-justice.md#section-853a) (article 53a), punishment for any offense specified in paragraph (2) shall include dismissal or dishonorable discharge, as applicable.
+(1) Except as provided in subsection (c) of [section 853a of this title](./chapter-047-uniform-code-of-military-justice.md#section-853a) (article 53a), punishment for any offense specified in paragraph (2) shall include dismissal or dishonorable discharge, as applicable.
 
 (2) The offenses referred to in paragraph (1) are as follows:
 
@@ -3943,6 +4245,65 @@ The word “may” is substituted for the word “shall”.
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 117–81, div. A, title V, § 539E(c), (f), Dec. 27, 2021, 135 Stat. 1701, 1706, provided that, effective on the date that is two years after Dec. 27, 2021, and applicable to sentences adjudged in cases in which all findings of guilty are for offenses that occurred after the date that is two years after Dec. 27, 2021, this section is amended:
+
+(1) in subsection (c)—
+
+(A) in paragraph (1)—
+
+(i) in subparagraph (C)(vii), by striking “and” at the end;
+
+(ii) in subparagraph (D), by striking the period at the end and inserting “; and”; and
+
+(iii) by adding at the end the following new subparagraph:
+
+“(E) the applicable sentencing parameters or sentencing criteria set forth in regulations prescribed by the President pursuant to section 539E(e) of the National Defense Authorization Act for Fiscal Year 2022.”; and
+
+(B) by striking paragraphs (2) through (4) and inserting the following new paragraphs:
+
+“(2) Application of sentencing parameters in general and special courts-martial.—
+
+“(A) Requirement to sentence within parameters.—Except as provided in subparagraph (B), in a general or special court-martial in which the accused is convicted of an offense for which the President has established a sentencing parameter pursuant to section 539E(e) of the National Defense Authorization Act for Fiscal Year 2022, the military judge shall sentence the accused for that offense within the applicable parameter.
+
+“(B) Exception.—The military judge may impose a sentence outside a sentencing parameter upon finding specific facts that warrant such a sentence. If the military judge imposes a sentence outside a sentencing parameter under this subparagraph, the military judge shall include in the record a written statement of the factual basis for the sentence.
+
+“(3) Use of sentencing criteria in general and special courts-martial.—In a general or special court-martial in which the accused is convicted of an offense for which the President has established sentencing criteria pursuant to section 539E(e) of the National Defense Authorization Act for Fiscal Year 2022, the military judge shall consider the applicable sentencing criteria in determining the sentence for that offense.
+
+“(4) Offense-based sentencing in general and special courts-martial.—In announcing the sentence under [section 853 of this title](./chapter-047-uniform-code-of-military-justice.md#section-853) (article 53) in a general or special court-martial, the military judge shall, with respect to each offense of which the accused is found guilty, specify the term of confinement, if any, and the amount of the fine, if any. If the accused is sentenced to confinement for more than one offense, the military judge shall specify whether the terms of confinement are to run consecutively or concurrently.
+
+“(5) Inapplicability to death penalty.—Sentencing parameters and sentencing criteria shall not apply to a determination of whether an offense should be punished by death.
+
+“(6) Sentence of confinement for life without eligibility for parole.—
+
+“(A) In general.—If an offense is subject to a sentence of confinement for life, a court-martial may impose a sentence of confinement for life without eligibility for parole.
+
+“(B) Term of confinement.—An accused who is sentenced to confinement for life without eligibility for parole shall be confined for the remainder of the accused’s life unless—
+
+“(i) the sentence is set aside or otherwise modified as a result of—
+
+“(I) action taken by the convening authority or the Secretary concerned; or
+
+“(II) any other action taken during post-trial procedure or review under any other provision of subchapter IX of this chapter;
+
+“(ii) the sentence is set aside or otherwise modified as a result of action taken by a court of competent jurisdiction; or
+
+“(iii) the accused receives a pardon or another form of Executive clemency.”; and
+
+(2) in subsection (d)(1)—
+
+(A) in subparagraph (A), by striking “or” at the end;
+
+(B) by redesignating subparagraph (B) as subparagraph (C);
+
+(C) by inserting after subparagraph (A) the following new subparagraph:
+
+“(B) in the case of a sentence for an offense for which the President has established a sentencing parameter pursuant to section 539E(e) of the National Defense Authorization Act for Fiscal Year 2022, the sentence is a result of an incorrect application of the parameter; or”; and
+
+(D) in subparagraph (C), as redesignated, by striking “, as determined in accordance with standards and procedures prescribed by the President”.
+
+See 2021 Amendment notes below.
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised section | Source (U.S. Code) | Source (Statutes at Large) |
@@ -3951,6 +4312,18 @@ The word “may” is substituted for the word “shall”.
 The word “may” is substituted for the word “shall”.
 
 #### Amendments
+2021—Subsec. (b)(1). Pub. L. 117–81, § 1081(a)(14), substituted “subsection (c) of section 853a” for “subsection (d) of section 853a”.
+
+Subsec. (c)(1)(E). Pub. L. 117–81, § 539E(c)(1)(A), added subpar. (E).
+
+Subsec. (c)(2) to (6). Pub. L. 117–81, § 539E(c)(1)(B), added pars. (2) to (6) and struck out former pars. (2) to (4) which related to sentencing by military judge, sentencing by members, and sentence of confinement for life without eligibility for parole, respectively.
+
+Subsec. (d)(1)(B). Pub. L. 117–81, § 539E(c)(4)(C), added subpar. (B). Former subpar. (B) redesignated (C).
+
+Subsec. (d)(1)(C). Pub. L. 117–81, § 539E(c)(4)(D), struck out “, as determined in accordance with standards and procedures prescribed by the President” after “unreasonable”.
+
+Pub. L. 117–81, § 539E(c)(4)(A), (B), redesignated subpar. (B) as (C).
+
 2017—Subsec. (d)(1). Pub. L. 115–91, § 531(e)(1), inserted “and consistent with standards and procedures set forth in regulations prescribed by the President,” after “concerned,” in introductory provisions.
 
 Subsec. (d)(1)(B). Pub. L. 115–91, § 531(e)(2), inserted “, as determined in accordance with standards and procedures prescribed by the President” before period at end.
@@ -3958,6 +4331,9 @@ Subsec. (d)(1)(B). Pub. L. 115–91, § 531(e)(2), inserted “, as determined i
 2016—Pub. L. 114–328 amended section generally. Prior to amendment, section related to maximum and minimum sentencing limits.
 
 2013—Pub. L. 113–66 substituted “Maximum and minimum limits” for “Maximum limits” in section catchline, designated existing provisions as subsec. (a), and added subsec. (b).
+
+#### Effective Date of 2021 Amendment
+Amendment by section 539E(c) of Pub. L. 117–81 effective on the date that is two years after Dec. 27, 2021, and applicable to sentences adjudged in cases in which all findings of guilty are for offenses that occurred after the date that is two years after Dec. 27, 2021, see section 539E(f) of Pub. L. 117–81, set out as a note under [section 853 of this title](./chapter-047-uniform-code-of-military-justice.md#section-853).
 
 #### Effective Date of 2017 Amendment
 Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act ([10 U.S.C. 801](./chapter-047-uniform-code-of-military-justice.md#section-801) note), see section 531(p) of Pub. L. 115–91, set out as a note under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
@@ -3968,8 +4344,13 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 #### Effective Date of 2013 Amendment
 Amendment by Pub. L. 113–66 effective 180 days after Dec. 26, 2013, and applicable to offenses specified in subsec. (b)(2) of this section committed on or after that date, see section 1705(c) of Pub. L. 113–66, set out as a note under [section 818 of this title](./chapter-047-uniform-code-of-military-justice.md#section-818).
 
+#### Establishment of Sentencing Parameters and Sentencing Criteria
+Pub. L. 117–81, div. A, title V, § 539E(e), Dec. 27, 2021, 135 Stat. 1704, provided that: “(1) In general.—Not later than two years after the date of the enactment of this Act [Dec. 27, 2021], the President shall prescribe regulations establishing sentencing parameters and sentencing criteria related to offenses under chapter 47 of title 10, United States Code (the Uniform Code of Military Justice), in accordance with this subsection. Such parameters and criteria—“(A) shall cover sentences of confinement; and “(B) may cover lesser punishments, as the President determines appropriate. “(2) Sentencing parameters.—Sentencing parameters established under paragraph (1) shall—“(A) identify a delineated sentencing range for an offense that is appropriate for a typical violation of the offense, taking into consideration—“(i) the severity of the offense; “(ii) the guideline or offense category that would apply to the offense if the offense were tried in a United States district court; “(iii) any military-specific sentencing factors; “(iv) the need for the sentencing parameter to be sufficiently broad to allow for individualized consideration of the offense and the accused; and “(v) any other relevant sentencing guideline. “(B) include no fewer than 5 and no more than 12 offense categories; “(C) assign such offense under this chapter [probably should be “chapter 47 of title 10, United States Code (the Uniform Code of Military Justice)”] to an offense category unless the offense is identified as unsuitable for sentencing parameters under paragraph (4)(F)(ii); and “(D) delineate the confinement range for each offense category by setting an upper confinement limit and a lower confinement limit. “(3) Sentencing criteria.—Sentencing criteria established under paragraph (1) shall identify offense-specific factors the military judge should consider and any collateral effects of available punishments that may aid the military judge in determining an appropriate sentence when there is no applicable sentencing parameter for a specific offense. “(4) Military sentencing parameters and criteria board.—“(A) In general.—There is established within the Department of Defense a board, to be known as the ‘Military Sentencing Parameters and Criteria Board’ (referred to in this subsection as the ‘Board’). “(B) Voting members.—The Board shall have 5 voting members, as follows:“(i) The 4 chief trial judges designated under [section 826(g) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section826/g&num=0&edition=prelim), United States Code (article 26(g) of the Uniform Code of Military Justice), except that, if the chief trial judge of the Coast Guard is not available, the Judge Advocate General of the Coast Guard may designate as a voting member a judge advocate of the Coast Guard with substantial military justice experience. “(ii) A trial judge of the Navy, designated under regulations prescribed by the President, if the chief trial judges designated under [section 826(g) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section826/g&num=0&edition=prelim), United States Code (article 26(g) of the Uniform Code of Military Justice), do not include a trial judge of the Navy. “(iii) A trial judge of the Marine Corps, designated under regulations prescribed by the President, if the chief trial judges designated under [section 826(g) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section826/g&num=0&edition=prelim), United States Code (article 26(g) of the Uniform Code of Military Justice), do not include a trial judge of the Marine Corps. “(C) Nonvoting members.—The Chief Judge of the Court of Appeals for the Armed Forces, the Chairman of the Joint Chiefs of Staff, and the General Counsel of the Department of Defense shall each designate one nonvoting member of the Board. The Secretary of Defense may appoint one additional nonvoting member of the Board at the Secretary’s discretion. “(D) Chair and vice-chair.—The Secretary of Defense shall designate one voting member as chair of the Board and one voting member as vice-chair. “(E) Voting requirement.—An affirmative vote of at least three members is required for any action of the Board under this subsection. “(F) Duties of board.—The Board shall have the following duties:“(i) As directed by the Secretary of Defense, the Board shall submit to the President for approval—“(I) sentencing parameters for all offenses under chapter 47 of title 10, United States Code (the Uniform Code of Military Justice) (other than offenses that the Board identifies as unsuitable for sentencing parameters in accordance with clause (ii)); and “(II) sentencing criteria to be used by military judges in determining appropriate sentences for offenses that are identified as unsuitable for sentencing parameters in accordance with clause (ii). “(ii) Identify each offense under chapter 47 of title 10, United States Code (the Uniform Code of Military Justice), that is unsuitable for sentencing parameters. The Board shall identify an offense as unsuitable for sentencing parameters if—“(I) the nature of the offense is indeterminate and unsuitable for categorization; and “(II) there is no similar criminal offense under the laws of the United States or the laws of the District of Columbia. “(iii) In developing sentencing parameters and criteria, the Board shall consider the sentencing data collected by the Military Justice Review Panel pursuant to [section 946(f)(2) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section946/f/2&num=0&edition=prelim), United States Code (article 146(f)(2) of the Uniform Code of Military Justice). “(iv) In addition to establishing parameters for sentences of confinement under clause (i)(I), the Board shall consider the appropriateness of establishing sentencing parameters for punitive discharges, fines, reductions, forfeitures, and other lesser punishments authorized under chapter 47 of title 10, United States Code (the Uniform Code of Military Justice). “(v) The Board shall regularly—“(I) review, and propose revision to, in consideration of comments and data coming to the Board’s attention, the sentencing parameters and sentencing criteria prescribed under paragraph (1); and “(II) submit to the President, through the Secretary of Defense, proposed amendments to the sentencing parameters and sentencing criteria, together with statements explaining the basis for the proposed amendments. “(vi) The Board shall develop means of measuring the degree to which applicable sentencing, penal, and correctional practices are effective with respect to the sentencing factors and policies set forth in this section. “(vii) In fulfilling its duties and in exercising its powers, the Board shall consult authorities on, and individual and institutional representatives of, various aspects of the military criminal justice system. The Board may establish separate advisory groups consisting of individuals with current or recent experience in command and in senior enlisted positions, individuals with experience in the trial of courts-martial, and such other groups as the Board deems appropriate. “(viii) The Board shall submit to the President, through the Secretary of Defense, proposed amendments to the rules for courts-martial with respect to sentencing proceedings and maximum punishments, together with statements explaining the basis for the proposed amendments.”
+
 #### Guidelines on Sentences for Offenses Committed Under the Uniform Code of Military Justice
 Pub. L. 116–92, div. A, title V, § 537, Dec. 20, 2019, 133 Stat. 1363, provided that: “(a) Development of Guidelines.—Not later than the date specified in subsection (d), the Secretary of Defense shall develop nonbinding guidelines on sentences for offenses under chapter 47 of title 10, United States Code (the Uniform Code of Military Justice). The guidelines shall provide the sentencing authority with a suggested range of punishments, including suggested ranges of confinement, that will generally be appropriate for a violation of each offense under such chapter. “(b) Sentencing Data.—In developing the guidelines for sentences under subsection (a), the Secretary of Defense shall take into account the sentencing data collected by the Military Justice Review Panel pursuant to [section 946(f)(2) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section946/f/2&num=0&edition=prelim), United States Code (article 146(f)(2) of the Uniform Code of Military Justice). “(c) Submittal to Congress.—Not later than the date specified in subsection (d), the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives—“(1) the guidelines for sentences developed under subsection (a); and “(2) an assessment of the feasibility and advisability of implementing such guidelines in panel sentencing cases. “(d) Date Specified.—The date specified in this subsection is the date that is not later than one year after the date on the which the first report of the Military Justice Review Panel is submitted to the Committees on Armed Services of the Senate and the House of Representatives pursuant to [section 946(f)(5) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section946/f/5&num=0&edition=prelim), United States Code (article 146(f)(5) of the Uniform Code of Military Justice).”
+
+[Repeal of section 537 of Pub. L. 116–92, set out above, effective on the date that is two years after Dec. 27, 2021, and applicable to sentences adjudged in cases in which all findings of guilty are for offenses that occurred after the date that is two years after Dec. 27, 2021, see section 539E(f) of Pub. L. 117–81, set out as a note under [section 853 of this title](./chapter-047-uniform-code-of-military-justice.md#section-853).]
 
 
 <a id="section-856a"></a>
@@ -4764,6 +5145,19 @@ Amendment by Pub. L. 98–209 effective first day of eighth calendar month begin
 
 ### Statutory Notes
 
+#### Amendment of Subsection (e)(3)(B)
+Pub. L. 117–81, div. A, title V, §§ 539A(a), 539C, Dec. 27, 2021, 135 Stat. 1698, 1699, provided that, effective on the date that is two years after Dec. 27, 2021, and applicable with respect to offenses that occur after that date, with provisions for delayed effect and applicability, subsection (e)(3)(B) of this section is amended:
+
+(1) by striking “impractical.—If the Judge Advocate General” and inserting the following: “impracticable.— “(i) In general.—Subject to clause (ii), if the Judge Advocate General” ;
+
+(2) by striking “impractical” and inserting “impracticable”; and
+
+(3) by adding at the end the following new clause:
+
+“(ii) Cases referred by special trial counsel .—If a case was referred to trial by a special trial counsel, a special trial counsel shall determine if a rehearing is impracticable and shall dismiss the charges if the special trial counsel so determines.”
+
+See 2021 Amendment note below.
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised section | Source (U.S. Code) | Source (Statutes at Large) |
@@ -4777,6 +5171,8 @@ In subsections (a) and (b), the words “send” and “sent” are substituted 
 In subsection (c), the words “Secretary concerned” are substituted for the words “Secretary of the Department”.
 
 #### Amendments
+2021—Subsec. (e)(3)(B). Pub. L. 117–81 substituted “impracticable” for “impractical” in subpar. heading, designated existing provisions as cl. (i), inserted cl. (i) heading, substituted “Subject to clause (ii), if the Judge Advocate General” for “If the Judge Advocate General” and “impracticable” for “impractical” and added cl. (ii).
+
 2017—Subsec. (b)(1). Pub. L. 115–91 substituted “[section 866(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section866/b/3&num=0&edition=prelim) (article 66(b)(3))” for “[section 866(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section866/b/2&num=0&edition=prelim) (article 66(b)(2))”.
 
 2016—Pub. L. 114–328 amended section generally. Prior to amendment, section related to disposition of records.
@@ -4788,6 +5184,9 @@ In subsection (c), the words “Secretary concerned” are substituted for the w
 1968—Subsec. (b). Pub. L. 90–632 substituted “Court of Military Review” for “board of review” wherever appearing.
 
 1967—Subsec. (c). Pub. L. 90–179 inserted reference to judge advocate of the Marine Corps and substituted reference to judge advocate of the Navy for reference to law specialist of the Navy.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–81 effective on the date that is two years after Dec. 27, 2021, and applicable with respect to offenses that occur after that date, with provisions for delayed effect and applicability if regulations are not prescribed by the President before the date that is two years after Dec. 27, 2021, see section 539C of Pub. L. 117–81, set out as a note under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
 
 #### Effective Date of 2017 Amendment
 Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act ([10 U.S.C. 801](./chapter-047-uniform-code-of-military-justice.md#section-801) note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
@@ -4911,6 +5310,49 @@ Amendment by Pub. L. 90–632 effective first day of tenth month following Octob
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 117–81, div. A, title V, §§ 539A(b), 539C, Dec. 27, 2021, 135 Stat. 1698, 1699, provided that, effective on the date that is two years after Dec. 27, 2021, and applicable with respect to offenses that occur after that date, with provisions for delayed effect and applicability, subsection (f)(1)(C) of this section is amended:
+
+(1) by striking “impracticable.—If the Court of Criminal Appeals” and inserting the following: “Impracticable.— “(i) In general.—Subject to clause (ii), if the Court of Criminal Appeals” ; and
+
+(2) by adding at the end the following new clause:
+
+(ii) Cases referred by special trial counsel.—If a case was referred to trial by a special trial counsel, a special trial counsel shall determine if a rehearing is impracticable and shall dismiss the charges if the special trial counsel so determines.
+
+Pub. L. 117–81, div. A, title V, § 539E(d), (f), Dec. 27, 2021, 135 Stat. 1703, 1706, provided that, effective on the date that is two years after Dec. 27, 2021, and applicable to sentences adjudged in cases in which all findings of guilty are for offenses that occurred after the date that is two years after Dec. 27, 2021, this section is amended:
+
+(1) in subsection (d)(1)(A), by striking the third sentence; and
+
+(2) by amending subsection (e) to read as follows:
+
+(e) Consideration of Sentence.—
+
+(1) In general.—In considering a sentence on appeal, other than as provided in [section 856(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section856/d&num=0&edition=prelim) (article 56(d)), the Court of Criminal Appeals may consider—
+
+(A) whether the sentence violates the law;
+
+(B) whether the sentence is inappropriately severe—
+
+(i) if the sentence is for an offense for which the President has not established a sentencing parameter pursuant to section 539E(e) of the National Defense Authorization Act for Fiscal Year 2022; or
+
+(ii) in the case of an offense for which the President has established a sentencing parameter pursuant to section 539E(e) of the National Defense Authorization Act for Fiscal Year 2022, if the sentence is above the upper range of such sentencing parameter;
+
+(C) in the case of a sentence for an offense for which the President has established a sentencing parameter pursuant to section 539E(e) of the National Defense Authorization Act for Fiscal Year 2022, whether the sentence is a result of an incorrect application of the parameter;
+
+(D) whether the sentence is plainly unreasonable; and
+
+(E) in review of a sentence to death or to life in prison without eligibility for parole determined by the members in a capital case under [section 853(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section853/c&num=0&edition=prelim) (article 53(c)), whether the sentence is otherwise appropriate, under rules prescribed by the President.
+
+(2) Record on appeal.—In an appeal under this subsection or [section 856(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section856/d&num=0&edition=prelim) (article 56(d)), other than review under subsection (b)(2) of this section, the record on appeal shall consist of—
+
+(A) any portion of the record in the case that is designated as pertinent by any party;
+
+(B) the information submitted during the sentencing proceeding; and
+
+(C) any information required by rule or order of the Court of Criminal Appeals.
+
+See 2021 Amendment notes below.
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised section | Source (U.S. Code) | Source (Statutes at Large) |
@@ -4934,6 +5376,12 @@ In subsection (f), the words “of the armed forces” and “proceedings in and
 2021—Subsec. (a). Pub. L. 116–283, § 542(a), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 Subsec. (d)(1). Pub. L. 116–283, § 542(b), amended par. (1) generally. Prior to amendment, text read as follows: “In any case before the Court of Criminal Appeals under subsection (b), the Court may act only with respect to the findings and sentence as entered into the record under [section 860c of this title](./chapter-047-uniform-code-of-military-justice.md#section-860c) (article 60c). The Court may affirm only such findings of guilty, and the sentence or such part or amount of the sentence, as the Court finds correct in law and fact and determines, on the basis of the entire record, should be approved. In considering the record, the Court may weigh the evidence, judge the credibility of witnesses, and determine controverted questions of fact, recognizing that the trial court saw and heard the witnesses.”
+
+Subsec. (d)(1)(A). Pub. L. 117–81, § 539E(d)(1), struck out at end “The Court may affirm only the sentence, or such part or amount of the sentence, as the Court finds correct in law and fact and determines, on the basis of the entire record, should be approved.”
+
+Subsec. (e). Pub. L. 117–81, § 539E(d)(2), amended subsec. (e) generally. Prior to amendment, subsec. (e) provided that, in considering sentence on appeal or review, Court of Criminal Appeals may consider whether the sentence violates the law and whether the sentence is plainly unreasonable and detailed what should be included in record on appeal or review.
+
+Subsec. (f)(1)(C). Pub. L. 117–81, § 539A(b), substituted “Impracticable” for “impracticable” in subpar. heading, designated existing provisions as cl. (i), inserted cl. (i) heading, substituted “Subject to clause (ii), if the Court of Criminal Appeals” for “If the Court of Criminal Appeals”, and added cl. (ii).
 
 2017—Subsec. (e)(2)(C). Pub. L. 115–91, § 531(j)(1), inserted “by regulation prescribed by the President or” after “required”.
 
@@ -4978,7 +5426,11 @@ Subsecs. (g), (h). Pub. L. 90–632, § 2(27)(E), added subsecs. (g) and (h).
 #### Change of Name
 Pub. L. 103–337, div. A, title IX, § 924(b)(1), Oct. 5, 1994, 108 Stat. 2831, provided that: “Each Court of Military Review shall hereafter be known and designated as a Court of Criminal Appeals.”
 
-#### Effective Date of 2021 Amendment.—
+#### Effective Date of 2021 Amendment
+Amendment by section 539A(b) of Pub. L. 117–81 effective on the date that is two years after Dec. 27, 2021, and applicable with respect to offenses that occur after that date, with provisions for delayed effect and applicability if regulations are not prescribed by the President before the date that is two years after Dec. 27, 2021, see section 539C of Pub. L. 117–81, set out as a note under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
+
+Amendment by section 539E(d) of Pub. L. 117–81 effective on the date that is two years after Dec. 27, 2021, and applicable to sentences adjudged in cases in which all findings of guilty are for offenses that occurred after the date that is two years after Dec. 27, 2021, see section 539E(f) of Pub. L. 117–81, set out as a note under [section 853 of this title](./chapter-047-uniform-code-of-military-justice.md#section-853).
+
 Pub. L. 116–283, div. A, title V, § 542(e), Jan. 1, 2021, 134 Stat. 3612, provided that: “(1) Qualifications of certain judges.—The amendments made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Jan. 1, 2021], and shall apply with respect to the assignment of appellate military judges on or after that date. “(2) Review amendments.—The amendments made by subsections (b) and (c) [amending this section and [section 867 of this title](./chapter-047-uniform-code-of-military-justice.md#section-867)] shall take effect on the date of the enactment of this Act, and shall apply with respect to any case in which every finding of guilty entered into the record under [section 860c of title 10](./chapter-047-uniform-code-of-military-justice.md#section-860c), United States Code (article 60c of the Uniform Code of Military Justice), is for an offense that occurred on or after that date.”
 
 #### Effective Date of 2017 Amendment
@@ -5038,6 +5490,11 @@ The Court of Appeals for the Armed Forces shall act upon such a petition promptl
 
 ### Statutory Notes
 
+#### Amendment of Subsection (e)
+Pub. L. 117–81, div. A, title V, §§ 539A(c), 539C, Dec. 27, 2021, 135 Stat. 1699, provided that, effective on the date that is two years after Dec. 27, 2021, and applicable with respect to offenses that occur after that date, with provisions for delayed effect and applicability, subsection (e) of this section is amended by adding at the end the following new sentence: “Notwithstanding the preceding sentence, if a case was referred to trial by a special trial counsel, a special trial counsel shall determine if a rehearing is impracticable and shall dismiss the charges if the special trial counsel so determines.”.
+
+See 2021 Amendment note below.
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | 1956 Act |  |  |
@@ -5072,6 +5529,8 @@ The change in subsection (g) reflects the transfer of functions from the Secreta
 
 #### Amendments
 2021—Subsec. (c)(1)(C). Pub. L. 116–283 added subpar. (C).
+
+Subsec. (e). Pub. L. 117–81 inserted at end “Notwithstanding the preceding sentence, if a case was referred to trial by a special trial counsel, a special trial counsel shall determine if a rehearing is impracticable and shall dismiss the charges if the special trial counsel so determines.”
 
 2016—Subsec. (a)(2). Pub. L. 114–328, § 5331(a), inserted “, after appropriate notification to the other Judge Advocates General and the Staff Judge Advocate to the Commandant of the Marine Corps,” after “the Judge Advocate General”.
 
@@ -5120,7 +5579,9 @@ Subsecs. (b), (f). Pub. L. 90–632 substituted “Court of Military Review” f
 1964—Subsec. (a)(1). Pub. L. 88–426 increased salary of judges from $25,500 to $33,000.
 
 #### Effective Date of 2021 Amendment
-Amendment by Pub. L. 116–283 effective on Jan. 1, 2021, and applicable with respect to any case in which every finding of guilty entered into the record under [section 860c of this title](./chapter-047-uniform-code-of-military-justice.md#section-860c) is for an offense that occurred on or after that date, see section 542(e)(2) of Pub. L. 116–283, set out as a note under [section 866 of this title](./chapter-047-uniform-code-of-military-justice.md#section-866).
+Amendment by Pub. L. 117–81 effective on the date that is two years after Dec. 27, 2021, and applicable with respect to offenses that occur after that date, with provisions for delayed effect and applicability if regulations are not prescribed by the President before the date that is two years after Dec. 27, 2021, see section 539C of Pub. L. 117–81, set out as a note under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
+
+Amendment by Pub. L. 116–283 effective on Jan. 1, 2021, and applicable with respect to any case in which every finding of guilty entered into the record under [section 860c of this title](./chapter-047-uniform-code-of-military-justice.md#section-860c) is for an offense that occurred on or after that date, see section 542(e)(2) of Pub. L. 116–283, set out in a note under [section 866 of this title](./chapter-047-uniform-code-of-military-justice.md#section-866).
 
 #### Effective Date of 2016 Amendment
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
@@ -5244,6 +5705,19 @@ Amendment by Pub. L. 90–632 effective first day of tenth month following Octob
 
 ### Statutory Notes
 
+#### Amendment of Subsection (c)(1)(D)
+Pub. L. 117–81, div. A, title V, §§ 539A(d), 539C, Dec. 27, 2021, 135 Stat. 1699, provided that, effective on the date that is two years after Dec. 27, 2021, and applicable with respect to offenses that occur after that date, with provisions for delayed effect and applicability, subsection (c)(1)(D) of this section is amended:
+
+(1) by striking “If the Judge Advocate General” and inserting “(i) Subject to clause (ii), if the Judge Advocate General”;
+
+(2) by striking “impractical” and inserting “impracticable”; and
+
+(3) by adding at the end the following new clause:
+
+(ii) If a case was referred to trial by a special trial counsel, a special trial counsel shall determine if a rehearing is impracticable and shall dismiss the charges if the special trial counsel so determines.
+
+See 2021 Amendment note below.
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised section | Source (U.S. Code) | Source (Statutes at Large) |
@@ -5252,6 +5726,8 @@ Amendment by Pub. L. 90–632 effective first day of tenth month following Octob
 The word “may” is substituted for the word “will”. The word “under” is substituted for the words “pursuant to the provisions of”.
 
 #### Amendments
+2021—Subsec. (c)(1)(D). Pub. L. 117–81 designated existing provisions as cl. (i), substituted “Subject to clause (ii), if the Judge Advocate General” for “If the Judge Advocate General” and “impracticable” for “impractical”, and added cl. (ii).
+
 2017—Subsec. (c)(1)(A). Pub. L. 115–91 inserted comma after “in whole or in part”.
 
 2016—Pub. L. 114–328 amended section generally. Prior to amendment, section related to review in the office of the Judge Advocate General.
@@ -5269,6 +5745,9 @@ Subsecs. (d), (e). Pub. L. 101–189, § 1302(a)(2), added subsecs. (d) and (e).
 1981—Pub. L. 97–81 inserted provision that, when a case is considered upon application of the accused, the application must be filed in the Office of the Judge Advocate General by the accused before (1) October 1, 1983, or (2) the last day of the two-year period beginning on the date the sentence is approved by the convening authority or, in a special court-martial case which requires action under [section 865(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section865/b&num=0&edition=prelim) (article 65(b)), the officer exercising general court-martial jurisdiction, whichever is later, unless the accused establishes good cause for failure to file within that time.
 
 1968—Pub. L. 90–632 authorized the Judge Advocate General to either vacate or modify the findings or sentence, or both, in whole or in part, in any court-martial case which has been finally reviewed, but which has not been reviewed by a Court of Military Review, because of newly discovered evidence, fraud on the court, lack of jurisdiction over the accused or the offense, or error prejudicial to the substantial rights of the accused.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–81 effective on the date that is two years after Dec. 27, 2021, and applicable with respect to offenses that occur after that date, with provisions for delayed effect and applicability if regulations are not prescribed by the President before the date that is two years after Dec. 27, 2021, see section 539C of Pub. L. 117–81, set out as a note under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
 
 #### Effective Date of 2017 Amendment
 Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act ([10 U.S.C. 801](./chapter-047-uniform-code-of-military-justice.md#section-801) note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
@@ -8070,9 +8549,9 @@ Section effective on Jan. 1, 2019, as designated by the President, with implemen
 
 
 <a id="section-933"></a>
-## § 933. Art. 133. Conduct unbecoming an officer and a gentleman
+## § 933. Art. 133. Conduct unbecoming an officer
 
-Any commissioned officer, cadet, or midshipman who is convicted of conduct unbecoming an officer and a gentleman shall be punished as a court-martial may direct.
+Any commissioned officer, cadet, or midshipman who is convicted of conduct unbecoming an officer shall be punished as a court-martial may direct.
 
 ### Statutory Notes
 
@@ -8082,6 +8561,9 @@ Any commissioned officer, cadet, or midshipman who is convicted of conduct unbec
 | 933 | 50:727. | May 5, 1950, ch. 169, § 1 (Art. 133), 64 Stat. 142. |
 
 The word “commissioned” is inserted for clarity.
+
+#### Amendments
+2021—Pub. L. 117–81 struck out “and a gentleman” after “an officer” in section catchline and text.
 
 
 <a id="section-934"></a>
@@ -8103,6 +8585,9 @@ The words “shall be” are inserted before the word “punished”.
 
 #### Effective Date of 2016 Amendment
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
+
+#### Inclusion of Sexual Harassment as General Punitive Article
+Pub. L. 117–81, div. A, title V, § 539D, Dec. 27, 2021, 135 Stat. 1699, provided that: “(a) In General.—Not later than 30 days after the date of the enactment of this Act [Dec. 27, 2021], the President shall—“(1) prescribe regulations establishing sexual harassment, as described in this section, as an offense punishable under [section 934 of title 10](./chapter-047-uniform-code-of-military-justice.md#section-934), United States Code (article 134 of the Uniform Code of Military Justice); and “(2) revise the Manual for Courts-Martial to include such offense. “(b) Elements of Offense.—The regulations and the revisions to the Manual for Courts-Martial required under subsection (a) shall provide that the required elements constituting the offense of sexual harassment are—“(1) that the accused knowingly made sexual advances, demands or requests for sexual favors, or knowingly engaged in other conduct of a sexual nature; “(2) that such conduct was unwelcome; “(3) that, under the circumstances, such conduct—“(A) would cause a reasonable person to believe, and a certain person did believe, that submission to such conduct would be made, either explicitly or implicitly, a term or condition of that person’s job, pay, career, benefits, or entitlements; “(B) would cause a reasonable person to believe, and a certain person did believe, that submission to, or rejection of, such conduct would be used as a basis for decisions affecting that person’s job, pay, career, benefits, or entitlements; or “(C) was so severe, repetitive, or pervasive that a reasonable person would perceive, and a certain person did perceive, an intimidating, hostile, or offensive working environment; and “(4) that, under the circumstances, the conduct of the accused was—“(A) to the prejudice of good order and discipline in the armed forces; “(B) of a nature to bring discredit upon the armed forces; or “(C) to the prejudice of good order and discipline in the armed forces and of a nature to bring discredit upon the armed forces.”
 
 
 <a id="section-935"></a>
@@ -8800,6 +9285,9 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Termination of Reporting Requirements
 For termination, effective Dec. 31, 2021, of provisions in subsec. (c) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
+
+#### Full Functionality of Military Justice Review Panel
+Pub. L. 117–81, div. A, title V, § 549E, Dec. 27, 2021, 135 Stat. 1726, provided that: “Not later than 30 days after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of Defense shall establish or reconstitute, maintain, and ensure the full functionality of the Military Justice Review Panel established pursuant to [section 946 of title 10](./chapter-047-uniform-code-of-military-justice.md#section-946), United States Code (article 146 of the Uniform Code of Military Justice)) [sic].”
 
 
 <a id="section-946a"></a>

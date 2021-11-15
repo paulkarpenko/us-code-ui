@@ -161,7 +161,9 @@ The Global Change Research Act of 1990, referred to in subsec. (c)(4), is Pub. L
 Sections 102 and 103 of the Land Remote Sensing Policy Act of 1992, referred to in subsec. (c)(6), which were classified to sections 5612 and 5613, respectively, of Title 15, Commerce and Trade, were repealed by Pub. L. 111–314, § 6, Dec. 18, 2010, 124 Stat. 3444, which Act enacted this title.
 
 #### Development, Procurement, and Support
-Pub. L. 102–484, div. A, title II, § 243, Oct. 23, 1992, 106 Stat. 2360, as amended by Pub. L. 103–35, title II, § 202(a)(3), May 31, 1993, 107 Stat. 101, provided that: “The Secretary of Defense is authorized to contract for the development and procurement of, and support for operations of, the Landsat vehicle designated as Landsat 7.” Similar provisions were contained in the following prior appropriation act:
+Pub. L. 102–484, div. A, title II, § 243, Oct. 23, 1992, 106 Stat. 2360, as amended by Pub. L. 103–35, title II, § 202(a)(3), May 31, 1993, 107 Stat. 101, provided that: “The Secretary of Defense is authorized to contract for the development and procurement of, and support for operations of, the Landsat vehicle designated as Landsat 7.”
+
+Similar provisions were contained in the following prior appropriation act:
 
 Pub. L. 102–396, title IX, § 9082A, Oct. 6, 1992, 106 Stat. 1920.
 

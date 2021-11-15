@@ -416,7 +416,7 @@ Pub. L. 95–600, title V, § 530, Nov. 6, 1978, 92 Stat. 2885, as amended by Pu
 
   (B) if the employee is married, whether the employee’s spouse is entitled to an allowance, or would be so entitled if such spouse were an employee receiving wages, under subparagraph (A) or (D), but only if such spouse does not have in effect a withholding allowance certificate claiming such allowance;
 
-  (C) the number of individuals with respect to whom, on the basis of facts existing at the beginning of such day, there may reasonably be expected to be allowable a credit under section 24(a) for the taxable year under subtitle A in respect of which amounts deducted and withheld under this chapter in the calendar year in which such day falls are allowed as a credit;
+  (C) the number of individuals with respect to whom, on the basis of facts existing at the beginning of such day, there may reasonably be expected to be allowable a credit under section 24 (determined after application of subsection (j) thereof) for the taxable year under subtitle A in respect of which amounts deducted and withheld under this chapter in the calendar year in which such day falls are allowed as a credit;
 
   (D) any additional amounts to which the employee elects to take into account under subsection (m), but only if the employee’s spouse does not have in effect a withholding allowance certificate making such an election;
 
@@ -698,6 +698,8 @@ Section 4 of the Indian Gaming Regulatory Act, referred to in subsec. (r)(4), is
 The date of the enactment of this subsection, referred to in subsec. (r)(4), is the date of enactment of Pub. L. 103–465, which was approved Dec. 8, 1994.
 
 #### Amendments
+2021—Subsec. (f)(1)(C). Pub. L. 117–2 substituted “section 24 (determined after application of subsection (j) thereof)” for “section 24(a)”.
+
 2017—Subsec. (a)(2). Pub. L. 115–97, § 11041(c)(1), substituted “means the amount by which the wages exceed the taxpayer’s withholding allowance, prorated to the payroll period.” for “means the amount by which the wages exceed the number of withholding exemptions claimed multiplied by the amount of one such exemption. The amount of each withholding exemption shall be equal to the amount of one personal exemption provided in section 151(b), prorated to the payroll period. The maximum number of withholding exemptions permitted shall be calculated in accordance with regulations prescribed by the Secretary under this section, taking into account any reduction in withholding to which an employee is entitled under this section.”
 
 Subsec. (b)(1), (2). Pub. L. 115–97, § 11041(c)(2)(C), substituted “allowance” for “exemption” in two places.
@@ -973,6 +975,9 @@ Subsec. (c)(1). Pub. L. 88–272, § 302(b), substituted new tables reflecting l
 1955—Subsec. (a). Act Aug. 9, 1955, § 2(a), inserted “(except as provided in subsection (j))” after “upon such wages”.
 
 Subsec. (j). Act Aug. 9, 1955, § 2(b), added subsec. (j).
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–2 applicable to taxable years beginning after Dec. 31, 2020, see section 9611(c)(1) of Pub. L. 117–2, set out as a note under [section 24 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-24).
 
 #### Effective Date of 2017 Amendment
 Amendment by section 11011(b)(4) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11011(e) of Pub. L. 115–97, set out as a note under [section 62 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-62).

@@ -1065,7 +1065,7 @@ Congress declares it is the policy of the United States—
 Subchapter I, referred to in subsec. (b)(1), was in the original “part I”, meaning part I (§§ 1751–1768) of subtitle B of title XVII of div. A of Pub. L. 115–232, known as the Export Controls Act of 2018, which is classified principally to subchapter I of this chapter. For complete classification of part I to the Code, see section 1751 of Pub. L. 115–232, set out as a Short Title note under [section 4801 of this title](./chapter-058-export-control-reform.md#section-4801) and Tables.
 
 #### Amendments
-2021—Subsec. (b)(1). Pub. L. 116–283 made technical correction to reference to “[section 4811(2)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4811/2/D&num=0&edition=prelim)”.
+2021—Subsec. (b)(1). Pub. L. 116–283 substituted “(2)(D)” for “(1)(D)” in reference to [section 4811(2)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4811/2/D&num=0&edition=prelim).
 
 #### Effective Date of 2021 Amendment
 Pub. L. 116–283, div. A, title X, § 1081(d), Jan. 1, 2021, 134 Stat. 3873, provided that the amendment made by section 1081(d)(10) is effective as of Aug. 13, 2018, and as if included in Pub. L. 115–232.

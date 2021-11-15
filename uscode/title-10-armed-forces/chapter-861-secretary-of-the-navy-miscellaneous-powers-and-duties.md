@@ -2,7 +2,7 @@
 title: 10
 chapter: '861'
 heading: 'SECRETARY OF THE NAVY: MISCELLANEOUS POWERS AND DUTIES'
-section_count: 22
+section_count: 23
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -87,6 +87,7 @@ The expenditures may include payments for clothing, equipment, and other materia
 
 In subsection (a) the word “maintenance” is omitted as surplusage.
 
+#### Editorial Notes
 In subsection (b) the words “except the authority to prescribe regulations” are omitted, since [5 U.S.C. 421e(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section421e/b&num=0&edition=prelim) contains no authority for the Secretary of the Navy to prescribe regulations for the administration of that section.
 
 #### Amendments
@@ -107,6 +108,9 @@ The directory language of, but not the amendment made by, Pub. L. 89–718, § 8
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+
+#### Management of Fatigue Among Crew of Naval Surface Ships and Related Improvements
+Pub. L. 117–81, div. A, title III, § 379(a), Dec. 27, 2021, 135 Stat. 1670, provided that: “The Secretary of the Navy shall implement each recommendation for executive action set forth in the report of the Government Accountability Office titled ‘Navy Readiness: Additional Efforts Are Needed to Manage Fatigue, Reduce Crewing Shortfalls, and Implement Training’ (GAO–21–366).”
 
 
 <a id="section-8607"></a>
@@ -271,6 +275,73 @@ The words “from time to time cause to be”, “transmitted to him”, and “
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+
+<a id="section-8617"></a>
+## § 8617. National Museum of the United States Navy
+**(a) Authority to Support Development and Operation of Museum.—**
+
+(1) The Secretary of the Navy may select and enter into a contract, cooperative agreement, or other agreement with one or more eligible nonprofit organizations to support the development, design, construction, renovation, or operation of a multipurpose museum to serve as the National Museum of the United States Navy.
+
+(2) The Secretary may—
+
+  (A) authorize a partner organization to contract for each phase of development, design, construction, renovation, or operation of the museum, or all such phases; or
+
+  (B) authorize acceptance of funds from a partner organization for each or all such phases.
+
+**(b) Purposes of Museum.—**
+
+(1) The museum shall be used for the identification, curation, storage, and public viewing of artifacts and artwork of significance to the Navy, as agreed to by the Secretary of the Navy.
+
+(2) The museum also may be used to support such education, training, research, and associated activities as the Secretary considers compatible with and in support of the museum and the mission of the Naval History and Heritage Command.
+
+**(c) Acceptance Upon Completion.—** Upon the satisfactory completion, as determined by the Secretary of the Navy, of any phase of the museum, and upon the satisfaction of any financial obligations incident thereto, the Secretary shall accept such phase of the museum from the partner organization, and all right, title, and interest in and to such phase of the museum shall vest in the United States. Upon becoming the property of the United States, the Secretary shall assume administrative jurisdiction over such phase of the museum.
+
+**(d) Lease Authority.—**
+
+(1) The Secretary of the Navy may lease portions of the museum to an eligible nonprofit organization for use in generating revenue for the support of activities of the museum and for such administrative purposes as may be necessary for support of the museum. Such a lease may not include any part of the collection of the museum.
+
+(2) Any rent received by the Secretary under a lease under paragraph (1), including rent-in-kind, shall be used solely to cover or defray the costs of development, maintenance, or operation of the museum.
+
+**(e) Authority to Accept Gifts.—**
+
+(1) The Secretary of the Navy may accept, hold, administer, and spend any gift, devise, or bequest of real property, personal property, or money made on the condition that the gift, devise, or bequest be used for the benefit, or in connection with, the establishment, operation, or maintenance, of the museum. Section 2601 (other than subsections (b), (c), and (e)) of this title shall apply to gifts accepted under this subsection.
+
+(2) The Secretary may display at the museum recognition for an individual or organization that contributes money to a partner organization, or an individual or organization that contributes a gift directly to the Navy, for the benefit of the museum, whether or not the contribution is subject to the condition that the recognition be provided. The Secretary shall prescribe regulations governing the circumstances under which contributor recognition may be provided, appropriate forms of recognition, and suitable display standards.
+
+(3) The Secretary may authorize the sale of donated property received under paragraph (1). A sale under this paragraph need not be conducted in accordance with disposal requirements that would otherwise apply, so long as the sale is conducted at arms-length and includes an auditable transaction record.
+
+(4) Any money received under paragraph (1) and any proceeds from the sale of property under paragraph (3) shall be deposited into a fund established in the Treasury to support the museum.
+
+**(f) Additional Terms and Conditions.—** The Secretary of the Navy may require such additional terms and conditions in connection with a contract, cooperative agreement, or other agreement under subsection (a) or a lease under subsection (d) as the Secretary considers appropriate to protect the interests of the United States.
+
+**(g) Use of Navy Indicators.—**
+
+(1) In a contract, cooperative agreement, or other agreement under subsection (a) or a lease under subsection (d), the Secretary of the Navy may authorize, consistent with section 2260 (other than subsection (d)) of this title, a partner organization to enter into licensing, marketing, and sponsorship agreements relating to Navy indicators, including the manufacture and sale of merchandise for sale by the museum, subject to the approval of the Department of the Navy.
+
+(2) No such licensing, marketing, or sponsorship agreement may be entered into if it would reflect unfavorably on the ability of the Department of the Navy, any of its employees, or any member of the armed forces to carry out any responsibility or duty in a fair and objective manner, or if the Secretary determines that the use of the Navy indicator would compromise the integrity or appearance of integrity of any program of the Department of the Navy.
+
+**(h) Definitions.—** In this section:
+
+(1) The term “eligible nonprofit organization” means an entity that—
+
+  (A) qualifies as an exempt organization under section 501(c)(3) of the Internal Revenue Code of 1986; and
+
+  (B) has as its primary purpose the preservation and promotion of the history and heritage of the Navy.
+
+(2) The term “museum” means the National Museum of the United States Navy, including its facilities and grounds.
+
+(3) The term “Navy indicator” includes trademarks and service marks, names, identities, abbreviations, official insignia, seals, emblems, and acronyms of the Navy and Marine Corps, including underlying units, and specifically includes the term “National Museum of the United States Navy”.
+
+(4) The term “partner organization” means an eligible nonprofit organization with whom the Secretary of the Navy enters into a contract, cooperative agreement, or other agreement under subsection (a) or a lease under subsection (d).
+
+### Statutory Notes
+
+#### References in Text
+Section 501(c)(3) of the Internal Revenue Code of 1986, referred to in subsec. (h)(1)(A), is classified to [section 501(c)(3) of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim), Internal Revenue Code.
+
+#### Lease or License of United States Navy Museum Facilities
+Pub. L. 109–163, div. B, title XXVIII, § 2852, 119 Stat. 3530, as amended by Pub. L. 117–81, div. B, title XXVIII, § 2822, Dec. 27, 2021, 135 Stat. 2197, provided that: “(a) Leases and Licenses Authorized.—The Secretary of the Navy may lease or license any portion of the facilities of a United States Navy museum to a foundation established to support that museum for the purpose of permitting the foundation to carry out the following activities:“(1) Generation of revenue for that United States Navy museum through the rental of facilities to the public, commercial and non-profit entities, State and local governments, and other Federal agencies. “(2) Performance of administrative activities in support of that United States Navy museum. “(b) Limitation.—Activities carried out at a facility subject to a lease or license under subsection (a) must be consistent with the operations of the United States Navy museum of which the facility is a part. “(c) Consideration.—The amount of consideration paid in a year by a foundation described in subsection (a) to the United States for the lease or license of facilities under subsection (a) may not exceed the actual cost, as determined by the Secretary, of the annual operation and maintenance of the facilities. “(d) Deposit and Use of Proceeds.—Consideration paid under subsection (c) shall be deposited into the appropriations account available for the operation and maintenance of the applicable United States Navy museum. The Secretary may use the amounts so deposited to cover costs associated with the operation and maintenance of that museum and its exhibits. “(e) Additional Terms and Conditions.—The Secretary may require such additional terms and conditions in connection with a lease or license under subsection (a) as the Secretary considers appropriate to protect the interests of the United States. “(f) United States Navy Museum.—In this section, the term ‘United States Navy museum’ means a museum under the jurisdiction of the Secretary of Defense and operated through the Naval History and Heritage Command.”
 
 
 <a id="section-8619"></a>
@@ -633,7 +704,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(g) Contingent Waiver of Other Provisions of Law.—**
 
-(1) The Secretary may waive the applicability of subsections (e)(2) and (f) of [section 2401 of this title](./chapter-141-miscellaneous-procurement-provisions.md#section-2401) to a contract authorized by law as provided in subsection (b) if the Secretary makes the following findings with respect to that contract:
+(1) The Secretary may waive the applicability of subsection (b)(2) of section 3672 and [section 3675 of this title](./chapter-257-contracts-for-long-term-lease-or-charter-of-vessels-aircraft-and-combat-vehicles.md#section-3675) to a contract authorized by law as provided in subsection (b) if the Secretary makes the following findings with respect to that contract:
 
   (A) The need for the vessels or services to be provided under the contract is expected to remain substantially unchanged during the contemplated contract or option period.
 
@@ -652,9 +723,6 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 (3) funds appropriated for those costs.
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, except as otherwise provided in title XVIII of Pub. L. 116–283, in title 10, United States Code, each reference in the text of such title to a source section that is redesignated by title XVIII of Pub. L. 116–283, is amended by striking such reference and inserting a reference to the appropriate section as so redesignated. See 2021 Amendment note below.
 
 #### Prior Provisions
 A prior section 8633, act Aug. 10, 1946, ch. 1041, 70A Stat. 532, provided for forfeiture of pay when dropped from rolls, prior to repeal by Pub. L. 87–649, § 14c(55), Sept. 7, 1962, 76 Stat. 502, effective Nov. 1, 1962. See [section 803 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section803&num=0&edition=prelim), Pay and Allowances of the Uniformed Services.

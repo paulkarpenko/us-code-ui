@@ -59,7 +59,7 @@ In this chapter:
 
   (B) included on the list of specially designated nationals and blocked persons maintained by the Office of Foreign Assets Control of the Department of the Treasury;
 
-  (C) owned by, controlled by, or subject to the jurisdiction or direction of a government of a foreign country that is listed in [section 2533c of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2533c&num=0&edition=prelim); or
+  (C) owned by, controlled by, or subject to the jurisdiction or direction of a government of a foreign country that is listed in section 2533c 33 See References in Text note below. of title 10; or
 
   (D) alleged by the Attorney General to have been involved in activities for which a conviction was obtained under—
 
@@ -75,7 +75,7 @@ In this chapter:
 
     (vi) the Export Control Reform Act of 2018 ([50 U.S.C. 4801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4801&num=0&edition=prelim) et seq.); or
 
-    (vii) the International Economic Emergency Powers Act 33 See References in Text note below. ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.); or
+    (vii) the International Economic Emergency Powers Act 3 ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.); or
 
   (E) determined by the Secretary, in consultation with the Secretary of Defense and the Director of National Intelligence, to be engaged in unauthorized conduct that is detrimental to the national security or foreign policy of the United States under this chapter.
 
@@ -88,6 +88,8 @@ In this chapter:
 ### Statutory Notes
 
 #### References in Text
+[Section 2533c of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2533c&num=0&edition=prelim), referred to par. (6)(C), was renumbered [section 4872 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4872&num=0&edition=prelim) by Pub. L. 116–283, div. A, title XVIII, § 1870(d)(2), Jan. 1, 2021, 134 Stat. 4286, as amended by Pub. L. 117–81, div. A, title XVII, § 1701(t)(2)(B), (C), Dec. 27, 2021, 135 Stat. 2150.
+
 The Arms Export Control Act, referred to in par. (6)(D)(iv), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2751&num=0&edition=prelim) and Tables.
 
 The Export Control Reform Act of 2018, referred to in par. (6)(D)(vi), is subtitle B (§§ 1741–1781) of title XVII of div. A of Pub. L. 115–232, Aug. 13, 2018, 132 Stat. 2208, which is classified principally to chapter 58 (§ 4801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 4801 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4801&num=0&edition=prelim) and Tables.
@@ -284,7 +286,7 @@ This chapter, referred to in par. (6)(E), was in the original “this Act” and
 
 **(b) National network for microelectronics research and development**
 
-(1) **In general** — Subject to the availability of appropriations for such purposes, the Secretary of Defense may establish a national network for microelectronics research and development—
+(1) **In general** — Subject to the availability of appropriations for such purposes, the Secretary of Defense shall establish a national network for microelectronics research and development—
 
   (A) to enable the laboratory to fabrication transition of microelectronics innovations in the United States; and
 
@@ -298,10 +300,21 @@ This chapter, referred to in par. (6)(E), was in the original “this Act” and
 
   (C) conduct other relevant activities deemed necessary by the Secretary of Defense for accomplishing the purposes of the national network for microelectronics research and development.
 
+(3) **Selection of entities**
+
+  (A) *In general* — In carrying out paragraph (1), the Secretary shall, through a competitive process, select two or more entities to carry out the activities described in paragraph (2) as part of the network established under paragraph (1).
+
+  (B) *Geographic diversity* — The Secretary shall, to the extent practicable, ensure that the entities selected under subparagraph (A) collectively represent the geographic diversity of the United States.
+
 ### Statutory Notes
 
 #### References in Text
 Section 224 of the National Defense Authorization Act for Fiscal Year 2020, referred to in subsec. (a)(2)(E), is section 224 of Pub. L. 116–92, which is set out as a note under [section 2302 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302&num=0&edition=prelim), Armed Forces.
+
+#### Amendments
+2021—Subsec. (b)(1). Pub. L. 117–81, § 217(1), substituted “shall” for “may” in introductory provisions.
+
+Subsec. (b)(3). Pub. L. 117–81, § 217(2), added par. (3).
 
 #### “Congressional Defense Committees” Defined
 For definition of “congressional defense committees”, see section 3 of Pub. L. 116–283, listed in a table under [section 101 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim), Armed Forces.
@@ -372,7 +385,7 @@ For definition of “congressional defense committees”, see section 3 of Pub. 
 
   (B) *Interest and proceeds* — The interest on, and the proceeds from the sale or redemption of, any obligations held in the Fund shall be credited to and form a part of the Fund.
 
-(4) **Use of fund**
+(4) **Use of Fund**
 
   (A) *In general* — Subject to subparagraph (B), amounts in the Fund shall be available, as provided in advance in an appropriations Act, to the Secretary of State—
 
@@ -422,7 +435,7 @@ For definition of “congressional defense committees”, see section 3 of Pub. 
 
 (6) any additional authorities needed to enhance the effectiveness of the Fund in achieving the security goals of the United States.
 
-**(d) Notifications to be provided by the fund**
+**(d) Notifications to be provided by the Fund**
 
 (1) **In general** — Not later than 15 days prior to the Fund making a financial commitment associated with the provision of expenditures under subsection (a)(4)(A) in an amount in excess of $1,000,000, the Secretary of State shall submit to the appropriate committees of Congress report in writing that contains the information required by paragraph (2).
 
@@ -552,7 +565,7 @@ For definition of “congressional defense committees”, see section 3 of Pub. 
 ### Statutory Notes
 
 #### References in Text
-Section 231(b)(15) of the National Defense Authorization Act for Fiscal Year 2017 (as added by section 276 of this Act), referred to in subsec. (a)(3)(A)(ii)(IV), is section 231(b)(15) of Pub. L. 114–328, as added by section 276 of Pub. L. 116–283, which is set out as a note under [section 2302 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302&num=0&edition=prelim), Armed Forces.
+Section 231(b)(15) of the National Defense Authorization Act for Fiscal Year 2017 (as added by section 276 of this Act), referred to in subsec. (a)(3)(A)(ii)(IV), is section 231(b)(15) of Pub. L. 114–328, as added by section 276 of Pub. L. 116–283, which is set out in a note under [section 2302 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302&num=0&edition=prelim), Armed Forces.
 
 Section 14 of the Federal Advisory Committee Act, referred to in subsec. (b)(3), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 

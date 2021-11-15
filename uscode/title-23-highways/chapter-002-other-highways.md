@@ -2,7 +2,7 @@
 title: 23
 chapter: '2'
 heading: OTHER HIGHWAYS
-section_count: 18
+section_count: 19
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23&num=0&edition=prelim
 ---
@@ -48,7 +48,7 @@ source: >-
 
   (A) *Tribal and federal lands transportation program.—* — The Federal share of the cost of a project carried out under the Federal lands transportation program or the tribal transportation program shall be 100 percent.
 
-  (B) *Federal lands access program.—* — The Federal share of the cost of a project carried out under the Federal lands access program shall be determined in accordance with section 120.
+  (B) *Federal lands access program.—* — The Federal share of the cost of a project carried out under the Federal lands access program shall be be 11 So in original. up to 100 percent.
 
 **(c) Transportation Planning.—**
 
@@ -72,7 +72,7 @@ source: >-
 
     (i) *In general.—* — The Secretaries of the appropriate Federal land management agencies shall collect and report data necessary to implement the Federal lands transportation program, the Federal lands access program, and the tribal transportation program.
 
-    (ii) *Requirement.—* — Data collected to implement the tribal transportation program shall be in accordance with the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim) et seq.).11 See References in Text note below.
+    (ii) *Requirement.—* — Data collected to implement the tribal transportation program shall be in accordance with the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) et seq.).
 
     (iii) *Inclusions.—* — Data collected under this paragraph includes—
 
@@ -96,7 +96,7 @@ source: >-
 
 (8) **Funding.—**
 
-  (A) *In general.—* — To carry out the activities described in this subsection for Federal lands transportation facilities, Federal lands access transportation facilities, and other federally owned roads open to public travel (as that term is defined in section 125(e)), the Secretary shall for each fiscal year combine and use not greater than 5 percent of the funds authorized for programs under sections 203 and 204.
+  (A) *In general.—* — To carry out the activities described in this subsection for Federal lands transportation facilities, Federal lands access transportation facilities, and other federally owned roads open to public travel (as that term is defined in section 125(e)), the Secretary shall for each fiscal year combine and use not greater than 20 percent of the funds authorized for programs under sections 203 and 204.
 
   (B) *Other activities.—* — In addition to the activities described in subparagraph (A), funds described under that subparagraph may be used for—
 
@@ -124,22 +124,63 @@ source: >-
 
 (2) **Credit.—** — The funds described in paragraph (1) shall be credited back to the loaning entity with funds that are currently available for obligation at the time of the credit.
 
+**(f) Alternative Contracting Methods.—**
+
+(1) **In general.—** — Notwithstanding any other provision of law (including the Federal Acquisition Regulation), a contracting method available to a State under this title may be used by the Secretary, on behalf of—
+
+  (A) a Federal land management agency, in using any funds pursuant to section 203, 204, or 308;
+
+  (B) a Federal land management agency, in using any funds pursuant to [section 1535 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1535&num=0&edition=prelim) for any of the eligible uses described in sections 203(a)(1) and 204(a)(1) and paragraphs (1) and (2) of section 308(a); or
+
+  (C) a Tribal government, in using funds pursuant to section 202(b)(7)(D).
+
+(2) **Methods described.—** — The contracting methods referred to in paragraph (1) shall include, at a minimum—
+
+  (A) project bundling;
+
+  (B) bridge bundling;
+
+  (C) design-build contracting;
+
+  (D) 2-phase contracting;
+
+  (E) long-term concession agreements; and
+
+  (F) any method tested, or that could be tested, under an experimental program relating to contracting methods carried out by the Secretary.
+
+(3) **Effect.—** — Nothing in this subsection—
+
+  (A) affects the application of the Federal share for the project carried out with a contracting method under this subsection; or
+
+  (B) modifies the point of obligation of Federal salaries and expenses.
+
 ### Statutory Notes
 
 #### References in Text
 The date of enactment of this section and the date of enactment of this paragraph, referred to in subsec. (b)(4)(A), (5), is the date of enactment of Pub. L. 112–141, which was approved July 6, 2012.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(6)(A)(ii), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(6)(A)(ii), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 201, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 906; Pub. L. 97–424, title I, § 126(f), Jan. 6, 1983, 96 Stat. 2116; Pub. L. 105–178, title I, § 1115(e)(1), June 9, 1998, 112 Stat. 158, related to authorizations, prior to repeal by Pub. L. 112–141, div. A, title I, § 1119(a), July 6, 2012, 126 Stat. 473.
 
 #### Amendments
+2021—Subsec. (b)(7)(B). Pub. L. 117–58, § 11113(a)(1), substituted “be up to 100 percent” for “determined in accordance with section 120”.
+
+Subsec. (c)(6)(A)(ii). Pub. L. 117–58, § 11525(l), substituted “([25 U.S.C. 5301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) et seq.)” for “([25 U.S.C. 450](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim) et seq.)”.
+
+Subsec. (c)(8)(A). Pub. L. 117–58, § 11113(a)(2), substituted “20 percent” for “5 percent”.
+
+Subsec. (f). Pub. L. 117–58, § 11305(a), added subsec. (f).
+
 2015—Subsec. (c)(6)(A). Pub. L. 114–94, § 1120(1), inserted cl. (i) designation and heading, substituted period for “in accordance with the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim) et seq.), including—”, added cl. (ii) and introductory provisions of cl. (iii), redesignated former cls. (i) and (ii). as subcls. (I) and (II) of cl. (iii), respectively, and realigned margins.
 
 Subsec. (c)(6)(C). Pub. L. 114–94, § 1117(a), added subpar. (C).
 
 Subsec. (c)(7), (8). Pub. L. 114–94, § 1120(2), added pars. (7) and (8) and struck out former par. (7). Prior to amendment, text of par. (7) read as follows: “To implement the activities described in this subsection, including direct support of transportation planning activities among Federal land management agencies, the Secretary may use not more than 5 percent for each fiscal year of the funds authorized for programs under sections 203 and 204.”
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as a note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).
 
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
@@ -147,8 +188,11 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 #### Effective Date
 Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).
 
+#### Use of Alternative Contracting Methods
+Pub. L. 117–58, div. A, title I, § 11305(c), Nov. 15, 2021, 135 Stat. 532, provided that: “In carrying out an alternative contracting method under section 201(f) or 308(a)(4) of title 23, United States Code, the Secretary [of Transportation] shall— “(1) in consultation with the applicable Federal land management agencies, establish clear procedures that are—“(A) applicable to the alternative contracting method; and “(B) to the maximum extent practicable, consistent with the requirements applicable to Federal procurement transactions; “(2) solicit input on the use of the alternative contracting method from the affected industry prior to using the method; and “(3) analyze and prepare an evaluation of the use of the alternative contracting method.”
+
 #### Nationally Significant Federal Lands and Tribal Projects Program
-Pub. L. 114–94, div. A, title I, § 1123, Dec. 4, 2015, 129 Stat. 1370, provided that: “(a) Purpose.—The Secretary [of Transportation] shall establish a nationally significant Federal lands and tribal projects program (referred to in this section as the ‘program’) to provide funding to construct, reconstruct, or rehabilitate nationally significant Federal lands and tribal transportation projects. “(b) Eligible Applicants.—“(1) In general.—Except as provided in paragraph (2), entities eligible to receive funds under sections 201, 202, 203, and 204 of title 23, United States Code, may apply for funding under the program. “(2) Special rule.—A State, county, or unit of local government may only apply for funding under the program if sponsored by an eligible Federal land management agency or Indian tribe. “(c) Eligible Projects.—An eligible project under the program shall be a single continuous project—“(1) on a Federal lands transportation facility, a Federal lands access transportation facility, or a tribal transportation facility (as those terms are defined in [section 101 of title 23](./chapter-001-federal-aid-highways.md#section-101), United States Code), except that such facility is not required to be included in an inventory described in section 202 or 203 of such title; “(2) for which completion of activities required under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.) has been demonstrated through—“(A) a record of decision with respect to the project; “(B) a finding that the project has no significant impact; or “(C) a determination that the project is categorically excluded; and “(3) having an estimated cost, based on the results of preliminary engineering, equal to or exceeding $25,000,000, with priority consideration given to projects with an estimated cost equal to or exceeding $50,000,000. “(d) Eligible Activities.—“(1) In general.—Subject to paragraph (2), an eligible applicant receiving funds under the program may only use the funds for construction, reconstruction, and rehabilitation activities. “(2) Ineligible activities.—An eligible applicant may not use funds received under the program for activities relating to project design. “(e) Applications.—Eligible applicants shall submit to the Secretary [of Transportation] an application at such time, in such form, and containing such information as the Secretary may require. “(f) Selection Criteria.—In selecting a project to receive funds under the program, the Secretary shall consider the extent to which the project—“(1) furthers the goals of the Department, including state of good repair, economic competitiveness, quality of life, and safety; “(2) improves the condition of critical transportation facilities, including multimodal facilities; “(3) needs construction, reconstruction, or rehabilitation; “(4) has costs matched by funds that are not provided under this section, with projects with a greater percentage of other sources of matching funds ranked ahead of lesser matches; “(5) is included in or eligible for inclusion in the National Register of Historic Places; “(6) uses new technologies and innovations that enhance the efficiency of the project; “(7) is supported by funds, other than the funds received under the program, to construct, maintain, and operate the facility; “(8) spans 2 or more States; and “(9) serves land owned by multiple Federal agencies or Indian tribes. “(g) Federal Share.—“(1) In general.—The Federal share of the cost of a project shall be up to 90 percent. “(2) Non-federal share.—Notwithstanding any other provision of law, any Federal funds other than those made available under title 23 or title 49, United States Code, may be used to pay the non-Federal share of the cost of a project carried out under this section. “(h) Authorization of Appropriations.—There is authorized to be appropriated to carry out this section $100,000,000 for each of fiscal years 2016 through 2020. Such sums shall remain available for a period of 3 fiscal years following the fiscal year for which the amounts are appropriated.”
+Pub. L. 114–94, div. A, title I, § 1123, Dec. 4, 2015, 129 Stat. 1370, as amended by Pub. L. 117–58, div. A, title I, § 11127, Nov. 15, 2021, 135 Stat. 507, provided that: “(a) Purpose.—The Secretary [of Transportation] shall establish a nationally significant Federal lands and tribal projects program (referred to in this section as the ‘program’) to provide funding to construct, reconstruct, or rehabilitate nationally significant Federal lands and tribal transportation projects. “(b) Eligible Applicants.—“(1) In general.—Except as provided in paragraph (2), entities eligible to receive funds under sections 201, 202, 203, and 204 of title 23, United States Code, may apply for funding under the program. “(2) Special rule.—A State, county, or unit of local government may only apply for funding under the program if sponsored by an eligible Federal land management agency or Indian tribe. “(c) Eligible Projects.—An eligible project under the program shall be a single continuous project—“(1) on a Federal lands transportation facility, a Federal lands access transportation facility, or a tribal transportation facility (as those terms are defined in [section 101 of title 23](./chapter-001-federal-aid-highways.md#section-101), United States Code), except that such facility is not required to be included in an inventory described in section 202 or 203 of such title; “(2) for which completion of activities required under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.) has been demonstrated through—“(A) a record of decision with respect to the project; “(B) a finding that the project has no significant impact; or “(C) a determination that the project is categorically excluded; and “(3) having an estimated cost, based on the results of preliminary engineering, equal to or exceeding $12,500,000. “(d) Eligible Activities.—“(1) In general.—Subject to paragraph (2), an eligible applicant receiving funds under the program may only use the funds for construction, reconstruction, and rehabilitation activities. “(2) Ineligible activities.—An eligible applicant may not use funds received under the program for activities relating to project design. “(e) Applications.—Eligible applicants shall submit to the Secretary [of Transportation] an application at such time, in such form, and containing such information as the Secretary may require. “(f) Selection Criteria.—In selecting a project to receive funds under the program, the Secretary shall consider the extent to which the project—“(1) furthers the goals of the Department, including state of good repair, economic competitiveness, quality of life, and safety; “(2) improves the condition of critical transportation facilities, including multimodal facilities; “(3) needs construction, reconstruction, or rehabilitation; “(4) has costs matched by funds that are not provided under this section, with projects with a greater percentage of other sources of matching funds ranked ahead of lesser matches; “(5) is included in or eligible for inclusion in the National Register of Historic Places; “(6) uses new technologies and innovations that enhance the efficiency of the project; “(7) is supported by funds, other than the funds received under the program, to construct, maintain, and operate the facility; “(8) spans 2 or more States; and “(9) serves land owned by multiple Federal agencies or Indian tribes. “(g) Cost Share.—“(1) Federal share.—“(A) In general.—Except as provided in subparagraph (B), the Federal share of the cost of a project shall be up to 90 percent. “(B) Tribal projects.—In the case of a project on a tribal transportation facility (as defined in [section 101(a) of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101/a&num=0&edition=prelim), United States Code), the Federal share of the cost of the project shall be 100 percent. “(2) Non-federal share.—Notwithstanding any other provision of law, any Federal funds may be used to pay the non-Federal share of the cost of a project carried out under this section. “(h) Use of Funds.—“(1) In general.—For each fiscal year, of the amounts made available to carry out this section—“(A) 50 percent shall be used for eligible projects on Federal lands transportation facilities and Federal lands access transportation facilities (as those terms are defined in [section 101(a) of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101/a&num=0&edition=prelim), United States Code); and “(B) 50 percent shall be used for eligible projects on tribal transportation facilities (as defined in [section 101(a) of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101/a&num=0&edition=prelim), United States Code). “(2) Requirement.—Not less than 1 eligible project carried out using the amount described in paragraph (1)(A) shall be in a unit of the National Park System with not less than 3,000,000 annual visitors. “(3) Availability.—Amounts made available to carry out this section shall remain available for a period of 3 fiscal years following the fiscal year for which the amounts are appropriated.”
 
 
 <a id="section-202"></a>
@@ -241,7 +285,7 @@ Pub. L. 114–94, div. A, title I, § 1123, Dec. 4, 2015, 129 Stat. 1370, provid
 
     (ii) *Exception.—* — Clause (i) shall not apply if the Secretary or the Secretary of the Interior affirmatively finds that, under the circumstances relating to the project, a different method is in the public interest.
 
-  (B) *Applicability.—* — Notwithstanding subparagraph (A), section 23 of the Act of June 25, 1910 ([25 U.S.C. 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section47&num=0&edition=prelim)) and section 7(b) of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450e(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450e/b&num=0&edition=prelim)) 11 See References in Text note below. shall apply to all funds administered by the Secretary of the Interior that are appropriated for the construction and improvement of tribal transportation facilities.
+  (B) *Applicability.—* — Notwithstanding subparagraph (A), section 23 of the Act of June 25, 1910 ([25 U.S.C. 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section47&num=0&edition=prelim)) and section 7(b) of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5307(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5307/b&num=0&edition=prelim)) shall apply to all funds administered by the Secretary of the Interior that are appropriated for the construction and improvement of tribal transportation facilities.
 
 **(b) Funds Distribution.—**
 
@@ -349,7 +393,7 @@ Pub. L. 114–94, div. A, title I, § 1123, Dec. 4, 2015, 129 Stat. 1370, provid
 
   (B) *Use of funds.—* — Notwithstanding any other provision of this section, funds made available to Indian tribes for tribal transportation facilities shall be expended on projects identified in a transportation improvement program approved by the Secretary.
 
-(5) **Health and safety assurances.—** — Notwithstanding any other provision of law, an Indian tribal government may approve plans, specifications, and estimates and commence road and bridge construction with funds made available from the tribal transportation program through a contract or agreement under 22 So in original. Probably should be followed by “the”. Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim) et seq.),1 if the Indian tribal government—
+(5) **Health and safety assurances.—** — Notwithstanding any other provision of law, an Indian tribal government may approve plans, specifications, and estimates and commence road and bridge construction with funds made available from the tribal transportation program through a contract or agreement under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) et seq.), if the Indian tribal government—
 
   (A) provides assurances in the contract or agreement that the construction will meet or exceed applicable health and safety standards;
 
@@ -359,13 +403,13 @@ Pub. L. 114–94, div. A, title I, § 1123, Dec. 4, 2015, 129 Stat. 1370, provid
 
 (6) **Contracts and agreements with indian tribes.—**
 
-  (A) *In general.—* — Notwithstanding any other provision of law or any interagency agreement, program guideline, manual, or policy directive, all funds made available through the Secretary of the Interior under this chapter and section 125(e) for tribal transportation facilities to pay for the costs of programs, services, functions, and activities, or portions of programs, services, functions, or activities, that are specifically or functionally related to the cost of planning, research, engineering, and construction of any tribal transportation facility shall be made available, upon request of the Indian tribal government, to the Indian tribal government for contracts and agreements for such planning, research, engineering, and construction in accordance with 1 Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim) et seq.).1
+  (A) *In general.—* — Notwithstanding any other provision of law or any interagency agreement, program guideline, manual, or policy directive, all funds made available through the Secretary of the Interior under this chapter and section 125(e) for tribal transportation facilities to pay for the costs of programs, services, functions, and activities, or portions of programs, services, functions, or activities, that are specifically or functionally related to the cost of planning, research, engineering, and construction of any tribal transportation facility shall be made available, upon request of the Indian tribal government, to the Indian tribal government for contracts and agreements for such planning, research, engineering, and construction in accordance with 11 So in original. Probably should be followed by “the”. Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) et seq.).
 
   (B) *Exclusion of agency participation.—* — All funds, including contract support costs, for programs, functions, services, or activities, or portions of programs, services, functions, or activities, including supportive administrative functions that are otherwise contractible to which subparagraph (A) applies, shall be paid in accordance with subparagraph (A), without regard to the organizational level at which the Department of the Interior has previously carried out such programs, functions, services, or activities.
 
 (7) **Contracts and agreements with indian tribes.—**
 
-  (A) *In general.—* — Notwithstanding any other provision of law or any interagency agreement, program guideline, manual, or policy directive, all funds made available to an Indian tribal government under this chapter for a tribal transportation facility program or project shall be made available, on the request of the Indian tribal government, to the Indian tribal government for use in carrying out, in accordance with the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim) et seq.),1 contracts and agreements for the planning, research, design, engineering, construction, and maintenance relating to the program or project.
+  (A) *In general.—* — Notwithstanding any other provision of law or any interagency agreement, program guideline, manual, or policy directive, all funds made available to an Indian tribal government under this chapter for a tribal transportation facility program or project shall be made available, on the request of the Indian tribal government, to the Indian tribal government for use in carrying out, in accordance with the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) et seq.), contracts and agreements for the planning, research, design, engineering, construction, and maintenance relating to the program or project.
 
   (B) *Exclusion of agency participation.—* — In accordance with subparagraph (A), all funds, including contract support costs, for a program or project to which subparagraph (A) applies shall be paid to the Indian tribal government without regard to the organizational level at which the Department of the Interior has previously carried out, or the Department of Transportation has previously carried out under the tribal transportation program, the programs, functions, services, or activities involved.
 
@@ -379,19 +423,19 @@ Pub. L. 114–94, div. A, title I, § 1123, Dec. 4, 2015, 129 Stat. 1370, provid
 
     (i) *In general.—* — Subject to clause (ii) and the approval of the Secretary, funds may be made available under subparagraph (A) to an Indian tribal government for a program or project in a fiscal year only if the Indian tribal government requesting such funds demonstrates to the satisfaction of the Secretary financial stability and financial management capability during the 3 fiscal years immediately preceding the fiscal year for which the request is being made.
 
-    (ii) *Considerations.—* — An Indian tribal government that had no uncorrected significant and material audit exceptions in the required annual audit of the contracts or self-governance funding agreements made by the Indian tribe with any Federal agency under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim) et seq.) 1 during the 3-fiscal year period referred in clause (i) shall be conclusive evidence of the financial stability and financial management capability of the Indian tribe for purposes of clause (i).
+    (ii) *Considerations.—* — An Indian tribal government that had no uncorrected significant and material audit exceptions in the required annual audit of the contracts or self-governance funding agreements made by the Indian tribe with any Federal agency under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) et seq.) during the 3-fiscal year period referred in clause (i) shall be conclusive evidence of the financial stability and financial management capability of the Indian tribe for purposes of clause (i).
 
-  (G) *Assumption of functions and duties.—* — An Indian tribal government receiving funding under subparagraph (A) for a program or project shall assume all functions and duties that the Secretary of the Interior would have performed with respect to a program or project under this chapter, other than those functions and duties that inherently cannot be legally transferred under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim) et seq.).1
+  (G) *Assumption of functions and duties.—* — An Indian tribal government receiving funding under subparagraph (A) for a program or project shall assume all functions and duties that the Secretary of the Interior would have performed with respect to a program or project under this chapter, other than those functions and duties that inherently cannot be legally transferred under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) et seq.).
 
-  (H) *Powers.—* — An Indian tribal government receiving funding under subparagraph (A) for a program or project shall have all powers that the Secretary of the Interior would have exercised in administering the funds transferred to the Indian tribal government for such program or project under this section if the funds had not been transferred, except to the extent that such powers are powers that inherently cannot be legally transferred under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim) et seq.).1
+  (H) *Powers.—* — An Indian tribal government receiving funding under subparagraph (A) for a program or project shall have all powers that the Secretary of the Interior would have exercised in administering the funds transferred to the Indian tribal government for such program or project under this section if the funds had not been transferred, except to the extent that such powers are powers that inherently cannot be legally transferred under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) et seq.).
 
-  (I) *Dispute resolution.—* — In the event of a disagreement between the Secretary or the Secretary of the Interior and an Indian tribe over whether a particular function, duty, or power may be lawfully transferred to the Indian tribe under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim) et seq.),1 the Indian tribe shall have the right to pursue all alternative dispute resolution and appeal procedures authorized by that Act, including regulations issued to carry out the Act.
+  (I) *Dispute resolution.—* — In the event of a disagreement between the Secretary or the Secretary of the Interior and an Indian tribe over whether a particular function, duty, or power may be lawfully transferred to the Indian tribe under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) et seq.), the Indian tribe shall have the right to pursue all alternative dispute resolution and appeal procedures authorized by that Act, including regulations issued to carry out the Act.
 
   (J) *Termination of contract or agreement.—* — On the date of the termination of a contract or agreement under this section by an Indian tribal government, the Secretary shall transfer all funds that would have been allocated to the Indian tribal government under the contract or agreement to the Secretary of the Interior to provide continued transportation services in accordance with applicable law.
 
 **(c) Planning.—**
 
-(1) **In general.—** — For each fiscal year, not more than 2 percent of the funds made available for the tribal transportation program shall be allocated among Indian tribal governments that apply for transportation planning pursuant to the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim) et seq.).1
+(1) **In general.—** — For each fiscal year, not more than 2 percent of the funds made available for the tribal transportation program shall be allocated among Indian tribal governments that apply for transportation planning pursuant to the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) et seq.).
 
 (2) **Requirement.—** — An Indian tribal government, in cooperation with the Secretary of the Interior and, as appropriate, with a State, local government, or metropolitan planning organization, shall carry out a transportation planning process in accordance with section 201(c).
 
@@ -403,13 +447,15 @@ Pub. L. 114–94, div. A, title I, § 1123, Dec. 4, 2015, 129 Stat. 1370, provid
 
 **(d) Tribal Transportation Facility Bridges.—**
 
-(1) **Nationwide priority program.—** — The Secretary shall maintain a nationwide priority program for improving deficient bridges eligible for the tribal transportation program.
+(1) **Nationwide priority program.—** — The Secretary shall maintain a nationwide priority program for improving bridges eligible for the tribal transportation program classified as in poor condition, having low load capacity, or needing geometric improvements.
 
-(2) **Funding.—** — Before making any distribution under subsection (b), the Secretary shall set aside not more than 3 percent of the funds made available under the tribal transportation program for each fiscal year to be allocated—
+(2) **Use of funds.—** — Funds made available to carry out this subsection shall be used—
 
-  (A) to carry out any planning, design, engineering, preconstruction, construction, and inspection of a project to replace, rehabilitate, seismically retrofit, paint, apply calcium magnesium acetate, sodium acetate/formate, or other environmentally acceptable, minimally corrosive anti-icing and deicing composition; or
+  (A) to carry out any planning, design, engineering, preconstruction, construction, and inspection of new or replacement tribal transportation facility bridges;
 
-  (B) to implement any countermeasure for deficient tribal transportation facility bridges, including multiple-pipe culverts.
+  (B) to replace, rehabilitate, seismically retrofit, paint, apply calcium magnesium acetate, sodium acetate/formate, or other environmentally acceptable, minimally corrosive anti-icing and deicing composition; or
+
+  (C) to implement any countermeasure for tribal transportation facility bridges classified as in poor condition, having a low load capacity, or needing geometric improvements, including multiple-pipe culverts.
 
 (3) **Eligible bridges.—** — To be eligible to receive funding under this subsection, a bridge described in paragraph (1) shall—
 
@@ -417,13 +463,13 @@ Pub. L. 114–94, div. A, title I, § 1123, Dec. 4, 2015, 129 Stat. 1370, provid
 
   (B) be classified as a tribal transportation facility; and
 
-  (C) be structurally deficient or functionally obsolete.
+  (C) be classified as in poor condition, having a low load capacity, or needing geometric improvements.
 
 (4) **Approval requirement.—** — The Secretary may make funds available under this subsection for preliminary engineering, construction, and construction engineering activities after approval of required documentation and verification of eligibility in accordance with this title.
 
 **(e) Safety.—**
 
-(1) **Funding.—** — Before making any distribution under subsection (b), the Secretary shall set aside not more than 2 percent of the funds made available under the tribal transportation program for each fiscal year to be allocated based on an identification and analysis of highway safety issues and opportunities on tribal land, as determined by the Secretary, on application of the Indian tribal governments for eligible projects described in section 148(a)(4).
+(1) **Funding.—** — Before making any distribution under subsection (b), the Secretary shall set aside not more than 4 percent of the funds made available under the tribal transportation program for each fiscal year to be allocated based on an identification and analysis of highway safety issues and opportunities on tribal land, as determined by the Secretary, on application of the Indian tribal governments for eligible projects described in section 148(a)(4).
 
 (2) **Project selection.—** — An Indian tribal government, in cooperation with the Secretary of the Interior and, as appropriate, with a State, local government, or metropolitan planning organization, shall select projects from the transportation improvement program, subject to the approval of the Secretary and the Secretary of the Interior.
 
@@ -436,12 +482,30 @@ The date of enactment of the MAP–21, referred to in subsec. (b)(3)(A)(ii), (C)
 
 The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsec. (b)(3)(B), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, which is classified principally to chapter 43 (§ 4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4101&num=0&edition=prelim) and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsecs. (a) to (c), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of Title 25. Section 7(b) of the Act was classified to [section 450e(b) of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450e/b&num=0&edition=prelim) prior to editorial reclassification as [section 5307(b) of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5307/b&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsecs. (b) and (c), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 202, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 906; Pub. L. 94–280, title I, § 133, May 5, 1976, 90 Stat. 441; Pub. L. 97–424, title I, § 126(a), Jan. 6, 1983, 96 Stat. 2113; Pub. L. 102–240, title I, § 1032(a), Dec. 18, 1991, 105 Stat. 1974; Pub. L. 105–178, title I, §§ 1115(b), (e)(2), (f)(2), 1212(a)(2)(A)(ii), June 9, 1998, 112 Stat. 154, 158, 193; Pub. L. 105–206, title IX, § 9002(i), July 22, 1998, 112 Stat. 836; Pub. L. 109–59, title I, § 1119(c)–(g), Aug. 10, 2005, 119 Stat. 1182–1185, related to allocations, prior to repeal by Pub. L. 112–141, div. A, title I, § 1119(a), July 6, 2012, 126 Stat. 473.
 
 #### Amendments
+2021—Pub. L. 117–58, § 11525(m)(1), substituted “([25 U.S.C. 5301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) et seq.)” for “([25 U.S.C. 450](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim) et seq.)” wherever appearing.
+
+Subsec. (a)(10)(B). Pub. L. 117–58, § 11525(m)(2), substituted “([25 U.S.C. 5307(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5307/b&num=0&edition=prelim))” for “([25 U.S.C. 450e(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450e/b&num=0&edition=prelim))”.
+
+Subsec. (b)(5). Pub. L. 117–58, § 11525(m)(3), inserted “the” after “agreement under” in introductory provisions.
+
+Subsec. (d)(1). Pub. L. 117–58, § 11524(c)(1), substituted “bridges eligible for the tribal transportation program classified as in poor condition, having low load capacity, or needing geometric improvements” for “deficient bridges eligible for the tribal transportation program”.
+
+Subsec. (d)(2). Pub. L. 117–58, § 14004, added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “Before making any distribution under subsection (b), the Secretary shall set aside not more than 3 percent of the funds made available under the tribal transportation program for each fiscal year to be allocated—
+
+“(A) to carry out any planning, design, engineering, preconstruction, construction, and inspection of a project to replace, rehabilitate, seismically retrofit, paint, apply calcium magnesium acetate, sodium acetate/formate, or other environmentally acceptable, minimally corrosive anti-icing and deicing composition; or
+
+“(B) to implement any countermeasure for deficient tribal transportation facility bridges, including multiple-pipe culverts.”
+
+Subsec. (d)(3)(C). Pub. L. 117–58, § 11524(c)(2), substituted “classified as in poor condition, having a low load capacity, or needing geometric improvements” for “structurally deficient or functionally obsolete”.
+
+Subsec. (e)(1). Pub. L. 117–58, § 14008(d), substituted “4 percent” for “2 percent”.
+
 2015—Subsec. (a)(6). Pub. L. 114–94, § 1118(1), substituted “5 percent” for “6 percent”.
 
 Subsec. (b)(3)(A)(i). Pub. L. 114–94, § 1446(a)(12)(A), inserted “(a)(6),” after “subsections” in introductory provisions.
@@ -450,14 +514,32 @@ Subsec. (b)(3)(C)(ii)(IV). Pub. L. 114–94, § 1446(a)(12)(B), substituted “(
 
 Subsec. (d)(2). Pub. L. 114–94, § 1118(2), substituted “3 percent” for “2 percent” in introductory provisions.
 
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as a note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).
+
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
 #### Effective Date
 Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).
 
+#### Environmental Reviews for Certain Tribal Transportation Facilities
+Pub. L. 117–58, div. A, title IV, § 14002, Nov. 15, 2021, 135 Stat. 646, provided that: “(a) Definition of Tribal Transportation Safety Project.—“(1) In general.—In this section, the term ‘tribal transportation safety project’ means a project described in paragraph (2) that is eligible for funding under [section 202 of title 23](./chapter-002-other-highways.md#section-202), United States Code. “(2) Project described.—A project described in this paragraph is a project that corrects or improves a hazardous road location or feature or addresses a highway safety problem through 1 or more of the activities described in any of the clauses under [section 148(a)(4)(B) of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section148/a/4/B&num=0&edition=prelim), United States Code. “(b) Reviews of Tribal Transportation Safety Projects.—“(1) In general.—The Secretary [of the Interior] or the Secretary of Transportation, as applicable, or the head of another Federal agency responsible for a decision related to a tribal transportation safety project shall complete any approval or decision for the review of the tribal transportation safety project required under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.) or any other applicable Federal law on an expeditious basis using the shortest existing applicable process. “(2) Review of applications.—Not later than 45 days after the date of receipt of a complete application by an Indian tribe for approval of a tribal transportation safety project, the Secretary or the Secretary of Transportation, as applicable, shall—“(A) take final action on the application; or “(B) provide the Indian tribe a schedule for completion of the review described in paragraph (1), including the identification of any other Federal agency that has jurisdiction with respect to the project. “(3) Decisions under other federal laws.—In any case in which a decision under any other Federal law relating to a tribal transportation safety project (including the issuance or denial of a permit or license) is required, not later than 45 days after the Secretary or the Secretary of Transportation, as applicable, has made all decisions of the lead agency under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.) with respect to the project, the head of the Federal agency responsible for the decision shall—“(A) make the applicable decision; or “(B) provide the Indian tribe a schedule for making the decision. “(4) Extensions.—The Secretary or the Secretary of Transportation, as applicable, or the head of the Federal agency may extend the period under paragraph (2) or (3), as applicable, by an additional 30 days by providing the Indian tribe notice of the extension, including a statement of the need for the extension. “(5) Notification and explanation.—In any case in which a required action is not completed by the deadline under paragraph (2), (3), or (4), as applicable, the Secretary, the Secretary of Transportation, or the head of a Federal agency, as applicable, shall—“(A) notify the Committees on Indian Affairs and Environment and Public Works of the Senate and the Committee on Natural Resources of the House of Representatives of the failure to comply with the deadline; and “(B) provide to the Committees described in subparagraph (A) a detailed explanation of the reasons for the failure to comply with the deadline.”
+
+#### Programmatic Agreements for Tribal Categorical Exclusions
+Pub. L. 117–58, div. A, title IV, § 14003, Nov. 15, 2021, 135 Stat. 648, provided that: “(a) In General.—The Secretary [of the Interior] and the Secretary of Transportation shall enter into programmatic agreements with Indian tribes that establish efficient administrative procedures for carrying out environmental reviews for projects eligible for assistance under [section 202 of title 23](./chapter-002-other-highways.md#section-202), United States Code. “(b) Inclusions.—A programmatic agreement under subsection (a)—“(1) may include an agreement that allows an Indian tribe to determine, on behalf of the Secretary and the Secretary of Transportation, whether a project is categorically excluded from the preparation of an environmental assessment or environmental impact statement under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.); and “(2) shall—“(A) require that the Indian tribe maintain adequate capability in terms of personnel and other resources to carry out applicable agency responsibilities pursuant to section 1507.2 of title 40, Code of Federal Regulations (or successor regulations); “(B) set forth the responsibilities of the Indian tribe for making categorical exclusion determinations, documenting the determinations, and achieving acceptable quality control and quality assurance; “(C) allow—“(i) the Secretary and the Secretary of Transportation to monitor compliance of the Indian tribe with the terms of the agreement; and “(ii) the Indian tribe to execute any needed corrective action; “(D) contain stipulations for amendments, termination, and public availability of the agreement once the agreement has been executed; and “(E) have a term of not more than 5 years, with an option for renewal based on a review by the Secretary and the Secretary of Transportation of the performance of the Indian tribe.”
+
+#### Study of Road Maintenance on Indian Land
+Pub. L. 117–58, div. A, title IV, § 14006, Nov. 15, 2021, 135 Stat. 649, provided that: “(a) Definitions.—In this section:“(1) Indian land.—The term ‘Indian land’ has the meaning given the term ‘Indian lands’ in section 3 of the Native American Business Development, Trade Promotion, and Tourism Act of 2000 ([25 U.S.C. 4302](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4302&num=0&edition=prelim)). “(2) Indian tribe.—The term ‘Indian tribe’ has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)). “(3) Road.—The term ‘road’ means a road managed in whole or in part by the Bureau of Indian Affairs. “(4) Secretary.—The term ‘Secretary’ means the Secretary [of the Interior], acting through the Assistant Secretary for Indian Affairs. “(b) Study.—Not later than 2 years after the date of enactment of this Act [Nov. 15, 2021], the Secretary, in consultation with the Secretary of Transportation, shall carry out a study to evaluate—“(1) the long-term viability and useful life of existing roads on Indian land; “(2) any steps necessary to achieve the goal of addressing the deferred maintenance backlog of existing roads on Indian land; “(3) programmatic reforms and performance enhancements necessary to achieve the goal of restructuring and streamlining road maintenance programs on existing or future roads located on Indian land; and “(4) recommendations on how to implement efforts to coordinate with States, counties, municipalities, and other units of local government to maintain roads on Indian land. “(c) Tribal Consultation and Input.—Before beginning the study under subsection (b), the Secretary shall—“(1) consult with any Indian tribes that have jurisdiction over roads eligible for funding under the road maintenance program of the Bureau of Indian Affairs; and “(2) solicit and consider the input, comments, and recommendations of the Indian tribes described in paragraph (1). “(d) Report.—On completion of the study under subsection (b), the Secretary, in consultation with the Secretary of Transportation, shall submit to the Committees on Indian Affairs and Environment and Public Works of the Senate and the Committees on Natural Resources and Transportation and Infrastructure of the House of Representatives a report on the results and findings of the study. “(e) Status Report.—Not later than 2 years after the date of enactment of this Act, and not less frequently than every 2 years thereafter, the Secretary, in consultation with the Secretary of Transportation, shall submit to the Committees on Indian Affairs and Environment and Public Works of the Senate and the Committees on Natural Resources and Transportation and Infrastructure of the House of Representatives a report that includes a description of—“(1) the progress made toward addressing the deferred maintenance needs of the roads on Indian land, including a list of projects funded during the fiscal period covered by the report; “(2) the outstanding needs of the roads that have been provided funding to address the deferred maintenance needs; “(3) the remaining needs of any of the projects referred to in paragraph (1); “(4) how the goals described in subsection (b) have been met, including—“(A) an identification and assessment of any deficiencies or shortfalls in meeting the goals; and “(B) a plan to address the deficiencies or shortfalls in meeting the goals; and “(5) any other issues or recommendations provided by an Indian tribe under the consultation and input process under subsection (c) that the Secretary determines to be appropriate.”
+
+#### Maintenance of Certain Indian Reservation Roads
+Pub. L. 117–58, div. A, title IV, § 14007, Nov. 15, 2021, 135 Stat. 650, provided that: “The Commissioner of U.S. Customs and Border Protection may transfer funds to the Director of the Bureau of Indian Affairs to maintain, repair, or reconstruct roads under the jurisdiction of the Director, subject to the condition that the Commissioner and the Director shall mutually agree that the primary user of the subject road is U.S. Customs and Border Protection.”
+
+#### Tribal Transportation Safety Needs
+Pub. L. 117–58, div. A, title IV, § 14008(a)–(c), Nov. 15, 2021, 135 Stat. 650, 651, provided that: “(a) Definitions.—In this section:“(1) Alaska native.—The term ‘Alaska Native’ has the meaning given the term ‘Native’ in section 3 of the Alaska Native Claims Settlement Act ([43 U.S.C. 1602](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1602&num=0&edition=prelim)). “(2) Alaska native village.—The term ‘Alaska Native village’ has the meaning given the term ‘Native village’ in section 3 of the Alaska Native Claims Settlement Act ([43 U.S.C. 1602](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1602&num=0&edition=prelim)). “(3) Indian tribe.—The term ‘Indian tribe’ has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)). “(b) Best Practices, Standardized Crash Report Form.—“(1) In general.—Not later than 1 year after the date of enactment of this Act [Nov. 15, 2021], the Secretary of Transportation, in consultation with the Secretary [of the Interior], Indian tribes, Alaska Native villages, and State departments of transportation shall develop—“(A) best practices for the compiling, analysis, and sharing of motor vehicle crash data for crashes occurring on Indian reservations and in Alaska Native communities; and “(B) a standardized form for use by Indian tribes and Alaska Native communities to carry out those best practices. “(2) Purpose.—The purpose of the best practices and standardized form developed under paragraph (1) shall be to improve the quality and quantity of crash data available to and used by the Federal Highway Administration, State departments of transportation, Indian tribes, and Alaska Native villages. “(3) Report.—On completion of the development of the best practices and standardized form under paragraph (1), the Secretary of Transportation shall submit to the Committees on Indian Affairs and Environment and Public Works of the Senate and the Committees on Natural Resources and Transportation and Infrastructure of the House of Representatives a report describing the best practices and standardized form. “(c) Use of IMARS.—The Director of the Bureau of Indian Affairs shall require all law enforcement offices of the Bureau, for the purpose of reporting motor vehicle crash data for crashes occurring on Indian reservations and in Alaska Native communities—“(1) to use the crash report form of the applicable State; and “(2) to upload the information on that form to the Incident Management Analysis and Reporting System (IMARS) of the Department of the Interior.”
+
 #### Tribal High Priority Projects Program
-Pub. L. 112–141, div. A, title I, § 1123, July 6, 2012, 126 Stat. 497, as amended by Pub. L. 113–159, title I, § 1001(b)(2), Aug. 8, 2014, 128 Stat. 1840; Pub. L. 114–21, title I, § 1001(b)(2), May 29, 2015, 129 Stat. 219; Pub. L. 114–41, title I, § 1001(b)(2), July 31, 2015, 129 Stat. 444; Pub. L. 114–73, title I, § 1001(b)(2), Oct. 29, 2015, 129 Stat. 569; Pub. L. 114–87, title I, § 1001(b)(2), Nov. 20, 2015, 129 Stat. 678, provided that: “(a) Definitions.—In this section:“(1) Emergency or disaster.—The term ‘emergency or disaster’ means damage to a tribal transportation facility that—“(A) renders the tribal transportation facility impassable or unusable; “(B) is caused by—“(i) a natural disaster over a widespread area; or “(ii) a catastrophic failure from an external cause; and “(C) would be eligible under the emergency relief program under [section 125 of title 23](./chapter-001-federal-aid-highways.md#section-125), United States Code, but does not meet the funding thresholds required by that section. “(2) List.—The term ‘list’ means the funding priority list developed under subsection (c)(5). “(3) Program.—The term ‘program’ means the Tribal High Priority Projects program established under subsection (b)(1). “(4) Project.—The term ‘project’ means a project provided funds under the program. “(b) Program.—“(1) In general.—The Secretary shall use amounts made available under subsection (h) to carry out a Tribal High Priority Projects program under which funds shall be provided to eligible applicants in accordance with this section. “(2) Eligible applicants.—Applicants eligible for program funds under this section include—“(A) an Indian tribe whose annual allocation of funding under [section 202 of title 23](./chapter-002-other-highways.md#section-202), United States Code, is insufficient to complete the highest priority project of the Indian tribe; “(B) a governmental subdivision of an Indian tribe—“(i) that is authorized to administer the funding of the Indian tribe under [section 202 of title 23](./chapter-002-other-highways.md#section-202), United States Code; and “(ii) for which the annual allocation under that section is insufficient to complete the highest priority project of the Indian tribe; or “(C) any Indian tribe that has an emergency or disaster with respect to a transportation facility included on the national inventory of tribal transportation facilities under [section 202(b)(1) of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section202/b/1&num=0&edition=prelim), United States Code. “(c) Project Applications; Funding.—“(1) In general.—To apply for funds under this section, an eligible applicant shall submit to the Department of the Interior or the Department an application that includes—“(A) project scope of work, including deliverables, budget, and timeline; “(B) the amount of funds requested; “(C) project information addressing—“(i) the ranking criteria identified in paragraph (3); or “(ii) the nature of the emergency or disaster; “(D) documentation that the project meets the definition of a tribal transportation facility and is included in the national inventory of tribal transportation facilities under [section 202(b)(1) of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section202/b/1&num=0&edition=prelim), United States Code; “(E) documentation of official tribal action requesting the project; “(F) documentation from the Indian tribe providing authority for the Secretary of the Interior to place the project on a transportation improvement program if the project is selected and approved; and “(G) any other information the Secretary of the Interior or Secretary considers appropriate to make a determination. “(2) Limitation on applications.—An applicant for funds under the program may only have 1 application for assistance under this section pending at any 1 time, including any emergency or disaster application. “(3) Application ranking.—“(A) In general.—The Secretary of the Interior and the Secretary shall determine the eligibility of, and fund, program applications, subject to the availability of funds. “(B) Ranking criteria.—The project ranking criteria for applications under this section shall include—“(i) the existence of safety hazards with documented fatality and injury accidents; “(ii) the number of years since the Indian tribe last completed a construction project funded by [section 202 of title 23](./chapter-002-other-highways.md#section-202), United States Code; “(iii) the readiness of the Indian tribe to proceed to construction or bridge design need; “(iv) the percentage of project costs matched by funds that are not provided under [section 202 of title 23](./chapter-002-other-highways.md#section-202), United States Code, with projects with a greater percentage of other sources of matching funds ranked ahead of lesser matches); “(v) the amount of funds requested, with requests for lesser amounts given greater priority; “(vi) the challenges caused by geographic isolation; and “(vii) all weather access for employment, commerce, health, safety, educational resources, or housing. “(4) Project scoring matrix.—The project scoring matrix established in the appendix to part 170 of title 25, Code of Regulations (as in effect on the date of enactment of this Act [see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101)]) shall be used to rank all applications accepted under this section. “(5) Funding priority list.—“(A) In general.—The Secretary of the Interior and the Secretary shall jointly produce a funding priority list that ranks the projects approved for funding under the program. “(B) Limitation.—The number of projects on the list shall be limited by the amount of funding made available. “(6) Timeline.—The Secretary of the Interior and the Secretary shall—“(A) require applications for funding no sooner than 60 days after funding is made available pursuant to subsection (a); “(B) notify all applicants and Regions in writing of acceptance of applications; “(C) rank all accepted applications in accordance with the project scoring matrix, develop the funding priority list, and return unaccepted applications to the applicant with an explanation of deficiencies; “(D) notify all accepted applicants of the projects included on the funding priority list no later than 180 days after the application deadline has passed pursuant to subparagraph (A); and “(E) distribute funds to successful applicants. “(d) Emergency or Disaster Project Applications.—“(1) In general.—Notwithstanding subsection (c)(6), an eligible applicant may submit an emergency or disaster project application at any time during the fiscal year. “(2) Consideration as priority.—The Secretary shall—“(A) consider project applications submitted under paragraph (1) to be a priority; and “(B) fund the project applications in accordance with paragraph (3). “(3) Funding.—“(A) In general.—If an eligible applicant submits an application for a project under this subsection before the issuance of the list under subsection (c)(5) and the project is determined to be eligible for program funds, the Secretary of the Interior shall provide funding for the project before providing funding for other approved projects on the list. “(B) Submission after issuance of list.—If an eligible applicant submits an application under this subsection after the issuance of the list under subsection (c)(5) and the distribution of program funds in accordance with the list, the Secretary of the Interior shall provide funding for the project on the date on which unobligated funds provided to projects on the list are returned to the Department of the Interior. “(C) Effect on other projects.—If the Secretary of the Interior uses funding previously designated for a project on the list to fund an emergency or disaster project under this subsection, the project on the list that did not receive funding as a result of the redesignation of funds shall move to the top of the list the following year. “(4) Emergency or disaster project cost.—The cost of a project submitted as an emergency or disaster under this subsection shall be at least 10 percent of the distribution of funds of the Indian tribe under [section 202(b) of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section202/b&num=0&edition=prelim), United States Code. “(e) Limitation on Use of Funds.—Program funds shall not be used for—“(1) transportation planning; “(2) research; “(3) routine maintenance activities; “(4) structures and erosion protection unrelated to transportation and roadways; “(5) general reservation planning not involving transportation; “(6) landscaping and irrigation systems not involving transportation programs and projects; “(7) work performed on projects that are not included on a transportation improvement program approved by the Federal Highway Administration, unless otherwise authorized by the Secretary of the Interior and the Secretary; “(8) the purchase of equipment unless otherwise authorized by Federal law; or “(9) the condemnation of land for recreational trails. “(f) Limitation on Project Amounts.—Project funding shall be limited to a maximum of $1,000,000 per application, except that funding for disaster or emergency projects shall also be limited to the estimated cost of repairing damage to the tribal transportation facility. “(g) Cost Estimate Certification.—All cost estimates prepared for a project shall be required to be submitted by the applicant to the Secretary of the Interior and the Secretary for certification and approval. “(h) Authorization of Appropriations.—“(1) In general.—There is authorized to be appropriated $30,000,000 out of the general fund of the Treasury to carry out the program for each of fiscal years 2013 through 2015 and $5,327,869 out of the general fund of the Treasury to carry out the program for the period beginning on October 1, 2015, and ending on December 4, 2015. “(2) Administration.—The funds made available under paragraph (1) shall be administered in the same manner as funds made available for the tribal transportation program under [section 202 of title 23](./chapter-002-other-highways.md#section-202), United States Code, except that—“(A) the funds made available for the program shall remain available until September 30 of the third fiscal year after the year appropriated; and “(B) the Federal share of the cost of a project shall be 100 percent.”
+Pub. L. 112–141, div. A, title I, § 1123, July 6, 2012, 126 Stat. 497, as amended by Pub. L. 113–159, title I, § 1001(b)(2), Aug. 8, 2014, 128 Stat. 1840; Pub. L. 114–21, title I, § 1001(b)(2), May 29, 2015, 129 Stat. 219; Pub. L. 114–41, title I, § 1001(b)(2), July 31, 2015, 129 Stat. 444; Pub. L. 114–73, title I, § 1001(b)(2), Oct. 29, 2015, 129 Stat. 569; Pub. L. 114–87, title I, § 1001(b)(2), Nov. 20, 2015, 129 Stat. 678; Pub. L. 117–58, div. A, title I, § 11128, Nov. 15, 2021, 135 Stat. 508, provided that: “(a) Definitions.—In this section:“(1) Emergency or disaster.—The term ‘emergency or disaster’ means damage to a tribal transportation facility that—“(A) renders the tribal transportation facility impassable or unusable; “(B) is caused by—“(i) a natural disaster over a widespread area; or “(ii) a catastrophic failure from an external cause; and “(C) would be eligible under the emergency relief program under [section 125 of title 23](./chapter-001-federal-aid-highways.md#section-125), United States Code, but does not meet the funding thresholds required by that section. “(2) List.—The term ‘list’ means the funding priority list developed under subsection (c)(5). “(3) Program.—The term ‘program’ means the Tribal High Priority Projects program established under subsection (b)(1). “(4) Project.—The term ‘project’ means a project provided funds under the program. “(b) Program.—“(1) In general.—The Secretary [of Transportation] shall use amounts made available under subsection (h) to carry out a Tribal High Priority Projects program under which funds shall be provided to eligible applicants in accordance with this section. “(2) Eligible applicants.—Applicants eligible for program funds under this section include—“(A) an Indian tribe whose annual allocation of funding under [section 202 of title 23](./chapter-002-other-highways.md#section-202), United States Code, is insufficient to complete the highest priority project of the Indian tribe; “(B) a governmental subdivision of an Indian tribe—“(i) that is authorized to administer the funding of the Indian tribe under [section 202 of title 23](./chapter-002-other-highways.md#section-202), United States Code; and “(ii) for which the annual allocation under that section is insufficient to complete the highest priority project of the Indian tribe; or “(C) any Indian tribe that has an emergency or disaster with respect to a transportation facility included on the national inventory of tribal transportation facilities under [section 202(b)(1) of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section202/b/1&num=0&edition=prelim), United States Code. “(c) Project Applications; Funding.—“(1) In general.—To apply for funds under this section, an eligible applicant shall submit to the Department of the Interior or the Department [of Transportation] an application that includes—“(A) project scope of work, including deliverables, budget, and timeline; “(B) the amount of funds requested; “(C) project information addressing—“(i) the ranking criteria identified in paragraph (3); or “(ii) the nature of the emergency or disaster; “(D) documentation that the project meets the definition of a tribal transportation facility and is included in the national inventory of tribal transportation facilities under [section 202(b)(1) of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section202/b/1&num=0&edition=prelim), United States Code; “(E) documentation of official tribal action requesting the project; “(F) documentation from the Indian tribe providing authority for the Secretary of the Interior to place the project on a transportation improvement program if the project is selected and approved; and “(G) any other information the Secretary of the Interior or Secretary considers appropriate to make a determination. “(2) Limitation on applications.—An applicant for funds under the program may only have 1 application for assistance under this section pending at any 1 time, including any emergency or disaster application. “(3) Application ranking.—“(A) In general.—The Secretary of the Interior and the Secretary shall determine the eligibility of, and fund, program applications, subject to the availability of funds. “(B) Ranking criteria.—The project ranking criteria for applications under this section shall include—“(i) the existence of safety hazards with documented fatality and injury accidents; “(ii) the number of years since the Indian tribe last completed a construction project funded by [section 202 of title 23](./chapter-002-other-highways.md#section-202), United States Code; “(iii) the readiness of the Indian tribe to proceed to construction or bridge design need; “(iv) the percentage of project costs matched by funds that are not provided under [section 202 of title 23](./chapter-002-other-highways.md#section-202), United States Code, with projects with a greater percentage of other sources of matching funds ranked ahead of lesser matches); “(v) the amount of funds requested, with requests for lesser amounts given greater priority; “(vi) the challenges caused by geographic isolation; and “(vii) all weather access for employment, commerce, health, safety, educational resources, or housing. “(4) Project scoring matrix.—The project scoring matrix established in the appendix to part 170 of title 25, Code of Regulations (as in effect on the date of enactment of this Act [see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101)]) shall be used to rank all applications accepted under this section. “(5) Funding priority list.—“(A) In general.—The Secretary of the Interior and the Secretary shall jointly produce a funding priority list that ranks the projects approved for funding under the program. “(B) Limitation.—The number of projects on the list shall be limited by the amount of funding made available. “(6) Timeline.—The Secretary of the Interior and the Secretary shall—“(A) require applications for funding no sooner than 60 days after funding is made available pursuant to subsection (a); “(B) notify all applicants and Regions in writing of acceptance of applications; “(C) rank all accepted applications in accordance with the project scoring matrix, develop the funding priority list, and return unaccepted applications to the applicant with an explanation of deficiencies; “(D) notify all accepted applicants of the projects included on the funding priority list no later than 180 days after the application deadline has passed pursuant to subparagraph (A); and “(E) distribute funds to successful applicants. “(d) Emergency or Disaster Project Applications.—“(1) In general.—Notwithstanding subsection (c)(6), an eligible applicant may submit an emergency or disaster project application at any time during the fiscal year. “(2) Consideration as priority.—The Secretary shall—“(A) consider project applications submitted under paragraph (1) to be a priority; and “(B) fund the project applications in accordance with paragraph (3). “(3) Funding.—“(A) In general.—If an eligible applicant submits an application for a project under this subsection before the issuance of the list under subsection (c)(5) and the project is determined to be eligible for program funds, the Secretary of the Interior shall provide funding for the project before providing funding for other approved projects on the list. “(B) Submission after issuance of list.—If an eligible applicant submits an application under this subsection after the issuance of the list under subsection (c)(5) and the distribution of program funds in accordance with the list, the Secretary of the Interior shall provide funding for the project on the date on which unobligated funds provided to projects on the list are returned to the Department of the Interior. “(C) Effect on other projects.—If the Secretary of the Interior uses funding previously designated for a project on the list to fund an emergency or disaster project under this subsection, the project on the list that did not receive funding as a result of the redesignation of funds shall move to the top of the list the following year. “(4) Emergency or disaster project cost.—The cost of a project submitted as an emergency or disaster under this subsection shall be at least 10 percent of the distribution of funds of the Indian tribe under [section 202(b) of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section202/b&num=0&edition=prelim), United States Code. “(e) Limitation on Use of Funds.—Program funds shall not be used for—“(1) transportation planning; “(2) research; “(3) routine maintenance activities; “(4) structures and erosion protection unrelated to transportation and roadways; “(5) general reservation planning not involving transportation; “(6) landscaping and irrigation systems not involving transportation programs and projects; “(7) work performed on projects that are not included on a transportation improvement program approved by the Federal Highway Administration, unless otherwise authorized by the Secretary of the Interior and the Secretary; “(8) the purchase of equipment unless otherwise authorized by Federal law; or “(9) the condemnation of land for recreational trails. “(f) Limitation on Project Amounts.—Project funding shall be limited to a maximum of $1,000,000 per application, except that funding for disaster or emergency projects shall also be limited to the estimated cost of repairing damage to the tribal transportation facility. “(g) Cost Estimate Certification.—All cost estimates prepared for a project shall be required to be submitted by the applicant to the Secretary of the Interior and the Secretary for certification and approval. “(h) Funding.—“(1) Set-aside.—For each of fiscal years 2022 through 2026, of the amounts made available to carry out the tribal transportation program under [section 202 of title 23](./chapter-002-other-highways.md#section-202), United States Code, for that fiscal year, the Secretary shall use $9,000,000 to carry out the program. “(2) Authorization of appropriations.—In addition to amounts made available under paragraph (1), there is authorized to be appropriated $30,000,000 out of the general fund of the Treasury to carry out the program for each of fiscal years 2022 through 2026. “(3) Administration.—The funds made available under paragraphs (1) and (2) shall be administered in the same manner as funds made available for the tribal transportation program under [section 202 of title 23](./chapter-002-other-highways.md#section-202), United States Code, except that—“(A) the funds made available for the program shall remain available until September 30 of the third fiscal year after the year appropriated; and “(B) the Federal share of the cost of a project shall be 100 percent.”
 
 #### Additional Authorization of Contract Authority for States With Indian Reservations
 Pub. L. 105–178, title I, § 1214(d), June 9, 1998, 112 Stat. 205, as amended by Pub. L. 109–59, title I, § 1806, Aug. 10, 2005, 119 Stat. 1460, provided that: “(1) Availability to states.—Not later than October 1 of each fiscal year, funds made available under paragraph (5) for the fiscal year shall be made available by the Secretary, in equal amounts, to each State that has within the boundaries of the State all or part of an Indian reservation having a land area of 10,000,000 acres or more. “(2) Availability to eligible counties.—“(A) In general.—Each fiscal year, each county that is located in a State to which funds are made available under paragraph (1), and that has in the county a public road described in subparagraph (B), shall be eligible to apply to the State for all or a portion of the funds made available to the State under this subsection to be used by the county to maintain such roads. “(B) Roads.—A public road referred to in subparagraph (A) is a public road that—“(i) is within, adjacent to, or provides access to an Indian reservation described in paragraph (1); “(ii) is used by a school bus to transport children to or from a school or Headstart program carried out under the Head Start Act ([42 U.S.C. 9831](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9831&num=0&edition=prelim) et seq.); and “(iii) is maintained by the county in which the public road is located. “(C) Allocation among eligible counties.—“(i) In general.—Except as provided in clause (ii), each State that receives funds under paragraph (1) shall provide directly to each county that applies for funds the amount that the county requests in the application. “(ii) Allocation among eligible counties.—If the total amount of funds applied for under this subsection by eligible counties in a State exceeds the amount of funds available to the State, the State shall equitably allocate the funds among the eligible counties that apply for funds. “(3) Supplementary funding.—For each fiscal year, the Secretary shall ensure that funding made available under this subsection supplements (and does not supplant)—“(A) any obligation of funds by the Bureau of Indian Affairs for road maintenance programs on Indian reservations; and “(B) any funding provided by a State to a county for road maintenance programs in the county. “(4) Use of unallocated funds.—Any portion of the funds made available to a State under this subsection that is not made available to counties within 1 year after the funds are made available to the State shall be apportioned among the States in accordance with [section 104(b) of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section104/b&num=0&edition=prelim), United States Code. “(5) Funding.—“(A) In general.—There is authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) to carry out this subsection $1,800,000 for each of fiscal years 2005 through 2009. “(B) Contract authority.—Funds authorized by this subsection shall be available for obligation in the same manner as if the funds were apportioned under chapter 1 of title 23, United States Code.”
@@ -466,6 +548,9 @@ Pub. L. 105–178, title I, § 1214(d), June 9, 1998, 112 Stat. 205, as amended 
 Pub. L. 102–240, title I, § 1032(d), Dec. 18, 1991, 105 Stat. 1975, provided that: “Notwithstanding any other provision of law, funds allocated for Indian reservation roads may be used for the purpose of funding road projects on roads of tribally controlled postsecondary vocational institutions.”
 
 Pub. L. 102–240, title I, § 1042, Dec. 18, 1991, 105 Stat. 1993, directed Secretary of Transportation to conduct a study on funding needs for Indian reservation roads and to report to Congress on results of the study not later than one year after Dec. 18, 1991, prior to repeal by Pub. L. 105–362, title XV, § 1501(c), Nov. 10, 1998, 112 Stat. 3294.
+
+#### Definition of Secretary
+Pub. L. 117–58, div. A, title IV, § 14001, Nov. 15, 2021, 135 Stat. 646, provided that: “In this title [amending this section and [section 102 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section102&num=0&edition=prelim), Transportation, and enacting provisions set out as notes under this section], the term ‘Secretary’ means the Secretary of the Interior.”
 
 
 <a id="section-203"></a>
@@ -498,7 +583,7 @@ Pub. L. 102–240, title I, § 1042, Dec. 18, 1991, 105 Stat. 1993, directed Sec
 
   (C) any transportation project eligible for assistance under this title that is on a public road within or adjacent to, or that provides access to, Federal lands open to the public; and
 
-  (D) not more $10,000,000 of the amounts made available per fiscal year to carry out this section for activities eligible under subparagraph (A)(iv)(I).
+  (D) not more $20,000,000 11 So in original. of the amounts made available per fiscal year to carry out this section for activities eligible under subparagraph (A)(iv)(I).
 
 (2) **Contract.—** — In connection with an activity described in paragraph (1), the Secretary and the Secretary of the appropriate Federal land management agency may enter into a contract or other appropriate agreement with respect to the activity with—
 
@@ -519,6 +604,12 @@ Pub. L. 102–240, title I, § 1042, Dec. 18, 1991, 105 Stat. 1993, directed Sec
   (A) *In general.—* — Subject to subparagraph (B), construction of each project shall be performed by contract awarded by competitive bidding.
 
   (B) *Exception.—* — Subparagraph (A) shall not apply if the Secretary or the Secretary of the appropriate Federal land management agency affirmatively finds that, under the circumstances relating to the project, a different method is in the public interest.
+
+(6) **Native plant materials.—** — In carrying out an activity described in paragraph (1), the entity carrying out the activity shall consider, to the maximum extent practicable—
+
+  (A) the use of locally adapted native plant materials; and
+
+  (B) designs that minimize runoff and heat generation.
 
 **(b) Agency Program Distributions.—**
 
@@ -592,15 +683,59 @@ Pub. L. 102–240, title I, § 1042, Dec. 18, 1991, 105 Stat. 1993, directed Sec
 
 **(d) Bicycle Safety.—** The Secretary of the appropriate Federal land management agency shall prohibit the use of bicycles on each federally owned road that has a speed limit of 30 miles per hour or greater and an adjacent paved path for use by bicycles within 100 yards of the road unless the Secretary determines that the bicycle level of service on that roadway is rated B or higher.
 
+**(e) Efficient Implementation of NEPA.—**
+
+(1) **Definitions.—** — In this subsection:
+
+  (A) *Environmental document.—* — The term “environmental document” means an environmental impact statement, environmental assessment, categorical exclusion, or other document prepared under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.).
+
+  (B) *Project.—* — The term “project” means a highway project, public transportation capital project, or multimodal project that—
+
+    (i) receives funds under this title; and
+
+    (ii) is authorized under this section or section 204.
+
+  (C) *Project sponsor.—* — The term “project sponsor” means the Federal land management agency that seeks or receives funds under this title for a project.
+
+(2) **Environmental review to be completed by federal highway administration.—** — The Federal Highway Administration may prepare an environmental document pursuant to the implementing procedures of the Federal Highway Administration to comply with the requirements of the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.) if—
+
+  (A) requested by a project sponsor; and
+
+  (B) all areas of analysis required by the project sponsor can be addressed.
+
+(3) **Federal land management agencies adoption of existing environmental review documents.—**
+
+  (A) *In general.—* — To the maximum extent practicable, if the Federal Highway Administration prepares an environmental document pursuant to paragraph (2), that environmental document shall address all areas of analysis required by a Federal land management agency.
+
+  (B) *Independent evaluation.—* — Notwithstanding any other provision of law, a Federal land management agency shall not be required to conduct an independent evaluation to determine the adequacy of an environmental document prepared by the Federal Highway Administration pursuant to paragraph (2).
+
+  (C) *Use of same document.—* — In authorizing or implementing a project, a Federal land management agency may use an environmental document previously prepared by the Federal Highway Administration for a project addressing the same or substantially the same action to the same extent that the Federal land management agency could adopt or use a document previously prepared by another Federal agency.
+
+(4) **Application by federal land management agencies of categorical exclusions established by federal highway administration.—** — In carrying out requirements under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.) for a project, the project sponsor may use categorical exclusions designated under that Act in the implementing regulations of the Federal Highway Administration, subject to the conditions that—
+
+  (A) the project sponsor makes a determination, in consultation with the Federal Highway Administration, that the categorical exclusion applies to the project;
+
+  (B) the project satisfies the conditions for a categorical exclusion under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.); and
+
+  (C) the use of the categorical exclusion does not otherwise conflict with the implementing regulations of the project sponsor, except any list of the project sponsor that designates categorical exclusions.
+
+(5) **Mitigation commitments.—** — The Secretary shall assist the Federal land management agency with all design and mitigation commitments made jointly by the Secretary and the project sponsor in any environmental document prepared by the Secretary in accordance with this subsection.
+
 ### Statutory Notes
 
 #### References in Text
-The National Environmental Policy Act of 1969, referred to in subsec. (c)(5), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsecs. (c)(5) and (e), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 203, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 906; Pub. L. 86–657, § 8(b), July 14, 1960, 74 Stat. 524; Pub. L. 87–866, § 7, Oct. 23, 1962, 76 Stat. 1147; Pub. L. 94–280, title I, § 117(b), May 5, 1976, 90 Stat. 437; Pub. L. 97–424, title I, § 126(f), Jan. 6, 1983, 96 Stat. 2116; Pub. L. 102–240, title I, § 1032(f), Dec. 18, 1991, 105 Stat. 1975; Pub. L. 105–178, title I, § 1115(c), (e)(3), June 9, 1998, 112 Stat. 156, 158, related to availability of funds, prior to repeal by Pub. L. 112–141, div. A, title I, § 1119(a), July 6, 2012, 126 Stat. 473.
 
 #### Amendments
+2021—Subsec. (a)(1)(D). Pub. L. 117–58, § 11112(1), substituted “$20,000,000” for “$10,000,000”.
+
+Subsec. (a)(6). Pub. L. 117–58, § 11112(2), added par. (6).
+
+Subsec. (e). Pub. L. 117–58, § 11311, added subsec. (e).
+
 2015—Subsec. (a)(1)(B). Pub. L. 114–94, § 1119(1)(A), substituted “capital, operations,” for “operation”.
 
 Subsec. (a)(1)(D). Pub. L. 114–94, § 1119(1)(B), substituted “subparagraph (A)(iv)(I)” for “subparagraph (A)(iv)”.
@@ -612,6 +747,9 @@ Subsec. (b)(2)(B). Pub. L. 114–94, § 1119(2)(B)(i), inserted “performance m
 Subsec. (b)(2)(B)(i)(II). Pub. L. 114–94, § 1119(2)(B)(ii), substituted “; and” for “, and”.
 
 Subsec. (c)(2)(B)(vi). Pub. L. 114–94, § 1119(3), added cl. (vi).
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as a note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).
 
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
@@ -626,9 +764,9 @@ Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out a
 
 (1) **In general.—** — Funds made available under the Federal lands access program shall be used by the Secretary of Transportation and the Secretary of the appropriate Federal land management agency to pay the cost of—
 
-  (A) transportation planning, research, engineering, preventive maintenance, rehabilitation, restoration, construction, and reconstruction of Federal lands access transportation facilities located on or adjacent to, or that provide access to, Federal land, and—
+  (A) transportation planning, research, engineering, preventive maintenance, rehabilitation, restoration, context-sensitive solutions, construction, and reconstruction of Federal lands access transportation facilities located on or adjacent to, or that provide access to, Federal land, and—
 
-    (i) adjacent vehicular parking areas;
+    (i) adjacent vehicular parking areas, including interpretive panels in or adjacent to those areas;
 
     (ii) acquisition of necessary scenic easements and scenic or historic sites;
 
@@ -636,9 +774,15 @@ Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out a
 
     (iv) environmental mitigation in or adjacent to Federal land to improve public safety and reduce vehicle-caused wildlife mortality while maintaining habitat connectivity;
 
-    (v) construction and reconstruction of roadside rest areas, including sanitary and water facilities; and
+    (v) construction and reconstruction of roadside rest areas, including sanitary and water facilities;
 
-    (vi) other appropriate public road facilities, as determined by the Secretary;
+    (vi) contextual wayfinding markers;
+
+    (vii) landscaping;
+
+    (viii) cooperative mitigation of visual blight, including screening or removal; and
+
+    (ix) other appropriate public road facilities, as determined by the Secretary;
 
   (B) operation and maintenance of transit facilities; and
 
@@ -663,6 +807,12 @@ Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out a
   (A) *In general.—* — Subject to subparagraph (B), construction of each project shall be performed by contract awarded by competitive bidding.
 
   (B) *Exception.—* — Subparagraph (A) shall not apply if the Secretary or the Secretary of the appropriate Federal land management agency affirmatively finds that, under the circumstances relating to the project, a different method is in the public interest.
+
+(6) **Native plant materials.—** — In carrying out an activity described in paragraph (1), the Secretary shall ensure that the entity carrying out the activity considers, to the maximum extent practicable—
+
+  (A) the use of locally adapted native plant materials; and
+
+  (B) designs that minimize runoff and heat generation.
 
 **(b) Program Distributions.—**
 
@@ -750,6 +900,18 @@ Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out a
 
 #### Prior Provisions
 A prior section 204, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 907; Pub. L. 97–424, title I, § 126(b), Jan. 6, 1983, 96 Stat. 2114; Pub. L. 100–17, title I, § 133(b)(13), (14), Apr. 2, 1987, 101 Stat. 172; Pub. L. 102–240, title I, §§ 1030, 1032(b), title VI, § 6004(c), Dec. 18, 1991, 105 Stat. 1970, 1974, 2169; Pub. L. 105–178, title I, § 1115(d), (e)(4), title V, § 5119(a), June 9, 1998, 112 Stat. 156, 158, 452; Pub. L. 109–59, title I, § 1119(h)–(k), Aug. 10, 2005, 119 Stat. 1187–1189, related to Federal lands highways program, prior to repeal by Pub. L. 112–141, div. A, title I, § 1119(a), July 6, 2012, 126 Stat. 473.
+
+#### Amendments
+2021—Subsec. (a)(1)(A). Pub. L. 117–58, § 11113(b)(1)(A), inserted “context-sensitive solutions,” after “restoration,” in introductory provisions.
+
+Subsec. (a)(1)(A)(i). Pub. L. 117–58, § 11113(b)(1)(B), inserted “, including interpretive panels in or adjacent to those areas” after “areas”.
+
+Subsec. (a)(1)(A)(vi) to (ix). Pub. L. 117–58, § 11113(b)(1)(C)–(E), added cls. (vi) to (viii) and redesignated former cl. (vi) as (ix).
+
+Subsec. (a)(6). Pub. L. 117–58, § 11113(b)(2), added par. (6).
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as a note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).
 
 #### Effective Date
 Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).
@@ -848,7 +1010,7 @@ Amendment by Pub. L. 90–495 effective Aug. 23, 1968, see section 37 of Pub. L.
 
   (F) assessment of trail conditions for accessibility and maintenance;
 
-  (G) development and dissemination of publications and operation of educational programs to promote safety and environmental protection, (as those objectives relate to one or more of the use of recreational trails, supporting non-law enforcement trail safety and trail use monitoring patrol programs, and providing trail-related training), but in an amount not to exceed 5 percent of the apportionment made to the State for the fiscal year; and
+  (G) development and dissemination of publications and operation of educational programs to promote safety and environmental protection, (as those objectives relate to one or more of the uses of recreational trails, supporting non-law enforcement trail safety and trail use monitoring patrol programs, and providing trail-related training), but in an amount not to exceed 5 percent of the apportionment made to the State for the fiscal year; and
 
   (H) payment of costs to the State incurred in administering the program, but in an amount not to exceed 7 percent of the apportionment made to the State for the fiscal year.
 
@@ -938,6 +1100,8 @@ Amendment by Pub. L. 90–495 effective Aug. 23, 1968, see section 37 of Pub. L.
 
 **(i) Contract Authority.—** Funds authorized to carry out this section shall be available for obligation in the same manner as if the funds were apportioned under chapter 1, except that the Federal share of the cost of a project under this section shall be determined in accordance with this section.
 
+**(j) Use of Other Apportioned Funds.—** Funds apportioned to a State under section 104(b) that are obligated for a recreational trail or a related project shall be administered as if the funds were made available to carry out this section.
+
 ### Statutory Notes
 
 #### References in Text
@@ -951,6 +1115,10 @@ The Federal Land Policy and Management Act of 1976, referred to in subsec. (d)(2
 A prior section 206, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 908, provided for use of funds for construction and improvement of park roads and trails and for administration of such funds according to regulations jointly approved by the Secretary and the Secretary of the Interior, prior to repeal by Pub. L. 97–424, title I, § 126(d), Jan. 6, 1983, 96 Stat. 2115.
 
 #### Amendments
+2021—Subsec. (d)(2)(G). Pub. L. 117–58, § 11525(n), substituted “uses of recreational trails” for “use of recreational trails”.
+
+Subsec. (j). Pub. L. 117–58, § 11134, added subsec. (j).
+
 2014—Subsec. (d)(1)(B). Pub. L. 113–287, § 5(f)(3)(A), substituted “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–4 et seq.)”.
 
 Subsec. (d)(2)(D)(ii). Pub. L. 113–287, § 5(f)(3)(B), substituted “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–4 et seq.)”.
@@ -972,6 +1140,12 @@ Subsec. (f)(2)(B). Pub. L. 109–59, § 1109(d)(3), inserted “sponsoring the p
 Subsec. (f)(4), (5). Pub. L. 109–59, § 1109(d)(4)–(7), added par. (4), redesignated former par. (4) as (5), substituted “the Federal share as determined in accordance with section 120(b)” for “80 percent”, and struck out heading and text of former par. (5). Text read as follows: “The Federal share of the administrative costs of a State under this subsection shall be determined in accordance with section 120(b).”
 
 Subsec. (h)(1)(C). Pub. L. 109–59, § 1109(e), added subpar. (C).
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as a note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).
+
+#### Nonhighway Recreational Fuel Study
+Pub. L. 117–58, div. A, title I, § 11512, Nov. 15, 2021, 135 Stat. 594, provided that: “(a) Definitions.—In this section:“(1) Highway trust fund.—The term ‘Highway Trust Fund’ means the Highway Trust Fund established by section 9503(a) of the Internal Revenue Code of 1986 [[26 U.S.C. 9503(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9503/a&num=0&edition=prelim)]. “(2) Nonhighway recreational fuel taxes.—The term ‘nonhighway recreational fuel taxes’ means taxes under section[s] 4041 and 4081 of the Internal Revenue Code of 1986 [[26 U.S.C. 4041](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section4041&num=0&edition=prelim), 4081] with respect to fuel used in vehicles on recreational trails or back country terrain (including vehicles registered for highway use when used on recreational trails, trail access roads not eligible for funding under title 23, United States Code, or back country terrain). “(3) Recreational trails program.—The term ‘recreational trails program’ means the recreational trails program under [section 206 of title 23](./chapter-002-other-highways.md#section-206), United States Code. “(b) Assessment; Report.—“(1) Assessment.—Not later than 1 year after the date of enactment of this Act [Nov. 15, 2021] and not less frequently than once every 5 years thereafter, as determined by the Secretary [of Transportation], the Secretary shall carry out an assessment of the best available estimate of the total amount of nonhighway recreational fuel taxes received by the Secretary of the Treasury and transferred to the Highway Trust Fund for the period covered by the assessment. “(2) Report.—After carrying out each assessment under paragraph (1), the Secretary shall submit to the Committees on Finance and Environment and Public Works of the Senate and the Committees on Ways and Means and Transportation and Infrastructure of the House of Representatives a report that includes—“(A) to assist Congress in determining an appropriate funding level for the recreational trails program—“(i) a description of the results of the assessment; and “(ii) an evaluation of whether the current recreational trails program funding level reflects the amount of nonhighway recreational fuel taxes collected and transferred to the Highway Trust Fund; and “(B) in the case of the first report submitted under this paragraph, an estimate of the frequency with which the Secretary anticipates carrying out the assessment under paragraph (1), subject to the condition that such an assessment shall be carried out not less frequently than once every 5 years. “(c) Consultation.—In carrying out an assessment under subsection (b)(1), the Secretary may consult with, as the Secretary determines to be appropriate—“(1) the heads of—“(A) State agencies designated by Governors pursuant to [section 206(c)(1) of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section206/c/1&num=0&edition=prelim), United States Code, to administer the recreational trails program; and “(B) division offices of the Department [of Transportation]; “(2) the Secretary of the Treasury; “(3) the Administrator of the Federal Highway Administration; and “(4) groups representing recreational activities and interests, including hiking, biking and mountain biking, horseback riding, water trails, snowshoeing, cross-country skiing, snowmobiling, off-highway motorcycling, all-terrain vehicles and other offroad motorized vehicle activities, and recreational trail advocates.”
 
 #### Use of Youth Service and Conservation Corps
 Pub. L. 112–141, div. A, title I, § 1524, July 6, 2012, 126 Stat. 580, provided that: “(a) In General.—The Secretary shall encourage the States and regional transportation planning agencies to enter into contracts and cooperative agreements with qualified youth service or conservation corps, as defined in sections 122(a)(2) of Public Law 101–610 ([42 U.S.C. 12572(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12572/a/2&num=0&edition=prelim)) and 106(c)(3) of Public Law 103–82 ([42 U.S.C. 12656(c)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12656/c/3&num=0&edition=prelim)) to perform appropriate projects eligible under sections 162, 206, [former] 213, and 217 of title 23, United States Code, and under section 1404 of the SAFETEA–LU (119 Stat. 1228). “(b) Requirements.—Under any contract or cooperative agreement entered into with a qualified youth service or conservation corps under this section, the Secretary shall—“(1) set the amount of a living allowance or rate of pay for each participant in such corps at—“(A) such amount or rate as required under State law in a State with such requirements; or “(B) for corps in States not described in subparagraph (A), at such amount or rate as determined by the Secretary, not to exceed the maximum living allowance authorized by section 140 of Public Law 101–610 ([42 U.S.C. 12594](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12594&num=0&edition=prelim)); and “(2) not subject such corps to the requirements of [section 112 of title 23](./chapter-001-federal-aid-highways.md#section-112), United States Code.”
@@ -1165,7 +1339,7 @@ Pub. L. 105–178, title I, § 1112(e), June 9, 1998, 112 Stat. 151.
 
   (E) *Burden of proof.—* — In any hearing or appeal involving a decision to terminate a compact or funding agreement (or portion thereof) under this paragraph, the Secretary shall have the burden of proof in demonstrating by clear and convincing evidence the validity of the grounds for the termination.
 
-**(g) Cost Principles.—** In administering funds received under this section, an Indian tribe shall apply cost principles under the applicable Office of Management and Budget circular, except as modified by section 106 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450j–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450j–1&num=0&edition=prelim)),11 See References in Text note below. other provisions of law, or by any exemptions to applicable Office of Management and Budget circulars subsequently granted by the Office of Management and Budget. No other audit or accounting standards shall be required by the Secretary. Any claim by the Federal Government against the Indian tribe relating to funds received under a funding agreement based on any audit conducted pursuant to this subsection shall be subject to the provisions of section 106(f) of that Act ([25 U.S.C. 450j–1(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450j–1/f&num=0&edition=prelim)).1
+**(g) Cost Principles.—** In administering funds received under this section, an Indian tribe shall apply cost principles under the applicable Office of Management and Budget circular, except as modified by section 106 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5325](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5325&num=0&edition=prelim)), other provisions of law, or by any exemptions to applicable Office of Management and Budget circulars subsequently granted by the Office of Management and Budget. No other audit or accounting standards shall be required by the Secretary. Any claim by the Federal Government against the Indian tribe relating to funds received under a funding agreement based on any audit conducted pursuant to this subsection shall be subject to the provisions of section 106(f) of that Act ([25 U.S.C. 5325(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5325/f&num=0&edition=prelim)).
 
 **(h) Transfer of Funds.—** The Secretary shall provide funds to an Indian tribe under a funding agreement in an amount equal to—
 
@@ -1215,23 +1389,23 @@ Pub. L. 105–178, title I, § 1112(e), June 9, 1998, 112 Stat. 151.
 
 **(l) Applicability of Indian Self-Determination and Education Assistance Act.—** Except to the extent in conflict with this section (as determined by the Secretary), the following provisions of the Indian Self-Determination and Education Assistance Act shall apply to compact and funding agreements (except that any reference to the Secretary of the Interior or the Secretary of Health and Human Services in such provisions shall be treated as a reference to the Secretary of Transportation):
 
-(1) Subsections (a), (b), (d), (g), and (h) of section 506 of such Act ([25 U.S.C. 458aaa–5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section458aaa–5&num=0&edition=prelim)),1 relating to general provisions.
+(1) Subsections (a), (b), (d), (g), and (h) of section 506 of such Act ([25 U.S.C. 5386](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5386&num=0&edition=prelim)), relating to general provisions.
 
-(2) Subsections (b) through (e) and (g) of section 507 of such Act ([25 U.S.C. 458aaa–6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section458aaa–6&num=0&edition=prelim)),1 relating to provisions relating to the Secretary of Health and Human Services.
+(2) Subsections (b) through (e) and (g) of section 507 of such Act ([25 U.S.C. 5387](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5387&num=0&edition=prelim)), relating to provisions relating to the Secretary of Health and Human Services.
 
-(3) Subsections (a), (b), (d), (e), (g), (h), (i), and (k) of section 508 of such Act ([25 U.S.C. 458aaa–7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section458aaa–7&num=0&edition=prelim)),1 relating to transfer of funds.
+(3) Subsections (a), (b), (d), (e), (g), (h), (i), and (k) of section 508 of such Act ([25 U.S.C. 5388](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5388&num=0&edition=prelim)), relating to transfer of funds.
 
-(4) Section 510 of such Act ([25 U.S.C. 458aaa–9](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section458aaa–9&num=0&edition=prelim)),1 relating to Federal procurement laws and regulations.
+(4) Section 510 of such Act ([25 U.S.C. 5390](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5390&num=0&edition=prelim)), relating to Federal procurement laws and regulations.
 
-(5) Section 511 of such Act ([25 U.S.C. 458aaa–10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section458aaa–10&num=0&edition=prelim)),1 relating to civil actions.
+(5) Section 511 of such Act ([25 U.S.C. 5391](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5391&num=0&edition=prelim)), relating to civil actions.
 
-(6) Subsections (a)(1), (a)(2), and (c) through (f) of section 512 of such Act ([25 U.S.C. 458aaa–11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section458aaa–11&num=0&edition=prelim)),1 relating to facilitation, except that subsection (c)(1) of that section shall be applied by substituting “transportation facilities and other facilities” for “school buildings, hospitals, and other facilities”.
+(6) Subsections (a)(1), (a)(2), and (c) through (f) of section 512 of such Act ([25 U.S.C. 5392](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5392&num=0&edition=prelim)), relating to facilitation, except that subsection (c)(1) of that section shall be applied by substituting “transportation facilities and other facilities” for “school buildings, hospitals, and other facilities”.
 
-(7) Subsections (a) and (b) of section 515 of such Act ([25 U.S.C. 458aaa–14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section458aaa–14&num=0&edition=prelim)),1 relating to disclaimers.
+(7) Subsections (a) and (b) of section 515 of such Act ([25 U.S.C. 5395](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5395&num=0&edition=prelim)), relating to disclaimers.
 
-(8) Subsections (a) and (b) of section 516 of such Act ([25 U.S.C. 458aaa–15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section458aaa–15&num=0&edition=prelim)),1 relating to application of title I provisions.
+(8) Subsections (a) and (b) of section 516 of such Act ([25 U.S.C. 5396](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5396&num=0&edition=prelim)), relating to application of title I provisions.
 
-(9) Section 518 of such Act ([25 U.S.C. 458aaa–17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section458aaa–17&num=0&edition=prelim)),1 relating to appeals.
+(9) Section 518 of such Act ([25 U.S.C. 5398](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5398&num=0&edition=prelim)), relating to appeals.
 
 **(m) Definitions.—**
 
@@ -1253,7 +1427,7 @@ Pub. L. 105–178, title I, § 1112(e), June 9, 1998, 112 Stat. 151.
 
   (H) *Transportation programs.—* — The term “transportation programs” means all programs administered or financed by the Department under this title and chapter 53 of title 49.
 
-(2) **Applicability of other definitions.—** — In this section, the definitions set forth in sections 4 and 505 1 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim); 458aaa) 1 apply, except as otherwise expressly provided in this section.
+(2) **Applicability of other definitions.—** — In this section, the definitions set forth in sections 4 and 501 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim); 5381) apply, except as otherwise expressly provided in this section.
 
 **(n) Regulations.—**
 
@@ -1286,28 +1460,126 @@ The date of enactment of MAP–21, referred to in subsec. (d)(2)(C)(ii)(II)(aa)(
 
 The date of enactment of the FAST Act, referred to in subsecs. (d)(2)(C)(ii)(II)(bb) and (n)(1)(A), is the date of enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsecs. (g), (l), and (m)(2), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of Title 25. Sections 4, 106, 506 to 508, 510 to 512, 515, 516, and 518 of the Act were classified to sections 450b, 450j–1, 458aaa–5 to 458aaa–7, 458aaa–9 to 458aaa–11, 458aaa–14, 458aaa–15, and 458aaa–17, respectively, of Title 25, prior to editorial reclassification as sections 5304, 5325, 5386 to 5388, 5390 to 5392, 5395, 5396, and 5398, respectively, of Title 25. Section 505 of the Act probably should be a reference to section 501 of the Act, which defines terms and was classified to [section 458aaa of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section458aaa&num=0&edition=prelim) prior to editorial reclassification as [section 5381 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5381&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (l), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 207, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 908; Pub. L. 93–87, title I, § 150, Aug. 13, 1973, 87 Stat. 275, provided for use of funds for construction and improvement of parkways, including acquisition of rights-of-way and related scenic easements, administration of such funds according to regulations jointly approved by the Secretary and the Secretary of the Interior, and that parkway projects on a Federal-aid system be subject to all requirements of this title and of any other law applicable to highways on such system, prior to repeal by Pub. L. 97–424, title I, § 126(d), Jan. 6, 1983, 96 Stat. 2115.
 
 #### Amendments
+2021—Subsec. (g). Pub. L. 117–58, § 11525(o)(1), substituted “([25 U.S.C. 5325](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5325&num=0&edition=prelim))” for “([25 U.S.C. 450j–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450j–1&num=0&edition=prelim))” and “([25 U.S.C. 5325(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5325/f&num=0&edition=prelim))” for “([25 U.S.C. 450j–1(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450j–1/f&num=0&edition=prelim))”.
+
+Subsec. (l)(1). Pub. L. 117–58, § 11525(o(2)(A), substituted “([25 U.S.C. 5386](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5386&num=0&edition=prelim))” for “([25 U.S.C. 458aaa–5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section458aaa–5&num=0&edition=prelim))”.
+
+Subsec. (l)(2). Pub. L. 117–58, § 11525(o)(2)(B), substituted “([25 U.S.C. 5387](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5387&num=0&edition=prelim))” for “([25 U.S.C. 458aaa–6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section458aaa–6&num=0&edition=prelim))”.
+
+Subsec. (l)(3). Pub. L. 117–58, § 11525(o)(2)(C), substituted “([25 U.S.C. 5388](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5388&num=0&edition=prelim))” for “([25 U.S.C. 458aaa–7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section458aaa–7&num=0&edition=prelim))”.
+
+Subsec. (l)(4). Pub. L. 117–58, § 11525(o)(2)(D), substituted “([25 U.S.C. 5390](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5390&num=0&edition=prelim))” for “([25 U.S.C. 458aaa–9](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section458aaa–9&num=0&edition=prelim))”.
+
+Subsec. (l)(5). Pub. L. 117–58, § 11525(o)(2)(E), substituted “([25 U.S.C. 5391](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5391&num=0&edition=prelim))” for “([25 U.S.C. 458aaa–10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section458aaa–10&num=0&edition=prelim))”.
+
+Subsec. (l)(6). Pub. L. 117–58, § 11525(o)(2)(F), substituted “([25 U.S.C. 5392](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5392&num=0&edition=prelim))” for “([25 U.S.C. 458aaa–11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section458aaa–11&num=0&edition=prelim))”.
+
+Subsec. (l)(7). Pub. L. 117–58, § 11525(o)(2)(G), substituted “([25 U.S.C. 5395](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5395&num=0&edition=prelim))” for “([25 U.S.C. 458aaa–14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section458aaa–14&num=0&edition=prelim))”.
+
+Subsec. (l)(8). Pub. L. 117–58, § 11525(o)(2)(H), substituted “([25 U.S.C. 5396](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5396&num=0&edition=prelim))” for “([25 U.S.C. 458aaa–15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section458aaa–15&num=0&edition=prelim))”.
+
+Subsec. (l)(9). Pub. L. 117–58, § 11525(o)(2)(I), substituted “([25 U.S.C. 5398](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5398&num=0&edition=prelim))” for “([25 U.S.C. 458aaa–17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section458aaa–17&num=0&edition=prelim))”.
+
+Subsec. (m)(2). Pub. L. 117–58, § 11525(o)(3), substituted “501” for “505” and “([25 U.S.C. 5304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim); 5381)” for “([25 U.S.C. 450b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim); 458aaa)”.
+
 2018—Subsec. (n)(1)(B). Pub. L. 115–235, § 1(1), substituted “42 months” for “21 months”.
 
 Subsec. (n)(1)(C). Pub. L. 115–235, § 1(2), substituted “48 months” for “30 months”.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as a note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).
 
 #### Effective Date
 Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as an Effective Date of 2015 Amendment note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
 
-<a id="section-208-209"></a>
-## § 208, 209. Repealed. Pub. L. 97–424, title I, § 126(d), Jan. 6, 1983, 96 Stat. 2115]
+<a id="section-208"></a>
+## § 208. Safe routes to school
+**(a) Definitions.—** In this section:
+
+(1) **In the vicinity of schools.—** — The term “in the vicinity of schools”, with respect to a school, means the approximately 2-mile area within bicycling and walking distance of the school.
+
+(2) **Primary, middle, and high schools.—** — The term “primary, middle, and high schools” means schools providing education from kindergarten through 12th grade.
+
+**(b) Establishment.—** Subject to the requirements of this section, the Secretary shall establish and carry out a safe routes to school program for the benefit of children in primary, middle, and high schools.
+
+**(c) Purposes.—** The purposes of the program established under subsection (b) shall be—
+
+(1) to enable and encourage children, including those with disabilities, to walk and bicycle to school;
+
+(2) to make bicycling and walking to school a safer and more appealing transportation alternative, thereby encouraging a healthy and active lifestyle from an early age; and
+
+(3) to facilitate the planning, development, and implementation of projects and activities that will improve safety and reduce traffic, fuel consumption, and air pollution in the vicinity of schools.
+
+**(d) Apportionment of Funds.—**
+
+(1) **In general.—** — Subject to paragraphs (2), (3), and (4), amounts made available to carry out this section for a fiscal year shall be apportioned among the States so that each State receives the amount equal to the proportion that—
+
+  (A) the total student enrollment in primary, middle, and high schools in each State; bears to
+
+  (B) the total student enrollment in primary, middle, and high schools in all States.
+
+(2) **Minimum apportionment.—** — No State shall receive an apportionment under this section for a fiscal year of less than $1,000,000.
+
+(3) **Set-aside for administrative expenses.—** — Before apportioning under this subsection amounts made available to carry out this section for a fiscal year, the Secretary shall set aside not more than $3,000,000 of those amounts for the administrative expenses of the Secretary in carrying out this section.
+
+(4) **Determination of student enrollments.—** — Determinations under this subsection relating to student enrollments shall be made by the Secretary.
+
+**(e) Administration of Amounts.—** Amounts apportioned to a State under this section shall be administered by the State department of transportation.
+
+**(f) Eligible Recipients.—** Amounts apportioned to a State under this section shall be used by the State to provide financial assistance to State, local, Tribal, and regional agencies, including nonprofit organizations, that demonstrate an ability to meet the requirements of this section.
+
+**(g) Eligible Projects and Activities.—**
+
+(1) **Infrastructure-related projects.—**
+
+  (A) *In general.—* — Amounts apportioned to a State under this section may be used for the planning, design, and construction of infrastructure-related projects that will substantially improve the ability of students to walk and bicycle to school, including sidewalk improvements, traffic calming and speed reduction improvements, pedestrian and bicycle crossing improvements, on-street bicycle facilities, off-street bicycle and pedestrian facilities, secure bicycle parking facilities, and traffic diversion improvements in the vicinity of schools.
+
+  (B) *Location of projects.—* — Infrastructure-related projects under subparagraph (A) may be carried out on any public road or any bicycle or pedestrian pathway or trail in the vicinity of schools.
+
+(2) **Noninfrastructure-related activities.—**
+
+  (A) *In general.—* — In addition to projects described in paragraph (1), amounts apportioned to a State under this section may be used for noninfrastructure-related activities to encourage walking and bicycling to school, including public awareness campaigns and outreach to press and community leaders, traffic education and enforcement in the vicinity of schools, student sessions on bicycle and pedestrian safety, health, and environment, and funding for training, volunteers, and managers of safe routes to school programs.
+
+  (B) *Allocation.—* — Not less than 10 percent and not more than 30 percent of the amount apportioned to a State under this section for a fiscal year shall be used for noninfrastructure-related activities under this paragraph.
+
+(3) **Safe routes to school coordinator.—** — Each State shall use a sufficient amount of the apportionment of the State for each fiscal year to fund a full-time position of coordinator of the safe routes to school program of the State.
+
+**(h) Clearinghouse.—**
+
+(1) **In general.—** — The Secretary shall make grants to a national nonprofit organization engaged in promoting safe routes to schools—
+
+  (A) to operate a national safe routes to school clearinghouse;
+
+  (B) to develop information and educational programs on safe routes to school; and
+
+  (C) to provide technical assistance and disseminate techniques and strategies used for successful safe routes to school programs.
+
+(2) **Funding.—** — The Secretary shall carry out this subsection using amounts set aside for administrative expenses under subsection (d)(3).
+
+**(i) Treatment of Projects.—** Notwithstanding any other provision of law, a project assisted under this section shall be treated as a project on a Federal-aid highway under chapter 1.
 
 ### Statutory Notes
 
-Section 208, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 908; Pub. L. 87–282, Sept. 22, 1961, 75 Stat. 584; Pub. L. 93–643, § 102(c), Jan. 4, 1975, 88 Stat. 2281, provided for use of funds for construction and improvement of Indian reservation roads and bridges, supervision of such projects by the Secretary, that such funds be only supplementary to funds apportioned under [section 104 of this title](./chapter-001-federal-aid-highways.md#section-104), for use of Indian labor in such projects, and for cooperation with States and localities.
+#### Prior Provisions
+A prior section 208, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 908; Pub. L. 87–282, Sept. 22, 1961, 75 Stat. 584; Pub. L. 93–643, § 102(c), Jan. 4, 1975, 88 Stat. 2281, provided for use of funds for construction and improvement of Indian reservation roads and bridges, supervision of such projects by the Secretary, that such funds be only supplementary to funds apportioned under [section 104 of this title](./chapter-001-federal-aid-highways.md#section-104), for use of Indian labor in such projects, and for cooperation with States and localities, prior to repeal by Pub. L. 97–424, title I, § 126(d), Jan. 6, 1983, 96 Stat. 2115.
 
-Section 209, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 908; Pub. L. 88–423, § 4(b), Aug. 13, 1964, 78 Stat. 397, provided for use of funds for construction and maintenance of public lands highways, cooperation with State agencies, the application of [section 112 of this title](./chapter-001-federal-aid-highways.md#section-112) to public lands highways, and for use of such funds for adjacent ancillary facilities and services.
+#### Effective Date
+Section effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as an Effective Date of 2021 Amendment note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).
+
+
+<a id="section-209"></a>
+## § 209. Repealed. Pub. L. 97–424, title I, § 126(d), Jan. 6, 1983, 96 Stat. 2115]
+
+### Statutory Notes
+
+Section, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 908; Pub. L. 88–423, § 4(b), Aug. 13, 1964, 78 Stat. 397, provided for use of funds for construction and maintenance of public lands highways, cooperation with State agencies, the application of [section 112 of this title](./chapter-001-federal-aid-highways.md#section-112) to public lands highways, and for use of such funds for adjacent ancillary facilities and services.
 
 
 <a id="section-210"></a>
@@ -1476,17 +1748,17 @@ Repeal effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as
 
 <a id="section-217"></a>
 ## § 217. Bicycle transportation and pedestrian walkways
-**(a) Use of STP and Congestion Mitigation Program Funds.—** Subject to project approval by the Secretary, a State may obligate funds apportioned to it under sections 104(b)(2) and 104(b)(4) of this title for construction of pedestrian walkways and bicycle transportation facilities and for carrying out nonconstruction projects related to safe bicycle use.
+**(a) Use of STP and Congestion Mitigation Program Funds.—** Subject to project approval by the Secretary, a State may obligate funds apportioned to it under sections 104(b)(2) and 104(b)(4) of this title for construction of pedestrian walkways and bicycle and shared micromobility transportation facilities and for carrying out nonconstruction projects related to safe access for bicyclists and pedestrians.
 
 **(b) Use of National Highway Performance Program Funds.—** Subject to project approval by the Secretary, a State may obligate funds apportioned to it under [section 104(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section104/b/1&num=0&edition=prelim) for construction of pedestrian walkways and bicycle transportation facilities on land adjacent to any highway on the National Highway System.
 
 **(c) Use of Federal Lands Highway Funds.—** Funds authorized for forest highways, forest development roads and trails, public lands development roads and trails, park roads, parkways, Indian reservation roads, and public lands highways shall be available, at the discretion of the department charged with the administration of such funds, for the construction of pedestrian walkways and bicycle transportation facilities.
 
-**(d) State Bicycle and Pedestrian Coordinators.—** Each State receiving an apportionment under sections 104(b)(2) and 104(b)(3) of this title shall use such amount of the apportionment as may be necessary to fund in the State department of transportation a position of bicycle and pedestrian coordinator for promoting and facilitating the increased use of nonmotorized modes of transportation, including developing facilities for the use of pedestrians and bicyclists and public education, promotional, and safety programs for using such facilities.
+**(d) State Bicycle and Pedestrian Coordinators.—** Each State receiving an apportionment under sections 104(b)(2) and 104(b)(4) of this title shall use such amount of the apportionment as may be necessary to fund in the State department of transportation up to 2 positions of bicycle and pedestrian coordinator for promoting and facilitating the increased use of nonmotorized modes of transportation, including developing facilities for the use of pedestrians and bicyclists and public education, promotional, and safety programs for using such facilities.
 
-**(e) Bridges.—** In any case where a highway bridge deck being replaced or rehabilitated with Federal financial participation is located on a highway on which bicycles are permitted to operate at each end of such bridge, and the Secretary determines that the safe accommodation of bicycles can be provided at reasonable cost as part of such replacement or rehabilitation, then such bridge shall be so replaced or rehabilitated as to provide such safe accommodations.
+**(e) Bridges.—** In any case where a highway bridge deck being replaced or rehabilitated with Federal financial participation is located on a highway on which pedestrians or bicyclists are permitted to operate at each end of such bridge, and the Secretary determines that the safe accommodation of pedestrians or bicyclists can be provided at reasonable cost as part of such replacement or rehabilitation, then such bridge shall be so replaced or rehabilitated as to provide such safe accommodations.
 
-**(f) Federal Share.—** For all purposes of this title, construction of a pedestrian walkway and a bicycle transportation facility shall be deemed to be a highway project and the Federal share payable on account of such construction shall be determined in accordance with section 120(b).
+**(f) Federal Share.—** For all purposes of this title, construction of a pedestrian walkway or a bicycle or shared micromobility transportation facility shall be deemed to be a highway project and the Federal share payable on account of such construction shall be determined in accordance with section 120(b).
 
 **(g) Planning and Design.—**
 
@@ -1512,7 +1784,35 @@ Repeal effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as
 
 (1) **Bicycle transportation facility.—** — The term “bicycle transportation facility” means a new or improved lane, path, or shoulder for use by bicyclists and a traffic control device, shelter, or parking facility for bicycles.
 
-(2) **Electric bicycle.—** — The term “electric bicycle” means any bicycle or tricycle with a low-powered electric motor weighing under 100 pounds, with a top motor-powered speed not in excess of 20 miles per hour.
+(2) **Electric bicycle.—**
+
+  (A) *In general.—* — The term “electric bicycle” means a bicycle—
+
+    (i) equipped with fully operable pedals, a saddle or seat for the rider, and an electric motor of less than 750 watts;
+
+    (ii) that can safely share a bicycle transportation facility with other users of such facility; and
+
+    (iii) that is a class 1 electric bicycle, class 2 electric bicycle, or class 3 electric bicycle.
+
+  (B) *Classes of electric bicycles.—*
+
+    (i) *Class 1 electric bicycle.—* — For purposes of subparagraph (A)(iii), the term “class 1 electric bicycle” means an electric bicycle, other than a class 3 electric bicycle, equipped with a motor that—
+
+      (I) provides assistance only when the rider is pedaling; and
+
+      (II) ceases to provide assistance when the speed of the bicycle reaches or exceeds 20 miles per hour.
+
+    (ii) *Class 2 electric bicycle.—* — For purposes of subparagraph (A)(iii), the term “class 2 electric bicycle” means an electric bicycle equipped with a motor that—
+
+      (I) may be used exclusively to propel the bicycle; and
+
+      (II) is not capable of providing assistance when the speed of the bicycle reaches or exceeds 20 miles per hour.
+
+    (iii) *Class 3 electric bicycle.—* — For purposes of subparagraph (A)(iii), the term “class 3 electric bicycle” means an electric bicycle equipped with a motor that—
+
+      (I) provides assistance only when the rider is pedaling; and
+
+      (II) ceases to provide assistance when the speed of the bicycle reaches or exceeds 28 miles per hour.
 
 (3) **Pedestrian.—** — The term “pedestrian” means any person traveling by foot and any mobility-impaired person using a wheelchair.
 
@@ -1521,6 +1821,16 @@ Repeal effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 117–58, § 11133(1), substituted “pedestrian walkways and bicycle and shared micromobility” for “pedestrian walkways and bicycle” and “safe access for bicyclists and pedestrians” for “safe bicycle use”.
+
+Subsec. (d). Pub. L. 117–58, §§ 11133(2), 11525(p), substituted “104(b)(4)” for “104(b)(3)” and “up to 2 positions” for “a position”.
+
+Subsec. (e). Pub. L. 117–58, § 11133(3), substituted “pedestrians or bicyclists” for “bicycles” in two places.
+
+Subsec. (f). Pub. L. 117–58, § 11133(4), substituted “or a bicycle or shared micromobility” for “and a bicycle”.
+
+Subsec. (j)(2). Pub. L. 117–58, § 11133(5), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The term ‘electric bicycle’ means any bicycle or tricycle with a low-powered electric motor weighing under 100 pounds, with a top motor-powered speed not in excess of 20 miles per hour.”
+
 2015—Subsec. (a). Pub. L. 114–94 substituted “104(b)(4)” for “104(b)(3)”.
 
 2012—Subsec. (b). Pub. L. 112–141 substituted “National Highway Performance Program” for “National Highway System” in heading.
@@ -1567,6 +1877,9 @@ Subsec. (h). Pub. L. 97–424 redesignated former subsec. (e) as (h), substitute
 
 1976—Subsec. (e). Pub. L. 94–280 substituted “$45,000,000” for “$40,000,000” and “$2,500,000” for “$2,000,000”.
 
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as a note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).
+
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
@@ -1575,6 +1888,9 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 #### Effective Date of 1991 Amendment
 Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as a note under [section 104 of this title](./chapter-001-federal-aid-highways.md#section-104).
+
+#### Active Transportation Infrastructure Investment Program
+Pub. L. 117–58, div. A, title I, § 11529, Nov. 15, 2021, 135 Stat. 612, provided that: “(a) In General.—Subject to the availability of appropriations, the Secretary [of Transportation] shall carry out an active transportation infrastructure investment program to make grants, on a competitive basis, to eligible organizations to construct eligible projects to provide safe and connected active transportation facilities in an active transportation network or active transportation spine. “(b) Application.—“(1) In general.—To be eligible to receive a grant under this section, an eligible organization shall submit to the Secretary an application in such manner and containing such information as the Secretary may require. “(2) Eligible projects partially on federal land.—With respect to an application for an eligible project that is located in part on Federal land, an eligible organization shall enter into a cooperative agreement with the appropriate Federal agency with jurisdiction over such land to submit an application described in paragraph (1). “(c) Application Considerations.—In making a grant for construction of an active transportation network or active transportation spine under this section, the Secretary shall consider the following:“(1) Whether the eligible organization submitted a plan for an eligible project for the development of walking and bicycling infrastructure that is likely to provide substantial additional opportunities for walking and bicycling, including effective plans—“(A) to create an active transportation network connecting destinations within or between communities, including schools, workplaces, residences, businesses, recreation areas, and other community areas, or create an active transportation spine connecting two or more communities, metropolitan regions, or States; and “(B) to integrate active transportation facilities with transit services, where available, to improve access to public transportation. “(2) Whether the eligible organization demonstrates broad community support through—“(A) the use of public input in the development of transportation plans; and “(B) the commitment of community leaders to the success and timely implementation of an eligible project. “(3) Whether the eligible organization provides evidence of commitment to traffic safety, regulations, financial incentives, or community design policies that facilitate significant increases in walking and bicycling. “(4) The extent to which the eligible organization demonstrates commitment of State, local, or eligible Federal matching funds, and land or in-kind contributions, in addition to the local match required under subsection (f)(1), unless the applicant qualifies for an exception under subsection (f)(2). “(5) The extent to which the eligible organization demonstrates that the grant will address existing disparities in bicyclist and pedestrian fatality rates based on race or income level or provide access to jobs and services for low-income communities and disadvantaged communities. “(6) Whether the eligible organization demonstrates how investment in active transportation will advance safety for pedestrians and cyclists, accessibility to jobs and key destinations, economic competitiveness, environmental protection, and quality of life. “(d) Use of Funds.—“(1) In general.—Of the amounts made available to carry out this section and subject to paragraphs (2) and (3), the Secretary shall obligate—“(A) not less than 30 percent to eligible projects that construct active transportation networks that connect people with public transportation, businesses, workplaces, schools, residences, recreation areas, and other community activity centers; and “(B) not less than 30 percent to eligible projects that construct active transportation spines. “(2) Planning and design grants.—Each fiscal year, the Secretary shall set aside not less than $3,000,000 of the funds made available to carry out this section to provide planning grants for eligible organizations to develop plans for active transportation networks and active transportation spines. “(3) Administrative costs.—Each fiscal year, the Secretary shall set aside not more than $2,000,000 of the funds made available to carry out this section to cover the costs of administration, research, technical assistance, communications, and training activities under the program. “(4) Limitation on statutory construction.—Nothing in this subsection prohibits an eligible organization from receiving research or other funds under title 23 or 49, United States Code. “(e) Grant Timing.—“(1) Request for application.—Not later than 30 days after funds are made available to carry out this section for a fiscal year, the Secretary shall publish in the Federal Register a request for applications for grants under this section for that fiscal year. “(2) Selection of grant recipients.—Not later than 150 days after funds are made available to carry out this section for a fiscal year, the Secretary shall select grant recipients of grants under this section for that fiscal year. “(f) Federal Share.—“(1) In general.—Except as provided in paragraph (2), the Federal share of the cost of an eligible project carried out using a grant under this section shall not exceed 80 percent of the total project cost. “(2) Exception for disadvantaged communities.—For eligible projects serving communities with a poverty rate of over 40 percent based on the majority of census tracts served by the eligible project, the Secretary may increase the Federal share of the cost of the eligible project up to 100 percent of the total project cost. “(g) Assistance to Indian Tribes.—In carrying out this section, the Secretary may enter into grant agreements, self-determination contracts, and self-governance compacts under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) et seq.) with Indian tribes that are eligible organizations, and such agreements, contracts, and compacts shall be administered in accordance with that Act. “(h) Reports.—“(1) Interim report.—Not later than September 30, 2024, the Secretary shall submit to Congress a report containing the information described in paragraph (3). “(2) Final report.—Not later than September 30, 2026, the Secretary shall submit to Congress a report containing the information described in paragraph (3). “(3) Report information.—A report submitted under this subsection shall contain the following, with respect to the period covered by the applicable report:“(A) A list of grants made under this section. “(B) Best practices of eligible organizations that receive grants under this section in implementing eligible projects. “(C) Impediments experienced by eligible organizations that receive grants under this section in developing and shifting to active transportation. “(i) Rule Required.—Not later than 1 year after the date of enactment of this Act [Nov. 15, 2021], the Secretary shall issue a final rule that encourages the use of the programmatic categorical exclusion, expedited procurement techniques, and other best practices to facilitate productive and timely expenditures for eligible projects that are small, low-impact, and constructed within an existing built environment. “(j) Authorization of Appropriations.—“(1) In general.—There is authorized to be appropriated to the Secretary to carry out this section $200,000,000 for each of fiscal years 2022 through 2026. “(2) Availability.—The amounts made available to carry out this section shall remain available until expended. “(k) Treatment of Projects.—Notwithstanding any other provision of law, a project assisted under this section shall be treated as a project on a Federal-aid highway under chapter 1 of title 23, United States Code. “(l) Definitions.—In this section:“(1) Active transportation.—The term ‘active transportation’ means mobility options powered primarily by human energy, including bicycling and walking. “(2) Active transportation network.—The term ‘active transportation network’ means facilities built for active transportation, including sidewalks, bikeways, and pedestrian and bicycle trails, that connect between destinations within a community or metropolitan region. “(3) Active transportation spine.—The term ‘active transportation spine’ means facilities built for active transportation, including sidewalks, bikeways, and pedestrian and bicycle trails that connect between communities, metropolitan regions, or States. “(4) Community.—The term ‘community’ means a geographic area that is socioeconomically interdependent and may include rural, suburban, and urban jurisdictions. “(5) Eligible organization.—The term ‘eligible organization’ means—“(A) a local or regional governmental organization, including a metropolitan planning organization or regional planning organization or council; “(B) a multicounty special district; “(C) a State; “(D) a multistate group of governments; or “(E) an Indian tribe. “(6) Eligible project.—The term ‘eligible project’ means an active transportation project or group of projects—“(A) within or between a community or group of communities, at least one of which falls within the jurisdiction of an eligible organization, which has submitted an application under this section; and “(B) that has—“(i) a total cost of not less than $15,000,000; or “(ii) with respect to planning and design grants, planning and design costs of not less than $100,000. “(7) Indian tribe.—The term ‘Indian tribe’ has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)). “(8) Total project cost.—The term ‘total project cost’ means the sum total of all costs incurred in the development of an eligible project that are approved by the Secretary as reasonable and necessary, including—“(A) the cost of acquiring real property; “(B) the cost of site preparation, demolition, and development; “(C) expenses related to the issuance of bonds or notes; “(D) fees in connection with the planning, execution, and financing of the eligible project; “(E) the cost of studies, surveys, plans, permits, insurance, interest, financing, tax, and assessments; “(F) the cost of construction, rehabilitation, reconstruction, and equipping the eligible project; “(G) the cost of land improvements; “(H) contractor fees; “(I) the cost of training and education related to the safety of users of any bicycle or pedestrian network or spine constructed as part of an eligible project; and “(J) any other cost that the Secretary determines is necessary and reasonable.”
 
 #### Nonmotorized Transportation Pilot Program
 Pub. L. 109–59, title I, § 1807, Aug. 10, 2005, 119 Stat. 1460, as amended by Pub. L. 110–244, title I, § 106, June 6, 2008, 122 Stat. 1602, provided that: “(a) Establishment.—The Secretary [of Transportation] shall establish and carry out a nonmotorized transportation pilot program to construct, in the following 4 communities selected by the Secretary, a network of nonmotorized transportation infrastructure facilities, including sidewalks, bicycle lanes, and pedestrian and bicycle trails, that connect directly with transit stations, schools, residences, businesses, recreation areas, and other community activity centers:“(1) Columbia, Missouri. “(2) Marin County, California. “(3) Minneapolis, Minnesota. “(4) Sheboygan County, Wisconsin. “(b) Purpose.—The purpose of the program shall be to demonstrate the extent to which bicycling and walking can carry a significant part of the transportation load, and represent a major portion of the transportation solution, within selected communities. “(c) Grants.—In carrying out the program, the Secretary [of Transportation] may make a grant of $6,250,000 per fiscal year for each of the communities set forth in subsection (a) to State, local, and regional agencies that the Secretary determines are suitably equipped and organized to carry out the objectives and requirements of this section. An agency that receives a grant under this section may suballocate grant funds to a nonprofit organization to carry out the program under this section. “(d) Statistical Information.—In carrying out the program, the Secretary [of Transportation] shall develop statistical information on changes in motor vehicle, nonmotorized transportation, and public transportation usage in communities participating in the program and assess how such changes decrease congestion and energy usage, increase the frequency of bicycling and walking, and promote better health and a cleaner environment. “(e) Reports.—The Secretary [of Transportation] shall submit to Congress an interim report not later than September 30, 2007, and a final report not later than September 30, 2010, on the results of the program. “(f) Funding.—“(1) Authorization of appropriations.—There is authorized to be appropriated to carry out this section, out of the Highway Trust Fund (other than the Mass Transit Account), $25,000,000 for each of fiscal years 2006 through 2009. “(2) Contract authority.—Funds authorized to be appropriated by this section shall be available for obligation in the same manner and to the same extent as if the funds were apportioned under chapter 1 of title 23, United States Code; except that the Federal share of the cost of the project shall be 100 percent, and the funds shall remain available until expended and shall not be transferable. “(g) Treatment of Projects.—Notwithstanding any other provision of law, projects assisted under this subsection shall be treated as projects on a Federal-aid system under chapter 1 of title 23, United States Code.”
@@ -1594,13 +1910,38 @@ Pub. L. 93–643, § 119, Jan. 4, 1975, 88 Stat. 2288, authorized grants to Stat
 
 <a id="section-218"></a>
 ## § 218. Alaska Highway
-**(a)** Notwithstanding any other provision of law upon agreement with the State of Alaska, the Secretary is authorized to expend on the Alaska Marine Highway System any Federal-aid highway funds apportioned to the State of Alaska under this title at a Federal share of 100 per centum.
+**(a)** Recognizing the benefits that will accrue to the State of Alaska and to the United States from the reconstruction of the Alaska Highway from the Alaskan border at Beaver Creek, Yukon Territory, to Haines Junction in Canada and the Haines Cutoff Highway from Haines Junction in Canada to Haines, Alaska, the Secretary may provide for the necessary reconstruction of the highway using funds awarded through an applicable competitive grant program, if the highway meets all applicable eligibility requirements for the program, except for the specific requirements established by the agreement for the Alaska Highway Project between the Government of the United States and the Government of Canada. In addition to the funds described in the previous sentence, notwithstanding any other provision of law and on agreement with the State of Alaska, the Secretary is authorized to expend on such highway or the Alaska Marine Highway System any Federal-aid highway funds apportioned to the State of Alaska under this title at a Federal share of 100 per centum. No expenditures shall be made for the construction of the portion of such highways that are in Canada unless an agreement is in place between the Government of Canada and the Government of the United States (including an agreement in existence on the date of enactment of the Surface Transportation Reauthorization Act of 2021) that provides, in part, that the Canadian Government—
 
-**(b)** For purposes of this section, the term “Alaska Marine Highway System” includes all existing or planned transportation facilities and equipment in Alaska, including the lease, purchase, or construction of vessels, terminals, docks, floats, ramps, staging areas, parking lots, bridges and approaches thereto, and necessary roads.
+(1) will provide, without participation of funds authorized under this title, all necessary right-of-way for the reconstruction of such highways;
+
+(2) will not impose any highway toll, or permit any such toll to be charged for the use of such highways by vehicles or persons;
+
+(3) will not levy or assess, directly or indirectly, any fee, tax, or other charge for the use of such highways by vehicles or persons from the United States that does not apply equally to vehicles or persons of Canada;
+
+(4) will continue to grant reciprocal recognition of vehicle registration and driver’s licenses in accordance with agreements between the United States and Canada; and
+
+(5) will maintain such highways after their completion in proper condition adequately to serve the needs of present and future traffic.
+
+**(b)** The survey and construction work undertaken in Canada pursuant to this section shall be under the general supervision of the Secretary.
+
+**(c)** For purposes of this section, the term “Alaska Marine Highway System” includes all existing or planned transportation facilities and equipment in Alaska, including the lease, purchase, operation, repair, or construction of vessels, terminals, docks, floats, ramps, staging areas, parking lots, bridges and approaches thereto, and necessary roads.
+
+**(d)** Notwithstanding any other provision of law, a project assisted under this section in the State of Alaska shall be treated as a project on a Federal-aid highway under chapter 1.
 
 ### Statutory Notes
 
+#### References in Text
+The date of enactment of the Surface Transportation Reauthorization Act of 2021, referred to in subsec. (a), is the date of enactment of div. A of Pub. L. 117–58, which was approved Nov. 15, 2021.
+
 #### Amendments
+2021—Pub. L. 117–58, § 11116, amended section generally. Prior to amendment, section read as follows:
+
+“(a) Notwithstanding any other provision of law upon agreement with the State of Alaska, the Secretary is authorized to expend on the Alaska Marine Highway System any Federal-aid highway funds apportioned to the State of Alaska under this title at a Federal share of 100 per centum.
+
+“(b) For purposes of this section, the term “Alaska Marine Highway System” includes all existing or planned transportation facilities and equipment in Alaska, including the lease, purchase, or construction of vessels, terminals, docks, floats, ramps, staging areas, parking lots, bridges and approaches thereto, and necessary roads.”
+
+Subsec. (c). Pub. L. 117–58, § 71103(g)(2), inserted “operation, repair,” after “purchase,”.
+
 2015—Pub. L. 114–94 amended Pub. L. 112–141, § 1519(c). See 2012 Amendment notes below.
 
 2012—Subsec. (a). Pub. L. 112–141, § 1519(c)(10)(A), formerly § 1519(c)(11)(A), as renumbered by Pub. L. 114–94, § 1446(d)(5)(B), designated third sentence as subsec. (a), struck out “, in addition to such funds,” after “provision of law” and “such highway or” after “expend on”, and struck out former first, second, fourth, and fifth sentences, including pars. (1) to (5), relating to reconstruction of the Alaska Highway from the Alaskan border to Haines Junction in Canada and the Haines Cutoff Highway from Haines Junction in Canada to Haines, appropriations for reconstruction, obligation limitation enacted for fiscal year 1983, and certain restrictions on expenditures for construction of highways in Canada.
@@ -1620,6 +1961,9 @@ Subsec. (b). Pub. L. 105–277, § 101(g) [title III, § 316(2)], inserted “in
 1983—Subsec. (a). Pub. L. 97–424 inserted provision that notwithstanding any other provision of law, upon agreement with the State of Alaska, the Secretary is authorized to expend on the highway any Federal-aid highway funds apportioned to the State of Alaska under this title at a Federal share of 100 per centum, and that any obligation limitation enacted for fiscal year 1983 or for any other fiscal year thereafter shall not apply to such projects.
 
 1975—Subsec. (a)(1). Pub. L. 94–147 struck out provision requiring that the right-of-way granted by the Canadian Government shall forever be held inviolate as part of such highways in public use.
+
+#### Effective Date of 2021 Amendment
+Amendment by section 11116 of Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as a note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).
 
 #### Effective Date of 2015 Amendment
 Pub. L. 114–94, div. A, title I, § 1446(d), Dec. 4, 2015, 129 Stat. 1438, provided that the amendment made by section 1446(d)(5)(B) is effective as of July 6, 2012, and as if included in Pub. L. 112–141 as enacted.

@@ -357,7 +357,7 @@ The purposes of this subchapter are—
 2018—Pub. L. 115–271, § 8203(b)(1), as amended by Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), substituted “substance use and misuse” for “substance abuse” wherever appearing.
 
 #### Effective Date of 2019 Amendment
-Pub. L. 116–74, § 2(c)(2), Nov. 27, 2019, 133 Stat. 1158, provided that: “The amendments made by this subsection [amending this section, sections 1506, 1523, 1524, 1531 to 1533, 1535, 1541 to 1548, and 1705 of this title, and provisions set out as notes under sections 1521, 1524, and 1532 of this title] shall take effect as if included in the enactment of the Substance Abuse Prevention Act of 2018 (subtitle K of title VIII of Public Law 115–271) [see Tables for classification].
+Pub. L. 116–74, § 2(c)(2), Nov. 27, 2019, 133 Stat. 1158, provided that: “The amendments made by this subsection [amending this section, sections 1506, 1523, 1524, 1531 to 1533, 1535, 1541 to 1548, and 1705 of this title, and provisions set out as notes under sections 1521, 1524, and 1532 of this title] shall take effect as if included in the enactment of the Substance Abuse Prevention Act of 2018 (subtitle K of title VIII of Public Law 115–271) [see Tables for classification].”
 
 
 <a id="section-1533"></a>
@@ -733,7 +733,7 @@ Pub. L. 109–469, title VIII, § 802(b), Dec. 29, 2006, 120 Stat. 3535, as amen
 #### Amendments
 2019—Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), made technical amendment to directory language of Pub. L. 115–271, § 8203(b)(4)(A). See 2018 Amendment note below.
 
-2018—Subsecs. (b)(1)(A), (2)(C)(i). Pub. L. 115–271, § 8203(b)(4)(A), as amended by Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), substituted “substance use and misuse” for “substance abuse”.
+2018—Subsec. (b)(1)(A), (2)(C)(i). Pub. L. 115–271, § 8203(b)(4)(A), as amended by Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), substituted “substance use and misuse” for “substance abuse”.
 
 2001—Subsec. (b)(3). Pub. L. 107–82, § 1(e), added par. (3).
 

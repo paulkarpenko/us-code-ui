@@ -1026,11 +1026,11 @@ Section was enacted as part of the Security Assistance Act of 2002, and also as 
 #### Change of Name
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-#### Delegation of Functions
-For delegation of congressional reporting functions of President under subsec. (a) of this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46073, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
-
 #### Definitions
 For definition of “Secretary” as used in this section, see section 3 of Pub. L. 107–228, set out as a note under [section 2651 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2651&num=0&edition=prelim), Foreign Relations and Intercourse.
+
+#### Delegation of Functions
+For delegation of congressional reporting functions of President under subsec. (a) of this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46073, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
 
 
 <a id="section-2371"></a>

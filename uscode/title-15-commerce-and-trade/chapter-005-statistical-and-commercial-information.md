@@ -61,11 +61,12 @@ Act Mar. 4, 1913, substituted the “Secretary of Commerce” for “Secretary o
 Amendment by act Aug. 13, 1946, effective three months from Aug. 13, 1946, see section 1141 of that act.
 
 #### Transfer of Functions
-For transfer of functions of Bureau of Foreign and Domestic Commerce, see note set out under [section 172 of this title](./chapter-005-statistical-and-commercial-information.md#section-172).
-
 Act Aug. 23, 1912, transferred certain duties of Department or Bureau of Labor to Bureau of Foreign and Domestic Commerce.
 
 Act Apr. 5, 1906, abolished the grade of commercial agent and commercial agent’s function of helping to gather foreign trade information, reference to which formerly appeared in the last sentence of this section. Such last sentence was subsequently repealed by Act Aug. 13, 1946.
+
+#### Transfer of Functions
+For transfer of functions of Bureau of Foreign and Domestic Commerce, see note set out under [section 172 of this title](./chapter-005-statistical-and-commercial-information.md#section-172).
 
 
 <a id="section-176"></a>
@@ -82,9 +83,10 @@ R.S. § 335 derived from Res. June 15, 1844, No. 16, 5 Stat. 719.
 1877—Act Feb. 27, 1877, struck out “agriculture” before “manufactures”.
 
 #### Transfer of Functions
-For transfer of functions of Bureau of Foreign and Domestic Commerce, see note set out under [section 172 of this title](./chapter-005-statistical-and-commercial-information.md#section-172).
-
 Act Aug. 23, 1912, transferred certain duties of Department or Bureau of Labor to Bureau of Foreign and Domestic Commerce.
+
+#### Transfer of Functions
+For transfer of functions of Bureau of Foreign and Domestic Commerce, see note set out under [section 172 of this title](./chapter-005-statistical-and-commercial-information.md#section-172).
 
 
 <a id="section-176a"></a>
@@ -102,11 +104,11 @@ Any statistical information furnished in confidence to the Bureau of Foreign and
 #### Effective Date of 2019 Amendment
 Amendment by Pub. L. 115–435 effective 180 days after Jan. 14, 2019, see section 403 of Pub. L. 115–435, set out as a note under [section 306 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section306&num=0&edition=prelim), Government Organization and Employees.
 
-#### Transfer of Functions
-For transfer of functions of Bureau of Foreign and Domestic Commerce, see note set out under [section 172 of this title](./chapter-005-statistical-and-commercial-information.md#section-172).
-
 #### Transitional and Savings Provisions
 For transitional and savings provisions related to the amendment of this section and other provisions of law by title III of Pub. L. 115–435, see section 302(d) of Pub. L. 115–435, set out as a note under [section 3561 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3561&num=0&edition=prelim), Public Printing and Documents.
+
+#### Transfer of Functions
+For transfer of functions of Bureau of Foreign and Domestic Commerce, see note set out under [section 172 of this title](./chapter-005-statistical-and-commercial-information.md#section-172).
 
 
 <a id="section-176b"></a>
@@ -145,11 +147,12 @@ It shall be the duty of the officer in charge of the Bureau of Foreign and Domes
 1928—Act May 29, 1928, discontinued the report of Bureau of Foreign and Domestic Commerce to Congress on commercial relations of the United States.
 
 #### Transfer of Functions
-For transfer of functions of Bureau of Foreign and Domestic Commerce, see note set out under [section 172 of this title](./chapter-005-statistical-and-commercial-information.md#section-172).
-
 Act Aug. 23, 1912, transferred certain duties of Department or Bureau of Labor to Bureau of Foreign and Domestic Commerce.
 
 Act Feb. 14, 1903, transferred Bureau of Statistics from Treasury Department to Department of Commerce and Labor.
+
+#### Transfer of Functions
+For transfer of functions of Bureau of Foreign and Domestic Commerce, see note set out under [section 172 of this title](./chapter-005-statistical-and-commercial-information.md#section-172).
 
 
 <a id="section-179"></a>
@@ -202,9 +205,10 @@ R.S. § 342 derived from act July 28, 1866, ch. 298, § 13, 14 Stat. 330.
 Act Mar. 1, 1919, substituted “Director” for “Chief”.
 
 #### Transfer of Functions
-For transfer of functions of Bureau of Foreign and Domestic Commerce, see note set out under [section 172 of this title](./chapter-005-statistical-and-commercial-information.md#section-172).
-
 Act Aug. 23, 1912, transferred certain duties of Department or Bureau of Labor to Bureau of Foreign and Domestic Commerce.
+
+#### Transfer of Functions
+For transfer of functions of Bureau of Foreign and Domestic Commerce, see note set out under [section 172 of this title](./chapter-005-statistical-and-commercial-information.md#section-172).
 
 
 <a id="section-183"></a>
@@ -224,11 +228,12 @@ R.S. § 259 derived from acts Sept. 24, 1789, ch. 20, § 35, 1 Stat. 92; June 25
 Act Mar. 4, 1913, substituted “Secretary of Commerce” for “Secretary of Commerce and Labor”.
 
 #### Transfer of Functions
-For transfer of functions of Bureau of Foreign and Domestic Commerce, see note set out under [section 172 of this title](./chapter-005-statistical-and-commercial-information.md#section-172).
-
 Act Aug. 23, 1912, transferred certain duties of Department or Bureau of Labor to Bureau of Foreign and Domestic Commerce.
 
 Act Feb. 14, 1903, transferred Bureau of Statistics from Treasury Department to Department of Commerce and Labor.
+
+#### Transfer of Functions
+For transfer of functions of Bureau of Foreign and Domestic Commerce, see note set out under [section 172 of this title](./chapter-005-statistical-and-commercial-information.md#section-172).
 
 
 <a id="section-184-to-187"></a>

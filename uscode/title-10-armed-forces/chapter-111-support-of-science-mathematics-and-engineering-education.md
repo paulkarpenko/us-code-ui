@@ -24,6 +24,11 @@ source: >-
 
 (4) the maximum amount that may be awarded to an individual during an academic year.
 
+### Statutory Notes
+
+#### Study Regarding Establishment Within the Department of Defense of a Designated Central Program Office To Oversee Academic Engagement Programs Relating To Establishing Cyber Talent Across the Department
+Pub. L. 117–81, div. A, title XV, § 1532, Dec. 27, 2021, 135 Stat. 2052, provided that: “(a) In General.—Not later than 270 days after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a study regarding the need, feasibility, and advisability of establishing within the Department of Defense a designated central program office responsible for overseeing covered academic engagement programs across the Department. Such study shall examine the following:“(1) Whether the Department’s cyber-focused academic engagement needs more coherence, additional coordination, or improved management, and whether a designated central program office would provide such benefits. “(2) How such a designated central program office would coordinate and harmonize Department programs relating to covered academic engagement programs. “(3) Metrics such office would use to measure the effectiveness of covered academic engagement programs. “(4) Whether such an office is necessary to serve as an identifiable entry point to the Department by the academic community. “(5) Whether the cyber discipline with respect to academic engagement should be treated separately from other STEM fields. “(6) How such an office would interact with the consortium universities (established pursuant to section 1659 of the National Defense Authorization Act for Fiscal Year 2020 ([10 U.S.C. 391](./chapter-019-cyber-and-information-operations-matters.md#section-391) note)) to assist the Secretary on cybersecurity matters. “(7) Whether the establishment of such an office would have an estimated net savings for the Department. “(b) Consultation.—In conducting the study required under subsection (a), the Secretary of Defense shall consult with and solicit recommendations from academic institutions and stakeholders, including primary, secondary, and post-secondary educational institutions. “(c) Determination.—“(1) In general.—Upon completion of the study required under subsection (a), the Secretary of Defense shall make a determination regarding the establishment within the Department of Defense of a designated central program office responsible for overseeing covered academic engagement programs across the Department. “(2) Implementation.—If the Secretary of Defense makes an affirmative determination in accordance with paragraph (1), the Secretary shall establish within the Department of Defense a designated central program office responsible for overseeing covered academic programs across the Department. Not later than 180 days after such a determination, the Secretary shall promulgate such rules and regulations as are necessary to so establish such an office. “(3) Negative determination.—If the Secretary of Defense makes a negative determination in accordance with paragraph (1), the Secretary shall submit to the congressional defense committees notice of such determination, together with a justification for such determination. Such justification shall include—“(A) how the Secretary intends to coordinate and harmonize covered academic engagement programs; and “(B) measures to determine effectiveness of covered academic engagement programs absent a designated central program office responsible for overseeing covered academic programs across the Department. “(d) Report.—Not later than 270 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees a report that updates the matters required for inclusion in the reports required pursuant to section 1649 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92) [133 Stat. 1758] and section 1726(c) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283) [134 Stat. 4116]. “(e) Definition.—In this section, the term ‘covered academic engagement program’ means each of the following:“(1) Primary, secondary, or post-secondary education programs with a cyber focus. “(2) Recruitment or retention programs for Department of Defense cyberspace personnel, including scholarship programs. “(3) Academic partnerships focused on establishing cyber talent. “(4) Cyber enrichment programs.”
+
 
 <a id="section-2192"></a>
 ## § 2192. Improvement of education in technical fields: general authority regarding education in science, mathematics, and engineering
@@ -74,125 +79,9 @@ Pub. L. 102–190, div. A, title VIII, § 829, Dec. 5, 1991, 105 Stat. 1444, dir
 
 
 <a id="section-2192a"></a>
-## § 2192a. Science, Mathematics, and Research for Transformation (SMART) Defense Education Program
-**(a) Requirement for Program.—** The Secretary of Defense shall carry out a program to provide financial assistance for education in science, mathematics, engineering, and technology skills and disciplines that, as determined by the Secretary, are critical to the national security functions of the Department of Defense and are needed in the Department of Defense workforce.
-
-**(b) Financial Assistance.—**
-
-(1) Under the program under this section, the Secretary of Defense may award a scholarship or fellowship in accordance with this section to a person who—
-
-  (A) is a citizen of the United States or, subject to subsection (g), a country the government of which is a party to The Technical Cooperation Program (TTCP) memorandum of understanding of October 24, 1995;
-
-  (B) is pursuing an associates degree, undergraduate degree, or advanced degree in a critical skill or discipline described in subsection (a) at an accredited institution of higher education; and
-
-  (C) enters into a service agreement with the Secretary of Defense as described in subsection (c).
-
-(2) The amount of the financial assistance provided under a scholarship or fellowship awarded to a person under this subsection shall be an amount determined by the Secretary of Defense.
-
-(3) Financial assistance provided under a scholarship or fellowship awarded under this section may be paid directly to the recipient of such scholarship or fellowship or to an administering entity for disbursement of the funds.
-
-**(c) Service Agreement for Recipients of Financial Assistance.—**
-
-(1) To receive financial assistance under this section—
-
-  (A) in the case of an employee of the Department of Defense, the employee shall enter into a written agreement to continue in the employment of the department for the period of obligated service determined under paragraph (2); and
-
-  (B) in the case of a person not an employee of the Department of Defense, the person shall enter into a written agreement to accept and continue employment for the period of obligated service determined under paragraph (2)—
-
-    (i) with the Department, including by serving on active duty in the Armed Forces; or
-
-    (ii) with a public or private entity or organization outside of the Department if the Secretary—
-
-      (I) is unable to find an appropriate position for the person within the Department; and
-
-      (II) determines that employment of the person with such entity or organization for the purpose of such obligated service would provide a benefit to the Department.
-
-(2) For the purposes of this subsection, the period of obligated service for a recipient of financial assistance under this section shall be the period determined by the Secretary of Defense as being appropriate to obtain adequate service in exchange for such financial assistance. The period of service required of a recipient may not be less than the total period of pursuit of a degree that is covered by such financial assistance. The period of obligated service is in addition to any other period for which the recipient is obligated to serve in the civil service of the United States.
-
-(3) An agreement entered into under this subsection by a person pursuing an academic degree shall include any terms and conditions that the Secretary of Defense determines necessary to protect the interests of the United States or otherwise appropriate for carrying out this section.
-
-**(d) Employment of Program Participants.—** The Secretary of Defense—
-
-(1) may, without regard to any provision of title 5 governing appointment of employees to competitive service positions within the Department of Defense, appoint to a position in the Department of Defense in the excepted service an individual who has successfully completed an academic program for which a scholarship or fellowship under this section was awarded and who, under the terms of the agreement for such scholarship or fellowship, at the time of such appointment, owes a service commitment to the Department;
-
-(2) may, upon satisfactory completion of 2 years of substantially continuous service by an incumbent who was appointed to an excepted service position under the authority of paragraph (1), convert the appointment of such individual, without competition, to a career or career conditional appointment; and
-
-(3) may establish arrangements so that participants may participate in a paid internship for an appropriate period with an industry sponsor.
-
-**(e) Refund for Period of Unserved Obligated Service.—**
-
-(1)
-
-  (A) A participant in the program under this section who is not an employee of the Department of Defense and who voluntarily fails to complete the educational program for which financial assistance has been provided under this section, or fails to maintain satisfactory academic progress as determined in accordance with regulations prescribed by the Secretary of Defense, shall refund to the United States an appropriate amount, as determined by the Secretary.
-
-  (B) A participant in the program under this section who is an employee of the Department of Defense and who—
-
-    (i) voluntarily fails to complete the educational program for which financial assistance has been provided, or fails to maintain satisfactory academic progress as determined in accordance with regulations prescribed by the Secretary; or
-
-    (ii) before completion of the period of obligated service required of such participant—
-
-      (I) voluntarily terminates such participant’s employment with the Department; or
-
-      (II) is removed from such participant’s employment with the Department on the basis of misconduct,
-    shall refund the United States an appropriate amount, as determined by the Secretary.
-
-(2) An obligation to reimburse the United States imposed under paragraph (1) is for all purposes a debt owed to the United States.
-
-(3) The Secretary of Defense may waive, in whole or in part, a refund required under paragraph (1) if the Secretary determines that recovery would be against equity and good conscience or would be contrary to the best interests of the United States.
-
-(4) A discharge in bankruptcy under title 11 that is entered less than five years after the termination of an agreement under this section does not discharge the person signing such agreement from a debt arising under such agreement or under this subsection.
-
-**(f) Relationship to Other Programs.—**
-
-(1) The Secretary of Defense shall coordinate the provision of financial assistance under the authority of this section with the provision of financial assistance under the other authorities provided in this chapter in order to maximize the benefits derived by the Department of Defense from the exercise of all such authorities.
-
-(2) The Secretary of Defense shall seek to enter into partnerships with minority institutions of higher education and appropriate public and private sector organizations to diversify the participants in the program under subsection (a).
-
-**(g) Limitation on Participation.—**
-
-(1) The Secretary may not award scholarships or fellowships under this section to more than five individuals described in paragraph (2) per year.
-
-(2) An individual described in this paragraph is an individual who—
-
-  (A) has not previously been awarded a scholarship or fellowship under the program under this section;
-
-  (B) is not a citizen of the United States; and
-
-  (C) is a citizen of a country the government of which is a party to The Technical Cooperation Program (TTCP) memorandum of understanding of October 24, 1995.
-
-**(h) Institution of Higher Education Defined.—** In this section, the term “institution of higher education” has the meaning given such term in section 101 of the Higher Education Act of 1965 ([20 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim)).
+## § 2192a. Renumbered § 4093]
 
 ### Statutory Notes
-
-#### Codification
-Section, as added by Pub. L. 109–163, consists of text of Pub. L. 108–375, div. A, title XI, § 1105, Oct. 28, 2004, 118 Stat. 2074; Pub. L. 109–163, div. A, title X, § 1056(d), title XI, § 1104(a)–(c), Jan. 6, 2006, 119 Stat. 3440, 3448, 3449; Pub. L. 111–383, div. A, title X, § 1075(h)(5), Jan. 7, 2011, 124 Stat. 4377, which was formerly set out as a note under [section 2192 of this title](./chapter-111-support-of-science-mathematics-and-engineering-education.md#section-2192), and was repealed by Pub. L. 109–163, div. A, title XI, § 1104(e)(1), Jan. 6, 2006, 119 Stat. 3450.
-
-#### Amendments
-2021—Subsec. (c)(1)(B)(i). Pub. L. 116–283, § 242(1), inserted “, including by serving on active duty in the Armed Forces” after “Department”.
-
-Subsec. (d)(3). Pub. L. 116–283, § 242(2), added par. (3).
-
-Subsec. (f). Pub. L. 116–283, § 242(3), designated existing provisions as par. (1) and added par. (2).
-
-2015—Subsec. (b)(1)(A). Pub. L. 114–92, § 212(1), inserted “or, subject to subsection (g), a country the government of which is a party to The Technical Cooperation Program (TTCP) memorandum of understanding of October 24, 1995” after “United States”.
-
-Subsecs. (g), (h). Pub. L. 114–92, § 212(2), (3), added subsec. (g) and redesignated former subsec. (g) as (h).
-
-2014—Subsec. (c)(1)(B). Pub. L. 113–291 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “in the case of a person not an employee of the Department of Defense, the person shall enter into a written agreement to accept and continue employment in the Department of Defense for the period of obligated service determined under paragraph (2).”
-
-2013—Subsec. (b)(2). Pub. L. 113–66 substituted “an amount determined by the Secretary of Defense” for “the amount determined by the Secretary of Defense as being necessary to pay all educational expenses incurred by that person, including tuition, fees, cost of books, laboratory expenses, equipment expenses, and expenses of room and board”.
-
-2009—Subsec. (c)(2). Pub. L. 111–84, § 1102(b), substituted “The” for “Except as provided in subsection (d), the” in second sentence.
-
-Subsec. (d). Pub. L. 111–84, § 1102(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) provided that, under certain circumstances, the Secretary of Defense could appoint or retain a SMART program participant as an interim employee and separate such participant from employment if no appropriate permanent position was available at the end of the interim period and that the period of interim service would count towards the participant’s obligated service requirements.
-
-Subsec. (f). Pub. L. 111–84, § 1102(c), struck out “The program under this section is in addition to the authorities provided in chapter 111 of this title.” before “The Secretary” and substituted “the other authorities provided in this chapter” for “the authorities provided in such chapter”.
-
-Subsecs. (g), (h). Pub. L. 111–84, § 1102(d)(1), redesignated subsec. (h) as (g) and struck out former subsec. (g). Prior to amendment, text read as follows: “Not later than February 1, 2007, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives, the Committee on Governmental Affairs of the Senate, and the Committee on Government Reform of the House of Representatives a plan for expanding and improving the national defense science and engineering workforce educational assistance program carried out under this section as appropriate to improve recruitment and retention to meet the requirements of the Department of Defense for its science and engineering workforce on a short-term basis and on a long-term basis.”
-
-2008—Subsec. (e)(4). Pub. L. 110–417, § 1061(a)(5)(A), substituted “title 11” for “title 11, United States Code,”.
-
-Subsec. (f). Pub. L. 110–417, § 1061(a)(5)(B), substituted “this title” for “title 10, United States Code”.
 
 #### National Security Workforce and Educational Diversity Activities
 Pub. L. 116–283, div. A, title II, § 250, Jan. 1, 2021, 134 Stat. 3495, provided that: “(a) In General.—The Secretary of Defense shall seek to diversify participation in the Science, Mathematics, and Research for Transformation (SMART) Defense Education Program under [section 2192a of title 10](./chapter-111-support-of-science-mathematics-and-engineering-education.md#section-2192a), United States Code. “(b) Activities.—In carrying out subsection (a), the Secretary shall—“(1) subject to the availability of appropriations for this purpose, set aside funds for financial assistance, scholarships, and fellowships for students at historically Black colleges or universities or at minority institutions of higher education and such other institutions as the Secretary considers appropriate; “(2) partner with institutions of higher education, and such other public and private sector organizations as the Secretary considers appropriate, to increase diversity of participants in the program described in subsection (a); “(3) establish individual and organizational incentives, and such other activities as the Secretary considers appropriate, to increase diversity of student participation in the program described in subsection (a); “(4) increase awareness of opportunities to participate in the program described in subsection (a); “(5) evaluate the potential for new programs, fellowships, and other activities at historically Black colleges or universities and minority institutions of higher education to increase diversity in educational and workforce development programs; “(6) identify potential changes to the program described in subsection (a) that would improve diversity of participants in such program; and “(7) establish metrics to evaluate success of activities under this section. “(c) Report.—Not later than September 30, 2024, the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report that evaluates the success of activities conducted by the Secretary in increasing diversity in appropriate programs of the Department of Defense and hiring and retaining diverse individuals in the science, mathematics, and research workforce of the public sector.”
@@ -483,135 +372,16 @@ Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to ce
 
 
 <a id="section-2196"></a>
-## § 2196. Manufacturing engineering education program
-**(a) Establishment of Manufacturing Engineering Education Program.—**
-
-(1) The Secretary of Defense shall establish a program under which the Secretary makes grants or other awards to support—
-
-  (A) the enhancement of existing programs in manufacturing engineering education to further a mission of the department; or
-
-  (B) the establishment of new programs in manufacturing engineering education that meet such requirements.
-
-(2) Grants and awards under this section may be made to industry, not-for-profit institutions, institutions of higher education, or to consortia of such institutions or industry.
-
-(3) The Secretary shall establish the program in consultation with the Secretary of Education, the Director of the National Science Foundation, the Director of the Office of Science and Technology Policy, and the secretaries of such other relevant Federal agencies as the Secretary considers appropriate.
-
-(4) The Secretary shall ensure that the program is coordinated with Department programs associated with advanced manufacturing.
-
-(5) The program shall be known as the “Manufacturing Engineering Education Program”.
-
-**(b) Geographical Distribution of Grants and Awards.—** In awarding grants and other awards under this subsection, the Secretary shall, to the maximum extent practicable, avoid geographical concentration of awards.
-
-**(c) Covered Programs.—** A program of engineering education supported pursuant to this section shall meet the requirements of this section.
-
-**(d) Components of Program.—** The program of education for which such a grant is made shall be a consolidated and integrated multidisciplinary program of education with an emphasis on the following components:
-
-(1) Multidisciplinary instruction that encompasses the total manufacturing engineering enterprise and that may include—
-
-  (A) manufacturing engineering education and training through classroom activities, laboratory activities, thesis projects, individual or team projects, internships, cooperative work-study programs, and interactions with industrial facilities, consortia, or such other activities and organizations in the United States and foreign countries as the Secretary considers appropriate;
-
-  (B) faculty development programs;
-
-  (C) recruitment of educators highly qualified in manufacturing engineering to teach or develop manufacturing engineering courses;
-
-  (D) presentation of seminars, workshops, and training for the development of specific manufacturing engineering skills;
-
-  (E) activities involving interaction between students and industry, including programs for visiting scholars, personnel exchange, or industry executives;
-
-  (F) development of new, or updating and modification of existing, manufacturing curriculum, course offerings, and education programs;
-
-  (G) establishment of programs in manufacturing workforce training;
-
-  (H) establishment of joint manufacturing engineering programs with defense laboratories and depots; and
-
-  (I) expansion of manufacturing training and education programs and outreach for members of the armed forces, dependents and children of such members, veterans, and employees of the Department of Defense.
-
-(2) Opportunities for students to obtain work experience in manufacturing through such activities as internships, summer job placements, or cooperative work-study programs.
-
-(3) Faculty and student engagement with industry that is directly related to, and supportive of, the education of students in manufacturing engineering because of—
-
-  (A) the increased understanding of manufacturing engineering challenges and potential solutions; and
-
-  (B) the enhanced quality and effectiveness of the instruction that result from that increased understanding.
-
-**(e) Proposals.—** The Secretary of Defense shall solicit proposals for grants and other awards to be made pursuant to this section for the support of programs of manufacturing engineering education that are consistent with the purposes of this section.
-
-**(f) Merit Competition.—** Applications for awards shall be evaluated on the basis of merit pursuant to competitive procedures prescribed by the Secretary.
-
-**(g) Selection Criteria.—** The Secretary may select a proposal for an award pursuant to this section if the proposal, at a minimum, does each of the following:
-
-(1) Contains innovative approaches for improving engineering education in manufacturing technology.
-
-(2) Demonstrates a strong commitment by the proponents to apply the resources necessary to achieve the objectives for which the award is to be made.
-
-(3) Provides for effective engagement with industry or government organizations that supports the instruction to be provided in the proposed program and is likely to improve manufacturing engineering and technology.
-
-(4) Demonstrates a significant level of involvement of United States industry in the proposed instructional and research activities.
-
-(5) Is likely to attract superior students and promote careers in manufacturing engineering.
-
-(6) Proposes to involve fully qualified personnel who are experienced in manufacturing engineering education and technology.
-
-(7) Proposes a program that, within three years after the award is made, is likely to attract from sources other than the Federal Government the financial and other support necessary to sustain such program.
-
-(8) Proposes to achieve a significant level of participation by women, members of minority groups, and individuals with disabilities through active recruitment of students from among such persons.
-
-(9) Trains students in advanced manufacturing and in relevant emerging technologies and production processes.
-
-**(h) Institution of Higher Education Defined.—** In this section, the term “institution of higher education” has the meaning given such term in section 101(a) of the Higher Education Act of 1965 ([20 U.S.C. 1001(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001/a&num=0&edition=prelim)).
+## § 2196. Renumbered § 4843]
 
 ### Statutory Notes
 
 #### Prior Provisions
 A prior section 2196, added Pub. L. 101–510, div. A, title II, § 247(a)(1), Nov. 5, 1990, 104 Stat. 1523; amended Pub. L. 102–25, title VII, § 701(i)(2), Apr. 6, 1991, 105 Stat. 116, defined “defense laboratory”, prior to repeal by Pub. L. 102–190, § 825(a)(1). See [section 2199 of this title](./chapter-111-support-of-science-mathematics-and-engineering-education.md#section-2199).
 
-#### Amendments
-2016—Pub. L. 114–328 amended section generally. Prior to amendment, section related to grants for manufacturing engineering education.
-
-#### Implementation of Grant Program; Priority in Funding
-Pub. L. 102–190, div. A, title VIII, § 825(b), Dec. 5, 1991, 105 Stat. 1442, provided that: “Within one year after the date of the enactment of this Act [Dec. 5, 1991], the Secretary of Defense, in consultation with the Director of the National Science Foundation, shall award grants under [section 2196 of title 10](./chapter-111-support-of-science-mathematics-and-engineering-education.md#section-2196), United States Code (as added by subsection (a)), to institutions of higher education throughout the United States.”
-
 
 <a id="section-2197"></a>
-## § 2197. Manufacturing experts in the classroom
-**(a) Establishment of Program.—** The Secretary of Defense, in consultation with the Secretary of Education and the Secretary of Commerce, shall conduct a program to support the following activities of one or more manufacturing experts at institutions of higher education:
-
-(1) Identifying the education and training requirements of United States manufacturing firms located in the same geographic region as an institution participating in the program.
-
-(2) Assisting in the development of teaching curricula for classroom and in-factory education and training classes at such an institution.
-
-(3) Teaching such classes and overseeing the teaching of such classes by others.
-
-(4) Improving the knowledge and expertise of permanent faculty and staff of such an institution.
-
-(5) Marketing the programs and facilities of such an institution to firms referred to in paragraph (1).
-
-(6) Coordinating the activities described in the other provisions of this subsection with other programs conducted by the Federal Government, any State, any local government, or any private, nonprofit organization to modernize United States manufacturing firms, especially the regional centers for the transfer of manufacturing technology and programs receiving financial assistance under [section 2196 of this title](./chapter-111-support-of-science-mathematics-and-engineering-education.md#section-2196).
-
-**(b) Merit Competition.—** Applications for assistance under this section shall be evaluated on the basis of merit pursuant to competitive procedures prescribed by the Secretary.
-
-**(c) Selection Criteria.—** The Secretary shall select institutions for the award of financial assistance under this section from among institutions submitting applications for such assistance that—
-
-(1) demonstrate that the proposed activities are of an appropriate scale and a sufficient quality to ensure long term improvement in the applicant’s capability to serve the education and training needs of United States manufacturing firms in the same region as the applicant;
-
-(2) demonstrate a significant level of industry involvement and support;
-
-(3) demonstrate attention to the needs of any United States industries that supply manufactured products to the Department of Defense or to a contractor of the Department of Defense; and
-
-(4) meet such other criteria as the Secretary may prescribe.
-
-**(d) Federal Support.—** The amount of financial assistance furnished to an institution under this section may not exceed 50 percent of the estimated cost of carrying out the activities proposed to be supported in part with such financial assistance for the period for which the assistance is to be provided. In no event may the amount of the financial assistance provided to an institution exceed $250,000 per year. The period for which financial assistance is provided an institution under this section shall be at least two years unless such assistance is earlier terminated for cause determined by the Secretary.
-
-**(e) Manufacturing Expert Defined.—** In this section, the term “manufacturing expert” means manufacturing managers and workers having experience in the organization of production and education and training needs and other experts in manufacturing.
-
-### Statutory Notes
-
-#### Amendments
-1992—Pub. L. 102–484, § 4238(b)(1), substituted “experts” for “managers” in section catchline.
-
-Subsec. (a). Pub. L. 102–484, § 4238(a)(1), struck out “managers and” after “manufacturing” in introductory provisions.
-
-Subsec. (e). Pub. L. 102–484, § 4238(a)(2), added subsec. (e).
+## § 2197. Renumbered § 4844]
 
 
 <a id="section-2198"></a>
@@ -630,17 +400,14 @@ Subsec. (e). Pub. L. 102–484, § 4238(a)(2), added subsec. (e).
 
 (3) Whether an appropriate share of the costs of such activities will be paid out of funds derived from non-Federal Government sources.
 
-**(c)** In this section, the term “defense critical technology” means a technology that is identified under [section 2505 of this title](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2505) as critical for attaining the national security objectives set forth in [section 2501(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2501/a&num=0&edition=prelim).
+**(c)** In this section, the term “defense critical technology” means a technology that is identified under [section 4816 of this title](./chapter-382-policies-and-planning.md#section-4816) as critical for attaining the national security objectives set forth in [section 4811(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4811/a&num=0&edition=prelim).
 
 ### Statutory Notes
-
-#### Amendment of Subsection (c)
-Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1867(e)(1), Jan. 1, 2021, 134 Stat. 4151, 4282, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, subsection (c) of this section is amended by striking “section 2505” and “section 2501(a)” and inserting “section 4816” and “section 4811(a)”, respectively. See 2021 Amendment note below.
 
 #### Amendments
 2021—Subsec. (c). Pub. L. 116–283 substituted “section 4816” for “section 2505” and “section 4811(a)” for “section 2501(a)”.
 
-1997—Subsec. (c). Pub. L. 105–85 substituted “that is identified under [section 2505 of this title](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2505) as critical for attaining the national security objectives set forth in [section 2501(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2501/a&num=0&edition=prelim).” for “identified in a defense critical technologies plan submitted to the Congress under [section 2506 of this title](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2506).”
+1997—Subsec. (c). Pub. L. 105–85 substituted “that is identified under [section 2505 of this title](./chapter-chapter-148-chapter-chapter-148.md#section-2505) as critical for attaining the national security objectives set forth in [section 2501(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2501/a&num=0&edition=prelim).” for “identified in a defense critical technologies plan submitted to the Congress under [section 2506 of this title](./chapter-chapter-148-chapter-chapter-148.md#section-2506).”
 
 1993—Subsec. (c). Pub. L. 103–35 substituted “a defense” for “an annual defense” and “section 2506” for “section 2522”.
 

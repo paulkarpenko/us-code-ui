@@ -231,9 +231,7 @@ Provisions similar to those in this section were contained in sections 10730 and
 Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 #### Review of Liability of Carriers
-Pub. L. 109–59, title IV, § 4215, Aug. 10, 2005, 119 Stat. 1760, provided that: “(a) Review.—Not later than 1 year after the date of enactment of this Act [Aug. 10, 2005], the Surface Transportation Board shall complete a review of the current Federal regulations regarding the level of liability protection provided by motor carriers that provide transportation of household goods and revise such regulations, if necessary, to provide enhanced protection in the case of loss or damage. “(b) Determinations.—The review required by subsection (a) shall include a determination of—“(1) whether the current regulations provide adequate protection; “(2) the benefits of purchase by a shipper of insurance to supplement the carrier’s limitations on liability; and “(3) whether there are abuses of the current regulations that leave the shipper unprotected in the event of loss and damage to a shipment of household goods.”
-
-[For definitions of “carrier”, “household goods”, “motor carrier”, and “transportation” as used in section 4215 of Pub. L. 109–59, set out above, see section 4202(a) of Pub. L. 109–59, set out as a note under [section 13102 of this title](./chapter-131-general-provisions.md#section-13102).]
+Pub. L. 109–59, title IV, § 4215, Aug. 10, 2005, 119 Stat. 1760, provided that, not later than 1 year after Aug. 10, 2005, the Surface Transportation Board would complete a review of Federal regulations regarding liability protection provided by motor carriers that provided transportation of household goods and revise such regulations, if necessary, to provide enhanced protection for loss or damage.
 
 
 <a id="section-14707"></a>

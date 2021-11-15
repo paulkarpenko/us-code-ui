@@ -403,13 +403,15 @@ Section effective Sept. 30, 1997, see section 521(b) of Pub. L. 104–201, set o
 
 **(b)** Unless otherwise provided by law, the number of members of the armed forces (other than the Coast Guard) on active duty at the end of any fiscal year shall be not less than the following:
 
-(1) For the Army, 485,900.
+(1) For the Army, 485,000.
 
-(2) For the Navy, 347,800.
+(2) For the Navy, 346,920.
 
-(3) For the Marine Corps, 181,200.
+(3) For the Marine Corps, 178,500.
 
-(4) For the Air Force, 333,475.
+(4) For the Air Force, 329,220.
+
+(5) For the Space Force, 8,400.
 
 **(c)** The budget for the Department of Defense for any fiscal year as submitted to Congress shall include amounts for funding for each of the armed forces (other than the Coast Guard) at least in the amounts necessary to maintain the active duty end strengths prescribed in subsection (b), as in effect at the time that such budget is submitted.
 
@@ -426,7 +428,17 @@ Section effective Sept. 30, 1997, see section 521(b) of Pub. L. 104–201, set o
 
 Subsec. (a). Pub. L. 116–283, § 402(a)(2), substituted “the national defense strategy of” for “a national defense strategy calling for” and struck out “to be able to successfully conduct two nearly simultaneous major regional contingencies” before period at end.
 
-Subsec. (b). Pub. L. 116–283, § 402(a)(3), substituted “485,900” for “480,000” in par. (1), “347,800” for “340,500” in par. (2), “181,200” for “186,200” in par. (3), and “333,475” for “332,800” in par. (4).
+Subsec. (b). Pub. L. 117–81, which directed amendment of subsec. (b) by adding pars. (1) to (5) and striking out pars. (1) to (5), was executed by adding pars. (1) to (5) and striking out pars. (1) to (4) to reflect the probable intent of Congress, as no par. (5) had previously been enacted. Prior to amendment, pars. (1) to (4) read as follows:
+
+“(1) For the Army, 485,900.
+
+“(2) For the Navy, 347,800.
+
+“(3) For the Marine Corps, 181,200.
+
+“(4) For the Air Force, 333,475.”
+
+Pub. L. 116–283, § 402(a)(3), substituted “485,900” for “480,000” in par. (1), “347,800” for “340,500” in par. (2), “181,200” for “186,200” in par. (3), and “333,475” for “332,800” in par. (4).
 
 Subsec. (e). Pub. L. 116–283, § 402(a)(4), inserted “or the Secretary concerned” after “Secretary of Defense” and substituted “vary a number specified in subsection (b) in accordance with [section 115 of this title](./chapter-002-department-of-defense.md#section-115)” for “reduce a number specified in subsection (b) by not more than 2 percent”.
 

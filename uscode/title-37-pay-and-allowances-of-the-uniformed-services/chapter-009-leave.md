@@ -175,7 +175,7 @@ Subsec. (d). Pub. L. 89–718, § 65, substituted “60” for “sixty”.
 Subsec. (d). Pub. L. 89–151, § 2, included members who die while on active service and payments for unused accrued leave of members of the Public Health Service, substituted provisions referring to [section 2771 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2771&num=0&edition=prelim) to find the mode of payment for provision spelling out the mode of payment in detail, omitted provisions prohibiting payment under this section in the event of no survivor and making valid any payments to survivors between the ages of 17 and 21, and inserted provisions basing payment for unused leave in the event of members dying while on active duty upon accrued leave carried forward into the year plus leave accruing during the year with a limit of 60 days.
 
 #### Change of Name
-Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 402(c)(3) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402/c/3&num=0&edition=prelim), The Public Health and Welfare.
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 204(c)(3) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section204/c/3&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Effective Date of 2001 Amendment
 Pub. L. 107–107, div. A, title VI, § 651(b), Dec. 28, 2001, 115 Stat. 1153, provided that: “Subparagraph (D) of [section 501(b)(5) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section501/b/5&num=0&edition=prelim), United States Code, as added by subsection (a)(3), shall apply with respect to periods of active duty beginning on or after October 1, 2001.”
@@ -275,7 +275,7 @@ In subsections (a) and (b), the words “for the period of that absence” are s
 1966—Subsec. (a). Pub. L. 89–718 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”.
 
 #### Change of Name
-Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 402(c)(3) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402/c/3&num=0&edition=prelim), The Public Health and Welfare.
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 204(c)(3) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section204/c/3&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Effective Date of 1980 Amendment
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).

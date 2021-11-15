@@ -368,7 +368,7 @@ Amendment by Pub. L. 98–369 effective Oct. 1, 1984, to apply with respect to f
 
     (ii) not more than $1,500,000 is available to conduct by grant or contract a survey of levels of recreational boating participation and related matters in the United States.
 
-(2) No funds available to the Secretary under this subsection may be used to replace funding provided through general appropriations, nor for any purposes except those purposes authorized by this section.
+(2) On or after October 1, 2024, no funds available to the Secretary under this subsection may be used to replace funding provided through general appropriations, nor for any purposes except those purposes authorized by this section.
 
 (3) Amounts made available by this subsection shall remain available during the 2 succeeding fiscal years. Any amount that is unexpended or unobligated at the end of the 3-year period during which it is available shall be withdrawn by the Secretary and allocated to the States in addition to any other amounts available for allocation in the fiscal year in which they are withdrawn or the following fiscal year.
 
@@ -387,6 +387,8 @@ Section 13106 provides the Secretary with liquidating contract authority in an a
 A prior section 13107, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 596, established the National Recreational Boating Safety and Facilities Improvement Fund, prior to repeal by Pub. L. 98–369, div. A, title X, § 1016(c)(1), July 18, 1984, 98 Stat. 1020. See [section 9504 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9504&num=0&edition=prelim), Internal Revenue Code.
 
 #### Amendments
+2021—Subsec. (c)(2). Pub. L. 117–58 substituted “On or after October 1, 2024, no funds available” for “No funds available”.
+
 2018—Subsec. (c)(2). Pub. L. 115–232 substituted “No” for “On and after October 1, 2016, no”.
 
 2015—Subsec. (a). Pub. L. 114–94, § 10002(1), substituted “Subject to subsection (c),” for “(1) Subject to paragraph (2) and subsection (c),” and struck out “the sum of (A) the amount made available from the Boat Safety Account for that fiscal year under section 15 of the Dingell-Johnson Sport Fish Restoration Act and (B)” after “an amount equal to” and par. (2) which read as follows: “The Secretary shall use not more than two percent of the amount available each fiscal year for State recreational boating safety programs under this chapter to pay the costs of investigations, personnel, and activities related to administering those programs.”

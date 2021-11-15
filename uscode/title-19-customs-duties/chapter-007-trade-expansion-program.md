@@ -455,9 +455,6 @@ Pub. L. 93–618, § 171(b), substituted “United States International Trade Co
 #### Effective Date of 1979 Amendment
 Amendment by Pub. L. 96–39 effective July 26, 1979, see section 903 of Pub. L. 96–39, set out as an Effective Date note under [section 2411 of this title](./chapter-012-trade-act-of-1974.md#section-2411).
 
-#### Transfer of Functions From East-West Foreign Trade Board
-East-West Foreign Trade Board, which was established by Pub. L. 93–618, title IV, § 411, Jan. 3, 1975, 88 Stat. 2065, and classified to [section 2441 of this title](./chapter-012-trade-act-of-1974.md#section-2441), abolished by Reorg. Plan No. 3 of 1979, § 6, 44 Stat. 69275, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under [section 2171 of this title](./chapter-012-trade-act-of-1974.md#section-2171), and functions of Board under subsecs. (a) and (b) of section 411 of Pub. L. 93–618 transferred to interagency organization established under this section by section 5(e) of Reorg. Plan No. 3 of 1979. See [section 2441 of this title](./chapter-012-trade-act-of-1974.md#section-2441).
-
 #### Establishment of Interagency Group
 For provisions establishing an interagency group within the interagency organization established under this section, relating to the implementation of chapter 10 of the United States-Mexico-Canada Agreement, see [section 4582(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4582/c/2&num=0&edition=prelim).
 
@@ -465,6 +462,9 @@ For provisions establishing an interagency group within the interagency organiza
 
 #### Sense of Congress Respecting Role of Interagency Organization
 Pub. L. 100–418, title I, § 1621(b), Aug. 23, 1988, 102 Stat. 1264, provided that: “It is the sense of Congress that the interagency organization established under subsection (a) [amending this section] should be the principal interagency forum within the executive branch on international trade policy matters.”
+
+#### Transfer of Functions From East-West Foreign Trade Board
+East-West Foreign Trade Board, which was established by Pub. L. 93–618, title IV, § 411, Jan. 3, 1975, 88 Stat. 2065, and classified to [section 2441 of this title](./chapter-012-trade-act-of-1974.md#section-2441), abolished by Reorg. Plan No. 3 of 1979, § 6, 44 Stat. 69275, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under [section 2171 of this title](./chapter-012-trade-act-of-1974.md#section-2171), and functions of Board under subsecs. (a) and (b) of section 411 of Pub. L. 93–618 transferred to interagency organization established under this section by section 5(e) of Reorg. Plan No. 3 of 1979. See [section 2441 of this title](./chapter-012-trade-act-of-1974.md#section-2441).
 
 #### Trade Policy Committee
 For provisions relating to Trade Policy Committee, see section 3 of Ex. Ord. No. 11846, Mar. 27, 1975, 40 F.R. 14291, set out as a note under [section 2111 of this title](./chapter-012-trade-act-of-1974.md#section-2111).

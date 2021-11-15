@@ -192,14 +192,14 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 The Tariff Schedules of the United States, referred to in subsec. (c)(1), to be treated as a reference to the Harmonized Tariff Schedule pursuant to [section 3012 of this title](./chapter-018-implementation-of-harmonized-tariff-schedule.md#section-3012). The Harmonized Tariff Schedule is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under [section 1202 of this title](./chapter-004-tariff-act-of-1930.md#section-1202).
 
-#### Change of Name
-The Office of the Special Representative for Trade Negotiations was redesignated the Office of the United States Trade Representative, and Special Representative for Trade Negotiations was redesignated the United States Trade Representative by Reorg. Plan No. 3 of 1979, § 1(a), (b)(1), 44 F.R. 69273, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under [section 2171 of this title](./chapter-012-trade-act-of-1974.md#section-2171). See, also, [section 2171 of this title](./chapter-012-trade-act-of-1974.md#section-2171) as amended by Pub. L. 97–456.
-
 #### Reorganizing and Restructuring of International Trade Functions of United States Government
 Pub. L. 96–39, title XI, § 1109, July 26, 1979, 93 Stat. 314, provided that the President submit to the Congress, not later than July 10, 1979, a proposal to restructure the international trade functions of the Executive Branch of the United States Government, and directed, in order to ensure that the 96th Congress takes final action on a comprehensive reorganization of trade functions as soon as possible, that the appropriate committee of each House of the Congress give the proposal by the President immediate consideration and make its best efforts to take final committee action to reorganize and restructure the international trade functions of the United States Government by Nov. 10, 1979.
 
 #### Study of Export Trade Policy
 Pub. L. 96–39, title XI, § 1110, July 26, 1979, 93 Stat. 314, directed the President to review all export promotion functions of the executive branch and potential programmatic and regulatory disincentives to exports, and to submit to the Congress a report of that review not later than July 15, 1980, and not later than July 15, 1980, to submit to the Congress a study of the factors bearing on the competitive posture of United States producers and the policies and programs required to strengthen the relative competitive position of the United States in world markets.
+
+#### Change of Name
+The Office of the Special Representative for Trade Negotiations was redesignated the Office of the United States Trade Representative, and Special Representative for Trade Negotiations was redesignated the United States Trade Representative by Reorg. Plan No. 3 of 1979, § 1(a), (b)(1), 44 F.R. 69273, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under [section 2171 of this title](./chapter-012-trade-act-of-1974.md#section-2171). See, also, [section 2171 of this title](./chapter-012-trade-act-of-1974.md#section-2171) as amended by Pub. L. 97–456.
 
 #### Proc. No. 4707. Carrying Out the Geneva (1979) Protocol to the General Agreement on Tariffs and Trade and for Other Purposes
 Proc. No. 4707, Dec. 11, 1979, 44 F.R. 72348, as amended by Ex. Ord. No. 12204, Mar. 27, 1980, 45 F.R. 20740; Proc. No. 4792, Sept. 15, 1980, 45 F.R. 61589; Proc. No. 4889, Dec. 29, 1981, 47 F.R. 1; Proc. No. 4904, Feb. 27, 1982, 47 F.R. 8753; Ex. Ord. No. 12354, Mar. 30, 1982, 47 F.R. 13477; Ex. Ord. No. 12371, July 12, 1982, 47 F.R. 30449; Ex. Ord. No. 12389, Oct. 25, 1982, 47 F.R. 47529; Ex. Ord. No. 12413, Mar. 30, 1983, 48 F.R. 13921; Proc. No. 5050, Apr. 15, 1983, 48 F.R. 16639; Ex. Ord. No. 12459, Jan. 16, 1984, 49 F.R. 2089; Ex. Ord. No. 12471, Mar. 30, 1984, 49 F.R. 13101; Ex. Ord. No. 12519, June 13, 1985, 50 F.R. 25037; Proc. No. 5365, Aug. 30, 1985, 50 F.R. 36220; Proc. No. 5452, Mar. 31, 1986, 51 F.R. 11539, provided:
@@ -1605,11 +1605,11 @@ Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement 
 #### Effective Date of 1979 Amendment
 Amendment by Pub. L. 96–39 effective July 26, 1979, see section 1114 of Pub. L. 96–39, set out as an Effective Date note under [section 2581 of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2581).
 
-#### Delegation of Authority
-For delegation of functions of President under div. B of Pub. L. 107–210, amending this section, see section 1 of Ex. Ord. No. 13277, Nov. 19, 2002, 67 F.R. 70305, set out as a note under [section 3801 of this title](./chapter-024-bipartisan-trade-promotion-authority.md#section-3801).
-
 #### Plan Amendments Not Required Until January 1, 1989
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1801–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under [section 401 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401&num=0&edition=prelim), Internal Revenue Code.
+
+#### Delegation of Authority
+For delegation of functions of President under div. B of Pub. L. 107–210, amending this section, see section 1 of Ex. Ord. No. 13277, Nov. 19, 2002, 67 F.R. 70305, set out as a note under [section 3801 of this title](./chapter-024-bipartisan-trade-promotion-authority.md#section-3801).
 
 #### Ex. Ord. No. 12905. Trade and Environment Policy Advisory Committee
 Ex. Ord. No. 12905, Mar. 25, 1994, 59 F.R. 14733, provided:
@@ -10747,11 +10747,11 @@ Subsec. (d)(1). Pub. L. 100–418, § 1411(b)(1), substituted “section 2252(a)
 
 Subsec. (e)(2). Pub. L. 100–418, § 1411(a)(3), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
 
-#### Change of Name
-“United States Trade Representative” substituted for “Special Representative for Trade Negotiations” in subsec. (a)(1), pursuant to Reorg. Plan No. 3 of 1979, § 1(b)(1), 44 F.R. 69273, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under [section 2171 of this title](./chapter-012-trade-act-of-1974.md#section-2171). See, also, [section 2171 of this title](./chapter-012-trade-act-of-1974.md#section-2171) as amended by Pub. L. 97–456.
-
 #### Effective Date of 1988 Amendment
 Pub. L. 100–418, title I, § 1411(c), Aug. 23, 1988, 102 Stat. 1242, provided that: “The amendments made by subsections (a) and (b) [amending this section] apply with respect to investigations initiated under section 406(a) of the Trade Act of 1974 [[19 U.S.C. 2436(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2436/a&num=0&edition=prelim)] on or after the date of the enactment of this Act [Aug. 23, 1988].”
+
+#### Change of Name
+“United States Trade Representative” substituted for “Special Representative for Trade Negotiations” in subsec. (a)(1), pursuant to Reorg. Plan No. 3 of 1979, § 1(b)(1), 44 F.R. 69273, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under [section 2171 of this title](./chapter-012-trade-act-of-1974.md#section-2171). See, also, [section 2171 of this title](./chapter-012-trade-act-of-1974.md#section-2171) as amended by Pub. L. 97–456.
 
 
 <a id="section-2439"></a>

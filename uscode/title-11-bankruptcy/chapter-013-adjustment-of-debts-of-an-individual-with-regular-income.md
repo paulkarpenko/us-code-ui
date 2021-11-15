@@ -746,7 +746,7 @@ Pub. L. 116–260, div. N, title III, § 320(f)(2), Dec. 27, 2020, 134 Stat. 201
 See 2020 Amendment notes below.
 
 #### Amendment of Subsection (b)(2)
-Pub. L. 116–136, div. A, title I, § 1113(b)(2)(A)(ii), (B), Mar. 27, 2020, 134 Stat. 312, provided that, effective 1 year after Mar. 27, 2020, subsection (b)(2) of this section is amended, in the introductory provisions, by striking “payments made under Federal law relating to the national emergency declared by the President under the National Emergencies Act ([50 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) et seq.) with respect to the coronavirus disease 2019 (COVID–19),”. See 2020 Amendment note below.
+Pub. L. 116–136, div. A, title I, § 1113(b)(2)(A)(ii), (B), Mar. 27, 2020, 134 Stat. 312, as amended by Pub. L. 117–5, § 2(a)(2), Mar. 27, 2021, 135 Stat. 249, provided that, effective 2 years after Mar. 27, 2020, subsection (b)(2) of this section is amended, in the introductory provisions, by striking “payments made under Federal law relating to the national emergency declared by the President under the National Emergencies Act ([50 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) et seq.) with respect to the coronavirus disease 2019 (COVID–19),”. See 2020 Amendment note below.
 
 #### legislative statements
 Section 1325(a)(5)(B) of the House amendment modifies the House bill and Senate amendment to significantly protect secured creditors in chapter 13. Unless the secured creditor accepts the plan, the plan must provide that the secured creditor retain the lien securing the creditor’s allowed secured claim in addition to receiving value, as of the effective date of the plan of property to be distributed under the plan on account of the claim not less than the allowed amount of the claim. To this extent, a secured creditor in a case under chapter 13 is treated identically with a recourse creditor under section 1111(b)(1) of the House amendment except that the secured creditor in a case under chapter 13 may receive any property of a value as of the effective date of the plan equal to the allowed amount of the creditor’s secured claim rather than being restricted to receiving deferred cash payments. Of course, the secured creditors’ lien only secures the value of the collateral and to the extent property is distributed of a present value equal to the allowed amount of the creditor’s secured claim the creditor’s lien will have been satisfied in full. Thus the lien created under section 1325(a)(5)(B)(i) is effective only to secure deferred payments to the extent of the amount of the allowed secured claim. To the extent the deferred payments exceed the value of the allowed amount of the secured claim and the debtor subsequently defaults, the lien will not secure unaccrued interest represented in such deferred payments.
@@ -811,7 +811,7 @@ Subsecs. (b), (c). Pub. L. 98–353, § 317(2), (3), added subsec. (b) and redes
 #### Effective and Termination Dates of 2020 Amendment
 Amendment by section 320(e) of div. N of Pub. L. 116–260 effective on the date on which the Administrator of the Small Business Administration submits to the Director of the Executive Office for United States Trustees a written determination relating to loan eligibility under pars. (36) and (37) of [section 636(a) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/a&num=0&edition=prelim), Commerce and Trade, and applicable to any case pending on or commenced on or after such date, and amendment by section 320(f)(2)(A)(v) of div. N of Pub. L. 116–260, relating to repeal of such amendment if it became effective, effective two years after Dec. 27, 2020, see section 320(f) of Pub. L. 116–260, set out as a note under [section 364 of this title](./chapter-003-case-administration.md#section-364).
 
-Amendment by section 1113(b)(2)(A)(ii) of Pub. L. 116–136, effective 1 year after Mar. 27, 2020, see section 1113(b)(2)(B) of Pub. L. 116–136, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
+Amendment by section 1113(b)(2)(A)(ii) of Pub. L. 116–136, effective 2 years after Mar. 27, 2020, see section 1113(b)(2)(B) of Pub. L. 116–136, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
 
 #### Effective Date of 2005 Amendment
 Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
@@ -1023,7 +1023,7 @@ Subsection (a) binds the debtor and each creditor to the provisions of a confirm
 
   (A) the plan provides for the curing of a default and maintenance of payments on a residential mortgage under section 1322(b)(5); and
 
-  (B) the debtor has entered into a forbearance agreement or loan modification agreement with the holder or servicer (as defined in section 6(i) of the Real Estate Settlement Procedures Act of 1974 ([12 U.S.C. 2605(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2605/i&num=0&edition=prelim)) of the mortgage described in subparagraph (A).
+  (B) the debtor has entered into a forbearance agreement or loan modification agreement with the holder or servicer (as defined in section 6(i) of the Real Estate Settlement Procedures Act of 1974 ([12 U.S.C. 2605(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2605/i&num=0&edition=prelim)) 11 So in original. Probably should be followed by another closing parenthesis. of the mortgage described in subparagraph (A).
 
 ### Statutory Notes
 
@@ -1148,7 +1148,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **(d)**
 
-(1) Subject to paragraph (3), for a plan confirmed prior to the date of enactment of this subsection, the plan may be modified upon the request of the debtor if—
+(1) Subject to paragraph (3), for a plan confirmed prior to the date of enactment of the COVID–19 Bankruptcy Relief Extension Act of 2021, the plan may be modified upon the request of the debtor if—
 
   (A) the debtor is experiencing or has experienced a material financial hardship due, directly or indirectly, to the coronavirus disease 2019 (COVID–19) pandemic; and
 
@@ -1167,7 +1167,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 ### Statutory Notes
 
 #### Amendment of Subsection (d)
-Pub. L. 116–136, div. A, title I, § 1113(b)(2)(A)(iii), (B), Mar. 27, 2020, 134 Stat. 312, provided that, effective 1 year after Mar. 27, 2020, this section is amended by striking subsection (d). See 2020 Amendment note below.
+Pub. L. 116–136, div. A, title I, § 1113(b)(2)(A)(iii), (B), Mar. 27, 2020, 134 Stat. 312, as amended by Pub. L. 117–5, § 2(a)(2), Mar. 27, 2021, 135 Stat. 249, provided that, effective 2 years after Mar. 27, 2020, this section is amended by striking subsection (d). See 2020 Amendment note below.
 
 #### Amendment of Subsection (e)
 Pub. L. 116–260, div. FF, title X, § 1001(e)(2), Dec. 27, 2020, 134 Stat. 3219, provided that, effective on the date that is 1 year after Dec. 27, 2020, this section is amended by striking subsection (e). See 2020 Amendment note below.
@@ -1176,9 +1176,11 @@ Pub. L. 116–260, div. FF, title X, § 1001(e)(2), Dec. 27, 2020, 134 Stat. 321
 At any time prior to the completion of payments under a confirmed plan, the plan may be modified, after notice and hearing, to change the amount of payments to creditors or a particular class of creditors and to extend or reduce the payment period. A modified plan may not contain any provision which could not be included in an original plan as prescribed by section 1322. A modified plan may not call for payments to be made beyond four years as measured from the date of the commencement of payments under the original plan.
 
 #### References in Text
-The date of enactment of this subsection, referred to in subsec. (d)(1), is the date of enactment of Pub. L. 116–136, which was approved Mar. 27, 2020.
+The date of enactment of the COVID–19 Bankruptcy Relief Extension Act of 2021, referred to in subsec. (d)(1), is the date of enactment of Pub. L. 117–5, which was approved Mar. 27, 2021.
 
 #### Amendments
+2021—Subsec. (d)(1). Pub. L. 117–5 substituted “the COVID–19 Bankruptcy Relief Extension Act of 2021” for “this subsection” in introductory provisions.
+
 2020—Subsec. (d). Pub. L. 116–136, § 1113(b)(2)(A)(ii), struck out subsec. (d) which related to modification of plan confirmed before Mar. 27, 2020, where debtor experienced material financial hardship due to coronavirus disease 2019 (COVID–19) pandemic.
 
 Pub. L. 116–136, § 1113(b)(1)(C), added subsec. (d).
@@ -1198,9 +1200,9 @@ Subsec. (a)(3). Pub. L. 98–353, § 533(3), substituted “plan to” for “pl
 #### Effective Date of 2020 Amendment
 Pub. L. 116–260, div. FF, title X, § 1001(e)(2), Dec. 27, 2020, 134 Stat. 3219, provided that the amendment made by section 1001(e)(2) is effective on the date that is 1 year after Dec. 27, 2020.
 
-Pub. L. 116–136, div. A, title I, § 1113(b)(1)(D)(ii), Mar. 27, 2020, 134 Stat. 312, provided that: “The amendment made by subparagraph (C) [amending this section] shall apply to any case for which a plan has been confirmed under [section 1325 of title 11](./chapter-013-adjustment-of-debts-of-an-individual-with-regular-income.md#section-1325), United States Code, before the date of enactment of this Act [Mar. 27, 2020].”
+Pub. L. 116–136, div. A, title I, § 1113(b)(1)(D)(ii), Mar. 27, 2020, 134 Stat. 312, as amended by Pub. L. 117–5, § 2(b)(2), Mar. 27, 2021, 135 Stat. 249, provided that: “The amendment made by subparagraph (C) [amending this section] shall apply to any case for which a plan has been confirmed under [section 1325 of title 11](./chapter-013-adjustment-of-debts-of-an-individual-with-regular-income.md#section-1325), United States Code, before the date of enactment of the COVID–19 Bankruptcy Relief Extension Act of 2021 [Pub. L. 117–5, approved Mar. 27, 2021].”
 
-Amendment by section 1113(b)(2)(A)(iii) of Pub. L. 116–136, effective 1 year after Mar. 27, 2020, see section 1113(b)(2)(B) of Pub. L. 116–136, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
+Amendment by section 1113(b)(2)(A)(iii) of Pub. L. 116–136, effective 2 years after Mar. 27, 2020, see section 1113(b)(2)(B) of Pub. L. 116–136, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
 
 #### Effective Date of 2005 Amendment
 Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).

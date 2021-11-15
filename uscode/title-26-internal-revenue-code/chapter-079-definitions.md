@@ -1355,7 +1355,7 @@ Pub. L. 96–605, title IV, § 402, Dec. 28, 1980, 94 Stat. 3532, as amended by 
 
     (i) begins on January 1, 2021, and
 
-    (ii) ends immediately before the beginning of the first adjustment year that beings after December 31, 2021.
+    (ii) ends immediately before the beginning of the first adjustment year that beings 11 So in original. Probably should be “begins”. after December 31, 2021.
 
 **(g) Treatment of contracts which do not meet subsection (a) test**
 

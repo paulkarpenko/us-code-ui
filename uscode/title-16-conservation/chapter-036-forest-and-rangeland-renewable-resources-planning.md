@@ -30,6 +30,9 @@ The Congress finds that—
 #### References in Text
 The Multiple-Use Sustained-Yield Act of 1960, referred to in par. (3), is Pub. L. 86–517, June 12, 1960, 74 Stat. 215, as amended, which is classified generally to sections 528 to 531 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 528 of this title](./chapter-002-national-forests.md#section-528) and Tables.
 
+#### Short Title of 2021 Amendment
+Pub. L. 117–58, div. G, title III, § 70301, Nov. 15, 2021, 135 Stat. 1258, provided that: “This title [amending sections 1601, 1606a, 1607, and 2105 of this title, and enacting provisions set out as a note under [section 1601 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1601)] may be cited as the ‘Repairing Existing Public Land by Adding Necessary Trees Act’ or the ‘REPLANT Act’.”
+
 #### Short Title of 1988 Amendments
 Pub. L. 100–521, § 1, Oct. 24, 1988, 102 Stat. 2601, provided that: “This Act [amending [section 1642 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1642) and enacting provisions set out as a note under [section 1642 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1642)] may be cited as the ‘Forest Ecosystems and Atmospheric Pollution Research Act of 1988’.”
 
@@ -79,17 +82,87 @@ Pub. L. 94–588, § 21, Oct. 22, 1976, 90 Stat. 2963, provided that: “If any 
 
 (3) the milling and other wood fiber product fabrication facilities and their location in the United States, noting the public and private forested areas that supply such facilities, assessing the degree of utilization into product form of harvested trees by such facilities, and setting forth the technology appropriate to the facilities to improve utilization either individually or in aggregate units of harvested trees and to reduce wasted wood fibers. The Secretary shall set forth a program to encourage the adoption by these facilities of these technologies for improving wood fiber utilization.
 
-**(d) 33 So in original. Two subsecs. (d) have been enacted. Public involvement; consultation with governmental departments and agencies** In developing the reports required under subsection (c) of this section, the Secretary shall provide opportunity for public involvement and shall consult with other interested governmental departments and agencies.
+**(d) Public involvement; consultation with governmental departments and agencies** In developing the reports required under subsection (c) of this section, the Secretary shall provide opportunity for public involvement and shall consult with other interested governmental departments and agencies.
 
-**(d) 3 Congressional policy of multiple use sustained yield management; examination and certification of lands; estimate of appropriations necessary for reforestation and other treatment; budget requirements; authorization of appropriations**
+**(e) Congressional policy of multiple use sustained yield management; examination and certification of lands; estimate of appropriations necessary for reforestation and other treatment; budget requirements; authorization of appropriations**
 
 (1) It is the policy of the Congress that all forested lands in the National Forest System shall be maintained in appropriate forest cover with species of trees, degree of stocking, rate of growth, and conditions of stand designed to secure the maximum benefits of multiple use sustained yield management in accordance with land management plans. Accordingly, the Secretary is directed to identify and report to the Congress annually at the time of submission of the President’s budget together with the annual report provided for under [section 1606(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1606/c&num=0&edition=prelim), beginning with submission of the President’s budget for fiscal year 1978, the amount and location by forests and States and by productivity class, where practicable, of all lands in the National Forest System where objectives of land management plans indicate the need to reforest areas that have been cut-over or otherwise denuded or deforested, and all lands with stands of trees that are not growing at their best potential rate of growth. All national forest lands treated from year to year shall be examined after the first and third growing seasons and certified by the Secretary in the report provided for under this subsection as to stocking rate, growth rate in relation to potential and other pertinent measures. Any lands not certified as satisfactory shall be returned to the backlog and scheduled for prompt treatment. The level and types of treatment shall be those which secure the most effective mix of multiple use benefits.
 
-(2) Notwithstanding the provisions of [section 1607 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1607), the Secretary shall annually for eight years following October 22, 1976, transmit to the Congress in the manner provided in this subsection an estimate of the sums necessary to be appropriated, in addition to the funds available from other sources, to replant and otherwise treat an acreage equal to the acreage to be cut over that year, plus a sufficient portion of the backlog of lands found to be in need of treatment to eliminate the backlog within the eight-year period. After such eight-year period, the Secretary shall transmit annually to the Congress an estimate of the sums necessary to replant and otherwise treat all lands being cut over and maintain planned timber production on all other forested lands in the National Forest System so as to prevent the development of a backlog of needed work larger than the needed work at the beginning of the fiscal year. The Secretary’s estimate of sums necessary, in addition to the sums available under other authorities, for accomplishment of the reforestation and other treatment of National Forest System lands under this section shall be provided annually for inclusion in the President’s budget and shall also be transmitted to the Speaker of the House and the President of the Senate together with the annual report provided for under [section 1606(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1606/c&num=0&edition=prelim) at the time of submission of the President’s budget to the Congress beginning with the budget for fiscal year 1978. The sums estimated as necessary for reforestation and other treatment shall include moneys needed to secure seed, grow seedlings, prepare sites, plant trees, thin, remove deleterious growth and underbrush, build fence to exclude livestock and adverse wildlife from regeneration areas and otherwise establish and improve growing forests to secure planned production of trees and other multiple use values.
+(2) Notwithstanding the provisions of [section 1607 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1607), the Secretary shall, annually during each of the 10 years beginning after November 15, 2021, transmit to the Congress in the manner provided in this subsection an estimate of the sums necessary to be appropriated, in addition to the funds available from other sources, to replant and otherwise treat an acreage equal to the acreage to be cut over that year, plus a sufficient portion of the backlog of lands found to be in need of treatment to eliminate the backlog within the 10-year period. After the 10-year period, the Secretary shall transmit annually to the Congress an estimate of the sums necessary to replant and otherwise treat all lands being cut over and maintain planned timber production on all other forested lands in the National Forest System so as to prevent the development of a backlog of needed work larger than the needed work at the beginning of the fiscal year. The Secretary’s estimate of sums necessary, in addition to the sums available under other authorities, for accomplishment of the reforestation and other treatment of National Forest System lands under this section shall be provided annually for inclusion in the President’s budget and shall also be transmitted to the Speaker of the House and the President of the Senate together with the annual report provided for under [section 1606(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1606/c&num=0&edition=prelim) at the time of submission of the President’s budget to the Congress beginning with the budget for fiscal year 2021. The sums estimated as necessary for reforestation and other treatment shall include moneys needed to secure seed, grow seedlings, prepare sites, plant trees, thin, remove deleterious growth and underbrush, build fence to exclude livestock and adverse wildlife from regeneration areas and otherwise establish and improve growing forests to secure planned production of trees and other multiple use values.
 
-(3) Effective for the fiscal year beginning October 1, 1977, and each fiscal year thereafter, there is hereby authorized to be appropriated for the purpose of reforesting and treating lands in the National Forest System $200,000,000 annually to meet requirements of this subsection (d). All sums appropriated for the purposes of this subsection shall be available until expended.
+(3) Effective for the fiscal year beginning October 1, 1977, and each fiscal year thereafter, there is hereby authorized to be appropriated for the purpose of reforesting and treating lands in the National Forest System $200,000,000 annually to meet requirements of this subsection. All sums appropriated for the purposes of this subsection shall be available until expended.
 
-**(e) Report on herbicides and pesticides** The Secretary shall submit an annual report to the Congress on the amounts, types, and uses of herbicides and pesticides used in the National Forest System, including the beneficial or adverse effects of such uses.
+(4) **Reforestation requirements.—**
+
+  (A) *Definitions.—* — In this paragraph:
+
+    (i) *Natural regeneration.—*
+
+      (I) *In general.—* — The term “natural regeneration” means the establishment of a tree or tree age class from natural seeding, sprouting, or suckering in accordance with the management objectives of an applicable land management plan.
+
+      (II) *Inclusion.—* — The term “natural regeneration” may include any site preparation activity to enhance the success of regeneration to the desired species composition and structure.
+
+    (ii) *Priority land.—* — The term “priority land” means National Forest System land that, due to an unplanned event—
+
+      (I) does not meet the conditions for appropriate forest cover described in paragraph (1);
+
+      (II) requires reforestation to meet the objectives of an applicable land management plan; and
+
+      (III) is unlikely to experience natural regeneration without assistance.
+
+    (iii) *Reforestation.—* — The term “reforestation” means the act of renewing tree cover, taking into consideration species composition and resilience, by establishing young trees through—
+
+      (I) natural regeneration;
+
+      (II) natural regeneration with site preparation; or
+
+      (III) planting or direct seeding.
+
+    (iv) *Secretary.—* — The term “Secretary” means the Secretary, acting through the Chief of the Forest Service.
+
+    (v) *Unplanned event.—*
+
+      (I) *In general.—* — The term “unplanned event” means any unplanned disturbance that—
+
+        (aa) disrupts ecosystem or forest structure or composition; or
+
+        (bb) changes resources, substrate availability, or the physical environment.
+
+      (II) *Inclusions.—* — The term “unplanned event” may include—
+
+        (aa) a wildfire;
+
+        (bb) an infestation of insects or disease;
+
+        (cc) a weather event; and
+
+        (dd) animal damage.
+
+  (B) *Requirement.—* — Each reforestation activity under this section shall be carried out in accordance with applicable Forest Service management practices and definitions, including definitions relating to silvicultural practices and forest management.
+
+  (C) *Reforestation priority.—*
+
+    (i) *In general.—* — In carrying out this subsection, the Secretary shall give priority to projects on the priority list described in clause (ii).
+
+    (ii) *Priority list.—*
+
+      (I) *In general.—* — The Secretary shall, based on recommendations from regional foresters, create a priority list of reforestation projects that—
+
+        (aa) primarily take place on priority land;
+
+        (bb) promote effective reforestation following unplanned events; and
+
+        (cc) may include activities to ensure adequate and appropriate seed availability.
+
+      (II) *Ranking.—* — The Secretary shall rank projects on the priority list under subclause (I) based on—
+
+        (aa) documentation of an effective reforestation project plan;
+
+        (bb) the ability to measure the progress and success of the project; and
+
+        (cc) the ability of a project to provide benefits relating to forest function and health, soil health and productivity, wildlife habitat, improved air and water quality, carbon sequestration potential, resilience, job creation, and enhanced recreational opportunities.
+
+**(f) Report on herbicides and pesticides** The Secretary shall submit an annual report to the Congress on the amounts, types, and uses of herbicides and pesticides used in the National Forest System, including the beneficial or adverse effects of such uses.
 
 ### Statutory Notes
 
@@ -97,6 +170,16 @@ Pub. L. 94–588, § 21, Oct. 22, 1976, 90 Stat. 2963, provided that: “If any 
 Subsec. (b) of this section amended [section 581h of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section581h&num=0&edition=prelim).
 
 #### Amendments
+2021—Subsecs. (d), (e). Pub. L. 117–58, § 70302(a)(1)(A)(ii), redesignated subsec. (d), relating to Congressional policy regarding forested land in the National Forest System, as (e). Former subsec. (e) redesignated (f).
+
+Subsec. (e)(2). Pub. L. 117–58, § 70302(a)(1)(A)(iii)(I), in first sentence, substituted “1607 of this title, the Secretary shall, annually during each of the 10 years beginning after November 15, 2021” for “1607 of this title, the Secretary shall annually for eight years following October 22, 1976” and “10-year” for “eight-year”; in second sentence, substituted “the 10-year period” for “such eight-year period”; and in third sentence, substituted “fiscal year 2021” for “fiscal year 1978”.
+
+Subsec. (e)(3). Pub. L. 117–58, § 70302(a)(1)(A)(iii)(II), substituted “requirements of this subsection” for “requirements of this subsection (d)”.
+
+Subsec. (e)(4). Pub. L. 117–58, § 70302(a)(1)(A)(iii)(III), added par. (4).
+
+Subsec. (f). Pub. L. 117–58, § 70302(a)(1)(A)(i), redesignated subsec. (e) as (f).
+
 2018—Subsec. (a). Pub. L. 115–141 inserted “(referred to in this subchapter as the ‘Secretary’)” after “Secretary of Agriculture” in introductory provisions.
 
 1990—Subsec. (a)(5), (6). Pub. L. 101–624 added pars. (5) and (6).
@@ -106,11 +189,14 @@ Subsec. (b) of this section amended [section 581h of this title](https://uscode.
 #### Termination of Reporting Requirements
 For termination, effective May 15, 2000, of provisions in subsecs. (d)(1) and (e) of this section relating to submitting annual reports to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and pages 45 and 47 of House Document No. 103–7.
 
-#### Transfer of Functions
-Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this subchapter and system activities requiring coordination and approval under general authorities of this subchapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under [section 719e of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section719e&num=0&edition=prelim), Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by [section 720d(f) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section720d/f&num=0&edition=prelim).
+#### Report
+Pub. L. 117–58, div. G, title III, § 70303, Nov. 15, 2021, 135 Stat. 1260, provided that: “Not later than 1 year after the date of enactment of this Act [Nov. 15, 2021], and annually thereafter, the Secretary of Agriculture shall submit to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives, and make publicly available on the website of the Forest Service, a report that describes, with respect to the preceding year— “(1) an evaluation of the degree to which the Secretary has achieved compliance with the requirements contained in the amendments made by this title [see Short Title of 2021 Amendment note set out under [section 1600 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1600)], including, as a result of those amendments, the number of acres covered by reforestation projects that follow unplanned events (such as wildfires); “(2) the total number of acres of land reforested under each authority of the Secretary under which reforestation projects have been carried out; “(3) the number of acres of National Forest System land affected by, and the substance of reforestation needs on that land resulting from, unplanned events; and “(4) the number of acres in need of reforestation under subsection (e)(1) of section 3 of the Forest and Rangeland Renewable Resources Planning Act of 1974 ([16 U.S.C. 1601](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1601)).”
 
 #### Presidential Commission on State and Private Forests
 Pub. L. 101–624, title XII, § 1245, Nov. 28, 1990, 104 Stat. 3548, as amended by Pub. L. 102–237, title X, § 1018(b), Dec. 13, 1991, 105 Stat. 1905, established the Commission on State and Private Forests, which was to assess the status of the State and private forest lands of the United States and report its findings and recommendations to the President by Dec. 1, 1992, and which terminated 90 days after submitting its report.
+
+#### Transfer of Functions
+Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this subchapter and system activities requiring coordination and approval under general authorities of this subchapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under [section 719e of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section719e&num=0&edition=prelim), Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by [section 720d(f) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section720d/f&num=0&edition=prelim).
 
 
 <a id="section-1602"></a>
@@ -317,9 +403,6 @@ Subsec. (h)(1). Pub. L. 115–141, § 208(b)(2), substituted “Secretary shall 
 
 Subsecs. (c) to (m). Pub. L. 94–588, § 6, added subsecs. (c) to (m).
 
-#### Transfer of Functions
-For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this subchapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under [section 1601 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1601).
-
 #### Revision of Forest Plans
 Pub. L. 116–260, div. G, title IV, § 407, Dec. 27, 2020, 134 Stat. 1536, provided that: “The Secretary of Agriculture shall not be considered to be in violation of subparagraph 6(f)(5)(A) of the Forest and Rangeland Renewable Resources Planning Act of 1974 ([16 U.S.C. 1604(f)(5)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1604/f/5/A&num=0&edition=prelim)) solely because more than 15 years have passed without revision of the plan for a unit of the National Forest System. Nothing in this section exempts the Secretary from any other requirement of the Forest and Rangeland Renewable Resources Planning Act ([16 U.S.C. 1600](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1600) et seq.) or any other law: Provided, That if the Secretary is not acting expeditiously and in good faith, within the funding available, to revise a plan for a unit of the National Forest System, this section shall be void with respect to such plan and a court of proper jurisdiction may order completion of the plan on an accelerated basis.”
 
@@ -367,6 +450,9 @@ Pub. L. 100–446, title III, § 314, Sept. 27, 1988, 102 Stat. 1825.
 Pub. L. 100–202, § 101(g) [title III, § 314], Dec. 22, 1987, 101 Stat. 1329–213, 1329–254.
 
 Pub. L. 99–500, § 101(h) [title II], Oct. 18, 1986, 100 Stat. 1783–242, 1783–268, and Pub. L. 99–591, § 101(h) [title II], Oct. 30, 1986, 100 Stat. 3341–242, 3341–268.
+
+#### Transfer of Functions
+For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this subchapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under [section 1601 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1601).
 
 
 <a id="section-1605"></a>
@@ -429,13 +515,13 @@ Section 15, formerly section 12 of Pub. L. 95–313, renumbered § 15, Pub. L. 1
 ## § 1606a. Reforestation Trust Fund
 **(a) Establishment; source of funds** There is established in the Treasury of the United States a trust fund, to be known as the Reforestation Trust Fund (hereinafter in this section referred to as the “Trust Fund”), consisting of such amounts as are transferred to the Trust Fund under subsection (b)(1) and any interest earned on investment of amounts in the Trust Fund under subsection (c)(2).
 
-**(b) Transfer of certain tariff receipts to Trust Fund; fiscal year limitation; quarterly transfers; adjustment of estimates**
+**(b) Transfers to Trust Fund**
 
-(1) Subject to the limitation in paragraph (2), the Secretary of the Treasury shall transfer to the Trust Fund an amount equal to the sum of the tariffs received in the Treasury after January 1, 1989, under headings 4401 through 4412 and subheadings 4418.50.00, 4418.90.20, 4420.10.00, 4420.90.80, 4421.90.10 through 4421.90.20, and 4421.90.70 of chapter 44, subheadings 6808.00.00 and 6809.11.00 of chapter 68 and subheading 9614.10.00 of chapter 96 of the Harmonized Tariff Schedule of the United States.
+(1) **In general** — The Secretary of the Treasury shall transfer to the Trust Fund an amount equal to the sum of the tariffs received in the Treasury after January 1, 1989, under headings 4401 through 4412 and subheadings 4418.50.00, 4418.90.20, 4420.10.00, 4420.90.80, 4421.90.10 through 4421.90.20, and 4421.90.70 of chapter 44, subheadings 6808.00.00 and 6809.11.00 of chapter 68 and subheading 9614.10.00 of chapter 96 of the Harmonized Tariff Schedule of the United States.
 
-(2) The Secretary shall not transfer more than $30,000,000 to the Trust Fund for any fiscal year.
+(2) **Frequency** — The amounts required to be transferred to the Trust Fund under paragraph (1) shall be transferred at least quarterly from the general fund of the Treasury to the Trust Fund on the basis of estimates made by the Secretary of the Treasury.
 
-(3) The amounts required to be transferred to the Trust Fund under paragraph (1) shall be transferred at least quarterly from the general fund of the Treasury to the Trust Fund on the basis of estimates made by the Secretary of the Treasury. Proper adjustment shall be made in the amounts subsequently transferred to the extent prior estimates were in excess of or less than the amounts required to be transferred.
+(3) **Adjustment of estimates** — Proper adjustment shall be made in the amounts subsequently transferred to the extent prior estimates were in excess of or less than the amounts required to be transferred.
 
 **(c) Report to Congress; printing as House and Senate document; investments; sale and redemption of obligations; credits for Trust Fund**
 
@@ -451,7 +537,7 @@ Section 15, formerly section 12 of Pub. L. 95–313, renumbered § 15, Pub. L. 1
 
 **(d) Obligations from Trust Fund** The Secretary of Agriculture is on and after December 19, 1985, authorized to obligate such sums as are available in the Trust Fund (including any amounts not obligated in previous fiscal years) for—
 
-(1) reforestation and timber stand improvement as specified in [section 1601(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1601/d&num=0&edition=prelim) and other forest stand improvement activities to enhance forest health and reduce hazardous fuel loads of forest stands in the National Forest System; and
+(1) reforestation and timber stand improvement as specified in subsection (e) of [section 1601 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1601) and other forest stand improvement activities to enhance forest health and reduce hazardous fuel loads of forest stands in the National Forest System; and
 
 (2) properly allocable administrative costs of the Federal Government for the activities specified above.
 
@@ -466,6 +552,10 @@ Section was not enacted as part of the Forest and Rangeland Renewable Resources 
 In subsec. (c)(2)(A), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act, as amended” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
+2021—Subsec. (b). Pub. L. 117–58, § 70302(b)(1), substituted “Transfers to Trust Fund” for “Transfer of certain tariff receipts to Trust Fund; fiscal year limitation; quarterly transfers; adjustment of estimates” in subsec. heading; inserted par. heading and substituted “The Secretary” for “Subject to the limitation in paragraph (2), the Secretary” in par. (1); struck out par. (2), which provided the Secretary could not transfer more than $30,000,000 to the Trust Fund for any fiscal year; redesignated par. (3) as (2) and inserted par. (2) heading; and redesignated second sentence of former par. (3) as (3) and inserted par. (3) heading.
+
+Subsec. (d)(1). Pub. L. 117–58, § 70302(b)(2), substituted “subsection (e) of section 1601” for “section 1601(d)” and made technical amendment to reference in original act which appears in text as reference to [section 1601 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1601).
+
 1997—Subsec. (d)(1). Pub. L. 105–83 inserted before semicolon “and other forest stand improvement activities to enhance forest health and reduce hazardous fuel loads of forest stands in the National Forest System”.
 
 1988—Subsec. (b)(1). Pub. L. 100–418 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Subject to the limitation in paragraph (2), the Secretary of the Treasury shall transfer to the Trust Fund an amount equal to the sum of the tariffs received in the Treasury after September 30, 1979, under subparts A and B of part 1 of schedule 2 of the Tariff Schedules of the United States ([19 U.S.C. 1202](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1202&num=0&edition=prelim)) and under part 3 of such schedule.”
@@ -490,7 +580,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (c)(1) of this
 <a id="section-1607"></a>
 ## § 1607. National Forest System renewable resources; development and administration by Secretary in accordance with multiple use and sustained yield concepts for products and services; target year for operational posture of resources; budget requests
 
-The Secretary shall take such action as will assure that the development and administration of the renewable resources of the National Forest System are in full accord with the concepts for multiple use and sustained yield of products and services as set forth in the Multiple-Use Sustained-Yield Act of 1960 [[16 U.S.C. 528–531](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section528–531&num=0&edition=prelim)]. To further these concepts, the Congress hereby sets the year 2000 as the target year when the renewable resources of the National Forest System shall be in an operating posture whereby all backlogs of needed treatment for their restoration shall be reduced to a current basis and the major portion of planned intensive multiple-use sustained-yield management procedures shall be installed and operating on an environmentally-sound basis. The annual budget shall contain requests for funds for an orderly program to eliminate such backlogs: Provided, That when the Secretary finds that (1) the backlog of areas that will benefit by such treatment has been eliminated, (2) the cost of treating the remainder of such area exceeds the economic and environmental benefits to be secured from their treatment, or (3) the total supplies of the renewable resources of the United States are adequate to meet the future needs of the American people, the budget request for these elements of restoration may be adjusted accordingly.
+The Secretary shall take such action as will assure that the development and administration of the renewable resources of the National Forest System are in full accord with the concepts for multiple use and sustained yield of products and services as set forth in the Multiple-Use Sustained-Yield Act of 1960 [[16 U.S.C. 528–531](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section528–531&num=0&edition=prelim)]. To further these concepts, the Congress hereby sets the year 2030 as the target year when the renewable resources of the National Forest System shall be in an operating posture whereby all backlogs of needed treatment for their restoration shall be reduced to a current basis and the major portion of planned intensive multiple-use sustained-yield management procedures shall be installed and operating on an environmentally-sound basis. The annual budget shall contain requests for funds for an orderly program to eliminate such backlogs: Provided, That when the Secretary finds that (1) the backlog of areas that will benefit by such treatment has been eliminated, (2) the cost of treating the remainder of such area exceeds the economic and environmental benefits to be secured from their treatment, or (3) the total supplies of the renewable resources of the United States are adequate to meet the future needs of the American people, the budget request for these elements of restoration may be adjusted accordingly.
 
 ### Statutory Notes
 
@@ -498,6 +588,8 @@ The Secretary shall take such action as will assure that the development and adm
 The Multiple-Use Sustained-Yield Act of 1960, referred to in text, is Pub. L. 86–517, June 12, 1960, 74 Stat. 215, as amended, which is classified generally to sections 528 to 531 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 528 of this title](./chapter-002-national-forests.md#section-528) and Tables.
 
 #### Amendments
+2021—Pub. L. 117–58 substituted “year 2030” for “year 2000”.
+
 2018—Pub. L. 115–141 substituted “Secretary shall take” for “Secretary of Agriculture shall take”.
 
 #### Transfer of Functions
@@ -519,11 +611,11 @@ For transfer of certain enforcement functions of Secretary or other official in 
 
 1976—Pub. L. 94–588, § 8, designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
-#### Transfer of Functions
-For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this subchapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under [section 1601 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1601).
-
 #### County Payment Mitigation; Transportation System Moratorium
 Pub. L. 105–174, title III, § 3006, May 1, 1998, 112 Stat. 85, provided that: “(a)(1) This section provides compensation for loss of revenues that would have been provided to counties if no road moratorium, as described in subsection (a)(2), were implemented or no substitute sales offered as described in subsection (b)(1). This section does not endorse or prohibit the road building moratorium nor does it affect the applicability of existing law to any moratorium. “(2) The Chief of the Forest Service, Department of Agriculture, in his sole discretion, may offer any timber sales that were scheduled October 1, 1997, or thereafter, to be offered in fiscal year 1998 or fiscal year 1999 even if such sales would have been delayed or halted as a result of any moratorium (resulting from the Federal Register proposal of January 28, 1998, pages 4351–4354) on construction of roads in roadless areas within the National Forest System adopted as policy or by regulation that would otherwise be applicable to such sales. “(3) Any sales offered pursuant to subsection (a)(2) shall—“(A) comply with all applicable laws and regulations and be consistent with applicable land and resource management plans, except any regulations or plan amendments which establish or implement the moratorium referred to in subsection (a)(2); and “(B) be subject to administrative appeals pursuant to part 215 of title 36 of the Code of Federal Regulations and to judicial review. “(b)(1) For any previously scheduled sales that are not offered pursuant to subsection (a)(2), the Chief may, to the extent practicable, offer substitute sales within the same State in fiscal year 1998 or fiscal year 1999. Such substitute sales shall be subject to the requirements of subsection (a)(3). “(2)(A) The Chief shall pay as soon as practicable after fiscal year 1998 and fiscal year 1999 to any State in which sales previously scheduled to be offered that are referred to in, but not offered pursuant to, subsection (a)(2) would have occurred, 25 percent of any anticipated receipts from such sales that—“(i) were scheduled from fiscal year 1998 or fiscal year 1999 sales in the absence of any moratorium referred to in subsection (a)(2); and “(ii) are not offset by revenues received in such fiscal years from substitute projects authorized pursuant to subsection (b)(1). “(B) After reporting the amount of funds required to make any payments required by subsection (b)(2)(A), and the source from which such funds are to be derived, to the Committees on Appropriations of the House of Representatives and the Senate, the Chief shall make any payments required by subsection (b)(2)(A) from any funds available to the Forest Service in fiscal year 1998 or fiscal year 1999, subject to approval of the Committees on Appropriations of the House of Representatives and the Senate, that are not specifically earmarked for another purpose by the applicable appropriation Act or a committee or conference report thereon. “(C) Any State which receives payments required by subsection (b)(2)(A) shall expend such funds only in the manner, and for the purposes, prescribed in [section 500 of title 16](./chapter-002-national-forests.md#section-500), United States Code. “(c)(1) During the term of the moratorium referred to in subsection (a)(2), the Chief shall prepare and submit to the Committees on Appropriations of the House of Representatives and the Senate a report on each of the following—“(A) a study of whether standards and guidelines in existing land and resource management plans compel or encourage entry into roadless areas within the National Forest System for the purpose of constructing roads or undertaking any other ground-disturbing activities; “(B) an inventory of all roads within the National Forest System and the uses which they serve, in a format that will inform and facilitate the development of a long-term Forest Service transportation policy; and “(C) a comprehensive and detailed analysis of the economic and social effects of the moratorium referred to in subsection (a)(2) on county, State, and regional levels.”
+
+#### Transfer of Functions
+For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this subchapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under [section 1601 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1601).
 
 
 <a id="section-1609"></a>
@@ -542,11 +634,11 @@ The Bankhead-Jones Farm Tenant Act, referred to in subsec. (a), is act July 22, 
 #### Amendments
 1976—Subsec. (a). Pub. L. 94–588, § 9, prohibited the return to the public domain of land reserved or withdrawn from the public domain as national forests pursuant to [section 471 of this title](./chapter-002-national-forests.md#section-471) except by an act of Congress.
 
-#### Transfer of Functions
-For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this subchapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under [section 1601 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1601).
-
 #### Land Conveyances Involving Joliet Army Ammunition Plant, Illinois
 Pub. L. 104–106, div. B, title XXIX, Feb. 10, 1996, 110 Stat. 594, as amended by Pub. L. 106–65, div. B, title XXVIII, § 2842, Oct. 5, 1999, 113 Stat. 863; Pub. L. 113–291, div. B, title XXVIII, § 2838, Dec. 19, 2014, 128 Stat. 3710; Pub. L. 115–232, div. B, title XXVIII, § 2848, Aug. 13, 2018, 132 Stat. 2279, provided that title XXIX could be cited as the “Illinois Land Conservation Act of 1995” and provided for conversion of Joliet Army Ammunition Plant to Midewin National Tallgrass Prairie, Illinois, to be managed by the Secretary of Agriculture as part of National Forest System, and for conveyance of certain real property at the Arsenal for a national cemetery, a Will County, Illinois, landfill, and industrial parks to replace all or a part of lost economic activity, with provisions prohibiting construction of title XXIX to restrict or lessen degree of cleanup required to be carried out under environmental laws, and provisions authorizing retention of real property used for environmental cleanup by Secretary of the Army until transfer occurs.
+
+#### Transfer of Functions
+For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this subchapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under [section 1601 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1601).
 
 
 <a id="section-1610"></a>
@@ -576,14 +668,14 @@ For transfer of certain enforcement functions of Secretary or other official in 
 #### Amendments
 2018—Subsec. (a). Pub. L. 115–141 substituted “Secretary shall limit” for “Secretary of Agriculture shall limit”.
 
-#### Transfer of Functions
-For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this subchapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under [section 1601 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1601).
-
 #### Timber Sales Pipeline Restoration Fund
 Pub. L. 104–134, title I, § 101(c) [title III, § 327], Apr. 26, 1996, 110 Stat. 1321–156, 1321–206; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, provided that: “(a) The Secretary of Agriculture and the Secretary of the Interior shall each establish a Timber Sales Pipeline Restoration Fund (hereinafter ‘Agriculture Fund’ and ‘Interior Fund’ or ‘Funds’). Any revenues received from sales released under section 2001(k) of the fiscal year 1995 Supplemental Appropriations for Disaster Assistance and Rescissions Act [probably means section 2001(k) of Pub. L. 104–19, set out below], minus the funds necessary to make payments to States or local governments under other law concerning the distribution of revenues derived from the affected lands, which are in excess of $37,500,000 (hereinafter ‘excess revenues’) shall be deposited into the Funds. The distribution of excess revenues between the Agriculture Fund and Interior Fund shall be calculated by multiplying the total of excess revenues times a fraction with a denominator of the total revenues received from all sales released under such section 2001(k) and numerators of the total revenues received from such sales on lands within the National Forest System and the total revenues received from such sales on lands administered by the Bureau of Land Management, respectively: Provided, That revenues or portions thereof from sales released under such section 2001(k), minus the amounts necessary for State and local government payments and other necessary deposits, may be deposited into the Funds immediately upon receipt thereof and subsequently redistributed between the Funds or paid into the United States Treasury as miscellaneous receipts as may be required when the calculation of excess revenues is made. “(b)(1) From the funds deposited into the Agriculture Fund and into the Interior Fund pursuant to subsection (a)—“(A) seventy-five percent shall be available, without fiscal year limitation or further appropriation, for preparation of timber sales, other than salvage sales as defined in section 2001(a)(3) of the fiscal year 1995 Supplemental Appropriations for Disaster Assistance and Rescissions Act [probably means section 2001(a)(3) of Pub. L. 104–19, set out below], which—“(i) are situated on lands within the National Forest System and lands administered by the Bureau of Land Management, respectively; and “(ii) are in addition to timber sales for which funds are otherwise available in this Act or other appropriations Acts; and “(B) twenty-five percent shall be available, without fiscal year limitation or further appropriation, to expend on the backlog of recreation projects on lands within the National Forest System and lands administered by the Bureau of Land Management, respectively. “(2) Expenditures under this subsection for preparation of timber sales may include expenditures for Forest Service activities within the forest land management budget line item and associated timber roads, and Bureau of Land Management activities within the Oregon and California grant lands account and the forestry management area account, as determined by the Secretary concerned. “(c) Revenues received from any timber sale prepared under subsection (b) or under this subsection, minus the amounts necessary for State and local government payments and other necessary deposits, shall be deposited into the Fund from which funds were expended on such sale. Such deposited revenues shall be available for preparation of additional timber sales and completion of additional recreation projects in accordance with the requirements set forth in subsection (b). “(d) The Secretary concerned shall terminate all payments into the Agriculture Fund or the Interior Fund, and pay any unobligated funds in the affected Fund into the United States Treasury as miscellaneous receipts, whenever the Secretary concerned makes a finding, published in the Federal Register, that sales sufficient to achieve the total allowable sales quantity of the National Forest System for the Forest Service or the allowable sales level for the Oregon and California grant lands for the Bureau of Land Management, respectively, have been prepared. “(e) Any timber sales prepared and recreation projects completed under this section shall comply with all applicable environmental and natural resource laws and regulations. “(f) The Secretary concerned shall report annually to the Committees on Appropriations of the United States Senate and the House of Representatives on expenditures made from the Fund for timber sales and recreation projects, revenues received into the Fund from timber sales, and timber sale preparation and recreation project work undertaken during the previous year and projected for the next year under the Fund. Such information shall be provided for each Forest Service region and Bureau of Land Management State office. “(g) The authority of this section shall terminate upon the termination of both Funds in accordance with the provisions of subsection (d).”
 
 #### Emergency Salvage Timber Sale Program
 Pub. L. 104–19, title II, § 2001, July 27, 1995, 109 Stat. 240, as amended by Pub. L. 104–134, title I, § 101(c) [title III, § 316], Apr. 26, 1996, 110 Stat. 1321–156, 1321–202; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, provided for salvage timber sales from certain Federal lands by the Secretary of Agriculture and the Secretary of the Interior from July 27, 1995 to Dec. 31, 1996.
+
+#### Transfer of Functions
+For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this subchapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under [section 1601 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1601).
 
 
 <a id="section-1612"></a>
@@ -597,11 +689,11 @@ Pub. L. 104–19, title II, § 2001, July 27, 1995, 109 Stat. 240, as amended by
 #### References in Text
 The Federal Advisory Committee Act, referred to in subsec. (b), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-#### Transfer of Functions
-For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this subchapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under [section 1601 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1601).
-
 #### Forest Service Decisionmaking and Appeals Reform
 Pub. L. 102–381, title III, § 322, Oct. 5, 1992, 106 Stat. 1419, which provided for the establishment of a notice and comment process for proposed actions of the Forest Service relating to certain land and resource management projects and required modification of the procedure for appeals of decisions concerning such projects, was repealed by Pub. L. 113–79, title VIII, § 8006(a), Feb. 7, 2014, 128 Stat. 913.
+
+#### Transfer of Functions
+For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this subchapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under [section 1601 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1601).
 
 
 <a id="section-1613"></a>

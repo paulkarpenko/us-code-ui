@@ -2,7 +2,7 @@
 title: 23
 heading: HIGHWAYS
 positive_law: true
-sections: 156
+sections: 169
 chapters: 6
 ---
 # Title 23. HIGHWAYS

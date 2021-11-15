@@ -475,15 +475,15 @@ It is the sense of Congress that—
 ## § 720n. Loan guarantees
 **(a) Authority**
 
-(1) The Secretary may enter into agreements with 1 or more holders of a certificate of public convenience and necessity issued under [section 720a(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section720a/b&num=0&edition=prelim) or [section 719g of this title](./chapter-15c-alaska-natural-gas-transportation.md#section-719g) or with an entity the Secretary determines is qualified to construct and operate a liquefied natural gas project to transport liquefied natural gas from Southcentral Alaska to West Coast States, to issue Federal guarantee instruments with respect to loans and other debt obligations for a qualified infrastructure project.
+(1) The Secretary may enter into agreements with 1 or more holders of a certificate of public convenience and necessity issued under [section 720a(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section720a/b&num=0&edition=prelim) or [section 719g of this title](./chapter-15c-alaska-natural-gas-transportation.md#section-719g) or with an entity the Secretary determines is qualified to construct and operate a liquefied natural gas project to transport liquefied natural gas from Southcentral Alaska, to issue Federal guarantee instruments with respect to loans and other debt obligations for a qualified infrastructure project.
 
 (2) Subject to the requirements of this section, the Secretary may also enter into agreements with 1 or more owners of the Canadian portion of a qualified infrastructure project to issue Federal guarantee instruments with respect to loans and other debt obligations for a qualified infrastructure project as though such owner were a holder described in paragraph (1).
 
-(3) The authority of the Secretary to issue Federal guarantee instruments under this section for a qualified infrastructure project shall expire on the date that is 2 years after the date on which the final certificate of public convenience and necessity (including any Canadian certificates of public convenience and necessity) is issued for the project. A final certificate shall be considered to have been issued when all certificates of public convenience and necessity have been issued that are required for the initial transportation of commercially economic quantities of natural gas from Alaska to the continental United States.
+(3) The authority of the Secretary to issue Federal guarantee instruments under this section for a qualified infrastructure project shall expire on the date that is 2 years after the date on which the final certificate of public convenience and necessity (including any Canadian certificates of public convenience and necessity) is issued for the project. A final certificate shall be considered to have been issued when all certificates of public convenience and necessity have been issued that are required for the initial transportation of commercially economic quantities of natural gas from Alaska.
 
 **(b) Conditions**
 
-(1) The Secretary may issue a Federal guarantee instrument for a qualified infrastructure project only after a certificate of public convenience and necessity under [section 720a(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section720a/b&num=0&edition=prelim) or an amended certificate under [section 719g of this title](./chapter-15c-alaska-natural-gas-transportation.md#section-719g) has been issued for the project, or after the Secretary certifies there exists a qualified entity to construct and operate a liquefied natural gas project to transport liquefied natural gas from Southcentral Alaska to West Coast States. In no case shall loan guarantees be issued for more than one qualified project.
+(1) The Secretary may issue a Federal guarantee instrument for a qualified infrastructure project only after a certificate of public convenience and necessity under [section 720a(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section720a/b&num=0&edition=prelim) or an amended certificate under [section 719g of this title](./chapter-15c-alaska-natural-gas-transportation.md#section-719g) has been issued for the project, or after the Secretary certifies there exists a qualified entity to construct and operate a liquefied natural gas project to transport liquefied natural gas from Southcentral Alaska. In no case shall loan guarantees be issued for more than one qualified project.
 
 (2) The Secretary may issue a Federal guarantee instrument under this section for a qualified infrastructure project only if the loan or other debt obligation guaranteed by the instrument has been issued by an eligible lender.
 
@@ -519,7 +519,7 @@ It is the sense of Congress that—
 
 (3) **Federal guarantee instrument** — The term “Federal guarantee instrument” means any guarantee or other pledge by the Secretary to pledge the full faith and credit of the United States to pay all of the principal and interest on any loan or other debt obligation entered into by a holder of a certificate of public convenience and necessity.
 
-(4) **Qualified infrastructure project** — The term “qualified infrastructure project” means an Alaskan natural gas transportation project or system consisting of the design, engineering, finance, construction, and completion of pipelines and related transportation and production systems (including gas treatment plants 11 So in original. Probably should be followed by a comma. liquification plants and liquefied natural gas tankers for transportation of liquefied natural gas from southcentral Alaska to the West Coast), and appurtenances thereto, that are used to transport natural gas from the Alaska North Slope to the continental United States.
+(4) **Qualified infrastructure project** — The term “qualified infrastructure project” means an Alaskan natural gas transportation project or system consisting of the design, engineering, finance, construction, and completion of pipelines and related transportation and production systems (including gas treatment plants, liquification plants, and liquefied natural gas tankers for transportation of liquefied natural gas from southcentral Alaska), and appurtenances thereto, that are used to transport natural gas from the Alaska North Slope.
 
 ### Statutory Notes
 
@@ -527,6 +527,14 @@ It is the sense of Congress that—
 The Securities Act of 1933, referred to in subsec. (g)(2), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, as amended, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see [section 77a of this title](./chapter-2a-securities-and-trust-indentures.md#section-77a) and Tables.
 
 #### Amendments
+2021—Subsec. (a)(1). Pub. L. 117–58, § 40401(d)(1)(A), struck out “to West Coast States” after “Alaska”.
+
+Subsec. (a)(3). Pub. L. 117–58, § 40401(d)(1)(B), struck out “to the continental United States” after “Alaska”.
+
+Subsec. (b)(1). Pub. L. 117–58, § 40401(d)(2), struck out “to West Coast States” after “Alaska”.
+
+Subsec. (g)(4). Pub. L. 117–58, § 40401(d)(3), substituted “plants, liquification plants, and” for “plants liquification plants and” and struck out “to the West Coast” after “southcentral Alaska” and “to the continental United States” after “Alaska North Slope”.
+
 2004—Subsec. (a)(1). Pub.L. 108–199, § 146(1), as amended by Pub. L. 108–447, § 114(a)(1), (2), which directed the amendment of subsec. (a) by inserting “or with an entity the Secretary determines is qualified to construct and operate a liquefied natural gas project to transport liquefied natural gas from Southcentral Alaska to West Coast States,” before “to issue”, was executed to par. (1) of subsec. (a) to reflect the probable intent of Congress.
 
 Subsec. (b)(1). Pub.L. 108–199, § 146(2), as amended by Pub. L. 108–447, § 114(1)–(3), inserted before period at end “, or after the Secretary certifies there exists a qualified entity to construct and operate a liquefied natural gas project to transport liquefied natural gas from Southcentral Alaska to West Coast States. In no case shall loan guarantees be issued for more than one qualified project”.

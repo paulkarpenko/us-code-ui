@@ -2,7 +2,7 @@
 title: 23
 chapter: '4'
 heading: HIGHWAY SAFETY
-section_count: 9
+section_count: 11
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23&num=0&edition=prelim
 ---
@@ -36,7 +36,7 @@ Pub. L. 100–17, title II, § 201, Apr. 2, 1987, 101 Stat. 218, provided that: 
 Pub. L. 97–424, title II, § 201, Jan. 6, 1983, 96 Stat. 2137, provided that: “This title [amending [section 402 of this title](./chapter-004-highway-safety.md#section-402) and enacting provisions set out as notes under this section and sections 130, 154, and 408 of this title] may be cited as the ‘Highway Safety Act of 1982’.”
 
 #### Short Title of 1978 Amendment
-Pub. L. 95–599, title II, § 201, Nov. 6, 1978, 92 Stat. 2727, provided that: “This title [enacting [section 407 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section407&num=0&edition=prelim), amending sections 154 and 402 of this title, and enacting provisions set out as notes under this section and sections 130, 307, 402, and 403 of this title] may be cited as the ‘Highway Safety Act of 1978’.”
+Pub. L. 95–599, title II, § 201, Nov. 6, 1978, 92 Stat. 2727, provided that: “This title [enacting [section 407 of this title](./chapter-004-highway-safety.md#section-407), amending sections 154 and 402 of this title, and enacting provisions set out as notes under this section and sections 130, 307, 402, and 403 of this title] may be cited as the ‘Highway Safety Act of 1978’.”
 
 #### Short Title of 1976 Amendment
 Pub. L. 94–280, title II, § 201, May 5, 1976, 90 Stat. 451, provided that: “That title [amending sections 104, 151, 402, 404, and 406 of this title and provisions set out as a note under [section 130 of this title](./chapter-001-federal-aid-highways.md#section-130) and enacting provisions set out as notes under sections 127 and 402 of this title] may be cited as the ‘Highway Safety Act of 1976’.”
@@ -49,6 +49,9 @@ Pub. L. 91–605, title II, § 201, Dec. 31, 1970, 84 Stat. 1739, provided that:
 
 #### Short Title
 Pub. L. 89–564, title II, § 208, Sept. 9, 1966, 80 Stat. 737, provided that: “This Act [enacting this chapter, amending sections 105 and 307 of this title, repealing sections 135 and 313 of this title, and enacting provisions set out as notes under this section and sections 303, 307, 402, and 403 of this title] may be cited as the ‘Highway Safety Act of 1966’.”
+
+#### Transportation Management Plans
+Pub. L. 117–58, div. A, title I, § 11303, Nov. 15, 2021, 135 Stat. 530, provided that: “(a) In General.—The Secretary [of Transportation] shall amend section 630.1010(c) of title 23, Code of Federal Regulations, to ensure that only a project described in that subsection with a lane closure for 3 or more consecutive days shall be considered to be a significant project for purposes of that section. “(b) Non-Interstate Projects.—Notwithstanding any other provision of law, a State shall not be required to develop or implement a transportation management plan (as described in section 630.1012 of title 23, Code of Federal Regulations (or successor regulations)) for a highway project not on the Interstate System if the project requires not more than 3 consecutive days of lane closures.”
 
 #### Highway Safety Grants Emergency Authority
 Pub. L. 116–260, div. N, title IV, § 442, Dec. 27, 2020, 134 Stat. 2069, provided that: “Notwithstanding any other provision of law, in fiscal year 2021, the Secretary of Transportation may exercise the authority provided by section 22005 of division B of the CARES Act ([23 U.S.C. 401](./chapter-004-highway-safety.md#section-401) note [set out below]; Public Law 116–136).”
@@ -68,9 +71,11 @@ Pub. L. 109–59, title I, § 1405, Aug. 10, 2005, 119 Stat. 1230, provided that
 Pub. L. 109–59, title I, § 1409(a)–(c), Aug. 10, 2005, 119 Stat. 1232, as amended by Pub. L. 114–94, div. A, title I, § 1417(a)(2), Dec. 4, 2015, 129 Stat. 1423, provided that: “(a) In General.—The Secretary [of Transportation] shall establish and implement a work zone safety grant program under which the Secretary may make grants to nonprofit organizations and not-for-profit organizations to provide training to prevent or reduce highway work zone injuries and fatalities. “(b) Eligible Activities.—Grants may be made under the program for the following purposes:“(1) Training for construction craft workers on the prevention of injuries and fatalities in highway and road construction. “(2) Development of guidelines for the prevention of highway work zone injuries and fatalities. “(3) Training for State and local government transportation agencies and other groups implementing guidelines for the prevention of highway work zone injuries and fatalities. “(4) Development, updating, and delivery of training courses on guard rail installation, maintenance, and inspection. “(c) Funding.—“(1) In general.—There is authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) to carry out this section $5,000,000 for each of fiscal years 2006 through 2009. “(2) Contract authority.—Funds authorized by this subsection shall be available for obligation in the same manner as if the funds were apportioned under chapter 1 of title 23, United States Code; except that such funds shall not be transferable.”
 
 #### Prohibition on Other Uses
-Pub. L. 114–94, div. A, title IV, § 4001(b), Dec. 4, 2015, 129 Stat. 1498, provided that: “Except as otherwise provided in chapter 4 of title 23, United States Code, and chapter 303 of title 49, United States Code, the amounts made available from the Highway Trust Fund (other than the Mass Transit Account) for a program under such chapters— “(1) shall only be used to carry out such program; and “(2) may not be used by States or local governments for construction purposes.”
+Pub. L. 117–58, div. B, title IV, § 24101(b), Nov. 15, 2021, 135 Stat. 784, provided that: “Except as otherwise provided in chapter 4 of title 23, and chapter 303 of title 49, United States Code, the amounts made available under subsection (a) [of section 24101 of Pub. L. 117–58, 135 Stat. 784] or any other provision of law from the Highway Trust Fund (other than the Mass Transit Account) for a program under those chapters— “(1) shall only be used to carry out that program; and “(2) may not be used by a State or local government for construction purposes.”
 
 Similar provisions were contained in the following prior acts:
+
+Pub. L. 114–94, div. A, title IV, § 4001(b), Dec. 4, 2015, 129 Stat. 1498.
 
 Pub. L. 112–141, div. C, title I, § 31101(b), July 6, 2012, 126 Stat. 733.
 
@@ -83,6 +88,8 @@ Pub. L. 105–178, title I, § 1213(c), June 9, 1998, 112 Stat. 200, provided th
 Pub. L. 104–59, title III, § 358(c), Nov. 28, 1995, 109 Stat. 625, provided that: “(1) Study.—The Secretary, in consultation with the Federal Communications Commission and the National Telecommunications and Information Administration, shall conduct a study to develop and evaluate radio and microwave technology for a motor vehicle safety warning system in furtherance of safety in all types of motor vehicles. “(2) Equipment.—Equipment developed under the study shall be directed toward, but not limited to, advance warning to operators of all types of motor vehicles of—“(A) temporary obstructions in a highway; “(B) poor visibility and highway surface conditions caused by adverse weather; and “(C) movement of emergency vehicles. “(3) Safety applications.—In conducting the study, the Secretary shall determine whether the technology described in this subsection has other appropriate safety applications.”
 
 #### Work Zone Safety Program
+Pub. L. 117–58, div. A, title I, § 11302, Nov. 15, 2021, 135 Stat. 530, provided that: “The Secretary [of Transportation] shall amend section 630.1008(e) of title 23, Code of Federal Regulations, to ensure that the work zone process review under that subsection is required not more frequently than once every 5 years.”
+
 Pub. L. 109–59, title I, § 1410, Aug. 10, 2005, 119 Stat. 1233, provided that: “(a) Grants.—The Secretary [of Transportation] shall make grants for fiscal years 2006 through 2009 to a national nonprofit foundation for the operation of the National Work Zone Safety Information Clearinghouse, authorized by section 358(b)(2) of Public Law 104–59 [set out below], created for the purpose of assembling and disseminating, by electronic and other means, information relating to improvement of roadway work zone safety. “(b) Authorization of Appropriations.—There is authorized to be appropriated out of the Highway Trust Fund (other than the Mass Transit Account) to carry out this section $1,000,000 for each of fiscal years 2006 through 2009. “(c) Contract Authority.—Funds authorized by this subsection shall be available for obligation in the same manner as if the funds were apportioned under chapter 1 of title 23, United States Code, except the Federal share of the cost of activities carried out using such funds shall be 100 percent, and such funds shall remain available until expended and shall not be transferable.”
 
 Pub. L. 104–59, title III, § 358(b), Nov. 28, 1995, 109 Stat. 625, provided that: “In carrying out the work zone safety program under section 1051 of the Intermodal Surface Transportation Efficiency Act of 1991 [Pub. L. 102–240] ([23 U.S.C. 401](./chapter-004-highway-safety.md#section-401) note; 105 Stat. 2001), the Secretary shall utilize a variety of methods to increase safety at highway construction sites, including each of the following: “(1) Conducting conferences to explore new techniques and stimulate dialogue for improving work zone safety. “(2) Establishing a national clearinghouse to assemble and disseminate, by electronic and other means, information relating to the improvement of work zone safety. “(3) Conducting a national promotional campaign in cooperation with the States to provide timely, site-specific information to motorists when construction workers are actually present. “(4) Encouraging the use of enforceable speed limits in work zones. “(5) Developing training programs for work site designers and construction workers to promote safe work zone practices. “(6) Encouraging the use of unit price bid items in contracts for traffic control devices and implementation of traffic control plans.”
@@ -376,7 +383,420 @@ Pub. L. 85–684, Aug. 20, 1958, 72 Stat. 635, as amended by Pub. L. 88–466, A
 
 **(n) Public Transparency.—** The Secretary shall publicly release on its website information that contains each State’s performance with respect to the State’s highway safety plan under subsection (k) and performance targets set by the States in such plans. Such information shall be posted on the website within 45 calendar days of approval of a State’s highway safety plan.
 
+**(o) Unattended Passengers.—**
+
+(1) **In general.—** — Each State shall use a portion of the amounts received by the State under this section to carry out a program to educate the public regarding the risks of leaving a child or unattended passenger in a vehicle after the vehicle motor is deactivated by the operator.
+
+(2) **Program placement.—** — Nothing in this subsection requires a State to carry out a program described in paragraph (1) through the State transportation or highway safety office.
+
 ### Statutory Notes
+
+#### Amendment of Section
+Pub. L. 117–58, div. B, title IV, § 24102, Nov. 15, 2021, 135 Stat. 785, made numerous amendments to this section, effective with respect to any grant application or State highway safety plan submitted under chapter 4 of title 23, United States Code, for fiscal year 2024 or thereafter. After such effective date, this section will read as follows:
+
+§ 402. Highway safety programs
+
+(a) Program Required.—
+
+(1) In general.—Each State shall have in effect a highway safety program that—
+
+(i) is designed to reduce—
+
+(I) traffic crashes; and
+
+(II) deaths, injuries, and property damage resulting from those crashes;
+
+(ii) includes—
+
+(I) an approved, current, triennial highway safety plan in accordance with subsection (k); and
+
+(II) an approved grant application under subsection (l) for the fiscal year;
+
+(iii) demonstrates compliance with the applicable administrative requirements of subsection (b)(1); and
+
+(iv) is approved by the Secretary.
+
+(2) Uniform guidelines.—Programs required under paragraph (1) shall comply with uniform guidelines, promulgated by the Secretary and expressed in terms of performance criteria, that—
+
+(A) include programs—
+
+(i) to reduce injuries and deaths resulting from motor vehicles being driven in excess of posted speed limits;
+
+(ii) to encourage the proper use of safety belts by occupants of motor vehicles;
+
+(iii) to encourage more widespread and proper use of child restraints, with an emphasis on underserved populations;
+
+(iv) to reduce injuries and deaths resulting from persons driving motor vehicles while impaired by alcohol or a controlled substance;
+
+(v) to prevent crashes and reduce injuries and deaths resulting from crashes involving motor vehicles and motorcycles;
+
+(vi) to reduce injuries and deaths resulting from crashes involving school buses;
+
+(vii) to reduce crashes resulting from unsafe driving behavior (including aggressive or fatigued driving and distracted driving arising from the use of electronic devices in vehicles);
+
+(viii) to improve law enforcement services in motor vehicle crash prevention, traffic supervision, and post-crash procedures;
+
+(ix) to increase driver awareness of commercial motor vehicles to prevent crashes and reduce injuries and fatalities;
+
+(x) to reduce crashes caused by driver misuse or misunderstanding of new vehicle technology;
+
+(xi) to increase vehicle recall awareness;
+
+(xii) to provide to the public information relating to the risks of child heatstroke death when left unattended in a motor vehicle after the motor is deactivated by the operator;
+
+(xiii) to reduce injuries and deaths resulting from the failure by drivers of motor vehicles to move to another traffic lane or reduce the speed of the vehicle when law enforcement, fire service, emergency medical services, or other emergency or first responder vehicles are stopped or parked on or next to a roadway with emergency lights activated; and
+
+(xiv) to prevent crashes, injuries, and deaths caused by unsecured vehicle loads;
+
+(B) improve driver performance, including—
+
+(i) driver education;
+
+(ii) driver testing to determine proficiency to operate motor vehicles; and
+
+(iii) driver examinations (physical, mental, and driver licensing);
+
+(C) improve pedestrian performance and bicycle safety;
+
+(D) include provisions for—
+
+(i) an effective record system of crashes (including resulting injuries and deaths);
+
+(ii) crash investigations to determine the probable causes of crashes, injuries, and deaths;
+
+(iii) vehicle registration, operation, and inspection; and
+
+(iv) emergency services; and
+
+(E) to the extent determined appropriate by the Secretary, are applicable to federally administered areas where a Federal department or agency controls the highways or supervises traffic operations.
+
+(3) Additional considerations.—A State that has legalized medicinal or recreational marijuana shall take into consideration implementing programs in addition to the programs described in paragraph (2)(A)—
+
+(A) to educate drivers regarding the risks associated with marijuana-impaired driving; and
+
+(B) to reduce injuries and deaths resulting from individuals driving motor vehicles while impaired by marijuana.
+
+(b) Administration of State Programs.—
+
+(1) Administrative requirements.—The Secretary shall not approve a State highway safety program under this section which does not—
+
+(A) provide that the Governor of the State shall be responsible for the administration of the program through a State highway safety agency which shall have adequate powers and be suitably equipped and organized to carry out, to the satisfaction of the Secretary, such program;
+
+(B) provide for a comprehensive, data-driven traffic safety program that results from meaningful public participation and engagement from affected communities, particularly those most significantly impacted by traffic crashes resulting in injuries and fatalities;
+
+(C) except as provided in paragraph (2), provide that at least 40 percent of all Federal funds apportioned under this section to the State for any fiscal year will be expended by the political subdivisions of the State, including Indian tribal governments, in carrying out local highway safety programs;
+
+(D) provide adequate and reasonable access for the safe and convenient movement of individuals, including those with disabilities and those in wheelchairs, across curbs constructed or replaced on or after July 1, 1976, at all pedestrian crosswalks throughout the State;
+
+(E) as part of a comprehensive program, support—
+
+(i) data-driven traffic safety enforcement programs that foster effective community collaboration to increase public safety; and
+
+(ii) data collection and analysis to ensure transparency, identify disparities in traffic enforcement, and inform traffic enforcement policies, procedures, and activities; and
+
+(F) provide satisfactory assurances that the State will implement activities in support of national highway safety goals to reduce motor vehicle related fatalities that also reflect the primary data-related crash factors within a State as identified by the State highway safety planning process, including—
+
+(i) national, high-visibility law enforcement mobilizations coordinated by the Secretary;
+
+(ii) sustained enforcement of statutes addressing impaired driving, occupant protection, and driving in excess of posted speed limits;
+
+(iii) an annual statewide safety belt use survey in accordance with criteria established by the Secretary for the measurement of State safety belt use rates to ensure that the measurements are accurate and representative;
+
+(iv) development of statewide data systems to provide timely and effective data analysis to support allocation of highway safety resources;
+
+(v) ensuring that the State will coordinate its highway safety plan, data collection, and information systems with the State strategic highway safety plan (as defined in section 148(a)); and
+
+(vi) unless the State highway safety program is developed by American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, or the United States Virgin Islands, participation in the Fatality Analysis Reporting System.
+
+(2) Waiver.—The Secretary may waive the requirement of paragraph (1)(C), in whole or in part, for a fiscal year for any State whenever the Secretary determines that there is an insufficient number of local highway safety programs to justify the expenditure in the State of such percentage of Federal funds during the fiscal year.
+
+(c) Use of Funds.—
+
+(1) Use for state activities.—
+
+(A) In general.—The funds authorized to be appropriated to carry out this section shall be used to aid the States to conduct the highway safety programs approved in accordance with subsection (a), including development and implementation of manpower training programs, and of demonstration programs that the Secretary determines will contribute directly to the reduction of crashes, and deaths and injuries resulting therefrom.
+
+(B) Neighboring states.—A State, acting in cooperation with any neighboring State, may use funds provided under this section for a highway safety program that may confer a benefit on the neighboring State.
+
+(2) Apportionment to states.—
+
+(A) Definition of public road.—In this paragraph, the term “public road” means any road that is—
+
+(i) subject to the jurisdiction of, and maintained by, a public authority; and
+
+(ii) held open to public travel.
+
+(B) Apportionment.—
+
+(i) In general.—Except for the amounts identified in section 403(f) and the amounts subject to subparagraph (C), of the funds made available under this section—
+
+(I) 75 percent shall be apportioned to each State based on the ratio that, as determined by the most recent decennial census—
+
+(aa) the population of the State; bears to
+
+(bb) the total population of all States; and
+
+(II) 25 percent shall be apportioned to each State based on the ratio that, subject to clause (ii)—
+
+(aa) the public road mileage in each State; bears to
+
+(bb) the total public road mileage in all States.
+
+(ii) Calculation.—For purposes of clause (i)(II), public road mileage shall be—
+
+(I) determined as of the end of the calendar year preceding the year during which the funds are apportioned;
+
+(II) certified by the Governor of the State; and
+
+(III) subject to approval by the Secretary.
+
+(C) Minimum apportionments.—The annual apportionment under this section to—
+
+(i) each State shall be not less than ¾ of 1 percent of the total apportionment;
+
+(ii) the Secretary of the Interior shall be not less than 2 percent of the total apportionment; and
+
+(iii) the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands shall be not less than ¼ of 1 percent of the total apportionment.
+
+(D) Penalty.—
+
+(i) In general.—The funds apportioned under this section to a State that does not have approved or in effect a highway safety program described in subsection (a)(1) shall be reduced by an amount equal to not less than 20 percent of the amount that would otherwise be apportioned to the State under this section, until the date on which the Secretary, as applicable—
+
+(I) approves such a highway safety program; or
+
+(II) determines that the State is implementing such a program.
+
+(ii) Factor for consideration.—In determining the amount of the reduction in funds apportioned to a State under this subparagraph, the Secretary shall take into consideration the gravity of the failure by the State to secure approval, or to implement, a highway safety program described in subsection (a)(1).
+
+(E) Limitations.—
+
+(i) In general.—A highway safety program approved by the Secretary shall not include any requirement that a State shall implement such a program by adopting or enforcing any law, rule, or regulation based on a guideline promulgated by the Secretary under this section requiring any motorcycle operator aged 18 years or older, or a motorcycle passenger aged 18 years or older, to wear a safety helmet when operating or riding a motorcycle on the streets and highways of that State.
+
+(ii) Effect of guidelines.—Nothing in this section requires a State highway safety program to require compliance with every uniform guideline, or with every element of every uniform guideline, in every State.
+
+(3) Reapportionment.—
+
+(A) In general.—The Secretary shall promptly apportion to a State any funds withheld from the State under paragraph (2)(D) if the Secretary makes an approval or determination, as applicable, described in that paragraph by not later than July 31 of the fiscal year for which the funds were withheld.
+
+(B) Continuing state failure.—If the Secretary determines that a State fails to correct a failure to have approved or in effect a highway safety program described in subsection (a)(1) by the date described in subparagraph (A), the Secretary shall reapportion the funds withheld from that State under paragraph (2)(D) for the fiscal year to the other States in accordance with the formula described in paragraph (2)(B) by not later than the last day of the fiscal year.
+
+(4) Automated traffic enforcement systems.—
+
+(A) Automated traffic enforcement system defined.—In this paragraph, the term “automated traffic enforcement system” means any camera which captures an image of a vehicle for the purposes only of red light and speed enforcement, and does not include hand held radar and other devices operated by law enforcement officers to make an on-the-scene traffic stop, issue a traffic citation, or other enforcement action at the time of the violation.
+
+(B) Prohibition.—A State may not expend funds apportioned to that State under this section to carry out a program to purchase, operate, or maintain an automated traffic enforcement system.
+
+(C) Special rule for school and work zones.—Notwithstanding subparagraph (B), a State may expend funds apportioned to the State under this section to carry out a program to purchase, operate, or maintain an automated traffic enforcement system in a work zone or school zone.
+
+(D) Automated traffic enforcement system guidelines.—An automated traffic enforcement system installed pursuant to subparagraph (C) shall comply with such guidelines applicable to speed enforcement camera systems and red light camera systems as are established by the Secretary.
+
+(d) All provisions of chapter 1 of this title that are applicable to National Highway System highway funds other than provisions relating to the apportionment formula and provisions limiting the expenditure of such funds to the Federal-aid systems, shall apply to the highway safety funds authorized to be appropriated to carry out this section, except as determined by the Secretary to be inconsistent with this section, and except that the aggregate of all expenditures made during any fiscal year by a State and its political subdivisions (exclusive of Federal funds) for carrying out the State highway safety program (other than planning and administration) shall be available for the purpose of crediting such State during such fiscal year for the non-Federal share of the cost of any project under this section (other than one for planning or administration) without regard to whether such expenditures were actually made in connection with such project and except that, in the case of a local highway safety program carried out by an Indian tribe, if the Secretary is satisfied that an Indian tribe does not have sufficient funds available to meet the non-Federal share of the cost of such program, he may increase the Federal share of the cost thereof payable under this Act to the extent necessary. In applying such provisions of chapter 1 in carrying out this section the term “State transportation department” as used in such provisions shall mean the Governor of a State for the purposes of this section.
+
+(e) Uniform guidelines promulgated by the Secretary to carry out this section shall be developed in cooperation with the States, their political subdivisions, appropriate Federal departments and agencies, and such other public and private organizations as the Secretary deems appropriate.
+
+(f) The Secretary may make arrangements with other Federal departments and agencies for assistance in the preparation of uniform guidelines for the highway safety programs contemplated by subsection (a) and in the administration of such programs. Such departments and agencies are directed to cooperate in such preparation and administration, on a reimbursable basis.
+
+(g) Restriction.—Nothing in this section may be construed to authorize the appropriation or expenditure of funds for highway construction, maintenance, or design (other than design of safety features of highways to be incorporated into guidelines).
+
+(h) Application in Indian Country.—
+
+(1) Use of terms.—For the purpose of application of this section in Indian country, the terms “State” and “Governor of a State” include the Secretary of the Interior and the term “political subdivision of a State” includes an Indian tribe.
+
+(2) Expenditures for local highway programs.—Notwithstanding subsection (b)(1)(C), 95 percent of the funds apportioned to the Secretary of the Interior under this section shall be expended by Indian tribes to carry out highway safety programs within their jurisdictions.
+
+(3) Access for individuals with disabilities.—The requirements of subsection (b)(1)(D) shall be applicable to Indian tribes, except to those tribes with respect to which the Secretary determines that application of such provisions would not be practicable.
+
+(4) Indian country defined.—In this subsection, the term “Indian country” means—
+
+(A) all land within the limits of any Indian reservation under the jurisdiction of the United States, notwithstanding the issuance of any patent and including rights-of-way running through the reservation;
+
+(B) all dependent Indian communities within the borders of the United States, whether within the original or subsequently acquired territory thereof and whether within or without the limits of a State; and
+
+(C) all Indian allotments, the Indian titles to which have not been extinguished, including rights-of-way running through such allotments.
+
+(i) Rulemaking Proceeding.—The Secretary may periodically conduct a rulemaking process to identify highway safety programs that are highly effective in reducing motor vehicle crashes, injuries, and deaths. Any such rulemaking shall take into account the major role of the States in implementing such programs. When a rule promulgated in accordance with this section takes effect, States shall consider these highly effective programs when developing their highway safety programs.
+
+(j) Law Enforcement Vehicular Pursuit Training.—A State shall actively encourage all relevant law enforcement agencies in such State to follow the guidelines established for vehicular pursuits issued by the International Association of Chiefs of Police that are in effect on the date of enactment of this subsection or as revised and in effect after such date as determined by the Secretary.
+
+(k) Triennial Highway Safety Plan.—
+
+(1) In general.—For fiscal year 2024, and not less frequently than once every 3 fiscal years thereafter, the Secretary shall require each State, as a condition of the approval of the State’s highway safety program for the 3 fiscal years covered by the plan, to develop and submit to the Secretary for approval a triennial highway safety plan that complies with the requirements under this subsection.
+
+(2) Timing.—Each State shall submit to the Secretary a triennial highway safety plan by not later than July 1 of the fiscal year preceding the first fiscal year covered by the plan.
+
+(3) Electronic submission.—The Secretary, in coordination with the Governors Highway Safety Association, shall develop procedures to allow States to submit triennial highway safety plans under this subsection, including any attachments to the plans, in electronic form.
+
+(4) Contents.—Each State triennial highway safety plan submitted under paragraph (1) shall include, with respect to the 3 fiscal years covered by the plan, based on the information available on the date of submission under paragraph (2)—
+
+(A) performance measures required by the Secretary or otherwise necessary to support additional State safety goals, including—
+
+(i) documentation of current safety levels for each performance measure;
+
+(ii) quantifiable performance targets that demonstrate constant or improved performance for each performance measure; and
+
+(iii) a justification for each performance target, that explains why each target is appropriate and evidence-based;
+
+(B) a countermeasure strategy for programming funds under this section for projects that will allow the State to meet the performance targets described in subparagraph (A), including a description—
+
+(i) that demonstrates the link between the effectiveness of each proposed countermeasure strategy and those performance targets; and
+
+(ii) of the manner in which each countermeasure strategy is informed by uniform guidelines issued by the Secretary;
+
+(C) data and data analysis supporting the effectiveness of proposed countermeasures;
+
+(D) a description of any Federal funds that the State plans to use, in addition to funds apportioned to the State under this section, to carry out the strategy described in subparagraph (B); and
+
+(E) a report on the State’s success in meeting State safety goals and performance targets set forth in the most recently submitted highway safety plan.
+
+(5) Performance measures.—The Secretary shall develop minimum performance measures under paragraph (4)(A) in consultation with the Governors Highway Safety Association.
+
+(6) Review of triennial highway safety plans.—
+
+(A) In general.—Except as provided in subparagraph (B), the Secretary shall review and approve or disapprove a triennial highway safety plan of a State by not later than 60 days after the date on which the plan is received by the Secretary.
+
+(B) Additional information.—
+
+(i) In general.—The Secretary may request a State to submit to the Secretary such additional information as the Secretary determines to be necessary for review of the triennial highway safety plan of the State.
+
+(ii) Extension of deadline.—On providing to a State a request for additional information under clause (i), the Secretary may extend the deadline to approve or disapprove the triennial highway safety plan of the State under subparagraph (A) for not more than an additional 90 days, as the Secretary determines to be necessary to accommodate that request, subject to clause (iii).
+
+(iii) Timing.—Any additional information requested under clause (i) shall be submitted to the Secretary by not later than 7 business days after the date of receipt by the State of the request.
+
+(C) Approvals and disapprovals.—
+
+(i) Approvals.—The Secretary shall approve a State’s triennial highway safety plan if the Secretary determines that—
+
+(I) the plan and the performance targets contained in the plan are evidence-based and supported by data; and
+
+(II) the plan, once implemented, will allow the State to meet the State’s performance targets.
+
+(ii) Disapprovals.—The Secretary shall disapprove a State’s triennial highway safety plan if the Secretary determines that—
+
+(I) the plan and the performance targets contained in the plan are not evidence-based or supported by data; or
+
+(II) the plan does not provide for programming of funding in a manner sufficient to allow the State to meet the State’s performance targets.
+
+(D) Actions upon disapproval.—If the Secretary disapproves a State’s triennial highway safety plan, the Secretary shall—
+
+(i) inform the State of the reasons for such disapproval; and
+
+(ii) require the State to resubmit the plan with any modifications that the Secretary determines to be necessary.
+
+(E) Review of resubmitted plans.—If the Secretary requires a State to resubmit a triennial highway safety plan, with modifications, the Secretary shall review and approve or disapprove the modified plan not later than 30 days after the date on which the Secretary receives such plan.
+
+(F) Public notice.—A State shall make the State’s triennial highway safety plan, and decisions of the Secretary concerning approval or disapproval of a revised plan, available to the public.
+
+(l) Annual Grant Application and Reporting Requirements.—
+
+(1) Annual grant application.—
+
+(A) In general.—To be eligible to receive grant funds under this chapter for a fiscal year, each State shall submit to the Secretary an annual grant application that, as determined by the Secretary—
+
+(i) demonstrates alignment with the approved triennial highway safety plan of the State; and
+
+(ii) complies with the requirements under this subsection.
+
+(B) Timing.—The deadline for submission of annual grant applications under this paragraph shall be determined by the Secretary in accordance with section 406(d)(2).
+
+(C) Contents.—An annual grant application under this paragraph shall include, at a minimum—
+
+(i) such updates, as necessary, to any analysis included in the triennial highway safety plan of the State;
+
+(ii) an identification of each project and subrecipient to be funded by the State using the grants during the upcoming grant year, subject to the condition that the State shall separately submit, on a date other than the date of submission of the annual grant application, a description of any projects or subrecipients to be funded, as that information becomes available;
+
+(iii) a description of the means by which the strategy of the State to use grant funds was adjusted and informed by the previous report of the State under paragraph (2); and
+
+(iv) an application for any additional grants available to the State under this chapter.
+
+(D) Review.—The Secretary shall review and approve or disapprove an annual grant application under this paragraph by not later than 60 days after the date of submission of the application.
+
+(2) Reporting requirements.—Not later than 120 days after the end of each fiscal year for which a grant is provided to a State under this chapter, the State shall submit to the Secretary an annual report that includes—
+
+(A) an assessment of the progress made by the State in achieving the performance targets identified in the triennial highway safety plan of the State, based on the most currently available Fatality Analysis Reporting System data; and
+
+(B)(i) a description of the extent to which progress made in achieving those performance targets is aligned with the triennial highway safety plan of the State; and
+
+(ii) if applicable, any plans of the State to adjust a strategy for programming funds to achieve the performance targets.
+
+(m) Teen Traffic Safety.—
+
+(1) In general.—Subject to the requirements of the applicable triennial highway safety plan of the State, as approved by the Secretary under subsection (k), a State may use a portion of the amounts received under this section to implement statewide efforts to improve traffic safety for teen drivers.
+
+(2) Use of funds.—Statewide efforts under paragraph (1)—
+
+(A) shall include peer-to-peer education and prevention strategies in schools and communities designed to—
+
+(i) increase safety belt use;
+
+(ii) reduce speeding;
+
+(iii) reduce impaired and distracted driving;
+
+(iv) reduce underage drinking; and
+
+(v) reduce other behaviors by teen drivers that lead to injuries and fatalities; and
+
+(B) may include—
+
+(i) working with student-led groups and school advisors to plan and implement teen traffic safety programs;
+
+(ii) providing subgrants to schools throughout the State to support the establishment and expansion of student groups focused on teen traffic safety;
+
+(iii) providing support, training, and technical assistance to establish and expand school and community safety programs for teen drivers;
+
+(iv) creating statewide or regional websites to publicize and circulate information on teen safety programs;
+
+(v) conducting outreach and providing educational resources for parents;
+
+(vi) establishing State or regional advisory councils comprised of teen drivers to provide input and recommendations to the governor and the governor’s safety representative on issues related to the safety of teen drivers;
+
+(vii) collaborating with law enforcement;
+
+(viii) establishing partnerships and promoting coordination among community stakeholders, including public, not-for-profit, and for profit entities;
+
+(ix) increase driver awareness of commercial motor vehicles to prevent crashes and reduce injuries and fatalities; and
+
+(x) support for school-based driver’s education classes to improve teen knowledge about—
+
+(I) safe driving practices; and
+
+(II) State graduated driving license requirements, including behind-the-wheel training required to meet those requirements.
+
+(n) Public Transparency.—
+
+(1) In general.—The Secretary shall publicly release on a Department of Transportation website, by not later than 45 calendar days after the applicable date of availability—
+
+(A) each triennial highway safety plan approved by the Secretary under subsection (k);
+
+(B) each State performance target under subsection (k); and
+
+(C) an evaluation of State achievement of applicable performance targets under subsection (k).
+
+(2) State highway safety plan website.—
+
+(A) In general.—In carrying out paragraph (1), the Secretary shall establish a public website that is easily accessible, navigable, and searchable for the information required under that paragraph, in order to foster greater transparency in approved State highway safety programs.
+
+(B) Contents.—The website established under subparagraph (A) shall—
+
+(i) include the applicable triennial highway safety plan, and the annual report, of each State submitted to, and approved by, the Secretary under subsection (k); and
+
+(ii) provide a means for the public to search the website for State highway safety program content required under subsection (k), including—
+
+(I) performance measures required by the Secretary;
+
+(II) progress made toward meeting the applicable performance targets during the preceding program year;
+
+(III) program areas and expenditures; and
+
+(IV) a description of any sources of funds, other than funds provided under this section, that the State proposes to use to carry out the triennial highway safety plan of the State.
+
+(o) Unattended Passengers.—
+
+(1) In general.—Each State shall use a portion of the amounts received by the State under this section to carry out a program to educate the public regarding the risks of leaving a child or unattended passenger in a vehicle after the vehicle motor is deactivated by the operator.
+
+(2) Program placement.—Nothing in this subsection requires a State to carry out a program described in paragraph (1) through the State transportation or highway safety office.
+
+See 2021 Amendment notes below.
 
 #### References in Text
 The date of enactment of the Motor Vehicle and Highway Safety Improvement Act of 2012, referred to in subsec. (b)(1)(E), is the date of enactment of title I of div. C of Pub. L. 112–141, which was approved July 6, 2012.
@@ -386,6 +806,76 @@ This Act, referred to in subsec. (d), probably means Pub. L. 93–87, Aug. 13, 1
 The date of enactment of this subsection, referred to in subsec. (j), is the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005.
 
 #### Amendments
+2021—Pub. L. 117–58, § 24102(a)(1), (2), substituted “crashes” for “accidents” and “crash” for “accident” wherever appearing. Amendment was executed in subsec. (a)(2)(A)(viii) by substituting “post-crash” for “post-accident” to reflect the probable intent of Congress.
+
+Subsec. (a)(1). Pub. L. 117–58, § 24102(a)(3)(A), substituted “shall have in effect a highway safety program that—” and cls. (i) to (iv) for “shall have a highway safety program, approved by the Secretary, that is designed to reduce traffic accidents and the resulting deaths, injuries, and property damage.”
+
+Subsec. (a)(2)(A)(ii). Pub. L. 117–58, § 24102(a)(3)(B)(i), substituted “safety belts” for “occupant protection devices (including the use of safety belts and child restraint systems)”.
+
+Subsec. (a)(2)(A)(iii) to (xiv). Pub. L. 117–58, § 24102(a)(3)(B)(ii)–(v), added cls. (iii) and (x) to (xiv) and redesignated former cls. (iii) to (viii) as (iv) to (ix), respectively.
+
+Subsec. (a)(3). Pub. L. 117–58, § 24102(a)(3)(C), added par. (3).
+
+Subsec. (b)(1). Pub. L. 117–58, § 24102(a)(4)(A), substituted “shall” for “may” in introductory provisions.
+
+Subsec. (b)(1)(B). Pub. L. 117–58, § 24102(a)(4)(B), added subpar. (B) and struck out former subpar. (B) which read as follows: “authorize political subdivisions of the State to carry out local highway safety programs within their jurisdictions as a part of the State highway safety program if such local highway safety programs are approved by the Governor and are in accordance with the minimum standards established by the Secretary under this section;”.
+
+Subsec. (b)(1)(C). Pub. L. 117–58, § 24102(a)(4)(C), struck out “authorized in accordance with subparagraph (B)” after “local highway safety programs”.
+
+Subsec. (b)(1)(D). Pub. L. 117–58, § 24102(a)(4)(D), substituted “, including those with disabilities and those in wheelchairs” for “with disabilities, including those in wheelchairs”.
+
+Subsec. (b)(1)(E). Pub. L. 117–58, § 24102(a)(4)(E), added subpar. (E) and struck out former subpar. (E) which read as follows: “beginning on the first day of the first fiscal year after the date of enactment of the Motor Vehicle and Highway Safety Improvement Act of 2012 for which a State submits its highway safety plan under subsection (k), provide for a data-driven traffic safety enforcement program to prevent traffic violations, crashes, and crash fatalities and injuries in areas most at risk for such incidents, to the satisfaction of the Secretary;”.
+
+Subsec. (b)(1)(F)(i). Pub. L. 117–58, § 24102(a)(4)(F)(i), substituted “national, high-visibility” for “national law enforcement mobilizations and high-visibility”.
+
+Subsec. (b)(1)(F)(vi). Pub. L. 117–58, § 24102(a)(4)(F)(ii)–(iv), added cl. (vi).
+
+Subsec. (c)(1). Pub. L. 117–58, § 24102(a)(5)(A), substituted “Use for state activities” for “In general” in par. heading; designated existing provisions as subpar. (A), inserted subpar. heading, and substituted “The funds authorized” for “Funds authorized”; and added subpar. (B).
+
+Subsec. (c)(2), (3). Pub. L. 117–58, § 24102(a)(5)(B), added pars. (2) and (3) and struck out former pars. (2) and (3) which related to apportionment and reapportionment of funds for highway safety programs, respectively.
+
+Subsec. (c)(4). Pub. L. 117–58, § 24102(a)(5)(C), redesignated subpars. (A) and (B) as (B) and (A), respectively, added subpars. (C) and (D), and struck out former subpar. (C) which required a State with an automated traffic enforcement system to conduct a biennial survey that the Secretary would make publicly available through the Internet Web site of the Department of Transportation.
+
+Subsec. (k). Pub. L. 117–58, § 24102(a)(6)(A), substituted “Triennial Highway Safety Plan” for “Highway Safety Plan and Reporting Requirements” in heading.
+
+Subsec. (k)(1). Pub. L. 117–58, § 24102(a)(6)(A), (B), reenacted heading without change and substituted “For fiscal year 2024, and not less frequently than once every 3 fiscal years thereafter” for “With respect to fiscal year 2014, and each fiscal year thereafter” and “for the 3 fiscal years covered by the plan, to develop and submit to the Secretary for approval a triennial highway safety plan” for “for that fiscal year, to develop and submit to the Secretary for approval a highway safety plan”.
+
+Subsec. (k)(2). Pub. L. 117–58, § 24102(a)(6)(C), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “Each State shall submit to the Secretary the highway safety plan not later than July 1st of the fiscal year preceding the fiscal year to which the plan applies.”
+
+Subsec. (k)(3). Pub. L. 117–58, § 24102(a)(6)(D), inserted “triennial” before “highway”.
+
+Subsec. (k)(4)(A). Pub. L. 117–58, § 24102(a)(6)(E)(i), in introductory provisions, substituted “Each State triennial highway safety plan” for “State highway safety plans” and inserted “, with respect to the 3 fiscal years covered by the plan, based on the information available on the date of submission under paragraph (2)” after “include”.
+
+Subsec. (k)(4)(A)(ii). Pub. L. 117–58, § 24102(a)(6)(E)(ii), substituted “performance targets that demonstrate constant or improved performance” for “annual performance targets”.
+
+Subsec. (k)(4)(B). Pub. L. 117–58, § 24102(a)(6)(E)(iii), added subpar. (B) and struck out former subpar. (B) which read as follows: “a strategy for programming funds apportioned to the State under this section on projects and activities that will allow the State to meet the performance targets described in subparagraph (A);”.
+
+Subsec. (k)(4)(D). Pub. L. 117–58, § 24102(a)(6)(E)(iv), struck out “, State, local, or private” after “any Federal” and inserted “and” after semicolon at end.
+
+Subsec. (k)(4)(E). Pub. L. 117–58, § 24102(a)(6)(E)(v), struck out “for the fiscal year preceding the fiscal year to which the plan applies,” before “a report” and substituted “performance targets set forth in the most recently submitted highway safety plan.” for “performance targets set forth in the previous year’s highway safety plan; and”.
+
+Subsec. (k)(4)(F). Pub. L. 117–58, § 24102(a)(6)(E)(vi), struck out subpar. (F) which read as follows: “an application for any additional grants available to the State under this chapter.”
+
+Subsec. (k)(5). Pub. L. 117–58, § 24102(a)(6)(F), added par. (5) and struck out former par. (5). Prior to amendment, text read as follows: “For the first highway safety plan submitted under this subsection, the performance measures required by the Secretary under paragraph (3)(A) shall be limited to those developed by the National Highway Traffic Safety Administration and the Governor’s Highway Safety Association and described in the report, ‘Traffic Safety Performance Measures for States and Federal Agencies’ (DOT HS 811 025). For subsequent highway safety plans, the Secretary shall coordinate with the Governor’s Highway Safety Association in making revisions to the set of required performance measures.”
+
+Subsec. (k)(6). Pub. L. 117–58, § 24102(a)(6)(G)(i), inserted “triennial” before “highway” in heading.
+
+Subsec. (k)(6)(A). Pub. L. 117–58, § 24102(a)(6)(G)(iv), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “Not later than 45 days after the date on which a State’s highway safety plan is received by the Secretary, the Secretary shall review and approve or disapprove the plan.”
+
+Subsec. (k)(6)(B). Pub. L. 117–58, § 24102(a)(6)(G)(iv), added subpar. (B). Former subpar. (B) redesignated (C).
+
+Subsec. (k)(6)(C). Pub. L. 117–58, § 24102(a)(6)(G)(ii), (iii), redesignated subpar. (B) as (C) and inserted “triennial” before “highway” in two places. Former subpar. (C) redesignated (D).
+
+Subsec. (k)(6)(D) to (F). Pub. L. 117–58, § 24102(a)(6)(G)(ii), (iii), redesignated subpars. (C) to (E) as (D) to (F), respectively, and inserted “triennial” before “highway”.
+
+Subsec. (l). Pub. L. 117–58, § 24102(a)(7), added subsec. (l).
+
+Subsec. (m)(1). Pub. L. 117–58, § 24102(a)(8), substituted “the applicable triennial highway safety plan of the State” for “a State’s highway safety plan”.
+
+Subsec. (n). Pub. L. 117–58, § 24102(a)(9), added subsec. (n) and struck out former subsec. (n). Prior to amendment, text read as follows: “The Secretary shall publicly release on its website information that contains each State’s performance with respect to the State’s highway safety plan under subsection (k) and performance targets set by the States in such plans. Such information shall be posted on the website within 45 calendar days of approval of a State’s highway safety plan.”
+
+Subsec. (o). Pub. L. 117–58, § 24222(b), added subsec. (o).
+
 2019—Subsec. (n). Pub. L. 115–420 added subsec. (n) and struck out former subsec. (n). Prior to amendment, text read as follows: “Not later than October 1, 2015, and biennially thereafter, the Secretary shall submit a report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate that contains—
 
 “(1) an evaluation of each State’s performance with respect to the State’s highway safety plan under subsection (k) and performance targets set by the States in such plans; and
@@ -572,6 +1062,9 @@ Subsec. (h). Pub. L. 91–605, § 202(e), added subsec. (h).
 
 1968—Subsec. (c). Pub. L. 90–495 substituted “December 31, 1969” for “December 31, 1968” as the last day on which the Secretary may apportion funds to States which are not implementing highway safety programs approved by the Secretary and substituted “January 1, 1970” for “January 1, 1969” as the date after which funds apportioned to States not having approved safety programs shall be reduced until a safety program is implemented.
 
+#### Effective Date of 2021 Amendment
+Pub. L. 117–58, div. B, title IV, § 24102(b), Nov. 15, 2021, 135 Stat. 792, provided that: “The amendments made by subsection (a) [amending this section] shall take effect with respect to any grant application or State highway safety plan submitted under chapter 4 of title 23, United States Code, for fiscal year 2024 or thereafter.”
+
 #### Effective Date of 2015 Amendment
 Except as otherwise provided, amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
@@ -606,6 +1099,15 @@ Pub. L. 91–605, title II, § 203(b), Dec. 31, 1970, 84 Stat. 1741, provided th
 #### Effective Date of 1968 Amendment
 Amendment by Pub. L. 90–495 effective Aug. 23, 1968, see section 37 of Pub. L. 90–495, set out as a note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).
 
+#### Public Safety Messaging Campaign
+Pub. L. 117–58, div. B, title IV, § 24110(b), Nov. 15, 2021, 135 Stat. 810, provided that: “(1) In general.—Not later than 1 year after the date of enactment of this Act [Nov. 15, 2021], the Secretary [of Transportation] shall establish and implement a public safety messaging campaign that uses public safety media messages, posters, digital media messages, and other media messages distributed to States, State departments of motor vehicles, schools, and other public outlets—“(A) to highlight the importance of addressing the illegal passing of school buses; and “(B) to educate students and the public regarding the safe loading and unloading of schools [sic] buses. “(2) Consultation.—In carrying out paragraph (1), the Secretary shall consult with—“(A) representatives of the school bus industry from the public and private sectors; and “(B) States. “(3) Updates.—The Secretary shall periodically update the materials used in the campaign under paragraph (1).”
+
+#### Safe Streets and Roads for All Grant Program
+Pub. L. 117–58, div. B, title IV, § 24112, Nov. 15, 2021, 135 Stat. 815, provided that: “(a) Definitions.—In this section:“(1) Comprehensive safety action plan.—The term ‘comprehensive safety action plan’ means a plan aimed at preventing transportation-related fatalities and serious injuries in a locality, commonly referred to as a ‘Vision Zero’ or ‘Toward Zero Deaths’ plan, that may include—“(A) a goal and timeline for eliminating fatalities and serious injuries; “(B) an analysis of the location and severity of vehicle-involved crashes in a locality; “(C) an analysis of community input, gathered through public outreach and education; “(D) a data-driven approach to identify projects or strategies to prevent fatalities and serious injuries in a locality, such as those involving—“(i) education and community outreach; “(ii) effective methods to enforce traffic laws and regulations; “(iii) new vehicle or other transportation-related technologies; and “(iv) roadway planning and design; and “(E) mechanisms for evaluating the outcomes and effectiveness of the comprehensive safety action plan, including the means by which that effectiveness will be reported to residents in a locality. “(2) Eligible entity.—The term ‘eligible entity’ means—“(A) a metropolitan planning organization; “(B) a political subdivision of a State; “(C) a federally recognized Tribal government; and “(D) a multijurisdictional group of entities described in any of subparagraphs (A) through (C). “(3) Eligible project.—The term ‘eligible project’ means a project—“(A) to develop a comprehensive safety action plan; “(B) to conduct planning, design, and development activities for projects and strategies identified in a comprehensive safety action plan; or “(C) to carry out projects and strategies identified in a comprehensive safety action plan. “(4) Program.—The term ‘program’ means the Safe Streets and Roads for All program established under subsection (b). “(b) Establishment.—The Secretary [of Transportation] shall establish and carry out a program, to be known as the Safe Streets and Roads for All program, that supports local initiatives to prevent death and serious injury on roads and streets, commonly referred to as ‘Vision Zero’ or ‘Toward Zero Deaths’ initiatives. “(c) Grants.—“(1) In general.—In carrying out the program, the Secretary may make grants to eligible entities, on a competitive basis, in accordance with this section. “(2) Limitations.—“(A) In general.—Not more than 15 percent of the funds made available to carry out the program for a fiscal year may be awarded to eligible projects in a single State during that fiscal year. “(B) Planning grants.—Of the total amount made available to carry out the program for each fiscal year, not less than 40 percent shall be awarded to eligible projects described in subsection (a)(3)(A). “(d) Selection of Eligible Projects.—“(1) Solicitation.—Not later than 180 days after the date on which amounts are made available to provide grants under the program for a fiscal year, the Secretary shall solicit from eligible entities grant applications for eligible projects in accordance with this section. “(2) Applications.—“(A) In general.—To be eligible to receive a grant under the program, an eligible entity shall submit to the Secretary an application in such form and containing such information as the Secretary considers to be appropriate. “(B) Requirement.—An application for a grant under this paragraph shall include mechanisms for evaluating the success of applicable eligible projects and strategies. “(3) Considerations.—In awarding a grant under the program, the Secretary shall take into consideration the extent to which an eligible entity, and each eligible project proposed to be carried out by the eligible entity, as applicable—“(A) is likely to significantly reduce or eliminate transportation-related fatalities and serious injuries involving various road users, including pedestrians, bicyclists, public transportation users, motorists, and commercial operators, within the timeframe proposed by the eligible entity; “(B) demonstrates engagement with a variety of public and private stakeholders; “(C) seeks to adopt innovative technologies or strategies to promote safety; “(D) employs low-cost, high-impact strategies that can improve safety over a wider geographical area; “(E) ensures, or will ensure, equitable investment in the safety needs of underserved communities in preventing transportation-related fatalities and injuries; “(F) includes evidence-based projects or strategies; and “(G) achieves such other conditions as the Secretary considers to be necessary. “(4) Transparency.—“(A) In general.—The Secretary shall evaluate, through a methodology that is discernible and transparent to the public, the means by, and extent to, which each application under the program addresses any applicable merit criteria established by the Secretary. “(B) Publication.—The methodology under subparagraph (A) shall be published by the Secretary as part of the notice of funding opportunity under the program. “(e) Federal Share.—The Federal share of the cost of an eligible project carried out using a grant provided under the program shall not exceed 80 percent. “(f) Funding.—“(1) Authorization of appropriations.—There is authorized to be appropriated to carry out this section $200,000,000 for each of fiscal years 2022 through 2026, to remain available for a period of 3 fiscal years following the fiscal year for which the amounts are appropriated. “(2) Administrative expenses.—Of the amounts made available to carry out the program for a fiscal year, the Secretary may retain not more than 2 percent for the administrative expenses of the program. “(3) Availability to eligible entities.—Amounts made available under a grant under the program shall remain available for use by the applicable eligible entity until the date that is 5 years after the date on which the grant is provided. “(g) Data Submission.—“(1) In general.—As a condition of receiving a grant under this program, an eligible entity shall submit to the Secretary, on a regular basis as established by the Secretary, data, information, or analyses collected or conducted in accordance with subsection (d)(3). “(2) Form.—The data, information, and analyses under paragraph (1) shall be submitted in such form such manner as may be prescribed by the Secretary. “(h) Reports.—Not later than 120 days after the end of the period of performance for a grant under the program, the eligible entity shall submit to the Secretary a report that describes—“(1) the costs of each eligible project carried out using the grant; “(2) the outcomes and benefits that each such eligible project has generated, as—“(A) identified in the grant application of the eligible entity; and “(B) measured by data, to the maximum extent practicable; and “(3) the lessons learned and any recommendations relating to future projects or strategies to prevent death and serious injury on roads and streets. “(i) Best Practices.—Based on the information submitted by eligible entities under subsection (g), the Secretary shall—“(1) periodically post on a publicly available website best practices and lessons learned for preventing transportation-related fatalities and serious injuries pursuant to strategies or interventions implemented under the program; and “(2) evaluate and incorporate, as appropriate, the effectiveness of strategies and interventions implemented under the program for the purpose of enriching revisions to the document entitled ‘Countermeasures That Work: A Highway Safety Countermeasure Guide for State Highway Safety Offices, Ninth Edition’ and numbered DOT HS 812 478 (or any successor document).”
+
+#### Pedestrian and Cyclists Information and Enhanced Performance Management
+Pub. L. 117–58, div. B, title IV, § 24113(b), Nov. 15, 2021, 135 Stat. 818, provided that: “(1) In general.—Not later than 2 years after the date of enactment of this Act [Nov. 15, 2021], the Secretary [of Transportation] shall implement the recommendations of the Comptroller General of the United States contained in the report entitled ‘Pedestrians and Cyclists: Better Information to States and Enhanced Performance Management Could Help DOT Improve Safety’, numbered GAO–21–405, and dated May 20, 2021, by—“(A) carrying out measures to collect information relating to the range of countermeasures implemented by States; “(B) analyzing that information to help advance knowledge regarding the effectiveness of those countermeasures; and “(C) sharing with States any results. “(2) Performance management practices.—The Administrator of the National Highway Traffic Safety Administration shall use performance management practices to guide pedestrian and cyclist safety activities by—“(A) developing performance measures for the Administration and program offices responsible for implementing pedestrian and cyclist safety activities to demonstrate the means by which those activities contribute to safety goals; and “(B) using performance information to make any necessary changes to advance pedestrian and cyclist safety efforts.”
+
 #### Increasing Public Awareness of the Dangers of Drug-Impaired Driving
 Pub. L. 114–94, div. A, title IV, § 4009, Dec. 4, 2015, 129 Stat. 1511, provided that: “(a) Additional Actions.—The Administrator of the National Highway Traffic Safety Administration, in consultation with the White House Office of National Drug Control Policy, the Secretary of Health and Human Services, State highway safety offices, and other interested parties, as determined by the Administrator, shall identify and carry out additional actions that should be undertaken by the Administration to assist States in their efforts to increase public awareness of the dangers of drug-impaired driving, including the dangers of driving while under the influence of heroin or prescription opioids. “(b) Report.—Not later than 60 days after the date of enactment of this Act [Dec. 4, 2015], the Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that describes the additional actions undertaken by the Administration pursuant to subsection (a).”
 
@@ -617,13 +1119,13 @@ Similar provisions were contained in the following prior acts:
 Pub. L. 112–141, div. C, title I, § 31101(d)–(f), July 6, 2012, 126 Stat. 733.
 
 #### Safe Routes to School Program
-Pub. L. 109–59, title I, § 1404, Aug. 10, 2005, 119 Stat. 1228, as amended by Pub. L. 110–244, § 101(s)(2), June 6, 2008, 122 Stat. 1577, provided that: “(a) Establishment.—Subject to the requirements of this section, the Secretary [of Transportation] shall establish and carry out a safe routes to school program for the benefit of children in primary and middle schools. “(b) Purposes.—The purposes of the program shall be—“(1) to enable and encourage children, including those with disabilities, to walk and bicycle to school; “(2) to make bicycling and walking to school a safer and more appealing transportation alternative, thereby encouraging a healthy and active lifestyle from an early age; and “(3) to facilitate the planning, development, and implementation of projects and activities that will improve safety and reduce traffic, fuel consumption, and air pollution in the vicinity of schools. “(c) Apportionment of Funds.—“(1) In general.—Subject to paragraphs (2), (3), and (4), amounts made available to carry out this section for a fiscal year shall be apportioned among the States in the ratio that—“(A) the total student enrollment in primary and middle schools in each State; bears to “(B) the total student enrollment in primary and middle schools in all States. “(2) Minimum apportionment.—No State shall receive an apportionment under this section for a fiscal year of less than $1,000,000. “(3) Set-aside for administrative expenses.—Before apportioning under this subsection amounts made available to carry out this section for a fiscal year, the Secretary [of Transportation] shall set aside not more than $3,000,000 of such amounts for the administrative expenses of the Secretary in carrying out this subsection. “(4) Determination of student enrollments.—Determinations under this subsection concerning student enrollments shall be made by the Secretary. “(d) Administration of Amounts.—Amounts apportioned to a State under this section shall be administered by the State’s department of transportation. “(e) Eligible Recipients.—Amounts apportioned to a State under this section shall be used by the State to provide financial assistance to State, local, tribal, and regional agencies, including nonprofit organizations, that demonstrate an ability to meet the requirements of this section. “(f) Eligible Projects and Activities.—“(1) Infrastructure-related projects.—“(A) In general.—Amounts apportioned to a State under this section may be used for the planning, design, and construction of infrastructure-related projects that will substantially improve the ability of students to walk and bicycle to school, including sidewalk improvements, traffic calming and speed reduction improvements, pedestrian and bicycle crossing improvements, on-street bicycle facilities, off-street bicycle and pedestrian facilities, secure bicycle parking facilities, and traffic diversion improvements in the vicinity of schools. “(B) Location of projects.—Infrastructure-related projects under subparagraph (A) may be carried out on any public road or any bicycle or pedestrian pathway or trail in the vicinity of schools. “(2) Noninfrastructure-related activities.—“(A) In general.—In addition to projects described in paragraph (1), amounts apportioned to a State under this section may be used for noninfrastructure-related activities to encourage walking and bicycling to school, including public awareness campaigns and outreach to press and community leaders, traffic education and enforcement in the vicinity of schools, student sessions on bicycle and pedestrian safety, health, and environment, and funding for training, volunteers, and managers of safe routes to school programs. “(B) Allocation.—Not less than 10 percent and not more than 30 percent of the amount apportioned to a State under this section for a fiscal year shall be used for noninfrastructure-related activities under this subparagraph. “(3) Safe routes to school coordinator.—Each State receiving an apportionment under this section for a fiscal year shall use a sufficient amount of the apportionment to fund a full-time position of coordinator of the State’s safe routes to school program. “(g) Clearinghouse.—“(1) In general.—The Secretary [of Transportation] shall make grants to a national nonprofit organization engaged in promoting safe routes to schools to—“(A) operate a national safe routes to school clearinghouse; “(B) develop information and educational programs on safe routes to school; and “(C) provide technical assistance and disseminate techniques and strategies used for successful safe routes to school programs. “(2) Funding.—The Secretary shall carry out this subsection using amounts set aside for administrative expenses under subsection (c)(3). “(h) Task Force.—“(1) In general.—The Secretary [of Transportation] shall establish a national safe routes to school task force composed of leaders in health, transportation, and education, including representatives of appropriate Federal agencies, to study and develop a strategy for advancing safe routes to school programs nationwide. “(2) Report.—Not later than March 31, 2006, the Secretary shall submit to Congress a report containing the results of the study conducted, and a description of the strategy developed, under paragraph (1) and information regarding the use of funds for infrastructure-related and noninfrastructure-related activities under paragraphs (1) and (2) of subsection (f). “(3) Funding.—The Secretary shall carry out this subsection using amounts set aside for administrative expenses under subsection (c)(3). “(i) Applicability of Title 23.—Funds made available to carry out this section shall be available for obligation in the same manner as if such funds were apportioned under chapter 1 of title 23, United States Code; except that such funds shall not be transferable and shall remain available until expended, and the Federal share of the cost of a project or activity under this section shall be 100 percent. “(j) Treatment of Projects.—Notwithstanding any other provision of law, projects assisted under this subsection shall be treated as projects on a Federal-aid system under chapter 1 of title 23, United States Code. “(k) Definitions.—In this section, the following definitions apply:“(1) In the vicinity of schools.—The term ‘in the vicinity of schools’ means, with respect to a school, the area within bicycling and walking distance of the school (approximately 2 miles). “(2) Primary and middle schools.—The term ‘primary and middle schools’ means schools providing education from kindergarten through eighth grade.”
+Pub. L. 109–59, title I, § 1404, Aug. 10, 2005, 119 Stat. 1228, as amended by Pub. L. 110–244, § 101(s)(2), June 6, 2008, 122 Stat. 1577, which required the Secretary of Transportation to establish and carry out a safe routes to school program for the benefit of children in primary and middle schools and apportioned funds to carry out such program to States, was repealed by Pub. L. 117–58, div. A, title I, § 11119(b)(2), Nov. 15, 2021, 135 Stat. 497, effective Oct. 1, 2021. See [section 208 of this title](./chapter-002-other-highways.md#section-208).
 
 #### Roadway Safety
 Pub. L. 109–59, title I, § 1411, Aug. 10, 2005, 119 Stat. 1234, provided that: “(a) Road Safety.—“(1) In general.—The Secretary [of Transportation] shall enter into an agreement to assist in the activities of a national nonprofit organization that is dedicated solely to improving public road safety—“(A) by improving the quality of data pertaining to public road hazards and design features that affect or increase the severity of motor vehicle crashes; “(B) by developing and carrying out a public awareness campaign to educate State and local transportation officials, public safety officials, and motorists regarding the extent to which public road hazards and design features are a factor in motor vehicle crashes; and “(C) by promoting public road safety research and technology transfer activities. “(2) Funding.—There is authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) $500,000 for each of fiscal years 2006 through 2009 to carry out this subsection. “(3) Applicability of title 23.—Funds made available by this subsection shall be available for obligation in the same manner as if such funds were apportioned under chapter 1 of title 23, United States Code, except that the funds shall remain available until expended. “(b) Bicycle and Pedestrian Safety Grants.—“(1) In general.—The Secretary [of Transportation] shall make grants to a national, not-for-profit organization engaged in promoting bicycle and pedestrian safety—“(A) to operate a national bicycle and pedestrian clearinghouse; “(B) to develop information and educational programs; and “(C) to disseminate techniques and strategies for improving bicycle and pedestrian safety. “(2) Funding.—There is authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) $300,000 for fiscal year 2005 and $500,000 for each of fiscal years 2006 through 2009 to carry out this subsection. “(3) Applicability of title 23.—Funds made available by this subsection shall be available for obligation in the same manner as if such funds were apportioned under chapter 1 of title 23, United States Code, except that the funds shall remain available until expended.”
 
 #### Grant Program To Prohibit Racial Profiling
-Pub. L. 109–59, title I, § 1906, Aug. 10, 2005, 119 Stat. 1468, as amended by Pub. L. 114–94, div. A, title IV, § 4011, Dec. 4, 2015, 129 Stat. 1512, provided that: “(a) Grants.—Subject to the requirements of this section, the Secretary [of Transportation] shall make grants to a State that—“(1) is maintaining and allows public inspection of statistical information for each motor vehicle stop made by a law enforcement officer on a Federal-aid highway in the State regarding the race and ethnicity of the driver; or “(2) provides assurances satisfactory to the Secretary that the State is undertaking activities to comply with the requirements of paragraph (1). “(b) Use of Grant Funds.—A grant received by a State under subsection (a) shall be used by the State for the costs of—“(1) collecting and maintaining data on traffic stops; and “(2) evaluating the results of the data. “(c) Limitations.—“(1) Maximum amount of grants.—The total amount of grants made to a State under this section in a fiscal year may not exceed 5 percent of the amount made available to carry out this section in the fiscal year. “(2) Eligibility.—On or after October 1, 2015, a State may not receive a grant under subsection (a)(2) in more than 2 fiscal years. “(d) Funding.—“(1) In general.—From funds made available under [section 403 of title 23](./chapter-004-highway-safety.md#section-403), United States Code, the Secretary shall set aside $7,500,000 for each of fiscal years 2017 through 2020 to carry out this section. “(2) Contract authority.—Funds made available under this subsection shall be available for obligation in the same manner as if the funds were apportioned under chapter 1 of title 23, United States Code, except the Federal share of the cost of activities carried out using such funds shall be 80 percent. “(3) Other uses.—The Secretary may reallocate, before the last day of any fiscal year, amounts remaining available under paragraph (1) to increase the amounts made available to carry out any of other activities authorized under [section 403 of title 23](./chapter-004-highway-safety.md#section-403), United States Code, in order to ensure, to the maximum extent possible, that all such amounts are obligated during such fiscal year.”
+Pub. L. 109–59, title I, § 1906, Aug. 10, 2005, 119 Stat. 1468, as amended by Pub. L. 114–94, div. A, title IV, § 4011, Dec. 4, 2015, 129 Stat. 1512; Pub. L. 117–58, div. B, title V, § 25024, Nov. 15, 2021, 135 Stat. 879, provided that: “(a) Grants.—Subject to the requirements of this section, the Secretary [of Transportation] shall make grants to a State that—“(1) is maintaining and allows public inspection of statistical information for each motor vehicle stop made by a law enforcement officer on a Federal-aid highway in the State regarding the race and ethnicity of the driver; or “(2) provides assurances satisfactory to the Secretary that the State is undertaking activities to comply with the requirements of paragraph (1). “(b) Use of Grant Funds.—A grant received by a State under subsection (a) shall be used by the State for the costs of—“(1) collecting and maintaining data on traffic stops; “(2) evaluating the results of the data; and “(3) developing and implementing programs, public outreach, and training to reduce the impact of traffic stops described in subsection (a)(1). “(c) Maximum Amount.—The total amount provided to a State under this section in any fiscal year may not exceed—“(1) for a State described in subsection (a)(1), 10 percent of the amount made available to carry out this section in that fiscal year; and “(2) for a State described in subsection (a)(2), 5 percent of the amount made available to carry out this section in that fiscal year. “(d) Funding.—“(1) In general.—From funds made available under [section 403 of title 23](./chapter-004-highway-safety.md#section-403), United States Code, the Secretary shall set aside $11,500,000 for each fiscal year to carry out this section. “(2) Contract authority.—Funds made available under this subsection shall be available for obligation in the same manner as if the funds were apportioned under chapter 1 of title 23, United States Code, except the Federal share of the cost of activities carried out using such funds shall be 80 percent. “(3) Technical assistance.—The Secretary may allocate not more than 10 percent of the amount made available to carry out this section in a fiscal year to provide technical assistance to States to carry out activities under this section. “(4) Other uses.—The Secretary may reallocate, before the last day of any fiscal year, amounts remaining available under paragraph (1) to increase the amounts made available to carry out any of other activities authorized under [section 403 of title 23](./chapter-004-highway-safety.md#section-403), United States Code, in order to ensure, to the maximum extent possible, that all such amounts are obligated during such fiscal year.”
 
 #### High Visibility Enforcement Program
 Pub. L. 109–59, title II, § 2009, Aug. 10, 2005, 119 Stat. 1535, as amended by Pub. L. 111–147, title IV, § 421(h)(1), Mar. 18, 2010, 124 Stat. 85; Pub. L. 112–30, title I, § 121(h)(1), Sept. 16, 2011, 125 Stat. 347; Pub. L. 112–141, div. C, title I, § 31106, July 6, 2012, 126 Stat. 755; Pub. L. 113–159, title I, § 1101(a)(5)(B), Aug. 8, 2014, 128 Stat. 1843; Pub. L. 114–21, title I, § 1101(a)(5)(B), May 29, 2015, 129 Stat. 221; Pub. L. 114–41, title I, § 1101(a)(5)(B), July 31, 2015, 129 Stat. 447; Pub. L. 114–73, title I, § 1101(a)(5)(B), Oct. 29, 2015, 129 Stat. 571; Pub. L. 114–87, title I, § 1101(a)(5)(B), Nov. 20, 2015, 129 Stat. 680, provided that: “(a) In General.—The Administrator of the National Highway Traffic Safety Administration shall establish and administer a program under which at least 3 high-visibility traffic safety law enforcement campaigns will be carried out for the purposes specified in subsection (b) in each of fiscal years 2013 through 2015 and in the period beginning on October 1, 2015, and ending on December 4, 2015. The Administrator may also initiate and support additional campaigns in each of fiscal years 2013 through 2015 and in the period beginning on October 1, 2015, and ending on December 4, 2015, for the purposes specified in subsection (b). “(b) Purpose.—The purpose of each law enforcement campaign under this section shall be to achieve outcomes related to at least 1 of the following objectives:“(1) Reduce alcohol-impaired or drug-impaired operation of motor vehicles. “(2) Increase use of seat belts by occupants of motor vehicles. “(c) Advertising.—The Administrator may use, or authorize the use of, funds available to carry out this section to pay for the development, production, and use of broadcast and print media advertising and Internet-based outreach in carrying out traffic safety law enforcement campaigns under this section. Consideration shall be given to advertising directed at non-English speaking populations, including those who listen, read, or watch nontraditional media. “(d) Coordination With States.—The Administrator shall coordinate with the States in carrying out the traffic safety law enforcement campaigns under this section, including advertising funded under subsection (c), with a view to—“(1) relying on States to provide the law enforcement resources for the campaigns out of funding available under this section and sections 402, 405, [former] 406, and [former] 410 of title 23, United States Code; and “(2) providing out of National Highway Traffic Safety Administration resources most of the means necessary for national advertising and education efforts associated with the law enforcement campaigns. “(e) Use of Funds.—Funds made available to carry out this section may only be used for activities described in subsection (c). “(f) State Defined.—The term ‘State’ has the meaning such term has under [section 401 of title 23](./chapter-004-highway-safety.md#section-401), United States Code.”
@@ -767,13 +1269,13 @@ Barack Obama.
 
 **(b) General Authority.—**
 
-(1) **Research and development activities.—** — The Secretary may conduct research and development activities, including demonstration projects and the collection and analysis of highway and motor vehicle safety data and related information needed to carry out this section, with respect to—
+(1) **Research and development activities.—** — The Secretary may conduct research and development activities, including demonstration projects, training, education, and the collection and analysis of highway and motor vehicle safety data and related information needed to carry out this section, with respect to—
 
   (A) all aspects of highway and traffic safety systems and conditions relating to—
 
     (i) vehicle, highway, driver, passenger, motorcyclist, bicyclist, and pedestrian characteristics;
 
-    (ii) accident causation and investigations;
+    (ii) crash causation and investigations;
 
     (iii) communications; and
 
@@ -819,11 +1321,11 @@ Barack Obama.
 
 **(d) Title to Equipment.—** In furtherance of the purposes set forth in section 402, the Secretary may vest title to equipment purchased for demonstration projects with funds authorized under this section to State or local agencies on such terms and conditions as the Secretary determines to be appropriate.
 
-**(e) Prohibition on Certain Disclosures.—** Any report of the National Highway Traffic Safety Administration, or of any officer, employee, or contractor of the National Highway Traffic Safety Administration, relating to any highway traffic accident or the investigation of such accident conducted pursuant to this chapter or chapter 301 of title 49 may only be made available to the public in a manner that does not identify individuals.
+**(e) Prohibition on Certain Disclosures.—** Any report of the National Highway Traffic Safety Administration, or of any officer, employee, or contractor of the National Highway Traffic Safety Administration, relating to any highway traffic crash or the investigation of such crash conducted pursuant to this chapter or chapter 301 of title 49 may only be made available to the public in a manner that does not identify individuals.
 
 **(f) Cooperative Research and Evaluation.—**
 
-(1) **Establishment and funding.—** — Notwithstanding the apportionment formula set forth in section 402(c)(2), $2,500,000 of the total amount available for apportionment to the States for highway safety programs under subsection 11 So in original. Probably should be “section”. 402(c) in each fiscal year ending before October 1, 2015, and $443,989 of the total amount available for apportionment to the States for highway safety programs under section 402(c) in the period beginning on October 1, 2015, and ending on December 4, 2015, shall be available for expenditure by the Secretary, acting through the Administrator of the National Highway Traffic Safety Administration, for a cooperative research and evaluation program to research and evaluate priority highway safety countermeasures.
+(1) **Establishment and funding.—** — Notwithstanding the apportionment formula set forth in section 402(c)(2), $3,500,000 of the total amount available for apportionment to the States for highway safety programs under section 402(c) in each fiscal year shall be available for expenditure by the Secretary, acting through the Administrator of the National Highway Traffic Safety Administration, for a cooperative research and evaluation program to research and evaluate priority highway safety countermeasures.
 
 (2) **Administration.—** — The program established under paragraph (1)—
 
@@ -835,36 +1337,136 @@ Barack Obama.
 
 **(h) In-vehicle Alcohol Detection Device Research.—**
 
-(1) **In general.—** — The Administrator of the National Highway Traffic Safety Administration shall carry out a collaborative research effort under chapter 301 of title 49 on in-vehicle technology to prevent alcohol-impaired driving.
+(1) **Definitions.—** — In this subsection:
 
-(2) **Funding.—** — The Secretary shall obligate from funds made available to carry out this section for the period covering fiscal years 2017 through 2021 not more than $26,560,000’ to conduct the research described in paragraph (1).
+  (A) *Alcohol-impaired driving.—* — The term “alcohol-impaired driving” means the operation of a motor vehicle (as defined in [section 30102(a) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30102/a&num=0&edition=prelim)) by an individual whose blood alcohol content is at or above the legal limit.
 
-(3) **Privacy protection.—** — The Administrator shall not develop requirements for any device or means of technology to be installed in an automobile intended for retail sale that records a driver’s blood alcohol concentration.
+  (B) *Legal limit.—* — The term “legal limit” means a blood alcohol concentration of 0.08 percent or greater (as set forth in section 163(a)) or such other percentage limitation as may be established by applicable Federal, State, or local law.
 
-(4) **Reports.—** — The Administrator shall submit an annual report to the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Transportation and Infrastructure of the House of Representatives, and Committee on Science, Space, and Technology of the House of Representatives that—
+(2) **In general.—** — The Administrator of the National Highway Traffic Safety Administration shall carry out a collaborative research effort under chapter 301 of title 49 on in-vehicle technology to prevent alcohol-impaired driving.
+
+(3) **Funding.—** — The Secretary shall obligate from funds made available to carry out this section for the period covering fiscal years 2022 through 2025, not more than $45,000,000 to conduct the research described in paragraph (2).
+
+(4) **Privacy protection.—** — The Administrator shall not develop requirements for any device or means of technology to be installed in an automobile intended for retail sale that records a driver’s blood alcohol concentration.
+
+(5) **Reports.—** — The Administrator shall submit an annual report to the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Transportation and Infrastructure of the House of Representatives, and Committee on Science, Space, and Technology of the House of Representatives that—
 
   (A) describes the progress made in carrying out the collaborative research effort; and
 
   (B) includes an accounting for the use of Federal funds obligated or expended in carrying out that effort.
 
-(5) **Definitions.—** — In this subsection:
-
-  (A) *Alcohol-impaired driving.—* — The term “alcohol-impaired driving” means the operation of a motor vehicle (as defined in [section 30102(a)(6) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30102/a/6&num=0&edition=prelim) 22 See References in Text note below.) by an individual whose blood alcohol content is at or above the legal limit.
-
-  (B) *Legal limit.—* — The term “legal limit” means a blood alcohol concentration of 0.08 percent or greater (as set forth in section 163(a)) or such other percentage limitation as may be established by applicable Federal, State, or local law.
-
 **(i) Limitation on Drug and Alcohol Survey Data.—** The Secretary shall establish procedures and guidelines to ensure that any person participating in a program or activity that collects data on drug or alcohol use by drivers of motor vehicles and is carried out under this section is informed that the program or activity is voluntary.
 
 **(j) Federal Share.—** The Federal share of the cost of any project or activity carried out under this section may be not more than 100 percent.
+
+**(k) Child Safety Campaign.—**
+
+(1) **In general.—** — The Secretary shall carry out an education campaign to reduce the incidence of vehicular heatstroke of children left in passenger motor vehicles (as defined in [section 30102(a) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30102/a&num=0&edition=prelim)).
+
+(2) **Advertising.—** — The Secretary may use, or authorize the use of, funds made available to carry out this section to pay for the development, production, and use of broadcast and print media advertising and Internet-based outreach for the education campaign under paragraph (1).
+
+(3) **Coordination.—** — In carrying out the education campaign under paragraph (1), the Secretary shall coordinate with—
+
+  (A) interested State and local governments;
+
+  (B) private industry; and
+
+  (C) other parties, as determined by the Secretary.
+
+**(l) Development of State Processes for Informing Consumers of Recalls.—**
+
+(1) **Definitions.—** — In this subsection:
+
+  (A) *Motor vehicle.—* — The term “motor vehicle” has the meaning given the term in [section 30102(a) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30102/a&num=0&edition=prelim).
+
+  (B) *Open recall.—* — The term “open recall” means a motor vehicle recall—
+
+    (i) for which a notification by a manufacturer has been provided under [section 30119 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30119&num=0&edition=prelim); and
+
+    (ii) that has not been remedied under section 30120 of that title.
+
+  (C) *Program.—* — The term “program” means the program established under paragraph (2)(A).
+
+  (D) *Registration.—* — The term “registration” means the process for registering a motor vehicle in a State (including registration renewal).
+
+  (E) *State.—* — The term “State” has the meaning given the term in section 101(a).
+
+(2) **Grants.—**
+
+  (A) *Establishment of program.—* — Not later than 2 years after the date of enactment of this subsection, the Secretary shall establish a program under which the Secretary shall provide grants to States for use in developing and implementing State processes for informing each applicable owner and lessee of a motor vehicle of any open recall on the motor vehicle at the time of registration of the motor vehicle in the State, in accordance with this paragraph.
+
+  (B) *Eligibility.—* — To be eligible to receive a grant under the program, a State shall—
+
+    (i) submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require; and
+
+    (ii) agree—
+
+      (I) to notify each owner or lessee of a motor vehicle presented for registration in the State of any open recall on that motor vehicle; and
+
+      (II) to provide to each owner or lessee of a motor vehicle presented for registration, at no cost—
+
+        (aa) the open recall information for the motor vehicle; and
+
+        (bb) such other information as the Secretary may require.
+
+  (C) *Factors for consideration.—* — In selecting grant recipients under the program, the Secretary shall take into consideration the methodology of a State for—
+
+    (i) identifying open recalls on a motor vehicle;
+
+    (ii) informing each owner and lessee of a motor vehicle of an open recall; and
+
+    (iii) measuring performance in—
+
+      (I) informing owners and lessees of open recalls; and
+
+      (II) remedying open recalls.
+
+  (D) *Performance period.—* — A grant provided under the program shall require a performance period of 2 years.
+
+  (E) *Report.—* — Not later than 90 days after the date of completion of the performance period under subparagraph (D), each State that receives a grant under the program shall submit to the Secretary a report that contains such information as the Secretary considers to be necessary to evaluate the extent to which open recalls have been remedied in the State.
+
+  (F) *No regulations required.—* — Notwithstanding any other provision of law, the Secretary shall not be required to issue any regulations to carry out the program.
+
+(3) **Paperwork reduction act.—** — Chapter 35 of title 44 (commonly known as the “Paperwork Reduction Act”) shall not apply to information collected under the program.
+
+(4) **Funding.—**
+
+  (A) *In general.—* — For each of fiscal years 2022 through 2026, the Secretary shall obligate from funds made available to carry out this section $1,500,000 to carry out the program.
+
+  (B) *Reallocation.—* — To ensure, to the maximum extent practicable, that all amounts described in subparagraph (A) are obligated each fiscal year, the Secretary, before the last day of any fiscal year, may reallocate any of those amounts remaining available to increase the amounts made available to carry out any other activities authorized under this section.
+
+**(m) Innovative Highway Safety Countermeasures.—**
+
+(1) **In general.—** — In conducting research under this section, the Secretary shall evaluate the effectiveness of innovative behavioral traffic safety countermeasures, other than traffic enforcement, that are considered promising or likely to be effective for the purpose of enriching revisions to the document entitled “Countermeasures That Work: A Highway Safety Countermeasure Guide for State Highway Safety Offices, Ninth Edition” and numbered DOT HS 812 478 (or any successor document).
+
+(2) **Treatment.—** — The research described in paragraph (1) shall be in addition to any other research carried out under this section.
 
 ### Statutory Notes
 
 #### References in Text
 The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (c)(3), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, which is classified generally to chapter 63 (§ 3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 3701 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3701&num=0&edition=prelim) and Tables.
 
-[Section 30102(a)(6) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30102/a/6&num=0&edition=prelim), referred to in subsec. (h)(5)(A), was redesignated [section 30102(a)(7) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30102/a/7&num=0&edition=prelim) by section 24109(b)(2) of Pub. L. 114–94, div. B, title XXIV, Dec. 4, 2015, 129 Stat. 1706.
+The date of enactment of this subsection, referred to in subsec. (l)(2)(A), is the date of enactment of Pub. L. 117–58, which was approved Nov. 15, 2021.
 
 #### Amendments
+2021—Pub. L. 117–58, § 24103(1), substituted “crash” for “accident” wherever appearing.
+
+Subsec. (b)(1). Pub. L. 117–58, § 24103(2), inserted “, training, education,” after “demonstration projects” in introductory provisions.
+
+Subsec. (f)(1). Pub. L. 117–58, § 24103(3), substituted “$3,500,000” for “$2,500,000” and “section 402(c) in each fiscal year” for “subsection 402(c) in each fiscal year ending before October 1, 2015, and $443,989 of the total amount available for apportionment to the States for highway safety programs under section 402(c) in the period beginning on October 1, 2015, and ending on December 4, 2015,”.
+
+Subsec. (h)(1). Pub. L. 117–58, § 24103(4)(C), redesignated par. (5) as (1). Former par. (1) redesignated (2).
+
+Subsec. (h)(2). Pub. L. 117–58, § 24103(4)(C), redesignated par. (1) as (2). Former par. (2) redesignated (3).
+
+Pub. L. 117–58, § 24103(4)(A), substituted “2022 through 2025, not more than $45,000,000 to conduct the research described in paragraph (2)” for “2017 through 2021 not more than $26,560,000 to conduct the research described in paragraph (1)”.
+
+Subsec. (h)(3) to (5). Pub. L. 117–58, § 24103(4)(C), redesignated pars. (2) to (4) as (3) to (5), respectively.
+
+Subsec. (h)(5)(A). Pub. L. 117–58, § 24103(4)(B), substituted “section 30102(a)” for “section 30102(a)(6)”.
+
+Subsecs. (k) to (m). Pub. L. 117–58, § 24103(5), added subsecs. (k) to (m).
+
 2020—Subsec. (h)(2). Pub. L. 116–159 substituted “2021” for “2020” and “$26,560,000” for “$21,248,000”.
 
 2015—Subsec. (b)(2)(C). Pub. L. 114–94, § 24202(b)(1), inserted “foreign government (in coordination with the Department of State)” after “institution,”.
@@ -984,7 +1586,7 @@ Authorization of appropriation of additional sum of $10,000,000 for the fiscal y
 
 <a id="section-404"></a>
 ## § 404. High-visibility enforcement program
-**(a) In General.—** The Secretary shall establish and administer a program under which not less than 3 campaigns will be carried out in each of fiscal years 2016 through 2020.
+**(a) In General.—** The Secretary shall establish and administer a program under which not less than 3 campaigns will be carried out in each of fiscal years 2022 through 2026.
 
 **(b) Purpose.—** The purpose of each campaign carried out under this section shall be to achieve outcomes related to not less than 1 of the following objectives:
 
@@ -1011,6 +1613,8 @@ Authorization of appropriation of additional sum of $10,000,000 for the fiscal y
 ### Statutory Notes
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 117–58 substituted “each of fiscal years 2022 through 2026” for “each of fiscal years 2016 through 2020”.
+
 2015—Pub. L. 114–94 amended section generally, substituting provisions relating to the high-visibility enforcement program for provisions relating to the National Highway Safety Advisory Committee.
 
 2005—Subsec. (d). Pub. L. 109–59 substituted “Transportation” for “Commerce”.
@@ -1605,6 +2209,727 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 117–58, div. B, title IV, § 24105(a), (c), Nov. 15, 2021, 135 Stat. 795, 806, made numerous amendments to this section, effective with respect to any grant application or State highway safety plan submitted under chapter 4 of title 23, United States Code, for fiscal year 2024 or thereafter. After such effective date, this section will read as follows:
+
+§ 405. National priority safety programs
+
+(a) Program Authority.—
+
+(1) In general.—Subject to the requirements of this section, the Secretary shall—
+
+(A) manage programs to address national priorities for reducing highway deaths and injuries; and
+
+(B) allocate funds for the purpose described in subparagraph (A) in accordance with this subsection.
+
+(2) Occupant protection.—In each fiscal year, 13 percent of the funds provided under this section shall be allocated among States that adopt and implement effective occupant protection programs to reduce highway deaths and injuries resulting from individuals riding unrestrained or improperly restrained in motor vehicles (as described in subsection (b)).
+
+(3) State traffic safety information system improvements.—In each fiscal year, 14.5 percent of the funds provided under this section shall be allocated among States that meet requirements with respect to State traffic safety information system improvements (as described in subsection (c)).
+
+(4) Impaired driving countermeasures.—In each fiscal year, 53 percent of the funds provided under this section shall be allocated among States that meet requirements with respect to impaired driving countermeasures (as described in subsection (d)).
+
+(5) Distracted driving.—In each fiscal year, 8.5 percent of the funds provided under this section shall be allocated among States that adopt and implement effective laws to reduce distracted driving (as described in subsection (e)).
+
+(6) Motorcyclist safety.—In each fiscal year, 1.5 percent of the funds provided under this section shall be allocated among States that implement motorcyclist safety programs (as described in subsection (f)).
+
+(7) Nonmotorized safety.—In each fiscal year, 7 percent of the funds provided under this section shall be allocated among States that meet requirements with respect to nonmotorized safety (as described in subsection (g)).
+
+(8) Preventing roadside deaths.—In each fiscal year, 1 percent of the funds provided under this section shall be allocated among States that meet requirements with respect to preventing roadside deaths under subsection (h).
+
+(9) Driver officer safety education.—In each fiscal year, 1.5 percent of the funds provided under this section shall be allocated among States that meet requirements with respect to driver and officer safety education under subsection (i).
+
+(10) Transfers.—Notwithstanding paragraphs (2) through (9), the Secretary shall reallocate, before the last day of any fiscal year, any amounts remaining available to carry out any of the activities described in subsections (b) through (i) to increase the amount made available under section 402, in order to ensure, to the maximum extent possible, that all such amounts are obligated during such fiscal year.
+
+(11) Political subdivisions.—A State may provide the funds awarded under this section to a political subdivision of the State or an Indian tribal government.
+
+(b) Occupant Protection Grants.—
+
+(1) General authority.—Subject to the requirements under this subsection, the Secretary shall award grants to States that adopt and implement effective occupant protection programs to reduce highway deaths and injuries resulting from individuals riding unrestrained or improperly restrained in motor vehicles.
+
+(2) Federal share.—The Federal share of the costs of activities funded using amounts from grants awarded under this subsection may not exceed 80 percent for each fiscal year for which a State receives a grant.
+
+(3) Eligibility.—
+
+(A) High seat belt use rate.—A State with an observed seat belt use rate of 90 percent or higher, based on the most recent data from a survey that conforms with national criteria established by the National Highway Traffic Safety Administration, shall be eligible for a grant in a fiscal year if the State—
+
+(i) submits an occupant protection plan during the first fiscal year;
+
+(ii) participates in the Click It or Ticket national mobilization;
+
+(iii) has an active network of child restraint inspection stations; and
+
+(iv) has a plan to recruit, train, and maintain a sufficient number of child passenger safety technicians.
+
+(B) Lower seat belt use rate.—A State with an observed seat belt use rate below 90 percent, based on the most recent data from a survey that conforms with national criteria established by the National Highway Traffic Safety Administration, shall be eligible for a grant in a fiscal year if—
+
+(i) the State meets all of the requirements under clauses (i) through (iv) of subparagraph (A); and
+
+(ii) the Secretary determines that the State meets at least 3 of the following criteria:
+
+(I) The State conducts sustained (on-going and periodic) seat belt enforcement at a defined level of participation during the year.
+
+(II) The State has enacted and enforces a primary enforcement seat belt use law.
+
+(III) The State has implemented countermeasure programs for high-risk populations, such as drivers on rural roadways, unrestrained nighttime drivers, or teenage drivers.
+
+(IV) The State has enacted and enforces occupant protection laws requiring front and rear occupant protection use by all occupants in an age-appropriate restraint.
+
+(V) The State has implemented a comprehensive occupant protection program in which the State has—
+
+(aa) conducted a program assessment;
+
+(bb) developed a statewide strategic plan;
+
+(cc) designated an occupant protection coordinator; and
+
+(dd) established a statewide occupant protection task force.
+
+(VI) The State—
+
+(aa) completed an assessment of its occupant protection program during the 5-year period preceding the grant year; or
+
+(bb) will conduct such an assessment during the first year of the grant.
+
+(4) Use of grant amounts.—
+
+(A) In general.—Grant funds received pursuant to this subsection may be used to—
+
+(i) carry out a program to support high-visibility enforcement mobilizations, including paid media that emphasizes publicity for the program, and law enforcement;
+
+(ii) carry out a program to train occupant protection safety professionals, police officers, fire and emergency medical personnel, educators, and parents concerning all aspects of the use of child restraints and occupant protection;
+
+(iii) carry out a program to educate the public concerning the proper use and installation of child restraints, including related equipment and information systems;
+
+(iv) carry out a program to provide community child passenger safety services, including programs about proper seating positions for children and how to reduce the improper use of child restraints;
+
+(v) implement programs—
+
+(I) to recruit and train nationally certified child passenger safety technicians among police officers, fire and other first responders, emergency medical personnel, and other individuals or organizations serving low-income and underserved populations;
+
+(II) to educate parents and caregivers in low-income and underserved populations regarding the importance of proper use and correct installation of child restraints on every trip in a motor vehicle; and
+
+(III) to purchase and distribute child restraints to low-income and underserved populations; and
+
+(vi) establish and maintain information systems containing data concerning occupant protection, including the collection and administration of child passenger safety and occupant protection surveys.
+
+(B) Requirements.—Each State that is eligible to receive funds—
+
+(i) under paragraph (3)(A) shall use—
+
+(I) not more than 90 percent of those funds to carry out a project or activity eligible for funding under section 402; and
+
+(II) not less than 10 percent of those funds to carry out subparagraph (A)(v); and
+
+(ii) under paragraph (3)(B) shall use not less than 10 percent of those funds to carry out the activities described in subparagraph (A)(v).
+
+(5) Grant amount.—The allocation of grant funds to a State under this subsection for a fiscal year shall be in proportion to the State’s apportionment under section 402 for fiscal year 2009.
+
+(6) Definitions.—In this subsection:
+
+(A) Child restraint.—The term “child restraint” means any device (including child safety seat, booster seat, harness, and excepting seat belts) that is—
+
+(i) designed for use in a motor vehicle to restrain, seat, or position children who weigh 65 pounds (30 kilograms) or less; and
+
+(ii) certified to the Federal motor vehicle safety standard prescribed by the National Highway Traffic Safety Administration for child restraints.
+
+(B) Seat belt.—The term “seat belt” means—
+
+(i) with respect to open-body motor vehicles, including convertibles, an occupant restraint system consisting of a lap belt or a lap belt and a detachable shoulder belt; and
+
+(ii) with respect to other motor vehicles, an occupant restraint system consisting of integrated lap and shoulder belts.
+
+(c) State Traffic Safety Information System Improvements.—
+
+(1) General authority.—Subject to the requirements under this subsection, the Secretary shall award grants to States to support the development and implementation of effective State programs that—
+
+(A) improve the timeliness, accuracy, completeness, uniformity, integration, and accessibility of the State safety data that is needed to identify priorities for Federal, State, and local highway and traffic safety programs;
+
+(B) evaluate the effectiveness of efforts to make such improvements;
+
+(C) link the State data systems, including traffic records, with other data systems within the State, such as systems that contain medical, roadway, and economic data;
+
+(D) improve the compatibility and interoperability of the data systems of the State with national data systems and data systems of other States, including the National EMS Information System;
+
+(E) enhance the ability of the Secretary to observe and analyze national trends in crash occurrences, rates, outcomes, and circumstances.
+
+(2) Federal share.—The Federal share of the cost of adopting and implementing in a fiscal year a State program described in this subsection may not exceed 80 percent.
+
+(3) Eligibility.—A State shall not be eligible to receive a grant under this subsection for a fiscal year unless the State—
+
+(A) has certified to the Secretary that the State—
+
+(i) has a functioning traffic records coordinating committee (referred to in this paragraph as “TRCC”) that meets at least 3 times each year;
+
+(ii) has designated a TRCC coordinator; and
+
+(iii) has established a State traffic record strategic plan that has been approved by the TRCC and describes specific quantifiable and measurable improvements anticipated in the State’s core safety databases, including crash, citation or adjudication, driver, emergency medical services or injury surveillance system, roadway, and vehicle databases; and
+
+(B) has demonstrated quantitative progress in relation to the significant data program attribute of—
+
+(i) accuracy;
+
+(ii) completeness;
+
+(iii) timeliness;
+
+(iv) uniformity;
+
+(v) accessibility; or
+
+(vi) integration of a core highway safety database.
+
+(4) Use of grant amounts.—A State may use a grant received under this subsection to make data program improvements to core highway safety databases relating to quantifiable, measurable progress in any significant data program attribute described in paragraph (3)(B), including through—
+
+(A) software or applications to identify, collect, and report data to State and local government agencies, and enter data into State core highway safety databases, including crash, citation or adjudication, driver, emergency medical services or injury surveillance system, roadway, and vehicle data;
+
+(B) purchasing equipment to improve a process by which data are identified, collated, and reported to State and local government agencies, including technology for use by law enforcement for near-real time, electronic reporting of crash data;
+
+(C) improving the compatibility and interoperability of the core highway safety databases of the State with national data systems and data systems of other States, including the National EMS Information System;
+
+(D) enhancing the ability of a State and the Secretary to observe and analyze local, State, and national trends in crash occurrences, rates, outcomes, and circumstances;
+
+(E) supporting traffic records improvement training and expenditures for law enforcement, emergency medical, judicial, prosecutorial, and traffic records professionals;
+
+(F) hiring traffic records professionals for the purpose of improving traffic information systems (including a State Fatal Accident Reporting System (FARS) liaison);
+
+(G) adoption of the Model Minimum Uniform Crash Criteria, or providing to the public information regarding why any of those criteria will not be used, if applicable;
+
+(H) supporting reporting criteria relating to emerging topics, including—
+
+(i) impaired driving as a result of drug, alcohol, or polysubstance consumption; and
+
+(ii) advanced technologies present on motor vehicles; and
+
+(I) conducting research relating to State traffic safety information systems, including developing programs to improve core highway safety databases and processes by which data are identified, collected, reported to State and local government agencies, and entered into State core safety databases.
+
+(5) Grant amount.—The allocation of grant funds to a State under this subsection for a fiscal year shall be in proportion to the State’s apportionment under section 402 for fiscal year 2009.
+
+(6) Technical assistance.—
+
+(A) In general.—The Secretary shall provide technical assistance to States, regardless of whether a State receives a grant under this subsection, with respect to improving the timeliness, accuracy, completeness, uniformity, integration, and public accessibility of State safety data that are needed to identify priorities for Federal, State, and local highway and traffic safety programs, including on adoption by a State of the Model Minimum Uniform Crash Criteria.
+
+(B) Funds.—The Secretary may use not more than 3 percent of the amounts available under this subsection to carry out subparagraph (A).
+
+(d) Impaired Driving Countermeasures.—
+
+(1) In general.—Subject to the requirements under this subsection, the Secretary of Transportation shall award grants to States that adopt and implement—
+
+(A) effective programs to reduce driving under the influence of alcohol, drugs, or the combination of alcohol and drugs; or
+
+(B) alcohol-ignition interlock laws.
+
+(2) Federal share.—The Federal share of the costs of activities funded using amounts from grants under this subsection may not exceed 80 percent in any fiscal year in which the State receives a grant.
+
+(3) Eligibility.—
+
+(A) Low-range states.—Low-range States shall be eligible for a grant under this subsection.
+
+(B) Mid-range states.—A mid-range State shall be eligible for a grant under this subsection if—
+
+(i) a statewide impaired driving task force in the State developed a statewide plan during the most recent 3 calendar years to address the problem of impaired driving; or
+
+(ii) the State will convene a statewide impaired driving task force to develop such a plan during the first year of the grant.
+
+(C) High-range states.—A high-range State shall be eligible for a grant under this subsection if the State—
+
+(i)(I) conducted an assessment of the State’s impaired driving program during the most recent 3 calendar years; or
+
+(II) will conduct such an assessment during the first year of the grant;
+
+(ii) convenes, during the first year of the grant, a statewide impaired driving task force to develop a statewide plan that—
+
+(I) addresses any recommendations from the assessment conducted under clause (i);
+
+(II) includes a detailed plan for spending any grant funds provided under this subsection; and
+
+(III) describes how such spending supports the statewide program; and
+
+(iii)(I) submits the statewide plan to the National Highway Traffic Safety Administration during the first year of the grant for the agency’s review and approval;
+
+(II) annually updates the statewide plan in each subsequent year of the grant; and
+
+(III) submits each updated statewide plan for the agency’s review and comment.
+
+(4) Use of grant amounts.—
+
+(A) Required programs.—High-range States shall use grant funds for—
+
+(i) high-visibility enforcement efforts; and
+
+(ii) any of the activities described in subparagraph (B) if—
+
+(I) the activity is described in the statewide plan; and
+
+(II) the Secretary approves the use of funding for such activity.
+
+(B) Authorized programs.—Medium-range and low-range States may use grant funds for—
+
+(i) any of the purposes described in subparagraph (A);
+
+(ii) hiring a full-time or part-time impaired driving coordinator of the State’s activities to address the enforcement and adjudication of laws regarding driving while impaired by alcohol, drugs, or the combination of alcohol and drugs;
+
+(iii) court support of impaired driving prevention efforts, including—
+
+(I) hiring criminal justice professionals, including law enforcement officers, prosecutors, traffic safety resource prosecutors, judges, judicial outreach liaisons, and probation officers;
+
+(II) training and education of those professionals to assist the professionals in preventing impaired driving and handling impaired driving cases, including by providing compensation to a law enforcement officer to carry out safety grant activities to replace a law enforcement officer who is receiving drug recognition expert training or participating as an instructor in that drug recognition expert training; and
+
+(III) establishing driving while intoxicated courts;
+
+(iv) alcohol ignition interlock programs;
+
+(v) improving blood alcohol and drug concentration screening and testing, detection of potentially impairing drugs (including through the use of oral fluid as a specimen), and reporting relating to testing and detection;
+
+(vi) paid and earned media in support of high-visibility enforcement efforts, conducting initial and continuing standardized field sobriety training, advanced roadside impaired driving evaluation training, law enforcement phlebotomy training, and drug recognition expert training for law enforcement, and equipment and related expenditures used in connection with impaired driving enforcement in accordance with criteria established by the National Highway Traffic Safety Administration;
+
+(vii) training on the use of alcohol and drug screening and brief intervention;
+
+(viii) training for and implementation of impaired driving assessment programs or other tools designed to increase the probability of identifying the recidivism risk of a person convicted of driving under the influence of alcohol, drugs, or a combination of alcohol and drugs and to determine the most effective mental health or substance abuse treatment or sanction that will reduce such risk;
+
+(ix) developing impaired driving information systems;
+
+(x) costs associated with a 24-7 sobriety program; and
+
+(xi) testing and implementing programs, and purchasing technologies, to better identify, monitor, or treat impaired drivers, including—
+
+(I) oral fluid-screening technologies;
+
+(II) electronic warrant programs;
+
+(III) equipment to increase the scope, quantity, quality, and timeliness of forensic toxicology chemical testing;
+
+(IV) case management software to support the management of impaired driving offenders; and
+
+(V) technology to monitor impaired-driving offenders, and equipment and related expenditures used in connection with impaired-driving enforcement in accordance with criteria established by the National Highway Traffic Safety Administration.
+
+(C) Other programs.—
+
+(i) Low-range states.—Subject to clause (iii), low-range States may use grant funds for any expenditure designed to reduce impaired driving based on problem identification and may use not more than 50 percent of funds made available under this subsection for any project or activity eligible for funding under section 402.
+
+(ii) Medium-range and high-range states.—Subject to clause (iii), medium-range and high-range States may use funds for any expenditure designed to reduce impaired driving based on problem identification upon approval by the Secretary.
+
+(iii) Reporting and impaired driving measures.—A State may use grant funds for any expenditure relating to—
+
+(I) increasing the timely and accurate reporting to Federal, State, and local databases of—
+
+(aa) crash information, including electronic crash reporting systems that allow accurate real- or near-real-time uploading of crash information; and
+
+(bb) impaired driving criminal justice information; or
+
+(II) researching or evaluating impaired driving countermeasures.
+
+(5) Grant amount.—Subject to paragraph (6), the allocation of grant funds to a State under this section for a fiscal year shall be in proportion to the State’s apportionment under section 402 for fiscal year 2009.
+
+(6) Additional grants.—
+
+(A) Grants to states with alcohol-ignition interlock laws.—The Secretary shall make a separate grant under this subsection to each State that—
+
+(i) adopts, and is enforcing, a mandatory alcohol-ignition interlock law for all individuals convicted of driving under the influence of alcohol or of driving while intoxicated;
+
+(ii) does not allow an individual convicted of driving under the influence of alcohol or of driving while intoxicated to receive any driving privilege or driver’s license unless the individual installs on each motor vehicle registered, owned, or leased for operation by the individual an ignition interlock for a period of not less than 180 days; or
+
+(iii) has in effect, and is enforcing—
+
+(I) a State law requiring for any individual who is convicted of, or the driving privilege of whom is revoked or denied for, refusing to submit to a chemical or other appropriate test for the purpose of determining the presence or concentration of any intoxicating substance, a State law requiring a period of not less than 180 days of ignition interlock installation on each motor vehicle to be operated by the individual; and
+
+(II) a compliance-based removal program, under which an individual convicted of driving under the influence of alcohol or of driving while intoxicated shall—
+
+(aa) satisfy a period of not less than 180 days of ignition interlock installation on each motor vehicle to be operated by the individual; and
+
+(bb) have completed a minimum consecutive period of not less than 40 percent of the required period of ignition interlock installation immediately preceding the date of release of the individual, without a confirmed violation.
+
+(B) Grants to states with 24-7 sobriety programs.—The Secretary shall make a separate grant under this subsection to each State that—
+
+(i) adopts and is enforcing a law that requires all individuals convicted of driving under the influence of alcohol or of driving while intoxicated to receive a restriction on driving privileges; and
+
+(ii) provides a 24-7 sobriety program.
+
+(C) Use of funds.—Grants authorized under subparagraph (A) and subparagraph (B) may be used by recipient States for any eligible activities under this subsection or section 402.
+
+(D) Allocation.—Amounts made available under this paragraph shall be allocated among States described in subparagraph (A) and subparagraph (B) in proportion to the State’s apportionment under section 402 for fiscal year 2022.
+
+(E) Funding.—
+
+(i) Funding for grants to states with alcohol-ignition interlock laws.—Not more than 12 percent of the amounts made available to carry out this subsection in a fiscal year shall be made available by the Secretary for making grants under subparagraph (A).
+
+(ii) Funding for grants to states with 24-7 sobriety programs.—Not more than 3 percent of the amounts made available to carry out this subsection in a fiscal year shall be made available by the Secretary for making grants under subparagraph (B).
+
+(F) Exceptions.—A State alcohol-ignition interlock law under subparagraph (A) may include exceptions for the following circumstances:
+
+(i) The individual is required to operate an employer’s motor vehicle in the course and scope of employment and the business entity that owns the vehicle is not owned or controlled by the individual.
+
+(ii) The individual is certified by a medical doctor as being unable to provide a deep lung breath sample for analysis by an ignition interlock device.
+
+(iii) A State-certified ignition interlock provider is not available within 100 miles of the individual’s residence.
+
+(7) Definitions.—In this subsection:
+
+(A) 24-7 sobriety program.—The term “24-7 sobriety program” means a State law or program that authorizes a State or local court or an agency with jurisdiction, as a condition of bond, sentence, probation, parole, or work permit, to—
+
+(i) require an individual who was arrested for, plead guilty to, or was convicted of driving under the influence of alcohol or drugs to totally abstain from alcohol or drugs for a period of time; and
+
+(ii) require the individual to be subject to testing for alcohol or drugs—
+
+(I) at least twice per day at a testing location;
+
+(II) by continuous transdermal alcohol monitoring via an electronic monitoring device; or
+
+(III) by an alternate method with the concurrence of the Secretary.
+
+(B) Average impaired driving fatality rate.—The term “average impaired driving fatality rate” means the number of fatalities in motor vehicle crashes involving a driver with a blood alcohol concentration of at least 0.08 percent for every 100,000,000 vehicle miles traveled, based on the most recently reported 3 calendar years of final data from the Fatality Analysis Reporting System, as calculated in accordance with regulations prescribed by the Administrator of the National Highway Traffic Safety Administration.
+
+(C) High-range state.—The term “high-range State” means a State that has an average impaired driving fatality rate of 0.60 or higher.
+
+(D) Low-range state.—The term “low-range State” means a State that has an average impaired driving fatality rate of 0.30 or lower.
+
+(E) Mid-range state.—The term “mid-range State” means a State that has an average impaired driving fatality rate that is higher than 0.30 and lower than 0.60.
+
+(e) Distracted Driving Grants.—
+
+(1) Definitions.—In this subsection:
+
+(A) Driving.—The term “driving”—
+
+(i) means operating a motor vehicle on a public road; and
+
+(ii) does not include operating a motor vehicle when the vehicle has pulled over to the side of, or off, an active roadway and has stopped in a location where it can safely remain stationary.
+
+(B) Personal wireless communications device.—
+
+(i) In general.—The term “personal wireless communications device” means—
+
+(I) a device through which personal wireless services (as defined in section 332(c)(7)(C) of the Communications Act of 1934 ([47 U.S.C. 332(c)(7)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section332/c/7/C&num=0&edition=prelim))) are transmitted; and
+
+(II) a mobile telephone or other portable electronic communication device with which a user engages in a call or writes, sends, or reads a text message using at least 1 hand.
+
+(ii) Exclusion.—The term “personal wireless communications device” does not include a global navigation satellite system receiver used for positioning, emergency notification, or navigation purposes.
+
+(C) Primary offense.—The term “primary offense” means an offense for which a law enforcement officer may stop a vehicle solely for the purpose of issuing a citation in the absence of evidence of another offense.
+
+(D) Public road.—The term “public road” has the meaning given such term in section 402(c).
+
+(E) Text.—The term “text” means—
+
+(i) to read from, or manually to enter data into, a personal wireless communications device, including for the purpose of SMS texting, emailing, instant messaging, or any other form of electronic data retrieval or electronic data communication; and
+
+(ii) manually to enter, send, or retrieve a text message to communicate with another individual or device.
+
+(F) Text message.—
+
+(i) In general.—The term “text message” means—
+
+(I) a text-based message;
+
+(II) an instant message;
+
+(III) an electronic message; and
+
+(IV) email.
+
+(ii) Exclusions.—The term “text message” does not include—
+
+(I) an emergency, traffic, or weather alert; or
+
+(II) a message relating to the operation or navigation of a motor vehicle.
+
+(2) Grant program.—The Secretary shall provide a grant under this subsection to any State that includes distracted driving awareness as part of the driver’s license examination of the State.
+
+(3) Allocation.—
+
+(A) In general.—For each fiscal year, not less than 50 percent of the amounts made available to carry out this subsection shall be allocated to States, based on the proportion that—
+
+(i) the apportionment of the State under section 402 for fiscal year 2009; bears to
+
+(ii) the apportionment of all States under section 402 for that fiscal year.
+
+(B) Grants for states with distracted driving laws.—
+
+(i) In general.—In addition to the allocations under subparagraph (A), for each fiscal year, not more than 50 percent of the amounts made available to carry out this subsection shall be allocated to States that enact and enforce a law that meets the requirements of paragraph (4), (5), or (6)—
+
+(I) based on the proportion that—
+
+(aa) the apportionment of the State under section 402 for fiscal year 2009; bears to
+
+(bb) the apportionment of all States under section 402 for that fiscal year; and
+
+(II) subject to clauses (ii), (iii), and (iv), as applicable.
+
+(ii) Primary laws.—Subject to clause (iv), in the case of a State that enacts and enforces a law that meets the requirements of paragraph (4), (5), or (6) as a primary offense, the allocation to the State under this subparagraph shall be 100 percent of the amount calculated to be allocated to the State under clause (i)(I).
+
+(iii) Secondary laws.—Subject to clause (iv), in the case of a State that enacts and enforces a law that meets the requirements of paragraph (4), (5), or (6) as a secondary enforcement action, the allocation to the State under this subparagraph shall be an amount equal to 50 percent of the amount calculated to be allocated to the State under clause (i)(I).
+
+(iv) Texting while driving.—Notwithstanding clauses (ii) and (iii), the allocation under this subparagraph to a State that enacts and enforces a law that prohibits a driver from viewing a personal wireless communications device (except for purposes of navigation) shall be 25 percent of the amount calculated to be allocated to the State under clause (i)(I).
+
+(4) Prohibition on texting while driving.—A State law meets the requirements of this paragraph if the law—
+
+(A) prohibits a driver from texting through a personal wireless communications device while driving;
+
+(B) establishes a fine for a violation of the law; and
+
+(C) does not provide for an exemption that specifically allows a driver to use a personal wireless communications device for texting while stopped in traffic.
+
+(5) Prohibition on handheld phone use while driving.—A State law meets the requirements of this paragraph if the law—
+
+(A) prohibits a driver from holding a personal wireless communications device while driving;
+
+(B) establishes a fine for a violation of that law; and
+
+(C) does not provide for an exemption that specifically allows a driver to use a personal wireless communications device for texting while stopped in traffic.
+
+(6) Prohibition on youth cell phone use while driving or stopped in traffic.—A State law meets the requirements of this paragraph if the law—
+
+(A) prohibits a driver from using a personal wireless communications device while driving if the driver is—
+
+(i) younger than 18 years of age; or
+
+(ii) in the learner’s permit or intermediate license stage;
+
+(B) establishes a fine for a violation of the law; and
+
+(C) does not provide for—
+
+(i) an exemption that specifically allows a driver to use a personal wireless communications device for texting while stopped in traffic; or
+
+(ii) an exemption described in paragraph (7)(E).
+
+(7) Permitted exceptions.—A law that meets the requirements of paragraph (4), (5), or (6) may provide exceptions for—
+
+(A) a driver who uses a personal wireless communications device during an emergency to contact emergency services to prevent injury to persons or property;
+
+(B) emergency services personnel who use a personal wireless communications device while—
+
+(i) operating an emergency services vehicle; and
+
+(ii) engaged in the performance of their duties as emergency services personnel;
+
+(C) an individual employed as a commercial motor vehicle driver or a school bus driver who uses a personal wireless communications device within the scope of such individual’s employment if such use is permitted under the regulations promulgated pursuant to [section 31136 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31136&num=0&edition=prelim);
+
+(D) a driver who uses a personal wireless communications device for navigation;
+
+(E) except for a law described in paragraph (6), the use of a personal wireless communications device—
+
+(i) in a hands-free manner;
+
+(ii) with a hands-free accessory; or
+
+(iii) with the activation or deactivation of a feature or function of the personal wireless communications device with the motion of a single swipe or tap of the finger of the driver; and
+
+(F) any additional exceptions determined by the Secretary through a rulemaking process.
+
+(8) Use of grant funds.—
+
+(A) In general.—Except as provided in subparagraph (B), amounts received by a State under this subsection shall be used—
+
+(i) to educate the public through advertising containing information about the dangers of texting or using a cell phone while driving;
+
+(ii) for traffic signs that notify drivers about the distracted driving law of the State; or
+
+(iii) for law enforcement costs related to the enforcement of the distracted driving law.
+
+(B) Flexibility.—
+
+(i) Not more than 50 percent of amounts received by a State under this subsection may be used for any eligible project or activity under section 402.
+
+(ii) Not more than 75 percent of amounts received by a State under this subsection may be used for any eligible project or activity under section 402 if the State has conformed its distracted driving data to the most recent Model Minimum Uniform Crash Criteria published by the Secretary.
+
+(9) Allocation to support state distracted driving laws.—Of the amounts available under this subsection in a fiscal year for distracted driving grants, the Secretary may expend not more than $5,000,000 for the development and placement of broadcast media to reduce distracted driving of motor vehicles.
+
+(f) Motorcyclist Safety.—
+
+(1) Grants authorized.—Subject to the requirements under this subsection, the Secretary shall award grants to States that adopt and implement effective programs to reduce the number of single- and multi-vehicle crashes involving motorcyclists.
+
+(2) Grant amount.—The allocation of grant funds to a State under this subsection for a fiscal year shall be in proportion to the State’s apportionment under section 402 for fiscal year 2009, except that the amount of a grant awarded to a State for a fiscal year may not exceed 25 percent of the amount apportioned to the State under such section for fiscal year 2009.
+
+(3) Grant eligibility.—A State becomes eligible for a grant under this subsection by adopting or demonstrating to the satisfaction of the Secretary, at least 2 of the following criteria:
+
+(A) Motorcycle rider training courses.—An effective motorcycle rider training course that is offered throughout the State, which—
+
+(i) provides a formal program of instruction in crash avoidance and other safety-oriented operational skills to motorcyclists; and
+
+(ii) may include innovative training opportunities to meet unique regional needs.
+
+(B) Motorcyclists awareness program.—An effective statewide program to enhance motorist awareness of the presence of motorcyclists on or near roadways and safe driving practices that avoid injuries to motorcyclists.
+
+(C) Helmet law.—A State law requiring the use of a helmet for each motorcycle rider under the age of 18.
+
+(D) Reduction of fatalities and crashes involving motorcycles.—A reduction for the preceding calendar year in the number of motorcycle fatalities and the rate of motor vehicle crashes involving motorcycles in the State (expressed as a function of 10,000 motorcycle registrations).
+
+(E) Impaired driving program.—Implementation of a statewide program to reduce impaired driving, including specific measures to reduce impaired motorcycle operation.
+
+(F) Reduction of fatalities and crashes involving impaired motorcyclists.—A reduction for the preceding calendar year in the number of fatalities and the rate of reported crashes involving alcohol- or drug-impaired motorcycle operators (expressed as a function of 10,000 motorcycle registrations).
+
+(G) Fees collected from motorcyclists.—All fees collected by the State from motorcyclists for the purposes of funding motorcycle training and safety programs will be used for motorcycle training and safety purposes.
+
+(4) Eligible uses.—
+
+(A) In general.—A State may use funds from a grant under this subsection only for motorcyclist safety training and motorcyclist awareness programs, including—
+
+(i) improvements to motorcyclist safety training curricula;
+
+(ii) improvements in program delivery of motorcycle training to both urban and rural areas, including—
+
+(I) procurement or repair of practice motorcycles;
+
+(II) instructional materials;
+
+(III) mobile training units; and
+
+(IV) leasing or purchasing facilities for closed-course motorcycle skill training;
+
+(iii) measures designed to increase the recruitment or retention of motorcyclist safety training instructors; and
+
+(iv) public awareness, public service announcements, and other outreach programs to enhance driver awareness of motorcyclists, including “share-the-road” safety messages.
+
+(B) Suballocations of funds.—An agency of a State that receives a grant under this subsection may suballocate funds from the grant to a nonprofit organization incorporated in that State to carry out this subsection.
+
+(C) Flexibility.—Not more than 50 percent of grant funds received by a State under this subsection may be used for any eligible project or activity under section 402 if the State is in the lowest 25 percent of all States for motorcycle deaths per 10,000 motorcycle registrations based on the most recent data that conforms with criteria established by the Secretary.
+
+(5) Definitions.—In this subsection:
+
+(A) Motorcyclist awareness.—The term “motorcyclist awareness” means individual or collective awareness of—
+
+(i) the presence of motorcycles on or near roadways; and
+
+(ii) safe driving practices that avoid injury to motorcyclists.
+
+(B) Motorcyclist awareness program.—The term “motorcyclist awareness program” means an informational or public awareness program designed to enhance motorcyclist awareness that is developed by or in coordination with the designated State authority having jurisdiction over motorcyclist safety issues, which may include the State motorcycle safety administrator or a motorcycle advisory council appointed by the governor of the State.
+
+(C) Motorcyclist safety training.—The term “motorcyclist safety training” means a formal program of instruction that is approved for use in a State by the designated State authority having jurisdiction over motorcyclist safety issues, which may include the State motorcycle safety administrator or a motorcycle advisory council appointed by the governor of the State.
+
+(D) State.—The term “State” has the meaning given such term in [section 101(a) of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101/a&num=0&edition=prelim), United States Code.
+
+(6) Share-the-road model language.—Not later than 1 year after the date of enactment of this paragraph, the Secretary shall update and provide to the States model language, for use in traffic safety education courses, driver’s manuals, and other driver training materials, that provides instruction for drivers of motor vehicles on the importance of sharing the road safely with motorcyclists.
+
+(g) Nonmotorized Safety.—
+
+(1) Definition of nonmotorized road user.—In this subsection, the term “nonmotorized road user” means—
+
+(A) a pedestrian;
+
+(B) an individual using a nonmotorized mode of transportation, including a bicycle, a scooter, or a personal conveyance; and
+
+(C) an individual using a low-speed or low-horsepower motorized vehicle, including an electric bicycle, electric scooter, personal mobility assistance device, personal transporter, or all-terrain vehicle.
+
+(2) General authority.—Subject to the requirements under this subsection, the Secretary shall award grants to States for the purpose of decreasing nonmotorized road user fatalities involving a motor vehicle in transit on a trafficway.
+
+(3) Federal share.—The Federal share of the cost of a project carried out by a State using amounts from a grant awarded under this subsection may not exceed 80 percent.
+
+(4) Eligibility.—A State shall receive a grant under this subsection in a fiscal year if the annual combined nonmotorized road user fatalities in the State exceed 15 percent of the total annual crash fatalities in the State, based on the most recently reported final data from the Fatality Analysis Reporting System.
+
+(5) Use of grant amounts.—Grant funds received by a State under this subsection may be used for the safety of nonmotorized road users, including—
+
+(A) training of law enforcement officials relating to nonmotorized road user safety, State laws applicable to nonmotorized road user safety, and infrastructure designed to improve nonmotorized road user safety;
+
+(B) carrying out a program to support enforcement mobilizations and campaigns designed to enforce State traffic laws applicable to nonmotorized road user safety;
+
+(C) public education and awareness programs designed to inform motorists and nonmotorized road users regarding—
+
+(i) nonmotorized road user safety, including information relating to nonmotorized mobility and the importance of speed management to the safety of nonmotorized road users;
+
+(ii) the value of the use of nonmotorized road user safety equipment, including lighting, conspicuity equipment, mirrors, helmets, and other protective equipment, and compliance with any State or local laws requiring the use of that equipment;
+
+(iii) State traffic laws applicable to nonmotorized road user safety, including the responsibilities of motorists with respect to nonmotorized road users; and
+
+(iv) infrastructure designed to improve nonmotorized road user safety; and
+
+(D) the collection of data, and the establishment and maintenance of data systems, relating to nonmotorized road user traffic fatalities.
+
+(6) Grant amount.—The allocation of grant funds to a State under this subsection for a fiscal year shall be in proportion to the State’s apportionment under section 402 for fiscal year 2009.
+
+(h) Preventing Roadside Deaths.—
+
+(1) In general.—The Secretary shall provide grants to States to prevent death and injury from crashes involving motor vehicles striking other vehicles and individuals stopped at the roadside.
+
+(2) Federal share.—The Federal share of the cost of carrying out an activity funded through a grant under this subsection may not exceed 80 percent.
+
+(3) Eligibility.—A State shall receive a grant under this subsection in a fiscal year if the State submits to the Secretary a plan that describes the method by which the State will use grant funds in accordance with paragraph (4).
+
+(4) Use of funds.—Amounts received by a State under this subsection shall be used by the State—
+
+(A) to purchase and deploy digital alert technology that—
+
+(i) is capable of receiving alerts regarding nearby first responders; and
+
+(ii) in the case of a motor vehicle that is used for emergency response activities, is capable of sending alerts to civilian drivers to protect first responders on the scene and en route;
+
+(B) to educate the public regarding the safety of vehicles and individuals stopped at the roadside in the State through public information campaigns for the purpose of reducing roadside deaths and injury;
+
+(C) for law enforcement costs relating to enforcing State laws to protect the safety of vehicles and individuals stopped at the roadside;
+
+(D) for programs to identify, collect, and report to State and local government agencies data relating to crashes involving vehicles and individuals stopped at the roadside; and
+
+(E) to pilot and incentivize measures, including optical visibility measures, to increase the visibility of stopped and disabled vehicles.
+
+(5) Grant amount.—The allocation of grant funds to a State under this subsection for a fiscal year shall be in proportion to the apportionment of that State under section 402 for fiscal year 2022.
+
+(i) Driver and Officer Safety Education.—
+
+(1) Definition of peace officer.—In this subsection, the term “peace officer” includes any individual—
+
+(A) who is an elected, appointed, or employed agent of a government entity;
+
+(B) who has the authority—
+
+(i) to carry firearms; and
+
+(ii) to make warrantless arrests; and
+
+(C) whose duties involve the enforcement of criminal laws of the United States.
+
+(2) Grants.—Subject to the requirements of this subsection, the Secretary shall provide grants to—
+
+(A) States that enact or adopt a law or program described in paragraph (4); and
+
+(B) qualifying States under paragraph (7).
+
+(3) Federal share.—The Federal share of the cost of carrying out an activity funded through a grant under this subsection may not exceed 80 percent.
+
+(4) Description of law or program.—A law or program referred to in paragraph (2)(A) is a law or program that requires 1 or more of the following:
+
+(A) Driver education and driving safety courses.—The inclusion, in driver education and driver safety courses provided to individuals by educational and motor vehicle agencies of the State, of instruction and testing relating to law enforcement practices during traffic stops, including information relating to—
+
+(i) the role of law enforcement and the duties and responsibilities of peace officers;
+
+(ii) the legal rights of individuals concerning interactions with peace officers;
+
+(iii) best practices for civilians and peace officers during those interactions;
+
+(iv) the consequences for failure of an individual or officer to comply with the law or program; and
+
+(v) how and where to file a complaint against, or a compliment relating to, a peace officer.
+
+(B) Peace officer training programs.—Development and implementation of a training program, including instruction and testing materials, for peace officers and reserve law enforcement officers (other than officers who have received training in a civilian course described in subparagraph (A)) with respect to proper interaction with civilians during traffic stops.
+
+(5) Use of funds.—A State may use a grant provided under this subsection for—
+
+(A) the production of educational materials and training of staff for driver education and driving safety courses and peace officer training described in paragraph (4); and
+
+(B) the implementation of a law or program described in paragraph (4).
+
+(6) Grant amount.—The allocation of grant funds to a State under this subsection for a fiscal year shall be in proportion to the apportionment of that State under section 402 for fiscal year 2022.
+
+(7) Special rule for certain states.—
+
+(A) Definition of qualifying state.—In this paragraph, the term “qualifying State” means a State that—
+
+(i) has received a grant under this subsection for a period of not more than 5 years; and
+
+(ii) as determined by the Secretary—
+
+(I) has not fully enacted or adopted a law or program described in paragraph (4); but
+
+(II)(aa) has taken meaningful steps toward the full implementation of such a law or program; and
+
+(bb) has established a timetable for the implementation of such a law or program.
+
+(B) Withholding.—The Secretary shall—
+
+(i) withhold 50 percent of the amount that each qualifying State would otherwise receive under this subsection if the qualifying State were a State described in paragraph (2)(A); and
+
+(ii) direct any amounts withheld under clause (i) for distribution among the States that are enforcing and carrying out a law or program described in paragraph (4).
+
+See 2021 Amendment notes below.
+
 #### References in Text
 The date of enactment of the FAST Act, referred to in subsec. (a)(9)(A), is the date of enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
 
@@ -1614,6 +2939,142 @@ The date of enactment of this paragraph, referred to in subsec. (f)(6), is the d
 A prior section 405, added Pub. L. 93–87, title II, § 230(a), Aug. 13, 1973, 87 Stat. 293; amended Pub. L. 93–643, § 121, Jan. 4, 1975, 88 Stat. 2289, related to the Federal-aid safer roads demonstration program, prior to repeal by Pub. L. 94–280, title I, § 135(c), May 5, 1976, 90 Stat. 442.
 
 #### Amendments
+2021—Subsec. (a). Pub. L. 117–58, § 24105(a)(1)(C), substituted “Program Authority” for “General Authority” in heading and struck out introductory provisions which read as follows: “Subject to the requirements of this section, the Secretary shall manage programs to address national priorities for reducing highway deaths and injuries. Funds shall be allocated according to the following:”.
+
+Subsec. (a)(1) to (3). Pub. L. 117–58, § 24105(a)(1)(B), (C), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively. Former par. (3) redesignated (4).
+
+Subsec. (a)(4). Pub. L. 117–58, § 24105(a)(1)(B), (D), redesignated par. (3) as (4) and substituted “53 percent” for “52.5 percent”. Former par. (4) redesignated (5).
+
+Subsec. (a)(5). Pub. L. 117–58, § 24105(a)(1)(B), redesignated par. (4) as (5). Former par. (5) redesignated (6).
+
+Subsec. (a)(6). Pub. L. 117–58, § 24105(a)(1)(A), (B), redesignated par. (5) as (6) and struck out former par. (6). Prior to amendment, text of par. (6) read as follows: “In each fiscal year, 5 percent of the funds provided under this section shall be allocated among States that adopt and implement graduated driver licensing laws (as described in subsection (g)).”
+
+Subsec. (a)(7). Pub. L. 117–58, § 24105(a)(1)(E), substituted “7 percent” for “5 percent” and “subsection (g)” for “subsection (h)”.
+
+Subsec. (a)(8). Pub. L. 117–58, § 24105(a)(1)(G), added par. (8). Former par. (8) redesignated (10).
+
+Subsec. (a)(9). Pub. L. 117–58, § 24105(a)(1)(A), (G), added par. (9) and struck out former par. (9). Prior to amendment, text read as follows:
+
+“(A) Certification.—As part of the grant application required in section 402(k)(3)(F), a State receiving a grant in any fiscal year under subsection (b), (c), or (d) of this section shall provide certification that the lead State agency responsible for programs described in any of those subsections is maintaining aggregate expenditures at or above the average level of such expenditures in the 2 fiscal years prior to the date of enactment of the FAST Act.
+
+“(B) Waiver.—Upon the request of a State, the Secretary may waive or modify the requirements under subparagraph (A) for not more than 1 fiscal year if the Secretary determines that such a waiver would be equitable due to exceptional or uncontrollable circumstances.”
+
+Subsec. (a)(10). Pub. L. 117–58, § 24105(a)(1)(F), (H), redesignated par. (8) as (10) and substituted “paragraphs (2) through (9)” for “paragraphs (1) through (7)” and “subsections (b) through (i)” for “subsections (b) through (h)”. Former par. (10) redesignated (11).
+
+Subsec. (a)(11). Pub. L. 117–58, § 24105(a)(1)(F), redesignated par. (10) as (11).
+
+Subsec. (b)(1). Pub. L. 117–58, § 24105(a)(2)(A), struck out “of Transportation” before “shall award grants”.
+
+Subsec. (b)(3)(B)(ii)(VI)(aa). Pub. L. 117–58, § 24105(a)(2)(B), substituted “5-year” for “3-year”.
+
+Subsec. (b)(4)(A)(v). Pub. L. 117–58, § 24105(a)(2)(C)(i), added cl. (v) and struck out former cl. (v) which read as follows: “purchase and distribute child restraints to low-income families, provided that not more than 5 percent of the funds received in a fiscal year are used for such purpose; and”.
+
+Subsec. (b)(4)(B). Pub. L. 117–58, § 24105(a)(2)(C)(ii), added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows: “A State that is eligible for funds under paragraph (3)(A) may use up to 100 percent of such funds for any project or activity eligible for funding under section 402.”
+
+Subsec. (c)(1). Pub. L. 117–58, § 24105(a)(3)(A)(i), struck out “of Transportation” before “shall award grants” in introductory provisions.
+
+Subsec. (c)(1)(D). Pub. L. 117–58, § 24105(a)(3)(A)(ii), substituted “States, including the National EMS Information System;” for “States; and”.
+
+Subsec. (c)(3). Pub. L. 117–58, § 24105(a)(3)(B)(i), substituted “A State shall not be eligible to receive a grant under this subsection for a fiscal year unless the State—” for “A State is not eligible for a grant under this subsection in a fiscal year unless the State demonstrates, to the satisfaction of the Secretary, that the State—” in introductory provisions.
+
+Subsec. (c)(3)(A). Pub. L. 117–58, § 24105(a)(3)(B)(i), (ii)(II), (iii)(II), substituted “has certified to the Secretary that the State—” for “has a functioning”, designated remainder of existing provisions as cl. (i), and redesignated subpars. (B) and (C) of par. (3) as cls. (ii) and (iii), respectively, of subpar. (A) and realigned margins.
+
+Subsec. (c)(3)(B). Pub. L. 117–58, § 24105(a)(3)(B)(iv), redesignated subpar. (D) as (B). Former subpar. (B) redesignated cl. (ii) of subpar. (A).
+
+Pub. L. 117–58, § 24105(a)(3)(B)(ii)(I), inserted “and” after semicolon at end.
+
+Subsec. (c)(3)(B)(vi). Pub. L. 117–58, § 24105(a)(3)(B)(v), substituted period for “; and” at end.
+
+Subsec. (c)(3)(C). Pub. L. 117–58, § 24105(a)(3)(B)(iii)(I), inserted “and” after semicolon at end.
+
+Subsec. (c)(3)(E). Pub. L. 117–58, § 24105(a)(3)(B)(vi), struck out subpar. (E) which read as follows: “has certified to the Secretary that an assessment of the State’s highway safety data and traffic records system was conducted or updated during the preceding 5 years.”
+
+Subsec. (c)(4). Pub. L. 117–58, § 24105(a)(3)(C), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: “Grant funds received by a State under this subsection shall be used for making data program improvements to core highway safety databases related to quantifiable, measurable progress in any of the 6 significant data program attributes set forth in paragraph (3)(D).”
+
+Subsec. (c)(6). Pub. L. 117–58, § 24105(a)(3)(D), added par. (6).
+
+Subsec. (d)(4)(B)(iii). Pub. L. 117–58, § 24105(a)(4)(A)(i)(I), added cl. (iii) and struck out former cl. (iii) which read as follows: “court support of high-visibility enforcement efforts, training and education of criminal justice professionals (including law enforcement, prosecutors, judges, and probation officers) to assist such professionals in handling impaired driving cases, hiring traffic safety resource prosecutors, hiring judicial outreach liaisons, and establishing driving while intoxicated courts;”.
+
+Subsec. (d)(4)(B)(v). Pub. L. 117–58, § 24105(a)(4)(A)(i)(II), added cl. (v) and struck out former cl. (v) which read as follows: “improving blood-alcohol concentration testing and reporting;”.
+
+Subsec. (d)(4)(B)(vi). Pub. L. 117–58, § 24105(a)(4)(A)(i)(III), substituted “conducting initial and continuing standardized field sobriety training, advanced roadside impaired driving evaluation training, law enforcement phlebotomy training, and” for “conducting standardized field sobriety training, advanced roadside impaired driving evaluation training, and”.
+
+Subsec. (d)(4)(B)(xi). Pub. L. 117–58, § 24105(a)(4)(A)(i)(IV)–(VI), added cl. (xi).
+
+Subsec. (d)(4)(C). Pub. L. 117–58, § 24105(a)(4)(A)(ii), designated first sentence as cl. (i), inserted heading, and substituted “Subject to clause (iii), low-range” for “Low-range”; designated second sentence as cl. (ii), inserted heading, and substituted “Subject to clause (iii), medium-range” for “Medium-range”; and added cl. (iii).
+
+Subsec. (d)(6)(A). Pub. L. 117–58, § 24105(a)(4)(B)(i), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “The Secretary shall make a separate grant under this subsection to each State that adopts and is enforcing a mandatory alcohol-ignition interlock law for all individuals convicted of driving under the influence of alcohol or of driving while intoxicated.”
+
+Subsec. (d)(6)(D). Pub. L. 117–58, § 24105(a)(4)(B)(ii), substituted “2022” for “2009”.
+
+Subsec. (d)(7)(A). Pub. L. 117–58, § 24105(a)(4)(C), inserted “or local” after “authorizes a State” in introductory provisions.
+
+Subsec. (e)(1). Pub. L. 117–58, § 24105(a)(5)(B), (C)(i), redesignated par. (9) as (1) and struck out “, the following definitions apply” after “In this subsection” in introductory provisions. Former par. (1) redesignated (2).
+
+Subsec. (e)(1)(B). Pub. L. 117–58, § 24105(a)(5)(C)(ii), added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows: “The term ‘personal wireless communications device’—
+
+“(i) means a device through which personal wireless services (as defined in section 332(c)(7)(C)(i) of the Communications Act of 1934 ([47 U.S.C. 332(c)(7)(C)(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section332/c/7/C/i&num=0&edition=prelim))) are transmitted; and
+
+“(ii) does not include a global navigation satellite system receiver used for positioning, emergency notification, or navigation purposes.”
+
+Subsec. (e)(1)(E), (F). Pub. L. 117–58, § 24105(a)(5)(C)(iii), added subpars. (E) and (F) and struck out former subpar. (E). Prior to amendment, text of subpar. (E) read as follows: “The term ‘texting’ means reading from or manually entering data into a personal wireless communications device, including doing so for the purpose of SMS texting, emailing, instant messaging, or engaging in any other form of electronic data retrieval or electronic data communication.”
+
+Subsec. (e)(2). Pub. L. 117–58, § 24105(a)(5)(B), (D), redesignated par. (1) as (2), struck it out, and added a new par. (2). Prior to amendment, text read as follows: “The Secretary shall award a grant under this subsection to any State that includes distracted driving awareness as part of the State’s driver’s license examination, and enacts and enforces a law that meets the requirements set forth in paragraphs (2) and (3).” Former par. (2) redesignated (4).
+
+Subsec. (e)(3). Pub. L. 117–58, § 24105(a)(5)(D), added par. (3).
+
+Subsec. (e)(4). Pub. L. 117–58, § 24105(a)(5)(B), (E)(i), redesignated par. (2) as (4) and substituted “of this” for “set forth in this” in introductory provisions. Former par. (4) redesignated (7).
+
+Subsec. (e)(4)(B). Pub. L. 117–58, § 24105(a)(5)(E)(ii)–(iv), redesignated subpar. (C) as (B), struck out “minimum” before “fine”, and struck out former subpar. (B) which read as follows: “makes violation of the law a primary offense;”.
+
+Subsec. (e)(4)(C), (D). Pub. L. 117–58, § 24105(a)(5)(E)(iii), (v), redesignated subpar. (D) as (C) and substituted “use a personal wireless communications device for texting” for “text through a personal wireless communication device”. Former subpar. (C) redesignated (B).
+
+Subsec. (e)(5). Pub. L. 117–58, § 24105(a)(5)(F), added par. (5).
+
+Subsec. (e)(6). Pub. L. 117–58, § 24105(a)(5)(A), (B), (G)(i), redesignated par. (3) as (6), substituted “of this” for “set forth in this” in introductory provisions, and struck out former par. (6) which related to additional grants for activities related to enforcement of distracted driving laws.
+
+Subsec. (e)(6)(A)(ii). Pub. L. 117–58, § 24105(a)(5)(G)(ii), struck out “set forth in subsection (g)(2)(B)” after “intermediate license stage”.
+
+Subsec. (e)(6)(B). Pub. L. 117–58, § 24105(a)(5)(G)(iii)–(v), redesignated subpar. (C) as (B), struck out “minimum” before “fine”, and struck out former subpar. (B) which read as follows: “makes violation of the law a primary offense;”.
+
+Subsec. (e)(6)(C). Pub. L. 117–58, § 24105(a)(5)(G)(vi), added subpar. (C). Former subpar. (C) redesignated (B).
+
+Subsec. (e)(6)(D). Pub. L. 117–58, § 24105(a)(5)(G)(iii), struck out subpar. (D) which read as follows: “does not provide for an exemption that specifically allows a driver to text through a personal wireless communication device while stopped in traffic.”
+
+Subsec. (e)(7). Pub. L. 117–58, § 24105(a)(5)(B), (H)(i), redesignated par. (4) as (7) and substituted “of paragraph (4), (5), or (6)” for “set forth in paragraph (2) or (3)” in introductory provisions. Former par. (7) redesignated (9).
+
+Subsec. (e)(7)(A). Pub. L. 117–58, § 24105(a)(5)(H)(ii), added subpar. (A) and struck out former subpar. (A) which read as follows: “a driver who uses a personal wireless communications device to contact emergency services;”.
+
+Subsec. (e)(7)(D) to (F). Pub. L. 117–58, § 24105(a)(5)(H)(iii)–(v), added subpars. (D) and (E) and redesignated former subpar. (D) as (F).
+
+Subsec. (e)(8). Pub. L. 117–58, § 24105(a)(5)(A), (B), redesignated par. (5) as (8) and struck out former par. (8). Prior to amendment, text of par. (8) read as follows: “The allocation of grant funds to a State under this subsection for a fiscal year shall be in proportion to the State’s apportionment under section 402 for fiscal year 2009.”
+
+Subsec. (e)(9). Pub. L. 117–58, § 24105(a)(5)(B), redesignated par. (7) as (9). Former par. (9) redesignated (1).
+
+Subsec. (f)(3)(A)(i). Pub. L. 117–58, § 24105(a)(6)(A), substituted “crash” for “accident”.
+
+Subsec. (f)(3)(C) to (E). Pub. L. 117–58, § 24105(a)(6)(B), (C), added subpar. (C) and redesignated former subpars. (C) and (D) as (D) and (E), respectively. Former subpar. (E) redesignated (F).
+
+Subsec. (f)(3)(F). Pub. L. 117–58, § 24105(a)(6)(B), (D), redesignated subpar. (E) as (F) and substituted “crashes” for “accidents” in heading. Former subpar. (F) redesignated (G).
+
+Subsec. (f)(3)(G). Pub. L. 117–58, § 24105(a)(6)(B), redesignated subpar. (F) as (G).
+
+Subsec. (g). Pub. L. 117–58, § 24105(a)(7), (8), redesignated subsec. (h) as (g) and struck out former subsec. (g) which authorized Secretary to award grants to States that adopt and implement graduated driver licensing laws and meet minimum requirements and to promulgate regulations necessary to implement minimum requirements.
+
+Subsec. (g)(1). Pub. L. 117–58, § 24105(a)(9)(B), added par. (1). Former par. (1) redesignated (2).
+
+Subsec. (g)(2). Pub. L. 117–58, § 24105(a)(9)(A), (C), redesignated par. (1) as (2) and substituted “nonmotorized road user fatalities involving a motor vehicle in transit on a trafficway” for “pedestrian and bicycle fatalities and injuries that result from crashes involving a motor vehicle”. Former par. (2) redesignated (3).
+
+Subsec. (g)(3). Pub. L. 117–58, § 24105(a)(9)(A), redesignated par. (2) as (3). Former par. (3) redesignated (4).
+
+Subsec. (g)(4). Pub. L. 117–58, § 24105(a)(9)(A), (D), redesignated par. (3) as (4) and substituted “nonmotorized road user” for “pedestrian and bicycle”. Former par. (4) redesignated (5).
+
+Subsec. (g)(5). Pub. L. 117–58, § 24105(a)(9)(A), (E), redesignated par. (4) as (5), struck it out, and added a new par. (5). Prior to amendment, par. related to use of grant funds received by a State with traffic laws applicable to pedestrian and bicycle safety. Former par. (5) redesignated (6).
+
+Subsec. (g)(6). Pub. L. 117–58, § 24105(a)(9)(A), redesignated par. (5) as (6).
+
+Subsecs. (h), (i). Pub. L. 117–58, § 24105(a)(10), added subsecs. (h) and (i). Former subsec. (h) redesignated (g).
+
 2015—Subsec. (a). Pub. L. 114–94, § 4005(a), amended subsec. (a) generally. Prior to amendment, text related to the general authority of the Secretary of Transportation to manage programs to address national priorities for reducing highway deaths and injuries.
 
 Subsec. (b)(4)(B). Pub. L. 114–94, § 4005(b), substituted “100 percent” for “75 percent”.
@@ -1688,6 +3149,9 @@ Subsec. (c). Pub. L. 109–59, § 2004(c), substituted “100 percent” for “
 
 Subsec. (d). Pub. L. 109–59, § 2002(e), struck out heading and text of subsec. (d). Text read as follows: “Funds authorized to be appropriated to carry out this section in a fiscal year shall be subject to a deduction not to exceed 5 percent for the necessary costs of administering the provisions of this section.”
 
+#### Effective Date of 2021 Amendment
+Pub. L. 117–58, div. B, title IV, § 24105(c), Nov. 15, 2021, 135 Stat. 806, provided that: “The amendments made by subsection (a) [amending this section] shall take effect with respect to any grant application or State highway safety plan submitted under chapter 4 of title 23, United States Code, for fiscal year 2024 or thereafter.”
+
 #### Effective Date of 2015 Amendment
 Except as otherwise provided, amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
@@ -1699,8 +3163,11 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 #### Effective Date of 2005 Amendment
 Amendment by Pub. L. 109–59 effective Oct. 1, 2005, see section 2022 of Pub. L. 109–59, set out as a note under [section 402 of this title](./chapter-004-highway-safety.md#section-402).
 
+#### Crash Data
+Pub. L. 117–58, div. B, title IV, § 24108, Nov. 15, 2021, 135 Stat. 807, provided that: “(a) In General.—Not later than 3 years after the date of enactment of this Act [Nov. 15, 2021], the Secretary [of Transportation] shall revise the crash data collection system to include the collection of crash report data elements that distinguish individual personal conveyance vehicles, such as electric scooters and bicycles, from other vehicles involved in a crash. “(b) Coordination.—In carrying out subsection (a), the Secretary may coordinate with States to update the Model Minimum Uniform Crash Criteria to provide guidance to States regarding the collection of information and data elements for the crash data collection system. “(c) Vulnerable Road Users.—“(1) Update.—Based on the information contained in the vulnerable road user safety assessments required by subsection (f) of [section 32302 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section32302&num=0&edition=prelim), United States Code (as added by section 24213(b)(2)), the Secretary shall modify existing crash data collection systems to include the collection of additional crash report data elements relating to vulnerable road user safety. “(2) Injury health data.—The Secretary shall coordinate with the Director of the Centers for Disease Control and Prevention to develop and implement a plan for States to combine highway crash data and injury health data to produce a national database of pedestrian injuries and fatalities, disaggregated by demographic characteristics. “(d) State Electronic Data Collection.—“(1) Definitions.—In this subsection:“(A) Electronic data transfer.—The term ‘electronic data transfer’ means a protocol for automated electronic transfer of State crash data to the National Highway Traffic Safety Administration. “(B) State.—The term ‘State’ means—“(i) each of the 50 States; “(ii) the District of Columbia; “(iii) the Commonwealth of Puerto Rico; “(iv) the United States Virgin Islands; “(v) Guam; “(vi) American Samoa; “(vii) the Commonwealth of the Northern Mariana Islands; and “(viii) the Secretary of the Interior, acting on behalf of an Indian Tribe. “(2) Establishment of program.—The Secretary shall establish a program under which the Secretary shall—“(A) provide grants for the modernization of State data collection systems to enable full electronic data transfer under paragraph (3); and “(B) upgrade the National Highway Traffic Safety Administration system to manage and support State electronic data transfers relating to crashes under paragraph (4). “(3) State grants.—“(A) In general.—The Secretary shall provide grants to States to upgrade and standardize State crash data systems to enable electronic data collection, intrastate data sharing, and electronic data transfers to the National Highway Traffic Safety Administration to increase the accuracy, timeliness, and accessibility of the data, including data relating to fatalities involving vulnerable road users. “(B) Eligibility.—A State shall be eligible to receive a grant under this paragraph if the State submits to the Secretary an application, at such time, in such manner, and containing such information as the Secretary may require, that includes a plan to implement full electronic data transfer to the National Highway Traffic Safety Administration by not later than 5 years after the date on which the grant is provided. “(C) Use of funds.—A grant provided under this paragraph may be used for the costs of—“(i) equipment to upgrade a statewide crash data repository; “(ii) adoption of electronic crash reporting by law enforcement agencies; and “(iii) increasing alignment of State crash data with the latest Model Minimum Uniform Crash Criteria. “(D) Federal share.—The Federal share of the cost of a project funded with a grant under this paragraph may be up to 80 percent. “(4) National highway traffic safety administration system upgrade.—The Secretary shall manage and support State electronic data transfers relating to vehicle crashes by—“(A) increasing the capacity of the National Highway Traffic Safety Administration system; and “(B) making State crash data accessible to the public. “(e) Crash Investigation Sampling System.—The Secretary may use funds made available to carry out this section to enhance the collection of crash data by upgrading the Crash Investigation Sampling System to include—“(1) additional program sites; “(2) an expanded scope that includes all crash types; and “(3) on-scene investigation protocols. “(f) Authorization of Appropriations.—There is authorized to be appropriated to the Secretary to carry out this section $150,000,000 for each of fiscal years 2022 through 2026, to remain available for a period of 3 fiscal years following the fiscal year for which the amounts are appropriated.”
+
 #### National Priority Safety Program Grant Eligibility
-Pub. L. 114–94, div. A, title IV, § 4010, Dec. 4, 2015, 129 Stat. 1511, provided that: “Not later than 60 days after the date on which the Secretary [of Transportation] awards grants under [section 405 of title 23](./chapter-004-highway-safety.md#section-405), United States Code, the Secretary shall make available on a publicly available Internet Web site of the Department of Transportation— “(1) an identification of—“(A) the States that were awarded grants under such section; “(B) the States that applied and were not awarded grants under such section; and “(C) the States that did not apply for a grant under such section; and “(2) a list of deficiencies that made a State ineligible for a grant under such section for each State under paragraph (1)(B).”
+Pub. L. 114–94, div. A, title IV, § 4010, Dec. 4, 2015, 129 Stat. 1511, as amended by Pub. L. 117–58, div. B, title IV, § 24105(b), Nov. 15, 2021, 135 Stat. 806, provided that: “Not later than 60 days after the date on which the Secretary [of Transportation] awards grants under [section 405 of title 23](./chapter-004-highway-safety.md#section-405), United States Code, the Secretary shall make available on a publicly available Internet Web site of the Department of Transportation— “(1) an identification of—“(A) the States that were awarded grants under such section; “(B) the States that applied and were not awarded grants under such section; and “(C) the States that did not apply for a grant under such section; and “(2) a list of all deficiencies that made a State ineligible for a grant under such section for each State under paragraph (1)(B).”
 
 #### Child Safety and Child Booster Seat Incentive Grants
 Pub. L. 109–59, title II, § 2011, Aug. 10, 2005, 119 Stat. 1538, as amended by Pub. L. 111–147, title IV, § 421(j)(1), Mar. 18, 2010, 124 Stat. 85; Pub. L. 112–30, title I, § 121(j)(1), Sept. 16, 2011, 125 Stat. 348, related to child safety and child booster seat incentive grants, prior to repeal by Pub. L. 112–141, div. C, title I, § 31109(h), July 6, 2012, 126 Stat. 757.
@@ -1709,57 +3176,44 @@ Pub. L. 109–59, title II, § 2011, Aug. 10, 2005, 119 Stat. 1538, as amended b
 Pub. L. 105–178, title II, § 2003(b), June 9, 1998, 112 Stat. 327, authorized the Secretary to make grants to States to implement child passenger protection programs, required reports from States and the Secretary regarding those programs, and authorized appropriations for fiscal years 2000 and 2001.
 
 
-<a id="section-406-to-408"></a>
-## § 406 to 408. Repealed. Pub. L. 112–141, div. C, title I, § 31109(b)–(d), July 6, 2012, 126 Stat. 756]
+<a id="section-406"></a>
+## § 406. General requirements for Federal assistance
+**(a) Definition of Funded Project.—** In this section, the term “funded project” means a project funded, in whole or in part, by a grant provided under section 402 or 405.
+
+**(b) Regulatory Authority.—** Each funded project shall be carried out in accordance with applicable regulations promulgated by the Secretary.
+
+**(c) State Matching Requirements.—** If a grant provided under this chapter requires any State to share in the cost of a funded project, the aggregate of the expenditures made by the State (including any political subdivision of the State) for highway safety activities during a fiscal year, exclusive of Federal funds, for carrying out the funded project (other than expenditures for planning or administration) shall be credited toward the non-Federal share of the cost of any other funded project (other than planning and administration) during that fiscal year, regardless of whether those expenditures were made in connection with the project.
+
+**(d) Grant Application and Deadline.—**
+
+(1) **Applications.—** — To be eligible to receive a grant under this chapter, a State shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+
+(2) **Deadline.—** — The Secretary shall establish a single deadline for the submission of applications under paragraph (1) to enable the provision of grants under this chapter early in each applicable fiscal year beginning after the date of submission.
+
+**(e) Distribution of Funds to States.—** Not later than 60 days after the later of the start of a fiscal year or the date of enactment of any appropriations Act making funds available to carry out this chapter for that fiscal year, the Secretary shall distribute to each State the portion of those funds to which the State is entitled for the applicable fiscal year.
 
 ### Statutory Notes
 
-Section 406, added Pub. L. 93–643, § 126(a), Jan. 4, 1975, 88 Stat. 2291; amended Pub. L. 94–280, title II, § 205, May 5, 1976, 90 Stat. 453; Pub. L. 95–599, title I, § 129(g), Nov. 6, 1978, 92 Stat. 2708; Pub. L. 109–59, title II, § 2005(a), Aug. 10, 2005, 119 Stat. 1524, related to safety belt performance grants.
-
-Section 407, added Pub. L. 95–599, title II, § 208(a), Nov. 6, 1978, 92 Stat. 2732, related to innovative project grants.
-
-Section 408, added Pub. L. 97–364, title I, § 101(a), Oct. 25, 1982, 96 Stat. 1738; amended Pub. L. 98–363, §§ 4, 7, July 17, 1984, 98 Stat. 436, 438; Pub. L. 100–17, title II, § 203(a), (b), Apr. 2, 1987, 101 Stat. 219; Pub. L. 109–59, title II, § 2006(a), Aug. 10, 2005, 119 Stat. 1527, related to State traffic safety information system improvements.
-
-#### Effective Date of Repeal
-Repeal effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).
-
-#### Repeal of Programs
-Pub. L. 112–141, div. C, title I, § 31109(a), July 6, 2012, 126 Stat. 756, provided that: “A repeal made by this section [repealing sections 406 to 408, 410, and 411 of this title and repealing provisions set out as notes under sections 402, 403, and 405 of this title] shall not affect amounts apportioned or allocated before the effective date of such repeal [Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101)], provided that such apportioned or allocated funds continue to be subject to the requirements to which such funds were subject under the repealed section as in effect on the day before the date of the repeal.”
+#### Prior Provisions
+A prior section 406, added Pub. L. 93–643, § 126(a), Jan. 4, 1975, 88 Stat. 2291; amended Pub. L. 94–280, title II, § 205, May 5, 1976, 90 Stat. 453; Pub. L. 95–599, title I, § 129(g), Nov. 6, 1978, 92 Stat. 2708; Pub. L. 109–59, title II, § 2005(a), Aug. 10, 2005, 119 Stat. 1524, related to safety belt performance grants, prior to repeal by Pub. L. 112–141, § 3(a), div. C, title I, § 31109(b), July 6, 2012, 126 Stat. 413, 756, effective Oct. 1, 2012.
 
 
-<a id="section-409"></a>
-## § 409. Discovery and admission as evidence of certain reports and surveys
+<a id="section-407"></a>
+## § 407. Discovery and admission as evidence of certain reports and surveys
 
 Notwithstanding any other provision of law, reports, surveys, schedules, lists, or data compiled or collected for the purpose of identifying, evaluating, or planning the safety enhancement of potential accident sites, hazardous roadway conditions, or railway-highway crossings, pursuant to sections 130, 144, and 148 of this title or for the purpose of developing any highway safety construction improvement project which may be implemented utilizing Federal-aid highway funds shall not be subject to discovery or admitted into evidence in a Federal or State court proceeding or considered for other purposes in any action for damages arising from any occurrence at a location mentioned or addressed in such reports, surveys, schedules, lists, or data.
 
 ### Statutory Notes
 
+#### Prior Provisions
+A prior section 407, added Pub. L. 95–599, title II, § 208(a), Nov. 6, 1978, 92 Stat. 2732, related to innovative project grants, prior to repeal by Pub. L. 112–141, § 3(a), div. C, title I, § 31109(c), July 6, 2012, 126 Stat. 413, 756, effective Oct. 1, 2012.
+
 #### Amendments
-2005—Pub. L. 109–59 substituted “148” for “152”.
-
-1995—Pub. L. 104–59 inserted “or collected” after “data compiled”.
-
-1991—Pub. L. 102–240 substituted “Discovery and admission” for “Admission” in section catchline and “subject to discovery or admitted into evidence in a Federal or State court proceeding” for “admitted into evidence in Federal or State court” in text.
-
-#### Effective Date of 1991 Amendment
-Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as a note under [section 104 of this title](./chapter-001-federal-aid-highways.md#section-104).
+2021—Pub. L. 117–58, which directed the amendment of this chapter by renumbering section 409 “and” section 407, was executed by renumbering section 409 as this section as if “and” had read “as”, to reflect the probable intent of Congress.
 
 
-<a id="section-410-411"></a>
-## § 410, 411. Repealed. Pub. L. 112–141, div. C, title I, § 31109(e), (f), July 6, 2012, 126 Stat. 757]
-
-### Statutory Notes
-
-Section 410, added Pub. L. 100–690, title IX, § 9002(a), Nov. 18, 1988, 102 Stat. 4521; amended Pub. L. 101–516, title III, § 336, Nov. 5, 1990, 104 Stat. 2186; Pub. L. 102–240, title II, § 2004(a), Dec. 18, 1991, 105 Stat. 2073; Pub. L. 102–388, title VI, §§ 601–606, Oct. 6, 1992, 106 Stat. 1569, 1570; Pub. L. 104–59, title III, § 324, Nov. 28, 1995, 109 Stat. 591; Pub. L. 105–18, title II, § 8003, June 12, 1997, 111 Stat. 195; Pub. L. 105–130, § 6(b), Dec. 1, 1997, 111 Stat. 2558; Pub. L. 105–178, title II, § 2004(a), June 9, 1998, 112 Stat. 328; Pub. L. 108–88, § 6(e)(1), Sept. 30, 2003, 117 Stat. 1120; Pub. L. 108–310, § 6(e)(1), Sept. 30, 2004, 118 Stat. 1152; Pub. L. 109–59, title II, § 2007(a), (b), Aug. 10, 2005, 119 Stat. 1529; Pub. L. 110–244, title III, § 303(c)(2), (3), June 6, 2008, 122 Stat. 1619; Pub. L. 111–147, title IV, § 421(f)(1), Mar. 18, 2010, 124 Stat. 85; Pub. L. 112–30, title I, § 121(f)(1), Sept. 16, 2011, 125 Stat. 347, related to alcohol-impaired driving countermeasures.
-
-Section 411, added Pub. L. 105–178, title II, § 2005(a), June 9, 1998, 112 Stat. 332; amended Pub. L. 110–244, title III, § 303(c)(4), June 6, 2008, 122 Stat. 1619, related to State highway safety data improvements.
-
-#### Effective Date of Repeal
-Repeal effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).
-
-
-<a id="section-412"></a>
-## § 412. Agency accountability
+<a id="section-408"></a>
+## § 408. Agency accountability
 **(a) Triennial State Management Reviews.—**
 
 (1) **In general.—** — Except as provided under paragraph (2), the Secretary shall conduct a review of each State highway safety program at least once every 3 years.
@@ -1810,18 +3264,32 @@ Repeal effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as
 
 ### Statutory Notes
 
-#### References in Text
-The date of enactment of this section, referred to in subsec. (d), is the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005.
+#### Prior Provisions
+A prior section 408, added Pub. L. 97–364, title I, § 101(a), Oct. 25, 1982, 96 Stat. 1738; amended Pub. L. 98–363, §§ 4, 7, July 17, 1984, 98 Stat. 436, 438; Pub. L. 100–17, title II, § 203(a), (b), Apr. 2, 1987, 101 Stat. 219; Pub. L. 109–59, title II, § 2006(a), Aug. 10, 2005, 119 Stat. 1527, related to State traffic safety information system improvements, prior to repeal by Pub. L. 112–141, § 3(a), div. C, title I, § 31109(d), July 6, 2012, 126 Stat. 413, 756, effective Oct. 1, 2012.
 
 #### Amendments
-2015—Subsec. (f). Pub. L. 114–94 added subsec. (f).
+2021—Pub. L. 117–58, which directed the amendment of this chapter by renumbering section 412 “and” section 408, was executed by renumbering section 412 as this section as if “and” had read “as”, to reflect the probable intent of Congress.
 
-2012—Subsec. (a). Pub. L. 112–141, § 31107(1), amended subsec. (a) generally. Prior to amendment, text read as follows: “At least once every 3 years the Secretary shall conduct a review of each State highway safety program. The review shall include a management evaluation of all grant programs funded under this chapter. The Secretary shall provide review-based recommendations on how each State could improve the management and oversight of its grant activities and may provide a management and oversight plan for such grant programs.”
 
-Subsec. (f). Pub. L. 112–141, § 31107(2), struck out subsec. (f) which related to GAO review.
+<a id="section-409"></a>
+## § 409. Renumbered § 407]
 
-#### Effective Date of 2015 Amendment
-Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
-#### Effective Date of 2012 Amendment
-Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).
+<a id="section-410-411"></a>
+## § 410, 411. Repealed. Pub. L. 112–141, div. C, title I, § 31109(e), (f), July 6, 2012, 126 Stat. 757]
+
+### Statutory Notes
+
+Section 410, added Pub. L. 100–690, title IX, § 9002(a), Nov. 18, 1988, 102 Stat. 4521; amended Pub. L. 101–516, title III, § 336, Nov. 5, 1990, 104 Stat. 2186; Pub. L. 102–240, title II, § 2004(a), Dec. 18, 1991, 105 Stat. 2073; Pub. L. 102–388, title VI, §§ 601–606, Oct. 6, 1992, 106 Stat. 1569, 1570; Pub. L. 104–59, title III, § 324, Nov. 28, 1995, 109 Stat. 591; Pub. L. 105–18, title II, § 8003, June 12, 1997, 111 Stat. 195; Pub. L. 105–130, § 6(b), Dec. 1, 1997, 111 Stat. 2558; Pub. L. 105–178, title II, § 2004(a), June 9, 1998, 112 Stat. 328; Pub. L. 108–88, § 6(e)(1), Sept. 30, 2003, 117 Stat. 1120; Pub. L. 108–310, § 6(e)(1), Sept. 30, 2004, 118 Stat. 1152; Pub. L. 109–59, title II, § 2007(a), (b), Aug. 10, 2005, 119 Stat. 1529; Pub. L. 110–244, title III, § 303(c)(2), (3), June 6, 2008, 122 Stat. 1619; Pub. L. 111–147, title IV, § 421(f)(1), Mar. 18, 2010, 124 Stat. 85; Pub. L. 112–30, title I, § 121(f)(1), Sept. 16, 2011, 125 Stat. 347, related to alcohol-impaired driving countermeasures.
+
+Section 411, added Pub. L. 105–178, title II, § 2005(a), June 9, 1998, 112 Stat. 332; amended Pub. L. 110–244, title III, § 303(c)(4), June 6, 2008, 122 Stat. 1619, related to State highway safety data improvements.
+
+#### Effective Date of Repeal
+Repeal effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).
+
+#### Repeal of Programs
+Pub. L. 112–141, div. C, title I, § 31109(a), July 6, 2012, 126 Stat. 756, provided that: “A repeal made by this section [repealing sections 406 to 408, 410, and 411 of this title and repealing provisions set out as notes under sections 402, 403, and 405 of this title] shall not affect amounts apportioned or allocated before the effective date of such repeal [Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101)], provided that such apportioned or allocated funds continue to be subject to the requirements to which such funds were subject under the repealed section as in effect on the day before the date of the repeal.”
+
+
+<a id="section-412"></a>
+## § 412. Renumbered § 408]

@@ -82,7 +82,7 @@ Harry S. Truman.
 
 (1) There is a Secretary of the Air Force, appointed from civilian life by the President, by and with the advice and consent of the Senate. The Secretary shall, to the greatest extent practicable, be appointed from among persons most highly qualified for the position by reason of background and experience, including persons with appropriate management or leadership experience. The Secretary is the head of the Department of the Air Force.
 
-(2) A person may not be appointed as Secretary of the Air Force within five years after relief from active duty as a commissioned officer of a regular component of an armed force.
+(2) A person may not be appointed as Secretary of the Air Force within seven years after relief from active duty as a commissioned officer of a regular component of an armed force.
 
 **(b)** Subject to the authority, direction, and control of the Secretary of Defense and subject to the provisions of chapter 6 of this title, the Secretary of the Air Force is responsible for, and has the authority necessary to conduct, all affairs of the Department of the Air Force, including the following functions:
 
@@ -143,7 +143,9 @@ Harry S. Truman.
 ### Statutory Notes
 
 #### Amendments
-2021—Subsec. (f). Pub. L. 116–283, § 923(b)(1)(A), inserted “and officers of the Space Force” after “Officers of the Air Force”.
+2021—Subsec. (a)(2). Pub. L. 117–81 substituted “seven” for “five”.
+
+Subsec. (f). Pub. L. 116–283, § 923(b)(1)(A), inserted “and officers of the Space Force” after “Officers of the Air Force”.
 
 Subsec. (g)(1). Pub. L. 116–283, § 923(b)(1)(B), inserted “, members of the Space Force,” after “members of the Air Force”.
 
@@ -155,14 +157,17 @@ Subsec. (g)(1). Pub. L. 116–283, § 923(b)(1)(B), inserted “, members of the
 
 1986—Subsec. (a)(2). Pub. L. 99–661 substituted “five years” for “10 years”.
 
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–81 applicable with respect to appointments made on or after Dec. 27, 2021, see section 901(g) of Pub. L. 117–81, set out as a note under [section 113 of this title](./chapter-002-department-of-defense.md#section-113).
+
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
-#### Order of Succession
-For order of succession in event of death, permanent disability, or resignation of Secretary of the Air Force, see Ex. Ord. No. 12909, Apr. 22, 1994, 59 F.R. 21909, listed in a table under [section 3345 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3345&num=0&edition=prelim), Government Organization and Employees.
-
 #### Rating Chains for System Program Managers
 Pub. L. 112–239, div. A, title III, § 323, Jan. 2, 2013, 126 Stat. 1696, provided that: “The Secretary of the Air Force, in managing system program management responsibilities for sustainment programs not assigned to a program executive officer or a direct reporting program manager, shall comply with the Department of Defense Instructions regarding assignment of program responsibility.”
+
+#### Order of Succession
+For order of succession in event of death, permanent disability, or resignation of Secretary of the Air Force, see Ex. Ord. No. 12909, Apr. 22, 1994, 59 F.R. 21909, listed in a table under [section 3345 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3345&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-9014"></a>
@@ -203,13 +208,15 @@ Pub. L. 112–239, div. A, title III, § 323, Jan. 2, 2013, 126 Stat. 1696, prov
 
   (G) Public affairs.
 
-(2) The Secretary of the Air Force shall establish or designate a single office or other entity within the Office of the Secretary of the Air Force to conduct each function specified in paragraph (1). No office or other entity may be established or designated within the Air Staff or the Office of the Chief of Space Operations to conduct any of the functions specified in paragraph (1).
+(2) Subject to paragraph (6), the Secretary of the Air Force shall establish or designate a single office or other entity within the Office of the Secretary of the Air Force to conduct each function specified in paragraph (1). No office or other entity may be established or designated within the Air Staff or the Office of the Chief of Space Operations to conduct any of the functions specified in paragraph (1).
 
 (3) The Secretary shall prescribe the relationship of each office or other entity established or designated under paragraph (2) to the Chief of Staff of the Air Force and the Air Staff, and to the Chief of Space Operations and the Office of the Chief of Space Operations, and shall ensure that each such office or entity provides the Chief of Staff and Chief of Space Operations such staff support as the Chief concerned considers necessary to perform the Chief’s duties and responsibilities.
 
 (4) The vesting in the Office of the Secretary of the Air Force of the responsibility for the conduct of a function specified in paragraph (1) does not preclude other elements of the executive part of the Department of the Air Force (including the Air Staff and the Office of the Chief of Space Operations) from providing advice or assistance to the Chief of Staff and the Chief of Space Operations or otherwise participating in that function within the executive part of the Department under the direction of the office assigned responsibility for that function in the Office of the Secretary of the Air Force.
 
 (5) The head of the office or other entity established or designated by the Secretary to conduct the auditing function shall have at least five years of professional experience in accounting or auditing. The position shall be considered to be a career reserved position as defined in [section 3132(a)(8) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3132/a/8&num=0&edition=prelim).
+
+(6) Notwithstanding [section 1702 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1702&num=0&edition=prelim), the Secretary of the Air Force may assign to the Assistant Secretary of the Air Force for Space Acquisition and Integration duties and authorities of the senior procurement executive that pertain to space systems and programs.
 
 **(d)**
 
@@ -242,11 +249,15 @@ Pub. L. 112–239, div. A, title III, § 323, Jan. 2, 2013, 126 Stat. 1696, prov
 
 Subsec. (c)(1). Pub. L. 116–283, § 923(b)(2)(B)(i), substituted “, the Air Staff, and the Office of the Chief of Space Operations” for “and the Air Staff”.
 
-Subsec. (c)(2). Pub. L. 116–283, § 923(b)(2)(B)(ii), inserted “or the Office of the Chief of Space Operations” after “the Air Staff”.
+Subsec. (c)(2). Pub. L. 117–81, § 905(b)(1)(A), substituted “Subject to paragraph (6), the Secretary of the Air Force shall”“Subject to paragraph (6), the Secretary of the Air Force shall” for “The Secretary of the Air Force shall”.
+
+Pub. L. 116–283, § 923(b)(2)(B)(ii), inserted “or the Office of the Chief of Space Operations” after “the Air Staff”.
 
 Subsec. (c)(3). Pub. L. 116–283, § 923(b)(2)(B)(iii), substituted “to the Chief of Staff of the Air Force and the Air Staff, and to the Chief of Space Operations and the Office of the Chief of Space Operations, and shall ensure that each such office or entity provides the Chief of Staff and Chief of Space Operations such staff support as the Chief concerned considers necessary to perform the Chief’s duties and responsibilities.” for “to the Chief of Staff and to the Air Staff and shall ensure that each such office or entity provides the Chief of Staff such staff support as the Chief of Staff considers necessary to perform his duties and responsibilities.”
 
 Subsec. (c)(4). Pub. L. 116–283, § 923(b)(2)(B)(iv), inserted “and the Office of the Chief of Space Operations” after “the Air Staff” and “and the Chief of Space Operations” after “Chief of Staff”.
+
+Subsec. (c)(6). Pub. L. 117–81, § 905(b)(1)(B), added par. (6).
 
 Subsec. (d)(1). Pub. L. 116–283, § 923(b)(2)(C)(i), substituted “, the Air Staff, and the Office of the Chief of Space Operations” for “and the Air Staff”.
 
@@ -346,11 +357,11 @@ For order of succession in event of death, permanent disability, or resignation 
 
   (B) Subject to the authority, direction, and control of the Secretary of the Air Force, the Assistant Secretary shall do as follows:
 
-    (i) Be responsible for all architecture and integration of the Air Force for space systems and programs, including in support of the Chief of Space Operations under [section 9082 of this title](./chapter-908-the-space-force.md#section-9082).
+    (i) Be responsible for and oversee all architecture and integration with respect to the acquisition of the space systems and programs of the armed forces, including in support of the Chief of Space Operations under [section 9082 of this title](./chapter-908-the-space-force.md#section-9082).
 
-    (ii) Act as the chair of the Space Force Acquisition Council under [section 9021 of this title](./chapter-903-department-of-the-air-force.md#section-9021).
+    (ii) Act as the chair of the Space Acquisition Council under [section 9021 of this title](./chapter-903-department-of-the-air-force.md#section-9021).
 
-    (iii) Advise the service acquisition executive of the Air Force with responsibility for space systems and programs (including for all major defense acquisition programs under chapter 144 of this title for space) on the acquisition of such systems and programs by the Air Force.
+    (iii) Advise the service acquisition executive of the Air Force with responsibility for space systems and programs (including for all major defense acquisition programs under chapter 144 11 See References in Text note below. of this title for space) on the acquisition of such systems and programs by the Air Force.
 
     (iv) Oversee and direct each of the following:
 
@@ -362,18 +373,26 @@ For order of succession in event of death, permanent disability, or resignation 
 
     (v) Advise and synchronize acquisition projects for all space systems and programs of the Air Force, including projects for space systems and programs responsibility for which is transferred to the Assistant Secretary pursuant to section 956(b)(3) of the United States Space Force Act.
 
-    (vi) Effective as of October 1, 2022, in accordance with section 957 of that Act, serve as the Service Acquisition Executive of the Department of the Air Force for Space Systems and Programs.
+    (vi) Effective as of the date specified in section 957(d) of such Act, and in accordance with such section 957, serve as the Service Acquisition Executive of the Department of the Air Force for Space Systems and Programs and discharge any senior procurement executive duties and authorities assigned by the Secretary of the Air Force pursuant to [section 9014(c)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9014/c/6&num=0&edition=prelim).
 
 ### Statutory Notes
 
 #### References in Text
+Chapter 144 of this title, referred to in subsec. (b)(6)(B)(iii), was repealed by Pub. L. 116–283, div. A, title XVIII, § 1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, in conjunction with the transfer and reorganization of acquisition provisions in this title by Pub. L. 116–283, div. A, title XVIII, Jan. 1, 2022, 134 Stat. 4149.
+
 Section 956(b)(3) of the United States Space Force Act and section 957 of that Act, referred to in subsec. (b)(6)(B)(v), (vi), are sections 956(b)(3) and 957, respectively, of subtitle D of title IX of div. A of Pub. L. 116–92, which are set out as notes under this section.
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 3013 of this title](./chapter-201-definitions.md#section-3013) prior to enactment of Pub. L. 99–433.
 
 #### Amendments
-2021—Subsec. (b)(6)(B)(iv)(III). Pub. L. 116–283 inserted “with respect to acquisition decisions” before period at end.
+2021—Subsec. (b)(6)(B)(i). Pub. L. 117–81, § 1602(b)(2), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “Be responsible for all architecture and integration of the Air Force for space systems and programs, including in support of the Chief of Space Operations under [section 9082 of this title](./chapter-908-the-space-force.md#section-9082).”
+
+Subsec. (b)(6)(B)(ii). Pub. L. 117–81, § 1602(a)(2), substituted “Space Force Acquisition Council” for “Space Force Acquisition Council”.
+
+Subsec. (b)(6)(B)(iv)(III). Pub. L. 116–283 inserted “with respect to acquisition decisions” before period at end.
+
+Subsec. (b)(6)(B)(vi). Pub. L. 117–81, § 905(a)(2)(B), (b)(2), substituted “Effective as of October 1, 2022, in accordance with section 957 of that Act,” for “Effective as of October 1, 2022, in accordance with section 957 of that Act,” and inserted “and discharge any senior procurement executive duties and authorities assigned by the Secretary of the Air Force pursuant to [section 9014(c)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9014/c/6&num=0&edition=prelim)” after “Space Systems and Programs”.
 
 2019—Subsec. (a). Pub. L. 116–92, § 956(b)(1)(A), substituted “five” for “four”.
 
@@ -415,10 +434,12 @@ Pub. L. 100–456, div. A, title VII, § 702(e)(2), Sept. 29, 1988, 102 Stat. 19
 Pub. L. 116–92, div. A, title IX, § 956(a), Dec. 20, 2019, 133 Stat. 1565, provided that: “(a) Redesignation of Principal Assistant for Space as Assistant Secretary for Space Acquisition and Integration.—“(1) In general.—The Principal Assistant to the Secretary of the Air Force for Space is hereby redesignated as the Assistant Secretary of the Air Force for Space Acquisition and Integration. “(2) References.—Any reference to the Principal Assistant to the Secretary of the Air Force for Space in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the Assistant Secretary of the Air Force for Space Acquisition and Integration.”
 
 #### Transfer of Acquisition Projects for Space Systems and Programs
-Pub. L. 116–92, div. A, title IX, § 956(b)(3), Dec. 20, 2019, 133 Stat. 1566, provided that: “Effective October 1, 2022, the Secretary of the Air Force shall transfer to the Assistant Secretary of the Air Force for Space Acquisition and Integration under paragraph (6) of [section 9016(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9016/b&num=0&edition=prelim), United States Code (as added by this subsection), responsibility for architecture and integration of any acquisition projects for space systems and programs of the Air Force that are under the oversight or direction of the Assistant Secretary of the Air Force for Acquisition as of September 30, 2022.”
+Pub. L. 116–92, div. A, title IX, § 956(b)(3), Dec. 20, 2019, 133 Stat. 1566, as amended by Pub. L. 117–81, div. A, title IX, § 905(a)(2)(A), title XVI, § 1602(b)(3), Dec. 27, 2021, 135 Stat. 1871, 2077, provided that: “Effective on the date specified in section 957(d), the Secretary of the Air Force shall transfer to the Assistant Secretary of the Air Force for Space Acquisition and Integration under paragraph (6) of [section 9016(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9016/b&num=0&edition=prelim), United States Code (as added by this subsection), responsibility for architecture and integration of any acquisition projects for space systems and programs of the Armed Forces that are under the oversight or direction of the Assistant Secretary of the Air Force for Acquisition as of the day before the date specified in section 957(d).”
+
+[Pub. L. 117–81, div. A, title XVI, § 1602(b)(3), Dec. 27, 2021, 135 Stat. 2077, which directed substitution of “of the Armed Forces” for “of the Air Force”, was executed by making the substitution after “space systems and programs” to reflect the probable intent of Congress.]
 
 #### Service Acquisition Executive of the Department of the Air Force for Space Systems and Programs
-Pub. L. 116–92, div. A, title IX, § 957, Dec. 20, 2019, 133 Stat. 1566, as amended by Pub. L. 116–283, div. A, title XVI, § 1605, Jan. 1, 2021, 134 Stat. 4044, provided that: “(a) In General.—Effective October 1, 2022, there shall be within the Department of the Air Force a Service Acquisition Executive of the Department of the Air Force for Space Systems and Programs. “(b) Service.—“(1) In general.—Effective as of October 1, 2022, and subject to paragraph (2), the individual serving as Assistant Secretary of the Air Force for Space Acquisition and Integration under paragraph (6) of [section 9016(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9016/b&num=0&edition=prelim), United States Code (as added by section 1832(b) [probably should be “section 956(b)”] of this Act), shall also serve as the Service Acquisition Executive for Space Systems and Programs. “(2) Incumbent.—The individual serving as Assistant Secretary of the Air Force for Space Acquisition and Integration as of October 1, 2022, may also serve as the Service Acquisition Executive for Space Systems and Programs pursuant to paragraph (1) only if appointed as the Service Acquisition Executive for Space Systems and Programs by the President, by and with the advice and consent of the Senate, pursuant to a nomination submitted to the Senate on or after that date. “(c) Authorities and Responsibilities.—“(1) In general.—The Service Acquisition Executive for Space Systems and Programs shall have within the Department of the Air Force all the authorities and responsibilities of a service acquisition executive under [section 1704 of title 10](./chapter-087-defense-acquisition-workforce.md#section-1704), United States Code, and other applicable law, for the Department of the Air Force with respect to space systems and programs. “(2) Separate sae within the air force.—The Service Acquisition Executive for Space Systems and Programs shall be in addition to the service acquisition executive in the Department of the Air Force for all acquisition matters of the Department of the Air Force other than with respect to space systems and programs. “(3) Guidance on relationship among saes.—Not later than October 1, 2022, and from time to time thereafter, the Secretary of the Air Force shall issue guidance for the Department of the Air Force on the authorities and responsibilities of the Service Acquisition Executive for Space Systems and Programs and the authorities and responsibilities of the service acquisition executive of the Department for all acquisition matters of the Department other than with respect to space systems and programs. “(4) Commercial satellite communications services.—“(A) Authority.—Beginning on the date specified in subparagraph (B), the Service Acquisition Executive for Space Systems and Programs shall be responsible for the procurement of commercial satellite communications services for the Department of Defense. “(B) Date specified.—The date specified in this subparagraph is the date that is 120 days after the date on which the Service Acquisition Executive for Space Systems and Programs submits to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a plan for delegating the authority under subparagraph (A) to a subordinate acquisition command within the Space Force. “(C) Responsibility during interim period.—During the period preceding the date specified in subparagraph (B), the Chief of Space Operations shall be responsible for the procurement of commercial satellite communications services for the Department of Defense.”
+Pub. L. 116–92, div. A, title IX, § 957, Dec. 20, 2019, 133 Stat. 1566, as amended by Pub. L. 116–283, div. A, title XVI, § 1605, Jan. 1, 2021, 134 Stat. 4044; Pub. L. 117–81, div. A, title IX, § 905(a)(1), title XVI, § 1607(a), Dec. 27, 2021, 135 Stat. 1871, 2079, provided that: “(a) In General.—Effective on the date specified in subsection (d), there shall be within the Department of the Air Force a Service Acquisition Executive of the Department of the Air Force for Space Systems and Programs. “(b) Service.—“(1) In general.—Effective as of the date specified in subsection (d) and subject to paragraph (2), the individual serving as Assistant Secretary of the Air Force for Space Acquisition and Integration under paragraph (6) of [section 9016(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9016/b&num=0&edition=prelim), United States Code (as added by section 1832(b) [probably should be “section 956(b)”] of this Act), shall also serve as the Service Acquisition Executive for Space Systems and Programs. “(2) Incumbent.—The individual serving as Assistant Secretary of the Air Force for Space Acquisition and Integration as of the date specified in subsection (d) may also serve as the Service Acquisition Executive for Space Systems and Programs pursuant to paragraph (1) only if appointed as the Service Acquisition Executive for Space Systems and Programs by the President, by and with the advice and consent of the Senate, pursuant to a nomination submitted to the Senate on or after that date. “(c) Authorities and Responsibilities.—“(1) In general.—The Service Acquisition Executive for Space Systems and Programs shall have within the Department of the Air Force all the authorities and responsibilities of a service acquisition executive under [section 1704 of title 10](./chapter-087-defense-acquisition-workforce.md#section-1704), United States Code, and other applicable law, for the Department of the Air Force with respect to space systems and programs. “(2) Separate sae within the air force.—The Service Acquisition Executive for Space Systems and Programs shall be in addition to the service acquisition executive in the Department of the Air Force for all acquisition matters of the Department of the Air Force other than with respect to space systems and programs. “(3) Guidance on relationship among saes.—Not later than the date specified in subsection (d), and from time to time thereafter, the Secretary of the Air Force shall issue guidance for the Department of the Air Force on the authorities and responsibilities of the Service Acquisition Executive for Space Systems and Programs and the authorities and responsibilities of the service acquisition executive of the Department for all acquisition matters of the Department other than with respect to space systems and programs. “(4) Commercial satellite communications services.—“(A) Authority.—Beginning on the date specified in subparagraph (B), the Service Acquisition Executive for Space Systems and Programs shall be responsible for the procurement of commercial satellite communications services for the Department of Defense. “(B) Date specified.—The date specified in this subparagraph is the date that is 120 days after the date on which the Service Acquisition Executive for Space Systems and Programs submits to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a plan for delegating the authority under subparagraph (A) to a subordinate acquisition command within the Space Force. “(C) Responsibility during interim period.—During the period preceding the date specified in subparagraph (B), the Chief of Space Operations shall be responsible for the procurement of commercial satellite communications services for the Department of Defense. “(5) Programs of record and commercial capabilities.—Prior to establishing a program of record, the Service Acquisition Executive for Space Systems and Programs shall determine whether existing or planned commercially available capabilities could meet all or a portion of the requirements for that proposed program. Not later than 30 days after the date on which the Service Acquisition Executive makes such a positive determination, the Service Acquisition Executive shall submit to the congressional defense committees a notification of the results of the determination. “(d) Date Specified.—The date specified in this subsection is a date determined by the Secretary of the Air Force that is not later than October 1, 2022.”
 
 
 <a id="section-9017"></a>
@@ -546,8 +567,8 @@ Pub. L. 116–283, div. A, title IX, § 923(f), Jan. 1, 2021, 134 Stat. 3820, pr
 
 
 <a id="section-9021"></a>
-## § 9021. Space Force Acquisition Council
-**(a) Establishment.—** There is in the Office of the Secretary of the Air Force a council to be known as the “Space Force Acquisition Council” (in this section referred to as the “Council”).
+## § 9021. Space Acquisition Council
+**(a) Establishment.—** There is in the Office of the Secretary of the Air Force a council to be known as the “Space Acquisition Council” (in this section referred to as the “Council”).
 
 **(b) Members.—** The members of the Council are as follows:
 
@@ -563,7 +584,31 @@ Pub. L. 116–283, div. A, title IX, § 923(f), Jan. 1, 2021, 134 Stat. 3820, pr
 
 (6) The Commander of the United States Space Command.
 
-**(c) Duties.—** The Council shall oversee, direct, and manage acquisition and integration of the Air Force for space systems and programs in order to ensure integration across the national security space enterprise.
+**(c) Duties.—**
+
+(1) The Council shall oversee, direct, and manage acquisition and integration space systems and programs of the armed forces in order to ensure integration across the national security space enterprise.
+
+(2)
+
+  (A) The Council shall promptly—
+
+    (i) review any determination made by the Assistant Secretary of the Air Force for Space Acquisition and Integration with respect to architecture for the space systems and programs of the armed forces under [section 9016(b)(6)(B)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9016/b/6/B/i&num=0&edition=prelim), including the requirements for operating such space systems or programs; and
+
+    (ii) either—
+
+      (I) if the Council finds such a determination to be warranted, certify the determination; or
+
+      (II) if the Council finds such a determination not to be warranted, decline to certify the determination.
+
+  (B) Not later than 10 business days after the date on which the Council makes a finding with respect to a certification under subparagraph (A), the Council shall submit to the congressional defense committees a notification of the finding, including a detailed justification for the finding.
+
+  (C) Except as provided in subparagraph (D), the Assistant Secretary of the Air Force for Space Acquisition and Integration may not take any action to implement a determination referred to in subparagraph (A)(i) until 30 days has elapsed following the date on which the Council submits the notification under subparagraph (B).
+
+  (D)
+
+    (i) The Secretary of Defense may waive subparagraph (C) in the event of an urgent national security requirement.
+
+    (ii) The Secretary of Defense shall submit to the congressional defense committees a notification of any waiver granted under clause (i), including a justification for the waiver.
 
 **(d) Meetings.—** The Council shall meet not less frequently than monthly.
 
@@ -577,6 +622,18 @@ A prior section 9021 was renumbered [section 9021a of this title](./chapter-903-
 Another prior section 9021 was renumbered [section 9371 of this title](./chapter-947-civilian-employees.md#section-9371).
 
 Another prior section 9021, act Aug. 10, 1956, ch. 1041, 70A Stat. 558, related to appointments in professional and scientific service, prior to repeal by Pub. L. 85–861, § 36B(30), Sept. 2, 1958, 72 Stat. 1571.
+
+#### Amendments
+2021—Pub. L. 117–81, § 1602(a)(1)(A), struck out “Force” before “Acquisition” in section catchline.
+
+Subsec. (a). Pub. L. 117–81, § 1602(a)(1)(B), substituted “ ‘Space Acquisition Council’ ” for “ ‘Space Force Acquisition Council’ ”.
+
+Subsec. (c). Pub. L. 117–81, § 1602(b)(1), designated existing provisions as par. (1) and added par. (2).
+
+Pub. L. 117–81, § 1602(a)(1)(C), substituted “space systems and programs of the armed forces” for “of the Air Force for space systems and programs”.
+
+#### References
+Pub. L. 117–81, div. A, title XVI, § 1602(a)(4), Dec. 27, 2021, 135 Stat. 2076, provided that: “Any reference to the Space Force Acquisition Council in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the Space Acquisition Council.”
 
 
 <a id="section-9021a"></a>

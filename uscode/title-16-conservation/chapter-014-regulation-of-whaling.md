@@ -51,14 +51,14 @@ Act Aug. 9, 1950, ch. 653, § 1, 64 Stat. 421, provided: “That this Act [enact
 #### Separability
 Act Aug. 9, 1950, ch. 653, § 15, 64 Stat. 425, provided that: “If any provision of this Act [this subchapter] or the application of such provisions to any circumstances or persons shall be held invalid, the validity of the remainder of the Act and the applicability of such provision to other circumstances or persons shall not be affected thereby.”
 
-#### Transfer of Functions
-In subsec. (l), “Secretary of Commerce” substituted for “Secretary of the Interior” in view of: creation of National Oceanic and Atmospheric Administration in Department of Commerce and Office of Administrator of such Administration; abolition of Bureau of Commercial Fisheries in Department of the Interior and Office of Director of such Bureau; transfers of functions, including functions formerly vested by law in Secretary of the Interior or Department of the Interior which were administered through Bureau of Commercial Fisheries or were primarily related to such Bureau, exclusive of certain enumerated functions with respect to Great Lakes fishery research, Missouri River Reservoir research, Gulf Breeze Biological Laboratory, and Trans-Alaska pipeline investigations; and transfer of marine sport fish program of Bureau of Sport Fisheries and Wildlife by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Wildlife Sanctuary for Humpback Whales in West Indies
 Pub. L. 99–630, Nov. 7, 1986, 100 Stat. 3514, provided: “That the President shall, in concert with the International Whaling Commission, seek a treaty or other appropriate international agreement establishing a wildlife sanctuary for humpback whales in the West Indies, in the area encompassing the Turks Islands, Mouchoir Passage, Silver Bank Passage, Navidad Bank, and such additional areas in the West Indies as may be necessary to ensure the protection of the breeding grounds of the humpback whales.”
 
 #### Moratorium on Commercial Killing of Whales
 Pub. L. 96–60, title IV, § 405, Aug. 15, 1979, 93 Stat. 403, provided that: “(a) The Congress finds and declares that—“(1) whales are a unique marine resource of great esthetic and scientific interest to mankind and are a vital part of the marine ecosystem; “(2) the protection and conservation of whales are of particular interest to citizens of the United States; “(3) in 1971 the Congress adopted resolutions requesting the Secretary of State to negotiate a ten-year moratorium on the commercial killing of whales; “(4) the United States, which effectively banned all commercial whaling by United States nationals in December 1971, has sought an international moratorium on the commercial killing of whales since 1972; “(5) the United Nations Conference on the Human Environment adopted a resolution in 1972 calling for a ten-year moratorium on commercial whaling; “(6) the United Nations Governing Council for Environment Programs in 1973 and 1974 confirmed such call for a ten-year moratorium, and the Council continues to support ongoing efforts relating to whale conservation; “(7) the International Convention for the Regulation of Whaling, signed in 1946, as implemented by the International Whaling Commission, is not providing adequate protection to whales; “(8) the data-gathering structure established under the International Whaling Commission has not provided all the available data necessary for sound whale conservation; “(9) there is strong evidence that the members of the International Whaling Commission continue to import, in some instances in increasing amounts, whale products from countries not members of the Commission; and “(10) defects in the implementation of the International Convention for the Regulation of Whaling by the International Whaling Commission allow harvests of the declining whale species. “(b) The Congress urges—“(1) the International Whaling Commission to agree to a moratorium on the commercial killing of whales; and “(2) Brazil, Denmark, Iceland, Japan, Norway, the Soviet Union, and the Republic of Korea, as parties to the International Convention for the Regulation of Whaling and which still engage in commercial whaling, and Chile, the People’s Republic of China, Peru, Portugal, the Democratic Republic of Korea, Spain, and Taiwan, as countries which are not parties to the Convention and which still engage in commercial whaling, to recognize and comply voluntarily with a moratorium on the commercial killing of whales, as endorsed by the United Nations Conference on the Human Environment and the United Nations Governing Council for Environment Programs.”
+
+#### Transfer of Functions
+In subsec. (l), “Secretary of Commerce” substituted for “Secretary of the Interior” in view of: creation of National Oceanic and Atmospheric Administration in Department of Commerce and Office of Administrator of such Administration; abolition of Bureau of Commercial Fisheries in Department of the Interior and Office of Director of such Bureau; transfers of functions, including functions formerly vested by law in Secretary of the Interior or Department of the Interior which were administered through Bureau of Commercial Fisheries or were primarily related to such Bureau, exclusive of certain enumerated functions with respect to Great Lakes fishery research, Missouri River Reservoir research, Gulf Breeze Biological Laboratory, and Trans-Alaska pipeline investigations; and transfer of marine sport fish program of Bureau of Sport Fisheries and Wildlife by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-916a"></a>
@@ -71,11 +71,11 @@ Pub. L. 96–60, title IV, § 405, Aug. 15, 1979, 93 Stat. 403, provided that: �
 
 ### Statutory Notes
 
-#### Transfer of Functions
-Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, see note set out under [section 916 of this title](./chapter-014-regulation-of-whaling.md#section-916).
-
 #### Alternate United States Commissioners
 Secretary of State authorized to designate Alternate United States Commissioners, see sections 2672a and 2672b of Title 22, Foreign Relations and Intercourse.
+
+#### Transfer of Functions
+Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, see note set out under [section 916 of this title](./chapter-014-regulation-of-whaling.md#section-916).
 
 
 <a id="section-916b"></a>
@@ -97,11 +97,11 @@ Transfer of functions to Secretary of Commerce from Secretary of the Interior by
 
 ### Statutory Notes
 
-#### Transfer of Functions
-Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, see note set out under [section 916 of this title](./chapter-014-regulation-of-whaling.md#section-916).
-
 #### Emergency Assistance for Subsistence Whale Hunters
 Pub. L. 107–372, title IV, § 403, Dec. 19, 2002, 116 Stat. 3102, provided that: “Notwithstanding any provision of law, the use of a vessel to tow a whale taken in a traditional subsistence whale hunt permitted by Federal law and conducted in waters off the coast of Alaska is authorized, if such towing is performed upon a request for emergency assistance made by a subsistence whale hunting organization formally recognized by an agency of the United States Government, or made by a member of such an organization, to prevent the loss of a whale.”
+
+#### Transfer of Functions
+Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, see note set out under [section 916 of this title](./chapter-014-regulation-of-whaling.md#section-916).
 
 
 <a id="section-916d"></a>
@@ -128,11 +128,11 @@ Pub. L. 107–372, title IV, § 403, Dec. 19, 2002, 116 Stat. 3102, provided tha
 
 ### Statutory Notes
 
-#### Transfer of Functions
-Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, see note set out under [section 916 of this title](./chapter-014-regulation-of-whaling.md#section-916).
-
 #### Refund of License Fees Paid Under Subchapter I of This Chapter
 Act Aug. 9, 1950, ch. 653, § 16, 64 Stat. 425, provided in part that the Secretary of the Interior is authorized to refund any part of a license fee paid under former [section 908 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section908&num=0&edition=prelim) that is in excess of the license fee required under this section.
+
+#### Transfer of Functions
+Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, see note set out under [section 916 of this title](./chapter-014-regulation-of-whaling.md#section-916).
 
 
 <a id="section-916e"></a>
@@ -171,9 +171,10 @@ Transfer of functions to Secretary of Commerce from Secretary of the Interior by
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
-In subsec. (a), “Department of Commerce” substituted for “United States Fish and Wildlife Service of the Department of the Interior” and “Secretary of Commerce” for “Secretary of the Interior”, see note set out under [section 916 of this title](./chapter-014-regulation-of-whaling.md#section-916).
-
 United States Fish and Wildlife Service, consisting of Bureau of Commercial Fisheries and Bureau of Sport Fisheries and Wildlife, succeeded and replaced Fish and Wildlife Service of Department of the Interior under provisions of Fish and Wildlife Act of 1956, as originally provided in section 742b(a) and (d) of this title.
+
+#### Transfer of Functions
+In subsec. (a), “Department of Commerce” substituted for “United States Fish and Wildlife Service of the Department of the Interior” and “Secretary of Commerce” for “Secretary of the Interior”, see note set out under [section 916 of this title](./chapter-014-regulation-of-whaling.md#section-916).
 
 
 <a id="section-916h"></a>

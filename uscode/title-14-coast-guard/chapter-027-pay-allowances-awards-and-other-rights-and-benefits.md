@@ -709,9 +709,12 @@ The Secretary may grant compensatory absence from duty to military personnel of 
 <a id="section-2764"></a>
 ## § 2764. Monetary allowance for transportation of household effects
 
-The transportation and reimbursement authorized by subsection (b) of [section 476 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section476&num=0&edition=prelim) shall be available hereafter to pay a monetary allowance in place of such transportation to a member who, under regulations prescribed by the Secretary, participates in a program designated by the Secretary in which his baggage and household effects are moved by a privately owned or rental vehicle. This allowance shall not be limited to reimbursement for actual expenses and may be paid in advance of the transportation of the baggage and household effects. The allowance shall, however, be in an amount that will result in savings to the Government when the total cost of the movement of baggage and household effects is compared with the cost that otherwise would have been incurred under subsection (b) of [section 476 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section476&num=0&edition=prelim).
+The transportation and reimbursement authorized by subsection (b) of section 476 11 See References in Text note below. of title 37 shall be available hereafter to pay a monetary allowance in place of such transportation to a member who, under regulations prescribed by the Secretary, participates in a program designated by the Secretary in which his baggage and household effects are moved by a privately owned or rental vehicle. This allowance shall not be limited to reimbursement for actual expenses and may be paid in advance of the transportation of the baggage and household effects. The allowance shall, however, be in an amount that will result in savings to the Government when the total cost of the movement of baggage and household effects is compared with the cost that otherwise would have been incurred under subsection (b) of [section 476 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section476&num=0&edition=prelim).
 
 ### Statutory Notes
+
+#### References in Text
+[Section 476 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section476&num=0&edition=prelim), referred to in text, was repealed by Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767.
 
 #### Amendments
 2018—Pub. L. 115–282 renumbered [section 512 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section512&num=0&edition=prelim) as this section.

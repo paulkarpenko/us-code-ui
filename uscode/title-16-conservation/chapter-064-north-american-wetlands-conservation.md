@@ -304,7 +304,7 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 Section is comprised of section 7 of Pub. L. 101–233. Subsec. (a) of section 7 of Pub. L. 101–233 amended sections 669b and 669c of this title and enacted provisions set out as a note under [section 669b of this title](./chapter-5b-wildlife-restoration.md#section-669b).
 
 #### Amendments
-2020—Subsec. (c). Pub. L. 116–188 substituted “not to exceed $60,000,000 for each of fiscal years 2021 through 2025.” for “not to exceed—” and pars. (1) to (5) authorizing appropriations of $55,000,000, $60,000,000, $65,000,000, and $70,000,000 for fiscal years 2003 through 2006, respectively, and $75,000,000 for each of fiscal years 2008 through 2012.
+2020—Subsec. (c). Pub. L. 116–188 substituted “not to exceed $60,000,000 for each of fiscal years 2021 through 2025.” for “not to exceed—” and pars. (1) to (5), authorizing appropriations for fiscal years 2003 through 2006 and fiscal years 2008 through 2012.
 
 2006—Subsec. (c)(5). Pub. L. 109–322 substituted “each of fiscal years 2008 through 2012” for “fiscal year 2007”.
 

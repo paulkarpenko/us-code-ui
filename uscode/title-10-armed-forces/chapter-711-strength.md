@@ -2,7 +2,7 @@
 title: 10
 chapter: '711'
 heading: STRENGTH
-section_count: 2
+section_count: 3
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -21,7 +21,7 @@ source: >-
 ### Statutory Notes
 
 #### Prior Provisions
-Prior sections 7101 to 7104 were renumbered sections 8591 to 8594 of this title, respectively.
+A prior section 7101 was renumbered [section 8591 of this title](./chapter-859-professional-military-education-schools.md#section-8591).
 
 #### Amendments
 2018—Pub. L. 115–232 renumbered [section 3201 of this title](./chapter-221-planning-and-solicitation-generally.md#section-3201) as this section.
@@ -33,6 +33,36 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Assistance in Accomplishing Requirement
 Pub. L. 104–106, div. A, title V, § 505(b), Feb. 10, 1996, 110 Stat. 296, as amended by Pub. L. 115–232, div. A, title VIII, § 809(b)(5), Aug. 13, 2018, 132 Stat. 1840, provided that: “The Secretary of Defense shall provide to the Army sufficient personnel and financial resources to enable the Army to meet the requirement specified in [section 7101 of title 10](./chapter-711-strength.md#section-7101), United States Code, as added by subsection (a).”
+
+
+<a id="section-7102"></a>
+## § 7102. Congressional notification of significant Army force structure changes
+**(a) Notification Required.—** Except as provided in subsection (c), the Secretary of the Army shall submit to the congressional defense committees written notification of any decision to make a significant change to Army force structure prior to implementing or announcing such change.
+
+**(b) Contents.—** A notification required under subsection (a) shall include each of the following:
+
+(1) The justification for the planned change.
+
+(2) A description of the details of the planned change and timing for implementation.
+
+(3) A description of the operational implications of the planned change.
+
+(4) The estimated costs of such change.
+
+**(c) Exception.—** The notification requirement under subsection (a) shall not apply if the Secretary of Defense certifies to the congressional defense committees in advance that the planned Army force structure change must be implemented immediately for reasons of military urgency.
+
+**(d) Definition of Significant Change to Army Force Structure.—** In this section, the term “significant change to Army force structure” means—
+
+(1) a change in the number, type, or component of brigade-level organizations or higher-echelon headquarters;
+
+(2) a change in the number or component of theater-level capabilities, such as a multi-domain task force, Terminal High Altitude Area Defense, long range fires unit, or headquarters; or
+
+(3) a permanent or temporary activation or inactivation of an experimental unit or brigade-size or higher task force.
+
+### Statutory Notes
+
+#### Prior Provisions
+Prior sections 7102 to 7104 were renumbered sections 8592 to 8594 of this title, respectively.
 
 
 <a id="section-7110"></a>
